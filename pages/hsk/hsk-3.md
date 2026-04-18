@@ -1,0 +1,1380 @@
+# HSK Level 3
+
+Source: ivankra/hsk30 (vocabulary, traditional forms, pinyin, POS); krmanik/HSK-3.0 (characters, grammar). Based on 《国际中文教育中文水平等级标准》GF 0025—2021 (Ministry of Education PRC, 2021). Fetched April 2026.
+
+Counts: 300 characters · 973 vocabulary words · 81 grammar points
+
+---
+
+## Characters
+
+One character per line. When traditional form differs from simplified, shown as `simplified / traditional`.
+
+- 按
+- 把
+- 搬
+- 保
+- 被
+- 币
+- 标 / 標
+- 并 / 並
+- 播
+- 补 / 補
+- 布
+- 步
+- 材
+- 采 / 採
+- 彩
+- 曾
+- 察
+- 产 / 產
+- 厂 / 廠
+- 朝
+- 吵
+- 衬
+- 城
+- 程
+- 持
+- 充
+- 初
+- 除
+- 础
+- 传 / 傳
+- 创 / 創
+- 此
+- 村
+- 存
+- 达
+- 代
+- 待
+- 刀
+- 导
+- 底
+- 调 / 調
+- 订 / 訂
+- 断 / 斷
+- 顿 / 頓
+- 烦 / 煩
+- 反
+- 范
+- 防
+- 访
+- 啡
+- 费 / 費
+- 丰
+- 否
+- 夫
+- 福
+- 父
+- 付
+- 负 / 負
+- 富
+- 概
+- 赶 / 趕
+- 敢
+- 格
+- 各
+- 根
+- 功
+- 姑
+- 古
+- 挂 / 掛
+- 怪
+- 管
+- 光
+- 规
+- 哈
+- 害
+- 何
+- 互
+- 华
+- 化
+- 环 / 環
+- 婚
+- 积 / 積
+- 基
+- 及
+- 极 / 極
+- 集
+- 纪
+- 技
+- 济
+- 继 / 繼
+- 价 / 價
+- 架
+- 坚
+- 简
+- 建
+- 将 / 將
+- 蕉
+- 较 / 較
+- 解
+- 界
+- 金
+- 仅 / 僅
+- 尽 / 儘
+- 紧 / 緊
+- 精
+- 景
+- 警
+- 境
+- 旧 / 舊
+- 救
+- 具
+- 剧 / 劇
+- 据 / 據
+- 决
+- 绝 / 絕
+- 咖
+- 恐
+- 苦
+- 裤
+- 况
+- 困
+- 浪
+- 类 / 類
+- 李
+- 历
+- 立
+- 丽
+- 连 / 連
+- 联
+- 烈
+- 领 / 領
+- 另
+- 龙 / 龍
+- 录 / 錄
+- 乱 / 亂
+- 落
+- 麻
+- 冒
+- 媒
+- 每
+- 美
+- 迷
+- 民
+- 命
+- 某
+- 母
+- 木
+- 内 / 內
+- 念
+- 娘
+- 农
+- 暖
+- 拍
+- 牌
+- 派
+- 判
+- 胖
+- 配
+- 批
+- 皮
+- 啤
+- 品
+- 评 / 評
+- 苹
+- 破
+- 齐 / 齊
+- 奇
+- 器
+- 强 / 強
+- 桥 / 橋
+- 巧
+- 切
+- 亲 / 親
+- 庆
+- 区 / 區
+- 缺
+- 裙
+- 群
+- 任
+- 仍
+- 容
+- 赛 / 賽
+- 散
+- 沙
+- 衫
+- 善
+- 伤 / 傷
+- 设 / 設
+- 社
+- 深
+- 神
+- 升
+- 胜 / 勝
+- 失
+- 石
+- 始
+- 世
+- 式
+- 似
+- 势
+- 首
+- 输 / 輸
+- 属 / 屬
+- 术
+- 束
+- 双 / 雙
+- 死
+- 速
+- 台
+- 谈 / 談
+- 汤 / 湯
+- 糖
+- 甜
+- 跳
+- 痛
+- 突
+- 土
+- 团 / 團
+- 退
+- 望
+- 危
+- 围 / 圍
+- 伟
+- 卫
+- 握
+- 屋
+- 武
+- 舞
+- 误 / 誤
+- 希
+- 戏 / 戲
+- 显 / 顯
+- 险 / 險
+- 线 / 線
+- 乡 / 鄉
+- 香
+- 箱
+- 象
+- 消
+- 效
+- 血
+- 形
+- 幸
+- 性
+- 修
+- 需
+- 续 / 續
+- 宣
+- 训 / 訓
+- 压 / 壓
+- 烟 / 煙
+- 演
+- 验 / 驗
+- 羊
+- 义
+- 艺
+- 议 / 議
+- 易
+- 营
+- 赢 / 贏
+- 泳
+- 优 / 優
+- 邮
+- 预
+- 员
+- 约 / 約
+- 杂 / 雜
+- 造
+- 责
+- 增
+- 展
+- 张 / 張
+- 章
+- 争 / 爭
+- 整
+- 证 / 證
+- 支
+- 汁
+- 值
+- 职
+- 止
+- 指
+- 至
+- 志
+- 制 / 製
+- 终
+- 种 / 種
+- 众
+- 猪 / 豬
+- 注
+- 祝
+- 抓
+- 专
+- 转 / 轉
+- 状
+- 追
+- 资
+- 总 / 總
+- 足
+- 族
+
+---
+
+## Vocabulary
+
+One word per line, in source order. Format: `simplified — pinyin — POS — English gloss`. When traditional form differs from simplified, shown as `simplified / traditional`. Items marked `[gloss needed]` are lower-frequency entries requiring specialist verification.
+
+- 爱心 — àixīn — N — compassion, kindness, care for others
+- 安排 — ānpái — V/N — to arrange, to plan; arrangement
+- 安装 — ānzhuāng — V — to install, to erect, to fix
+- 按 — àn — V/Prep — to press, to push, to leave aside or shelve
+- 按照 — ànzhào — Prep — according to, in accordance with
+- 把 — bǎ — Prep — MW for things with handles; disposal particle
+- 把 — bǎ — M — MW for things with handles; disposal particle
+- 把握 — bǎwò — V/N — to grasp; confidence, certainty
+- 白 — bái — Adv — white; blank
+- 白菜 — báicài — N — Chinese cabbage, esp. napa cabbage (Brassica rapa , sometimes used to refer to bok choy (Brassica rapa, CL:棵[ke1]
+- 班级 / 班級 — bānjí — N — class, grade
+- 搬 — bān — V — to move (i.e. relocate oneself), to move (sth relatively heavy or bulky), to shift
+- 搬家 — bānjiā — to move house; to relocate, to remove (sth)
+- 板 — bǎn — N — board, plank, plate
+- 办理 / 辦理 — bànlǐ — V — to handle, to process
+- 保 — bǎo — V — Bulgaria (abbr. for 保加利亞|保加利亚[Bao3 jia1 li4 ya4])
+- 保安 — bǎo'ān — N — to ensure public security, to ensure safety (for workers engaged in productio, public security
+- 保持 — bǎochí — V — to maintain, to keep
+- 保存 — bǎocún — V — to conserve; to preserve; to keep; to store; (comp
+- 保护 / 保護 — bǎohù — V — to protect; protection
+- 保留 — bǎoliú — V — to keep, to retain, to have reservations (about sth)
+- 保险 — bǎoxiǎn — Adj/N — insurance, to insure, safe
+- 保证 / 保證 — bǎozhèng — V/N — to guarantee; guarantee
+- 报 — bào — N — to report; to inform; to announce, to respond; to reply, to sign up for; to register for (abbr. for 報名|报名[b
+- 报到 / 報到 — bàodào — to report for duty, to check in, to register
+- 报道 — bàodào — V/N — to report (news), report, CL:篇[pian1],份[fen4]
+- 报告 / 報告 — bàogào — V/N — report; to report
+- 背 — bēi — V — to carry on back; to recite from memory
+- 北部 — běibù — N — northern part
+- 背 — bèi — N — to carry on back; to recite from memory
+- 背后 — bèihòu — N — behind, at the back, in the rear
+- 被 — bèi — Prep — by (passive marker); to suffer
+- 被子 — bèizi — N — blanket; quilt, CL:條|条[tiao2],床[chuang2]
+- 本来 / 本來 — běnlái — Adj/Adv — originally; actually
+- 本领 — běnlǐng — N — skill, ability, capability
+- 本事 — běnshi — N — source material, original story
+- 比较 / 比較 — bǐjiào — Adv/V — to compare; relatively, fairly
+- 比例 — bǐlì — N — proportion, scale
+- 比赛 — bǐsài — V/N — competition (sports etc), match, CL:場|场[chang3],次[ci4]
+- 必然 — bìrán — Adj — inevitable, certain, necessity
+- 必要 — bìyào — Adj/N — necessary, essential
+- 变化 — biànhuà — V/N — (intransitive) to change; to vary, change; variation
+- 变为 / 變為 — biànwéi — to change into
+- 标题 — biāotí — N — title, heading, headline
+- 标准 — biāozhǔn — N/Adj — standard; norm; criterion, (adjective) standard, good; correct; conforming to a standard
+- 表达 / 表達 — biǎodá — V — to express, to convey; expression
+- 表格 — biǎogé — N — form, table (to fill in)
+- 表面 — biǎomiàn — N — surface, face, outside
+- 表明 — biǎomíng — V — to make clear, to make known, to state clearly
+- 表现 / 表現 — biǎoxiàn — V/N — to perform, to show; behavior
+- 表演 — biǎoyǎn — V/N — play, show, performance
+- 并 / 並 — bìng — Adv/Conj — and; simultaneously; not at all
+- 并且 / 並且 — bìngqiě — Conj — and, moreover, furthermore
+- 播出 — bōchū — to broadcast, to air (a TV program etc)
+- 播放 — bōfàng — V — to broadcast; to transmit (by radio or TV)
+- 不必 — bùbì — Adv — need not, does not have to, not necessarily
+- 不断 / 不斷 — bùduàn — V/Adv — continuously, unceasingly
+- 不论 — bùlùn — Conj — whatever, no matter what (who, how etc), regardless of
+- 补 — bǔ — V — to repair, to patch, to mend
+- 补充 / 補充 — bǔchōng — V/N — to supplement, to replenish; supplement
+- 不安 — bù'ān — Adj — unpeaceful, unstable, uneasy
+- 不得不 — bùdébù — have no choice but to
+- 不光 — bùguāng — Adv/Conj — not the only one, not only
+- 不仅 / 不僅 — bùjǐn — Conj — not only
+- 布 — bù — N — variant of 布[bu4], to announce, to spread
+- 步 — bù — N/M — step, pace
+- 部 — bù — N/M — ministry, department, section
+- 部门 — bùmén — N — department, branch, section
+- 部长 — bùzhǎng — N — head of a (government etc) department, section chief, section head
+- 才能 — cáinéng — N — talent, ability, capacity
+- 采取 / 採取 — cǎiqǔ — V — to adopt (measures), to take (action)
+- 采用 — cǎiyòng — V — to adopt, to employ, to use
+- 彩色 — cǎisè — N — color, multicolored
+- 曾经 / 曾經 — céngjīng — Adv — once, formerly, in the past
+- 产生 — chǎnshēng — V — to arise; to come into being; to come about, to give rise to; to bring into being; to bring abo
+- 长城 — Chángchéng — N — the Great Wall
+- 长处 / 長處 — chángchù — N — strong point, advantage
+- 长期 / 長期 — chángqī — N — long-term
+- 厂 — chǎng — N — factory, yard, depot
+- 场合 — chǎnghé — N — situation, occasion, context
+- 场所 — chǎngsuǒ — N — location, place
+- 超级 — chāojí — Adj — super-, ultra-, hyper-
+- 朝 — cháo — Prep/V — abbr. for 朝鮮|朝鲜[Chao2 xian3] Korea
+- 吵 — chǎo — Adj/V — noisy; to quarrel
+- 吵架 — chǎojià — to quarrel, to have a row, quarrel
+- 衬衫 — chènshān — N — shirt, blouse, CL:件[jian4]
+- 衬衣 — chènyī — N — shirt, CL:件[jian4]
+- 称为 / 稱為 — chēngwéi — to be called, to be known as
+- 成功 — chénggōng — V/Adj — Chenggong or Chengkung town in Taitung County 臺東縣|
+- 成果 — chéngguǒ — N — result, achievement, fruit (of work)
+- 成就 — chéngjiù — N/V — accomplishment, success, achievement
+- 成立 — chénglì — V — to establish, to set up, to be tenable
+- 成熟 — chéngshú — Adj — mature; ripe, to mature; to ripen, Taiwan pr. [cheng2shou2]
+- 成员 — chéngyuán — N — member
+- 成长 — chéngzhǎng — V — to mature, to grow, growth
+- 城 — chéng — N — city walls, city, town
+- 城市 — chéngshì — N — city, town
+- 程度 — chéngdù — N — degree; level; extent
+- 持续 — chíxù — V — to continue, to persist, to last
+- 充满 — chōngmǎn — V — full of, brimming with, very full
+- 重 — chóng — Adv — heavy; important
+- 初 — chū — Adv — (bound form) at first; initially, (bound form) first; early, (bound form) (in lunar calendar dates, before nume
+- 初（初一） — chū (chūyī) — Prefix — [gloss needed]
+- 初步 — chūbù — Adj — initial, preliminary, tentative
+- 初级 — chūjí — Adj — junior, primary
+- 初中 — chūzhōng — N — junior high school (abbr. for 初級中學|初级中学[chu1 ji2 z
+- 除了 — chúle — Prep — except for, apart from; in addition to
+- 处理 — chǔlǐ — V/N — to handle; to deal with, to punish, to treat sth by a special process; to process
+- 传 — chuán — V — to pass on, to spread, to transmit
+- 传播 — chuánbō — V — to disseminate; to propagate; to spread
+- 传来 / 傳來 — chuánlái — (of a sound) to come through, to be heard, (of news) to arrive
+- 传说 — chuánshuō — V/N — legend; folk tale, to repeat from mouth to mouth; they say that...
+- 创新 / 創新 — chuàngxīn — V/N — to innovate; innovation
+- 创业 — chuàngyè — V — to begin an undertaking; to start an enterprise, entrepreneurship
+- 创造 — chuàngzào — V/N — to create, to bring about, to produce
+- 创作 — chuàngzuò — V/N — to create; to produce; to write, a creative work; a creation
+- 从来 — cónglái — Adv — always, at all times, never (if used in negative sentence)
+- 从前 — cóngqián — N — previously, formerly, once upon a time
+- 从事 / 從事 — cóngshì — V — to engage in, to work in
+- 村 — cūn — N — village, (dialect) to scold, rustic; boorish
+- 存 — cún — V — to exist, to deposit, to store
+- 存在 — cúnzài — V — to exist; existence
+- 错误 / 錯誤 — cuòwù — Adj/N — mistake, error; wrong
+- 达到 / 達到 — dádào — to reach, to achieve, to attain
+- 打破 — dǎpò — to break, to smash; to break (a record)
+- 打听 — dǎting — V — to ask about, to make some inquiries, to ask around
+- 大概 — dàgài — Adj/Adv — approximately, probably
+- 大使馆 — dàshǐguǎn — N — embassy, CL:座[zuo4],個|个[ge4]
+- 大约 / 大約 — dàyuē — Adv — approximately, about
+- 大夫 — dàifu — N — doctor; physician
+- 代 — dài — V/N — to be a substitute for; to act on behalf of; to re, generation; dynasty; age; period; (historical) era
+- 代表 — dàibiǎo — N/V — to represent; representative
+- 代表团 — dàibiǎotuán — N — delegation, CL:個|个[ge4]
+- 带动 — dàidòng — V — to spur; to provide impetus; to drive
+- 带领 — dàilǐng — V — to guide, to lead
+- 单元 — dānyuán — N — unit (forming an entity), element, (in a residential building) entrance or staircase
+- 当初 — dāngchū — N — at that time, originally
+- 当地 / 當地 — dāngdì — N — local, in that place
+- 当然 — dāngrán — Adj/Adv — only natural, as it should be, certainly
+- 当中 / 當中 — dāngzhōng — N — among, in the middle of
+- 刀 — dāo — N — surname Dao
+- 导演 — dǎoyǎn — V/N — to direct, director (film etc)
+- 到达 — dàodá — V — to reach; to arrive
+- 到底 — dàodǐ — Adv — finally, in the end, when all is said and done
+- 得分 — défēn — V/N — to score a point (in a competition, test etc), score; rating; grade
+- 等待 — děngdài — V — to wait; to wait for
+- 底下 — dǐxia — N — the location below sth, afterwards
+- 地区 / 地區 — dìqū — N — region, area, district
+- 电视剧 — diànshìjù — N — TV series, TV drama, CL:部[bu4]
+- 电视台 / 電視臺 — diànshìtái — N — TV station
+- 电台 — diàntái — N — transmitter-receiver, broadcasting station, radio station
+- 电子邮件 / 電子郵件 — diànzǐ yóujiàn — [gloss needed]
+- 调 — diào — V — to transfer, to move (troops or cadres), to investigate
+- 调查 / 調查 — diàochá — V/N — to investigate; survey
+- 订 — dìng — V — to agree, to conclude, to draw up
+- 定期 — dìngqī — V/Adj — regular, periodic
+- 东部 — dōngbù — N — the east, eastern part
+- 动力 / 動力 — dònglì — N — driving force, motivation; power
+- 动人 — dòngrén — Adj — touching, moving
+- 读者 — dúzhě — N — reader
+- 短处 — duǎnchù — N — shortcoming, defect, fault
+- 短裤 — duǎnkù — N — short pants, shorts
+- 短期 — duǎnqī — N — short-term
+- 断 — duàn — V — to break, to snap, to cut off
+- 队员 — duìyuán — N — team member
+- 对待 / 對待 — duìdài — V — to treat, to deal with
+- 对方 — duìfāng — N — the other person; the other side; the other party
+- 对手 — duìshǒu — N — opponent, rival, competitor
+- 对象 / 對象 — duìxiàng — N — object, target; partner (romantic)
+- 顿 — dùn — M — to stop, to pause, to arrange
+- 发表 — fābiǎo — V — to issue, to publish
+- 发出 — fāchū — V — to issue (an order, decree etc); to send out; to d, to produce (a sound); to let out (a laugh)
+- 发达 / 發達 — fādá — Adj — developed, advanced; to develop
+- 发动 — fādòng — V — to start, to launch, to unleash
+- 发明 — fāmíng — V/N — to invent, an invention, CL:個|个[ge4]
+- 发生 — fāshēng — V — to happen; to occur; to take place; to break out
+- 发送 — fāsòng — V — to transmit, to dispatch, to issue (an official document or credential)
+- 发言 — fāyán — V/N — to make a speech, statement, utterance
+- 发展 / 發展 — fāzhǎn — V/N — to develop; development
+- 反对 / 反對 — fǎnduì — V — to oppose; opposition
+- 反复 — fǎnfù — Adv/N — variant of 反覆|反复[fan3 fu4]
+- 反应 — fǎnyìng — V/N — to react, to respond, reaction
+- 反正 — fǎnzhèng — Adv — anyway, in any case, to come over from the enemy's side
+- 范围 / 範圍 — fànwéi — N — scope, range, extent
+- 方式 — fāngshì — N — way; method; manner; mode; pattern (of behavior et, CL:種|种[zhong3]
+- 防 — fáng — V — to protect, to defend, to guard against
+- 防止 — fángzhǐ — V — to prevent, to guard against
+- 房东 — fángdōng — N — landlord
+- 房屋 — fángwū — N — house, building, CL:所[suo3],套[tao4]
+- 房租 — fángzū — N — rent for a room or house
+- 访问 — fǎngwèn — V — to visit; to call on (a person or place), (computing) to visit (a website); to access (a net, (Tw) to interview (e.g. for a report or feature st
+- 放到 — fàngdào — [gloss needed]
+- 飞行 — fēixíng — V — (of planes etc) to fly, flying, flight
+- 费 — fèi — V/N — surname Fei
+- 费用 — fèiyong — N — cost, expenditure, expense
+- 分别 — fēnbié — V/Adv — to part; to leave each other, to distinguish; to tell apart, difference; distinction
+- 分配 — fēnpèi — V — to distribute, to assign, to allocate
+- 分组 / 分組 — fēn zǔ — [gloss needed]
+- 丰富 / 豐富 — fēngfù — Adj — rich, abundant; to enrich
+- 风险 / 風險 — fēngxiǎn — N — risk, danger
+- 否定 — fǒudìng — V/Adj — to negate, to deny, to reject
+- 否认 — fǒurèn — V — to declare to be untrue, to deny
+- 服装 — fúzhuāng — N — dress, clothing, costume
+- 福 — fú — N — surname Fu, abbr. for Fujian province 福建省[Fu2 jian4 Sheng3]
+- 父母 — fùmǔ — N — father and mother; parents
+- 父亲 — fùqīn — N — father, also pr. [fu4 qin5], CL:個|个[ge4]
+- 付 — fù — V — surname Fu
+- 负责 / 負責 — fùzé — V/Adj — to be responsible; responsible
+- 复印 — fùyìn — V — to photocopy, to duplicate a document
+- 复杂 / 複雜 — fùzá — Adj — complex, complicated
+- 富 — fù — Adj — surname Fu
+- 改进 — gǎijìn — V — to improve; to make better, improvement
+- 改造 — gǎizào — V — to transform, to reform, to remodel
+- 概念 — gàiniàn — N — concept, notion
+- 赶 — gǎn — V — to overtake; to catch up with, to hurry; to rush, to try to catch (the bus etc)
+- 赶到 / 趕到 — gǎndào — to hurry (to some place)
+- 赶紧 — gǎnjǐn — Adv — hurriedly, without delay
+- 赶快 — gǎnkuài — Adv — quickly; at once
+- 敢 — gǎn — V — to dare, daring, (polite) may I venture
+- 感冒 — gǎnmào — N/V — to catch cold, (common) cold, CL:場|场[chang2],次[ci4]
+- 感情 — gǎnqíng — N — emotion; sentiment, affection; feelings between two persons
+- 感受 — gǎnshòu — N/V — to feel, to experience; feeling
+- 干吗 — gànmá — Pron — variant of 幹嘛|干嘛[gan4 ma2]
+- 高速 — gāosù — Adj — high speed, expressway (abbr. for 高速公路[gao1 su4 gong1 lu4])
+- 高速公路 — gāosù gōnglù — [gloss needed]
+- 告别 / 告別 — gàobié — to leave; to part from, to bid farewell to; to say goodbye to
+- 歌迷 — gēmí — N — fan of a singer
+- 歌声 — gēshēng — N — singing voice, fig. original voice of a poet
+- 歌手 — gēshǒu — N — singer
+- 个人 / 個人 — gèrén — N — individual, personal
+- 个性 — gèxìng — N — individuality, personality
+- 各 — gè — Pron/Adv — each, every, various
+- 各地 — gèdì — N — in all parts of (a country), various regions
+- 各位 — gèwèi — Pron — everybody, all (guests, colleagues etc), all of you
+- 各种 — gèzhǒng — Pron — every kind of; all kinds of; various
+- 各自 — gèzì — Pron — each, respective
+- 根本 — gēnběn — Adv/Adj/N — fundamental, basic; at all, simply
+- 更加 — gèngjiā — Adv — even more, still more
+- 工厂 — gōngchǎng — N — factory, CL:家[jia1],座[zuo4]
+- 工程师 — gōngchéngshī — N — engineer, CL:個|个[ge4],位[wei4],名[ming2]
+- 工夫 — gōngfu — N — (old) laborer
+- 工具 — gōngjù — N — tool, instrument, utensil
+- 工业 — gōngyè — N — industry
+- 工资 — gōngzī — N — wages; pay, CL:份[fen4]
+- 公布 — gōngbù — V — variant of 公布[gong1 bu4]
+- 公共 — gōnggòng — Adj — public
+- 公开 / 公開 — gōngkāi — Adj/V — open, public; to make public
+- 公民 — gōngmín — N — citizen
+- 公务员 — gōngwùyuán — N — civil servant; public servant
+- 功夫 — gōngfu — N — skill, art, kung fu
+- 功课 — gōngkè — N — homework, assignment, task
+- 功能 — gōngnéng — N — function, capability
+- 共同 — gòngtóng — Adj — common, joint, jointly
+- 共有 — gòngyǒu — V — in total there are ..., to own jointly
+- 姑娘 — gūniang — N — girl, young woman, young lady
+- 古 — gǔ — Adj — surname Gu
+- 古代 — gǔdài — N — ancient times
+- 故乡 — gùxiāng — N — home, homeland, native place
+- 挂 — guà — V — to hang; to suspend (from a hook etc), to hang up (the phone), (of a line) to be dead
+- 关系 — guānxì — N/V — relation, relationship, to concern
+- 关注 / 關注 — guānzhù — V — to pay attention to, to be concerned about
+- 观察 / 觀察 — guānchá — V — to observe; observation
+- 观看 — guānkàn — V — to watch; to view
+- 观念 — guānniàn — N — notion, thought, concept
+- 观众 — guānzhòng — N — spectators; audience; visitors (to an exhibition e
+- 管 — guǎn — V — variant of 管[guan3]
+- 管理 — guǎnlǐ — V — to manage; management
+- 光 — guāng — Adv/N/Adj — light; ray (CL:道[dao4]), bright; shiny, only; merely
+- 光明 — guāngmíng — Adj/N — light, radiance, (fig.) bright (prospects etc)
+- 广播 — guǎngbō — V/N — broadcast, CL:個|个[ge4], broadcasting
+- 广大 — guǎngdà — Adj — (of an area) vast or extensive, large-scale, widespread
+- 规定 / 規定 — guīdìng — V/N — regulation, rule; to stipulate
+- 规范 / 規範 — guīfàn — Adj/N/V — standard, norm; to regulate
+- 国内 / 國內 — guó nèi — domestic, within the country
+- 国庆 — guóqìng — N — National Day
+- 果然 — guǒrán — Adv — really, sure enough, as expected
+- 果汁 — guǒzhī — N — fruit juice
+- 过程 / 過程 — guòchéng — N — process, procedure
+- 过去 / 過去 — guòqù — N — the past; to pass by, to go over
+- 哈哈 — hāhā — Phonetic — (onom.) laughing out loud
+- 海关 / 海關 — hǎiguān — N — customs (border)
+- 害怕 — hàipà — to be afraid, to fear
+- 行 — háng — M — OK, alright; capable; to walk
+- 好好 — hǎohǎo — Adj/Adv — well; carefully; nicely; properly
+- 好奇 — hàoqí — Adj — inquisitive, curious, inquisitiveness
+- 合 — hé — V — to close, to join, to fit
+- 合法 — héfǎ — Adj — legal, lawful
+- 合格 — hégé — Adj — to meet the standard required, qualified, eligible (voter etc)
+- 合理 — hélǐ — Adj — rational, reasonable
+- 合作 — hézuò — V — to cooperate; cooperation
+- 和平 — hépíng — N — peace, peaceful
+- 红茶 — hóngchá — N — black tea, CL:杯[bei1],壺|壶[hu2]
+- 红酒 — hóngjiǔ — N — red wine
+- 后果 / 後果 — hòuguǒ — N — consequence, result
+- 后面 — hòumiàn — N — the back; the rear; the last bit, behind; near the end; at the back, later; afterwards
+- 后年 — hòunián — N — the year after next
+- 互联网 — hùliánwǎng — N — Internet
+- 互相 — hùxiāng — Adv — each other, mutually
+- 划船 — huáchuán — V — to row a boat, rowing; boating, small boat
+- 华人 — huárén — N — ethnic Chinese person or people
+- 化（现代化） / 化（現代化） — huà (xiàndàihuà) — Suffix — [gloss needed]
+- 话剧 — huàjù — N — stage play, modern drama, CL:臺|台[tai2],部[bu4]
+- 话题 — huàtí — N — subject (of a talk or conversation), topic
+- 欢乐 — huānlè — Adj — gaiety, gladness, glee
+- 环 — huán — N — surname Huan
+- 环保 — huánbǎo — N/Adj — environmental protection, environmentally friendly, abbr. for 環境保護|环境保护[huan2 jing4 bao3 hu4]
+- 环境 / 環境 — huánjìng — N — environment, surroundings
+- 会议 — huìyì — N — meeting, conference, CL:場|场[chang3],屆|届[jie4]
+- 会员 — huìyuán — N — member
+- 活 — huó — Adj/V — to live, alive, living
+- 火 — huǒ — N — surname Huo
+- 机器 — jīqì — N — machine, CL:臺|台[tai2],部[bu4],個|个[ge4]
+- 积极 — jījí — Adj — active, energetic, vigorous
+- 基本 — jīběn — Adj — basic, fundamental; basically
+- 基本上 — jīběnshàng — Adv — basically, on the whole
+- 基础 / 基礎 — jīchǔ — N — foundation, base
+- 及时 — jíshí — Adj — timely; at the right time, promptly; without delay
+- …极了 / …極了 — …jí le — [gloss needed]
+- 集体 — jítǐ — N — collective (decision), joint (effort), a group
+- 集中 — jízhōng — V/Adj — to concentrate, to centralize, to focus
+- 计算 — jìsuàn — V — to calculate; to compute, to consider; to think over, to plot; to scheme
+- 记录 — jìlù — N/V — to record, record (written account), note-taker
+- 记者 — jìzhě — N — reporter; journalist, CL:個|个[ge4]
+- 纪录 — jìlù — N — variant of 記錄|记录[ji4 lu4] (but in Taiwan, not for 
+- 纪念 — jìniàn — V/N — to commemorate; to honor the memory of, memento; keepsake; souvenir
+- 技术 / 技術 — jìshù — N — technology, technique, skill
+- 继续 — jìxù — V — to continue; to proceed with; to go on with
+- 加工 — jiāgōng — to process, processing, working (of machinery)
+- 加快 — jiākuài — V — to accelerate, to speed up
+- 加强 / 加強 — jiāqiáng — V — to strengthen, to reinforce
+- 家具 — jiājù — N — furniture, CL:件[jian4],套[tao4]
+- 家属 — jiāshǔ — N — family member, (family) dependent
+- 家乡 — jiāxiāng — N — hometown, native place, CL:個|个[ge4]
+- 价格 / 價格 — jiàgé — N — price
+- 价钱 — jiàqián — N — price
+- 价值 / 價值 — jiàzhí — N — value, worth
+- 架 — jià — M/N/V — to support, frame, rack
+- 坚持 / 堅持 — jiānchí — V — to persist, to insist on
+- 坚决 / 堅決 — jiānjué — Adj — resolute, determined
+- 坚强 / 堅強 — jiānqiáng — Adj — strong, firm, indomitable
+- 简单 / 簡單 — jiǎndān — Adj — simple, uncomplicated
+- 简直 — jiǎnzhí — Adv — simply; really
+- 建 — jiàn — V — to establish, to found, to set up
+- 建成 — jiànchéng — to establish, to build
+- 建立 — jiànlì — V — to establish, to set up
+- 建设 / 建設 — jiànshè — V/N — to build, to construct; construction
+- 建议 / 建議 — jiànyì — V/N — to suggest; suggestion
+- 将近 — jiāngjìn — Adv — almost, nearly, close to
+- 将来 — jiānglái — N — in the future, future, the future
+- 交费 — jiāofèi — V — to pay a fee
+- 交警 — jiāojǐng — N — traffic police (abbr. for 交通警察[jiao1 tong1 jing3 c
+- 交流 — jiāoliú — V/N — to exchange, to communicate; exchange
+- 交往 — jiāowǎng — V — to associate with; social intercourse
+- 交易 — jiāoyì — N — to deal; to trade; to transact, transaction; deal, CL:筆|笔[bi3]
+- 叫 — jiào — Prep — to be called; to call; to yell
+- 较 — jiào — Adv — (bound form) to compare, (literary) to dispute, compared to
+- 教材 — jiàocái — N — teaching material, CL:本[ben3]
+- 教练 — jiàoliàn — N — to coach; to train, instructor; sports coach; trainer (CL:位[wei4],名[mi
+- 结实 — jiēshi — Adj — to bear fruit
+- 接待 — jiēdài — V — to receive; to entertain; to host (guests, visitor
+- 接近 — jiējìn — V — to approach; to get close to
+- 节约 / 節約 — jiéyuē — V — to save, to economize
+- 结合 / 結合 — jiéhé — V — to combine, to integrate
+- 结婚 / 結婚 — jiéhūn — to marry; to get married
+- 结束 — jiéshù — V — termination, to finish, to end
+- 解决 — jiějué — V — to solve; to resolve; to settle (a problem), to eliminate; to wipe out (an enemy, bandits etc)
+- 解开 / 解開 — jiěkāi — to untie, to undo, to solve (a mystery)
+- 金 — jīn — N — surname Jin, surname Kim (Korean), Jurchen Jin dynasty (1115–1234)
+- 金牌 — jīnpái — N — gold medal, CL:枚[mei2]
+- 仅 — jǐn — Adv — barely, only, merely
+- 仅仅 — jǐnjǐn — Adv — barely, only, merely
+- 尽量 — jǐnliàng — Adv — as much as possible, to the greatest extent
+- 紧 — jǐn — Adj — tight, strict, close at hand
+- 紧急 — jǐnjí — Adj — urgent, emergency
+- 紧张 / 緊張 — jǐnzhāng — Adj — nervous, tense; in short supply
+- 进步 / 進步 — jìnbù — V/Adj — progress; to make progress
+- 进一步 / 進一步 — jìnyībù — Adv — further, go a step further
+- 进展 / 進展 — jìnzhǎn — V — progress; to make progress
+- 近期 — jìnqī — N — near in time, in the near future, very soon
+- 京剧 — jīngjù — N — Beijing opera, CL:場|场[chang3],齣|出[chu1]
+- 经济 / 經濟 — jīngjì — N/Adj — economy; economical
+- 经历 / 經歷 — jīnglì — V/N — to experience; experience
+- 经验 — jīngyàn — N — experience, to go through; to experience
+- 经营 — jīngyíng — V — to engage in (business etc); to run; to operate
+- 精彩 — jīngcǎi — Adj — wonderful, brilliant, splendid
+- 精神 — jīngshén — N — spirit, mind, consciousness
+- 精神 — jīngshen — Adj/N — spirit, mind, consciousness
+- 景色 — jǐngsè — N — scenery; landscape; view
+- 警察 — jǐngchá — N — police; police officer
+- 静 — jìng — Adj/V — still, calm, quiet
+- 久 — jiǔ — Adj — (of a period of time) long
+- 旧 — jiù — Adj — old, opposite: new 新, former
+- 救 — jiù — V — variant of 救[jiu4]
+- 就是 — jiùshì — Conj — exactly; precisely, only; simply; just, (used correlatively with 也[ye3]) even; even if
+- 就业 / 就業 — jiùyè — to get a job, employment
+- 举办 — jǔbàn — V — to conduct; to hold (an event)
+- 具体 / 具體 — jùtǐ — Adj — specific, concrete, detailed
+- 具有 — jùyǒu — V — to have; to possess
+- 剧场 — jùchǎng — N — theater, CL:座[zuo4]
+- 据说 — jùshuō — V — it is said that; reportedly
+- 决定 — juédìng — V/N — to decide; to determine; to make up one's mind, decision (CL:個|个[ge4],項|项[xiang4])
+- 决赛 — juésài — V/N — finals (of a competition)
+- 决心 — juéxīn — N/V — determination, resolution, determined
+- 绝对 / 絕對 — juéduì — Adv — absolute, absolutely
+- 咖啡 — kāfēi — N — (loanword) coffee, CL:杯[bei1]
+- 开发 — kāifā — V — to exploit (a resource); to open up (for developme
+- 开放 — kāifàng — V — to bloom, to open, to be open (to the public)
+- 开始 — kāishǐ — V/N — to begin, beginning, to start
+- 开业 / 開業 — kāiyè — to open a business, to open a practice, open (for business)
+- 开展 / 開展 — kāizhǎn — V — to develop, to carry out, to launch
+- 看起来 / 看起來 — kàn qǐlái — [gloss needed]
+- 看上去 — kàn shàngqù — [gloss needed]
+- 考验 — kǎoyàn — V — to test, to put to the test, trial
+- 科技 — kējì — N — science and technology
+- 可靠 — kěkào — Adj — reliable
+- 可乐 — kělè — N — amusing, entertaining, (loanword) cola
+- 克服 — kèfú — V — to overcome
+- 客观 / 客觀 — kèguān — Adj — objective, unbiased
+- 课程 — kèchéng — N — course; academic program, CL:堂[tang2],節|节[jie2],門|门[men2]
+- 空 — kōng — Adj/Adv — empty, air, sky
+- 空调 — kōngtiáo — N — air conditioning, air conditioner (including units that have a heati, CL:臺|台[tai2]
+- 恐怕 — kǒngpà — Adv — fear, to dread, I'm afraid that...
+- 空儿 — kòngr — N — spare time, free time
+- 裤子 — kùzi — N — variant of 褲子|裤子, trousers, pants
+- 快速 — kuàisù — Adj — fast; high-speed; rapid
+- 困 — kùn — Adj/V — to trap, to surround, hard-pressed
+- 困难 — kùnnan — N/Adj — difficult, challenging, straitened circumstances
+- 浪费 / 浪費 — làngfèi — V — to waste; waste
+- 老百姓 — lǎobǎixìng — N — ordinary people, the "person in the street", CL:個|个[ge4]
+- 老板 — lǎobǎn — N — variant of 老闆|老板[lao3 ban3]
+- 老太太 — lǎotàitai — N — elderly lady (respectful), esteemed mother, CL:位[wei4]
+- 老头儿 — lǎotóur — N — see 老頭子|老头子[lao3 tou2 zi5]
+- 乐 — lè — V — surname Le
+- 乐观 — lèguān — Adj — optimistic; hopeful
+- 类 — lèi — N/M — kind; type; class; category, (classifier) kind; type, (bound form) to resemble; to be similar to
+- 类似 — lèisì — V/Adj — similar; analogous
+- 离婚 / 離婚 — líhūn — to divorce
+- 里面 — lǐmiàn — N — variant of 裡面|里面[li3 mian4]
+- 理发 / 理髮 — lǐfà — to get a haircut; to have one's hair done, to cut (sb's) hair; to give (sb) a haircut
+- 理解 — lǐjiě — V — to comprehend; to understand
+- 理论 / 理論 — lǐlùn — N — theory; theoretical
+- 理由 — lǐyóu — N — reason, grounds, justification
+- 力 — lì — N — surname Li
+- 力量 — lìliàng — N — strength, power, force
+- 立刻 — lìkè — Adv — immediately; at once; right away
+- 利用 — lìyòng — V — to use, to utilize
+- 连 — lián — V/Adv — surname Lian
+- 连忙 — liánmáng — Adv — promptly; at once
+- 连续 — liánxù — V — continuous, in a row, serial
+- 连续剧 — liánxùjù — N — serialized drama, dramatic series, show in parts
+- 联合 — liánhé — V — to combine, to join, unite
+- 联合国 — Liánhéguó — N — United Nations
+- 联系 / 聯繫 — liánxì — V/N — to contact, to connect; connection
+- 凉水 — liángshuǐ — N — cool water, unboiled water
+- 了 — liǎo — V — particle: completion or change of state
+- 领 — lǐng — V — neck, collar, to lead
+- 领导 / 領導 — lǐngdǎo — V/N — to lead; leader, leadership
+- 领先 / 領先 — lǐngxiān — to lead, to be in front
+- 另外 — lìngwài — Pron/Adv/Conj — additional, in addition, besides
+- 另一方面 — lìng yīfāngmiàn — [gloss needed]
+- 留学 / 留學 — liúxué — to study abroad
+- 龙 — lóng — N — surname Long
+- 录 — lù — V — to carve wood
+- 录音 — lùyīn — V/N — to record sound, an audio recording (CL:段[duan4])
+- 路线 — lùxiàn — N — itinerary, route, political line (e.g. right revisionist road)
+- 旅馆 / 旅館 — lǚguǎn — N — hotel, inn
+- 旅行社 — lǚxíngshè — N — travel agency
+- 绿茶 — lǜchá — N — green tea, (slang) (of a girl) seemingly innocent and charmin
+- 乱 — luàn — Adj — in confusion or disorder, in a confused state of mind, disorder
+- 落后 / 落後 — luòhòu — to fall behind, to lag (in technology etc), backward
+- 麻烦 / 麻煩 — máfan — V/Adj — troublesome; trouble; to bother
+- 马 — mǎ — N — surname Ma, abbr. for Malaysia 馬來西亞|马来西亚[Ma3 lai2 xi1 ya4]
+- 满足 / 滿足 — mǎnzú — V — to satisfy, to meet (a need); satisfied
+- 慢慢 — mànmàn — slowly; gradually
+- 毛 — máo — N — hair; feather; 1/10 of a yuan
+- 毛病 — máobìng — N — fault, defect, shortcomings
+- 没用 — méiyòng — V — useless
+- 媒体 — méitǐ — N — media, esp. news media
+- 每 — měi — Pron/Adv — each, every
+- 美 — měi — Adj — (bound form) the Americas (abbr. for 美洲[Mei3 zhou1, (bound form) USA (abbr. for 美國|美国[Mei3 guo2])
+- 美好 — měihǎo — Adj — beautiful, fine
+- 美丽 — měilì — Adj — beautiful
+- 美食 — měishí — N — culinary delicacy, fine food, gourmet food
+- 美术 — měishù — N — art, fine arts, painting
+- 美元 — měiyuán — N — American dollar; US dollar
+- 迷 — mí — V — to bewilder, crazy about, fan
+- 米 — mǐ — N — rice (uncooked); meter
+- 面对 — miànduì — V — to face; to confront
+- 面积 / 面積 — miànjī — N — area (measurement)
+- 民间 — mínjiān — N — among the people, popular, folk
+- 民族 — mínzú — N — ethnic group, nationality
+- 明确 / 明確 — míngquè — Adj/V — clear, explicit; to make clear
+- 明显 — míngxiǎn — Adj — clear, distinct, obvious
+- 命运 — mìngyùn — N — fate; destiny
+- 某 — mǒu — Pron — some, a certain, sb or sth indefinite
+- 母亲 — mǔqīn — N — mother
+- 木头 — mùtou — N — slow-witted, blockhead, log (of wood, timber etc)
+- 目标 / 目標 — mùbiāo — N — target, goal, objective
+- 目前 — mùqián — N — at present, currently
+- 奶茶 — nǎichá — N — milk tea
+- 男子 — nánzǐ — N — a man; a male
+- 南部 — nánbù — N — southern part
+- 难道 — nándào — Adv — don't tell me ..., could it be that...?
+- 难度 — nándù — N — degree of difficulty
+- 内 — nèi — N — inside, inner, internal
+- 内容 / 內容 — nèiróng — N — content
+- 内心 — nèixīn — N — heart; innermost being, (math.) incenter
+- 能不能 — néng bu néng — [gloss needed]
+- 能力 — nénglì — N — ability, capability
+- 年初 — niánchū — N — beginning of the year
+- 年代 — niándài — N — decade, era
+- 年底 — niándǐ — N — the end of the year, year-end
+- 年纪 — niánjì — N — age, CL:把[ba3],個|个[ge4]
+- 念 — niàn — V — variant of 念[nian4], to read aloud
+- 牛 — niú — N — surname Niu
+- 农村 — nóngcūn — N — rural area, village, CL:個|个[ge4]
+- 农民 — nóngmín — N — peasant; farmer
+- 农业 — nóngyè — N — agriculture, farming
+- 女子 — nǚzǐ — N — woman, female
+- 暖和 — nuǎnhuo — Adj — warm, nice and warm
+- 怕 — pà — Adv — to fear, to be afraid of
+- 拍 — pāi — V — to pat, to clap, to slap
+- 排 — pái — V — row, line; to arrange; MW for rows
+- 排名 — páimíng — to rank (1st, 2nd etc), ranking
+- 牌子 — páizi — N — sign, trademark, brand
+- 派 — pài — V/N — (literary) tributary; branch of a river, clique; school; group; faction, (bound form) style; manner
+- 判断 / 判斷 — pànduàn — V/N — to judge; judgment
+- 胖 — pàng — Adj — fat, plump
+- 跑步 — pǎobù — to run, to jog, (military) to march at the double
+- 配 — pèi — V — to join, to fit, to mate
+- 配合 — pèihé — V — to coordinate with, to cooperate
+- 批评 / 批評 — pīpíng — V — to criticize; criticism
+- 批准 — pīzhǔn — V — to approve; approval
+- 皮 — pí — N — surname Pi
+- 皮包 — píbāo — N — handbag, briefcase
+- 啤酒 — píjiǔ — N — beer (loanword), CL:杯[bei1],瓶[ping2],罐[guan4],桶[tong3],缸[gang1]
+- 票价 — piàojià — N — ticket price; fare; admission fee
+- 评价 / 評價 — píngjià — V/N — to evaluate; evaluation
+- 苹果 — píngguǒ — N — Apple (American tech company)
+- 破 — pò — Adj/V — broken, damaged, worn out
+- 破坏 — pòhuài — V — destruction, damage, to wreck
+- 普遍 — pǔbiàn — Adj — universal, widespread
+- 普及 — pǔjí — V/Adj — to spread extensively, to generalize, widespread
+- 期 — qī — M — variant of 期[qi1], period, cycle
+- 齐 — qí — Adj/V — (name of states and dynasties at several different, surname Qi
+- 其次 — qícì — Pron — next, secondly
+- 其实 — qíshí — Adv — actually; in fact; really
+- 奇怪 — qíguài — Adj — strange, odd, to marvel
+- 气候 / 氣候 — qìhòu — N — climate
+- 千万 — qiānwàn — Adv — ten million, countless, many
+- 前后 — qiánhòu — N — around, from beginning to end, all around
+- 前进 — qiánjìn — V — to go forward, to forge ahead, to advance
+- 前面 — qiánmiàn — N — ahead, in front, preceding
+- 前往 — qiánwǎng — V — to leave for; to proceed towards; to go to
+- 强 — qiáng — Adj — surname Qiang
+- 强大 / 強大 — qiángdà — Adj — powerful, strong
+- 强调 / 強調 — qiángdiào — V — to stress, to emphasize
+- 强烈 — qiángliè — Adj — strong; intense
+- 桥 — qiáo — N — bridge, CL:座[zuo4]
+- 巧 — qiǎo — Adj — opportunely, coincidentally, as it happens
+- 亲 — qīn — Adj — parent, one's own (flesh and blood), relative
+- 亲切 — qīnqiè — Adj — amiable, cordial, close and dear
+- 亲人 — qīnrén — N — one's close relatives
+- 亲自 — qīnzì — Adv — personally, in person, oneself
+- 情感 — qínggǎn — N — emotion, feeling
+- 情况 — qíngkuàng — N — circumstances; state of affairs; situation, CL:種|种[zhong3]
+- 请教 — qǐngjiào — V — to ask for guidance, to consult
+- 庆祝 — qìngzhù — V — to celebrate
+- 球迷 — qiúmí — N — fan (ball sports), CL:個|个[ge4]
+- 区 — qū — N — area, region, district
+- 区别 / 區別 — qūbié — N/V — difference, distinction; to distinguish
+- 取消 — qǔxiāo — V — to cancel
+- 去世 — qùshì — V — to pass away, to die
+- 全场 — quánchǎng — N — everyone present, the whole audience, across-the-board
+- 全面 — quánmiàn — Adj — comprehensive, all-round
+- 全球 — quánqiú — N — the whole world, worldwide; global
+- 缺 — quē — V — deficiency, lack, scarce
+- 缺点 — quēdiǎn — N — weak point, fault, shortcoming
+- 缺少 — quēshǎo — V — lack, shortage of, shortfall
+- 确保 / 確保 — quèbǎo — V — to ensure, to guarantee
+- 确定 — quèdìng — Adj/V — definite, certain, fixed
+- 确实 — quèshí — Adj/Adv — indeed, really, reliable
+- 裙子 — qúnzi — N — skirt, CL:條|条[tiao2]
+- 群 — qún — M — variant of 群[qun2]
+- 热爱 / 熱愛 — rè'ài — V — to love ardently
+- 热烈 — rèliè — Adj — enthusiastic, ardent, warm
+- 人才 — réncái — N — talented person; talent
+- 人工 — réngōng — N/Adj — artificial, manpower, manual work
+- 人类 / 人類 — rénlèi — N — humanity, mankind
+- 人民 — rénmín — N — the people
+- 人民币 — rénmínbì — N — Renminbi, the official currency of the PRC (curren
+- 人群 — rénqún — N — crowd
+- 人生 — rénshēng — N — life (one's time on earth)
+- 人员 — rényuán — N — staff, crew, personnel
+- 认出 / 認出 — rènchū — recognition, to recognize
+- 认得 — rènde — V — to recognize, to remember sth (or sb) on seeing it, to know
+- 认可 / 認可 — rènkě — V — to approve, to accept
+- 任 — rèn — V — surname Ren
+- 任 — rèn — Conj — surname Ren
+- 任何 — rènhé — Pron — any, whatever
+- 任务 / 任務 — rènwu — N — task, mission
+- 仍 — réng — Adv — still; yet, to remain, (literary) frequently; often
+- 仍然 — réngrán — Adv — still; as before; yet
+- 日常 — rìcháng — Adj — day-to-day; daily; everyday
+- 容易 — róngyì — Adj — easy; straightforward, likely; liable to; apt to
+- 如何 — rúhé — Pron — how, what way, what
+- 散步 — sànbù — to take a walk; to go for a walk
+- 沙发 — shāfā — N — (loanword) sofa (CL:條|条[tiao2],張|张[zhang1]), (Internet slang) first reply to a forum post
+- 沙子 — shāzi — N — sand, grit, CL:粒[li4],把[ba3]
+- 伤 — shāng — V/N — to injure, injury, wound
+- 伤心 / 傷心 — shāngxīn — to grieve, to be broken-hearted, to feel deeply hurt
+- 商品 — shāngpǐn — N — commodity; goods; merchandise, CL:件[jian4]
+- 商业 — shāngyè — N — business, trade, commerce
+- 上来 / 上來 — shànglái — to come up, to approach, (verb complement indicating success)
+- 上面 — shàngmiàn — N — on top of, above-mentioned, also pr. [shang4 mian5]
+- 上去 — shàngqù — to go up
+- 上升 — shàngshēng — V — to rise, to go up, to ascend
+- 上衣 — shàngyī — N — jacket, upper outer garment, CL:件[jian4]
+- 设备 — shèbèi — N — equipment; facilities; installations
+- 设计 — shèjì — V/N — to design; to plan, design; plan
+- 设立 — shèlì — V — to set up; to establish
+- 社会 / 社會 — shèhuì — N — society
+- 身份证 — shēnfènzhèng — N — identity card, ID
+- 深 — shēn — Adj — deep; dark (color); profound
+- 深刻 — shēnkè — Adj — deep, profound
+- 深入 — shēnrù — V/Adj — in depth, thorough; to go deep
+- 升 — shēng — V — to ascend; to rise, to promote; to elevate, liter
+- 生 — shēng — Adj — to give birth; raw, uncooked; student
+- 生产 — shēngchǎn — V — to produce; to manufacture, to give birth to a child
+- 生存 — shēngcún — V — to exist, to survive
+- 生动 — shēngdòng — Adj — (of descriptions, writing etc) vivid; lively
+- 生命 — shēngmìng — N — life (biological); lifetime
+- 生意 — shēngyi — N — life force, vitality
+- 生长 — shēngzhǎng — V — to grow, to grow up, to be brought up
+- 声明 — shēngmíng — V/N — to state, to declare, statement
+- 胜 — shèng — V — victory, success, to beat
+- 胜利 — shènglì — V/N — victory, CL:個|个[ge4]
+- 失去 — shīqù — V — to lose
+- 石头 — shítou — N — stone, CL:塊|块[kuai4]
+- 石油 — shíyóu — N — oil, petroleum
+- 时 — shí — N — old variant of 時|时[shi2]
+- 时代 / 時代 — shídài — N — era, age, times
+- 时刻 — shíkè — N/Adv — time, juncture, moment
+- 实际上 — shíjìshàng — Adv — in fact, in reality, as a matter of fact
+- 实力 — shílì — N — strength
+- 实行 — shíxíng — V — to implement, to carry out, to put into practice
+- 实验 — shíyàn — V/N — experiment, test, CL:個|个[ge4],次[ci4]
+- 实验室 — shíyànshì — N — laboratory, CL:間|间[jian1]
+- 食品 — shípǐn — N — foodstuff; food; provisions
+- 使 — shǐ — V — to make, to cause, to enable
+- 始终 — shǐzhōng — Adv — from beginning to end, all along
+- 世纪 — shìjì — N — century
+- 世界 — shìjiè — N — world
+- 世界杯 — shìjièbēi — N — World Cup
+- 市场 — shìchǎng — N — marketplace; market; bazaar, (economics) market
+- 事故 — shìgù — N — accident, CL:樁|桩[zhuang1],起[qi3],次[ci4]
+- 事件 — shìjiàn — N — incident; event
+- 事实 / 事實 — shìshí — N — fact
+- 事实上 / 事實上 — shìshíshang — in fact, in reality, actually
+- 事业 — shìyè — N — undertaking, project, activity
+- 试题 — shìtí — N — exam question, test topic
+- 试验 — shìyàn — V — experiment, test, CL:次[ci4],個|个[ge4]
+- 适合 / 適合 — shìhé — V — to suit, to be appropriate for
+- 适应 / 適應 — shìyìng — V — to adapt to, to adjust to
+- 适用 — shìyòng — Adj — to be applicable
+- 室 — shì — N — surname Shi
+- 收费 — shōufèi — V — to charge a fee
+- 收看 — shōukàn — V — to watch (a TV program)
+- 收听 — shōutīng — V — to listen to (a radio broadcast)
+- 收音机 — shōuyīnjī — N — radio, CL:臺|台[tai2]
+- 手续 — shǒuxù — N — procedure, CL:道[dao4],個|个[ge4], formalities
+- 手指 — shǒuzhǐ — N — finger, CL:個|个[ge4],隻|只[zhi1]
+- 首都 — shǒudū — N — capital (city), CL:個|个[ge4]
+- 首先 — shǒuxiān — Adv — first of all, in the first place
+- 受 — shòu — V — to receive, to accept, to suffer
+- 受伤 / 受傷 — shòushāng — to sustain injuries, wounded (in an accident etc), harmed
+- 书架 — shūjià — N — bookshelf, CL:個|个[ge4]
+- 输 — shū — V — to lose; to be beaten, (bound form) to transport, (literary) to donate; to contribute
+- 输入 — shūrù — V — to import, to input
+- 熟人 — shúrén — N — acquaintance, friend
+- 属 — shǔ — V — category, genus (taxonomy), family members
+- 属于 / 屬於 — shǔyú — V — to belong to, to be part of
+- 束 — shù — M — surname Shu
+- 数量 / 數量 — shùliàng — N — quantity, amount
+- 双 — shuāng — M/Adj — variant of 雙|双[shuang1]
+- 双方 — shuāngfāng — N — bilateral, both sides, both parties involved
+- 思想 — sīxiǎng — N — thought, thinking, ideology
+- 死 — sǐ — V/Adj — to die, impassable, uncrossable
+- 速度 — sùdù — N — speed, velocity
+- 随 / 隨 — suí — V — to follow; as one wishes
+- 所 — suǒ — N/M — actually, place, classifier for houses, small buildings, institutio
+- 所长 — suǒzhǎng — N — director; head of an institute, office or station
+- 台 — tái — N/M — Taiwan (abbr.), surname Tai
+- 谈 — tán — V — surname Tan
+- 谈话 / 談話 — tánhuà — to talk (with sb), to have a conversation, talk
+- 谈判 — tánpàn — V/N — to negotiate, negotiation, talks
+- 汤 — tāng — N — surname Tang
+- 糖 — táng — N — sugar, sweets, candy
+- 特色 — tèsè — N — a characteristic; a distinctive feature or quality
+- 提前 — tíqián — V — to shift to an earlier date, to do sth ahead of time, in advance
+- 提问 — tíwèn — V — to question; to quiz; to grill
+- 题目 — tímù — N — subject; title; topic, exercise or exam question (CL:道[dao4])
+- 体会 — tǐhuì — V/N — to know from experience, to learn through experience, to realize
+- 体现 / 體現 — tǐxiàn — V — to embody, to reflect
+- 体验 / 體驗 — tǐyàn — V — to experience; experience
+- 天空 — tiānkōng — N — sky
+- 甜 — tián — Adj — sweet
+- 调 — tiáo — V — to harmonize, to reconcile, to blend
+- 调整 / 調整 — tiáozhěng — V — to adjust, to regulate; adjustment
+- 跳 — tiào — V — to jump, to hop, to skip over
+- 跳高 — tiàogāo — V — (athletics) high jump
+- 跳舞 — tiàowǔ — to dance
+- 跳远 — tiàoyuǎn — V — long jump (athletics)
+- 铁 — tiě — N — surname Tie
+- 铁路 — tiělù — N — railroad, railway, CL:條|条[tiao2]
+- 听力 — tīnglì — N — hearing, listening ability
+- 听众 — tīngzhòng — N — audience, listeners
+- 停止 — tíngzhǐ — V — to stop; to halt; to cease
+- 通常 — tōngcháng — Adj — generally, usually, normally
+- 通信 — tōngxìn — to correspond (by letter, email etc), to send or receive messages through telecommunicat
+- 同意 — tóngyì — V — to agree, to consent, to approve
+- 痛 — tòng — Adj — ache, pain, sorrow
+- 痛苦 — tòngkǔ — Adj — pain, suffering, painful
+- 头 / 頭 — tóu — Adj — head; top; first; MW for livestock
+- 头脑 — tóunǎo — N — brains, mind, skull
+- 突出 — tūchū — Adj/V — prominent, outstanding, to give prominence to
+- 突然 — tūrán — Adj — sudden; abrupt; unexpected
+- 图 — tú — N — diagram, picture, drawing
+- 图画 — túhuà — N — drawing, picture
+- 土 — tǔ — N — Tu (ethnic group), surname Tu
+- 团 — tuán — N/M — round, lump, ball
+- 团结 — tuánjié — V — to unite, unity; solidarity, united
+- 团体 — tuántǐ — N — group, organization, team
+- 推动 / 推動 — tuīdòng — to push forward, to promote
+- 推广 / 推廣 — tuīguǎng — V — to popularize, to promote
+- 推进 / 推進 — tuījìn — V — to push forward, to advance
+- 推开 / 推開 — tuīkāi — to push open (a gate etc), to push away, to reject
+- 退 — tuì — V — to retreat; to withdraw, to reject; to return (sth), to decline
+- 退出 — tuìchū — V — to withdraw, to abort, to quit
+- 退休 — tuìxiū — to retire (from the workforce); to go into retirem
+- 外交 — wàijiāo — N — diplomacy, diplomatic, foreign affairs
+- 外面 — wàimiàn — N — outside (also pr. [wai4 mian5] for this sense), surface, exterior
+- 外文 — wàiwén — N — foreign language (written)
+- 完美 — wánměi — Adj — perfect
+- 完善 — wánshàn — Adj/V — to improve, to perfect; perfect
+- 完整 — wánzhěng — Adj — complete, whole, intact
+- 玩具 — wánjù — N — plaything, toy
+- 往往 — wǎngwǎng — Adv — usually, in many cases, more often than not
+- 危害 — wēihài — V/N — to harm; to jeopardize; to endanger, harmful effect; damage
+- 危险 — wēixiǎn — Adj/N — danger, dangerous
+- 为 / 為 — wéi — V — for, for the sake of; to act as
+- 为 / 為 — wéi — Prep — for, for the sake of; to act as
+- 围 — wéi — V — surname Wei
+- 伟大 — wěidà — Adj — huge; great; grand; worthy of the greatest admirat
+- 卫生 — wèishēng — Adj/N — hygienic; sanitary, hygiene; sanitation
+- 卫生间 — wèishēngjiān — N — bathroom, toilet, WC
+- 为了 — wèile — Prep — for; for the purpose of; in order to
+- 温暖 — wēnnuǎn — Adj/V — warm
+- 文化 — wénhuà — N — culture, civilization, cultural
+- 文件 — wénjiàn — N — document, file, CL:份[fen4]
+- 文明 — wénmíng — N/Adj — civilization; civilized
+- 文学 — wénxué — N — literature
+- 文章 — wénzhāng — N — article, essay, literary works
+- 文字 — wénzì — N — character, script, writing
+- 握手 — wòshǒu — to shake hands
+- 屋子 — wūzi — N — house, room, CL:間|间[jian1]
+- 武器 — wǔqì — N — weapon, arms, CL:種|种[zhong3]
+- 武术 — wǔshù — N — military skill or technique (in former times), all kinds of martial art sports (some claiming spi, self-defense
+- 舞台 — wǔtái — N — (lit. and fig.) stage; arena
+- 西部 — xībù — N — western part
+- 希望 — xīwàng — V/N — to hope, a hope; a wish
+- 系 — xì — N — to connect, to relate to, to tie up
+- 下来 / 下來 — xiàlái — to come down, (completed action marker), (after verb of motion, indicates motion down and t
+- 下面 — xiàmiàn — N — below, under, next
+- 下去 — xiàqù — to go down, to descend, to go on
+- 先进 / 先進 — xiānjìn — Adj/N — advanced, progressive
+- 显得 — xiǎnde — V — to seem, to look, to appear
+- 显然 — xiǎnrán — Adj — clearly; evidently; obviously
+- 显示 / 顯示 — xiǎnshì — V — to show, to display
+- 现场 — xiànchǎng — N — the scene (of a crime, accident etc), (on) the spot, (at) the site
+- 现代 / 現代 — xiàndài — N — modern, contemporary
+- 现金 — xiànjīn — N — cash
+- 现实 — xiànshí — N — reality; actuality, real; actual, realistic; pragmatic; materialistic; self-interest
+- 现象 / 現象 — xiànxiàng — N — phenomenon, appearance
+- 线 — xiàn — N — variant of 線|线[xian4]
+- 相比 — xiāngbǐ — V — to compare
+- 相当 — xiāngdāng — Adv/V — equivalent to, appropriate, considerably
+- 相关 / 相關 — xiāngguān — V — related, relevant
+- 相互 — xiānghù — Adv — each other, mutual
+- 相似 — xiāngsì — Adj — similar; alike
+- 香 — xiāng — Adj — fragrant, sweet smelling, aromatic
+- 香蕉 — xiāngjiāo — N — banana, CL:根[gen1],把[ba3]
+- 消费 / 消費 — xiāofèi — V — to consume; consumption
+- 消失 — xiāoshī — V — to disappear; to fade away
+- 消息 — xiāoxi — N — (piece of) news; information, message, CL:條|条[tiao2]
+- 效果 — xiàoguǒ — N — effect, result
+- 写作 — xiězuò — V — to write, to compose, writing
+- 血 — xiě — N — see 血[xue4]
+- 心 — xīn — N — heart, mind, intention
+- 信 — xìn — V — letter (correspondence); to believe; trust
+- 信封 — xìnfēng — N — envelope
+- 信任 — xìnrèn — V — to trust; trust
+- 行李 — xíngli — N — luggage, CL:件[jian4]
+- 形成 — xíngchéng — V — to form, to take shape
+- 形式 — xíngshì — N — form, format, style
+- 形象 — xíngxiàng — N/Adj — image, form, figure
+- 形状 — xíngzhuàng — N — form; shape
+- 幸福 — xìngfú — Adj/N — happiness, happy, blessed
+- 幸运 — xìngyùn — Adj — fortunate; lucky, good fortune; luck
+- 性（积极性） / 性（積極性） — xìng(jījíxìng) — Suffix — [gloss needed]
+- 性别 — xìngbié — N — sex; gender
+- 性格 — xìnggé — N — nature, disposition, temperament
+- 修 — xiū — V — surname Xiu
+- 修改 — xiūgǎi — V — to amend, to alter, to modify
+- 需求 — xūqiú — N — requirement, to require, (economics) demand
+- 需要 — xūyào — V/N — to need; to want; to demand; to require, needs
+- 宣布 — xuānbù — V — variant of 宣布[xuan1 bu4]
+- 宣传 — xuānchuán — V/N — to disseminate, to give publicity to, propaganda
+- 选手 — xuǎnshǒu — N — athlete, contestant
+- 学费 — xuéfèi — N — tuition fee, tuition, CL:個|个[ge4]
+- 训练 — xùnliàn — V/N — to train, to drill, training
+- 压 — yā — V — to press, to push down, to keep under (control)
+- 压力 — yālì — N — pressure
+- 烟 — yān — N — cigarette or pipe tobacco, CL:根[gen1], smoke
+- 眼前 — yǎnqián — N — before one's eyes, now, at present
+- 演 — yǎn — V — to perform (a play etc); to stage (a show), (bound form) to develop; to play out; to carry out
+- 演唱 — yǎnchàng — V — to sing (for an audience), vocal performance
+- 演唱会 — yǎnchànghuì — N — vocal recital or concert
+- 演出 — yǎnchū — V/N — to act (in a play), to perform, to put on (a performance)
+- 演员 — yǎnyuán — N — actor; actress; performer
+- 羊 — yáng — N — surname Yang
+- 阳光 — yángguāng — N — sunshine, (of personality) upbeat; energetic, transparent (open to public scrutiny)
+- 要是 — yàoshi — Conj — (coll.) if
+- 衣架 — yījià — N — clothes hanger, clothes rack
+- 一切 — yīqiè — Pron — everything, every, all
+- 已 — yǐ — Adv — already, to stop, then
+- 以来 / 以來 — yǐlái — N — since (a past time)
+- 一方面 — yīfāngmiàn — N — on the one hand
+- 艺术 — yìshù — N — art
+- 意外 — yìwài — Adj/N — unexpected, accident, mishap
+- 意义 / 意義 — yìyì — N — meaning, significance
+- 因此 — yīncǐ — Conj — therefore, as a result
+- 银 — yín — N — silver, silver-colored, relating to money or currency
+- 银牌 — yínpái — N — silver medal, CL:枚[mei2]
+- 印象 — yìnxiàng — N — impression (sth that stays in one's mind), a memory
+- 应当 — yīngdāng — V — should; ought to
+- 迎接 — yíngjiē — V — to welcome; to greet
+- 营养 — yíngyǎng — N — nutrition, nourishment, CL:種|种[zhong3]
+- 赢 — yíng — V — to beat, to win, to profit
+- 影视 — yǐngshì — N — movies and television
+- 应用 / 應用 — yìngyòng — V — to apply; application
+- 优点 — yōudiǎn — N — merit, benefit, strong point
+- 优势 / 優勢 — yōushì — N — advantage, superiority
+- 由 — yóu — Prep — to follow, from, because of; due to
+- 由于 — yóuyú — Prep/Conj — due to, as a result of, thanks to
+- 邮件 — yóujiàn — N — mail, post, email
+- 邮票 — yóupiào — N — (postage) stamp, CL:枚[mei2],張|张[zhang1]
+- 邮箱 — yóuxiāng — N — mailbox, post office box, email
+- 游 — yóu — V — surname You
+- 游戏 — yóuxì — N — game (CL:場|场[chang3]), to play
+- 游泳 — yóuyǒng — N/V — to swim; swimming
+- 有的是 — yǒudeshì — have plenty of, there's no lack of
+- 有利 — yǒulì — Adj — beneficial, advantageous
+- 有效 — yǒuxiào — V — effective, valid
+- 预报 — yùbào — V/N — forecast
+- 预防 — yùfáng — V — to prevent, to take precautions against, to protect
+- 预计 — yùjì — V — to forecast, to predict, to estimate
+- 预习 — yùxí — V — to prepare a lesson
+- 员（服务员） / 員（服務員） — yuán (fúwùyuán) — Suffix — [gloss needed]
+- 员工 — yuángōng — N — staff; personnel; employee
+- 愿望 — yuànwàng — N — desire, wish
+- 约 — yuē — V — to make an appointment, to invite, approximately
+- 乐队 — yuèduì — N — band, pop group, CL:支[zhi1]
+- 运输 — yùnshū — V — to transport, to carry, transportation
+- 杂志 — zázhì — N — magazine, CL:本[ben3],份[fen4],期[qi1]
+- 早已 — zǎoyǐ — Adv — for a long time; long since, (dialect) in the past
+- 造 — zào — V — to make, to build, to manufacture
+- 造成 — zàochéng — V — to bring about; to create; to cause
+- 责任 / 責任 — zérèn — N — responsibility, duty
+- 增加 — zēngjiā — V — to increase, to add
+- 增长 — zēngzhǎng — V — to grow; to increase
+- 展开 / 展開 — zhǎnkāi — to unfold; to spread out; to open up, to launch; to carry out
+- 张 — zhāng — M/V — surname Zhang
+- 照 — zhào — V/Prep — variant of 照[zhao4], to shine, to illuminate
+- 者（志愿者） / 者（志願者） — zhě (zhìyuànzhě) — Suffix — [gloss needed]
+- 真实 — zhēnshí — Adj — true; real
+- 争 — zhēng — V — to strive for, to vie for, to argue or debate
+- 争取 — zhēngqǔ — V — to fight for, to strive for, to win over
+- 整 — zhěng — Adj/V — (bound form) whole; complete; entire; (before a me, (bound form) in good order; tidy; neat, (bound form) to put in order; to straighten
+- 整个 / 整個 — zhěnggè — Adj — entire, whole
+- 整理 — zhěnglǐ — V — to arrange, to tidy up, to sort out
+- 整齐 — zhěngqí — Adj — orderly, neat, even
+- 整体 / 整體 — zhěngtǐ — N — whole, overall, entirety
+- 整天 — zhěngtiān — N — all day long, whole day
+- 整整 — zhěngzhěng — Adv — whole, full
+- 正 — zhèng — Adj — upright; exactly; just (happening)
+- 正式 — zhèngshì — Adj — formal; official
+- 证 — zhèng — N — to admonish, variant of 證|证[zheng4]
+- 证件 — zhèngjiàn — N — certificate; papers; credentials; document; ID
+- 证据 — zhèngjù — N — evidence, proof, testimony
+- 证明 — zhèngmíng — V/N — proof, certificate, identification
+- 支 — zhī — M — surname Zhi
+- 支持 — zhīchí — V — to support; support
+- 支付 — zhīfù — V — to pay (money)
+- 只 / 隻 — zhī — M — only, just; MW for animals and certain objects
+- 直 — zhí — Adj/V/Adv — surname Zhi, Zhi (c. 2000 BC), fifth of the legendary Flame Emp
+- 直播 — zhíbō — V — (TV, radio) to broadcast live, live broadcast, (Internet) to livestream
+- 直到 — zhídào — V — until
+- 值 — zhí — V — value, (to be) worth, to happen to
+- 值得 — zhídé — worth the money, to merit; to deserve; to be worth (doing sth)
+- 职工 — zhígōng — N — employee; staff member; worker
+- 职业 — zhíyè — N — occupation; profession; vocation, professional
+- 只好 — zhǐhǎo — Adv — to have no other option but to ...; to have to; to
+- 只是 — zhǐshì — Adv/Conj — merely; only; just; nothing but, simply, but; however
+- 只有 — zhǐyǒu — Conj — only have ...; there is only ..., (used in combination with 才[cai2]) it is only if ., it is only (someone) who ... (as in 只有男性才有此需要[zhi3
+- 指 — zhǐ — V — finger, to point at or to, to indicate or refer to
+- 指出 — zhǐchū — to indicate, to point out
+- 指导 — zhǐdǎo — V — to guide; to direct; to instruct, coach; trainer
+- 至今 — zhìjīn — Adv — so far, to this day, until now
+- 至少 — zhìshǎo — Adv — at least, (to say the) least
+- 志愿 — zhìyuàn — N — aspiration, ambition, to volunteer
+- 志愿者 — zhìyuànzhě — N — volunteer
+- 制定 — zhìdìng — V — to formulate, to draw up
+- 制度 — zhìdù — N — system, institution, regulation
+- 制造 — zhìzào — V — to manufacture; to make
+- 制作 — zhìzuò — V — to make; to manufacture
+- 中部 — zhōngbù — N — middle part; central section; central region
+- 中华民族 / 中華民族 — Zhōnghuá Mínzú — [gloss needed]
+- 终于 — zhōngyú — Adv — at last, in the end, finally
+- 钟 — zhōng — N — surname Zhong
+- 种 — zhǒng — M — seed, species, kind
+- 种子 — zhǒngzi — N — seed, CL:顆|颗[ke1],粒[li4]
+- 重大 — zhòngdà — Adj — significant, major, important
+- 周围 — zhōuwéi — N — environs; surroundings; periphery
+- 猪 — zhū — N — hog, pig, swine
+- 主持 — zhǔchí — V — to take charge of, to manage or direct, to preside over
+- 主动 / 主動 — zhǔdòng — Adj — active, initiative, proactive
+- 主任 — zhǔrèn — N — director, head, CL:個|个[ge4]
+- 主意 — zhǔyi — N — plan, idea, decision
+- 主张 / 主張 — zhǔzhāng — V/N — to advocate; position, view
+- 注意 — zhùyì — to take note of; to pay attention to
+- 祝 — zhù — V — surname Zhu
+- 抓 — zhuā — V — to grab, to catch, to arrest
+- 抓住 — zhuāzhù — to grab hold of; to capture
+- 专家 — zhuānjiā — N — expert; specialist
+- 专门 — zhuānmén — Adv — specialized; dedicated (to a particular field or p, specially; specifically (for a particular purpose), (of institutions, personnel etc) designated or ass
+- 专题 — zhuāntí — N — specific topic (addressed by a book, lecture, TV p, article, report or program etc on a specific topic
+- 专业 — zhuānyè — N — specialty, specialized field, main field of study (at university)
+- 转 — zhuǎn — V — to turn, to change direction, to transfer
+- 转变 / 轉變 — zhuǎnbiàn — V — to transform, to change; transformation
+- 状况 — zhuàngkuàng — N — condition; state; situation
+- 状态 — zhuàngtài — N — condition; state; state of affairs
+- 追 — zhuī — V — to chase, to pursue, to look into
+- 准 — zhǔn — Adj/Adv — to allow, to grant, in accordance with
+- 资格 — zīgé — N — qualifications, seniority
+- 资金 — zījīn — N — funds; capital
+- 子女 — zǐnǚ — N — children; sons and daughters
+- 自从 — zìcóng — Prep — since (a time), ever since
+- 自动 — zìdòng — Adj/Adv — automatic, voluntarily
+- 自觉 — zìjué — Adj — to realize; to be aware of; to feel that; to be co, responsible; predisposed to do the right thing; co
+- 自然 — zìrán — N/Adj/Adv — nature; natural; naturally
+- 自身 — zìshēn — N — itself, oneself, one's own
+- 自主 — zìzhǔ — V — autonomous, independent
+- 总 — zǒng — Adv — (bound form) general; overall, to sum up, in every case; always; invariably
+- 总结 / 總結 — zǒngjié — V/N — to summarize; summary
+- 总是 — zǒngshì — Adv — always
+- 足够 — zúgòu — V — enough; sufficient
+- 足球 — zúqiú — N — soccer; football, a soccer ball; a football
+- 组合 — zǔhé — V — to assemble; to combine; to compose, combination; association; set; compilation, (math.) combinatorial
+- 左右 — zuǒyòu — N/V — left and right, nearby, approximately
+- 作品 — zuòpǐn — N — work (of art), opus, CL:部[bu4],篇[pian1]
+- 作者 — zuòzhě — N — author; writer
+- 做客 — zuòkè — to be a guest or visitor
+
+---
+
+## Grammar
+
+Grammar point labels from 《国际中文教育中文水平等级标准》as organized in the krmanik/HSK-3.0 grammar files. Each entry is a grammar topic heading.
+
+- 第-、老-、小-
+- -儿、一家、-们、-头、-子
+- 能愿动词：敢
+- 能愿动词：需要
+- 动宾式离合词：帮忙、点头、放假、干杯、见面、结婚、看病、睡觉、洗澡、理发、说话
+- 动补式离合词：打开、看见，离开、完成
+- 疑问代词的非疑问用法
+- 指示代词：各、各位、各种、每、任何
+- 名量词：把、行、架、群、束、双、台、张、支、只、种
+- 动量词：顿、口、眼
+- 量词重叠：AA
+-  程度副词：比较、更加，还、相当
+- 范围、协同副词：光、仅、仅仅、就、至少
+-  时间副词：本来、才、曾经、从来、赶紧、赶快、立刻、连忙、始终、已、早已
+- 频率、重复副词：通常、往往、总、总是
+- 关联副词：再
+- 方式副词：互相、尽量、亲自、相互
+- 情态副词：大概、恐怕
+- 语气副词：白、并、当然、到底、反正、根本、果然、简直、绝对、难道、其实、千万、确实、只好、终于
+- 由
+- 自从
+- 朝
+- 为
+- 向
+- 由于、因为
+- 为了
+- 把、被、叫、让
+- 除了
+- 按、按照
+- 连接分句或句子：并且、不光、不仅、另外、要是、因此、由于、只有
+- 哈哈
+- 其他结构类型2
+- 数量重叠：数词+量词+数词+量词
+- 不A不B
+- 看起来
+- 看上去
+- 有的是
+- 除了⋯⋯（以外），⋯⋯还/也/都⋯⋯
+- 从⋯⋯起
+- 对⋯⋯来说
+- 一……也/都+不/没⋯⋯
+- 越⋯⋯越⋯⋯
+- 动词或动词性短语、形容词或形容词性短语作主语
+- 动词或动词性短语、形容词或形容词性短语和主谓短语作宾语
+- 动词或动词性短语、主谓短语作定语
+- 结果补语2：动词+到/住/走
+- 趋向补语2
+- 可能补语1：动词+得/不+动词/形容词；动词+得/不+了
+- 程度补语1：形容词/心理动词+得很/极了/死了
+- 数量补语3（动词+动量补语）：宾语和动量补语共现
+- 数量补语4（动词+时量补语）：表示动作持续的时间
+- 数量补语5（动词+时量补语）：表示动作结束后到某个时间点的间隔时间
+- 主谓句4：主谓谓语句
+- “把”字句1：表处置
+- 被动句1：主语+被/叫/让+宾语+动词+其他成分
+- 连动句2
+- 兼语句1
+- 比较句4
+- 重动词：主语+动词+宾语+动词+补语
+- （也）⋯⋯，也⋯⋯
+- 一会儿⋯⋯，一会儿⋯⋯
+- 一方面⋯⋯，另一方面⋯⋯
+- 又⋯⋯，又⋯⋯
+- 首先⋯⋯，然后⋯⋯
+-  ⋯⋯，并且⋯⋯
+- 不仅/不光 ，还/而且
+- 不是，就是⋯⋯
+- ⋯⋯X 是 X，就是/不过⋯⋯
+- 要是⋯⋯，就⋯⋯
+- 只有⋯⋯，才⋯⋯
+- （由于）⋯⋯，所以/因此⋯⋯
+- 为了⋯⋯，⋯⋯
+- ⋯⋯了⋯⋯（就）⋯⋯
+- 概数表示法2
+- 用“一点儿也不⋯⋯”表示强调
+- 用反问句表示强调
+- 用“是”强调
+- 用疑问语调表示疑问
+- 都⋯⋯了
+- X就X（点儿）吧
+- X什么（啊）
