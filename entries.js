@@ -411,7 +411,7 @@ window.ENTRIES = [
     pinyin: "kǒngzǐ",
     desc: "His life, the Analects 论语, and the civilization he shaped.",
     tags: ["confucius", "analects", "ethics"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/philosophy/topic_laozi.html",
@@ -420,7 +420,7 @@ window.ENTRIES = [
     pinyin: "lǎozǐ",
     desc: "The 81 chapters, wu wei 无为, and the paradox at the heart of Daoist thought.",
     tags: ["laozi", "daodejing", "wuwei"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/philosophy/topic_zhuangzi.html",
@@ -429,7 +429,7 @@ window.ENTRIES = [
     pinyin: "zhuāngzǐ",
     desc: "The butterfly dream, Cook Ding, and Daoist freedom from convention.",
     tags: ["zhuangzi", "freedom", "daoist"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/philosophy/topic_mengzi.html",
@@ -438,7 +438,7 @@ window.ENTRIES = [
     pinyin: "mèngzǐ",
     desc: "Human nature as inherently good — the sprouts of virtue.",
     tags: ["mencius", "human-nature", "virtue"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/philosophy/topic_xunzi.html",
@@ -447,7 +447,7 @@ window.ENTRIES = [
     pinyin: "xúnzǐ",
     desc: "Human nature as bad — ritual and education as correction.",
     tags: ["xunzi", "ritual", "human-nature"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/philosophy/topic_mojia.html",
@@ -456,7 +456,7 @@ window.ENTRIES = [
     pinyin: "mòjiā",
     desc: "Universal love, anti-war, and the utilitarian logic China nearly chose.",
     tags: ["mohism", "universal-love", "logic"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/philosophy/topic_fajia.html",
@@ -465,7 +465,7 @@ window.ENTRIES = [
     pinyin: "fǎjiā",
     desc: "Han Feizi, statecraft, and the realpolitik that unified China.",
     tags: ["legalism", "statecraft", "power"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/philosophy/topic_yinyang_wuxing.html",
@@ -474,7 +474,7 @@ window.ENTRIES = [
     pinyin: "yīnyáng wǔxíng",
     desc: "The cosmological engine of classical thought — correspondence, resonance, and transformation.",
     tags: ["yin-yang", "five-phases", "cosmology"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/philosophy/topic_lixue.html",
@@ -483,7 +483,7 @@ window.ENTRIES = [
     pinyin: "lǐxué",
     desc: "Zhu Xi, the Great Ultimate 太极, and the Song-Ming synthesis.",
     tags: ["neo-confucianism", "zhuxi", "principle"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/philosophy/topic_xinxue.html",
@@ -492,7 +492,7 @@ window.ENTRIES = [
     pinyin: "xīnxué",
     desc: "Innate knowing 良知 and the unity of knowledge and action.",
     tags: ["wang-yangming", "mind", "knowing"],
-    status: "stub"
+    status: "complete"
   },
 
   /* ── HISTORY ───────────────────────────────────────────────────────── */
