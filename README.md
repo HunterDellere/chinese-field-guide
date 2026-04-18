@@ -1,8 +1,22 @@
 # Chinese Field Guide
 
-A personal HTML/CSS/JS field guide to the Chinese language and civilization. Characters, vocabulary, grammar, religion, philosophy, history, geography, culture, culinary traditions, arts and literature, science and medicine, and everyday life.
+A personal HTML/CSS/JS bilingual field guide to Chinese language and civilization. Characters, vocabulary, grammar, religion, philosophy, history, geography, culture, culinary traditions, arts and literature, science and medicine, and everyday life.
 
 No build system. Pure static HTML. Open in a browser.
+
+---
+
+## For AI Agents — Read This First
+
+This repo is set up for incremental authoring across many sessions. The key rules:
+
+1. **Never edit `index.html` to add entries.** All cards are auto-rendered from `entries.js`. Adding a page means: create the HTML file + append one object to `entries.js`. That is all.
+2. **All content pages live under `pages/[category]/`** — two levels deep. Paths from any content page: `../../style.css`, `../../index.html`, `../../scripts/toc-scroll.js`.
+3. **Flip `status` in `entries.js`** from `"stub"` to `"complete"` when a page is fully authored.
+4. **HSK pages are deferred** — `pages/hsk/` is reserved but empty. Do not create HSK content without being explicitly asked.
+5. **Full project conventions are in `CLAUDE.md`** — read it before creating or editing any content page.
+
+The one fully-authored reference page is `pages/characters/gan3_感.html`. Use it as the exemplar for character pages.
 
 ---
 
@@ -21,48 +35,56 @@ python3 -m http.server 8080
 **GitHub Pages** (recommended — free, zero config):
 1. Push this repo to GitHub.
 2. Go to Settings → Pages → Source: Deploy from branch `main`, folder `/`.
-3. Your site lives at `https://[username].github.io/chinese-field-guide/`.
+3. Site lives at `https://[username].github.io/chinese-field-guide/`.
 
-Alternatives: **Cloudflare Pages** (free, faster CDN) or **Netlify** (free tier, drag-and-drop deploy option). All three work identically — this is just static HTML.
+Alternatives: **Cloudflare Pages** or **Netlify** (free tier, drag-and-drop). All three work identically — this is just static HTML.
 
 ---
 
 ## File Conventions
 
+### Path depth
+All content pages are at `pages/[category]/filename.html` — two levels from root:
+- Stylesheet: `../../style.css`
+- Index: `../../index.html`
+- Shared script: `../../scripts/toc-scroll.js`
+
 ### Stylesheet
-Always `style.css` at the root. Pages in subfolders link with `../style.css`.
+Always `style.css` at the repo root. Never rename it.
+
+### Shared script
+`scripts/toc-scroll.js` handles TOC scroll-spy and mobile sidebar toggle. Include at end of `<body>` on every content page — do not duplicate inline.
 
 ### Metadata comment
 Immediately after `<!DOCTYPE html>`, before `<html>`:
 ```html
 <!DOCTYPE html>
-<!-- {"type":"character","char":"感","pinyin":"gǎn","tone":3,...} -->
+<!-- {"type":"character","char":"感","pinyin":"gǎn","tone":3,...,"status":"complete"} -->
 <html lang="zh-Hans">
 ```
 
 ### Naming
-- Character pages: `[pinyin][tone]_[char].html` → `characters/gan3_感.html`
-- Vocab pages: `[pinyin-ascii]_[char].html` → `vocab/mianzi_面子.html`
-- Grammar pages: short descriptor → `grammar/le_了.html`
-- Topic pages: `topic_[slug].html` → `religion/topic_chan.html`
+- Character pages: `[pinyin][tone]_[char].html` → `pages/characters/gan3_感.html`
+- Vocab pages: `[pinyin-ascii]_[char].html` → `pages/vocab/mianzi_面子.html`
+- Grammar pages: short descriptor → `pages/grammar/le_了.html`
+- Topic pages: `topic_[slug].html` → `pages/religion/topic_chan.html`
 
-Use ASCII-only filenames even when the entry title contains toned pinyin — avoids tooling surprises.
+ASCII-only filenames — no toned vowels (ā á ǎ à etc.).
 
 ### Adding a new page
-1. Create the HTML file in the appropriate subfolder.
-2. Open `entries.js` and append one object to the matching category section.
-3. Set `status: "stub"` immediately; flip to `status: "complete"` when the page is fully authored.
-4. `index.html` auto-renders from `entries.js` — no edits needed there.
+1. Create the HTML file in `pages/[category]/`.
+2. Append one object to `entries.js` with `status: "stub"`.
+3. `index.html` auto-renders. Done.
 
 ### Authoring a stub
-Open the stub file. Replace the placeholder scholar box with:
-- Section anchors + section heads for each content area
-- Etymology scholar box
-- Word-formation pattern box (if character/vocab/grammar)
+Open the stub. Replace the placeholder scholar box with real sections:
+- Section anchors + section heads
+- Etymology scholar box (character pages)
+- Word-formation pattern box (character/vocab/grammar)
 - Vocab card groups (`.cards` > `.card.c-*`)
 - 成语 chengyu grid
 - Adjacent vocab adj-chips
-- Retention image scholar box
+- Retention image scholar box (character pages)
 
 Then flip `status: "stub"` → `status: "complete"` in `entries.js`.
 
@@ -70,11 +92,9 @@ Then flip `status: "stub"` → `status: "complete"` in `entries.js`.
 
 ## Authoring Queue
 
-Pages are listed below grouped by category. Check off each one as it's authored.
-
 `[x]` = complete · `[ ]` = stub
 
-### Language — Characters (`characters/`)
+### Language — Characters (`pages/characters/`)
 - [x] `gan3_感.html` — 感 gǎn · to feel, resonate
 - [ ] `shi4_是.html` — 是 shì · to be, the copula
 - [ ] `you3_有.html` — 有 yǒu · to have, to exist
@@ -86,7 +106,7 @@ Pages are listed below grouped by category. Check off each one as it's authored.
 - [ ] `jia1_家.html` — 家 jiā · home, family
 - [ ] `zi4_字.html` — 字 zì · character, written word
 
-### Language — Vocabulary (`vocab/`)
+### Language — Vocabulary (`pages/vocab/`)
 - [ ] `dongxi_东西.html` — 东西 dōngxi · things
 - [ ] `yisi_意思.html` — 意思 yìsi · meaning, intention
 - [ ] `guanxi_关系.html` — 关系 guānxi · relationship, connections
@@ -98,7 +118,7 @@ Pages are listed below grouped by category. Check off each one as it's authored.
 - [ ] `yinyang_阴阳.html` — 阴阳 yīnyáng · yin and yang
 - [ ] `tianxia_天下.html` — 天下 tiānxià · all under heaven
 
-### Language — Grammar (`grammar/`)
+### Language — Grammar (`pages/grammar/`)
 - [ ] `le_了.html` — 了 le · perfective particle
 - [ ] `ba_把.html` — 把 bǎ · disposal construction
 - [ ] `bei_被.html` — 被 bèi · the passive
@@ -110,7 +130,7 @@ Pages are listed below grouped by category. Check off each one as it's authored.
 - [ ] `directional_来去.html` — 来 / 去 · directional complements
 - [ ] `lian_dou_连都.html` — 连…都/也 · even X
 
-### Religion (`religion/`)
+### Religion (`pages/religion/`)
 - [ ] `topic_rujia.html` — 儒家 Rújiā · Confucianism
 - [ ] `topic_daojiao.html` — 道教 Dàojiào · Daoism
 - [ ] `topic_fojiao.html` — 佛教 Fójiào · Buddhism in China
@@ -122,7 +142,7 @@ Pages are listed below grouped by category. Check off each one as it's authored.
 - [ ] `topic_yisilan.html` — 伊斯兰教 · Islam in China
 - [ ] `topic_saman.html` — 萨满教 · Shamanism
 
-### Philosophy (`philosophy/`)
+### Philosophy (`pages/philosophy/`)
 - [ ] `topic_kongzi.html` — 孔子 Kǒngzǐ · Confucius
 - [ ] `topic_laozi.html` — 老子 Lǎozǐ · Laozi & the Daodejing
 - [ ] `topic_zhuangzi.html` — 庄子 Zhuāngzǐ · Zhuangzi
@@ -134,7 +154,7 @@ Pages are listed below grouped by category. Check off each one as it's authored.
 - [ ] `topic_lixue.html` — 理学 Lǐxué · Neo-Confucianism
 - [ ] `topic_xinxue.html` — 心学 Xīnxué · Wang Yangming
 
-### History (`history/`)
+### History (`pages/history/`)
 - [ ] `topic_xia_shang_zhou.html` — 夏商周 · The Three Dynasties
 - [ ] `topic_qin_shihuang.html` — 秦始皇 · The First Emperor
 - [ ] `topic_hanchao.html` — 汉朝 · The Han Dynasty
@@ -146,7 +166,7 @@ Pages are listed below grouped by category. Check off each one as it's authored.
 - [ ] `topic_xinhai.html` — 辛亥革命 · The 1911 Revolution
 - [ ] `topic_wenge.html` — 文化大革命 · The Cultural Revolution
 
-### Geography (`geography/`)
+### Geography (`pages/geography/`)
 - [ ] `topic_huanghe.html` — 黄河 Huánghé · Yellow River
 - [ ] `topic_changjiang.html` — 长江 Chángjiāng · Yangtze
 - [ ] `topic_beijing.html` — 北京 Běijīng · Beijing
@@ -158,10 +178,10 @@ Pages are listed below grouped by category. Check off each one as it's authored.
 - [ ] `topic_fangyan.html` — 方言 Fāngyán · The Dialect Map
 - [ ] `topic_caixi_geography.html` — 八大菜系 · Cuisines as Geography
 
-### Culture (`culture/`)
+### Culture (`pages/culture/`)
 - [ ] `topic_chunjie.html` — 春节 Chūnjié · Spring Festival
-- [ ] `topic_zhongqiu.html` — 中秋节 Zhōngqiū jié · Mid-Autumn Festival
-- [ ] `topic_qingming.html` — 清明节 Qīngmíng jié · Tomb-Sweeping
+- [ ] `topic_zhongqiu.html` — 中秋节 Zhōngqiūjié · Mid-Autumn Festival
+- [ ] `topic_qingming.html` — 清明节 Qīngmíngjié · Tomb-Sweeping
 - [ ] `topic_shufa.html` — 书法 Shūfǎ · Calligraphy
 - [ ] `topic_jingju.html` — 京剧 Jīngjù · Peking Opera
 - [ ] `topic_taiji.html` — 太极 Tàijí · Tai Chi
@@ -170,7 +190,7 @@ Pages are listed below grouped by category. Check off each one as it's authored.
 - [ ] `topic_hongbao.html` — 红包 Hóngbāo · Red Envelopes
 - [ ] `topic_shengxiao.html` — 生肖 Shēngxiào · Zodiac Animals
 
-### Culinary (`culinary/`)
+### Culinary (`pages/culinary/`)
 - [ ] `topic_cha.html` — 茶 Chá · Tea
 - [ ] `topic_caixi.html` — 八大菜系 · Eight Great Cuisines
 - [ ] `topic_chuancai.html` — 川菜 Chuāncài · Sichuan Cuisine
@@ -182,7 +202,7 @@ Pages are listed below grouped by category. Check off each one as it's authored.
 - [ ] `topic_doufu.html` — 豆腐 Dòufu · Tofu
 - [ ] `topic_baijiu.html` — 白酒 Báijiǔ · Baijiu
 
-### Arts & Literature (`arts/`)
+### Arts & Literature (`pages/arts/`)
 - [ ] `topic_shijing.html` — 诗经 Shījīng · Book of Songs
 - [ ] `topic_chuci.html` — 楚辞 Chǔcí · Songs of Chu
 - [ ] `topic_tangshi.html` — 唐诗 Tángshī · Tang Poetry
@@ -194,7 +214,7 @@ Pages are listed below grouped by category. Check off each one as it's authored.
 - [ ] `topic_kunqu.html` — 昆曲 Kūnqǔ · Kun Opera
 - [ ] `topic_luxun.html` — 鲁迅 Lǔ Xùn · Lu Xun
 
-### Science & Medicine (`science/`)
+### Science & Medicine (`pages/science/`)
 - [ ] `topic_zhongyi.html` — 中医 Zhōngyī · Traditional Chinese Medicine
 - [ ] `topic_zhenjiu.html` — 针灸 Zhēnjiǔ · Acupuncture
 - [ ] `topic_bencao.html` — 本草纲目 · The Great Pharmacopeia
@@ -206,7 +226,7 @@ Pages are listed below grouped by category. Check off each one as it's authored.
 - [ ] `topic_xingxiu.html` — 星宿 Xīngxiù · Chinese Constellations
 - [ ] `topic_sichou.html` — 丝绸 Sīchóu · Silk
 
-### Everyday Life & Customs (`daily/`)
+### Everyday Life & Customs (`pages/daily/`)
 - [ ] `topic_hongbai.html` — 红白喜事 · Weddings & Funerals
 - [ ] `topic_songli.html` — 送礼 · Gift-Giving
 - [ ] `topic_qingke.html` — 请客吃饭 · Treating to a Meal

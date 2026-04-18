@@ -17,7 +17,7 @@ window.ENTRIES = [
 
   /* ── LANGUAGE: CHARACTERS ──────────────────────────────────────────── */
   {
-    path: "characters/gan3_感.html",
+    path: "pages/characters/gan3_感.html",
     type: "character", category: "characters",
     char: "感", pinyin: "gǎn", tone: 3, hsk: "2–4", radical: "心",
     title: "感 · to feel, to resonate",
@@ -26,7 +26,7 @@ window.ENTRIES = [
     status: "complete"
   },
   {
-    path: "characters/shi4_是.html",
+    path: "pages/characters/shi4_是.html",
     type: "character", category: "characters",
     char: "是", pinyin: "shì", tone: 4, hsk: 1, radical: "日",
     title: "是 · to be",
@@ -35,7 +35,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "characters/you3_有.html",
+    path: "pages/characters/you3_有.html",
     type: "character", category: "characters",
     char: "有", pinyin: "yǒu", tone: 3, hsk: 1, radical: "月",
     title: "有 · to have, to exist",
@@ -44,7 +44,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "characters/xin1_心.html",
+    path: "pages/characters/xin1_心.html",
     type: "character", category: "characters",
     char: "心", pinyin: "xīn", tone: 1, hsk: 2, radical: "心",
     title: "心 · heart, mind",
@@ -53,7 +53,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "characters/ren2_人.html",
+    path: "pages/characters/ren2_人.html",
     type: "character", category: "characters",
     char: "人", pinyin: "rén", tone: 2, hsk: 1, radical: "人",
     title: "人 · person, humanity",
@@ -62,7 +62,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "characters/qi4_气.html",
+    path: "pages/characters/qi4_气.html",
     type: "character", category: "characters",
     char: "气", pinyin: "qì", tone: 4, hsk: 3, radical: "气",
     title: "气 · breath, vital energy",
@@ -71,7 +71,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "characters/dao4_道.html",
+    path: "pages/characters/dao4_道.html",
     type: "character", category: "characters",
     char: "道", pinyin: "dào", tone: 4, hsk: 3, radical: "辶",
     title: "道 · way, path",
@@ -80,7 +80,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "characters/tian1_天.html",
+    path: "pages/characters/tian1_天.html",
     type: "character", category: "characters",
     char: "天", pinyin: "tiān", tone: 1, hsk: 1, radical: "大",
     title: "天 · sky, heaven, day",
@@ -89,7 +89,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "characters/jia1_家.html",
+    path: "pages/characters/jia1_家.html",
     type: "character", category: "characters",
     char: "家", pinyin: "jiā", tone: 1, hsk: 1, radical: "宀",
     title: "家 · home, family",
@@ -98,7 +98,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "characters/zi4_字.html",
+    path: "pages/characters/zi4_字.html",
     type: "character", category: "characters",
     char: "字", pinyin: "zì", tone: 4, hsk: 1, radical: "子",
     title: "字 · character, written word",
@@ -109,7 +109,7 @@ window.ENTRIES = [
 
   /* ── LANGUAGE: VOCAB ───────────────────────────────────────────────── */
   {
-    path: "vocab/dongxi_东西.html",
+    path: "pages/vocab/dongxi_东西.html",
     type: "vocab", category: "vocab",
     title: "东西 · things",
     pinyin: "dōngxi",
@@ -118,7 +118,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "vocab/yisi_意思.html",
+    path: "pages/vocab/yisi_意思.html",
     type: "vocab", category: "vocab",
     title: "意思 · meaning, intention",
     pinyin: "yìsi",
@@ -127,7 +127,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "vocab/guanxi_关系.html",
+    path: "pages/vocab/guanxi_关系.html",
     type: "vocab", category: "vocab",
     title: "关系 · relationship, connections",
     pinyin: "guānxi",
@@ -136,7 +136,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "vocab/mianzi_面子.html",
+    path: "pages/vocab/mianzi_面子.html",
     type: "vocab", category: "vocab",
     title: "面子 · face, honor",
     pinyin: "miànzi",
@@ -145,7 +145,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "vocab/yuanfen_缘分.html",
+    path: "pages/vocab/yuanfen_缘分.html",
     type: "vocab", category: "vocab",
     title: "缘分 · karmic connection",
     pinyin: "yuánfèn",
@@ -154,7 +154,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "vocab/jianghu_江湖.html",
+    path: "pages/vocab/jianghu_江湖.html",
     type: "vocab", category: "vocab",
     title: "江湖 · rivers and lakes",
     pinyin: "jiānghú",
@@ -163,7 +163,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "vocab/gongfu_功夫.html",
+    path: "pages/vocab/gongfu_功夫.html",
     type: "vocab", category: "vocab",
     title: "功夫 · effort, skill over time",
     pinyin: "gōngfu",
@@ -172,7 +172,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "vocab/fengshui_风水.html",
+    path: "pages/vocab/fengshui_风水.html",
     type: "vocab", category: "vocab",
     title: "风水 · wind and water",
     pinyin: "fēngshuǐ",
@@ -181,7 +181,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "vocab/yinyang_阴阳.html",
+    path: "pages/vocab/yinyang_阴阳.html",
     type: "vocab", category: "vocab",
     title: "阴阳 · yin and yang",
     pinyin: "yīnyáng",
@@ -190,7 +190,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "vocab/tianxia_天下.html",
+    path: "pages/vocab/tianxia_天下.html",
     type: "vocab", category: "vocab",
     title: "天下 · all under heaven",
     pinyin: "tiānxià",
@@ -201,7 +201,7 @@ window.ENTRIES = [
 
   /* ── LANGUAGE: GRAMMAR ─────────────────────────────────────────────── */
   {
-    path: "grammar/le_了.html",
+    path: "pages/grammar/le_了.html",
     type: "grammar", category: "grammar",
     title: "了 · the perfective particle",
     pinyin: "le",
@@ -210,7 +210,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "grammar/ba_把.html",
+    path: "pages/grammar/ba_把.html",
     type: "grammar", category: "grammar",
     title: "把 · the disposal construction",
     pinyin: "bǎ",
@@ -219,7 +219,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "grammar/bei_被.html",
+    path: "pages/grammar/bei_被.html",
     type: "grammar", category: "grammar",
     title: "被 · the passive",
     pinyin: "bèi",
@@ -228,7 +228,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "grammar/shide_是的.html",
+    path: "pages/grammar/shide_是的.html",
     type: "grammar", category: "grammar",
     title: "是…的 · the cleft construction",
     pinyin: "shì…de",
@@ -237,7 +237,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "grammar/jiu_cai_就才.html",
+    path: "pages/grammar/jiu_cai_就才.html",
     type: "grammar", category: "grammar",
     title: "就 vs. 才 · sooner vs. later",
     pinyin: "jiù / cái",
@@ -246,7 +246,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "grammar/de_的得地.html",
+    path: "pages/grammar/de_的得地.html",
     type: "grammar", category: "grammar",
     title: "的 · 得 · 地 · the three de's",
     pinyin: "de / dé / dì",
@@ -255,7 +255,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "grammar/liangci_量词.html",
+    path: "pages/grammar/liangci_量词.html",
     type: "grammar", category: "grammar",
     title: "量词 · measure words",
     pinyin: "liàngcí",
@@ -264,7 +264,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "grammar/hui_neng_keyi_会能可以.html",
+    path: "pages/grammar/hui_neng_keyi_会能可以.html",
     type: "grammar", category: "grammar",
     title: "会 · 能 · 可以 · the three 'can's",
     pinyin: "huì / néng / kěyǐ",
@@ -273,7 +273,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "grammar/directional_来去.html",
+    path: "pages/grammar/directional_来去.html",
     type: "grammar", category: "grammar",
     title: "来 · 去 · directional complements",
     pinyin: "lái / qù",
@@ -282,7 +282,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "grammar/lian_dou_连都.html",
+    path: "pages/grammar/lian_dou_连都.html",
     type: "grammar", category: "grammar",
     title: "连…都/也 · even X",
     pinyin: "lián…dōu/yě",
@@ -293,7 +293,7 @@ window.ENTRIES = [
 
   /* ── RELIGION ──────────────────────────────────────────────────────── */
   {
-    path: "religion/topic_rujia.html",
+    path: "pages/religion/topic_rujia.html",
     type: "topic", category: "religion",
     title: "儒家 · Confucianism",
     pinyin: "rújiā",
@@ -302,7 +302,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "religion/topic_daojiao.html",
+    path: "pages/religion/topic_daojiao.html",
     type: "topic", category: "religion",
     title: "道教 · Daoism",
     pinyin: "dàojiào",
@@ -311,7 +311,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "religion/topic_fojiao.html",
+    path: "pages/religion/topic_fojiao.html",
     type: "topic", category: "religion",
     title: "佛教 · Buddhism in China",
     pinyin: "fójiào",
@@ -320,7 +320,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "religion/topic_chan.html",
+    path: "pages/religion/topic_chan.html",
     type: "topic", category: "religion",
     title: "禅宗 · Chán Buddhism",
     pinyin: "chán zōng",
@@ -329,7 +329,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "religion/topic_jingtu.html",
+    path: "pages/religion/topic_jingtu.html",
     type: "topic", category: "religion",
     title: "净土宗 · Pure Land",
     pinyin: "jìngtǔ zōng",
@@ -338,7 +338,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "religion/topic_minjian.html",
+    path: "pages/religion/topic_minjian.html",
     type: "topic", category: "religion",
     title: "民间信仰 · Folk Religion",
     pinyin: "mínjiān xìnyǎng",
@@ -347,7 +347,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "religion/topic_zuxian.html",
+    path: "pages/religion/topic_zuxian.html",
     type: "topic", category: "religion",
     title: "祖先崇拜 · Ancestor Veneration",
     pinyin: "zǔxiān chóngbài",
@@ -356,7 +356,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "religion/topic_mazu.html",
+    path: "pages/religion/topic_mazu.html",
     type: "topic", category: "religion",
     title: "妈祖 · the Sea Goddess",
     pinyin: "māzǔ",
@@ -365,7 +365,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "religion/topic_yisilan.html",
+    path: "pages/religion/topic_yisilan.html",
     type: "topic", category: "religion",
     title: "伊斯兰教 · Islam in China",
     pinyin: "yīsīlán jiào",
@@ -374,7 +374,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "religion/topic_saman.html",
+    path: "pages/religion/topic_saman.html",
     type: "topic", category: "religion",
     title: "萨满教 · Shamanism",
     pinyin: "sàmǎn jiào",
@@ -385,7 +385,7 @@ window.ENTRIES = [
 
   /* ── PHILOSOPHY ────────────────────────────────────────────────────── */
   {
-    path: "philosophy/topic_kongzi.html",
+    path: "pages/philosophy/topic_kongzi.html",
     type: "topic", category: "philosophy",
     title: "孔子 · Confucius",
     pinyin: "kǒngzǐ",
@@ -394,7 +394,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "philosophy/topic_laozi.html",
+    path: "pages/philosophy/topic_laozi.html",
     type: "topic", category: "philosophy",
     title: "老子 · Laozi & the Daodejing",
     pinyin: "lǎozǐ",
@@ -403,7 +403,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "philosophy/topic_zhuangzi.html",
+    path: "pages/philosophy/topic_zhuangzi.html",
     type: "topic", category: "philosophy",
     title: "庄子 · Zhuangzi",
     pinyin: "zhuāngzǐ",
@@ -412,7 +412,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "philosophy/topic_mengzi.html",
+    path: "pages/philosophy/topic_mengzi.html",
     type: "topic", category: "philosophy",
     title: "孟子 · Mencius",
     pinyin: "mèngzǐ",
@@ -421,7 +421,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "philosophy/topic_xunzi.html",
+    path: "pages/philosophy/topic_xunzi.html",
     type: "topic", category: "philosophy",
     title: "荀子 · Xunzi",
     pinyin: "xúnzǐ",
@@ -430,7 +430,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "philosophy/topic_mojia.html",
+    path: "pages/philosophy/topic_mojia.html",
     type: "topic", category: "philosophy",
     title: "墨家 · Mohism",
     pinyin: "mòjiā",
@@ -439,7 +439,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "philosophy/topic_fajia.html",
+    path: "pages/philosophy/topic_fajia.html",
     type: "topic", category: "philosophy",
     title: "法家 · Legalism",
     pinyin: "fǎjiā",
@@ -448,7 +448,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "philosophy/topic_yinyang_wuxing.html",
+    path: "pages/philosophy/topic_yinyang_wuxing.html",
     type: "topic", category: "philosophy",
     title: "阴阳五行 · Yin-Yang and the Five Phases",
     pinyin: "yīnyáng wǔxíng",
@@ -457,7 +457,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "philosophy/topic_lixue.html",
+    path: "pages/philosophy/topic_lixue.html",
     type: "topic", category: "philosophy",
     title: "理学 · Neo-Confucianism",
     pinyin: "lǐxué",
@@ -466,7 +466,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "philosophy/topic_xinxue.html",
+    path: "pages/philosophy/topic_xinxue.html",
     type: "topic", category: "philosophy",
     title: "心学 · Wang Yangming",
     pinyin: "xīnxué",
@@ -477,7 +477,7 @@ window.ENTRIES = [
 
   /* ── HISTORY ───────────────────────────────────────────────────────── */
   {
-    path: "history/topic_xia_shang_zhou.html",
+    path: "pages/history/topic_xia_shang_zhou.html",
     type: "topic", category: "history",
     title: "夏商周 · The Three Dynasties",
     pinyin: "xià shāng zhōu",
@@ -486,7 +486,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "history/topic_qin_shihuang.html",
+    path: "pages/history/topic_qin_shihuang.html",
     type: "topic", category: "history",
     title: "秦始皇 · The First Emperor",
     pinyin: "qín shǐhuáng",
@@ -495,7 +495,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "history/topic_hanchao.html",
+    path: "pages/history/topic_hanchao.html",
     type: "topic", category: "history",
     title: "汉朝 · The Han Dynasty",
     pinyin: "hàncháo",
@@ -504,7 +504,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "history/topic_tangchao.html",
+    path: "pages/history/topic_tangchao.html",
     type: "topic", category: "history",
     title: "唐朝 · The Tang Dynasty",
     pinyin: "tángcháo",
@@ -513,7 +513,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "history/topic_songchao.html",
+    path: "pages/history/topic_songchao.html",
     type: "topic", category: "history",
     title: "宋朝 · The Song Dynasty",
     pinyin: "sòngcháo",
@@ -522,7 +522,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "history/topic_yuanchao.html",
+    path: "pages/history/topic_yuanchao.html",
     type: "topic", category: "history",
     title: "元朝 · The Yuan Dynasty",
     pinyin: "yuáncháo",
@@ -531,7 +531,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "history/topic_mingchao.html",
+    path: "pages/history/topic_mingchao.html",
     type: "topic", category: "history",
     title: "明朝 · The Ming Dynasty",
     pinyin: "míngcháo",
@@ -540,7 +540,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "history/topic_qingchao.html",
+    path: "pages/history/topic_qingchao.html",
     type: "topic", category: "history",
     title: "清朝 · The Qing Dynasty",
     pinyin: "qīngcháo",
@@ -549,7 +549,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "history/topic_xinhai.html",
+    path: "pages/history/topic_xinhai.html",
     type: "topic", category: "history",
     title: "辛亥革命 · The 1911 Revolution",
     pinyin: "xīnhài gémìng",
@@ -558,7 +558,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "history/topic_wenge.html",
+    path: "pages/history/topic_wenge.html",
     type: "topic", category: "history",
     title: "文化大革命 · The Cultural Revolution",
     pinyin: "wénhuà dà gémìng",
@@ -569,7 +569,7 @@ window.ENTRIES = [
 
   /* ── GEOGRAPHY ─────────────────────────────────────────────────────── */
   {
-    path: "geography/topic_huanghe.html",
+    path: "pages/geography/topic_huanghe.html",
     type: "topic", category: "geography",
     title: "黄河 · The Yellow River",
     pinyin: "huánghé",
@@ -578,7 +578,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "geography/topic_changjiang.html",
+    path: "pages/geography/topic_changjiang.html",
     type: "topic", category: "geography",
     title: "长江 · The Yangtze",
     pinyin: "chángjiāng",
@@ -587,7 +587,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "geography/topic_beijing.html",
+    path: "pages/geography/topic_beijing.html",
     type: "topic", category: "geography",
     title: "北京 · Beijing",
     pinyin: "běijīng",
@@ -596,7 +596,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "geography/topic_shanghai.html",
+    path: "pages/geography/topic_shanghai.html",
     type: "topic", category: "geography",
     title: "上海 · Shanghai",
     pinyin: "shànghǎi",
@@ -605,7 +605,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "geography/topic_xizang.html",
+    path: "pages/geography/topic_xizang.html",
     type: "topic", category: "geography",
     title: "西藏 · Tibet",
     pinyin: "xīzàng",
@@ -614,7 +614,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "geography/topic_xinjiang.html",
+    path: "pages/geography/topic_xinjiang.html",
     type: "topic", category: "geography",
     title: "新疆 · Xinjiang",
     pinyin: "xīnjiāng",
@@ -623,7 +623,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "geography/topic_xianggang.html",
+    path: "pages/geography/topic_xianggang.html",
     type: "topic", category: "geography",
     title: "香港 · Hong Kong",
     pinyin: "xiānggǎng",
@@ -632,7 +632,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "geography/topic_taiwan.html",
+    path: "pages/geography/topic_taiwan.html",
     type: "topic", category: "geography",
     title: "台湾 · Taiwan",
     pinyin: "táiwān",
@@ -641,7 +641,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "geography/topic_fangyan.html",
+    path: "pages/geography/topic_fangyan.html",
     type: "topic", category: "geography",
     title: "方言 · The Dialect Map",
     pinyin: "fāngyán",
@@ -650,7 +650,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "geography/topic_caixi_geography.html",
+    path: "pages/geography/topic_caixi_geography.html",
     type: "topic", category: "geography",
     title: "八大菜系 · Cuisines as Geography",
     pinyin: "bā dà càixì",
@@ -661,7 +661,7 @@ window.ENTRIES = [
 
   /* ── CULTURE ───────────────────────────────────────────────────────── */
   {
-    path: "culture/topic_chunjie.html",
+    path: "pages/culture/topic_chunjie.html",
     type: "topic", category: "culture",
     title: "春节 · Spring Festival",
     pinyin: "chūnjié",
@@ -670,7 +670,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "culture/topic_zhongqiu.html",
+    path: "pages/culture/topic_zhongqiu.html",
     type: "topic", category: "culture",
     title: "中秋节 · Mid-Autumn Festival",
     pinyin: "zhōngqiū jié",
@@ -679,7 +679,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "culture/topic_qingming.html",
+    path: "pages/culture/topic_qingming.html",
     type: "topic", category: "culture",
     title: "清明节 · Tomb-Sweeping Festival",
     pinyin: "qīngmíng jié",
@@ -688,7 +688,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "culture/topic_shufa.html",
+    path: "pages/culture/topic_shufa.html",
     type: "topic", category: "culture",
     title: "书法 · Calligraphy",
     pinyin: "shūfǎ",
@@ -697,7 +697,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "culture/topic_jingju.html",
+    path: "pages/culture/topic_jingju.html",
     type: "topic", category: "culture",
     title: "京剧 · Peking Opera",
     pinyin: "jīngjù",
@@ -706,7 +706,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "culture/topic_taiji.html",
+    path: "pages/culture/topic_taiji.html",
     type: "topic", category: "culture",
     title: "太极 · Tai Chi",
     pinyin: "tàijí",
@@ -715,7 +715,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "culture/topic_hanfu.html",
+    path: "pages/culture/topic_hanfu.html",
     type: "topic", category: "culture",
     title: "汉服 · Traditional Dress",
     pinyin: "hànfú",
@@ -724,7 +724,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "culture/topic_cha_wenhua.html",
+    path: "pages/culture/topic_cha_wenhua.html",
     type: "topic", category: "culture",
     title: "茶文化 · Tea Culture",
     pinyin: "chá wénhuà",
@@ -733,7 +733,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "culture/topic_hongbao.html",
+    path: "pages/culture/topic_hongbao.html",
     type: "topic", category: "culture",
     title: "红包 · Red Envelopes",
     pinyin: "hóngbāo",
@@ -742,7 +742,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "culture/topic_shengxiao.html",
+    path: "pages/culture/topic_shengxiao.html",
     type: "topic", category: "culture",
     title: "生肖 · The Twelve Zodiac Animals",
     pinyin: "shēngxiào",
@@ -753,7 +753,7 @@ window.ENTRIES = [
 
   /* ── CULINARY ──────────────────────────────────────────────────────── */
   {
-    path: "culinary/topic_cha.html",
+    path: "pages/culinary/topic_cha.html",
     type: "topic", category: "culinary",
     title: "茶 · Tea",
     pinyin: "chá",
@@ -762,7 +762,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "culinary/topic_caixi.html",
+    path: "pages/culinary/topic_caixi.html",
     type: "topic", category: "culinary",
     title: "八大菜系 · The Eight Great Cuisines",
     pinyin: "bā dà càixì",
@@ -771,7 +771,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "culinary/topic_chuancai.html",
+    path: "pages/culinary/topic_chuancai.html",
     type: "topic", category: "culinary",
     title: "川菜 · Sichuan Cuisine",
     pinyin: "chuāncài",
@@ -780,7 +780,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "culinary/topic_yuecai.html",
+    path: "pages/culinary/topic_yuecai.html",
     type: "topic", category: "culinary",
     title: "粤菜 · Cantonese Cuisine",
     pinyin: "yuècài",
@@ -789,7 +789,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "culinary/topic_lucai.html",
+    path: "pages/culinary/topic_lucai.html",
     type: "topic", category: "culinary",
     title: "鲁菜 · Shandong Cuisine",
     pinyin: "lǔcài",
@@ -798,7 +798,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "culinary/topic_miantiao.html",
+    path: "pages/culinary/topic_miantiao.html",
     type: "topic", category: "culinary",
     title: "面条 · Noodles",
     pinyin: "miàntiáo",
@@ -807,7 +807,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "culinary/topic_jiaozi.html",
+    path: "pages/culinary/topic_jiaozi.html",
     type: "topic", category: "culinary",
     title: "饺子 · Dumplings",
     pinyin: "jiǎozi",
@@ -816,7 +816,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "culinary/topic_huoguo.html",
+    path: "pages/culinary/topic_huoguo.html",
     type: "topic", category: "culinary",
     title: "火锅 · Hotpot",
     pinyin: "huǒguō",
@@ -825,7 +825,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "culinary/topic_doufu.html",
+    path: "pages/culinary/topic_doufu.html",
     type: "topic", category: "culinary",
     title: "豆腐 · Tofu",
     pinyin: "dòufu",
@@ -834,7 +834,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "culinary/topic_baijiu.html",
+    path: "pages/culinary/topic_baijiu.html",
     type: "topic", category: "culinary",
     title: "白酒 · Baijiu",
     pinyin: "báijiǔ",
@@ -845,7 +845,7 @@ window.ENTRIES = [
 
   /* ── ARTS & LITERATURE ─────────────────────────────────────────────── */
   {
-    path: "arts/topic_shijing.html",
+    path: "pages/arts/topic_shijing.html",
     type: "topic", category: "arts",
     title: "诗经 · Book of Songs",
     pinyin: "shījīng",
@@ -854,7 +854,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "arts/topic_chuci.html",
+    path: "pages/arts/topic_chuci.html",
     type: "topic", category: "arts",
     title: "楚辞 · Songs of Chu",
     pinyin: "chǔcí",
@@ -863,7 +863,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "arts/topic_tangshi.html",
+    path: "pages/arts/topic_tangshi.html",
     type: "topic", category: "arts",
     title: "唐诗 · Tang Poetry",
     pinyin: "tángshī",
@@ -872,7 +872,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "arts/topic_songci.html",
+    path: "pages/arts/topic_songci.html",
     type: "topic", category: "arts",
     title: "宋词 · Song Lyric",
     pinyin: "sòngcí",
@@ -881,7 +881,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "arts/topic_sidaimingzhu.html",
+    path: "pages/arts/topic_sidaimingzhu.html",
     type: "topic", category: "arts",
     title: "四大名著 · The Four Great Novels",
     pinyin: "sì dà míngzhù",
@@ -890,7 +890,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "arts/topic_shuimohua.html",
+    path: "pages/arts/topic_shuimohua.html",
     type: "topic", category: "arts",
     title: "水墨画 · Ink-Wash Painting",
     pinyin: "shuǐmòhuà",
@@ -899,7 +899,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "arts/topic_wenfangsibao.html",
+    path: "pages/arts/topic_wenfangsibao.html",
     type: "topic", category: "arts",
     title: "文房四宝 · Four Treasures of the Study",
     pinyin: "wénfáng sìbǎo",
@@ -908,7 +908,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "arts/topic_zhuanke.html",
+    path: "pages/arts/topic_zhuanke.html",
     type: "topic", category: "arts",
     title: "篆刻 · Seal Carving",
     pinyin: "zhuànkè",
@@ -917,7 +917,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "arts/topic_kunqu.html",
+    path: "pages/arts/topic_kunqu.html",
     type: "topic", category: "arts",
     title: "昆曲 · Kun Opera",
     pinyin: "kūnqǔ",
@@ -926,7 +926,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "arts/topic_luxun.html",
+    path: "pages/arts/topic_luxun.html",
     type: "topic", category: "arts",
     title: "鲁迅 · Lu Xun",
     pinyin: "lǔ xùn",
@@ -937,7 +937,7 @@ window.ENTRIES = [
 
   /* ── SCIENCE & MEDICINE ────────────────────────────────────────────── */
   {
-    path: "science/topic_zhongyi.html",
+    path: "pages/science/topic_zhongyi.html",
     type: "topic", category: "science",
     title: "中医 · Traditional Chinese Medicine",
     pinyin: "zhōngyī",
@@ -946,7 +946,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "science/topic_zhenjiu.html",
+    path: "pages/science/topic_zhenjiu.html",
     type: "topic", category: "science",
     title: "针灸 · Acupuncture & Moxibustion",
     pinyin: "zhēnjiǔ",
@@ -955,7 +955,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "science/topic_bencao.html",
+    path: "pages/science/topic_bencao.html",
     type: "topic", category: "science",
     title: "本草纲目 · The Great Pharmacopeia",
     pinyin: "běncǎo gāngmù",
@@ -964,7 +964,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "science/topic_sidafaming.html",
+    path: "pages/science/topic_sidafaming.html",
     type: "topic", category: "science",
     title: "四大发明 · The Four Great Inventions",
     pinyin: "sì dà fāmíng",
@@ -973,7 +973,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "science/topic_suanpan.html",
+    path: "pages/science/topic_suanpan.html",
     type: "topic", category: "science",
     title: "算盘 · The Abacus",
     pinyin: "suànpán",
@@ -982,7 +982,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "science/topic_lifa.html",
+    path: "pages/science/topic_lifa.html",
     type: "topic", category: "science",
     title: "历法 · The Lunisolar Calendar",
     pinyin: "lìfǎ",
@@ -991,7 +991,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "science/topic_jieqi.html",
+    path: "pages/science/topic_jieqi.html",
     type: "topic", category: "science",
     title: "二十四节气 · The 24 Solar Terms",
     pinyin: "èrshísì jiéqì",
@@ -1000,7 +1000,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "science/topic_fengshui_science.html",
+    path: "pages/science/topic_fengshui_science.html",
     type: "topic", category: "science",
     title: "风水 · Geomancy as Proto-Science",
     pinyin: "fēngshuǐ",
@@ -1009,7 +1009,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "science/topic_xingxiu.html",
+    path: "pages/science/topic_xingxiu.html",
     type: "topic", category: "science",
     title: "星宿 · Chinese Constellations",
     pinyin: "xīngxiù",
@@ -1018,7 +1018,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "science/topic_sichou.html",
+    path: "pages/science/topic_sichou.html",
     type: "topic", category: "science",
     title: "丝绸 · Silk",
     pinyin: "sīchóu",
@@ -1029,7 +1029,7 @@ window.ENTRIES = [
 
   /* ── EVERYDAY LIFE & CUSTOMS ───────────────────────────────────────── */
   {
-    path: "daily/topic_hongbai.html",
+    path: "pages/daily/topic_hongbai.html",
     type: "topic", category: "daily",
     title: "红白喜事 · Weddings & Funerals",
     pinyin: "hóngbái xǐshì",
@@ -1038,7 +1038,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "daily/topic_songli.html",
+    path: "pages/daily/topic_songli.html",
     type: "topic", category: "daily",
     title: "送礼 · Gift-Giving",
     pinyin: "sònglǐ",
@@ -1047,7 +1047,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "daily/topic_qingke.html",
+    path: "pages/daily/topic_qingke.html",
     type: "topic", category: "daily",
     title: "请客吃饭 · Treating to a Meal",
     pinyin: "qǐngkè chīfàn",
@@ -1056,7 +1056,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "daily/topic_chenghu.html",
+    path: "pages/daily/topic_chenghu.html",
     type: "topic", category: "daily",
     title: "称呼 · Forms of Address",
     pinyin: "chēnghū",
@@ -1065,7 +1065,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "daily/topic_xingming.html",
+    path: "pages/daily/topic_xingming.html",
     type: "topic", category: "daily",
     title: "姓名 · Names & Surnames",
     pinyin: "xìngmíng",
@@ -1074,7 +1074,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "daily/topic_shuzi.html",
+    path: "pages/daily/topic_shuzi.html",
     type: "topic", category: "daily",
     title: "数字 · Lucky & Unlucky Numbers",
     pinyin: "shùzì",
@@ -1083,7 +1083,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "daily/topic_yanse.html",
+    path: "pages/daily/topic_yanse.html",
     type: "topic", category: "daily",
     title: "颜色 · Color Symbolism",
     pinyin: "yánsè",
@@ -1092,7 +1092,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "daily/topic_jingjiu.html",
+    path: "pages/daily/topic_jingjiu.html",
     type: "topic", category: "daily",
     title: "敬酒 · Toasting Culture",
     pinyin: "jìngjiǔ",
@@ -1101,7 +1101,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "daily/topic_mixin.html",
+    path: "pages/daily/topic_mixin.html",
     type: "topic", category: "daily",
     title: "迷信 · Superstitions",
     pinyin: "míxìn",
@@ -1110,7 +1110,7 @@ window.ENTRIES = [
     status: "stub"
   },
   {
-    path: "daily/topic_kuaizi.html",
+    path: "pages/daily/topic_kuaizi.html",
     type: "topic", category: "daily",
     title: "筷子礼仪 · Chopstick Etiquette",
     pinyin: "kuàizi lǐyí",
