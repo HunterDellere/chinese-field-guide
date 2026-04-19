@@ -275,6 +275,25 @@
     "updated": "2026-04-19"
   },
   {
+    "path": "pages/characters/guo2_国.html",
+    "type": "character",
+    "category": "characters",
+    "title": "国 · country, nation, state",
+    "desc": "A walled enclosure protecting its people — the Chinese concept of nationhood written in a single character.",
+    "tags": [
+      "politics",
+      "society",
+      "culture"
+    ],
+    "status": "complete",
+    "char": "国",
+    "pinyin": "guó",
+    "tone": 2,
+    "hsk": 1,
+    "radical": "囗",
+    "updated": "2026-04-19"
+  },
+  {
     "path": "pages/characters/hao3_好.html",
     "type": "character",
     "category": "characters",
@@ -338,42 +357,22 @@
     "updated": "2026-04-19"
   },
   {
-    "path": "pages/characters/mu4_木.html",
+    "path": "pages/characters/mei3_美.html",
     "type": "character",
     "category": "characters",
-    "title": "木 · tree, wood",
-    "desc": "A tree seen whole: trunk, branches, roots. The pictograph that became a radical, a wuxing element, and the building block of 林, 森, 本, and 末.",
+    "title": "美 · beautiful, USA, delicious",
+    "desc": "A large sheep carrying horns — beauty as abundance, sacrifice, and the pleasure of the highest good.",
     "tags": [
-      "radical",
-      "nature",
-      "wuxing",
-      "cosmology"
+      "aesthetics",
+      "culture",
+      "philosophy"
     ],
     "status": "complete",
-    "char": "木",
-    "pinyin": "mù",
-    "tone": 4,
-    "hsk": 1,
-    "radical": "木",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/characters/qian2_钱.html",
-    "type": "character",
-    "category": "characters",
-    "title": "钱 · money, coin, currency",
-    "desc": "Money — the character that drives markets, proverbs, and the Chinese conversation about wealth.",
-    "tags": [
-      "daily-life",
-      "economy",
-      "culture"
-    ],
-    "status": "complete",
-    "char": "钱",
-    "pinyin": "qián",
-    "tone": 2,
-    "hsk": 1,
-    "radical": "钅",
+    "char": "美",
+    "pinyin": "měi",
+    "tone": 3,
+    "hsk": 2,
+    "radical": "羊",
     "updated": "2026-04-19"
   }
 ]

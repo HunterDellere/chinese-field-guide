@@ -222,5 +222,12 @@
   {"slug": "rhetoric",          "label": "Rhetoric"},
   {"slug": "concession",        "label": "Concession"},
   {"slug": "conditional",       "label": "Conditional"},
-  {"slug": "degree",            "label": "Degree"}
+  {"slug": "degree",            "label": "Degree"},
+  {"slug": "aesthetics",        "label": "Aesthetics"},
+  {"slug": "light",             "label": "Light"},
+  {"slug": "clarity",           "label": "Clarity"},
+  {"slug": "sacred",            "label": "Sacred"},
+  {"slug": "life",              "label": "Life"},
+  {"slug": "biology",           "label": "Biology"},
+  {"slug": "body",              "label": "Body"}
 ]

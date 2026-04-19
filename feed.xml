@@ -6,7 +6,7 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>Notes on Chinese language and civilisation — characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Apr 2026 22:30:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 22:59:19 GMT</lastBuildDate>
     <item>
       <title>楚辞 · Songs of Chu</title>
       <link>https://jiaoshoo.com/pages/arts/topic_chuci.html</link>
@@ -128,6 +128,14 @@
       <category>characters</category>
     </item>
     <item>
+      <title>国 · country, nation, state</title>
+      <link>https://jiaoshoo.com/pages/characters/guo2_国.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/guo2_国.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>A walled enclosure protecting its people — the Chinese concept of nationhood written in a single character.</description>
+      <category>characters</category>
+    </item>
+    <item>
       <title>好 · good; to like</title>
       <link>https://jiaoshoo.com/pages/characters/hao3_好.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/hao3_好.html</guid>
@@ -152,6 +160,22 @@
       <category>characters</category>
     </item>
     <item>
+      <title>美 · beautiful, USA, delicious</title>
+      <link>https://jiaoshoo.com/pages/characters/mei3_美.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/mei3_美.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>A large sheep carrying horns — beauty as abundance, sacrifice, and the pleasure of the highest good.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>明 · bright, clear, tomorrow</title>
+      <link>https://jiaoshoo.com/pages/characters/ming2_明.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/ming2_明.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Sun and moon combined — brightness, clarity, dawn, and understanding.</description>
+      <category>characters</category>
+    </item>
+    <item>
       <title>木 · tree, wood</title>
       <link>https://jiaoshoo.com/pages/characters/mu4_木.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/mu4_木.html</guid>
@@ -165,6 +189,22 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/qian2_钱.html</guid>
       <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
       <description>Money — the character that drives markets, proverbs, and the Chinese conversation about wealth.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>山 · mountain, hill, sacred peak</title>
+      <link>https://jiaoshoo.com/pages/characters/shan1_山.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/shan1_山.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Three peaks rising from the earth — the oldest pictograph and the axis of Chinese sacred geography.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>生 · life, birth, raw, student</title>
+      <link>https://jiaoshoo.com/pages/characters/sheng1_生.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/sheng1_生.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>A sprouting plant — life emerging from the earth. The most generative radical in Chinese.</description>
       <category>characters</category>
     </item>
     <item>
@@ -206,46 +246,6 @@
       <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
       <description>Room, dwelling, and the human need for shelter — the character at home.</description>
       <category>characters</category>
-    </item>
-    <item>
-      <title>要 · to want, must, essential</title>
-      <link>https://jiaoshoo.com/pages/characters/yao4_要.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/yao4_要.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Want, need, must, and will — the grammar engine disguised as a single character.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>再 · again, then, further</title>
-      <link>https://jiaoshoo.com/pages/characters/zai4_再.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/zai4_再.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Again, one more time, and the subtle art of &quot;and then&quot; — the character that sequences and repeats.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>在 · to be at, located, in progress</title>
-      <link>https://jiaoshoo.com/pages/characters/zai4_在.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/zai4_在.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Location, existence, and the progressive aspect — the character that puts things in place and actions in motion.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>画蛇添足 · Drawing Legs on a Snake</title>
-      <link>https://jiaoshoo.com/pages/chengyu/huashetianzu_画蛇添足.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/chengyu/huashetianzu_画蛇添足.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>He finished first, so he kept drawing — and lost the prize. The idiom for ruining a good thing by overdoing it.</description>
-      <category>chengyu</category>
-    </item>
-    <item>
-      <title>刻舟求剑 · Carving the Boat to Find the Sword</title>
-      <link>https://jiaoshoo.com/pages/chengyu/kezhouqiujian_刻舟求剑.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/chengyu/kezhouqiujian_刻舟求剑.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>He marked the boat where his sword fell into the river. When the boat reached the shore, he dived where the mark was.</description>
-      <category>chengyu</category>
     </item>
   </channel>
 </rss>

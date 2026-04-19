@@ -1,0 +1,513 @@
+---
+type: 'character'
+category: 'characters'
+status: 'complete'
+title: '明 · bright, clear, tomorrow'
+desc: 'Sun and moon combined — brightness, clarity, dawn, and understanding.'
+metaDesc: "明 míng: bright, clear, tomorrow. The sun-moon compound at the heart of enlightenment, clarity, and the Chinese conception of understanding. Etymology, compounds, and chengyu."
+pageTitle: '明 míng'
+tags:
+  - 'light'
+  - 'clarity'
+  - 'time'
+updated: '2026-04-19'
+char: '明'
+pinyin: 'míng'
+tone: 2
+hsk: 2
+radical: '日'
+---
+
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+
+    <span class="toc-glyph">明</span>
+    <span class="toc-pinyin">míng · tone 2</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#etymology">
+        <span class="toc-cn">字源</span> Etymology
+        <span class="toc-sub">zìyuán · sun + moon</span>
+      </a></li>
+      <li><a href="#bright">
+        <span class="toc-cn">明亮</span> Brightness
+        <span class="toc-sub">míngliàng · light compounds</span>
+      </a></li>
+      <li><a href="#clarity">
+        <span class="toc-cn">明白</span> Clarity
+        <span class="toc-sub">míngbai · understanding</span>
+      </a></li>
+      <li><a href="#time">
+        <span class="toc-cn">明天</span> Time
+        <span class="toc-sub">míngtiān · tomorrow & next</span>
+      </a></li>
+      <li><a href="#wisdom">
+        <span class="toc-cn">明智</span> Wisdom
+        <span class="toc-sub">míngzhì · insight & judgment</span>
+      </a></li>
+      <li><a href="#chengyu">
+        <span class="toc-cn">成语</span> Idioms
+        <span class="toc-sub">chéngyǔ · set phrases</span>
+      </a></li>
+      <li><a href="#adjacent">
+        <span class="toc-cn">相邻</span> Adjacent Vocab
+        <span class="toc-sub">xiānglín cíhuì</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- HERO -->
+    <header class="hero">
+      <div class="hero-inner">
+        <div class="hero-glyph-col">
+          <div class="hero-script-pair">
+            <div class="hero-script hero-script--simp">
+              <span class="hero-glyph">明</span>
+              <span class="hero-script-label">simplified</span>
+            </div>
+            <div class="hero-script-divider"></div>
+            <div class="hero-script hero-script--trad">
+              <span class="hero-glyph">明</span>
+              <span class="hero-script-label">traditional · same</span>
+            </div>
+          </div>
+        </div>
+        <div class="hero-meta">
+          <div class="hero-pinyin">míng</div>
+          <div class="hero-en">bright · clear · tomorrow · to understand</div>
+          <div class="hero-chips">
+            <span class="chip">部首 bùshǒu · 日 rì sun</span>
+            <span class="chip">8 笔画 bǐhuà strokes</span>
+            <span class="chip chip-hsk">HSK 2</span>
+            <span class="chip">tone 2 · míng</span>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <!-- ── ETYMOLOGY ── -->
+    <span class="section-anchor" id="etymology"></span>
+    <div class="section-head">
+      <span class="sh-cn">字源</span>
+      <span class="sh-py">zìyuán</span>
+      <span class="sh-en">Etymology &amp; Structure</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="明">
+      <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
+      <p><strong>明 míng = 日 rì</strong> (sun) <strong>+ 月 yuè</strong> (moon). The two great lights of heaven joined in a single character. When both the sun and moon are present, what do you have? Maximum luminosity — a scene so bright nothing can hide. This is the core semantic logic: 明 means bright because it conjures the only scenario where both celestial lights shine together.</p>
+      <p>In the oracle-bone script, early forms show a window with sunlight streaming through — the light of the sun entering an interior, making the dark visible. Later the moon was substituted for the window, intensifying the image. Either way, 明 has always captured the <em>meeting of light and darkness overcome.</em></p>
+      <p>The semantic spread is exact: physical brightness (明亮), mental clarity (明白, 明确), temporal horizon (明天 "the bright day coming"), and moral illumination (英明, 明君 the enlightened ruler). Light, knowledge, and tomorrow are all the same thing — what comes after darkness.</p>
+    </div>
+
+    <!-- ── BRIGHTNESS ── -->
+    <span class="section-anchor" id="bright"></span>
+    <div class="section-head">
+      <span class="sh-cn">明亮</span>
+      <span class="sh-py">míngliàng</span>
+      <span class="sh-en">Brightness &amp; Light Compounds</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-adj">
+        <div class="card-head">
+          <span class="card-cn">明亮</span>
+          <span class="card-py">míngliàng</span>
+          <span class="card-en">bright; luminous; well-lit</span>
+        </div>
+        <div class="tags"><span class="tag tag-adj">Adj 形容词 xíngróngcí</span></div>
+        <div class="card-def">
+          明 míng + 亮 liàng (bright; shining). The compound for physical and figurative luminosity. Used for rooms, eyes, futures, and voices (a 明亮的嗓音 is a clear, bright singing voice).
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">这间教室很明亮。</div>
+            <div class="ex-py">Zhè jiān jiàoshì hěn míngliàng.</div>
+            <div class="ex-en">This classroom is very bright.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">她有一双明亮的眼睛。</div>
+            <div class="ex-py">Tā yǒu yī shuāng míngliàng de yǎnjīng.</div>
+            <div class="ex-en">She has a pair of bright eyes.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-vn">
+        <div class="card-head">
+          <span class="card-cn">光明</span>
+          <span class="card-py">guāngmíng</span>
+          <span class="card-en">light; radiance; a bright future</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N/Adj</span></div>
+        <div class="card-def">
+          光 guāng (light; beam) + 明 míng (bright). More elevated and abstract than 明亮. Used in spiritual and political registers: 光明大道 "the road of light" (a righteous path), 走向光明 "moving toward the light." The opposite is 黑暗 hēi'àn darkness.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他是个光明磊落的人。</div>
+            <div class="ex-py">Tā shì gè guāngmíng lěiluò de rén.</div>
+            <div class="ex-en">He is an upright and open-hearted person. <em>[光明磊落 = transparent, morally clear]</em></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-v">
+        <div class="card-head">
+          <span class="card-cn">照明</span>
+          <span class="card-py">zhàomíng</span>
+          <span class="card-en">illumination; lighting (noun &amp; verb)</span>
+        </div>
+        <div class="tags"><span class="tag tag-vn">V/N 动名词</span></div>
+        <div class="card-def">
+          照 zhào (to shine upon; to illuminate) + 明 míng (bright). Used for artificial lighting systems, stage lighting, and the act of shining a light on something. 照明设备 = lighting equipment.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">这条街道的照明很差。</div>
+            <div class="ex-py">Zhè tiáo jiēdào de zhàomíng hěn chà.</div>
+            <div class="ex-en">The lighting on this street is very poor.</div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- ── CLARITY ── -->
+    <span class="section-anchor" id="clarity"></span>
+    <div class="section-head">
+      <span class="sh-cn">明白</span>
+      <span class="sh-py">míngbai</span>
+      <span class="sh-en">Clarity &amp; Understanding</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">明白 vs. 明确 vs. 明显 · Three Clarity Registers</span>
+      <strong>明白</strong> míngbai = to understand personally (gut comprehension, colloquial)<br>
+      <strong>明确</strong> míngquè = precise, unambiguous, formally clear<br>
+      <strong>明显</strong> míngxiǎn = obvious, evident, visible to all
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-v">
+        <div class="card-head">
+          <span class="card-cn">明白</span>
+          <span class="card-py">míngbai</span>
+          <span class="card-en">to understand; to be clear; obvious (adj)</span>
+        </div>
+        <div class="tags"><span class="tag tag-vn">V/Adj 动形词</span></div>
+        <div class="card-def">
+          明 míng + 白 bái (white; blank; clear). One of the most common verbs in spoken Mandarin. As a verb: 你明白吗？"Do you understand?" As an adjective: 说得很明白 "said very clearly." The particle 了 marks comprehension arriving: 明白了！"Got it!"
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">你明白我的意思吗？</div>
+            <div class="ex-py">Nǐ míngbai wǒ de yìsi ma?</div>
+            <div class="ex-en">Do you understand what I mean?</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">明白了！谢谢你的解释。</div>
+            <div class="ex-py">Míngbai le! Xièxie nǐ de jiěshì.</div>
+            <div class="ex-en">Got it! Thanks for the explanation.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他把事情说得很明白。</div>
+            <div class="ex-py">Tā bǎ shìqíng shuō de hěn míngbai.</div>
+            <div class="ex-en">He explained things very clearly.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-adj">
+        <div class="card-head">
+          <span class="card-cn">明确</span>
+          <span class="card-py">míngquè</span>
+          <span class="card-en">clear and definite; explicit; to specify</span>
+        </div>
+        <div class="tags"><span class="tag tag-adj">Adj/V 形动词</span></div>
+        <div class="card-def">
+          明 míng + 确 què (definite; certain; firm). Used for rules, policies, goals, and instructions that leave no room for ambiguity. More formal than 明白. 请明确你的要求 = "Please specify your requirements."
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">我们需要明确目标。</div>
+            <div class="ex-py">Wǒmen xūyào míngquè mùbiāo.</div>
+            <div class="ex-en">We need to define our goals clearly.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">规定写得很明确。</div>
+            <div class="ex-py">Guīdìng xiě de hěn míngquè.</div>
+            <div class="ex-en">The rules are written very clearly.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-adj">
+        <div class="card-head">
+          <span class="card-cn">明显</span>
+          <span class="card-py">míngxiǎn</span>
+          <span class="card-en">obvious; evident; marked</span>
+        </div>
+        <div class="tags"><span class="tag tag-adj">Adj 形容词 xíngróngcí</span></div>
+        <div class="card-def">
+          明 míng + 显 xiǎn (to show; visible; eminent). What is bright is also visible to all. Used when something is undeniably apparent — improvement, change, a lie. 明显进步 "marked improvement."
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他明显变瘦了。</div>
+            <div class="ex-py">Tā míngxiǎn biàn shòu le.</div>
+            <div class="ex-en">He's clearly lost weight.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这个问题很明显。</div>
+            <div class="ex-py">Zhège wèntí hěn míngxiǎn.</div>
+            <div class="ex-en">This problem is quite obvious.</div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- ── TIME ── -->
+    <span class="section-anchor" id="time"></span>
+    <div class="section-head">
+      <span class="sh-cn">明天</span>
+      <span class="sh-py">míngtiān</span>
+      <span class="sh-en">Tomorrow &amp; the Temporal Horizon</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-n">
+        <div class="card-head">
+          <span class="card-cn">明天</span>
+          <span class="card-py">míngtiān</span>
+          <span class="card-en">tomorrow</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          明 míng (the bright coming day) + 天 tiān (sky; day). The "bright day" that follows tonight's darkness. Works literally (see you tomorrow) and metaphorically (the nation's bright tomorrow 国家的明天). Compare: 昨天 zuótiān yesterday · 今天 jīntiān today · 明天 míngtiān tomorrow.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">明天见！</div>
+            <div class="ex-py">Míngtiān jiàn!</div>
+            <div class="ex-en">See you tomorrow!</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">相信明天会更好。</div>
+            <div class="ex-py">Xiāngxìn míngtiān huì gèng hǎo.</div>
+            <div class="ex-en">Believe that tomorrow will be better.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-n">
+        <div class="card-head">
+          <span class="card-cn">明年</span>
+          <span class="card-py">míngnián</span>
+          <span class="card-en">next year</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          明 míng + 年 nián (year). The same "bright/coming" sense extended to years. Pattern: 明天 tomorrow · 明年 next year · 明月 the bright moon (classical). The character 明 reaches across all timescales.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">我明年打算去中国。</div>
+            <div class="ex-py">Wǒ míngnián dǎsuàn qù Zhōngguó.</div>
+            <div class="ex-en">I plan to go to China next year.</div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- ── WISDOM ── -->
+    <span class="section-anchor" id="wisdom"></span>
+    <div class="section-head">
+      <span class="sh-cn">明智</span>
+      <span class="sh-py">míngzhì</span>
+      <span class="sh-en">Wisdom, Enlightenment &amp; Judgment</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-adj">
+        <div class="card-head">
+          <span class="card-cn">明智</span>
+          <span class="card-py">míngzhì</span>
+          <span class="card-en">wise; sensible; showing good judgment</span>
+        </div>
+        <div class="tags"><span class="tag tag-adj">Adj 形容词 xíngróngcí</span></div>
+        <div class="card-def">
+          明 míng (clear, bright) + 智 zhì (wisdom; intelligence). A <em>bright mind</em> — one that sees clearly. The compliment given to good decisions, prudent actions. 这是个明智的选择 "That is a wise choice."
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">这是一个明智的决定。</div>
+            <div class="ex-py">Zhè shì yī gè míngzhì de juédìng.</div>
+            <div class="ex-en">This is a wise decision.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-adj">
+        <div class="card-head">
+          <span class="card-cn">英明</span>
+          <span class="card-py">yīngmíng</span>
+          <span class="card-en">brilliant; enlightened (of a leader)</span>
+        </div>
+        <div class="tags"><span class="tag tag-adj">Adj 形容词 xíngróngcí</span></div>
+        <div class="card-def">
+          英 yīng (outstanding; heroic; talent that flowers) + 明 míng (luminous). The compound used to praise rulers, commanders, and decision-makers of exceptional vision. 英明的领导 "an enlightened leader."
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">英明的君主能使国家繁荣。</div>
+            <div class="ex-py">Yīngmíng de jūnzhǔ néng shǐ guójiā fánróng.</div>
+            <div class="ex-en">An enlightened ruler can make a country prosper.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-adj">
+        <div class="card-head">
+          <span class="card-cn">文明</span>
+          <span class="card-py">wénmíng</span>
+          <span class="card-en">civilization; cultured; refined</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N/Adj 名形词</span></div>
+        <div class="card-def">
+          文 wén (writing; culture; civilization) + 明 míng (luminous). Civilization as the light that writing and culture bring. Used for both great civilizations (中华文明 Chinese civilization) and polite behavior (文明行为 civilized conduct, 请文明行车 "please drive courteously").
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">中华文明有五千年的历史。</div>
+            <div class="ex-py">Zhōnghuá wénmíng yǒu wǔqiān nián de lìshǐ.</div>
+            <div class="ex-en">Chinese civilization has five thousand years of history.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">请文明用餐，不要浪费食物。</div>
+            <div class="ex-py">Qǐng wénmíng yòng cān, bùyào làngfèi shíwù.</div>
+            <div class="ex-en">Please dine courteously and don't waste food.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-adj">
+        <div class="card-head">
+          <span class="card-cn">聪明</span>
+          <span class="card-py">cōngmíng</span>
+          <span class="card-en">clever; intelligent; bright</span>
+        </div>
+        <div class="tags"><span class="tag tag-adj">Adj 形容词 xíngróngcí</span></div>
+        <div class="card-def">
+          聪 cōng (keen hearing; perceptive — ear radical) + 明 míng (bright). <em>Sharp ears and bright eyes.</em> One of the most common compliments in Chinese. Originally meant keen perception through the senses; now broadly means smart or clever.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">这孩子真聪明！</div>
+            <div class="ex-py">Zhè háizi zhēn cōngmíng!</div>
+            <div class="ex-en">This child is really clever!</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">辨析 biànxī · 聪明 vs. 明智</span>
+          <strong>聪明</strong> = innate cleverness, quickness of mind. <strong>明智</strong> = wisdom applied to decisions — you can be 聪明 (clever) but not 明智 (wise). A warning: <strong>自作聪明</strong> zì zuò cōngmíng = "to think yourself clever" (pejorative — overestimating one's own cleverness).
+        </div>
+      </div>
+
+    </div>
+
+    <!-- ── CHENGYU ── -->
+    <span class="section-anchor" id="chengyu"></span>
+    <div class="section-head">
+      <span class="sh-cn">成语</span>
+      <span class="sh-py">chéngyǔ</span>
+      <span class="sh-en">Idioms &amp; Set Phrases</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="chengyu-grid">
+
+      <div class="cy">
+        <span class="cy-cn">明察秋毫</span>
+        <span class="cy-py">míng chá qiūháo</span>
+        <span class="cy-en">to perceive the finest detail — exceptional discernment</span>
+        <span class="cy-note">Lit: bright-observe-autumn-hair-tip. 秋毫 = the impossibly fine tip of an animal's autumn coat. Used of leaders and judges who miss nothing. Its opposite: 不见舆薪 bùjiàn yú xīn "unable to see a cartload of firewood" — missing what's obvious.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">光明正大</span>
+        <span class="cy-py">guāngmíng zhèngdà</span>
+        <span class="cy-en">open, upright, and honest — nothing to hide</span>
+        <span class="cy-note">Lit: light-bright-correct-great. Used to describe someone who acts with complete transparency and moral integrity. 他做事光明正大 "He does things openly and uprightly."</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">明知故问</span>
+        <span class="cy-py">míng zhī gù wèn</span>
+        <span class="cy-en">to ask knowing the answer — a rhetorical or teasing question</span>
+        <span class="cy-note">Lit: clearly-know-yet-ask. For when someone already knows the answer but asks anyway — either to tease, to confirm, or to draw out a confession. 你明知故问！"You already know the answer — why are you asking?"</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">明日黄花</span>
+        <span class="cy-py">míngrì huánghuā</span>
+        <span class="cy-en">yesterday's news — past its prime, no longer relevant</span>
+        <span class="cy-note">Lit: tomorrow's chrysanthemum. Chrysanthemums peak at the Double Ninth Festival (重阳节); by tomorrow they are wilted and past. Used of news, opportunities, or people who are no longer timely.</span>
+      </div>
+
+    </div>
+
+    <!-- ── ADJACENT VOCAB ── -->
+    <span class="section-anchor" id="adjacent"></span>
+    <div class="section-head">
+      <span class="sh-cn">相邻词汇</span>
+      <span class="sh-py">xiānglín cíhuì</span>
+      <span class="sh-en">Adjacent Vocabulary</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">亮</span><span class="a-py">liàng</span><span class="a-en">bright; light up</span></span>
+      <span class="adj"><span class="a-cn">暗</span><span class="a-py">àn</span><span class="a-en">dark; dim</span></span>
+      <span class="adj"><span class="a-cn">清楚</span><span class="a-py">qīngchǔ</span><span class="a-en">clear; distinct</span></span>
+      <span class="adj"><span class="a-cn">智慧</span><span class="a-py">zhìhuì</span><span class="a-en">wisdom</span></span>
+      <span class="adj"><span class="a-cn">昨天</span><span class="a-py">zuótiān</span><span class="a-en">yesterday</span></span>
+      <span class="adj"><span class="a-cn">今天</span><span class="a-py">jīntiān</span><span class="a-en">today</span></span>
+      <span class="adj"><span class="a-cn">文化</span><span class="a-py">wénhuà</span><span class="a-en">culture</span></span>
+      <span class="adj"><span class="a-cn">太阳</span><span class="a-py">tàiyáng</span><span class="a-en">the sun</span></span>
+      <span class="adj"><span class="a-cn">月亮</span><span class="a-py">yuèliàng</span><span class="a-en">the moon</span></span>
+      <span class="adj"><span class="a-cn">黎明</span><span class="a-py">límíng</span><span class="a-en">dawn; daybreak</span></span>
+    </div>
+
+    <div class="scholar" data-glyph="明" style="margin-top:2.5rem;">
+      <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
+      <p>Imagine two spotlights on a dark stage: a blazing sun on the left, a full moon on the right. Together they leave no shadow anywhere. That is 明 — the character where <em>both great lights shine at once.</em> From that image, every usage follows: a bright room (明亮), a clear answer (明白), a wise ruler who sees everything (英明), and the bright day that is always coming next (明天).</p>
+    </div>
+
+    <footer class="page-footer">
+      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>明 míng</span></span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>

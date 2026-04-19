@@ -275,6 +275,25 @@
     "updated": "2026-04-19"
   },
   {
+    "path": "pages/characters/guo2_国.html",
+    "type": "character",
+    "category": "characters",
+    "title": "国 · country, nation, state",
+    "desc": "A walled enclosure protecting its people — the Chinese concept of nationhood written in a single character.",
+    "tags": [
+      "politics",
+      "society",
+      "culture"
+    ],
+    "status": "complete",
+    "char": "国",
+    "pinyin": "guó",
+    "tone": 2,
+    "hsk": 1,
+    "radical": "囗",
+    "updated": "2026-04-19"
+  },
+  {
     "path": "pages/characters/hao3_好.html",
     "type": "character",
     "category": "characters",
@@ -338,6 +357,44 @@
     "updated": "2026-04-19"
   },
   {
+    "path": "pages/characters/mei3_美.html",
+    "type": "character",
+    "category": "characters",
+    "title": "美 · beautiful, USA, delicious",
+    "desc": "A large sheep carrying horns — beauty as abundance, sacrifice, and the pleasure of the highest good.",
+    "tags": [
+      "aesthetics",
+      "culture",
+      "philosophy"
+    ],
+    "status": "complete",
+    "char": "美",
+    "pinyin": "měi",
+    "tone": 3,
+    "hsk": 2,
+    "radical": "羊",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/characters/ming2_明.html",
+    "type": "character",
+    "category": "characters",
+    "title": "明 · bright, clear, tomorrow",
+    "desc": "Sun and moon combined — brightness, clarity, dawn, and understanding.",
+    "tags": [
+      "light",
+      "clarity",
+      "time"
+    ],
+    "status": "complete",
+    "char": "明",
+    "pinyin": "míng",
+    "tone": 2,
+    "hsk": 2,
+    "radical": "日",
+    "updated": "2026-04-19"
+  },
+  {
     "path": "pages/characters/mu4_木.html",
     "type": "character",
     "category": "characters",
@@ -374,6 +431,44 @@
     "tone": 2,
     "hsk": 1,
     "radical": "钅",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/characters/shan1_山.html",
+    "type": "character",
+    "category": "characters",
+    "title": "山 · mountain, hill, sacred peak",
+    "desc": "Three peaks rising from the earth — the oldest pictograph and the axis of Chinese sacred geography.",
+    "tags": [
+      "nature",
+      "geography",
+      "sacred"
+    ],
+    "status": "complete",
+    "char": "山",
+    "pinyin": "shān",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "山",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/characters/sheng1_生.html",
+    "type": "character",
+    "category": "characters",
+    "title": "生 · life, birth, raw, student",
+    "desc": "A sprouting plant — life emerging from the earth. The most generative radical in Chinese.",
+    "tags": [
+      "life",
+      "radical",
+      "biology"
+    ],
+    "status": "complete",
+    "char": "生",
+    "pinyin": "shēng",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "生",
     "updated": "2026-04-19"
   },
   {
@@ -1430,6 +1525,22 @@
     ],
     "status": "complete",
     "pinyin": "shíjiān",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/vocab/wushu_武术.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "武术 · martial arts",
+    "desc": "The art of stopping weapons — how China systematized combat into a living philosophy of the body.",
+    "tags": [
+      "martial-arts",
+      "body",
+      "philosophy",
+      "culture"
+    ],
+    "status": "complete",
+    "pinyin": "wǔshù",
     "updated": "2026-04-19"
   },
   {
