@@ -1352,6 +1352,21 @@ a.pf-btn-share:focus-visible, button.pf-btn-share:focus-visible {
   .card-en { margin-left: 0; }
   .scholar { padding: 1.1rem 1.2rem 2.7rem; }
   .scholar::after { width: 2.1rem; height: 2.1rem; font-size: 1.2rem; right: 0.8rem; bottom: 0.7rem; }
+  /* Chengyu cards — on narrow viewports the two-column grid (idiom on the
+     left, pinyin/gloss/note stacked on the right) squashes long pinyin
+     and gloss text into a thin ribbon. Collapse to a single column so
+     each row gets full width. */
+  .cy {
+    grid-template-columns: 1fr;
+    gap: 0.3rem 0;
+    padding: 0.95rem 1.05rem;
+  }
+  .cy-cn {
+    grid-row: auto;
+    padding-top: 0;
+    margin-bottom: 0.15rem;
+    font-size: 1.2rem;
+  }
   .topnav { padding: 0.25rem 0.75rem; }
   /* Topnav on mobile: brand shortened visually + tighter right-side gap */
   .topnav-right { gap: 0.7rem; }
