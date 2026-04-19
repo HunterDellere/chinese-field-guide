@@ -127,7 +127,7 @@ pinyin: 'māzǔ'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">灵梦救父</span>
           <span class="card-py">língmèng jiù fù</span>
@@ -145,7 +145,7 @@ pinyin: 'māzǔ'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">收千里眼顺风耳</span>
           <span class="card-py">shōu Qiānlǐyǎn Shùnfēng'ěr</span>
@@ -163,7 +163,7 @@ pinyin: 'māzǔ'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">挂席救船</span>
           <span class="card-py">guà xí jiù chuán</span>
@@ -181,7 +181,7 @@ pinyin: 'māzǔ'
         </div>
       </div>
 
-      <div class="card c-violet">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">羽化升天</span>
           <span class="card-py">yǔhuà shēngtiān</span>
@@ -240,7 +240,7 @@ pinyin: 'māzǔ'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">湄洲祖庙</span>
           <span class="card-py">Méizhōu Zǔmiào</span>
@@ -258,7 +258,7 @@ pinyin: 'māzǔ'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">大甲妈祖绕境</span>
           <span class="card-py">Dàjiǎ Māzǔ Ràojìng</span>
@@ -276,7 +276,7 @@ pinyin: 'māzǔ'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">天后宫</span>
           <span class="card-py">Tiānhòu Gōng</span>
@@ -294,7 +294,7 @@ pinyin: 'māzǔ'
         </div>
       </div>
 
-      <div class="card c-violet">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">北港朝天宫</span>
           <span class="card-py">Běigǎng Cháotiān Gōng</span>

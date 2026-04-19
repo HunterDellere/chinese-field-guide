@@ -108,7 +108,7 @@ pinyin: 'miànzi'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">面子</span>
           <span class="card-py">miànzi</span>
@@ -137,7 +137,7 @@ pinyin: 'miànzi'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-adj">
         <div class="card-head">
           <span class="card-cn">有面子</span>
           <span class="card-py">yǒu miànzi</span>
@@ -166,7 +166,7 @@ pinyin: 'miànzi'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-adj">
         <div class="card-head">
           <span class="card-cn">没面子</span>
           <span class="card-py">méi miànzi</span>
@@ -208,7 +208,7 @@ pinyin: 'miànzi'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">给面子</span>
           <span class="card-py">gěi miànzi</span>
@@ -237,7 +237,7 @@ pinyin: 'miànzi'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">丢面子</span>
           <span class="card-py">diū miànzi</span>
@@ -266,7 +266,7 @@ pinyin: 'miànzi'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">爱面子</span>
           <span class="card-py">ài miànzi</span>
@@ -290,7 +290,7 @@ pinyin: 'miànzi'
         </div>
       </div>
 
-      <div class="card c-violet">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">顾面子</span>
           <span class="card-py">gù miànzi</span>
@@ -334,7 +334,7 @@ pinyin: 'miànzi'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">脸</span>
           <span class="card-py">liǎn</span>
@@ -367,7 +367,7 @@ pinyin: 'miànzi'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">丢脸</span>
           <span class="card-py">diū liǎn</span>
@@ -391,7 +391,7 @@ pinyin: 'miànzi'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">脸面</span>
           <span class="card-py">liǎnmiàn</span>
@@ -428,7 +428,7 @@ pinyin: 'miànzi'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">面条</span>
           <span class="card-py">miàntiáo</span>
@@ -457,7 +457,7 @@ pinyin: 'miànzi'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">面对</span>
           <span class="card-py">miànduì</span>
@@ -486,7 +486,7 @@ pinyin: 'miànzi'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">方面</span>
           <span class="card-py">fāngmiàn</span>
@@ -515,7 +515,7 @@ pinyin: 'miànzi'
         </div>
       </div>
 
-      <div class="card c-violet">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">界面</span>
           <span class="card-py">jièmiàn</span>

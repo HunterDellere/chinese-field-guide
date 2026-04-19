@@ -133,7 +133,7 @@ pinyin: 'lǎozǐ'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">道</span>
           <span class="card-py">dào</span>
@@ -156,7 +156,7 @@ pinyin: 'lǎozǐ'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">自然</span>
           <span class="card-py">zìrán</span>
@@ -174,7 +174,7 @@ pinyin: 'lǎozǐ'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">德</span>
           <span class="card-py">dé</span>
@@ -230,7 +230,7 @@ pinyin: 'lǎozǐ'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">柔弱胜刚强</span>
           <span class="card-py">róu ruò shèng gāng qiáng</span>
@@ -248,7 +248,7 @@ pinyin: 'lǎozǐ'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">知足</span>
           <span class="card-py">zhī zú</span>

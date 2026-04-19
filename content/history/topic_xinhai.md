@@ -146,7 +146,7 @@ pinyin: 'xīnhài gémìng'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">民族主义</span>
           <span class="card-py">Mínzú Zhǔyì</span>
@@ -157,7 +157,7 @@ pinyin: 'xīnhài gémìng'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">民权主义</span>
           <span class="card-py">Mínquán Zhǔyì</span>
@@ -168,7 +168,7 @@ pinyin: 'xīnhài gémìng'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">民生主义</span>
           <span class="card-py">Mínshēng Zhǔyì</span>

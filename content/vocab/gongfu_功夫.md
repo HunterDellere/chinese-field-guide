@@ -103,7 +103,7 @@ pinyin: 'gōngfu'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">功夫</span>
           <span class="card-py">gōngfu</span>
@@ -136,7 +136,7 @@ pinyin: 'gōngfu'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">下功夫</span>
           <span class="card-py">xià gōngfu</span>
@@ -165,7 +165,7 @@ pinyin: 'gōngfu'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">费功夫</span>
           <span class="card-py">fèi gōngfu</span>
@@ -213,7 +213,7 @@ pinyin: 'gōngfu'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">武功</span>
           <span class="card-py">wǔgōng</span>
@@ -242,7 +242,7 @@ pinyin: 'gōngfu'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">太极拳</span>
           <span class="card-py">tàijí quán</span>
@@ -271,7 +271,7 @@ pinyin: 'gōngfu'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">少林功夫</span>
           <span class="card-py">Shàolín gōngfu</span>
@@ -313,7 +313,7 @@ pinyin: 'gōngfu'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-vn">
         <div class="card-head">
           <span class="card-cn">成功</span>
           <span class="card-py">chénggōng</span>
@@ -342,7 +342,7 @@ pinyin: 'gōngfu'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">功能</span>
           <span class="card-py">gōngnéng</span>
@@ -371,7 +371,7 @@ pinyin: 'gōngfu'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">功劳</span>
           <span class="card-py">gōngláo</span>
@@ -400,7 +400,7 @@ pinyin: 'gōngfu'
         </div>
       </div>
 
-      <div class="card c-violet">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">功课</span>
           <span class="card-py">gōngkè</span>
@@ -442,7 +442,7 @@ pinyin: 'gōngfu'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">夫妻</span>
           <span class="card-py">fūqī</span>
@@ -471,7 +471,7 @@ pinyin: 'gōngfu'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">丈夫</span>
           <span class="card-py">zhàngfu</span>
@@ -495,7 +495,7 @@ pinyin: 'gōngfu'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">工夫</span>
           <span class="card-py">gōngfu</span>

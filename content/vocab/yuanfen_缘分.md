@@ -101,7 +101,7 @@ pinyin: 'yuánfèn'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">缘分</span>
           <span class="card-py">yuánfèn</span>
@@ -134,7 +134,7 @@ pinyin: 'yuánfèn'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-adj">
         <div class="card-head">
           <span class="card-cn">有缘</span>
           <span class="card-py">yǒu yuán</span>
@@ -163,7 +163,7 @@ pinyin: 'yuánfèn'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-adj">
         <div class="card-head">
           <span class="card-cn">无缘</span>
           <span class="card-py">wú yuán</span>
@@ -212,7 +212,7 @@ pinyin: 'yuánfèn'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">缘起</span>
           <span class="card-py">yuánqǐ</span>
@@ -241,7 +241,7 @@ pinyin: 'yuánfèn'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">结缘</span>
           <span class="card-py">jié yuán</span>
@@ -283,7 +283,7 @@ pinyin: 'yuánfèn'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">缘分未尽</span>
           <span class="card-py">yuánfèn wèi jìn</span>
@@ -307,7 +307,7 @@ pinyin: 'yuánfèn'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">缘分已尽</span>
           <span class="card-py">yuánfèn yǐ jìn</span>
@@ -336,7 +336,7 @@ pinyin: 'yuánfèn'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">千里缘</span>
           <span class="card-py">qiānlǐ yuán</span>
@@ -380,7 +380,7 @@ pinyin: 'yuánfèn'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">月老</span>
           <span class="card-py">Yuèlǎo</span>
@@ -409,7 +409,7 @@ pinyin: 'yuánfèn'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">红线</span>
           <span class="card-py">hóngxiàn</span>
@@ -462,7 +462,7 @@ pinyin: 'yuánfèn'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">随缘</span>
           <span class="card-py">suí yuán</span>
@@ -491,7 +491,7 @@ pinyin: 'yuánfèn'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">顺其自然</span>
           <span class="card-py">shùn qí zìrán</span>

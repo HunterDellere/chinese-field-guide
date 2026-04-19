@@ -104,7 +104,7 @@ pinyin: 'tiānxià'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">天下</span>
           <span class="card-py">tiānxià</span>
@@ -133,7 +133,7 @@ pinyin: 'tiānxià'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">天下太平</span>
           <span class="card-py">tiānxià tài píng</span>
@@ -157,7 +157,7 @@ pinyin: 'tiānxià'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">天下为公</span>
           <span class="card-py">tiānxià wéi gōng</span>
@@ -200,7 +200,7 @@ pinyin: 'tiānxià'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">天命</span>
           <span class="card-py">tiānmìng</span>
@@ -229,7 +229,7 @@ pinyin: 'tiānxià'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">天子</span>
           <span class="card-py">tiānzǐ</span>
@@ -253,7 +253,7 @@ pinyin: 'tiānxià'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">改朝换代</span>
           <span class="card-py">gǎi cháo huàn dài</span>
@@ -290,7 +290,7 @@ pinyin: 'tiānxià'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">天下第一</span>
           <span class="card-py">tiānxià dì yī</span>
@@ -319,7 +319,7 @@ pinyin: 'tiānxià'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">走遍天下</span>
           <span class="card-py">zǒu biàn tiānxià</span>
@@ -343,7 +343,7 @@ pinyin: 'tiānxià'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">天下兴亡，匹夫有责</span>
           <span class="card-py">tiānxià xīng wáng, pǐ fū yǒu zé</span>
@@ -385,7 +385,7 @@ pinyin: 'tiānxià'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">天才</span>
           <span class="card-py">tiāncái</span>
@@ -414,7 +414,7 @@ pinyin: 'tiānxià'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-adj">
         <div class="card-head">
           <span class="card-cn">天真</span>
           <span class="card-py">tiānzhēn</span>
@@ -438,7 +438,7 @@ pinyin: 'tiānxià'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">地下</span>
           <span class="card-py">dìxià</span>
@@ -467,7 +467,7 @@ pinyin: 'tiānxià'
         </div>
       </div>
 
-      <div class="card c-violet">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">以下</span>
           <span class="card-py">yǐxià</span>

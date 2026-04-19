@@ -131,7 +131,7 @@ pinyin: 'liàngcí'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">一杯水</span>
           <span class="card-py">yī bēi shuǐ</span>
@@ -155,7 +155,7 @@ pinyin: 'liàngcí'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">一碗饭 · 一盘菜 · 一瓶啤酒</span>
           <span class="card-py">yī wǎn fàn · yī pán cài · yī píng píjiǔ</span>
@@ -194,7 +194,7 @@ pinyin: 'liàngcí'
 
     <div class="cards">
 
-      <div class="card c-teal">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">条 tiáo — long and sinuous</span>
           <span class="card-py">tiáo</span>
@@ -222,7 +222,7 @@ pinyin: 'liàngcí'
         </div>
       </div>
 
-      <div class="card c-violet">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">张 zhāng — flat and spread out</span>
           <span class="card-py">zhāng</span>
@@ -246,7 +246,7 @@ pinyin: 'liàngcí'
         </div>
       </div>
 
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">根 gēn — rod-like and slender</span>
           <span class="card-py">gēn</span>
@@ -265,7 +265,7 @@ pinyin: 'liàngcí'
         </div>
       </div>
 
-      <div class="card c-sienna">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">颗 kē — small and round</span>
           <span class="card-py">kē</span>
@@ -302,7 +302,7 @@ pinyin: 'liàngcí'
 
     <div class="cards">
 
-      <div class="card c-ochre">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">个 — the safe default</span>
           <span class="card-py">gè</span>
@@ -348,7 +348,7 @@ pinyin: 'liàngcí'
 
     <div class="cards">
 
-      <div class="card c-teal">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">次 cì — times / occurrences</span>
           <span class="card-py">cì</span>
@@ -372,7 +372,7 @@ pinyin: 'liàngcí'
         </div>
       </div>
 
-      <div class="card c-violet">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">场 chǎng — sessions and performances</span>
           <span class="card-py">chǎng</span>
@@ -396,7 +396,7 @@ pinyin: 'liàngcí'
         </div>
       </div>
 
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">件 jiàn · 段 duàn — discrete and extended</span>
           <span class="card-py">jiàn · duàn</span>
@@ -434,7 +434,7 @@ pinyin: 'liàngcí'
 
     <div class="cards">
 
-      <div class="card c-ochre">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">群 qún · 批 pī</span>
           <span class="card-py">qún · pī</span>
@@ -459,7 +459,7 @@ pinyin: 'liàngcí'
         </div>
       </div>
 
-      <div class="card c-sienna">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">对 duì · 双 shuāng</span>
           <span class="card-py">duì · shuāng</span>

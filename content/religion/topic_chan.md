@@ -115,7 +115,7 @@ pinyin: 'chán zōng'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">坐禅</span>
           <span class="card-py">zuòchán</span>
@@ -130,7 +130,7 @@ pinyin: 'chán zōng'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">公案</span>
           <span class="card-py">gōng'àn</span>
@@ -141,7 +141,7 @@ pinyin: 'chán zōng'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">棒喝</span>
           <span class="card-py">bànghè</span>
@@ -152,7 +152,7 @@ pinyin: 'chán zōng'
         </div>
       </div>
 
-      <div class="card c-violet">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">行住坐卧</span>
           <span class="card-py">xíng zhù zuò wò</span>
@@ -183,7 +183,7 @@ pinyin: 'chán zōng'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">机锋</span>
           <span class="card-py">jīfēng</span>
@@ -201,7 +201,7 @@ pinyin: 'chán zōng'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">赵州狗子</span>
           <span class="card-py">Zhàozhōu gǒuzi</span>
@@ -230,7 +230,7 @@ pinyin: 'chán zōng'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">达摩</span>
           <span class="card-py">Dámó</span>
@@ -241,7 +241,7 @@ pinyin: 'chán zōng'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">慧可</span>
           <span class="card-py">Huìkě</span>
@@ -252,7 +252,7 @@ pinyin: 'chán zōng'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">僧璨 · 道信 · 弘忍</span>
           <span class="card-py">Sēngcàn · Dàoxìn · Hóngrěn</span>
@@ -263,7 +263,7 @@ pinyin: 'chán zōng'
         </div>
       </div>
 
-      <div class="card c-violet">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">慧能</span>
           <span class="card-py">Huìnéng</span>

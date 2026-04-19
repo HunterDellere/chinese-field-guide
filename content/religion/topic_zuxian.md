@@ -118,7 +118,7 @@ pinyin: 'zǔxiān chóngbài'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">祭祖</span>
           <span class="card-py">jìzǔ</span>
@@ -136,7 +136,7 @@ pinyin: 'zǔxiān chóngbài'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">牌位</span>
           <span class="card-py">páiwèi</span>
@@ -154,7 +154,7 @@ pinyin: 'zǔxiān chóngbài'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">纸钱</span>
           <span class="card-py">zhǐqián</span>
@@ -176,7 +176,7 @@ pinyin: 'zǔxiān chóngbài'
         </div>
       </div>
 
-      <div class="card c-violet">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">扫墓</span>
           <span class="card-py">sǎomù</span>
@@ -194,7 +194,7 @@ pinyin: 'zǔxiān chóngbài'
         </div>
       </div>
 
-      <div class="card c-sienna">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">磕头</span>
           <span class="card-py">kētóu</span>
@@ -232,7 +232,7 @@ pinyin: 'zǔxiān chóngbài'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">族谱</span>
           <span class="card-py">zúpǔ</span>
@@ -250,7 +250,7 @@ pinyin: 'zǔxiān chóngbài'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">祠堂</span>
           <span class="card-py">cítáng</span>
@@ -268,7 +268,7 @@ pinyin: 'zǔxiān chóngbài'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">宗族</span>
           <span class="card-py">zōngzú</span>
@@ -305,7 +305,7 @@ pinyin: 'zǔxiān chóngbài'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">头七</span>
           <span class="card-py">tóuqī</span>
@@ -323,7 +323,7 @@ pinyin: 'zǔxiān chóngbài'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">风水择地</span>
           <span class="card-py">fēngshuǐ zédì</span>
@@ -341,7 +341,7 @@ pinyin: 'zǔxiān chóngbài'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">棺材</span>
           <span class="card-py">guāncai</span>
@@ -359,7 +359,7 @@ pinyin: 'zǔxiān chóngbài'
         </div>
       </div>
 
-      <div class="card c-violet">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">百日</span>
           <span class="card-py">bǎirì</span>

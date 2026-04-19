@@ -123,7 +123,7 @@ pinyin: 'yuáncháo'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">蒙古人</span>
           <span class="card-py">Měnggǔrén</span>
@@ -134,7 +134,7 @@ pinyin: 'yuáncháo'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">色目人</span>
           <span class="card-py">Sèmùrén</span>
@@ -145,7 +145,7 @@ pinyin: 'yuáncháo'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">汉人</span>
           <span class="card-py">Hànrén</span>
@@ -156,7 +156,7 @@ pinyin: 'yuáncháo'
         </div>
       </div>
 
-      <div class="card c-violet">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">南人</span>
           <span class="card-py">Nánrén</span>

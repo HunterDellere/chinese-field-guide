@@ -140,7 +140,7 @@ radical: '辶'
     <div class="cards">
 
       <!-- 道路 -->
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">道路</span>
           <span class="card-py">dàolù</span>
@@ -170,7 +170,7 @@ radical: '辶'
       </div>
 
       <!-- 大道 -->
-      <div class="card c-ochre">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">大道</span>
           <span class="card-py">dàdào</span>
@@ -199,7 +199,7 @@ radical: '辶'
       </div>
 
       <!-- 铁道 -->
-      <div class="card c-teal">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">铁道</span>
           <span class="card-py">tiědào</span>
@@ -224,7 +224,7 @@ radical: '辶'
       </div>
 
       <!-- 走道 -->
-      <div class="card c-violet">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">走道</span>
           <span class="card-py">zǒudào</span>
@@ -268,7 +268,7 @@ radical: '辶'
     <div class="cards">
 
       <!-- 知道 -->
-      <div class="card c-red">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">知道</span>
           <span class="card-py">zhīdào</span>
@@ -302,7 +302,7 @@ radical: '辶'
       </div>
 
       <!-- 不知道 -->
-      <div class="card c-ochre">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">不知道</span>
           <span class="card-py">bù zhīdào</span>
@@ -336,7 +336,7 @@ radical: '辶'
       </div>
 
       <!-- 报道 -->
-      <div class="card c-teal">
+      <div class="card c-vn">
         <div class="card-head">
           <span class="card-cn">报道</span>
           <span class="card-py">bàodào</span>
@@ -366,7 +366,7 @@ radical: '辶'
       </div>
 
       <!-- 说道 -->
-      <div class="card c-violet">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">说道</span>
           <span class="card-py">shuōdào</span>
@@ -408,7 +408,7 @@ radical: '辶'
     <div class="cards">
 
       <!-- 道理 -->
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">道理</span>
           <span class="card-py">dàolǐ</span>
@@ -442,7 +442,7 @@ radical: '辶'
       </div>
 
       <!-- 道德 -->
-      <div class="card c-ochre">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">道德</span>
           <span class="card-py">dàodé</span>
@@ -476,7 +476,7 @@ radical: '辶'
       </div>
 
       <!-- 有道理 -->
-      <div class="card c-teal">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">有道理</span>
           <span class="card-py">yǒu dàolǐ</span>
@@ -501,7 +501,7 @@ radical: '辶'
       </div>
 
       <!-- 没道理 -->
-      <div class="card c-sienna">
+      <div class="card c-adj">
         <div class="card-head">
           <span class="card-cn">没道理</span>
           <span class="card-py">méi dàolǐ</span>
@@ -545,7 +545,7 @@ radical: '辶'
     <div class="cards">
 
       <!-- 天道 -->
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">天道</span>
           <span class="card-py">tiāndào</span>
@@ -570,7 +570,7 @@ radical: '辶'
       </div>
 
       <!-- 人道 -->
-      <div class="card c-ochre">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">人道</span>
           <span class="card-py">réndào</span>
@@ -595,7 +595,7 @@ radical: '辶'
       </div>
 
       <!-- 王道 -->
-      <div class="card c-teal">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">王道</span>
           <span class="card-py">wángdào</span>
@@ -615,7 +615,7 @@ radical: '辶'
       </div>
 
       <!-- 霸道 -->
-      <div class="card c-violet">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">霸道</span>
           <span class="card-py">bàdào</span>
@@ -640,7 +640,7 @@ radical: '辶'
       </div>
 
       <!-- 无道 -->
-      <div class="card c-sienna">
+      <div class="card c-adj">
         <div class="card-head">
           <span class="card-cn">无道</span>
           <span class="card-py">wúdào</span>

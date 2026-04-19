@@ -104,7 +104,7 @@ pinyin: 'yīnyáng'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">阴</span>
           <span class="card-py">yīn</span>
@@ -133,7 +133,7 @@ pinyin: 'yīnyáng'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">阳</span>
           <span class="card-py">yáng</span>
@@ -162,7 +162,7 @@ pinyin: 'yīnyáng'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">阴阳平衡</span>
           <span class="card-py">yīnyáng pínghéng</span>
@@ -294,7 +294,7 @@ pinyin: 'yīnyáng'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">阴虚</span>
           <span class="card-py">yīn xū</span>
@@ -323,7 +323,7 @@ pinyin: 'yīnyáng'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">阳虚</span>
           <span class="card-py">yáng xū</span>
@@ -347,7 +347,7 @@ pinyin: 'yīnyáng'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">阴阳调和</span>
           <span class="card-py">yīnyáng tiáohé</span>
@@ -384,7 +384,7 @@ pinyin: 'yīnyáng'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">阳光</span>
           <span class="card-py">yángguāng</span>
@@ -413,7 +413,7 @@ pinyin: 'yīnyáng'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">阴谋</span>
           <span class="card-py">yīnmóu</span>
@@ -437,7 +437,7 @@ pinyin: 'yīnyáng'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">太阳</span>
           <span class="card-py">tàiyáng</span>
@@ -466,7 +466,7 @@ pinyin: 'yīnyáng'
         </div>
       </div>
 
-      <div class="card c-violet">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">阴天</span>
           <span class="card-py">yīntiān</span>

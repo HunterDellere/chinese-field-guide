@@ -149,7 +149,7 @@ pinyin: 'zhuāngzǐ'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">庄周梦蝶</span>
           <span class="card-py">Zhuāng Zhōu mèng dié</span>
@@ -167,7 +167,7 @@ pinyin: 'zhuāngzǐ'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">物化</span>
           <span class="card-py">wù huà</span>
@@ -224,7 +224,7 @@ pinyin: 'zhuāngzǐ'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">子非鱼，安知鱼之乐？</span>
           <span class="card-py">zǐ fēi yú, ān zhī yú zhī lè?</span>
@@ -242,7 +242,7 @@ pinyin: 'zhuāngzǐ'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">相濡以沫，不如相忘于江湖</span>
           <span class="card-py">xiāng rú yǐ mò, bùrú xiāng wàng yú jiānghú</span>

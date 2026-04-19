@@ -101,7 +101,7 @@ pinyin: 'fójiào'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">苦谛</span>
           <span class="card-py">kǔ dì</span>
@@ -112,7 +112,7 @@ pinyin: 'fójiào'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">集谛</span>
           <span class="card-py">jí dì</span>
@@ -123,7 +123,7 @@ pinyin: 'fójiào'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">灭谛</span>
           <span class="card-py">miè dì</span>
@@ -134,7 +134,7 @@ pinyin: 'fójiào'
         </div>
       </div>
 
-      <div class="card c-violet">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">道谛</span>
           <span class="card-py">dào dì</span>
@@ -158,7 +158,7 @@ pinyin: 'fójiào'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">禅宗</span>
           <span class="card-py">Chán Zōng</span>
@@ -169,7 +169,7 @@ pinyin: 'fójiào'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">净土宗</span>
           <span class="card-py">Jìngtǔ Zōng</span>
@@ -180,7 +180,7 @@ pinyin: 'fójiào'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">天台宗</span>
           <span class="card-py">Tiāntái Zōng</span>
@@ -191,7 +191,7 @@ pinyin: 'fójiào'
         </div>
       </div>
 
-      <div class="card c-violet">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">华严宗</span>
           <span class="card-py">Huáyán Zōng</span>
@@ -202,7 +202,7 @@ pinyin: 'fójiào'
         </div>
       </div>
 
-      <div class="card c-sienna">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">密宗</span>
           <span class="card-py">Mì Zōng</span>
@@ -231,7 +231,7 @@ pinyin: 'fójiào'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">观世音</span>
           <span class="card-py">Guānshìyīn</span>
@@ -246,7 +246,7 @@ pinyin: 'fójiào'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">文殊</span>
           <span class="card-py">Wénshū</span>
@@ -257,7 +257,7 @@ pinyin: 'fójiào'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">地藏</span>
           <span class="card-py">Dìzàng</span>
@@ -268,7 +268,7 @@ pinyin: 'fójiào'
         </div>
       </div>
 
-      <div class="card c-violet">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">弥勒</span>
           <span class="card-py">Mílè</span>
@@ -297,7 +297,7 @@ pinyin: 'fójiào'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">寺庙建筑</span>
           <span class="card-py">sìmiào jiànzhú</span>
@@ -308,7 +308,7 @@ pinyin: 'fójiào'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">佛教节日</span>
           <span class="card-py">fójiào jiérì</span>

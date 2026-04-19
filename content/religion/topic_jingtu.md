@@ -91,7 +91,7 @@ pinyin: 'jìngtǔ zōng'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">念佛</span>
           <span class="card-py">niànfó</span>
@@ -106,7 +106,7 @@ pinyin: 'jìngtǔ zōng'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">观想</span>
           <span class="card-py">guānxiǎng</span>
@@ -117,7 +117,7 @@ pinyin: 'jìngtǔ zōng'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">发愿</span>
           <span class="card-py">fāyuàn</span>
@@ -128,7 +128,7 @@ pinyin: 'jìngtǔ zōng'
         </div>
       </div>
 
-      <div class="card c-violet">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">临终助念</span>
           <span class="card-py">línzhōng zhùniàn</span>
@@ -152,7 +152,7 @@ pinyin: 'jìngtǔ zōng'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">无量寿经</span>
           <span class="card-py">Wúliàngshòu Jīng</span>
@@ -163,7 +163,7 @@ pinyin: 'jìngtǔ zōng'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">观无量寿经</span>
           <span class="card-py">Guān Wúliàngshòu Jīng</span>
@@ -174,7 +174,7 @@ pinyin: 'jìngtǔ zōng'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">阿弥陀经</span>
           <span class="card-py">Āmítuó Jīng</span>
@@ -205,7 +205,7 @@ pinyin: 'jìngtǔ zōng'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">盂兰盆节</span>
           <span class="card-py">Yúlánpén Jié</span>
@@ -216,7 +216,7 @@ pinyin: 'jìngtǔ zōng'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">往生</span>
           <span class="card-py">wǎngshēng</span>
@@ -240,7 +240,7 @@ pinyin: 'jìngtǔ zōng'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">慧远</span>
           <span class="card-py">Huìyuǎn</span>
@@ -251,7 +251,7 @@ pinyin: 'jìngtǔ zōng'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">善导</span>
           <span class="card-py">Shàndǎo</span>
@@ -266,7 +266,7 @@ pinyin: 'jìngtǔ zōng'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">永明延寿</span>
           <span class="card-py">Yǒngmíng Yánshòu</span>

@@ -105,7 +105,7 @@ pinyin: 'xúnzǐ'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">性恶</span>
           <span class="card-py">xìng è</span>
@@ -127,7 +127,7 @@ pinyin: 'xúnzǐ'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">化性起伪</span>
           <span class="card-py">huà xìng qǐ wèi</span>
@@ -184,7 +184,7 @@ pinyin: 'xúnzǐ'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">天行有常</span>
           <span class="card-py">tiān xíng yǒu cháng</span>
@@ -202,7 +202,7 @@ pinyin: 'xúnzǐ'
         </div>
       </div>
 
-      <div class="card c-violet">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">制天命而用之</span>
           <span class="card-py">zhì tiānmìng ér yòng zhī</span>
@@ -264,7 +264,7 @@ pinyin: 'xúnzǐ'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">韩非</span>
           <span class="card-py">Hán Fēi</span>
@@ -282,7 +282,7 @@ pinyin: 'xúnzǐ'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">李斯</span>
           <span class="card-py">Lǐ Sī</span>

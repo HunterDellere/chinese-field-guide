@@ -152,7 +152,7 @@ radical: '大'
     <div class="cards">
 
       <!-- 天气 -->
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">天气</span>
           <span class="card-py">tiānqì</span>
@@ -186,7 +186,7 @@ radical: '大'
       </div>
 
       <!-- 天空 -->
-      <div class="card c-ochre">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">天空</span>
           <span class="card-py">tiānkōng</span>
@@ -215,7 +215,7 @@ radical: '大'
       </div>
 
       <!-- 天色 -->
-      <div class="card c-teal">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">天色</span>
           <span class="card-py">tiānsè</span>
@@ -240,7 +240,7 @@ radical: '大'
       </div>
 
       <!-- 晴天/雨天/阴天 -->
-      <div class="card c-violet">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">晴天 · 雨天 · 阴天</span>
           <span class="card-py">qíngtiān · yǔtiān · yīntiān</span>
@@ -284,7 +284,7 @@ radical: '大'
     <div class="cards">
 
       <!-- 今天 -->
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">今天</span>
           <span class="card-py">jīntiān</span>
@@ -318,7 +318,7 @@ radical: '大'
       </div>
 
       <!-- 明天 -->
-      <div class="card c-ochre">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">明天</span>
           <span class="card-py">míngtiān</span>
@@ -348,7 +348,7 @@ radical: '大'
       </div>
 
       <!-- 昨天 -->
-      <div class="card c-teal">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">昨天</span>
           <span class="card-py">zuótiān</span>
@@ -373,7 +373,7 @@ radical: '大'
       </div>
 
       <!-- 后天 -->
-      <div class="card c-violet">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">后天</span>
           <span class="card-py">hòutiān</span>
@@ -393,7 +393,7 @@ radical: '大'
       </div>
 
       <!-- 每天 -->
-      <div class="card c-sienna">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">每天 · 天天</span>
           <span class="card-py">měitiān · tiāntiān</span>
@@ -435,7 +435,7 @@ radical: '大'
     <div class="cards">
 
       <!-- 天堂 -->
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">天堂</span>
           <span class="card-py">tiāntáng</span>
@@ -464,7 +464,7 @@ radical: '大'
       </div>
 
       <!-- 天国 -->
-      <div class="card c-ochre">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">天国</span>
           <span class="card-py">tiānguó</span>
@@ -484,7 +484,7 @@ radical: '大'
       </div>
 
       <!-- 上天 -->
-      <div class="card c-teal">
+      <div class="card c-vn">
         <div class="card-head">
           <span class="card-cn">上天</span>
           <span class="card-py">shàngtiān</span>
@@ -509,7 +509,7 @@ radical: '大'
       </div>
 
       <!-- 老天 -->
-      <div class="card c-violet">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">老天 · 老天爷</span>
           <span class="card-py">lǎotiān · lǎotiān yé</span>
@@ -554,7 +554,7 @@ radical: '大'
     <div class="cards">
 
       <!-- 天命 -->
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">天命</span>
           <span class="card-py">tiānmìng</span>
@@ -583,7 +583,7 @@ radical: '大'
       </div>
 
       <!-- 天子 -->
-      <div class="card c-ochre">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">天子</span>
           <span class="card-py">tiānzǐ</span>
@@ -608,7 +608,7 @@ radical: '大'
       </div>
 
       <!-- 天下 -->
-      <div class="card c-teal">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">天下</span>
           <span class="card-py">tiānxià</span>
@@ -650,7 +650,7 @@ radical: '大'
     <div class="cards">
 
       <!-- 天才 -->
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">天才</span>
           <span class="card-py">tiāncái</span>
@@ -675,7 +675,7 @@ radical: '大'
       </div>
 
       <!-- 天生 -->
-      <div class="card c-ochre">
+      <div class="card c-adj">
         <div class="card-head">
           <span class="card-cn">天生</span>
           <span class="card-py">tiānshēng</span>
@@ -700,7 +700,7 @@ radical: '大'
       </div>
 
       <!-- 天赋 -->
-      <div class="card c-teal">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">天赋</span>
           <span class="card-py">tiānfù</span>
@@ -724,7 +724,7 @@ radical: '大'
       </div>
 
       <!-- 天真 -->
-      <div class="card c-violet">
+      <div class="card c-adj">
         <div class="card-head">
           <span class="card-cn">天真</span>
           <span class="card-py">tiānzhēn</span>

@@ -135,7 +135,7 @@ pinyin: 'huì / néng / kěyǐ'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">会说中文</span>
           <span class="card-py">huì shuō Zhōngwén</span>
@@ -181,7 +181,7 @@ pinyin: 'huì / néng / kěyǐ'
 
     <div class="cards">
 
-      <div class="card c-ochre">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">明天会下雨</span>
           <span class="card-py">míngtiān huì xià yǔ</span>
@@ -227,7 +227,7 @@ pinyin: 'huì / néng / kěyǐ'
 
     <div class="cards">
 
-      <div class="card c-teal">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">头疼，不能去</span>
           <span class="card-py">tóuténg, bù néng qù</span>
@@ -278,7 +278,7 @@ pinyin: 'huì / néng / kěyǐ'
 
     <div class="cards">
 
-      <div class="card c-violet">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">可以进来吗？</span>
           <span class="card-py">kěyǐ jìnlái ma?</span>
@@ -329,7 +329,7 @@ pinyin: 'huì / néng / kěyǐ'
 
     <div class="cards">
 
-      <div class="card c-sienna">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">能 vs. 可以 in permission</span>
           <span class="card-py">néng vs. kěyǐ</span>
@@ -353,7 +353,7 @@ pinyin: 'huì / néng / kěyǐ'
         </div>
       </div>
 
-      <div class="card c-red">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">会 vs. 能 for skills</span>
           <span class="card-py">huì vs. néng for skills</span>

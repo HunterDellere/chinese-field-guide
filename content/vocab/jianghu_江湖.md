@@ -104,7 +104,7 @@ pinyin: 'jiānghú'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">江湖</span>
           <span class="card-py">jiānghú</span>
@@ -137,7 +137,7 @@ pinyin: 'jiānghú'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">老江湖</span>
           <span class="card-py">lǎo jiānghú</span>
@@ -166,7 +166,7 @@ pinyin: 'jiānghú'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">江湖人</span>
           <span class="card-py">jiānghú rén</span>
@@ -214,7 +214,7 @@ pinyin: 'jiānghú'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">武林</span>
           <span class="card-py">wǔlín</span>
@@ -243,7 +243,7 @@ pinyin: 'jiānghú'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">大侠</span>
           <span class="card-py">dàxiá</span>
@@ -272,7 +272,7 @@ pinyin: 'jiānghú'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">江湖恩怨</span>
           <span class="card-py">jiānghú ēnyuàn</span>
@@ -314,7 +314,7 @@ pinyin: 'jiānghú'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">商场是个江湖</span>
           <span class="card-py">shāngchǎng shì gè jiānghú</span>
@@ -343,7 +343,7 @@ pinyin: 'jiānghú'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">走江湖</span>
           <span class="card-py">zǒu jiānghú</span>
@@ -372,7 +372,7 @@ pinyin: 'jiānghú'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">江湖骗子</span>
           <span class="card-py">jiānghú piànzi</span>
@@ -419,7 +419,7 @@ pinyin: 'jiānghú'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">江</span>
           <span class="card-py">jiāng</span>
@@ -448,7 +448,7 @@ pinyin: 'jiānghú'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">湖</span>
           <span class="card-py">hú</span>
@@ -477,7 +477,7 @@ pinyin: 'jiānghú'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">江山</span>
           <span class="card-py">jiāngshān</span>

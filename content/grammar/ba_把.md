@@ -136,7 +136,7 @@ pinyin: 'bǎ'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">把作业做完</span>
           <span class="card-py">bǎ zuòyè zuò wán</span>
@@ -165,7 +165,7 @@ pinyin: 'bǎ'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">把书放好</span>
           <span class="card-py">bǎ shū fàng hǎo</span>
@@ -194,7 +194,7 @@ pinyin: 'bǎ'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">把门关上</span>
           <span class="card-py">bǎ mén guān shàng</span>
@@ -218,7 +218,7 @@ pinyin: 'bǎ'
         </div>
       </div>
 
-      <div class="card c-violet">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">把窗户打开</span>
           <span class="card-py">bǎ chuānghu dǎ kāi</span>
@@ -260,7 +260,7 @@ pinyin: 'bǎ'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">把椅子搬进来</span>
           <span class="card-py">bǎ yǐzi bān jìnlái</span>
@@ -284,7 +284,7 @@ pinyin: 'bǎ'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">把包放下</span>
           <span class="card-py">bǎ bāo fàng xià</span>
@@ -308,7 +308,7 @@ pinyin: 'bǎ'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">把书拿出来</span>
           <span class="card-py">bǎ shū ná chūlái</span>
@@ -350,7 +350,7 @@ pinyin: 'bǎ'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">*把书看</span>
           <span class="card-py">*bǎ shū kàn</span>
@@ -374,7 +374,7 @@ pinyin: 'bǎ'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">*把他喜欢</span>
           <span class="card-py">*bǎ tā xǐhuān</span>
@@ -398,7 +398,7 @@ pinyin: 'bǎ'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">*把一本书看完</span>
           <span class="card-py">*bǎ yī běn shū kàn wán</span>
@@ -426,7 +426,7 @@ pinyin: 'bǎ'
         </div>
       </div>
 
-      <div class="card c-violet">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">*我把他看见了</span>
           <span class="card-py">*wǒ bǎ tā kànjian le</span>
@@ -463,7 +463,7 @@ pinyin: 'bǎ'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">一把椅子</span>
           <span class="card-py">yī bǎ yǐzi</span>
@@ -491,7 +491,7 @@ pinyin: 'bǎ'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">一把汗</span>
           <span class="card-py">yī bǎ hàn</span>
@@ -515,7 +515,7 @@ pinyin: 'bǎ'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">一把年纪</span>
           <span class="card-py">yī bǎ niánjì</span>

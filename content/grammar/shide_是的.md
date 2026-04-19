@@ -135,7 +135,7 @@ pinyin: 'shì…de'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">他是去年来的</span>
           <span class="card-py">tā shì qùnián lái de</span>
@@ -164,7 +164,7 @@ pinyin: 'shì…de'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">她是今天早上走的</span>
           <span class="card-py">tā shì jīntiān zǎoshang zǒu de</span>
@@ -201,7 +201,7 @@ pinyin: 'shì…de'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">我是在北京出生的</span>
           <span class="card-py">wǒ shì zài Běijīng chūshēng de</span>
@@ -229,7 +229,7 @@ pinyin: 'shì…de'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">他们是在上海见面的</span>
           <span class="card-py">tāmen shì zài Shànghǎi jiànmiàn de</span>
@@ -266,7 +266,7 @@ pinyin: 'shì…de'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">他是开车去的</span>
           <span class="card-py">tā shì kāichē qù de</span>
@@ -295,7 +295,7 @@ pinyin: 'shì…de'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">书是他借的</span>
           <span class="card-py">shū shì tā jiè de</span>
@@ -319,7 +319,7 @@ pinyin: 'shì…de'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">是谁告诉你的</span>
           <span class="card-py">shì shéi gàosu nǐ de</span>
@@ -361,7 +361,7 @@ pinyin: 'shì…de'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">是的</span>
           <span class="card-py">shì de</span>
@@ -417,7 +417,7 @@ pinyin: 'shì…de'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">不是我说的</span>
           <span class="card-py">bú shì wǒ shuō de</span>
@@ -441,7 +441,7 @@ pinyin: 'shì…de'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">不是昨天买的</span>
           <span class="card-py">bú shì zuótiān mǎi de</span>

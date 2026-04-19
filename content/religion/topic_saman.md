@@ -104,7 +104,7 @@ pinyin: 'sàmǎn jiào'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">治病</span>
           <span class="card-py">zhìbìng</span>
@@ -122,7 +122,7 @@ pinyin: 'sàmǎn jiào'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">送魂</span>
           <span class="card-py">sòng hún</span>
@@ -140,7 +140,7 @@ pinyin: 'sàmǎn jiào'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">占卜</span>
           <span class="card-py">zhānbǔ</span>
@@ -158,7 +158,7 @@ pinyin: 'sàmǎn jiào'
         </div>
       </div>
 
-      <div class="card c-violet">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">求雨</span>
           <span class="card-py">qiú yǔ</span>
@@ -176,7 +176,7 @@ pinyin: 'sàmǎn jiào'
         </div>
       </div>
 
-      <div class="card c-sienna">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">战争前的仪式</span>
           <span class="card-py">zhànzhēng qián de yíshì</span>
@@ -235,7 +235,7 @@ pinyin: 'sàmǎn jiào'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">神鼓</span>
           <span class="card-py">shén gǔ</span>
@@ -257,7 +257,7 @@ pinyin: 'sàmǎn jiào'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">神服</span>
           <span class="card-py">shén fú</span>
@@ -275,7 +275,7 @@ pinyin: 'sàmǎn jiào'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">附体</span>
           <span class="card-py">fùtǐ</span>
@@ -293,7 +293,7 @@ pinyin: 'sàmǎn jiào'
         </div>
       </div>
 
-      <div class="card c-violet">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">萨满舞</span>
           <span class="card-py">sàmǎn wǔ</span>
@@ -354,7 +354,7 @@ pinyin: 'sàmǎn jiào'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">鄂伦春族</span>
           <span class="card-py">Èlúnchūn zú</span>
@@ -372,7 +372,7 @@ pinyin: 'sàmǎn jiào'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">鄂温克族</span>
           <span class="card-py">Èwēnkè zú</span>

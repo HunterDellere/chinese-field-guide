@@ -129,7 +129,7 @@ pinyin: 'kǒngzǐ'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">君子</span>
           <span class="card-py">jūnzǐ</span>
@@ -152,7 +152,7 @@ pinyin: 'kǒngzǐ'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">小人</span>
           <span class="card-py">xiǎorén</span>
@@ -174,7 +174,7 @@ pinyin: 'kǒngzǐ'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">正名</span>
           <span class="card-py">zhèngmíng</span>
@@ -213,7 +213,7 @@ pinyin: 'kǒngzǐ'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">仁</span>
           <span class="card-py">rén</span>
@@ -236,7 +236,7 @@ pinyin: 'kǒngzǐ'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">忠恕</span>
           <span class="card-py">zhōng shù</span>

@@ -101,7 +101,7 @@ pinyin: 'rújiā'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">仁</span>
           <span class="card-py">rén</span>
@@ -128,7 +128,7 @@ pinyin: 'rújiā'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">义</span>
           <span class="card-py">yì</span>
@@ -150,7 +150,7 @@ pinyin: 'rújiā'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">礼</span>
           <span class="card-py">lǐ</span>
@@ -172,7 +172,7 @@ pinyin: 'rújiā'
         </div>
       </div>
 
-      <div class="card c-violet">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">智</span>
           <span class="card-py">zhì</span>
@@ -190,7 +190,7 @@ pinyin: 'rújiā'
         </div>
       </div>
 
-      <div class="card c-sienna">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">信</span>
           <span class="card-py">xìn</span>
@@ -231,7 +231,7 @@ pinyin: 'rújiā'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">君臣</span>
           <span class="card-py">jūn chén</span>
@@ -246,7 +246,7 @@ pinyin: 'rújiā'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">父子</span>
           <span class="card-py">fù zǐ</span>
@@ -261,7 +261,7 @@ pinyin: 'rújiā'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">夫妻</span>
           <span class="card-py">fū qī</span>
@@ -272,7 +272,7 @@ pinyin: 'rújiā'
         </div>
       </div>
 
-      <div class="card c-violet">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">兄弟</span>
           <span class="card-py">xiōng dì</span>
@@ -283,7 +283,7 @@ pinyin: 'rújiā'
         </div>
       </div>
 
-      <div class="card c-sienna">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">朋友</span>
           <span class="card-py">péng yǒu</span>
@@ -342,7 +342,7 @@ pinyin: 'rújiā'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">论语</span>
           <span class="card-py">Lúnyǔ</span>
@@ -360,7 +360,7 @@ pinyin: 'rújiā'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">孟子</span>
           <span class="card-py">Mèngzǐ</span>
@@ -371,7 +371,7 @@ pinyin: 'rújiā'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">大学 · 中庸</span>
           <span class="card-py">Dàxué · Zhōngyōng</span>
@@ -382,7 +382,7 @@ pinyin: 'rújiā'
         </div>
       </div>
 
-      <div class="card c-violet">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">诗经 · 书经</span>
           <span class="card-py">Shījīng · Shūjīng</span>
@@ -393,7 +393,7 @@ pinyin: 'rújiā'
         </div>
       </div>
 
-      <div class="card c-sienna">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">礼记 · 易经 · 春秋</span>
           <span class="card-py">Lǐjì · Yìjīng · Chūnqiū</span>

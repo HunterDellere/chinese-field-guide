@@ -112,7 +112,7 @@ pinyin: 'qín shǐhuáng'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">书同文，车同轨</span>
           <span class="card-py">shū tóng wén, chē tóng guǐ</span>
@@ -130,7 +130,7 @@ pinyin: 'qín shǐhuáng'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">小篆</span>
           <span class="card-py">xiǎozhuàn</span>
@@ -141,7 +141,7 @@ pinyin: 'qín shǐhuáng'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">郡县制</span>
           <span class="card-py">jùnxiàn zhì</span>

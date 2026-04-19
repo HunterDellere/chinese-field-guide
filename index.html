@@ -62,8 +62,10 @@
   }
   .hero-cta-primary { background: var(--red); color: var(--papyrus); border: 1px solid var(--red); }
   .hero-cta-primary:hover { background: var(--red-2); transform: translateY(-1px); }
+  .hero-cta-primary:focus-visible { outline: 2px solid var(--ochre-2); outline-offset: 3px; border-radius: var(--radius); }
   .hero-cta-secondary { background: transparent; color: var(--ink-3); border: 1px solid var(--rule); }
   .hero-cta-secondary:hover { background: var(--papyrus-2); color: var(--ink); }
+  .hero-cta-secondary:focus-visible { outline: 2px solid var(--ochre); outline-offset: 3px; border-radius: var(--radius); }
 
   .index-stats { font-family: var(--font-mono); font-size: 0.66rem; color: var(--ink-5); text-align: center; margin-bottom: 2.5rem; letter-spacing: 0.1em; }
   .index-stats strong { color: var(--ochre); font-weight: 500; }
@@ -91,6 +93,7 @@
     display: flex; gap: 0.85rem; align-items: flex-start;
   }
   .overview-cell:hover { background: var(--papyrus-3); border-color: rgba(139,26,26,0.25); transform: translateY(-1px); }
+  .overview-cell:focus-visible { outline: none; border-color: var(--ochre); box-shadow: 0 0 0 2px rgba(160,100,40,0.25); }
   .overview-glyph {
     font-family: var(--font-cn); font-size: 1.85rem; font-weight: 700; line-height: 1; color: var(--red);
     flex-shrink: 0; min-width: 2.2rem; text-shadow: 1px 1px 0 rgba(139,26,26,0.12);
@@ -116,8 +119,12 @@
     background: var(--papyrus-3); border-color: rgba(139,26,26,0.3);
     transform: translateY(-2px); box-shadow: 0 2px 6px rgba(28,18,8,0.06);
   }
-  .recent-card::before { content: ''; position: absolute; left: 0; top: 0; bottom: 0; width: 3px; background: var(--ochre); opacity: 0; transition: opacity 0.15s; }
-  .recent-card:hover::before { opacity: 1; }
+  .recent-card:focus-visible {
+    outline: none; border-color: var(--ochre);
+    box-shadow: 0 0 0 2px rgba(160,100,40,0.25);
+  }
+  .recent-card::before { content: ''; position: absolute; left: 0; top: 0; bottom: 0; width: 3px; background: var(--red); opacity: 0; transition: opacity 0.15s; }
+  .recent-card:hover::before, .recent-card:focus-visible::before { opacity: 1; }
   .recent-new {
     position: absolute; top: 0.5rem; right: 0.5rem;
     font-family: var(--font-mono); font-size: 0.52rem; letter-spacing: 0.18em; text-transform: uppercase;

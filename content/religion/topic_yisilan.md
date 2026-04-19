@@ -105,7 +105,7 @@ pinyin: 'yīsīlán jiào'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">清真饮食</span>
           <span class="card-py">qīngzhēn yǐnshí</span>
@@ -127,7 +127,7 @@ pinyin: 'yīsīlán jiào'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">宁夏</span>
           <span class="card-py">Níngxià</span>
@@ -145,7 +145,7 @@ pinyin: 'yīsīlán jiào'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">经堂教育</span>
           <span class="card-py">jīngtáng jiàoyù</span>
@@ -183,7 +183,7 @@ pinyin: 'yīsīlán jiào'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">十二木卡姆</span>
           <span class="card-py">Shí'èr Mùkǎmǔ</span>
@@ -201,7 +201,7 @@ pinyin: 'yīsīlán jiào'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">都塔尔</span>
           <span class="card-py">dūtǎ'ěr</span>
@@ -219,7 +219,7 @@ pinyin: 'yīsīlán jiào'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">麦西热甫</span>
           <span class="card-py">màixīrèfǔ</span>
@@ -250,7 +250,7 @@ pinyin: 'yīsīlán jiào'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">大清真寺（西安）</span>
           <span class="card-py">Dà Qīngzhēnsì (Xī'ān)</span>
@@ -268,7 +268,7 @@ pinyin: 'yīsīlán jiào'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">牛街礼拜寺（北京）</span>
           <span class="card-py">Niú Jiē Lǐbài Sì (Běijīng)</span>
@@ -286,7 +286,7 @@ pinyin: 'yīsīlán jiào'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">艾提尕尔清真寺（喀什）</span>
           <span class="card-py">Àitígā'ěr Qīngzhēnsì (Kāshí)</span>

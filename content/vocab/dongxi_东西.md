@@ -124,7 +124,7 @@ pinyin: 'dōngxi'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">东西</span>
           <span class="card-py">dōngxi</span>
@@ -157,7 +157,7 @@ pinyin: 'dōngxi'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">东西</span>
           <span class="card-py">dōngxi</span>
@@ -190,7 +190,7 @@ pinyin: 'dōngxi'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">什么东西</span>
           <span class="card-py">shénme dōngxi</span>
@@ -238,7 +238,7 @@ pinyin: 'dōngxi'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">东</span>
           <span class="card-py">dōng</span>
@@ -267,7 +267,7 @@ pinyin: 'dōngxi'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">西</span>
           <span class="card-py">xī</span>
@@ -296,7 +296,7 @@ pinyin: 'dōngxi'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">南</span>
           <span class="card-py">nán</span>
@@ -325,7 +325,7 @@ pinyin: 'dōngxi'
         </div>
       </div>
 
-      <div class="card c-violet">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">北</span>
           <span class="card-py">běi</span>
@@ -463,7 +463,7 @@ pinyin: 'dōngxi'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">东西</span>
           <span class="card-py">dōngxi · neutral tone on 西</span>
@@ -492,7 +492,7 @@ pinyin: 'dōngxi'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">东西</span>
           <span class="card-py">dōng xī · both full tones</span>

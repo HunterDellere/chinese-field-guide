@@ -155,7 +155,7 @@ pinyin: 'tángcháo'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">律诗</span>
           <span class="card-py">lǜshī</span>
@@ -173,7 +173,7 @@ pinyin: 'tángcháo'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">玄奘</span>
           <span class="card-py">Xuánzàng</span>

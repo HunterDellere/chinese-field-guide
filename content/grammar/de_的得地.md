@@ -132,7 +132,7 @@ pinyin: 'de / dé / dì'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">漂亮的花</span>
           <span class="card-py">piàoliang de huā</span>
@@ -160,7 +160,7 @@ pinyin: 'de / dé / dì'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">我的书</span>
           <span class="card-py">wǒ de shū</span>
@@ -188,7 +188,7 @@ pinyin: 'de / dé / dì'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">去北京的火车</span>
           <span class="card-py">qù Běijīng de huǒchē</span>
@@ -230,7 +230,7 @@ pinyin: 'de / dé / dì'
 
     <div class="cards">
 
-      <div class="card c-violet">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">我要红的</span>
           <span class="card-py">wǒ yào hóng de</span>
@@ -276,7 +276,7 @@ pinyin: 'de / dé / dì'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">他说得很清楚</span>
           <span class="card-py">tā shuō de hěn qīngchu</span>
@@ -314,7 +314,7 @@ pinyin: 'de / dé / dì'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-adj">
         <div class="card-head">
           <span class="card-cn">高兴得跳起来</span>
           <span class="card-py">gāoxìng de tiào qǐlai</span>
@@ -351,7 +351,7 @@ pinyin: 'de / dé / dì'
 
     <div class="cards">
 
-      <div class="card c-teal">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">吃得了 / 吃不了</span>
           <span class="card-py">chī de liǎo / chī bu liǎo</span>
@@ -404,7 +404,7 @@ pinyin: 'de / dé / dì'
 
     <div class="cards">
 
-      <div class="card c-violet">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">慢慢地走</span>
           <span class="card-py">mànmàn de zǒu</span>
@@ -445,7 +445,7 @@ pinyin: 'de / dé / dì'
         </div>
       </div>
 
-      <div class="card c-sienna">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">突然地 / 静静地</span>
           <span class="card-py">tūrán de / jìngjìng de</span>

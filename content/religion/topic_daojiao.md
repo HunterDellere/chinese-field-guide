@@ -102,7 +102,7 @@ pinyin: 'dàojiào'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">无为</span>
           <span class="card-py">wúwéi</span>
@@ -120,7 +120,7 @@ pinyin: 'dàojiào'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">自然</span>
           <span class="card-py">zìrán</span>
@@ -138,7 +138,7 @@ pinyin: 'dàojiào'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">柔弱</span>
           <span class="card-py">róuruò</span>
@@ -156,7 +156,7 @@ pinyin: 'dàojiào'
         </div>
       </div>
 
-      <div class="card c-violet">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">朴</span>
           <span class="card-py">pǔ</span>
@@ -186,7 +186,7 @@ pinyin: 'dàojiào'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">玉皇大帝</span>
           <span class="card-py">Yù Huáng Dàdì</span>
@@ -197,7 +197,7 @@ pinyin: 'dàojiào'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">三清</span>
           <span class="card-py">Sānqīng</span>
@@ -208,7 +208,7 @@ pinyin: 'dàojiào'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">八仙</span>
           <span class="card-py">Bā Xiān</span>
@@ -219,7 +219,7 @@ pinyin: 'dàojiào'
         </div>
       </div>
 
-      <div class="card c-violet">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">妈祖</span>
           <span class="card-py">Māzǔ</span>
@@ -230,7 +230,7 @@ pinyin: 'dàojiào'
         </div>
       </div>
 
-      <div class="card c-sienna">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">关帝</span>
           <span class="card-py">Guān Dì</span>
@@ -254,7 +254,7 @@ pinyin: 'dàojiào'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">内丹</span>
           <span class="card-py">nèidān</span>
@@ -269,7 +269,7 @@ pinyin: 'dàojiào'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">外丹</span>
           <span class="card-py">wàidān</span>
@@ -280,7 +280,7 @@ pinyin: 'dàojiào'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">斋醮</span>
           <span class="card-py">zhāijiào</span>
@@ -291,7 +291,7 @@ pinyin: 'dàojiào'
         </div>
       </div>
 
-      <div class="card c-violet">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">符箓</span>
           <span class="card-py">fúlù</span>

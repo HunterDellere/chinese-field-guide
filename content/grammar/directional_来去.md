@@ -137,7 +137,7 @@ pinyin: 'lái / qù'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">我来了！/ 他去了。</span>
           <span class="card-py">Wǒ lái le! / Tā qù le.</span>
@@ -179,7 +179,7 @@ pinyin: 'lái / qù'
 
     <div class="cards">
 
-      <div class="card c-ochre">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">上/下 · 进/出 · 来/去</span>
           <span class="card-py">shàng/xià · jìn/chū · lái/qù</span>
@@ -220,7 +220,7 @@ pinyin: 'lái / qù'
 
     <div class="cards">
 
-      <div class="card c-teal">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">走进来 / 走进去</span>
           <span class="card-py">zǒu jìn lái / zǒu jìn qù</span>
@@ -258,7 +258,7 @@ pinyin: 'lái / qù'
         </div>
       </div>
 
-      <div class="card c-violet">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">搬上来 · 跑出去 · 飞过来</span>
           <span class="card-py">bān shàng lái · pǎo chū qù · fēi guò lái</span>
@@ -295,7 +295,7 @@ pinyin: 'lái / qù'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">看起来 · 听起来 · 想起来</span>
           <span class="card-py">kàn qǐlai · tīng qǐlai · xiǎng qǐlai</span>
@@ -334,7 +334,7 @@ pinyin: 'lái / qù'
         </div>
       </div>
 
-      <div class="card c-sienna">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">下去 as continuation marker</span>
           <span class="card-py">V + xià qù</span>
@@ -371,7 +371,7 @@ pinyin: 'lái / qù'
 
     <div class="cards">
 
-      <div class="card c-ochre">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">我来帮你 · 他去买菜</span>
           <span class="card-py">wǒ lái bāng nǐ · tā qù mǎi cài</span>

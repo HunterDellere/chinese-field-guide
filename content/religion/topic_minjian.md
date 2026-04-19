@@ -104,7 +104,7 @@ pinyin: 'mínjiān xìnyǎng'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">玉皇大帝</span>
           <span class="card-py">Yùhuáng Dàdì</span>
@@ -126,7 +126,7 @@ pinyin: 'mínjiān xìnyǎng'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">土地公</span>
           <span class="card-py">Tǔdìgōng</span>
@@ -148,7 +148,7 @@ pinyin: 'mínjiān xìnyǎng'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">灶神</span>
           <span class="card-py">Zàoshén</span>
@@ -170,7 +170,7 @@ pinyin: 'mínjiān xìnyǎng'
         </div>
       </div>
 
-      <div class="card c-violet">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">城隍</span>
           <span class="card-py">Chénghuáng</span>
@@ -188,7 +188,7 @@ pinyin: 'mínjiān xìnyǎng'
         </div>
       </div>
 
-      <div class="card c-sienna">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">财神</span>
           <span class="card-py">Cáishén</span>
@@ -228,7 +228,7 @@ pinyin: 'mínjiān xìnyǎng'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">春节祭祖</span>
           <span class="card-py">Chūnjié Jìzǔ</span>
@@ -246,7 +246,7 @@ pinyin: 'mínjiān xìnyǎng'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">清明节扫墓</span>
           <span class="card-py">Qīngmíng Jié Sǎomù</span>
@@ -264,7 +264,7 @@ pinyin: 'mínjiān xìnyǎng'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">中元节</span>
           <span class="card-py">Zhōngyuán Jié</span>
@@ -282,7 +282,7 @@ pinyin: 'mínjiān xìnyǎng'
         </div>
       </div>
 
-      <div class="card c-violet">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">中秋拜月</span>
           <span class="card-py">Zhōngqiū Bài Yuè</span>
@@ -325,7 +325,7 @@ pinyin: 'mínjiān xìnyǎng'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">乩童</span>
           <span class="card-py">jītóng</span>
@@ -343,7 +343,7 @@ pinyin: 'mínjiān xìnyǎng'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">庙会</span>
           <span class="card-py">miàohuì</span>
@@ -380,7 +380,7 @@ pinyin: 'mínjiān xìnyǎng'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">数字象征</span>
           <span class="card-py">shùzì xiàngzhēng</span>
@@ -398,7 +398,7 @@ pinyin: 'mínjiān xìnyǎng'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">颜色象征</span>
           <span class="card-py">yánsè xiàngzhēng</span>
@@ -416,7 +416,7 @@ pinyin: 'mínjiān xìnyǎng'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">鬼月</span>
           <span class="card-py">guǐ yuè</span>
@@ -434,7 +434,7 @@ pinyin: 'mínjiān xìnyǎng'
         </div>
       </div>
 
-      <div class="card c-violet">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">方位禁忌</span>
           <span class="card-py">fāngwèi jìnjì</span>

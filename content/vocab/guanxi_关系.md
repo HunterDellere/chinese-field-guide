@@ -101,7 +101,7 @@ pinyin: 'guānxi'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">关系</span>
           <span class="card-py">guānxi</span>
@@ -134,7 +134,7 @@ pinyin: 'guānxi'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">有关系</span>
           <span class="card-py">yǒu guānxi</span>
@@ -163,7 +163,7 @@ pinyin: 'guānxi'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">没关系</span>
           <span class="card-py">méi guānxi</span>
@@ -212,7 +212,7 @@ pinyin: 'guānxi'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">人际关系</span>
           <span class="card-py">rénjì guānxi</span>
@@ -241,7 +241,7 @@ pinyin: 'guānxi'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">关系网</span>
           <span class="card-py">guānxi wǎng</span>
@@ -270,7 +270,7 @@ pinyin: 'guānxi'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">走关系</span>
           <span class="card-py">zǒu guānxi</span>
@@ -312,7 +312,7 @@ pinyin: 'guānxi'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">关系到</span>
           <span class="card-py">guānxi dào</span>
@@ -341,7 +341,7 @@ pinyin: 'guānxi'
         </div>
       </div>
 
-      <div class="card c-violet">
+      <div class="card c-adj">
         <div class="card-head">
           <span class="card-cn">关系重大</span>
           <span class="card-py">guānxi zhòngdà</span>
@@ -378,7 +378,7 @@ pinyin: 'guānxi'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-vn">
         <div class="card-head">
           <span class="card-cn">关心</span>
           <span class="card-py">guānxīn</span>
@@ -407,7 +407,7 @@ pinyin: 'guānxi'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-adj">
         <div class="card-head">
           <span class="card-cn">有关 / 无关</span>
           <span class="card-py">yǒuguān / wúguān</span>
@@ -436,7 +436,7 @@ pinyin: 'guānxi'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-vn">
         <div class="card-head">
           <span class="card-cn">关注</span>
           <span class="card-py">guānzhù</span>
@@ -465,7 +465,7 @@ pinyin: 'guānxi'
         </div>
       </div>
 
-      <div class="card c-violet">
+      <div class="card c-vn">
         <div class="card-head">
           <span class="card-cn">关联</span>
           <span class="card-py">guānlián</span>

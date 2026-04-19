@@ -130,7 +130,7 @@ pinyin: 'jiù / cái'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">他五岁就会读书了</span>
           <span class="card-py">tā wǔ suì jiù huì dúshū le</span>
@@ -163,7 +163,7 @@ pinyin: 'jiù / cái'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">我一说他就明白了</span>
           <span class="card-py">wǒ yī shuō tā jiù míngbai le</span>
@@ -192,7 +192,7 @@ pinyin: 'jiù / cái'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">就这么简单</span>
           <span class="card-py">jiù zhème jiǎndān</span>
@@ -221,7 +221,7 @@ pinyin: 'jiù / cái'
         </div>
       </div>
 
-      <div class="card c-violet">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">明天就到了</span>
           <span class="card-py">míngtiān jiù dào le</span>
@@ -263,7 +263,7 @@ pinyin: 'jiù / cái'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">他三十岁才结婚</span>
           <span class="card-py">tā sānshí suì cái jiéhūn</span>
@@ -291,7 +291,7 @@ pinyin: 'jiù / cái'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">说了半天才明白</span>
           <span class="card-py">shuō le bàn tiān cái míngbai</span>
@@ -320,7 +320,7 @@ pinyin: 'jiù / cái'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">才两个人</span>
           <span class="card-py">cái liǎng gè rén</span>
@@ -377,7 +377,7 @@ pinyin: 'jiù / cái'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">只要…就</span>
           <span class="card-py">zhǐyào … jiù</span>
@@ -406,7 +406,7 @@ pinyin: 'jiù / cái'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">只有…才</span>
           <span class="card-py">zhǐyǒu … cái</span>
@@ -454,7 +454,7 @@ pinyin: 'jiù / cái'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">他回来就走</span>
           <span class="card-py">tā huílái jiù zǒu</span>
@@ -483,7 +483,7 @@ pinyin: 'jiù / cái'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">吃完饭就睡</span>
           <span class="card-py">chī wán fàn jiù shuì</span>

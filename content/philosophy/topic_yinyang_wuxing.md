@@ -88,7 +88,7 @@ pinyin: 'yīnyáng wǔxíng'
 
     <div class="cards">
 
-      <div class="card c-teal">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">阴 Yīn</span>
           <span class="card-py">yīn</span>
@@ -99,7 +99,7 @@ pinyin: 'yīnyáng wǔxíng'
         </div>
       </div>
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">阳 Yáng</span>
           <span class="card-py">yáng</span>
@@ -146,7 +146,7 @@ pinyin: 'yīnyáng wǔxíng'
 
     <div class="cards">
 
-      <div class="card c-teal">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">木</span>
           <span class="card-py">mù · Wood</span>
@@ -157,7 +157,7 @@ pinyin: 'yīnyáng wǔxíng'
         </div>
       </div>
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">火</span>
           <span class="card-py">huǒ · Fire</span>
@@ -168,7 +168,7 @@ pinyin: 'yīnyáng wǔxíng'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">土</span>
           <span class="card-py">tǔ · Earth</span>
@@ -179,7 +179,7 @@ pinyin: 'yīnyáng wǔxíng'
         </div>
       </div>
 
-      <div class="card c-violet">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">金</span>
           <span class="card-py">jīn · Metal</span>
@@ -190,7 +190,7 @@ pinyin: 'yīnyáng wǔxíng'
         </div>
       </div>
 
-      <div class="card c-sienna">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">水</span>
           <span class="card-py">shuǐ · Water</span>

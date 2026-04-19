@@ -120,7 +120,7 @@ pinyin: 'mèngzǐ'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">恻隐之心</span>
           <span class="card-py">cèyǐn zhī xīn</span>
@@ -143,7 +143,7 @@ pinyin: 'mèngzǐ'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">羞恶之心</span>
           <span class="card-py">xiū wù zhī xīn</span>
@@ -165,7 +165,7 @@ pinyin: 'mèngzǐ'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">辞让之心</span>
           <span class="card-py">cí ràng zhī xīn</span>
@@ -183,7 +183,7 @@ pinyin: 'mèngzǐ'
         </div>
       </div>
 
-      <div class="card c-violet">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">是非之心</span>
           <span class="card-py">shì fēi zhī xīn</span>

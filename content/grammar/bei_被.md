@@ -136,7 +136,7 @@ pinyin: 'bèi'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">自行车被偷了</span>
           <span class="card-py">zìxíngchē bèi tōu le</span>
@@ -160,7 +160,7 @@ pinyin: 'bèi'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">作业被老师批评了</span>
           <span class="card-py">zuòyè bèi lǎoshī pīpíng le</span>
@@ -184,7 +184,7 @@ pinyin: 'bèi'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">玻璃被打破了</span>
           <span class="card-py">bōlí bèi dǎ pò le</span>
@@ -208,7 +208,7 @@ pinyin: 'bèi'
         </div>
       </div>
 
-      <div class="card c-violet">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">计划被取消了</span>
           <span class="card-py">jìhuà bèi qǔxiāo le</span>
@@ -245,7 +245,7 @@ pinyin: 'bèi'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">被打了</span>
           <span class="card-py">bèi dǎ le</span>
@@ -269,7 +269,7 @@ pinyin: 'bèi'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">被误解了</span>
           <span class="card-py">bèi wùjiě le</span>
@@ -293,7 +293,7 @@ pinyin: 'bèi'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">被发现了</span>
           <span class="card-py">bèi fāxiàn le</span>
@@ -336,7 +336,7 @@ pinyin: 'bèi'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">书让他拿走了</span>
           <span class="card-py">shū ràng tā ná zǒu le</span>
@@ -360,7 +360,7 @@ pinyin: 'bèi'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">钱给人骗了</span>
           <span class="card-py">qián gěi rén piàn le</span>
@@ -384,7 +384,7 @@ pinyin: 'bèi'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">孩子叫雨淋湿了</span>
           <span class="card-py">háizi jiào yǔ lín shī le</span>
@@ -433,7 +433,7 @@ pinyin: 'bèi'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">被自杀</span>
           <span class="card-py">bèi zìshā</span>
@@ -456,7 +456,7 @@ pinyin: 'bèi'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">被代表</span>
           <span class="card-py">bèi dàibiǎo</span>

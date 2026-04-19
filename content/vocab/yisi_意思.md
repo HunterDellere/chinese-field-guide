@@ -101,7 +101,7 @@ pinyin: 'yìsi'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">意思</span>
           <span class="card-py">yìsi</span>
@@ -134,7 +134,7 @@ pinyin: 'yìsi'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-adj">
         <div class="card-head">
           <span class="card-cn">有意思</span>
           <span class="card-py">yǒu yìsi</span>
@@ -167,7 +167,7 @@ pinyin: 'yìsi'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-adj">
         <div class="card-head">
           <span class="card-cn">没意思</span>
           <span class="card-py">méi yìsi</span>
@@ -209,7 +209,7 @@ pinyin: 'yìsi'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">你什么意思？</span>
           <span class="card-py">nǐ shénme yìsi</span>
@@ -242,7 +242,7 @@ pinyin: 'yìsi'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">意思意思</span>
           <span class="card-py">yìsi yìsi</span>
@@ -290,7 +290,7 @@ pinyin: 'yìsi'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">小意思</span>
           <span class="card-py">xiǎo yìsi</span>
@@ -319,7 +319,7 @@ pinyin: 'yìsi'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">意思到了</span>
           <span class="card-py">yìsi dào le</span>
@@ -373,7 +373,7 @@ pinyin: 'yìsi'
 
     <div class="cards">
 
-      <div class="card c-violet">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">意义</span>
           <span class="card-py">yìyì</span>
@@ -406,7 +406,7 @@ pinyin: 'yìsi'
         </div>
       </div>
 
-      <div class="card c-sienna">
+      <div class="card c-adj">
         <div class="card-head">
           <span class="card-cn">无意义</span>
           <span class="card-py">wú yìyì</span>

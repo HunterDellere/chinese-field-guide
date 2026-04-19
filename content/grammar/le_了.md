@@ -134,7 +134,7 @@ pinyin: 'le'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">吃了</span>
           <span class="card-py">chī le</span>
@@ -167,7 +167,7 @@ pinyin: 'le'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">买了</span>
           <span class="card-py">mǎi le</span>
@@ -196,7 +196,7 @@ pinyin: 'le'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">学了三年</span>
           <span class="card-py">xué le sān nián</span>
@@ -229,7 +229,7 @@ pinyin: 'le'
         </div>
       </div>
 
-      <div class="card c-violet">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">看了两遍</span>
           <span class="card-py">kàn le liǎng biàn</span>
@@ -271,7 +271,7 @@ pinyin: 'le'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">下雨了</span>
           <span class="card-py">xià yǔ le</span>
@@ -304,7 +304,7 @@ pinyin: 'le'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">我明白了</span>
           <span class="card-py">wǒ míngbai le</span>
@@ -333,7 +333,7 @@ pinyin: 'le'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">他结婚了</span>
           <span class="card-py">tā jiéhūn le</span>
@@ -357,7 +357,7 @@ pinyin: 'le'
         </div>
       </div>
 
-      <div class="card c-sienna">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">春天了</span>
           <span class="card-py">chūntiān le</span>
@@ -411,7 +411,7 @@ pinyin: 'le'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">她来了两个星期了</span>
           <span class="card-py">tā lái le liǎng gè xīngqī le</span>
@@ -463,7 +463,7 @@ pinyin: 'le'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">没吃</span>
           <span class="card-py">méi chī</span>
@@ -497,7 +497,7 @@ pinyin: 'le'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">不来了</span>
           <span class="card-py">bù lái le</span>
@@ -526,7 +526,7 @@ pinyin: 'le'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">还没…呢</span>
           <span class="card-py">hái méi … ne</span>
@@ -574,7 +574,7 @@ pinyin: 'le'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-adj">
         <div class="card-head">
           <span class="card-cn">了不起</span>
           <span class="card-py">liǎo bu qǐ</span>
@@ -598,7 +598,7 @@ pinyin: 'le'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">受不了</span>
           <span class="card-py">shòu bu liǎo</span>
@@ -626,7 +626,7 @@ pinyin: 'le'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-vn">
         <div class="card-head">
           <span class="card-cn">了解</span>
           <span class="card-py">liǎojiě</span>
@@ -650,7 +650,7 @@ pinyin: 'le'
         </div>
       </div>
 
-      <div class="card c-violet">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">了结</span>
           <span class="card-py">liǎojié</span>

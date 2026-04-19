@@ -104,7 +104,7 @@ pinyin: 'fēngshuǐ'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">风水</span>
           <span class="card-py">fēngshuǐ</span>
@@ -133,7 +133,7 @@ pinyin: 'fēngshuǐ'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">风水宝地</span>
           <span class="card-py">fēngshuǐ bǎodì</span>
@@ -157,7 +157,7 @@ pinyin: 'fēngshuǐ'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">风水轮流转</span>
           <span class="card-py">fēngshuǐ lúnliú zhuǎn</span>
@@ -204,7 +204,7 @@ pinyin: 'fēngshuǐ'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">风格</span>
           <span class="card-py">fēnggé</span>
@@ -233,7 +233,7 @@ pinyin: 'fēngshuǐ'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">风景</span>
           <span class="card-py">fēngjǐng</span>
@@ -262,7 +262,7 @@ pinyin: 'fēngshuǐ'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">风俗</span>
           <span class="card-py">fēngsú</span>
@@ -291,7 +291,7 @@ pinyin: 'fēngshuǐ'
         </div>
       </div>
 
-      <div class="card c-violet">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">风言风语</span>
           <span class="card-py">fēngyán fēngyǔ</span>
@@ -328,7 +328,7 @@ pinyin: 'fēngshuǐ'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">水平</span>
           <span class="card-py">shuǐpíng</span>
@@ -357,7 +357,7 @@ pinyin: 'fēngshuǐ'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">水墨</span>
           <span class="card-py">shuǐmò</span>
@@ -381,7 +381,7 @@ pinyin: 'fēngshuǐ'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">风水相生</span>
           <span class="card-py">fēng shuǐ xiāng shēng</span>

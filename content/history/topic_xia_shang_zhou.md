@@ -115,7 +115,7 @@ pinyin: 'xià shāng zhōu'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">甲骨文</span>
           <span class="card-py">jiǎgǔwén</span>
@@ -137,7 +137,7 @@ pinyin: 'xià shāng zhōu'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">青铜器</span>
           <span class="card-py">qīngtóngqì</span>
@@ -155,7 +155,7 @@ pinyin: 'xià shāng zhōu'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">天命</span>
           <span class="card-py">tiānmìng</span>
@@ -256,7 +256,7 @@ pinyin: 'xià shāng zhōu'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">儒家</span>
           <span class="card-py">Rújiā</span>
@@ -271,7 +271,7 @@ pinyin: 'xià shāng zhōu'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">道家</span>
           <span class="card-py">Dàojiā</span>
@@ -286,7 +286,7 @@ pinyin: 'xià shāng zhōu'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">法家</span>
           <span class="card-py">Fǎjiā</span>
@@ -297,7 +297,7 @@ pinyin: 'xià shāng zhōu'
         </div>
       </div>
 
-      <div class="card c-violet">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">墨家</span>
           <span class="card-py">Mòjiā</span>

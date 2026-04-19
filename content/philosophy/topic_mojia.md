@@ -139,7 +139,7 @@ pinyin: 'mòjiā'
 
     <div class="cards">
 
-      <div class="card c-red">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">尚贤</span>
           <span class="card-py">shàng xián</span>
@@ -154,7 +154,7 @@ pinyin: 'mòjiā'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">尚同</span>
           <span class="card-py">shàng tóng</span>
@@ -169,7 +169,7 @@ pinyin: 'mòjiā'
         </div>
       </div>
 
-      <div class="card c-ochre">
+      <div class="card c-neutral">
         <div class="card-head">
           <span class="card-cn">非乐与节葬</span>
           <span class="card-py">fēi yuè yǔ jié zàng</span>

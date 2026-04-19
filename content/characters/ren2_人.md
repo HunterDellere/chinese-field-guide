@@ -167,7 +167,7 @@ radical: '人'
     <div class="cards">
 
       <!-- 人 -->
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">人</span>
           <span class="card-py">rén</span>
@@ -201,7 +201,7 @@ radical: '人'
       </div>
 
       <!-- 人们 -->
-      <div class="card c-ochre">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">人们</span>
           <span class="card-py">rénmen</span>
@@ -230,7 +230,7 @@ radical: '人'
       </div>
 
       <!-- 人类 -->
-      <div class="card c-teal">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">人类</span>
           <span class="card-py">rénlèi</span>
@@ -255,7 +255,7 @@ radical: '人'
       </div>
 
       <!-- 人民 -->
-      <div class="card c-violet">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">人民</span>
           <span class="card-py">rénmín</span>
@@ -284,7 +284,7 @@ radical: '人'
       </div>
 
       <!-- 大家 -->
-      <div class="card c-sienna">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">大家</span>
           <span class="card-py">dàjiā</span>
@@ -322,7 +322,7 @@ radical: '人'
     <div class="cards">
 
       <!-- 别人 -->
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">别人</span>
           <span class="card-py">biérén</span>
@@ -352,7 +352,7 @@ radical: '人'
       </div>
 
       <!-- 他人 -->
-      <div class="card c-ochre">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">他人</span>
           <span class="card-py">tārén</span>
@@ -381,7 +381,7 @@ radical: '人'
       </div>
 
       <!-- 旁人 -->
-      <div class="card c-teal">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">旁人</span>
           <span class="card-py">pángrén</span>
@@ -406,7 +406,7 @@ radical: '人'
       </div>
 
       <!-- 自己人 -->
-      <div class="card c-violet">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">自己人</span>
           <span class="card-py">zìjǐrén</span>
@@ -448,7 +448,7 @@ radical: '人'
     <div class="cards">
 
       <!-- 人品 -->
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">人品</span>
           <span class="card-py">rénpǐn</span>
@@ -473,7 +473,7 @@ radical: '人'
       </div>
 
       <!-- 人情 -->
-      <div class="card c-ochre">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">人情</span>
           <span class="card-py">rénqíng</span>
@@ -502,7 +502,7 @@ radical: '人'
       </div>
 
       <!-- 人缘 -->
-      <div class="card c-teal">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">人缘</span>
           <span class="card-py">rényuán</span>
@@ -522,7 +522,7 @@ radical: '人'
       </div>
 
       <!-- 人脉 -->
-      <div class="card c-sienna">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">人脉</span>
           <span class="card-py">rénmài</span>
@@ -565,7 +565,7 @@ radical: '人'
     </div>
 
     <div class="cards">
-      <div class="card c-red">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">做人</span>
           <span class="card-py">zuòrén</span>

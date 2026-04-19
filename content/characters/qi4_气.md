@@ -153,7 +153,7 @@ trad: '氣'
     <div class="cards">
 
       <!-- 天气 -->
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">天气</span>
           <span class="card-py">tiānqì</span>
@@ -183,7 +183,7 @@ trad: '氣'
       </div>
 
       <!-- 空气 -->
-      <div class="card c-ochre">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">空气</span>
           <span class="card-py">kōngqì</span>
@@ -208,7 +208,7 @@ trad: '氣'
       </div>
 
       <!-- 气候 -->
-      <div class="card c-teal">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">气候</span>
           <span class="card-py">qìhòu</span>
@@ -228,7 +228,7 @@ trad: '氣'
       </div>
 
       <!-- 气温 -->
-      <div class="card c-violet">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">气温</span>
           <span class="card-py">qìwēn</span>
@@ -266,7 +266,7 @@ trad: '氣'
     <div class="cards">
 
       <!-- 生气 -->
-      <div class="card c-red">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">生气</span>
           <span class="card-py">shēngqì</span>
@@ -300,7 +300,7 @@ trad: '氣'
       </div>
 
       <!-- 气愤 -->
-      <div class="card c-ochre">
+      <div class="card c-adj">
         <div class="card-head">
           <span class="card-cn">气愤</span>
           <span class="card-py">qìfèn</span>
@@ -320,7 +320,7 @@ trad: '氣'
       </div>
 
       <!-- 动气 -->
-      <div class="card c-teal">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">动气</span>
           <span class="card-py">dòngqì</span>
@@ -340,7 +340,7 @@ trad: '氣'
       </div>
 
       <!-- 发火 -->
-      <div class="card c-sienna">
+      <div class="card c-v">
         <div class="card-head">
           <span class="card-cn">发火</span>
           <span class="card-py">fāhuǒ</span>
@@ -377,7 +377,7 @@ trad: '氣'
     <div class="cards">
 
       <!-- 语气 -->
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">语气</span>
           <span class="card-py">yǔqì</span>
@@ -406,7 +406,7 @@ trad: '氣'
       </div>
 
       <!-- 口气 -->
-      <div class="card c-ochre">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">口气</span>
           <span class="card-py">kǒuqì</span>
@@ -431,7 +431,7 @@ trad: '氣'
       </div>
 
       <!-- 语气词 -->
-      <div class="card c-teal">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">口吻</span>
           <span class="card-py">kǒuwěn</span>
@@ -464,7 +464,7 @@ trad: '氣'
     <div class="cards">
 
       <!-- 气质 -->
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">气质</span>
           <span class="card-py">qìzhì</span>
@@ -489,7 +489,7 @@ trad: '氣'
       </div>
 
       <!-- 气势 -->
-      <div class="card c-ochre">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">气势</span>
           <span class="card-py">qìshì</span>
@@ -509,7 +509,7 @@ trad: '氣'
       </div>
 
       <!-- 气场 -->
-      <div class="card c-teal">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">气场</span>
           <span class="card-py">qìchǎng</span>
@@ -529,7 +529,7 @@ trad: '氣'
       </div>
 
       <!-- 气色 -->
-      <div class="card c-violet">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">气色</span>
           <span class="card-py">qìsè</span>
@@ -567,7 +567,7 @@ trad: '氣'
     </div>
 
     <div class="cards">
-      <div class="card c-red">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">元气</span>
           <span class="card-py">yuánqì</span>
@@ -591,7 +591,7 @@ trad: '氣'
         </div>
       </div>
 
-      <div class="card c-teal">
+      <div class="card c-n">
         <div class="card-head">
           <span class="card-cn">正气</span>
           <span class="card-py">zhèngqì</span>
