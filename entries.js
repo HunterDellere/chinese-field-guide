@@ -227,6 +227,7 @@ window.ENTRIES = [
     pinyin: "le",
     desc: "Perfective aspect vs. change-of-state — the single most-confused particle.",
     tags: ["aspect", "particle", "tense"],
+    updated: "2026-04-18",
     status: "complete"
   },
   {
@@ -236,6 +237,7 @@ window.ENTRIES = [
     pinyin: "bǎ",
     desc: "Moving the object before the verb — when and why.",
     tags: ["syntax", "object", "disposal"],
+    updated: "2026-04-18",
     status: "complete"
   },
   {
@@ -245,6 +247,7 @@ window.ENTRIES = [
     pinyin: "bèi",
     desc: "Agentive passive, unmarked passive, and the adversarial connotation.",
     tags: ["passive", "syntax", "agent"],
+    updated: "2026-04-18",
     status: "complete"
   },
   {
@@ -254,6 +257,7 @@ window.ENTRIES = [
     pinyin: "shì…de",
     desc: "Focus and past-detail marking — the construction that trips every learner.",
     tags: ["focus", "cleft", "past"],
+    updated: "2026-04-18",
     status: "complete"
   },
   {
@@ -263,6 +267,7 @@ window.ENTRIES = [
     pinyin: "jiù / cái",
     desc: "The timing and emphasis pair — speaker attitude encoded in one syllable.",
     tags: ["adverb", "timing", "emphasis"],
+    updated: "2026-04-18",
     status: "complete"
   },
   {
@@ -272,6 +277,7 @@ window.ENTRIES = [
     pinyin: "de / dé / dì",
     desc: "Attribution, result complement, and adverbial marker — distinguished once and for all.",
     tags: ["particle", "complement", "adverb"],
+    updated: "2026-04-18",
     status: "complete"
   },
   {
@@ -281,6 +287,7 @@ window.ENTRIES = [
     pinyin: "liàngcí",
     desc: "个, 只, 条, 本, 张 — the classifier taxonomy and the logic behind it.",
     tags: ["measure-words", "classifiers", "nouns"],
+    updated: "2026-04-18",
     status: "complete"
   },
   {
@@ -290,6 +297,7 @@ window.ENTRIES = [
     pinyin: "huì / néng / kěyǐ",
     desc: "Learned ability vs. situational capacity vs. permission — not interchangeable.",
     tags: ["modal", "ability", "permission"],
+    updated: "2026-04-18",
     status: "complete"
   },
   {
@@ -299,6 +307,7 @@ window.ENTRIES = [
     pinyin: "lái / qù",
     desc: "上来, 下去, 出去, 进来 — the motion complement system mapped.",
     tags: ["direction", "complement", "motion"],
+    updated: "2026-04-18",
     status: "complete"
   },
   {
@@ -308,6 +317,7 @@ window.ENTRIES = [
     pinyin: "lián…dōu/yě",
     desc: "The intensifier construction — raising the stakes of a claim.",
     tags: ["intensifier", "even", "emphasis"],
+    updated: "2026-04-18",
     status: "complete"
   },
 
@@ -319,6 +329,7 @@ window.ENTRIES = [
     pinyin: "rújiā",
     desc: "The school of the ru — ritual, hierarchy, and moral cultivation as state religion.",
     tags: ["confucianism", "ritual", "ethics"],
+    updated: "2026-04-18",
     status: "complete"
   },
   {
@@ -328,6 +339,7 @@ window.ENTRIES = [
     pinyin: "dàojiào",
     desc: "Daoism as organized religion — distinct from Daoist philosophy.",
     tags: ["daoism", "religion", "immortality"],
+    updated: "2026-04-18",
     status: "complete"
   },
   {
@@ -337,6 +349,7 @@ window.ENTRIES = [
     pinyin: "fójiào",
     desc: "Two thousand years of transmission, transformation, and sinicization.",
     tags: ["buddhism", "transmission", "history"],
+    updated: "2026-04-18",
     status: "complete"
   },
   {
@@ -346,6 +359,7 @@ window.ENTRIES = [
     pinyin: "chán zōng",
     desc: "The meditative school that became Japanese Zen — sudden enlightenment and the patriarchs.",
     tags: ["chan", "zen", "meditation"],
+    updated: "2026-04-18",
     status: "complete"
   },
   {
@@ -355,6 +369,7 @@ window.ENTRIES = [
     pinyin: "jìngtǔ zōng",
     desc: "The most widely practiced Buddhism in China — faith, Amitabha, and the Western Paradise.",
     tags: ["pure-land", "amitabha", "faith"],
+    updated: "2026-04-18",
     status: "complete"
   },
   {
@@ -364,6 +379,7 @@ window.ENTRIES = [
     pinyin: "mínjiān xìnyǎng",
     desc: "Kitchen gods, city gods, and the living popular religion beneath Buddhism and Daoism.",
     tags: ["folk-religion", "gods", "popular"],
+    updated: "2026-04-18",
     status: "complete"
   },
   {
@@ -373,6 +389,7 @@ window.ENTRIES = [
     pinyin: "zǔxiān chóngbài",
     desc: "The deep continuity — tablets, offerings, and the living debt to the dead.",
     tags: ["ancestors", "ritual", "family"],
+    updated: "2026-04-18",
     status: "complete"
   },
   {
@@ -382,6 +399,7 @@ window.ENTRIES = [
     pinyin: "māzǔ",
     desc: "Coastal goddess of sailors, fishermen, and the overseas Chinese diaspora.",
     tags: ["mazu", "goddess", "coast"],
+    updated: "2026-04-18",
     status: "complete"
   },
   {
@@ -391,6 +409,7 @@ window.ENTRIES = [
     pinyin: "yīsīlán jiào",
     desc: "Hui Muslims, Uyghur traditions, and 1400 years of Islamic presence.",
     tags: ["islam", "hui", "uyghur"],
+    updated: "2026-04-18",
     status: "complete"
   },
   {
@@ -400,6 +419,7 @@ window.ENTRIES = [
     pinyin: "sàmǎn jiào",
     desc: "Manchu, Mongol, and northern indigenous shamanic traditions.",
     tags: ["shamanism", "manchu", "indigenous"],
+    updated: "2026-04-18",
     status: "complete"
   },
 
@@ -411,6 +431,7 @@ window.ENTRIES = [
     pinyin: "kǒngzǐ",
     desc: "His life, the Analects 论语, and the civilization he shaped.",
     tags: ["confucius", "analects", "ethics"],
+    updated: "2026-04-18",
     status: "complete"
   },
   {
@@ -420,6 +441,7 @@ window.ENTRIES = [
     pinyin: "lǎozǐ",
     desc: "The 81 chapters, wu wei 无为, and the paradox at the heart of Daoist thought.",
     tags: ["laozi", "daodejing", "wuwei"],
+    updated: "2026-04-18",
     status: "complete"
   },
   {
@@ -429,6 +451,7 @@ window.ENTRIES = [
     pinyin: "zhuāngzǐ",
     desc: "The butterfly dream, Cook Ding, and Daoist freedom from convention.",
     tags: ["zhuangzi", "freedom", "daoist"],
+    updated: "2026-04-18",
     status: "complete"
   },
   {
@@ -438,6 +461,7 @@ window.ENTRIES = [
     pinyin: "mèngzǐ",
     desc: "Human nature as inherently good — the sprouts of virtue.",
     tags: ["mencius", "human-nature", "virtue"],
+    updated: "2026-04-18",
     status: "complete"
   },
   {
@@ -447,6 +471,7 @@ window.ENTRIES = [
     pinyin: "xúnzǐ",
     desc: "Human nature as bad — ritual and education as correction.",
     tags: ["xunzi", "ritual", "human-nature"],
+    updated: "2026-04-18",
     status: "complete"
   },
   {
@@ -456,6 +481,7 @@ window.ENTRIES = [
     pinyin: "mòjiā",
     desc: "Universal love, anti-war, and the utilitarian logic China nearly chose.",
     tags: ["mohism", "universal-love", "logic"],
+    updated: "2026-04-18",
     status: "complete"
   },
   {
@@ -465,6 +491,7 @@ window.ENTRIES = [
     pinyin: "fǎjiā",
     desc: "Han Feizi, statecraft, and the realpolitik that unified China.",
     tags: ["legalism", "statecraft", "power"],
+    updated: "2026-04-18",
     status: "complete"
   },
   {
@@ -474,6 +501,7 @@ window.ENTRIES = [
     pinyin: "yīnyáng wǔxíng",
     desc: "The cosmological engine of classical thought — correspondence, resonance, and transformation.",
     tags: ["yin-yang", "five-phases", "cosmology"],
+    updated: "2026-04-18",
     status: "complete"
   },
   {
@@ -483,6 +511,7 @@ window.ENTRIES = [
     pinyin: "lǐxué",
     desc: "Zhu Xi, the Great Ultimate 太极, and the Song-Ming synthesis.",
     tags: ["neo-confucianism", "zhuxi", "principle"],
+    updated: "2026-04-18",
     status: "complete"
   },
   {
@@ -492,6 +521,7 @@ window.ENTRIES = [
     pinyin: "xīnxué",
     desc: "Innate knowing 良知 and the unity of knowledge and action.",
     tags: ["wang-yangming", "mind", "knowing"],
+    updated: "2026-04-18",
     status: "complete"
   },
 

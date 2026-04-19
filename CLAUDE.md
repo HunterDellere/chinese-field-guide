@@ -91,6 +91,7 @@ Every page has exactly one entry object in `entries.js`. Fields:
   title: "感 · to feel, resonance",
   desc: "Short 1-sentence description shown on the index card.",
   tags: ["emotion","perception"],
+  updated: "2026-04-18",                   // required when status:"complete"; YYYY-MM-DD
   status: "complete"                       // "complete" | "stub"
 }
 ```
@@ -98,6 +99,7 @@ Every page has exactly one entry object in `entries.js`. Fields:
 **Critical rules:**
 - Adding a page = create the HTML file + append one object to `entries.js`. Never edit `index.html`.
 - Flip `status: "stub"` → `status: "complete"` only when a page is fully authored.
+- Set `updated` to today's date when flipping to complete, and bump it on any meaningful re-author. Drives the "Recently added" section and colophon last-updated.
 - Paths must start with `"pages/"` — never bare category names.
 
 ---

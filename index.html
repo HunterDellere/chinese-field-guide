@@ -46,10 +46,8 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>字</text></svg>">
 <link rel="stylesheet" href="style.css">
 <style>
-  /* ── Layout ── */
   .index-shell { max-width: 1080px; margin: 0 auto; padding: 3.5rem 2rem 5rem; }
 
-  /* ── Hero ── */
   .index-hero { text-align: center; padding-bottom: 3.5rem; margin-bottom: 3rem; border-bottom: 2px solid var(--rule); animation: fadeUp 0.7s ease both; }
   .index-hero-glyph { font-family: var(--font-cn); font-size: 5.5rem; color: var(--red); line-height: 1; display: block; text-shadow: 3px 3px 0 rgba(139,26,26,0.15); margin-bottom: 0.6rem; }
   .index-hero-eyebrow { font-family: var(--font-mono); font-size: 0.78rem; letter-spacing: 0.32em; text-transform: uppercase; color: var(--ink-4); margin-bottom: 1.2rem; }
@@ -67,11 +65,9 @@
   .hero-cta-secondary { background: transparent; color: var(--ink-3); border: 1px solid var(--rule); }
   .hero-cta-secondary:hover { background: var(--papyrus-2); color: var(--ink); }
 
-  /* ── Stats ── */
   .index-stats { font-family: var(--font-mono); font-size: 0.66rem; color: var(--ink-5); text-align: center; margin-bottom: 2.5rem; letter-spacing: 0.1em; }
   .index-stats strong { color: var(--ochre); font-weight: 500; }
 
-  /* ── Section heading ── */
   .section-eyebrow {
     font-family: var(--font-mono); font-size: 0.68rem; letter-spacing: 0.2em; text-transform: uppercase;
     color: var(--ink-4); margin: 0 0 0.4rem;
@@ -84,7 +80,6 @@
     font-size: 0.95rem; color: var(--ink-4); font-style: italic; margin: 0 0 1.5rem; max-width: 620px;
   }
 
-  /* ── Overview grid ── */
   .overview-section { margin-bottom: 3.5rem; }
   .overview-grid {
     display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.8rem;
@@ -107,7 +102,6 @@
   .overview-count { font-family: var(--font-mono); font-size: 0.6rem; color: var(--ink-5); letter-spacing: 0.1em; margin-top: 0.3rem; }
   .overview-count.empty { opacity: 0.5; }
 
-  /* ── Recently updated ── */
   .recent-section { margin-bottom: 3.5rem; }
   .recent-grid {
     display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 0.9rem;
@@ -134,7 +128,6 @@
   .recent-title { font-size: 0.94rem; font-weight: 600; color: var(--ink-2); display: block; margin-bottom: 0.35rem; line-height: 1.35; }
   .recent-meta { font-family: var(--font-mono); font-size: 0.62rem; color: var(--ink-5); letter-spacing: 0.06em; display: block; }
 
-  /* ── Filter bar ── */
   .filter-bar {
     display: flex; align-items: center; gap: 0.75rem; flex-wrap: wrap;
     background: var(--papyrus-2); border: 1px solid var(--rule);
@@ -208,7 +201,6 @@
   .no-results-msg { font-style: italic; color: var(--ink-3); margin-bottom: 0.8rem; }
   .no-results-msg code { font-family: var(--font-mono); color: var(--red); background: none; padding: 0; }
 
-  /* ── Categories section ── */
   .categories-section { margin-bottom: 2rem; }
 
   .cat-group { margin-bottom: 2.75rem; animation: fadeUp 0.5s ease both; }
@@ -262,7 +254,6 @@
   /* Highlight matches */
   mark { background: rgba(160,100,40,0.22); color: var(--ink); padding: 0 1px; border-radius: 2px; }
 
-  /* ── Legend ── */
   .legend-section { margin: 4rem 0 3rem; }
   .legend-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; }
   .legend-panel {
@@ -285,7 +276,6 @@
     border-radius: 3px; padding: 0.05rem 0.35rem; color: var(--ink-2);
   }
 
-  /* ── Colophon footer ── */
   .colophon {
     margin-top: 4rem; padding-top: 2rem; border-top: 2px solid var(--rule);
     display: grid; grid-template-columns: 2fr 1fr; gap: 2rem;
@@ -299,7 +289,6 @@
   .colophon-meta div { margin-bottom: 0.4rem; }
   .colophon-meta .label { color: var(--ink-5); text-transform: uppercase; letter-spacing: 0.14em; font-size: 0.6rem; margin-bottom: 0.1rem; }
 
-  /* ── Mobile ── */
   @media (max-width: 800px) {
     .overview-grid { grid-template-columns: repeat(2, 1fr); }
     .legend-grid { grid-template-columns: 1fr; }
@@ -447,7 +436,6 @@
 <script src="entries.js"></script>
 <script>
 (function () {
-  // ── Category metadata + descriptions ──
   const CATEGORY_META = {
     characters: { cn: "字",   py: "zì",       en: "Characters",         color: "var(--red)",        desc: "The single glyphs — etymology, decomposition, daily use." },
     vocab:      { cn: "词",   py: "cí",       en: "Vocabulary",         color: "var(--ochre)",      desc: "Words and concepts that carry cultural weight." },
@@ -471,22 +459,8 @@
     "arts","science","daily"
   ];
 
-  // ── Recently-updated dates (manually maintained — bump when authoring new pages) ──
-  const RECENT_DATES = {
-    "pages/characters/gan3_感.html": "2026-04-18",
-    "pages/characters/shi4_是.html": "2026-04-18",
-    "pages/characters/you3_有.html": "2026-04-18",
-    "pages/characters/ren2_人.html": "2026-04-18",
-    "pages/characters/qi4_气.html":  "2026-04-18",
-    "pages/characters/tian1_天.html":"2026-04-18",
-    "pages/characters/xin1_心.html": "2026-04-18",
-    "pages/characters/dao4_道.html": "2026-04-18",
-    "pages/characters/jia1_家.html": "2026-04-18",
-    "pages/characters/zi4_字.html":  "2026-04-18"
-  };
-  const TODAY = "2026-04-18";
+  const TODAY = new Date().toISOString().slice(0, 10);
 
-  // ── Suggested searches ──
   const SUGGESTIONS = [
     { label: "心", q: "心" },
     { label: "气", q: "气" },
@@ -496,7 +470,6 @@
     { label: "hsk 1", q: "hsk 1" }
   ];
 
-  // ── Helpers ──
   function normalize(str) {
     return (str || "").toString().toLowerCase()
       .normalize("NFD").replace(/[\u0300-\u036f]/g, "");
@@ -513,7 +486,6 @@
     const normQuery = normalize(query);
     const idx = normText.indexOf(normQuery);
     if (idx === -1) return safe;
-    // Map normalized index back to original (assume same length — true for ASCII + diacritic-stripped)
     return escapeHtml(text.slice(0, idx)) +
            "<mark>" + escapeHtml(text.slice(idx, idx + query.length)) + "</mark>" +
            escapeHtml(text.slice(idx + query.length));
@@ -532,10 +504,8 @@
     return Math.round(days / 365) + " years ago";
   }
 
-  // ── Filter to authored entries only ──
   const allEntries = (window.ENTRIES || []).filter(e => e.status === "complete");
 
-  // Build search tokens including category names
   function tokenize(e) {
     const meta = CATEGORY_META[e.category] || {};
     const parts = [
@@ -549,17 +519,14 @@
     return normalize(parts.filter(Boolean).join(" "));
   }
 
-  // ── Group by category ──
   const groups = {};
   CAT_ORDER.forEach(k => groups[k] = []);
   allEntries.forEach(e => { if (groups[e.category] !== undefined) groups[e.category].push(e); });
   const activeCategoriesCount = CAT_ORDER.filter(k => groups[k].length > 0).length;
 
-  // ── Stats ──
   document.getElementById("stats").innerHTML =
     `<strong>${allEntries.length}</strong> entries &nbsp;·&nbsp; <strong>${activeCategoriesCount}</strong> sections &nbsp;·&nbsp; updated <strong>${TODAY}</strong>`;
 
-  // ── Overview grid ──
   const overviewGrid = document.getElementById("overview-grid");
   CAT_ORDER.forEach(key => {
     const meta = CATEGORY_META[key];
@@ -579,30 +546,44 @@
     overviewGrid.appendChild(cell);
   });
 
-  // ── Recently added (top 6 by date) ──
+  const FALLBACK_DATE = "2020-01-01";
   const recentSorted = allEntries
-    .map(e => ({ ...e, _date: RECENT_DATES[e.path] || "2020-01-01" }))
-    .sort((a, b) => b._date.localeCompare(a._date) || a.title.localeCompare(b.title))
+    .slice()
+    .sort((a, b) => {
+      const da = a.updated || FALLBACK_DATE;
+      const db = b.updated || FALLBACK_DATE;
+      return db.localeCompare(da) || a.title.localeCompare(b.title);
+    })
     .slice(0, 6);
 
   const recentGrid = document.getElementById("recent-grid");
   recentSorted.forEach(e => {
+    const date = e.updated || FALLBACK_DATE;
     const card = document.createElement("a");
     card.href = e.path;
     card.className = "recent-card";
     const glyphChar = e.char || (e.title ? e.title.charAt(0) : "");
-    const isNew = daysAgo(e._date) <= 14;
+    const isNew = e.updated && daysAgo(date) <= 14;
     card.innerHTML = `
       ${isNew ? '<span class="recent-new">NEW</span>' : ""}
       ${glyphChar ? `<span class="recent-glyph">${escapeHtml(glyphChar)}</span>` : ""}
       <span class="recent-pinyin">${escapeHtml(e.pinyin || "")}</span>
       <span class="recent-title">${escapeHtml(e.title || "")}</span>
-      <span class="recent-meta">${relativeDate(e._date)}</span>
+      <span class="recent-meta">${e.updated ? relativeDate(date) : ""}</span>
     `;
     recentGrid.appendChild(card);
   });
 
-  // ── Render category groups ──
+  const lastUpdated = allEntries
+    .map(e => e.updated)
+    .filter(Boolean)
+    .sort()
+    .pop();
+  if (lastUpdated) {
+    const el = document.getElementById("last-updated");
+    if (el) el.textContent = lastUpdated;
+  }
+
   const LS_KEY = "cfg.collapsed.v2";
   function loadCollapsed() {
     try { return new Set(JSON.parse(localStorage.getItem(LS_KEY)) || []); }
@@ -680,7 +661,6 @@
     });
   }
 
-  // ── Collapse / expand ──
   function toggleCategory(key, groupEl, headEl, forceExpand) {
     const isCollapsed = groupEl.classList.contains("collapsed");
     const shouldCollapse = forceExpand === undefined ? !isCollapsed : !forceExpand;
@@ -711,7 +691,6 @@
     this.textContent = anyExpanded ? "Expand all ▸" : "Collapse all ▾";
   });
 
-  // ── Filter logic ──
   let filterText = "";
   let debounceTimer = null;
 
@@ -744,14 +723,12 @@
         g.headEl.setAttribute("aria-expanded", shouldBeCollapsed ? "false" : "true");
       }
 
-      // Re-render with highlight
       renderCardsForGroup(key, hasQuery ? queryRaw : "");
 
       if (catVisible > 0) catsWithVisible++;
       totalVisible += catVisible;
     });
 
-    // Result line
     const resultEl = document.getElementById("filter-result");
     if (hasQuery) {
       resultEl.textContent = `${totalVisible} ${totalVisible === 1 ? "entry" : "entries"} across ${catsWithVisible} ${catsWithVisible === 1 ? "section" : "sections"}`;
@@ -760,7 +737,6 @@
       resultEl.classList.remove("visible");
     }
 
-    // No-results
     const noResults = document.getElementById("no-results");
     if (hasQuery && totalVisible === 0) {
       document.getElementById("no-results-query").textContent = queryRaw;
@@ -769,7 +745,6 @@
       noResults.classList.remove("visible");
     }
 
-    // URL sync
     try {
       const url = new URL(window.location.href);
       if (hasQuery) url.searchParams.set("q", queryRaw);
@@ -778,7 +753,6 @@
     } catch {}
   }
 
-  // ── Search input ──
   const searchInput = document.getElementById("filter-search");
   const clearBtn = document.getElementById("filter-clear");
   const suggestEl = document.getElementById("filter-suggest");
@@ -825,16 +799,13 @@
     searchInput.focus();
   });
 
-  // ── Keyboard shortcuts ──
   document.addEventListener("keydown", e => {
-    // "/" to focus search
     if (e.key === "/" && !["INPUT","TEXTAREA","SELECT"].includes(document.activeElement.tagName)) {
       e.preventDefault();
       searchInput.focus();
       searchInput.select();
       return;
     }
-    // Esc to clear/blur search
     if (e.key === "Escape" && document.activeElement === searchInput) {
       if (searchInput.value) {
         searchInput.value = "";
@@ -846,7 +817,6 @@
       }
       return;
     }
-    // Arrow nav across visible cards
     if (e.key === "ArrowDown" || e.key === "ArrowUp") {
       const visibleCards = Array.from(document.querySelectorAll(".entry-card:not(.hidden)"));
       if (!visibleCards.length) return;
@@ -864,7 +834,6 @@
     }
   });
 
-  // ── Initial state from URL ?q= ──
   try {
     const initialQ = new URL(window.location.href).searchParams.get("q");
     if (initialQ) {
