@@ -1,22 +1,18 @@
-<!DOCTYPE html>
-<!-- {"type":"topic","pinyin":"sīchóu","category":"science","tags":["silk","trade","technology"],"status":"complete"} -->
-<html lang="zh-Hans">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>丝绸 · Silk — Field Notes on Chinese</title>
-<meta name="description" content="丝绸 sīchóu: Chinese silk — the discovery of sericulture, the guarded secret of silk production, the Silk Road trade network, and silk's role in Chinese luxury culture and diplomacy.">
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>字</text></svg>">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600&family=Noto+Serif+SC:wght@300;400;600;700&family=Inconsolata:wght@300;400;500&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="../../style.css">
-</head>
-<body>
-
-<nav class="topnav">
-  <a href="../../index.html" class="topnav-brand">Field Notes on <span>Chinese</span></a>
-  <a href="../../index.html" class="topnav-back">← All Entries</a>
-</nav>
+---
+type: 'topic'
+category: 'science'
+status: 'complete'
+title: '丝绸 · Silk'
+desc: 'The thread that built the first global trade network — Chinese silk, the secret of sericulture, and the road that carried it west.'
+metaDesc: "丝绸 sīchóu: Chinese silk — the discovery of sericulture, the guarded secret of silk production, the Silk Road trade network, and silk's role in Chinese luxury culture and diplomacy."
+pageTitle: '丝绸 · Silk'
+tags:
+  - 'silk'
+  - 'trade'
+  - 'technology'
+updated: '2026-04-18'
+pinyin: 'sīchóu'
+---
 
 <button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
@@ -142,8 +138,3 @@
   </main>
 </div>
 <script src="../../scripts/toc-scroll.js"></script>
-
-<script src="../../scripts/toc-scroll.js"></script>
-
-</body>
-</html>

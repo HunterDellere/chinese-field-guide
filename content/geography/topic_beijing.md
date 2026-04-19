@@ -1,22 +1,18 @@
-<!DOCTYPE html>
-<!-- {"type":"topic","pinyin":"Běijīng","category":"geography","tags":["beijing","geography","capital"],"status":"complete"} -->
-<html lang="zh-Hans">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>北京 · Beijing — Field Notes on Chinese</title>
-<meta name="description" content="北京 Běijīng: Beijing — the Forbidden City, the central axis, hutong lane networks, the meaning of the city's names across dynasties, and Beijing as a lens on Chinese political geography.">
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>字</text></svg>">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600&family=Noto+Serif+SC:wght@300;400;600;700&family=Inconsolata:wght@300;400;500&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="../../style.css">
-</head>
-<body>
-
-<nav class="topnav">
-  <a href="../../index.html" class="topnav-brand">Field Notes on <span>Chinese</span></a>
-  <a href="../../index.html" class="topnav-back">← All Entries</a>
-</nav>
+---
+type: 'topic'
+category: 'geography'
+status: 'complete'
+title: '北京 · Beijing'
+desc: 'Capital geography — the hutong grid, the Forbidden City, and the northern axis that has organized Chinese power for seven centuries.'
+metaDesc: "北京 Běijīng: Beijing — the Forbidden City, the central axis, hutong lane networks, the meaning of the city's names across dynasties, and Beijing as a lens on Chinese political geography."
+pageTitle: '北京 · Beijing'
+tags:
+  - 'beijing'
+  - 'geography'
+  - 'capital'
+updated: '2026-04-18'
+pinyin: 'Běijīng'
+---
 
 <button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
@@ -130,8 +126,3 @@
   </main>
 </div>
 <script src="../../scripts/toc-scroll.js"></script>
-
-<script src="../../scripts/toc-scroll.js"></script>
-
-</body>
-</html>

@@ -11,11 +11,12 @@
     culinary:   { cn: "饮食", py: "yǐnshí",   en: "Culinary",           color: "var(--sienna)",     desc: "What is cooked, drunk, and shared at the table." },
     arts:       { cn: "艺文", py: "yìwén",    en: "Arts & Literature",  color: "var(--violet-ink)", desc: "Poetry, painting, calligraphy, opera." },
     science:    { cn: "科技", py: "kējì",     en: "Science & Medicine", color: "var(--teal-ink)",   desc: "Astronomy, medicine, and technology before modernity." },
-    daily:      { cn: "日常", py: "rìcháng",  en: "Everyday Life",      color: "var(--ochre)",      desc: "Names, numbers, gifts, gestures, taboos." }
+    daily:      { cn: "日常", py: "rìcháng",  en: "Everyday Life",      color: "var(--ochre)",      desc: "Names, numbers, gifts, gestures, taboos." },
+    chengyu:    { cn: "成语", py: "chéngyǔ",  en: "Chengyu",            color: "var(--red)",        desc: "Four-character idioms — the compressed wisdom of classical literature." }
   };
 
   const CAT_ORDER = [
-    "characters","vocab","grammar",
+    "characters","vocab","grammar","chengyu",
     "religion","philosophy",
     "history","geography",
     "culture","culinary",

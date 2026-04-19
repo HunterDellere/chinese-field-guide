@@ -1,22 +1,18 @@
-<!DOCTYPE html>
-<!-- {"type":"topic","pinyin":"chá","category":"culinary","tags":["tea","culture","drink"],"status":"complete"} -->
-<html lang="zh-Hans">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>茶 · Tea — Field Notes on Chinese</title>
-<meta name="description" content="茶 chá: Chinese tea — the six categories (green, white, yellow, oolong, black, pu-erh), gongfu tea ceremony, the Silk Road tea trade, and tea as a way of paying attention.">
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>字</text></svg>">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600&family=Noto+Serif+SC:wght@300;400;600;700&family=Inconsolata:wght@300;400;500&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="../../style.css">
-</head>
-<body>
-
-<nav class="topnav">
-  <a href="../../index.html" class="topnav-brand">Field Notes on <span>Chinese</span></a>
-  <a href="../../index.html" class="topnav-back">← All Entries</a>
-</nav>
+---
+type: 'topic'
+category: 'culinary'
+status: 'complete'
+title: '茶 · Tea'
+desc: 'Six tea categories, production, and the cup that connects China to the world.'
+metaDesc: "茶 chá: Chinese tea — the six categories (green, white, yellow, oolong, black, pu-erh), gongfu tea ceremony, the Silk Road tea trade, and tea as a way of paying attention."
+pageTitle: '茶 · Tea'
+tags:
+  - 'tea'
+  - 'culture'
+  - 'drink'
+updated: '2026-04-18'
+pinyin: 'chá'
+---
 
 <button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
@@ -158,8 +154,3 @@
   </main>
 </div>
 <script src="../../scripts/toc-scroll.js"></script>
-
-<script src="../../scripts/toc-scroll.js"></script>
-
-</body>
-</html>

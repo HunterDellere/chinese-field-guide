@@ -1,22 +1,18 @@
-<!DOCTYPE html>
-<!-- {"type":"topic","pinyin":"sì dà míngzhù","category":"arts","tags":["literature","novels","classical"],"status":"complete"} -->
-<html lang="zh-Hans">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>四大名著 · Four Great Classical Novels — Field Notes on Chinese</title>
-<meta name="description" content="四大名著 sì dà míngzhù: China's four great classical novels — Water Margin, Romance of the Three Kingdoms, Journey to the West, and Dream of the Red Chamber.">
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>字</text></svg>">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600&family=Noto+Serif+SC:wght@300;400;600;700&family=Inconsolata:wght@300;400;500&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="../../style.css">
-</head>
-<body>
-
-<nav class="topnav">
-  <a href="../../index.html" class="topnav-brand">Field Notes on <span>Chinese</span></a>
-  <a href="../../index.html" class="topnav-back">← All Entries</a>
-</nav>
+---
+type: 'topic'
+category: 'arts'
+status: 'complete'
+title: '四大名著 · Four Great Classical Novels'
+desc: 'The four novels every educated Chinese person has read — the canonical stories of war, outlaws, pilgrims, and dreams.'
+metaDesc: "四大名著 sì dà míngzhù: China's four great classical novels — Water Margin, Romance of the Three Kingdoms, Journey to the West, and Dream of the Red Chamber."
+pageTitle: '四大名著 · Four Great Classical Novels'
+tags:
+  - 'literature'
+  - 'novels'
+  - 'classical'
+updated: '2026-04-18'
+pinyin: 'sì dà míngzhù'
+---
 
 <button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
@@ -121,8 +117,3 @@
   </main>
 </div>
 <script src="../../scripts/toc-scroll.js"></script>
-
-<script src="../../scripts/toc-scroll.js"></script>
-
-</body>
-</html>

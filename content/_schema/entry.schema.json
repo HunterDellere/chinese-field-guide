@@ -12,7 +12,7 @@
     },
     "category": {
       "type": "string",
-      "enum": ["characters", "vocab", "grammar", "religion", "philosophy", "history", "geography", "culture", "culinary", "arts", "science", "daily"]
+      "enum": ["characters", "vocab", "grammar", "chengyu", "religion", "philosophy", "history", "geography", "culture", "culinary", "arts", "science", "daily"]
     },
     "status": {
       "type": "string",

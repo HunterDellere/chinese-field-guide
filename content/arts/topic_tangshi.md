@@ -1,22 +1,18 @@
-<!DOCTYPE html>
-<!-- {"type":"topic","pinyin":"tángshī","category":"arts","tags":["poetry","tang","literature"],"status":"complete"} -->
-<html lang="zh-Hans">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>唐诗 · Tang Poetry — Field Notes on Chinese</title>
-<meta name="description" content="唐诗 tángshī: Tang dynasty poetry — the regulated lüshi, Li Bai's romantic genius, Du Fu's moral witness, and why China still memorizes these verses today.">
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>字</text></svg>">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600&family=Noto+Serif+SC:wght@300;400;600;700&family=Inconsolata:wght@300;400;500&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="../../style.css">
-</head>
-<body>
-
-<nav class="topnav">
-  <a href="../../index.html" class="topnav-brand">Field Notes on <span>Chinese</span></a>
-  <a href="../../index.html" class="topnav-back">← All Entries</a>
-</nav>
+---
+type: 'topic'
+category: 'arts'
+status: 'complete'
+title: '唐诗 · Tang Poetry'
+desc: 'Li Bai, Du Fu, and the golden age of regulated verse.'
+metaDesc: "唐诗 tángshī: Tang dynasty poetry — the regulated lüshi, Li Bai's romantic genius, Du Fu's moral witness, and why China still memorizes these verses today."
+pageTitle: '唐诗 · Tang Poetry'
+tags:
+  - 'poetry'
+  - 'tang'
+  - 'literature'
+updated: '2026-04-18'
+pinyin: 'tángshī'
+---
 
 <button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
@@ -203,8 +199,3 @@
   </main>
 </div>
 <script src="../../scripts/toc-scroll.js"></script>
-
-<script src="../../scripts/toc-scroll.js"></script>
-
-</body>
-</html>

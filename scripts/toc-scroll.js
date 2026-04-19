@@ -1,8 +1,6 @@
-/* toc-scroll.js — shared TOC scroll-spy + mobile toggle
- * Include at the end of <body> on every content page:
- *   <script src="../../scripts/toc-scroll.js"></script>
- */
-(function () {
+/* toc-scroll.js — shared TOC scroll-spy + mobile toggle */
+if (window.__tocScrollInit) { /* already loaded */ }
+else { window.__tocScrollInit = true; (function () {
   const anchors = document.querySelectorAll('.section-anchor');
   const links   = document.querySelectorAll('.toc-list a');
 
@@ -28,4 +26,4 @@
       sidebar.classList.toggle('open');
     });
   }
-})();
+}()); }

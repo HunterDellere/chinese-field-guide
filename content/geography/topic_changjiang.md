@@ -1,22 +1,18 @@
-<!DOCTYPE html>
-<!-- {"type":"topic","pinyin":"Cháng Jiāng","category":"geography","tags":["river","geography","south"],"status":"complete"} -->
-<html lang="zh-Hans">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>长江 · The Yangtze River — Field Notes on Chinese</title>
-<meta name="description" content="长江 Cháng Jiāng: the Yangtze River — its role in dividing north from south China, the Three Gorges and their dam, the river's place in poetry, and what it means to cross.">
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>字</text></svg>">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600&family=Noto+Serif+SC:wght@300;400;600;700&family=Inconsolata:wght@300;400;500&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="../../style.css">
-</head>
-<body>
-
-<nav class="topnav">
-  <a href="../../index.html" class="topnav-brand">Field Notes on <span>Chinese</span></a>
-  <a href="../../index.html" class="topnav-back">← All Entries</a>
-</nav>
+---
+type: 'topic'
+category: 'geography'
+status: 'complete'
+title: '长江 · The Yangtze River'
+desc: 'The longest river in Asia — the southern spine of Chinese civilization, the Three Gorges, and the river that divides north from south.'
+metaDesc: "长江 Cháng Jiāng: the Yangtze River — its role in dividing north from south China, the Three Gorges and their dam, the river's place in poetry, and what it means to cross."
+pageTitle: '长江 · The Yangtze River'
+tags:
+  - 'river'
+  - 'geography'
+  - 'south'
+updated: '2026-04-18'
+pinyin: 'Cháng Jiāng'
+---
 
 <button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
@@ -150,8 +146,3 @@
   </main>
 </div>
 <script src="../../scripts/toc-scroll.js"></script>
-
-<script src="../../scripts/toc-scroll.js"></script>
-
-</body>
-</html>

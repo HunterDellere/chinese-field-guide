@@ -1,22 +1,18 @@
-<!DOCTYPE html>
-<!-- {"type":"topic","pinyin":"Táiwān","category":"geography","tags":["taiwan","geography","politics"],"status":"complete"} -->
-<html lang="zh-Hans">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>台湾 · Taiwan — Field Notes on Chinese</title>
-<meta name="description" content="台湾 Táiwān: Taiwan — the geography and history of the island, Dutch and Qing colonization, the Republic of China, the 1949 retreat, cross-strait relations, and the question of status.">
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>字</text></svg>">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600&family=Noto+Serif+SC:wght@300;400;600;700&family=Inconsolata:wght@300;400;500&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="../../style.css">
-</head>
-<body>
-
-<nav class="topnav">
-  <a href="../../index.html" class="topnav-brand">Field Notes on <span>Chinese</span></a>
-  <a href="../../index.html" class="topnav-back">← All Entries</a>
-</nav>
+---
+type: 'topic'
+category: 'geography'
+status: 'complete'
+title: '台湾 · Taiwan'
+desc: 'An island with multiple names, multiple claims, and the most consequential unresolved question in East Asian geopolitics.'
+metaDesc: "台湾 Táiwān: Taiwan — the geography and history of the island, Dutch and Qing colonization, the Republic of China, the 1949 retreat, cross-strait relations, and the question of status."
+pageTitle: '台湾 · Taiwan'
+tags:
+  - 'taiwan'
+  - 'geography'
+  - 'politics'
+updated: '2026-04-18'
+pinyin: 'Táiwān'
+---
 
 <button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
@@ -138,8 +134,3 @@
   </main>
 </div>
 <script src="../../scripts/toc-scroll.js"></script>
-
-<script src="../../scripts/toc-scroll.js"></script>
-
-</body>
-</html>
