@@ -69,6 +69,10 @@
       "type": "string",
       "description": "character entries only — the radical hanzi"
     },
+    "trad": {
+      "type": "string",
+      "description": "Traditional form of the character; omit if identical to simplified"
+    },
     "metaDesc": {
       "type": "string",
       "description": "SEO meta description override; falls back to desc if absent"

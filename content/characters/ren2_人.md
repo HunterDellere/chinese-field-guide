@@ -18,11 +18,12 @@ hsk: 1
 radical: '人'
 ---
 
+<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
 <div class="shell">
 
   <!-- ═══ SIDEBAR ═══ -->
   <aside class="sidebar" id="sidebar">
-    <button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
     <span class="toc-glyph">人</span>
     <span class="toc-pinyin">rén · tone 2</span>
@@ -81,8 +82,17 @@ radical: '人'
     <header class="hero">
       <div class="hero-inner">
         <div class="hero-glyph-col">
-          <span class="hero-glyph">人</span>
-          <span class="hero-trad-note">繁體字 identical</span>
+          <div class="hero-script-pair">
+            <div class="hero-script hero-script--simp">
+              <span class="hero-glyph">人</span>
+              <span class="hero-script-label">简 jiǎn</span>
+            </div>
+            <div class="hero-script-divider"></div>
+            <div class="hero-script hero-script--trad">
+              <span class="hero-glyph">人</span>
+              <span class="hero-script-label">繁 fán · same</span>
+            </div>
+          </div>
         </div>
         <div class="hero-meta">
           <div class="hero-pinyin">rén</div>

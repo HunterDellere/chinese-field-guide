@@ -16,13 +16,15 @@ pinyin: 'qì'
 tone: 4
 hsk: 3
 radical: '气'
+trad: '氣'
 ---
+
+<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
   <!-- ═══ SIDEBAR ═══ -->
   <aside class="sidebar" id="sidebar">
-    <button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
     <span class="toc-glyph">气</span>
     <span class="toc-pinyin">qì · tone 4</span>
@@ -81,8 +83,17 @@ radical: '气'
     <header class="hero">
       <div class="hero-inner">
         <div class="hero-glyph-col">
-          <span class="hero-glyph">气</span>
-          <span class="hero-trad-note">繁體 氣 qì — rice 米 inside</span>
+          <div class="hero-script-pair">
+            <div class="hero-script hero-script--simp">
+              <span class="hero-glyph">气</span>
+              <span class="hero-script-label">简 jiǎn</span>
+            </div>
+            <div class="hero-script-divider"></div>
+            <div class="hero-script hero-script--trad">
+              <span class="hero-glyph">氣</span>
+              <span class="hero-script-label">繁 fán</span>
+            </div>
+          </div>
         </div>
         <div class="hero-meta">
           <div class="hero-pinyin">qì</div>

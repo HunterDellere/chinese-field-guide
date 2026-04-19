@@ -225,9 +225,31 @@ body {
 }
 .hero-inner { display: flex; align-items: flex-start; gap: 2.5rem; }
 .hero-glyph-col { flex-shrink: 0; text-align: center; }
+
+/* Simp / trad pair */
+.hero-script-pair {
+  display: flex;
+  align-items: flex-start;
+  gap: 0;
+}
+.hero-script {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0 1.1rem;
+}
+.hero-script:first-child { padding-left: 0; }
+.hero-script-divider {
+  width: 1px;
+  background: var(--rule);
+  align-self: stretch;
+  margin: 0.4rem 0;
+  flex-shrink: 0;
+}
 .hero-glyph {
   font-family: var(--font-cn);
-  font-size: 8rem;
+  font-size: 7.5rem;
   font-weight: 700;
   color: var(--red);
   line-height: 1;
@@ -235,14 +257,21 @@ body {
   text-shadow: 3px 3px 0 rgba(139,26,26,0.2), 1px 1px 0 rgba(139,26,26,0.3);
   letter-spacing: -0.02em;
 }
-.hero-trad-note {
+.hero-script--trad .hero-glyph {
+  color: var(--sienna);
+  text-shadow: 2px 2px 0 rgba(120,60,20,0.15);
+  opacity: 0.85;
+}
+.hero-script-label {
   font-family: var(--font-mono);
   font-size: 0.6rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
   color: var(--ink-5);
-  letter-spacing: 0.12em;
-  display: block;
-  margin-top: 0.3rem;
+  white-space: nowrap;
 }
+.hero-script--simp .hero-script-label { color: var(--ink-4); }
+.hero-script--trad .hero-script-label { color: var(--ink-5); }
 .hero-meta { padding-top: 0.75rem; }
 .hero-pinyin {
   font-family: var(--font-mono);
@@ -622,7 +651,8 @@ tbody tr:hover td { background: var(--papyrus-2); }
   .toc-toggle { display: block; }
   .main { padding: 1.5rem 1.25rem 4rem; }
   .hero-inner { flex-direction: column; gap: 1rem; }
-  .hero-glyph { font-size: 6rem; }
+  .hero-glyph { font-size: 5.5rem; }
+  .hero-script { padding: 0 0.75rem; }
   .card-en { margin-left: 0; }
   .topnav { padding: 0.65rem 1.25rem; }
 }
