@@ -1,0 +1,347 @@
+[
+  {
+    "path": "pages/arts/topic_chuci.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "楚辞 · Songs of Chu",
+    "desc": "The shamanistic southern voice that gave Chinese literature its second pole — visionary, romantic, and inconsolably exiled.",
+    "tags": [
+      "poetry",
+      "literature",
+      "classical",
+      "history",
+      "culture"
+    ],
+    "status": "complete",
+    "pinyin": "chǔcí",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/arts/topic_kunqu.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "昆曲 · Kun Opera",
+    "desc": "The oldest surviving form of Chinese opera — refined to such perfection over four centuries that it nearly disappeared from its own beauty.",
+    "tags": [
+      "opera",
+      "theatre",
+      "performance",
+      "culture",
+      "history",
+      "classical",
+      "literature"
+    ],
+    "status": "complete",
+    "pinyin": "kūnqǔ",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/arts/topic_luxun.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "鲁迅 · Lu Xun",
+    "desc": "The writer who looked at traditional Chinese society and saw cannibalism — and the complicated, unresolvable legacy he left behind.",
+    "tags": [
+      "literature",
+      "history",
+      "culture",
+      "writing",
+      "classical"
+    ],
+    "status": "complete",
+    "pinyin": "lǔxùn",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/arts/topic_shijing.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "诗经 · Book of Songs",
+    "desc": "China oldest poetry anthology — three hundred poems that Confucius said no educated person could afford to ignore.",
+    "tags": [
+      "poetry",
+      "literature",
+      "classical",
+      "history",
+      "culture"
+    ],
+    "status": "complete",
+    "pinyin": "shījīng",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/arts/topic_shuimohua.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "水墨画 · Ink-Wash Painting",
+    "desc": "Where the brush meets philosophy — five tones of ink, the art of leaving space, and landscapes that are not about landscape at all.",
+    "tags": [
+      "art",
+      "brush",
+      "calligraphy",
+      "culture",
+      "history",
+      "classical"
+    ],
+    "status": "complete",
+    "pinyin": "shuǐmòhuà",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/arts/topic_songci.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "宋词 · Song Dynasty Lyric",
+    "desc": "The poem that sings — fixed tune patterns, named meters, and three masters who defined what the Chinese lyric could feel.",
+    "tags": [
+      "poetry",
+      "literature",
+      "classical",
+      "song",
+      "history",
+      "culture"
+    ],
+    "status": "complete",
+    "pinyin": "sòngcí",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/arts/topic_wenfangsibao.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "文房四宝 · Four Treasures of the Study",
+    "desc": "Brush, ink, inkstone, and paper — the four instruments through which a scholar thought, wrote, painted, and demonstrated who he was.",
+    "tags": [
+      "calligraphy",
+      "art",
+      "brush",
+      "culture",
+      "history",
+      "classical"
+    ],
+    "status": "complete",
+    "pinyin": "wénfáng sìbǎo",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/arts/topic_zhuanke.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "篆刻 · Seal Carving",
+    "desc": "The art of the name — bronze to stone, dynasty to dynasty, two schools of carvers, and the small red square that authenticates everything.",
+    "tags": [
+      "calligraphy",
+      "art",
+      "brush",
+      "culture",
+      "history",
+      "classical"
+    ],
+    "status": "complete",
+    "pinyin": "zhuànkè",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/characters/mu4_木.html",
+    "type": "character",
+    "category": "characters",
+    "title": "木 · tree, wood",
+    "desc": "A tree seen whole: trunk, branches, roots. The pictograph that became a radical, a wuxing element, and the building block of 林, 森, 本, and 末.",
+    "tags": [
+      "radical",
+      "nature",
+      "wuxing",
+      "cosmology"
+    ],
+    "status": "complete",
+    "char": "木",
+    "pinyin": "mù",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "木",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/characters/shui3_水.html",
+    "type": "character",
+    "category": "characters",
+    "title": "水 · water",
+    "desc": "The first of the five elements, the radical that runs through hundreds of compounds, and the Daoist image of how to act in the world.",
+    "tags": [
+      "radical",
+      "cosmology",
+      "daoism",
+      "wuxing"
+    ],
+    "status": "complete",
+    "char": "水",
+    "pinyin": "shuǐ",
+    "tone": 3,
+    "hsk": 1,
+    "radical": "水",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/characters/wang2_王.html",
+    "type": "character",
+    "category": "characters",
+    "title": "王 · king",
+    "desc": "Three horizontals joined by one vertical — the ruler who connects heaven, earth, and humanity. Also the most common Chinese surname, and a radical that is secretly 玉 (jade) in disguise.",
+    "tags": [
+      "radical",
+      "royalty",
+      "history",
+      "philosophy"
+    ],
+    "status": "complete",
+    "char": "王",
+    "pinyin": "wáng",
+    "tone": 2,
+    "hsk": 3,
+    "radical": "王",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/chengyu/huashetianzu_画蛇添足.html",
+    "type": "vocab",
+    "category": "chengyu",
+    "title": "画蛇添足 · Drawing Legs on a Snake",
+    "desc": "He finished first, so he kept drawing — and lost the prize. The idiom for ruining a good thing by overdoing it.",
+    "tags": [
+      "idioms",
+      "classical",
+      "logic"
+    ],
+    "status": "complete",
+    "pinyin": "huà shé tiān zú",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/chengyu/kezhouqiujian_刻舟求剑.html",
+    "type": "vocab",
+    "category": "chengyu",
+    "title": "刻舟求剑 · Carving the Boat to Find the Sword",
+    "desc": "He marked the boat where his sword fell into the river. When the boat reached the shore, he dived where the mark was.",
+    "tags": [
+      "idioms",
+      "classical",
+      "logic",
+      "philosophy"
+    ],
+    "status": "complete",
+    "pinyin": "kè zhōu qiú jiàn",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/chengyu/saiwengshima_塞翁失马.html",
+    "type": "vocab",
+    "category": "chengyu",
+    "title": "塞翁失马 · The Old Man at the Frontier Loses His Horse",
+    "desc": "His horse ran off. His neighbours grieved. He shrugged. The Daoist parable that became China's word for the unknowability of fortune.",
+    "tags": [
+      "idioms",
+      "classical",
+      "philosophy",
+      "daoism"
+    ],
+    "status": "complete",
+    "pinyin": "sài wēng shī mǎ",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/chengyu/shouzhudaitu_守株待兔.html",
+    "type": "vocab",
+    "category": "chengyu",
+    "title": "守株待兔 · Guarding the Stump, Waiting for Rabbits",
+    "desc": "A rabbit ran headlong into a tree stump. The farmer dropped his plough and watched the stump for the rest of his life.",
+    "tags": [
+      "idioms",
+      "classical",
+      "philosophy"
+    ],
+    "status": "complete",
+    "pinyin": "shǒu zhū dài tù",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/chengyu/yugongyishan_愚公移山.html",
+    "type": "vocab",
+    "category": "chengyu",
+    "title": "愚公移山 · The Foolish Old Man Moves the Mountains",
+    "desc": "Two mountains blocked his door. He and his sons began to move them, one basket at a time. A mocker laughed. He said: when I die my sons will continue; when they die, their sons.",
+    "tags": [
+      "idioms",
+      "classical",
+      "philosophy"
+    ],
+    "status": "complete",
+    "pinyin": "yú gōng yí shān",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/culinary/topic_caixi.html",
+    "type": "topic",
+    "category": "culinary",
+    "title": "八大菜系 · Eight Great Cuisines",
+    "desc": "How geography, climate, and dynasty shaped eight distinct schools of Chinese cooking.",
+    "tags": [
+      "food",
+      "culture",
+      "geography",
+      "history"
+    ],
+    "status": "complete",
+    "pinyin": "bā dà càixì",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/culinary/topic_chuancai.html",
+    "type": "topic",
+    "category": "culinary",
+    "title": "川菜 · Sichuan Cuisine",
+    "desc": "The mala kitchen — how a landlocked basin built the most complex spice vocabulary in the world.",
+    "tags": [
+      "food",
+      "culture",
+      "geography",
+      "history"
+    ],
+    "status": "complete",
+    "pinyin": "chuāncài",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/culinary/topic_doufu.html",
+    "type": "topic",
+    "category": "culinary",
+    "title": "豆腐 · Tofu",
+    "desc": "Two thousand years of soybeans and water: the food that fed a civilization without meat.",
+    "tags": [
+      "food",
+      "culture",
+      "history",
+      "buddhism",
+      "daily-life"
+    ],
+    "status": "complete",
+    "pinyin": "dòufu",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/culinary/topic_huoguo.html",
+    "type": "topic",
+    "category": "culinary",
+    "title": "火锅 · Hotpot",
+    "desc": "The communal pot at the center of the table: a social institution disguised as a meal.",
+    "tags": [
+      "food",
+      "culture",
+      "social",
+      "history",
+      "daily-life"
+    ],
+    "status": "complete",
+    "pinyin": "huǒguō",
+    "updated": "2026-04-19"
+  }
+]

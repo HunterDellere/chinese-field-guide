@@ -1,0 +1,2166 @@
+[
+  {
+    "path": "pages/arts/topic_chuci.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "楚辞 · Songs of Chu",
+    "desc": "The shamanistic southern voice that gave Chinese literature its second pole — visionary, romantic, and inconsolably exiled.",
+    "tags": [
+      "poetry",
+      "literature",
+      "classical",
+      "history",
+      "culture"
+    ],
+    "status": "complete",
+    "pinyin": "chǔcí",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/arts/topic_kunqu.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "昆曲 · Kun Opera",
+    "desc": "The oldest surviving form of Chinese opera — refined to such perfection over four centuries that it nearly disappeared from its own beauty.",
+    "tags": [
+      "opera",
+      "theatre",
+      "performance",
+      "culture",
+      "history",
+      "classical",
+      "literature"
+    ],
+    "status": "complete",
+    "pinyin": "kūnqǔ",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/arts/topic_luxun.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "鲁迅 · Lu Xun",
+    "desc": "The writer who looked at traditional Chinese society and saw cannibalism — and the complicated, unresolvable legacy he left behind.",
+    "tags": [
+      "literature",
+      "history",
+      "culture",
+      "writing",
+      "classical"
+    ],
+    "status": "complete",
+    "pinyin": "lǔxùn",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/arts/topic_shijing.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "诗经 · Book of Songs",
+    "desc": "China oldest poetry anthology — three hundred poems that Confucius said no educated person could afford to ignore.",
+    "tags": [
+      "poetry",
+      "literature",
+      "classical",
+      "history",
+      "culture"
+    ],
+    "status": "complete",
+    "pinyin": "shījīng",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/arts/topic_shuimohua.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "水墨画 · Ink-Wash Painting",
+    "desc": "Where the brush meets philosophy — five tones of ink, the art of leaving space, and landscapes that are not about landscape at all.",
+    "tags": [
+      "art",
+      "brush",
+      "calligraphy",
+      "culture",
+      "history",
+      "classical"
+    ],
+    "status": "complete",
+    "pinyin": "shuǐmòhuà",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/arts/topic_songci.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "宋词 · Song Dynasty Lyric",
+    "desc": "The poem that sings — fixed tune patterns, named meters, and three masters who defined what the Chinese lyric could feel.",
+    "tags": [
+      "poetry",
+      "literature",
+      "classical",
+      "song",
+      "history",
+      "culture"
+    ],
+    "status": "complete",
+    "pinyin": "sòngcí",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/arts/topic_wenfangsibao.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "文房四宝 · Four Treasures of the Study",
+    "desc": "Brush, ink, inkstone, and paper — the four instruments through which a scholar thought, wrote, painted, and demonstrated who he was.",
+    "tags": [
+      "calligraphy",
+      "art",
+      "brush",
+      "culture",
+      "history",
+      "classical"
+    ],
+    "status": "complete",
+    "pinyin": "wénfáng sìbǎo",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/arts/topic_zhuanke.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "篆刻 · Seal Carving",
+    "desc": "The art of the name — bronze to stone, dynasty to dynasty, two schools of carvers, and the small red square that authenticates everything.",
+    "tags": [
+      "calligraphy",
+      "art",
+      "brush",
+      "culture",
+      "history",
+      "classical"
+    ],
+    "status": "complete",
+    "pinyin": "zhuànkè",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/characters/mu4_木.html",
+    "type": "character",
+    "category": "characters",
+    "title": "木 · tree, wood",
+    "desc": "A tree seen whole: trunk, branches, roots. The pictograph that became a radical, a wuxing element, and the building block of 林, 森, 本, and 末.",
+    "tags": [
+      "radical",
+      "nature",
+      "wuxing",
+      "cosmology"
+    ],
+    "status": "complete",
+    "char": "木",
+    "pinyin": "mù",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "木",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/characters/shui3_水.html",
+    "type": "character",
+    "category": "characters",
+    "title": "水 · water",
+    "desc": "The first of the five elements, the radical that runs through hundreds of compounds, and the Daoist image of how to act in the world.",
+    "tags": [
+      "radical",
+      "cosmology",
+      "daoism",
+      "wuxing"
+    ],
+    "status": "complete",
+    "char": "水",
+    "pinyin": "shuǐ",
+    "tone": 3,
+    "hsk": 1,
+    "radical": "水",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/characters/wang2_王.html",
+    "type": "character",
+    "category": "characters",
+    "title": "王 · king",
+    "desc": "Three horizontals joined by one vertical — the ruler who connects heaven, earth, and humanity. Also the most common Chinese surname, and a radical that is secretly 玉 (jade) in disguise.",
+    "tags": [
+      "radical",
+      "royalty",
+      "history",
+      "philosophy"
+    ],
+    "status": "complete",
+    "char": "王",
+    "pinyin": "wáng",
+    "tone": 2,
+    "hsk": 3,
+    "radical": "王",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/chengyu/huashetianzu_画蛇添足.html",
+    "type": "vocab",
+    "category": "chengyu",
+    "title": "画蛇添足 · Drawing Legs on a Snake",
+    "desc": "He finished first, so he kept drawing — and lost the prize. The idiom for ruining a good thing by overdoing it.",
+    "tags": [
+      "idioms",
+      "classical",
+      "logic"
+    ],
+    "status": "complete",
+    "pinyin": "huà shé tiān zú",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/chengyu/kezhouqiujian_刻舟求剑.html",
+    "type": "vocab",
+    "category": "chengyu",
+    "title": "刻舟求剑 · Carving the Boat to Find the Sword",
+    "desc": "He marked the boat where his sword fell into the river. When the boat reached the shore, he dived where the mark was.",
+    "tags": [
+      "idioms",
+      "classical",
+      "logic",
+      "philosophy"
+    ],
+    "status": "complete",
+    "pinyin": "kè zhōu qiú jiàn",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/chengyu/saiwengshima_塞翁失马.html",
+    "type": "vocab",
+    "category": "chengyu",
+    "title": "塞翁失马 · The Old Man at the Frontier Loses His Horse",
+    "desc": "His horse ran off. His neighbours grieved. He shrugged. The Daoist parable that became China's word for the unknowability of fortune.",
+    "tags": [
+      "idioms",
+      "classical",
+      "philosophy",
+      "daoism"
+    ],
+    "status": "complete",
+    "pinyin": "sài wēng shī mǎ",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/chengyu/shouzhudaitu_守株待兔.html",
+    "type": "vocab",
+    "category": "chengyu",
+    "title": "守株待兔 · Guarding the Stump, Waiting for Rabbits",
+    "desc": "A rabbit ran headlong into a tree stump. The farmer dropped his plough and watched the stump for the rest of his life.",
+    "tags": [
+      "idioms",
+      "classical",
+      "philosophy"
+    ],
+    "status": "complete",
+    "pinyin": "shǒu zhū dài tù",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/chengyu/yugongyishan_愚公移山.html",
+    "type": "vocab",
+    "category": "chengyu",
+    "title": "愚公移山 · The Foolish Old Man Moves the Mountains",
+    "desc": "Two mountains blocked his door. He and his sons began to move them, one basket at a time. A mocker laughed. He said: when I die my sons will continue; when they die, their sons.",
+    "tags": [
+      "idioms",
+      "classical",
+      "philosophy"
+    ],
+    "status": "complete",
+    "pinyin": "yú gōng yí shān",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/culinary/topic_caixi.html",
+    "type": "topic",
+    "category": "culinary",
+    "title": "八大菜系 · Eight Great Cuisines",
+    "desc": "How geography, climate, and dynasty shaped eight distinct schools of Chinese cooking.",
+    "tags": [
+      "food",
+      "culture",
+      "geography",
+      "history"
+    ],
+    "status": "complete",
+    "pinyin": "bā dà càixì",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/culinary/topic_chuancai.html",
+    "type": "topic",
+    "category": "culinary",
+    "title": "川菜 · Sichuan Cuisine",
+    "desc": "The mala kitchen — how a landlocked basin built the most complex spice vocabulary in the world.",
+    "tags": [
+      "food",
+      "culture",
+      "geography",
+      "history"
+    ],
+    "status": "complete",
+    "pinyin": "chuāncài",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/culinary/topic_doufu.html",
+    "type": "topic",
+    "category": "culinary",
+    "title": "豆腐 · Tofu",
+    "desc": "Two thousand years of soybeans and water: the food that fed a civilization without meat.",
+    "tags": [
+      "food",
+      "culture",
+      "history",
+      "buddhism",
+      "daily-life"
+    ],
+    "status": "complete",
+    "pinyin": "dòufu",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/culinary/topic_huoguo.html",
+    "type": "topic",
+    "category": "culinary",
+    "title": "火锅 · Hotpot",
+    "desc": "The communal pot at the center of the table: a social institution disguised as a meal.",
+    "tags": [
+      "food",
+      "culture",
+      "social",
+      "history",
+      "daily-life"
+    ],
+    "status": "complete",
+    "pinyin": "huǒguō",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/culinary/topic_lucai.html",
+    "type": "topic",
+    "category": "culinary",
+    "title": "鲁菜 · Shandong Cuisine",
+    "desc": "The oldest school — how the home province of Confucius fed the imperial court for two thousand years.",
+    "tags": [
+      "food",
+      "culture",
+      "history",
+      "geography",
+      "confucianism"
+    ],
+    "status": "complete",
+    "pinyin": "lǔcài",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/culinary/topic_miantiao.html",
+    "type": "topic",
+    "category": "culinary",
+    "title": "面条 · Noodles",
+    "desc": "Four thousand years of wheat in water — noodle cultures from Lanzhou to Suzhou.",
+    "tags": [
+      "food",
+      "culture",
+      "history",
+      "daily-life"
+    ],
+    "status": "complete",
+    "pinyin": "miàntiáo",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/culinary/topic_yuecai.html",
+    "type": "topic",
+    "category": "culinary",
+    "title": "粤菜 · Cantonese Cuisine",
+    "desc": "Freshness as philosophy: the cooking tradition that traveled the world and stayed true to itself.",
+    "tags": [
+      "food",
+      "culture",
+      "geography",
+      "history",
+      "trade"
+    ],
+    "status": "complete",
+    "pinyin": "yuècài",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/culture/topic_cha_wenhua.html",
+    "type": "topic",
+    "category": "culture",
+    "title": "茶文化 · Tea Culture",
+    "desc": "Tea as civilization — the way a leaf became a philosophical practice, a diplomatic currency, and the shape of daily life across two millennia.",
+    "tags": [
+      "tea",
+      "culture",
+      "history",
+      "philosophy",
+      "daily-life"
+    ],
+    "status": "complete",
+    "pinyin": "chá wénhuà",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/culture/topic_hanfu.html",
+    "type": "topic",
+    "category": "culture",
+    "title": "汉服 · Traditional Han Dress",
+    "desc": "Ancient silhouettes worn in modern streets — the revival of Han dynasty clothing and the identity politics it carries.",
+    "tags": [
+      "culture",
+      "history",
+      "identity",
+      "han",
+      "arts"
+    ],
+    "status": "complete",
+    "pinyin": "Hànfú",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/culture/topic_hongbao.html",
+    "type": "topic",
+    "category": "culture",
+    "title": "红包 · Red Envelopes",
+    "desc": "Money wrapped in red — the gift that is never just money, and the ritual that binds generations, occasions, and now hundreds of millions of WeChat users.",
+    "tags": [
+      "culture",
+      "gift",
+      "social",
+      "symbolism",
+      "daily-life",
+      "new-year"
+    ],
+    "status": "complete",
+    "pinyin": "hóngbāo",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/culture/topic_qingming.html",
+    "type": "topic",
+    "category": "culture",
+    "title": "清明节 · Tomb-Sweeping Day",
+    "desc": "The day the living visit the dead — a spring festival of grief, gratitude, and continuity across generations.",
+    "tags": [
+      "festival",
+      "ancestors",
+      "ritual",
+      "culture",
+      "history"
+    ],
+    "status": "complete",
+    "pinyin": "Qīngmíngjié",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/culture/topic_taiji.html",
+    "type": "topic",
+    "category": "culture",
+    "title": "太极 · Tai Chi",
+    "desc": "The slow-motion practice in the park at dawn — its philosophy is older than the movements, and the movements carry the whole philosophy.",
+    "tags": [
+      "martial-arts",
+      "philosophy",
+      "culture",
+      "daoism",
+      "health"
+    ],
+    "status": "complete",
+    "pinyin": "Tàijí",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/culture/topic_zhongqiu.html",
+    "type": "topic",
+    "category": "culture",
+    "title": "中秋节 · Mid-Autumn Festival",
+    "desc": "The moon at its fullest, the family reunited — the festival that turns a celestial event into a meditation on longing and belonging.",
+    "tags": [
+      "festival",
+      "culture",
+      "family",
+      "history"
+    ],
+    "status": "complete",
+    "pinyin": "Zhōngqiūjié",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/daily/topic_chenghu.html",
+    "type": "topic",
+    "category": "daily",
+    "title": "称呼 · Forms of Address",
+    "desc": "In Chinese, how you address someone is not a formality — it is a precise statement of how you understand the relationship between you.",
+    "tags": [
+      "social",
+      "culture",
+      "etiquette",
+      "daily-life",
+      "family",
+      "names"
+    ],
+    "status": "complete",
+    "pinyin": "chēnghu",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/daily/topic_hongbai.html",
+    "type": "topic",
+    "category": "daily",
+    "title": "红白喜事 · Weddings & Funerals",
+    "desc": "The phrase itself tells the story: red and white, marriage and death, both require the same thing — the whole community showing up.",
+    "tags": [
+      "ritual",
+      "social",
+      "culture",
+      "etiquette",
+      "daily-life",
+      "family",
+      "symbolism"
+    ],
+    "status": "complete",
+    "pinyin": "hóngbái xǐshì",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/daily/topic_jingjiu.html",
+    "type": "topic",
+    "category": "daily",
+    "title": "敬酒 · Toasting Culture",
+    "desc": "The Chinese toast is not a punctuation mark at the end of a speech — it is a social instrument with its own grammar, hierarchy, and rules of engagement.",
+    "tags": [
+      "social",
+      "culture",
+      "etiquette",
+      "daily-life",
+      "food",
+      "ritual"
+    ],
+    "status": "complete",
+    "pinyin": "jìngjiǔ",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/daily/topic_mixin.html",
+    "type": "topic",
+    "category": "daily",
+    "title": "迷信 · Superstitions",
+    "desc": "Superstition in China is not a holdover from ignorance — it is a living system that coexists comfortably with education, modernity, and pragmatism.",
+    "tags": [
+      "folk-religion",
+      "symbolism",
+      "culture",
+      "daily-life",
+      "ritual",
+      "religion"
+    ],
+    "status": "complete",
+    "pinyin": "mìxìn",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/daily/topic_qingke.html",
+    "type": "topic",
+    "category": "daily",
+    "title": "请客吃饭 · Treating to a Meal",
+    "desc": "The Chinese banquet is not a meal with social dimensions — it is a social institution that happens to involve food.",
+    "tags": [
+      "food",
+      "social",
+      "etiquette",
+      "culture",
+      "daily-life",
+      "ritual"
+    ],
+    "status": "complete",
+    "pinyin": "qǐngkè chīfàn",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/daily/topic_shuzi.html",
+    "type": "topic",
+    "category": "daily",
+    "title": "数字 · Lucky & Unlucky Numbers",
+    "desc": "In China, numbers are not neutral — they carry sound, and sound carries meaning, and meaning can determine whether you close the deal or jinx the wedding.",
+    "tags": [
+      "symbolism",
+      "culture",
+      "daily-life",
+      "folk-religion",
+      "social"
+    ],
+    "status": "complete",
+    "pinyin": "shùzì",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/daily/topic_songli.html",
+    "type": "topic",
+    "category": "daily",
+    "title": "送礼 · Gift-Giving",
+    "desc": "Gift-giving in China is less about generosity than about maintenance — a technology for building and sustaining the relationships that make life work.",
+    "tags": [
+      "gift",
+      "social",
+      "etiquette",
+      "culture",
+      "daily-life",
+      "economy"
+    ],
+    "status": "complete",
+    "pinyin": "sònglǐ",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/geography/topic_caixi_geography.html",
+    "type": "topic",
+    "category": "geography",
+    "title": "八大菜系 · Cuisines as Geography",
+    "desc": "Read the Eight Great Cuisines as a geographic document — what the land, climate, and trade routes of each region produced at the table, and what the table tells you about the land.",
+    "tags": [
+      "geography",
+      "food",
+      "culture",
+      "history",
+      "river",
+      "coast",
+      "trade"
+    ],
+    "status": "complete",
+    "pinyin": "Bādà Càixì",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/geography/topic_fangyan.html",
+    "type": "topic",
+    "category": "geography",
+    "title": "方言 · The Dialect Map",
+    "desc": "Chinese is not one language but a family — seven major dialect groups whose speakers cannot understand one another, united by a shared written script and divided by a history of geography and migration.",
+    "tags": [
+      "language",
+      "geography",
+      "culture",
+      "history",
+      "identity",
+      "vocabulary",
+      "writing"
+    ],
+    "status": "complete",
+    "pinyin": "Fāngyán",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/geography/topic_huanghe.html",
+    "type": "topic",
+    "category": "geography",
+    "title": "黄河 · Yellow River",
+    "desc": "The cradle of Chinese civilization — a river that floods, destroys, and nourishes in equal measure, its loess-yellow waters shaping every dynasty that tried to master it.",
+    "tags": [
+      "geography",
+      "river",
+      "history",
+      "ancient",
+      "origins"
+    ],
+    "status": "complete",
+    "pinyin": "Huánghé",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/geography/topic_shanghai.html",
+    "type": "topic",
+    "category": "geography",
+    "title": "上海 · Shanghai",
+    "desc": "From fishing village to the most cosmopolitan city in Asia — a port that absorbed empires, reinvented itself three times, and has never quite decided whether it belongs to China or the world.",
+    "tags": [
+      "geography",
+      "history",
+      "culture",
+      "economy",
+      "cosmopolitan",
+      "identity"
+    ],
+    "status": "complete",
+    "pinyin": "Shànghǎi",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/geography/topic_xianggang.html",
+    "type": "topic",
+    "category": "geography",
+    "title": "香港 · Hong Kong",
+    "desc": "The entrepôt that became a world city — a harbor geography that made it the gateway between East and West, and a Cantonese identity that survived colonial rule and asks harder questions under reunification.",
+    "tags": [
+      "geography",
+      "history",
+      "culture",
+      "economy",
+      "identity",
+      "south",
+      "coast",
+      "trade"
+    ],
+    "status": "complete",
+    "pinyin": "Xiānggǎng",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/geography/topic_xinjiang.html",
+    "type": "topic",
+    "category": "geography",
+    "title": "新疆 · Xinjiang",
+    "desc": "China's largest province. A vast desert interior crossed by the Silk Road, home to Uyghur civilization, bounded by the Tianshan mountains, and at the center of contested questions about identity and governance.",
+    "tags": [
+      "geography",
+      "history",
+      "culture",
+      "islam",
+      "uyghur",
+      "silk",
+      "trade",
+      "identity"
+    ],
+    "status": "complete",
+    "pinyin": "Xīnjiāng",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/geography/topic_xizang.html",
+    "type": "topic",
+    "category": "geography",
+    "title": "西藏 · Tibet",
+    "desc": "The Roof of the World — a plateau so high it generates its own weather, a civilization shaped by altitude, and a Buddhism that grew from the landscape as much as from doctrine.",
+    "tags": [
+      "geography",
+      "buddhism",
+      "religion",
+      "history",
+      "culture",
+      "identity"
+    ],
+    "status": "complete",
+    "pinyin": "Xīzàng",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/grammar/guo_过.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "过 · the experiential aspect marker",
+    "desc": "The particle that says 'I have ever done this' — not when, not how often, just that it once happened. The most-confused pair with 了.",
+    "tags": [
+      "aspect",
+      "particle",
+      "grammar"
+    ],
+    "status": "complete",
+    "pinyin": "guò / guo",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/science/topic_bencao.html",
+    "type": "topic",
+    "category": "science",
+    "title": "本草纲目 · The Great Pharmacopeia",
+    "desc": "Li Shizhen spent 27 years cataloguing 1,892 drugs — and produced one of the greatest works of natural science in any civilization.",
+    "tags": [
+      "medicine",
+      "science",
+      "history",
+      "tcm",
+      "technology"
+    ],
+    "status": "complete",
+    "pinyin": "běncǎo gāngmù",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/science/topic_fengshui_science.html",
+    "type": "topic",
+    "category": "science",
+    "title": "风水 · Geomancy as Proto-Science",
+    "desc": "Before the terms ecology, hydrology, and orientation science existed, the fengshui master was reading the same landscape — just with a different vocabulary.",
+    "tags": [
+      "science",
+      "cosmology",
+      "geography",
+      "history",
+      "philosophy",
+      "geomancy"
+    ],
+    "status": "complete",
+    "pinyin": "fēngshuǐ",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/science/topic_jieqi.html",
+    "type": "topic",
+    "category": "science",
+    "title": "二十四节气 · 24 Solar Terms",
+    "desc": "The sun moves 15 degrees and the world changes — a precision agricultural calendar that doubled as a medical manual and is now UNESCO heritage.",
+    "tags": [
+      "science",
+      "history",
+      "cosmology",
+      "culture",
+      "tcm"
+    ],
+    "status": "complete",
+    "pinyin": "èrshísì jiéqì",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/science/topic_lifa.html",
+    "type": "topic",
+    "category": "science",
+    "title": "历法 · The Lunisolar Calendar",
+    "desc": "Neither purely solar nor purely lunar, the Chinese calendar has kept farmers, physicians, and dynasties synchronized with the cosmos for three thousand years.",
+    "tags": [
+      "science",
+      "history",
+      "cosmology",
+      "culture",
+      "technology"
+    ],
+    "status": "complete",
+    "pinyin": "lìfǎ",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/science/topic_suanpan.html",
+    "type": "topic",
+    "category": "science",
+    "title": "算盘 · The Abacus",
+    "desc": "Before the electronic calculator, a bead frame and trained fingers could outrun early computers on everyday arithmetic.",
+    "tags": [
+      "science",
+      "technology",
+      "invention",
+      "history",
+      "culture"
+    ],
+    "status": "complete",
+    "pinyin": "suànpán",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/science/topic_xingxiu.html",
+    "type": "topic",
+    "category": "science",
+    "title": "星宿 · Chinese Constellations",
+    "desc": "China mapped the entire sky independently of Greece — 1,464 stars, 28 lunar mansions, and four mythological guardians that divided the cosmos long before Ptolemy.",
+    "tags": [
+      "science",
+      "cosmology",
+      "history",
+      "culture",
+      "philosophy"
+    ],
+    "status": "complete",
+    "pinyin": "xīngxiù",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/science/topic_zhenjiu.html",
+    "type": "topic",
+    "category": "science",
+    "title": "针灸 · Acupuncture",
+    "desc": "Needles, meridians, and the ancient practice that resists simple verdicts from modern science.",
+    "tags": [
+      "tcm",
+      "medicine",
+      "health",
+      "science",
+      "history"
+    ],
+    "status": "complete",
+    "pinyin": "zhēnjiǔ",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/vocab/keqi_客气.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "客气 · politeness, ceremony",
+    "desc": "The polite manners owed to guests — and the gentle dance of refusal, insistence, and ritual modesty that runs through every Chinese social interaction.",
+    "tags": [
+      "social",
+      "culture",
+      "courtesy",
+      "connections"
+    ],
+    "status": "complete",
+    "pinyin": "kèqi",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/arts/topic_shufa.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "书法 · Calligraphy",
+    "desc": "The art of the brush — where writing becomes the most personal expression of character.",
+    "tags": [
+      "calligraphy",
+      "art",
+      "brush"
+    ],
+    "status": "complete",
+    "pinyin": "shūfǎ",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/arts/topic_sidaimingzhu.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "四大名著 · Four Great Classical Novels",
+    "desc": "The four novels every educated Chinese person has read — the canonical stories of war, outlaws, pilgrims, and dreams.",
+    "tags": [
+      "literature",
+      "novels",
+      "classical"
+    ],
+    "status": "complete",
+    "pinyin": "sì dà míngzhù",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/arts/topic_tangshi.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "唐诗 · Tang Poetry",
+    "desc": "Li Bai, Du Fu, and the golden age of regulated verse.",
+    "tags": [
+      "poetry",
+      "tang",
+      "literature"
+    ],
+    "status": "complete",
+    "pinyin": "tángshī",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/characters/dao4_道.html",
+    "type": "character",
+    "category": "characters",
+    "title": "道 · way, path",
+    "desc": "The word that gave Daoism its name — and underlies every Chinese 'ism'.",
+    "tags": [
+      "daoism",
+      "philosophy",
+      "path"
+    ],
+    "status": "complete",
+    "char": "道",
+    "pinyin": "dào",
+    "tone": 4,
+    "hsk": 3,
+    "radical": "辶",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/characters/gan3_感.html",
+    "type": "character",
+    "category": "characters",
+    "title": "感 · to feel, to resonate",
+    "desc": "Feeling, perception, gratitude, and the cosmology of sympathetic resonance.",
+    "tags": [
+      "emotion",
+      "perception",
+      "gratitude"
+    ],
+    "status": "complete",
+    "char": "感",
+    "pinyin": "gǎn",
+    "tone": 3,
+    "hsk": {
+      "from": 2,
+      "to": 4
+    },
+    "radical": "心",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/characters/jia1_家.html",
+    "type": "character",
+    "category": "characters",
+    "title": "家 · home, family",
+    "desc": "House, family, school of thought, nation (国家) — the fractal of belonging.",
+    "tags": [
+      "family",
+      "society",
+      "home"
+    ],
+    "status": "complete",
+    "char": "家",
+    "pinyin": "jiā",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "宀",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/characters/qi4_气.html",
+    "type": "character",
+    "category": "characters",
+    "title": "气 · breath, vital energy",
+    "desc": "From weather to anger to the cosmic force underlying TCM and martial arts.",
+    "tags": [
+      "cosmology",
+      "tcm",
+      "energy"
+    ],
+    "status": "complete",
+    "char": "气",
+    "pinyin": "qì",
+    "tone": 4,
+    "hsk": 3,
+    "radical": "气",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/characters/ren2_人.html",
+    "type": "character",
+    "category": "characters",
+    "title": "人 · person, humanity",
+    "desc": "The character for human being, and its echo in 仁 rén — Confucian benevolence.",
+    "tags": [
+      "humanity",
+      "confucianism",
+      "radical"
+    ],
+    "status": "complete",
+    "char": "人",
+    "pinyin": "rén",
+    "tone": 2,
+    "hsk": 1,
+    "radical": "人",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/characters/shi4_是.html",
+    "type": "character",
+    "category": "characters",
+    "title": "是 · to be",
+    "desc": "The copula, the cleft construction, classical 是非 right-and-wrong.",
+    "tags": [
+      "grammar",
+      "copula",
+      "logic"
+    ],
+    "status": "complete",
+    "char": "是",
+    "pinyin": "shì",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "日",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/characters/tian1_天.html",
+    "type": "character",
+    "category": "characters",
+    "title": "天 · sky, heaven, day",
+    "desc": "Heaven as moral authority, weather, time, and the ground of 天命 the Mandate of Heaven.",
+    "tags": [
+      "cosmology",
+      "heaven",
+      "mandate"
+    ],
+    "status": "complete",
+    "char": "天",
+    "pinyin": "tiān",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "大",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/characters/xin1_心.html",
+    "type": "character",
+    "category": "characters",
+    "title": "心 · heart, mind",
+    "desc": "The radical at the root of all feeling — and the Chinese conception of thought itself.",
+    "tags": [
+      "radical",
+      "emotion",
+      "mind"
+    ],
+    "status": "complete",
+    "char": "心",
+    "pinyin": "xīn",
+    "tone": 1,
+    "hsk": 2,
+    "radical": "心",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/characters/you3_有.html",
+    "type": "character",
+    "category": "characters",
+    "title": "有 · to have, to exist",
+    "desc": "Possession, existence, and the have/be distinction that reshapes grammar.",
+    "tags": [
+      "grammar",
+      "existence",
+      "possession"
+    ],
+    "status": "complete",
+    "char": "有",
+    "pinyin": "yǒu",
+    "tone": 3,
+    "hsk": 1,
+    "radical": "月",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/characters/zi4_字.html",
+    "type": "character",
+    "category": "characters",
+    "title": "字 · character, written word",
+    "desc": "The character that names itself — and the whole system of 汉字.",
+    "tags": [
+      "writing",
+      "language",
+      "meta"
+    ],
+    "status": "complete",
+    "char": "字",
+    "pinyin": "zì",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "子",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/chengyu/maodun_矛盾.html",
+    "type": "vocab",
+    "category": "chengyu",
+    "title": "矛盾 · Contradiction",
+    "desc": "The spear that can pierce anything meets the shield that can stop anything — the story behind China's word for contradiction.",
+    "tags": [
+      "idioms",
+      "logic",
+      "classical"
+    ],
+    "status": "complete",
+    "pinyin": "máodùn",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/chengyu/yeggonghalong_叶公好龙.html",
+    "type": "vocab",
+    "category": "chengyu",
+    "title": "叶公好龙 · Lord Ye Loves Dragons",
+    "desc": "He decorated his palace with dragons — until a real one appeared. The idiom for loving what you only love in the abstract.",
+    "tags": [
+      "idioms",
+      "classical",
+      "philosophy"
+    ],
+    "status": "complete",
+    "pinyin": "Yègōng hào lóng",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/chengyu/yujiegoulong_欲速则不达.html",
+    "type": "vocab",
+    "category": "chengyu",
+    "title": "欲速则不达 · Haste Does Not Bring Success",
+    "desc": "Speed desired, arrival missed — Confucius on why rushing produces the opposite of what you intend.",
+    "tags": [
+      "idioms",
+      "confucianism",
+      "classical",
+      "ethics"
+    ],
+    "status": "complete",
+    "pinyin": "yù sù zé bù dá",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/culinary/topic_baijiu.html",
+    "type": "topic",
+    "category": "culinary",
+    "title": "白酒 · Baijiu",
+    "desc": "China's fiery grain spirit — the most consumed distilled liquor in the world by volume, and what it means to drink together.",
+    "tags": [
+      "drink",
+      "spirits",
+      "social"
+    ],
+    "status": "complete",
+    "pinyin": "báijiǔ",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/culinary/topic_cha.html",
+    "type": "topic",
+    "category": "culinary",
+    "title": "茶 · Tea",
+    "desc": "Six tea categories, production, and the cup that connects China to the world.",
+    "tags": [
+      "tea",
+      "culture",
+      "drink"
+    ],
+    "status": "complete",
+    "pinyin": "chá",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/culinary/topic_jiaozi.html",
+    "type": "topic",
+    "category": "culinary",
+    "title": "饺子 · Dumplings",
+    "desc": "Folded, boiled, and shared — the dumpling as ritual food, family labor, and cultural marker.",
+    "tags": [
+      "food",
+      "new-year",
+      "northern"
+    ],
+    "status": "complete",
+    "pinyin": "jiǎozi",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/culture/topic_chunjie.html",
+    "type": "topic",
+    "category": "culture",
+    "title": "春节 · Spring Festival",
+    "desc": "Lunar New Year. The largest annual human migration and the most important date on the Chinese calendar.",
+    "tags": [
+      "new-year",
+      "festival",
+      "family"
+    ],
+    "status": "complete",
+    "pinyin": "Chūnjié",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/culture/topic_jingju.html",
+    "type": "topic",
+    "category": "culture",
+    "title": "京剧 · Peking Opera",
+    "desc": "China's national theatrical art — acrobatics, painted faces, falsetto voices, and two centuries of stylized storytelling.",
+    "tags": [
+      "opera",
+      "theatre",
+      "performance"
+    ],
+    "status": "complete",
+    "pinyin": "jīngjù",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/culture/topic_shengxiao.html",
+    "type": "topic",
+    "category": "culture",
+    "title": "生肖 · Chinese Zodiac",
+    "desc": "The twelve animals, what they mean, and why your birth year still shapes how people see you.",
+    "tags": [
+      "zodiac",
+      "culture",
+      "divination"
+    ],
+    "status": "complete",
+    "pinyin": "shēngxiào",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/daily/topic_kuaizi.html",
+    "type": "topic",
+    "category": "daily",
+    "title": "筷子 · Chopsticks",
+    "desc": "The rules, the taboos, and what not to do — the etiquette that marks insider from outsider at the Chinese table.",
+    "tags": [
+      "food",
+      "etiquette",
+      "daily"
+    ],
+    "status": "complete",
+    "pinyin": "kuàizi",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/daily/topic_xingming.html",
+    "type": "topic",
+    "category": "daily",
+    "title": "姓名 · Names",
+    "desc": "Family name first, given name second — the structure, meaning-making, and social logic of Chinese personal names.",
+    "tags": [
+      "names",
+      "social",
+      "language"
+    ],
+    "status": "complete",
+    "pinyin": "xìngmíng",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/daily/topic_yanse.html",
+    "type": "topic",
+    "category": "daily",
+    "title": "颜色 · Colors and Luck",
+    "desc": "Red for joy, white for death, green hats and yellow emperors — the symbolic weight of color in Chinese daily life.",
+    "tags": [
+      "color",
+      "symbolism",
+      "daily"
+    ],
+    "status": "complete",
+    "pinyin": "yánsè",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/geography/topic_beijing.html",
+    "type": "topic",
+    "category": "geography",
+    "title": "北京 · Beijing",
+    "desc": "Capital geography — the hutong grid, the Forbidden City, and the northern axis that has organized Chinese power for seven centuries.",
+    "tags": [
+      "beijing",
+      "geography",
+      "capital"
+    ],
+    "status": "complete",
+    "pinyin": "Běijīng",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/geography/topic_changjiang.html",
+    "type": "topic",
+    "category": "geography",
+    "title": "长江 · The Yangtze River",
+    "desc": "The longest river in Asia — the southern spine of Chinese civilization, the Three Gorges, and the river that divides north from south.",
+    "tags": [
+      "river",
+      "geography",
+      "south"
+    ],
+    "status": "complete",
+    "pinyin": "Cháng Jiāng",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/geography/topic_taiwan.html",
+    "type": "topic",
+    "category": "geography",
+    "title": "台湾 · Taiwan",
+    "desc": "An island with multiple names, multiple claims, and the most consequential unresolved question in East Asian geopolitics.",
+    "tags": [
+      "taiwan",
+      "geography",
+      "politics"
+    ],
+    "status": "complete",
+    "pinyin": "Táiwān",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/grammar/ba_把.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "把 · the disposal construction",
+    "desc": "Moving the object before the verb — when and why.",
+    "tags": [
+      "syntax",
+      "object",
+      "disposal"
+    ],
+    "status": "complete",
+    "pinyin": "bǎ",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/grammar/bei_被.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "被 · the passive",
+    "desc": "Agentive passive, unmarked passive, and the adversarial connotation.",
+    "tags": [
+      "passive",
+      "syntax",
+      "agent"
+    ],
+    "status": "complete",
+    "pinyin": "bèi",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/grammar/de_的得地.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "的 · 得 · 地 · the three de's",
+    "desc": "Attribution, result complement, and adverbial marker — distinguished once and for all.",
+    "tags": [
+      "particle",
+      "complement",
+      "adverb"
+    ],
+    "status": "complete",
+    "pinyin": "de / dé / dì",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/grammar/directional_来去.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "来 · 去 · directional complements",
+    "desc": "上来, 下去, 出去, 进来 — the motion complement system mapped.",
+    "tags": [
+      "direction",
+      "complement",
+      "motion"
+    ],
+    "status": "complete",
+    "pinyin": "lái / qù",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/grammar/hui_neng_keyi_会能可以.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "会 · 能 · 可以 · the three 'can's",
+    "desc": "Learned ability vs. situational capacity vs. permission — not interchangeable.",
+    "tags": [
+      "modal",
+      "ability",
+      "permission"
+    ],
+    "status": "complete",
+    "pinyin": "huì / néng / kěyǐ",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/grammar/jiu_cai_就才.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "就 vs. 才 · sooner vs. later",
+    "desc": "The timing and emphasis pair — speaker attitude encoded in one syllable.",
+    "tags": [
+      "adverb",
+      "timing",
+      "emphasis"
+    ],
+    "status": "complete",
+    "pinyin": "jiù / cái",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/grammar/le_了.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "了 · the perfective particle",
+    "desc": "Perfective aspect vs. change-of-state — the single most-confused particle.",
+    "tags": [
+      "aspect",
+      "particle",
+      "tense"
+    ],
+    "status": "complete",
+    "pinyin": "le",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/grammar/lian_dou_连都.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "连…都/也 · even X",
+    "desc": "The intensifier construction — raising the stakes of a claim.",
+    "tags": [
+      "intensifier",
+      "even",
+      "emphasis"
+    ],
+    "status": "complete",
+    "pinyin": "lián…dōu/yě",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/grammar/liangci_量词.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "量词 · measure words",
+    "desc": "个, 只, 条, 本, 张 — the classifier taxonomy and the logic behind it.",
+    "tags": [
+      "measure-words",
+      "classifiers",
+      "nouns"
+    ],
+    "status": "complete",
+    "pinyin": "liàngcí",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/grammar/shide_是的.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "是…的 · the cleft construction",
+    "desc": "Focus and past-detail marking — the construction that trips every learner.",
+    "tags": [
+      "focus",
+      "cleft",
+      "past"
+    ],
+    "status": "complete",
+    "pinyin": "shì…de",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/history/topic_hanchao.html",
+    "type": "topic",
+    "category": "history",
+    "title": "汉朝 · The Han Dynasty",
+    "desc": "Why Chinese call themselves 汉人 — the dynasty that defined the civilization.",
+    "tags": [
+      "han",
+      "dynasty",
+      "identity"
+    ],
+    "status": "complete",
+    "pinyin": "hàncháo",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/history/topic_mingchao.html",
+    "type": "topic",
+    "category": "history",
+    "title": "明朝 · The Ming Dynasty",
+    "desc": "The Great Wall rebuilt, Zheng He's voyages, and the inward turn.",
+    "tags": [
+      "ming",
+      "great-wall",
+      "zhenghe"
+    ],
+    "status": "complete",
+    "pinyin": "míngcháo",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/history/topic_qin_shihuang.html",
+    "type": "topic",
+    "category": "history",
+    "title": "秦始皇 · The First Emperor",
+    "desc": "Unification, standardization, and the terror that made China.",
+    "tags": [
+      "qin",
+      "unification",
+      "first-emperor"
+    ],
+    "status": "complete",
+    "pinyin": "qín shǐhuáng",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/history/topic_qingchao.html",
+    "type": "topic",
+    "category": "history",
+    "title": "清朝 · The Qing Dynasty",
+    "desc": "Manchu rule, the long peace, and the slow unraveling before 1911.",
+    "tags": [
+      "qing",
+      "manchu",
+      "decline"
+    ],
+    "status": "complete",
+    "pinyin": "qīngcháo",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/history/topic_songchao.html",
+    "type": "topic",
+    "category": "history",
+    "title": "宋朝 · The Song Dynasty",
+    "desc": "Economic revolution, printing, compass — the dynasty modernity missed.",
+    "tags": [
+      "song",
+      "economy",
+      "innovation"
+    ],
+    "status": "complete",
+    "pinyin": "sòngcháo",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/history/topic_tangchao.html",
+    "type": "topic",
+    "category": "history",
+    "title": "唐朝 · The Tang Dynasty",
+    "desc": "The cosmopolitan golden age — poetry, Buddhism, and the Silk Road.",
+    "tags": [
+      "tang",
+      "golden-age",
+      "cosmopolitan"
+    ],
+    "status": "complete",
+    "pinyin": "tángcháo",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/history/topic_wenge.html",
+    "type": "topic",
+    "category": "history",
+    "title": "文化大革命 · The Cultural Revolution",
+    "desc": "1966–76: Red Guards, struggle sessions, and the destruction of the past.",
+    "tags": [
+      "cultural-revolution",
+      "mao",
+      "1966"
+    ],
+    "status": "complete",
+    "pinyin": "wénhuà dà gémìng",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/history/topic_xia_shang_zhou.html",
+    "type": "topic",
+    "category": "history",
+    "title": "夏商周 · The Three Dynasties",
+    "desc": "The legendary and early historical origins of Chinese civilization.",
+    "tags": [
+      "ancient",
+      "bronze-age",
+      "origins"
+    ],
+    "status": "complete",
+    "pinyin": "xià shāng zhōu",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/history/topic_xinhai.html",
+    "type": "topic",
+    "category": "history",
+    "title": "辛亥革命 · The 1911 Revolution",
+    "desc": "The end of empire, Sun Yat-sen, and the birth of the Republic.",
+    "tags": [
+      "1911",
+      "republic",
+      "sun-yatsen"
+    ],
+    "status": "complete",
+    "pinyin": "xīnhài gémìng",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/history/topic_yuanchao.html",
+    "type": "topic",
+    "category": "history",
+    "title": "元朝 · The Yuan Dynasty",
+    "desc": "Kublai Khan, Mongol rule, and China as the center of a world empire.",
+    "tags": [
+      "yuan",
+      "mongol",
+      "kublai"
+    ],
+    "status": "complete",
+    "pinyin": "yuáncháo",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/philosophy/topic_fajia.html",
+    "type": "topic",
+    "category": "philosophy",
+    "title": "法家 · Legalism",
+    "desc": "Han Feizi, statecraft, and the realpolitik that unified China.",
+    "tags": [
+      "legalism",
+      "statecraft",
+      "power"
+    ],
+    "status": "complete",
+    "pinyin": "fǎjiā",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/philosophy/topic_kongzi.html",
+    "type": "topic",
+    "category": "philosophy",
+    "title": "孔子 · Confucius",
+    "desc": "His life, the Analects 论语, and the civilization he shaped.",
+    "tags": [
+      "confucius",
+      "analects",
+      "ethics"
+    ],
+    "status": "complete",
+    "pinyin": "kǒngzǐ",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/philosophy/topic_laozi.html",
+    "type": "topic",
+    "category": "philosophy",
+    "title": "老子 · Laozi & the Daodejing",
+    "desc": "The 81 chapters, wu wei 无为, and the paradox at the heart of Daoist thought.",
+    "tags": [
+      "laozi",
+      "daodejing",
+      "wuwei"
+    ],
+    "status": "complete",
+    "pinyin": "lǎozǐ",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/philosophy/topic_lixue.html",
+    "type": "topic",
+    "category": "philosophy",
+    "title": "理学 · Neo-Confucianism",
+    "desc": "Zhu Xi, the Great Ultimate 太极, and the Song-Ming synthesis.",
+    "tags": [
+      "neo-confucianism",
+      "zhuxi",
+      "principle"
+    ],
+    "status": "complete",
+    "pinyin": "lǐxué",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/philosophy/topic_mengzi.html",
+    "type": "topic",
+    "category": "philosophy",
+    "title": "孟子 · Mencius",
+    "desc": "Human nature as inherently good — the sprouts of virtue.",
+    "tags": [
+      "mencius",
+      "human-nature",
+      "virtue"
+    ],
+    "status": "complete",
+    "pinyin": "mèngzǐ",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/philosophy/topic_mojia.html",
+    "type": "topic",
+    "category": "philosophy",
+    "title": "墨家 · Mohism",
+    "desc": "Universal love, anti-war, and the utilitarian logic China nearly chose.",
+    "tags": [
+      "mohism",
+      "universal-love",
+      "logic"
+    ],
+    "status": "complete",
+    "pinyin": "mòjiā",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/philosophy/topic_xinxue.html",
+    "type": "topic",
+    "category": "philosophy",
+    "title": "心学 · Wang Yangming",
+    "desc": "Innate knowing 良知 and the unity of knowledge and action.",
+    "tags": [
+      "wang-yangming",
+      "mind",
+      "knowing"
+    ],
+    "status": "complete",
+    "pinyin": "xīnxué",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/philosophy/topic_xunzi.html",
+    "type": "topic",
+    "category": "philosophy",
+    "title": "荀子 · Xunzi",
+    "desc": "Human nature as bad — ritual and education as correction.",
+    "tags": [
+      "xunzi",
+      "ritual",
+      "human-nature"
+    ],
+    "status": "complete",
+    "pinyin": "xúnzǐ",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/philosophy/topic_yinyang_wuxing.html",
+    "type": "topic",
+    "category": "philosophy",
+    "title": "阴阳五行 · Yin-Yang and the Five Phases",
+    "desc": "The cosmological engine of classical thought — correspondence, resonance, and transformation.",
+    "tags": [
+      "yin-yang",
+      "five-phases",
+      "cosmology"
+    ],
+    "status": "complete",
+    "pinyin": "yīnyáng wǔxíng",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/philosophy/topic_zhuangzi.html",
+    "type": "topic",
+    "category": "philosophy",
+    "title": "庄子 · Zhuangzi",
+    "desc": "The butterfly dream, Cook Ding, and Daoist freedom from convention.",
+    "tags": [
+      "zhuangzi",
+      "freedom",
+      "daoist"
+    ],
+    "status": "complete",
+    "pinyin": "zhuāngzǐ",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/religion/topic_chan.html",
+    "type": "topic",
+    "category": "religion",
+    "title": "禅宗 · Chán Buddhism",
+    "desc": "The meditative school that became Japanese Zen — sudden enlightenment and the patriarchs.",
+    "tags": [
+      "chan",
+      "zen",
+      "meditation"
+    ],
+    "status": "complete",
+    "pinyin": "chán zōng",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/religion/topic_daojiao.html",
+    "type": "topic",
+    "category": "religion",
+    "title": "道教 · Daoism",
+    "desc": "Daoism as organized religion — distinct from Daoist philosophy.",
+    "tags": [
+      "daoism",
+      "religion",
+      "immortality"
+    ],
+    "status": "complete",
+    "pinyin": "dàojiào",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/religion/topic_fojiao.html",
+    "type": "topic",
+    "category": "religion",
+    "title": "佛教 · Buddhism in China",
+    "desc": "Two thousand years of transmission, transformation, and sinicization.",
+    "tags": [
+      "buddhism",
+      "transmission",
+      "history"
+    ],
+    "status": "complete",
+    "pinyin": "fójiào",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/religion/topic_jingtu.html",
+    "type": "topic",
+    "category": "religion",
+    "title": "净土宗 · Pure Land",
+    "desc": "The most widely practiced Buddhism in China — faith, Amitabha, and the Western Paradise.",
+    "tags": [
+      "pure-land",
+      "amitabha",
+      "faith"
+    ],
+    "status": "complete",
+    "pinyin": "jìngtǔ zōng",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/religion/topic_mazu.html",
+    "type": "topic",
+    "category": "religion",
+    "title": "妈祖 · the Sea Goddess",
+    "desc": "Coastal goddess of sailors, fishermen, and the overseas Chinese diaspora.",
+    "tags": [
+      "mazu",
+      "goddess",
+      "coast"
+    ],
+    "status": "complete",
+    "pinyin": "māzǔ",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/religion/topic_minjian.html",
+    "type": "topic",
+    "category": "religion",
+    "title": "民间信仰 · Folk Religion",
+    "desc": "Kitchen gods, city gods, and the living popular religion beneath Buddhism and Daoism.",
+    "tags": [
+      "folk-religion",
+      "gods",
+      "popular"
+    ],
+    "status": "complete",
+    "pinyin": "mínjiān xìnyǎng",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/religion/topic_rujia.html",
+    "type": "topic",
+    "category": "religion",
+    "title": "儒家 · Confucianism",
+    "desc": "The school of the ru — ritual, hierarchy, and moral cultivation as state religion.",
+    "tags": [
+      "confucianism",
+      "ritual",
+      "ethics"
+    ],
+    "status": "complete",
+    "pinyin": "rújiā",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/religion/topic_saman.html",
+    "type": "topic",
+    "category": "religion",
+    "title": "萨满教 · Shamanism",
+    "desc": "Manchu, Mongol, and northern indigenous shamanic traditions.",
+    "tags": [
+      "shamanism",
+      "manchu",
+      "indigenous"
+    ],
+    "status": "complete",
+    "pinyin": "sàmǎn jiào",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/religion/topic_yisilan.html",
+    "type": "topic",
+    "category": "religion",
+    "title": "伊斯兰教 · Islam in China",
+    "desc": "Hui Muslims, Uyghur traditions, and 1400 years of Islamic presence.",
+    "tags": [
+      "islam",
+      "hui",
+      "uyghur"
+    ],
+    "status": "complete",
+    "pinyin": "yīsīlán jiào",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/religion/topic_zuxian.html",
+    "type": "topic",
+    "category": "religion",
+    "title": "祖先崇拜 · Ancestor Veneration",
+    "desc": "The deep continuity — tablets, offerings, and the living debt to the dead.",
+    "tags": [
+      "ancestors",
+      "ritual",
+      "family"
+    ],
+    "status": "complete",
+    "pinyin": "zǔxiān chóngbài",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/science/topic_sichou.html",
+    "type": "topic",
+    "category": "science",
+    "title": "丝绸 · Silk",
+    "desc": "The thread that built the first global trade network — Chinese silk, the secret of sericulture, and the road that carried it west.",
+    "tags": [
+      "silk",
+      "trade",
+      "technology"
+    ],
+    "status": "complete",
+    "pinyin": "sīchóu",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/science/topic_sidafaming.html",
+    "type": "topic",
+    "category": "science",
+    "title": "四大发明 · Four Great Inventions",
+    "desc": "Compass, gunpowder, paper, and printing — the Chinese technologies that remade the medieval world.",
+    "tags": [
+      "technology",
+      "invention",
+      "history"
+    ],
+    "status": "complete",
+    "pinyin": "sì dà fāmíng",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/science/topic_zhongyi.html",
+    "type": "topic",
+    "category": "science",
+    "title": "中医 · Traditional Chinese Medicine",
+    "desc": "Qi, yin-yang, the five phases, and a medical system that has treated a fifth of humanity for two thousand years.",
+    "tags": [
+      "medicine",
+      "health",
+      "classical"
+    ],
+    "status": "complete",
+    "pinyin": "zhōngyī",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/vocab/dongxi_东西.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "东西 · things",
+    "desc": "East-west as the word for 'stuff' — a window into directional cosmology.",
+    "tags": [
+      "directions",
+      "colloquial",
+      "things"
+    ],
+    "status": "complete",
+    "pinyin": "dōngxi",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/vocab/fengshui_风水.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "风水 · wind and water",
+    "desc": "Geomancy, qi flow, and the cosmological logic of favorable siting.",
+    "tags": [
+      "cosmology",
+      "geomancy",
+      "space"
+    ],
+    "status": "complete",
+    "pinyin": "fēngshuǐ",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/vocab/gongfu_功夫.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "功夫 · effort, skill over time",
+    "desc": "Not just martial arts — the original meaning is mastery earned through time.",
+    "tags": [
+      "mastery",
+      "time",
+      "martial-arts"
+    ],
+    "status": "complete",
+    "pinyin": "gōngfu",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/vocab/guanxi_关系.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "关系 · relationship, connections",
+    "desc": "The untranslatable social fabric — relational leverage, it matters.",
+    "tags": [
+      "social",
+      "connections",
+      "culture"
+    ],
+    "status": "complete",
+    "pinyin": "guānxi",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/vocab/jianghu_江湖.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "江湖 · rivers and lakes",
+    "desc": "The outsider world of wanderers, martial artists, and street wisdom.",
+    "tags": [
+      "wuxia",
+      "culture",
+      "society"
+    ],
+    "status": "complete",
+    "pinyin": "jiānghú",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/vocab/mianzi_面子.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "面子 · face, honor",
+    "desc": "Giving, losing, and saving face — the social grammar of dignity.",
+    "tags": [
+      "social",
+      "honor",
+      "culture"
+    ],
+    "status": "complete",
+    "pinyin": "miànzi",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/vocab/tianxia_天下.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "天下 · all under heaven",
+    "desc": "The pre-nation-state Chinese political imagination — the civilized world.",
+    "tags": [
+      "politics",
+      "history",
+      "worldview"
+    ],
+    "status": "complete",
+    "pinyin": "tiānxià",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/vocab/yinyang_阴阳.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "阴阳 · yin and yang",
+    "desc": "The binary engine of all classical Chinese thought.",
+    "tags": [
+      "cosmology",
+      "philosophy",
+      "binary"
+    ],
+    "status": "complete",
+    "pinyin": "yīnyáng",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/vocab/yisi_意思.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "意思 · meaning, intention",
+    "desc": "Meaning, interest, charm, and the gift-giving idiom 意思意思.",
+    "tags": [
+      "meaning",
+      "gift",
+      "register"
+    ],
+    "status": "complete",
+    "pinyin": "yìsi",
+    "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/vocab/yuanfen_缘分.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "缘分 · karmic connection",
+    "desc": "Buddhist-rooted fate that ties strangers, lovers, and old friends.",
+    "tags": [
+      "buddhism",
+      "fate",
+      "romance"
+    ],
+    "status": "complete",
+    "pinyin": "yuánfèn",
+    "updated": "2026-04-18"
+  }
+]
