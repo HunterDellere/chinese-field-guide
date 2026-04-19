@@ -497,9 +497,34 @@
     const container = document.getElementById("categories");
     const catGroupMap = {};
 
+    // Visual grouping: characters/vocab/grammar/chengyu sit together under
+    // "The Language"; everything else sits under "The Civilisation". The
+    // divider gets inserted before the first rendered category of each group.
+    const LANGUAGE_CATS = new Set(["characters", "vocab", "grammar", "chengyu"]);
+    const GROUP_META = {
+      language:     { cn: "语言", py: "yǔyán",  en: "The Language",     desc: "Characters, words, grammar, idioms — the building blocks." },
+      civilisation: { cn: "文化", py: "wénhuà", en: "The Civilisation", desc: "Religion, philosophy, history, arts, food — what the language is used to say." }
+    };
+    const groupsInserted = { language: false, civilisation: false };
+
+    function insertGroupDivider(kind) {
+      if (groupsInserted[kind]) return;
+      const meta = GROUP_META[kind];
+      const div = document.createElement("div");
+      div.className = "cat-family cat-family-" + kind;
+      div.innerHTML = `
+        <span class="cat-family-eyebrow">${meta.cn} ${meta.py}</span>
+        <h3 class="cat-family-heading">${meta.en}</h3>
+        <p class="cat-family-desc">${meta.desc}</p>
+      `;
+      container.appendChild(div);
+      groupsInserted[kind] = true;
+    }
+
     CAT_ORDER.forEach(key => {
       const entries = groups[key];
       if (!entries.length) return;
+      insertGroupDivider(LANGUAGE_CATS.has(key) ? "language" : "civilisation");
       const meta = CATEGORY_META[key];
 
       const group = document.createElement("section");

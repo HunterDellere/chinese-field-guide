@@ -47,19 +47,23 @@
   --focus-ring: 0 0 0 2px rgba(160,100,40,0.35);
 
   /* Per-category accent palette */
-  --cat-characters:  #8b1a1a;
-  --cat-vocab:       #a06428;
-  --cat-grammar:     #1a5050;
-  --cat-religion:    #5c3d7a;
-  --cat-philosophy:  #3a5c3a;
-  --cat-history:     #6b4420;
-  --cat-geography:   #2a5c6b;
-  --cat-culture:     #8b3a1a;
-  --cat-culinary:    #7a4a10;
-  --cat-arts:        #4a2878;
-  --cat-science:     #1a4a5c;
-  --cat-daily:       #5c4a1a;
-  --cat-chengyu:     #6b1a2a;
+  /* Category palette — two families.
+     Language: warm ink/pigment tones (红 cinnabar → 褐 umber). These four
+     sit together visually so the entry type reads at a glance.
+     Civilisation: cooler, varied pigments for each cultural domain.     */
+  --cat-characters:  #8b1a1a;   /* cinnabar   */
+  --cat-vocab:       #a06428;   /* ochre      */
+  --cat-grammar:     #5c3821;   /* walnut ink */
+  --cat-chengyu:     #6b1a2a;   /* wine       */
+  --cat-religion:    #5c3d7a;   /* violet     */
+  --cat-philosophy:  #3a5c3a;   /* forest     */
+  --cat-history:     #6b4420;   /* sepia      */
+  --cat-geography:   #2a5c6b;   /* slate      */
+  --cat-culture:     #8e4a6e;   /* plum       */
+  --cat-culinary:    #a85820;   /* terracotta */
+  --cat-arts:        #4a2878;   /* indigo     */
+  --cat-science:     #1a4a5c;   /* steel teal */
+  --cat-daily:       #7a6024;   /* mustard    */
 }
 
 ::selection { background: rgba(139,26,26,0.18); color: var(--ink); }
@@ -1411,9 +1415,9 @@ body[data-category="grammar"] .hero::after,
 body[data-category="grammar"] .topic-hero::after { background: var(--cat-grammar); }
 body[data-category="grammar"] .topic-hero-title { color: var(--cat-grammar); }
 body[data-category="grammar"] .toc-list a.active,
-body[data-category="grammar"] .toc-list a:hover { color: var(--cat-grammar); border-left-color: var(--cat-grammar); background: rgba(26,80,80,0.06); }
+body[data-category="grammar"] .toc-list a:hover { color: var(--cat-grammar); border-left-color: var(--cat-grammar); background: rgba(92,56,33,0.07); }
 body[data-category="grammar"] .sh-cn { color: var(--cat-grammar); }
-body[data-category="grammar"] .reading-progress-bar { background: linear-gradient(90deg, var(--cat-grammar), #2a7070); }
+body[data-category="grammar"] .reading-progress-bar { background: linear-gradient(90deg, var(--cat-grammar), #8c5832); }
 
 /* Religion — indigo-violet */
 body[data-category="religion"] .hero::after,
@@ -1456,9 +1460,9 @@ body[data-category="culture"] .hero::after,
 body[data-category="culture"] .topic-hero::after { background: var(--cat-culture); }
 body[data-category="culture"] .topic-hero-title { color: var(--cat-culture); }
 body[data-category="culture"] .toc-list a.active,
-body[data-category="culture"] .toc-list a:hover { color: var(--cat-culture); border-left-color: var(--cat-culture); background: rgba(139,58,26,0.07); }
+body[data-category="culture"] .toc-list a:hover { color: var(--cat-culture); border-left-color: var(--cat-culture); background: rgba(142,74,110,0.07); }
 body[data-category="culture"] .sh-cn { color: var(--cat-culture); }
-body[data-category="culture"] .reading-progress-bar { background: linear-gradient(90deg, var(--cat-culture), #c06030); }
+body[data-category="culture"] .reading-progress-bar { background: linear-gradient(90deg, var(--cat-culture), #b67090); }
 
 /* Culinary — warm spice brown */
 body[data-category="culinary"] .hero::after,

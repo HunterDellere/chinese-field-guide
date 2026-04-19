@@ -124,6 +124,9 @@
 <link rel="stylesheet" href="style.css">
 <style>
   .index-shell { max-width: 1080px; margin: 0 auto; padding: 3.5rem 2rem 5rem; }
+  /* Scroll targets land below the sticky nav, not under it. */
+  .index-shell section[id],
+  .index-shell [id^="cat-"] { scroll-margin-top: calc(var(--nav-h) + 1rem); }
 
   .index-hero {
     text-align: center;
@@ -284,14 +287,17 @@
   .featured-link:hover { background: var(--papyrus-3); border-color: var(--ochre); color: var(--ink); }
   .featured-link:focus-visible { outline: 2px solid var(--ochre); outline-offset: 2px; }
 
-  .start-here-section { margin-bottom: 4rem; }
+  .start-here-section { margin-bottom: 4rem; scroll-margin-top: calc(var(--nav-h) + 1rem); }
   .start-here-list {
     list-style: none; padding: 0; margin: 0;
     display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.6rem;
     counter-reset: starthere;
+    align-items: stretch;
   }
+  .start-here-list > li { display: flex; }
   .start-here-item {
     display: flex; flex-direction: column;
+    flex: 1;
     padding: 0.85rem 0.95rem 0.9rem;
     background: var(--papyrus-2); border: 1px solid var(--rule);
     border-radius: var(--radius-lg);
@@ -543,7 +549,26 @@
   }
   .hsk-chip-clear { border-style: dashed; }
 
-  .cat-group { margin-bottom: 2.75rem; animation: fadeUp 0.5s ease both; }
+  /* Family headings — split the list into "The Language" and "The Civilisation"
+     so the entry type is clear at a glance. */
+  .cat-family { margin: 1.75rem 0 1.25rem; }
+  .cat-family + .cat-group { margin-top: 0.25rem; }
+  .cat-family-eyebrow {
+    font-family: var(--font-mono); font-size: 0.64rem; letter-spacing: 0.22em;
+    text-transform: uppercase; color: var(--ochre); display: block;
+    border-left: 2px solid var(--ochre); padding-left: 0.55rem;
+    margin-bottom: 0.35rem;
+  }
+  .cat-family-heading {
+    font-family: var(--font-body); font-size: 1.2rem; font-weight: 600;
+    color: var(--ink); margin: 0 0 0.2rem; letter-spacing: -0.005em;
+  }
+  .cat-family-desc {
+    font-family: var(--font-ui); font-size: 0.88rem; color: var(--ink-4);
+    margin: 0; line-height: 1.45; max-width: 620px;
+  }
+
+  .cat-group { margin-bottom: 2.75rem; animation: fadeUp 0.5s ease both; scroll-margin-top: calc(var(--nav-h) + 1rem); }
   .cat-group.hidden { display: none; }
   .cat-group.collapsed .entry-grid { display: none; }
 
@@ -788,12 +813,28 @@
     <h1 class="index-hero-title">Brush notes on the Chinese language and civilisation</h1>
     <p class="index-hero-desc">A free field guide to Chinese characters, vocabulary, grammar, philosophy, history, food, and tea — written for curious readers who want the story behind the stroke.</p>
     <div class="hero-ctas">
-      <a href="#start-here" class="hero-cta hero-cta-primary">Start here →</a>
-      <a href="#browse" class="hero-cta hero-cta-secondary">Browse all entries ↓</a>
+      <a href="#browse" class="hero-cta hero-cta-primary">Browse all entries ↓</a>
+      <a href="#start-here" class="hero-cta hero-cta-secondary">Start here →</a>
     </div>
   </header>
 
   <div class="index-stats" id="stats"></div>
+
+  <!-- Overview — moved to top so new visitors see the scope of the guide first. -->
+  <section class="overview-section" id="overview">
+    <div class="section-eyebrow">概览 gàilǎn</div>
+    <h2 class="section-title">What's inside</h2>
+    <p class="section-sub" id="overview-sub">Sections that move from the building blocks of the language up through the civilisation that built it.</p>
+    <div class="overview-grid" id="overview-grid"></div>
+  </section>
+
+  <!-- Recently added — surfaces the latest work right near the top. -->
+  <section class="recent-section" id="recent">
+    <div class="section-eyebrow">最近 zuìjìn</div>
+    <h2 class="section-title">Recently added</h2>
+    <p class="section-sub">Latest additions to the field guide.</p>
+    <div class="recent-grid" id="recent-grid"></div>
+  </section>
 
   <!-- Featured this week -->
   <section class="featured-section" id="featured" aria-labelledby="featured-heading">
@@ -801,14 +842,6 @@
     <h2 class="section-title" id="featured-heading">Featured this week</h2>
     <p class="section-sub">A single theme in focus for the week, with a few related entries to follow the thread.</p>
     <article class="featured-card" id="featured-card" data-watermark=""></article>
-  </section>
-
-  <!-- Start here -->
-  <section class="start-here-section" id="start-here">
-    <div class="section-eyebrow">入门 rùmén</div>
-    <h2 class="section-title">Start here</h2>
-    <p class="section-sub" id="start-here-sub">An opinionated tour of the whole — language, philosophy, culture, food. Read in order, or skip around.</p>
-    <ol class="start-here-list" id="start-here-list"></ol>
   </section>
 
   <!-- How to read — compact legend, placed before Browse so readers know
@@ -892,20 +925,13 @@
     <div id="categories"></div>
   </section>
 
-  <!-- Overview -->
-  <section class="overview-section" id="overview">
-    <div class="section-eyebrow">概览 gàilǎn</div>
-    <h2 class="section-title">What's inside</h2>
-    <p class="section-sub" id="overview-sub">Sections that move from the building blocks of the language up through the civilisation that built it.</p>
-    <div class="overview-grid" id="overview-grid"></div>
-  </section>
-
-  <!-- Recently updated -->
-  <section class="recent-section" id="recent">
-    <div class="section-eyebrow">最近 zuìjìn</div>
-    <h2 class="section-title">Recently added</h2>
-    <p class="section-sub">Latest additions to the field guide.</p>
-    <div class="recent-grid" id="recent-grid"></div>
+  <!-- Start here — moved to the bottom as a curated closing tour for anyone
+       who scrolled all the way through. -->
+  <section class="start-here-section" id="start-here">
+    <div class="section-eyebrow">入门 rùmén</div>
+    <h2 class="section-title">Start here</h2>
+    <p class="section-sub" id="start-here-sub">An opinionated tour of the whole — language, philosophy, culture, food. Read in order, or skip around.</p>
+    <ol class="start-here-list" id="start-here-list"></ol>
   </section>
 
   <!-- Colophon -->
