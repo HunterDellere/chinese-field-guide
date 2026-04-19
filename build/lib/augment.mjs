@@ -126,40 +126,88 @@ export function buildLinkMap(entries, currentEntry) {
   return map;
 }
 
+const MAX_LINKS_PER_TARGET_PER_SECTION = 2;
+const MAX_LINKS_PER_TARGET_GLOBAL = 6;
+
+// Sentinel inserted while splitting into sections, stripped before returning.
+const SECTION_BOUNDARY = '\x00SECTION\x00';
+
+/**
+ * Split body into per-section chunks so we can apply a per-section link budget.
+ * Section boundaries are <span class="section-anchor"> or <section class="section-anchor">.
+ * Returns array of strings; boundaries are represented by the SECTION_BOUNDARY sentinel.
+ */
+function splitIntoSections(body) {
+  const sectionStart = /<(?:span|section)\s[^>]*class="section-anchor"[^>]*>/g;
+  const parts = [];
+  let last = 0;
+  let m;
+  while ((m = sectionStart.exec(body)) !== null) {
+    if (m.index > last) parts.push(body.slice(last, m.index));
+    parts.push(SECTION_BOUNDARY);
+    parts.push(m[0]);
+    last = m.index + m[0].length;
+  }
+  if (last < body.length) parts.push(body.slice(last));
+  return parts;
+}
+
 export function autoLinkBody(body, linkMap, currentEntry) {
   if (!linkMap.length) return body;
-  const used = new Set(); // one auto-link per target per page
 
-  // Split body into segments, never modifying within tags or already-linked spans
-  const segments = splitProtected(body);
-  let result = '';
-  for (const seg of segments) {
-    if (seg.protected) {
-      result += seg.text;
+  // Global usage counter: path → total links inserted across the whole page
+  const globalCount = new Map();
+  // Per-section usage counter: path → links inserted in the current section
+  let sectionCount = new Map();
+
+  // Walk the body section-by-section so we can reset the per-section counter
+  const sectionChunks = splitIntoSections(body);
+  const processedChunks = [];
+
+  for (const chunk of sectionChunks) {
+    if (chunk === SECTION_BOUNDARY) {
+      // Reset per-section counts at each section boundary
+      sectionCount = new Map();
+      processedChunks.push(SECTION_BOUNDARY);
       continue;
     }
-    let text = seg.text;
-    for (const { phrase, path } of linkMap) {
-      if (used.has(path)) continue;
-      const idx = text.indexOf(phrase);
-      if (idx === -1) continue;
-      // Skip if phrase sits inside a longer Chinese run that probably means
-      // something else (avoid linking 心 inside 关心 etc.). For Chinese phrases
-      // we require the phrase to NOT be flanked by other CJK characters,
-      // unless the phrase length is >= 2 (multi-char terms are safe).
-      if (phrase.length === 1 && HZ_RE.test(phrase)) {
-        const before = text[idx - 1] || '';
-        const after  = text[idx + phrase.length] || '';
-        if (HZ_RE.test(before) || HZ_RE.test(after)) continue;
+
+    // Split chunk into protected/unprotected segments and auto-link
+    const segments = splitProtected(chunk);
+    let result = '';
+    for (const seg of segments) {
+      if (seg.protected) {
+        result += seg.text;
+        continue;
       }
-      const href = relativePath(currentEntry.path, path);
-      const replacement = `<a class="auto-link" href="${escapeAttr(href)}">${escapeHtml(phrase)}</a>`;
-      text = text.slice(0, idx) + replacement + text.slice(idx + phrase.length);
-      used.add(path);
+      let text = seg.text;
+      for (const { phrase, path } of linkMap) {
+        const secUsed = sectionCount.get(path) || 0;
+        const globUsed = globalCount.get(path) || 0;
+        if (secUsed >= MAX_LINKS_PER_TARGET_PER_SECTION) continue;
+        if (globUsed >= MAX_LINKS_PER_TARGET_GLOBAL) continue;
+
+        const idx = text.indexOf(phrase);
+        if (idx === -1) continue;
+        // Skip if phrase sits inside a longer Chinese run (avoid linking 心 inside 关心).
+        if (phrase.length === 1 && HZ_RE.test(phrase)) {
+          const before = text[idx - 1] || '';
+          const after  = text[idx + phrase.length] || '';
+          if (HZ_RE.test(before) || HZ_RE.test(after)) continue;
+        }
+        const href = relativePath(currentEntry.path, path);
+        const replacement = `<a class="auto-link" href="${escapeAttr(href)}">${escapeHtml(phrase)}</a>`;
+        text = text.slice(0, idx) + replacement + text.slice(idx + phrase.length);
+        sectionCount.set(path, secUsed + 1);
+        globalCount.set(path, globUsed + 1);
+      }
+      result += text;
     }
-    result += text;
+    processedChunks.push(result);
   }
-  return result;
+
+  // Re-join, stripping the section-boundary sentinels
+  return processedChunks.join('').split(SECTION_BOUNDARY).join('');
 }
 
 /**

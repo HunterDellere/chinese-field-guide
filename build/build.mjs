@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * build.mjs — Chinese Field Guide build system
+ * build.mjs — Jiǎoluò Shūwū build system
  *
  * Reads:  content/<category>/<slug>.md  (frontmatter + HTML body)
  * Writes: pages/<category>/<slug>.html
@@ -385,7 +385,7 @@ const rssXml =
   `    <title>Jiǎoluò Shūwū · 角落書屋</title>\n` +
   `    <link>${SITE_URL}/</link>\n` +
   `    <atom:link href="${SITE_URL}/feed.xml" rel="self" type="application/rss+xml" />\n` +
-  `    <description>A field guide to Chinese — characters, language, and the long civilisation behind them.</description>\n` +
+  `    <description>Notes on Chinese language and civilisation — characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>\n` +
   `    <language>en</language>\n` +
   `    <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>\n` +
   rssItems + `\n` +
@@ -410,8 +410,8 @@ for (const e of entries) {
 // PWA manifest
 const manifest = {
   name: 'Jiǎoluò Shūwū · 角落書屋',
-  short_name: 'Field Notes',
-  description: 'A field guide to Chinese — characters, language, and the long civilisation behind them.',
+  short_name: 'Jiǎoluò Shūwū',
+  description: 'Notes on Chinese language and civilisation — characters, vocabulary, grammar, history, philosophy, and the world they shaped.',
   start_url: '/jiaoluo-shuwu/',
   scope: '/jiaoluo-shuwu/',
   display: 'standalone',

@@ -1,7 +1,7 @@
 {
   "name": "Jiǎoluò Shūwū · 角落書屋",
-  "short_name": "Field Notes",
-  "description": "A field guide to Chinese — characters, language, and the long civilisation behind them.",
+  "short_name": "Jiǎoluò Shūwū",
+  "description": "Notes on Chinese language and civilisation — characters, vocabulary, grammar, history, philosophy, and the world they shaped.",
   "start_url": "/jiaoluo-shuwu/",
   "scope": "/jiaoluo-shuwu/",
   "display": "standalone",

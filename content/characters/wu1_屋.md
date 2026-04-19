@@ -103,7 +103,7 @@ radical: '尸'
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
       <p><strong>屋 = 尸 shī</strong> (body — a person bent or lying, representing the human form) <strong>+ 至 zhì</strong> (to arrive). A person arriving at a place and staying — a <em>shelter into which one arrives and remains.</em> The 尸 radical is not about death; in its original form it represents a person crouching or at rest, and it recurs in characters about human habitation and posture: 居 jū (to dwell), 层 céng (floor/story), 尾 wěi (tail — the rear end of a body).</p>
       <p>The distinction between 屋 wū and 房 fáng is subtle but real: 房 (a room, typically in a building) emphasizes walls and division; 屋 (a room or dwelling) emphasizes the whole shelter, the space one inhabits. In practice they overlap, but 屋 has a more intimate, complete quality — it is the whole of one's dwelling.</p>
-      <p>屋 appears in the name of this field guide: 角落<strong>書屋</strong> — the corner book-room. A small, complete dwelling for books and reading.</p>
+      <p>屋 appears in the name of this site: 角落<strong>書屋</strong> — the corner book-room. A small, complete dwelling for books and reading.</p>
     </div>
 
     <!-- ── ROOMS & SPACES ── -->
@@ -252,7 +252,7 @@ radical: '尸'
       <div class="scholar-label">斋号 zhāihào · The Scholar's Studio Name</div>
       <p>A deep tradition in Chinese literary culture is the naming of one's study or studio — the 斋号 zhāihào or 书斋名. Scholars, poets, and painters gave their private workrooms evocative names, often ending in 屋, 斋, 楼, 轩, or 堂. The name expressed their aesthetic, philosophical identity, or aspirations.</p>
       <p>Examples: 苏轼 Su Shi called his studio 雪堂 (Snow Hall). 蒲松龄 Pu Songling worked in 聊斋 (Idle Studio) — giving his ghost story collection its name 聊斋志异. 鲁迅 Lu Xun worked in 三味书屋 (Three-Flavor Book House) as a boy — 三味 refers to the taste of reading poetry, history, and philosophy.</p>
-      <p>This field guide follows the same tradition: <strong>角落書屋</strong> — the Corner Book-Room. A small named place where reading happens.</p>
+      <p>This site follows the same tradition: <strong>角落書屋</strong> — the Corner Book-Room. A small named place where reading happens.</p>
     </div>
 
     <!-- ── CHENGYU ── -->

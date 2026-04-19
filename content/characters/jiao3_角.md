@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '角 · corner, horn, angle'
-desc: 'Corner, horn, angle — the character that names this field guide.'
+desc: "Corner, horn, angle — the character that opens this site's name: 角落書屋."
 metaDesc: "角 jiǎo/jué: corner, horn, angle. Etymology, spatial compounds, tone-split meanings, musical role, chengyu idioms, and usage notes."
 pageTitle: '角 jiǎo / jué'
 tags:
@@ -107,7 +107,7 @@ radical: '角'
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
       <p><strong>角</strong> is a pictograph of an animal horn — the oracle-bone form shows a curved pointed protrusion with a ridged shaft. The semantic journey from <em>horn</em> to <em>corner</em> is immediate and universal: both are the sharp, protruding extremity where two planes meet. As Chinese architecture developed the idea of a tucked-away corner 角落, the horn-edge became a spatial concept — a place where walls converge, where the world's edges fold.</p>
       <p>角 is its own radical (Kangxi #148) and spawns a small but sharp semantic family: 触 chù (to touch — a horn making contact), 解 jiě (to untie — a hand pulling apart horn from bone), 斛 hú (a grain measure shaped like a horn-bowl). The etymology of 解 is particularly vivid: a hand prying an ox horn from the skull — the original image of <em>separating, unbinding, understanding.</em></p>
-      <p>This is also the character in this field guide's own name: <strong>角落書屋</strong> — the corner bookshop. A nook where learning gathers.</p>
+      <p>This is also the first character in this site's own name: <strong>角落書屋</strong> — the corner book-room. A nook where learning gathers.</p>
     </div>
 
     <!-- ── TWO READINGS ── -->
@@ -196,7 +196,7 @@ radical: '角'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          角 jiǎo (corner) + 落 luò (to settle, to land). The place where things come to rest in the corner — a nook. Both literally (a room's corner) and figuratively (a quiet, tucked-away place in the world). The name of this field guide: 角落書屋.
+          角 jiǎo (corner) + 落 luò (to settle, to land). The place where things come to rest in the corner — a nook. Both literally (a room's corner) and figuratively (a quiet, tucked-away place in the world). The name of this site: 角落書屋.
         </div>
         <div class="examples">
           <div class="example">

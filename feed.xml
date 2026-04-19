@@ -4,9 +4,9 @@
     <title>Jiǎoluò Shūwū · 角落書屋</title>
     <link>https://jiaoshoo.com/</link>
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
-    <description>A field guide to Chinese — characters, language, and the long civilisation behind them.</description>
+    <description>Notes on Chinese language and civilisation — characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Apr 2026 22:16:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 22:29:57 GMT</lastBuildDate>
     <item>
       <title>楚辞 · Songs of Chu</title>
       <link>https://jiaoshoo.com/pages/arts/topic_chuci.html</link>
@@ -72,11 +72,35 @@
       <category>arts</category>
     </item>
     <item>
+      <title>爱 · love, to love, to cherish</title>
+      <link>https://jiaoshoo.com/pages/characters/ai4_爱.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/ai4_爱.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Love in all its forms — romantic, familial, and the Confucian ethic of universal benevolence.</description>
+      <category>characters</category>
+    </item>
+    <item>
       <title>不 · no, not, negation</title>
       <link>https://jiaoshoo.com/pages/characters/bu4_不.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/bu4_不.html</guid>
       <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
       <description>The great negator — the most used character in Mandarin and the foundation of all denial.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>吃 · to eat</title>
+      <link>https://jiaoshoo.com/pages/characters/chi1_吃.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/chi1_吃.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>To eat — and the extraordinary range of Chinese life encoded in a single food verb.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>打 · to hit, to strike; the most versatile verb in Mandarin</title>
+      <link>https://jiaoshoo.com/pages/characters/da3_打.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/da3_打.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>To hit — and a hundred extensions: make a call, play a sport, pack a bag, get an injection. The most productive light verb in Chinese.</description>
       <category>characters</category>
     </item>
     <item>
@@ -96,6 +120,14 @@
       <category>characters</category>
     </item>
     <item>
+      <title>福 · fortune, blessing, good luck</title>
+      <link>https://jiaoshoo.com/pages/characters/fu2_福.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/fu2_福.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>The most recognized Chinese character in the world — fortune, blessing, and the art of the upside-down 福.</description>
+      <category>characters</category>
+    </item>
+    <item>
       <title>好 · good; to like</title>
       <link>https://jiaoshoo.com/pages/characters/hao3_好.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/hao3_好.html</guid>
@@ -108,7 +140,7 @@
       <link>https://jiaoshoo.com/pages/characters/jiao3_角.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/jiao3_角.html</guid>
       <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Corner, horn, angle — the character that names this field guide.</description>
+      <description>Corner, horn, angle — the character that opens this site&apos;s name: 角落書屋.</description>
       <category>characters</category>
     </item>
     <item>
@@ -125,6 +157,14 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/mu4_木.html</guid>
       <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
       <description>A tree seen whole: trunk, branches, roots. The pictograph that became a radical, a wuxing element, and the building block of 林, 森, 本, and 末.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>钱 · money, coin, currency</title>
+      <link>https://jiaoshoo.com/pages/characters/qian2_钱.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/qian2_钱.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Money — the character that drives markets, proverbs, and the Chinese conversation about wealth.</description>
       <category>characters</category>
     </item>
     <item>
@@ -206,46 +246,6 @@
       <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
       <description>He marked the boat where his sword fell into the river. When the boat reached the shore, he dived where the mark was.</description>
       <category>chengyu</category>
-    </item>
-    <item>
-      <title>塞翁失马 · The Old Man at the Frontier Loses His Horse</title>
-      <link>https://jiaoshoo.com/pages/chengyu/saiwengshima_塞翁失马.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/chengyu/saiwengshima_塞翁失马.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>His horse ran off. His neighbours grieved. He shrugged. The Daoist parable that became China&apos;s word for the unknowability of fortune.</description>
-      <category>chengyu</category>
-    </item>
-    <item>
-      <title>守株待兔 · Guarding the Stump, Waiting for Rabbits</title>
-      <link>https://jiaoshoo.com/pages/chengyu/shouzhudaitu_守株待兔.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/chengyu/shouzhudaitu_守株待兔.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>A rabbit ran headlong into a tree stump. The farmer dropped his plough and watched the stump for the rest of his life.</description>
-      <category>chengyu</category>
-    </item>
-    <item>
-      <title>愚公移山 · The Foolish Old Man Moves the Mountains</title>
-      <link>https://jiaoshoo.com/pages/chengyu/yugongyishan_愚公移山.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/chengyu/yugongyishan_愚公移山.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Two mountains blocked his door. He and his sons began to move them, one basket at a time. A mocker laughed. He said: when I die my sons will continue; when they die, their sons.</description>
-      <category>chengyu</category>
-    </item>
-    <item>
-      <title>八大菜系 · Eight Great Cuisines</title>
-      <link>https://jiaoshoo.com/pages/culinary/topic_caixi.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/culinary/topic_caixi.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>How geography, climate, and dynasty shaped eight distinct schools of Chinese cooking.</description>
-      <category>culinary</category>
-    </item>
-    <item>
-      <title>川菜 · Sichuan Cuisine</title>
-      <link>https://jiaoshoo.com/pages/culinary/topic_chuancai.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/culinary/topic_chuancai.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>The mala kitchen — how a landlocked basin built the most complex spice vocabulary in the world.</description>
-      <category>culinary</category>
     </item>
   </channel>
 </rss>

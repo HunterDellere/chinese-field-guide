@@ -1,6 +1,6 @@
 # Voice & copy principles
 
-The field guide is written as a curious scholar's notebook for adult readers. The voice should feel like a person who has lived with the material talking plainly to a friend who's interested but hasn't done the reading yet.
+角落書屋 is written as a curious scholar's notebook for adult readers. The voice should feel like a person who has lived with the material talking plainly to a friend who's interested but hasn't done the reading yet.
 
 ## Tone
 

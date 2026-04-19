@@ -142,6 +142,25 @@
     "updated": "2026-04-19"
   },
   {
+    "path": "pages/characters/ai4_爱.html",
+    "type": "character",
+    "category": "characters",
+    "title": "爱 · love, to love, to cherish",
+    "desc": "Love in all its forms — romantic, familial, and the Confucian ethic of universal benevolence.",
+    "tags": [
+      "emotion",
+      "romance",
+      "confucianism"
+    ],
+    "status": "complete",
+    "char": "爱",
+    "pinyin": "ài",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "爫",
+    "updated": "2026-04-19"
+  },
+  {
     "path": "pages/characters/bu4_不.html",
     "type": "character",
     "category": "characters",
@@ -158,6 +177,44 @@
     "tone": 4,
     "hsk": 1,
     "radical": "一",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/characters/chi1_吃.html",
+    "type": "character",
+    "category": "characters",
+    "title": "吃 · to eat",
+    "desc": "To eat — and the extraordinary range of Chinese life encoded in a single food verb.",
+    "tags": [
+      "food",
+      "daily-life",
+      "culture"
+    ],
+    "status": "complete",
+    "char": "吃",
+    "pinyin": "chī",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "口",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/characters/da3_打.html",
+    "type": "character",
+    "category": "characters",
+    "title": "打 · to hit, to strike; the most versatile verb in Mandarin",
+    "desc": "To hit — and a hundred extensions: make a call, play a sport, pack a bag, get an injection. The most productive light verb in Chinese.",
+    "tags": [
+      "daily-life",
+      "grammar",
+      "culture"
+    ],
+    "status": "complete",
+    "char": "打",
+    "pinyin": "dǎ",
+    "tone": 3,
+    "hsk": 1,
+    "radical": "扌",
     "updated": "2026-04-19"
   },
   {
@@ -199,6 +256,25 @@
     "updated": "2026-04-19"
   },
   {
+    "path": "pages/characters/fu2_福.html",
+    "type": "character",
+    "category": "characters",
+    "title": "福 · fortune, blessing, good luck",
+    "desc": "The most recognized Chinese character in the world — fortune, blessing, and the art of the upside-down 福.",
+    "tags": [
+      "culture",
+      "new-year",
+      "symbolism"
+    ],
+    "status": "complete",
+    "char": "福",
+    "pinyin": "fú",
+    "tone": 2,
+    "hsk": 3,
+    "radical": "示",
+    "updated": "2026-04-19"
+  },
+  {
     "path": "pages/characters/hao3_好.html",
     "type": "character",
     "category": "characters",
@@ -222,7 +298,7 @@
     "type": "character",
     "category": "characters",
     "title": "角 · corner, horn, angle",
-    "desc": "Corner, horn, angle — the character that names this field guide.",
+    "desc": "Corner, horn, angle — the character that opens this site's name: 角落書屋.",
     "tags": [
       "space",
       "geometry",
@@ -279,6 +355,25 @@
     "tone": 4,
     "hsk": 1,
     "radical": "木",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/characters/qian2_钱.html",
+    "type": "character",
+    "category": "characters",
+    "title": "钱 · money, coin, currency",
+    "desc": "Money — the character that drives markets, proverbs, and the Chinese conversation about wealth.",
+    "tags": [
+      "daily-life",
+      "economy",
+      "culture"
+    ],
+    "status": "complete",
+    "char": "钱",
+    "pinyin": "qián",
+    "tone": 2,
+    "hsk": 1,
+    "radical": "钅",
     "updated": "2026-04-19"
   },
   {
@@ -1067,6 +1162,21 @@
     "updated": "2026-04-19"
   },
   {
+    "path": "pages/grammar/yibian_yibian_一边一边.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "一边…一边 · while doing; at the same time",
+    "desc": "Simultaneous actions — the frame for describing two things happening at once.",
+    "tags": [
+      "grammar",
+      "aspect",
+      "syntax"
+    ],
+    "status": "complete",
+    "pinyin": "yībiān yībiān",
+    "updated": "2026-04-19"
+  },
+  {
     "path": "pages/grammar/yuelaiyue_越来越.html",
     "type": "grammar",
     "category": "grammar",
@@ -1094,6 +1204,21 @@
     ],
     "status": "complete",
     "pinyin": "yǔqí bùrú",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/grammar/zhiyou_cai_只有才.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "只有…才 · only if…then; the restrictive conditional",
+    "desc": "The exclusive condition — only when X is met can Y happen. The grammatical frame for necessity.",
+    "tags": [
+      "grammar",
+      "conditional",
+      "syntax"
+    ],
+    "status": "complete",
+    "pinyin": "zhǐyǒu cái",
     "updated": "2026-04-19"
   },
   {
@@ -1232,6 +1357,21 @@
     "updated": "2026-04-19"
   },
   {
+    "path": "pages/vocab/bijiao_比较.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "比较 · to compare; relatively, fairly",
+    "desc": "Compare and qualify — the word that measures differences and hedges claims in everyday Mandarin.",
+    "tags": [
+      "grammar",
+      "comparison",
+      "daily-life"
+    ],
+    "status": "complete",
+    "pinyin": "bǐjiào",
+    "updated": "2026-04-19"
+  },
+  {
     "path": "pages/vocab/keqi_客气.html",
     "type": "vocab",
     "category": "vocab",
@@ -1260,6 +1400,36 @@
     ],
     "status": "complete",
     "pinyin": "mìngyùn",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/vocab/rensheng_人生.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "人生 · human life; one's life journey",
+    "desc": "Human life — not biological existence, but the arc of a life lived: its meaning, its seasons, its reckoning.",
+    "tags": [
+      "philosophy",
+      "confucianism",
+      "daily-life"
+    ],
+    "status": "complete",
+    "pinyin": "rénshēng",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/vocab/shijian_时间.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "时间 · time",
+    "desc": "Time — the compound that anchors all temporal expression in Mandarin.",
+    "tags": [
+      "time",
+      "daily-life",
+      "cosmology"
+    ],
+    "status": "complete",
+    "pinyin": "shíjiān",
     "updated": "2026-04-19"
   },
   {

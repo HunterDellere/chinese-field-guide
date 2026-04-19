@@ -246,6 +246,7 @@ body {
 .al-tt-head { display: flex; align-items: baseline; gap: 0.5rem; margin-bottom: 0.25rem; }
 .al-tt-cn { font-family: var(--font-cn); font-weight: 700; color: var(--papyrus); font-size: 1rem; }
 .al-tt-py { font-family: var(--font-mono); font-size: 0.72rem; color: var(--ochre-2); letter-spacing: 0.05em; }
+.al-tt-hsk { font-family: var(--font-mono); font-size: 0.65rem; color: var(--papyrus-3); background: rgba(255,255,255,0.07); border-radius: 3px; padding: 0.1em 0.35em; margin-left: auto; }
 .al-tt-desc { font-style: italic; color: var(--papyrus-3); font-size: 0.78rem; }
 .topnav-brand:focus-visible,
 .topnav-back:focus-visible { outline: 2px solid var(--ochre-2); outline-offset: 3px; border-radius: 2px; }

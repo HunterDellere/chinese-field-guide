@@ -266,9 +266,15 @@ else { window.__enhanceInit = true; (function () {
     }).catch(function () { /* silent — hero stays static */ });
   }
 
-  // ── Hover-to-define tooltips on auto-links ───────────────────────────────
-  const autoLinks = document.querySelectorAll('a.auto-link');
-  if (autoLinks.length) initTooltips(autoLinks);
+  // ── Hover-to-define tooltips on all internal content links ─────────────
+  // Skip on touch-only devices — tooltips are unusable without hover.
+  if (!window.matchMedia('(hover: none)').matches) {
+    const internalLinks = document.querySelectorAll(
+      'a.auto-link, a.related-link, a.pn-link, a.adj, ' +
+      'main a[href]:not([href^="http"]):not([href^="#"]):not([href^="mailto:"])'
+    );
+    if (internalLinks.length) initTooltips(internalLinks);
+  }
 
   function initTooltips(links) {
     let entriesMap = null;
@@ -316,10 +322,14 @@ else { window.__enhanceInit = true; (function () {
         const cn = e.char || (e.title ? e.title.split('·')[0].trim() : '');
         const py = e.pinyin || '';
         const desc = e.desc || '';
+        const hskLabel = e.hsk
+          ? (typeof e.hsk === 'object' ? `HSK ${e.hsk.from}–${e.hsk.to}` : `HSK ${e.hsk}`)
+          : '';
         tip.innerHTML =
           `<div class="al-tt-head">` +
             (cn ? `<span class="al-tt-cn">${escapeHtml(cn)}</span>` : '') +
             (py ? `<span class="al-tt-py">${escapeHtml(py)}</span>` : '') +
+            (hskLabel ? `<span class="al-tt-hsk">${escapeHtml(hskLabel)}</span>` : '') +
           `</div>` +
           `<div class="al-tt-desc">${escapeHtml(desc)}</div>`;
         positionTooltip(tip, link);
@@ -359,7 +369,7 @@ else { window.__enhanceInit = true; (function () {
     links.forEach(function (link) {
       link.addEventListener('mouseenter', function () {
         clearTimeout(hoverTimer);
-        hoverTimer = setTimeout(function () { show(link); }, 220);
+        hoverTimer = setTimeout(function () { show(link); }, 350);
       });
       link.addEventListener('mouseleave', function () {
         clearTimeout(hoverTimer);

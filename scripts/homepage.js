@@ -285,15 +285,16 @@
   // ── boot: fetch data then render ─────────────────────────────────────────────
   Promise.all([
     fetch('data/entries.json').then(r => r.json()),
-    fetch('data/search-index.json').then(r => r.json())
-  ]).then(([allEntriesRaw, searchIndex]) => {
+    fetch('data/search-index.json').then(r => r.json()),
+    fetch('data/recent.json').then(r => r.json()).catch(() => [])
+  ]).then(([allEntriesRaw, searchIndex, recentEntries]) => {
     const allEntries = allEntriesRaw.filter(e => e.status === "complete");
-    boot(allEntries, searchIndex);
+    boot(allEntries, searchIndex, recentEntries);
   }).catch(err => {
     console.error('Failed to load entries data:', err);
   });
 
-  function boot(allEntries, searchIndex) {
+  function boot(allEntries, searchIndex, recentEntries) {
     const groups = {};
     CAT_ORDER.forEach(k => groups[k] = []);
     allEntries.forEach(e => { if (groups[e.category] !== undefined) groups[e.category].push(e); });
@@ -462,18 +463,13 @@
                   desc: "Thought, history, art, food — what the language is used to say." }, CIVILISATION_KEYS);
 
     // ── recent grid ────────────────────────────────────────────────────────────
-    const FALLBACK_DATE = "2020-01-01";
-    const recentSorted = allEntries
-      .slice()
-      .sort((a, b) => {
-        const da = a.updated || FALLBACK_DATE;
-        const db = b.updated || FALLBACK_DATE;
-        return db.localeCompare(da) || a.title.localeCompare(b.title);
-      })
-      .slice(0, 6);
+    // Uses data/recent.json (sorted by updated desc at build time) so the order
+    // is stable and meaningful — not re-derived from the full entry list.
+    const recentSlice = (recentEntries && recentEntries.length ? recentEntries : allEntries)
+      .slice(0, 8);
 
     const recentGrid = document.getElementById("recent-grid");
-    recentSorted.forEach(e => {
+    recentSlice.forEach(e => {
       const date = e.updated || FALLBACK_DATE;
       const card = document.createElement("a");
       card.href = e.path;

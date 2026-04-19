@@ -142,6 +142,25 @@
     "updated": "2026-04-19"
   },
   {
+    "path": "pages/characters/ai4_爱.html",
+    "type": "character",
+    "category": "characters",
+    "title": "爱 · love, to love, to cherish",
+    "desc": "Love in all its forms — romantic, familial, and the Confucian ethic of universal benevolence.",
+    "tags": [
+      "emotion",
+      "romance",
+      "confucianism"
+    ],
+    "status": "complete",
+    "char": "爱",
+    "pinyin": "ài",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "爫",
+    "updated": "2026-04-19"
+  },
+  {
     "path": "pages/characters/bu4_不.html",
     "type": "character",
     "category": "characters",
@@ -158,6 +177,44 @@
     "tone": 4,
     "hsk": 1,
     "radical": "一",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/characters/chi1_吃.html",
+    "type": "character",
+    "category": "characters",
+    "title": "吃 · to eat",
+    "desc": "To eat — and the extraordinary range of Chinese life encoded in a single food verb.",
+    "tags": [
+      "food",
+      "daily-life",
+      "culture"
+    ],
+    "status": "complete",
+    "char": "吃",
+    "pinyin": "chī",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "口",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/characters/da3_打.html",
+    "type": "character",
+    "category": "characters",
+    "title": "打 · to hit, to strike; the most versatile verb in Mandarin",
+    "desc": "To hit — and a hundred extensions: make a call, play a sport, pack a bag, get an injection. The most productive light verb in Chinese.",
+    "tags": [
+      "daily-life",
+      "grammar",
+      "culture"
+    ],
+    "status": "complete",
+    "char": "打",
+    "pinyin": "dǎ",
+    "tone": 3,
+    "hsk": 1,
+    "radical": "扌",
     "updated": "2026-04-19"
   },
   {
@@ -199,6 +256,25 @@
     "updated": "2026-04-19"
   },
   {
+    "path": "pages/characters/fu2_福.html",
+    "type": "character",
+    "category": "characters",
+    "title": "福 · fortune, blessing, good luck",
+    "desc": "The most recognized Chinese character in the world — fortune, blessing, and the art of the upside-down 福.",
+    "tags": [
+      "culture",
+      "new-year",
+      "symbolism"
+    ],
+    "status": "complete",
+    "char": "福",
+    "pinyin": "fú",
+    "tone": 2,
+    "hsk": 3,
+    "radical": "示",
+    "updated": "2026-04-19"
+  },
+  {
     "path": "pages/characters/hao3_好.html",
     "type": "character",
     "category": "characters",
@@ -222,7 +298,7 @@
     "type": "character",
     "category": "characters",
     "title": "角 · corner, horn, angle",
-    "desc": "Corner, horn, angle — the character that names this field guide.",
+    "desc": "Corner, horn, angle — the character that opens this site's name: 角落書屋.",
     "tags": [
       "space",
       "geometry",
@@ -282,106 +358,22 @@
     "updated": "2026-04-19"
   },
   {
-    "path": "pages/characters/shu1_书.html",
+    "path": "pages/characters/qian2_钱.html",
     "type": "character",
     "category": "characters",
-    "title": "书 · book, writing, letter",
-    "desc": "Book, writing, calligraphy — the character that holds civilization together.",
+    "title": "钱 · money, coin, currency",
+    "desc": "Money — the character that drives markets, proverbs, and the Chinese conversation about wealth.",
     "tags": [
-      "literacy",
-      "culture",
-      "calligraphy"
+      "daily-life",
+      "economy",
+      "culture"
     ],
     "status": "complete",
-    "char": "书",
-    "pinyin": "shū",
-    "tone": 1,
-    "hsk": {
-      "from": 1,
-      "to": 3
-    },
-    "radical": "乛",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/characters/shui3_水.html",
-    "type": "character",
-    "category": "characters",
-    "title": "水 · water",
-    "desc": "The first of the five elements, the radical that runs through hundreds of compounds, and the Daoist image of how to act in the world.",
-    "tags": [
-      "radical",
-      "cosmology",
-      "daoism",
-      "wuxing"
-    ],
-    "status": "complete",
-    "char": "水",
-    "pinyin": "shuǐ",
-    "tone": 3,
-    "hsk": 1,
-    "radical": "水",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/characters/shuo1_说.html",
-    "type": "character",
-    "category": "characters",
-    "title": "说 · to speak, to say, to explain",
-    "desc": "To speak, say, explain, and persuade — the character at the center of all communication.",
-    "tags": [
-      "language",
-      "communication",
-      "rhetoric"
-    ],
-    "status": "complete",
-    "char": "说",
-    "pinyin": "shuō",
-    "tone": 1,
-    "hsk": 1,
-    "radical": "讠",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/characters/wang2_王.html",
-    "type": "character",
-    "category": "characters",
-    "title": "王 · king",
-    "desc": "Three horizontals joined by one vertical — the ruler who connects heaven, earth, and humanity. Also the most common Chinese surname, and a radical that is secretly 玉 (jade) in disguise.",
-    "tags": [
-      "radical",
-      "royalty",
-      "history",
-      "philosophy"
-    ],
-    "status": "complete",
-    "char": "王",
-    "pinyin": "wáng",
+    "char": "钱",
+    "pinyin": "qián",
     "tone": 2,
-    "hsk": 3,
-    "radical": "王",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/characters/wu1_屋.html",
-    "type": "character",
-    "category": "characters",
-    "title": "屋 · room, house, dwelling",
-    "desc": "Room, dwelling, and the human need for shelter — the character at home.",
-    "tags": [
-      "space",
-      "dwelling",
-      "architecture"
-    ],
-    "status": "complete",
-    "char": "屋",
-    "pinyin": "wū",
-    "tone": 1,
-    "hsk": {
-      "from": 1,
-      "to": 3
-    },
-    "radical": "尸",
+    "hsk": 1,
+    "radical": "钅",
     "updated": "2026-04-19"
   }
 ]

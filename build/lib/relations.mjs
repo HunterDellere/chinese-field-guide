@@ -1,24 +1,78 @@
 /**
- * Compute related entries by Jaccard similarity over tags + category.
+ * Compute related entries by Jaccard similarity over tags + structural signals.
  * Returns Map<entryPath, RelatedEntry[]> with up to MAX_RELATED per entry.
+ *
+ * Scorer bonuses (additive, tunable):
+ *   BONUS_SAME_CATEGORY       — entries in the same category
+ *   BONUS_SHARED_RADICAL      — character entries sharing the same radical
+ *   BONUS_HSK_PROXIMITY       — both have HSK and are within 1 level of each other
+ *   BONUS_CONTAINS_CHARACTER  — one entry's char appears in the other's CN title prefix
  */
 
 const MAX_RELATED = 5;
 const MIN_SCORE = 0.15;
 
+const BONUS_SAME_CATEGORY      = 0.08;
+const BONUS_SHARED_RADICAL     = 0.20;
+const BONUS_HSK_PROXIMITY      = 0.08;
+const BONUS_CONTAINS_CHARACTER = 0.25;
+
+/** Normalise HSK to a single number (use midpoint for ranges). */
+function hskMid(hsk) {
+  if (typeof hsk === 'number') return hsk;
+  if (hsk && typeof hsk === 'object' && 'from' in hsk) return (hsk.from + hsk.to) / 2;
+  return null;
+}
+
+/** Leading Chinese phrase from a title ("感谢 · …" → "感谢"). */
+function cnPrefix(title) {
+  if (!title) return '';
+  return title.split('·')[0].trim();
+}
+
 function score(a, b) {
   const tagsA = new Set(a.tags || []);
   const tagsB = new Set(b.tags || []);
-  if (tagsA.size === 0 && tagsB.size === 0) return 0;
+  let s = 0;
 
-  let intersect = 0;
-  for (const t of tagsA) if (tagsB.has(t)) intersect++;
-  const union = tagsA.size + tagsB.size - intersect;
-  let s = union === 0 ? 0 : intersect / union;
+  // Tag Jaccard
+  if (tagsA.size > 0 || tagsB.size > 0) {
+    let intersect = 0;
+    for (const t of tagsA) if (tagsB.has(t)) intersect++;
+    const union = tagsA.size + tagsB.size - intersect;
+    if (union > 0) s += intersect / union;
+  }
 
-  // Same-category nudge so long-tail tags don't drown out topical neighbours
-  if (a.category === b.category) s += 0.08;
+  if (a.category === b.category) s += BONUS_SAME_CATEGORY;
+
+  // Shared radical (character pages only)
+  if (a.radical && b.radical && a.radical === b.radical) s += BONUS_SHARED_RADICAL;
+
+  // HSK proximity (within 1 level)
+  const ha = hskMid(a.hsk);
+  const hb = hskMid(b.hsk);
+  if (ha !== null && hb !== null && Math.abs(ha - hb) <= 1) s += BONUS_HSK_PROXIMITY;
+
+  // Contains-the-character: one entry's char appears in the other's CN title prefix
+  if (a.char && cnPrefix(b.title).includes(a.char)) s += BONUS_CONTAINS_CHARACTER;
+  if (b.char && cnPrefix(a.title).includes(b.char)) s += BONUS_CONTAINS_CHARACTER;
+
   return s;
+}
+
+/** Resolve explicit `related` slugs from frontmatter to full entry objects. */
+function resolveExplicit(slugs, allEntries) {
+  if (!slugs || !slugs.length) return [];
+  const byPath = new Map(allEntries.map(e => [e.path, e]));
+  return slugs
+    .map(slug => {
+      // Accept "characters/gan3_感" or full "pages/characters/gan3_感.html"
+      const normalized = slug.startsWith('pages/') ? slug
+        : slug.endsWith('.html') ? `pages/${slug}`
+        : `pages/${slug}.html`;
+      return byPath.get(normalized) || null;
+    })
+    .filter(Boolean);
 }
 
 export function buildRelations(entries) {
@@ -26,14 +80,22 @@ export function buildRelations(entries) {
   const relations = new Map();
 
   for (const a of complete) {
+    // Explicit author-specified related entries come first (deduped below)
+    const explicit = resolveExplicit(a.related, complete);
+    const explicitPaths = new Set(explicit.map(e => e.path));
+
     const scored = [];
     for (const b of complete) {
       if (a.path === b.path) continue;
+      if (explicitPaths.has(b.path)) continue; // already in explicit list
       const s = score(a, b);
       if (s >= MIN_SCORE) scored.push({ entry: b, s });
     }
     scored.sort((x, y) => y.s - x.s || x.entry.title.localeCompare(y.entry.title));
-    relations.set(a.path, scored.slice(0, MAX_RELATED).map(x => x.entry));
+
+    const derived = scored.slice(0, MAX_RELATED).map(x => x.entry);
+    const merged = [...explicit, ...derived].slice(0, MAX_RELATED);
+    relations.set(a.path, merged);
   }
 
   return relations;

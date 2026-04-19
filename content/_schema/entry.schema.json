@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "$id": "entry.schema.json",
-  "title": "Chinese Field Guide Entry",
+  "title": "Jiǎoluò Shūwū Content Entry",
   "description": "Frontmatter schema for all content files in content/",
   "type": "object",
   "required": ["type", "category", "title", "desc", "status"],
@@ -79,7 +79,7 @@
     },
     "pageTitle": {
       "type": "string",
-      "description": "HTML <title> content (before ' — Field Notes on Chinese'); auto-generated if absent"
+      "description": "HTML <title> content (before ' — Jiǎoluò Shūwū · 角落書屋'); auto-generated if absent"
     },
     "topic": {
       "type": "string",
@@ -89,6 +89,11 @@
       "type": "array",
       "items": { "type": "string", "minLength": 1 },
       "description": "Optional list of sources cited; rendered as a small footer block on the page"
+    },
+    "related": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 },
+      "description": "Optional explicit related entry slugs (e.g. 'characters/gan3_感') that are merged at the front of the auto-computed related list"
     }
   },
   "if": {

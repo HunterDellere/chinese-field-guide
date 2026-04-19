@@ -167,7 +167,7 @@ radical: '乛'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          书 shū + 屋 wū (room; small dwelling). A room given over to books — intimate, personal, unlarge. The word appears in study names of scholars and poets: 鲁迅的百草园 is a garden; his workroom was a 书屋. It is also the second half of this field guide's name: 角落書屋.
+          书 shū + 屋 wū (room; small dwelling). A room given over to books — intimate, personal, unlarge. The word appears in study names of scholars and poets: 鲁迅的百草园 is a garden; his workroom was a 书屋. It is also the second half of this site's name: 角落書屋.
         </div>
         <div class="examples">
           <div class="example">

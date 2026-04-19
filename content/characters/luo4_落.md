@@ -102,7 +102,7 @@ radical: '艹'
     <div class="scholar" data-glyph="落">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
       <p><strong>落 = 艹</strong> (grass radical) <strong>+ 洛 luò</strong> (phonetic — a river name). The original meaning was leaves falling from plants — the grass radical anchors it to the botanical world. Water falling was already embedded in the phonetic 洛 (a river whose name evokes flowing and settling). Together: the natural downward motion of organic things arriving at rest.</p>
-      <p>This character is part of this field guide's name: <strong>角落</strong> jiǎoluò — the corner where things settle, the nook. 落 in that compound contributes not motion but <em>arrival</em> — the state of having come to rest in a particular place. A bookshop in the corner is books that have landed there.</p>
+      <p>This character is the second half of 角落 jiǎoluò — the corner where things settle, the nook that gives this site its name. 落 in that compound contributes not motion but <em>arrival</em> — the state of having come to rest in a particular place. A book-room in the corner is books that have landed there.</p>
       <p>落 also appears as a phonetic-semantic pivot across many characters: 骆 luò (camel — the animal of caravans that settle at oases), 洛 Luò (the Luo River, historically crucial), 络 luò (a net; to entwine — things falling and wrapping together).</p>
     </div>
 
