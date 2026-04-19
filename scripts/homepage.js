@@ -42,6 +42,105 @@
     "pages/arts/topic_tangshi.html"
   ];
 
+  // Weekly featured themes. Rotation: ISO-week index modulo themes.length.
+  // Each week surfaces one theme as the lead, plus its companion entries.
+  // Paths must exist in entries.json; missing items are filtered at render time.
+  const FEATURED_WEEKLY = [
+    {
+      slug: "the-way",
+      title: "The Way",
+      hook: "道 is the oldest metaphor in Chinese thought — a road you walk and a pattern the world follows. A week to sit with it, from Laozi's paradoxes to the Daoist temples that keep the image alive.",
+      lead: "pages/characters/dao4_道.html",
+      related: ["pages/philosophy/topic_laozi.html", "pages/philosophy/topic_zhuangzi.html", "pages/religion/topic_daojiao.html"]
+    },
+    {
+      slug: "the-heart",
+      title: "The Heart-Mind",
+      hook: "心 is both organ and consciousness — the seat of feeling and the seat of thought, inseparable in Chinese. Read it as a character, then read what Mencius and the Neo-Confucians made of it.",
+      lead: "pages/characters/xin1_心.html",
+      related: ["pages/characters/gan3_感.html", "pages/philosophy/topic_mengzi.html", "pages/philosophy/topic_xinxue.html"]
+    },
+    {
+      slug: "spring-festival",
+      title: "Spring Festival",
+      hook: "春节 is the hinge of the Chinese year. A week on how it is kept — dumplings folded by hand, red envelopes tucked under doors, the zodiac turning over.",
+      lead: "pages/culture/topic_chunjie.html",
+      related: ["pages/culture/topic_hongbao.html", "pages/culinary/topic_jiaozi.html", "pages/culture/topic_shengxiao.html"]
+    },
+    {
+      slug: "yin-yang",
+      title: "Yin & Yang",
+      hook: "阴阳 is not a duality of good and evil — it's a grammar of complementary pairs that runs through medicine, cosmology, and the calendar. Follow it into the five phases and the solar terms.",
+      lead: "pages/vocab/yinyang_阴阳.html",
+      related: ["pages/philosophy/topic_yinyang_wuxing.html", "pages/science/topic_zhongyi.html", "pages/science/topic_jieqi.html"]
+    },
+    {
+      slug: "tang-poetry",
+      title: "Tang Poetry",
+      hook: "唐诗 is the high-water mark of the Chinese poetic tradition. A week on the Tang dynasty that produced it, the Song lyrics that answered it, and the calligraphy that still copies its lines.",
+      lead: "pages/arts/topic_tangshi.html",
+      related: ["pages/history/topic_tangchao.html", "pages/arts/topic_songci.html", "pages/arts/topic_shufa.html"]
+    },
+    {
+      slug: "face",
+      title: "Face & Relation",
+      hook: "面子 and 关系 are the two concepts most often mistranslated out of Chinese. A week on the social grammar they encode — and the everyday manners that keep both intact.",
+      lead: "pages/vocab/mianzi_面子.html",
+      related: ["pages/vocab/guanxi_关系.html", "pages/vocab/keqi_客气.html", "pages/daily/topic_qingke.html"]
+    },
+    {
+      slug: "confucius",
+      title: "Confucius",
+      hook: "孔子 shaped two thousand years of Chinese moral thought with a small book of conversations. A week on what he actually taught, and the students and critics who came after.",
+      lead: "pages/philosophy/topic_kongzi.html",
+      related: ["pages/philosophy/topic_mengzi.html", "pages/philosophy/topic_xunzi.html", "pages/religion/topic_rujia.html"]
+    },
+    {
+      slug: "tea",
+      title: "Tea",
+      hook: "茶 is how China learned to treat drinking as an art. A week on the leaf, the ceremony, the regional cuisines it threads through, and the herbal tradition that first noticed it.",
+      lead: "pages/culinary/topic_cha.html",
+      related: ["pages/culture/topic_cha_wenhua.html", "pages/science/topic_bencao.html", "pages/culinary/topic_caixi.html"]
+    },
+    {
+      slug: "chan",
+      title: "Chan Buddhism",
+      hook: "禅 is what crossed the sea to become Zen. A week on the meditative school at home — its Pure Land cousin, its Buddhist roots, and the character 佛 that names them all.",
+      lead: "pages/religion/topic_chan.html",
+      related: ["pages/religion/topic_fojiao.html", "pages/religion/topic_jingtu.html", "pages/characters/fo2_佛.html"]
+    },
+    {
+      slug: "first-emperor",
+      title: "The First Emperor",
+      hook: "秦始皇 unified the writing system, the roads, and the weights — and built a tomb guarded by an army of clay. A week on the dynasty he founded and the Legalist thinkers who armed him.",
+      lead: "pages/history/topic_qin_shihuang.html",
+      related: ["pages/history/topic_xia_shang_zhou.html", "pages/history/topic_hanchao.html", "pages/philosophy/topic_fajia.html"]
+    },
+    {
+      slug: "contradiction",
+      title: "Chengyu — Contradiction",
+      hook: "矛盾 literally means 'spear and shield' — a merchant who claimed both invincible weapon and impenetrable defence. A week inside four-character idioms and the Warring States parables that shaped them.",
+      lead: "pages/chengyu/maodun_矛盾.html",
+      related: ["pages/chengyu/huashetianzu_画蛇添足.html", "pages/chengyu/saiwengshima_塞翁失马.html", "pages/chengyu/yugongyishan_愚公移山.html"]
+    },
+    {
+      slug: "dumplings",
+      title: "Dumplings & the Table",
+      hook: "饺子 are pleated for family and eaten at midnight on New Year's Eve. A week around the Chinese table — noodles, tofu, and the shared hotpot that still defines hospitality.",
+      lead: "pages/culinary/topic_jiaozi.html",
+      related: ["pages/culinary/topic_miantiao.html", "pages/culinary/topic_doufu.html", "pages/culinary/topic_huoguo.html"]
+    }
+  ];
+
+  // ISO week number, 1-based. Used only to pick a stable weekly theme.
+  function isoWeekIndex(date) {
+    const d = new Date(Date.UTC(date.getFullYear(), date.getMonth(), date.getDate()));
+    const dayNum = d.getUTCDay() || 7;
+    d.setUTCDate(d.getUTCDate() + 4 - dayNum);
+    const yearStart = new Date(Date.UTC(d.getUTCFullYear(), 0, 1));
+    return Math.ceil((((d - yearStart) / 86400000) + 1) / 7);
+  }
+
   const SUGGESTIONS = [
     { label: "心", q: "心" },
     { label: "道", q: "道" },
@@ -197,9 +296,74 @@
     document.getElementById("stats").innerHTML =
       `<strong>${allEntries.length}</strong> entries &nbsp;·&nbsp; <strong>${activeCategoriesCount}</strong> sections &nbsp;·&nbsp; updated <strong>${TODAY}</strong>`;
 
-    // ── start-here list ────────────────────────────────────────────────────────
+    // Tiny word-number helper for the subheader copy. Keeps prose tone while
+    // staying honest about the actual count (fixes the "Twelve" / "Thirteen"
+    // strings drifting out of sync with the data).
+    const WORD_NUMS = ["zero","one","two","three","four","five","six","seven","eight","nine","ten","eleven","twelve","thirteen","fourteen","fifteen","sixteen","seventeen","eighteen","nineteen","twenty"];
+    const numWord = n => (n >= 0 && n < WORD_NUMS.length)
+      ? WORD_NUMS[n][0].toUpperCase() + WORD_NUMS[n].slice(1)
+      : String(n);
+
+    // ── byPath index (shared by several renderers) ─────────────────────────────
     const byPath = {};
     allEntries.forEach(e => { byPath[e.path] = e; });
+
+    // ── featured-this-week ─────────────────────────────────────────────────────
+    (function renderFeatured() {
+      const section = document.getElementById("featured");
+      const card = document.getElementById("featured-card");
+      if (!section || !card || !FEATURED_WEEKLY.length) return;
+
+      // Find the first theme whose lead entry exists; try in weekly rotation,
+      // then fall through any gaps so we always render something.
+      const now = new Date();
+      const week = isoWeekIndex(now);
+      const len = FEATURED_WEEKLY.length;
+      let theme = null, lead = null;
+      for (let offset = 0; offset < len; offset++) {
+        const t = FEATURED_WEEKLY[(week - 1 + offset) % len];
+        const e = byPath[t.lead];
+        if (e) { theme = t; lead = e; break; }
+      }
+      if (!theme || !lead) return;
+
+      const related = (theme.related || [])
+        .map(p => byPath[p])
+        .filter(Boolean)
+        .slice(0, 4);
+
+      const glyphChar = leadCn(lead);
+      const glyphLen = glyphChar.length;
+      const glyphSize = glyphLen >= 4 ? " glyph-4" : glyphLen === 3 ? " glyph-3" : glyphLen === 2 ? " glyph-2" : "";
+
+      const leadTitleEn = lead.title
+        ? (lead.title.split("·").slice(1).join("·").trim() || lead.title)
+        : theme.title;
+
+      card.dataset.watermark = glyphChar || "";
+      card.innerHTML = `
+        <a class="featured-glyph${glyphSize}" href="${lead.path}" aria-label="${escapeHtml(theme.title)} — open ${escapeHtml(leadTitleEn)}">${escapeHtml(glyphChar)}</a>
+        <div class="featured-body">
+          <span class="featured-week">Week ${week} · ${escapeHtml(theme.title)}</span>
+          <h3 class="featured-title"><a href="${lead.path}">${escapeHtml(leadTitleEn)}</a></h3>
+          ${lead.pinyin ? `<span class="featured-py">${escapeHtml(lead.pinyin)}</span>` : ""}
+          <p class="featured-hook">${escapeHtml(theme.hook)}</p>
+          ${related.length ? `
+            <div class="featured-links" role="list">
+              <span class="featured-links-label">Follow on</span>
+              ${related.map(e => {
+                const cn = leadCn(e);
+                const en = e.title ? (e.title.split("·").slice(1).join("·").trim() || e.title) : "";
+                return `<a class="featured-link" href="${e.path}" role="listitem">${cn ? `<span class="cn">${escapeHtml(cn)}</span>` : ""}${escapeHtml(en)}</a>`;
+              }).join("")}
+            </div>
+          ` : ""}
+        </div>
+      `;
+      section.classList.add("visible");
+    })();
+
+    // ── start-here list ────────────────────────────────────────────────────────
     const startList = document.getElementById("start-here-list");
     if (startList) {
       const startSection = document.getElementById("start-here");
@@ -207,6 +371,12 @@
       if (items.length === 0) {
         startSection.style.display = "none";
       } else {
+        // Keep the subheader count honest — updates if the curated list changes
+        // or any entry becomes unavailable.
+        const sub = document.getElementById("start-here-sub");
+        if (sub) {
+          sub.textContent = `${numWord(items.length)} entries that give a sense of the whole — language, philosophy, culture, food. Read in order, or skip around.`;
+        }
         items.forEach(e => {
           const li = document.createElement("li");
           const a = document.createElement("a");
@@ -235,6 +405,10 @@
 
     // ── overview grid ──────────────────────────────────────────────────────────
     const overviewGrid = document.getElementById("overview-grid");
+    const overviewSub = document.getElementById("overview-sub");
+    if (overviewSub) {
+      overviewSub.textContent = `${numWord(CAT_ORDER.length)} sections that move from the building blocks of the language up through the civilisation that built it.`;
+    }
     CAT_ORDER.forEach(key => {
       const meta = CATEGORY_META[key];
       const count = groups[key].length;

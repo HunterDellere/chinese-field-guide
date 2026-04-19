@@ -374,19 +374,33 @@ else { window.__enhanceInit = true; (function () {
   }
 
   // ── Share button ──────────────────────────────────────────────────────────
+  // Copies the URL and briefly swaps the button label. When the button uses
+  // the new styled markup (<svg> + <span data-share-label>…</span>), only the
+  // label swaps so the icon stays put.
   document.addEventListener('click', function (e) {
     const btn = e.target.closest('[data-share]');
     if (!btn) return;
     const data = { title: document.title, url: location.href };
     if (navigator.share) {
       navigator.share(data).catch(function () {});
-    } else {
-      navigator.clipboard.writeText(location.href).then(function () {
+      return;
+    }
+    navigator.clipboard.writeText(location.href).then(function () {
+      const label = btn.querySelector('[data-share-label]');
+      if (label) {
+        const orig = label.textContent;
+        label.textContent = '✓ Link copied';
+        btn.classList.add('copied');
+        setTimeout(function () {
+          label.textContent = orig;
+          btn.classList.remove('copied');
+        }, 2000);
+      } else {
         const orig = btn.textContent;
         btn.textContent = '✓ Copied';
         setTimeout(function () { btn.textContent = orig; }, 2000);
-      }).catch(function () {});
-    }
+      }
+    }).catch(function () {});
   });
 
   // ── Random entry (topnav button) ──────────────────────────────────────────
