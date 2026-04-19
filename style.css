@@ -64,6 +64,11 @@
   --cat-arts:        #4a2878;   /* indigo     */
   --cat-science:     #1a4a5c;   /* steel teal */
   --cat-daily:       #7a6024;   /* mustard    */
+
+  /* Seal colour — overridden per category below. Drives the chop marks on
+     .scholar boxes, the tab under each .section-head, and the centre chop
+     on the page footer. */
+  --seal-color: var(--cat-characters);
 }
 
 ::selection { background: rgba(139,26,26,0.18); color: var(--ink); }
@@ -540,6 +545,20 @@ h1, h2, h3, .section-head { text-wrap: balance; }
   padding-bottom: 0.6rem;
   border-bottom: 1px solid var(--rule);
   text-wrap: balance;
+  position: relative;
+}
+/* Small coloured tab under each section head — echoes the red bar under
+   the hero so every section reads as a labelled tag. Colour follows the
+   active category via --seal-color. */
+.section-head::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: -1px;
+  width: 2.2rem;
+  height: 2px;
+  background: var(--seal-color);
+  border-radius: 0 0 1.5px 1.5px;
 }
 /* Two-row section head: small CJK + pinyin sit inline on row 1, the
    English heading takes row 2 by itself. The previous grid version used
@@ -580,28 +599,44 @@ h1, h2, h3, .section-head { text-wrap: balance; }
 .scholar {
   background: var(--papyrus-2);
   border: 1px solid var(--rule);
-  border-left: 3px solid var(--sienna);
+  border-left: 3px solid var(--seal-color);
   border-radius: var(--radius);
-  padding: 1.4rem 1.6rem;
+  padding: 1.4rem 1.6rem 3rem;
   margin-bottom: 1.5rem;
   position: relative;
   overflow: hidden;
 }
 .scholar + .scholar { margin-top: -0.5rem; }
 .scholar p + p { margin-top: 0.9rem; }
+/* Pressed chop mark (印章) — replaces the old bleeding watermark. The
+   character carved into the seal is whichever data-glyph the entry sets;
+   the fill tracks the category colour. Uneven radial gradients fake the
+   ink-pooling you see on a real hand-pressed seal. */
 .scholar::after {
   content: attr(data-glyph);
   position: absolute;
-  right: -0.5rem;
-  top: -1.8rem;
+  right: 1rem;
+  bottom: 0.9rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   font-family: var(--font-cn);
-  font-size: 7.5rem;
+  font-size: 1.35rem;
   font-weight: 700;
-  color: var(--sienna);
-  opacity: 0.08;
+  color: var(--papyrus);
+  background:
+    radial-gradient(circle at 28% 32%, rgba(255,255,255,0.12), transparent 55%),
+    radial-gradient(circle at 78% 78%, rgba(0,0,0,0.14), transparent 60%),
+    var(--seal-color);
+  border-radius: 3px;
+  transform: rotate(-2.5deg);
+  box-shadow: 0 1px 2px rgba(28,18,8,0.18);
+  opacity: 0.92;
+  line-height: 1;
   pointer-events: none;
   user-select: none;
-  line-height: 1;
 }
 .scholar-label {
   font-family: var(--font-mono);
@@ -1077,8 +1112,34 @@ a.pf-btn-share:focus-visible, button.pf-btn-share:focus-visible {
 
 .page-footer-row {
   display: flex; justify-content: space-between; align-items: center;
-  padding-top: 1.1rem; border-top: 1px solid var(--rule-2);
+  padding-top: 1.5rem; border-top: 1px solid var(--rule-2);
   gap: 0.75rem;
+  position: relative;
+}
+/* Brand chop pressed on the divider line — a small 屋 seal that acts as
+   the colophon between the CTA row and the page ID row. Ties back to the
+   site name (書屋) and the scholar-box seals above. */
+.page-footer-row::before {
+  content: "屋";
+  position: absolute;
+  top: -0.75rem;
+  left: 50%;
+  transform: translateX(-50%) rotate(-2deg);
+  width: 1.5rem;
+  height: 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-cn);
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: var(--papyrus);
+  background:
+    radial-gradient(circle at 30% 32%, rgba(255,255,255,0.1), transparent 55%),
+    var(--seal-color);
+  border-radius: 2.5px;
+  box-shadow: 0 1px 1.5px rgba(28,18,8,0.2);
+  line-height: 1;
 }
 .footer-id {
   font-family: var(--font-mono); font-size: 0.64rem; letter-spacing: 0.14em;
@@ -1289,8 +1350,8 @@ a.pf-btn-share:focus-visible, button.pf-btn-share:focus-visible {
   .card { padding: 1.1rem 1.1rem 1.1rem 1.3rem; }
   .card:hover { padding-left: 1.4rem; }
   .card-en { margin-left: 0; }
-  .scholar { padding: 1.1rem 1.2rem; }
-  .scholar::after { font-size: 5.5rem; top: -1rem; }
+  .scholar { padding: 1.1rem 1.2rem 2.7rem; }
+  .scholar::after { width: 2.1rem; height: 2.1rem; font-size: 1.2rem; right: 0.8rem; bottom: 0.7rem; }
   .topnav { padding: 0.25rem 0.75rem; }
   /* Topnav on mobile: brand shortened visually + tighter right-side gap */
   .topnav-right { gap: 0.7rem; }
@@ -1344,7 +1405,7 @@ a.pf-btn-share:focus-visible, button.pf-btn-share:focus-visible {
     --ink-5:   #4a3820;
   }
   .topnav-back, .topnav-brand { color: var(--papyrus); }
-  .scholar::after { opacity: 0.04; }
+  .scholar::after { opacity: 1; }
   .reading-progress-bar { background: var(--red); }
   .card::before { width: 4px; }
 }
@@ -1412,24 +1473,22 @@ a.pf-btn-share:focus-visible, button.pf-btn-share:focus-visible {
  * sidebar TOC active state, section-head .sh-cn, and reading progress bar.
  */
 
-/* Helper mixin via repeated rules — one block per category */
-:is(
-  body[data-category="characters"],
-  body[data-category="vocab"],
-  body[data-category="grammar"],
-  body[data-category="religion"],
-  body[data-category="philosophy"],
-  body[data-category="history"],
-  body[data-category="geography"],
-  body[data-category="culture"],
-  body[data-category="culinary"],
-  body[data-category="arts"],
-  body[data-category="science"],
-  body[data-category="daily"],
-  body[data-category="chengyu"]
-) {
-  /* reset to be overridden below */
-}
+/* Per-category seal colour — feeds the chop marks, section tabs, and
+   footer chop. Set as a custom property so every descendant picks it up
+   without needing a selector for each surface. */
+body[data-category="characters"]  { --seal-color: var(--cat-characters); }
+body[data-category="vocab"]       { --seal-color: var(--cat-vocab); }
+body[data-category="grammar"]     { --seal-color: var(--cat-grammar); }
+body[data-category="religion"]    { --seal-color: var(--cat-religion); }
+body[data-category="philosophy"]  { --seal-color: var(--cat-philosophy); }
+body[data-category="history"]     { --seal-color: var(--cat-history); }
+body[data-category="geography"]   { --seal-color: var(--cat-geography); }
+body[data-category="culture"]     { --seal-color: var(--cat-culture); }
+body[data-category="culinary"]    { --seal-color: var(--cat-culinary); }
+body[data-category="arts"]        { --seal-color: var(--cat-arts); }
+body[data-category="science"]     { --seal-color: var(--cat-science); }
+body[data-category="daily"]       { --seal-color: var(--cat-daily); }
+body[data-category="chengyu"]     { --seal-color: var(--cat-chengyu); }
 
 /* Characters — deep red (unchanged from base) */
 body[data-category="characters"] .hero::after,
