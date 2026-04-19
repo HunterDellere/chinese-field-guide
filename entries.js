@@ -533,7 +533,7 @@ window.ENTRIES = [
     pinyin: "xià shāng zhōu",
     desc: "The legendary and early historical origins of Chinese civilization.",
     tags: ["ancient", "bronze-age", "origins"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/history/topic_qin_shihuang.html",
@@ -542,7 +542,7 @@ window.ENTRIES = [
     pinyin: "qín shǐhuáng",
     desc: "Unification, standardization, and the terror that made China.",
     tags: ["qin", "unification", "first-emperor"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/history/topic_hanchao.html",
@@ -551,7 +551,7 @@ window.ENTRIES = [
     pinyin: "hàncháo",
     desc: "Why Chinese call themselves 汉人 — the dynasty that defined the civilization.",
     tags: ["han", "dynasty", "identity"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/history/topic_tangchao.html",
@@ -560,7 +560,7 @@ window.ENTRIES = [
     pinyin: "tángcháo",
     desc: "The cosmopolitan golden age — poetry, Buddhism, and the Silk Road.",
     tags: ["tang", "golden-age", "cosmopolitan"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/history/topic_songchao.html",
@@ -569,7 +569,7 @@ window.ENTRIES = [
     pinyin: "sòngcháo",
     desc: "Economic revolution, printing, compass — the dynasty modernity missed.",
     tags: ["song", "economy", "innovation"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/history/topic_yuanchao.html",
@@ -578,7 +578,7 @@ window.ENTRIES = [
     pinyin: "yuáncháo",
     desc: "Kublai Khan, Mongol rule, and China as the center of a world empire.",
     tags: ["yuan", "mongol", "kublai"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/history/topic_mingchao.html",
@@ -587,7 +587,7 @@ window.ENTRIES = [
     pinyin: "míngcháo",
     desc: "The Great Wall rebuilt, Zheng He's voyages, and the inward turn.",
     tags: ["ming", "great-wall", "zhenghe"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/history/topic_qingchao.html",
@@ -596,7 +596,7 @@ window.ENTRIES = [
     pinyin: "qīngcháo",
     desc: "Manchu rule, the long peace, and the slow unraveling before 1911.",
     tags: ["qing", "manchu", "decline"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/history/topic_xinhai.html",
@@ -605,7 +605,7 @@ window.ENTRIES = [
     pinyin: "xīnhài gémìng",
     desc: "The end of empire, Sun Yat-sen, and the birth of the Republic.",
     tags: ["1911", "republic", "sun-yatsen"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/history/topic_wenge.html",
@@ -614,7 +614,7 @@ window.ENTRIES = [
     pinyin: "wénhuà dà gémìng",
     desc: "1966–76: Red Guards, struggle sessions, and the destruction of the past.",
     tags: ["cultural-revolution", "mao", "1966"],
-    status: "stub"
+    status: "complete"
   },
 
   /* ── GEOGRAPHY ─────────────────────────────────────────────────────── */
