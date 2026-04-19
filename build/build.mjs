@@ -275,7 +275,34 @@ entries.sort((a, b) => {
 
 writeFileSync(join(dataDir, 'entries.json'), JSON.stringify(entries, null, 2), 'utf8');
 
-const searchIndex = buildSearchIndex(entries);
+// Build a path → plain-text body map for search indexing.
+// Strip HTML tags and collapse whitespace; drop content inside the sidebar
+// (it's navigation, not content) and inside <script>/<style>.
+function extractBodyText(raw) {
+  return raw
+    .replace(/<button[^>]*class="toc-toggle"[^>]*>[\s\S]*?<\/button>/g, ' ')
+    .replace(/<aside[^>]*class="sidebar"[^>]*>[\s\S]*?<\/aside>/g, ' ')
+    .replace(/<header[^>]*class="(topic-hero|hero)"[^>]*>[\s\S]*?<\/header>/g, ' ')
+    .replace(/<footer[^>]*>[\s\S]*?<\/footer>/g, ' ')
+    .replace(/<(script|style)[\s\S]*?<\/\1>/g, ' ')
+    .replace(/<!--[\s\S]*?-->/g, ' ')
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/&nbsp;/g, ' ')
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'")
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+const bodies = {};
+for (const { body, entry } of pending) {
+  if (entry.status !== 'complete') continue;
+  bodies[entry.path] = extractBodyText(body);
+}
+
+const searchIndex = buildSearchIndex(entries, bodies);
 writeFileSync(join(dataDir, 'search-index.json'), JSON.stringify(searchIndex), 'utf8');
 
 const recent = entries

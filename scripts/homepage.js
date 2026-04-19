@@ -42,11 +42,11 @@
 
   const SUGGESTIONS = [
     { label: "心", q: "心" },
-    { label: "气", q: "气" },
     { label: "道", q: "道" },
-    { label: "guanxi", q: "guanxi" },
-    { label: "yinyang", q: "yinyang" },
-    { label: "chengyu", q: "chengyu" }
+    { label: "confucius", q: "confucius" },
+    { label: "daoism", q: "daoism" },
+    { label: "chengyu", q: "chengyu" },
+    { label: "HSK 1", q: "hsk1" }
   ];
 
   // Extract the leading Chinese phrase from "矛盾 · Contradiction" or "X · Y"
@@ -93,33 +93,86 @@
     return Math.round(days / 365) + " years ago";
   }
 
-  // ── inverted index search ────────────────────────────────────────────────────
-  // searchIndex: { token: [path, ...] }
-  // pathSet: for a multi-word query, intersect results per token
+  // ── weighted inverted index search ──────────────────────────────────────────
+  //
+  // The index is: { token: [[path, score], ...] } sorted by score desc.
+  //
+  // Search protocol:
+  //   1. Split the query into whitespace-separated tokens (query is already
+  //      lowercased/normalised by the caller).
+  //   2. For each token:
+  //      - If an exact key exists, start from that key's postings.
+  //      - Otherwise, union postings from every key that has `token` as a
+  //        substring OR that starts with `token` (prefix match).
+  //      - Single-char CJK tokens use exact-only lookup to avoid the
+  //        "everything containing 心" noise.
+  //   3. AND the per-token results, summing scores across tokens.
+  //   4. Return a Map<path, score>. Caller sorts.
   function searchPaths(query, searchIndex) {
     const tokens = query.split(/\s+/).filter(t => t.length > 0);
-    if (!tokens.length) return null; // null = no filter
+    if (!tokens.length) return null;
 
-    let result = null;
-    for (const token of tokens) {
-      // Collect all index keys that contain this token as a substring
-      const matches = new Set();
-      for (const key of Object.keys(searchIndex)) {
-        if (key.includes(token)) {
-          for (const path of searchIndex[key]) matches.add(path);
+    const indexKeys = Object.keys(searchIndex);
+    const HZ_RE = /[\u4e00-\u9fff]/;
+
+    function postingsFor(token) {
+      const isCjk = HZ_RE.test(token);
+      const isShort = token.length <= 2;
+      const results = new Map(); // path -> best score from this token
+
+      // Helper. For an exact hit we apply a big boost (100× the index weight)
+      // so that an entry whose pinyin IS the query always outranks an entry
+      // whose unrelated term happens to start with the query.
+      function addPostings(list, multiplier, exactBoost) {
+        for (const pair of list) {
+          const path = pair[0];
+          const score = pair[1] * multiplier + (exactBoost || 0);
+          const prev = results.get(path);
+          if (prev === undefined || score > prev) results.set(path, score);
         }
       }
-      if (result === null) {
-        result = matches;
+
+      // Exact match — biggest boost
+      if (searchIndex[token]) addPostings(searchIndex[token], 1.0, 500);
+
+      // Prefix / substring expansion.
+      // Short CJK (1 char): exact only.
+      // Short Latin (2 chars): exact + cheap prefix.
+      // Otherwise: exact + prefix + substring (decayed).
+      if (isCjk && token.length === 1) {
+        // done
+      } else if (isShort) {
+        for (const key of indexKeys) {
+          if (key === token) continue;
+          if (key.startsWith(token)) addPostings(searchIndex[key], 0.6, 0);
+        }
       } else {
-        // Intersect: keep only paths in both sets
-        for (const path of result) {
-          if (!matches.has(path)) result.delete(path);
+        for (const key of indexKeys) {
+          if (key === token) continue;
+          if (key.startsWith(token)) addPostings(searchIndex[key], 0.7, 0);
+          else if (key.includes(token)) addPostings(searchIndex[key], 0.4, 0);
         }
       }
-      if (result.size === 0) return result;
+      return results;
     }
-    return result;
+
+    // AND across tokens, summing scores
+    let combined = null;
+    for (const token of tokens) {
+      const partial = postingsFor(token);
+      if (combined === null) {
+        combined = partial;
+      } else {
+        const next = new Map();
+        for (const [path, score] of combined) {
+          const other = partial.get(path);
+          if (other !== undefined) next.set(path, score + other);
+        }
+        combined = next;
+      }
+      if (combined.size === 0) return combined;
+    }
+    return combined;
   }
 
   // ── boot: fetch data then render ─────────────────────────────────────────────
@@ -302,14 +355,13 @@
       renderCardsForGroup(key, "", null);
     });
 
-    // Render cards for a group. Only re-renders cards whose match state changed.
-    // matchedPaths: Set<path> | null (null = no filter, all shown)
+    // Render cards for a group. Reorders by score when a query is active.
+    // matchedPaths: Map<path, score> | null (null = no filter, all shown)
     function renderCardsForGroup(key, queryRaw, matchedPaths) {
       const g = catGroupMap[key];
       if (!g) return;
       const hasQuery = matchedPaths !== null;
 
-      // Batch highlight renders into rAF
       const toHighlight = [];
 
       g.cardEls.forEach((card, i) => {
@@ -327,12 +379,34 @@
 
         card.classList.remove("hidden");
 
-        if (stateChanged || (hasQuery !== (g.matchState[i] === true && queryRaw !== card.dataset.lastQuery))) {
+        if (stateChanged || queryRaw !== card.dataset.lastQuery) {
           g.matchState[i] = true;
           card.dataset.lastQuery = queryRaw;
           toHighlight.push({ card, e, queryRaw });
         }
       });
+
+      // Reorder cards by score when a query is active; restore original order otherwise.
+      if (hasQuery) {
+        const ordered = g.cardEls
+          .map((card, i) => ({ card, e: g.entries[i], score: matchedPaths.get(g.entries[i].path) || 0 }))
+          .filter(x => matchedPaths.has(x.e.path))
+          .sort((a, b) => b.score - a.score);
+        if (ordered.length) {
+          const frag = document.createDocumentFragment();
+          for (const { card } of ordered) frag.appendChild(card);
+          for (const card of g.cardEls) {
+            if (card.classList.contains("hidden")) frag.appendChild(card);
+          }
+          g.gridEl.appendChild(frag);
+          g.reorderedOnce = true;
+        }
+      } else if (g.reorderedOnce) {
+        const frag = document.createDocumentFragment();
+        for (const card of g.cardEls) frag.appendChild(card);
+        g.gridEl.appendChild(frag);
+        g.reorderedOnce = false;
+      }
 
       if (toHighlight.length) {
         requestAnimationFrame(() => {
@@ -390,10 +464,12 @@
 
     function applyFilters() {
       const queryRaw = filterText.trim();
-      const query = normalize(queryRaw);
+      let query = normalize(queryRaw);
+      // "hsk 3" / "hsk3" / "hsk-3" / "HSK Level 2" → single token "hsk<n>"
+      query = query.replace(/\bhsk[\s-]*(\d)\b/g, 'hsk$1').replace(/\bhsk\s*level\s*(\d)\b/g, 'hsk$1');
       const hasQuery = query.length > 0;
 
-      // Inverted index lookup: O(tokens × index_size) not O(N × entries)
+      // Inverted index lookup: weighted scoring
       const matchedPaths = hasQuery ? searchPaths(query, searchIndex) : null;
 
       let totalVisible = 0;
