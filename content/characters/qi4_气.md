@@ -86,12 +86,12 @@ trad: '氣'
           <div class="hero-script-pair">
             <div class="hero-script hero-script--simp">
               <span class="hero-glyph">气</span>
-              <span class="hero-script-label">简 jiǎn</span>
+              <span class="hero-script-label">simplified</span>
             </div>
             <div class="hero-script-divider"></div>
             <div class="hero-script hero-script--trad">
               <span class="hero-glyph">氣</span>
-              <span class="hero-script-label">繁 fán</span>
+              <span class="hero-script-label">traditional</span>
             </div>
           </div>
         </div>

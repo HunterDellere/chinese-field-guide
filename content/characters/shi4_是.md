@@ -81,12 +81,12 @@ radical: '日'
           <div class="hero-script-pair">
             <div class="hero-script hero-script--simp">
               <span class="hero-glyph">是</span>
-              <span class="hero-script-label">简 jiǎn</span>
+              <span class="hero-script-label">simplified</span>
             </div>
             <div class="hero-script-divider"></div>
             <div class="hero-script hero-script--trad">
               <span class="hero-glyph">是</span>
-              <span class="hero-script-label">繁 fán · same</span>
+              <span class="hero-script-label">traditional · same</span>
             </div>
           </div>
         </div>
