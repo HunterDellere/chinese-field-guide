@@ -59,7 +59,7 @@ function buildPageTitle(fm) {
   return fm.title || '';
 }
 
-const SITE_URL = 'https://hunterdellere.github.io/jiaoluo-shuwu';
+const SITE_URL = 'https://jiaoshoo.com';
 
 function buildJsonLd(fm, slug, category) {
   if (fm.status !== 'complete') return '';

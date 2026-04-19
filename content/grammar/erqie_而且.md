@@ -1,0 +1,286 @@
+---
+type: 'grammar'
+category: 'grammar'
+status: 'complete'
+title: '而且 · moreover, and furthermore'
+desc: 'Additive conjunction that layers information — not just "and" but "and on top of that."'
+metaDesc: "而且 érqiě: the additive conjunction meaning 'moreover, and furthermore.' Patterns, difference from 也/还/又, paired constructions, and spoken vs. written register."
+pageTitle: '而且 érqiě'
+tags:
+  - 'conjunction'
+  - 'additive'
+  - 'cohesion'
+updated: '2026-04-19'
+pinyin: 'érqiě'
+---
+
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+
+    <span class="toc-topic">而且</span>
+    <span class="toc-topic-en">Moreover / And Furthermore</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#etymology">
+        <span class="toc-cn">字源</span> Etymology
+        <span class="toc-sub">而 and 且 — two conjunctions joined</span>
+      </a></li>
+      <li><a href="#patterns">
+        <span class="toc-cn">句型</span> Core Patterns
+        <span class="toc-sub">how to use 而且</span>
+      </a></li>
+      <li><a href="#budan">
+        <span class="toc-cn">不但…而且</span> Paired Construction
+        <span class="toc-sub">not only … but also</span>
+      </a></li>
+      <li><a href="#compare">
+        <span class="toc-cn">辨析</span> Comparison
+        <span class="toc-sub">而且 vs. 也 / 还 / 又</span>
+      </a></li>
+      <li><a href="#register">
+        <span class="toc-cn">语域</span> Register
+        <span class="toc-sub">spoken vs. written</span>
+      </a></li>
+      <li><a href="#adjacent">
+        <span class="toc-cn">相邻</span> Adjacent Vocab
+        <span class="toc-sub">connectives and cohesion</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- HERO -->
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">Grammar · 语法 yǔfǎ · Conjunction 连词 liáncí</span>
+      <h1 class="topic-hero-title">而且</h1>
+      <span class="topic-hero-title-py">érqiě</span>
+      <p class="topic-hero-desc">Additive conjunction — "moreover, and furthermore, and what's more." Layers a second quality onto the first with escalating or reinforcing force.</p>
+    </header>
+
+    <!-- ── ETYMOLOGY ── -->
+    <span class="section-anchor" id="etymology"></span>
+    <div class="section-head">
+      <span class="sh-cn">字源</span>
+      <span class="sh-py">zìyuán</span>
+      <span class="sh-en">Etymology — Two Conjunctions Joined</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="且">
+      <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
+      <p><strong>而 ér</strong> is one of classical Chinese's workhorses — a versatile conjunction meaning "and, yet, while, and then." Its oracle-bone form depicts a beard hanging from a face: the beard as something that naturally follows from the chin, hence "that which follows from / proceeds from." In modern Chinese, 而 survives mainly in two-character connectives and formal writing.</p>
+      <p><strong>且 qiě</strong> (in isolation: "also; moreover; even; for the time being") adds a sense of "on top of that" or "in addition." The oracle-bone form shows a stone altar or stepped platform — something elevated, placed above what was already there.</p>
+      <p>Joined as <strong>而且</strong>, the two conjunctions reinforce each other: 而 provides the connection ("and what follows"), 且 adds the "moreover" weight. The compound is stronger than either alone — it signals escalation, not mere addition.</p>
+    </div>
+
+    <!-- ── CORE PATTERNS ── -->
+    <span class="section-anchor" id="patterns"></span>
+    <div class="section-head">
+      <span class="sh-cn">核心句型</span>
+      <span class="sh-py">héxīn jùxíng</span>
+      <span class="sh-en">Core Patterns</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">句型 jùxíng · Basic Structure</span>
+      <strong>[Clause A]，而且 [Clause B]</strong> — B adds to or strengthens A<br>
+      <strong>[Adj A]，而且 [Adj B]</strong> — two qualities, both present, B escalating<br>
+      <strong>不但 [A]，而且 [B]</strong> — the most common formal paired pattern (see below)
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-vn">
+        <div class="card-head">
+          <span class="card-cn">而且 (simple addition)</span>
+          <span class="card-py">érqiě</span>
+          <span class="card-en">and; moreover; and on top of that</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">Conj 连词 liáncí</span></div>
+        <div class="card-def">
+          Links two clauses or adjective phrases where the second adds to or escalates the first. The key nuance: 而且 implies the second quality is at least as notable as the first — often more so. It is additive with a slight upward push.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">她很聪明，而且非常努力。</div>
+            <div class="ex-py">Tā hěn cōngmíng, érqiě fēicháng nǔlì.</div>
+            <div class="ex-en">She is very smart, and moreover extremely hardworking.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这家餐厅的菜很好吃，而且价格也很合理。</div>
+            <div class="ex-py">Zhè jiā cāntīng de cài hěn hǎochī, érqiě jiàgé yě hěn hélǐ.</div>
+            <div class="ex-en">The food at this restaurant is delicious, and what's more, the prices are very reasonable.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他来了，而且带来了好消息。</div>
+            <div class="ex-py">Tā lái le, érqiě dài lái le hǎo xiāoxi.</div>
+            <div class="ex-en">He came, and furthermore brought good news.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">语法 yǔfǎ · Position Note</span>
+          而且 sits at the beginning of the second clause. It can follow a comma or appear at the start of a new sentence. A subject may optionally appear after 而且 (same subject usually omitted; different subject must appear): 他去了，<strong>而且她也去了</strong>.
+        </div>
+      </div>
+
+    </div>
+
+    <!-- ── 不但…而且 ── -->
+    <span class="section-anchor" id="budan"></span>
+    <div class="section-head">
+      <span class="sh-cn">不但…而且</span>
+      <span class="sh-py">bùdàn … érqiě</span>
+      <span class="sh-en">Not Only … But Also — The Paired Construction</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">成对连词 chéngduì liáncí · Paired Connectives</span>
+      <strong>不但 [A]，而且 [B]</strong> — not only A, but also B (standard)<br>
+      <strong>不仅 [A]，而且 [B]</strong> — not merely A, but moreover B (slightly more formal)<br>
+      <strong>不只 [A]，而且 [B]</strong> — not just A, but furthermore B (colloquial variant)
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-vn">
+        <div class="card-head">
+          <span class="card-cn">不但…而且</span>
+          <span class="card-py">bùdàn … érqiě</span>
+          <span class="card-en">not only … but also</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">Conj 连词 liáncí</span></div>
+        <div class="card-def">
+          The single most productive construction for 而且. The 不但 sets up a partial statement that is immediately exceeded by 而且. What follows 而且 should be <em>more</em> remarkable, broader, or stronger than what followed 不但.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他不但会说中文，而且还会写毛笔字。</div>
+            <div class="ex-py">Tā bùdàn huì shuō Zhōngwén, érqiě hái huì xiě máobǐzì.</div>
+            <div class="ex-en">He not only speaks Chinese, but can also write Chinese calligraphy.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这次失败不但没有打倒他，而且让他变得更强。</div>
+            <div class="ex-py">Zhè cì shībài bùdàn méiyǒu dǎdǎo tā, érqiě ràng tā biàn dé gèng qiáng.</div>
+            <div class="ex-en">This failure not only didn't defeat him, but actually made him stronger.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">不但他来了，而且他全家都来了。</div>
+            <div class="ex-py">Bùdàn tā lái le, érqiě tā quán jiā dōu lái le.</div>
+            <div class="ex-en">Not only did he come, but his whole family came too.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">语法 yǔfǎ · Subject Position</span>
+          When the subject is the same in both clauses: 不但 comes after the subject (他不但…而且…). When different subjects: 不但 moves before the subject (不但他…而且她…). This subject-placement rule is tested on the HSK and in composition.
+        </div>
+      </div>
+
+    </div>
+
+    <!-- ── COMPARISON ── -->
+    <span class="section-anchor" id="compare"></span>
+    <div class="section-head">
+      <span class="sh-cn">辨析</span>
+      <span class="sh-py">biànxī</span>
+      <span class="sh-en">而且 vs. 也 / 还 / 又</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>词 Cí</th>
+            <th>用法 Yòngfǎ</th>
+            <th>语气 Yǔqì</th>
+            <th>例句 Lìjù</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="td-cn">而且 érqiě</td>
+            <td>clause-connector; before the second clause</td>
+            <td>additive + escalation; written &amp; spoken</td>
+            <td class="td-small">她聪明，<strong>而且</strong>努力。<br>She's smart, and furthermore hardworking.</td>
+          </tr>
+          <tr>
+            <td class="td-cn">也 yě</td>
+            <td>adverb; before verb in second clause</td>
+            <td>parallel addition; neutral; very spoken</td>
+            <td class="td-small">她聪明，<strong>也</strong>很努力。<br>She's smart, and also hardworking.</td>
+          </tr>
+          <tr>
+            <td class="td-cn">还 hái</td>
+            <td>adverb; before verb; implies "in addition to what was mentioned"</td>
+            <td>continuation; "on top of this, there is more"</td>
+            <td class="td-small">她聪明，<strong>还</strong>很努力。<br>She's smart — and on top of that, hardworking.</td>
+          </tr>
+          <tr>
+            <td class="td-cn">又 yòu</td>
+            <td>adverb; repeated or simultaneous qualities</td>
+            <td>parallel / simultaneous; often two adjectives</td>
+            <td class="td-small">她<strong>又</strong>聪明<strong>又</strong>努力。<br>She is both smart and hardworking.</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="note" style="margin-top:1rem;">
+      <span class="note-label">关键区别 · Key Distinction</span>
+      <strong>而且</strong> is a <em>conjunction</em> (connects clauses). <strong>也/还/又</strong> are <em>adverbs</em> (modify verbs/adjectives within a clause). This means: 而且 can start a new sentence; 也/还/又 cannot. In formal writing and the 不但…而且 pattern, 而且 is the natural choice. In quick spoken addition, 也 is more natural.
+    </div>
+
+    <!-- ── REGISTER ── -->
+    <span class="section-anchor" id="register"></span>
+    <div class="section-head">
+      <span class="sh-cn">语域</span>
+      <span class="sh-py">yǔyù</span>
+      <span class="sh-en">Register — Spoken vs. Written</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="且">
+      <div class="scholar-label">语体分析 yǔtǐ fēnxī · Register Analysis</div>
+      <p>而且 belongs to both spoken and written registers, but its weight differs. In formal writing (essays, reports, speeches), 而且 and 不但…而且 are extremely common and carry real rhetorical force — escalation, emphasis, the second point landing harder than the first.</p>
+      <p>In spoken Mandarin, 而且 also appears naturally, but speakers frequently swap in 还 or 也 for more casual addition. The more formal the register, the more 而且 stands out as the right choice. In an HSK composition or a speech, reaching for 而且 instead of 也 immediately sounds more polished.</p>
+      <p>Note: in very formal or classical-influenced writing, you may encounter 而 alone (without 且) doing similar work — a single-character formal conjunction. This is not spoken Mandarin but appears in legal texts, official documents, and literary essays.</p>
+    </div>
+
+    <!-- ── ADJACENT ── -->
+    <span class="section-anchor" id="adjacent"></span>
+    <div class="section-head">
+      <span class="sh-cn">相邻词汇</span>
+      <span class="sh-py">xiānglín cíhuì</span>
+      <span class="sh-en">Adjacent Vocabulary — Connectives &amp; Cohesion</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">不但</span><span class="a-py">bùdàn</span><span class="a-en">not only (pairs with 而且)</span></span>
+      <span class="adj"><span class="a-cn">不仅</span><span class="a-py">bùjǐn</span><span class="a-en">not merely (formal pair for 而且)</span></span>
+      <span class="adj"><span class="a-cn">还</span><span class="a-py">hái</span><span class="a-en">also; still; in addition</span></span>
+      <span class="adj"><span class="a-cn">也</span><span class="a-py">yě</span><span class="a-en">also; too (parallel)</span></span>
+      <span class="adj"><span class="a-cn">又…又</span><span class="a-py">yòu … yòu</span><span class="a-en">both … and …</span></span>
+      <span class="adj"><span class="a-cn">甚至</span><span class="a-py">shènzhì</span><span class="a-en">even; going so far as to</span></span>
+      <span class="adj"><span class="a-cn">况且</span><span class="a-py">kuàngqiě</span><span class="a-en">moreover; besides; what's more</span></span>
+      <span class="adj"><span class="a-cn">并且</span><span class="a-py">bìngqiě</span><span class="a-en">and; also; additionally (formal)</span></span>
+      <span class="adj"><span class="a-cn">加上</span><span class="a-py">jiāshàng</span><span class="a-en">in addition; plus; adding to this</span></span>
+    </div>
+
+    <footer class="page-footer">
+      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>而且 érqiě</span></span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>

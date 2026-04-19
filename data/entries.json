@@ -161,6 +161,50 @@
     "updated": "2026-04-19"
   },
   {
+    "path": "pages/characters/jiao3_角.html",
+    "type": "character",
+    "category": "characters",
+    "title": "角 · corner, horn, angle",
+    "desc": "Corner, horn, angle — the character that names this field guide.",
+    "tags": [
+      "space",
+      "geometry",
+      "music"
+    ],
+    "status": "complete",
+    "char": "角",
+    "pinyin": "jiǎo",
+    "tone": 3,
+    "hsk": {
+      "from": 2,
+      "to": 4
+    },
+    "radical": "角",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/characters/luo4_落.html",
+    "type": "character",
+    "category": "characters",
+    "title": "落 · to fall, to settle, to land",
+    "desc": "Falling, settling, and the beauty of things arriving at their place.",
+    "tags": [
+      "movement",
+      "space",
+      "settlement"
+    ],
+    "status": "complete",
+    "char": "落",
+    "pinyin": "luò",
+    "tone": 4,
+    "hsk": {
+      "from": 3,
+      "to": 5
+    },
+    "radical": "艹",
+    "updated": "2026-04-19"
+  },
+  {
     "path": "pages/characters/mu4_木.html",
     "type": "character",
     "category": "characters",
@@ -178,6 +222,28 @@
     "tone": 4,
     "hsk": 1,
     "radical": "木",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/characters/shu1_书.html",
+    "type": "character",
+    "category": "characters",
+    "title": "书 · book, writing, letter",
+    "desc": "Book, writing, calligraphy — the character that holds civilization together.",
+    "tags": [
+      "literacy",
+      "culture",
+      "calligraphy"
+    ],
+    "status": "complete",
+    "char": "书",
+    "pinyin": "shū",
+    "tone": 1,
+    "hsk": {
+      "from": 1,
+      "to": 3
+    },
+    "radical": "乛",
     "updated": "2026-04-19"
   },
   {
@@ -218,6 +284,28 @@
     "tone": 2,
     "hsk": 3,
     "radical": "王",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/characters/wu1_屋.html",
+    "type": "character",
+    "category": "characters",
+    "title": "屋 · room, house, dwelling",
+    "desc": "Room, dwelling, and the human need for shelter — the character at home.",
+    "tags": [
+      "space",
+      "dwelling",
+      "architecture"
+    ],
+    "status": "complete",
+    "char": "屋",
+    "pinyin": "wū",
+    "tone": 1,
+    "hsk": {
+      "from": 1,
+      "to": 3
+    },
+    "radical": "尸",
     "updated": "2026-04-19"
   },
   {
@@ -828,6 +916,21 @@
     "updated": "2026-04-19"
   },
   {
+    "path": "pages/grammar/erqie_而且.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "而且 · moreover, and furthermore",
+    "desc": "Additive conjunction that layers information — not just \"and\" but \"and on top of that.\"",
+    "tags": [
+      "conjunction",
+      "additive",
+      "cohesion"
+    ],
+    "status": "complete",
+    "pinyin": "érqiě",
+    "updated": "2026-04-19"
+  },
+  {
     "path": "pages/grammar/guo_过.html",
     "type": "grammar",
     "category": "grammar",
@@ -840,6 +943,36 @@
     ],
     "status": "complete",
     "pinyin": "guò / guo",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/grammar/qilai_起来.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "起来 · directional complement — upward, inward, beginning",
+    "desc": "The most versatile directional complement in Mandarin — three distinct grammatical lives.",
+    "tags": [
+      "complement",
+      "directional",
+      "aspect"
+    ],
+    "status": "complete",
+    "pinyin": "qǐlái",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/grammar/yuqi_bufu_与其不如.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "与其…不如 · rather than … it would be better to",
+    "desc": "Comparative preference construction — the most elegant way to argue for one choice over another.",
+    "tags": [
+      "conjunction",
+      "comparison",
+      "preference"
+    ],
+    "status": "complete",
+    "pinyin": "yǔqí bùrú",
     "updated": "2026-04-19"
   },
   {

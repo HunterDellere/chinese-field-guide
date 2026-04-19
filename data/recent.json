@@ -161,6 +161,50 @@
     "updated": "2026-04-19"
   },
   {
+    "path": "pages/characters/jiao3_角.html",
+    "type": "character",
+    "category": "characters",
+    "title": "角 · corner, horn, angle",
+    "desc": "Corner, horn, angle — the character that names this field guide.",
+    "tags": [
+      "space",
+      "geometry",
+      "music"
+    ],
+    "status": "complete",
+    "char": "角",
+    "pinyin": "jiǎo",
+    "tone": 3,
+    "hsk": {
+      "from": 2,
+      "to": 4
+    },
+    "radical": "角",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/characters/luo4_落.html",
+    "type": "character",
+    "category": "characters",
+    "title": "落 · to fall, to settle, to land",
+    "desc": "Falling, settling, and the beauty of things arriving at their place.",
+    "tags": [
+      "movement",
+      "space",
+      "settlement"
+    ],
+    "status": "complete",
+    "char": "落",
+    "pinyin": "luò",
+    "tone": 4,
+    "hsk": {
+      "from": 3,
+      "to": 5
+    },
+    "radical": "艹",
+    "updated": "2026-04-19"
+  },
+  {
     "path": "pages/characters/mu4_木.html",
     "type": "character",
     "category": "characters",
@@ -178,6 +222,28 @@
     "tone": 4,
     "hsk": 1,
     "radical": "木",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/characters/shu1_书.html",
+    "type": "character",
+    "category": "characters",
+    "title": "书 · book, writing, letter",
+    "desc": "Book, writing, calligraphy — the character that holds civilization together.",
+    "tags": [
+      "literacy",
+      "culture",
+      "calligraphy"
+    ],
+    "status": "complete",
+    "char": "书",
+    "pinyin": "shū",
+    "tone": 1,
+    "hsk": {
+      "from": 1,
+      "to": 3
+    },
+    "radical": "乛",
     "updated": "2026-04-19"
   },
   {
@@ -218,6 +284,28 @@
     "tone": 2,
     "hsk": 3,
     "radical": "王",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/characters/wu1_屋.html",
+    "type": "character",
+    "category": "characters",
+    "title": "屋 · room, house, dwelling",
+    "desc": "Room, dwelling, and the human need for shelter — the character at home.",
+    "tags": [
+      "space",
+      "dwelling",
+      "architecture"
+    ],
+    "status": "complete",
+    "char": "屋",
+    "pinyin": "wū",
+    "tone": 1,
+    "hsk": {
+      "from": 1,
+      "to": 3
+    },
+    "radical": "尸",
     "updated": "2026-04-19"
   },
   {
@@ -288,68 +376,6 @@
     ],
     "status": "complete",
     "pinyin": "huà shé tiān zú",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/chengyu/kezhouqiujian_刻舟求剑.html",
-    "type": "vocab",
-    "category": "chengyu",
-    "title": "刻舟求剑 · Carving the Boat to Find the Sword",
-    "desc": "He marked the boat where his sword fell into the river. When the boat reached the shore, he dived where the mark was.",
-    "tags": [
-      "idioms",
-      "classical",
-      "logic",
-      "philosophy"
-    ],
-    "status": "complete",
-    "pinyin": "kè zhōu qiú jiàn",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/chengyu/saiwengshima_塞翁失马.html",
-    "type": "vocab",
-    "category": "chengyu",
-    "title": "塞翁失马 · The Old Man at the Frontier Loses His Horse",
-    "desc": "His horse ran off. His neighbours grieved. He shrugged. The Daoist parable that became China's word for the unknowability of fortune.",
-    "tags": [
-      "idioms",
-      "classical",
-      "philosophy",
-      "daoism"
-    ],
-    "status": "complete",
-    "pinyin": "sài wēng shī mǎ",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/chengyu/shouzhudaitu_守株待兔.html",
-    "type": "vocab",
-    "category": "chengyu",
-    "title": "守株待兔 · Guarding the Stump, Waiting for Rabbits",
-    "desc": "A rabbit ran headlong into a tree stump. The farmer dropped his plough and watched the stump for the rest of his life.",
-    "tags": [
-      "idioms",
-      "classical",
-      "philosophy"
-    ],
-    "status": "complete",
-    "pinyin": "shǒu zhū dài tù",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/chengyu/yugongyishan_愚公移山.html",
-    "type": "vocab",
-    "category": "chengyu",
-    "title": "愚公移山 · The Foolish Old Man Moves the Mountains",
-    "desc": "Two mountains blocked his door. He and his sons began to move them, one basket at a time. A mocker laughed. He said: when I die my sons will continue; when they die, their sons.",
-    "tags": [
-      "idioms",
-      "classical",
-      "philosophy"
-    ],
-    "status": "complete",
-    "pinyin": "yú gōng yí shān",
     "updated": "2026-04-19"
   }
 ]

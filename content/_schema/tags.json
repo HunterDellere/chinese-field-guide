@@ -202,5 +202,18 @@
   {"slug": "invention",         "label": "Invention"},
   {"slug": "medicine",          "label": "Medicine"},
   {"slug": "health",            "label": "Health"},
-  {"slug": "chengyu",           "label": "Chengyu"}
+  {"slug": "chengyu",           "label": "Chengyu"},
+  {"slug": "geometry",          "label": "Geometry"},
+  {"slug": "music",             "label": "Music"},
+  {"slug": "movement",          "label": "Movement"},
+  {"slug": "settlement",        "label": "Settlement"},
+  {"slug": "literacy",          "label": "Literacy"},
+  {"slug": "dwelling",          "label": "Dwelling"},
+  {"slug": "architecture",      "label": "Architecture"},
+  {"slug": "conjunction",       "label": "Conjunction"},
+  {"slug": "additive",          "label": "Additive"},
+  {"slug": "cohesion",          "label": "Cohesion"},
+  {"slug": "comparison",        "label": "Comparison"},
+  {"slug": "preference",        "label": "Preference"},
+  {"slug": "directional",       "label": "Directional"}
 ]

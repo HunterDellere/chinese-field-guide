@@ -1,0 +1,354 @@
+---
+type: 'grammar'
+category: 'grammar'
+status: 'complete'
+title: '起来 · directional complement — upward, inward, beginning'
+desc: 'The most versatile directional complement in Mandarin — three distinct grammatical lives.'
+metaDesc: "起来 qǐlái: directional complement for upward motion, for initiating an action, and for forming impressions. Three functions, usage patterns, and the full V+起来 family."
+pageTitle: '起来 qǐlái'
+tags:
+  - 'complement'
+  - 'directional'
+  - 'aspect'
+updated: '2026-04-19'
+pinyin: 'qǐlái'
+---
+
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+
+    <span class="toc-topic">起来</span>
+    <span class="toc-topic-en">Directional Complement</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#etymology">
+        <span class="toc-cn">字源</span> Etymology
+        <span class="toc-sub">起 and 来 — rise and come</span>
+      </a></li>
+      <li><a href="#three">
+        <span class="toc-cn">三义</span> Three Functions
+        <span class="toc-sub">the three lives of 起来</span>
+      </a></li>
+      <li><a href="#motion">
+        <span class="toc-cn">动作</span> Physical Motion
+        <span class="toc-sub">upward / gathering</span>
+      </a></li>
+      <li><a href="#inception">
+        <span class="toc-cn">开始</span> Inception
+        <span class="toc-sub">starting an action</span>
+      </a></li>
+      <li><a href="#impression">
+        <span class="toc-cn">印象</span> Impression
+        <span class="toc-sub">V起来 + adjective</span>
+      </a></li>
+      <li><a href="#obj">
+        <span class="toc-cn">宾语</span> Object Insertion
+        <span class="toc-sub">V + 起 + O + 来</span>
+      </a></li>
+      <li><a href="#compare">
+        <span class="toc-cn">辨析</span> Comparison
+        <span class="toc-sub">起来 vs. 下去 / 下来 / 上去</span>
+      </a></li>
+      <li><a href="#adjacent">
+        <span class="toc-cn">相邻</span> Adjacent Vocab
+        <span class="toc-sub">directional complement family</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- HERO -->
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">Grammar · 语法 yǔfǎ · Directional Complement 趋向补语</span>
+      <h1 class="topic-hero-title">起来</h1>
+      <span class="topic-hero-title-py">qǐlái</span>
+      <p class="topic-hero-desc">Three lives in one complement: upward physical motion, the inception of an action, and the expression of a sensory impression. One of the most productive structures in Mandarin.</p>
+    </header>
+
+    <!-- ── ETYMOLOGY ── -->
+    <span class="section-anchor" id="etymology"></span>
+    <div class="section-head">
+      <span class="sh-cn">字源</span>
+      <span class="sh-py">zìyuán</span>
+      <span class="sh-en">Etymology — 起 and 来</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="起">
+      <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
+      <p><strong>起 qǐ</strong> = to rise, to get up, to initiate. The character shows 走 zǒu (to walk/move) + 巳 sì (a coiled creature — the snake in the zodiac, associated with emergence). The original image: something coiled rising into action. 起 is one of Chinese's great initiating verbs — every beginning, every rising, is a 起.</p>
+      <p><strong>来 lái</strong> = to come, to move toward the speaker. As a directional complement, 来 indicates motion toward the speaker's perspective or into the present moment. When combined with 起, it creates a composite directional complement: something rises <em>and comes toward</em> — rises into the here-and-now.</p>
+      <p>The composite 起来 has grammaticalized far beyond its literal meaning. It now functions in three distinct grammatical roles, each with its own pattern and logic — a classic case of semantic bleaching, where a directional element becomes a pure grammatical marker.</p>
+    </div>
+
+    <!-- ── THREE FUNCTIONS ── -->
+    <span class="section-anchor" id="three"></span>
+    <div class="section-head">
+      <span class="sh-cn">三种功能</span>
+      <span class="sh-py">sān zhǒng gōngnéng</span>
+      <span class="sh-en">Three Functions — The Three Lives of 起来</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">功能一览 gōngnéng yīlǎn · Function Overview</span>
+      <strong>① 物理动作</strong> Physical motion — literal upward or gathering movement: 站起来 stand up · 拿起来 pick up<br>
+      <strong>② 动作开始</strong> Inception — starting to do something: 唱起来 start singing · 哭起来 begin crying<br>
+      <strong>③ 感觉印象</strong> Impression — "when it comes to / judging by": 听起来 sounds like · 看起来 looks like
+    </div>
+
+    <!-- ── MOTION ── -->
+    <span class="section-anchor" id="motion"></span>
+    <div class="section-head">
+      <span class="sh-cn">物理动作</span>
+      <span class="sh-py">wùlǐ dòngzuò</span>
+      <span class="sh-en">Function 1: Physical Upward / Gathering Motion</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-v">
+        <div class="card-head">
+          <span class="card-cn">V + 起来 (motion)</span>
+          <span class="card-py">V + qǐlái</span>
+          <span class="card-en">upward motion; gathering into one place</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V + Comp 动词 + 趋向补语</span></div>
+        <div class="card-def">
+          In its most literal function, 起来 indicates that an action results in something rising, being lifted, or being gathered together. 站起来 = stand up. 拿起来 = pick up (lift it up). 收起来 = gather/pack up. 存起来 = save up (store it, gather it in).
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他站起来说了几句话。</div>
+            <div class="ex-py">Tā zhàn qǐlái shuō le jǐ jù huà.</div>
+            <div class="ex-en">He stood up and said a few words.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">把书收起来吧。</div>
+            <div class="ex-py">Bǎ shū shōu qǐlái ba.</div>
+            <div class="ex-en">Put the books away / gather the books up.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">她把头发扎起来了。</div>
+            <div class="ex-py">Tā bǎ tóufa zā qǐlái le.</div>
+            <div class="ex-en">She tied her hair up.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">语法 yǔfǎ · The "Gathering" Extension</span>
+          Beyond literal upward movement, 起来 often implies gathering, consolidating, or completing a collection: 团结起来 (unite together), 联合起来 (join forces). The classic Marxist slogan 全世界无产者，联合起来！(Workers of the world, unite!) uses this exact pattern.
+        </div>
+      </div>
+
+    </div>
+
+    <!-- ── INCEPTION ── -->
+    <span class="section-anchor" id="inception"></span>
+    <div class="section-head">
+      <span class="sh-cn">动作开始</span>
+      <span class="sh-py">dòngzuò kāishǐ</span>
+      <span class="sh-en">Function 2: Inception — Starting to Do Something</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-v">
+        <div class="card-head">
+          <span class="card-cn">V + 起来 (inception)</span>
+          <span class="card-py">V + qǐlái</span>
+          <span class="card-en">to start doing; to begin (the action)</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V + Comp 动词 + 趋向补语</span></div>
+        <div class="card-def">
+          In this function, 起来 marks the beginning of an action or process — the moment an activity initiates and takes off. The action is typically ongoing or emotionally charged. Compare: 唱起来了 (started singing / burst into song) vs. 开始唱 (began to sing — neutral). The 起来 version has more spontaneous, vivid energy.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">孩子们高兴地跳起来了。</div>
+            <div class="ex-py">Háizi men gāoxìng de tiào qǐlái le.</div>
+            <div class="ex-en">The children jumped up joyfully / burst into jumping with joy.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他突然笑起来。</div>
+            <div class="ex-py">Tā tūrán xiào qǐlái.</div>
+            <div class="ex-en">He suddenly burst out laughing.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">天气暖和起来了。</div>
+            <div class="ex-py">Tiānqì nuǎnhuo qǐlái le.</div>
+            <div class="ex-en">The weather has started to warm up.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他们讨论起来没完没了。</div>
+            <div class="ex-py">Tāmen tǎolùn qǐlái méi wán méi liǎo.</div>
+            <div class="ex-en">Once they start discussing, they never finish.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">语气 yǔqì · Nuance</span>
+          The inception 起来 often implies the action became sustained or got going with momentum. 唱起来 doesn't just mean "started to sing" but "started singing and kept going." The 了 at the end confirms the change-of-state has occurred.
+        </div>
+      </div>
+
+    </div>
+
+    <!-- ── IMPRESSION ── -->
+    <span class="section-anchor" id="impression"></span>
+    <div class="section-head">
+      <span class="sh-cn">感觉印象</span>
+      <span class="sh-py">gǎnjué yìnxiàng</span>
+      <span class="sh-en">Function 3: Sensory Impression — V起来 + Adjective</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-v">
+        <div class="card-head">
+          <span class="card-cn">感觉动词 + 起来</span>
+          <span class="card-py">gǎnjué dòngcí + qǐlái</span>
+          <span class="card-en">"when it comes to [sense]: [adjective]"</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V + Comp 动词 + 趋向补语</span></div>
+        <div class="card-def">
+          When a perception verb (看 kàn, 听 tīng, 吃 chī, 闻 wén, 用 yòng, 做 zuò) is followed by 起来 and then an adjective, the meaning is: "judging by [sense] / when you [sense] it, [it is adj]." This is one of the most common patterns in spoken Mandarin for expressing impressions and evaluations.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">这道菜看起来很好吃。</div>
+            <div class="ex-py">Zhè dào cài kàn qǐlái hěn hǎochī.</div>
+            <div class="ex-en">This dish looks delicious. <em>(judging by sight)</em></div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他听起来不太高兴。</div>
+            <div class="ex-py">Tā tīng qǐlái bù tài gāoxìng.</div>
+            <div class="ex-en">He sounds not very happy. <em>(judging by what I hear)</em></div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这个方法做起来很简单。</div>
+            <div class="ex-py">Zhège fāngfǎ zuò qǐlái hěn jiǎndān.</div>
+            <div class="ex-en">This method is easy in practice / when you actually do it.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这个问题说起来简单，做起来难。</div>
+            <div class="ex-py">Zhège wèntí shuō qǐlái jiǎndān, zuò qǐlái nán.</div>
+            <div class="ex-en">This problem is easy to say but hard to do.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">重要句型 · Key Pattern</span>
+          说起来容易，做起来难 (easy to say, hard to do) is among the most common expressions in Chinese. Memorize it whole — it is a template that generates an infinite family of contrasts. 看起来 is the single most common impression-V+起来 expression in spoken Chinese.
+        </div>
+      </div>
+
+    </div>
+
+    <!-- ── OBJECT INSERTION ── -->
+    <span class="section-anchor" id="obj"></span>
+    <div class="section-head">
+      <span class="sh-cn">宾语插入</span>
+      <span class="sh-py">bīnyǔ chārù</span>
+      <span class="sh-en">Object Insertion — V + 起 + O + 来</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">分离式 fēnlí shì · Split Form</span>
+      When a verb + 起来 takes an object, the object is inserted between 起 and 来:<br>
+      <strong>拿起来</strong> (no object) → <strong>拿起书来</strong> (pick up the book)<br>
+      <strong>收起来</strong> → <strong>收起东西来</strong> (gather things up)<br>
+      <strong>唱起来</strong> → <strong>唱起歌来</strong> (start singing songs)
+    </div>
+
+    <div class="note">
+      <span class="note-label">语法注意 · Grammar Note</span>
+      The split form V + 起 + O + 来 applies to both the motion and inception functions. In the impression function (看起来、听起来), objects are not typically inserted — the whole V起来 acts as a fixed collocation before an adjective.
+    </div>
+
+    <!-- ── COMPARISON ── -->
+    <span class="section-anchor" id="compare"></span>
+    <div class="section-head">
+      <span class="sh-cn">辨析</span>
+      <span class="sh-py">biànxī</span>
+      <span class="sh-en">起来 vs. 下去 / 下来 / 上去</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>补语 Bǔyǔ</th>
+            <th>方向 Fāngxiàng</th>
+            <th>引申义 Yǐnshēn yì</th>
+            <th>例 Lì</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="td-cn">起来 qǐlái</td>
+            <td>upward, toward speaker</td>
+            <td>initiation; gathering; upward impression</td>
+            <td class="td-small">站起来 stand up · 哭起来 start crying</td>
+          </tr>
+          <tr>
+            <td class="td-cn">下去 xiàqù</td>
+            <td>downward, away</td>
+            <td>continuation of current action; deterioration</td>
+            <td class="td-small">说下去 keep talking · 坏下去 keep getting worse</td>
+          </tr>
+          <tr>
+            <td class="td-cn">下来 xiàlái</td>
+            <td>downward, toward speaker</td>
+            <td>completion; slowing; coming to rest</td>
+            <td class="td-small">慢下来 slow down · 停下来 come to a stop</td>
+          </tr>
+          <tr>
+            <td class="td-cn">上去 shàngqù</td>
+            <td>upward, away</td>
+            <td>going up (literal); looking/seeming from outside</td>
+            <td class="td-small">爬上去 climb up · 看上去 looks like (from outside)</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- ── ADJACENT ── -->
+    <span class="section-anchor" id="adjacent"></span>
+    <div class="section-head">
+      <span class="sh-cn">相邻词汇</span>
+      <span class="sh-py">xiānglín cíhuì</span>
+      <span class="sh-en">Adjacent Vocabulary — Directional Complement Family</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">下去</span><span class="a-py">xiàqù</span><span class="a-en">continue (away); keep on</span></span>
+      <span class="adj"><span class="a-cn">下来</span><span class="a-py">xiàlái</span><span class="a-en">come down; slow to a stop</span></span>
+      <span class="adj"><span class="a-cn">上来</span><span class="a-py">shànglái</span><span class="a-en">come up; manage to (ability)</span></span>
+      <span class="adj"><span class="a-cn">上去</span><span class="a-py">shàngqù</span><span class="a-en">go up; from outside appearance</span></span>
+      <span class="adj"><span class="a-cn">出来</span><span class="a-py">chūlái</span><span class="a-en">come out; become apparent</span></span>
+      <span class="adj"><span class="a-cn">进来</span><span class="a-py">jìnlái</span><span class="a-en">come in</span></span>
+      <span class="adj"><span class="a-cn">回来</span><span class="a-py">huílái</span><span class="a-en">come back; return</span></span>
+      <span class="adj"><span class="a-cn">过来</span><span class="a-py">guòlái</span><span class="a-en">come over; recover consciousness</span></span>
+      <span class="adj"><span class="a-cn">看起来</span><span class="a-py">kàn qǐlái</span><span class="a-en">looks like; visually appears</span></span>
+      <span class="adj"><span class="a-cn">听起来</span><span class="a-py">tīng qǐlái</span><span class="a-en">sounds like</span></span>
+    </div>
+
+    <footer class="page-footer">
+      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>起来 qǐlái</span></span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>

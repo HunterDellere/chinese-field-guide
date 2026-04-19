@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hunterdellere.github.io/jiaoluo-shuwu/sitemap.xml
+Sitemap: https://jiaoshoo.com/sitemap.xml
