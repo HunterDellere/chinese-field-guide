@@ -33,7 +33,7 @@ function escXml(s) {
  */
 export function renderOgSvg(entry) {
   const cat = CATEGORY_GLYPH[entry.category] || { glyph: '字', color: '#8b1a1a' };
-  const glyph = entry.char || (entry.title ? entry.title.split('·')[0].trim().split(' ')[0] : cat.glyph);
+  const glyph = entry.char || (entry.title ? entry.title.split('·')[0].trim() : cat.glyph);
   const pinyin = entry.pinyin || '';
   const titleEn = entry.title
     ? (entry.title.split('·').slice(1).join('·').trim() || entry.title)

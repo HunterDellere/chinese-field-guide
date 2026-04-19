@@ -374,20 +374,47 @@ else { window.__enhanceInit = true; (function () {
   }
 
   // ── Random entry (topnav button) ──────────────────────────────────────────
-  const randomBtn = document.querySelector('[data-random-entry]');
-  if (randomBtn) {
-    randomBtn.addEventListener('click', function (e) {
-      e.preventDefault();
-      // Path back to entries.json from a content page (depth-2)
-      const baseAttr = randomBtn.getAttribute('data-entries-base') || '../../';
-      fetch(baseAttr + 'data/entries.json')
-        .then(r => r.json())
-        .then(list => {
-          const complete = list.filter(x => x.status === 'complete');
-          if (!complete.length) return;
-          const pick = complete[Math.floor(Math.random() * complete.length)];
-          location.href = baseAttr + pick.path;
-        }).catch(function (err) { console.warn('Random entry failed:', err); });
+  const randomBtns = document.querySelectorAll('[data-random-entry]');
+  if (randomBtns.length) {
+    let cachedEntries = null;
+    function loadEntries(base) {
+      if (cachedEntries) return Promise.resolve(cachedEntries);
+      const url = base + 'data/entries.json';
+      return fetch(url, { cache: 'no-cache' })
+        .then(function (r) {
+          if (!r.ok) throw new Error('HTTP ' + r.status);
+          return r.json();
+        })
+        .then(function (list) {
+          cachedEntries = list;
+          return list;
+        });
+    }
+    randomBtns.forEach(function (btn) {
+      btn.addEventListener('click', function (e) {
+        e.preventDefault();
+        const baseAttr = btn.getAttribute('data-entries-base');
+        const base = baseAttr != null ? baseAttr : '../../';
+        btn.classList.add('loading');
+        loadEntries(base)
+          .then(function (list) {
+            const complete = list.filter(function (x) { return x.status === 'complete'; });
+            if (!complete.length) { btn.classList.remove('loading'); return; }
+            // Don't send the user back to the same page
+            const here = location.pathname;
+            let tries = 0;
+            let pick;
+            do {
+              pick = complete[Math.floor(Math.random() * complete.length)];
+              tries++;
+            } while (tries < 8 && here.endsWith('/' + pick.path));
+            location.href = base + pick.path;
+          })
+          .catch(function (err) {
+            btn.classList.remove('loading');
+            console.warn('Random entry failed:', err);
+          });
+      });
     });
   }
 

@@ -33,17 +33,44 @@ else { window.__tocScrollInit = true; (function () {
   const sidebar = document.getElementById('sidebar');
   if (toggle && sidebar) {
     if (!toggle.hasAttribute('aria-controls')) toggle.setAttribute('aria-controls', 'sidebar');
-    toggle.setAttribute('aria-expanded', sidebar.classList.contains('open') ? 'true' : 'false');
-    toggle.addEventListener('click', function () {
-      const open = sidebar.classList.toggle('open');
-      toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+    toggle.setAttribute('aria-expanded', 'false');
+
+    // Create a backdrop that only shows when the sheet is open on mobile
+    const backdrop = document.createElement('div');
+    backdrop.className = 'sidebar-backdrop';
+    backdrop.setAttribute('aria-hidden', 'true');
+    document.body.appendChild(backdrop);
+
+    function openSidebar() {
+      sidebar.classList.add('open');
+      backdrop.classList.add('visible');
+      toggle.setAttribute('aria-expanded', 'true');
+      toggle.textContent = '目录 Close ✕';
+    }
+    function closeSidebar() {
+      sidebar.classList.remove('open');
+      backdrop.classList.remove('visible');
+      toggle.setAttribute('aria-expanded', 'false');
+      toggle.textContent = '目录 Contents ▾';
+    }
+    toggle.addEventListener('click', function (e) {
+      e.preventDefault();
+      if (sidebar.classList.contains('open')) closeSidebar(); else openSidebar();
+    });
+    backdrop.addEventListener('click', closeSidebar);
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape' && sidebar.classList.contains('open')) closeSidebar();
     });
     // Auto-close sidebar on mobile when a TOC link is clicked
     sidebar.addEventListener('click', function (e) {
       if (e.target.closest('.toc-list a') && window.innerWidth <= 768) {
-        sidebar.classList.remove('open');
-        toggle.setAttribute('aria-expanded', 'false');
+        // Let the anchor navigation happen, then close
+        setTimeout(closeSidebar, 10);
       }
+    });
+    // Close if resized to desktop
+    window.addEventListener('resize', function () {
+      if (window.innerWidth > 768 && sidebar.classList.contains('open')) closeSidebar();
     });
   }
 

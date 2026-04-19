@@ -49,6 +49,16 @@
     { label: "chengyu", q: "chengyu" }
   ];
 
+  // Extract the leading Chinese phrase from "矛盾 · Contradiction" or "X · Y"
+  // For character entries this is the single glyph; for chengyu/topics, the full Chinese phrase.
+  function leadCn(entry) {
+    if (entry.char) return entry.char;
+    if (!entry.title) return "";
+    const head = entry.title.split('·')[0].trim();
+    // Strip non-Chinese trailing whitespace; keep the whole leading CJK chunk
+    return head;
+  }
+
   function normalize(str) {
     return (str || "").toString().toLowerCase()
       .normalize("NFD").replace(/[\u0300-\u036f]/g, "");
@@ -147,11 +157,12 @@
           const a = document.createElement("a");
           a.href = e.path;
           a.className = "start-here-item";
-          const glyph = e.char || (e.title ? e.title.charAt(0) : "");
+          const glyph = leadCn(e);
           const titleEn = e.title ? (e.title.split("·").slice(1).join("·").trim() || e.title) : "";
+          const isLong = glyph.length > 1;
           a.innerHTML = `
             <span class="start-here-num"></span>
-            ${glyph ? `<span class="start-here-cn">${escapeHtml(glyph)}</span>` : ""}
+            ${glyph ? `<span class="start-here-cn${isLong ? " sh-multi" : ""}">${escapeHtml(glyph)}</span>` : ""}
             <span class="start-here-body">
               <span class="start-here-title">${escapeHtml(titleEn)}</span>
               <span class="start-here-py">${escapeHtml(e.pinyin || "")}</span>
@@ -200,13 +211,19 @@
       const card = document.createElement("a");
       card.href = e.path;
       card.className = "recent-card";
-      const glyphChar = e.char || (e.title ? e.title.charAt(0) : "");
+      const glyphChar = leadCn(e);
       const isNew = e.updated && daysAgo(date) <= 14;
+      const len = glyphChar.length;
+      const sizeClass = len >= 4 ? " glyph-4" : len === 3 ? " glyph-3" : len === 2 ? " glyph-2" : "";
+      // Drop the lead Chinese phrase from the displayed title (already shown as glyph)
+      const titleNoCn = e.title && glyphChar
+        ? (e.title.split("·").slice(1).join("·").trim() || e.title)
+        : (e.title || "");
       card.innerHTML = `
         ${isNew ? '<span class="recent-new">NEW</span>' : ""}
-        ${glyphChar ? `<span class="recent-glyph">${escapeHtml(glyphChar)}</span>` : ""}
+        ${glyphChar ? `<span class="recent-glyph${sizeClass}">${escapeHtml(glyphChar)}</span>` : ""}
         <span class="recent-pinyin">${escapeHtml(e.pinyin || "")}</span>
-        <span class="recent-title">${escapeHtml(e.title || "")}</span>
+        <span class="recent-title">${escapeHtml(titleNoCn)}</span>
         <span class="recent-meta">${e.updated ? relativeDate(date) : ""}</span>
       `;
       recentGrid.appendChild(card);
@@ -320,11 +337,16 @@
       if (toHighlight.length) {
         requestAnimationFrame(() => {
           for (const { card, e, queryRaw: q } of toHighlight) {
-            const glyphChar = e.char || (e.title ? e.title.charAt(0) : "");
+            const glyphChar = leadCn(e);
+            const len = glyphChar.length;
+            const sizeClass = len >= 4 ? " glyph-4" : len === 3 ? " glyph-3" : len === 2 ? " glyph-2" : "";
+            const titleNoCn = e.title && glyphChar
+              ? (e.title.split("·").slice(1).join("·").trim() || e.title)
+              : (e.title || "");
             card.innerHTML = `
-              ${glyphChar ? `<span class="entry-glyph">${highlight(glyphChar, q)}</span>` : ""}
+              ${glyphChar ? `<span class="entry-glyph${sizeClass}">${highlight(glyphChar, q)}</span>` : ""}
               <span class="entry-pinyin">${highlight(e.pinyin || "", q)}</span>
-              <span class="entry-title">${highlight(e.title || "", q)}</span>
+              <span class="entry-title">${highlight(titleNoCn, q)}</span>
               <span class="entry-desc">${highlight(e.desc || "", q)}</span>
             `;
           }

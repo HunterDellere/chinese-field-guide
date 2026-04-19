@@ -73,10 +73,11 @@ export function renderRelatedHtml(related, fromPath) {
   const fromDir = fromPath.split('/').slice(0, -1).join('/');
   const items = related.map(e => {
     const href = relativePath(fromPath, e.path);
-    const cn = e.char || (e.title ? e.title.split('·')[0].trim().split(' ')[0] : '');
+    const cn = e.char || (e.title ? e.title.split('·')[0].trim() : '');
     const py = e.pinyin || '';
     const titleEn = e.title ? e.title.split('·').slice(1).join('·').trim() || e.title : '';
-    return `<a class="related-link" href="${escapeHtml(href)}">` +
+    const sizeClass = cn.length >= 4 ? ' rl-multi' : '';
+    return `<a class="related-link${sizeClass}" href="${escapeHtml(href)}">` +
            (cn ? `<span class="rl-cn">${escapeHtml(cn)}</span>` : '') +
            (py ? `<span class="rl-py">${escapeHtml(py)}</span>` : '') +
            `<span class="rl-en">${escapeHtml(titleEn)}</span>` +
@@ -97,7 +98,7 @@ export function renderAdjacencyHtml(adj, fromPath) {
   const linkHtml = (e, dir) => {
     if (!e) return `<span class="pn-empty"></span>`;
     const href = relativePath(fromPath, e.path);
-    const cn = e.char || (e.title ? e.title.split('·')[0].trim().split(' ')[0] : '');
+    const cn = e.char || (e.title ? e.title.split('·')[0].trim() : '');
     const py = e.pinyin || '';
     const arrow = dir === 'prev' ? '←' : '→';
     return `<a class="pn-link pn-${dir}" href="${escapeHtml(href)}" rel="${dir}">
