@@ -1,0 +1,848 @@
+---
+type: 'grammar'
+category: 'grammar'
+status: 'complete'
+title: '了 · the perfective particle'
+desc: 'Perfective aspect vs. change-of-state — the single most-confused particle.'
+metaDesc: "了 le: the most complex particle in Mandarin. Two pronunciations, two functions — completion marker and new-situation particle. Etymology, patterns, the double-了 construction, negation, and the liǎo family."
+pageTitle: '了 le / liǎo'
+tags:
+  - 'aspect'
+  - 'particle'
+  - 'tense'
+updated: '2026-04-18'
+pinyin: 'le'
+---
+
+<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+
+    <span class="toc-topic">了</span>
+    <span class="toc-topic-en">Perfective Particle</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#etymology">
+        <span class="toc-cn">字源</span> Etymology
+        <span class="toc-sub">origin &amp; two faces</span>
+      </a></li>
+      <li><a href="#patterns">
+        <span class="toc-cn">句型</span> Patterns
+        <span class="toc-sub">the two positions of 了</span>
+      </a></li>
+      <li><a href="#postverb">
+        <span class="toc-cn">动词后</span> Post-verb 了
+        <span class="toc-sub">completed actions</span>
+      </a></li>
+      <li><a href="#sentencefinal">
+        <span class="toc-cn">句末</span> Sentence-final 了
+        <span class="toc-sub">new situation</span>
+      </a></li>
+      <li><a href="#double">
+        <span class="toc-cn">双了</span> Double 了
+        <span class="toc-sub">the famous construction</span>
+      </a></li>
+      <li><a href="#negation">
+        <span class="toc-cn">否定</span> Negation
+        <span class="toc-sub">没有 and 还没…呢</span>
+      </a></li>
+      <li><a href="#liao">
+        <span class="toc-cn">了 liǎo</span> The Other 了
+        <span class="toc-sub">ability and completion</span>
+      </a></li>
+      <li><a href="#table">
+        <span class="toc-cn">对照表</span> Pattern Table
+        <span class="toc-sub">V-了 with negation pairs</span>
+      </a></li>
+      <li><a href="#chengyu">
+        <span class="toc-cn">成语</span> Idioms
+        <span class="toc-sub">completion &amp; closure</span>
+      </a></li>
+      <li><a href="#adjacent">
+        <span class="toc-cn">相邻</span> Adjacent Vocab
+        <span class="toc-sub">related particles &amp; markers</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- HERO -->
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">Grammar · 语法 yǔfǎ</span>
+      <h1 class="topic-hero-title">了</h1>
+      <span class="topic-hero-title-py">le / liǎo</span>
+      <p class="topic-hero-desc">The most notorious particle in Mandarin — a single character with two pronunciations, two grammatical functions, and the ability to appear twice in one sentence doing two different jobs simultaneously.</p>
+    </header>
+
+    <!-- ── ETYMOLOGY ── -->
+    <span class="section-anchor" id="etymology"></span>
+    <div class="section-head">
+      <span class="sh-cn">字源</span>
+      <span class="sh-py">zìyuán</span>
+      <span class="sh-en">Etymology &amp; Two Faces</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="了">
+      <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
+      <p><strong>了</strong> is one of the most visually simple characters in the language — two strokes — yet one of the most semantically complex particles in Mandarin. Its ancient form depicts a swaddled infant with limbs tucked in, or alternatively a person with bent, crossed arms: the image of something having reached its final, resting position. From this concrete visual of a thing concluded, folded into completeness, comes the abstract sense of <em>being finished, clear, done.</em></p>
+      <p>The character derives historically from <strong>瞭 liǎo</strong>, meaning "clear-sighted; to see to the end." This original sense of clarity and full comprehension lives on in the <em>liǎo</em> pronunciation family: 了解 liǎojiě (to understand thoroughly), 了结 liǎojié (to conclude a matter), 了不起 liǎobuqǐ (remarkable — beyond what can be "surpassed or concluded"). The grammatical particle sense developed separately for the <em>le</em> pronunciation.</p>
+      <p>The result is a character carrying two distinct pronunciations with two distinct grammatical worlds: <strong>le</strong> as particle — marking perfective aspect and new situations — and <strong>liǎo</strong> as bound morpheme marking clarity, ability, and conclusion. Understanding this split is the first step toward taming 了.</p>
+    </div>
+
+    <!-- ── PATTERN BOX ── -->
+    <span class="section-anchor" id="patterns"></span>
+    <div class="section-head">
+      <span class="sh-cn">句型</span>
+      <span class="sh-py">jùxíng</span>
+      <span class="sh-en">The Two Positions of 了 le</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">位置决定功能 wèizhi juédìng gōngnéng · Position Determines Function</span>
+      <strong>Position 1 — Post-verb 了 (动词后了)</strong><br>
+      <code>Subject + Verb + 了 + Object</code><br>
+      他吃<strong>了</strong>饭。Tā chī <strong>le</strong> fàn. — He ate (the action of eating was completed).<br><br>
+      <strong>Position 2 — Sentence-final 了 (句末了)</strong><br>
+      <code>Subject + Verb + Object + 了</code><br>
+      他结婚<strong>了</strong>。Tā jiéhūn <strong>le</strong>. — He got married (new situation: he is now married).<br><br>
+      <strong>Key distinction:</strong> Post-verb 了 marks <em>completed action</em>. Sentence-final 了 announces a <em>new state of affairs</em> — it does not require past tense and can refer to the present or even an approaching future.
+    </div>
+
+    <div class="scholar" data-glyph="了">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · 了 is Aspect, Not Tense</div>
+      <p>The most persistent learner error is equating 了 with English past tense. This is wrong in both directions. Sentence-final 了 can announce an approaching future situation: <strong>明天就要下雨了</strong> Míngtiān jiù yào xià yǔ le — "It's going to rain tomorrow" (the change is coming and now relevant). And Chinese past reference is possible without any 了 at all: 昨天我去了图书馆 and 昨天我去图书馆 are both grammatical, the difference being one of aspect emphasis. 了 marks <em>aspect</em> (completion, change of state), not <em>tense</em> (time). This distinction, once internalized, unlocks the entire system.</p>
+    </div>
+
+    <!-- ── POST-VERB 了 ── -->
+    <span class="section-anchor" id="postverb"></span>
+    <div class="section-head">
+      <span class="sh-cn">动词后了</span>
+      <span class="sh-py">dòngcí hòu le</span>
+      <span class="sh-en">Post-verb 了: Completed Actions</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">吃了</span>
+          <span class="card-py">chī le</span>
+          <span class="card-en">ate; has eaten (the action is complete)</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V + 了 · completed action</span></div>
+        <div class="card-def">
+          The most basic post-verb 了 construction. The 了 immediately follows the verb and signals that the action was completed. With a bare monosyllabic object, the 了 sits between verb and object. With a quantified object, this placement is even clearer and more natural.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">我吃了饭再走。</div>
+            <div class="ex-py">Wǒ chī le fàn zài zǒu.</div>
+            <div class="ex-en">I'll leave after I've eaten. (eating must be completed first)</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他吃了三碗米饭。</div>
+            <div class="ex-py">Tā chī le sān wǎn mǐfàn.</div>
+            <div class="ex-en">He ate three bowls of rice.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">我喝了一杯咖啡就去工作了。</div>
+            <div class="ex-py">Wǒ hē le yī bēi kāfēi jiù qù gōngzuò le.</div>
+            <div class="ex-en">I drank a cup of coffee and then went to work.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">语法 yǔfǎ · Grammar Note</span>
+          When the object is quantified (三碗, 两个, 一杯), the 了 naturally sits between verb and object: 吃<strong>了</strong>三碗. This is the clearest signal of post-verb 了 in action. A bare unquantified object in a sentence-final position often triggers the sentence-final 了 reading instead: 我吃饭了 vs. 我吃了饭.
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">买了</span>
+          <span class="card-py">mǎi le</span>
+          <span class="card-en">bought; purchased (transaction complete)</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V + 了 · completed action</span></div>
+        <div class="card-def">
+          Transactional and decisional verbs with 了 are extremely common in everyday conversation. The completion is commercially and practically significant — the item has been acquired, the deal is done, the decision has been executed. These verbs (买 buy, 卖 sell, 租 rent, 订 order, 选 choose) pair naturally with post-verb 了.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">我买了一本书。</div>
+            <div class="ex-py">Wǒ mǎi le yī běn shū.</div>
+            <div class="ex-en">I bought a book.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">她买了很多衣服。</div>
+            <div class="ex-py">Tā mǎi le hěn duō yīfu.</div>
+            <div class="ex-en">She bought a lot of clothes.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">我订了两张票。</div>
+            <div class="ex-py">Wǒ dìng le liǎng zhāng piào.</div>
+            <div class="ex-en">I booked two tickets.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">学了三年</span>
+          <span class="card-py">xué le sān nián</span>
+          <span class="card-en">studied for three years (bounded period)</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V + 了 + Duration</span></div>
+        <div class="card-def">
+          了 with a duration complement signals an action sustained for a period of time and treated as a completed, bounded episode. This construction is essential for talking about study, work, residence, and sustained experience. The duration frames the action as a finished chunk of time.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">我学了三年中文。</div>
+            <div class="ex-py">Wǒ xué le sān nián Zhōngwén.</div>
+            <div class="ex-en">I studied Chinese for three years. (and stopped, or it's treated as a completed episode)</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他在北京住了五年。</div>
+            <div class="ex-py">Tā zài Běijīng zhù le wǔ nián.</div>
+            <div class="ex-en">He lived in Beijing for five years.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">我等了一个小时。</div>
+            <div class="ex-py">Wǒ děng le yī gè xiǎoshí.</div>
+            <div class="ex-en">I waited for an hour.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">辨析 biànxī · Contrast with Double-了</span>
+          Compare: 我学了三年中文 (studied for three years — completed, possibly done) vs. 我学中文学了三年了 (I have been studying Chinese for three years — and still am). The added sentence-final 了 signals the activity continues into the present moment.
+        </div>
+      </div>
+
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">看了两遍</span>
+          <span class="card-py">kàn le liǎng biàn</span>
+          <span class="card-en">watched twice; read it through twice</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V + 了 + Frequency Complement</span></div>
+        <div class="card-def">
+          了 with a frequency complement (遍 biàn = complete passes through, 次 cì = times, 回 huí = times in colloquial speech). Marks the action as having been performed a counted number of complete cycles. The quantification of repetition implies completion of each cycle.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">这部电影我看了两遍。</div>
+            <div class="ex-py">Zhè bù diànyǐng wǒ kàn le liǎng biàn.</div>
+            <div class="ex-en">I've watched this movie twice.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这道题我做了三次还是不会。</div>
+            <div class="ex-py">Zhè dào tí wǒ zuò le sān cì hái shì bú huì.</div>
+            <div class="ex-en">I've done this problem three times and still can't get it.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他说了好几遍，我才明白。</div>
+            <div class="ex-py">Tā shuō le hǎo jǐ biàn, wǒ cái míngbai.</div>
+            <div class="ex-en">He said it several times before I finally understood.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards postverb -->
+
+    <!-- ── SENTENCE-FINAL 了 ── -->
+    <span class="section-anchor" id="sentencefinal"></span>
+    <div class="section-head">
+      <span class="sh-cn">句末了</span>
+      <span class="sh-py">jù mò le</span>
+      <span class="sh-en">Sentence-final 了: New Situation</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">下雨了</span>
+          <span class="card-py">xià yǔ le</span>
+          <span class="card-en">it's raining now; it has started to rain</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">Sentence-final 了 · change of situation</span></div>
+        <div class="card-def">
+          The canonical example of sentence-final 了 announcing a new situation. There is no past tense here — the rain is starting <em>now</em>, and the 了 signals a change of state has occurred or is occurring. This 了 carries the meaning: "now things are different from before."
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">快看，下雨了！</div>
+            <div class="ex-py">Kuài kàn, xià yǔ le!</div>
+            <div class="ex-en">Look, it's raining!</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">不下雨了。</div>
+            <div class="ex-py">Bù xià yǔ le.</div>
+            <div class="ex-en">It's stopped raining. (new situation: rain has ceased)</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">风越来越大了。</div>
+            <div class="ex-py">Fēng yuèlái yuè dà le.</div>
+            <div class="ex-en">The wind is getting stronger and stronger. (ongoing change of state)</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">语法 yǔfǎ · Negation of Sentence-final 了</span>
+          Negation uses 不, not 没: 不下雨了 = "it's not raining anymore." This is because 没 negates completed actions (the post-verb 了 domain), while 不 negates states and situations. 不…了 announces a <em>new situation of not-X</em>.
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">我明白了</span>
+          <span class="card-py">wǒ míngbai le</span>
+          <span class="card-en">I understand now; I get it (I have entered a state of understanding)</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">Sentence-final 了 · mental state entry</span></div>
+        <div class="card-def">
+          State-change verbs like 明白 (understand), 知道 (know), 懂 (grasp), 累 (tired), 饿 (hungry), 高兴 (happy) pair powerfully with sentence-final 了. The 了 marks the <em>entry into</em> that state — the moment the change occurs. Before: didn't understand. After: understands.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">啊，我明白了！</div>
+            <div class="ex-py">À, wǒ míngbai le!</div>
+            <div class="ex-en">Ah, I get it now!</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">我累了，想休息一下。</div>
+            <div class="ex-py">Wǒ lèi le, xiǎng xiūxi yīxià.</div>
+            <div class="ex-en">I'm tired now — I want to rest a bit.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">饿了吗？吃点东西吧。</div>
+            <div class="ex-py">È le ma? Chī diǎn dōngxi ba.</div>
+            <div class="ex-en">Are you hungry now? Have something to eat.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">他结婚了</span>
+          <span class="card-py">tā jiéhūn le</span>
+          <span class="card-en">he got married; he is now a married man</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">Sentence-final 了 · life event</span></div>
+        <div class="card-def">
+          Major life transitions — marriage, graduation, birth, death, career changes — are natural territory for sentence-final 了. The 了 frames the event as a change that affects the current situation: the relevant new fact is that he is now married. It answers an implicit question about the present.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他结婚了，有孩子了。</div>
+            <div class="ex-py">Tā jiéhūn le, yǒu háizi le.</div>
+            <div class="ex-en">He got married and has kids now.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">她大学毕业了，开始找工作了。</div>
+            <div class="ex-py">Tā dàxué bìyè le, kāishǐ zhǎo gōngzuò le.</div>
+            <div class="ex-en">She graduated from university and has started looking for work.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-sienna">
+        <div class="card-head">
+          <span class="card-cn">春天了</span>
+          <span class="card-py">chūntiān le</span>
+          <span class="card-en">it's spring now; spring has arrived (no verb needed)</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">Sentence-final 了 · noun + 了 (no verb)</span></div>
+        <div class="card-def">
+          One of the most elegant features of sentence-final 了: it can attach directly to a noun phrase, without any verb, to announce that the situation has become that thing. This works because 了 marks change of state — and "it has become spring" is a state change even with no overt verb present. This construction signals entry into a new category or condition.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">春天了，花都开了。</div>
+            <div class="ex-py">Chūntiān le, huā dōu kāi le.</div>
+            <div class="ex-en">It's spring now — all the flowers have bloomed.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">都十二点了！</div>
+            <div class="ex-py">Dōu shí'èr diǎn le!</div>
+            <div class="ex-en">It's already midnight! (expressing surprise at how late it is)</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他都四十岁了还不结婚。</div>
+            <div class="ex-py">Tā dōu sìshí suì le hái bù jiéhūn.</div>
+            <div class="ex-en">He's already forty and still won't get married.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">学者洞见 xuézhě dòngjiàn · 都 + 了</span>
+          都 dōu (already, even) + 了 is a powerful combination for expressing surprise at how much time has passed or how extreme a situation has become: 都这么晚了 "it's already so late," 都这么多了 "there's already so much." The 都 sets up an implicit expectation that makes the 了 announcement more emphatic.
+        </div>
+      </div>
+
+    </div><!-- /cards sentencefinal -->
+
+    <!-- ── DOUBLE 了 ── -->
+    <span class="section-anchor" id="double"></span>
+    <div class="section-head">
+      <span class="sh-cn">双了句</span>
+      <span class="sh-py">shuāng le jù</span>
+      <span class="sh-en">The Double 了 Construction</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="了">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · 他吃了饭了 — Two 了, Two Jobs</div>
+      <p>了 can appear <strong>twice in a single sentence</strong>, each doing a completely different job. This is not redundancy — it is grammatical precision that native speakers deploy without thinking. The first 了 (post-verb) marks the completion of the action; the second 了 (sentence-final) signals that this completed state is a currently relevant fact about the world.</p>
+      <p><strong>他吃了饭了。</strong> Tā chī le fàn le.<br>
+      Post-verb 了: the eating is complete. Sentence-final 了: the fact that he has eaten is now relevant to our current situation. The closest English rendering: "He has already eaten" (so don't worry about feeding him, or we can leave now).</p>
+      <p>The double-了 is especially common when a completed action has <em>ongoing relevance</em>. Compare: 我学了三年中文 = "I studied Chinese for three years" (and have now moved on, or it's a completed fact about my past) vs. 我学中文学了三年了 = "I've been studying Chinese for three years" (and am still doing so — the situation continues into the present). The second sentence-final 了 keeps the door open.</p>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">她来了两个星期了</span>
+          <span class="card-py">tā lái le liǎng gè xīngqī le</span>
+          <span class="card-en">she has been here for two weeks (and is still here)</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">Double 了 · duration still ongoing</span></div>
+        <div class="card-def">
+          The double-了 construction with a duration complement is one of its most important uses. The first 了 marks the initial arrival (completed action of coming); the second 了 marks the current relevance — she is still here now. Without the second 了, the sentence implies the visit is concluded.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">她来了两个星期了。</div>
+            <div class="ex-py">Tā lái le liǎng gè xīngqī le.</div>
+            <div class="ex-en">She has been here for two weeks. (and is still here)</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">我等了半个小时了！</div>
+            <div class="ex-py">Wǒ děng le bàn gè xiǎoshí le!</div>
+            <div class="ex-en">I've been waiting for half an hour! (and am still waiting, impatiently)</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他睡了两个小时了，还没起来。</div>
+            <div class="ex-py">Tā shuì le liǎng gè xiǎoshí le, hái méi qǐlái.</div>
+            <div class="ex-en">He's been asleep for two hours already and still hasn't gotten up.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards double -->
+
+    <!-- ── NEGATION ── -->
+    <span class="section-anchor" id="negation"></span>
+    <div class="section-head">
+      <span class="sh-cn">否定</span>
+      <span class="sh-py">fǒudìng</span>
+      <span class="sh-en">Negation of 了</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">否定规律 fǒudìng guīlǜ · The Negation System</span>
+      <strong>Negating post-verb 了 (completed action):</strong> use 没(有) méi(yǒu) — which simultaneously removes 了<br>
+      吃了 → 没吃 / 没有吃 (did not eat / have not eaten). Never say 没吃了.<br><br>
+      <strong>Negating sentence-final 了 (new situation):</strong> use 不…了 bù…le to say "no longer" or "won't anymore"<br>
+      他来了 → 他不来了 (he's not coming anymore — situation has reversed)<br><br>
+      <strong>"Not yet" construction:</strong> 还没…呢 hái méi… ne<br>
+      他还没吃呢。Tā hái méi chī ne. — He hasn't eaten yet. (expectation unfulfilled)
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">没吃</span>
+          <span class="card-py">méi chī</span>
+          <span class="card-en">didn't eat; have not eaten</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">没 + V — negates completed action</span></div>
+        <div class="card-def">
+          没(有) is the standard negator for completed actions. It replaces 了 entirely — you never say 没吃了, because 没 already carries the information that no completion occurred. The 了 is superfluous and wrong. This is a near-universal rule: 没 and post-verb 了 are mutually exclusive.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">我没吃早饭。</div>
+            <div class="ex-py">Wǒ méi chī zǎofàn.</div>
+            <div class="ex-en">I didn't eat breakfast.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他没买那本书。</div>
+            <div class="ex-py">Tā méi mǎi nà běn shū.</div>
+            <div class="ex-en">He didn't buy that book.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">我没看那部电影。</div>
+            <div class="ex-py">Wǒ méi kàn nà bù diànyǐng.</div>
+            <div class="ex-en">I didn't watch that movie.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">常见错误 chángjiàn cuòwù · Common Error</span>
+          <strong>Wrong:</strong> 我没吃了饭 / 我不吃了饭<br>
+          <strong>Right:</strong> 我没吃饭 — 不 is for habitual negation and future refusals, not for negating completed past actions. 不 and 没 are not interchangeable here.
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">不来了</span>
+          <span class="card-py">bù lái le</span>
+          <span class="card-en">not coming anymore; decided not to come</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">不 + V + 了 — situation reversal</span></div>
+        <div class="card-def">
+          不…了 is the negation of sentence-final 了 — it signals a reversal of an expected or prior state. The 了 here paradoxically signals a <em>new</em> situation: the new situation is "not doing X anymore." Extremely common for announcing changed plans, habits that have been given up, or states that have ended.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">我不去了，太远了。</div>
+            <div class="ex-py">Wǒ bù qù le, tài yuǎn le.</div>
+            <div class="ex-en">I'm not going anymore — it's too far.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他不喝酒了。</div>
+            <div class="ex-py">Tā bù hē jiǔ le.</div>
+            <div class="ex-en">He doesn't drink anymore. (has given it up)</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">我不喜欢他了。</div>
+            <div class="ex-py">Wǒ bù xǐhuān tā le.</div>
+            <div class="ex-en">I don't like him anymore. (feelings have changed)</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">还没…呢</span>
+          <span class="card-py">hái méi … ne</span>
+          <span class="card-en">not yet; hasn't happened yet</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">还没 + V + 呢 — unfulfilled expectation</span></div>
+        <div class="card-def">
+          还没…呢 is the "not yet" structure, implying the action was expected but has not been completed. The 还 (still, yet) sets up the expectation; 没 negates completion; and 呢 adds mild emphasis or a sense of mild surprise at the non-completion. Together they create a tone of "can you believe it hasn't happened yet."
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他还没来呢。</div>
+            <div class="ex-py">Tā hái méi lái ne.</div>
+            <div class="ex-en">He hasn't come yet.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">作业还没写完呢。</div>
+            <div class="ex-py">Zuòyè hái méi xiě wán ne.</div>
+            <div class="ex-en">The homework isn't done yet.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">都这么晚了，他还没回来呢！</div>
+            <div class="ex-py">Dōu zhème wǎn le, tā hái méi huílái ne!</div>
+            <div class="ex-en">It's already so late and he still hasn't come back!</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards negation -->
+
+    <!-- ── 了 LIǍO ── -->
+    <span class="section-anchor" id="liao"></span>
+    <div class="section-head">
+      <span class="sh-cn">了 liǎo</span>
+      <span class="sh-py">liǎo</span>
+      <span class="sh-en">了 liǎo: The Other Pronunciation</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="了">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · The liǎo Bound Morpheme Family</div>
+      <p>When 了 is pronounced <strong>liǎo</strong>, it functions as a bound morpheme — never a standalone particle — carrying the meaning of <em>clarity, completion, ability to reach an end, or conclusion.</em> This is the older, more literary face of the character, closer to its origin in 瞭 liǎo (clear-sighted; to see all the way through). The liǎo family includes some of the most common and colorful expressions in the language.</p>
+      <p>The potential complement construction is particularly important: <strong>V + 得/不 + 了 liǎo</strong>, meaning "can / cannot complete the action." 吃得了 = able to eat it all; 受不了 = cannot endure. This 了 tests whether an action can reach completion — a direct echo of its etymological meaning of "seeing through to the end."</p>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">了不起</span>
+          <span class="card-py">liǎo bu qǐ</span>
+          <span class="card-en">remarkable; extraordinary; amazing</span>
+        </div>
+        <div class="tags"><span class="tag tag-adj">Adj 形容词</span></div>
+        <div class="card-def">
+          了 liǎo (to conclude; to surpass) + 不 + 起 (unable to rise above; potential complement marker). Literally "cannot be surpassed or concluded" — what cannot be surpassed is extraordinary. A high-praise adjective in everyday speech. The negative form 没什么了不起的 (nothing so remarkable) is equally common as a dismissive.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他真了不起，二十岁就当上了经理。</div>
+            <div class="ex-py">Tā zhēn liǎobuqǐ, èrshí suì jiù dāng shàng le jīnglǐ.</div>
+            <div class="ex-en">He's truly remarkable — became a manager at twenty.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">没什么了不起的。</div>
+            <div class="ex-py">Méi shénme liǎobuqǐ de.</div>
+            <div class="ex-en">Nothing so remarkable about it. (dismissive)</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">受不了</span>
+          <span class="card-py">shòu bu liǎo</span>
+          <span class="card-en">can't stand it; unbearable; past one's limit</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V + 不 + 了 · potential complement (negative)</span></div>
+        <div class="card-def">
+          受 shòu (to endure; to receive) + 不了 liǎo (cannot complete the action of enduring). The potential complement with 不了 means the action cannot reach completion — endurance hits its limit. One of the most frequently used expressions in daily speech for frustration, exhaustion, or overwhelm. The affirmative 受得了 = "can handle it."
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">这么热的天气，我受不了！</div>
+            <div class="ex-py">Zhème rè de tiānqì, wǒ shòu bu liǎo!</div>
+            <div class="ex-en">I can't stand this hot weather!</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他太烦了，我受不了他。</div>
+            <div class="ex-py">Tā tài fán le, wǒ shòu bu liǎo tā.</div>
+            <div class="ex-en">He's so annoying — I can't stand him.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">语法 yǔfǎ · Potential Complement Pattern</span>
+          <code>V + 得/不 + 了 liǎo</code> works with many verbs: 吃得了 (can eat it all) / 吃不了 (can't eat it all), 做得了 (can do it) / 做不了 (can't do it), 说得了 (can manage to say it) / 说不了 (can't say it). This is distinct from the resultative complement pattern with 完 or 好.
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">了解</span>
+          <span class="card-py">liǎojiě</span>
+          <span class="card-en">to understand thoroughly; to have rounded knowledge of</span>
+        </div>
+        <div class="tags"><span class="tag tag-vn">V/N 动名词</span></div>
+        <div class="card-def">
+          了 liǎo (clear-sighted; complete) + 解 jiě (to unravel; to untie). The full unraveling of something until it is entirely clear — understanding that goes all the way through, not just surface knowledge. More thorough than 知道 zhīdao (to know a fact). Common across casual speech and formal registers.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">你了解中国历史吗？</div>
+            <div class="ex-py">Nǐ liǎojiě Zhōngguó lìshǐ ma?</div>
+            <div class="ex-en">Do you have knowledge of Chinese history?</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">我们需要互相了解。</div>
+            <div class="ex-py">Wǒmen xūyào hùxiāng liǎojiě.</div>
+            <div class="ex-en">We need to understand each other.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">了结</span>
+          <span class="card-py">liǎojié</span>
+          <span class="card-en">to conclude; to settle; to bring to a definitive end</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V 动词 · formal register</span></div>
+        <div class="card-def">
+          了 liǎo (to conclude) + 结 jié (knot; tied up; settled). To tie off and close a matter definitively. Used for settling disputes, concluding legal cases, or resolving something that has dragged on without resolution. Has a formal or literary flavor — matters of weight are 了结d.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">这件事必须尽快了结。</div>
+            <div class="ex-py">Zhè jiàn shì bìxū jǐnkuài liǎojié.</div>
+            <div class="ex-en">This matter must be concluded as soon as possible.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他想了结这段感情。</div>
+            <div class="ex-py">Tā xiǎng liǎojié zhè duàn gǎnqíng.</div>
+            <div class="ex-en">He wants to end this relationship once and for all.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards liao -->
+
+    <!-- ── TABLE ── -->
+    <span class="section-anchor" id="table"></span>
+    <div class="section-head">
+      <span class="sh-cn">对照表</span>
+      <span class="sh-py">duìzhào biǎo</span>
+      <span class="sh-en">V-了 Pattern Table with Negation Pairs</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>肯定 Affirmative</th>
+            <th>拼音 Pīnyīn</th>
+            <th>否定 Negative</th>
+            <th>拼音 Pīnyīn</th>
+            <th>英文 English</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="td-cn">吃了</td>
+            <td class="td-py">chī le</td>
+            <td class="td-cn">没吃</td>
+            <td class="td-py">méi chī</td>
+            <td>ate / didn't eat</td>
+          </tr>
+          <tr>
+            <td class="td-cn">买了</td>
+            <td class="td-py">mǎi le</td>
+            <td class="td-cn">没买</td>
+            <td class="td-py">méi mǎi</td>
+            <td>bought / didn't buy</td>
+          </tr>
+          <tr>
+            <td class="td-cn">来了</td>
+            <td class="td-py">lái le</td>
+            <td class="td-cn">没来 / 不来了</td>
+            <td class="td-py">méi lái / bù lái le</td>
+            <td>came / didn't come / not coming anymore</td>
+          </tr>
+          <tr>
+            <td class="td-cn">看了</td>
+            <td class="td-py">kàn le</td>
+            <td class="td-cn">没看</td>
+            <td class="td-py">méi kàn</td>
+            <td>watched / didn't watch</td>
+          </tr>
+          <tr>
+            <td class="td-cn">做完了</td>
+            <td class="td-py">zuò wán le</td>
+            <td class="td-cn">没做完</td>
+            <td class="td-py">méi zuò wán</td>
+            <td>finished / didn't finish</td>
+          </tr>
+          <tr>
+            <td class="td-cn">结婚了</td>
+            <td class="td-py">jiéhūn le</td>
+            <td class="td-cn">还没结婚呢</td>
+            <td class="td-py">hái méi jiéhūn ne</td>
+            <td>got married / not married yet</td>
+          </tr>
+          <tr>
+            <td class="td-cn">明白了</td>
+            <td class="td-py">míngbai le</td>
+            <td class="td-cn">还不明白</td>
+            <td class="td-py">hái bù míngbai</td>
+            <td>understand now / still don't understand</td>
+          </tr>
+          <tr>
+            <td class="td-cn">下雨了</td>
+            <td class="td-py">xià yǔ le</td>
+            <td class="td-cn">不下雨了</td>
+            <td class="td-py">bù xià yǔ le</td>
+            <td>it's raining / it stopped raining</td>
+          </tr>
+          <tr>
+            <td class="td-cn">学了三年</td>
+            <td class="td-py">xué le sān nián</td>
+            <td class="td-cn">才学了一年</td>
+            <td class="td-py">cái xué le yī nián</td>
+            <td>studied 3 years / only studied 1 year</td>
+          </tr>
+          <tr>
+            <td class="td-cn">他来了两天了</td>
+            <td class="td-py">tā lái le liǎng tiān le</td>
+            <td class="td-cn">他才来了一天</td>
+            <td class="td-py">tā cái lái le yī tiān</td>
+            <td>been here 2 days (still here) / only been here 1 day</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- ── CHENGYU ── -->
+    <span class="section-anchor" id="chengyu"></span>
+    <div class="section-head">
+      <span class="sh-cn">成语</span>
+      <span class="sh-py">chéngyǔ</span>
+      <span class="sh-en">Idioms &amp; Set Phrases — Completion &amp; Closure</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="chengyu-grid">
+
+      <div class="cy">
+        <span class="cy-cn">不了了之</span>
+        <span class="cy-py">bù liǎo liǎo zhī</span>
+        <span class="cy-en">to let a matter fade away unresolved; to end without proper conclusion</span>
+        <span class="cy-note">Lit: not-conclude-conclude-it. Uses 了 liǎo as a verb twice — "to not conclude [a matter], to conclude [it anyway]." A set phrase for when a problem or investigation is allowed to dissolve without resolution — bureaucratic negligence, diplomatic evasion, quiet abandonment. 这件事就这样不了了之了。"The matter was just quietly dropped."</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">大功告成</span>
+        <span class="cy-py">dà gōng gào chéng</span>
+        <span class="cy-en">the great work is accomplished; mission complete</span>
+        <span class="cy-note">Lit: great-merit-announce-complete. The triumphant announcement of a major achievement or the completion of a major project. The 成 chéng (to accomplish, to complete) echoes the completion semantics of 了. Used both sincerely for genuine achievements and ironically for tasks that felt monumentally difficult.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">善始善终</span>
+        <span class="cy-py">shàn shǐ shàn zhōng</span>
+        <span class="cy-en">good beginning, good ending; to see something through properly from start to finish</span>
+        <span class="cy-note">Lit: good-start-good-end. The virtue of completing what one begins, and completing it well. 终 zhōng (end, conclusion) is the Classical Chinese counterpart to the grammatical 了 — both mark the reaching of an end. This idiom captures the moral weight of completion.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">尘埃落定</span>
+        <span class="cy-py">chén'āi luò dìng</span>
+        <span class="cy-en">the dust has settled; a situation has finally reached resolution</span>
+        <span class="cy-note">Lit: dust-settle-fixed. Evokes the moment after turmoil when everything finally comes to rest and the outcome is clear. Title of Alai's celebrated Tibetan novel. Used to announce that a long-contested situation has finally reached a definitive state — the sentence-final 了 feeling captured in idiom form.</span>
+      </div>
+
+    </div>
+
+    <!-- ── ADJACENT VOCAB ── -->
+    <span class="section-anchor" id="adjacent"></span>
+    <div class="section-head">
+      <span class="sh-cn">相邻词汇</span>
+      <span class="sh-py">xiānglín cíhuì</span>
+      <span class="sh-en">Adjacent Vocabulary</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">过</span><span class="a-py">guò</span><span class="a-en">experiential aspect marker</span></span>
+      <span class="adj"><span class="a-cn">着</span><span class="a-py">zhe</span><span class="a-en">ongoing/continuous aspect</span></span>
+      <span class="adj"><span class="a-cn">呢</span><span class="a-py">ne</span><span class="a-en">softening / ongoing particle</span></span>
+      <span class="adj"><span class="a-cn">已经</span><span class="a-py">yǐjīng</span><span class="a-en">already</span></span>
+      <span class="adj"><span class="a-cn">刚</span><span class="a-py">gāng</span><span class="a-en">just (recently)</span></span>
+      <span class="adj"><span class="a-cn">刚才</span><span class="a-py">gāngcái</span><span class="a-en">just now (recent past)</span></span>
+      <span class="adj"><span class="a-cn">曾经</span><span class="a-py">céngjīng</span><span class="a-en">once; formerly</span></span>
+      <span class="adj"><span class="a-cn">完</span><span class="a-py">wán</span><span class="a-en">to finish (resultative complement)</span></span>
+      <span class="adj"><span class="a-cn">好</span><span class="a-py">hǎo</span><span class="a-en">ready; done (resultative)</span></span>
+      <span class="adj"><span class="a-cn">没有</span><span class="a-py">méiyǒu</span><span class="a-en">did not; have not</span></span>
+      <span class="adj"><span class="a-cn">还</span><span class="a-py">hái</span><span class="a-en">still; yet</span></span>
+      <span class="adj"><span class="a-cn">都</span><span class="a-py">dōu</span><span class="a-en">already (emphatic with 了)</span></span>
+      <span class="adj"><span class="a-cn">终于</span><span class="a-py">zhōngyú</span><span class="a-en">finally; at last</span></span>
+      <span class="adj"><span class="a-cn">就要</span><span class="a-py">jiù yào</span><span class="a-en">about to; soon (imminent)</span></span>
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="page-footer">
+      <span class="footer-id">Field Notes on Chinese · <span>了 le / liǎo</span> · le_了.html</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>

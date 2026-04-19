@@ -1,0 +1,400 @@
+---
+type: 'topic'
+category: 'religion'
+status: 'complete'
+title: '道教 · Daoism'
+desc: 'Daoism as organized religion — distinct from Daoist philosophy.'
+metaDesc: "道教 dàojiào: Daoism as philosophy and religion — the Daodejing, non-action, the Daoist pantheon, inner alchemy, temple institutions, and the pervasive influence of Daoist thought on Chinese culture."
+pageTitle: '道教 dàojiào · Daoism'
+tags:
+  - 'daoism'
+  - 'religion'
+  - 'immortality'
+updated: '2026-04-18'
+pinyin: 'dàojiào'
+---
+
+<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+    <span class="toc-topic">道教</span>
+    <span class="toc-topic-en">Daoism</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#daojia-daojiao">
+        <span class="toc-cn">两道</span> Two Daoisms
+        <span class="toc-sub">philosophy vs. religion</span>
+      </a></li>
+      <li><a href="#daodejing">
+        <span class="toc-cn">道德经</span> Daodejing
+        <span class="toc-sub">the paradoxical text</span>
+      </a></li>
+      <li><a href="#pantheon">
+        <span class="toc-cn">神仙</span> The Pantheon
+        <span class="toc-sub">Jade Emperor to Eight Immortals</span>
+      </a></li>
+      <li><a href="#xiulian">
+        <span class="toc-cn">修炼</span> Cultivation Practices
+        <span class="toc-sub">inner alchemy and ritual</span>
+      </a></li>
+      <li><a href="#guan">
+        <span class="toc-cn">宫观</span> Temples
+        <span class="toc-sub">institutions and priests</span>
+      </a></li>
+      <li><a href="#wenhua">
+        <span class="toc-cn">文化</span> Cultural Influence
+        <span class="toc-sub">arts, medicine, martial arts</span>
+      </a></li>
+      <li><a href="#chengyu">
+        <span class="toc-cn">成语</span> Idioms
+        <span class="toc-sub">Daoist set phrases</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">Religion · 宗教 zōngjiào</span>
+      <h1 class="topic-hero-title">道教</h1>
+      <span class="topic-hero-title-py">dàojiào</span>
+      <p class="topic-hero-desc">China's indigenous religion and its philosophical root — the Way that cannot be named, the power of yielding, and two millennia of organized pursuit of immortality, ritual efficacy, and harmony with the natural order.</p>
+    </header>
+
+    <!-- ── TWO DAOISMS ── -->
+    <span class="section-anchor" id="daojia-daojiao"></span>
+    <div class="section-head">
+      <span class="sh-cn">道家与道教</span>
+      <span class="sh-py">dàojiā yǔ dàojiào</span>
+      <span class="sh-en">Two Daoisms — Philosophy and Religion</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="道">
+      <div class="scholar-label">概念洞见 gàiniàn dòngjiàn · Conceptual Insight</div>
+      <p>Western scholars traditionally distinguish between two overlapping but distinct traditions sharing the name 道 Dào. <strong>道家 Dàojiā</strong> (Daoist philosophy) refers to the classical philosophical school associated primarily with Laozi 老子 and Zhuangzi 庄子 — thinkers of the 4th–3rd century BCE who developed a metaphysical vision of the 道 (Way) as the nameless, formless source and sustaining order of all things. This is the tradition of 无为 wúwéi (non-action, or effortless action aligned with nature), 自然 zìrán (naturalness, spontaneity), and the critique of Confucian moralism as artificial imposition.</p>
+      <p><strong>道教 Dàojiào</strong> (Daoist religion) refers to the organized religious tradition that emerged in the 2nd century CE, most influentially with the Tianshi (Celestial Masters 天师道) movement founded by Zhang Daoling 张道陵 in 142 CE. This tradition appropriated the classical philosophical texts as scriptures but added an elaborate pantheon of deities, a clergy of 道士 dàoshi (Daoist priests), ritual practices aimed at healing and community protection, and most distinctively — a sustained quest for physical immortality 长生不老 through cultivation of the body's vital energies.</p>
+      <p>The two are not simply "good philosophy" versus "superstitious religion." They interpenetrate deeply: classical Daoist texts justify many religious practices; organized Daoism preserved and transmitted the philosophical heritage. Chinese intellectuals have moved fluidly between both registers. This page covers both but centers the religious tradition as the living institutional reality.</p>
+    </div>
+
+    <!-- ── DAODEJING ── -->
+    <span class="section-anchor" id="daodejing"></span>
+    <div class="section-head">
+      <span class="sh-cn">道德经</span>
+      <span class="sh-py">Dàodéjīng</span>
+      <span class="sh-en">The Daodejing — The Book of the Way and Its Power</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="道">
+      <div class="scholar-label">文本洞见 wénběn dòngjiàn · Text Insight</div>
+      <p>The 道德经 Dàodéjīng (also romanized Tao Te Ching) is attributed to the legendary sage Laozi 老子 — "Old Master" — a figure of uncertain historicity, perhaps a Zhou dynasty archivist. The text itself, discovered in a remarkable 168 BCE manuscript at Mawangdui and in an even older version at Guodian (c. 300 BCE), is 81 short chapters totaling roughly 5,000 characters — one of the most translated books in world history.</p>
+      <p>The text opens with a deliberate paradox: <strong>道可道，非常道</strong> — "The Dao that can be spoken is not the eternal Dao." This is not obscurantism but a structural claim: the Way is not a concept that can be captured in language and held still, because it is the living process of change itself. Everything in the text flows from this: language falsifies, rigid categories distort, and so the sage leads by 无为 wúwéi — by not imposing, not forcing, not interfering with the natural unfolding of things.</p>
+      <p>The 道德经 divides into two halves: 道经 (chapters 1–37, on the Way) and 德经 (chapters 38–81, on its power/virtue). 德 dé in this context is not "morality" in the Confucian sense but the inherent potency or efficacy that things possess when they are aligned with the Way — a tree's ability to grow, water's ability to carve stone.</p>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">无为</span>
+          <span class="card-py">wúwéi</span>
+          <span class="card-en">non-action; effortless action aligned with nature</span>
+        </div>
+        <div class="card-def">
+          无 wú (without) + 为 wéi (doing, striving, acting). Not passivity — the <em>absence of forced, ego-driven action.</em> Laozi's paradox: the sage accomplishes everything by not striving: 无为而无不为 — "through non-action, nothing is left undone." Water is the archetype: it flows without effort, takes the shape of its container, yields to obstacles, and yet over centuries carves canyons.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">为学日益，为道日损，损之又损，以至于无为。</div>
+            <div class="ex-py">Wéi xué rì yì, wéi dào rì sǔn, sǔn zhī yòu sǔn, yǐ zhì yú wúwéi.</div>
+            <div class="ex-en">In pursuit of learning, every day something is added. In pursuit of the Dao, every day something is let go — until non-action is reached. <em>(Daodejing 48)</em></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">自然</span>
+          <span class="card-py">zìrán</span>
+          <span class="card-en">naturalness; spontaneity; "of itself so"</span>
+        </div>
+        <div class="card-def">
+          自 zì (self) + 然 rán (so/thus). Not "nature" as landscape but <em>that which is so of itself</em> — self-arising, uncaused by external force. In Daoist thought, the highest ideal: humans should model themselves on Earth, Earth on Heaven, Heaven on the Dao, the Dao on 自然 — its own self-arising. The modern Chinese word for "nature" (自然界) derives from this concept.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">道法自然。</div>
+            <div class="ex-py">Dào fǎ zìrán.</div>
+            <div class="ex-en">The Dao models itself on what is naturally so. <em>(Daodejing 25)</em></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">柔弱</span>
+          <span class="card-py">róuruò</span>
+          <span class="card-en">softness and yielding — the power of the apparently weak</span>
+        </div>
+        <div class="card-def">
+          柔 róu (soft, supple) + 弱 ruò (weak). The Daodejing's counterintuitive teaching: the soft overcomes the hard, the yielding overcomes the rigid. Water is soft yet carves rock. The newborn is supremely soft and full of life; the corpse is rigid. A stiff tree breaks in the storm; the flexible reed survives. 柔弱 is not weakness but strategic alignment with the Way's own nature.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">天下莫柔弱于水，而攻坚强者莫之能胜。</div>
+            <div class="ex-py">Tiānxià mò róuruò yú shuǐ, ér gōng jiānqiáng zhě mò zhī néng shèng.</div>
+            <div class="ex-en">Nothing under Heaven is as soft as water, yet nothing surpasses it in wearing away the hard and strong. <em>(Daodejing 78)</em></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">朴</span>
+          <span class="card-py">pǔ</span>
+          <span class="card-en">the uncarved block — original simplicity before social shaping</span>
+        </div>
+        <div class="card-def">
+          朴 pǔ — unworked wood, the block before the sculptor's chisel. The Daoist image for the original undivided state of human nature and reality, before categories, distinctions, desires, and social roles have carved it into something particular. The 道德经 recommends returning to this condition: 见素抱朴 (see plainness, embrace simplicity). Zhuangzi extends this into a radical critique of civilization: the more tools, institutions, and moral systems, the further from 朴.
+        </div>
+      </div>
+
+    </div><!-- /cards daodejing concepts -->
+
+    <!-- ── PANTHEON ── -->
+    <span class="section-anchor" id="pantheon"></span>
+    <div class="section-head">
+      <span class="sh-cn">道教神仙</span>
+      <span class="sh-py">dàojiào shénxiān</span>
+      <span class="sh-en">The Daoist Pantheon</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="仙">
+      <div class="scholar-label">宗教洞见 zōngjiào dòngjiàn · Religious Insight</div>
+      <p>Daoism developed one of the most elaborate and flexible pantheons in world religion. Unlike the Confucian tradition — which was skeptical of spirits and deities (子不语怪力乱神, "Confucius did not speak of the uncanny, feats of strength, disorder, or the supernatural") — Daoism actively incorporated deities of all origins. Figures from folk religion, historical heroes, deified philosophers, and celestial bureaucrats were absorbed and systematized into a divine hierarchy that mirrored the imperial court. The Jade Emperor's heavenly court had ministries, ranks, promotions, and paperwork — the celestial and terrestrial bureaucracies reflected each other.</p>
+      <p>Key to understanding the Daoist pantheon: no deity is permanently fixed. Gods can be promoted, demoted, or even replaced based on their efficacy in helping worshippers. This contractual, pragmatic relationship between humans and deities is distinctly Chinese — and quite different from Western monotheistic conceptions of the divine.</p>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">玉皇大帝</span>
+          <span class="card-py">Yù Huáng Dàdì</span>
+          <span class="card-en">Jade Emperor — supreme ruler of the heavenly court</span>
+        </div>
+        <div class="card-def">
+          The supreme deity of the popular Daoist/folk religion pantheon — the celestial equivalent of the human emperor, presiding over a vast bureaucratic heaven. His birthday is celebrated on the 9th day of the first lunar month. He commands all other deities, assigns their posts, and receives their reports. In popular imagination (especially the 西游记 Journey to the West), he is powerful but often outmaneuvered by the Monkey King Sun Wukong.
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">三清</span>
+          <span class="card-py">Sānqīng</span>
+          <span class="card-en">Three Pure Ones — the supreme triad of Daoist theology</span>
+        </div>
+        <div class="card-def">
+          The highest tier of the Daoist theological hierarchy, above even the Jade Emperor. The Three Pure Ones are personifications of the three primordial energies that gave rise to the cosmos: <strong>元始天尊</strong> Yuánshǐ Tiānzūn (Celestial Worthy of Primordial Beginning), <strong>灵宝天尊</strong> Língbǎo Tiānzūn (Celestial Worthy of Numinous Treasure), and <strong>道德天尊</strong> Dàodé Tiānzūn (Celestial Worthy of the Way and Its Power — the deified Laozi, also called 太上老君). The third member — Laozi as deity — illustrates the process by which Daoist religion sacralized its philosophical ancestor.
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">八仙</span>
+          <span class="card-py">Bā Xiān</span>
+          <span class="card-en">Eight Immortals — beloved popular figures who achieved immortality</span>
+        </div>
+        <div class="card-def">
+          The most beloved figures in Chinese popular Daoism — eight mortals who through cultivation, virtue, or circumstance achieved immortality 成仙. Each carries a distinctive implement: 吕洞宾 Lǚ Dòngbīn (the scholar-swordsman, most famous of the eight), 铁拐李 Tiě Guǎi Lǐ (the cripple with an iron crutch), 何仙姑 Hé Xiāngū (the lone woman, with a lotus), 张果老 Zhāng Guǒlǎo (the elder who rides his donkey backward). Their story: crossing the sea using their implements as vessels. 八仙过海，各显神通 — "the Eight Immortals cross the sea, each showing their special powers" — a chengyu for individual talents in collective effort.
+        </div>
+      </div>
+
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">妈祖</span>
+          <span class="card-py">Māzǔ</span>
+          <span class="card-en">Mazu — goddess of the sea, protector of sailors</span>
+        </div>
+        <div class="card-def">
+          A historical woman named Lin Mo (林默, 960–987 CE) from Fujian Province who died young and was venerated as a protector of fishermen. Over centuries, the imperial court awarded her progressively higher titles, and she was absorbed into the Daoist pantheon. Today she is worshipped across coastal China, Taiwan (where she is the most popular deity), Southeast Asia, and wherever Southern Chinese diaspora communities settled. Her main temple on Meizhou Island draws millions of pilgrims annually.
+        </div>
+      </div>
+
+      <div class="card c-sienna">
+        <div class="card-head">
+          <span class="card-cn">关帝</span>
+          <span class="card-py">Guān Dì</span>
+          <span class="card-en">Emperor Guan — deified general, god of war and righteousness</span>
+        </div>
+        <div class="card-def">
+          Guan Yu 关羽 (d. 220 CE), the historical Three Kingdoms general celebrated for his loyalty and righteousness 义 yì, was progressively deified over the Tang, Song, and Ming dynasties, eventually receiving the title 关圣帝君 (Holy Emperor Guan). He is simultaneously a Daoist deity, a Confucian icon of 义, and a bodhisattva in Chinese Buddhist temples. Worshipped by police, military, and business people (especially in Cantonese-speaking communities). His red-faced statue is found in temples, restaurants, and police stations across the Chinese world.
+        </div>
+      </div>
+
+    </div><!-- /cards pantheon -->
+
+    <!-- ── CULTIVATION ── -->
+    <span class="section-anchor" id="xiulian"></span>
+    <div class="section-head">
+      <span class="sh-cn">修炼之道</span>
+      <span class="sh-py">xiūliàn zhī dào</span>
+      <span class="sh-en">Cultivation Practices — the Path to Immortality</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">内丹</span>
+          <span class="card-py">nèidān</span>
+          <span class="card-en">inner alchemy — meditation, breathwork, and cultivation of vital energies</span>
+        </div>
+        <div class="card-def">
+          内 nèi (inner) + 丹 dān (cinnabar; elixir). Inner alchemy uses the body itself as the crucible: through breathing exercises (吐纳 tǔnà), meditation (静坐 jìngzuò), and visualization, the practitioner refines the body's three treasures — 精 jīng (essence/semen), 气 qì (vital breath), 神 shén (spirit) — and circulates them through the body's energy channels to nourish and eventually transmute the practitioner. The goal: forging an immortal spirit body (阳神 yángshen) that survives physical death. Neidan became the dominant form of Daoist self-cultivation after the Tang dynasty, particularly in the Quanzhen school.
+        </div>
+        <div class="note">
+          <span class="note-label">后世影响 · Later Influence</span>
+          Neidan practices are the historical root of qigong 气功, taijiquan 太极拳, and many traditional Chinese health cultivation (养生 yǎngshēng) practices. The concept of 丹田 dāntián — the "cinnabar field" energy center in the lower abdomen — remains central to Chinese martial arts and medicine.
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">外丹</span>
+          <span class="card-py">wàidān</span>
+          <span class="card-en">outer alchemy — elixirs of immortality</span>
+        </div>
+        <div class="card-def">
+          外 wài (outer) + 丹 dān (cinnabar). The earlier tradition: physically preparing elixirs in a laboratory by heating and transforming minerals — especially cinnabar (mercury sulfide), lead, gold, and sulfur — to produce an immortality drug. The Tang dynasty was the high point of waidan; several emperors died from ingesting mercury-based "immortality elixirs." This contributed to waidan's decline in favor of neidan by the Song dynasty. Paradoxically, waidan was an early form of experimental chemistry.
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">斋醮</span>
+          <span class="card-py">zhāijiào</span>
+          <span class="card-en">ritual fasting and offerings — communal Daoist ceremony</span>
+        </div>
+        <div class="card-def">
+          斋 zhāi (fasting; purification) + 醮 jiào (offering ritual). The public ritual ceremonies performed by 道士 Daoist priests on behalf of communities — for healing, protection, the release of souls from purgatory, or celebration of cosmic events. These ceremonies can last from a single day to weeks, involving elaborate altar arrangements, chanting of scriptures, burning of paper offerings, and processional rites. They are the most publicly visible expression of organized Daoism.
+        </div>
+      </div>
+
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">符箓</span>
+          <span class="card-py">fúlù</span>
+          <span class="card-en">talismans and registers — written instruments of Daoist power</span>
+        </div>
+        <div class="card-def">
+          符 fú (talisman — a written or drawn symbol charged with spiritual power) + 箓 lù (registers — lists of divine names that give priests authority over corresponding spirits). Daoist priests are authorized to write and use specific talismans by their ordination lineage; each talisman commands a specific deity or spirit. Talismans are burned (releasing their power), worn, or placed in locations. The tradition of 符 is deeply embedded in Chinese popular religion and remains active today.
+        </div>
+      </div>
+
+    </div><!-- /cards cultivation -->
+
+    <!-- ── TEMPLES ── -->
+    <span class="section-anchor" id="guan"></span>
+    <div class="section-head">
+      <span class="sh-cn">道教宫观</span>
+      <span class="sh-py">dàojiào gōng guān</span>
+      <span class="sh-en">Temples, Priests, and the Two Great Schools</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="观">
+      <div class="scholar-label">机构洞见 jīgòu dòngjiàn · Institutional Insight</div>
+      <p>The primary Daoist temple is called a 道观 dàoguān — the term 观 guān originally meaning "observatory" (a place for watching heavenly movements). The full compound 宫观 gōngguān (palace-observatory) describes major Daoist establishments. A 道观 is staffed by 道士 dàoshi (Daoist priests) who may be celibate monastics or married householder practitioners depending on their school.</p>
+      <p>Two major institutional lineages have dominated organized Daoism since the Song dynasty. <strong>正一道 Zhèngyī Dào</strong> (Orthodox Unity, based on the original Celestial Masters tradition) is based at Longhu Mountain 龙虎山 in Jiangxi Province. Its priests are typically married householders who conduct communal rituals and specialize in liturgy, exorcism, and funerary rites. The hereditary position of Celestial Master 天师 remains active today. <strong>全真道 Quánzhēn Dào</strong> (Complete Reality, founded by Wang Chongyang 王重阳 in the 12th century CE) is the major monastic tradition, requiring celibacy and vegetarianism. Its headquarters is the White Cloud Monastery 白云观 in Beijing. Quanzhen synthesized Daoist inner alchemy, Chan Buddhist meditation, and Confucian ethics — it represents Daoism's most organized monastic institution.</p>
+    </div>
+
+    <!-- ── CULTURAL INFLUENCE ── -->
+    <span class="section-anchor" id="wenhua"></span>
+    <div class="section-head">
+      <span class="sh-cn">道教与文化</span>
+      <span class="sh-py">dàojiào yǔ wénhuà</span>
+      <span class="sh-en">Daoist Influence on Chinese Culture</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="气">
+      <div class="scholar-label">文化洞见 wénhuà dòngjiàn · Cultural Insight</div>
+      <p>Daoist concepts and practices permeate Chinese culture so thoroughly that their Daoist origin is often invisible. <strong>Traditional Chinese Medicine</strong> (中医 zhōngyī) operates through Daoist concepts: 气 qì (vital energy), 阴阳 yīnyáng (complementary opposites), the five phases (五行 wǔxíng — wood, fire, earth, metal, water), and the goal of restoring natural balance. The physician's role parallels the Daoist sage's: not to impose a rigid cure but to remove obstacles and allow the body to heal itself.</p>
+      <p><strong>Chinese landscape painting</strong> (山水画 shānshuǐ huà) is arguably the most purely Daoist of the arts: vast mountains and water, with tiny human figures dwarfed by natural forces. The empty space (留白 liú bái — "leaving white") is as essential as the brushwork, embodying the Daoist principle that emptiness is full of potential: 当其无，有室之用 (it is the empty space of a room that makes it useful). Calligraphy, with its emphasis on spontaneous, pressureless brush movement, also reflects 无为.</p>
+      <p><strong>Feng shui</strong> 风水 (literally "wind and water") — the practice of arranging human environments to harmonize with the flow of 气 — is a direct application of Daoist cosmology to architecture and planning. <strong>Martial arts</strong>: Taijiquan's philosophy of yielding, using the opponent's force, and returning to stillness is Daoist thought in movement. The Shaolin martial arts tradition is Buddhist, but Wudang 武当 — the other great martial arts center — is explicitly Daoist.</p>
+    </div>
+
+    <!-- ── CHENGYU ── -->
+    <span class="section-anchor" id="chengyu"></span>
+    <div class="section-head">
+      <span class="sh-cn">成语</span>
+      <span class="sh-py">chéngyǔ</span>
+      <span class="sh-en">Daoist Idioms</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="chengyu-grid">
+
+      <div class="cy">
+        <span class="cy-cn">无为而治</span>
+        <span class="cy-py">wúwéi ér zhì</span>
+        <span class="cy-en">governing through non-action — the ideal Daoist political order</span>
+        <span class="cy-note">The political application of 无为: the sage ruler does so little that people think they accomplished everything themselves. 太上，下知有之 (Daodejing 17): "The best ruler — the people merely know he exists." The phrase is widely used today for management styles that empower rather than micromanage.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">上善若水</span>
+        <span class="cy-py">shàng shàn ruò shuǐ</span>
+        <span class="cy-en">the highest good is like water — the signature Daoist image</span>
+        <span class="cy-note">Daodejing 8. Water benefits all things without competing; it dwells in the low places that people despise — and therefore it is close to the Dao. 水善利万物而不争，处众人之所恶 — "Water benefits all things and does not compete; it dwells where people disdain to be." The most quoted single line of the Daodejing in modern Chinese contexts.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">知足常乐</span>
+        <span class="cy-py">zhī zú cháng lè</span>
+        <span class="cy-en">those who know sufficiency are always happy — contentment as the Daoist antidote to desire</span>
+        <span class="cy-note">Derived from Daodejing 33 and 46: 知足者富 "those who know sufficiency are wealthy"; 祸莫大于不知足 "there is no greater disaster than not knowing sufficiency." A counterweight to the Confucian emphasis on striving and self-improvement. In contemporary Chinese, 知足常乐 functions as a widely invoked counsel against the endless pursuit of more.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">曲则全</span>
+        <span class="cy-py">qū zé quán</span>
+        <span class="cy-en">yield and you will be preserved — the paradox of strength through softness</span>
+        <span class="cy-note">Daodejing 22: 曲则全，枉则直，洼则盈 — "Yield and you will be preserved; bend and you will be straightened; hollow and you will be filled." The full paradoxical sequence of Daoist counterintuition. 曲则全 is cited whenever the strategy of apparent weakness or retreat is being justified — in negotiations, in martial arts, in diplomacy.</span>
+      </div>
+
+    </div>
+
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">老子</span><span class="a-py">Lǎozǐ</span><span class="a-en">Laozi</span></span>
+      <span class="adj"><span class="a-cn">庄子</span><span class="a-py">Zhuāngzǐ</span><span class="a-en">Zhuangzi</span></span>
+      <span class="adj"><span class="a-cn">阴阳</span><span class="a-py">yīnyáng</span><span class="a-en">complementary opposites</span></span>
+      <span class="adj"><span class="a-cn">气</span><span class="a-py">qì</span><span class="a-en">vital energy</span></span>
+      <span class="adj"><span class="a-cn">五行</span><span class="a-py">wǔxíng</span><span class="a-en">five phases</span></span>
+      <span class="adj"><span class="a-cn">长生</span><span class="a-py">chángshēng</span><span class="a-en">immortality; long life</span></span>
+      <span class="adj"><span class="a-cn">养生</span><span class="a-py">yǎngshēng</span><span class="a-en">health cultivation</span></span>
+      <span class="adj"><span class="a-cn">太极</span><span class="a-py">tàijí</span><span class="a-en">the Supreme Ultimate</span></span>
+      <span class="adj"><span class="a-cn">风水</span><span class="a-py">fēngshuǐ</span><span class="a-en">feng shui</span></span>
+      <span class="adj"><span class="a-cn">丹田</span><span class="a-py">dāntián</span><span class="a-en">cinnabar field (energy center)</span></span>
+      <span class="adj"><span class="a-cn">虚</span><span class="a-py">xū</span><span class="a-en">emptiness; vacancy (Daoist virtue)</span></span>
+      <span class="adj"><span class="a-cn">逍遥</span><span class="a-py">xiāoyáo</span><span class="a-en">carefree wandering (Zhuangzi)</span></span>
+    </div>
+
+    <footer class="page-footer">
+      <span class="footer-id">Field Notes on Chinese · <span>道教 dàojiào</span> · topic_daojiao.html</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>

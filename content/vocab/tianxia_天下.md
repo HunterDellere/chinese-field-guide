@@ -1,0 +1,580 @@
+---
+type: 'vocab'
+category: 'vocab'
+status: 'complete'
+title: '天下 · all under heaven'
+desc: 'The pre-nation-state Chinese political imagination — the civilized world.'
+metaDesc: "天下 tiānxià: all under heaven, the Chinese world-concept that defined political legitimacy for three millennia. From the Son of Heaven to the People's Republic."
+pageTitle: '天下 tiānxià'
+tags:
+  - 'politics'
+  - 'history'
+  - 'worldview'
+updated: '2026-04-18'
+pinyin: 'tiānxià'
+---
+
+<button class="toc-toggle">目录 Contents ▾</button>
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+    <button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+    <span class="toc-topic">天下</span>
+    <span class="toc-topic-en">All Under Heaven</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#etymology">
+        <span class="toc-cn">字源</span> Etymology
+        <span class="toc-sub">zìyuán · origin &amp; structure</span>
+      </a></li>
+      <li><a href="#concept">
+        <span class="toc-cn">天下</span> The World-Concept
+        <span class="toc-sub">tiānxià · geography and morality</span>
+      </a></li>
+      <li><a href="#mandate">
+        <span class="toc-cn">天命</span> The Mandate of Heaven
+        <span class="toc-sub">tiānmìng · legitimacy and dynasty</span>
+      </a></li>
+      <li><a href="#modern">
+        <span class="toc-cn">现代</span> Modern Uses
+        <span class="toc-sub">xiàndài · contemporary 天下</span>
+      </a></li>
+      <li><a href="#compounds">
+        <span class="toc-cn">天与下</span> 天 and 下 in Compounds
+        <span class="toc-sub">tiān yǔ xià · productive characters</span>
+      </a></li>
+      <li><a href="#chengyu">
+        <span class="toc-cn">成语</span> Idioms
+        <span class="toc-sub">chéngyǔ · set phrases</span>
+      </a></li>
+      <li><a href="#adjacent">
+        <span class="toc-cn">相邻</span> Adjacent Vocab
+        <span class="toc-sub">xiānglín cíhuì</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- HERO -->
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">Vocabulary · 词汇 cíhuì</span>
+      <h1 class="topic-hero-title">天下</h1>
+      <span class="topic-hero-title-py">tiānxià</span>
+      <p class="topic-hero-desc">All under heaven — the Chinese world-concept that defined political legitimacy, moral authority, and the scope of civilization for three millennia.</p>
+    </header>
+
+    <!-- ── ETYMOLOGY ── -->
+    <span class="section-anchor" id="etymology"></span>
+    <div class="section-head">
+      <span class="sh-cn">字源</span>
+      <span class="sh-py">zìyuán</span>
+      <span class="sh-en">Etymology &amp; Origin</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="天">
+      <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
+      <p><strong>天 tiān</strong> (heaven; sky — in oracle bone script: a person with a line above their head, marking what is above all humans; the sky, the divine, the overarching order) <strong>+ 下 xià</strong> (below; under — a line below a horizontal mark, indicating the lower position). "All that is under heaven" — the world as governed and ordered by heaven's mandate.</p>
+      <p>天下 is not merely a geographic term, though it is that. It is simultaneously a political concept (the realm under legitimate rule), a moral concept (the community under heaven's moral order), and a test of legitimacy (does your governance merit the stewardship of 天下?). When Mencius wrote <strong>天下为公</strong> (all-under-heaven belongs to all), he was articulating a universal moral claim that transcended any particular ruler or dynasty: the world belongs to everyone under heaven, not to any one person or family.</p>
+      <p>The concept is China-centric in origin but not narrow: 天下 is the whole world, and the Chinese emperor was (in theory) the sovereign of all people. The tribute system that organized China's relations with neighboring states was not colonial — it was cosmological: all rulers acknowledged the center because all were under the same heaven. This framework shaped Chinese political thought for 3,000 years and still echoes in how China understands its place in the world.</p>
+    </div>
+
+    <!-- ── THE WORLD-CONCEPT ── -->
+    <span class="section-anchor" id="concept"></span>
+    <div class="section-head">
+      <span class="sh-cn">天下</span>
+      <span class="sh-py">tiānxià</span>
+      <span class="sh-en">The World-Concept</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="下">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · Scholar Note</div>
+      <p>天下 operates simultaneously as: (1) geography — the known world, China and its tributaries; (2) political realm — the territory under legitimate rule, the domain of the 天子 (Son of Heaven); (3) moral community — everyone under heaven's moral order, the subjects of Confucian civilization; (4) a test of legitimacy — does your governance deserve the stewardship of 天下?</p>
+      <p>The famous opening principle of the 三国演义 (Romance of the Three Kingdoms): <strong>天下大势，分久必合，合久必分</strong> (The great tendency of all-under-heaven: long divided, must unite; long united, must divide). This is not merely a political observation — it is a cosmological law, as inevitable as the turning of seasons. Every Chinese dynasty that ever claimed legitimacy claimed it in the name of 天下.</p>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">天下</span>
+          <span class="card-py">tiānxià</span>
+          <span class="card-en">all under heaven; the world; the realm; everywhere</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          The foundational concept. In modern usage, 天下 functions as: (1) a literary/elevated word for "the world" or "everywhere," (2) a superlative marker (天下第一 — number one in the world), (3) an allusion to classical political thought. 走遍天下 (to travel the whole world) / 天下大事 (great affairs of the world) / 胸怀天下 (to hold the world in one's heart — to think on a civilizational scale).
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">天下兴亡，匹夫有责。</div>
+            <div class="ex-py">Tiānxià xīng wáng, pǐ fū yǒu zé.</div>
+            <div class="ex-en">"Every common man bears responsibility for the rise and fall of all under heaven." (Gu Yanwu)</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">胸怀天下，志在四方。</div>
+            <div class="ex-py">Xiōnghuái tiānxià, zhì zài sìfāng.</div>
+            <div class="ex-en">To hold the world in one's heart, with ambition toward the four directions.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">天下大势，分久必合，合久必分。</div>
+            <div class="ex-py">Tiānxià dà shì, fēn jiǔ bì hé, hé jiǔ bì fēn.</div>
+            <div class="ex-en">"The great tendency of all-under-heaven: long divided, must unite; long united, must divide."</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">天下太平</span>
+          <span class="card-py">tiānxià tài píng</span>
+          <span class="card-en">all under heaven is at peace; universal peace and stability</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          太平 tàipíng (great peace; supreme calm) — the highest political ideal in Chinese thought: a world at peace, well governed, prosperous, where people live their lives without fear. This was the standard against which all dynasties were judged. The massive 19th-century Taiping Rebellion (太平天国 Tàipíng Tiānguó — Heavenly Kingdom of Great Peace) took its name from this ideal — a millenarian vision of a world finally at peace under heaven.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">祝天下太平，国泰民安。</div>
+            <div class="ex-py">Zhù tiānxià tài píng, guó tài mín ān.</div>
+            <div class="ex-en">May all under heaven be at peace, the nation prosperous, and the people at ease.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这个时代相对天下太平，人民安居乐业。</div>
+            <div class="ex-py">Zhège shídài xiāngduì tiānxià tài píng, rénmín ānjū lèyè.</div>
+            <div class="ex-en">This era is relatively peaceful — people live and work in contentment.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">天下为公</span>
+          <span class="card-py">tiānxià wéi gōng</span>
+          <span class="card-en">all under heaven belongs to all — the world is a common good, not a private possession</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          From the Liji (礼记, Record of Rites): 大道之行也，天下为公 (When the Great Way prevails, all-under-heaven belongs to all). The ideal of governance as public stewardship, not private ownership. Sun Yat-sen (孙中山) adopted this as a guiding slogan of the Republic of China — it appears in his calligraphy in countless halls and institutions. It represents the Confucian critique of dynastic rule: the empire belongs to all people, and the ruler is a steward, not an owner.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">天下为公，这是中国传统政治理想的最高表达。</div>
+            <div class="ex-py">Tiānxià wéi gōng, zhè shì Zhōngguó chuántǒng zhèngzhì lǐxiǎng de zuìgāo biǎodá.</div>
+            <div class="ex-en">"All under heaven belongs to all" — this is the highest expression of China's traditional political ideal.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">孙中山以"天下为公"为政治理想，推动共和革命。</div>
+            <div class="ex-py">Sūn Zhōngshān yǐ "tiānxià wéi gōng" wéi zhèngzhì lǐxiǎng, tuīdòng gònghé gémìng.</div>
+            <div class="ex-en">Sun Yat-sen took "all under heaven belongs to all" as his political ideal and promoted the republican revolution.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards concept -->
+
+    <!-- ── THE MANDATE OF HEAVEN ── -->
+    <span class="section-anchor" id="mandate"></span>
+    <div class="section-head">
+      <span class="sh-cn">天命</span>
+      <span class="sh-py">tiānmìng</span>
+      <span class="sh-en">The Mandate of Heaven</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="命">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · Scholar Note</div>
+      <p><strong>天命 tiānmìng</strong> (Mandate of Heaven — heaven's decree, heaven's appointment) is the foundational concept of Chinese political legitimacy. Developed by the Zhou dynasty (ca. 1046 BCE) to justify overthrowing the Shang: Heaven (天) had grown displeased with the Shang's misrule and transferred its mandate (命 — a word meaning both "order/command" and "fate/destiny") to the Zhou. This set a template that every Chinese dynasty followed.</p>
+      <p>The logic is precise and consequential: dynasties rise and fall not by military strength alone but by whether they retain 天命. Signs of losing 天命: natural disasters, peasant rebellions, military defeats, widespread suffering. These are not merely political events — they are heaven's commentary on the ruler's virtue. The concept made rebellion against a tyrannical ruler theoretically legitimate: if you succeed, Heaven clearly approved. Every Chinese dynasty from Zhou through Qing claimed 天命 at its founding. The Communist Party, though not using the vocabulary, implicitly operates within a similar logic of popular mandate and civilizational legitimacy.</p>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">天命</span>
+          <span class="card-py">tiānmìng</span>
+          <span class="card-en">the Mandate of Heaven; heaven's decree; one's fate or destiny</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          天 tiān (heaven) + 命 mìng (decree; fate; life). Two uses: (1) political — the divine mandate that legitimizes a ruler's authority over 天下; (2) personal — one's fate or destiny as assigned by heaven. 天命所归 (where the Mandate of Heaven belongs — said of the rightful ruler) / 天命难违 (one cannot defy heaven's decree) / 听天由命 (to accept heaven's decree; to leave it to fate).
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">古人相信改朝换代是天命所归，非人力可违。</div>
+            <div class="ex-py">Gǔrén xiāngxìn gǎicháo huàndài shì tiānmìng suǒ guī, fēi rén lì kě wéi.</div>
+            <div class="ex-en">The ancients believed that changes of dynasty were where the Mandate of Heaven pointed — not something human force could resist.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">孔子五十而知天命。</div>
+            <div class="ex-py">Kǒngzǐ wǔshí ér zhī tiānmìng.</div>
+            <div class="ex-en">"At fifty, Confucius understood heaven's decree." (from the Analects — he came to understand his place in the order of things)</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他已经尽力了，剩下的就听天由命吧。</div>
+            <div class="ex-py">Tā yǐjīng jìn lì le, shèngxia de jiù tīng tiān yóu mìng ba.</div>
+            <div class="ex-en">He has already done his best — for the rest, he'll leave it to heaven's will.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">天子</span>
+          <span class="card-py">tiānzǐ</span>
+          <span class="card-en">the Son of Heaven; the emperor's ritual title</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          天 tiān (heaven) + 子 zǐ (son; child). The emperor's ritual designation — he is the Son of Heaven, appointed by heaven to rule on its behalf. The title is not merely honorific: it carries a weight of obligation. The 天子 must conduct the great rituals that maintain the connection between heaven and earth, must govern virtuously or risk losing 天命. 天子脚下 (under the feet of the Son of Heaven — in the capital city; Peking) was a phrase for the imperial capital's unique status.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">天子脚下，首善之区，北京自古是政治中心。</div>
+            <div class="ex-py">Tiānzǐ jiǎo xià, shǒushàn zhī qū, Běijīng zìgǔ shì zhèngzhì zhōngxīn.</div>
+            <div class="ex-en">"Under the feet of the Son of Heaven, the foremost place of goodness" — Beijing has been a political center since ancient times.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">历代天子都要举行封禅大典，以告天地。</div>
+            <div class="ex-py">Lìdài tiānzǐ dōu yào jǔxíng fēngshàn dàdiǎn, yǐ gào tiāndì.</div>
+            <div class="ex-en">Emperors throughout history had to perform the great Feng and Shan sacrificial ceremonies to report to heaven and earth.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">改朝换代</span>
+          <span class="card-py">gǎi cháo huàn dài</span>
+          <span class="card-en">change of dynasty; regime change; transfer of the Mandate of Heaven</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
+        <div class="card-def">
+          改 gǎi (change) + 朝 cháo (dynasty; court) + 换 huàn (replace; exchange) + 代 dài (generation; era). The political vocabulary for what happens when one dynasty ends and another begins — not just a change of rulers but a cosmic event: the 天命 has been transferred. In Chinese historical consciousness, 改朝换代 is a recurring pattern as regular as the seasons, and the question is always: who has received the Mandate now?
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">历史上多次改朝换代，每次都伴随着动荡与重建。</div>
+            <div class="ex-py">Lìshǐ shàng duō cì gǎicháo huàndài, měi cì dōu bànsuí zhe dòngdàng yǔ chóngjiàn.</div>
+            <div class="ex-en">History has seen many changes of dynasty — each one accompanied by turmoil and reconstruction.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">辛亥革命结束了两千多年的封建王朝，完成了改朝换代。</div>
+            <div class="ex-py">Xīnhài Gémìng jiéshù le liǎngqiān duō nián de fēngjiàn wángcháo, wánchéng le gǎicháo huàndài.</div>
+            <div class="ex-en">The 1911 Revolution ended over two thousand years of feudal dynasties and completed a change of epoch.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards mandate -->
+
+    <!-- ── MODERN USES ── -->
+    <span class="section-anchor" id="modern"></span>
+    <div class="section-head">
+      <span class="sh-cn">现代用法</span>
+      <span class="sh-py">xiàndài yòngfǎ</span>
+      <span class="sh-en">天下 in Modern Use</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">天下第一</span>
+          <span class="card-py">tiānxià dì yī</span>
+          <span class="card-en">number one under heaven; the best in the world; the supreme superlative</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N/Adj 名形</span></div>
+        <div class="card-def">
+          The hyperbolic superlative: beyond which there is nothing greater. 天下 replaces "in the world," and 第一 means "first/number one." Used for scenic spots (桂林山水甲天下 — Guilin's scenery is finest under heaven), for self-proclaimed champions (自称天下第一 — to call oneself the best in the world), and in historical titles (天下第一关 — the First Pass Under Heaven, the east gate of the Great Wall at Shanhaiguan). In wuxia, the competition for 天下第一 is a recurring plot device.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">桂林山水甲天下，景色壮观，令人叹为观止。</div>
+            <div class="ex-py">Guìlín shānshuǐ jiǎ tiānxià, jǐngsè zhuàngguān, lìng rén tàn wéi guānzhǐ.</div>
+            <div class="ex-en">"Guilin's mountains and waters are finest under heaven" — the scenery is magnificent, a sight to behold.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">天下第一关——山海关，是万里长城的东端起点。</div>
+            <div class="ex-py">Tiānxià dì yī guān — Shānhǎi Guān, shì wànlǐ Chángchéng de dōng duān qǐdiǎn.</div>
+            <div class="ex-en">The First Pass Under Heaven — Shanhaiguan — is the eastern starting point of the Great Wall.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他自称天下第一，却从没赢过比赛。</div>
+            <div class="ex-py">Tā zìchēng tiānxià dì yī, què cóng méi yíngguò bǐsài.</div>
+            <div class="ex-en">He calls himself the best in the world, yet he has never won a single competition.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">走遍天下</span>
+          <span class="card-py">zǒu biàn tiānxià</span>
+          <span class="card-en">to travel the whole world; to have been everywhere</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
+        <div class="card-def">
+          走遍 zǒu biàn (to walk/travel all over; to cover thoroughly — 遍 is a comprehensive coverage complement) + 天下 (all under heaven; the whole world). The ambition of the traveler: to have seen everything, to have left no corner of the world unvisited. In classical usage, walking 天下 was also the metaphor for gaining political understanding — to know the world, you had to travel it. The joke: 走遍天下都不怕，就怕四川话 (I'm not afraid of traveling anywhere — I'm only afraid of the Sichuan dialect).
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他立志走遍天下，把每一处风景都记录下来。</div>
+            <div class="ex-py">Tā lìzhì zǒu biàn tiānxià, bǎ měi yī chù fēngjǐng dōu jìlù xiàlái.</div>
+            <div class="ex-en">He set his ambition on traveling the whole world and recording every scene.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">有本事走遍天下都不怕，就怕四川话。</div>
+            <div class="ex-py">Yǒu běnshi zǒu biàn tiānxià dōu bú pà, jiù pà Sìchuān huà.</div>
+            <div class="ex-en">With skill you can travel the whole world fearlessly — the only thing to fear is the Sichuan dialect. (joke)</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">天下兴亡，匹夫有责</span>
+          <span class="card-py">tiānxià xīng wáng, pǐ fū yǒu zé</span>
+          <span class="card-en">every common person bears responsibility for the rise and fall of all under heaven</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          From the 17th-century scholar Gu Yanwu (顾炎武), written in the final years of the Ming dynasty as it fell to the Qing. 匹夫 pǐ fū = an ordinary man; a common person (originally: a man of no rank). 有责 yǒu zé = to bear responsibility. The statement democratizes the obligation of 天下: it is not only the ruler's responsibility to sustain 天下 — every person under heaven bears a share. This became the founding text of Chinese civic responsibility and was invoked by reformers, revolutionaries, and patriots throughout the 19th and 20th centuries.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">天下兴亡，匹夫有责——这句话激励了无数爱国志士。</div>
+            <div class="ex-py">Tiānxià xīng wáng, pǐ fū yǒu zé — zhè jù huà jīlì le wúshù àiguó zhìshì.</div>
+            <div class="ex-en">"Every person bears responsibility for the rise and fall of all under heaven" — this phrase has inspired countless patriots.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">面对国家危难，我们都应该铭记：天下兴亡，匹夫有责。</div>
+            <div class="ex-py">Miànduì guójiā wēinàn, wǒmen dōu yīnggāi míngjì: tiānxià xīng wáng, pǐ fū yǒu zé.</div>
+            <div class="ex-en">Facing national peril, we should all bear in mind: every person bears responsibility for the rise and fall of all under heaven.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards modern -->
+
+    <!-- ── 天 AND 下 IN COMPOUNDS ── -->
+    <span class="section-anchor" id="compounds"></span>
+    <div class="section-head">
+      <span class="sh-cn">天与下</span>
+      <span class="sh-py">tiān yǔ xià</span>
+      <span class="sh-en">天 and 下 in Other Compounds</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">构词规律 gòucí guīlǜ · Word-Formation</span>
+      Both 天 and 下 are among the most productive characters in Chinese. <strong>天 tiān</strong> appears in temporal compounds (天天 every day), cosmic compounds (天地 heaven and earth), evaluative compounds (天才 genius — heaven-given talent), and meteorological words (天气 weather). <strong>下 xià</strong> appears in spatial compounds (地下 underground), directional compounds (以下 the following), and relational compounds (手下 subordinates; 旗下 under the banner of).
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">天才</span>
+          <span class="card-py">tiāncái</span>
+          <span class="card-en">genius; heaven-bestowed talent</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          天 tiān (heaven) + 才 cái (talent; ability). Heaven-bestowed ability — the kind of capacity that seems to have come from beyond ordinary human effort. The etymology encodes a theory of talent: genius is a gift, not a product. This sits in interesting tension with 功夫 (which holds that everything comes from effort). In practice, the Chinese tradition holds both: 天才 provides the raw material, 功夫 shapes it. Without 功夫, even 天才 is wasted.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他是个音乐天才，五岁就开始作曲了。</div>
+            <div class="ex-py">Tā shì gè yīnyuè tiāncái, wǔ suì jiù kāishǐ zuòqǔ le.</div>
+            <div class="ex-en">He's a musical genius — he started composing at age five.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">天才是百分之一的灵感，加上百分之九十九的汗水。</div>
+            <div class="ex-py">Tiāncái shì bǎi fēn zhī yī de língǎn, jiā shàng bǎi fēn zhī jiǔshíjiǔ de hànshuǐ.</div>
+            <div class="ex-en">"Genius is one percent inspiration plus ninety-nine percent perspiration." (Edison, widely cited in China)</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">天才少年进入了国家队，引起广泛关注。</div>
+            <div class="ex-py">Tiāncái shàonián jìnrù le guójiā duì, yǐnqǐ guǎngfàn guānzhù.</div>
+            <div class="ex-en">The prodigious young talent joined the national team, attracting widespread attention.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">天真</span>
+          <span class="card-py">tiānzhēn</span>
+          <span class="card-en">naive; innocent; childlike; guileless</span>
+        </div>
+        <div class="tags"><span class="tag tag-adj">Adj 形容词 xíngróngcí</span></div>
+        <div class="card-def">
+          天 tiān (heaven) + 真 zhēn (genuine; true; real). "Heaven-true" — the quality of someone whose genuine nature has not been shaped or distorted by social calculation. In children, this is charming: 天真烂漫 (innocent and carefree — the enchanting naivety of childhood). In adults, it can be a gentle criticism: 你太天真了 (you're too naive — you don't understand how the world actually works). Context determines whether the connotation is warm or dismissive.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">孩子们天真烂漫，对一切都充满好奇。</div>
+            <div class="ex-py">Háizimen tiānzhēn lànmàn, duì yīqiè dōu chōngmǎn hàoqí.</div>
+            <div class="ex-en">Children are innocent and carefree — full of curiosity about everything.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">你太天真了，那种承诺根本不可靠。</div>
+            <div class="ex-py">Nǐ tài tiānzhēn le, nà zhǒng chéngnuò gēnběn bù kěkào.</div>
+            <div class="ex-en">You're too naive — that kind of promise is completely unreliable.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">地下</span>
+          <span class="card-py">dìxià</span>
+          <span class="card-en">underground; beneath the earth; covert; subterranean</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N/Adj 名形</span></div>
+        <div class="card-def">
+          地 dì (earth; ground) + 下 xià (below; under). Literally: beneath the earth. Extended to mean "covert" or "underground" in the political sense — 地下组织 (underground organization), 地下工作 (underground/clandestine work). 地铁 dìtiě (subway; underground railway — lit. "underground iron") uses the same 地. The contrast between 地下 (underground/covert) and 地上 (above ground/open) mirrors the 阴 (hidden) vs. 阳 (manifest) distinction.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">地下室潮湿阴暗，不适合居住。</div>
+            <div class="ex-py">Dìxiàshì cháoshī yīn'àn, bù shìhé jūzhù.</div>
+            <div class="ex-en">The basement is damp and gloomy — not suitable for living.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">战争期间，他们秘密建立了地下组织。</div>
+            <div class="ex-py">Zhànzhēng qījiān, tāmen mìmì jiànlì le dìxià zǔzhī.</div>
+            <div class="ex-en">During the war, they secretly established an underground organization.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">北京地铁四通八达，出行非常方便。</div>
+            <div class="ex-py">Běijīng dìtiě sì tōng bā dá, chūxíng fēicháng fāngbiàn.</div>
+            <div class="ex-en">Beijing's subway system connects in all directions — getting around is very convenient.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">以下</span>
+          <span class="card-py">yǐxià</span>
+          <span class="card-en">below; the following; as follows; under (a threshold)</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N/Prep 名介</span></div>
+        <div class="card-def">
+          以 yǐ (by means of; from) + 下 xià (below; what follows). Used in two senses: (1) spatial/sequential — what comes below/after this point in a document (以下简称 "abbreviated hereafter as"); (2) threshold — below a certain number or level (十八岁以下 — under 18 years of age). The opposite is 以上 yǐshàng (above; the above; the foregoing; above [a threshold]).
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">请看以下说明，了解详细规则。</div>
+            <div class="ex-py">Qǐng kàn yǐxià shuōmíng, liǎojiě xiángxì guīzé.</div>
+            <div class="ex-en">Please see the following instructions to understand the detailed rules.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">十八岁以下人士不得入场。</div>
+            <div class="ex-py">Shíbā suì yǐxià rénshì bù dé rùchǎng.</div>
+            <div class="ex-en">Persons under eighteen years of age may not enter.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">以下内容仅供参考，不构成法律建议。</div>
+            <div class="ex-py">Yǐxià nèiróng jǐn gōng cānkǎo, bù gòuchéng fǎlǜ jiànyì.</div>
+            <div class="ex-en">The following content is for reference only and does not constitute legal advice.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards compounds -->
+
+    <!-- ── CHENGYU ── -->
+    <span class="section-anchor" id="chengyu"></span>
+    <div class="section-head">
+      <span class="sh-cn">成语</span>
+      <span class="sh-py">chéngyǔ</span>
+      <span class="sh-en">Idioms &amp; Set Phrases</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="chengyu-grid">
+
+      <div class="cy">
+        <span class="cy-cn">天下大势分久必合</span>
+        <span class="cy-py">tiānxià dà shì, fēn jiǔ bì hé</span>
+        <span class="cy-en">the great tendency of all-under-heaven: long divided, must unite; long united, must divide</span>
+        <span class="cy-note">The opening principle of the Romance of the Three Kingdoms (三国演义). A cyclical theory of political history: unity and division alternate as inevitably as the seasons. Endlessly cited in Chinese political discourse to frame any current period as part of a longer historical rhythm. The full phrase continues: 合久必分 (long united, must divide) — reminding the reader that no unity is permanent either.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">天下无难事只怕有心人</span>
+        <span class="cy-py">tiānxià wú nán shì, zhǐ pà yǒuxīn rén</span>
+        <span class="cy-en">under heaven there are no difficult things — only fear the determined person</span>
+        <span class="cy-note">Determination overcomes all obstacles — there is nothing under heaven so hard that a truly committed person cannot accomplish it. A companion to 功夫不负有心人. 有心人 yǒuxīn rén = a person of resolve and intention. Used as encouragement in the face of daunting tasks: 天下无难事，只怕有心人，你一定能做到。</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">天下乌鸦一般黑</span>
+        <span class="cy-py">tiānxià wūyā yī bān hēi</span>
+        <span class="cy-en">all crows under heaven are equally black — it's the same everywhere; they're all the same</span>
+        <span class="cy-note">Usually cynical: no matter where you go, officials/bosses/people of that type are all equally corrupt/problematic/the same. 当官的天下乌鸦一般黑 (Officials everywhere are equally corrupt — all crows under heaven are black.) A statement of resigned cynicism about systemic problems. The crow (乌鸦 wūyā) is traditionally an ill-omened bird in Chinese culture, reinforcing the negative tone.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">放眼天下</span>
+        <span class="cy-py">fàng yǎn tiānxià</span>
+        <span class="cy-en">cast one's eyes across all-under-heaven — to think broadly; to have a global perspective</span>
+        <span class="cy-note">放眼 fàng yǎn (to let one's gaze range freely; to look far) + 天下. To look beyond one's immediate circumstances, neighborhood, or nation and think on a civilizational or global scale. The opposite of 鼠目寸光 (shǔ mù cùn guāng — mouse-eyes seeing only an inch; short-sightedness). 要放眼天下，不能只看眼前。(Cast your eyes across all-under-heaven — don't just look at what's right in front of you.)</span>
+      </div>
+
+    </div>
+
+    <!-- ── ADJACENT VOCAB ── -->
+    <span class="section-anchor" id="adjacent"></span>
+    <div class="section-head">
+      <span class="sh-cn">相邻词汇</span>
+      <span class="sh-py">xiānglín cíhuì</span>
+      <span class="sh-en">Adjacent Vocabulary</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">天命</span><span class="a-py">tiānmìng</span><span class="a-en">Mandate of Heaven</span></span>
+      <span class="adj"><span class="a-cn">天子</span><span class="a-py">tiānzǐ</span><span class="a-en">Son of Heaven; emperor</span></span>
+      <span class="adj"><span class="a-cn">天道</span><span class="a-py">tiāndào</span><span class="a-en">Way of Heaven</span></span>
+      <span class="adj"><span class="a-cn">天人合一</span><span class="a-py">tiān rén hé yī</span><span class="a-en">unity of heaven and humanity</span></span>
+      <span class="adj"><span class="a-cn">民心</span><span class="a-py">mínxīn</span><span class="a-en">the heart of the people</span></span>
+      <span class="adj"><span class="a-cn">江山</span><span class="a-py">jiāngshān</span><span class="a-en">rivers and mountains; the realm</span></span>
+      <span class="adj"><span class="a-cn">社稷</span><span class="a-py">shèjì</span><span class="a-en">the state; altars of land and grain</span></span>
+      <span class="adj"><span class="a-cn">王朝</span><span class="a-py">wángcháo</span><span class="a-en">dynasty</span></span>
+      <span class="adj"><span class="a-cn">华夏</span><span class="a-py">Huáxià</span><span class="a-en">ancient name for Chinese civilization</span></span>
+      <span class="adj"><span class="a-cn">四海</span><span class="a-py">sìhǎi</span><span class="a-en">the four seas; everywhere</span></span>
+      <span class="adj"><span class="a-cn">中原</span><span class="a-py">zhōngyuán</span><span class="a-en">Central Plains; the heartland</span></span>
+      <span class="adj"><span class="a-cn">正统</span><span class="a-py">zhèngtǒng</span><span class="a-en">orthodoxy; legitimate succession</span></span>
+    </div>
+
+    <!-- RETENTION SCHOLAR BOX -->
+    <div class="scholar" data-glyph="天">
+      <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
+      <p>All that is under heaven. The concept is so old and so central that it required only two characters to name the entire world and the entire political order. 天下 is China's way of saying "civilization" — not a geography but a moral order, and the emperor's legitimacy rested on how well he stewarded it. When Gu Yanwu wrote that every common man bears responsibility for the rise and fall of 天下, he was making it a civic concept, not just an imperial one.</p>
+      <p>Today 天下 lives as idiom, as literary allusion, as the hidden grammar behind China's understanding of its own place in the world — the sense that China's role is not merely national but civilizational. The heaven above everyone is still there.</p>
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="page-footer">
+      <span class="footer-id">Field Notes on Chinese · <span>天下 tiānxià</span> · tianxia_天下.html</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>

@@ -1,0 +1,504 @@
+---
+type: 'grammar'
+category: 'grammar'
+status: 'complete'
+title: "会 · 能 · 可以 · the three 'can's"
+desc: 'Learned ability vs. situational capacity vs. permission — not interchangeable.'
+metaDesc: "会, 能, and 可以 all translate as 'can' but encode distinct meanings: learned ability, physical/circumstantial capacity, and permission. Etymology, contrast examples, and a complete comparison."
+pageTitle: '会 / 能 / 可以 · the three cans'
+tags:
+  - 'modal'
+  - 'ability'
+  - 'permission'
+updated: '2026-04-18'
+pinyin: 'huì / néng / kěyǐ'
+---
+
+<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+    <span class="toc-topic">会 / 能 / 可以</span>
+    <span class="toc-topic-en">The Three Cans</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#etymology">
+        <span class="toc-cn">字源</span> Etymology
+        <span class="toc-sub">the origins of three words for "can"</span>
+      </a></li>
+      <li><a href="#patterns">
+        <span class="toc-cn">结构</span> Core Pattern
+        <span class="toc-sub">Subject + 会/能/可以 + V</span>
+      </a></li>
+      <li><a href="#hui-skill">
+        <span class="toc-cn">会：技能</span> 会: Learned Skill
+        <span class="toc-sub">can because learned</span>
+      </a></li>
+      <li><a href="#hui-future">
+        <span class="toc-cn">会：预测</span> 会: Future Prediction
+        <span class="toc-sub">will / is likely to</span>
+      </a></li>
+      <li><a href="#neng-ability">
+        <span class="toc-cn">能：能力</span> 能: Physical/Circumstantial
+        <span class="toc-sub">can because able right now</span>
+      </a></li>
+      <li><a href="#keyi-permission">
+        <span class="toc-cn">可以：许可</span> 可以: Permission
+        <span class="toc-sub">allowed to, may</span>
+      </a></li>
+      <li><a href="#overlaps">
+        <span class="toc-cn">交叉</span> Overlaps &amp; Nuances
+        <span class="toc-sub">where the three meet</span>
+      </a></li>
+      <li><a href="#comparison">
+        <span class="toc-cn">对比表</span> Comparison Table
+        <span class="toc-sub">affirmative · negative · question</span>
+      </a></li>
+      <li><a href="#chengyu">
+        <span class="toc-cn">成语</span> Idioms
+        <span class="toc-sub">ability in set phrases</span>
+      </a></li>
+      <li><a href="#adjacent">
+        <span class="toc-cn">相邻</span> Adjacent Vocab
+        <span class="toc-sub">ability and permission words</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- HERO -->
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">Grammar · 语法 yǔfǎ</span>
+      <h1 class="topic-hero-title">会 / 能 / 可以</h1>
+      <span class="topic-hero-title-py">huì · néng · kěyǐ</span>
+      <p class="topic-hero-desc">Three modal verbs that all translate as "can" — but 会 asks <em>did you learn it?</em>, 能 asks <em>are you capable right now?</em>, and 可以 asks <em>are you allowed?</em></p>
+    </header>
+
+    <!-- ── ETYMOLOGY ── -->
+    <span class="section-anchor" id="etymology"></span>
+    <div class="section-head">
+      <span class="sh-cn">字源</span>
+      <span class="sh-py">zìyuán</span>
+      <span class="sh-en">Etymology — Three Words, Three Different Origins</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="会">
+      <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
+      <p><strong>会 huì</strong> originally means "to assemble, to gather, to come together" — the oracle-bone form shows a lid on a vessel, things being brought together and contained. This sense of "convergence" extends to meeting (会议 conference), opportunity (机会 chance), and understanding (领会 to grasp). The path to "learned ability" runs through this: when things come together in a person through practice, they acquire a skill. 我会游泳 — the knowledge of swimming has gathered in me through training.</p>
+      <p><strong>能 néng</strong> is a pictograph of a bear — specifically the North American black bear (熊, in its older form). Bears are among the most capable and powerful animals: strong, intelligent, adaptable. The character encodes raw, intrinsic power and capacity. This is why 能 covers physical capability, functional capacity, and circumstantial ability — it is about what your nature or current situation allows, not what you have learned.</p>
+      <p><strong>可以 kěyǐ</strong> is a compound: 可 kě (acceptable, may, can — a person's mouth opening, suggesting voiced assent) + 以 yǐ (to use, by means of, in accordance with). Together: "acceptable to use; permissible by means of [rules/norms]." The original sense of 可 as assent makes 可以 fundamentally about social permission — someone or some rule has opened the gate.</p>
+      <p>These three etymological personalities persist in the grammar: 会 is the studious one (what have you learned?), 能 is the capable one (what can your body/situation do?), 可以 is the social one (what do the rules allow?). The three dimensions — learned skill, physical capacity, social permission — are genuinely distinct, which is why all three modals have survived rather than merging.</p>
+    </div>
+
+    <!-- ── CORE PATTERN ── -->
+    <span class="section-anchor" id="patterns"></span>
+    <div class="section-head">
+      <span class="sh-cn">核心结构</span>
+      <span class="sh-py">héxīn jiégòu</span>
+      <span class="sh-en">Core Pattern — One Position, Three Meanings</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">能愿动词 néngyuàn dòngcí · Modal Verb Position</span>
+      <strong>Subject + 会 + Verb</strong> → 我<strong>会</strong>说中文 — learned ability (I learned Chinese)<br>
+      <strong>Subject + 能 + Verb</strong> → 我<strong>能</strong>去 — physical/circumstantial ability (I'm able to go)<br>
+      <strong>Subject + 可以 + Verb</strong> → 你<strong>可以</strong>进来 — permission (you may come in)<br>
+      All three take negation with 不 before the modal: 不会 · 不能 · 不可以
+    </div>
+
+    <div class="scholar" data-glyph="能">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · The Core Contrast in One Sentence</div>
+      <p>The same person, same skill, three different frames:</p>
+      <p><strong>我会游泳</strong> Wǒ huì yóuyǒng — I can swim. (I learned how. I have this skill in my repertoire.)</p>
+      <p><strong>我能游泳</strong> Wǒ néng yóuyǒng — I can swim. (I am physically capable of swimming right now. My arm isn't broken, the pool is open, circumstances permit.)</p>
+      <p><strong>我可以游泳吗？</strong> Wǒ kěyǐ yóuyǒng ma? — May I swim? (Is it allowed? Is this pool open to the public? Is there a rule against it?)</p>
+      <p>In practice, 能 and 可以 overlap in permission contexts — both can mean "may I." But 会 never overlaps with the other two on the permission dimension. 会 is exclusively about acquired skill and future likelihood.</p>
+    </div>
+
+    <!-- ── 会 LEARNED SKILL ── -->
+    <span class="section-anchor" id="hui-skill"></span>
+    <div class="section-head">
+      <span class="sh-cn">会：习得技能</span>
+      <span class="sh-py">huì: xídé jìnéng</span>
+      <span class="sh-en">会 — Learned Ability</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">会说中文</span>
+          <span class="card-py">huì shuō Zhōngwén</span>
+          <span class="card-en">can speak Chinese — learned through study and practice</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">会 + V (learned skill)</span></div>
+        <div class="card-def">
+          会 indicates that a skill was acquired through learning, training, or practice. The speaker once did not have this ability and now does — through effort. This is the fundamental meaning: <em>know how to.</em> Skills that fall under 会 are typically those a person could conceivably study or be taught: languages, instruments, sports, cooking techniques, driving.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">你会开车吗？——会，我学了半年。</div>
+            <div class="ex-py">Nǐ huì kāichē ma? — Huì, wǒ xué le bàn nián.</div>
+            <div class="ex-en">Can you drive? — Yes, I've been studying for half a year.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">她会弹钢琴，还会拉小提琴。</div>
+            <div class="ex-py">Tā huì tán gāngqín, hái huì lā xiǎotíqín.</div>
+            <div class="ex-en">She can play piano and can also play violin.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">我不会做饭，但想学。</div>
+            <div class="ex-py">Wǒ bù huì zuòfàn, dàn xiǎng xué.</div>
+            <div class="ex-en">I can't cook, but I want to learn.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">语法 yǔfǎ · 不会 as "don't know how"</span>
+          不会 is the standard way to say you don't know how to do something: 我不会 (I can't / I don't know how). In response to an offer of help: 你会吗？不会 (Can you? No, I can't). 不会 can also soften a refusal politely — 这个我不太会 "I'm not really very good at this."
+        </div>
+      </div>
+
+    </div><!-- /cards hui-skill -->
+
+    <!-- ── 会 FUTURE PREDICTION ── -->
+    <span class="section-anchor" id="hui-future"></span>
+    <div class="section-head">
+      <span class="sh-cn">会：将来预测</span>
+      <span class="sh-py">huì: jiānglái yùcè</span>
+      <span class="sh-en">会 — Future Prediction and Likelihood</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">明天会下雨</span>
+          <span class="card-py">míngtiān huì xià yǔ</span>
+          <span class="card-en">it will rain tomorrow — 会 as future/likelihood marker</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">会 + V (prediction)</span></div>
+        <div class="card-def">
+          会 has a second major function entirely distinct from learned ability: expressing expectation, likelihood, or prediction about a future event. This 会 does not mean "has learned how to" — rain cannot "learn" to rain. Instead, it signals the speaker's confident expectation that something will occur. This is essentially a future/predictive modal.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他会来的，你放心吧。</div>
+            <div class="ex-py">Tā huì lái de, nǐ fàngxīn ba.</div>
+            <div class="ex-en">He'll come, don't worry.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这不会是真的吧？</div>
+            <div class="ex-py">Zhè bù huì shì zhēn de ba?</div>
+            <div class="ex-en">This can't be real, can it? (expressing disbelief)</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">别担心，一切都会好起来的。</div>
+            <div class="ex-py">Bié dānxīn, yīqiè dōu huì hǎo qǐlai de.</div>
+            <div class="ex-en">Don't worry, everything will get better.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">辨析 biànxī · 会 vs. 要 in future contexts</span>
+          Both 会 and 要 can indicate future events, but with different flavors. 要 suggests something is imminent or intended (明天要下雨 = "it's going to rain soon, it's about to"). 会 suggests confident expectation or likelihood (明天会下雨 = "it will rain, I expect"). 要 is more urgent; 会 is more measured.
+        </div>
+      </div>
+
+    </div><!-- /cards hui-future -->
+
+    <!-- ── 能 PHYSICAL/CIRCUMSTANTIAL ── -->
+    <span class="section-anchor" id="neng-ability"></span>
+    <div class="section-head">
+      <span class="sh-cn">能：能力与情境</span>
+      <span class="sh-py">néng: nénglì yǔ qíngjìng</span>
+      <span class="sh-en">能 — Physical and Circumstantial Ability</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">头疼，不能去</span>
+          <span class="card-py">tóuténg, bù néng qù</span>
+          <span class="card-en">headache, can't go — circumstance prevents ability</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">能 (circumstantial)</span></div>
+        <div class="card-def">
+          能 covers physical capacity (your body can or cannot do something) and circumstantial ability (the situation allows or does not allow). When you say 不能去, you are not saying you don't know how to go somewhere — you are saying current conditions prevent it: illness, conflicting schedule, physical barrier. The bear character is apt: the bear's capacity is contingent on its condition and situation.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">我头疼，今天不能去上课了。</div>
+            <div class="ex-py">Wǒ tóuténg, jīntiān bù néng qù shàngkè le.</div>
+            <div class="ex-en">I have a headache; I can't go to class today.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这个箱子我一个人能搬吗？——能，试试看。</div>
+            <div class="ex-py">Zhège xiāngzi wǒ yī gè rén néng bān ma? — Néng, shì shi kàn.</div>
+            <div class="ex-en">Can I carry this suitcase by myself? — Yes, give it a try.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">医生说他暂时不能喝酒。</div>
+            <div class="ex-py">Yīshēng shuō tā zànshí bù néng hējiǔ.</div>
+            <div class="ex-en">The doctor said he can't drink alcohol for the time being.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这间屋子能容纳五十个人。</div>
+            <div class="ex-py">Zhè jiān wūzi néng róngnà wǔshí gè rén.</div>
+            <div class="ex-en">This room can hold fifty people.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">语法 yǔfǎ · 能 with quantities and capacities</span>
+          能 is the natural choice when expressing a container or functional capacity: 这台电脑能存多少数据？ "How much data can this computer store?" The emphasis is on what the system or body <em>is capable of</em>, not on learned skill or permission.
+        </div>
+      </div>
+
+    </div><!-- /cards neng-ability -->
+
+    <!-- ── 可以 PERMISSION ── -->
+    <span class="section-anchor" id="keyi-permission"></span>
+    <div class="section-head">
+      <span class="sh-cn">可以：许可</span>
+      <span class="sh-py">kěyǐ: xǔkě</span>
+      <span class="sh-en">可以 — Permission and Social Sanction</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">可以进来吗？</span>
+          <span class="card-py">kěyǐ jìnlái ma?</span>
+          <span class="card-en">May I come in? — requesting permission</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">可以 (permission)</span></div>
+        <div class="card-def">
+          可以 is the canonical permission modal. It asks or grants social authorization — whether rules, norms, context, or a person in authority allows an action. The asker knows they have the physical ability; the question is whether they have the social right. This is the modal you reach for when entering an office, asking to take a photo, requesting to leave, checking rules.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">这里可以拍照吗？</div>
+            <div class="ex-py">Zhèlǐ kěyǐ pāizhào ma?</div>
+            <div class="ex-en">Is photography allowed here?</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">你可以走了。</div>
+            <div class="ex-py">Nǐ kěyǐ zǒu le.</div>
+            <div class="ex-en">You may leave now. (granting permission)</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这里不可以抽烟。</div>
+            <div class="ex-py">Zhèlǐ bù kěyǐ chōuyān.</div>
+            <div class="ex-en">Smoking is not allowed here.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">老师，我可以去洗手间吗？</div>
+            <div class="ex-py">Lǎoshī, wǒ kěyǐ qù xǐshǒujiān ma?</td>
+            <div class="ex-en">Teacher, may I go to the restroom?</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">辨析 biànxī · 不可以 vs. 不能 in prohibition</span>
+          Both 不可以 and 不能 can express prohibition, but with different emphasis. <strong>不可以</strong> = you are not permitted (rule-based). <strong>不能</strong> = you are not able to / must not (the circumstance or condition does not allow it). In practice the distinction is soft — both work in most prohibition contexts. But signs and official notices tend toward 不可以 or 禁止 (forbidden), while personal constraints use 不能.
+        </div>
+      </div>
+
+    </div><!-- /cards keyi-permission -->
+
+    <!-- ── OVERLAPS ── -->
+    <span class="section-anchor" id="overlaps"></span>
+    <div class="section-head">
+      <span class="sh-cn">交叉与细微差别</span>
+      <span class="sh-py">jiāochā yǔ xìwēi chābié</span>
+      <span class="sh-en">Overlaps and Nuances</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-sienna">
+        <div class="card-head">
+          <span class="card-cn">能 vs. 可以 in permission</span>
+          <span class="card-py">néng vs. kěyǐ</span>
+          <span class="card-en">both can express "may I" — register and emphasis differ</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">overlap zone</span></div>
+        <div class="card-def">
+          In permission contexts, 能 and 可以 are largely interchangeable in colloquial speech. 能不能… and 可不可以… are both natural ways to make requests. The subtle distinction: 可以 is slightly more formal and social (it foregrounds the permission-granting authority), while 能 is slightly more casual and focused on practical possibility. When in doubt in a permission context, 可以 is the safer, more polite choice.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">你能帮我一下吗？ / 你可以帮我一下吗？</div>
+            <div class="ex-py">Nǐ néng bāng wǒ yīxià ma? / Nǐ kěyǐ bāng wǒ yīxià ma?</div>
+            <div class="ex-en">Can you help me? (Both natural; 可以 slightly more polite)</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">你能不能小声一点？/ 你可以小声一点吗？</div>
+            <div class="ex-py">Nǐ néng bu néng xiǎo shēng yīdiǎn? / Nǐ kěyǐ xiǎo shēng yīdiǎn ma?</div>
+            <div class="ex-en">Could you be a bit quieter? (Both common; 能不能 is slightly more direct)</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">会 vs. 能 for skills</span>
+          <span class="card-py">huì vs. néng for skills</span>
+          <span class="card-en">the same skill, different framing</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">overlap zone</span></div>
+        <div class="card-def">
+          When asking about skills, 会 is the baseline question (do you know how?). 能 asks whether current conditions allow you to exercise that skill. 你会游泳吗 asks if you learned swimming. 你现在能游泳吗 asks whether you can swim right now (implying there might be a reason you couldn't — injury, no pool, no swimsuit). In practice, both are used loosely and context usually disambiguates.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他会说英语，但今天嗓子哑了，说不出来。</div>
+            <div class="ex-py">Tā huì shuō Yīngyǔ, dàn jīntiān sǎngzi yǎ le, shuō bu chūlai.</div>
+            <div class="ex-en">He can speak English (knows how), but today his voice is hoarse and he can't speak.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">规律 guīlǜ · The iron rule</span>
+          会 NEVER means "is permitted to." 不会 NEVER means "is not allowed to." If the question is about permission or prohibition, 会/不会 is wrong — use 可以/不可以 or 能/不能. This is the one firm boundary: 会 stays in the domain of learned ability and future expectation only.
+        </div>
+      </div>
+
+    </div><!-- /cards overlaps -->
+
+    <!-- ── COMPARISON TABLE ── -->
+    <span class="section-anchor" id="comparison"></span>
+    <div class="section-head">
+      <span class="sh-cn">对比表</span>
+      <span class="sh-py">duìbǐ biǎo</span>
+      <span class="sh-en">会 / 能 / 可以 — Complete Comparison</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>Modal</th>
+            <th>Core meaning</th>
+            <th>Affirmative</th>
+            <th>Negative</th>
+            <th>Question</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="td-cn">会 huì</td>
+            <td>Learned skill; future expectation</td>
+            <td>我会 wǒ huì (I know how)</td>
+            <td>不会 bù huì (don't know how)</td>
+            <td>会不会 / 会吗</td>
+          </tr>
+          <tr>
+            <td class="td-cn">能 néng</td>
+            <td>Physical/functional capacity; circumstances allow</td>
+            <td>我能 wǒ néng (I am able)</td>
+            <td>不能 bù néng (can't / mustn't)</td>
+            <td>能不能 / 能吗</td>
+          </tr>
+          <tr>
+            <td class="td-cn">可以 kěyǐ</td>
+            <td>Permission; social sanction</td>
+            <td>可以 kěyǐ (it's OK / permitted)</td>
+            <td>不可以 bù kěyǐ (not allowed)</td>
+            <td>可以吗 / 可不可以</td>
+          </tr>
+          <tr>
+            <td class="td-cn">— (overlap)</td>
+            <td>能 ≈ 可以 in permission (colloquial)</td>
+            <td colspan="3">你能来吗 ≈ 你可以来吗 — both natural in casual speech</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- ── CHENGYU ── -->
+    <span class="section-anchor" id="chengyu"></span>
+    <div class="section-head">
+      <span class="sh-cn">成语</span>
+      <span class="sh-py">chéngyǔ</span>
+      <span class="sh-en">Ability in Idioms</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="chengyu-grid">
+
+      <div class="cy">
+        <span class="cy-cn">无能为力</span>
+        <span class="cy-py">wú néng wéi lì</span>
+        <span class="cy-en">powerless; unable to do anything about it</span>
+        <span class="cy-note">Lit: have-no-ability-to-act-with-force. 无能 = lacking ability; 为力 = to exert effort/force. The standard idiom for expressing helplessness in the face of a problem. 对于这件事，我也无能为力 "I am also powerless over this matter." Formal and literary; widely used.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">各有所能</span>
+        <span class="cy-py">gè yǒu suǒ néng</span>
+        <span class="cy-en">each has their own abilities — everyone has something they're good at</span>
+        <span class="cy-note">Lit: each-has-what-[they]-can[do]. A Confucian-flavored observation about the distribution of talent. Used to affirm that different people excel in different domains — a polite and diplomatic formula. 人各有所能，没什么好比较的 "Everyone has their own abilities; there's nothing to compare."</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">才能出众</span>
+        <span class="cy-py">cáinéng chūzhòng</span>
+        <span class="cy-en">outstandingly talented — ability that stands above the crowd</span>
+        <span class="cy-note">才能 cáinéng (talent and ability) + 出众 chūzhòng (to stand out from the crowd). 能 here combines with 才 (talent, capacity) to form the compound 才能. Used in recommendations, eulogies, and formal praise. 她才能出众，前途无量 "Her talents are exceptional; her future is limitless."</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">能屈能伸</span>
+        <span class="cy-py">néng qū néng shēn</span>
+        <span class="cy-en">able to bend and able to stretch — flexible and adaptable</span>
+        <span class="cy-note">Lit: can-yield-can-extend. Describes someone who knows when to be humble and when to assert themselves — a virtue prized in Chinese social thought. 大丈夫能屈能伸 "A real man of character can yield and can rise again." 屈 = to yield, bow; 伸 = to stretch out, extend.</span>
+      </div>
+
+    </div>
+
+    <!-- ── ADJACENT VOCAB ── -->
+    <span class="section-anchor" id="adjacent"></span>
+    <div class="section-head">
+      <span class="sh-cn">相邻词汇</span>
+      <span class="sh-py">xiānglín cíhuì</span>
+      <span class="sh-en">Adjacent Vocabulary — Ability and Permission</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">应该</span><span class="a-py">yīnggāi</span><span class="a-en">should, ought to</span></span>
+      <span class="adj"><span class="a-cn">必须</span><span class="a-py">bìxū</span><span class="a-en">must, have to</span></span>
+      <span class="adj"><span class="a-cn">要</span><span class="a-py">yào</span><span class="a-en">want to; will; must</span></span>
+      <span class="adj"><span class="a-cn">想</span><span class="a-py">xiǎng</span><span class="a-en">want to, feel like</span></span>
+      <span class="adj"><span class="a-cn">愿意</span><span class="a-py">yuànyì</span><span class="a-en">willing to</span></span>
+      <span class="adj"><span class="a-cn">敢</span><span class="a-py">gǎn</span><span class="a-en">dare to</span></span>
+      <span class="adj"><span class="a-cn">禁止</span><span class="a-py">jìnzhǐ</span><span class="a-en">forbidden, prohibited</span></span>
+      <span class="adj"><span class="a-cn">允许</span><span class="a-py">yǔnxǔ</span><span class="a-en">to permit, allow</span></span>
+      <span class="adj"><span class="a-cn">许可</span><span class="a-py">xǔkě</span><span class="a-en">permission (formal noun)</span></span>
+      <span class="adj"><span class="a-cn">才能</span><span class="a-py">cáinéng</span><span class="a-en">talent, ability (noun)</span></span>
+      <span class="adj"><span class="a-cn">能力</span><span class="a-py">nénglì</span><span class="a-en">capability, capacity (noun)</span></span>
+      <span class="adj"><span class="a-cn">本领</span><span class="a-py">běnlǐng</span><span class="a-en">skill, ability (colloquial)</span></span>
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="page-footer">
+      <span class="footer-id">Field Notes on Chinese · <span>会 / 能 / 可以</span> · hui_neng_keyi_会能可以.html</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>

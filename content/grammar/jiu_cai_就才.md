@@ -1,0 +1,658 @@
+---
+type: 'grammar'
+category: 'grammar'
+status: 'complete'
+title: '就 vs. 才 · sooner vs. later'
+desc: 'The timing and emphasis pair — speaker attitude encoded in one syllable.'
+metaDesc: "就 vs. 才: the timing and emphasis pair. 就 = sooner/easier than expected; 才 = later/harder than expected. Etymology, core contrast, conditional structures 只要…就 and 只有…才, and chengyu."
+pageTitle: '就 vs. 才 jiù / cái'
+tags:
+  - 'adverb'
+  - 'timing'
+  - 'emphasis'
+updated: '2026-04-18'
+pinyin: 'jiù / cái'
+---
+
+<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+
+    <span class="toc-topic">就／才</span>
+    <span class="toc-topic-en">Timing &amp; Emphasis</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#etymology">
+        <span class="toc-cn">字源</span> Etymology
+        <span class="toc-sub">approaching vs. just sprouting</span>
+      </a></li>
+      <li><a href="#contrast">
+        <span class="toc-cn">对比</span> Core Contrast
+        <span class="toc-sub">sooner vs. later than expected</span>
+      </a></li>
+      <li><a href="#jiu-early">
+        <span class="toc-cn">就：早</span> 就 — Earlier, Easier
+        <span class="toc-sub">reading at 5, understood at once</span>
+      </a></li>
+      <li><a href="#cai-late">
+        <span class="toc-cn">才：晚</span> 才 — Later, Harder
+        <span class="toc-sub">married at 30, only two people</span>
+      </a></li>
+      <li><a href="#conditionals">
+        <span class="toc-cn">条件句</span> Conditionals
+        <span class="toc-sub">只要…就 and 只有…才</span>
+      </a></li>
+      <li><a href="#jiu-sequence">
+        <span class="toc-cn">就：顺序</span> 就 as Immediate Sequence
+        <span class="toc-sub">as soon as X, immediately Y</span>
+      </a></li>
+      <li><a href="#table">
+        <span class="toc-cn">对照表</span> Parallel Sentences
+        <span class="toc-sub">就/才 contrast illustrated</span>
+      </a></li>
+      <li><a href="#chengyu">
+        <span class="toc-cn">成语</span> Idioms
+        <span class="toc-sub">seizing the moment, talent, space</span>
+      </a></li>
+      <li><a href="#adjacent">
+        <span class="toc-cn">相邻</span> Adjacent Vocab
+        <span class="toc-sub">related adverbs and timing words</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- HERO -->
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">Grammar · 语法 yǔfǎ</span>
+      <h1 class="topic-hero-title">就／才</h1>
+      <span class="topic-hero-title-py">jiù / cái</span>
+      <p class="topic-hero-desc">Two adverbs that encode the speaker's attitude toward timing and quantity — 就 says "sooner, easier, already"; 才 says "later, harder, only just." They are not about facts; they are about expectations.</p>
+    </header>
+
+    <!-- ── ETYMOLOGY ── -->
+    <span class="section-anchor" id="etymology"></span>
+    <div class="section-head">
+      <span class="sh-cn">字源</span>
+      <span class="sh-py">zìyuán</span>
+      <span class="sh-en">Etymology — Approaching vs. Just Sprouting</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="就">
+      <div class="scholar-label">字源洞见 zìyuán dòngjiàn · 就 and 才 — Two Opposing Postures</div>
+      <p><strong>就 jiù</strong> is composed of 京 jīng (a high place, a capital — something prominent and easily approached) over 尤 yóu (especially; what stands out). The core semantic is <em>to approach, to draw near, to follow along naturally, to go with the flow toward something.</em> A person gravitating toward what is nearby and accessible. This physical sense of easy approach directly motivates the grammatical function: 就 marks what comes readily, earlier than expected, with less difficulty than anticipated. 就 is the adverb of ease and earliness.</p>
+      <p><strong>才 cái</strong> is pictographic — the character shows a plant that has just barely broken through the soil: a sprout with one horizontal stroke representing the ground line. It means: the very first moment of appearing, the minimum threshold, barely enough. The plant has <em>just</em> emerged; it has only just qualified as a plant. From this comes the sense of <em>barely, just, only then, not until.</em> 才 is the adverb of lateness, difficulty, scarcity, and minimum threshold.</p>
+      <p>Together they form one of the most elegant contrast pairs in Mandarin: 就 and 才 both modify the same verb phrase, but they evaluate the timing or quantity from opposite sides of an expected norm. That norm is subjective — it lives in the speaker's attitude, not in the clock.</p>
+    </div>
+
+    <!-- ── CORE CONTRAST ── -->
+    <span class="section-anchor" id="contrast"></span>
+    <div class="section-head">
+      <span class="sh-cn">核心对比</span>
+      <span class="sh-py">héxīn duìbǐ</span>
+      <span class="sh-en">The Core Contrast — Speaker Attitude</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">就/才 核心对比 héxīn duìbǐ · The Speaker's Baseline</span>
+      <strong>就 jiù = sooner / easier / already / merely than expected</strong><br>
+      八点，他<strong>就</strong>来了。Bā diǎn, tā <strong>jiù</strong> lái le. — At eight o'clock, he came. (early — that's sooner than I thought)<br><br>
+      <strong>才 cái = later / harder / only then / not until than expected</strong><br>
+      八点，他<strong>才</strong>来。Bā diǎn, tā <strong>cái</strong> lái. — Not until eight o'clock did he come. (late — I was waiting, that's finally when he arrived)<br><br>
+      <strong>Both sentences use the same time and the same verb.</strong> The only difference is the adverb — and the adverb encodes the speaker's attitude about whether eight o'clock is early or late. This is not about time; it is about <em>evaluation</em>.
+    </div>
+
+    <div class="scholar" data-glyph="才">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · The Expected Baseline is Subjective</div>
+      <p>The most important insight about 就 and 才: <strong>the "expected baseline" is entirely subjective and speaker-dependent.</strong> The same clock time can be described with either adverb depending on the speaker's expectations and attitude.</p>
+      <p>都十岁了 + 就/才 + 会写字 = "already ten years old and [就 able to write / 才 only able to write]." If you expect ten-year-olds to write, 才 signals disappointment (late). If you expect writing to develop much later, 就 expresses admiration (early). The child's age is the same; only the speaker's frame changes.</p>
+      <p>This also means 就 and 才 cannot be directly translated with fixed English equivalents. They encode the speaker's stance toward the event, and the translator must infer from context which English framing (already / barely, early / finally, readily / at last) best captures that stance.</p>
+    </div>
+
+    <!-- ── 就: EARLIER / EASIER ── -->
+    <span class="section-anchor" id="jiu-early"></span>
+    <div class="section-head">
+      <span class="sh-cn">就：早、易、已</span>
+      <span class="sh-py">jiù: zǎo, yì, yǐ</span>
+      <span class="sh-en">就 — Earlier, Easier, Already</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">他五岁就会读书了</span>
+          <span class="card-py">tā wǔ suì jiù huì dúshū le</span>
+          <span class="card-en">he was already reading at age five! (impressively early)</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">就 · earlier than expected · admiration</span></div>
+        <div class="card-def">
+          Age five is the timeline; 就 signals it is earlier than the expected baseline for reading ability. The sentence-final 了 reinforces the new-situation quality — at that point, as early as five, he had already achieved this. The combination 就…了 is extremely common for describing precocious achievements.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">她三岁就会说话了。</div>
+            <div class="ex-py">Tā sān suì jiù huì shuōhuà le.</div>
+            <div class="ex-en">She was already speaking at three. (early)</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他五岁就会读书了，真聪明。</div>
+            <div class="ex-py">Tā wǔ suì jiù huì dúshū le, zhēn cōngmíng.</div>
+            <div class="ex-en">He was reading at five — truly clever.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">我早就知道这件事了。</div>
+            <div class="ex-py">Wǒ zǎo jiù zhīdào zhè jiàn shì le.</div>
+            <div class="ex-en">I already knew about this long ago. (早就 = "long since already")</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">语法 yǔfǎ · 早就</span>
+          早就 zǎo jiù is a fixed combination meaning "long since, already ages ago." 我早就说过了 = "I said this long ago." The 早 amplifies the 就-sense of earliness into the past.
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">我一说他就明白了</span>
+          <span class="card-py">wǒ yī shuō tā jiù míngbai le</span>
+          <span class="card-en">I said it once and he immediately understood</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">就 · immediate consequence · ease</span></div>
+        <div class="card-def">
+          一 + Verb + 就 is one of the most important patterns in the language: "as soon as / the moment I did X, immediately Y happened." The 就 marks the near-instant consequence — no delay, no difficulty. The quickness is expressed not by a time word but by the structural juxtaposition of 一 + Action + 就 + Result.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">我一说他就明白了。</div>
+            <div class="ex-py">Wǒ yī shuō tā jiù míngbai le.</div>
+            <div class="ex-en">The moment I said it, he understood.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">一下雨，他就回家了。</div>
+            <div class="ex-py">Yī xià yǔ, tā jiù huí jiā le.</div>
+            <div class="ex-en">The moment it started raining, he went home.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">我一看就喜欢上了。</div>
+            <div class="ex-py">Wǒ yī kàn jiù xǐhuān shàng le.</div>
+            <div class="ex-en">I liked it the moment I laid eyes on it.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">就这么简单</span>
+          <span class="card-py">jiù zhème jiǎndān</span>
+          <span class="card-en">it's just that simple; merely this easy</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">就 · minimizing · "merely, just"</span></div>
+        <div class="card-def">
+          就 in this usage minimizes or dismisses: it is <em>merely, just, only</em> this — simpler or smaller than one might have expected. 就这样 "just like this, that's all" and 就这么 "it's simply this" are extremely common in casual speech for dismissing complexity or closing a matter.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">就这么简单，没什么难的。</div>
+            <div class="ex-py">Jiù zhème jiǎndān, méi shénme nán de.</div>
+            <div class="ex-en">It's just that simple — nothing difficult about it.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">就是这样，就这么回事。</div>
+            <div class="ex-py">Jiù shì zhèyàng, jiù zhème huí shì.</div>
+            <div class="ex-en">It's exactly like this — that's all there is to it.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他就是不听。</div>
+            <div class="ex-py">Tā jiù shì bù tīng.</div>
+            <div class="ex-en">He simply won't listen. (就是 for stubbornness: despite everything, he just...)</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">明天就到了</span>
+          <span class="card-py">míngtiān jiù dào le</span>
+          <span class="card-en">arrives as soon as tomorrow; it'll be here by tomorrow already</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">就 · imminent future · sooner than thought</span></div>
+        <div class="card-def">
+          就 can also point toward an imminent future event, expressing that something will happen sooner than might be expected. The speaker's attitude: "it's coming up fast, it'll be here before you know it." This future-pointing 就 often co-occurs with 了 at the sentence end.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">快了，明天就到了。</div>
+            <div class="ex-py">Kuài le, míngtiān jiù dào le.</div>
+            <div class="ex-en">Almost there — it arrives tomorrow already.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">再等一会儿，他就来了。</div>
+            <div class="ex-py">Zài děng yīhuìr, tā jiù lái le.</div>
+            <div class="ex-en">Wait a bit more — he'll be here any minute.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">春节就快到了。</div>
+            <div class="ex-py">Chūnjié jiù kuài dào le.</div>
+            <div class="ex-en">The Spring Festival is almost here already.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards jiu-early -->
+
+    <!-- ── 才: LATER / HARDER ── -->
+    <span class="section-anchor" id="cai-late"></span>
+    <div class="section-head">
+      <span class="sh-cn">才：晚、难、仅</span>
+      <span class="sh-py">cái: wǎn, nán, jǐn</span>
+      <span class="sh-en">才 — Later, Harder, Only Then</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">他三十岁才结婚</span>
+          <span class="card-py">tā sānshí suì cái jiéhūn</span>
+          <span class="card-en">he didn't marry until thirty (late, in the speaker's view)</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">才 · later than expected · mild reproach</span></div>
+        <div class="card-def">
+          From the speaker's perspective, thirty is late to marry — perhaps later than expected or social norms dictate. 才 carries the mild sense of "not until, finally, only then." Note that 才 sentences typically do NOT use sentence-final 了 — the 了 would shift the focus away from the lateness the speaker wants to signal.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他三十岁才结婚，现在孩子还很小。</div>
+            <div class="ex-py">Tā sānshí suì cái jiéhūn, xiànzài háizi hái hěn xiǎo.</div>
+            <div class="ex-en">He only married at thirty — his kids are still very young now.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">她四十岁才找到自己喜欢的工作。</div>
+            <div class="ex-py">Tā sìshí suì cái zhǎodào zìjǐ xǐhuān de gōngzuò.</div>
+            <div class="ex-en">Not until forty did she find work she loved.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">语法 yǔfǎ · 才 and 了</span>
+          才 sentences describing past events typically <em>do not</em> use sentence-final 了: 他三十岁才结婚 (correct) vs. 他三十岁才结婚了 (awkward — the 了 cancels the "lateness" feeling that 才 creates). This is one of the key structural differences between 就 and 才.
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">说了半天才明白</span>
+          <span class="card-py">shuō le bàn tiān cái míngbai</span>
+          <span class="card-en">finally understood after talking for ages</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">才 · after great effort · "finally"</span></div>
+        <div class="card-def">
+          After a long period of effort, explanation, or struggle — 才 finally. The effort is encoded in the first clause (说了半天 = talked for half a day, idiom for "a long time"); the 才 marks that only after all that effort did the result occur. This is 才 at its most expressive: hard-won achievement.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他解释了半天，我才明白。</div>
+            <div class="ex-py">Tā jiěshì le bàn tiān, wǒ cái míngbai.</div>
+            <div class="ex-en">After he explained for ages, I finally understood.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">找了好久，才找到那本书。</div>
+            <div class="ex-py">Zhǎo le hǎo jiǔ, cái zhǎodào nà běn shū.</div>
+            <div class="ex-en">After searching for a long time, I finally found the book.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">努力了三年，才通过考试。</div>
+            <div class="ex-py">Nǔlì le sān nián, cái tōngguò kǎoshì.</div>
+            <div class="ex-en">After three years of effort, I finally passed the exam.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">才两个人</span>
+          <span class="card-py">cái liǎng gè rén</span>
+          <span class="card-en">only two people (not enough — disappointing)</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">才 · small quantity · insufficient</span></div>
+        <div class="card-def">
+          才 before a quantity expresses that the amount is smaller than expected or desired. This is the scarcity / insufficiency use of 才: the number is barely enough, disappointing, a minimum. Contrast with 就 before a quantity, which expresses that the amount is surprisingly small in a positive sense (manageable, easy).
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">来了才两个人，活动泡汤了。</div>
+            <div class="ex-py">Lái le cái liǎng gè rén, huódòng pāo tāng le.</div>
+            <div class="ex-en">Only two people showed up — the event fell through.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">才一百块，怎么够用？</div>
+            <div class="ex-py">Cái yī bǎi kuài, zěnme gòu yòng?</div>
+            <div class="ex-en">Only a hundred yuan — how could that be enough?</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">才学了一个月，别急。</div>
+            <div class="ex-py">Cái xué le yī gè yuè, bié jí.</div>
+            <div class="ex-en">You've only been studying for a month — don't rush.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">辨析 biànxī · 才 vs. 就 with Quantities</span>
+          就三个人 = "just three people — easy, manageable, surprisingly few in a good way"<br>
+          才三个人 = "only three people — not enough, insufficient, disappointingly few"<br>
+          The quantity is the same; the speaker's evaluation is opposite.
+        </div>
+      </div>
+
+    </div><!-- /cards cai-late -->
+
+    <!-- ── CONDITIONALS ── -->
+    <span class="section-anchor" id="conditionals"></span>
+    <div class="section-head">
+      <span class="sh-cn">条件句</span>
+      <span class="sh-py">tiáojiàn jù</span>
+      <span class="sh-en">就 and 才 in Conditionals — The Essential Paired Structures</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">条件结构 tiáojiàn jiégòu · Two Essential Paired Structures</span>
+      <strong>只要…就 zhǐyào…jiù = "as long as…then"</strong> (sufficient condition — easy threshold)<br>
+      只要你努力，<strong>就</strong>能成功。Zhǐyào nǐ nǔlì, <strong>jiù</strong> néng chénggōng. — As long as you work hard, you'll succeed.<br><br>
+      <strong>只有…才 zhǐyǒu…cái = "only if…then"</strong> (necessary condition — hard threshold)<br>
+      只有努力学习，<strong>才</strong>能通过考试。Zhǐyǒu nǔlì xuéxí, <strong>cái</strong> néng tōngguò kǎoshì. — Only by studying hard will you pass the exam.<br><br>
+      <strong>Critical distinction:</strong> 只要…就 = the condition is easy to meet, sufficient. 只有…才 = the condition is the ONLY way, necessary and exclusive. 就 (easy/already) vs. 才 (hard/only then) map perfectly onto the logical content.
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">只要…就</span>
+          <span class="card-py">zhǐyào … jiù</span>
+          <span class="card-en">as long as…then (sufficient condition — lower bar)</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">充分条件 sufficient condition structure</span></div>
+        <div class="card-def">
+          只要 zhǐyào (as long as; provided that) + 就 (then, readily follows). The condition in 只要 is sufficient — if you meet it, the result will follow. The 就 signals this ease of consequence: given that condition, the result naturally comes. The threshold is manageable, the path is clear.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">只要你努力，就能成功。</div>
+            <div class="ex-py">Zhǐyào nǐ nǔlì, jiù néng chénggōng.</div>
+            <div class="ex-en">As long as you work hard, you'll succeed.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">只要有网络，就可以工作。</div>
+            <div class="ex-py">Zhǐyào yǒu wǎngluò, jiù kěyǐ gōngzuò.</div>
+            <div class="ex-en">As long as there's internet, I can work.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">只要你来，我就高兴。</div>
+            <div class="ex-py">Zhǐyào nǐ lái, wǒ jiù gāoxìng.</div>
+            <div class="ex-en">As long as you come, I'm happy.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">只有…才</span>
+          <span class="card-py">zhǐyǒu … cái</span>
+          <span class="card-en">only if…then (necessary condition — higher, exclusive bar)</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">必要条件 necessary condition structure</span></div>
+        <div class="card-def">
+          只有 zhǐyǒu (only if; only when; only by) + 才 (only then, not before, not without this). The condition is necessary and exclusive — there is no other path to the result. The 才 encodes the difficulty and exclusivity: only by meeting this specific hard condition will the result obtain. More restrictive and demanding than 只要…就.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">只有努力学习，才能通过考试。</div>
+            <div class="ex-py">Zhǐyǒu nǔlì xuéxí, cái néng tōngguò kǎoshì.</div>
+            <div class="ex-en">Only by studying hard will you pass the exam.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">只有经历过痛苦，才能真正理解人生。</div>
+            <div class="ex-py">Zhǐyǒu jīnglì guò tòngkǔ, cái néng zhēnzhèng lǐjiě rénshēng.</div>
+            <div class="ex-en">Only through suffering can one truly understand life.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">只有你亲自来，我才相信。</div>
+            <div class="ex-py">Zhǐyǒu nǐ qīnzì lái, wǒ cái xiāngxìn.</div>
+            <div class="ex-en">Only if you come in person will I believe it.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">辨析 biànxī · 只要…就 vs. 只有…才</span>
+          只要认真，<strong>就</strong>能做好。 = Any serious effort is enough → easy, accessible.<br>
+          只有认真，<strong>才</strong>能做好。 = Seriousness is the only way → exclusive, demanding.<br>
+          The difference is between "sufficient" (just do this) and "necessary" (nothing else will work).
+        </div>
+      </div>
+
+    </div><!-- /cards conditionals -->
+
+    <!-- ── 就 AS IMMEDIATE SEQUENCE ── -->
+    <span class="section-anchor" id="jiu-sequence"></span>
+    <div class="section-head">
+      <span class="sh-cn">就：立即</span>
+      <span class="sh-py">jiù: lìjí</span>
+      <span class="sh-en">就 as Immediate Sequence</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">他回来就走</span>
+          <span class="card-py">tā huílái jiù zǒu</span>
+          <span class="card-en">he leaves as soon as he comes back (no pause between)</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">就 · immediate sequence · no delay</span></div>
+        <div class="card-def">
+          When 就 connects two verbs or clauses, it signals immediate, seamless sequence — the second action follows the first without pause. This is the "as soon as" function: the first event triggers the second instantly. No 一 is needed here — just the bare sequence: Clause 1 + 就 + Clause 2.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他回来就走，没时间休息。</div>
+            <div class="ex-py">Tā huílái jiù zǒu, méi shíjiān xiūxi.</div>
+            <div class="ex-en">He leaves as soon as he's back — no time to rest.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">我下班就过去。</div>
+            <div class="ex-py">Wǒ xià bān jiù guòqù.</div>
+            <div class="ex-en">I'll head over as soon as I'm off work.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">到了就给我发消息。</div>
+            <div class="ex-py">Dào le jiù gěi wǒ fā xiāoxi.</div>
+            <div class="ex-en">As soon as you arrive, send me a message.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">吃完饭就睡</span>
+          <span class="card-py">chī wán fàn jiù shuì</span>
+          <span class="card-en">sleeps right after eating (immediately, habitual)</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">就 · habitual immediate consequence</span></div>
+        <div class="card-def">
+          就 in habitual statements describes characteristic immediate sequences — what this person always does right after something else. Often used with mild commentary (it might be a bad habit, or an endearing one). The 就 here encodes: no delay at all between finishing dinner and falling asleep.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他吃完饭就睡，从来不运动。</div>
+            <div class="ex-py">Tā chī wán fàn jiù shuì, cónglái bù yùndòng.</div>
+            <div class="ex-en">He sleeps right after eating — never exercises.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">她一到家就开始做饭。</div>
+            <div class="ex-py">Tā yī dào jiā jiù kāishǐ zuò fàn.</div>
+            <div class="ex-en">The moment she gets home, she starts cooking.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards jiu-sequence -->
+
+    <!-- ── TABLE ── -->
+    <span class="section-anchor" id="table"></span>
+    <div class="section-head">
+      <span class="sh-cn">对照表</span>
+      <span class="sh-py">duìzhào biǎo</span>
+      <span class="sh-en">Parallel 就/才 Sentences — Contrast Illustrated</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>就 Sentence</th>
+            <th>含义 Meaning (就)</th>
+            <th>才 Sentence</th>
+            <th>含义 Meaning (才)</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="td-cn">他八点就来了</td>
+            <td>came at eight — early, sooner than expected</td>
+            <td class="td-cn">他八点才来</td>
+            <td>not until eight — late, kept me waiting</td>
+          </tr>
+          <tr>
+            <td class="td-cn">她五岁就会写字了</td>
+            <td>writing at five — impressively early</td>
+            <td class="td-cn">她五岁才会写字</td>
+            <td>only started writing at five — late</td>
+          </tr>
+          <tr>
+            <td class="td-cn">就三个人，好安排</td>
+            <td>just three people — easy to manage</td>
+            <td class="td-cn">才三个人，不够</td>
+            <td>only three people — not enough</td>
+          </tr>
+          <tr>
+            <td class="td-cn">我一说他就懂了</td>
+            <td>understood immediately — quick comprehension</td>
+            <td class="td-cn">说了半天他才懂</td>
+            <td>finally understood after ages — slow</td>
+          </tr>
+          <tr>
+            <td class="td-cn">走十分钟就到了</td>
+            <td>ten minutes walk — closer than expected</td>
+            <td class="td-cn">走了一小时才到</td>
+            <td>only arrived after an hour — farther than expected</td>
+          </tr>
+          <tr>
+            <td class="td-cn">只要努力就成功</td>
+            <td>effort is sufficient condition — accessible</td>
+            <td class="td-cn">只有努力才成功</td>
+            <td>effort is necessary condition — exclusive, hard</td>
+          </tr>
+          <tr>
+            <td class="td-cn">他二十岁就结婚了</td>
+            <td>married at twenty — young, early</td>
+            <td class="td-cn">他四十岁才结婚</td>
+            <td>not married until forty — late in life</td>
+          </tr>
+          <tr>
+            <td class="td-cn">就花了五十块</td>
+            <td>only cost fifty — cheaper than expected</td>
+            <td class="td-cn">才花了五十块</td>
+            <td>spent only fifty — not much, frugal or disappointing</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- ── CHENGYU ── -->
+    <span class="section-anchor" id="chengyu"></span>
+    <div class="section-head">
+      <span class="sh-cn">成语</span>
+      <span class="sh-py">chéngyǔ</span>
+      <span class="sh-en">Idioms — Timing, Talent, and Small Spaces</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="chengyu-grid">
+
+      <div class="cy">
+        <span class="cy-cn">就地取材</span>
+        <span class="cy-py">jiù dì qǔ cái</span>
+        <span class="cy-en">to use local materials; to make do with what is immediately available</span>
+        <span class="cy-note">Lit: just-ground-take-materials. 就地 = "right here on the spot" (from 就 = to approach what is near). 取材 = to gather materials. The idiom celebrates resourcefulness — using what is immediately at hand rather than waiting for something better. The 就 captures the "readiness without delay" quality.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">才思敏捷</span>
+        <span class="cy-py">cái sī mǐnjié</span>
+        <span class="cy-en">quick-witted; rapid and agile in thought and creative expression</span>
+        <span class="cy-note">才思 cáisī = literary talent and flow of ideas (才 here is the noun "talent," not the adverb). 敏捷 = swift and agile. A high compliment for writers, poets, and scholars who produce brilliant work quickly. Thematically linked to the adverb 才 (just barely) through the character's core sense of talent that barely emerges but is nonetheless exceptional.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">方寸之地</span>
+        <span class="cy-py">fāng cùn zhī dì</span>
+        <span class="cy-en">a space of mere inches; a tiny place — also: one's heart and mind</span>
+        <span class="cy-note">Lit: square-inch-of-ground. 方寸 = one square cun (about an inch). Used literally for extremely small physical spaces, and metaphorically for the heart/mind (one's inner space). 方寸大乱 fāng cùn dà luàn = "heart in chaos, completely flustered." Connects to 才 through the theme of minimum, barely enough, just this much space.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">时不我待</span>
+        <span class="cy-py">shí bù wǒ dài</span>
+        <span class="cy-en">time will not wait for me; there is no time to delay</span>
+        <span class="cy-note">Lit: time-not-me-await. A classical inversion (time as subject "not waiting for me" rather than "I not waiting for time"). Encodes the urgency that 就 captures in grammar: the moment is now, approach it immediately, do not let the opportunity slide into 才 territory — into "only then, when it is already too late."</span>
+      </div>
+
+    </div>
+
+    <!-- ── ADJACENT VOCAB ── -->
+    <span class="section-anchor" id="adjacent"></span>
+    <div class="section-head">
+      <span class="sh-cn">相邻词汇</span>
+      <span class="sh-py">xiānglín cíhuì</span>
+      <span class="sh-en">Adjacent Vocabulary</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">已经</span><span class="a-py">yǐjīng</span><span class="a-en">already (neutral time marker)</span></span>
+      <span class="adj"><span class="a-cn">早就</span><span class="a-py">zǎo jiù</span><span class="a-en">long since; already ages ago</span></span>
+      <span class="adj"><span class="a-cn">终于</span><span class="a-py">zhōngyú</span><span class="a-en">finally; at last (after much waiting)</span></span>
+      <span class="adj"><span class="a-cn">仅仅</span><span class="a-py">jǐnjǐn</span><span class="a-en">merely, only (quantity minimizer)</span></span>
+      <span class="adj"><span class="a-cn">只</span><span class="a-py">zhǐ</span><span class="a-en">only; merely</span></span>
+      <span class="adj"><span class="a-cn">一…就</span><span class="a-py">yī…jiù</span><span class="a-en">as soon as…immediately</span></span>
+      <span class="adj"><span class="a-cn">只要…就</span><span class="a-py">zhǐyào…jiù</span><span class="a-en">as long as…then (sufficient condition)</span></span>
+      <span class="adj"><span class="a-cn">只有…才</span><span class="a-py">zhǐyǒu…cái</span><span class="a-en">only if…then (necessary condition)</span></span>
+      <span class="adj"><span class="a-cn">快要…了</span><span class="a-py">kuàiyào…le</span><span class="a-en">about to; soon (imminent)</span></span>
+      <span class="adj"><span class="a-cn">不得不</span><span class="a-py">bùdébù</span><span class="a-en">have no choice but to</span></span>
+      <span class="adj"><span class="a-cn">好不容易</span><span class="a-py">hǎo bù róngyì</span><span class="a-en">with great difficulty; finally after much effort</span></span>
+      <span class="adj"><span class="a-cn">立刻</span><span class="a-py">lìkè</span><span class="a-en">immediately; at once</span></span>
+      <span class="adj"><span class="a-cn">马上</span><span class="a-py">mǎshàng</span><span class="a-en">right away; immediately</span></span>
+      <span class="adj"><span class="a-cn">都</span><span class="a-py">dōu</span><span class="a-en">already (emphatic with time, as in 都十点了)</span></span>
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="page-footer">
+      <span class="footer-id">Field Notes on Chinese · <span>就／才 jiù / cái</span> · jiu_cai_就才.html</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>

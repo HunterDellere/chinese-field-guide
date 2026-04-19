@@ -1,0 +1,964 @@
+---
+type: 'character'
+category: 'characters'
+status: 'complete'
+title: '家 · home, family'
+desc: 'House, family, school of thought, nation (国家) — the fractal of belonging.'
+metaDesc: "家 jiā: home, family, school of thought, and nation. The fractal of belonging — from the household pig to the state."
+pageTitle: '家 jiā'
+tags:
+  - 'family'
+  - 'society'
+  - 'home'
+updated: '2026-04-18'
+char: '家'
+pinyin: 'jiā'
+tone: 1
+hsk: 1
+radical: '宀'
+---
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+    <button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+    <span class="toc-glyph">家</span>
+    <span class="toc-pinyin">jiā · tone 1</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#etymology">
+        <span class="toc-cn">字源</span> Etymology
+        <span class="toc-sub">zìyuán · roof over pig</span>
+      </a></li>
+      <li><a href="#family">
+        <span class="toc-cn">家人</span> The Family Unit
+        <span class="toc-sub">jiārén · home compounds</span>
+      </a></li>
+      <li><a href="#scaling">
+        <span class="toc-cn">国家</span> Scaling of 家
+        <span class="toc-sub">guójiā · household to nation</span>
+      </a></li>
+      <li><a href="#specialists">
+        <span class="toc-cn">X+家</span> Specialists
+        <span class="toc-sub">experts &amp; artists</span>
+      </a></li>
+      <li><a href="#schools">
+        <span class="toc-cn">儒家</span> Philosophical Schools
+        <span class="toc-sub">the hundred schools of thought</span>
+      </a></li>
+      <li><a href="#culture">
+        <span class="toc-cn">家常</span> Household Culture
+        <span class="toc-sub">jiācháng · everyday home life</span>
+      </a></li>
+      <li><a href="#measure">
+        <span class="toc-cn">一家</span> Measure Word
+        <span class="toc-sub">counting establishments</span>
+      </a></li>
+      <li><a href="#chengyu">
+        <span class="toc-cn">成语</span> Idioms
+        <span class="toc-sub">chéngyǔ · set phrases</span>
+      </a></li>
+      <li><a href="#adjacent">
+        <span class="toc-cn">相邻</span> Adjacent Vocab
+        <span class="toc-sub">xiānglín cíhuì</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- HERO -->
+    <header class="hero">
+      <div class="hero-inner">
+        <div class="hero-glyph-col">
+          <span class="hero-glyph">家</span>
+          <span class="hero-trad-note">繁體字 identical</span>
+        </div>
+        <div class="hero-meta">
+          <div class="hero-pinyin">jiā</div>
+          <div class="hero-en">home · family · school of thought · nation</div>
+          <div class="hero-chips">
+            <span class="chip">部首 bùshǒu · 宀 mián roof</span>
+            <span class="chip">10 笔画 bǐhuà strokes</span>
+            <span class="chip chip-hsk">HSK 1</span>
+            <span class="chip">tone 1 · jiā</span>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <!-- ── ETYMOLOGY ── -->
+    <span class="section-anchor" id="etymology"></span>
+    <div class="section-head">
+      <span class="sh-cn">字源</span>
+      <span class="sh-py">zìyuán</span>
+      <span class="sh-en">Etymology &amp; Structure</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="家">
+      <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
+      <p><strong>家 jiā = 宀 mián</strong> (a roof — the "crown" radical representing shelter) <strong>+ 豕 shǐ</strong> (a pig). A roof with a pig under it: a home. In ancient China, pigs were kept under the same roof as the family. The pig was the domestic animal par excellence — the sign of a self-sustaining household. 家 thus encodes: shelter + livestock = the self-sufficient family unit. This is not metaphor; it is archaeology.</p>
+      <p>The critical cultural expansion: 家 scales fractally. The household becomes the model for the state. Confucius taught: <strong>修身、齐家、治国、平天下</strong> — cultivate yourself → order your family → govern the state → bring peace to all under heaven. 家 is not merely a home; it is the original cell of social organization. <strong>国家 guójiā</strong> (nation-state) = "country-family." In Chinese, the nation is literally the family scaled up. This is not merely linguistic — it structured centuries of governance, moral philosophy, and political expectation.</p>
+      <p>In Japanese: 家 is read <em>ka / ie / ya</em> — 家族 <em>kazoku</em> (family), 家 <em>ie</em> (house/home), 作家 <em>sakka</em> (writer — the same X+家 pattern as Chinese). The roof over the pig traveled intact across the sea, carrying its entire conceptual freight.</p>
+    </div>
+
+    <!-- ── FAMILY UNIT ── -->
+    <span class="section-anchor" id="family"></span>
+    <div class="section-head">
+      <span class="sh-cn">家人/家庭</span>
+      <span class="sh-py">jiārén / jiātíng</span>
+      <span class="sh-en">The Family Unit</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">构词规律 gòucí guīlǜ · Pattern</span>
+      <strong>家 + location/relation → family-home cluster</strong><br>
+      家 + 人 (person) = 家人 (family members)<br>
+      家 + 庭 (courtyard) = 家庭 (family as institution)<br>
+      家 + 乡 (native place) = 家乡 (hometown)
+    </div>
+
+    <div class="cards">
+
+      <!-- 家 -->
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">家</span>
+          <span class="card-py">jiā</span>
+          <span class="card-en">home; family</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          The base word. Can mean the physical house or the family that inhabits it — often both at once. One of the first words any learner acquires, and one of the deepest in the entire language. The semantic compression of 家 is intentional: shelter and the people it shelters are not separate things.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">我要回家了。</div>
+            <div class="ex-py">Wǒ yào huí jiā le.</div>
+            <div class="ex-en">I'm going home now.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他不在家。</div>
+            <div class="ex-py">Tā bú zài jiā.</div>
+            <div class="ex-en">He's not home.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">家在哪里？</div>
+            <div class="ex-py">Jiā zài nǎlǐ?</div>
+            <div class="ex-en">Where is home?</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">语法 yǔfǎ · Grammar</span>
+          家 alone = "home/family." 家里 jiālǐ = "at home; inside the family." The full arc: 在家 zài jiā (to be at home — state) → 回家 huí jiā (going home — direction) → 到家 dào jiā (arrived home — completion). Note that 我家 wǒ jiā can mean both "my home" (location) and "my family" (people).
+        </div>
+      </div>
+
+      <!-- 家人 -->
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">家人</span>
+          <span class="card-py">jiārén</span>
+          <span class="card-en">family members; one's family</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          家 jiā + 人 rén (person/people). The people of the home. More intimate and emotionally warm than the formal compound 家庭成员 (family members, bureaucratic). 家人 feels like "my people" — those who share your roof and your life.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">家人都很健康。</div>
+            <div class="ex-py">Jiārén dōu hěn jiànkāng.</div>
+            <div class="ex-en">The whole family is healthy.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">你的家人呢？</div>
+            <div class="ex-py">Nǐ de jiārén ne?</div>
+            <div class="ex-en">What about your family?</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他把家人接来了。</div>
+            <div class="ex-py">Tā bǎ jiārén jiē lái le.</div>
+            <div class="ex-en">He brought his family here.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">辨析 biànxī · Comparison</span>
+          家人 (intimate, spoken) vs. 家庭成员 jiātíng chéngyuán (formal, administrative) vs. 亲人 qīnrén (loved ones — emotionally charged, often used in contexts of loss or longing). In casual speech, 家人 is overwhelmingly preferred.
+        </div>
+      </div>
+
+      <!-- 家庭 -->
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">家庭</span>
+          <span class="card-py">jiātíng</span>
+          <span class="card-en">family (as institution); household</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          家 jiā + 庭 tíng (courtyard — the shared space of a household compound). More formal and institutional than bare 家. 家庭 treats the family as a social unit with structure and function. Appears in legal, sociological, and bureaucratic contexts. The courtyard (庭) is the communal space — where the family gathers, not where they sleep.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">她来自一个幸福的家庭。</div>
+            <div class="ex-py">Tā láizì yīgè xìngfú de jiātíng.</div>
+            <div class="ex-en">She comes from a happy family.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">单亲家庭越来越多。</div>
+            <div class="ex-py">Dānqīn jiātíng yuèláiyuè duō.</div>
+            <div class="ex-en">Single-parent families are increasingly common.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">家庭作业还没做完。</div>
+            <div class="ex-py">Jiātíng zuòyè hái méi zuò wán.</div>
+            <div class="ex-en">The homework isn't done yet. (Lit. "household work")</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">词语 cíyǔ · Key Compounds</span>
+          家庭收入 jiātíng shōurù (household income) · 家庭背景 jiātíng bèijǐng (family background) · 家庭生活 jiātíng shēnghuó (family life) · 家庭作业 jiātíng zuòyè (homework — lit. "household work," a calque of the domestic-education link in Confucian thought).
+        </div>
+      </div>
+
+      <!-- 家乡 -->
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">家乡</span>
+          <span class="card-py">jiāxiāng</span>
+          <span class="card-en">hometown; native place</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          家 jiā + 乡 xiāng (countryside; native place — the rural origin point). The place where 家 was first made. Not merely an address but a place of origin: family roots, ancestral connections, formative landscape. Central to Chinese identity, deeply tied to concepts of belonging and longing. The emotion of 思念家乡 (missing one's hometown) is one of the defining themes of classical poetry.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">我的家乡在四川。</div>
+            <div class="ex-py">Wǒ de jiāxiāng zài Sìchuān.</div>
+            <div class="ex-en">My hometown is in Sichuan.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他非常思念家乡。</div>
+            <div class="ex-py">Tā fēicháng sīniàn jiāxiāng.</div>
+            <div class="ex-en">He deeply misses his hometown.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">家乡的味道是最好的。</div>
+            <div class="ex-py">Jiāxiāng de wèidào shì zuì hǎo de.</div>
+            <div class="ex-en">The taste of home is the best.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">辨析 biànxī · 家乡 vs. 故乡</span>
+          家乡 jiāxiāng = hometown (neutral, factual, common in speech). 故乡 gùxiāng = native land (literary, more emotionally charged — appears in poetry and formal writing). Both appear in Du Fu's famous line: 月是故乡明 (the moon is brightest over one's hometown).
+        </div>
+      </div>
+
+      <!-- 回家 -->
+      <div class="card c-sienna">
+        <div class="card-head">
+          <span class="card-cn">回家</span>
+          <span class="card-py">huí jiā</span>
+          <span class="card-en">to go home; to return home</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
+        <div class="card-def">
+          回 huí (to return) + 家 jiā (home). One of the most common V+location phrases in the language. The directional verb 回 indicates movement back toward an origin point — home as the natural destination of return, not merely a place you happen to go.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">我得回家了。</div>
+            <div class="ex-py">Wǒ děi huí jiā le.</div>
+            <div class="ex-en">I have to go home.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他什么时候回家？</div>
+            <div class="ex-py">Tā shénme shíhòu huí jiā?</div>
+            <div class="ex-en">When is he coming home?</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">早点回家！</div>
+            <div class="ex-py">Zǎo diǎn huí jiā!</div>
+            <div class="ex-en">Come home early!</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">语法 yǔfǎ · Grammar</span>
+          The three-part arc: 回家 huí jiā (going home — direction) → 到家 dào jiā (arrived home — completion) → 在家 zài jiā (being at home — state). The distinction between 回 (return) and 去 (go) matters: 回家 carries the connotation of home as origin, not just destination.
+        </div>
+      </div>
+
+    </div><!-- /cards family -->
+
+    <!-- ── SCALING ── -->
+    <span class="section-anchor" id="scaling"></span>
+    <div class="section-head">
+      <span class="sh-cn">国家/大家</span>
+      <span class="sh-py">guójiā / dàjiā</span>
+      <span class="sh-en">The Scaling of 家 — Household to Nation</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="家">
+      <div class="scholar-label">文化洞见 wénhuà dòngjiàn · Cultural Insight</div>
+      <p>The Confucian insight that the family and the state share the same logic — and the same character — is encoded directly in Chinese vocabulary. <strong>国家</strong> is one of the most revealing compound words in the language: the nation IS the family, scaled up. This is not merely linguistic — it structured centuries of Chinese governance and moral philosophy.</p>
+      <p>The progression: 家 (household) → 国家 (nation-state) → 天下 (all under heaven). At every scale, the same moral logic applies: cultivate virtue, maintain proper relationships, and the larger body will be ordered. A corrupt official was not just breaking a law — he was failing his family's obligations, scaled to the level of the state-family.</p>
+    </div>
+
+    <div class="cards">
+
+      <!-- 国家 -->
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">国家</span>
+          <span class="card-py">guójiā</span>
+          <span class="card-en">nation; state; country</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          国 guó (country; kingdom) + 家 jiā (family; home). Literally: "country-family." The family logic applied to the largest political unit. The compound is inseparable — you cannot use 国 or 家 alone to mean "nation." The inseparability of the compound mirrors the inseparability of the nation from its family logic in classical Chinese thought.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">为国家服务是光荣的。</div>
+            <div class="ex-py">Wèi guójiā fúwù shì guāngróng de.</div>
+            <div class="ex-en">Serving the nation is honorable.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">国家利益高于一切。</div>
+            <div class="ex-py">Guójiā lìyì gāoyú yīqiè.</div>
+            <div class="ex-en">National interest is paramount.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这是一个伟大的国家。</div>
+            <div class="ex-py">Zhè shì yīgè wěidà de guójiā.</div>
+            <div class="ex-en">This is a great nation.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">语域 yǔyù · Register</span>
+          国家 is formal and weighty. In nationalist discourse, it carries the full moral weight of the Confucian state-family concept. Contrast: 国 alone in informal speech (这个国 = this country, colloquial) vs. 国家 in official rhetoric (为国家 = for the nation, formal/elevated).
+        </div>
+      </div>
+
+      <!-- 大家 -->
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">大家</span>
+          <span class="card-py">dàjiā</span>
+          <span class="card-en">everyone; everybody</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          大 dà (big; great) + 家 jiā (family). Literally: "big family." The warmth of addressing a group as "all of us — the big family." Extremely high frequency in speeches, classrooms, team settings, and any collective address. The warmth of 大家 over the clinical 所有人 (everyone, formal) is the difference between addressing family and addressing strangers.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">大家好！</div>
+            <div class="ex-py">Dàjiā hǎo!</div>
+            <div class="ex-en">Hello everyone!</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">大家都同意吗？</div>
+            <div class="ex-py">Dàjiā dōu tóngyì ma?</div>
+            <div class="ex-en">Does everyone agree?</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">大家一起努力吧。</div>
+            <div class="ex-py">Dàjiā yīqǐ nǔlì ba.</div>
+            <div class="ex-en">Let's all work hard together.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">辨析 biànxī · 大家 vs. 所有人 vs. 各位</span>
+          大家 = warm, inclusive, collective (the big family — most common in speech). 所有人 suǒyǒu rén = every person (neutral, often legal or administrative). 各位 gè wèi = honorable guests/colleagues (formal address, typically in written or ceremonial contexts). Learn 大家 first; it covers 90% of everyday usage.
+        </div>
+      </div>
+
+      <!-- 自家 -->
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">自家</span>
+          <span class="card-py">zìjiā</span>
+          <span class="card-en">one's own family/people; one's own</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          自 zì (self; one's own) + 家 jiā (family; home). Marks something as belonging to or originating from one's own household. Central to the Chinese social concept of insiders vs. outsiders: 自家人 (one of our own) vs. 外人 wàirén (an outsider). Being called 自家人 by someone is a social signal that the barriers are down.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">都是自家人，不用客气。</div>
+            <div class="ex-py">Dōu shì zìjiā rén, bù yòng kèqi.</div>
+            <div class="ex-en">We're all family here — no need to be polite.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这是自家种的菜。</div>
+            <div class="ex-py">Zhè shì zìjiā zhòng de cài.</div>
+            <div class="ex-en">These are vegetables we grew ourselves.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">文化 wénhuà · Culture</span>
+          The insider/outsider distinction (自家人 vs. 外人) structures much of Chinese social interaction, business, and politics. 自家人 implies trust, reduced formality, and mutual obligation. 都是自家人 is the phrase that opens closed doors.
+        </div>
+      </div>
+
+      <!-- 人家 -->
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">人家</span>
+          <span class="card-py">rénjia</span>
+          <span class="card-en">other people; someone's home; (colloquial) I/me</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          人 rén (person) + 家 jiā (home; family). This single compound has three distinct uses in modern Mandarin: (1) other people in general; (2) someone's specific household; (3) an informal first-person pronoun used primarily by women, expressing mild protest or vulnerability. The neutral tone on 家 (rénjia, not rénjīa) marks the colloquial register.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">别管人家的事。</div>
+            <div class="ex-py">Bié guǎn rénjia de shì.</div>
+            <div class="ex-en">Don't meddle in other people's business. (Use 1: other people)</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">去人家家里拜访要提前打招呼。</div>
+            <div class="ex-py">Qù rénjia jiālǐ bàifǎng yào tíqián dǎ zhāohū.</div>
+            <div class="ex-en">When visiting someone's home, let them know in advance. (Use 2: someone's home)</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">人家不知道嘛！</div>
+            <div class="ex-py">Rénjia bù zhīdào ma!</div>
+            <div class="ex-en">How would I know! (Use 3: colloquial 1st person)</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">语法 yǔfǎ · Grammar</span>
+          The three uses of 人家 are context-dependent. Use 3 (1st person) is distinctly colloquial and typically female — avoid in formal writing. It conveys a coy or plaintive self-reference not available with standard 我.
+        </div>
+      </div>
+
+    </div><!-- /cards scaling -->
+
+    <!-- ── X+家 SPECIALISTS ── -->
+    <span class="section-anchor" id="specialists"></span>
+    <div class="section-head">
+      <span class="sh-cn">X+家</span>
+      <span class="sh-py">X + jiā</span>
+      <span class="sh-en">Specialists &amp; Masters — Making a Field Your Home</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">构词规律 gòucí guīlǜ · Pattern</span>
+      <strong>X + 家 = person who has made discipline X their "home"</strong><br>
+      This pattern creates professions, artists, scholars, and experts. The 家 suffix implies deep, sustained mastery — not just a job title but a calling. This exact pattern exists in Japanese: 作家 <em>sakka</em> (writer), 音楽家 <em>ongakuka</em> (musician), 科学者 → 科学家 — borrowed directly from Chinese and still functioning identically.
+    </div>
+
+    <div class="cards">
+
+      <!-- 画家 -->
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">画家</span>
+          <span class="card-py">huàjiā</span>
+          <span class="card-en">painter; visual artist</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          画 huà (to paint; to draw; a painting) + 家 jiā. One who has made painting their home. The 家 suffix elevates the painter from a craftsperson to a master — implying sustained creative commitment and a body of work, not merely technical skill.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他是位著名的画家。</div>
+            <div class="ex-py">Tā shì wèi zhùmíng de huàjiā.</div>
+            <div class="ex-en">He is a famous painter.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这幅画是哪位画家的作品？</div>
+            <div class="ex-py">Zhè fú huà shì nǎ wèi huàjiā de zuòpǐn?</div>
+            <div class="ex-en">Which artist's work is this painting?</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 作家 -->
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">作家</span>
+          <span class="card-py">zuòjiā</span>
+          <span class="card-en">writer; author (literary)</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          作 zuò (to create; to make; to compose) + 家 jiā. Not just anyone who writes — implies literary seriousness and sustained creative output. The 家 suffix distinguishes this from 记者 jìzhě (journalist) or 编辑 biānjí (editor), which are professional roles without the mastercraft implication.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">她是位年轻的作家。</div>
+            <div class="ex-py">Tā shì wèi niánqīng de zuòjiā.</div>
+            <div class="ex-en">She is a young writer.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这位作家的小说很受欢迎。</div>
+            <div class="ex-py">Zhè wèi zuòjiā de xiǎoshuō hěn shòu huānyíng.</div>
+            <div class="ex-en">This writer's novels are very popular.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">辨析 biànxī · Comparison</span>
+          作家 (literary writer) vs. 记者 jìzhě (journalist) vs. 编辑 biānjí (editor) vs. 诗人 shīrén (poet — uses 人, not 家). Key pattern: 家 implies mastery of a creative discipline; 者 implies a professional role; 人 implies a more general personal identity.
+        </div>
+      </div>
+
+      <!-- 音乐家 -->
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">音乐家</span>
+          <span class="card-py">yīnyuèjiā</span>
+          <span class="card-en">musician (mastery level); composer</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          音乐 yīnyuè (music) + 家 jiā. Implies serious, dedicated musical mastery — a composer, a concert performer, a conductor. Not a casual musician. Distinguished from 歌手 gēshǒu (singer/pop artist) by the 家 suffix implying depth, discipline, and classical standing.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他是一位伟大的音乐家。</div>
+            <div class="ex-py">Tā shì yīwèi wěidà de yīnyuèjiā.</div>
+            <div class="ex-en">He is a great musician.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">贝多芬是世界著名的音乐家。</div>
+            <div class="ex-py">Bèiduōfēn shì shìjiè zhùmíng de yīnyuèjiā.</div>
+            <div class="ex-en">Beethoven is a world-famous musician.</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 科学家 -->
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">科学家</span>
+          <span class="card-py">kēxuéjiā</span>
+          <span class="card-en">scientist</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          科学 kēxué (science — lit. "the study of branches/categories") + 家 jiā. One who has made science their home. One of the highest-prestige 家 compounds in modern Chinese — the scientist occupying the role that the Confucian scholar-official held in the imperial era: the person who has devoted a life to a domain of knowledge.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">她从小就想成为科学家。</div>
+            <div class="ex-py">Tā cóngxiǎo jiù xiǎng chéngwéi kēxuéjiā.</div>
+            <div class="ex-en">She has wanted to be a scientist since childhood.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这项发现是科学家多年研究的成果。</div>
+            <div class="ex-py">Zhè xiàng fāxiàn shì kēxuéjiā duōnián yánjiū de chéngguǒ.</div>
+            <div class="ex-en">This discovery is the result of years of scientists' research.</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 政治家 -->
+      <div class="card c-sienna">
+        <div class="card-head">
+          <span class="card-cn">政治家</span>
+          <span class="card-py">zhèngzhìjiā</span>
+          <span class="card-en">statesman; skilled politician</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          政治 zhèngzhì (politics) + 家 jiā. More elevated than 政客 zhèngkè (politician — often pejorative, implying opportunism and maneuvering). 政治家 implies vision, skill, and genuine mastery of governance — a statesman rather than a mere political operator. The 家 suffix confers dignity.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他是二十世纪最重要的政治家之一。</div>
+            <div class="ex-py">Tā shì èrshí shìjì zuì zhòngyào de zhèngzhìjiā zhī yī.</div>
+            <div class="ex-en">He is one of the most important statesmen of the twentieth century.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">一个真正的政治家要有远见。</div>
+            <div class="ex-py">Yīgè zhēnzhèng de zhèngzhìjiā yào yǒu yuǎnjiàn.</div>
+            <div class="ex-en">A true statesman must have foresight.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">辨析 biànxī · 政治家 vs. 政客</span>
+          政治家 (statesman — dignified, has mastered governance) vs. 政客 zhèngkè (politician — often pejorative, implies self-interest). The 家 vs. 客 distinction is telling: 家 = someone who belongs here, has made this their home; 客 = a visitor, a temporary guest, someone who doesn't truly belong.
+        </div>
+      </div>
+
+    </div><!-- /cards specialists -->
+
+    <!-- ── PHILOSOPHICAL SCHOOLS ── -->
+    <span class="section-anchor" id="schools"></span>
+    <div class="section-head">
+      <span class="sh-cn">儒家/道家/法家</span>
+      <span class="sh-py">Rújiā / Dàojiā / Fǎjiā</span>
+      <span class="sh-en">Philosophical Schools — The Hundred Schools of Thought</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="家">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · Scholar Note</div>
+      <p>The 家 suffix applied to intellectual traditions creates the vocabulary of classical Chinese philosophy. These are not "schools" in the institutional sense — no campuses, no enrollment. They are lineages of thought: transmitted ways of approaching the world, each making a core insight its 家, its home. The Warring States period (475–221 BC) produced the <strong>百家争鸣 bǎijiā zhēngmíng</strong> — the "Hundred Schools Contending," a period of philosophical pluralism without parallel in Chinese history.</p>
+      <p>The pattern: founding figure or core concept + 家 = the tradition that makes that insight its home. 儒家 made humaneness its home. 道家 made the Way its home. 法家 made law and statecraft its home.</p>
+    </div>
+
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>家</th>
+            <th>拼音 Pīnyīn</th>
+            <th>英文 Yīngwén</th>
+            <th>核心思想 Core Idea</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="td-cn">儒家</td>
+            <td class="td-py">Rújiā</td>
+            <td>Confucianism</td>
+            <td>Virtue through relationships; ritual propriety; humaneness 仁 rén</td>
+          </tr>
+          <tr>
+            <td class="td-cn">道家</td>
+            <td class="td-py">Dàojiā</td>
+            <td>Daoism (philosophical)</td>
+            <td>The Way 道; naturalness 自然; non-action 无为 wúwéi</td>
+          </tr>
+          <tr>
+            <td class="td-cn">法家</td>
+            <td class="td-py">Fǎjiā</td>
+            <td>Legalism</td>
+            <td>Law 法; strict governance; realpolitik; the state above individual</td>
+          </tr>
+          <tr>
+            <td class="td-cn">墨家</td>
+            <td class="td-py">Mòjiā</td>
+            <td>Mohism</td>
+            <td>Universal love 兼爱; opposition to aggressive war; meritocracy</td>
+          </tr>
+          <tr>
+            <td class="td-cn">兵家</td>
+            <td class="td-py">Bīngjiā</td>
+            <td>Military Strategists</td>
+            <td>The art of war; Sun Tzu's tradition; strategy and deception</td>
+          </tr>
+          <tr>
+            <td class="td-cn">杂家</td>
+            <td class="td-py">Zájiā</td>
+            <td>Eclectics</td>
+            <td>Synthesizers of multiple schools; pragmatic pluralism</td>
+          </tr>
+          <tr>
+            <td class="td-cn">名家</td>
+            <td class="td-py">Míngjiā</td>
+            <td>School of Names</td>
+            <td>Logic; the relationship between names and reality; sophistry</td>
+          </tr>
+          <tr>
+            <td class="td-cn">阴阳家</td>
+            <td class="td-py">Yīnyángjiā</td>
+            <td>Yin-Yang School</td>
+            <td>Cosmological cycles; Five Phases 五行; correlative cosmology</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- ── HOUSEHOLD CULTURE ── -->
+    <span class="section-anchor" id="culture"></span>
+    <div class="section-head">
+      <span class="sh-cn">家常/家风</span>
+      <span class="sh-py">jiācháng / jiāfēng</span>
+      <span class="sh-en">Household Culture &amp; Transmitted Values</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <!-- 家常 -->
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">家常</span>
+          <span class="card-py">jiācháng</span>
+          <span class="card-en">everyday home life; homestyle; ordinary</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          家 jiā (home) + 常 cháng (ordinary; often; constant). The routine of domestic life — meals, small talk, everyday rhythms. A warmly neutral word that positions the homely and ordinary as valuable rather than inferior. The 常 element connects to Buddhist 无常 (impermanence) — 家常 is precisely what impermanence threatens: the steady, repeated, daily.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">我喜欢吃家常菜。</div>
+            <div class="ex-py">Wǒ xǐhuān chī jiācháng cài.</div>
+            <div class="ex-en">I love eating home-cooked food.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">老朋友见面，免不了要拉家常。</div>
+            <div class="ex-py">Lǎo péngyou jiànmiàn, miǎnbuliǎo yào lā jiācháng.</div>
+            <div class="ex-en">When old friends meet, chatting about everyday life is inevitable.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这种加班对他来说是家常便饭。</div>
+            <div class="ex-py">Zhè zhǒng jiābān duì tā lái shuō shì jiācháng biànfàn.</div>
+            <div class="ex-en">This kind of overtime is routine for him.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">成语 chéngyǔ · Idiom</span>
+          <strong>家常便饭</strong> jiācháng biànfàn — literally "homestyle convenient meal"; figuratively "everyday occurrence; nothing special." One of the most useful idioms in the 家 family. 这种事已经是家常便饭了 = "This sort of thing is routine now."
+        </div>
+      </div>
+
+      <!-- 家风 -->
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">家风</span>
+          <span class="card-py">jiāfēng</span>
+          <span class="card-en">family tradition; values passed through generations</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          家 jiā (family) + 风 fēng (wind; custom; style; ethos). The invisible ethos that blows through a family across generations — the unspoken values, behavioral norms, and character traits transmitted from parents to children. 风 as "style" or "ethos" appears in many cultural compounds: 民风 mínfēng (folk customs), 学风 xuéfēng (academic ethos), 作风 zuòfēng (work style).
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">良好的家风对孩子影响深远。</div>
+            <div class="ex-py">Liánghǎo de jiāfēng duì háizi yǐngxiǎng shēnyuǎn.</div>
+            <div class="ex-en">Good family tradition has a deep and lasting influence on children.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他们家的家风是勤俭节约。</div>
+            <div class="ex-py">Tāmen jiā de jiāfēng shì qínjiǎn jiéyuē.</div>
+            <div class="ex-en">Their family's tradition is diligence and frugality.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">文化 wénhuà · Culture</span>
+          家风 encodes the Confucian idea that the family is the primary unit of moral education. The state cannot function if families do not transmit virtue. This is why 修身齐家治国平天下 — personal cultivation and family ordering precede state governance. In contemporary China, 家风建设 (family tradition building) is a recurring theme in official discourse.
+        </div>
+      </div>
+
+      <!-- 家规 -->
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">家规</span>
+          <span class="card-py">jiāguī</span>
+          <span class="card-en">family rules; household rules</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          家 jiā (family) + 规 guī (rules; regulations; norms). The explicit code of conduct of a household — the spoken version of what 家风 transmits implicitly. Distinguished families in imperial China often had written 家规 codifying expectations for children's conduct, study, and marriage. 规矩 guīju (rules; propriety) is a closely related compound.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">我家的家规是吃饭时不能玩手机。</div>
+            <div class="ex-py">Wǒ jiā de jiāguī shì chīfàn shí bù néng wán shǒujī.</div>
+            <div class="ex-en">Our family rule is no phones at the dinner table.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">没有规矩，不成方圆。</div>
+            <div class="ex-py">Méiyǒu guīju, bù chéng fāngyuán.</div>
+            <div class="ex-en">Without rules, nothing works out. (Proverb often invoked around 家规)</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 成家 -->
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">成家</span>
+          <span class="card-py">chéng jiā</span>
+          <span class="card-en">to start a family; to marry and establish a household</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
+        <div class="card-def">
+          成 chéng (to become; to accomplish; to complete) + 家 jiā. The moment a household comes into being — through marriage, through setting up a home together. One of the defining life-stage transitions in Chinese culture, paired with 立业 (establish a career) in the famous set phrase 成家立业.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他三十岁才成家。</div>
+            <div class="ex-py">Tā sānshí suì cái chéng jiā.</div>
+            <div class="ex-en">He didn't start a family until thirty.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">成家立业是很多人的目标。</div>
+            <div class="ex-py">Chéngjiā lìyè shì hěn duō rén de mùbiāo.</div>
+            <div class="ex-en">Starting a family and establishing a career are many people's goals.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">父母希望他早点成家。</div>
+            <div class="ex-py">Fùmǔ xīwàng tā zǎo diǎn chéng jiā.</div>
+            <div class="ex-en">His parents hope he starts a family soon.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">成语 chéngyǔ · Set Phrase</span>
+          <strong>成家立业</strong> chéngjiā lìyè — "start a family and establish a career." The two milestones of adult life in traditional Chinese culture, stated in their expected order. The family comes first; the career is built to support it.
+        </div>
+      </div>
+
+    </div><!-- /cards culture -->
+
+    <!-- ── MEASURE WORD ── -->
+    <span class="section-anchor" id="measure"></span>
+    <div class="section-head">
+      <span class="sh-cn">一家</span>
+      <span class="sh-py">yī jiā</span>
+      <span class="sh-en">家 as Measure Word — Counting Establishments</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">量词 liàngcí · Measure Word Pattern</span>
+      <strong>一家 counts bounded, self-contained establishments</strong> — just as the original 家 was a bounded domestic space with a roof and a pig under it. The pattern applies to businesses, institutions, and families as units. One roof = one 家.
+    </div>
+
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>量词 Measure</th>
+            <th>拼音 Pīnyīn</th>
+            <th>英文 Yīngwén</th>
+            <th>例句 Lìjù</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="td-cn">一家人</td>
+            <td class="td-py">yī jiā rén</td>
+            <td>a family; the whole family</td>
+            <td>一家人一起吃饭。<span class="td-small td-py-sm">Yī jiā rén yīqǐ chīfàn. — The whole family eats together.</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">一家公司</td>
+            <td class="td-py">yī jiā gōngsī</td>
+            <td>a company</td>
+            <td>他开了一家公司。<span class="td-small td-py-sm">Tā kāi le yī jiā gōngsī. — He started a company.</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">一家医院</td>
+            <td class="td-py">yī jiā yīyuàn</td>
+            <td>a hospital</td>
+            <td>附近有一家医院。<span class="td-small td-py-sm">Fùjìn yǒu yī jiā yīyuàn. — There's a hospital nearby.</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">一家餐厅</td>
+            <td class="td-py">yī jiā cāntīng</td>
+            <td>a restaurant</td>
+            <td>我们去一家餐厅吃饭。<span class="td-small td-py-sm">Wǒmen qù yī jiā cāntīng chīfàn.</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">一家商店</td>
+            <td class="td-py">yī jiā shāngdiàn</td>
+            <td>a shop / store</td>
+            <td>街上开了一家新商店。<span class="td-small td-py-sm">Jiē shàng kāi le yī jiā xīn shāngdiàn. — A new store opened on the street.</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">一家银行</td>
+            <td class="td-py">yī jiā yínháng</td>
+            <td>a bank</td>
+            <td>他在一家银行工作。<span class="td-small td-py-sm">Tā zài yī jiā yínháng gōngzuò. — He works at a bank.</span></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- ── CHENGYU ── -->
+    <span class="section-anchor" id="chengyu"></span>
+    <div class="section-head">
+      <span class="sh-cn">成语</span>
+      <span class="sh-py">chéngyǔ</span>
+      <span class="sh-en">Idioms &amp; Set Phrases</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="chengyu-grid">
+
+      <div class="cy">
+        <span class="cy-cn">家喻户晓</span>
+        <span class="cy-py">jiā yù hù xiǎo</span>
+        <span class="cy-en">known to every household — a household name; universally known</span>
+        <span class="cy-note">Lit: family-understood-household-known. 喻 = understood; 晓 = known; aware. Every family understands it; every household knows it. 这首歌已经家喻户晓了。(This song is now known to everyone.) The go-to phrase for "universally famous" in Chinese.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">家徒四壁</span>
+        <span class="cy-py">jiā tú sì bì</span>
+        <span class="cy-en">home with only four walls — extreme poverty; owning nothing</span>
+        <span class="cy-note">Lit: home-merely-four-walls. 徒 = only; merely; bare. The household contains nothing but the four walls themselves. Used in literature to describe destitution. Often contrasted with 家财万贯 jiācái wànguàn (immense family wealth). A stock phrase for total financial ruin.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">成家立业</span>
+        <span class="cy-py">chéng jiā lì yè</span>
+        <span class="cy-en">start a family and establish a career — the two milestones of adult life</span>
+        <span class="cy-note">立业 = to establish one's career or livelihood. The traditional sequence of adult life goals: first you build a home; then you build a livelihood. 他终于成家立业了。(He has finally started a family and established himself.) The phrase encodes a whole theory of the proper human life cycle.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">四海为家</span>
+        <span class="cy-py">sì hǎi wéi jiā</span>
+        <span class="cy-en">to make one's home in all four seas — at home anywhere; cosmopolitan; rootless wandering</span>
+        <span class="cy-note">四海 = the four seas = everywhere under heaven. 为 = to treat as; to make into. The whole globe is one's household. Used for travelers, exiles, and those rootlessly at ease anywhere. Both admiring (cosmopolitan freedom) and elegiac (loss of fixed roots) — depending on context.</span>
+      </div>
+
+    </div>
+
+    <!-- ── ADJACENT VOCAB ── -->
+    <span class="section-anchor" id="adjacent"></span>
+    <div class="section-head">
+      <span class="sh-cn">相邻词汇</span>
+      <span class="sh-py">xiānglín cíhuì</span>
+      <span class="sh-en">Adjacent Vocabulary</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">家庭</span><span class="a-py">jiātíng</span><span class="a-en">family (institutional)</span></span>
+      <span class="adj"><span class="a-cn">国家</span><span class="a-py">guójiā</span><span class="a-en">nation; state</span></span>
+      <span class="adj"><span class="a-cn">房子</span><span class="a-py">fángzi</span><span class="a-en">house (physical building)</span></span>
+      <span class="adj"><span class="a-cn">故乡</span><span class="a-py">gùxiāng</span><span class="a-en">hometown (literary)</span></span>
+      <span class="adj"><span class="a-cn">邻居</span><span class="a-py">línjū</span><span class="a-en">neighbor</span></span>
+      <span class="adj"><span class="a-cn">亲人</span><span class="a-py">qīnrén</span><span class="a-en">loved ones; dear family</span></span>
+      <span class="adj"><span class="a-cn">父母</span><span class="a-py">fùmǔ</span><span class="a-en">parents</span></span>
+      <span class="adj"><span class="a-cn">兄弟</span><span class="a-py">xiōngdì</span><span class="a-en">brothers; male siblings</span></span>
+      <span class="adj"><span class="a-cn">姐妹</span><span class="a-py">jiěmèi</span><span class="a-en">sisters; female siblings</span></span>
+      <span class="adj"><span class="a-cn">孩子</span><span class="a-py">háizi</span><span class="a-en">children; child</span></span>
+      <span class="adj"><span class="a-cn">传统</span><span class="a-py">chuántǒng</span><span class="a-en">tradition; traditional</span></span>
+      <span class="adj"><span class="a-cn">根</span><span class="a-py">gēn</span><span class="a-en">roots; origin</span></span>
+      <span class="adj"><span class="a-cn">归宿</span><span class="a-py">guīsù</span><span class="a-en">final home; where one belongs</span></span>
+    </div>
+
+    <!-- RETENTION IMAGE -->
+    <div class="scholar" data-glyph="家">
+      <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
+      <p>A roof over a pig. That is civilization's first agreement: I will shelter you; you will feed me. From that deal, everything scales: the household becomes the village, the village the kingdom, the kingdom the world. When Confucius laid out the path of self-cultivation — <strong>修身、齐家、治国、平天下</strong> — he was not being metaphorical. The same moral logic that orders a household orders a nation. In Chinese, the nation is literally the family: <strong>国家</strong>.</p>
+      <p>Every 家 compound you encounter carries this fractal logic. The <strong>画家</strong> (painter) has made painting their home. The <strong>道家</strong> (Daoist) has made the Way their home. The <strong>国家</strong> is the household of all under heaven. When a Chinese person says <strong>回家</strong>, they are not just going to an address — they are returning to the foundational cell of the moral universe.</p>
+      <p>In Japanese: 家族 <em>kazoku</em> (family), 作家 <em>sakka</em> (writer) — the same roof, the same pig, the same fractal logic, intact across the sea.</p>
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="page-footer">
+      <span class="footer-id">Field Notes on Chinese · <span>家 jiā</span> · jia1_家.html</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>

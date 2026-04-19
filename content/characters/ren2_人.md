@@ -1,0 +1,760 @@
+---
+type: 'character'
+category: 'characters'
+status: 'complete'
+title: '人 · person, humanity'
+desc: 'The character for human being, and its echo in 仁 rén — Confucian benevolence.'
+metaDesc: "人 rén: person, human being, and humanity. Etymology from oracle-bone script, the 仁 Confucian connection, collective compounds, social vocabulary, and the ethics of being human."
+pageTitle: '人 rén'
+tags:
+  - 'humanity'
+  - 'confucianism'
+  - 'radical'
+updated: '2026-04-18'
+char: '人'
+pinyin: 'rén'
+tone: 2
+hsk: 1
+radical: '人'
+---
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+    <button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+    <span class="toc-glyph">人</span>
+    <span class="toc-pinyin">rén · tone 2</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#etymology">
+        <span class="toc-cn">字源</span> Etymology
+        <span class="toc-sub">zìyuán · the pictograph</span>
+      </a></li>
+      <li><a href="#patterns">
+        <span class="toc-cn">构词</span> Patterns
+        <span class="toc-sub">gòucí · word-formation</span>
+      </a></li>
+      <li><a href="#radical">
+        <span class="toc-cn">部首</span> Radical
+        <span class="toc-sub">bùshǒu · 人 as 亻</span>
+      </a></li>
+      <li><a href="#collective">
+        <span class="toc-cn">人们/人类</span> Collective Spectrum
+        <span class="toc-sub">individual → humanity</span>
+      </a></li>
+      <li><a href="#other-people">
+        <span class="toc-cn">别人/他人</span> Other People
+        <span class="toc-sub">biérén · tārén · pángrén</span>
+      </a></li>
+      <li><a href="#character">
+        <span class="toc-cn">人品/人情</span> Character &amp; Bond
+        <span class="toc-sub">moral texture of personhood</span>
+      </a></li>
+      <li><a href="#zuoren">
+        <span class="toc-cn">做人</span> The Ethics of Being Human
+        <span class="toc-sub">zuòrén · conduct &amp; virtue</span>
+      </a></li>
+      <li><a href="#table">
+        <span class="toc-cn">X + 人</span> Social Categories
+        <span class="toc-sub">modifier + person compounds</span>
+      </a></li>
+      <li><a href="#chengyu">
+        <span class="toc-cn">成语</span> Idioms
+        <span class="toc-sub">chéngyǔ · set phrases</span>
+      </a></li>
+      <li><a href="#adjacent">
+        <span class="toc-cn">相邻</span> Adjacent Vocab
+        <span class="toc-sub">xiānglín cíhuì</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- HERO -->
+    <header class="hero">
+      <div class="hero-inner">
+        <div class="hero-glyph-col">
+          <span class="hero-glyph">人</span>
+          <span class="hero-trad-note">繁體字 identical</span>
+        </div>
+        <div class="hero-meta">
+          <div class="hero-pinyin">rén</div>
+          <div class="hero-en">person · human being · humanity</div>
+          <div class="hero-chips">
+            <span class="chip">部首 bùshǒu · 人 rén (itself)</span>
+            <span class="chip">2 笔画 bǐhuà strokes</span>
+            <span class="chip chip-hsk">HSK 1</span>
+            <span class="chip">tone 2 · rén</span>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <!-- ── ETYMOLOGY ── -->
+    <span class="section-anchor" id="etymology"></span>
+    <div class="section-head">
+      <span class="sh-cn">字源</span>
+      <span class="sh-py">zìyuán</span>
+      <span class="sh-en">Etymology &amp; Structure</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="人">
+      <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
+      <p>人 rén is the most elemental pictograph in the Chinese writing system. The oracle-bone script (甲骨文 jiǎgǔwén, c. 1200 BCE) shows a person in strict profile: one stroke leaning forward for the torso, one stroke descending for the leg. Two strokes. A human being. No face, no hands — just the silhouette of upright posture that separates humans from all other creatures. The character has barely changed in three thousand years.</p>
+      <p>人 is also a key building block for more complex characters. When two 人 stand side by side, you get <strong>从 cóng</strong> (to follow — one person walking behind another). When three people cluster together, you get <strong>众 zhòng</strong> (crowd, multitude). The social emerges from the individual by simple addition — a fact already embedded in the script.</p>
+      <p>The most philosophically charged combination is <strong>仁 rén</strong> (benevolence; humaneness) = 人 + 二 (two). This is the character Confucius placed at the absolute center of his ethical system. 仁 is not an inner quality — it is <em>what happens between two people.</em> The Analects return to it obsessively: 仁者爱人 "the benevolent person loves others." You cannot be 仁 alone. The two-stroke pictograph of a single human being already implies, for Confucius, that full humanity is only realized in relation. One character — two strokes — an entire civilization's deepest ethical conviction.</p>
+    </div>
+
+    <!-- ── WORD-FORMATION ── -->
+    <span class="section-anchor" id="patterns"></span>
+    <div class="section-head">
+      <span class="sh-cn">构词</span>
+      <span class="sh-py">gòucí</span>
+      <span class="sh-en">Word-Formation Patterns</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">构词规律 gòucí guīlǜ · Three Templates</span>
+      <strong>人 + social suffix</strong> → collective noun: 人民 the people · 人类 humanity · 人们 people (plural marker)<br>
+      <strong>别/他/旁 + 人</strong> → "other people" register spectrum: colloquial → formal → literary<br>
+      <strong>X + 人</strong> → person defined by role, quality, or identity: 中国人 · 外国人 · 好人 · 坏人 · 大人 · 老人 · 年轻人
+    </div>
+
+    <!-- ── RADICAL ── -->
+    <span class="section-anchor" id="radical"></span>
+    <div class="section-head">
+      <span class="sh-cn">人作部首</span>
+      <span class="sh-py">rén zuò bùshǒu</span>
+      <span class="sh-en">人 as Radical — 亻 the Person Component</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="亻">
+      <div class="scholar-label">部首洞见 bùshǒu dòngjiàn · Radical Insight</div>
+      <p>When 人 appears as the left-hand component of a character, it takes a compressed form: <strong>亻</strong> (the "standing person" radical) — a two-stroke figure pressed against the left side, narrow enough to make room for the main element. The presence of 亻 is a reliable signal: <em>this character concerns a person, a human action, or a human quality.</em></p>
+      <p>Core characters built on 亻: <strong>他 tā</strong> (he/him — the other person), <strong>你 nǐ</strong> (you — the person before me), <strong>们 men</strong> (plural suffix for people: 我们, 你们, 他们), <strong>休 xiū</strong> (to rest — a person 亻 leaning against a tree 木), <strong>住 zhù</strong> (to reside; to stop), <strong>信 xìn</strong> (letter; trust — a person 亻 standing by their word 言), <strong>保 bǎo</strong> (to protect; to guarantee), <strong>传 chuán</strong> (to transmit; to pass down), <strong>作 zuò</strong> (to make; to compose), <strong>做 zuò</strong> (to do; to act as).</p>
+      <p>These 亻-characters cover the full arc of human existence: identity, rest, shelter, speech, trust, protection, transmission, action. Every character that carries this radical answers, implicitly, the question: <em>what is a person for?</em> The radical appears in over 500 characters in the standard script — the richest single index of what the Chinese writing system considers "human."</p>
+    </div>
+
+    <!-- ── COLLECTIVE SPECTRUM ── -->
+    <span class="section-anchor" id="collective"></span>
+    <div class="section-head">
+      <span class="sh-cn">人们/人类/人民</span>
+      <span class="sh-py">rénmen / rénlèi / rénmín</span>
+      <span class="sh-en">The Collective Spectrum — Individual to Humanity</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <!-- 人 -->
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">人</span>
+          <span class="card-py">rén</span>
+          <span class="card-en">person; a human being (individual)</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          In its basic nominal use, 人 refers to a single person or to humans as a generic category (an unspecified individual). It is the most common noun in Mandarin by frequency. Functions as both a count noun (一个人 — one person) and a generic noun (人是社会动物 — humans are social animals).
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">外面有一个人在等你。</div>
+            <div class="ex-py">Wàimiàn yǒu yī gè rén zài děng nǐ.</div>
+            <div class="ex-en">There's someone outside waiting for you.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">人生苦短。</div>
+            <div class="ex-py">Rénshēng kǔ duǎn.</div>
+            <div class="ex-en">Life is short. (lit. human life is brief and difficult)</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这个人我认识。</div>
+            <div class="ex-py">Zhège rén wǒ rènshi.</div>
+            <div class="ex-en">I know this person.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">语法 yǔfǎ · Grammar</span>
+          Measure word: 一个人 (one person). As a generic noun, no measure word is needed: 人不能没有朋友 "a person cannot be without friends." The character also functions as a suffix across hundreds of compounds — see the X + 人 table below.
+        </div>
+      </div>
+
+      <!-- 人们 -->
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">人们</span>
+          <span class="card-py">rénmen</span>
+          <span class="card-en">people (indefinite plural)</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          人 rén + 们 men (plural suffix for animate nouns). A general, indefinite plural — "people" in the broad social sense: "one finds that people…" or "people say…" Not a specific group. 们 cannot be combined with numbers — you cannot say ＊三人们. This plural is for social generality, not counting.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">人们常常忘记感恩。</div>
+            <div class="ex-py">Rénmen chángcháng wàngjì gǎn'ēn.</div>
+            <div class="ex-en">People often forget to be grateful.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">人们都在议论这件事。</div>
+            <div class="ex-py">Rénmen dōu zài yìlùn zhè jiàn shì.</div>
+            <div class="ex-en">Everyone is talking about this matter.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">辨析 biànxī · Comparison</span>
+          人们 = indefinite "people in general." 大家 dàjiā = "everyone" (warm, inclusive, specific group). 人民 rénmín = "the people" (political, collective). Always use 人们 for generic social commentary, 大家 when addressing or including a specific group.
+        </div>
+      </div>
+
+      <!-- 人类 -->
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">人类</span>
+          <span class="card-py">rénlèi</span>
+          <span class="card-en">humanity; humankind; the human species</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          人 rén + 类 lèi (species; category; kind). Refers to humanity as a biological and civilizational category — the human species in its entirety, across all time. Used in philosophical, scientific, and grand-historical registers. Much larger in scope than 人们, and without political coloring.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">科技改变了人类的生活方式。</div>
+            <div class="ex-py">Kējì gǎibiàn le rénlèi de shēnghuó fāngshì.</div>
+            <div class="ex-en">Technology has changed the way humanity lives.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这是人类历史上的重大时刻。</div>
+            <div class="ex-py">Zhè shì rénlèi lìshǐ shàng de zhòngdà shíkè.</div>
+            <div class="ex-en">This is a momentous moment in human history.</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 人民 -->
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">人民</span>
+          <span class="card-py">rénmín</span>
+          <span class="card-en">the people (political collective)</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          人 rén + 民 mín (common people; subjects; citizens). A politically weighted term. In the PRC context, it carries strong ideological resonance: the people as a collective subject and political actor — not merely a demographic. Appears in major institutional names and slogans.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">政府应该为人民服务。</div>
+            <div class="ex-py">Zhèngfǔ yīnggāi wèi rénmín fúwù.</div>
+            <div class="ex-en">The government should serve the people.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">人民币是中国的法定货币。</div>
+            <div class="ex-py">Rénmínbì shì Zhōngguó de fǎdìng huòbì.</div>
+            <div class="ex-en">Renminbi is China's official currency. (lit. "people's currency")</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">文化 wénhuà · Key Compounds</span>
+          人民日报 Rénmín Rìbào (People's Daily, state newspaper) · 人民英雄纪念碑 (Monument to the People's Heroes, Tiananmen Square) · 人民币 Rénmínbì (the currency, lit. "people's currency") · 人民法院 rénmín fǎyuàn (People's Court). The word saturates official and civic discourse in a way that 人们 or 人类 does not.
+        </div>
+      </div>
+
+      <!-- 大家 -->
+      <div class="card c-sienna">
+        <div class="card-head">
+          <span class="card-cn">大家</span>
+          <span class="card-py">dàjiā</span>
+          <span class="card-en">everyone; everybody (warm, inclusive)</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          大 dà (big) + 家 jiā (family; home). Literally "the big family" — used for "everyone present" or "all of us." Much warmer and more conversational than 人们. The go-to word for addressing or including a present group: 大家好！(Hello everyone!). Implies shared membership, warmth, and inclusion — you are speaking to people you feel connected to.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">大家都同意这个方案。</div>
+            <div class="ex-py">Dàjiā dōu tóngyì zhège fāng'àn.</div>
+            <div class="ex-en">Everyone agrees with this plan.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">感谢大家今天的参与！</div>
+            <div class="ex-py">Gǎnxiè dàjiā jīntiān de cānyù!</div>
+            <div class="ex-en">Thank you all for participating today!</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards collective -->
+
+    <!-- ── OTHER PEOPLE ── -->
+    <span class="section-anchor" id="other-people"></span>
+    <div class="section-head">
+      <span class="sh-cn">别人/他人</span>
+      <span class="sh-py">biérén / tārén</span>
+      <span class="sh-en">Other People — a Register Spectrum</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <!-- 别人 -->
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">别人</span>
+          <span class="card-py">biérén</span>
+          <span class="card-en">other people; someone else (colloquial)</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          别 bié (other; different; another) + 人 rén. The default, everyday word for "other people" in spoken Mandarin. Neutral register, very high frequency. Used in advice, comparisons, complaints, and social commentary — the most natural choice whenever you mean "other people" in conversation.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">不要总是拿自己和别人比较。</div>
+            <div class="ex-py">Bùyào zǒng shì ná zìjǐ hé biérén bǐjiào.</div>
+            <div class="ex-en">Don't always compare yourself to others.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这是别人的东西，不能乱动。</div>
+            <div class="ex-py">Zhè shì biérén de dōngxi, bùnéng luàn dòng.</div>
+            <div class="ex-en">This belongs to someone else — don't touch it.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">你凭什么管别人的事？</div>
+            <div class="ex-py">Nǐ píng shénme guǎn biérén de shì?</div>
+            <div class="ex-en">What gives you the right to meddle in other people's business?</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 他人 -->
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">他人</span>
+          <span class="card-py">tārén</span>
+          <span class="card-en">others; other people (formal/literary)</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          他 tā (he; other) + 人 rén. The formal and written equivalent of 别人. Appears in legal texts, philosophical writing, ethical discussions, and formal prose. In classical Chinese, 他 itself meant "other" before it was narrowed to the third-person pronoun — making 他人 doubly "other."
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">尊重他人的隐私是基本礼貌。</div>
+            <div class="ex-py">Zūnzhòng tārén de yǐnsī shì jīběn lǐmào.</div>
+            <div class="ex-en">Respecting others' privacy is basic courtesy.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">不得侵犯他人的合法权益。</div>
+            <div class="ex-py">Bùdé qīnfàn tārén de héfǎ quányì.</div>
+            <div class="ex-en">One must not infringe upon others' lawful rights and interests.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">辨析 biànxī · Register</span>
+          别人 = spoken, casual (别人都走了 — everyone else left). 他人 = written, formal (他人利益 — the interests of others). In everyday speech, 他人 sounds stiff; in legal or philosophical writing, 别人 sounds too colloquial.
+        </div>
+      </div>
+
+      <!-- 旁人 -->
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">旁人</span>
+          <span class="card-py">pángrén</span>
+          <span class="card-en">bystanders; those on the sidelines (literary)</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          旁 páng (side; beside) + 人 rén. Literally "people at the side" — observers, onlookers, those not directly involved in a situation. The word carries a slightly theatrical quality: you, the protagonist, and 旁人 who watch. More literary than 别人. Common in classical and modern literary prose.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">旁人都看得出来，只有他自己不知道。</div>
+            <div class="ex-py">Pángrén dōu kàn de chūlai, zhǐyǒu tā zìjǐ bù zhīdào.</div>
+            <div class="ex-en">Everyone on the outside could see it — only he himself didn't know.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他们的争吵让旁人十分尴尬。</div>
+            <div class="ex-py">Tāmen de zhēngchǎo ràng pángrén shífēn gāngà.</div>
+            <div class="ex-en">Their argument made the bystanders extremely uncomfortable.</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 自己人 -->
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">自己人</span>
+          <span class="card-py">zìjǐrén</span>
+          <span class="card-en">one of us; an insider; our own people</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          自己 zìjǐ (oneself) + 人 rén. Someone who belongs to your group — your team, your family, your circle of trust. The implied contrast is always 外人 wàirén (outsider). 都是自己人，不用客气 "We're all family here, no need for formality" is an expression of warmth that lowers the social register instantly.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">放心吧，他是自己人，可以信任。</div>
+            <div class="ex-py">Fàngxīn ba, tā shì zìjǐrén, kěyǐ xìnrèn.</div>
+            <div class="ex-en">Don't worry — he's one of us, you can trust him.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">都是自己人，有话直说吧。</div>
+            <div class="ex-py">Dōu shì zìjǐrén, yǒu huà zhí shuō ba.</div>
+            <div class="ex-en">We're all on the same side here — just say what's on your mind.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">文化 wénhuà · 内 vs. 外</span>
+          The self/other distinction in Chinese social life is structured around <strong>内 nèi</strong> (inside/in-group) vs. <strong>外 wài</strong> (outside/out-group). 自己人 = 内人 (inside person); 外人 wàirén = outsider. This binary governs levels of frankness, generosity, and obligation in nearly all Chinese social contexts, from families to companies to government offices.
+        </div>
+      </div>
+
+    </div><!-- /cards other-people -->
+
+    <!-- ── CHARACTER & SOCIAL BOND ── -->
+    <span class="section-anchor" id="character"></span>
+    <div class="section-head">
+      <span class="sh-cn">人品/人情</span>
+      <span class="sh-py">rénpǐn / rénqíng</span>
+      <span class="sh-en">Moral Character &amp; the Social Bond</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <!-- 人品 -->
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">人品</span>
+          <span class="card-py">rénpǐn</span>
+          <span class="card-en">moral character; the quality of a person</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          人 rén + 品 pǐn (quality; grade; character — three 口 mouths stacked, suggesting the spoken judgments of a community). The overall moral quality of a person as assessed by those around them. Not talent, intelligence, or skill — moral trustworthiness and reliability in relationships. For Confucians, the fundamental criterion of personhood.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他的人品很好，大家都信任他。</div>
+            <div class="ex-py">Tā de rénpǐn hěn hǎo, dàjiā dōu xìnrèn tā.</div>
+            <div class="ex-en">His character is excellent — everyone trusts him.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">能力很重要，但人品更重要。</div>
+            <div class="ex-py">Nénglì hěn zhòngyào, dàn rénpǐn gèng zhòngyào.</div>
+            <div class="ex-en">Ability matters, but character matters more.</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 人情 -->
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">人情</span>
+          <span class="card-py">rénqíng</span>
+          <span class="card-en">human feeling; social obligation; the gift economy of favors</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          人 rén + 情 qíng (feeling; sentiment; connection). Operates on two levels simultaneously: (1) basic human warmth and empathy — 人之常情 "common human feeling"; (2) the social fabric of reciprocal favors, gifts, and obligations that structures Chinese social life. 做人情 = to do someone a favor that creates a reciprocal debt.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">想家是人之常情。</div>
+            <div class="ex-py">Xiǎng jiā shì rén zhī cháng qíng.</div>
+            <div class="ex-en">Missing home is a perfectly natural human feeling.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">中国社会非常重视人情关系。</div>
+            <div class="ex-py">Zhōngguó shèhuì fēicháng zhòngshì rénqíng guānxi.</div>
+            <div class="ex-en">Chinese society places great importance on human feeling and social relationships.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">文化 wénhuà · The Social Trinity</span>
+          人情 is one leg of the classic Chinese social triad: <strong>面子 miànzi</strong> (face — status and dignity), <strong>关系 guānxi</strong> (relationships — social networks), and <strong>人情 rénqíng</strong> (human feeling — the currency that flows through those networks). To navigate Chinese social life, all three must be understood together.
+        </div>
+      </div>
+
+      <!-- 人缘 -->
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">人缘</span>
+          <span class="card-py">rényuán</span>
+          <span class="card-en">people-affinity; popularity; being well-liked</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          人 rén + 缘 yuán (fate; karmic bond — a Buddhist term for the predestined connections between people). Literally: one's karmic bond with people. In practice: whether others naturally warm to you. 人缘好 (good people-affinity) is a high social compliment; 人缘差 (poor people-affinity) is a serious social warning.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">她人缘很好，走到哪里都有朋友。</div>
+            <div class="ex-py">Tā rényuán hěn hǎo, zǒu dào nǎlǐ dōu yǒu péngyou.</div>
+            <div class="ex-en">She's popular everywhere she goes — always has friends.</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 人脉 -->
+      <div class="card c-sienna">
+        <div class="card-head">
+          <span class="card-cn">人脉</span>
+          <span class="card-py">rénmài</span>
+          <span class="card-en">network; professional connections (lit. "person-veins")</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          人 rén + 脉 mài (vein; pulse; artery — the channels through which blood flows). Your social and professional network, imagined as a circulatory system. 脉 is the same character used in 经脉 jīngmài (meridians) in TCM. The metaphor is exact: just as qi flows through meridians to sustain the body, favors, information, and opportunity flow through 人脉 to sustain social life.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">在这个行业，人脉非常重要。</div>
+            <div class="ex-py">Zài zhège hángyè, rénmài fēicháng zhòngyào.</div>
+            <div class="ex-en">In this industry, connections are extremely important.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他花了多年时间建立自己的人脉网络。</div>
+            <div class="ex-py">Tā huā le duō nián shíjiān jiànlì zìjǐ de rénmài wǎngluò.</div>
+            <div class="ex-en">He spent many years building his network of connections.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards character -->
+
+    <!-- ── ZUOREN ── -->
+    <span class="section-anchor" id="zuoren"></span>
+    <div class="section-head">
+      <span class="sh-cn">做人</span>
+      <span class="sh-py">zuòrén</span>
+      <span class="sh-en">The Ethics of Being Human</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="做">
+      <div class="scholar-label">文化洞见 wénhuà dòngjiàn · Cultural Insight</div>
+      <p><strong>做人 zuòrén</strong> — literally "to do/act as a person" — is one of the most philosophically dense phrases in everyday Mandarin. It refers not to the biological fact of being human but to the <em>practice</em> of being a good person: how you conduct yourself, treat others, maintain relationships, and handle setbacks with dignity. 做人 is a lifelong project, not a given state.</p>
+      <p>The phrase <strong>做人做事</strong> (zuòrén zuòshì — "being a person / doing things") pairs the ethical dimension of identity with the practical dimension of action. For Confucius, these were inseparable: moral character is not an inner quality hidden from the world but is expressed entirely in how you act toward others. To work carelessly is a moral failing; to treat people badly while performing competently is worse still.</p>
+      <p><strong>重新做人 chóngxīn zuòrén</strong> — "to redo being a person" — is the Chinese idiom for turning over a new leaf, for genuine moral reform. It appears in contexts of release from prison, recovery from addiction, or personal transformation after disgrace. The phrase contains an extraordinary implicit claim: that being a person is something you can fail at — and also something you can attempt again.</p>
+    </div>
+
+    <div class="cards">
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">做人</span>
+          <span class="card-py">zuòrén</span>
+          <span class="card-en">to conduct oneself; to be the kind of person one should be</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
+        <div class="card-def">
+          做 zuò (to do; to act as; to make) + 人 rén. The verb that captures the Confucian view that being human is an achievement, not a given. 做人 is learned — how to navigate relationships, honor obligations, maintain dignity, and treat others with genuine consideration. A person who doesn't know how to 做人 fails socially regardless of other talents.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">你得学会做人，不能这么自私。</div>
+            <div class="ex-py">Nǐ děi xuéhuì zuòrén, bùnéng zhème zìsī.</div>
+            <div class="ex-en">You need to learn how to conduct yourself — you can't be this selfish.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他出狱后决心重新做人。</div>
+            <div class="ex-py">Tā chū yù hòu juéxīn chóngxīn zuòrén.</div>
+            <div class="ex-en">After leaving prison, he was determined to turn over a new leaf.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">做人要厚道，不能太计较。</div>
+            <div class="ex-py">Zuòrén yào hòudào, bùnéng tài jìjiào.</div>
+            <div class="ex-en">In your conduct, be generous — don't be too petty about small matters.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">近义词 jìnyìcí · Related Phrases</span>
+          <strong>做人难 zuòrén nán</strong> — "being a person is hard." A wry acknowledgment of the social and moral demands placed on individuals. Often said with a sigh. <strong>做人做事 zuòrén zuòshì</strong> — "conduct and action" — the Confucian pairing of character and work. <strong>低调做人 dīdiào zuòrén</strong> — to keep a low profile, to be modest in conduct.
+        </div>
+      </div>
+    </div><!-- /cards zuoren -->
+
+    <!-- ── X + 人 TABLE ── -->
+    <span class="section-anchor" id="table"></span>
+    <div class="section-head">
+      <span class="sh-cn">X + 人</span>
+      <span class="sh-py">X + rén</span>
+      <span class="sh-en">Social Categories — Modifier + 人</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">构词规律 · X + 人 creates social roles and identity categories</span>
+      Any noun or adjective placed before 人 creates a person defined by that quality, occupation, role, or identity. This is one of the most productive patterns in Chinese — once internalized, hundreds of compounds become immediately readable and generatable.
+    </div>
+
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>字 Zì</th>
+            <th>拼音 Pīnyīn</th>
+            <th>英文 Yīngwén</th>
+            <th>例句 Lìjù</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="td-cn">工人</td>
+            <td class="td-py">gōngrén</td>
+            <td>worker; laborer</td>
+            <td>他是一名工人。<span class="td-small td-py-sm">Tā shì yī míng gōngrén. — He is a worker.</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">军人</td>
+            <td class="td-py">jūnrén</td>
+            <td>soldier; military person</td>
+            <td>他的父亲是军人。<span class="td-small td-py-sm">Tā de fùqīn shì jūnrén. — His father is in the military.</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">商人</td>
+            <td class="td-py">shāngrén</td>
+            <td>merchant; businessperson</td>
+            <td>古代商人走丝绸之路。<span class="td-small td-py-sm">Gǔdài shāngrén zǒu Sīchóuzhīlù.</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">艺人</td>
+            <td class="td-py">yìrén</td>
+            <td>performer; entertainer; artist</td>
+            <td>她是一位著名的艺人。<span class="td-small td-py-sm">Tā shì yī wèi zhùmíng de yìrén.</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">病人</td>
+            <td class="td-py">bìngrén</td>
+            <td>patient; sick person</td>
+            <td>医生在照顾病人。<span class="td-small td-py-sm">Yīshēng zài zhàogù bìngrén.</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">主人</td>
+            <td class="td-py">zhǔrén</td>
+            <td>host; owner; master</td>
+            <td>主人热情款待客人。<span class="td-small td-py-sm">Zhǔrén rèqíng kuǎndài kèrén.</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">客人</td>
+            <td class="td-py">kèrén</td>
+            <td>guest; visitor; customer</td>
+            <td>今天来了很多客人。<span class="td-small td-py-sm">Jīntiān lái le hěn duō kèrén. — Many guests came today.</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">证人</td>
+            <td class="td-py">zhèngrén</td>
+            <td>witness (legal)</td>
+            <td>法庭传唤了三名证人。<span class="td-small td-py-sm">Fǎtíng chuánhuàn le sān míng zhèngrén.</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">嫌疑人</td>
+            <td class="td-py">xiányírén</td>
+            <td>suspect (legal)</td>
+            <td>警察逮捕了嫌疑人。<span class="td-small td-py-sm">Jǐngchá dàibǔ le xiányírén. — Police arrested the suspect.</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">中间人</td>
+            <td class="td-py">zhōngjiānrén</td>
+            <td>intermediary; go-between</td>
+            <td>他们找了一个中间人来调解。<span class="td-small td-py-sm">Tāmen zhǎo le yīge zhōngjiānrén lái tiáojiě.</span></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- ── CHENGYU ── -->
+    <span class="section-anchor" id="chengyu"></span>
+    <div class="section-head">
+      <span class="sh-cn">成语</span>
+      <span class="sh-py">chéngyǔ</span>
+      <span class="sh-en">Idioms &amp; Set Phrases</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="chengyu-grid">
+
+      <div class="cy">
+        <span class="cy-cn">以人为本</span>
+        <span class="cy-py">yǐ rén wéi běn</span>
+        <span class="cy-en">to put people first; human-centered governance</span>
+        <span class="cy-note">Lit: use-person-as-root. A classical Confucian governance principle revived as modern policy language. 本 běn (root; foundation) is the underground portion of a tree — the foundation that everything else rests on. The person, not the state or ideology, is the root of all legitimate policy. Central slogan of the 科学发展观 (Scientific Development Concept) in early 21st-century PRC.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">人山人海</span>
+        <span class="cy-py">rén shān rén hǎi</span>
+        <span class="cy-en">a mountain of people, a sea of people — an enormous crowd</span>
+        <span class="cy-note">Lit: person-mountain-person-sea. The go-to phrase for describing massive crowds: national holidays, concerts, train stations during Spring Festival rush. The pairing of 山 (mountain) and 海 (sea) — the two largest natural forms — captures the sense of scale without irony. 那天广场上人山人海 "The square was packed beyond measure that day."</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">助人为乐</span>
+        <span class="cy-py">zhù rén wéi lè</span>
+        <span class="cy-en">to find joy in helping others; altruism as happiness</span>
+        <span class="cy-note">Lit: assist-people-as-joy. A Confucian virtue idiom taught in moral education from an early age. Helping others is not sacrifice but a source of genuine happiness. Compare the Confucian formulation in the Analects: 己欲立而立人，己欲达而达人 — "What you wish to achieve for yourself, help others achieve." Joy is not in getting but in enabling.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">人尽其才</span>
+        <span class="cy-py">rén jìn qí cái</span>
+        <span class="cy-en">every person fully uses their talents; no talent is wasted</span>
+        <span class="cy-note">Lit: person-exhaust-their-talent. A governance and organizational ideal — the right people in the right roles, fully realizing their abilities. Often paired with 物尽其用 wù jìn qí yòng (every object fully utilized). Together they form a Confucian vision of a well-ordered society: nothing wasted, everyone flourishing in their proper capacity.</span>
+      </div>
+
+    </div>
+
+    <!-- ── ADJACENT VOCAB ── -->
+    <span class="section-anchor" id="adjacent"></span>
+    <div class="section-head">
+      <span class="sh-cn">相邻词汇</span>
+      <span class="sh-py">xiānglín cíhuì</span>
+      <span class="sh-en">Adjacent Vocabulary</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">仁</span><span class="a-py">rén</span><span class="a-en">benevolence; humaneness</span></span>
+      <span class="adj"><span class="a-cn">民</span><span class="a-py">mín</span><span class="a-en">the people; citizens</span></span>
+      <span class="adj"><span class="a-cn">众</span><span class="a-py">zhòng</span><span class="a-en">multitude; crowd</span></span>
+      <span class="adj"><span class="a-cn">个人</span><span class="a-py">gèrén</span><span class="a-en">individual; personal</span></span>
+      <span class="adj"><span class="a-cn">公众</span><span class="a-py">gōngzhòng</span><span class="a-en">the public; general public</span></span>
+      <span class="adj"><span class="a-cn">群体</span><span class="a-py">qúntǐ</span><span class="a-en">group; collective</span></span>
+      <span class="adj"><span class="a-cn">社会</span><span class="a-py">shèhuì</span><span class="a-en">society</span></span>
+      <span class="adj"><span class="a-cn">同胞</span><span class="a-py">tóngbāo</span><span class="a-en">compatriot; fellow citizen</span></span>
+      <span class="adj"><span class="a-cn">邻居</span><span class="a-py">línjū</span><span class="a-en">neighbor</span></span>
+      <span class="adj"><span class="a-cn">朋友</span><span class="a-py">péngyou</span><span class="a-en">friend</span></span>
+      <span class="adj"><span class="a-cn">陌生人</span><span class="a-py">mòshēngrén</span><span class="a-en">stranger</span></span>
+      <span class="adj"><span class="a-cn">家人</span><span class="a-py">jiārén</span><span class="a-en">family members</span></span>
+    </div>
+
+    <!-- RETENTION IMAGE -->
+    <div class="scholar" data-glyph="人">
+      <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
+      <p>Two strokes. That is all it takes to write a person. One stroke leans forward — ambition, action, the thrust of life into the world. The other descends — roots, gravity, the earth beneath. Together they barely touch at the apex, yet they hold. Without either stroke, there is no character and no person.</p>
+      <p>Confucius saw in that fragile balance the entire moral universe: 仁 — two people, one relationship, one character added to the right. Add a second 人 beside the first and you have 从 cóng (to follow). Add a third and you have 众 zhòng (the multitude). The social world emerges from the individual person by simple, inevitable addition. Everything else — 人品, 人情, 做人, 仁 — is commentary on those two strokes.</p>
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="page-footer">
+      <span class="footer-id">Field Notes on Chinese · <span>人 rén</span> · ren2_人.html</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>

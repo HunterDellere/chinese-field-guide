@@ -1,0 +1,222 @@
+---
+type: 'topic'
+category: 'history'
+status: 'complete'
+title: '宋朝 · The Song Dynasty'
+desc: 'Economic revolution, printing, compass — the dynasty modernity missed.'
+metaDesc: "宋朝 sòngcháo: politically weak but culturally brilliant — paper money, printing, gunpowder, and the compass all flourished; the Jingkang Humiliation sent the court south; Neo-Confucianism redefined Chinese thought until the Mongols ended it all in 1279."
+pageTitle: '宋朝 · The Song Dynasty'
+tags:
+  - 'song'
+  - 'economy'
+  - 'innovation'
+updated: '2026-04-18'
+pinyin: 'sòngcháo'
+---
+
+<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+    <span class="toc-topic">宋朝</span>
+    <span class="toc-topic-en">The Song Dynasty</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#founding">
+        <span class="toc-cn">宋朝开国</span>
+        <span class="toc-sub">Founding of the Song</span>
+      </a></li>
+      <li><a href="#economic">
+        <span class="toc-cn">经济革命</span>
+        <span class="toc-sub">Economic Revolution</span>
+      </a></li>
+      <li><a href="#inventions">
+        <span class="toc-cn">四大发明</span>
+        <span class="toc-sub">Four Great Inventions</span>
+      </a></li>
+      <li><a href="#jingkang">
+        <span class="toc-cn">靖康之耻</span>
+        <span class="toc-sub">The Jingkang Humiliation</span>
+      </a></li>
+      <li><a href="#southsong">
+        <span class="toc-cn">南宋</span>
+        <span class="toc-sub">The Southern Song</span>
+      </a></li>
+      <li><a href="#culture">
+        <span class="toc-cn">宋朝的文化成就</span>
+        <span class="toc-sub">Cultural Achievement</span>
+      </a></li>
+      <li><a href="#chengyu">
+        <span class="toc-cn">成语</span>
+        <span class="toc-sub">Key Phrases &amp; Idioms</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- HERO -->
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">History · 历史 lìshǐ</span>
+      <h1 class="topic-hero-title">宋朝</h1>
+      <span class="topic-hero-title-py">sòngcháo</span>
+      <p class="topic-hero-desc">The dynasty that was militarily weak by design and culturally brilliant beyond measure — paper money, printing, gunpowder, and the compass all flourished here, along with Su Dongpo's poetry and Neo-Confucian philosophy, before the Jingkang Humiliation split the court south and the Mongols ended it all in 1279.</p>
+    </header>
+
+    <!-- ── FOUNDING ── -->
+    <span class="section-anchor" id="founding"></span>
+    <div class="section-head">
+      <span class="sh-cn">宋朝开国</span>
+      <span class="sh-py">Sòngcháo Kāiguó</span>
+      <span class="sh-en">The Founding of the Song — Soldiers Retired by Design</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="宋">
+      <div class="scholar-label">历史洞见 lìshǐ dòngjiàn · Historical Insight</div>
+      <p>The Song dynasty (宋朝 Sòngcháo, 960–1279 CE) emerged from the chaos of the Five Dynasties and Ten Kingdoms period (五代十国 Wǔdài Shíguó, 907–960 CE) — five decades of military strongmen seizing and losing power in rapid succession, the political consequence of the Tang's military fragmentation after the An Lushan Rebellion. Its founder, <strong>赵匡胤 Zhào Kuāngyìn</strong> (927–976 CE), was himself a military commander who came to power through a coup: the <strong>陈桥驿兵变 Chénqiáo Yì Bīngbiàn</strong> (Chenqiao Station Mutiny, 960 CE), in which his troops draped a yellow robe (the imperial symbol) over his shoulders and acclaimed him emperor while he "slept" — a theatrical gesture that gave him plausible deniability.</p>
+      <p>Having seized power through exactly the means he feared his own generals might use against him, Zhao Kuangyin took a remarkable step: he systematically demilitarized his own commanders. In a famous banquet (<strong>杯酒释兵权 bēi jiǔ shì bīngquán</strong>, "releasing military power over a cup of wine"), he persuaded his senior generals to retire voluntarily to comfortable lives as wealthy landowners, in exchange for relinquishing their military commands. This negotiated demilitarization spared China a repeat of the Five Dynasties cycle but established a structural weakness: Song China would be governed by civilian officials who kept military commanders in subordinate, suspect roles throughout the dynasty.</p>
+      <p>The policy of <strong>重文轻武 zhòng wén qīng wǔ</strong> (honor civil officials, demote military ones) was institutionalized across the Song. Military commanders were supervised by civilian bureaucrats; army units were regularly shuffled to prevent generals from developing personal loyalties; key military decisions required civilian approval. The result was an empire that was prosperous, culturally extraordinary, and diplomatically sophisticated — but that consistently failed to retake territories lost to northern powers (the Sixteen Prefectures of Yan and Yun, lost to the Khitan Liao dynasty even before Song was founded) and that ultimately could not defend itself against the Jurchen Jin and Mongol military machines.</p>
+      <p>The Song's northern border problems were structural from the start. The state of <strong>辽 Liáo</strong> (Khitan Liao dynasty, 916–1125 CE) controlled the area around modern Beijing and the militarily crucial Sixteen Prefectures (<strong>燕云十六州 Yānyún Shíliù Zhōu</strong>), which the Tang had lost in the chaos of its collapse. Without these prefectures, Song's northern border was a flat plain with no natural defensive features — essentially indefensible against cavalry-based armies. Song made peace with Liao through the <strong>澶渊之盟 Chányuān zhī Méng</strong> (Chanyuan Covenant, 1005 CE), agreeing to pay annual tribute of 100,000 taels of silver and 200,000 bolts of silk in exchange for peace. This arrangement — regular payments to a militarily superior neighbor in exchange for stability — was degrading to Chinese literati sensibility but commercially rational: it cost far less than the wars it prevented, and the tribute payments cycled back as Liao court purchases of Song luxury goods.</p>
+    </div>
+
+    <!-- ── ECONOMIC REVOLUTION ── -->
+    <span class="section-anchor" id="economic"></span>
+    <div class="section-head">
+      <span class="sh-cn">经济革命</span>
+      <span class="sh-py">Jīngjì Gémìng</span>
+      <span class="sh-en">The Song Economic Revolution</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="钱">
+      <div class="scholar-label">经济洞见 jīngjì dòngjiàn · Economic Insight</div>
+      <p>Historians have argued for decades that the Northern Song (960–1127 CE) experienced something resembling a proto-industrial economic revolution — the most sophisticated pre-modern commercial economy the world had yet seen. Several intersecting developments drove this: a dramatic expansion of agricultural productivity through new rice varieties (double-cropping made possible by early-ripening Champa rice introduced from Vietnam), the commercialization of agriculture as farmers grew cash crops for urban markets rather than subsistence, and the monetization of the economy through the world's first government-issued paper money.</p>
+      <p><strong>交子 jiāozi</strong> — the world's first paper currency — emerged in Sichuan in the early 11th century, initially as private merchant receipts for deposited metal coin, then taken over and standardized by the government in 1023 CE. Paper money solved the Song's copper-shortage problem (the economy had grown faster than the metal supply) and enabled trade at scales impossible with physical coin. It also introduced inflation when governments issued more notes than their metal reserves could back — a lesson Song, Jin, and Yuan governments all learned painfully.</p>
+      <p>The Song commercial boom produced a vibrant urban culture without precedent in Chinese history. The capital <strong>汴京 Biànjīng</strong> (modern Kaifeng) had a population of over a million; merchants operated around the clock in markets that were no longer confined to designated daytime zones as Tang law had required. The painting <strong>清明上河图 Qīngmíng Shànghé Tú</strong> (Along the River During the Qingming Festival, by <strong>张择端 Zhāng Zéduān</strong>, c. 1100–1125 CE) — a scroll 5.25 meters long depicting life in Bianjing — is both a masterwork of Chinese painting and an incomparable document of Song urban society: boats, bridges, shops, restaurants, inns, and crowds of people going about their business with an energy that looks recognizably modern.</p>
+      <p>The reformist chancellor <strong>王安石 Wáng Ānshí</strong> (1021–1086 CE) attempted to rationalize and extend the Song fiscal system through his <strong>新法 Xīn Fǎ</strong> (New Policies or Xin Fa, 1069–1076 CE): the Green Sprouts Law (青苗法, providing government low-interest loans to farmers at planting time, competing with usurers), the Local Service Law (免役法, allowing people to pay money in lieu of labor service), and militia organization (保甲法). These reforms provoked bitter factional conflict — the conservative opposition was led by <strong>司马光 Sīmǎ Guāng</strong> (author of the great history <em>Zizhi Tongjian</em> 资治通鉴) — and were twice repealed and reinstated as political winds shifted. The factional polarization between "New Policies" and "Old Policies" parties weakened the Northern Song state at exactly the moment it needed unity to face the rising Jurchen threat.</p>
+    </div>
+
+    <!-- ── FOUR GREAT INVENTIONS ── -->
+    <span class="section-anchor" id="inventions"></span>
+    <div class="section-head">
+      <span class="sh-cn">四大发明</span>
+      <span class="sh-py">Sì Dà Fāmíng</span>
+      <span class="sh-en">The Four Great Inventions and Their Song Maturity</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="明">
+      <div class="scholar-label">科技洞见 kējì dòngjiàn · Technology Insight</div>
+      <p>The Chinese concept of <strong>四大发明 Sì Dà Fāmíng</strong> (Four Great Inventions) — papermaking, printing, gunpowder, and the compass — was formalized by Francis Bacon in 1620 (<em>Novum Organum</em>) as the three inventions that most transformed the modern world, and elaborated by later Chinese scholars into four. All four had their origins before Song but reached their mature, world-changing forms during the Song period.</p>
+      <p><strong>印刷术 yìnshuā shù (Printing)</strong>: Woodblock printing (雕版印刷 diāobǎn yìnshuā) had existed since the Tang, but <strong>毕昇 Bì Shēng</strong> invented movable type around 1040 CE — individual ceramic characters that could be arranged, inked, printed, and recombined. His invention preceded Gutenberg by about four centuries. Song China produced a massive expansion of printed books, making classical texts available at prices that allowed a broader educated class than ever before — a direct driver of the examination system's growth and the flourishing of scholarship.</p>
+      <p><strong>火药 huǒyào (Gunpowder)</strong>: Known to Tang alchemists as a byproduct of their immortality experiments (irony: they were trying to find the elixir of life and found an instrument of death), gunpowder reached military application in Song. By the 10th–11th centuries, Song armies were using fire arrows, bombs, and early incendiary grenades. By the 12th–13th centuries, firearms using gunpowder in a barrel had appeared. Song deployed these weapons against the Jurchen and Mongols with limited effectiveness — partly because the invaders rapidly acquired and adapted the same technology.</p>
+      <p><strong>指南针 zhǐnánjīn (Compass)</strong>: The magnetic needle's tendency to point south (Chinese convention was south-pointing rather than north-pointing) had been known since Han times. By the Northern Song, floating needle compasses were in use for geomancy (风水 fēngshuǐ — determining auspicious directions for buildings and graves). By the 11th century, naval compasses were in use on Song merchant ships — enabling reliable open-ocean navigation and the dramatic expansion of Song maritime trade that made the Southern Song's coastal and sea-based economy viable after the loss of the north.</p>
+      <p><strong>造纸术 zàozhǐ shù (Papermaking)</strong>: Credited to Han dynasty eunuch <strong>蔡伦 Cài Lún</strong> (c. 105 CE), but Song papermaking produced the finest paper in the world, enabling both the printing revolution and the paper money economy. Song paper's lightness and durability made it the preferred medium for calligraphy, painting, and administration.</p>
+    </div>
+
+    <!-- ── JINGKANG ── -->
+    <span class="section-anchor" id="jingkang"></span>
+    <div class="section-head">
+      <span class="sh-cn">靖康之耻</span>
+      <span class="sh-py">Jǐngkāng zhī Chǐ</span>
+      <span class="sh-en">The Jingkang Humiliation — The North Is Lost</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="耻">
+      <div class="scholar-label">历史洞见 lìshǐ dòngjiàn · Historical Insight</div>
+      <p>The <strong>靖康之耻 Jǐngkāng zhī Chǐ</strong> (Jingkang Humiliation, 1127 CE) — named for the reign era of the last Northern Song emperor — was one of the most catastrophic events in Chinese imperial history, and it left a scar on the Chinese historical imagination that has never fully healed. In January 1127 CE, armies of the Jurchen <strong>金 Jīn</strong> dynasty (which had just destroyed the Liao) sacked the Song capital Bianjing (modern Kaifeng) and captured both the reigning emperor <strong>钦宗 Qīnzōng</strong> and his retired father <strong>徽宗 Huīzōng</strong>, along with virtually the entire imperial court, the imperial family, and tens of thousands of court officials, artisans, and commoners — reportedly over 14,000 people.</p>
+      <p>Emperor Huizong (r. 1100–1125 CE) presents one of history's most poignant failures: one of the greatest artist-emperors who ever lived — his calligraphy style (<strong>瘦金体 shòujīn tǐ</strong>, "slender gold script") is still practiced; his bird-and-flower paintings set the standard for the genre — and simultaneously a catastrophically inattentive political ruler who allowed the Wang Anshi reform controversies to paralyze governance while the Jurchen threat materialized. He abdicated in panic in 1125 CE, hoping to transfer responsibility; both he and his abdicatee son died in Jurchen captivity in the far north, never returning to China.</p>
+      <p>The Jingkang Humiliation permanently divided Song history into Northern Song (北宋 Běi Sòng, 960–1127) and Southern Song (南宋 Nán Sòng, 1127–1279). A surviving member of the imperial family, <strong>高宗 Gāozōng</strong> (r. 1127–1162 CE), reconstituted the Song court south of the Yangtze, eventually settling at <strong>临安 Lín'ān</strong> (modern Hangzhou) as the new capital. The loss of the north became the defining political and moral fact of Southern Song culture: a wound that generated a literature of loyalty, exile, and patriotic longing.</p>
+    </div>
+
+    <!-- ── SOUTHERN SONG ── -->
+    <span class="section-anchor" id="southsong"></span>
+    <div class="section-head">
+      <span class="sh-cn">南宋</span>
+      <span class="sh-py">Nán Sòng</span>
+      <span class="sh-en">The Southern Song — Yue Fei and the Politics of Loyalty</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="南">
+      <div class="scholar-label">历史洞见 lìshǐ dòngjiàn · Historical Insight</div>
+      <p>The Southern Song's most tragic figure — and the most celebrated patriot in Chinese history — is the general <strong>岳飞 Yuè Fēi</strong> (1103–1142 CE). A military commander of extraordinary talent, Yue Fei led the only sustained Song counteroffensive against the Jurchen Jin dynasty, pushing northward and reportedly coming close to recovering the Yellow River basin — and the two captured emperors' remains — before being ordered to halt by Emperor Gaozong. He was recalled to the capital with twelve consecutive courier orders (<strong>十二道金牌 shí'èr dào jīnpái</strong>), arrested, and executed in 1142 CE on a charge of treason — the evidence for which was summarized in the infamous phrase <strong>莫须有 mò xū yǒu</strong> ("perhaps he did," or "maybe there was a reason"), spoken by the chancellor <strong>秦桧 Qín Huì</strong> when asked what proof existed.</p>
+      <p>The execution of Yue Fei — widely understood even at the time as a political murder to enable the peace settlement with Jin — became the supreme example of righteous loyalty destroyed by corrupt government. His tattoo (supposedly applied by his mother): <strong>精忠报国 jīngzhōng bàoguó</strong> (serve the country with utmost loyalty) became one of the most famous phrases in the Chinese patriotic vocabulary. The kneeling iron statues of Qin Hui and his wife before Yue Fei's tomb in Hangzhou have been ritually spat upon by visitors for centuries — one of the more viscerally honest historical monuments in the world.</p>
+      <p>The Southern Song then settled into an uneasy peace with the Jin dynasty (maintained through regular tribute payments) that lasted until the Mongol eruption changed everything. The Southern Song capital Hangzhou (<strong>临安 Lín'ān</strong>) became what Marco Polo would later call "Quinsai," describing it as the most magnificent city on earth — a city of canals, silk merchants, restaurants offering dozens of cuisines, and a cultural life of extraordinary refinement. Southern Song Hangzhou gave Chinese urban culture its most developed pre-modern form: the restaurants, the teahouses, the storytellers, the theatrical performances, the pleasure boats on West Lake (西湖 Xī Hú) — a world of commercial sophistication and aesthetic pleasure that coexisted with the permanent political anxiety of an exiled court.</p>
+      <p>The Mongols under Kublai Khan (<strong>忽必烈 Hūbìliè</strong>) finally absorbed the Southern Song in 1279 CE, after decades of warfare and the famous last stand at the <strong>崖山之战 Yáshān zhī Zhàn</strong> (Battle of Yamen), where the last Song loyalists — including the last emperor, a child — jumped into the sea rather than surrender. The Yuan dynasty (1271–1368 CE) that followed was the first time in Chinese history that the entire territory of China was ruled by a non-Chinese power.</p>
+    </div>
+
+    <!-- ── CULTURAL ACHIEVEMENT ── -->
+    <span class="section-anchor" id="culture"></span>
+    <div class="section-head">
+      <span class="sh-cn">宋朝的文化成就</span>
+      <span class="sh-py">Sòngcháo de Wénhuà Chéngjiù</span>
+      <span class="sh-en">Cultural Achievement — Weak State, Brilliant Culture</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="文">
+      <div class="scholar-label">文化洞见 wénhuà dòngjiàn · Cultural Insight</div>
+      <p>The Song dynasty is the great paradox of Chinese history: militarily weak and repeatedly humiliated, it produced what many scholars consider the richest cultural flowering of Chinese civilization. The heavy investment in civil examinations, the commercialization of print culture, and the prosperity of the urban economy created a literate, cosmopolitan elite whose output — in poetry, painting, calligraphy, philosophy, and ceramic art — set standards that subsequent dynasties spent centuries trying to equal.</p>
+      <p><strong>苏东坡 Sū Dōngpō</strong> (Su Shi, 苏轼 Sū Shì, 1037–1101 CE) is the emblematic Song cultural figure: calligrapher, painter, gastronome, Buddhist, government official, political exile, and poet whose <em>ci</em> (词 cí) verse transformed what had been considered a minor popular song genre into a major literary form. His life intersected with every major political controversy of the Northern Song — he opposed Wang Anshi's New Policies, was exiled, was recalled when the conservatives returned to power, opposed their excessive conservatism, and was exiled again, ending his days in the far south. His equanimity in exile, his humor, his curiosity about everything from cooking to engineering, made him the most humanly appealing figure in Chinese literary history. The dish <strong>东坡肉 Dōngpō Ròu</strong> (red-braised pork belly) is attributed to him.</p>
+      <p><strong>理学 lǐxué</strong> (Neo-Confucianism, or the School of Principle) was the Song's great philosophical achievement. The movement, initiated by <strong>周敦颐 Zhōu Dūnyí</strong>, <strong>程颢 Chéng Hào</strong>, and <strong>程颐 Chéng Yí</strong> (the Cheng brothers), and synthesized by <strong>朱熹 Zhū Xī</strong> (1130–1200 CE), attempted to provide Confucianism with a metaphysical foundation capable of answering the Buddhist and Daoist philosophical challenges that had dominated Chinese intellectual life since the Tang. The result — the concept of <strong>理 lǐ</strong> (principle/pattern) as the fundamental structure of reality, expressed in things and in the human mind — gave Chinese thought its characteristic Song-through-Ming-Qing flavor: morally serious, metaphysically sophisticated, and intensely focused on self-cultivation. Zhu Xi's Neo-Confucian synthesis became the mandatory curriculum for the imperial examinations from the Yuan dynasty onward — shaping Chinese educated thought until 1905.</p>
+      <p>Song ceramics — particularly the five great kiln systems (<strong>汝 Rǔ, 官 Guān, 哥 Gē, 钧 Jūn, 定 Dìng</strong>) — produced what many connoisseurs consider the finest pottery ever made. The Ru ware's legendary pale blue-green glaze, produced for the court for barely twenty years around 1100 CE before the Jingkang Humiliation ended production, remains among the most sought-after objects in Chinese art history: fewer than 90 confirmed authentic pieces survive worldwide, and a single Ru bowl sold at Sotheby's Hong Kong in 2017 for HK$294.3 million.</p>
+    </div>
+
+    <!-- ── CHENGYU ── -->
+    <span class="section-anchor" id="chengyu"></span>
+    <div class="section-head">
+      <span class="sh-cn">成语与关键词</span>
+      <span class="sh-py">Chéngyǔ yǔ Guānjiàn Cí</span>
+      <span class="sh-en">Idioms &amp; Key Phrases</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="chengyu-grid">
+
+      <div class="cy">
+        <span class="cy-cn">靖康之耻</span>
+        <span class="cy-py">Jǐngkāng zhī Chǐ</span>
+        <span class="cy-en">the Jingkang Humiliation — national shame that demands redemption</span>
+        <span class="cy-note">The capture of the Song imperial family by the Jurchen Jin dynasty in 1127 CE. Invoked by Yue Fei and every subsequent patriot as the wound that must be avenged. Still appears in modern Chinese political rhetoric when national pride or territorial integrity is at stake. The phrase encodes the specifically Song-era emotion of 雪耻 xuě chǐ — "washing away the shame" — as a political imperative. Yue Fei's poem 满江红 contains the line 靖康耻，犹未雪 ("the Jingkang shame is still unwashed").</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">精忠报国</span>
+        <span class="cy-py">jīngzhōng bàoguó</span>
+        <span class="cy-en">serve the country with utmost loyalty — the supreme patriotic commitment</span>
+        <span class="cy-note">The four characters said to have been tattooed on Yue Fei's back by his mother (精忠 = utmost loyalty; 报国 = repay/serve the country). Whether the tattooing story is historical or legendary, the phrase became the supreme expression of Chinese patriotic loyalty. Still used in military and political contexts, on war memorials, and in patriotic education. 岳母刺字 (Yue's mother tattooing the characters) is a standard moral tale in Chinese primary school curricula.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">莫须有</span>
+        <span class="cy-py">mò xū yǒu</span>
+        <span class="cy-en">perhaps he did — a charge without evidence; judicial murder by innuendo</span>
+        <span class="cy-note">Chancellor Qin Hui's response when asked what evidence existed for Yue Fei's treason charge: 莫须有 — variously translated as "perhaps," "maybe there was a reason," or "need it necessarily be?" The phrase captures the essence of political show-trial logic: the accusation is sufficient; evidence is irrelevant because the conclusion is predetermined. Now the standard Chinese phrase for an evidence-free accusation or a charge fabricated to eliminate someone inconvenient. 莫须有的罪名 — "a charge of 'perhaps he did.'"</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">忧国忧民</span>
+        <span class="cy-py">yōuguó yōumín</span>
+        <span class="cy-en">worried about the country and the people — the Confucian official's moral burden</span>
+        <span class="cy-note">The phrase encodes the Confucian ideal of public-spirited concern — not personal ambition but sorrow at the state's condition and compassion for the people's suffering. Associated with the Song literati tradition, particularly with Du Fu's poetry (though the phrase itself crystallizes in Song usage). Fan Zhongyan's (范仲淹) famous formulation in his 岳阳楼记: 先天下之忧而忧，后天下之乐而乐 — "Be first to worry about the world's troubles; be last to enjoy the world's pleasures." This sentence remains one of the most quoted in Chinese political ethics.</span>
+      </div>
+
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="page-footer">
+      <span class="footer-id">Field Notes on Chinese · <span>宋朝 sòngcháo</span> · topic_songchao.html</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>

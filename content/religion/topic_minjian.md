@@ -1,0 +1,585 @@
+---
+type: 'topic'
+category: 'religion'
+status: 'complete'
+title: '民间信仰 · Folk Religion'
+desc: 'Kitchen gods, city gods, and the living popular religion beneath Buddhism and Daoism.'
+metaDesc: "民间信仰 mínjiān xìnyǎng: Chinese folk religion — the diffuse blend of Confucian ethics, Daoist cosmology, Buddhist karma, and animism that underlies everyday Chinese spiritual life. Deity hierarchies, festivals, temple culture, taboos, and contemporary practice."
+pageTitle: '民间信仰 mínjiān xìnyǎng'
+tags:
+  - 'folk-religion'
+  - 'gods'
+  - 'popular'
+updated: '2026-04-18'
+pinyin: 'mínjiān xìnyǎng'
+---
+
+<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+
+    <span class="toc-topic">民间信仰</span>
+    <span class="toc-topic-en">Folk Religion</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#overview">
+        <span class="toc-cn">概论</span> Overview
+        <span class="toc-sub">diffuse vs. institutional</span>
+      </a></li>
+      <li><a href="#deities">
+        <span class="toc-cn">神祇体系</span> Deity Hierarchy
+        <span class="toc-sub">shénqǐ tǐxì · gods &amp; ranks</span>
+      </a></li>
+      <li><a href="#festivals">
+        <span class="toc-cn">节庆与仪式</span> Festivals &amp; Ritual
+        <span class="toc-sub">jiéqìng yǔ yíshì</span>
+      </a></li>
+      <li><a href="#temples">
+        <span class="toc-cn">庙宇文化</span> Temple Culture
+        <span class="toc-sub">miàoyǔ wénhuà</span>
+      </a></li>
+      <li><a href="#taboos">
+        <span class="toc-cn">禁忌与吉凶</span> Taboos &amp; Omens
+        <span class="toc-sub">jìnjì yǔ jíxiōng</span>
+      </a></li>
+      <li><a href="#today">
+        <span class="toc-cn">当代民间信仰</span> Today
+        <span class="toc-sub">dāngdài · contemporary</span>
+      </a></li>
+      <li><a href="#chengyu">
+        <span class="toc-cn">成语</span> Idioms
+        <span class="toc-sub">chéngyǔ · set phrases</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- HERO -->
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">Religion · 宗教 zōngjiào</span>
+      <h1 class="topic-hero-title">民间信仰</h1>
+      <span class="topic-hero-title-py">mínjiān xìnyǎng</span>
+      <p class="topic-hero-desc">Chinese folk religion is not a single institution but a living, diffuse practice woven from Confucian ethics, Daoist cosmology, Buddhist karma, and ancient animism — the spiritual air that most Chinese people breathe without calling it a religion at all.</p>
+    </header>
+
+    <!-- ── OVERVIEW ── -->
+    <span class="section-anchor" id="overview"></span>
+    <div class="section-head">
+      <span class="sh-cn">概论</span>
+      <span class="sh-py">gàilùn</span>
+      <span class="sh-en">Overview — Diffuse vs. Institutional Religion</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="民">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · Scholarly Insight</div>
+      <p>The sociologist C.K. Yang (杨庆堃), writing in the 1960s, made a foundational distinction between <strong>institutional religion</strong> (机构性宗教 jīgòuxìng zōngjiào) — organized systems with clergy, theology, and exclusive membership — and <strong>diffuse religion</strong> (分散性宗教 fēnsànxìng zōngjiào), which is embedded in everyday social life, not separated from it. Buddhism and Christianity are institutional; Chinese folk religion is quintessentially diffuse.</p>
+      <p>This explains why most Chinese people, when asked their religion, say <strong>没有信仰</strong> méiyǒu xìnyǎng (no religion) — and yet burn incense at a temple on the first of every lunar month, hang a door god before the new year, avoid the number four, and set out food for their ancestors at Qingming. These are not contradictions. They are diffuse religion: belief woven so completely into the fabric of family, community, and calendar that it is experienced simply as <em>life</em>, not religion.</p>
+      <p>Folk religion (民间信仰 or 民间宗教 mínjiān zōngjiào) draws simultaneously from <strong>Confucianism</strong> (moral obligations between family members, living and dead), <strong>Daoism</strong> (cosmological forces, auspicious timing, the pantheon of immortals), <strong>Buddhism</strong> (karma, reincarnation, merit accumulation), and pre-literate <strong>animism</strong> (spirits inhabiting mountains, rivers, and local places). The result is a layered, pragmatic, and highly localized religious ecology with no founding text, no universal creed, and no central authority.</p>
+    </div>
+
+    <!-- ── DEITY HIERARCHY ── -->
+    <span class="section-anchor" id="deities"></span>
+    <div class="section-head">
+      <span class="sh-cn">神祇体系</span>
+      <span class="sh-py">shénqǐ tǐxì</span>
+      <span class="sh-en">The Deity Hierarchy</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="神">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · Bureaucratic Heaven</div>
+      <p>One of the most distinctive features of Chinese folk religion is that the spirit world mirrors the <strong>imperial bureaucracy</strong>. Gods hold <em>ranks</em> (品级 pǐnjí), receive annual performance reports (奏折 zòuzhé), and can be <strong>promoted or demoted</strong> by the Jade Emperor based on their performance. If a local earth god fails to prevent floods in his territory, worshippers may literally reprimand his statue or turn it face-to-the-wall — a divine demotion.</p>
+      <p>This bureaucratic logic shaped how people interacted with the divine: through petition, offering, and reciprocal obligation. You burn incense and present gifts; the god is obligated to help. The transaction is explicit. As the anthropologist Arthur Wolf noted, the Chinese relate to gods much as to officials — through gifts, flattery, and strategic appeals, not prostrate submission.</p>
+      <p>The pantheon is vast and regionally variable. Below the Jade Emperor stretch layers of celestial officials, regional deities, and the hyper-local gods of individual households. Every kitchen has a 灶神, every village a 土地公, every city a 城隍. This nested hierarchy of divine jurisdiction allowed ordinary people to navigate spiritual bureaucracy through the same channels they used for earthly bureaucracy.</p>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">玉皇大帝</span>
+          <span class="card-py">Yùhuáng Dàdì</span>
+          <span class="card-en">the Jade Emperor — supreme deity of the folk pantheon</span>
+        </div>
+        <div class="card-def">
+          The Jade Emperor is the supreme ruler of Heaven in Chinese folk religion, governing both the divine and human realms from his celestial palace. His court mirrors a full imperial bureaucracy: he has ministers, generals, and a vast apparatus of supernatural governance. His birthday falls on the ninth day of the first lunar month — a major day of celebration, especially in southern China and Taiwan.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">玉皇大帝是天庭的最高统治者。</div>
+            <div class="ex-py">Yùhuáng Dàdì shì tiāntíng de zuìgāo tǒngzhìzhě.</div>
+            <div class="ex-en">The Jade Emperor is the supreme ruler of the Heavenly Court.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">文化 wénhuà · Culture</span>
+          In popular fiction — Journey to the West (西游记 Xīyóujì) chief among them — the Jade Emperor is famously depicted as an ineffectual bureaucrat, more interested in propriety than power, easily fooled by the Monkey King. This irreverent portrayal reflects a folk tradition of ambivalence toward divine authority.
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">土地公</span>
+          <span class="card-py">Tǔdìgōng</span>
+          <span class="card-en">the Earth God — most local, most beloved deity</span>
+        </div>
+        <div class="card-def">
+          土地公 (also 土地神 Tǔdìshén, formally 福德正神 Fúdé Zhèngshén) is the deity of a specific patch of ground — a village, a neighborhood, a field, a shop. He is the lowest-ranking god in the celestial hierarchy and the most ubiquitous. His shrines are small, often just a stone slab or a red-roofed box at a road corner. In Taiwan he is found everywhere — in shops, under trees, beside bridges.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">每逢初一、十五，村民都去拜土地公。</div>
+            <div class="ex-py">Měi féng chūyī, shíwǔ, cūnmín dōu qù bài Tǔdìgōng.</div>
+            <div class="ex-en">On the 1st and 15th of every lunar month, villagers go to worship the Earth God.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">学者洞见 xuézhě dòngjiàn</span>
+          The anthropologist Emily Martin Ahern described the Earth God as a divine neighborhood head (里长 lǐzhǎng). He reports on local affairs upward to the City God, who reports to higher celestial authorities — a complete divine chain of command paralleling the earthly administrative hierarchy.
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">灶神</span>
+          <span class="card-py">Zàoshén</span>
+          <span class="card-en">the Kitchen God — divine household reporter</span>
+        </div>
+        <div class="card-def">
+          The Kitchen God (also 灶王 Zàowáng or 灶君 Zàojūn) resides in the kitchen and observes the family's behavior throughout the year. On the 23rd of the 12th lunar month — one week before the new year — he ascends to Heaven to make his annual report to the Jade Emperor. Families smear his paper portrait with sweet sticky maltose to sweeten his words, then burn the portrait to send him upward. On New Year's Eve, a new portrait is installed.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">腊月二十三，家家户户送灶神上天。</div>
+            <div class="ex-py">Làyuè èrshísān, jiā jiā hùhù sòng Zàoshén shàng tiān.</div>
+            <div class="ex-en">On the 23rd of the 12th month, every household sends the Kitchen God to Heaven.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">词汇 cíhuì · Vocabulary</span>
+          The act of sending him off is 送灶 sòng zào. The "small new year" (小年 xiǎonián) refers to this day in northern China — a domestic new year festival preceding 春节 Chūnjié.
+        </div>
+      </div>
+
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">城隍</span>
+          <span class="card-py">Chénghuáng</span>
+          <span class="card-en">the City God — divine magistrate of the underworld</span>
+        </div>
+        <div class="card-def">
+          城隍 (lit. "city wall and moat") is the divine magistrate of a city or county, presiding over both the living city and its deceased residents in the underworld. He holds court in his temple (城隍庙 Chénghuáng miào), trying the souls of the recently dead to assign their afterlife fate. Major Chinese cities — Shanghai, Beijing, Hangzhou — have famous City God Temples that remain active places of worship.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">人死后，魂魄要到城隍庙报到。</div>
+            <div class="ex-py">Rén sǐ hòu, húnpò yào dào Chénghuáng miào bàodào.</div>
+            <div class="ex-en">After death, the soul must report to the City God Temple.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-sienna">
+        <div class="card-head">
+          <span class="card-cn">财神</span>
+          <span class="card-py">Cáishén</span>
+          <span class="card-en">the Wealth God — most actively invoked deity in commercial life</span>
+        </div>
+        <div class="card-def">
+          Cáishén is not one deity but a cluster of wealth-associated gods, the most popular being 赵公明 Zhào Gōngmíng (a dark-faced general riding a black tiger) and the Five Roads Gods (五路财神 Wǔlù Cáishén). His image greets visitors at the entrances of shops, restaurants, and banks across China. The fifth day of the new year is 财神节 — businesses reopen and set off firecrackers to welcome the Wealth God into their premises.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">新店开张，老板摆上财神像，求财源广进。</div>
+            <div class="ex-py">Xīn diàn kāizhāng, lǎobǎn bǎi shàng Cáishén xiàng, qiú cáiyuán guǎng jìn.</div>
+            <div class="ex-en">At the new shop's opening, the boss placed a Wealth God statue, praying for abundant fortune.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">语言 yǔyán · Language</span>
+          恭喜发财 Gōngxǐ fācái ("May you prosper") is the standard lunar new year greeting — itself a miniature prayer to the Wealth God. The phrase 财源广进 cáiyuán guǎng jìn (fortune flows in from all directions) appears on new year couplets 春联 hung on doors.
+        </div>
+      </div>
+
+    </div><!-- /cards deities -->
+
+    <!-- ── FESTIVALS ── -->
+    <span class="section-anchor" id="festivals"></span>
+    <div class="section-head">
+      <span class="sh-cn">节庆与仪式</span>
+      <span class="sh-py">jiéqìng yǔ yíshì</span>
+      <span class="sh-en">Festivals and Ritual</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">民间信仰的时间框架 · The Ritual Calendar</span>
+      Chinese folk religion is organized around the <strong>lunar calendar</strong> (农历 nónglì). Every month has its auspicious and inauspicious days; every season has its ritual obligations. The structure: <strong>春节</strong> (ancestor offerings, new beginning) → <strong>清明</strong> (tomb sweeping, 3rd lunar month) → <strong>中元节</strong> (ghost festival, 7th month, 15th day) → <strong>中秋</strong> (moon offerings, 8th month, 15th day). Death and renewal alternate through the year.
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">春节祭祖</span>
+          <span class="card-py">Chūnjié Jìzǔ</span>
+          <span class="card-en">New Year Ancestor Offerings</span>
+        </div>
+        <div class="card-def">
+          The Lunar New Year (春节 Chūnjié) is the year's most important ritual occasion. Before the family feast on New Year's Eve, offerings of food, incense, and paper money are made to the ancestors (祭祖 jìzǔ). Firecrackers (鞭炮 biānpào) are set off to drive away evil spirits and welcome the new. Door gods (门神 ménshen) are replaced with fresh prints, and spring couplets (春联 chūnlián) of auspicious verse are pasted on the doorposts.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">大年三十，一家人先祭祖，再吃年夜饭。</div>
+            <div class="ex-py">Dà nián sānshí, yījiārén xiān jìzǔ, zài chī niányèfàn.</div>
+            <div class="ex-en">On New Year's Eve, the family first offers to the ancestors, then eats the reunion dinner.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">清明节扫墓</span>
+          <span class="card-py">Qīngmíng Jié Sǎomù</span>
+          <span class="card-en">Qingming — Tomb Sweeping</span>
+        </div>
+        <div class="card-def">
+          清明节 (Clear and Bright Festival), falling around April 4–6 of the solar calendar, is the annual day of tomb sweeping (扫墓 sǎomù). Families travel to ancestral graves, clear away weeds, pour libations, burn paper offerings, and share a meal at the grave site. It is a public holiday in mainland China, Taiwan, and Hong Kong. The act affirms the continuity of the family across death — you are responsible for your dead, and they in turn watch over you.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">清明时节，万人扫墓，寄托哀思。</div>
+            <div class="ex-py">Qīngmíng shíjié, wàn rén sǎomù, jìtuō āisī.</div>
+            <div class="ex-en">At Qingming, countless people sweep graves, expressing their grief and remembrance.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">中元节</span>
+          <span class="card-py">Zhōngyuán Jié</span>
+          <span class="card-en">Ghost Festival — the Hungry Ghosts</span>
+        </div>
+        <div class="card-def">
+          中元节 falls on the 15th day of the 7th lunar month, the midpoint of 鬼月 (Ghost Month). According to folk belief, the gates of the underworld open on the 1st of the 7th month, releasing hungry ghosts (饿鬼 è guǐ) — souls with no family to care for them — into the world of the living. Families burn paper offerings, present food on street altars, and light incense to placate wandering spirits. Buddhist 盂兰盆节 Yúlánpén Jié traditions (derived from the Mulian story of filial rescue from hell) overlap with this festival.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">中元节晚上，家家焚烧纸钱，超度亡灵。</div>
+            <div class="ex-py">Zhōngyuán Jié wǎnshàng, jiā jiā fénshāo zhǐqián, chāodù wánglíng.</div>
+            <div class="ex-en">On Ghost Festival night, every household burns paper money to deliver the souls of the departed.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">中秋拜月</span>
+          <span class="card-py">Zhōngqiū Bài Yuè</span>
+          <span class="card-en">Mid-Autumn — Moon Offerings</span>
+        </div>
+        <div class="card-def">
+          The Mid-Autumn Festival (中秋节 Zhōngqiū Jié), 15th day of the 8th lunar month, centers on honoring the moon (月亮 yuèliàng) and the moon goddess 嫦娥 Cháng'é, who fled to the moon after drinking the elixir of immortality. Offerings of moon cakes (月饼 yuèbǐng), pomelos, and fruit are placed on outdoor tables facing the moon. The ritual is primarily the domain of women and children. Families gather, eat moon cakes, and recite the legend of Cháng'é.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">中秋夜，一家人赏月、吃月饼、祭嫦娥。</div>
+            <div class="ex-py">Zhōngqiū yè, yījiārén shǎng yuè, chī yuèbǐng, jì Cháng'é.</div>
+            <div class="ex-en">On Mid-Autumn night, the family admires the moon, eats moon cakes, and makes offerings to Chang'e.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards festivals -->
+
+    <!-- ── TEMPLE CULTURE ── -->
+    <span class="section-anchor" id="temples"></span>
+    <div class="section-head">
+      <span class="sh-cn">庙宇文化</span>
+      <span class="sh-py">miàoyǔ wénhuà</span>
+      <span class="sh-en">Temple Culture</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="庙">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · Three Kinds of Sacred Space</div>
+      <p>Chinese religious architecture distinguishes sharply between the three dominant traditions. A <strong>庙 miào</strong> (folk temple) houses the gods of folk religion — earth gods, city gods, Mazu, the goddess of mercy — and is the space of popular worship. A <strong>寺 sì</strong> (Buddhist temple) houses the Buddha and bodhisattvas and is typically staffed by monks. A <strong>观 guān</strong> (Daoist temple) is the domain of Daoist priests (道士 dàoshi) and the Daoist immortal pantheon.</p>
+      <p>In practice, the boundaries between these are often blurred. The same worshipper may kneel before Guanyin in a Buddhist temple one day and burn incense to Mazu in a folk temple the next. The Goddess of Mercy (观音菩萨 Guānyīn Púsà), technically a Buddhist bodhisattva, is the most widely worshipped deity across all three systems — her compassion transcends institutional boundaries.</p>
+      <p>The folk temple (庙) operates as a community center as much as a sacred space. Temple fairs (庙会 miàohuì) — held on a deity's birthday or major festival days — are occasions for markets, opera performances, processions, and feasting. The temple is where the divine community and the human community formally meet.</p>
+    </div>
+
+    <div class="pattern">
+      <span class="label">庙会 miàohuì · Temple Fair Elements</span>
+      <strong>神明生日</strong> shénmíng shēngrì (deity's birthday — the focal occasion) → <strong>迎神绕境</strong> yíngshén ràojìng (divine procession through the community — blessing each home) → <strong>野台戏</strong> yětái xì (outdoor opera performed for the god) → <strong>市集</strong> shìjí (market stalls — food, crafts, incense) → <strong>乩童</strong> jītóng (spirit medium entering trance) → 施放鞭炮 shī fàng biānpào (firecrackers)
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">乩童</span>
+          <span class="card-py">jītóng</span>
+          <span class="card-en">spirit medium — the god's vehicle</span>
+        </div>
+        <div class="card-def">
+          A 乩童 (also written 乩手 jīshǒu or 乩身 jīshēn) is a human medium through whom a deity speaks and acts. During trance, the medium is said to be <em>ridden</em> by the god (神明附身 shénmíng fùshēn). The medium may speak in archaic language, perform feats of self-mortification (skewering cheeks with spikes, walking on hot coals) as demonstration of divine presence, or dispense oracular advice to petitioners. The institution is especially vigorous in Taiwan and Fujian.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">庙会时，乩童进入神明附体状态，替信众传达神意。</div>
+            <div class="ex-py">Miàohuì shí, jītóng jìnrù shénmíng fùtǐ zhuàngtài, tì xìnzhòng chuándá shényì.</div>
+            <div class="ex-en">At the temple fair, the spirit medium enters a state of divine possession, conveying the god's will to worshippers.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">庙会</span>
+          <span class="card-py">miàohuì</span>
+          <span class="card-en">temple fair — festival of community and gods</span>
+        </div>
+        <div class="card-def">
+          庙会 (temple fair, lit. "temple gathering") are among the oldest continuing community events in Chinese civilization. Major ones — like the Mazu pilgrimage in Dajia, Taiwan, or the Tianjin Tianhou Palace fair — attract tens or hundreds of thousands of participants. The fair combines sacred and secular: ritual procession, theater, commercial market, and communal feasting. The god's statue is often carried through the streets in a palanquin, blessing the territory.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">农历新年期间，各地庙会热闹非凡。</div>
+            <div class="ex-py">Nónglì xīnnián qījiān, gèdì miàohuì rènào fēifán.</div>
+            <div class="ex-en">During the lunar new year period, temple fairs everywhere are extraordinarily lively.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards temples -->
+
+    <!-- ── TABOOS ── -->
+    <span class="section-anchor" id="taboos"></span>
+    <div class="section-head">
+      <span class="sh-cn">禁忌与吉凶</span>
+      <span class="sh-py">jìnjì yǔ jíxiōng</span>
+      <span class="sh-en">Taboos, Omens, and Symbolic Logic</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="忌">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · The Logic of Homophony</div>
+      <p>Much of Chinese folk symbolism operates through <strong>sound resemblance</strong> (谐音 xiéyīn — homophony). A thing is auspicious or inauspicious not because of intrinsic properties but because its name sounds like something good or bad. This produces a vast and internally consistent system of symbolic associations.</p>
+      <p>Four (四 sì) sounds like death (死 sǐ) — avoided in building floor numbers, hospital room assignments, license plates, and phone numbers. Eight (八 bā) sounds like 发 fā (to prosper, to get rich) — enormously auspicious; the Beijing Olympics opened on 08/08/2008 at 8:08 PM. Fish (鱼 yú) sounds like surplus (余 yú) — mandatory at New Year tables. Bats (蝠 fú) sound like fortune (福 fú) — auspicious symbols in art and decoration. The character 福 itself is often hung <em>upside down</em> on doors because "upside down" (倒 dào) sounds like "arrived" (到 dào) — Fortune Has Arrived.</p>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">数字象征</span>
+          <span class="card-py">shùzì xiàngzhēng</span>
+          <span class="card-en">Number Symbolism</span>
+        </div>
+        <div class="card-def">
+          <strong>4 (四 sì)</strong> — inauspicious; sounds like 死 sǐ (death). Buildings skip floor 4, hospitals avoid room 4. <strong>8 (八 bā)</strong> — extremely auspicious; sounds like 发 fā (prosper). License plates with 8s sell at premium. <strong>6 (六 liù)</strong> — smooth, flowing; 六六大顺 liù liù dà shùn "everything goes smoothly." <strong>9 (九 jiǔ)</strong> — eternal; sounds like 久 jiǔ (long time). Given at weddings for lasting union. <strong>2 (二 èr)</strong> — good things come in pairs; gifts and offerings often doubled.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">很多医院没有四楼，直接从三楼跳到五楼。</div>
+            <div class="ex-py">Hěn duō yīyuàn méiyǒu sì lóu, zhíjiē cóng sān lóu tiào dào wǔ lóu.</div>
+            <div class="ex-en">Many hospitals have no 4th floor, jumping directly from the 3rd to the 5th.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">颜色象征</span>
+          <span class="card-py">yánsè xiàngzhēng</span>
+          <span class="card-en">Color Symbolism</span>
+        </div>
+        <div class="card-def">
+          <strong>红 hóng (red)</strong> — the color of luck, celebration, life force. Worn at weddings, hung at new year, placed in red envelopes (红包 hóngbāo). <strong>白 bái (white)</strong> — the color of mourning; worn at funerals, avoided at celebrations. Note: this is the inverse of Western convention — Western white wedding dresses are jarring in traditional contexts. <strong>黑 hēi (black)</strong> — also mourning-associated. <strong>黄 huáng (yellow)</strong> — imperial, celestial. <strong>绿 lǜ (green)</strong> — generally positive; exception: a green hat (绿帽子 lǜ màozi) signals a cuckolded husband — never to be gifted.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">去朋友婚礼，记得穿红色，千万别穿白色。</div>
+            <div class="ex-py">Qù péngyou hūnlǐ, jìde chuān hóngsè, qiānwàn bié chuān báisè.</div>
+            <div class="ex-en">Going to a friend's wedding, remember to wear red — never wear white.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">鬼月</span>
+          <span class="card-py">guǐ yuè</span>
+          <span class="card-en">Ghost Month — the inauspicious seventh lunar month</span>
+        </div>
+        <div class="card-def">
+          The entire seventh lunar month (七月 qīyuè) is Ghost Month, when the gates of the underworld are open and spirits roam freely. A comprehensive system of avoidances applies: no swimming (ghosts drown swimmers), no moving house, no starting a new business, no surgery if non-urgent, no major travel, no weddings. Rental markets, real estate transactions, and major financial decisions are typically deferred. The restrictions are strongest in Taiwan, Fujian, and overseas Southeast Asian Chinese communities.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">鬼月期间，台湾人通常避免买房、结婚或出远门。</div>
+            <div class="ex-py">Guǐ yuè qījiān, Táiwān rén tōngcháng bìmiǎn mǎi fáng, jiéhūn huò chū yuǎnmén.</div>
+            <div class="ex-en">During Ghost Month, Taiwanese people generally avoid buying property, getting married, or traveling far.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">方位禁忌</span>
+          <span class="card-py">fāngwèi jìnjì</span>
+          <span class="card-en">Directional Taboos — feng shui and orientation</span>
+        </div>
+        <div class="card-def">
+          Spatial orientation is governed by <strong>风水 fēngshuǐ</strong> (feng shui, lit. "wind-water") — the art of placing buildings, graves, and furniture to harmonize with the flow of qi 气. The main door of a house should not directly face a staircase, a toilet, or a knife-like corner of another building. The head of the bed should not point toward the door (corpse position). A desk facing a blank wall traps career advancement. Mirrors reflecting the bed disturb sleep qi. These orientations are taken seriously across class levels in contemporary China, Taiwan, and overseas communities.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">许多人在装修时会请风水师来看看方位。</div>
+            <div class="ex-py">Xǔduō rén zài zhuāngxiū shí huì qǐng fēngshuǐ shī lái kànkan fāngwèi.</div>
+            <div class="ex-en">Many people, when renovating, will invite a feng shui master to assess the spatial orientation.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards taboos -->
+
+    <!-- ── TODAY ── -->
+    <span class="section-anchor" id="today"></span>
+    <div class="section-head">
+      <span class="sh-cn">当代民间信仰</span>
+      <span class="sh-py">dāngdài mínjiān xìnyǎng</span>
+      <span class="sh-en">Folk Religion Today</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="信">
+      <div class="scholar-label">当代视角 dāngdài shìjiǎo · Contemporary Perspective</div>
+      <p>The Cultural Revolution (文化大革命 Wénhuà Dàgémìng, 1966–1976) declared war on folk religion. Temples were destroyed, religious objects smashed, practitioners persecuted. The official designation <strong>封建迷信</strong> fēngjiàn míxìn (feudal superstition) was applied to virtually all traditional practice. Yet folk religion was never eradicated — it persisted in households, in the rhythm of the lunar calendar, in the habits of older generations.</p>
+      <p>Since the 1980s, with economic reform and relaxing of religious controls, there has been a <strong>remarkable revival</strong>. New temples have been built across China — hundreds of thousands by some estimates. The 土地公 shrine in the corner shop, the 灶神 portrait in the kitchen, the red envelope, the Qingming grave visit — all continue as before, or more openly than before.</p>
+      <p>Regional variation is enormous. <strong>Taiwan</strong> preserved folk religion through the 20th century in a way mainland China could not; its tradition is the richest surviving expression of Hokkien (Minnan 闽南) folk practice. <strong>Fujian</strong> and the coastal southeast — the homeland of most overseas Chinese — has experienced major religious revival. <strong>Southeast Asia</strong> (Malaysia, Singapore, Vietnam) hosts overseas Chinese communities whose folk religion has evolved in dialogue with local traditions for four centuries. <strong>Beijing and northern China</strong> have a somewhat different tradition, heavier with imperial-era associations.</p>
+    </div>
+
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>地区 Region</th>
+            <th>特点 Character</th>
+            <th>代表性神祇 Representative Deities</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="td-cn">台湾 Táiwān</td>
+            <td>Richest living tradition; temple density highest in the world</td>
+            <td class="td-cn">妈祖、王爷、土地公、城隍</td>
+          </tr>
+          <tr>
+            <td class="td-cn">闽南 Mǐnnán (Fujian coast)</td>
+            <td>Origin of most Taiwanese &amp; SE Asian folk practice; strong 乩童 tradition</td>
+            <td class="td-cn">妈祖、保生大帝、关帝</td>
+          </tr>
+          <tr>
+            <td class="td-cn">东南亚 Southeast Asia</td>
+            <td>Four-century-old overseas communities; hybrid with local traditions</td>
+            <td class="td-cn">天后（妈祖）、大伯公（土地公）、关帝</td>
+          </tr>
+          <tr>
+            <td class="td-cn">华北 North China</td>
+            <td>Imperial tradition; temple fairs centered on Beijing</td>
+            <td class="td-cn">碧霞元君、关帝、财神</td>
+          </tr>
+          <tr>
+            <td class="td-cn">广东 Guǎngdōng</td>
+            <td>Cantonese folk tradition; strong lineage hall system</td>
+            <td class="td-cn">北帝、洪圣、天后</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- ── CHENGYU ── -->
+    <span class="section-anchor" id="chengyu"></span>
+    <div class="section-head">
+      <span class="sh-cn">成语</span>
+      <span class="sh-py">chéngyǔ</span>
+      <span class="sh-en">Idioms &amp; Set Phrases</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="chengyu-grid">
+
+      <div class="cy">
+        <span class="cy-cn">天地良心</span>
+        <span class="cy-py">tiāndì liángxīn</span>
+        <span class="cy-en">heaven and earth as my witness — swearing to one's sincerity before the cosmos</span>
+        <span class="cy-note">A folk oath formula invoking Heaven and Earth as moral witnesses. 我天地良心地告诉你 — "I'm telling you in all sincerity, with heaven and earth as my witness." Reveals how folk religion makes the cosmos itself a moral guarantor.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">神出鬼没</span>
+        <span class="cy-py">shén chū guǐ mò</span>
+        <span class="cy-en">appearing and vanishing like spirits — unpredictable, elusive</span>
+        <span class="cy-note">Lit: gods-appear-ghosts-disappear. Used to describe someone who appears and disappears unpredictably, or an organization that operates covertly. The vocabulary of folk religion provides the imagery for elusiveness in modern Chinese.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">人算不如天算</span>
+        <span class="cy-py">rén suàn bùrú tiān suàn</span>
+        <span class="cy-en">human plans yield to Heaven's plans — fate overrides strategy</span>
+        <span class="cy-note">Lit: human calculations are no match for Heaven's calculations. A fatalist proverb at the heart of folk cosmology: 谋事在人，成事在天 (planning is human, success is Heaven's). Used when the best-laid plans go awry.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">举头三尺有神明</span>
+        <span class="cy-py">jǔ tóu sān chǐ yǒu shénmíng</span>
+        <span class="cy-en">three feet above your head there are divine spirits — you are always watched</span>
+        <span class="cy-note">A foundational folk-religion moral warning: the gods are always observing human conduct — no action goes unseen. Functionally identical to the Western "God is watching." Used to caution against wrongdoing, especially in private. The full proverb: 举头三尺有神明，不畏人知畏己知。</span>
+      </div>
+
+    </div>
+
+    <!-- ADJACENT VOCAB -->
+    <div class="section-head" style="margin-top:2.5rem;">
+      <span class="sh-cn">相关词汇</span>
+      <span class="sh-py">xiāngguān cíhuì</span>
+      <span class="sh-en">Related Vocabulary</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">烧香</span><span class="a-py">shāoxiāng</span><span class="a-en">to burn incense</span></span>
+      <span class="adj"><span class="a-cn">拜拜</span><span class="a-py">bàibai</span><span class="a-en">to worship; offering ritual (Taiwan)</span></span>
+      <span class="adj"><span class="a-cn">祭品</span><span class="a-py">jìpǐn</span><span class="a-en">ritual offerings</span></span>
+      <span class="adj"><span class="a-cn">纸钱</span><span class="a-py">zhǐqián</span><span class="a-en">spirit money (paper burnt for dead)</span></span>
+      <span class="adj"><span class="a-cn">神明</span><span class="a-py">shénmíng</span><span class="a-en">deities; divine beings</span></span>
+      <span class="adj"><span class="a-cn">菩萨</span><span class="a-py">púsà</span><span class="a-en">bodhisattva; goddess of mercy</span></span>
+      <span class="adj"><span class="a-cn">风水</span><span class="a-py">fēngshuǐ</span><span class="a-en">geomancy; feng shui</span></span>
+      <span class="adj"><span class="a-cn">算命</span><span class="a-py">suànmìng</span><span class="a-en">fortune telling</span></span>
+      <span class="adj"><span class="a-cn">八字</span><span class="a-py">bāzì</span><span class="a-en">birth horoscope (Four Pillars)</span></span>
+      <span class="adj"><span class="a-cn">鬼</span><span class="a-py">guǐ</span><span class="a-en">ghost; evil spirit</span></span>
+      <span class="adj"><span class="a-cn">神</span><span class="a-py">shén</span><span class="a-en">god; spirit; divine</span></span>
+      <span class="adj"><span class="a-cn">香炉</span><span class="a-py">xiānglú</span><span class="a-en">incense burner</span></span>
+      <span class="adj"><span class="a-cn">牌位</span><span class="a-py">páiwèi</span><span class="a-en">spirit tablet (ancestor tablet)</span></span>
+      <span class="adj"><span class="a-cn">道观</span><span class="a-py">dàoguān</span><span class="a-en">Daoist temple</span></span>
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="page-footer">
+      <span class="footer-id">Field Notes on Chinese · <span>民间信仰 mínjiān xìnyǎng</span> · topic_minjian.html</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>

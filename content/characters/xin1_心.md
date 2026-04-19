@@ -1,0 +1,809 @@
+---
+type: 'character'
+category: 'characters'
+status: 'complete'
+title: '心 · heart, mind'
+desc: 'The radical at the root of all feeling — and the Chinese conception of thought itself.'
+metaDesc: "心 xīn: heart, mind, and the classical Chinese organ of thought. The root radical of emotion, the seat of cognition, and the pivot of moral philosophy."
+pageTitle: '心 xīn'
+tags:
+  - 'radical'
+  - 'emotion'
+  - 'mind'
+updated: '2026-04-18'
+char: '心'
+pinyin: 'xīn'
+tone: 1
+hsk: 2
+radical: '心'
+---
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+    <button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+    <span class="toc-glyph">心</span>
+    <span class="toc-pinyin">xīn · tone 1</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#etymology">
+        <span class="toc-cn">字源</span> Etymology
+        <span class="toc-sub">zìyuán · origin &amp; structure</span>
+      </a></li>
+      <li><a href="#radical">
+        <span class="toc-cn">部首</span> As Radical
+        <span class="toc-sub">bùshǒu · 心 and 忄</span>
+      </a></li>
+      <li><a href="#mindcluster">
+        <span class="toc-cn">心境</span> Mind-Heart Cluster
+        <span class="toc-sub">xīnjìng · inner states</span>
+      </a></li>
+      <li><a href="#emotional">
+        <span class="toc-cn">情绪</span> Emotional Verbs
+        <span class="toc-sub">qíngxù · Adj/V + 心</span>
+      </a></li>
+      <li><a href="#core">
+        <span class="toc-cn">核心</span> Core &amp; Center
+        <span class="toc-sub">héxīn · centrality</span>
+      </a></li>
+      <li><a href="#physical">
+        <span class="toc-cn">心脏</span> Physical Heart
+        <span class="toc-sub">xīnzàng · the organ</span>
+      </a></li>
+      <li><a href="#xtable">
+        <span class="toc-cn">X+心</span> Compound Table
+        <span class="toc-sub">suffix pattern</span>
+      </a></li>
+      <li><a href="#chengyu">
+        <span class="toc-cn">成语</span> Idioms
+        <span class="toc-sub">chéngyǔ · set phrases</span>
+      </a></li>
+      <li><a href="#adjacent">
+        <span class="toc-cn">相邻</span> Adjacent Vocab
+        <span class="toc-sub">xiānglín cíhuì</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- HERO -->
+    <header class="hero">
+      <div class="hero-inner">
+        <div class="hero-glyph-col">
+          <span class="hero-glyph">心</span>
+          <span class="hero-trad-note">繁體字 identical</span>
+        </div>
+        <div class="hero-meta">
+          <div class="hero-pinyin">xīn</div>
+          <div class="hero-en">heart · mind · the seat of thought and feeling</div>
+          <div class="hero-chips">
+            <span class="chip">部首 bùshǒu · 心 xīn (itself)</span>
+            <span class="chip">4 笔画 bǐhuà strokes</span>
+            <span class="chip chip-hsk">HSK 2</span>
+            <span class="chip">tone 1 · xīn</span>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <!-- ── ETYMOLOGY ── -->
+    <span class="section-anchor" id="etymology"></span>
+    <div class="section-head">
+      <span class="sh-cn">字源</span>
+      <span class="sh-py">zìyuán</span>
+      <span class="sh-en">Etymology &amp; Structure</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="心">
+      <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
+      <p>心 is a <strong>pictograph</strong> — a stylized drawing of the human heart: curved chambers, arteries, three drops of blood. Among all common characters, it is one of the most direct and least changed: the oracle-bone form already looks like the modern glyph. Four brushstrokes. The entire organ of inner life, compressed into the simplest possible image.</p>
+      <p>The critical cultural point: in classical Chinese thought, <strong>心 xīn is the organ of BOTH feeling AND thought.</strong> There is no separate word for "mind" as distinct from "heart" — the heart thinks. Mencius stated it plainly: <em>心之官则思 xīn zhī guān zé sī</em> — "The function of the heart is to think." This is not a poetic formulation. It is a philosophical claim: one organ, one center, one 心. The heart-mind divide that haunts Western philosophy from Plato through Descartes simply does not exist here.</p>
+      <p>This is why 心理 (heart-logic) means psychology. Why 心得 (heart-get) means insight. Why 用心 (use-heart) means to apply oneself with genuine care. Every 心 compound is a window into a world where thought and feeling were never separated to begin with.</p>
+      <p>In Japanese, 心 <em>kokoro</em> is one of the most semantically loaded words in the language: heart, mind, feeling, and spirit simultaneously. 心臓 <em>shinzō</em> (the biological heart) and 心理 <em>shinri</em> (psychology) map the same semantic field — the same root organ expanding in the same directions across two literary traditions. The meaning is so resonant across both cultures that mastering 心 in Chinese is a direct investment in Japanese literacy as well.</p>
+    </div>
+
+    <!-- ── RADICAL ── -->
+    <span class="section-anchor" id="radical"></span>
+    <div class="section-head">
+      <span class="sh-cn">部首</span>
+      <span class="sh-py">bùshǒu</span>
+      <span class="sh-en">心 as Radical — Two Forms</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="忄">
+      <div class="scholar-label">部首洞见 bùshǒu dòngjiàn · Radical Insight</div>
+      <p>心 appears in two distinct forms depending on its position within a character:</p>
+      <p><strong>Standalone / bottom form: 心</strong> (4 strokes) — used when 心 sits below the main element. Characters: 思 (to think), 想 (to want; to think; to miss), 感 (to feel), 忘 (to forget), 恩 (grace), 恶 (evil; to hate), 念 (to read aloud; to miss), 志 (ambition; record), 忍 (to endure; to restrain).</p>
+      <p><strong>Left-side component: 忄</strong> (3 strokes) — a compressed vertical form used when 心 appears on the left side of a character. Characters: 情 (emotion; situation), 快 (fast; happy), 慢 (slow), 怕 (to fear), 怀 (to cherish; to hold), 忆 (to remember), 性 (nature; personality), 恨 (to hate), 惊 (startled; alarmed), 悲 (sad; grief).</p>
+      <p>Together the 心/忄 radical family is one of the largest in Chinese — every character involving emotion, thought, intention, or moral character shares this root. When you learn to recognize 忄 on the left edge of a character, you immediately know it lives in the territory of the inner life.</p>
+      <p><strong>10 key characters to anchor the family:</strong></p>
+      <p>思 sī — to think &nbsp;·&nbsp; 想 xiǎng — to think; to miss; to want &nbsp;·&nbsp; 情 qíng — emotion; situation &nbsp;·&nbsp; 忘 wàng — to forget &nbsp;·&nbsp; 怕 pà — to fear &nbsp;·&nbsp; 性 xìng — nature; personality; sex &nbsp;·&nbsp; 恨 hèn — to hate &nbsp;·&nbsp; 恩 ēn — grace; gratitude &nbsp;·&nbsp; 忆 yì — to remember &nbsp;·&nbsp; 惊 jīng — startled; alarm</p>
+    </div>
+
+    <!-- ── MIND-HEART CLUSTER ── -->
+    <span class="section-anchor" id="mindcluster"></span>
+    <div class="section-head">
+      <span class="sh-cn">心境</span>
+      <span class="sh-py">xīnjìng</span>
+      <span class="sh-en">The Mind-Heart Cluster</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <!-- 心情 -->
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">心情</span>
+          <span class="card-py">xīnqíng</span>
+          <span class="card-en">mood; state of mind</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          心 xīn (heart) + 情 qíng (emotion; situation). <em>The weather of the inner world.</em> Where 情 alone is broad — covering emotion, circumstance, romantic feeling — 心情 focuses it: the specific emotional atmosphere a person inhabits right now. It fluctuates by the hour. The most natural, most colloquial word for "mood" in everyday Mandarin.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">今天心情很好。</div>
+            <div class="ex-py">Jīntiān xīnqíng hěn hǎo.</div>
+            <div class="ex-en">My mood is great today.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">你心情怎么样？</div>
+            <div class="ex-py">Nǐ xīnqíng zěnmeyàng?</div>
+            <div class="ex-en">How are you feeling? How's your mood?</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">心情不好的时候，听音乐有帮助。</div>
+            <div class="ex-py">Xīnqíng bù hǎo de shíhòu, tīng yīnyuè yǒu bāngzhù.</div>
+            <div class="ex-en">When you're in a bad mood, listening to music helps.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">辨析 biànxī · Comparison</span>
+          心情 = mood / current emotional weather (immediate, colloquial). 情绪 qíngxù = emotions as a broader, more sustained category — slightly more clinical or literary. Ask about someone's 心情 in conversation; use 情绪 in written analysis.
+        </div>
+      </div>
+
+      <!-- 心理 -->
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">心理</span>
+          <span class="card-py">xīnlǐ</span>
+          <span class="card-en">psychology; mental state; mindset</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          心 xīn (heart) + 理 lǐ (logic; principle; grain of wood). <em>"The logic of the heart."</em> Used both as the general term for one's psychological state and as the root of 心理学 (psychology as a discipline). The word is a perfect emblem of the Chinese conception: the heart has logic, and that logic is a legitimate field of study requiring its own science.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他有心理问题。</div>
+            <div class="ex-py">Tā yǒu xīnlǐ wèntí.</div>
+            <div class="ex-en">He has a psychological issue.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这是正常的心理反应。</div>
+            <div class="ex-py">Zhè shì zhèngcháng de xīnlǐ fǎnyìng.</div>
+            <div class="ex-en">This is a normal psychological reaction.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">心理健康很重要。</div>
+            <div class="ex-py">Xīnlǐ jiànkāng hěn zhòngyào.</div>
+            <div class="ex-en">Mental health is very important.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">词族 cízú · Word Family</span>
+          心理学 xīnlǐxué = psychology (the academic field). 心理医生 = psychiatrist / therapist. 心理咨询 = psychological counseling. 心理素质 = psychological quality / mental resilience.
+        </div>
+      </div>
+
+      <!-- 心思 -->
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">心思</span>
+          <span class="card-py">xīnsī</span>
+          <span class="card-en">thoughts; mental energy; what the mind is occupied with</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          心 xīn (heart) + 思 sī (to think; thought). What the heart is currently thinking about, or whether it has the mental space to think about something at all. Often appears in negative constructions — 没有心思 (no mental bandwidth) and 心思不在这里 (mind is elsewhere) — capturing distraction, absorption, and the texture of where attention actually lives.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他心思不在这里。</div>
+            <div class="ex-py">Tā xīnsī bù zài zhèlǐ.</div>
+            <div class="ex-en">His mind isn't here — he's distracted.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">没有心思工作。</div>
+            <div class="ex-py">Méiyǒu xīnsī gōngzuò.</div>
+            <div class="ex-en">No mental energy to work; can't focus on work.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">她心思细腻。</div>
+            <div class="ex-py">Tā xīnsī xìnì.</div>
+            <div class="ex-en">She has a delicate, attentive mind.</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 心意 -->
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">心意</span>
+          <span class="card-py">xīnyì</span>
+          <span class="card-en">intention; goodwill; the feeling behind a gesture</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          心 xīn (heart) + 意 yì (intention; meaning). The feeling or thought behind an action — the sincerity and warmth that a gift, gesture, or visit carries. Often used when downplaying the material value of what you have brought: 这只是一点心意 ("this is just a small token of my regard"). In Chinese social life, the 心意 behind a gift frequently carries more weight than the gift itself.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">这只是一点心意。</div>
+            <div class="ex-py">Zhè zhǐshì yīdiǎn xīnyì.</div>
+            <div class="ex-en">This is just a small token of my regard.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">领会了你的心意。</div>
+            <div class="ex-py">Lǐnghuì le nǐ de xīnyì.</div>
+            <div class="ex-en">I receive your goodwill — I appreciate the thought.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">文化 wénhuà · Culture</span>
+          In gift-giving contexts, 心意 is the standard way to say "it's the thought that counts." The phrase 心意到了 (the heart-intention has arrived) is used when a gesture is warmly received even if the gift is modest.
+        </div>
+      </div>
+
+    </div><!-- /cards mindcluster -->
+
+    <!-- ── EMOTIONAL VERBS ── -->
+    <span class="section-anchor" id="emotional"></span>
+    <div class="section-head">
+      <span class="sh-cn">情绪</span>
+      <span class="sh-py">qíngxù</span>
+      <span class="sh-en">Emotional Verbs with 心</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">构词规律 gòucí guīlǜ · Pattern: Adj/V + 心 → emotional state verb</span>
+      <strong>开 kāi</strong> (open) + 心 = <strong>开心</strong> (happy — the heart is opened, unblocked)<br>
+      <strong>伤 shāng</strong> (wound) + 心 = <strong>伤心</strong> (heartbroken — the heart is physically wounded)<br>
+      <strong>担 dān</strong> (carry on a shoulder pole) + 心 = <strong>担心</strong> (worried — hauling the heart as a burden)<br>
+      <strong>放 fàng</strong> (put down; release) + 心 = <strong>放心</strong> (relieved — setting the heart back down)<br>
+      <strong>小 xiǎo</strong> (small) + 心 = <strong>小心</strong> (careful — a heart small enough to catch fine details)<br>
+      The emotion is expressed as something the heart does or undergoes. The verb encodes the mechanics of the inner state.
+    </div>
+
+    <div class="cards">
+
+      <!-- 开心 -->
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">开心</span>
+          <span class="card-py">kāixīn</span>
+          <span class="card-en">happy; glad; to be happy</span>
+        </div>
+        <div class="tags"><span class="tag tag-adj">Adj 形容词 xíngróngcí</span></div>
+        <div class="card-def">
+          开 kāi (open) + 心 xīn (heart). <em>Lit. "open heart."</em> The heart is opened, unblocked, free. One of the most common everyday happiness words in Mandarin — lighter and more colloquial than 高兴 gāoxìng (pleased, glad), more immediate than 幸福 xìngfú (lasting happiness; bliss). Perfect for spontaneous, casual joy: receiving good news, seeing a friend, a pleasant surprise.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">看到你我很开心！</div>
+            <div class="ex-py">Kàndào nǐ wǒ hěn kāixīn!</div>
+            <div class="ex-en">I'm so happy to see you!</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">今天发生了让我开心的事。</div>
+            <div class="ex-py">Jīntiān fāshēng le ràng wǒ kāixīn de shì.</div>
+            <div class="ex-en">Something happened today that made me happy.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">希望你每天都开心。</div>
+            <div class="ex-py">Xīwàng nǐ měitiān dōu kāixīn.</div>
+            <div class="ex-en">I hope you're happy every day.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">辨析 biànxī · The Happiness Register</span>
+          开心 = colloquial, light, immediate joy. 高兴 gāoxìng = happy, pleased (slightly more formal, suitable for writing). 幸福 xìngfú = deep, lasting happiness or bliss. 快乐 kuàilè = joyful, cheerful (often used in fixed expressions: 生日快乐). Use 开心 in conversation; reserve the others for specific registers.
+        </div>
+      </div>
+
+      <!-- 伤心 -->
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">伤心</span>
+          <span class="card-py">shāngxīn</span>
+          <span class="card-en">heartbroken; deeply sad; grieving</span>
+        </div>
+        <div class="tags"><span class="tag tag-adj">Adj 形容词 xíngróngcí</span></div>
+        <div class="card-def">
+          伤 shāng (wound; injury) + 心 xīn (heart). <em>Lit. "wounded heart."</em> The heart as a physical organ that can be injured — not mere sadness, but genuine damage. Used for real losses: a pet dying, a relationship ending, a deeply disappointing outcome. Stronger and more pointed than 难过 nánguò (distressed, upset).
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">她因为失去宠物而伤心了很久。</div>
+            <div class="ex-py">Tā yīnwèi shīqù chǒngwù ér shāngxīn le hěn jiǔ.</div>
+            <div class="ex-en">She was heartbroken for a long time after losing her pet.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">别伤心，一切都会好的。</div>
+            <div class="ex-py">Bié shāngxīn, yīqiè dōu huì hǎo de.</div>
+            <div class="ex-en">Don't be heartbroken — everything will be okay.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这个消息让他很伤心。</div>
+            <div class="ex-py">Zhège xiāoxi ràng tā hěn shāngxīn.</div>
+            <div class="ex-en">This news made him very sad.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">辨析 biànxī · Sadness Gradient</span>
+          伤心 = heartbroken (implies real damage to the heart). 难过 nánguò = upset, distressed (less severe; also means physically unwell). 悲伤 bēishāng = grief, sorrow (more literary). 痛苦 tòngkǔ = anguish, suffering (most intense, can be physical or emotional).
+        </div>
+      </div>
+
+      <!-- 担心 -->
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">担心</span>
+          <span class="card-py">dānxīn</span>
+          <span class="card-en">to worry; to be concerned about</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
+        <div class="card-def">
+          担 dān (to carry on a shoulder pole; to bear a load) + 心 xīn (heart). <em>Lit. "to carry the weight of the heart."</em> Worry as a physical burden — the heart becomes heavy, something you have to haul around all day. One of the most common emotional verbs in everyday Mandarin. Parents 担心 children; friends 担心 each other; students 担心 exams.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">别担心，我会照顾好自己的。</div>
+            <div class="ex-py">Bié dānxīn, wǒ huì zhàogù hǎo zìjǐ de.</div>
+            <div class="ex-en">Don't worry — I'll take good care of myself.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">妈妈总是担心孩子的安全。</div>
+            <div class="ex-py">Māma zǒngshì dānxīn háizi de ānquán.</div>
+            <div class="ex-en">Mom always worries about her children's safety.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">我有点担心明天的考试。</div>
+            <div class="ex-py">Wǒ yǒudiǎn dānxīn míngtiān de kǎoshì.</div>
+            <div class="ex-en">I'm a bit worried about tomorrow's exam.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">语法 yǔfǎ · Grammar</span>
+          担心 + person/event: 担心他 (worried about him). 担心 + clause: 担心他不来 (worried that he won't come). Causative: 让我担心 (to make me worry). Common reassurance: 不用担心 = no need to worry. 放心 is its direct antonym.
+        </div>
+      </div>
+
+      <!-- 放心 -->
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">放心</span>
+          <span class="card-py">fàngxīn</span>
+          <span class="card-en">to relax; to stop worrying; to feel at ease</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
+        <div class="card-def">
+          放 fàng (to put down; to release; to set free) + 心 xīn (heart). <em>Lit. "put the heart down."</em> The direct antonym of 担心. If worry is carrying the heart, 放心 is setting it back on the ground — the relief of knowing that what you feared is safe or resolved. Extremely frequent in reassurances and farewells.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">你放心，我会按时完成任务。</div>
+            <div class="ex-py">Nǐ fàngxīn, wǒ huì ànshí wánchéng rènwù.</div>
+            <div class="ex-en">Rest assured — I'll finish the task on time.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">知道他安全了，我才放了心。</div>
+            <div class="ex-py">Zhīdào tā ānquán le, wǒ cái fàng le xīn.</div>
+            <div class="ex-en">Only when I learned he was safe did I stop worrying.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">放心吧！</div>
+            <div class="ex-py">Fàngxīn ba!</div>
+            <div class="ex-en">Relax! Don't worry! Trust me!</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">语法 yǔfǎ · Usage</span>
+          你放心 = "Rest assured / Don't worry" — standard reassurance opener in speech and messages. 放不下心 = cannot stop worrying (cannot put the heart down). 让人放心 = reassuring. 放心不下 = cannot set the heart down (colloquial variant).
+        </div>
+      </div>
+
+      <!-- 小心 -->
+      <div class="card c-sienna">
+        <div class="card-head">
+          <span class="card-cn">小心</span>
+          <span class="card-py">xiǎoxīn</span>
+          <span class="card-en">careful; to be careful; watch out</span>
+        </div>
+        <div class="tags"><span class="tag tag-adj">Adj 形容词 xíngróngcí</span></div>
+        <div class="card-def">
+          小 xiǎo (small) + 心 xīn (heart). <em>Lit. "small heart"</em> — a heart small enough to attend to fine details, to notice what is easily missed, to proceed with close attention. 小心 encodes caution as a form of attentiveness: the careful person has a heart small enough to catch small things before they become large problems.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">小心脚下！</div>
+            <div class="ex-py">Xiǎoxīn jiǎo xià!</div>
+            <div class="ex-en">Watch your step!</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">过马路要小心。</div>
+            <div class="ex-py">Guò mǎlù yào xiǎoxīn.</div>
+            <div class="ex-en">Be careful when crossing the road.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他做事很小心。</div>
+            <div class="ex-py">Tā zuòshì hěn xiǎoxīn.</div>
+            <div class="ex-en">He is very careful in everything he does.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">辨析 biànxī · Antonym &amp; Family</span>
+          The opposite is 粗心 cūxīn (careless — lit. "coarse heart," too rough to catch fine details). Also 马虎 mǎhu (sloppy, careless). As a standalone warning: 小心！= "Watch out! Be careful!" 小心翼翼 xiǎoxīn yìyì = gingerly; extremely carefully (chengyu).
+        </div>
+      </div>
+
+    </div><!-- /cards emotional -->
+
+    <!-- ── CORE & CENTER ── -->
+    <span class="section-anchor" id="core"></span>
+    <div class="section-head">
+      <span class="sh-cn">核心</span>
+      <span class="sh-py">héxīn</span>
+      <span class="sh-en">Core &amp; Center</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <!-- 中心 -->
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">中心</span>
+          <span class="card-py">zhōngxīn</span>
+          <span class="card-en">center; central point; hub</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          中 zhōng (middle) + 心 xīn (heart). <em>Lit. "middle heart."</em> The conceptual and physical center of something — a city, an argument, an organization. Used freely in both spatial and abstract senses. Extremely productive in compound formation: any institution can become a 中心 by adding its domain.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">市中心</div>
+            <div class="ex-py">shì zhōngxīn</div>
+            <div class="ex-en">city center; downtown</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这是问题的中心。</div>
+            <div class="ex-py">Zhè shì wèntí de zhōngxīn.</div>
+            <div class="ex-en">This is the core of the problem.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">购物中心</div>
+            <div class="ex-py">gòuwù zhōngxīn</div>
+            <div class="ex-en">shopping center; mall</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 核心 -->
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">核心</span>
+          <span class="card-py">héxīn</span>
+          <span class="card-en">core; nucleus; the essential center</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          核 hé (nucleus; kernel; seed — as in 核武器 nuclear weapons) + 心 xīn (heart). The innermost, hardest, most essential center. Where 中心 is the geometric center, 核心 is the conceptual kernel — what everything else wraps around. Heavily used in political discourse, business strategy, and academic writing.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">这是核心问题。</div>
+            <div class="ex-py">Zhè shì héxīn wèntí.</div>
+            <div class="ex-en">This is the core issue.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">核心价值观</div>
+            <div class="ex-py">héxīn jiàzhíguān</div>
+            <div class="ex-en">core values</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">团队的核心成员</div>
+            <div class="ex-py">tuánduì de héxīn chéngyuán</div>
+            <div class="ex-en">the core members of the team</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 重心 -->
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">重心</span>
+          <span class="card-py">zhòngxīn</span>
+          <span class="card-en">center of gravity; focus; emphasis</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          重 zhòng (heavy; weight) + 心 xīn (heart; center). A physics term that has crossed fully into metaphorical use: where the weight of attention, effort, or strategic priority lies. Used in business planning, policy discussions, and personal goal-setting.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">工作重心要放在质量上。</div>
+            <div class="ex-py">Gōngzuò zhòngxīn yào fàng zài zhìliàng shàng.</div>
+            <div class="ex-en">The emphasis of the work should be placed on quality.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">公司重心已经转移了。</div>
+            <div class="ex-py">Gōngsī zhòngxīn yǐjīng zhuǎnyí le.</div>
+            <div class="ex-en">The company's center of gravity has already shifted.</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 内心 -->
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">内心</span>
+          <span class="card-py">nèixīn</span>
+          <span class="card-en">inner heart; deepest feelings; the inner self</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          内 nèi (inside; inner) + 心 xīn (heart). The deepest, most private layer of a person's interior life — what they feel before they decide how to present it to the world. Common in introspective prose, therapeutic contexts, and literary characterization. 内心世界 = the inner world.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">内心深处</div>
+            <div class="ex-py">nèixīn shēnchù</div>
+            <div class="ex-en">deep inside one's heart; in the depths of one's inner self</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">她内心其实很脆弱。</div>
+            <div class="ex-py">Tā nèixīn qíshí hěn cuìruò.</div>
+            <div class="ex-en">Deep inside, she is actually very fragile.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">要倾听内心的声音。</div>
+            <div class="ex-py">Yào qīngtīng nèixīn de shēngyīn.</div>
+            <div class="ex-en">You should listen to the voice of your inner heart.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards core -->
+
+    <!-- ── PHYSICAL HEART ── -->
+    <span class="section-anchor" id="physical"></span>
+    <div class="section-head">
+      <span class="sh-cn">心脏</span>
+      <span class="sh-py">xīnzàng</span>
+      <span class="sh-en">The Physical Heart</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-sienna">
+        <div class="card-head">
+          <span class="card-cn">心脏</span>
+          <span class="card-py">xīnzàng</span>
+          <span class="card-en">the heart (anatomical organ)</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          心 xīn + 脏 zàng (internal organ — the biological sense; same character used in 器官 organs of the body). In modern Chinese, <strong>心 alone almost never refers to the biological organ</strong> — that role belongs entirely to 心脏. The standalone 心 is always the conceptual, emotional, and cognitive heart. This distinction is consistently maintained.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">心脏病</div>
+            <div class="ex-py">xīnzàng bìng</div>
+            <div class="ex-en">heart disease</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">心脏手术</div>
+            <div class="ex-py">xīnzàng shǒushù</div>
+            <div class="ex-en">heart surgery</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">心脏跳动有力。</div>
+            <div class="ex-py">Xīnzàng tiàodòng yǒulì.</div>
+            <div class="ex-en">The heart is beating strongly.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">学者洞见 xuézhě dòngjiàn · The Critical Distinction</span>
+          我的心很痛 = "My heart aches" (emotional pain — always metaphorical in modern usage). 我心脏有问题 = "I have a heart problem" (medical — always the biological organ). Learners who say 心 when they mean the physical organ sound archaic or unintentionally poetic. In a medical context, always use 心脏.
+        </div>
+      </div>
+
+    </div><!-- /cards physical -->
+
+    <!-- ── X+心 TABLE ── -->
+    <span class="section-anchor" id="xtable"></span>
+    <div class="section-head">
+      <span class="sh-cn">X + 心</span>
+      <span class="sh-py">X + xīn</span>
+      <span class="sh-en">The "Heart-Feeling-Toward-X" Compound Table</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="心">
+      <div class="scholar-label">构词洞见 gòucí dòngjiàn · Pattern Insight</div>
+      <p>Once you see 心 as a suffix meaning <em>"the orientation or quality of the heart toward X"</em>, you can decode dozens of compound nouns instantly. These are not metaphors — they are direct descriptions of the heart's direction of attention, desire, or cultivated character. Each names a trait as a property of the 心 itself.</p>
+    </div>
+
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>字 Zì</th>
+            <th>拼音 Pīnyīn</th>
+            <th>英文 Yīngwén</th>
+            <th>例句 Lìjù</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="td-cn">好奇心</td>
+            <td class="td-py">hàoqí xīn</td>
+            <td>curiosity</td>
+            <td>孩子天生有好奇心。<span class="td-small td-py-sm">Háizi tiānshēng yǒu hàoqí xīn. — Children are born with curiosity.</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">好胜心</td>
+            <td class="td-py">hàoshèng xīn</td>
+            <td>competitive spirit; desire to win</td>
+            <td>他的好胜心很强。<span class="td-small td-py-sm">Tā de hàoshèng xīn hěn qiáng. — His competitive drive is very strong.</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">自尊心</td>
+            <td class="td-py">zìzūn xīn</td>
+            <td>self-esteem; pride</td>
+            <td>不要伤害他的自尊心。<span class="td-small td-py-sm">Bùyào shānghài tā de zìzūn xīn. — Don't hurt his self-esteem.</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">进取心</td>
+            <td class="td-py">jìnqǔ xīn</td>
+            <td>drive; ambition; desire to improve</td>
+            <td>年轻人要有进取心。<span class="td-small td-py-sm">Niánqīng rén yào yǒu jìnqǔ xīn. — Young people should have drive.</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">同情心</td>
+            <td class="td-py">tóngqíng xīn</td>
+            <td>compassion; sympathy</td>
+            <td>她富有同情心。<span class="td-small td-py-sm">Tā fùyǒu tóngqíng xīn. — She is full of compassion.</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">责任心</td>
+            <td class="td-py">zérèn xīn</td>
+            <td>sense of responsibility</td>
+            <td>这份工作需要强烈的责任心。<span class="td-small td-py-sm">Zhè fèn gōngzuò xūyào qiángliè de zérèn xīn.</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">爱心</td>
+            <td class="td-py">àixīn</td>
+            <td>loving heart; compassion; charitable spirit</td>
+            <td>她是个有爱心的人。<span class="td-small td-py-sm">Tā shì gè yǒu àixīn de rén. — She is a compassionate person.</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">童心</td>
+            <td class="td-py">tóngxīn</td>
+            <td>childlike heart; innocent spirit</td>
+            <td>他永远保持着童心。<span class="td-small td-py-sm">Tā yǒngyuǎn bǎochí zhe tóngxīn. — He always keeps his childlike spirit.</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">耐心</td>
+            <td class="td-py">nàixīn</td>
+            <td>patience</td>
+            <td>教小孩需要耐心。<span class="td-small td-py-sm">Jiāo xiǎohái xūyào nàixīn. — Teaching children requires patience.</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">信心</td>
+            <td class="td-py">xìnxīn</td>
+            <td>confidence; faith</td>
+            <td>我对他有信心。<span class="td-small td-py-sm">Wǒ duì tā yǒu xìnxīn. — I have confidence in him.</span></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- ── CHENGYU ── -->
+    <span class="section-anchor" id="chengyu"></span>
+    <div class="section-head">
+      <span class="sh-cn">成语</span>
+      <span class="sh-py">chéngyǔ</span>
+      <span class="sh-en">Idioms &amp; Set Phrases</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="chengyu-grid">
+
+      <div class="cy">
+        <span class="cy-cn">一心一意</span>
+        <span class="cy-py">yī xīn yī yì</span>
+        <span class="cy-en">single-minded; wholeheartedly devoted — one heart, one mind</span>
+        <span class="cy-note">Lit: one-heart-one-intention. Used for unwavering focus or devotion — to a person, a task, or a cause. 他一心一意地爱着她。(He loves her with his whole heart and mind, without wavering.) The antonym is 三心二意 sān xīn èr yì — "three hearts, two intentions" — indecisive and halfhearted.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">心心相印</span>
+        <span class="cy-py">xīn xīn xiāng yìn</span>
+        <span class="cy-en">heart imprinting on heart — deep mutual understanding; soul connection</span>
+        <span class="cy-note">印 yìn = seal; to stamp. Like two wax seals pressed together making a perfect impression — silent, complete correspondence between two people's inner worlds. 他们心心相印，不需要多说话就能理解彼此。(They are so attuned that they understand each other without many words.) Used for deep friendship and romantic bonds alike.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">心旷神怡</span>
+        <span class="cy-py">xīn kuàng shén yí</span>
+        <span class="cy-en">heart vast, spirit at ease — expansive peace and contentment in beautiful surroundings</span>
+        <span class="cy-note">旷 kuàng = open; vast (like an open plain). 怡 yí = pleased; comfortable. The specific feeling of contentment and openness experienced in a beautiful landscape, after a burden lifts, or at a moment of rare clarity. Common at scenic spots: 站在山顶，令人心旷神怡。(Standing at the mountaintop, the feeling is one of expansive peace.)</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">心有灵犀</span>
+        <span class="cy-py">xīn yǒu líng xī</span>
+        <span class="cy-en">hearts share the rhinoceros horn — telepathic understanding; being on the same wavelength</span>
+        <span class="cy-note">From a Tang poem by Li Shangyin (李商隐): 身无彩凤双飞翼，心有灵犀一点通. The rhinoceros horn was believed in classical natural philosophy to have a channel running through its center — an image of two hearts with a shared passage between them, allowing understanding to flow without words. Used when two people grasp each other without explanation. Often shortened to the full line: 心有灵犀一点通.</span>
+      </div>
+
+    </div>
+
+    <!-- ── ADJACENT VOCAB ── -->
+    <span class="section-anchor" id="adjacent"></span>
+    <div class="section-head">
+      <span class="sh-cn">相邻词汇</span>
+      <span class="sh-py">xiānglín cíhuì</span>
+      <span class="sh-en">Adjacent Vocabulary</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">脑</span><span class="a-py">nǎo</span><span class="a-en">brain</span></span>
+      <span class="adj"><span class="a-cn">情</span><span class="a-py">qíng</span><span class="a-en">emotion; situation</span></span>
+      <span class="adj"><span class="a-cn">意</span><span class="a-py">yì</span><span class="a-en">intention; meaning</span></span>
+      <span class="adj"><span class="a-cn">思</span><span class="a-py">sī</span><span class="a-en">thought; to think</span></span>
+      <span class="adj"><span class="a-cn">感</span><span class="a-py">gǎn</span><span class="a-en">feeling; sense; to feel</span></span>
+      <span class="adj"><span class="a-cn">性格</span><span class="a-py">xìnggé</span><span class="a-en">personality; character</span></span>
+      <span class="adj"><span class="a-cn">灵魂</span><span class="a-py">línghún</span><span class="a-en">soul</span></span>
+      <span class="adj"><span class="a-cn">精神</span><span class="a-py">jīngshén</span><span class="a-en">spirit; mental energy</span></span>
+      <span class="adj"><span class="a-cn">意识</span><span class="a-py">yìshí</span><span class="a-en">consciousness; awareness</span></span>
+      <span class="adj"><span class="a-cn">内心</span><span class="a-py">nèixīn</span><span class="a-en">inner self; deepest feelings</span></span>
+      <span class="adj"><span class="a-cn">真心</span><span class="a-py">zhēnxīn</span><span class="a-en">sincerely; genuine heart</span></span>
+      <span class="adj"><span class="a-cn">用心</span><span class="a-py">yòngxīn</span><span class="a-en">attentively; with care</span></span>
+      <span class="adj"><span class="a-cn">良心</span><span class="a-py">liángxīn</span><span class="a-en">conscience</span></span>
+    </div>
+
+    <!-- RETENTION IMAGE -->
+    <div class="scholar" data-glyph="心">
+      <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
+      <p>Four brushstrokes — that is the entire heart. Not the anatomical organ, but the center of a person's universe. When Mencius said <em>心之官则思</em> — "the heart's function is to think" — he was not being poetic. He was stating the Chinese theory of mind: there is one organ, one center, one 心. To think and to feel are operations of the same instrument.</p>
+      <p>Every emotion word in Chinese is also a thought word. To be 开心 (happy) is literally to have your heart opened. To 担心 (worry) is to carry your heart like a burden. To 放心 (relax) is to put your heart back down. 小心 (careful) is the heart small enough to catch fine details. 伤心 (heartbroken) is the heart physically wounded. None of these are metaphors in a language where feeling and thinking share an organ — they are direct descriptions of what the one instrument does.</p>
+      <p>When you learn the 心/忄 radical, you are not memorizing a component — you are learning the address of the inner life. Every character with 忄 on the left lives in the neighborhood of the heart. That neighborhood is vast: emotion, thought, intention, character, memory, fear, longing. All the same radical. All the same organ. The heart of Chinese.</p>
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="page-footer">
+      <span class="footer-id">Field Notes on Chinese · <span>心 xīn</span> · xin1_心.html</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>

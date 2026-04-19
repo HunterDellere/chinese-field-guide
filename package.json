@@ -1,0 +1,20 @@
+{
+  "name": "chinese-field-guide",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build/build.mjs",
+    "validate": "node build/validate.mjs",
+    "draft": "node build/draft.mjs",
+    "new": "node build/new.mjs",
+    "watch": "node build/watch.mjs"
+  },
+  "devDependencies": {
+    "ajv": "^8.17.1",
+    "chokidar": "^4.0.3",
+    "gray-matter": "^4.0.3",
+    "markdown-it": "^14.1.0",
+    "mustache": "^4.2.0"
+  }
+}

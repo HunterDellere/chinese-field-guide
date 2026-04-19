@@ -1,0 +1,693 @@
+---
+type: 'vocab'
+category: 'vocab'
+status: 'complete'
+title: '东西 · things'
+desc: "East-west as the word for 'stuff' — a window into directional cosmology."
+metaDesc: "东西 dōngxi: the word for 'things' that encodes the east-west axis of Chinese cosmology. Grammar, colloquial uses, and the directional worldview baked into everyday speech."
+pageTitle: '东西 dōngxi'
+tags:
+  - 'directions'
+  - 'colloquial'
+  - 'things'
+updated: '2026-04-18'
+pinyin: 'dōngxi'
+---
+
+<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+
+    <span class="toc-topic">东西</span>
+    <span class="toc-topic-en">Things · East-West</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#etymology">
+        <span class="toc-cn">字源</span> Etymology
+        <span class="toc-sub">zìyuán · east + west</span>
+      </a></li>
+      <li><a href="#formation">
+        <span class="toc-cn">构词</span> Word Formation
+        <span class="toc-sub">gòucí · patterns</span>
+      </a></li>
+      <li><a href="#basic">
+        <span class="toc-cn">基本用法</span> Basic Usage
+        <span class="toc-sub">jīběn yòngfǎ · core meaning</span>
+      </a></li>
+      <li><a href="#directions">
+        <span class="toc-cn">东西南北</span> Four Directions
+        <span class="toc-sub">sì gè fāngxiàng</span>
+      </a></li>
+      <li><a href="#compounds">
+        <span class="toc-cn">方向词</span> Direction Compounds
+        <span class="toc-sub">fāngxiàng cí</span>
+      </a></li>
+      <li><a href="#tones">
+        <span class="toc-cn">声调</span> Tonal Disambiguation
+        <span class="toc-sub">shēngdiào biànbié</span>
+      </a></li>
+      <li><a href="#pairs">
+        <span class="toc-cn">方位对</span> Directional Pairs
+        <span class="toc-sub">fāngwèi duì · grammar</span>
+      </a></li>
+      <li><a href="#chengyu">
+        <span class="toc-cn">成语</span> Idioms
+        <span class="toc-sub">chéngyǔ · set phrases</span>
+      </a></li>
+      <li><a href="#adjacent">
+        <span class="toc-cn">相邻</span> Adjacent Vocab
+        <span class="toc-sub">xiānglín cíhuì</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- HERO -->
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">Vocabulary · 词汇 cíhuì</span>
+      <h1 class="topic-hero-title">东西</h1>
+      <span class="topic-hero-title-py">dōngxi</span>
+      <p class="topic-hero-desc">The word for "things" that hides an entire cosmology — east and west as the axis of the world.</p>
+    </header>
+
+    <!-- ── ETYMOLOGY ── -->
+    <span class="section-anchor" id="etymology"></span>
+    <div class="section-head">
+      <span class="sh-cn">字源</span>
+      <span class="sh-py">zìyuán</span>
+      <span class="sh-en">Etymology &amp; Origin</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="东">
+      <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
+      <p><strong>东 dōng</strong> (east) <strong>+ 西 xī</strong> (west). Why does "east-west" mean "things"? Three compelling theories have circulated among scholars and etymologists, each illuminating a different facet of Chinese cosmological thinking.</p>
+      <p><strong>The market theory</strong> — in Tang dynasty Chang'an, one of the greatest cities in the world, commerce was organized around two great markets: the Eastern Market (东市 dōngshì) and the Western Market (西市 xīshì). To go shopping meant going to the east and west markets. Over time, the destination became the things purchased there. The word for "stuff" is a ghost map of an ancient metropolis that no longer stands.</p>
+      <p><strong>The cosmological theory</strong> — in the Five Phases system (五行 wǔxíng), east corresponds to wood (木 mù) and west to metal (金 jīn). Both are tangible, material substances you can hold. North corresponds to water (水 shuǐ) and south to fire (火 huǒ) — forces and processes rather than objects. So "east-west" became shorthand for "material things," while north-south remained the axis of transformation and force.</p>
+      <p><strong>The directional pair theory</strong> — 东西 simply became the canonical pair used to mean "stuff," the way English uses "thing" or "whatchamacallit." Whatever the origin, the result is one of the most revealing words in Chinese: the everyday word for "stuff" encodes the cardinal directions. Nothing in this language is merely ordinary.</p>
+    </div>
+
+    <!-- ── WORD FORMATION ── -->
+    <span class="section-anchor" id="formation"></span>
+    <div class="section-head">
+      <span class="sh-cn">构词</span>
+      <span class="sh-py">gòucí</span>
+      <span class="sh-en">Word-Formation Patterns</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">构词规律 gòucí guīlǜ · 东西 Derivations</span>
+      <strong>东西</strong> dōngxi (neutral) → things, stuff, objects — the core meaning<br>
+      <strong>什么东西</strong> shénme dōngxi → what (thing); exclamation of disgust or shock<br>
+      <strong>好东西 / 坏东西</strong> → good stuff / bad stuff; colloquially: a good or bad person<br>
+      <strong>这个东西</strong> zhège dōngxi → this thing (very colloquial; can sound dismissive)<br>
+      <strong>小东西</strong> xiǎo dōngxi → little thing (affectionate — for a child, pet, or small object)
+    </div>
+
+    <!-- ── BASIC USAGE ── -->
+    <span class="section-anchor" id="basic"></span>
+    <div class="section-head">
+      <span class="sh-cn">基本用法</span>
+      <span class="sh-py">jīběn yòngfǎ</span>
+      <span class="sh-en">Basic Usage</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">东西</span>
+          <span class="card-py">dōngxi</span>
+          <span class="card-en">things; stuff; objects</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          The core meaning — tangible objects, physical stuff. 东西 refers primarily to concrete, holdable things rather than abstract matters. You can buy 东西, carry 东西, lose 东西, and need 东西. For abstract "things" (events, matters, affairs), Chinese uses 事 shì or 事情 shìqíng instead.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">我的东西呢？</div>
+            <div class="ex-py">Wǒ de dōngxi ne?</div>
+            <div class="ex-en">Where's my stuff?</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">桌上有很多东西。</div>
+            <div class="ex-py">Zhuō shàng yǒu hěn duō dōngxi.</div>
+            <div class="ex-en">There are a lot of things on the table.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">你买了什么东西？</div>
+            <div class="ex-py">Nǐ mǎi le shénme dōngxi?</div>
+            <div class="ex-en">What did you buy?</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">辨析 biànxī · 东西 vs. 事 vs. 事情</span>
+          <strong>东西</strong> = physical, tangible things you can hold. <strong>事</strong> shì = matters, affairs, events (abstract). <strong>事情</strong> shìqíng = matters, affairs (slightly more formal). Contrast: 我要买东西 (I need to buy things — physical objects) vs. 我有事情要做 (I have things to do — tasks, matters). 时间是个奇怪的东西 works as a metaphorical extension — treating time as a concrete object — but it is marked as figurative.
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">东西</span>
+          <span class="card-py">dōngxi</span>
+          <span class="card-en">person (evaluative, colloquial)</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí · 口语 colloquial</span></div>
+        <div class="card-def">
+          In certain colloquial contexts, 东西 is applied to people — almost always with an evaluative modifier. It can be affectionate (小东西 for a child or pet) or scolding (坏东西 for a mischievous child). The use of "thing" for a person creates a tone ranging from playful to contemptuous depending on context and modifier.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">这个坏东西！</div>
+            <div class="ex-py">Zhège huài dōngxi!</div>
+            <div class="ex-en">You rotten thing! (scolding a child or pet, semi-affectionate)</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">小东西，别闹了。</div>
+            <div class="ex-py">Xiǎo dōngxi, bié nào le.</div>
+            <div class="ex-en">Little one, stop making trouble. (affectionate)</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他是个好东西。</div>
+            <div class="ex-py">Tā shì gè hǎo dōngxi.</div>
+            <div class="ex-en">He's a "good" guy. (ironic in adult speech — usually sarcastic)</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">语用 yǔyòng · Pragmatics</span>
+          好东西 applied to an adult is almost always ironic — "what a fine specimen." Affectionate use is primarily for children and pets. The evaluative reading with adults tends toward sarcasm or contempt unless the context is clearly playful.
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">什么东西</span>
+          <span class="card-py">shénme dōngxi</span>
+          <span class="card-en">what (thing); what on earth; exclamation of disgust</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N phrase 名词短语</span></div>
+        <div class="card-def">
+          什么东西 has two registers. As a genuine question, it means "what is this thing?" As an exclamation, it expresses shock, disgust, or contempt — "what the heck is this?" or simply "ugh!" The exclamatory reading is a complete utterance on its own: 什么东西！registers revulsion at something offensive, absurd, or deeply below expectations.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">这是什么东西？</div>
+            <div class="ex-py">Zhè shì shénme dōngxi?</div>
+            <div class="ex-en">What is this thing? (neutral inquiry)</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">什么东西！这也能叫饭？</div>
+            <div class="ex-py">Shénme dōngxi! Zhè yě néng jiào fàn?</div>
+            <div class="ex-en">What the heck! You call this food?</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他说的是什么东西，我完全听不懂。</div>
+            <div class="ex-py">Tā shuō de shì shénme dōngxi, wǒ wánquán tīng bù dǒng.</div>
+            <div class="ex-en">What on earth is he saying — I can't understand a word of it.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards basic -->
+
+    <!-- ── FOUR DIRECTIONS ── -->
+    <span class="section-anchor" id="directions"></span>
+    <div class="section-head">
+      <span class="sh-cn">东西南北</span>
+      <span class="sh-py">dōng xī nán běi</span>
+      <span class="sh-en">The Four Directions</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="方">
+      <div class="scholar-label">文化洞见 wénhuà dòngjiàn · Cultural Note</div>
+      <p>Chinese directional order is <strong>东南西北</strong> (east-south-west-north) — not north-south-east-west as in English, and not simply clockwise from north. This traditional ordering reflects the cosmological priority of east: sunrise, spring, the beginning of things. The compass was invented in China, and cardinal directions are deeply embedded in cosmological, architectural (风水 fēngshuǐ), and everyday thinking. Traditional buildings face south to maximize sunlight; the ideal orientation is 坐北朝南 (sitting north, facing south).</p>
+      <p>In the Five Phases system (五行 wǔxíng): East = Wood (木) · South = Fire (火) · West = Metal (金) · North = Water (水) · Center = Earth (土). Each direction carries color, season, body organ, and moral valence. The word 东西 sits at the intersection of the two material phases — wood and metal — which is why the cosmological theory of its origin is so compelling.</p>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">东</span>
+          <span class="card-py">dōng</span>
+          <span class="card-en">east</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          The direction of sunrise, spring, wood (木), and the color green. Cosmologically: east is the direction of birth and beginning. The original character depicted the sun caught in a tree — rising through the branches at dawn. Key compounds: 东方 dōngfāng (the East; the Orient) · 东边 dōngbiān (the east side) · 东部 dōngbù (the eastern part/region).
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">向东走五分钟就到了。</div>
+            <div class="ex-py">Xiàng dōng zǒu wǔ fēnzhōng jiù dào le.</div>
+            <div class="ex-en">Walk east for five minutes and you'll be there.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">东方文化注重集体和谐。</div>
+            <div class="ex-py">Dōngfāng wénhuà zhùzhòng jítǐ héxié.</div>
+            <div class="ex-en">Eastern culture emphasizes collective harmony.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">房间在东边，早上阳光非常好。</div>
+            <div class="ex-py">Fángjiān zài dōngbiān, zǎoshang yángguāng fēicháng hǎo.</div>
+            <div class="ex-en">The room is on the east side — morning light is wonderful.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">西</span>
+          <span class="card-py">xī</span>
+          <span class="card-en">west</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          The direction of sunset, autumn, metal (金), and the color white. In Chinese cosmology, west is the direction of completion and dying — the sun sinks in the west. Also the direction of India and the Buddhist teachings that entered China along western trade routes. 西方 xīfāng is now the standard term for the Western (European/American) world in Chinese political and cultural discourse.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">往西走，你会看到一座山。</div>
+            <div class="ex-py">Wǎng xī zǒu, nǐ huì kàn dào yī zuò shān.</div>
+            <div class="ex-en">Go west and you'll see a mountain.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">西方国家普遍重视个人权利。</div>
+            <div class="ex-py">Xīfāng guójiā pǔbiàn zhòngshì gèrén quánlì.</div>
+            <div class="ex-en">Western countries generally emphasize individual rights.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">西边的天空已经变成橙红色了。</div>
+            <div class="ex-py">Xībiān de tiānkōng yǐjīng biàn chéng chénghóng sè le.</div>
+            <div class="ex-en">The sky in the west has already turned orange-red.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">南</span>
+          <span class="card-py">nán</span>
+          <span class="card-en">south</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          Fire (火), summer, the color red. South is warmth — the direction Chinese buildings traditionally face to maximize sunlight. 坐北朝南 (sitting north, facing south) is the ideal orientation for homes, palaces, and graves. 南方 nánfāng designates the warm, rice-growing, Cantonese-and-Wu-speaking south of China, culinarily and culturally distinct from the wheat-eating north.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他来自南方，不太习惯北方的冬天。</div>
+            <div class="ex-py">Tā láizì nánfāng, bú tài xíguàn běifāng de dōngtiān.</div>
+            <div class="ex-en">He's from the south and isn't used to northern winters.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">往南走，天气会越来越热。</div>
+            <div class="ex-py">Wǎng nán zǒu, tiānqì huì yuè lái yuè rè.</div>
+            <div class="ex-en">Go south and the weather gets warmer and warmer.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">南边有一条小河，夏天很多孩子去玩。</div>
+            <div class="ex-py">Nánbiān yǒu yī tiáo xiǎo hé, xiàtiān hěn duō háizi qù wán.</div>
+            <div class="ex-en">There's a small river to the south — lots of kids play there in summer.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">北</span>
+          <span class="card-py">běi</span>
+          <span class="card-en">north</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          Water (水), winter, the color black. North is cold and yin. 北方 běifāng is Mandarin's heartland — cold winters, wheat noodles, dumplings, and the political center of Beijing (北京 Běijīng, "Northern Capital"). The original character for 北 depicted two people standing back to back — turning away from the cold north, a gesture of avoidance.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">北方的冬天非常冷，经常下大雪。</div>
+            <div class="ex-py">Běifāng de dōngtiān fēicháng lěng, jīngcháng xià dà xuě.</div>
+            <div class="ex-en">Northern winters are extremely cold — it often snows heavily.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">向北走就能到火车站。</div>
+            <div class="ex-py">Xiàng běi zǒu jiù néng dào huǒchē zhàn.</div>
+            <div class="ex-en">Head north and you'll reach the train station.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">北边那栋楼是市政府大楼。</div>
+            <div class="ex-py">Běibiān nà dòng lóu shì shì zhèngfǔ dàlóu.</div>
+            <div class="ex-en">That building to the north is the city government office.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards directions -->
+
+    <!-- ── DIRECTION COMPOUNDS ── -->
+    <span class="section-anchor" id="compounds"></span>
+    <div class="section-head">
+      <span class="sh-cn">方向词</span>
+      <span class="sh-py">fāngxiàng cí</span>
+      <span class="sh-en">Direction Words in Compounds</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">构词规律 gòucí guīlǜ · Directional Compounding</span>
+      Direction words are extraordinarily productive in Chinese. They enter compounds as both literal compass directions and cultural or political designations. The same character that means "east" in a geographic sense carries an entire civilizational worldview when it becomes 东方 or 东北. <strong>Direction + 方 fāng</strong> = a cultural or regional designation. <strong>Direction + 边 biān</strong> = a physical side or edge. <strong>Direction + 部 bù</strong> = an administrative or geographic region.
+    </div>
+
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>词 Cí</th>
+            <th>拼音 Pīnyīn</th>
+            <th>英文 Yīngwén</th>
+            <th>注释 Zhùshì</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="td-cn">东方</td>
+            <td class="td-py">dōngfāng</td>
+            <td>the East; the Orient</td>
+            <td>Used broadly for Asia and Chinese civilization</td>
+          </tr>
+          <tr>
+            <td class="td-cn">西方</td>
+            <td class="td-py">xīfāng</td>
+            <td>the West; the Occident</td>
+            <td>Standard term for European/American culture in Chinese political discourse</td>
+          </tr>
+          <tr>
+            <td class="td-cn">南方</td>
+            <td class="td-py">nánfāng</td>
+            <td>the South; southern China</td>
+            <td>Culturally, linguistically, and culinarily distinct from the north</td>
+          </tr>
+          <tr>
+            <td class="td-cn">北方</td>
+            <td class="td-py">běifāng</td>
+            <td>the North; northern China</td>
+            <td>Mandarin heartland; wheat, dumplings, and bitter winters</td>
+          </tr>
+          <tr>
+            <td class="td-cn">东南亚</td>
+            <td class="td-py">dōngnányà</td>
+            <td>Southeast Asia</td>
+            <td>东南 (southeast) + 亚 (Asia); includes Thailand, Vietnam, Indonesia, etc.</td>
+          </tr>
+          <tr>
+            <td class="td-cn">西北</td>
+            <td class="td-py">xīběi</td>
+            <td>Northwest</td>
+            <td>Northwestern China — Xinjiang, Gansu, Ningxia; the Silk Road corridor</td>
+          </tr>
+          <tr>
+            <td class="td-cn">东北</td>
+            <td class="td-py">dōngběi</td>
+            <td>Northeast; Dongbei</td>
+            <td>The three northeastern provinces; also a distinct regional cuisine and dialect identity</td>
+          </tr>
+          <tr>
+            <td class="td-cn">中东</td>
+            <td class="td-py">zhōngdōng</td>
+            <td>Middle East</td>
+            <td>中 (middle/central) + 东 (east)</td>
+          </tr>
+          <tr>
+            <td class="td-cn">东南</td>
+            <td class="td-py">dōngnán</td>
+            <td>southeast</td>
+            <td>Both a literal compass direction and a cultural region</td>
+          </tr>
+          <tr>
+            <td class="td-cn">西南</td>
+            <td class="td-py">xīnán</td>
+            <td>southwest</td>
+            <td>Yunnan, Sichuan, Guizhou — China's most biodiverse and ethnically diverse region</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- ── TONAL DISAMBIGUATION ── -->
+    <span class="section-anchor" id="tones"></span>
+    <div class="section-head">
+      <span class="sh-cn">声调辨别</span>
+      <span class="sh-py">shēngdiào biànbié</span>
+      <span class="sh-en">Tonal Disambiguation</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="西">
+      <div class="scholar-label">语音洞见 yǔyīn dòngjiàn · Phonological Note</div>
+      <p>东西 has two distinct pronunciations with completely different meanings. The difference lies in whether the second syllable 西 takes its full first tone or reduces to a neutral (unstressed) tone — a common feature of Chinese disyllabic words where the second syllable weakens in lexicalized compounds.</p>
+      <p><strong>dōngxi</strong> (neutral tone on 西) — things, stuff. This is the everyday word. The 西 is short and unstressed, disappearing into the syllable before it. This is how you say "I need to buy some things" or "where's my stuff?" Speakers don't think of east and west at all when they use this word.</p>
+      <p><strong>dōng xī</strong> (full first tone on both) — east and west, the actual directions. This reading is slower and more deliberate, typically occurring in set phrases, geographic description, and cultural idioms: 东西方文化差异 (cultural differences between East and West), 从东到西 (from east to west). When both syllables carry full weight, you are talking about geography or cosmology, not your grocery list.</p>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">东西</span>
+          <span class="card-py">dōngxi · neutral tone on 西</span>
+          <span class="card-en">things, stuff (everyday noun)</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí · 轻声 neutral tone</span></div>
+        <div class="card-def">
+          The 西 is de-stressed and shortened. This is the form you will hear constantly in spoken Chinese — in markets, homes, schools, and workplaces. The neutral tone signals that this word has drifted far from its directional origin into lexicalized everyday use, the same process that made "goodbye" lose its religious meaning in English.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">我去买点东西，马上回来。</div>
+            <div class="ex-py">Wǒ qù mǎi diǎn dōngxi, mǎshàng huí lái.</div>
+            <div class="ex-en">I'm going to buy some things — I'll be right back.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">你的东西放在椅子上了。</div>
+            <div class="ex-py">Nǐ de dōngxi fàng zài yǐzi shàng le.</div>
+            <div class="ex-en">Your stuff is on the chair.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">冰箱里没什么东西了，该买菜了。</div>
+            <div class="ex-py">Bīngxiāng lǐ méi shénme dōngxi le, gāi mǎi cài le.</div>
+            <div class="ex-en">There's barely anything left in the fridge — time to go grocery shopping.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">东西</span>
+          <span class="card-py">dōng xī · both full tones</span>
+          <span class="card-en">east and west (directional)</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí · 方向 directional</span></div>
+        <div class="card-def">
+          When both syllables carry their full tones, you are talking about the literal compass directions — east and west as opposite ends of a geographic or cultural axis. This reading appears in formal writing, geographic discourse, and set idioms. 东西方 dōng xīfāng (East and West) is a fixed term in cultural and geopolitical writing.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">这条路从东到西，横穿整座城市。</div>
+            <div class="ex-py">Zhè tiáo lù cóng dōng dào xī, héng chuān zhěng zuò chéngshì.</div>
+            <div class="ex-en">This road runs east to west, crossing the entire city.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">东西方文化差异是个复杂的话题。</div>
+            <div class="ex-py">Dōng xīfāng wénhuà chāyì shì gè fùzá de huàtí.</div>
+            <div class="ex-en">Cultural differences between East and West are a complex topic.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">古代丝绸之路连接了东西两端的文明。</div>
+            <div class="ex-py">Gǔdài Sīchóu zhī lù liánjiē le dōng xī liǎng duān de wénmíng.</div>
+            <div class="ex-en">The ancient Silk Road connected the civilizations at both ends of the east-west axis.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards tones -->
+
+    <!-- ── DIRECTIONAL PAIRS ── -->
+    <span class="section-anchor" id="pairs"></span>
+    <div class="section-head">
+      <span class="sh-cn">方位对</span>
+      <span class="sh-py">fāngwèi duì</span>
+      <span class="sh-en">Directional Pairs — The Grammar of Spatial Opposition</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="左">
+      <div class="scholar-label">语法洞见 yǔfǎ dòngjiàn · Grammar Note</div>
+      <p>Chinese uses paired directional words with extraordinary productivity. When two opposite directions are combined, they create a new word that means either "everywhere/in all directions" (spatial totality) or "approximately" (numerical range). 东西 is one such pair — and its journey from spatial pair to everyday noun is a case study in how Chinese words evolve. Other directional pairs show the same productive logic and are essential vocabulary.</p>
+    </div>
+
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>词对 Cí duì</th>
+            <th>拼音 Pīnyīn</th>
+            <th>字面义 Literal</th>
+            <th>实际义 Actual meaning</th>
+            <th>例句 Example</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="td-cn">东西</td>
+            <td class="td-py">dōngxi</td>
+            <td>east-west</td>
+            <td>things; stuff (lexicalized)</td>
+            <td>买东西 · go shopping</td>
+          </tr>
+          <tr>
+            <td class="td-cn">南北</td>
+            <td class="td-py">nánběi</td>
+            <td>south-north</td>
+            <td>north and south; cultural divide</td>
+            <td>南北差异 · north-south differences</td>
+          </tr>
+          <tr>
+            <td class="td-cn">左右</td>
+            <td class="td-py">zuǒyòu</td>
+            <td>left-right</td>
+            <td>approximately; around; to influence</td>
+            <td>三点左右 · around 3 o'clock</td>
+          </tr>
+          <tr>
+            <td class="td-cn">上下</td>
+            <td class="td-py">shàngxià</td>
+            <td>up-down</td>
+            <td>approximately; up and down; superior-inferior</td>
+            <td>一百上下 · around one hundred</td>
+          </tr>
+          <tr>
+            <td class="td-cn">前后</td>
+            <td class="td-py">qiánhòu</td>
+            <td>front-back</td>
+            <td>before and after; around (time)</td>
+            <td>春节前后 · around the Spring Festival</td>
+          </tr>
+          <tr>
+            <td class="td-cn">里外</td>
+            <td class="td-py">lǐwài</td>
+            <td>inside-outside</td>
+            <td>inside and out; on both sides</td>
+            <td>里外不是人 · caught between two sides</td>
+          </tr>
+          <tr>
+            <td class="td-cn">古今</td>
+            <td class="td-py">gǔjīn</td>
+            <td>ancient-present</td>
+            <td>throughout history; all time</td>
+            <td>古今中外 · throughout Chinese and world history</td>
+          </tr>
+          <tr>
+            <td class="td-cn">中外</td>
+            <td class="td-py">zhōngwài</td>
+            <td>China-foreign</td>
+            <td>Chinese and foreign; domestic and international</td>
+            <td>中外合作 · Sino-foreign cooperation</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- ── CHENGYU ── -->
+    <span class="section-anchor" id="chengyu"></span>
+    <div class="section-head">
+      <span class="sh-cn">成语</span>
+      <span class="sh-py">chéngyǔ</span>
+      <span class="sh-en">Idioms &amp; Set Phrases</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="chengyu-grid">
+
+      <div class="cy">
+        <span class="cy-cn">东奔西走</span>
+        <span class="cy-py">dōng bēn xī zǒu</span>
+        <span class="cy-en">"rushing east, running west" — frantically busy everywhere; constantly in motion</span>
+        <span class="cy-note">Lit: east-rush-west-walk. Describes someone perpetually in motion, always somewhere else, never settled. Often implies exhausting, stressful busyness with little to show for it. 他为了这件事东奔西走了好几年。"He spent years running all over the place trying to make this happen."</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">声东击西</span>
+        <span class="cy-py">shēng dōng jī xī</span>
+        <span class="cy-en">"feign east, strike west" — strategic deception; misdirection before attacking</span>
+        <span class="cy-note">Lit: declare-east-strike-west. A classic military stratagem from the Sun Tzu tradition — make noise in the east to draw attention, then attack from the west. Used broadly for any deceptive misdirection tactic in business, politics, or argument. 他用声东击西的策略迷惑了对手。"He used misdirection to confuse his opponent."</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">东张西望</span>
+        <span class="cy-py">dōng zhāng xī wàng</span>
+        <span class="cy-en">"looking east and west" — glancing around nervously or curiously; gawking</span>
+        <span class="cy-note">Lit: east-look-west-gaze. Used for someone whose eyes dart around — whether out of nervousness, suspicion, or simple distraction. The four-character structure vividly enacts the scanning motion itself. 他在街上东张西望，好像在找人。"He was looking all around the street as if searching for someone."</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">东拼西凑</span>
+        <span class="cy-py">dōng pīn xī còu</span>
+        <span class="cy-en">"pieced together from east and west" — to cobble together; makeshift; assembled from disparate sources</span>
+        <span class="cy-note">Lit: east-piece-west-gather. Used when something has been hastily assembled from disparate sources with no coherence or originality. Can apply to reports, plans, meals, or arguments. 这篇文章是东拼西凑的，没有自己的观点。"This essay is cobbled together — there's no original thinking in it."</span>
+      </div>
+
+    </div>
+
+    <!-- ── ADJACENT VOCAB ── -->
+    <span class="section-anchor" id="adjacent"></span>
+    <div class="section-head">
+      <span class="sh-cn">相邻词汇</span>
+      <span class="sh-py">xiānglín cíhuì</span>
+      <span class="sh-en">Adjacent Vocabulary</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">物</span><span class="a-py">wù</span><span class="a-en">thing (literary)</span></span>
+      <span class="adj"><span class="a-cn">物品</span><span class="a-py">wùpǐn</span><span class="a-en">item; object (formal)</span></span>
+      <span class="adj"><span class="a-cn">事情</span><span class="a-py">shìqíng</span><span class="a-en">matter; affair</span></span>
+      <span class="adj"><span class="a-cn">事</span><span class="a-py">shì</span><span class="a-en">matter; thing (abstract)</span></span>
+      <span class="adj"><span class="a-cn">方向</span><span class="a-py">fāngxiàng</span><span class="a-en">direction</span></span>
+      <span class="adj"><span class="a-cn">方位</span><span class="a-py">fāngwèi</span><span class="a-en">orientation; cardinal point</span></span>
+      <span class="adj"><span class="a-cn">左右</span><span class="a-py">zuǒyòu</span><span class="a-en">left-right; approximately</span></span>
+      <span class="adj"><span class="a-cn">上下</span><span class="a-py">shàngxià</span><span class="a-en">up-down; approximately</span></span>
+      <span class="adj"><span class="a-cn">前后</span><span class="a-py">qiánhòu</span><span class="a-en">front-back; before and after</span></span>
+      <span class="adj"><span class="a-cn">里外</span><span class="a-py">lǐwài</span><span class="a-en">inside-outside</span></span>
+      <span class="adj"><span class="a-cn">南北</span><span class="a-py">nánběi</span><span class="a-en">north-south</span></span>
+      <span class="adj"><span class="a-cn">五行</span><span class="a-py">wǔxíng</span><span class="a-en">Five Phases / Elements</span></span>
+      <span class="adj"><span class="a-cn">方</span><span class="a-py">fāng</span><span class="a-en">direction; side; square</span></span>
+    </div>
+
+    <!-- RETENTION SCHOLAR BOX -->
+    <div class="scholar" data-glyph="西" style="margin-top:2.5rem;">
+      <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
+      <p>The next time someone asks if you want anything from the store and you reply 不用，我不需要什么东西 — you are invoking the ancient markets of Chang'an, the Five Phases cosmology, and the east-west axis of the Chinese worldview. The word for "stuff" is a compressed map of the universe.</p>
+      <p>Hold two images in mind: the neutral, breathy dōngxi (flat, quick — your keys, your lunch, your stuff) versus the deliberate dōng xī with both tones fully voiced (the axis on which civilizations are arranged from the Silk Road to the Pacific). One describes what's in your bag; the other describes the shape of the world.</p>
+      <p>That is what makes Chinese vocabulary so endlessly rich: the ordinary is never merely ordinary. Every common word is a compressed history, a cosmological diagram, a ghost of a Tang dynasty market still open for business.</p>
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="page-footer">
+      <span class="footer-id">Field Notes on Chinese · <span>东西 dōngxi</span> · dongxi_东西.html</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>

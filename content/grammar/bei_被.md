@@ -1,0 +1,637 @@
+---
+type: 'grammar'
+category: 'grammar'
+status: 'complete'
+title: '被 · the passive'
+desc: 'Agentive passive, unmarked passive, and the adversarial connotation.'
+metaDesc: "被 bèi: the Chinese passive — adversative in flavor, derived from 'being covered.' Classical origins in 见 and 为…所, colloquial variants with 叫/让/给, and the ironic internet 被XX neologism."
+pageTitle: '被 bèi'
+tags:
+  - 'passive'
+  - 'syntax'
+  - 'agent'
+updated: '2026-04-18'
+pinyin: 'bèi'
+---
+
+<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+
+    <span class="toc-topic">被</span>
+    <span class="toc-topic-en">The Passive</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#etymology">
+        <span class="toc-cn">字源</span> Etymology
+        <span class="toc-sub">covering, garments, being acted upon</span>
+      </a></li>
+      <li><a href="#patterns">
+        <span class="toc-cn">句型</span> Pattern
+        <span class="toc-sub">Subj + 被 + Agent + V + Result</span>
+      </a></li>
+      <li><a href="#canonical">
+        <span class="toc-cn">典型句</span> Canonical Sentences
+        <span class="toc-sub">bike stolen, glass broken</span>
+      </a></li>
+      <li><a href="#agentless">
+        <span class="toc-cn">无施动者</span> Agentless 被
+        <span class="toc-sub">no agent mentioned</span>
+      </a></li>
+      <li><a href="#colloquial">
+        <span class="toc-cn">口语变体</span> 叫/让/给 Variants
+        <span class="toc-sub">colloquial alternatives</span>
+      </a></li>
+      <li><a href="#internet">
+        <span class="toc-cn">网络被</span> Internet 被XX
+        <span class="toc-sub">the ironic neologism</span>
+      </a></li>
+      <li><a href="#table">
+        <span class="toc-cn">对照表</span> Verb Table
+        <span class="toc-sub">common V + result phrases</span>
+      </a></li>
+      <li><a href="#chengyu">
+        <span class="toc-cn">成语</span> Idioms
+        <span class="toc-sub">powerlessness, being acted upon</span>
+      </a></li>
+      <li><a href="#adjacent">
+        <span class="toc-cn">相邻</span> Adjacent Vocab
+        <span class="toc-sub">related constructions</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- HERO -->
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">Grammar · 语法 yǔfǎ</span>
+      <h1 class="topic-hero-title">被</h1>
+      <span class="topic-hero-title-py">bèi</span>
+      <p class="topic-hero-desc">The passive marker with an adversarial soul — etymologically a garment that covers you, grammatically a structure that encodes being acted upon, often against your interests or without your control.</p>
+    </header>
+
+    <!-- ── ETYMOLOGY ── -->
+    <span class="section-anchor" id="etymology"></span>
+    <div class="section-head">
+      <span class="sh-cn">字源</span>
+      <span class="sh-py">zìyuán</span>
+      <span class="sh-en">Etymology — Being Covered</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="被">
+      <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
+      <p><strong>被 bèi</strong> is composed of <strong>衣 yī</strong> (clothing; garment, appearing as the left radical 衤) + <strong>皮 pí</strong> (skin; hide; the outer surface of something). The original meaning is a <em>garment made of skin or hide</em> — a covering. By extension: to be covered by something, to have something laid over you. This concrete image of being draped, overlaid, or acted upon from outside is the root of the passive grammatical function. Something external descends upon you and covers you; you are the recipient, not the agent.</p>
+      <p>In Classical Chinese, 被 retained its concrete meaning and appeared in literary contexts: 被 as a quilt or covering, and 被发 (hair hanging loose — uncovered, unbound). The passive grammatical use developed gradually, with 被 appearing in passive constructions from the Han dynasty onward. Before that, Classical Chinese expressed the passive through <strong>见 jiàn</strong> (lit. to be seen) — 见笑 "to be laughed at" — and through the structure <strong>为…所 wéi…suǒ</strong>, which remains in formal and literary usage today.</p>
+      <p>A critical fact about 被: unlike the English passive, which is stylistically neutral and can even elevate register (bureaucratic, formal, scientific writing), the Chinese 被 carries a distinct <strong>adversative or unfortunate connotation</strong>. Something is done <em>to</em> the subject, typically something undesirable or outside their control. Being covered by something is rarely comfortable.</p>
+    </div>
+
+    <!-- ── PATTERN BOX ── -->
+    <span class="section-anchor" id="patterns"></span>
+    <div class="section-head">
+      <span class="sh-cn">句型</span>
+      <span class="sh-py">jùxíng</span>
+      <span class="sh-en">Core Pattern — Subject Is Acted Upon</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">被字句 bèizì jù · The 被 Construction Pattern</span>
+      <strong>Full form (with agent):</strong><br>
+      <code>Subject + 被 + Agent + Verb + Result</code><br>
+      自行车 + 被 + 小偷 + 偷 + 走了。Zìxíngchē bèi xiǎotōu tōu zǒu le. — The bicycle was stolen by the thief.<br><br>
+      <strong>Short form (agentless):</strong><br>
+      <code>Subject + 被 + Verb + Result</code><br>
+      自行车 + 被偷了。Zìxíngchē bèi tōu le. — The bicycle was stolen.<br><br>
+      <strong>Key requirements:</strong><br>
+      1. The verb phrase must have a <em>result</em> — bare verb after 被 is generally ungrammatical.<br>
+      2. The subject is the <em>patient</em> — the thing acted upon, typically negatively affected.<br>
+      3. The agent (if mentioned) follows 被 directly, before the verb.
+    </div>
+
+    <div class="scholar" data-glyph="被">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · Classical Passives — 见 and 为…所</div>
+      <p>Modern 被 does not exhaust the Chinese passive system. In Classical Chinese and formal modern writing, two other constructions appear:</p>
+      <p><strong>见 jiàn</strong> as passive marker: 见笑 jiànxiào (to be laughed at), 见弃 jiànqì (to be abandoned), 见教 jiànjiào (to be instructed — a polite formula). This classical construction survives in fixed expressions and formal registers.</p>
+      <p><strong>为…所 wéi…suǒ</strong>: 为贼所盗 wéi zéi suǒ dào (to be robbed by a thief), 为敌所败 wéi dí suǒ bài (to be defeated by the enemy). This elegant literary passive remains common in formal and classical writing.</p>
+      <p>In spoken and informal Mandarin, colloquial passive markers <strong>叫 jiào, 让 ràng, 给 gěi</strong> cover the same ground as 被 and are more common in northern dialects and everyday speech. All four — 被, 叫, 让, 给 — are discussed below.</p>
+    </div>
+
+    <!-- ── CANONICAL SENTENCES ── -->
+    <span class="section-anchor" id="canonical"></span>
+    <div class="section-head">
+      <span class="sh-cn">典型句</span>
+      <span class="sh-py">diǎnxíng jù</span>
+      <span class="sh-en">Canonical 被 Sentences</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">自行车被偷了</span>
+          <span class="card-py">zìxíngchē bèi tōu le</span>
+          <span class="card-en">the bicycle was stolen</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">被 + V + 了 · completed adversarial act</span></div>
+        <div class="card-def">
+          The most prototypical 被 sentence. Theft is unwanted, the subject (bicycle) is the victim, the agent (the thief) may or may not be named. The 了 marks the completion of the unfortunate act. This is the template against which all 被 sentences should be measured: the subject has something done to it that it did not choose.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">我的自行车被偷了。</div>
+            <div class="ex-py">Wǒ de zìxíngchē bèi tōu le.</div>
+            <div class="ex-en">My bicycle was stolen.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他的钱包被小偷偷走了。</div>
+            <div class="ex-py">Tā de qiánbāo bèi xiǎotōu tōu zǒu le.</div>
+            <div class="ex-en">His wallet was stolen by a pickpocket.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">作业被老师批评了</span>
+          <span class="card-py">zuòyè bèi lǎoshī pīpíng le</span>
+          <span class="card-en">the homework was criticized by the teacher</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">被 + Agent + V + 了</span></div>
+        <div class="card-def">
+          Here the agent (老师, teacher) is explicitly named — the full 被 structure. The subject (homework) is criticized; criticism is typically unwanted. Note the result element 了 marking completion. Compare: 老师批评了作业 (teacher criticized the homework — SVO, neutral) vs. 作业被老师批评了 (the homework was criticized — foregrounding the homework as patient and the undesirability of the criticism).
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">她的作业被老师批评了。</div>
+            <div class="ex-py">Tā de zuòyè bèi lǎoshī pīpíng le.</div>
+            <div class="ex-en">Her homework was criticized by the teacher.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他被经理批评了一顿。</div>
+            <div class="ex-py">Tā bèi jīnglǐ pīpíng le yī dùn.</div>
+            <div class="ex-en">He was given a good scolding by the manager.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">玻璃被打破了</span>
+          <span class="card-py">bōlí bèi dǎ pò le</span>
+          <span class="card-en">the glass was broken</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">被 + V + 破 resultative complement</span></div>
+        <div class="card-def">
+          打 dǎ (to hit) + 破 pò (broken; shattered — resultative complement). The 破 is the result that makes the sentence grammatical. Breakage is typically undesirable — a window, a vase, a screen. The 被 construction here makes the glass the focus: it is the thing that suffered the breaking.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">窗户的玻璃被打破了。</div>
+            <div class="ex-py">Chuānghu de bōlí bèi dǎ pò le.</div>
+            <div class="ex-en">The window glass was broken.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">花瓶被猫碰倒打破了。</div>
+            <div class="ex-py">Huāpíng bèi māo pèng dǎo dǎ pò le.</div>
+            <div class="ex-en">The vase was knocked over and broken by the cat.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">计划被取消了</span>
+          <span class="card-py">jìhuà bèi qǔxiāo le</span>
+          <span class="card-en">the plan was cancelled</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">被 + V + 了 · institutional/organizational passive</span></div>
+        <div class="card-def">
+          Cancellations, postponements, rejections, and suspensions are natural territory for 被. The subject (plan) is acted upon by an impersonal or unspecified authority. The adversative flavor is clear: the plan was ended by something outside its (or its creator's) control. 被取消, 被拒绝, 被推迟, 被否决 are all common in news and institutional contexts.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">活动因为天气原因被取消了。</div>
+            <div class="ex-py">Huódòng yīnwèi tiānqì yuányīn bèi qǔxiāo le.</div>
+            <div class="ex-en">The event was cancelled due to weather.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他的申请被拒绝了。</div>
+            <div class="ex-py">Tā de shēnqǐng bèi jùjué le.</div>
+            <div class="ex-en">His application was rejected.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards canonical -->
+
+    <!-- ── AGENTLESS 被 ── -->
+    <span class="section-anchor" id="agentless"></span>
+    <div class="section-head">
+      <span class="sh-cn">无施动者被</span>
+      <span class="sh-py">wú shīdòngzhě bèi</span>
+      <span class="sh-en">Agentless 被 — No Agent Mentioned</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">被打了</span>
+          <span class="card-py">bèi dǎ le</span>
+          <span class="card-en">got hit; was beaten (by an unspecified agent)</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">被 + V + 了 · agentless</span></div>
+        <div class="card-def">
+          When the agent is unknown, irrelevant, or deliberately omitted, the 被 construction works without naming who did the action. The 被 alone signals passive and adversarial meaning. The agentless form is especially common when: the agent is obvious from context, the speaker doesn't know who did it, or the speaker wants to emphasize the experience of the subject rather than the identity of the actor.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他被打了，脸上有伤。</div>
+            <div class="ex-py">Tā bèi dǎ le, liǎn shàng yǒu shāng.</div>
+            <div class="ex-en">He got hit — there are injuries on his face.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">孩子被打哭了。</div>
+            <div class="ex-py">Háizi bèi dǎ kū le.</div>
+            <div class="ex-en">The child was hit and cried.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">被误解了</span>
+          <span class="card-py">bèi wùjiě le</span>
+          <span class="card-en">was misunderstood (adversarial — not one's intention)</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">被 + V + 了 · agentless, communicative</span></div>
+        <div class="card-def">
+          Misunderstanding, misrepresentation, and mistreatment are quintessential 被 territory. The speaker's intention or the subject's nature is distorted by someone else's interpretation. The adversarial quality is strong — no one wants to be misunderstood. Note how this works even with psychological/communicative verbs.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">我说的话被误解了。</div>
+            <div class="ex-py">Wǒ shuō de huà bèi wùjiě le.</div>
+            <div class="ex-en">My words were misunderstood.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他的好意被曲解了。</div>
+            <div class="ex-py">Tā de hǎoyì bèi qūjiě le.</div>
+            <div class="ex-en">His good intentions were twisted (misinterpreted).</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">被发现了</span>
+          <span class="card-py">bèi fāxiàn le</span>
+          <span class="card-en">was discovered; got caught (typically unwanted)</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">被 + V + 了 · agentless, discovery</span></div>
+        <div class="card-def">
+          Discovery can be neutral or positive in English (a new species was discovered), but in Chinese the 被 frame typically implies the subject was caught or uncovered against its will or to its disadvantage. 被发现 often implies that someone was hiding something that has now been exposed.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他偷东西被发现了。</div>
+            <div class="ex-py">Tā tōu dōngxi bèi fāxiàn le.</div>
+            <div class="ex-en">He was caught stealing.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">秘密被发现了。</div>
+            <div class="ex-py">Mìmì bèi fāxiàn le.</div>
+            <div class="ex-en">The secret was found out.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards agentless -->
+
+    <!-- ── 叫/让/给 VARIANTS ── -->
+    <span class="section-anchor" id="colloquial"></span>
+    <div class="section-head">
+      <span class="sh-cn">口语变体</span>
+      <span class="sh-py">kǒuyǔ biàntǐ</span>
+      <span class="sh-en">叫 / 让 / 给 — Colloquial Passive Variants</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="被">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · The Colloquial Passive System</div>
+      <p>In spoken Mandarin, especially northern dialects and colloquial speech broadly, 被 is often replaced by 叫 jiào, 让 ràng, or 给 gěi as passive markers. These are grammatically equivalent to 被 in their passive function but carry a more casual register. All three retain the adversarial connotation of 被.</p>
+      <p>Note: 让 and 叫 also serve as causative verbs (让 = to let, to have someone do something; 叫 = to tell, to have someone do something), so their passive function is context-dependent. When followed by a noun agent and a verb phrase with a result, the passive reading is typically clear. The three are generally interchangeable in speech, though 给 is particularly common in some regional dialects.</p>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">书让他拿走了</span>
+          <span class="card-py">shū ràng tā ná zǒu le</span>
+          <span class="card-en">the book was taken away by him (colloquial 让 passive)</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">让 + Agent + V + Result · colloquial passive</span></div>
+        <div class="card-def">
+          让 ràng as passive marker: Subject + 让 + Agent + Verb + Result. Equivalent to 书被他拿走了, but more colloquial. 让 feels more spoken, lighter in register. Common across Mandarin dialects and in casual conversation. Note that 让 can also mean "let/allow" — context disambiguates.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">书让他拿走了。</div>
+            <div class="ex-py">Shū ràng tā ná zǒu le.</div>
+            <div class="ex-en">The book was taken away by him. (= 书被他拿走了)</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">我的东西让人弄坏了。</div>
+            <div class="ex-py">Wǒ de dōngxi ràng rén nòng huài le.</div>
+            <div class="ex-en">My things got damaged by someone.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">钱给人骗了</span>
+          <span class="card-py">qián gěi rén piàn le</span>
+          <span class="card-en">the money was scammed (colloquial 给 passive)</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">给 + Agent + V + 了 · colloquial passive</span></div>
+        <div class="card-def">
+          给 gěi as passive marker: Subject + 给 + Agent + Verb + Result. 给 in this passive function is particularly common in certain regional varieties of Mandarin. The adversarial connotation is strong — money being deceived out of someone is a very 被-appropriate scenario. Note: 给人 = "by people, by someone" — 人 rén used as a vague agent.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他的钱给骗子骗走了。</div>
+            <div class="ex-py">Tā de qián gěi piànzi piàn zǒu le.</div>
+            <div class="ex-en">His money was swindled away by a con artist.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">蛋糕给孩子们吃完了。</div>
+            <div class="ex-py">Dàngāo gěi háizimen chī wán le.</div>
+            <div class="ex-en">The cake was eaten up by the kids.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">孩子叫雨淋湿了</span>
+          <span class="card-py">háizi jiào yǔ lín shī le</span>
+          <span class="card-en">the child got soaked by the rain (colloquial 叫 passive)</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">叫 + Agent + V + Result · colloquial passive</span></div>
+        <div class="card-def">
+          叫 jiào as passive marker: Subject + 叫 + Agent + Verb + Result. The most distinctly northern/colloquial of the three. Rain soaking a child is the kind of minor adversarial act that all four passive markers handle naturally. Note that 叫 can also mean "to call, to be called" — the passive reading requires the agent-verb-result structure.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">孩子叫雨淋湿了。</div>
+            <div class="ex-py">Háizi jiào yǔ lín shī le.</div>
+            <div class="ex-en">The child got soaked by the rain. (= 孩子被雨淋湿了)</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">衣服叫风吹干了。</div>
+            <div class="ex-py">Yīfu jiào fēng chuī gān le.</div>
+            <div class="ex-en">The clothes were blown dry by the wind.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">辨析 biànxī · 被/叫/让/给 Register</span>
+          被 = standard, formal, literary — the safe default in writing and formal speech. 让 = colloquial, widespread. 叫 = colloquial, northern flavor. 给 = colloquial, some regional variation. In formal writing, essays, and news, 被 is strongly preferred.
+        </div>
+      </div>
+
+    </div><!-- /cards colloquial -->
+
+    <!-- ── INTERNET 被 ── -->
+    <span class="section-anchor" id="internet"></span>
+    <div class="section-head">
+      <span class="sh-cn">网络被</span>
+      <span class="sh-py">wǎngluò bèi</span>
+      <span class="sh-en">Internet 被XX — The Ironic Neologism</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="被">
+      <div class="scholar-label">文化洞见 wénhuà dòngjiàn · 被XX: When Grammar Becomes Satire</div>
+      <p>In the late 2000s and early 2010s, Chinese internet culture developed a powerful ironic use of 被 as a productive prefix meaning "forcibly, falsely, or without consent attributed with." By attaching 被 to any verb or adjective, speakers could create neologisms describing situations where authorities or institutions <em>impose a label or action on someone against their will or against the facts</em>.</p>
+      <p><strong>被自杀 bèi zìshā</strong> (to be "suicided") — used to describe cases where individuals died in custody or under suspicious circumstances that were officially classified as suicide, regardless of evidence. The grammatical absurdity of making "suicide" passive captures the grotesque irony: one cannot truly choose suicide if someone else did it to you. This expression spread virally as a form of coded commentary on extrajudicial deaths.</p>
+      <p><strong>被代表 bèi dàibiǎo</strong> (to have one's views "represented" without consent) — used when officials or institutions claim to represent the interests of a group that was never consulted. "I didn't say that — I was represented."</p>
+      <p>The 被XX construction is a masterclass in how grammar can become political: by mechanically applying a passive marker to actions that are by definition self-initiated (自杀, 自愿 volunteer, 幸福 happy), the structure exposes the gap between claimed agency and actual coercion.</p>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">被自杀</span>
+          <span class="card-py">bèi zìshā</span>
+          <span class="card-en">to be "suicided" — killed and declared a suicide</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">被XX ironic passive neologism</span></div>
+        <div class="card-def">
+          The most striking 被XX neologism. 自杀 zìshā means "to kill oneself" — a self-directed, voluntary act. Making it passive (被自杀) creates a grammatical impossibility that points to a political reality: a death classified as suicide that was, in the speaker's understanding, not self-chosen. Spread widely on Chinese social media in the 2000s–2010s as satire.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">又一个人"被自杀"了。</div>
+            <div class="ex-py">Yòu yī gè rén "bèi zìshā" le.</div>
+            <div class="ex-en">Another person has been "suicided." (ironic quotation marks signal the satirical use)</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">语言学注意 yǔyánxué zhùyì · Linguistic Note</span>
+          The grammatical absurdity is the entire point. By the same logic: 被幸福 bèi xìngfú (to be declared happy whether or not you are), 被自愿 bèi zìyuàn (to be "voluntarily" forced into something), 被捐款 bèi juānkuǎn (to have one's "donation" extracted). Each uses grammar to expose institutional doublespeak.
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">被代表</span>
+          <span class="card-py">bèi dàibiǎo</span>
+          <span class="card-en">to have one's views "represented" without consent</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">被XX ironic passive neologism</span></div>
+        <div class="card-def">
+          代表 dàibiǎo (to represent; a representative). 被代表 = someone else speaks for you without your authorization and claims to represent your interests or views. Common in discussions of political representation, media coverage, and institutional claims to speak "for the people." A fundamental complaint about top-down communication framed as participation.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">我没说过那些话，我被代表了。</div>
+            <div class="ex-py">Wǒ méi shuō guò nàxiē huà, wǒ bèi dàibiǎo le.</div>
+            <div class="ex-en">I never said those things — I was "represented."</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards internet -->
+
+    <!-- ── TABLE ── -->
+    <span class="section-anchor" id="table"></span>
+    <div class="section-head">
+      <span class="sh-cn">对照表</span>
+      <span class="sh-py">duìzhào biǎo</span>
+      <span class="sh-en">Common V + Result Phrases in 被 Sentences</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>动词 Verb</th>
+            <th>补语 Result</th>
+            <th>被句 被 Sentence</th>
+            <th>英文 English</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="td-cn">偷 tōu</td>
+            <td class="td-cn">走了 zǒu le</td>
+            <td class="td-cn">被偷走了</td>
+            <td>was stolen away</td>
+          </tr>
+          <tr>
+            <td class="td-cn">打 dǎ</td>
+            <td class="td-cn">破了 pò le</td>
+            <td class="td-cn">被打破了</td>
+            <td>was broken (smashed)</td>
+          </tr>
+          <tr>
+            <td class="td-cn">骗 piàn</td>
+            <td class="td-cn">了 le</td>
+            <td class="td-cn">被骗了</td>
+            <td>was deceived / got scammed</td>
+          </tr>
+          <tr>
+            <td class="td-cn">拒绝 jùjué</td>
+            <td class="td-cn">了 le</td>
+            <td class="td-cn">被拒绝了</td>
+            <td>was rejected</td>
+          </tr>
+          <tr>
+            <td class="td-cn">取消 qǔxiāo</td>
+            <td class="td-cn">了 le</td>
+            <td class="td-cn">被取消了</td>
+            <td>was cancelled</td>
+          </tr>
+          <tr>
+            <td class="td-cn">批评 pīpíng</td>
+            <td class="td-cn">了一顿</td>
+            <td class="td-cn">被批评了一顿</td>
+            <td>was given a scolding</td>
+          </tr>
+          <tr>
+            <td class="td-cn">淋 lín</td>
+            <td class="td-cn">湿了 shī le</td>
+            <td class="td-cn">被淋湿了</td>
+            <td>got soaked (by rain)</td>
+          </tr>
+          <tr>
+            <td class="td-cn">误解 wùjiě</td>
+            <td class="td-cn">了 le</td>
+            <td class="td-cn">被误解了</td>
+            <td>was misunderstood</td>
+          </tr>
+          <tr>
+            <td class="td-cn">发现 fāxiàn</td>
+            <td class="td-cn">了 le</td>
+            <td class="td-cn">被发现了</td>
+            <td>was discovered / got caught</td>
+          </tr>
+          <tr>
+            <td class="td-cn">解雇 jiěgù</td>
+            <td class="td-cn">了 le</td>
+            <td class="td-cn">被解雇了</td>
+            <td>was fired; got let go</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- ── CHENGYU ── -->
+    <span class="section-anchor" id="chengyu"></span>
+    <div class="section-head">
+      <span class="sh-cn">成语</span>
+      <span class="sh-py">chéngyǔ</span>
+      <span class="sh-en">Idioms — Powerlessness &amp; Being Acted Upon</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="chengyu-grid">
+
+      <div class="cy">
+        <span class="cy-cn">身不由己</span>
+        <span class="cy-py">shēn bù yóu jǐ</span>
+        <span class="cy-en">one's body is not one's own to command — to be at the mercy of circumstances, acting against one's own will</span>
+        <span class="cy-note">Lit: body-not-by-oneself. The classical articulation of the passive condition as an existential state. Not just an action done to you, but an entire situation in which you are not the master of your own movements. Often used to explain why one couldn't show up, couldn't refuse, or couldn't act differently. The spirit of 被 in idiom form.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">任人宰割</span>
+        <span class="cy-py">rèn rén zǎi gē</span>
+        <span class="cy-en">to be at the mercy of others; to be slaughtered at will by whoever wants to</span>
+        <span class="cy-note">Lit: let-people-slaughter-carve. The extreme end of the 被 spectrum — not just being acted upon but being vulnerable to anyone who chooses to exploit you. 宰割 = to slaughter and carve up (animals, and by extension, the weak). Used in historical contexts (colonial humiliation) and personal contexts (being taken advantage of).</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">受制于人</span>
+        <span class="cy-py">shòu zhì yú rén</span>
+        <span class="cy-en">to be controlled by others; to be subject to another's power</span>
+        <span class="cy-note">Lit: receive-control-by-people. The standard formal expression for being under another's power, being constrained by external forces rather than acting freely. Common in diplomatic, strategic, and business contexts. The grammatical structure 受…于 is classical — modern equivalent would be 被人控制.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">为虎作伥</span>
+        <span class="cy-py">wèi hǔ zuò chāng</span>
+        <span class="cy-en">to be a henchman for the tiger; to help the powerful oppress others</span>
+        <span class="cy-note">Lit: for-tiger-act-as-ghost-of-the-slain. In Chinese folklore, the ghost of someone eaten by a tiger becomes a 伥 — a spirit that lures future victims to the tiger. To 为虎作伥 is to be co-opted into serving the very power that devoured you. A dark metaphor for collaboration with oppressors — and a vivid illustration of how passivity can become complicity.</span>
+      </div>
+
+    </div>
+
+    <!-- ── ADJACENT VOCAB ── -->
+    <span class="section-anchor" id="adjacent"></span>
+    <div class="section-head">
+      <span class="sh-cn">相邻词汇</span>
+      <span class="sh-py">xiānglín cíhuì</span>
+      <span class="sh-en">Adjacent Vocabulary</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">把</span><span class="a-py">bǎ</span><span class="a-en">disposal construction (active counterpart)</span></span>
+      <span class="adj"><span class="a-cn">让</span><span class="a-py">ràng</span><span class="a-en">colloquial passive / causative</span></span>
+      <span class="adj"><span class="a-cn">叫</span><span class="a-py">jiào</span><span class="a-en">colloquial passive / to call</span></span>
+      <span class="adj"><span class="a-cn">给</span><span class="a-py">gěi</span><span class="a-en">colloquial passive / to give</span></span>
+      <span class="adj"><span class="a-cn">受</span><span class="a-py">shòu</span><span class="a-en">to receive; to undergo</span></span>
+      <span class="adj"><span class="a-cn">遭</span><span class="a-py">zāo</span><span class="a-en">to suffer; to encounter (misfortune)</span></span>
+      <span class="adj"><span class="a-cn">遭受</span><span class="a-py">zāoshòu</span><span class="a-en">to suffer; to be subjected to</span></span>
+      <span class="adj"><span class="a-cn">为…所</span><span class="a-py">wéi…suǒ</span><span class="a-en">classical passive construction</span></span>
+      <span class="adj"><span class="a-cn">见</span><span class="a-py">jiàn</span><span class="a-en">classical passive marker (见笑, 见弃)</span></span>
+      <span class="adj"><span class="a-cn">主动</span><span class="a-py">zhǔdòng</span><span class="a-en">active (grammatical term)</span></span>
+      <span class="adj"><span class="a-cn">被动</span><span class="a-py">bèidòng</span><span class="a-en">passive (grammatical term)</span></span>
+      <span class="adj"><span class="a-cn">施事</span><span class="a-py">shīshì</span><span class="a-en">agent (linguistics)</span></span>
+      <span class="adj"><span class="a-cn">受事</span><span class="a-py">shòushì</span><span class="a-en">patient (linguistics)</span></span>
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="page-footer">
+      <span class="footer-id">Field Notes on Chinese · <span>被 bèi</span> · bei_被.html</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>

@@ -419,7 +419,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 充满 — chōngmǎn — V — full of, brimming with, very full
 - 重 — chóng — Adv — heavy; important
 - 初 — chū — Adv — (bound form) at first; initially, (bound form) first; early, (bound form) (in lunar calendar dates, before nume
-- 初（初一） — chū (chūyī) — Prefix — [gloss needed]
+- 初（初一） — chū (chūyī) — Prefix — prefix: ordinal/initial (e.g. 初一 first day of the month)
 - 初步 — chūbù — Adj — initial, preliminary, tentative
 - 初级 — chūjí — Adj — junior, primary
 - 初中 — chūzhōng — N — junior high school (abbr. for 初級中學|初级中学[chu1 ji2 z
@@ -468,7 +468,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 电视剧 — diànshìjù — N — TV series, TV drama, CL:部[bu4]
 - 电视台 / 電視臺 — diànshìtái — N — TV station
 - 电台 — diàntái — N — transmitter-receiver, broadcasting station, radio station
-- 电子邮件 / 電子郵件 — diànzǐ yóujiàn — [gloss needed]
+- 电子邮件 / 電子郵件 — diànzǐ yóujiàn — email, electronic mail
 - 调 — diào — V — to transfer, to move (troops or cadres), to investigate
 - 调查 / 調查 — diàochá — V/N — to investigate; survey
 - 订 — dìng — V — to agree, to conclude, to draw up
@@ -508,13 +508,13 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 房屋 — fángwū — N — house, building, CL:所[suo3],套[tao4]
 - 房租 — fángzū — N — rent for a room or house
 - 访问 — fǎngwèn — V — to visit; to call on (a person or place), (computing) to visit (a website); to access (a net, (Tw) to interview (e.g. for a report or feature st
-- 放到 — fàngdào — [gloss needed]
+- 放到 — fàngdào — to put into, to place at
 - 飞行 — fēixíng — V — (of planes etc) to fly, flying, flight
 - 费 — fèi — V/N — surname Fei
 - 费用 — fèiyong — N — cost, expenditure, expense
 - 分别 — fēnbié — V/Adv — to part; to leave each other, to distinguish; to tell apart, difference; distinction
 - 分配 — fēnpèi — V — to distribute, to assign, to allocate
-- 分组 / 分組 — fēn zǔ — [gloss needed]
+- 分组 / 分組 — fēn zǔ — to divide into groups
 - 丰富 / 豐富 — fēngfù — Adj — rich, abundant; to enrich
 - 风险 / 風險 — fēngxiǎn — N — risk, danger
 - 否定 — fǒudìng — V/Adj — to negate, to deny, to reject
@@ -541,7 +541,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 感受 — gǎnshòu — N/V — to feel, to experience; feeling
 - 干吗 — gànmá — Pron — variant of 幹嘛|干嘛[gan4 ma2]
 - 高速 — gāosù — Adj — high speed, expressway (abbr. for 高速公路[gao1 su4 gong1 lu4])
-- 高速公路 — gāosù gōnglù — [gloss needed]
+- 高速公路 — gāosù gōnglù — expressway, highway
 - 告别 / 告別 — gàobié — to leave; to part from, to bid farewell to; to say goodbye to
 - 歌迷 — gēmí — N — fan of a singer
 - 歌声 — gēshēng — N — singing voice, fig. original voice of a poet
@@ -617,7 +617,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 互相 — hùxiāng — Adv — each other, mutually
 - 划船 — huáchuán — V — to row a boat, rowing; boating, small boat
 - 华人 — huárén — N — ethnic Chinese person or people
-- 化（现代化） / 化（現代化） — huà (xiàndàihuà) — Suffix — [gloss needed]
+- 化（现代化） / 化（現代化） — huà (xiàndàihuà) — Suffix — suffix: -ize, -ification (e.g. 现代化 modernization)
 - 话剧 — huàjù — N — stage play, modern drama, CL:臺|台[tai2],部[bu4]
 - 话题 — huàtí — N — subject (of a talk or conversation), topic
 - 欢乐 — huānlè — Adj — gaiety, gladness, glee
@@ -634,7 +634,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 基本上 — jīběnshàng — Adv — basically, on the whole
 - 基础 / 基礎 — jīchǔ — N — foundation, base
 - 及时 — jíshí — Adj — timely; at the right time, promptly; without delay
-- …极了 / …極了 — …jí le — [gloss needed]
+- …极了 / …極了 — …jí le — extremely …, to the extreme degree
 - 集体 — jítǐ — N — collective (decision), joint (effort), a group
 - 集中 — jízhōng — V/Adj — to concentrate, to centralize, to focus
 - 计算 — jìsuàn — V — to calculate; to compute, to consider; to think over, to plot; to scheme
@@ -727,8 +727,8 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 开始 — kāishǐ — V/N — to begin, beginning, to start
 - 开业 / 開業 — kāiyè — to open a business, to open a practice, open (for business)
 - 开展 / 開展 — kāizhǎn — V — to develop, to carry out, to launch
-- 看起来 / 看起來 — kàn qǐlái — [gloss needed]
-- 看上去 — kàn shàngqù — [gloss needed]
+- 看起来 / 看起來 — kàn qǐlái — it looks like, it seems
+- 看上去 — kàn shàngqù — it looks like, it appears
 - 考验 — kǎoyàn — V — to test, to put to the test, trial
 - 科技 — kējì — N — science and technology
 - 可靠 — kěkào — Adj — reliable
@@ -776,7 +776,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 领导 / 領導 — lǐngdǎo — V/N — to lead; leader, leadership
 - 领先 / 領先 — lǐngxiān — to lead, to be in front
 - 另外 — lìngwài — Pron/Adv/Conj — additional, in addition, besides
-- 另一方面 — lìng yīfāngmiàn — [gloss needed]
+- 另一方面 — lìng yīfāngmiàn — on the other hand
 - 留学 / 留學 — liúxué — to study abroad
 - 龙 — lóng — N — surname Long
 - 录 — lù — V — to carve wood
@@ -824,7 +824,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 内 — nèi — N — inside, inner, internal
 - 内容 / 內容 — nèiróng — N — content
 - 内心 — nèixīn — N — heart; innermost being, (math.) incenter
-- 能不能 — néng bu néng — [gloss needed]
+- 能不能 — néng bu néng — can or cannot, is it possible to
 - 能力 — nénglì — N — ability, capability
 - 年初 — niánchū — N — beginning of the year
 - 年代 — niándài — N — decade, era
@@ -1126,7 +1126,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 形状 — xíngzhuàng — N — form; shape
 - 幸福 — xìngfú — Adj/N — happiness, happy, blessed
 - 幸运 — xìngyùn — Adj — fortunate; lucky, good fortune; luck
-- 性（积极性） / 性（積極性） — xìng(jījíxìng) — Suffix — [gloss needed]
+- 性（积极性） / 性（積極性） — xìng(jījíxìng) — Suffix — suffix: -ness, -ity (e.g. 积极性 enthusiasm)
 - 性别 — xìngbié — N — sex; gender
 - 性格 — xìnggé — N — nature, disposition, temperament
 - 修 — xiū — V — surname Xiu
@@ -1185,7 +1185,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 预防 — yùfáng — V — to prevent, to take precautions against, to protect
 - 预计 — yùjì — V — to forecast, to predict, to estimate
 - 预习 — yùxí — V — to prepare a lesson
-- 员（服务员） / 員（服務員） — yuán (fúwùyuán) — Suffix — [gloss needed]
+- 员（服务员） / 員（服務員） — yuán (fúwùyuán) — Suffix — suffix: -er, person in a role (e.g. 服务员 waiter)
 - 员工 — yuángōng — N — staff; personnel; employee
 - 愿望 — yuànwàng — N — desire, wish
 - 约 — yuē — V — to make an appointment, to invite, approximately
@@ -1201,7 +1201,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 展开 / 展開 — zhǎnkāi — to unfold; to spread out; to open up, to launch; to carry out
 - 张 — zhāng — M/V — surname Zhang
 - 照 — zhào — V/Prep — variant of 照[zhao4], to shine, to illuminate
-- 者（志愿者） / 者（志願者） — zhě (zhìyuànzhě) — Suffix — [gloss needed]
+- 者（志愿者） / 者（志願者） — zhě (zhìyuànzhě) — Suffix — suffix: -er, person who does (e.g. 志愿者 volunteer)
 - 真实 — zhēnshí — Adj — true; real
 - 争 — zhēng — V — to strive for, to vie for, to argue or debate
 - 争取 — zhēngqǔ — V — to fight for, to strive for, to win over
@@ -1244,7 +1244,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 制造 — zhìzào — V — to manufacture; to make
 - 制作 — zhìzuò — V — to make; to manufacture
 - 中部 — zhōngbù — N — middle part; central section; central region
-- 中华民族 / 中華民族 — Zhōnghuá Mínzú — [gloss needed]
+- 中华民族 / 中華民族 — Zhōnghuá Mínzú — the Chinese nation, the Chinese people (as a whole)
 - 终于 — zhōngyú — Adv — at last, in the end, finally
 - 钟 — zhōng — N — surname Zhong
 - 种 — zhǒng — M — seed, species, kind

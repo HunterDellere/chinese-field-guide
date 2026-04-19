@@ -1,0 +1,402 @@
+---
+type: 'topic'
+category: 'religion'
+status: 'complete'
+title: '妈祖 · the Sea Goddess'
+desc: 'Coastal goddess of sailors, fishermen, and the overseas Chinese diaspora.'
+metaDesc: "妈祖 māzǔ: the sea goddess of the Chinese maritime world — historical origin, legends, her divine attendants 千里眼 and 顺风耳, geographic spread from Fujian to Southeast Asia, and UNESCO heritage status. The patron deity of sailors and the overseas Chinese diaspora."
+pageTitle: '妈祖 māzǔ'
+tags:
+  - 'mazu'
+  - 'goddess'
+  - 'coast'
+updated: '2026-04-18'
+pinyin: 'māzǔ'
+---
+
+<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+
+    <span class="toc-topic">妈祖</span>
+    <span class="toc-topic-en">Mazu — the Sea Goddess</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#history">
+        <span class="toc-cn">历史起源</span> Historical Origin
+        <span class="toc-sub">Lin Mo · 960 CE</span>
+      </a></li>
+      <li><a href="#legends">
+        <span class="toc-cn">妈祖传说</span> The Legends
+        <span class="toc-sub">miracles &amp; deification</span>
+      </a></li>
+      <li><a href="#attendants">
+        <span class="toc-cn">千里眼顺风耳</span> The Attendants
+        <span class="toc-sub">divine generals</span>
+      </a></li>
+      <li><a href="#spread">
+        <span class="toc-cn">信仰分布</span> Geographic Spread
+        <span class="toc-sub">Fujian · Taiwan · SE Asia</span>
+      </a></li>
+      <li><a href="#maritime">
+        <span class="toc-cn">海洋文化</span> Maritime Legacy
+        <span class="toc-sub">hǎiyáng wénhuà</span>
+      </a></li>
+      <li><a href="#chengyu">
+        <span class="toc-cn">相关词语</span> Key Phrases
+        <span class="toc-sub">xiāngguān cíyǔ</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- HERO -->
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">Religion · 宗教 zōngjiào</span>
+      <h1 class="topic-hero-title">妈祖</h1>
+      <span class="topic-hero-title-py">māzǔ</span>
+      <p class="topic-hero-desc">A historical woman from a Fujian fishing island who died at twenty-eight, deified by sailors who survived storms she was said to have calmed — and now worshipped by hundreds of millions across the Chinese maritime world as the Heavenly Empress, protector of seafarers and the diaspora's patron goddess.</p>
+    </header>
+
+    <!-- ── HISTORICAL ORIGIN ── -->
+    <span class="section-anchor" id="history"></span>
+    <div class="section-head">
+      <span class="sh-cn">妈祖的历史起源</span>
+      <span class="sh-py">māzǔ de lìshǐ qǐyuán</span>
+      <span class="sh-en">Historical Origin — Lin Mo of Meizhou</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="妈">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · From Mortal to Goddess</div>
+      <p>Mazu began as a historical woman: <strong>林默 Lín Mò</strong> (also written 林默娘 Lín Mòniáng — "Silent Lin Girl"), born in 960 CE on <strong>湄洲岛 Méizhōu Dǎo</strong> (Meizhou Island), in what is now Putian County, Fujian province. Her family were fishermen and small-time maritime traders. The legends record that she was born silent — hence 默 mò (silent) — and did not cry at birth, which her family interpreted as a portent.</p>
+      <p>Lin Mo was said to be extraordinarily gifted from childhood: she could predict weather, heal the sick, enter trances (入定 rùdìng — a meditation state associated with Buddhist and Daoist adepts), and during her trances, she was believed to send her spirit across the sea to guide ships in distress. The pivotal legend: one night she fell into trance while weaving; in her vision she guided her father and brothers through a storm. Her mother broke her trance; she woke and announced that while she had saved her brothers, she had lost her father — who was found drowned. Her spirit-rescue powers were thereafter beyond doubt.</p>
+      <p>She died in 987 CE, aged twenty-seven or twenty-eight, reportedly ascending to Heaven from a clifftop (羽化升天 yǔhuà shēngtiān — a Daoist term for spiritual ascension). Posthumous deification followed quickly: sailors who survived storms attributed their rescue to her. The <strong>Song dynasty</strong> granted her the first imperial title in 1123 CE — 顺济夫人 Shùnjì Fūrén (Lady Who Brings Favorable Winds). The escalating sequence of imperial recognition across dynasties climaxed with the Qing Kangxi Emperor's 1683 proclamation elevating her to <strong>天后 Tiānhòu</strong> — "Heavenly Empress" — the highest title any deity could receive.</p>
+    </div>
+
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>朝代 Dynasty</th>
+            <th>封号 Title Granted</th>
+            <th>背景 Context</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>宋 Sòng (1123)</td>
+            <td class="td-cn">顺济夫人</td>
+            <td>First imperial recognition — rewarded after Fujian envoy survived sea storm</td>
+          </tr>
+          <tr>
+            <td>元 Yuán (1281)</td>
+            <td class="td-cn">护国明著天妃</td>
+            <td>Elevated to 天妃 Tiānfēi (Heavenly Consort) during Mongol maritime campaigns</td>
+          </tr>
+          <tr>
+            <td>明 Míng</td>
+            <td class="td-cn">护国庇民明著天妃</td>
+            <td>Zheng He voyages credited to Mazu's protection</td>
+          </tr>
+          <tr>
+            <td>清 Qīng (1683)</td>
+            <td class="td-cn">护国庇民妙灵昭应仁慈天后</td>
+            <td>Elevated to 天后 Tiānhòu — Heavenly Empress — after Qing conquest of Taiwan</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- ── LEGENDS ── -->
+    <span class="section-anchor" id="legends"></span>
+    <div class="section-head">
+      <span class="sh-cn">妈祖传说</span>
+      <span class="sh-py">māzǔ chuánshuō</span>
+      <span class="sh-en">The Legends — a Hagiography in Four Acts</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">灵梦救父</span>
+          <span class="card-py">língmèng jiù fù</span>
+          <span class="card-en">the trance-rescue — spirit-sailing to save her father</span>
+        </div>
+        <div class="card-def">
+          The foundational legend: Lin Mo, while weaving at home, fell into a trance. In her spirit-state, she crossed the sea, seized her father's boat with one hand and her brother's boat with the other, guiding them through a terrible storm. Her mother, alarmed by her unresponsive daughter, shook her awake — and she released her father's boat. He drowned. She had saved her brothers but lost her father to the interruption. This story establishes the mechanics of Mazu worship: she is present in the crisis, her power is real, but human interference can limit her intervention.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">妈祖入定时，能以神力远渡重洋，救助遇难的船只。</div>
+            <div class="ex-py">Māzǔ rùdìng shí, néng yǐ shénlì yuǎndù chóngyáng, jiùzhù yùnàn de chuánzhī.</div>
+            <div class="ex-en">When Mazu entered trance, she could cross the distant sea with divine power to rescue ships in distress.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">收千里眼顺风耳</span>
+          <span class="card-py">shōu Qiānlǐyǎn Shùnfēng'ěr</span>
+          <span class="card-en">subjugating the two divine generals</span>
+        </div>
+        <div class="card-def">
+          Two demonic generals — 千里眼 Qiānlǐyǎn (Eyes That See a Thousand Li, a green-faced demon) and 顺风耳 Shùnfēng'ěr (Ears That Hear Downwind, a red-faced demon) — terrorized the coastal people. Lin Mo defeated them in combat through her superior spiritual power, converting them to her service. They became her attendants and most distinctive iconographic markers: flanking her statue in every temple, they provide her with perfect perception of the sea, seeing and hearing distress across vast distances.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">妈祖降服了两位神将，让他们成为左右护法，为海上渔民守望。</div>
+            <div class="ex-py">Māzǔ xiángfú le liǎng wèi shénjiāng, ràng tāmen chéngwéi zuǒyòu hùfǎ, wèi hǎishàng yúmín shǒuwàng.</div>
+            <div class="ex-en">Mazu subdued the two divine generals and made them her guardian escorts, watching over fishermen at sea.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">挂席救船</span>
+          <span class="card-py">guà xí jiù chuán</span>
+          <span class="card-en">hanging her mat to calm the storm</span>
+        </div>
+        <div class="card-def">
+          A convoy of ships was caught in a typhoon. Crew members and merchants, terrified, invoked Mazu. Her red skirt (or in some versions a red lantern) was seen at the masthead — she was present. The storm subsided. This legend established the visual iconography of Mazu's intervention: her red garments seen at sea are the signal of her protective presence. Sailors would watch for apparitions of red at the rigging as signs that she was aboard.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">风暴中，船员见到桅杆上出现红衣女子，知是妈祖显灵，心安了。</div>
+            <div class="ex-py">Fēngbào zhōng, chuányuán jiàndào wéigǎn shàng chūxiàn hóng yī nǚzǐ, zhī shì Māzǔ xiǎnlíng, xīn'ān le.</div>
+            <div class="ex-en">In the storm, the crew saw a red-robed woman appear at the mast — knowing it was Mazu's divine presence, their hearts calmed.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">羽化升天</span>
+          <span class="card-py">yǔhuà shēngtiān</span>
+          <span class="card-en">ascension to Heaven — her death and deification</span>
+        </div>
+        <div class="card-def">
+          In 987 CE, at age twenty-seven or twenty-eight, Lin Mo climbed Meizhou Island's highest point. Witnesses reported hearing celestial music (仙乐 xiānyuè) and seeing her surrounded by colored clouds as she ascended into the sky. This is 羽化 yǔhuà — the Daoist term for physical transformation into an immortal, literally "feathered transformation." Her body was never found. The cliff she ascended from, 升天石 Shēngtiān Shí, remains a pilgrimage site on Meizhou Island today.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">相传妈祖在湄洲岛飞升，百姓见到彩云仙乐，知她已成神。</div>
+            <div class="ex-py">Xiāngguan Māzǔ zài Méizhōu Dǎo fēishēng, bǎixìng jiàndào cǎiyún xiānyuè, zhī tā yǐ chéng shén.</div>
+            <div class="ex-en">It is said that Mazu ascended at Meizhou Island — the people saw colored clouds and celestial music, knowing she had become a deity.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards legends -->
+
+    <!-- ── ATTENDANTS ── -->
+    <span class="section-anchor" id="attendants"></span>
+    <div class="section-head">
+      <span class="sh-cn">千里眼与顺风耳</span>
+      <span class="sh-py">Qiānlǐyǎn yǔ Shùnfēng'ěr</span>
+      <span class="sh-en">The Attendants — Icons of Divine Perception</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="眼">
+      <div class="scholar-label">图像志 túxiàngzhì · Iconography</div>
+      <p>The two attendants of Mazu — <strong>千里眼 Qiānlǐyǎn</strong> (Eyes-That-See-a-Thousand-Li) and <strong>顺风耳 Shùnfēng'ěr</strong> (Ears-That-Hear-Downwind) — are among the most visually distinctive figures in Chinese religious art. They appear flanking Mazu's central throne in virtually every temple.</p>
+      <p>千里眼 is green-faced, wild-eyed, hand raised to shade his eyes as he peers into the distance — a demon of hyperopic vision, seeing ships in peril far beyond the horizon. 顺风耳 is red-faced, with a cupped hand behind his enormous ear — a demon of superhuman hearing, catching the cries of drowning sailors carried on the wind. Together they give Mazu complete omniscience over the sea.</p>
+      <p>Their origin as defeated adversaries is theologically significant: in Chinese folk religion, powerful demons who are subjugated rather than destroyed become among the most loyal and capable divine servants. The energy of their former menace is redirected into protective service. The same pattern appears with many deities' attendants — the universe of Chinese folk religion is populated by redeemed adversaries.</p>
+      <p>In the modern world, 千里眼 and 顺风耳 have become metaphors for surveillance: CCTV cameras, intelligence networks, and modern communications are popularly described with these terms. The ancient divine pair maps neatly onto contemporary panopticon imagery.</p>
+    </div>
+
+    <div class="pattern">
+      <span class="label">妈祖像的标准图像 Standard Mazu Iconography</span>
+      <strong>面容</strong> — serene, imperial, often with elaborate headdress (凤冠 fèngguān, phoenix crown — same as empress) · <strong>服色</strong> — red robes (imperial, divine protection) · <strong>侍立两侧</strong> — 千里眼 (green, left) and 顺风耳 (red, right) · <strong>手持</strong> — tablet (笏 hù — the court official's tablet) or commander's seal (令牌 lìngpái) · <strong>神座</strong> — elevated throne facing south
+    </div>
+
+    <!-- ── GEOGRAPHIC SPREAD ── -->
+    <span class="section-anchor" id="spread"></span>
+    <div class="section-head">
+      <span class="sh-cn">妈祖信仰分布</span>
+      <span class="sh-py">māzǔ xìnyǎng fēnbù</span>
+      <span class="sh-en">Geographic Spread — a Maritime Civilization's Patron</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="海">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · Following the Migration Routes</div>
+      <p>The geography of Mazu worship maps almost perfectly onto the historical migration routes of the Hokkien (闽南人 Mǐnnán rén) and Teochew (潮州人 Cháozhōu rén) peoples of coastal Fujian and Guangdong — the groups who populated Taiwan and provided the bulk of overseas Chinese settlement in Southeast Asia from the 17th century onward. Wherever these people went by sea, they brought Mazu with them.</p>
+      <p>Estimates of worldwide Mazu worshippers range from 200 to 300 million — making her arguably the most widely venerated deity in the Chinese religious world. There are approximately 5,000 Mazu temples on Taiwan alone, and tens of thousands more globally. The Meizhou Island ancestral temple in Fujian receives millions of pilgrims annually, including large groups from Taiwan who cross the Taiwan Strait specifically for this purpose — a journey that carries both religious and political weight.</p>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">湄洲祖庙</span>
+          <span class="card-py">Méizhōu Zǔmiào</span>
+          <span class="card-en">the ancestral temple — source of all Mazu worship</span>
+        </div>
+        <div class="card-def">
+          The Meizhou Ancestral Temple (湄洲祖庙) on Meizhou Island, Putian, Fujian, is the origin point of all Mazu temples worldwide. The first small temple was reportedly built at her grave site not long after her death in 987 CE. It has been expanded, burned, rebuilt, and expanded again across ten centuries. Today a major complex with multiple halls, it remains the pilgrimage center to which all subsidiary temples worldwide trace their lineage. Taiwanese temple delegations regularly make the sea crossing to receive incense ash (香火 xiānghuǒ) from the Meizhou altar — this ash, carried home, spiritually links the local temple to the source.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">台湾各地的妈祖庙，大多能追溯其香火来源至湄洲祖庙。</div>
+            <div class="ex-py">Táiwān gèdì de Māzǔ miào, dàduō néng zhuīsù qí xiānghuǒ láiyuán zhì Méizhōu Zǔmiào.</div>
+            <div class="ex-en">Mazu temples throughout Taiwan can mostly trace the source of their incense to the Meizhou Ancestral Temple.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">大甲妈祖绕境</span>
+          <span class="card-py">Dàjiǎ Māzǔ Ràojìng</span>
+          <span class="card-en">the Dajia Pilgrimage — one of the world's largest religious events</span>
+        </div>
+        <div class="card-def">
+          The annual Dajia Mazu Pilgrimage (大甲妈祖绕境进香) is a nine-day, eight-night procession covering approximately 340 kilometers through central and southern Taiwan, beginning from the Zhenglong Temple (镇澜宫 Zhènlán Gōng) in Dajia, Taichung. An estimated two to three million participants take part each year — one of the largest religious gatherings in the world. The Mazu statue is carried in a palanquin through hundreds of towns and villages; believers kneel and allow the palanquin to pass over them, believing this brings blessing and healing.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">大甲妈祖绕境每年吸引数百万信众参与，是台湾最盛大的宗教活动。</div>
+            <div class="ex-py">Dàjiǎ Māzǔ ràojìng měi nián xīyǐn shùbǎi wàn xìnzhòng cānyù, shì Táiwān zuì shèngdà de zōngjiào huódòng.</div>
+            <div class="ex-en">The Dajia Mazu Pilgrimage attracts millions of believers each year — it is Taiwan's grandest religious event.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">天后宫</span>
+          <span class="card-py">Tiānhòu Gōng</span>
+          <span class="card-en">Tianhou Palace — her temples across the diaspora</span>
+        </div>
+        <div class="card-def">
+          After her elevation to 天后 (Heavenly Empress) by the Qing Emperor in 1683, Mazu's temples were formally renamed 天后宫 Tiānhòu Gōng (Tianhou Palace). This designation appears across the diaspora: Hong Kong's Tin Hau (天后 in Cantonese) temples, Vietnam's 天后宫 in Hội An, Malaysia's Cheng Hoon Teng (青云亭) in Melaka, and Singapore's Thian Hock Keng (天福宫). Each represents a community of Hokkien or Teochew migrants who brought Mazu on the sea crossing and built her a temple as their first community institution.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">东南亚的华人社区中，几乎每个唐人街都有一座天后宫。</div>
+            <div class="ex-py">Dōngnányà de Huárén shèqū zhōng, jīhū měi gè Tángrénjiē dōu yǒu yī zuò Tiānhòu Gōng.</div>
+            <div class="ex-en">In Chinese communities in Southeast Asia, almost every Chinatown has a Tianhou Palace.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">北港朝天宫</span>
+          <span class="card-py">Běigǎng Cháotiān Gōng</span>
+          <span class="card-en">Beigang Chaotian Temple — Taiwan's great Mazu shrine</span>
+        </div>
+        <div class="card-def">
+          The Chaotian Temple (朝天宫) in Beigang, Yunlin County, Taiwan, is one of the oldest and most revered Mazu temples on the island, traditionally dating its founding to 1694 CE. With Dajia's Zhenlangong, it is one of Taiwan's two dominant Mazu pilgrimage centers. The temple receives millions of visitors annually, especially during Mazu's birthday (农历三月二十三, the 23rd of the 3rd lunar month), when processions, opera performances, and incense offerings continue for days.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">妈祖诞辰，北港朝天宫香火鼎盛，信众络绎不绝。</div>
+            <div class="ex-py">Māzǔ dànchén, Běigǎng Cháotiān Gōng xiānghuǒ dǐngshèng, xìnzhòng luòyì bùjué.</div>
+            <div class="ex-en">On Mazu's birthday, the Beigang Chaotian Temple's incense burns vigorously, with worshippers streaming in without end.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards spread -->
+
+    <!-- ── MARITIME LEGACY ── -->
+    <span class="section-anchor" id="maritime"></span>
+    <div class="section-head">
+      <span class="sh-cn">妈祖与海洋文化</span>
+      <span class="sh-py">māzǔ yǔ hǎiyáng wénhuà</span>
+      <span class="sh-en">Maritime Legacy — Zheng He, UNESCO, and the Sea Civilization</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="洋">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · The Protector of the Maritime Silk Road</div>
+      <p>Mazu's worship expanded dramatically with China's great age of maritime activity. The Ming dynasty admiral <strong>郑和 Zhèng Hé</strong> (Zheng He, 1371–1433), who commanded seven massive voyages to Southeast Asia, India, Arabia, and East Africa between 1405 and 1433, was a devoted Mazu worshipper. His official account of the voyages, 瀛涯胜览 Yíngyá Shènglǎn, explicitly attributes the voyages' safety to Mazu's protection. A major Mazu temple in Quanzhou — the Tianhou Palace (天妃宫) — was the site where Zheng He reportedly presented offerings before departure and upon return.</p>
+      <p>The Mongol Yuan dynasty (1271–1368), which launched major naval campaigns across Southeast Asia and attempted invasions of Japan and Java, also attributed naval survival to Mazu. Her title 护国明著天妃 — "Heavenly Consort, Manifestly Illustrious Protector of the Nation" — dates to this period. Imperial patronage reinforced popular worship, and popular worship sustained imperial faith: a virtuous cycle of state-cult reinforcement.</p>
+      <p>In 2009, <strong>UNESCO</strong> inscribed "Mazu belief and customs" (妈祖信俗) on its Representative List of the Intangible Cultural Heritage of Humanity — one of the first Chinese folk religion practices to receive this recognition. The listing acknowledged Mazu belief as a living tradition with cultural significance for communities across China, Taiwan, and the global Chinese diaspora. The PRC and Taiwan — normally at odds over UNESCO participation — cooperated on this nomination, a measure of Mazu's power as a shared cultural heritage above political division.</p>
+    </div>
+
+    <!-- ── KEY PHRASES ── -->
+    <span class="section-anchor" id="chengyu"></span>
+    <div class="section-head">
+      <span class="sh-cn">相关词语与成语</span>
+      <span class="sh-py">xiāngguān cíyǔ yǔ chéngyǔ</span>
+      <span class="sh-en">Key Phrases and Idioms</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="chengyu-grid">
+
+      <div class="cy">
+        <span class="cy-cn">妈祖显灵</span>
+        <span class="cy-py">māzǔ xiǎn líng</span>
+        <span class="cy-en">Mazu's divine power manifests — a miracle attributed to her</span>
+        <span class="cy-note">显灵 xiǎn líng (lit. "spirit manifests") is the standard phrase for a deity's miraculous intervention. 妈祖显灵 is used when a ship survives a storm, a prayer is answered, or an illness is healed — any event attributed to Mazu's protective intervention. The concept of 灵验 língyàn (efficacious, supernaturally potent) is central to folk religion: a deity who delivers results gains more worshippers; one who does not may lose them.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">海不扬波</span>
+        <span class="cy-py">hǎi bù yáng bō</span>
+        <span class="cy-en">the sea does not surge — peaceful passage; a stable, unchallenged realm</span>
+        <span class="cy-note">Lit: sea-not-raise-waves. A classical phrase for the ideal of peaceful sea passage — exactly what Mazu provides. Used in Mazu temple inscriptions and ritual prayers. In broader usage, describes any situation of deep stability: 国泰民安，海不扬波 — "the nation is prosperous and the people are at peace; the sea does not surge."</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">普度众生</span>
+        <span class="cy-py">pǔdù zhòngshēng</span>
+        <span class="cy-en">to universally deliver all sentient beings from suffering</span>
+        <span class="cy-note">A Buddhist phrase (from Guanyin's vow) applied also to Mazu, who is often assimilated with the Goddess of Mercy in folk practice. 普度 pǔdù = universally deliver; 众生 zhòngshēng = all living beings. The 中元节 Ghost Festival is formally called 普度 in Taiwan — the universal deliverance of all wandering souls. Mazu, Guanyin, and the Ghost Festival overlap in this all-embracing compassion framework.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">天后圣母</span>
+        <span class="cy-py">Tiānhòu Shèngmǔ</span>
+        <span class="cy-en">Heavenly Empress, Holy Mother — Mazu's full honorific</span>
+        <span class="cy-note">The full formal title combines 天后 (Heavenly Empress — highest imperial designation) with 圣母 Shèngmǔ (Holy Mother — a term shared with the Blessed Virgin in Catholic contexts, creating interesting resonance in Fujian where Portuguese missionaries arrived in the 16th century). In Hokkien pronunciation: Thiⁿ-hāu Sèng-bó. Cantonese: Tīn Hāu. Each reading maps onto a distinct diaspora community's liturgical tradition.</span>
+      </div>
+
+    </div>
+
+    <!-- ADJACENT VOCAB -->
+    <div class="section-head" style="margin-top:2.5rem;">
+      <span class="sh-cn">相关词汇</span>
+      <span class="sh-py">xiāngguān cíhuì</span>
+      <span class="sh-en">Related Vocabulary</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">进香</span><span class="a-py">jìnxiāng</span><span class="a-en">to make a pilgrimage offering incense</span></span>
+      <span class="adj"><span class="a-cn">绕境</span><span class="a-py">ràojìng</span><span class="a-en">divine procession through the territory</span></span>
+      <span class="adj"><span class="a-cn">神轿</span><span class="a-py">shénjiào</span><span class="a-en">deity's palanquin (carried in procession)</span></span>
+      <span class="adj"><span class="a-cn">香火</span><span class="a-py">xiānghuǒ</span><span class="a-en">incense fire; the living link between temples</span></span>
+      <span class="adj"><span class="a-cn">显灵</span><span class="a-py">xiǎnlíng</span><span class="a-en">divine manifestation; miracle</span></span>
+      <span class="adj"><span class="a-cn">神诞</span><span class="a-py">shéndàn</span><span class="a-en">deity's birthday</span></span>
+      <span class="adj"><span class="a-cn">渔民</span><span class="a-py">yúmín</span><span class="a-en">fishermen; Mazu's core devotees</span></span>
+      <span class="adj"><span class="a-cn">海峡</span><span class="a-py">hǎixiá</span><span class="a-en">strait (Taiwan Strait)</span></span>
+      <span class="adj"><span class="a-cn">朝圣</span><span class="a-py">cháoshèng</span><span class="a-en">pilgrimage</span></span>
+      <span class="adj"><span class="a-cn">庇佑</span><span class="a-py">bìyòu</span><span class="a-en">divine protection and blessing</span></span>
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="page-footer">
+      <span class="footer-id">Field Notes on Chinese · <span>妈祖 māzǔ</span> · topic_mazu.html</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>

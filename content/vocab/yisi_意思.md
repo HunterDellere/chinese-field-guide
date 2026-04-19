@@ -1,0 +1,616 @@
+---
+type: 'vocab'
+category: 'vocab'
+status: 'complete'
+title: '意思 · meaning, intention'
+desc: 'Meaning, interest, charm, and the gift-giving idiom 意思意思.'
+metaDesc: "意思 yìsi: meaning, interest, intention, and the art of the understated gift. One word that navigates semantics, social grace, and Chinese indirection."
+pageTitle: '意思 yìsi'
+tags:
+  - 'meaning'
+  - 'gift'
+  - 'register'
+updated: '2026-04-18'
+pinyin: 'yìsi'
+---
+
+<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+
+    <span class="toc-topic">意思</span>
+    <span class="toc-topic-en">Meaning · Intention · Gift</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#etymology">
+        <span class="toc-cn">字源</span> Etymology
+        <span class="toc-sub">zìyuán · intention + thought</span>
+      </a></li>
+      <li><a href="#meaning">
+        <span class="toc-cn">意义</span> Meaning &amp; Sense
+        <span class="toc-sub">yìyì · semantic use</span>
+      </a></li>
+      <li><a href="#intention">
+        <span class="toc-cn">意图</span> Intention &amp; Implication
+        <span class="toc-sub">yìtú · social signals</span>
+      </a></li>
+      <li><a href="#gift">
+        <span class="toc-cn">小意思</span> The Understated Gift
+        <span class="toc-sub">xiǎo yìsi · social grace</span>
+      </a></li>
+      <li><a href="#yiyi">
+        <span class="toc-cn">意义</span> Meaningful vs. Interesting
+        <span class="toc-sub">yìyì biànxī · register</span>
+      </a></li>
+      <li><a href="#yi-compounds">
+        <span class="toc-cn">意 化合词</span> 意 Compounds
+        <span class="toc-sub">yì as root element</span>
+      </a></li>
+      <li><a href="#chengyu">
+        <span class="toc-cn">成语</span> Idioms
+        <span class="toc-sub">chéngyǔ · set phrases</span>
+      </a></li>
+      <li><a href="#adjacent">
+        <span class="toc-cn">相邻</span> Adjacent Vocab
+        <span class="toc-sub">xiānglín cíhuì</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- HERO -->
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">Vocabulary · 词汇 cíhuì</span>
+      <h1 class="topic-hero-title">意思</h1>
+      <span class="topic-hero-title-py">yìsi</span>
+      <p class="topic-hero-desc">Meaning, intention, and the art of the understated gesture — one word that does everything.</p>
+    </header>
+
+    <!-- ── ETYMOLOGY ── -->
+    <span class="section-anchor" id="etymology"></span>
+    <div class="section-head">
+      <span class="sh-cn">字源</span>
+      <span class="sh-py">zìyuán</span>
+      <span class="sh-en">Etymology &amp; Structure</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="意">
+      <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
+      <p><strong>意 yì</strong> (intention; meaning; mind — heart 心 + sound 音: what the heart sounds out, what it intends) <strong>+ 思 sī</strong> (to think; thought — heart 心 + field 田: a farmer's heart working the land, methodically). Two heart-related characters joined: intention + thought = meaning.</p>
+      <p>But 意思 is one of those words that explodes far beyond its etymology in actual usage. It covers at least four distinct semantic territories: (1) meaning or sense, as in 这个词是什么意思？; (2) interest or appeal, as in 这部电影很有意思; (3) intention or implication, as in 你什么意思？; and (4) the understated gift or token gesture, as in 一点小意思. Each of these uses is descended from the core idea of "what the heart intends" — but they have drifted into very different social and semantic territory.</p>
+      <p>The fourth usage — 小意思 as the understated gift — is especially revealing. It says: the meaning of a gesture is always in the heart behind it, not the object itself. The word for "what something means" and the word for "what someone intends" are the same word in Chinese, because intention and meaning are not separate questions.</p>
+    </div>
+
+    <!-- ── MEANING & SENSE ── -->
+    <span class="section-anchor" id="meaning"></span>
+    <div class="section-head">
+      <span class="sh-cn">意义</span>
+      <span class="sh-py">yìyì</span>
+      <span class="sh-en">Meaning &amp; Sense</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">意思</span>
+          <span class="card-py">yìsi</span>
+          <span class="card-en">meaning; sense</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          The most basic usage — what a word, phrase, action, or statement means. 什么意思 (what does X mean / what do you mean) is one of the highest-frequency question patterns a learner will encounter. This reading of 意思 covers lexical meaning (word meaning), propositional meaning (sentence meaning), and communicative meaning (what someone is trying to say).
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">这个字是什么意思？</div>
+            <div class="ex-py">Zhège zì shì shénme yìsi?</div>
+            <div class="ex-en">What does this character mean?</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">你说的是什么意思？</div>
+            <div class="ex-py">Nǐ shuō de shì shénme yìsi?</div>
+            <div class="ex-en">What do you mean by what you said?</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">我不明白这句话的意思。</div>
+            <div class="ex-py">Wǒ bù míngbai zhè jù huà de yìsi.</div>
+            <div class="ex-en">I don't understand the meaning of this sentence.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">语法 yǔfǎ · Grammar</span>
+          The pattern <code>X 是什么意思</code> is your universal "what does this mean?" construction. Works for words (这个词是什么意思？), sentences (这句话是什么意思？), and actions (他这个动作是什么意思？). The question 你什么意思？ with no copula is more direct and can carry an edge — context determines whether it's curious or confrontational.
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">有意思</span>
+          <span class="card-py">yǒu yìsi</span>
+          <span class="card-en">interesting; fun; entertaining; appealing</span>
+        </div>
+        <div class="tags"><span class="tag tag-adj">Adj phrase 形容词短语</span></div>
+        <div class="card-def">
+          Lit. "has meaning/appeal." The go-to word for "interesting" in casual spoken Chinese. Used for books, films, people, topics, situations — anything with engaging appeal. Not a deep intellectual endorsement; closer to "fun" or "cool" than "profound." The contrast with 有意义 yǒu yìyì is critical: 有意思 = interesting/fun, 有意义 = meaningful/significant in a deeper sense.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">这本书很有意思！</div>
+            <div class="ex-py">Zhè běn shū hěn yǒu yìsi!</div>
+            <div class="ex-en">This book is really interesting!</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他是个很有意思的人，总有奇怪的想法。</div>
+            <div class="ex-py">Tā shì gè hěn yǒu yìsi de rén, zǒng yǒu qíguài de xiǎngfǎ.</div>
+            <div class="ex-en">He's a very interesting person — always has unusual ideas.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这个问题很有意思，我没想过。</div>
+            <div class="ex-py">Zhège wèntí hěn yǒu yìsi, wǒ méi xiǎng guò.</div>
+            <div class="ex-en">This is an interesting question — I've never thought about it.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">辨析 biànxī · 有意思 vs. 有意义</span>
+          <strong>有意思</strong> = interesting, fun, engaging (casual register). <strong>有意义</strong> yǒu yìyì = meaningful, significant, worthwhile (more serious register). 这部电影很有意思 (fun to watch) vs. 这件事很有意义 (this matters; has deeper significance). Mixing them up makes the sentence feel tonally off — don't call a movie 有意义 unless it's genuinely weighty.
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">没意思</span>
+          <span class="card-py">méi yìsi</span>
+          <span class="card-en">boring; pointless; not interesting</span>
+        </div>
+        <div class="tags"><span class="tag tag-adj">Adj phrase 形容词短语</span></div>
+        <div class="card-def">
+          The negation of 有意思 — lacking appeal, engagement, or point. Can describe activities, conversations, people, or situations. Often used for mild complaint rather than outright criticism. 说没意思的话 (to say pointless things) is a common mild rebuke.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">这个游戏没意思，换一个吧。</div>
+            <div class="ex-py">Zhège yóuxì méi yìsi, huàn yī gè ba.</div>
+            <div class="ex-en">This game is boring — let's switch to another one.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他觉得现在的工作很没意思。</div>
+            <div class="ex-py">Tā juéde xiànzài de gōngzuò hěn méi yìsi.</div>
+            <div class="ex-en">He finds his current job pointless and unengaging.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">别说没意思的话了，聊点正经的。</div>
+            <div class="ex-py">Bié shuō méi yìsi de huà le, liáo diǎn zhèngjīng de.</div>
+            <div class="ex-en">Stop saying pointless things — let's talk about something real.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards meaning -->
+
+    <!-- ── INTENTION & IMPLICATION ── -->
+    <span class="section-anchor" id="intention"></span>
+    <div class="section-head">
+      <span class="sh-cn">意图</span>
+      <span class="sh-py">yìtú</span>
+      <span class="sh-en">Intention &amp; Implication</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">你什么意思？</span>
+          <span class="card-py">nǐ shénme yìsi</span>
+          <span class="card-en">What do you mean? / What are you implying?</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">Fixed phrase 固定短语</span></div>
+        <div class="card-def">
+          Can be a neutral request for clarification or a challenging, slightly confrontational demand — "what exactly are you getting at?" Tone of voice and context determine everything. The slightly more pointed version 你这是什么意思？ adds 这是 for extra edge, signaling that the speaker suspects an implication they don't like.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">你什么意思？能解释一下吗？</div>
+            <div class="ex-py">Nǐ shénme yìsi? Néng jiěshì yīxià ma?</div>
+            <div class="ex-en">What do you mean? Can you explain?</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">你这是什么意思？是在批评我吗？</div>
+            <div class="ex-py">Nǐ zhè shì shénme yìsi? Shì zài pīpíng wǒ ma?</div>
+            <div class="ex-en">What exactly are you implying? Are you criticizing me?</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">我不是那个意思，你误会了。</div>
+            <div class="ex-py">Wǒ bù shì nàge yìsi, nǐ wùhuì le.</div>
+            <div class="ex-en">I didn't mean it that way — you misunderstood me.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">语用 yǔyòng · Pragmatics</span>
+          我不是那个意思 (I didn't mean it that way) is a critical phrase for navigating misunderstandings. Chinese communication often involves a great deal of face-saving indirection, and 意思 is the word that names what was communicated versus what was intended — a distinction that matters enormously in Chinese social interaction.
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">意思意思</span>
+          <span class="card-py">yìsi yìsi</span>
+          <span class="card-en">a token gesture; to make a symbolic offering; "just a little something"</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V/N phrase 动名词短语</span></div>
+        <div class="card-def">
+          Reduplication softens and miniaturizes the meaning — a universal Chinese pattern. 意思意思 as a verb phrase means "to make a token gesture, to acknowledge the relationship symbolically." It signals effort without demanding reciprocal debt. The reduplication is key: you're not claiming to do something meaningful; you're making a meaningful nothing.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">我就意思意思，不用客气。</div>
+            <div class="ex-py">Wǒ jiù yìsi yìsi, bùyòng kèqi.</div>
+            <div class="ex-en">I'm just making a small gesture — don't stand on ceremony.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">你来了就好，意思意思就行了。</div>
+            <div class="ex-py">Nǐ lái le jiù hǎo, yìsi yìsi jiù xíng le.</div>
+            <div class="ex-en">The fact that you came is enough — just a token gesture is fine.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这是意思意思，别在意。</div>
+            <div class="ex-py">Zhè shì yìsi yìsi, bié zàiyì.</div>
+            <div class="ex-en">This is just a small token — don't take it too seriously.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards intention -->
+
+    <!-- ── THE UNDERSTATED GIFT ── -->
+    <span class="section-anchor" id="gift"></span>
+    <div class="section-head">
+      <span class="sh-cn">小意思</span>
+      <span class="sh-py">xiǎo yìsi</span>
+      <span class="sh-en">The Art of the Understated Gift</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="思">
+      <div class="scholar-label">文化洞见 wénhuà dòngjiàn · Cultural Note</div>
+      <p><strong>小意思</strong> xiǎo yìsi (lit. "small meaning") is one of the most culturally important phrases in Chinese social life. When presenting a gift — especially in business, hierarchical, or first-meeting contexts — you say 一点小意思 ("just a small token"). This is not false modesty. It is a deliberate social calibration: by calling the gift "small," you reduce the social obligation it creates in the recipient. The gift itself can be substantial; the 小意思 framing is what keeps the relationship smooth.</p>
+      <p>Chinese gift-giving is governed by a complex logic of reciprocity, obligation, and face. An overly large gift can embarrass the recipient (they can't reciprocate proportionally) or create an uncomfortable sense of debt. 小意思 neutralizes this by reframing the gift as a gesture of relationship, not a transaction. The related idiom 礼轻情意重 lǐ qīng qíngyì zhòng — "the gift is light, the feeling is deep" — is the classical framing for this: what matters is the heart, not the object.</p>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">小意思</span>
+          <span class="card-py">xiǎo yìsi</span>
+          <span class="card-en">a small token; "it's nothing"; the understated gift</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N phrase 名词短语</span></div>
+        <div class="card-def">
+          The standard self-deprecating framing when presenting a gift. Used across all gift-giving contexts — bringing something to a dinner host, giving a business contact a present, sending something to a teacher. The phrase manages the social pressure of gift-giving by minimizing the object and foregrounding the intention.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">一点小意思，请笑纳。</div>
+            <div class="ex-py">Yī diǎn xiǎo yìsi, qǐng xiào nà.</div>
+            <div class="ex-en">Just a small token — please accept it with a smile.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这是小意思，别客气，拿着吧。</div>
+            <div class="ex-py">Zhè shì xiǎo yìsi, bié kèqi, ná zhe ba.</div>
+            <div class="ex-en">It's just a little something — don't be polite, just take it.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">第一次来拜访，没什么好带的，只是一点小意思。</div>
+            <div class="ex-py">Dì yī cì lái bàifǎng, méi shénme hǎo dài de, zhǐ shì yī diǎn xiǎo yìsi.</div>
+            <div class="ex-en">First visit — nothing much to bring; just a small token of goodwill.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">意思到了</span>
+          <span class="card-py">yìsi dào le</span>
+          <span class="card-en">"the intention has arrived" — the gesture is enough; the thought counts</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">Fixed phrase 固定短语</span></div>
+        <div class="card-def">
+          Used to accept a gift graciously without demanding more, or to reassure a giver that their token gesture was sufficient and appreciated. Conveys: "I see your heart in this; the object is secondary." Also used reflexively by givers: 意思到了就好 — "as long as the intention is communicated, that's enough."
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">你的心意到了就好，不需要这么贵重的礼物。</div>
+            <div class="ex-py">Nǐ de xīnyì dào le jiù hǎo, bù xūyào zhème guìzhòng de lǐwù.</div>
+            <div class="ex-en">Your kind intention is what matters — you didn't need to bring something so valuable.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">意思到了就行，别花那么多钱。</div>
+            <div class="ex-py">Yìsi dào le jiù xíng, bié huā nàme duō qián.</div>
+            <div class="ex-en">As long as the gesture is there, that's fine — don't spend so much money.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">你来了就是最好的礼物，其他东西意思意思就好。</div>
+            <div class="ex-py">Nǐ lái le jiù shì zuì hǎo de lǐwù, qítā dōngxi yìsi yìsi jiù hǎo.</div>
+            <div class="ex-en">Your being here is the best gift — for everything else, just a small token is fine.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">成语 chéngyǔ · Related Idiom</span>
+          <strong>礼轻情意重</strong> lǐ qīng qíngyì zhòng — "the gift is light, the feeling is deep." The classical framing for understated gift-giving, and the philosophical basis for 小意思 culture. It encodes the Chinese social logic that the relationship is worth more than any object.
+        </div>
+      </div>
+
+    </div><!-- /cards gift -->
+
+    <!-- ── MEANINGFUL VS. INTERESTING ── -->
+    <span class="section-anchor" id="yiyi"></span>
+    <div class="section-head">
+      <span class="sh-cn">意义</span>
+      <span class="sh-py">yìyì</span>
+      <span class="sh-en">Meaningful vs. Interesting — a Critical Distinction</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">辨析 biànxī · The 意思/意义 Register Contrast</span>
+      <strong>有意思</strong> yǒu yìsi → interesting, fun, engaging (casual, everyday)<br>
+      <strong>有意义</strong> yǒu yìyì → meaningful, significant, worthwhile (serious, reflective)<br>
+      <strong>没意思</strong> méi yìsi → boring, pointless (casual complaint)<br>
+      <strong>无意义</strong> wú yìyì → meaningless, without value (serious critique)
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">意义</span>
+          <span class="card-py">yìyì</span>
+          <span class="card-en">significance; deeper meaning; meaningfulness</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          意 (intention) + 义 (righteousness; principle). More serious and weighty than 意思. 意义 refers to significance in the deeper sense — the kind that requires reflection. Used for historical significance, life meaning, moral weight. 人生的意义 (the meaning of life) uses 意义, never 意思.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">这件事有重要的历史意义。</div>
+            <div class="ex-py">Zhè jiàn shì yǒu zhòngyào de lìshǐ yìyì.</div>
+            <div class="ex-en">This matter has important historical significance.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">人生的意义是什么？这个问题很难回答。</div>
+            <div class="ex-py">Rénshēng de yìyì shì shénme? Zhège wèntí hěn nán huídá.</div>
+            <div class="ex-en">What is the meaning of life? That's a very difficult question.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这次合作具有深远的意义。</div>
+            <div class="ex-py">Zhè cì hézuò jùyǒu shēnyuǎn de yìyì.</div>
+            <div class="ex-en">This collaboration is of far-reaching significance.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">辨析 biànxī · Register summary</span>
+          <strong>有意思</strong> — casual, social. Something is interesting or fun. 有意义 — reflective, serious. Something matters or has weight. Misusing 有意义 for trivial things sounds pompous; misusing 有意思 for weighty things sounds flippant. Knowing the difference is a reliable signal of advanced Chinese fluency.
+        </div>
+      </div>
+
+      <div class="card c-sienna">
+        <div class="card-head">
+          <span class="card-cn">无意义</span>
+          <span class="card-py">wú yìyì</span>
+          <span class="card-en">meaningless; without value or significance</span>
+        </div>
+        <div class="tags"><span class="tag tag-adj">Adj 形容词 xíngróngcí</span></div>
+        <div class="card-def">
+          The serious register negation. 无意义 is used for things that lack weight, purpose, or value at a meaningful level — not just boring (没意思) but genuinely without worth. Common in philosophical, psychological, and social commentary.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">这场争论毫无意义，双方根本没有在听对方说话。</div>
+            <div class="ex-py">Zhè chǎng zhēnglùn háowú yìyì, shuāngfāng gēnběn méiyǒu zài tīng duìfāng shuōhuà.</div>
+            <div class="ex-en">This argument is completely meaningless — neither side is listening to the other.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">感到生活无意义是抑郁症的常见症状。</div>
+            <div class="ex-py">Gǎndào shēnghuó wú yìyì shì yìyùzhèng de chángjiàn zhèngzhuàng.</div>
+            <div class="ex-en">Feeling that life is meaningless is a common symptom of depression.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards yiyi -->
+
+    <!-- ── 意 COMPOUNDS ── -->
+    <span class="section-anchor" id="yi-compounds"></span>
+    <div class="section-head">
+      <span class="sh-cn">意 化合词</span>
+      <span class="sh-py">yì huàhécí</span>
+      <span class="sh-en">意 as a Productive Element — Key Compounds</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">构词规律 gòucí guīlǜ · 意 Compounds</span>
+      意 yì (intention; meaning; mind) combines with other characters to create a large family of words related to intention, will, and cognition. Learning 意 as a root unlocks dozens of high-frequency vocabulary items simultaneously.
+    </div>
+
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>词 Cí</th>
+            <th>拼音 Pīnyīn</th>
+            <th>英文 Yīngwén</th>
+            <th>例句 Lìjù</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="td-cn">意思</td>
+            <td class="td-py">yìsi</td>
+            <td>meaning; interest; gift token</td>
+            <td>什么意思？<span class="td-small td-py-sm">Shénme yìsi? — What does this mean?</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">意义</td>
+            <td class="td-py">yìyì</td>
+            <td>significance; deeper meaning</td>
+            <td>有重要意义<span class="td-small td-py-sm">yǒu zhòngyào yìyì — of significant importance</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">意图</td>
+            <td class="td-py">yìtú</td>
+            <td>intention; motive; aim</td>
+            <td>你的意图是什么？<span class="td-small td-py-sm">Nǐ de yìtú shì shénme?</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">意识</td>
+            <td class="td-py">yìshi</td>
+            <td>consciousness; awareness; to be aware</td>
+            <td>我没有意识到这个问题。<span class="td-small td-py-sm">I wasn't aware of this problem.</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">意志</td>
+            <td class="td-py">yìzhì</td>
+            <td>will; determination; willpower</td>
+            <td>坚强的意志<span class="td-small td-py-sm">jiānqiáng de yìzhì — strong willpower</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">意见</td>
+            <td class="td-py">yìjiàn</td>
+            <td>opinion; suggestion; objection</td>
+            <td>你有什么意见？<span class="td-small td-py-sm">Nǐ yǒu shénme yìjiàn? — Any opinions/objections?</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">意外</td>
+            <td class="td-py">yìwài</td>
+            <td>unexpected; accident; surprise</td>
+            <td>发生了意外<span class="td-small td-py-sm">fāshēng le yìwài — an accident occurred</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">注意</td>
+            <td class="td-py">zhùyì</td>
+            <td>to pay attention; to notice</td>
+            <td>注意安全<span class="td-small td-py-sm">zhùyì ānquán — pay attention to safety</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">同意</td>
+            <td class="td-py">tóngyì</td>
+            <td>to agree; to consent</td>
+            <td>我同意你的看法。<span class="td-small td-py-sm">Wǒ tóngyì nǐ de kànfǎ. — I agree with your view.</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">满意</td>
+            <td class="td-py">mǎnyì</td>
+            <td>satisfied; content</td>
+            <td>我很满意这个结果。<span class="td-small td-py-sm">Wǒ hěn mǎnyì zhège jiéguǒ.</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">随意</td>
+            <td class="td-py">suíyì</td>
+            <td>as you like; casual; random</td>
+            <td>随意坐<span class="td-small td-py-sm">suíyì zuò — sit wherever you like</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">在意</td>
+            <td class="td-py">zàiyì</td>
+            <td>to mind; to care about</td>
+            <td>你不用在意他说的话。<span class="td-small td-py-sm">Don't mind what he said.</span></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- ── CHENGYU ── -->
+    <span class="section-anchor" id="chengyu"></span>
+    <div class="section-head">
+      <span class="sh-cn">成语</span>
+      <span class="sh-py">chéngyǔ</span>
+      <span class="sh-en">Idioms &amp; Set Phrases</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="chengyu-grid">
+
+      <div class="cy">
+        <span class="cy-cn">意味深长</span>
+        <span class="cy-py">yì wèi shēn cháng</span>
+        <span class="cy-en">"meaning runs deep and long" — deeply meaningful; thought-provoking; pregnant with implication</span>
+        <span class="cy-note">Lit: meaning-flavor-deep-long. Used for words, actions, or expressions that reward reflection — where the surface content is less than what is being communicated. 他的话意味深长，我想了很久。"His words were deeply meaningful — I thought about them for a long time." Common in literary and critical contexts.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">心领神会</span>
+        <span class="cy-py">xīn lǐng shén huì</span>
+        <span class="cy-en">"heart receives, spirit understands" — to understand without words; to grasp intuitively</span>
+        <span class="cy-note">Lit: heart-receive-spirit-comprehend. The ideal of Chinese social understanding: no explicit statement is needed. You see, you understand, you nod. This is 意思 operating at its highest level — the meaning is fully communicated without ever being spoken. 他点了点头，心领神会。"He nodded — he understood completely without a word being said."</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">言不尽意</span>
+        <span class="cy-py">yán bù jìn yì</span>
+        <span class="cy-en">"words cannot exhaust meaning" — the inadequacy of language; what remains unsaid</span>
+        <span class="cy-note">Lit: words-not-exhaust-meaning. A classical lament about the limits of language — that what one truly means always exceeds what words can carry. Found in literary correspondence, essays, and poetry. Often appears at the end of letters: 语言有限，言不尽意。"Language is limited — words cannot hold all that I mean."</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">出人意料</span>
+        <span class="cy-py">chū rén yì liào</span>
+        <span class="cy-en">"beyond people's expectation" — unexpected; surprising; contrary to what was anticipated</span>
+        <span class="cy-note">Lit: exceed-people-intention-anticipate. One of the most common ways to say "surprisingly" or "unexpectedly" in formal Chinese. 这个结果出人意料，没有人预测到。"This result was unexpected — no one had predicted it." Also appears in the variant 出乎意料 chū hū yìliào with identical meaning.</span>
+      </div>
+
+    </div>
+
+    <!-- ── ADJACENT VOCAB ── -->
+    <span class="section-anchor" id="adjacent"></span>
+    <div class="section-head">
+      <span class="sh-cn">相邻词汇</span>
+      <span class="sh-py">xiānglín cíhuì</span>
+      <span class="sh-en">Adjacent Vocabulary</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">意义</span><span class="a-py">yìyì</span><span class="a-en">significance; meaningfulness</span></span>
+      <span class="adj"><span class="a-cn">含义</span><span class="a-py">hányì</span><span class="a-en">implication; connotation</span></span>
+      <span class="adj"><span class="a-cn">寓意</span><span class="a-py">yùyì</span><span class="a-en">allegorical meaning; moral</span></span>
+      <span class="adj"><span class="a-cn">语义</span><span class="a-py">yǔyì</span><span class="a-en">semantic meaning (linguistics)</span></span>
+      <span class="adj"><span class="a-cn">意图</span><span class="a-py">yìtú</span><span class="a-en">intention; motive</span></span>
+      <span class="adj"><span class="a-cn">动机</span><span class="a-py">dòngjī</span><span class="a-en">motivation; driving motive</span></span>
+      <span class="adj"><span class="a-cn">暗示</span><span class="a-py">ànshì</span><span class="a-en">to hint; to imply</span></span>
+      <span class="adj"><span class="a-cn">理解</span><span class="a-py">lǐjiě</span><span class="a-en">to understand; comprehension</span></span>
+      <span class="adj"><span class="a-cn">明白</span><span class="a-py">míngbai</span><span class="a-en">to understand; clear</span></span>
+      <span class="adj"><span class="a-cn">表达</span><span class="a-py">biǎodá</span><span class="a-en">to express</span></span>
+      <span class="adj"><span class="a-cn">心意</span><span class="a-py">xīnyì</span><span class="a-en">heartfelt intention; goodwill</span></span>
+      <span class="adj"><span class="a-cn">礼物</span><span class="a-py">lǐwù</span><span class="a-en">gift; present</span></span>
+    </div>
+
+    <!-- RETENTION SCHOLAR BOX -->
+    <div class="scholar" data-glyph="意" style="margin-top:2.5rem;">
+      <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
+      <p>Two heart-related characters: 意 (what the heart sounds out — intention) + 思 (the heart working the land — thought). The word 意思 begins as a compound of two acts of inner life and expands outward into meaning, interest, gift-giving, and social grace. At every point, the question is: what does the heart intend?</p>
+      <p>The key insight: Chinese doesn't separate "what something means" from "what someone intends" — 意思 covers both, because intention and meaning are the same question viewed from different angles. The word for what a sentence means and the word for what a gesture means are identical: meaning is always a matter of the heart behind it.</p>
+      <p>And the understated gift called 小意思 is the practical application of this principle to social life. The gift is small; the 意思 — the heart behind it — is what you are actually giving. 礼轻情意重: the gift is light, the feeling is deep.</p>
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="page-footer">
+      <span class="footer-id">Field Notes on Chinese · <span>意思 yìsi</span> · yisi_意思.html</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>

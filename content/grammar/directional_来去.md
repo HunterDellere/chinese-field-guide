@@ -1,0 +1,549 @@
+---
+type: 'grammar'
+category: 'grammar'
+status: 'complete'
+title: '来 · 去 · directional complements'
+desc: '上来, 下去, 出去, 进来 — the motion complement system mapped.'
+metaDesc: '来 lái and 去 qù extend far beyond simple motion verbs into a vast system of directional complements. Etymology, the speaker-center principle, compound directionals, and idiomatic 来/去 patterns.'
+pageTitle: '来 / 去 · Directional Complements'
+tags:
+  - 'direction'
+  - 'complement'
+  - 'motion'
+updated: '2026-04-18'
+pinyin: 'lái / qù'
+---
+
+<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+    <span class="toc-topic">来 / 去</span>
+    <span class="toc-topic-en">Directional Complements</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#etymology">
+        <span class="toc-cn">字源</span> Etymology
+        <span class="toc-sub">grain stalk and departing person</span>
+      </a></li>
+      <li><a href="#patterns">
+        <span class="toc-cn">结构</span> Core Patterns
+        <span class="toc-sub">toward / away from speaker</span>
+      </a></li>
+      <li><a href="#main-verbs">
+        <span class="toc-cn">主动词</span> 来/去 as Main Verbs
+        <span class="toc-sub">simple motion</span>
+      </a></li>
+      <li><a href="#simple-dir">
+        <span class="toc-cn">简单趋向</span> Simple Directionals
+        <span class="toc-sub">上下进出来去 pairs</span>
+      </a></li>
+      <li><a href="#compound-dir">
+        <span class="toc-cn">复合趋向</span> Compound Directionals
+        <span class="toc-sub">V + 上来 / 下去 / 进来…</span>
+      </a></li>
+      <li><a href="#tendency">
+        <span class="toc-cn">趋向义</span> Tendency Markers
+        <span class="toc-sub">看起来 · 想起来 · 说起来</span>
+      </a></li>
+      <li><a href="#purpose">
+        <span class="toc-cn">目的</span> 来/去 with Purpose
+        <span class="toc-sub">来 + V / 去 + V</span>
+      </a></li>
+      <li><a href="#table">
+        <span class="toc-cn">对比表</span> Directional Pair Table
+        <span class="toc-sub">the 6 pairs with compounds</span>
+      </a></li>
+      <li><a href="#chengyu">
+        <span class="toc-cn">成语</span> Idioms
+        <span class="toc-sub">来/去 in set phrases</span>
+      </a></li>
+      <li><a href="#adjacent">
+        <span class="toc-cn">相邻</span> Adjacent Vocab
+        <span class="toc-sub">motion and direction</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- HERO -->
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">Grammar · 语法 yǔfǎ</span>
+      <h1 class="topic-hero-title">来 / 去</h1>
+      <span class="topic-hero-title-py">lái · qù</span>
+      <p class="topic-hero-desc">Two of Chinese's highest-frequency characters: main verbs of motion, a complete system of directional complements, and a set of idiomatic extensions — all organized around the speaker as the center of all motion.</p>
+    </header>
+
+    <!-- ── ETYMOLOGY ── -->
+    <span class="section-anchor" id="etymology"></span>
+    <div class="section-head">
+      <span class="sh-cn">字源</span>
+      <span class="sh-py">zìyuán</span>
+      <span class="sh-en">Etymology — Two of the Most Ancient Verbs</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="来">
+      <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
+      <p><strong>来 lái</strong> is one of the oldest characters in the written language. The oracle-bone script form depicts a grain plant — likely wheat or barley — with heavy, drooping ears of grain. The phonetic borrowing to mean "to come" was complete by the early Zhou period; the original grain meaning was transferred to the character 麦 mài. The visual logic of a stalk bending <em>toward</em> you (under its own weight of ripeness, arriving at harvest time) makes for a powerful mnemonic: 来 is what comes to you, what arrives, what bends in your direction.</p>
+      <p><strong>去 qù</strong> in the oracle-bone form shows a person (大) departing from a place (口, enclosure or mouth). The person is leaving an enclosure behind. 去 is what moves away, what leaves the frame, what departs from the speaker's position. Together, 来 and 去 establish a spatial coordinate system centered entirely on the <em>speaker</em> — a deictic center that permeates the entire complement system.</p>
+      <p>This speaker-centrism is the master key to the directional system. The question is never "which direction in absolute space?" but always "toward the speaker or away from the speaker?" A person 走进来 walked in toward you (here). A person 走进去 walked in away from you (there). The same physical action — entering a room — but coded completely differently based on where you, the speaker, are standing.</p>
+      <p>Japanese and Korean have parallel systems — Japanese に来る (niku-ru, come toward speaker) and に行く (ni-iku, go away from speaker) track the same deictic logic — making this one of the most productive cross-linguistic anchors in East Asian language learning.</p>
+    </div>
+
+    <!-- ── CORE PATTERNS ── -->
+    <span class="section-anchor" id="patterns"></span>
+    <div class="section-head">
+      <span class="sh-cn">核心结构</span>
+      <span class="sh-py">héxīn jiégòu</span>
+      <span class="sh-en">Core Patterns — The Speaker as Center</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">以说话人为中心 yǐ shuōhuàrén wéi zhōngxīn · Speaker-centric orientation</span>
+      <strong>来 lái</strong> = motion TOWARD the speaker's position<br>
+      <strong>去 qù</strong> = motion AWAY FROM the speaker's position<br>
+      <strong>Verb + 来/去</strong> → directional complement: how the motion relates to the speaker<br>
+      <strong>Verb + Direction + 来/去</strong> → compound directional: full specification of direction AND speaker orientation
+    </div>
+
+    <div class="scholar" data-glyph="去">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · The Speaker-Center Principle in Action</div>
+      <p>Imagine you are standing in a living room. Your friend is in the kitchen doorway. You say:</p>
+      <p><strong>进来!</strong> Jìn lái! — Come in! (into this room, where I am. Motion is toward me.)</p>
+      <p><strong>进去!</strong> Jìn qù! — Go in! (into that room, where I am not. Motion is away from me.)</p>
+      <p>Now the friend enters the kitchen while you watch. You describe the event:</p>
+      <p><strong>他走进去了。</strong> Tā zǒu jìn qù le. — He walked in [away from me]. (You stayed; he left your space.)</p>
+      <p>If instead he walks toward you into your room: <strong>他走进来了。</strong> Tā zǒu jìn lái le. — He walked in [toward me].</p>
+      <p>The rule is perfectly consistent: 来 = toward speaker's reference point. 去 = away from speaker's reference point. This applies to all compound directionals.</p>
+    </div>
+
+    <!-- ── 来/去 AS MAIN VERBS ── -->
+    <span class="section-anchor" id="main-verbs"></span>
+    <div class="section-head">
+      <span class="sh-cn">主要动词</span>
+      <span class="sh-py">zhǔyào dòngcí</span>
+      <span class="sh-en">来/去 as Main Motion Verbs</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">我来了！/ 他去了。</span>
+          <span class="card-py">Wǒ lái le! / Tā qù le.</span>
+          <span class="card-en">I'm here! / He's gone. — simple motion verbs</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">来/去 as main V</span></div>
+        <div class="card-def">
+          At the most basic level, 来 and 去 are intransitive verbs of motion. 来 = to come, to arrive (toward speaker). 去 = to go, to depart (away from speaker). With 了, 来了 signals arrival and 去了 signals departure — both are now completed relative to the speaker's world.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">我来了，等我一下！</div>
+            <div class="ex-py">Wǒ lái le, děng wǒ yīxià!</div>
+            <div class="ex-en">I'm coming / I'm here! Wait for me!</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">你来一下，有事找你。</div>
+            <div class="ex-py">Nǐ lái yīxià, yǒu shì zhǎo nǐ.</div>
+            <div class="ex-en">Come here a moment — someone's looking for you.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他去上海出差了，下周回来。</div>
+            <div class="ex-py">Tā qù Shànghǎi chūchāi le, xià zhōu huí lái.</div>
+            <div class="ex-en">He went to Shanghai on a business trip; he'll be back next week.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards main-verbs -->
+
+    <!-- ── SIMPLE DIRECTIONALS ── -->
+    <span class="section-anchor" id="simple-dir"></span>
+    <div class="section-head">
+      <span class="sh-cn">简单趋向补语</span>
+      <span class="sh-py">jiǎndān qūxiàng bǔyǔ</span>
+      <span class="sh-en">Simple Directional Complements — The 6 Pairs</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">上/下 · 进/出 · 来/去</span>
+          <span class="card-py">shàng/xià · jìn/chū · lái/qù</span>
+          <span class="card-en">up/down · in/out · toward/away — the six basic directions</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">简单趋向 simple directional</span></div>
+        <div class="card-def">
+          Chinese has six pairs of directional complements. Each pair contrasts along an axis. The six are: 上 (up) / 下 (down), 进 (inward) / 出 (outward), 回 (return) / 过 (past, across), 起 (up/upward start) / 开 (away/apart), and the overarching 来 (toward speaker) / 去 (away from speaker). These sixteen simple directionals can follow almost any motion verb to specify the direction of movement.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">上来！/ 下去！/ 进来！/ 出去！/ 回来！/ 过来！</div>
+            <div class="ex-py">Shàng lái! / Xià qù! / Jìn lái! / Chū qù! / Huí lái! / Guò lái!</div>
+            <div class="ex-en">Come up! / Go down! / Come in! / Go out! / Come back! / Come over here!</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">快回来！外面下雨了。</div>
+            <div class="ex-py">Kuài huí lái! Wàimiàn xià yǔ le.</div>
+            <div class="ex-en">Come back quickly! It's raining outside.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">规律 guīlǜ · The pairing logic</span>
+          Each direction pairs toward-speaker (来) or away-from-speaker (去): 上来 (come up) vs. 上去 (go up); 进来 (come in) vs. 进去 (go in); 出来 (come out) vs. 出去 (go out); 回来 (come back) vs. 回去 (go back). The speaker's position determines which form is correct — not the physical direction of movement.
+        </div>
+      </div>
+
+    </div><!-- /cards simple-dir -->
+
+    <!-- ── COMPOUND DIRECTIONALS ── -->
+    <span class="section-anchor" id="compound-dir"></span>
+    <div class="section-head">
+      <span class="sh-cn">复合趋向补语</span>
+      <span class="sh-py">fùhé qūxiàng bǔyǔ</span>
+      <span class="sh-en">Compound Directionals — Verb + Direction + 来/去</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">走进来 / 走进去</span>
+          <span class="card-py">zǒu jìn lái / zǒu jìn qù</span>
+          <span class="card-en">walk in toward speaker / walk in away from speaker</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V + 方向 + 来/去</span></div>
+        <div class="card-def">
+          Compound directionals add a main motion verb before the directional pair. The structure is: <strong>Main Verb + Direction Verb + 来/去.</strong> The main verb specifies the manner of motion (walk, run, carry, take); the direction verb specifies the spatial path (in, out, up, down, past); 来/去 specifies the speaker-orientation. All three elements are required for full specification.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他走进来了。</div>
+            <div class="ex-py">Tā zǒu jìn lái le.</div>
+            <div class="ex-en">He walked in [toward me / into my space].</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">她把书拿出去了。</div>
+            <div class="ex-py">Tā bǎ shū ná chū qù le.</div>
+            <div class="ex-en">She took the book out [away from me].</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">师傅把行李搬上来了。</div>
+            <div class="ex-py">Shīfu bǎ xíngli bān shàng lái le.</div>
+            <div class="ex-en">The porter carried the luggage up [here].</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他跑过来跟我打招呼。</div>
+            <div class="ex-py">Tā pǎo guò lái gēn wǒ dǎ zhāohu.</div>
+            <div class="ex-en">He ran over to me to say hello.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">语法 yǔfǎ · Object position</span>
+          When the verb has an object, it can appear in two positions: before 来/去 (if short: 拿出书来) or after the full compound (if longer: 拿出来一本书). The most natural position for people/pronouns is after the directional: 跑过来一个人 "a person came running over." Location objects go between the direction verb and 来/去: 跑进教室来 "ran into the classroom [toward me]."
+        </div>
+      </div>
+
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">搬上来 · 跑出去 · 飞过来</span>
+          <span class="card-py">bān shàng lái · pǎo chū qù · fēi guò lái</span>
+          <span class="card-en">carry up here · run out there · fly over here</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">compound examples</span></div>
+        <div class="card-def">
+          Any motion verb can combine with any directional pair to form a compound directional complement. The meaning is composable: 搬 (carry) + 上 (up) + 来 (toward) = carry upward toward speaker. This productivity is one of the most elegant features of the Chinese complement system.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">一只鸟飞进来，落在了窗台上。</div>
+            <div class="ex-py">Yī zhī niǎo fēi jìn lái, luò zài le chuāngtái shàng.</div>
+            <div class="ex-en">A bird flew in [toward me] and landed on the windowsill.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他从楼上跑下来开门。</div>
+            <div class="ex-py">Tā cóng lóu shàng pǎo xià lái kāi mén.</div>
+            <div class="ex-en">He ran down from upstairs to open the door [toward me].</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards compound-dir -->
+
+    <!-- ── TENDENCY MARKERS ── -->
+    <span class="section-anchor" id="tendency"></span>
+    <div class="section-head">
+      <span class="sh-cn">起来／下去 的引申义</span>
+      <span class="sh-py">qǐlai / xià qù de yǐnshēn yì</span>
+      <span class="sh-en">来/去 as Tendency and Aspect Markers</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">看起来 · 听起来 · 想起来</span>
+          <span class="card-py">kàn qǐlai · tīng qǐlai · xiǎng qǐlai</span>
+          <span class="card-en">looks like · sounds like · to recall</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V + 起来 (idiomatic)</span></div>
+        <div class="card-def">
+          起来 qǐlai (rise up toward) has grammaticalized as an evaluative and inceptive marker. V + 起来 can mean "upon doing V, the impression is…" (评估) or "V starts to happen" (起始). The physical meaning of "coming up into view" extends to sensory impressions and the emergence of memory: something "comes up to" your perception.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">这道菜看起来很好吃。</div>
+            <div class="ex-py">Zhè dào cài kàn qǐlai hěn hǎochī.</div>
+            <div class="ex-en">This dish looks delicious. (lit. looking, it rises up as: very tasty)</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">说起来，我们已经认识十年了。</div>
+            <div class="ex-py">Shuō qǐlai, wǒmen yǐjīng rènshi shí nián le.</div>
+            <div class="ex-en">Speaking of it, we've known each other for ten years.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">我突然想起来了——他是老王的儿子！</div>
+            <div class="ex-py">Wǒ tūrán xiǎng qǐlai le — tā shì Lǎo Wáng de érzi!</div>
+            <div class="ex-en">I just remembered — he's Old Wang's son!</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">天气慢慢暖和起来了。</div>
+            <div class="ex-py">Tiānqì mànmàn nuǎnhuo qǐlai le.</div>
+            <div class="ex-en">The weather is gradually warming up.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">辨析 biànxī · 起来 evaluative vs. inceptive</span>
+          <strong>Evaluative 起来</strong>: 看起来, 听起来, 闻起来, 尝起来 — "upon [perceiving], it seems…" The action is the starting point for an assessment.<br>
+          <strong>Inceptive 起来</strong>: 哭起来, 跑起来, 唱起来 — "started to [V]." The 起 marks the beginning of an ongoing action. Context disambiguates: 他唱起来了 = he started singing.
+        </div>
+      </div>
+
+      <div class="card c-sienna">
+        <div class="card-head">
+          <span class="card-cn">下去 as continuation marker</span>
+          <span class="card-py">V + xià qù</span>
+          <span class="card-en">to keep on doing — continuation away into the future</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V + 下去 (continuative)</span></div>
+        <div class="card-def">
+          下去 xià qù (go down away) has grammaticalized as a continuative aspect marker: V + 下去 = to continue doing V, to keep going. The spatial metaphor of "going down into" the future is subtle but consistent: an action extends down and away from the current moment.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">不管有多难，我都要坚持下去。</div>
+            <div class="ex-py">Bùguǎn yǒu duō nán, wǒ dōu yào jiānchí xià qù.</div>
+            <div class="ex-en">No matter how hard it gets, I'll keep persisting.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">你说下去，我在听。</div>
+            <div class="ex-py">Nǐ shuō xià qù, wǒ zài tīng.</div>
+            <div class="ex-en">Go on speaking; I'm listening.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards tendency -->
+
+    <!-- ── PURPOSE ── -->
+    <span class="section-anchor" id="purpose"></span>
+    <div class="section-head">
+      <span class="sh-cn">目的用法</span>
+      <span class="sh-py">mùdì yòngfǎ</span>
+      <span class="sh-en">来/去 Expressing Purpose — "Go/Come to Do"</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">我来帮你 · 他去买菜</span>
+          <span class="card-py">wǒ lái bāng nǐ · tā qù mǎi cài</span>
+          <span class="card-en">I came to help you · he went to buy groceries</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">来/去 + V of purpose</span></div>
+        <div class="card-def">
+          来 and 去 can be followed directly by a verb of purpose: "come/go in order to do [V]." This is structurally simple: 来/去 + verb phrase. The motion establishes the direction; the following verb specifies the purpose of the trip. This is one of the most frequent patterns in everyday speech.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">我来看你了。</div>
+            <div class="ex-py">Wǒ lái kàn nǐ le.</div>
+            <div class="ex-en">I came to see you.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他去借一本书。</div>
+            <div class="ex-py">Tā qù jiè yī běn shū.</div>
+            <div class="ex-en">He went to borrow a book.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">你来干什么？——我来还你的伞。</div>
+            <div class="ex-py">Nǐ lái gàn shénme? — Wǒ lái huán nǐ de sǎn.</div>
+            <div class="ex-en">What did you come for? — I came to return your umbrella.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">语法 yǔfǎ · 来 as placeholder verb</span>
+          In colloquial speech, 来 can substitute for an unspecified action verb when context is clear: 我来！(I'll do it! / Let me!) replaces 我来做 "I'll come to do [whatever needs doing]." This use of 来 as a polite volunteering marker is extremely common: 菜来了 (the food is here! coming to you now).
+        </div>
+      </div>
+
+    </div><!-- /cards purpose -->
+
+    <!-- ── DIRECTIONAL PAIR TABLE ── -->
+    <span class="section-anchor" id="table"></span>
+    <div class="section-head">
+      <span class="sh-cn">趋向补语对照表</span>
+      <span class="sh-py">qūxiàng bǔyǔ duìzhào biǎo</span>
+      <span class="sh-en">Directional Pair Reference Table</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>Direction</th>
+            <th>+ 来 (toward speaker)</th>
+            <th>+ 去 (away from speaker)</th>
+            <th>Compound example (来)</th>
+            <th>Compound example (去)</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="td-cn">来/去 (base)</td>
+            <td>来 lái</td>
+            <td>去 qù</td>
+            <td>跑来 run over here</td>
+            <td>跑去 run over there</td>
+          </tr>
+          <tr>
+            <td class="td-cn">上/下</td>
+            <td>上来 shàng lái (come up)</td>
+            <td>下去 xià qù (go down)</td>
+            <td>爬上来 climb up here</td>
+            <td>走下去 walk down there</td>
+          </tr>
+          <tr>
+            <td class="td-cn">进/出</td>
+            <td>进来 jìn lái (come in)</td>
+            <td>出去 chū qù (go out)</td>
+            <td>走进来 walk in here</td>
+            <td>跑出去 run out there</td>
+          </tr>
+          <tr>
+            <td class="td-cn">回/过</td>
+            <td>回来 huí lái (come back)</td>
+            <td>过去 guò qù (go past)</td>
+            <td>走回来 walk back here</td>
+            <td>开过去 drive past (away)</td>
+          </tr>
+          <tr>
+            <td class="td-cn">起/开</td>
+            <td>起来 qǐ lái (rise up)</td>
+            <td>开去 kāi qù (rare)</td>
+            <td>站起来 stand up</td>
+            <td>散开去 scatter away</td>
+          </tr>
+          <tr>
+            <td class="td-cn">到 (reach)</td>
+            <td>到来 dào lái (arrival)</td>
+            <td>到去 (rare)</td>
+            <td>飞到来 fly here to land</td>
+            <td>走到 reach (destination)</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- ── CHENGYU ── -->
+    <span class="section-anchor" id="chengyu"></span>
+    <div class="section-head">
+      <span class="sh-cn">成语</span>
+      <span class="sh-py">chéngyǔ</span>
+      <span class="sh-en">来/去 in Idioms and Set Phrases</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="chengyu-grid">
+
+      <div class="cy">
+        <span class="cy-cn">往来不绝</span>
+        <span class="cy-py">wǎng lái bù jué</span>
+        <span class="cy-en">a constant stream of coming and going — uninterrupted traffic</span>
+        <span class="cy-note">往 wǎng (to go toward) + 来 (to come) + 不绝 (without cessation). Describes a place or relationship with continuous back-and-forth movement: traffic, commerce, correspondence, social connection. 街上人来人往，好不热闹 "People coming and going on the street — what a lively scene!"</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">来者不拒</span>
+        <span class="cy-py">lái zhě bù jù</span>
+        <span class="cy-en">refuse no one who comes — welcome all comers</span>
+        <span class="cy-note">Lit: those-who-come not-refused. 来者 = those who come (来 + 者 = the ones who come). A spirit of open acceptance: whoever comes is welcomed. Used in both hospitality and sometimes ironically for someone who accepts all offers without discrimination. Often paired with 去者不留 "don't detain those who leave."</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">去留无意</span>
+        <span class="cy-py">qù liú wú yì</span>
+        <span class="cy-en">indifferent to going or staying — free of attachment to outcome</span>
+        <span class="cy-note">From the famous couplet: 宠辱不惊，去留无意 — "Undisturbed by honor or disgrace; indifferent to going or staying." A Daoist attitude of equanimity and non-attachment. 去 (go/leave) contrasts with 留 (stay/remain). The phrase captures the ideal of acting without being determined by results.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">来日方长</span>
+        <span class="cy-py">lái rì fāng cháng</span>
+        <span class="cy-en">the days to come are still long — there is still much time ahead</span>
+        <span class="cy-note">来日 = the coming days, the future (days that come toward us). 方长 = just beginning to be long. A comfort phrase: things not accomplished now can still be done; relationships not deepened yet have time. 我们来日方长，不必着急 "We still have plenty of time ahead — no need to rush."</span>
+      </div>
+
+    </div>
+
+    <!-- ── ADJACENT VOCAB ── -->
+    <span class="section-anchor" id="adjacent"></span>
+    <div class="section-head">
+      <span class="sh-cn">相邻词汇</span>
+      <span class="sh-py">xiānglín cíhuì</span>
+      <span class="sh-en">Adjacent Vocabulary — Motion and Direction</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">走</span><span class="a-py">zǒu</span><span class="a-en">walk; leave</span></span>
+      <span class="adj"><span class="a-cn">跑</span><span class="a-py">pǎo</span><span class="a-en">run</span></span>
+      <span class="adj"><span class="a-cn">飞</span><span class="a-py">fēi</span><span class="a-en">fly</span></span>
+      <span class="adj"><span class="a-cn">搬</span><span class="a-py">bān</span><span class="a-en">move (objects)</span></span>
+      <span class="adj"><span class="a-cn">拿</span><span class="a-py">ná</span><span class="a-en">take, hold</span></span>
+      <span class="adj"><span class="a-cn">往</span><span class="a-py">wǎng</span><span class="a-en">toward (direction particle)</span></span>
+      <span class="adj"><span class="a-cn">向</span><span class="a-py">xiàng</span><span class="a-en">facing, toward</span></span>
+      <span class="adj"><span class="a-cn">趋向补语</span><span class="a-py">qūxiàng bǔyǔ</span><span class="a-en">directional complement</span></span>
+      <span class="adj"><span class="a-cn">起来</span><span class="a-py">qǐlai</span><span class="a-en">rise up; begin to; evaluative marker</span></span>
+      <span class="adj"><span class="a-cn">下去</span><span class="a-py">xià qù</span><span class="a-en">continue; go down</span></span>
+      <span class="adj"><span class="a-cn">出来</span><span class="a-py">chūlai</span><span class="a-en">come out; emerge</span></span>
+      <span class="adj"><span class="a-cn">回来</span><span class="a-py">huílai</span><span class="a-en">come back, return</span></span>
+      <span class="adj"><span class="a-cn">过来</span><span class="a-py">guòlai</span><span class="a-en">come over; recover</span></span>
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="page-footer">
+      <span class="footer-id">Field Notes on Chinese · <span>来 / 去 lái / qù</span> · directional_来去.html</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>

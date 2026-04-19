@@ -1,0 +1,625 @@
+---
+type: 'grammar'
+category: 'grammar'
+status: 'complete'
+title: '是…的 · the cleft construction'
+desc: 'Focus and past-detail marking — the construction that trips every learner.'
+metaDesc: "是…的: the Chinese cleft construction — presupposing a known action, focusing on one detail (time, place, manner, agent). Why it requires completed or known events, and how to shift focus with it."
+pageTitle: '是…的 shì…de'
+tags:
+  - 'focus'
+  - 'cleft'
+  - 'past'
+updated: '2026-04-18'
+pinyin: 'shì…de'
+---
+
+<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+
+    <span class="toc-topic">是…的</span>
+    <span class="toc-topic-en">Cleft Construction</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#etymology">
+        <span class="toc-cn">构式</span> Construction
+        <span class="toc-sub">what a cleft does</span>
+      </a></li>
+      <li><a href="#patterns">
+        <span class="toc-cn">句型</span> Pattern
+        <span class="toc-sub">是 + FOCUS + V + 的</span>
+      </a></li>
+      <li><a href="#time">
+        <span class="toc-cn">时间</span> Focusing on Time
+        <span class="toc-sub">last year, three years ago</span>
+      </a></li>
+      <li><a href="#place">
+        <span class="toc-cn">地点</span> Focusing on Place
+        <span class="toc-sub">in Beijing, in Shanghai</span>
+      </a></li>
+      <li><a href="#manner">
+        <span class="toc-cn">方式</span> Focusing on Manner/Agent
+        <span class="toc-sub">by car, by whom</span>
+      </a></li>
+      <li><a href="#affirmation">
+        <span class="toc-cn">肯定</span> 是的 as Affirmation
+        <span class="toc-sub">yes, exactly that</span>
+      </a></li>
+      <li><a href="#negation">
+        <span class="toc-cn">否定</span> Negation with 不是…的
+        <span class="toc-sub">correcting the focus</span>
+      </a></li>
+      <li><a href="#table">
+        <span class="toc-cn">对照表</span> Q&amp;A Table
+        <span class="toc-sub">focus shift illustrated</span>
+      </a></li>
+      <li><a href="#chengyu">
+        <span class="toc-cn">成语</span> Idioms
+        <span class="toc-sub">是/非 and the truth</span>
+      </a></li>
+      <li><a href="#adjacent">
+        <span class="toc-cn">相邻</span> Adjacent Vocab
+        <span class="toc-sub">related focus structures</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- HERO -->
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">Grammar · 语法 yǔfǎ</span>
+      <h1 class="topic-hero-title">是…的</h1>
+      <span class="topic-hero-title-py">shì … de</span>
+      <p class="topic-hero-desc">The cleft construction — a frame that says "I already know this happened; what I want to specify is THIS particular detail." A surgical tool for adding emphasis and correcting misunderstandings.</p>
+    </header>
+
+    <!-- ── CONSTRUCTION ── -->
+    <span class="section-anchor" id="etymology"></span>
+    <div class="section-head">
+      <span class="sh-cn">构式</span>
+      <span class="sh-py">gòushì</span>
+      <span class="sh-en">What a Cleft Construction Does</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="是">
+      <div class="scholar-label">构式洞见 gòushì dòngjiàn · The Logic of the Cleft</div>
+      <p>The 是…的 construction is a <strong>cleft sentence</strong> — linguists call it this because it "cleaves" a sentence in two: what is presupposed (already known) and what is focused (the new or emphasized information). In English, the closest equivalent is the "It was X that…" structure: "It was <strong>in Beijing</strong> that he studied" — both speakers know he studied; the new information is <em>where</em>.</p>
+      <p>In 是…的, the 是 opens the frame ("it is the case that") and sets up the focus, while the 的 closes the frame and signals the end of the focused information. Everything between 是 and 的 is what the speaker wants to highlight. The rest of the sentence — the verb, the action itself — is presupposed background. This is why 是…的 only works with events that are <em>already completed or known to both speakers</em>.</p>
+      <p>The four things that can be focused in Chinese 是…的 sentences correspond to the four classic <em>wh-</em>questions: When? (time) · Where? (place) · How? (manner or means) · Who? (agent or doer). One sentence, four possible cleft versions — each answering a different question about the same known event.</p>
+    </div>
+
+    <!-- ── PATTERN BOX ── -->
+    <span class="section-anchor" id="patterns"></span>
+    <div class="section-head">
+      <span class="sh-cn">句型</span>
+      <span class="sh-py">jùxíng</span>
+      <span class="sh-en">Core Pattern — Focus Brackets</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">是…的 核心句型 héxīn jùxíng · Core Frame</span>
+      <strong>是 + [FOCUS: time / place / manner / agent] + Verb + 的</strong><br><br>
+      他<strong>是</strong>去年来<strong>的</strong>。Tā <strong>shì</strong> qùnián lái <strong>de</strong>. — He came [last year]. (FOCUS: time)<br>
+      他<strong>是</strong>在北京出生<strong>的</strong>。Tā <strong>shì</strong> zài Běijīng chūshēng <strong>de</strong>. — He was born [in Beijing]. (FOCUS: place)<br>
+      他<strong>是</strong>开车去<strong>的</strong>。Tā <strong>shì</strong> kāichē qù <strong>de</strong>. — He went [by car]. (FOCUS: manner)<br>
+      <strong>是</strong>谁告诉你<strong>的</strong>？<strong>Shì</strong> shéi gàosu nǐ <strong>de</strong>? — Who told you? (FOCUS: agent)<br><br>
+      <strong>Critical rule:</strong> 是 can be omitted in spoken Chinese — 他去年来的 is natural — but 的 at the end is <em>obligatory</em> and cannot be dropped. The 的 is what marks the construction.
+    </div>
+
+    <div class="scholar" data-glyph="是">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · 是…的 Only Works with Completed/Known Events</div>
+      <p>The most important constraint on 是…的: <strong>the action must be completed or at least known to both parties.</strong> The construction presupposes that the event happened — the only question is which detail to specify.</p>
+      <p>This means 是…的 <em>cannot</em> be used for future events: <strong>*他是明天来的</strong> is ungrammatical — "tomorrow" is not a detail of a known past event. (You might say 他是明天来 without 的, which means "he's the one coming tomorrow" — but that's a different structure using 是 as the copula, not the cleft frame.)</p>
+      <p>The typical test: Can you ask a <em>wh-</em>question about a past event that both speakers know occurred? If yes, 是…的 is the right structure. If the event is unknown, new, or future, use a different pattern.</p>
+    </div>
+
+    <!-- ── FOCUSING ON TIME ── -->
+    <span class="section-anchor" id="time"></span>
+    <div class="section-head">
+      <span class="sh-cn">焦点：时间</span>
+      <span class="sh-py">jiāodiǎn: shíjiān</span>
+      <span class="sh-en">Focusing on Time</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">他是去年来的</span>
+          <span class="card-py">tā shì qùnián lái de</span>
+          <span class="card-en">he came last year (FOCUS: last year, not any other year)</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">是…的 · time focus</span></div>
+        <div class="card-def">
+          Both speakers know he came — the question is when. 是去年 places "last year" in the focus position, bracketed by 是 and …来的. The construction answers a question or corrects a misunderstanding about the timing: "No, it wasn't three years ago — it was last year."
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">A: 他是什么时候来的？</div>
+            <div class="ex-py">A: Tā shì shénme shíhòu lái de?</div>
+            <div class="ex-en">A: When did he come? (we know he came)</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">B: 他是去年来的。</div>
+            <div class="ex-py">B: Tā shì qùnián lái de.</div>
+            <div class="ex-en">B: He came last year.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">我是三年前开始学中文的。</div>
+            <div class="ex-py">Wǒ shì sān nián qián kāishǐ xué Zhōngwén de.</div>
+            <div class="ex-en">I started learning Chinese three years ago. (FOCUS: three years ago)</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">她是今天早上走的</span>
+          <span class="card-py">tā shì jīntiān zǎoshang zǒu de</span>
+          <span class="card-en">she left this morning (FOCUS: this morning, not yesterday)</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">是…的 · specific time focus</span></div>
+        <div class="card-def">
+          More precise time focus — this morning, as opposed to last night or yesterday. The presupposition is clear: she has already left (both speakers know this). The new information is the precise time of departure. Commonly used in conversations about arrivals, departures, and events.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">她是今天早上走的，不是昨天。</div>
+            <div class="ex-py">Tā shì jīntiān zǎoshang zǒu de, bú shì zuótiān.</div>
+            <div class="ex-en">She left this morning, not yesterday.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这件事是上个月发生的。</div>
+            <div class="ex-py">Zhè jiàn shì shì shàng gè yuè fāshēng de.</div>
+            <div class="ex-en">This thing happened last month.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards time -->
+
+    <!-- ── FOCUSING ON PLACE ── -->
+    <span class="section-anchor" id="place"></span>
+    <div class="section-head">
+      <span class="sh-cn">焦点：地点</span>
+      <span class="sh-py">jiāodiǎn: dìdiǎn</span>
+      <span class="sh-en">Focusing on Place</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">我是在北京出生的</span>
+          <span class="card-py">wǒ shì zài Běijīng chūshēng de</span>
+          <span class="card-en">I was born in Beijing (FOCUS: in Beijing, not elsewhere)</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">是…的 · place focus</span></div>
+        <div class="card-def">
+          Place focus with 在 + location between 是 and the verb. The presupposition is that the speaker was born — the focus is the location. This is how Chinese speakers typically answer "Where were you born?" — using 是…的 to frame the location as the focused new information.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">我是在北京出生的，但是在上海长大的。</div>
+            <div class="ex-py">Wǒ shì zài Běijīng chūshēng de, dànshì zài Shànghǎi zhǎngdà de.</div>
+            <div class="ex-en">I was born in Beijing but grew up in Shanghai.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">你是在哪里买的这件衣服？</div>
+            <div class="ex-py">Nǐ shì zài nǎlǐ mǎi de zhè jiàn yīfu?</div>
+            <div class="ex-en">Where did you buy this piece of clothing? (we know you bought it)</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">语法 yǔfǎ · Object Position</span>
+          When there is an object, it can appear before or after 的: 你在哪里买的这件衣服 / 你在哪里买这件衣服的 — both are acceptable, with the second form slightly more formal. The 是 at the start can be omitted in speech: 你在哪里买的？ is very natural.
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">他们是在上海见面的</span>
+          <span class="card-py">tāmen shì zài Shànghǎi jiànmiàn de</span>
+          <span class="card-en">they met in Shanghai (FOCUS: in Shanghai, not elsewhere)</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">是…的 · place focus</span></div>
+        <div class="card-def">
+          Both speakers know they met — the question is where. The 在上海 sits between 是 and 见面的, specifying the location of the known meeting. Common in stories, biographical accounts, and conversations about how relationships began.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他们是在上海见面的，不是在北京。</div>
+            <div class="ex-py">Tāmen shì zài Shànghǎi jiànmiàn de, bú shì zài Běijīng.</div>
+            <div class="ex-en">They met in Shanghai, not in Beijing.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这件事是在会议室讨论的。</div>
+            <div class="ex-py">Zhè jiàn shì shì zài huìyìshì tǎolùn de.</div>
+            <div class="ex-en">This matter was discussed in the conference room.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards place -->
+
+    <!-- ── FOCUSING ON MANNER/AGENT ── -->
+    <span class="section-anchor" id="manner"></span>
+    <div class="section-head">
+      <span class="sh-cn">焦点：方式/施事</span>
+      <span class="sh-py">jiāodiǎn: fāngshì / shīshì</span>
+      <span class="sh-en">Focusing on Manner &amp; Agent</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">他是开车去的</span>
+          <span class="card-py">tā shì kāichē qù de</span>
+          <span class="card-en">he went by car (FOCUS: by car, not by train, not walking)</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">是…的 · manner focus</span></div>
+        <div class="card-def">
+          Manner focus: the verb of transportation or method of doing something sits between 是 and 去的 (or the main verb + 的). The presupposition is that he went somewhere — the new information is how. 开车 (drive a car) is the manner. Other manners: 坐飞机 by plane, 骑车 by bike, 走路 on foot, 打电话 by phone.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">A: 他是怎么去的？</div>
+            <div class="ex-py">A: Tā shì zěnme qù de?</div>
+            <div class="ex-en">A: How did he get there? (we know he went)</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">B: 他是开车去的。</div>
+            <div class="ex-py">B: Tā shì kāichē qù de.</div>
+            <div class="ex-en">B: He went by car.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">我是坐地铁来的。</div>
+            <div class="ex-py">Wǒ shì zuò dìtiě lái de.</div>
+            <div class="ex-en">I came by subway.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">书是他借的</span>
+          <span class="card-py">shū shì tā jiè de</span>
+          <span class="card-en">the book was borrowed by him (FOCUS: by him, not by someone else)</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">是…的 · agent focus</span></div>
+        <div class="card-def">
+          Agent focus: who performed the known action. The agent (他) is placed between 是 and the verb + 的. Both speakers know the book was borrowed — the question or point of emphasis is <em>who</em> borrowed it. This is also how 是…的 can function like a passive: the book (subject) + 是 + agent + verb + 的.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">书是他借的，不是我借的。</div>
+            <div class="ex-py">Shū shì tā jiè de, bú shì wǒ jiè de.</div>
+            <div class="ex-en">The book was borrowed by him, not by me.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这个主意是她想出来的。</div>
+            <div class="ex-py">Zhège zhǔyi shì tā xiǎng chūlái de.</div>
+            <div class="ex-en">This idea was thought up by her.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">是谁告诉你的</span>
+          <span class="card-py">shì shéi gàosu nǐ de</span>
+          <span class="card-en">who told you? (FOCUS: which agent, unknown)</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">是…的 · agent focus question</span></div>
+        <div class="card-def">
+          The agent-focus question: 是谁 + Verb + 的. Both speakers know that someone told this person something — the unknown is who. 谁 occupies the focus position between 是 and the verb phrase. This is one of the most natural everyday uses of 是…的: interrogating the agent of a known past action.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">是谁告诉你这件事的？</div>
+            <div class="ex-py">Shì shéi gàosu nǐ zhè jiàn shì de?</div>
+            <div class="ex-en">Who told you about this?</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这幅画是谁画的？</div>
+            <div class="ex-py">Zhè fú huà shì shéi huà de?</div>
+            <div class="ex-en">Who painted this picture?</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这首歌是谁写的？</div>
+            <div class="ex-py">Zhè shǒu gē shì shéi xiě de?</div>
+            <div class="ex-en">Who wrote this song?</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards manner -->
+
+    <!-- ── 是的 AFFIRMATION ── -->
+    <span class="section-anchor" id="affirmation"></span>
+    <div class="section-head">
+      <span class="sh-cn">是的肯定</span>
+      <span class="sh-py">shì de kěndìng</span>
+      <span class="sh-en">是的 as Simple Affirmation</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">是的</span>
+          <span class="card-py">shì de</span>
+          <span class="card-en">yes; that's right; indeed (affirming something just said)</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">Affirmative particle pair</span></div>
+        <div class="card-def">
+          是的 in its collapsed, fully reduced form is simply an affirmation: "yes, that is the case." The 是 confirms the truth of what was said; the 的 creates a sense of definitiveness or "that's just how it is." It is warmer and more emphatic than a bare 对, and more measured than an enthusiastic 当然.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">A: 你是李老师的学生？</div>
+            <div class="ex-py">A: Nǐ shì Lǐ lǎoshī de xuésheng?</div>
+            <div class="ex-en">A: You're Teacher Li's student?</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">B: 是的。</div>
+            <div class="ex-py">B: Shì de.</div>
+            <div class="ex-en">B: Yes, that's right.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">是的，就是这样。</div>
+            <div class="ex-py">Shì de, jiù shì zhèyàng.</div>
+            <div class="ex-en">Yes, exactly like this — that's just how it is.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">语域 yǔyù · Register</span>
+          是的 is slightly formal compared to 对 or 嗯. It suits professional contexts, phone calls, and situations where one wants to sound composed and confirming. 对对对 (right right right) is more casual and enthusiastic. 是的 is the measured, respectful affirmation.
+        </div>
+      </div>
+
+    </div><!-- /cards affirmation -->
+
+    <!-- ── NEGATION ── -->
+    <span class="section-anchor" id="negation"></span>
+    <div class="section-head">
+      <span class="sh-cn">否定</span>
+      <span class="sh-py">fǒudìng</span>
+      <span class="sh-en">Negation with 不是…的 — Correcting the Focus</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">不是…的 · Correcting a Focus</span>
+      To negate a 是…的 sentence, replace 是 with 不是 — this corrects the focused element.<br><br>
+      A: 你是坐飞机来的吗？— Did you come by plane?<br>
+      B: 不是，我是坐火车来的。— No, I came by train.<br><br>
+      A: 你是在上海学的中文吗？— Did you learn Chinese in Shanghai?<br>
+      B: 不是在上海，是在北京学的。— Not in Shanghai — I learned it in Beijing.<br><br>
+      <strong>Key point:</strong> 不是…的 presupposes the same known event — it simply corrects which detail was true. It does NOT deny that the event happened; it corrects the specific focus point.
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">不是我说的</span>
+          <span class="card-py">bú shì wǒ shuō de</span>
+          <span class="card-en">it wasn't me who said it (correcting the agent)</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">不是…的 · agent correction</span></div>
+        <div class="card-def">
+          The classic defensive use of 不是…的: denying agency for a known past statement or action. Both parties know something was said — the 不是…的 corrects the attribution. This is one of the most practically useful forms of the construction in daily social life.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">不是我说的，是他说的。</div>
+            <div class="ex-py">Bú shì wǒ shuō de, shì tā shuō de.</div>
+            <div class="ex-en">It wasn't me who said it — it was him.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">不是故意的。</div>
+            <div class="ex-py">Bú shì gùyì de.</div>
+            <div class="ex-en">It wasn't intentional. (lit. It was not-on-purpose)</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">不是昨天买的</span>
+          <span class="card-py">bú shì zuótiān mǎi de</span>
+          <span class="card-en">it wasn't bought yesterday (correcting the time)</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">不是…的 · time correction</span></div>
+        <div class="card-def">
+          Time correction: both speakers know the item was bought — the correction is about when. 不是昨天 denies the specific time; the speaker may then supply the correct time with 是…的.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">不是昨天买的，是今天买的。</div>
+            <div class="ex-py">Bú shì zuótiān mǎi de, shì jīntiān mǎi de.</div>
+            <div class="ex-en">It wasn't bought yesterday — it was bought today.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他不是今天来的，是昨天来的。</div>
+            <div class="ex-py">Tā bú shì jīntiān lái de, shì zuótiān lái de.</div>
+            <div class="ex-en">He didn't arrive today — he arrived yesterday.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards negation -->
+
+    <!-- ── TABLE ── -->
+    <span class="section-anchor" id="table"></span>
+    <div class="section-head">
+      <span class="sh-cn">对照表</span>
+      <span class="sh-py">duìzhào biǎo</span>
+      <span class="sh-en">Q&amp;A Pairs — Focus Shift Illustrated</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>问题 Question</th>
+            <th>焦点 Focus</th>
+            <th>回答 Answer (是…的)</th>
+            <th>英文 English</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="td-cn">什么时候来的？</td>
+            <td>时间 Time</td>
+            <td class="td-cn">是去年来的</td>
+            <td>came last year</td>
+          </tr>
+          <tr>
+            <td class="td-cn">在哪里出生的？</td>
+            <td>地点 Place</td>
+            <td class="td-cn">是在北京出生的</td>
+            <td>born in Beijing</td>
+          </tr>
+          <tr>
+            <td class="td-cn">怎么去的？</td>
+            <td>方式 Manner</td>
+            <td class="td-cn">是开车去的</td>
+            <td>went by car</td>
+          </tr>
+          <tr>
+            <td class="td-cn">谁告诉你的？</td>
+            <td>施事 Agent</td>
+            <td class="td-cn">是他告诉我的</td>
+            <td>he told me</td>
+          </tr>
+          <tr>
+            <td class="td-cn">什么时候认识的？</td>
+            <td>时间 Time</td>
+            <td class="td-cn">是三年前认识的</td>
+            <td>met three years ago</td>
+          </tr>
+          <tr>
+            <td class="td-cn">在哪里见面的？</td>
+            <td>地点 Place</td>
+            <td class="td-cn">是在上海见面的</td>
+            <td>met in Shanghai</td>
+          </tr>
+          <tr>
+            <td class="td-cn">谁写的这首歌？</td>
+            <td>施事 Agent</td>
+            <td class="td-cn">是他写的</td>
+            <td>written by him</td>
+          </tr>
+          <tr>
+            <td class="td-cn">这件衣服怎么买的？</td>
+            <td>方式 Manner</td>
+            <td class="td-cn">是网上买的</td>
+            <td>bought online</td>
+          </tr>
+          <tr>
+            <td class="td-cn">这是哪里产的？</td>
+            <td>地点 Place</td>
+            <td class="td-cn">是中国产的</td>
+            <td>made in China</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- ── CHENGYU ── -->
+    <span class="section-anchor" id="chengyu"></span>
+    <div class="section-head">
+      <span class="sh-cn">成语</span>
+      <span class="sh-py">chéngyǔ</span>
+      <span class="sh-en">Idioms — 是 / 非 and Truth</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="是">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · 是 and 非 — Classical Semantic Range</div>
+      <p>In Classical Chinese, <strong>是 shì</strong> means "this; correct; right" (its copula function "to be" came later), while <strong>非 fēi</strong> means "wrong; not; to negate." The pair 是非 shìfēi together means "right and wrong, disputes, gossip, quarrels" — the permanent human preoccupation with distinguishing what is correct from what is not. Many idioms built on 是 and 非 explore this tension.</p>
+    </div>
+
+    <div class="chengyu-grid">
+
+      <div class="cy">
+        <span class="cy-cn">是非对错</span>
+        <span class="cy-py">shìfēi duìcuò</span>
+        <span class="cy-en">right and wrong, correct and incorrect — the full moral spectrum of a situation</span>
+        <span class="cy-note">Lit: right-wrong-correct-incorrect. A compound of two pairs: 是非 (right/wrong as a classical pair) and 对错 (correct/incorrect as a modern pair). Used to describe careful moral judgment of a complex situation. 分清是非对错 = "to clearly distinguish right from wrong in the situation."</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">颠倒是非</span>
+        <span class="cy-py">diāndào shìfēi</span>
+        <span class="cy-en">to invert right and wrong; to call black white and white black</span>
+        <span class="cy-note">Lit: overturn-invert-right-wrong. A severe accusation: to deliberately misrepresent the facts, to claim something wrong is right and vice versa. The logical extreme of a bad-faith 是…的 — not just correcting a focus, but inverting the entire reality. Common in political rhetoric and moral arguments.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">实事求是</span>
+        <span class="cy-py">shíshì qiú shì</span>
+        <span class="cy-en">to seek truth from facts; to be empirical and honest about reality</span>
+        <span class="cy-note">Lit: real-things-seek-correctness. From the Han-dynasty text Hanshu, later adopted as a Maoist slogan for empirical investigation over dogmatism. One of the most frequently cited phrases in Chinese political and intellectual life. 是 here means "what is actually correct" — finding what is genuinely true through investigation of concrete reality.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">似是而非</span>
+        <span class="cy-py">sì shì ér fēi</span>
+        <span class="cy-en">seemingly right but actually wrong; plausible but false</span>
+        <span class="cy-note">Lit: seem-right-but-wrong. Used for arguments, claims, or reasoning that appear correct on the surface but are fundamentally flawed. The danger zone of logical errors — specious reasoning that passes for truth. Appears in classical philosophy and remains common in intellectual criticism.</span>
+      </div>
+
+    </div>
+
+    <!-- ── ADJACENT VOCAB ── -->
+    <span class="section-anchor" id="adjacent"></span>
+    <div class="section-head">
+      <span class="sh-cn">相邻词汇</span>
+      <span class="sh-py">xiānglín cíhuì</span>
+      <span class="sh-en">Adjacent Vocabulary</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">就是</span><span class="a-py">jiù shì</span><span class="a-en">exactly; it's precisely (strong affirmation)</span></span>
+      <span class="adj"><span class="a-cn">正是</span><span class="a-py">zhèng shì</span><span class="a-en">precisely; exactly (formal confirmation)</span></span>
+      <span class="adj"><span class="a-cn">的确</span><span class="a-py">díquè</span><span class="a-en">indeed; certainly</span></span>
+      <span class="adj"><span class="a-cn">是非</span><span class="a-py">shìfēi</span><span class="a-en">right and wrong; dispute; gossip</span></span>
+      <span class="adj"><span class="a-cn">对</span><span class="a-py">duì</span><span class="a-en">correct; right (affirmation)</span></span>
+      <span class="adj"><span class="a-cn">没错</span><span class="a-py">méicuò</span><span class="a-en">that's right; no mistake</span></span>
+      <span class="adj"><span class="a-cn">焦点</span><span class="a-py">jiāodiǎn</span><span class="a-en">focus; focal point</span></span>
+      <span class="adj"><span class="a-cn">强调</span><span class="a-py">qiángdiào</span><span class="a-en">to emphasize</span></span>
+      <span class="adj"><span class="a-cn">预设</span><span class="a-py">yùshè</span><span class="a-en">presupposition (linguistics)</span></span>
+      <span class="adj"><span class="a-cn">连词</span><span class="a-py">liáncí</span><span class="a-en">conjunction; linking word</span></span>
+      <span class="adj"><span class="a-cn">怎么</span><span class="a-py">zěnme</span><span class="a-en">how; in what way (manner question)</span></span>
+      <span class="adj"><span class="a-cn">为什么</span><span class="a-py">wèishénme</span><span class="a-en">why (reason question)</span></span>
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="page-footer">
+      <span class="footer-id">Field Notes on Chinese · <span>是…的 shì…de</span> · shide_是的.html</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>

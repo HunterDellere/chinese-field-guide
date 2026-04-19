@@ -1,0 +1,357 @@
+---
+type: 'topic'
+category: 'philosophy'
+status: 'complete'
+title: '老子 · Laozi & the Daodejing'
+desc: 'The 81 chapters, wu wei 无为, and the paradox at the heart of Daoist thought.'
+metaDesc: "老子 Laozi: the historical problem, the Daodejing 道德经 text, the Dao as ineffable ground of being, 无为 non-action, 反 reversal, and water as philosophical metaphor."
+pageTitle: '老子 lǎozǐ'
+tags:
+  - 'laozi'
+  - 'daodejing'
+  - 'wuwei'
+updated: '2026-04-18'
+pinyin: 'lǎozǐ'
+---
+
+<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+    <span class="toc-topic">老子</span>
+    <span class="toc-topic-en">Laozi &amp; the Daodejing</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#person">
+        <span class="toc-cn">老子其人</span> The Historical Problem
+        <span class="toc-sub">was there a Laozi?</span>
+      </a></li>
+      <li><a href="#text">
+        <span class="toc-cn">道德经</span> The Text
+        <span class="toc-sub">81 chapters · two traditions</span>
+      </a></li>
+      <li><a href="#dao">
+        <span class="toc-cn">道</span> The Way
+        <span class="toc-sub">what the Dao is and isn't</span>
+      </a></li>
+      <li><a href="#wuwei">
+        <span class="toc-cn">无为</span> Non-Action
+        <span class="toc-sub">personal and political philosophy</span>
+      </a></li>
+      <li><a href="#fan">
+        <span class="toc-cn">反</span> Reversal
+        <span class="toc-sub">how the Dao works</span>
+      </a></li>
+      <li><a href="#water">
+        <span class="toc-cn">水</span> Water as Metaphor
+        <span class="toc-sub">the recurring image</span>
+      </a></li>
+      <li><a href="#legacy">
+        <span class="toc-cn">老子的影响</span> Legacy
+        <span class="toc-sub">Daoism · religion · modern influence</span>
+      </a></li>
+      <li><a href="#passages">
+        <span class="toc-cn">经典章句</span> Key Passages
+        <span class="toc-sub">famous lines from the Daodejing</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- HERO -->
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">Philosophy · 哲学 zhéxué</span>
+      <h1 class="topic-hero-title">老子</h1>
+      <span class="topic-hero-title-py">lǎozǐ</span>
+      <p class="topic-hero-desc">The text that may have no single author, the Way that cannot be spoken, and the paradox — soft overcomes hard, emptiness is useful, the sage governs by not governing — that has fascinated readers for twenty-five centuries.</p>
+    </header>
+
+    <!-- ── PERSON ── -->
+    <span class="section-anchor" id="person"></span>
+    <div class="section-head">
+      <span class="sh-cn">老子其人</span>
+      <span class="sh-py">lǎozǐ qírén</span>
+      <span class="sh-en">The Historical Problem — Was There a Laozi?</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="老">
+      <div class="scholar-label">历史疑问 lìshǐ yíwèn · The Historical Puzzle</div>
+      <p>Laozi 老子 — "Old Master" — is among the most uncertain figures in the history of philosophy. The earliest biographical account is in Sima Qian's 司马迁 <em>Shiji</em> 史记 (c. 90 BCE), and even there the historian admits he cannot be certain: he offers three candidate identities and concludes simply, "No one knows where Laozi ended up." This is an unusual admission for Sima Qian, who narrated the lives of historical figures with great confidence. That he hedges here tells us something important.</p>
+      <p>The traditional story is this: Laozi was a royal archivist in the Zhou court named Li Er 李耳 or Lao Dan 老聃. Confucius reportedly visited him and came away humbled, saying Laozi was like a dragon — beyond comprehension. When the Zhou dynasty declined beyond recovery, Laozi decided to leave. He rode westward on a water buffalo, intending to disappear into the wilderness. At the Hangu Pass 函谷关, the gatekeeper Yin Xi 尹喜 persuaded him to write down his wisdom before departing. Laozi composed five thousand characters, handed them to Yin Xi, and was never seen again.</p>
+      <p>Modern scholarship is skeptical of this account. The Daodejing shows signs of composite authorship — different chapters appear to come from different intellectual environments and perhaps different periods. The Guodian 郭店 bamboo manuscripts discovered in 1993, dated to approximately 300 BCE, contain versions of about a third of the Daodejing's chapters in forms sometimes significantly different from the received text. This discovery has intensified scholarly debate about whether the text had a single author or evolved through a tradition of accumulation and editing.</p>
+      <p>The most defensible position is that "Laozi" may be a composite or legendary figure — a convenient name for a tradition of thought — and that the Daodejing is a sophisticated compilation of ideas developed in the fourth and third centuries BCE, possibly built around a core of genuine early material. For purposes of philosophy, this uncertainty about authorship matters less than it might seem: the text exists, and its arguments must be engaged on their own terms regardless of who wrote them.</p>
+    </div>
+
+    <!-- ── TEXT ── -->
+    <span class="section-anchor" id="text"></span>
+    <div class="section-head">
+      <span class="sh-cn">道德经</span>
+      <span class="sh-py">dàodéjīng</span>
+      <span class="sh-en">The Text — 81 Chapters, Two Traditions</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="經">
+      <div class="scholar-label">文本概述 wénběn gàishù · Textual Overview</div>
+      <p>The 道德经 Dàodéjīng — "Classic of the Way and Virtue," also called the 老子 Lǎozǐ — is one of the shortest and most translated philosophical texts in world literature. It consists of 81 chapters 章 (zhāng) containing approximately five thousand Chinese characters — a text that can be read aloud in under an hour. This compression is itself philosophically significant: the Daodejing is a text that demands more from the reader than it provides, a text that opens rather than closes. Its brevity is part of its strategy.</p>
+      <p>The text divides into two parts. The first 37 chapters constitute the 道经 Dàojīng (Classic of the Way), concerning the nature of the Dao. The final 44 chapters (38–81) constitute the 德经 Déjīng (Classic of Virtue/Power), concerning de 德 — the power or virtue that flows from alignment with the Dao. Interestingly, the Mawangdui 马王堆 manuscripts (discovered in 1973, dated to around 168 BCE) present the text in the reverse order: 德经 first, 道经 second. This reversal suggests the received order is not necessarily original.</p>
+      <p>Two received commentarial traditions dominate the text's history. The <strong>Wang Bi 王弼 tradition</strong> (c. 226–249 CE) reads the Daodejing as a metaphysical text about the nature of reality and produces a highly systematic philosophical interpretation. Wang Bi was a prodigy who died at twenty-three but left a commentary of lasting influence. The <strong>Heshang Gong 河上公 tradition</strong> reads the text in a more practical, bodily, and political register — as a guide to cultivating vital energy 气 qì and governing the self and the state simultaneously. These two traditions broadly correspond to the bifurcation of Daoist thought into philosophical Daoism 道家 dàojiā and religious Daoism 道教 dàojiào.</p>
+    </div>
+
+    <div class="pattern">
+      <span class="label">道德经结构 dàodéjīng jiégòu · Structure at a Glance</span>
+      <strong>道经 Dàojīng</strong> → Chapters 1–37 · the nature of the Dao · ~2,426 characters<br>
+      <strong>德经 Déjīng</strong> → Chapters 38–81 · virtue, power, and application · ~2,574 characters<br>
+      <strong>两大注本</strong> → 王弼本 Wang Bi recension (metaphysical, philosophical) · 河上公本 Heshang Gong recension (political, cosmological, bodily)<br>
+      <strong>出土文本</strong> → 马王堆帛书 Mawangdui silk manuscripts (168 BCE) · 郭店竹简 Guodian bamboo slips (c. 300 BCE)
+    </div>
+
+    <!-- ── DAO ── -->
+    <span class="section-anchor" id="dao"></span>
+    <div class="section-head">
+      <span class="sh-cn">道</span>
+      <span class="sh-py">dào</span>
+      <span class="sh-en">The Way — What the Dao Is and Isn't</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="道">
+      <div class="scholar-label">核心概念 héxīn gàiniàn · Core Concept</div>
+      <p>The first chapter of the Daodejing opens with the most famous statement in Chinese philosophy: 道可道，非常道 — "The Dao that can be spoken of is not the constant Dao." The text announces its subject and simultaneously warns against thinking you have understood it. Whatever you say about the Dao, the Dao is not that. This is not mystical evasiveness — it is a precise philosophical claim about the relationship between language and reality.</p>
+      <p>What is the Dao? The text approaches it through negation and metaphor rather than definition. The Dao is the source and ground of all things — before Heaven and Earth, before the ten thousand creatures 万物 wànwù, there was the Dao. But it is not a thing among other things; it is the precondition of there being things at all. The text says: <em>Something formlessly complete, born before Heaven and Earth. Silent and empty, it stands alone and does not change; it goes through all things and does not tire. It can be considered the mother of all under Heaven. I do not know its name — I give it the word Dao</em> (Chapter 25).</p>
+      <p>The Dao operates without intention, purpose, or will. It does not choose to make things grow, nor does it judge or reward. This distinguishes it sharply from the Zhou concept of Heaven 天 tiān as a moral power that responds to human virtue and vice. The Dao is 无为 wú wéi — it acts without acting, achieves without striving. The ten thousand things arise from it naturally, not because it intervenes but because that is what the Dao does. 自然 zìrán — "so of itself," "spontaneous naturalness" — is the key word: the Dao is not like an architect who designs and builds, but like the pattern that makes it possible for anything to take the shape it takes.</p>
+      <p>The practical implication is disorienting. If the Dao works without striving, and if the sage is one who aligns with the Dao, then the sage's power — 德 dé — is not the power of forceful action but the power of non-obstruction. The sage ruler does not impose his will on the people; he creates conditions in which the people's own natural dispositions can unfold. This is why the Daodejing is simultaneously a metaphysical text about the nature of reality and a political text about the art of government.</p>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">道</span>
+          <span class="card-py">dào</span>
+          <span class="card-en">the Way; the ground of being; the Dao</span>
+        </div>
+        <div class="card-def">
+          Originally: a road or path. Elevated by the Daodejing into the name for the ineffable ground and source of all reality. The Dao precedes Heaven and Earth, sustains all things without action, and cannot be adequately named or defined. Every other concept in the text — 无为, 自然, 德, 反 — is a facet of how the Dao works.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">道可道，非常道。</div>
+            <div class="ex-py">Dào kě dào, fēi cháng dào.</div>
+            <div class="ex-en">The Dao that can be spoken of is not the constant Dao. (Chapter 1)</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">道生一，一生二，二生三，三生万物。</div>
+            <div class="ex-py">Dào shēng yī, yī shēng èr, èr shēng sān, sān shēng wànwù.</div>
+            <div class="ex-en">The Dao gives birth to one; one gives birth to two; two gives birth to three; three gives birth to the ten thousand things. (Chapter 42)</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">自然</span>
+          <span class="card-py">zìrán</span>
+          <span class="card-en">spontaneous naturalness; so-of-itself; the Dao's mode of operation</span>
+        </div>
+        <div class="card-def">
+          自 zì (self) + 然 rán (so; thus; like that). "So of itself" — things being what they are without external compulsion or design. The Dao does not plan; things arise naturally from it. The sage, accordingly, does not impose plans but enables natural unfolding. In modern Chinese, 自然 means simply "nature" and "natural." The classical philosophical meaning is more specific: spontaneous self-so-ness.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">人法地，地法天，天法道，道法自然。</div>
+            <div class="ex-py">Rén fǎ dì, dì fǎ tiān, tiān fǎ dào, dào fǎ zìrán.</div>
+            <div class="ex-en">Humans follow the earth; earth follows Heaven; Heaven follows the Dao; the Dao follows what is naturally so. (Chapter 25)</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">德</span>
+          <span class="card-py">dé</span>
+          <span class="card-en">virtue; power; the efficacy that flows from alignment with the Dao</span>
+        </div>
+        <div class="card-def">
+          德 in the Daodejing is not "virtue" in the sense of moral goodness earned through effort. It is the power or efficacy that a thing has when it fully realizes its nature — when it is fully aligned with the Dao. A tree has de when it grows as a tree should; a sage has de when he acts as a sage should, without forcing, without striving.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">上德不德，是以有德。</div>
+            <div class="ex-py">Shàng dé bù dé, shì yǐ yǒu dé.</div>
+            <div class="ex-en">Highest virtue does not strive for virtue — therefore it has virtue. (Chapter 38)</div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- ── WUWEI ── -->
+    <span class="section-anchor" id="wuwei"></span>
+    <div class="section-head">
+      <span class="sh-cn">无为</span>
+      <span class="sh-py">wú wéi</span>
+      <span class="sh-en">Non-Action — as Personal and Political Philosophy</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="為">
+      <div class="scholar-label">无为洞见 wú wéi dòngjiàn · Understanding Non-Action</div>
+      <p>无为 wú wéi is the most misunderstood concept in Chinese philosophy. It does not mean passivity, inaction, or withdrawal from the world. It means acting without imposing — without forcing outcomes through aggressive intervention that violates the natural patterns of things. The Daodejing says: 为学日益，为道日损 — "In pursuit of learning, every day something is gained. In pursuit of the Dao, every day something is dropped" (Chapter 48). What is dropped is the desire to force, control, and dominate.</p>
+      <p>The personal application: the person who cultivates 无为 does not suppress desires but learns to want only what is genuinely necessary and available. They do not exhaust themselves in striving for social recognition, material accumulation, or the domination of others. They act with economy, doing what is required without excess. The Daodejing admires those who accomplish without claiming credit: <em>The sage accomplishes and does not dwell on the accomplishment. It is because he does not dwell on it that it does not leave him</em> (Chapter 2).</p>
+      <p>The political application is even more pointed, and was probably the text's primary concern for its original audience. The Daodejing is in part a manual for rulers, and its central political advice is: govern less. The more laws and prohibitions there are, the poorer the people. The more regulations, the more disorder. The more the ruler interferes with the people's natural lives, the more harm is done. <em>Govern a great state as you would cook a small fish</em> (Chapter 60) — gently, without stirring it up too much. The ideal ruler of the Daodejing is one of whom the people say, "We did it ourselves": 功成而弗居，夫唯弗居，是以不去 — accomplishing and not taking credit; because he does not take credit, nothing is taken from him.</p>
+      <p>This political philosophy directly opposes the activist reformism of Confucius and the strict legalism of the Qin administrators. It is, in a specific historical sense, a critique of the tendency toward ever-more-elaborate ritual systems (against Confucianism) and ever-more-elaborate administrative control (against Legalism). The Daodejing asks: what if the problem is not that we are governing incorrectly, but that we are governing too much?</p>
+    </div>
+
+    <!-- ── FAN ── -->
+    <span class="section-anchor" id="fan"></span>
+    <div class="section-head">
+      <span class="sh-cn">反</span>
+      <span class="sh-py">fǎn</span>
+      <span class="sh-en">Reversal — How the Dao Works</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="反">
+      <div class="scholar-label">辩证洞见 biànzhèng dòngjiàn · Dialectical Insight</div>
+      <p>反者道之动 — "Reversal is the movement of the Dao" (Chapter 40). This single statement captures one of the Daodejing's most characteristic intellectual moves. The Dao works by reversal: what appears to be the weaker force is actually the stronger; what appears to be diminishment is actually increase; what appears to be retreat is actually advance. The text is built on a systematic inversion of ordinary value hierarchies.</p>
+      <p>The reversals are everywhere in the text. The valley 谷 gǔ — low, empty, receptive — is privileged over the mountain: <em>The highest good is like water</em>, <em>the spirit of the valley never dies</em>. The female 牝 pìn is privileged over the male: the female, yielding and receptive, consistently overcomes the hard and aggressive male. Emptiness is privileged over fullness: a wheel's hub is only useful because of the empty space at its center; a pot is only useful because of its interior emptiness; a room is only useful because of the empty space within it (Chapter 11). The Daodejing argues that what we normally regard as absence, weakness, and yielding is in fact the source of usefulness, efficacy, and endurance.</p>
+      <p>The practical consequence: the sage does not compete, so no one can compete with him. He yields, so he is not broken. He places himself last, so he ends up first. These apparent paradoxes are not mystical riddles but logical consequences of the reversal principle. If forcing and competing always generate resistance and counterforce, then the most effective way to achieve something is to not force it. The soft overcomes the hard not through weakness but through a different kind of strength: the strength of persistence and non-confrontation.</p>
+      <p>This logic had enormous influence on Chinese strategic thinking — military, diplomatic, and personal. Sun Tzu's 孙子 art of war is pervaded by similar logic. The judo principle of using an opponent's force against him is one cultural expression of 反. The emphasis on 以柔克刚 yǐ róu kè gāng (soft overcomes hard) runs through Chinese martial arts, negotiation practices, and political theory.</p>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">柔弱胜刚强</span>
+          <span class="card-py">róu ruò shèng gāng qiáng</span>
+          <span class="card-en">the soft and weak overcomes the hard and strong</span>
+        </div>
+        <div class="card-def">
+          The most concentrated expression of the 反 reversal principle. 柔 róu (soft, pliant) and 弱 ruò (weak, yielding) overcome 刚 gāng (hard, rigid) and 强 qiáng (strong, forceful). The Daodejing insists this is not inspirational rhetoric but an observable fact. The tongue outlasts the teeth; water erodes stone.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">天下莫柔弱于水，而攻坚强者莫之能胜。</div>
+            <div class="ex-py">Tiānxià mò róu ruò yú shuǐ, ér gōng jiān qiáng zhě mò zhī néng shèng.</div>
+            <div class="ex-en">Nothing in the world is as soft as water, yet nothing surpasses it in overcoming what is hard and strong. (Chapter 78)</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">知足</span>
+          <span class="card-py">zhī zú</span>
+          <span class="card-en">knowing sufficiency; contentment with enough</span>
+        </div>
+        <div class="card-def">
+          知 zhī (to know) + 足 zú (sufficient; foot; fullness). One of the Daodejing's most politically charged concepts: knowing when one has enough, and stopping there. The opposite of insatiable accumulation. The person who knows sufficiency is always rich — not because they have much but because they want only what they have.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">知足者富。</div>
+            <div class="ex-py">Zhī zú zhě fù.</div>
+            <div class="ex-en">Those who know sufficiency are wealthy. (Chapter 33)</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">知足者常足。</div>
+            <div class="ex-py">Zhī zú zhě cháng zú.</div>
+            <div class="ex-en">Those who know sufficiency always have enough. (Chapter 46)</div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- ── WATER ── -->
+    <span class="section-anchor" id="water"></span>
+    <div class="section-head">
+      <span class="sh-cn">水</span>
+      <span class="sh-py">shuǐ</span>
+      <span class="sh-en">Water as Philosophical Metaphor</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="水">
+      <div class="scholar-label">意象分析 yìxiàng fēnxī · Image Analysis</div>
+      <p>Water 水 shuǐ is the Daodejing's most sustained metaphor. It appears in some form in at least a dozen of the 81 chapters and functions as a kind of philosophical demonstration: look at water, the text says, and you will see how the Dao operates. Chapter 8 opens with the statement that has become perhaps the most famous line in all of Daoist literature: 上善若水 — "Highest good is like water."</p>
+      <p>Why water? Water has properties that illustrate every major principle of the Daodejing simultaneously. It is 柔弱 róu ruò (soft and yielding) yet over time erodes the hardest stone. It 利万物 (benefits all things) without discrimination — it nourishes everything without selecting favorites. It 处众人之所恶 (dwells in places that people despise) — it flows downward, settles in lowlands and hollows, takes the humble position that no one else wants. And yet precisely because of these apparently weak qualities, water is indispensable and unstoppable.</p>
+      <p>The specific properties of water that the Daodejing emphasizes: it has no fixed shape (yielding to whatever container holds it, flowing around whatever obstacle confronts it); it always seeks the lowest level (modeling the virtue of humility and non-competition); it is 无为 in the precise sense — it does not intend to erode rock, it simply flows, and the erosion is a consequence; it is both utterly ordinary and absolutely essential. These properties, taken together, constitute a portrait of the sage who lives in alignment with the Dao.</p>
+      <p>The valley 谷 gǔ and the female 牝 pìn function in similar ways in the text — both are images of hollow, yielding, receptive space that is apparently empty but actually productive and powerful. Together, water, valley, and the female constitute the Daodejing's consistent valorization of the apparently weak, the apparently low, and the apparently passive as the genuine seat of strength and efficacy.</p>
+    </div>
+
+    <!-- ── LEGACY ── -->
+    <span class="section-anchor" id="legacy"></span>
+    <div class="section-head">
+      <span class="sh-cn">老子的影响</span>
+      <span class="sh-py">lǎozǐ de yǐngxiǎng</span>
+      <span class="sh-en">Legacy — Philosophical Daoism, Religious Daoism, and Beyond</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="道">
+      <div class="scholar-label">历史影响 lìshǐ yǐngxiǎng · Historical Impact</div>
+      <p>The Daodejing's influence bifurcated early. As 道家 dàojiā (philosophical Daoism), it became the foundational text of a rich tradition of speculative thought developed by Zhuangzi 庄子, the Huainanzi 淮南子, and later by the xuanxue 玄学 ("dark learning") neo-Daoist movement of the Wei-Jin period (3rd–4th centuries CE). This philosophical tradition engaged closely with Confucianism and Buddhism in a sustained three-way conversation that shaped Chinese intellectual life for over a thousand years.</p>
+      <p>As 道教 dàojiào (religious Daoism), the text became a sacred scripture — 经 jīng, a "classic" — for a tradition that developed ritual, meditation, cultivation practices, and institutional organization. Religious Daoism incorporated the Daodejing but surrounded it with a vast apparatus of other texts, practices, and divine figures that Laozi himself never envisioned. The deification of Laozi as the Highest Lord Lao 太上老君 Tàishàng Lǎojūn made him a supreme deity in the Daoist pantheon.</p>
+      <p>The Daodejing is the second most translated book in world history after the Bible, with hundreds of English translations alone. This remarkable fact reflects both the text's philosophical density and its radical openness to interpretation — its studied vagueness has made it legible to readers across vastly different cultural frameworks, from early Christian missionaries who saw resonances with the Gospel of John's "Logos," to twentieth-century physicists who found in it a description of quantum complementarity, to modern management consultants who read it as a guide to effortless leadership. Many of these readings are tendentious, but the fact that they are possible tells us something about the text's unusual structure.</p>
+    </div>
+
+    <!-- ── PASSAGES ── -->
+    <span class="section-anchor" id="passages"></span>
+    <div class="section-head">
+      <span class="sh-cn">经典章句</span>
+      <span class="sh-py">jīngdiǎn zhāngjù</span>
+      <span class="sh-en">Key Passages from the Daodejing</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="chengyu-grid">
+
+      <div class="cy">
+        <span class="cy-cn">道可道，非常道。</span>
+        <span class="cy-py">dào kě dào, fēi cháng dào.</span>
+        <span class="cy-en">The Dao that can be spoken of is not the constant Dao.</span>
+        <span class="cy-note">Opening line of Chapter 1 — arguably the most famous sentence in Chinese philosophy. The word 常 cháng (constant, eternal, invariable) is key: what can be put into ordinary language is necessarily partial and changeable, not the Dao itself. The line is also a grammatical demonstration of its own claim: it uses the Dao as both noun and verb (道 can mean "to speak" or "to indicate"), making its own form perform its meaning.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">上善若水。</span>
+        <span class="cy-py">shàng shàn ruò shuǐ.</span>
+        <span class="cy-en">Highest good is like water.</span>
+        <span class="cy-note">Opening line of Chapter 8. The passage continues: "Water benefits the ten thousand things and does not compete. It dwells in places that people despise. Therefore it is close to the Dao." 上善 shàng shàn means not merely "great virtue" but "the highest possible virtue" — the very best way of being in the world. The comparison to water is not decorative but philosophical: it specifies the exact qualities that constitute the highest good.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">知足者富。</span>
+        <span class="cy-py">zhī zú zhě fù.</span>
+        <span class="cy-en">Those who know sufficiency are wealthy.</span>
+        <span class="cy-note">Chapter 33. The full passage offers four paired contrasts: knowing others is wisdom (智 zhì), knowing oneself is enlightenment (明 míng); overcoming others requires force (力 lì), overcoming oneself requires strength (强 qiáng); knowing sufficiency is wealth (富 fù), acting with determination is will (志 zhì). The text redefines each term — wealth, strength, wisdom — away from their conventional meanings toward inner qualities.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">为学日益，为道日损。</span>
+        <span class="cy-py">wéi xué rì yì, wéi dào rì sǔn.</span>
+        <span class="cy-en">In pursuit of learning, every day something is gained. In pursuit of the Dao, every day something is dropped.</span>
+        <span class="cy-note">Chapter 48. The contrast with Confucius's emphasis on continuous learning and accumulation of knowledge is probably deliberate. The Daodejing does not reject learning but insists that the Dao requires a different movement: subtraction rather than addition, unlearning rather than accumulation. The passage continues: "Less and less, until you arrive at non-action (无为). Through non-action, nothing is left undone."</span>
+      </div>
+
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="page-footer">
+      <span class="footer-id">Field Notes on Chinese · <span>老子 lǎozǐ</span> · topic_laozi.html</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>

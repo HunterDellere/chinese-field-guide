@@ -1,0 +1,590 @@
+---
+type: 'vocab'
+category: 'vocab'
+status: 'complete'
+title: '江湖 · rivers and lakes'
+desc: 'The outsider world of wanderers, martial artists, and street wisdom.'
+metaDesc: "江湖 jiānghú: rivers and lakes, the martial world, and the space outside official society. From wuxia novels to modern slang — the word for everywhere that isn't home."
+pageTitle: '江湖 jiānghú'
+tags:
+  - 'wuxia'
+  - 'culture'
+  - 'society'
+updated: '2026-04-18'
+pinyin: 'jiānghú'
+---
+
+<button class="toc-toggle">目录 Contents ▾</button>
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+    <button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+    <span class="toc-topic">江湖</span>
+    <span class="toc-topic-en">Rivers and Lakes</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#etymology">
+        <span class="toc-cn">字源</span> Etymology
+        <span class="toc-sub">zìyuán · origin &amp; structure</span>
+      </a></li>
+      <li><a href="#world">
+        <span class="toc-cn">江湖</span> The World Outside
+        <span class="toc-sub">jiānghú · realm beyond order</span>
+      </a></li>
+      <li><a href="#wuxia">
+        <span class="toc-cn">武侠</span> The Martial World
+        <span class="toc-sub">wǔxiá · knights and sects</span>
+      </a></li>
+      <li><a href="#modern">
+        <span class="toc-cn">现代</span> Modern Uses
+        <span class="toc-sub">xiàndài · contemporary 江湖</span>
+      </a></li>
+      <li><a href="#standalone">
+        <span class="toc-cn">江与湖</span> 江 and 湖 Standalone
+        <span class="toc-sub">jiāng yǔ hú · individual words</span>
+      </a></li>
+      <li><a href="#chengyu">
+        <span class="toc-cn">成语</span> Idioms
+        <span class="toc-sub">chéngyǔ · set phrases</span>
+      </a></li>
+      <li><a href="#adjacent">
+        <span class="toc-cn">相邻</span> Adjacent Vocab
+        <span class="toc-sub">xiānglín cíhuì</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- HERO -->
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">Vocabulary · 词汇 cíhuì</span>
+      <h1 class="topic-hero-title">江湖</h1>
+      <span class="topic-hero-title-py">jiānghú</span>
+      <p class="topic-hero-desc">Rivers and lakes, the martial world, and the realm beyond official society — the word for everywhere that isn't home.</p>
+    </header>
+
+    <!-- ── ETYMOLOGY ── -->
+    <span class="section-anchor" id="etymology"></span>
+    <div class="section-head">
+      <span class="sh-cn">字源</span>
+      <span class="sh-py">zìyuán</span>
+      <span class="sh-en">Etymology &amp; Origin</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="湖">
+      <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
+      <p><strong>江 jiāng</strong> (river — originally the Yangtze, then any large river) <strong>+ 湖 hú</strong> (lake). The two vast bodies of water that defined the geographic heartland of China. Originally: the waterways were where wanderers traveled — merchants, performers, fortune-tellers, outlaws, itinerant fighters. To be "in the 江湖" was to be on the road, outside settled society, navigating without official protection or status.</p>
+      <p>The word accumulated its meaning over centuries: the space outside official hierarchies, the world of wanderers and their codes. In wuxia fiction (武侠 wǔxiá — martial chivalry), 江湖 became the name for the entire martial world — the parallel society of fighters, clans, and wandering heroes. Jin Yong's 金庸 novels and Gu Long's 古龙 works built this mythology into one of the richest imaginative universes in Chinese literature.</p>
+      <p>Today the word lives in several registers at once: (1) literal rivers and lakes, (2) the wuxia martial world, (3) any realm with its own underground rules — business, crime, politics, entertainment, (4) a general sense of "the world out there" where things are rough and real and the official rules don't fully apply. The geography became a philosophy.</p>
+    </div>
+
+    <!-- ── THE WORLD OUTSIDE ── -->
+    <span class="section-anchor" id="world"></span>
+    <div class="section-head">
+      <span class="sh-cn">江湖</span>
+      <span class="sh-py">jiānghú</span>
+      <span class="sh-en">The World Outside</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="湖">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · Scholar Note</div>
+      <p>The phrase <strong>人在江湖，身不由己</strong> (rén zài jiānghú, shēn bù yóu jǐ) — "once you're in the rivers-and-lakes world, your body is no longer your own" — is one of the most famous sayings in Chinese. It captures the essential logic of 江湖: once you enter a world with its own rules and obligations, you are bound by them whether you like it or not.</p>
+      <p>This applies to wuxia heroes bound by vendettas and loyalty oaths, to members of criminal organizations who cannot simply walk away, to corporate employees caught in office politics, to politicians who have made too many alliances to back out cleanly. The 江湖 is any closed world with its own honor codes — and entry is always easier than exit. The saying is used seriously and humorously both: a friend dragged to yet another obligatory dinner will invoke it with a sigh.</p>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">江湖</span>
+          <span class="card-py">jiānghú</span>
+          <span class="card-en">the rivers-and-lakes world; the realm of wanderers; any world with its own codes</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          The geographic image of rivers and lakes gave Chinese a word for every space outside official society. 闯江湖 (to venture into the wider world; to make one's way) / 走江湖 (to travel the roads; to be a wanderer or itinerant performer) / 江湖规矩 (the unwritten rules of the trade or world). The 江湖 is not a place — it is a condition of existence outside settled, official life.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他年轻时就出来闯江湖了。</div>
+            <div class="ex-py">Tā niánqīng shí jiù chūlái chuǎng jiānghú le.</div>
+            <div class="ex-en">He went out to make his way in the world while still young.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">江湖规矩，不能乱来。</div>
+            <div class="ex-py">Jiānghú guīju, bù néng luàn lái.</div>
+            <div class="ex-en">There are codes to this world — you can't just do whatever you want.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">人在江湖，身不由己。</div>
+            <div class="ex-py">Rén zài jiānghú, shēn bù yóu jǐ.</div>
+            <div class="ex-en">Once you're in the rivers-and-lakes world, your body is not your own.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">语法 yǔfǎ · Grammar</span>
+          江湖 functions as a noun but rarely takes measure words. Common verb-object pairings: 闯江湖 (to venture into), 走江湖 (to travel the roads), 混江湖 (to muddle through the world), 退出江湖 (to retire). The phrase 江湖上 or 在江湖 means "in/on the rivers-and-lakes circuit."
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">老江湖</span>
+          <span class="card-py">lǎo jiānghú</span>
+          <span class="card-en">a seasoned worldly person; a streetwise veteran; an old hand</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          老 lǎo (old; experienced) + 江湖 (the wanderers' world). A person who has been around — who has seen the tricks, navigated the codes, survived the dangers, and accumulated knowledge with scars. The term carries respect mixed with wariness: an 老江湖 knows too much to be fooled, but may also know too many tricks themselves. Used as the highest compliment for worldly wisdom and also as a mild warning: this person is not naive.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他是老江湖，什么骗局都见过。</div>
+            <div class="ex-py">Tā shì lǎo jiānghú, shénme piànjú dōu jiànguò.</div>
+            <div class="ex-en">He's a seasoned veteran — he's seen every kind of scam there is.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">在江湖上混了很多年，成了老江湖。</div>
+            <div class="ex-py">Zài jiānghú shàng hùn le hěn duō nián, chéng le lǎo jiānghú.</div>
+            <div class="ex-en">After years of getting by in the world, he became a seasoned old hand.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">跟老江湖打交道，要小心一点。</div>
+            <div class="ex-py">Gēn lǎo jiānghú dǎ jiāodào, yào xiǎoxīn yīdiǎn.</div>
+            <div class="ex-en">When dealing with a worldly old hand, you'd better be careful.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">江湖人</span>
+          <span class="card-py">jiānghú rén</span>
+          <span class="card-en">a person of the rivers-and-lakes world; someone who lives by the code</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          The person defined by their membership in the 江湖 — not just someone who passes through it, but someone whose identity is constituted by it. 江湖人 abide by a parallel moral code: loyalty to sworn brothers (义气 yìqi), repayment of debts and favors, the obligation to right wrongs. This code often conflicts with official law, but within the 江湖 it has greater binding force than any statute.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他是个地道的江湖人，最讲义气。</div>
+            <div class="ex-py">Tā shì gè dìdào de jiānghú rén, zuì jiǎng yìqi.</div>
+            <div class="ex-en">He's a genuine man of the world — he values loyalty and brotherhood above all.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">江湖人有江湖人的规矩，不能乱了规矩。</div>
+            <div class="ex-py">Jiānghú rén yǒu jiānghú rén de guīju, bù néng luàn le guīju.</div>
+            <div class="ex-en">People of the rivers-and-lakes world have their own codes — and those codes must not be broken.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他虽然退出了江湖，骨子里还是个江湖人。</div>
+            <div class="ex-py">Tā suīrán tuìchū le jiānghú, gǔzi lǐ háishì gè jiānghú rén.</div>
+            <div class="ex-en">Although he has retired from the world, at his core he is still a man of the 江湖.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards world -->
+
+    <!-- ── THE MARTIAL WORLD ── -->
+    <span class="section-anchor" id="wuxia"></span>
+    <div class="section-head">
+      <span class="sh-cn">武侠</span>
+      <span class="sh-py">wǔxiá</span>
+      <span class="sh-en">The Martial World</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="侠">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · Scholar Note</div>
+      <p><strong>武侠 wǔxiá</strong> (martial chivalry) literature — from Jin Yong's 金庸 novels to Gu Long's 古龙 works — created the fully realized 江湖 mythology. The wuxia 江湖 has: martial sects (门派 ménpài), the distinction between 正派 (righteous sects) and 邪派 (evil sects), the 武林盟主 (martial world alliance leader), 武功 (martial arts skill), and the overriding logic that power, honor, and vendetta operate entirely outside state law.</p>
+      <p>Jin Yong's famous formulation: <strong>侠之大者，为国为民</strong> (the greatest knight-errant serves the nation and the people). This elevates the 江湖 hero from a lawless wanderer to a moral figure who embodies a higher order than the corrupt officials who nominally govern. The wuxia 江湖 is a moral universe parallel to — and in the genre's best works, far purer than — official society. This is why it has captivated Chinese readers across generations: it answers a moral longing that official culture often fails to satisfy.</p>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">武林</span>
+          <span class="card-py">wǔlín</span>
+          <span class="card-en">the martial forest; the community of martial artists</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          武 wǔ (martial) + 林 lín (forest). The metaphor is ecological: martial arts practitioners form a dense, interconnected ecosystem — as complex and competitive as a forest, with dominant trees, understory growth, and constant struggle for light and resources. 武林 is the collective noun for the martial arts community; 江湖 is the world they inhabit. 武林盟主 (leader of the martial world) is one of the most coveted titles in wuxia fiction.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">武林高手云集于此，共商大事。</div>
+            <div class="ex-py">Wǔlín gāoshǒu yúnjí yú cǐ, gòng shāng dàshì.</div>
+            <div class="ex-en">Masters of the martial world have gathered here to discuss great affairs.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他立志争夺武林盟主之位。</div>
+            <div class="ex-py">Tā lìzhì zhēngduó wǔlín méngzhǔ zhī wèi.</div>
+            <div class="ex-en">He set his ambition on competing for the position of martial world alliance leader.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这本武林秘籍价值连城，人人争抢。</div>
+            <div class="ex-py">Zhè běn wǔlín mìjí jiàzhí liánchéng, rén rén zhēng qiǎng.</div>
+            <div class="ex-en">This secret martial arts manual is priceless — everyone fights over it.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">大侠</span>
+          <span class="card-py">dàxiá</span>
+          <span class="card-en">great knight-errant; heroic wanderer; the wuxia protagonist archetype</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          大 dà (great) + 侠 xiá (chivalrous fighter; knight-errant). The archetypal wuxia protagonist: skilled, wandering, honorable, righting wrongs without official sanction. The 大侠 has no fixed home — the entire 江湖 is their domain. In modern usage, 大侠 is often used playfully as an ironic honorific: calling a friend who helped you move apartments your 大侠, or greeting someone with mock wuxia formality.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">你好，大侠，请问武林盟主在哪里？</div>
+            <div class="ex-py">Nǐ hǎo, dàxiá, qǐngwèn wǔlín méngzhǔ zài nǎlǐ?</div>
+            <div class="ex-en">Greetings, great hero — may I ask where the martial world alliance leader is? (playful/ironic)</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">武侠小说里的大侠形象深入人心。</div>
+            <div class="ex-py">Wǔxiá xiǎoshuō lǐ de dàxiá xíngxiàng shēnrù rénxīn.</div>
+            <div class="ex-en">The image of the great knight-errant in wuxia novels has taken deep root in people's hearts.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">多谢大侠出手相助，小女子感激不尽！</div>
+            <div class="ex-py">Duō xiè dàxiá chūshǒu xiāngzhù, xiǎo nǚzǐ gǎnjī bùjìn!</div>
+            <div class="ex-en">Many thanks to the great hero for lending a hand — I am endlessly grateful! (humorous wuxia register)</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">江湖恩怨</span>
+          <span class="card-py">jiānghú ēnyuàn</span>
+          <span class="card-en">the debts and vendettas of the martial world; the cycle of obligation and revenge</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          江湖 + 恩 ēn (grace; debt of kindness) + 怨 yuàn (grievance; resentment). The engine of wuxia narratives: every favor creates an obligation, every wrong creates a grievance. The 江湖 keeps score across generations — a debt unpaid by the father falls to the son. Most wuxia plots are variations on the same question: how does a hero navigate a web of 恩怨 they did not choose and may not be able to escape?
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">江湖恩怨，难以了结。</div>
+            <div class="ex-py">Jiānghú ēnyuàn, nányǐ liǎojié.</div>
+            <div class="ex-en">The debts and vendettas of the rivers-and-lakes world are hard to settle.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这段江湖恩怨已经延续了三代人。</div>
+            <div class="ex-py">Zhè duàn jiānghú ēnyuàn yǐjīng yáncù le sān dài rén.</div>
+            <div class="ex-en">This vendetta of the martial world has already stretched across three generations.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">恩怨两清，从此互不相欠。</div>
+            <div class="ex-py">Ēnyuàn liǎng qīng, cóngcǐ hù bù xiāng qiàn.</div>
+            <div class="ex-en">Debts and grievances are both settled — from now on, we owe each other nothing.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards wuxia -->
+
+    <!-- ── MODERN USES ── -->
+    <span class="section-anchor" id="modern"></span>
+    <div class="section-head">
+      <span class="sh-cn">现代江湖</span>
+      <span class="sh-py">xiàndài jiānghú</span>
+      <span class="sh-en">Modern Uses</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">商场是个江湖</span>
+          <span class="card-py">shāngchǎng shì gè jiānghú</span>
+          <span class="card-en">the marketplace is a rivers-and-lakes world — X是个江湖 as a productive formula</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          The formula <strong>X是个江湖</strong> applies 江湖 logic — its hidden codes, dangers, unwritten rules, and webs of obligation — to any competitive domain. Commercial world, workplace, entertainment industry, academia: once you understand that each has its own 江湖, you stop being surprised by the politics, the alliances, and the hidden debts that drive behavior. This formula is extremely common in modern Chinese speech and writing.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">职场是个江湖，处处都是学问。</div>
+            <div class="ex-py">Zhíchǎng shì gè jiānghú, chùchù dōu shì xuéwen.</div>
+            <div class="ex-en">The workplace is a rivers-and-lakes world — there's wisdom to be learned everywhere.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">娱乐圈也是江湖，水深得很。</div>
+            <div class="ex-py">Yúlè quān yě shì jiānghú, shuǐ shēn de hěn.</div>
+            <div class="ex-en">The entertainment industry is also a 江湖 — the waters run very deep.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">学术界看起来文雅，其实也是个江湖。</div>
+            <div class="ex-py">Xuéshù jiè kàn qǐlái wényǎ, qíshí yě shì gè jiānghú.</div>
+            <div class="ex-en">Academia looks refined, but it's actually a 江湖 too.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">走江湖</span>
+          <span class="card-py">zǒu jiānghú</span>
+          <span class="card-en">to travel the roads making a living; to hustle; to work itinerantly</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
+        <div class="card-def">
+          Traditional use: traveling performers, fortune-tellers, medicine sellers, acrobats — people who made their living moving from town to town, outside the settled economy. Modern usage extends to anyone hustling outside the formal system: freelancers, itinerant traders, performers working different venues. 走江湖 implies a kind of resourcefulness born of necessity — the ability to read new crowds, adapt quickly, survive without a fixed base.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他年轻时走江湖卖艺，见识了各地风土人情。</div>
+            <div class="ex-py">Tā niánqīng shí zǒu jiānghú mài yì, jiànshí le gè dì fēngtǔ rénqíng.</div>
+            <div class="ex-en">In his youth he traveled the roads performing for a living and came to know the customs of many places.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">走江湖的人，什么苦都吃过。</div>
+            <div class="ex-py">Zǒu jiānghú de rén, shénme kǔ dōu chīguò.</div>
+            <div class="ex-en">A person who has traveled the roads making a living has endured every kind of hardship.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他就是个走江湖的，哪里有生意去哪里。</div>
+            <div class="ex-py">Tā jiù shì gè zǒu jiānghú de, nǎlǐ yǒu shēngyi qù nǎlǐ.</div>
+            <div class="ex-en">He's just a road hustler — wherever there's business, that's where he goes.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">江湖骗子</span>
+          <span class="card-py">jiānghú piànzi</span>
+          <span class="card-en">a traveling con artist; a snake-oil salesman; a charlatan</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          The classic 江湖 figure of low repute: the con artist who moves from town to town before the victims catch on. 骗 piàn = to deceive; 子 zi is a nominalizer suffix. The 江湖骗子 is distinguished from an ordinary liar by mobility — they operate across the circuit, always moving, never staying long enough to be held accountable. In modern usage: internet scammers, fake doctors, fraudulent investment advisors, and anyone operating a long-running deception that depends on geographic escape.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">别相信那些江湖骗子，小心上当。</div>
+            <div class="ex-py">Bié xiāngxìn nàxiē jiānghú piànzi, xiǎoxīn shàngdàng.</div>
+            <div class="ex-en">Don't believe those traveling con artists — be careful not to get swindled.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他假装是神医，其实就是个江湖骗子。</div>
+            <div class="ex-py">Tā jiǎzhuāng shì shényī, qíshí jiù shì gè jiānghú piànzi.</div>
+            <div class="ex-en">He pretended to be a miracle doctor — he was really just a charlatan.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这种江湖骗子专门骗老年人，要特别警惕。</div>
+            <div class="ex-py">Zhè zhǒng jiānghú piànzi zhuānmén piàn lǎonián rén, yào tèbié jǐngtì.</div>
+            <div class="ex-en">This type of charlatan specifically targets the elderly — one must be especially vigilant.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards modern -->
+
+    <!-- ── 江 AND 湖 STANDALONE ── -->
+    <span class="section-anchor" id="standalone"></span>
+    <div class="section-head">
+      <span class="sh-cn">江与湖</span>
+      <span class="sh-py">jiāng yǔ hú</span>
+      <span class="sh-en">江 and 湖 as Standalone Words</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">构词规律 gòucí guīlǜ · Word-Formation</span>
+      Both 江 and 湖 are productive standalone words and compound elements. <strong>江 jiāng</strong> appears in: large river names, geographic compounds, poetic expressions for the land. <strong>湖 hú</strong> appears in: lake names, lakeside vocabulary, and crucially in the names of two provinces — 湖南 (south of the lake) and 湖北 (north of the lake) — named after Dongting Lake (洞庭湖 Dòngtíng Hú).
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">江</span>
+          <span class="card-py">jiāng</span>
+          <span class="card-en">river (large); originally the Yangtze specifically</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          Originally specifically the Yangtze River (长江 Chángjiāng — the Long River), which is so dominant in Chinese geography that 江 alone referred to it. Over time 江 generalized to any large river, while smaller rivers typically use 河 hé. The distinction is cultural as much as hydrological: 江 implies scale, grandeur, and cultural weight. Many of China's greatest rivers carry 江: 珠江 (Pearl River), 松花江 (Songhua River), 黑龙江 (Heilongjiang — also the province).
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">长江是中国最长的河流，哺育了无数文明。</div>
+            <div class="ex-py">Chángjiāng shì Zhōngguó zuì cháng de héliú, bǔyù le wúshù wénmíng.</div>
+            <div class="ex-en">The Yangtze is China's longest river and has nurtured countless civilizations.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他们在江边散步，看落日余晖。</div>
+            <div class="ex-py">Tāmen zài jiāngbiān sànbù, kàn luòrì yúhuī.</div>
+            <div class="ex-en">They walked along the riverbank watching the last light of the setting sun.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">过江之鲫 — 形容人或事物多如过江之鲫。</div>
+            <div class="ex-py">Guò jiāng zhī jì — xíngróng rén huò shìwù duō rú guò jiāng zhī jì.</div>
+            <div class="ex-en">"Crucian carp crossing the river" — a figure for something extremely numerous.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">湖</span>
+          <span class="card-py">hú</span>
+          <span class="card-en">lake</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          Lake. China's great lakes — Dongting (洞庭湖), Poyang (鄱阳湖), Tai (太湖), and Qinghai (青海湖) — shaped Chinese geography and culture. The most famous lake in the Chinese literary imagination is West Lake (西湖 Xī Hú) in Hangzhou, which has generated more poetry and prose than perhaps any other body of water in Chinese history. Su Shi compared West Lake to the legendary beauty Xi Shi; the lake has been a poetic backdrop for a thousand years of writers.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">西湖的美景令人心旷神怡，流连忘返。</div>
+            <div class="ex-py">Xīhú de měijǐng lìng rén xīn kuàng shén yí, liúlián wàng fǎn.</div>
+            <div class="ex-en">The scenery of West Lake refreshes the spirit and makes one forget to leave.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">湖边的芦苇随风摇曳，十分美丽。</div>
+            <div class="ex-py">Húbiān de lúwěi suí fēng yáoyè, shífēn měilì.</div>
+            <div class="ex-en">The reeds at the lakeside sway in the breeze — it's very beautiful.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">湖南和湖北，因洞庭湖而得名。</div>
+            <div class="ex-py">Húnán hé Húběi, yīn Dòngtíng Hú ér dé míng.</div>
+            <div class="ex-en">Hunan and Hubei take their names from Dongting Lake — south of the lake and north of the lake.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">江山</span>
+          <span class="card-py">jiāngshān</span>
+          <span class="card-en">rivers and mountains; the land; the country; state power</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          江 jiāng (rivers) + 山 shān (mountains). One of the most poetic words in Chinese for the country as a whole — the landscape that defines the civilization. 打江山 (to conquer territory; to build a kingdom from scratch) / 坐江山 (to sit upon the realm; to rule) / 江山如画 (the land is like a painting). The proverb 江山易改，本性难移 uses 江山 as the easiest thing in the world to change — to contrast with the impossible task of changing human nature.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">打江山容易，守江山难。</div>
+            <div class="ex-py">Dǎ jiāngshān róngyì, shǒu jiāngshān nán.</div>
+            <div class="ex-en">Conquering a realm is easy; holding onto it is hard.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">江山如画，引无数英雄竞折腰。</div>
+            <div class="ex-py">Jiāngshān rú huà, yǐn wúshù yīngxióng jìng zhéyāo.</div>
+            <div class="ex-en">"The land is like a painting, making countless heroes bow in homage." (Mao Zedong's verse)</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">江山易改，本性难移 — 别指望他会改变。</div>
+            <div class="ex-py">Jiāngshān yì gǎi, běnxìng nán yí — bié zhǐwàng tā huì gǎibiàn.</div>
+            <div class="ex-en">Territory is easy to change; fundamental nature is hard to move — don't count on him changing.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards standalone -->
+
+    <!-- ── CHENGYU ── -->
+    <span class="section-anchor" id="chengyu"></span>
+    <div class="section-head">
+      <span class="sh-cn">成语</span>
+      <span class="sh-py">chéngyǔ</span>
+      <span class="sh-en">Idioms &amp; Set Phrases</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="chengyu-grid">
+
+      <div class="cy">
+        <span class="cy-cn">人在江湖身不由己</span>
+        <span class="cy-py">rén zài jiānghú shēn bù yóu jǐ</span>
+        <span class="cy-en">in the rivers-and-lakes world, one's body is not one's own — once entered, you are bound by its rules</span>
+        <span class="cy-note">The defining 江湖 saying. Used seriously to explain why one cannot simply walk away from obligations — and humorously to explain why you have to attend yet another obligatory dinner, meeting, or social engagement. The sentiment is genuine: every world has its rules, and entry is always a kind of contract you didn't quite read before signing.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">江山易改本性难移</span>
+        <span class="cy-py">jiāng shān yì gǎi běn xìng nán yí</span>
+        <span class="cy-en">territory is easy to change; fundamental nature is hard to move — a leopard cannot change its spots</span>
+        <span class="cy-note">Classic proverb about human nature used in resignation or rueful acknowledgment. 他就是这样的人，江山易改本性难移。(He's just that kind of person — a leopard can't change its spots.) Often invoked by someone who has tried to change another person and given up.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">大江东去</span>
+        <span class="cy-py">dà jiāng dōng qù</span>
+        <span class="cy-en">the great river flows east — time and history flow on; the brilliant figures of the past are gone</span>
+        <span class="cy-note">From Su Shi's 苏轼 famous ci poem "Niannujiao · Red Cliff Nostalgia" (念奴娇·赤壁怀古): 大江东去，浪淘尽，千古风流人物 — "The great river flows east; its waves wash away the brilliant figures of a thousand ages." Invoked for historical grandeur and the irreversible passage of time.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">江郎才尽</span>
+        <span class="cy-py">jiāng láng cái jìn</span>
+        <span class="cy-en">Jiang's talent is exhausted — creative powers have run dry; the burnt-out genius</span>
+        <span class="cy-note">From the Southern Qi dynasty writer Jiang Yan (江淹), famed for his prose, who stopped producing good work later in life. Legend says he dreamed that a man demanded his writing brush back — after that, his talent was gone. 他感觉自己江郎才尽了。(He feels his talent has run dry.) Applied to writers, artists, and innovators who seem to have lost their creative spark.</span>
+      </div>
+
+    </div>
+
+    <!-- ── ADJACENT VOCAB ── -->
+    <span class="section-anchor" id="adjacent"></span>
+    <div class="section-head">
+      <span class="sh-cn">相邻词汇</span>
+      <span class="sh-py">xiānglín cíhuì</span>
+      <span class="sh-en">Adjacent Vocabulary</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">武侠</span><span class="a-py">wǔxiá</span><span class="a-en">martial chivalry</span></span>
+      <span class="adj"><span class="a-cn">侠客</span><span class="a-py">xiákè</span><span class="a-en">knight-errant</span></span>
+      <span class="adj"><span class="a-cn">门派</span><span class="a-py">ménpài</span><span class="a-en">martial sect; faction</span></span>
+      <span class="adj"><span class="a-cn">帮派</span><span class="a-py">bāngpài</span><span class="a-en">gang; faction</span></span>
+      <span class="adj"><span class="a-cn">规矩</span><span class="a-py">guīju</span><span class="a-en">unwritten rules; etiquette</span></span>
+      <span class="adj"><span class="a-cn">恩怨</span><span class="a-py">ēnyuàn</span><span class="a-en">debts and grievances</span></span>
+      <span class="adj"><span class="a-cn">码头</span><span class="a-py">mǎtou</span><span class="a-en">pier; also: turf (underworld)</span></span>
+      <span class="adj"><span class="a-cn">义气</span><span class="a-py">yìqi</span><span class="a-en">loyalty; brotherhood code</span></span>
+      <span class="adj"><span class="a-cn">混</span><span class="a-py">hùn</span><span class="a-en">to muddle through; get by</span></span>
+      <span class="adj"><span class="a-cn">闯</span><span class="a-py">chuǎng</span><span class="a-en">to venture boldly into</span></span>
+      <span class="adj"><span class="a-cn">道上的人</span><span class="a-py">dào shàng de rén</span><span class="a-en">underworld figures</span></span>
+      <span class="adj"><span class="a-cn">行走江湖</span><span class="a-py">xíngzǒu jiānghú</span><span class="a-en">to travel the martial world</span></span>
+    </div>
+
+    <!-- RETENTION SCHOLAR BOX -->
+    <div class="scholar" data-glyph="江">
+      <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
+      <p>Rivers and lakes. The word begins as geography and becomes metaphysics: a name for every space that operates outside official rules, by its own codes, with its own honor. The wuxia 江湖 is the most vivid version, but the logic applies everywhere — the startup world is a 江湖, the entertainment industry is a 江湖, your office has 江湖 dynamics.</p>
+      <p>And the great saying holds in all of them: <strong>人在江湖，身不由己</strong> — once you enter, you belong to the rules of that world, not just to yourself. Every seasoned hand — 老江湖 — has learned this. They didn't choose the rules. They just learned to navigate them, and that navigation is the real skill the word encodes.</p>
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="page-footer">
+      <span class="footer-id">Field Notes on Chinese · <span>江湖 jiānghú</span> · jianghu_江湖.html</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>

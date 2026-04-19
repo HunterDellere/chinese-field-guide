@@ -887,7 +887,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 网站 / 網站 — wǎngzhàn — N — website
 - 往 — wǎng — V/Prep — toward, in the direction of; to; past
 - 为 / 為 — wèi — Prep — for, for the sake of; to act as
-- 为什么 / 為什麼 — wèi shénme — [gloss needed]
+- 为什么 / 為什麼 — wèi shénme — why, for what reason
 - 位 — wèi — M — MW for persons (polite); position
 - 味道 — wèidào — N — taste, flavor
 - 喂 — wèi — Intj — hello (on phone); hey; to feed

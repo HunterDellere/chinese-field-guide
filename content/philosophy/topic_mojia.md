@@ -1,0 +1,280 @@
+---
+type: 'topic'
+category: 'philosophy'
+status: 'complete'
+title: '墨家 · Mohism'
+desc: 'Universal love, anti-war, and the utilitarian logic China nearly chose.'
+metaDesc: "墨家 Mohism: universal love, anti-aggression, meritocracy, and the utilitarian challenge to Confucian China. Mozi, Mohist logic, and why the school vanished."
+pageTitle: '墨家 mòjiā'
+tags:
+  - 'mohism'
+  - 'universal-love'
+  - 'logic'
+updated: '2026-04-18'
+pinyin: 'mòjiā'
+---
+
+<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+    <span class="toc-topic">墨家</span>
+    <span class="toc-topic-en">Mohism</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#mozi">
+        <span class="toc-cn">墨子其人</span> Mozi
+        <span class="toc-sub">the founder</span>
+      </a></li>
+      <li><a href="#jianai">
+        <span class="toc-cn">兼爱</span> Universal Love
+        <span class="toc-sub">jiān ài · impartial caring</span>
+      </a></li>
+      <li><a href="#feigong">
+        <span class="toc-cn">非攻</span> Against Aggression
+        <span class="toc-sub">fēi gōng · anti-war doctrine</span>
+      </a></li>
+      <li><a href="#shangtong">
+        <span class="toc-cn">尚同尚贤</span> Conformity &amp; Merit
+        <span class="toc-sub">hierarchy and meritocracy</span>
+      </a></li>
+      <li><a href="#science">
+        <span class="toc-cn">墨家科学</span> Logic &amp; Science
+        <span class="toc-sub">proto-empiricism</span>
+      </a></li>
+      <li><a href="#decline">
+        <span class="toc-cn">墨家的衰亡</span> Why Mohism Died
+        <span class="toc-sub">the school that vanished</span>
+      </a></li>
+      <li><a href="#chengyu">
+        <span class="toc-cn">成语典故</span> Key Passages
+        <span class="toc-sub">chéngyǔ diǎngù</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- HERO -->
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">Philosophy · 哲学 zhéxué</span>
+      <h1 class="topic-hero-title">墨家</h1>
+      <span class="topic-hero-title-py">mòjiā</span>
+      <p class="topic-hero-desc">The most radical challenge to Confucianism in classical China: universal love, anti-war ethics, and a utilitarian logic that China nearly chose as its foundation.</p>
+    </header>
+
+    <!-- ── MOZI ── -->
+    <span class="section-anchor" id="mozi"></span>
+    <div class="section-head">
+      <span class="sh-cn">墨子其人</span>
+      <span class="sh-py">Mòzǐ qí rén</span>
+      <span class="sh-en">Mozi — The Man</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="墨">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · Historical Context</div>
+      <p><strong>墨翟 Mò Dí</strong> (ca. 470–391 BCE), known to posterity as <strong>墨子 Mòzǐ</strong> — Master Mo — was born into the artisan class, possibly a carpenter or craftsman. This matters enormously: while Confucius was a minor aristocrat steeped in 礼 lǐ (ritual propriety) and the culture of the Zhou court, Mozi came from the working people. His philosophy reflects it in every line — practical, suspicious of luxury, deeply democratic in impulse, and hostile to the elaborate ritual culture that Confucianism promoted.</p>
+      <p>He lived through the chaos of the Warring States period (475–221 BCE), when competing states waged constant warfare and the common people bore the cost in blood and starvation. His response was not quietist withdrawal like the Daoists, nor cultural restoration like Confucius. It was a frontal assault on the values that caused suffering — he attacked war, inequality, nepotism, wasteful spending, and discriminatory love — and he built an organized movement to oppose them.</p>
+      <p>The Mohist school was unlike anything else in Chinese history: a <strong>quasi-military brotherhood</strong> with a leader called the 巨子 jùzǐ (Grand Master), strict internal discipline, and members willing to die for one another. They hired themselves out as defensive military engineers and advisors to states under threat, opposing offensive wars by literally showing up to fortify the walls. According to tradition, Mozi walked ten days to reach a state about to be invaded, carrying only his sandals and his arguments.</p>
+      <p>The text attributed to him, <strong>《墨子》Mòzǐ</strong>, is one of the great philosophical documents of the classical era — dense, argumentative, repetitive by design (the Mohists believed in hammering a point), and full of the kind of reasoned, premise-by-premise argumentation that anticipates formal logic. It is the most genuinely rationalist text of ancient China.</p>
+    </div>
+
+    <!-- ── JIAN AI ── -->
+    <span class="section-anchor" id="jianai"></span>
+    <div class="section-head">
+      <span class="sh-cn">兼爱</span>
+      <span class="sh-py">jiān ài</span>
+      <span class="sh-en">Universal Love — Impartial Caring</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="兼">
+      <div class="scholar-label">核心概念 héxīn gàiniàn · Central Doctrine</div>
+      <p>The word 兼 jiān means "simultaneously," "both," "all at once" — and 爱 ài is love. <strong>兼爱</strong> is therefore not merely "universal love" but <em>impartial</em> love: loving all people equally and simultaneously, without the gradient of preference that Confucianism built into the structure of human relationship. Where Confucianism taught that love naturally radiates outward in concentric circles — most intense toward parents, then family, then community, fading as the distance grows — Mozi said this graduated love was precisely the source of all conflict and suffering in the world.</p>
+      <p>His argument is breathtakingly direct: <em>Why do states attack states? Because rulers love their own state more than others'. Why do families harm families? Because heads of households love their own more than others'. Why do individuals harm individuals? Because each person loves themselves more. Therefore, if everyone loved others' states as their own, others' families as their own, others' persons as their own — there would be no war, no theft, no exploitation.</em></p>
+      <p>The Confucian response — articulated most sharply by <strong>孟子 Mèngzǐ</strong> (Mencius) — was that 兼爱 was not only impossible but monstrous: it would mean loving a stranger as much as your own parents, which violates the most fundamental human relationship and makes true moral cultivation impossible. You cannot care equally for everyone; the attempt simply drains care into abstraction and produces nothing. Mencius called Mozi's world one without fathers — 无父 wú fù.</p>
+      <p>Mozi anticipated this objection. He argued through a thought experiment: if you were going away on a long journey and needed to entrust your family's care to someone, which would you choose — the friend who practices 兼爱 and will care for your family as his own, or the friend who practices partial love and will favor his own family above yours? The answer is obvious, Mozi said. Everyone, when they need a guardian for what they love, prefers the impartial person. Therefore everyone already recognizes the superiority of 兼爱 in practice, even while rejecting it in theory.</p>
+    </div>
+
+    <div class="pattern">
+      <span class="label">兼爱论证 jiān ài lùnzhèng · The Core Argument Structure</span>
+      <strong>前提</strong> qiántí Premise: All disorder comes from partial love — people favoring their own over others.<br>
+      <strong>推论</strong> tuīlùn Inference: If partial love causes harm, universal equal love would eliminate that harm.<br>
+      <strong>结论</strong> jiélùn Conclusion: 兼爱 is both morally right and practically beneficial — the two cannot be separated.<br>
+      <strong>标准</strong> biāozhǔn Standard: Mozi judges all doctrines by three tests — ancient precedent, popular testimony, and practical utility (三表法 sān biǎo fǎ).
+    </div>
+
+    <!-- ── FEI GONG ── -->
+    <span class="section-anchor" id="feigong"></span>
+    <div class="section-head">
+      <span class="sh-cn">非攻</span>
+      <span class="sh-py">fēi gōng</span>
+      <span class="sh-en">Against Aggression — Anti-War Doctrine</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="攻">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · Doctrine</div>
+      <p><strong>非攻 fēi gōng</strong> — literally "condemn attack" — is the practical political corollary to 兼爱. If you truly love all people as your own, you cannot wage offensive war against them. But Mozi did not rest his anti-war argument on love alone. He was a utilitarian before the word existed, and he deployed economics, demography, and cold logic.</p>
+      <p>His argument against war in the chapter 非攻 is one of the most bracing passages in all of classical Chinese philosophy. He notes that a man who steals a peach is condemned as a thief; a man who steals a horse is condemned further; a man who steals an ox is condemned more still — everyone agrees the harm scales with the crime. But then a man who invades a country, kills thousands, and burns entire villages — this man is <em>celebrated</em>, called a conquering hero, and praised in music and song. Mozi calls this the supreme moral inversion of his age: <em>the greater the crime, the louder the praise.</em></p>
+      <p>He distinguished sharply between <strong>defensive war</strong> (legitimate — states must defend themselves and be helped to do so) and <strong>offensive war</strong> (condemned utterly). This is why Mohist engineers and strategists would travel to states facing invasion and help them build defenses — they were acting out 非攻 with their bodies. The famous story of Mozi's debate with <strong>公输班 Gōngshū Bān</strong> (the greatest engineer of the age, inventor of siege weapons) illustrates this perfectly: Mozi bested him in a simulated siege defense so thoroughly that the state abandoned its planned invasion.</p>
+      <p>Mozi's economic case against war was equally rigorous: a campaign requires feeding soldiers, transporting equipment, leaving fields unfarmed, and spending treasure — the net result is always a loss, even for the victorious state. The only entities war profits are the rulers and commanders who gain glory; the common people gain nothing and lose everything. In this framing, offensive war is simply organized robbery by elites at the expense of everyone else.</p>
+    </div>
+
+    <!-- ── SHANG TONG / SHANG XIAN ── -->
+    <span class="section-anchor" id="shangtong"></span>
+    <div class="section-head">
+      <span class="sh-cn">尚同与尚贤</span>
+      <span class="sh-py">shàng tóng yǔ shàng xián</span>
+      <span class="sh-en">Conformity to Authority &amp; Meritocracy</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">尚贤</span>
+          <span class="card-py">shàng xián</span>
+          <span class="card-en">Elevate the Worthy — radical meritocracy</span>
+        </div>
+        <div class="card-def">
+          尚 shàng (to esteem, to elevate) + 贤 xián (the worthy, the capable and virtuous). <strong>尚贤</strong> was Mozi's assault on hereditary aristocracy: positions of power should go to those with demonstrated virtue and ability, regardless of birth. Nobles should not hold office simply by lineage; the talented poor should be promoted to the highest positions. This was genuinely radical for a society built on hereditary rank. Mozi argued this by analogy: a good farmer hires the best workers; a craftsman uses the sharpest tools. A state that fills offices with hereditary nobles rather than capable people is like a farmer who farms badly on purpose.
+        </div>
+        <div class="note">
+          <span class="note-label">历史影响 lìshǐ yǐngxiǎng · Historical Impact</span>
+          The ideal of 尚贤 eventually triumphed in a different form — not through Mohism but through the imperial examination system 科举 kējǔ, which (in theory) selected officials by merit rather than birth. The Mohist vision was thus partially realized, but under Confucian auspices, not Mohist ones.
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">尚同</span>
+          <span class="card-py">shàng tóng</span>
+          <span class="card-en">Conform to Superiors — hierarchical unity</span>
+        </div>
+        <div class="card-def">
+          尚 shàng (to esteem) + 同 tóng (same, unified). The doctrine that subordinates should conform their judgments to their superiors, all the way up to the Son of Heaven, who in turn conforms to Heaven (天 tiān) itself. This creates a perfectly unified moral will throughout society. The internal tension with 尚贤 is real: if rulers are meritocratically selected for virtue, then conforming to them is rational. But if they err, the system has no mechanism for correction. 尚同 is the authoritarian strain in Mohist thought — scholars debate whether it sits comfortably with 兼爱 or contradicts it.
+        </div>
+        <div class="note">
+          <span class="note-label">思想张力 sīxiǎng zhānglì · The Tension</span>
+          The combination of 尚贤 (radical meritocracy from below) and 尚同 (radical conformity upward) creates a peculiar political vision: a society of capable rulers and obedient citizens, with moral authority flowing in one direction. Some scholars see in this the seed of later Chinese bureaucratic culture; others read it as a coherent attempt to solve coordination problems through rational hierarchy.
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">非乐与节葬</span>
+          <span class="card-py">fēi yuè yǔ jié zàng</span>
+          <span class="card-en">Anti-Music &amp; Simple Funerals — against luxury</span>
+        </div>
+        <div class="card-def">
+          Two of the most pointed attacks on Confucian culture. <strong>非乐 fēi yuè</strong>: music requires musicians who cannot farm, instruments that consume resources, performances that take time. It produces nothing useful. The Confucians had elevated music (礼乐 lǐ yuè) to one of the foundations of civilization; Mozi called it waste dressed up as virtue. <strong>节葬 jié zàng</strong>: elaborate Confucian funerals bury wealth with the dead, deplete family resources, and require mourning periods that keep the living from productive work. Simple burial and limited mourning — three days — are sufficient. The dead do not benefit from jade and bronze buried with them.
+        </div>
+        <div class="note">
+          <span class="note-label">文化冲突 wénhuà chōngtū · Cultural Clash</span>
+          These doctrines put Mozi in direct collision with everything the Confucian ruling class held sacred. 礼乐 (ritual and music) was the civilizational glue for Confucians — the art forms that harmonized human souls and ordered society. Mozi called it expensive glue. The conflict was not merely philosophical; it was about what a good human life looks like and who gets to define it.
+        </div>
+      </div>
+
+    </div>
+
+    <!-- ── MOHIST SCIENCE ── -->
+    <span class="section-anchor" id="science"></span>
+    <div class="section-head">
+      <span class="sh-cn">墨家科学</span>
+      <span class="sh-py">Mòjiā kēxué</span>
+      <span class="sh-en">Mohist Logic &amp; Proto-Science</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="科">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · The Road Not Taken</div>
+      <p>The later Mohist texts — particularly the <strong>《墨经》Mò Jīng</strong> (Mohist Canon) — contain the most rigorous logical and scientific thinking in all of pre-modern China. While Confucians studied the Odes and the rituals and Daoists pondered the wordless Way, later Mohists were working out formal definitions, investigating the geometry of the lever and the pulley, and making precise observations about optics that anticipate the pinhole camera.</p>
+      <p>Their <strong>logic</strong> developed concepts close to the syllogism: they distinguished between 名 míng (names/concepts), 辞 cí (propositions), and 说 shuō (arguments), building explicit rules for valid inference. This is a parallel development to the Greek syllogistic tradition, independent and nearly contemporaneous. The Mohist Canon contains formal definitions of geometric concepts (a point has no parts; a line has length but no breadth), and physical concepts (force, hardness, duration, space) developed with unprecedented precision.</p>
+      <p>Their <strong>optics</strong> work is particularly striking. The Mohist Canon describes the pinhole camera effect and correctly analyzes why the image inverts — light travels in straight lines, the top half passes through the low part of the hole and projects low, and vice versa. This is empirical observation and geometrical reasoning of the highest order. They also analyzed the behavior of mirrors (flat, convex, concave) and the physics of levers and pulleys, which their military engineers put directly to use in siege defense.</p>
+      <p>Why did this proto-science vanish? Because the institutional carrier — the Mohist brotherhood — collapsed (see below), and because Chinese civilization never developed the independent institutions (universities, academies, learned societies) that preserved and transmitted scientific knowledge in Europe. The Mohist scientific tradition had no successor. Joseph Needham, the great historian of Chinese science, regarded this as one of the most consequential losses in intellectual history.</p>
+    </div>
+
+    <div class="pattern">
+      <span class="label">三表法 sān biǎo fǎ · The Three Standards of Argumentation</span>
+      Mozi's epistemological method for evaluating any claim or doctrine — the closest classical China came to a formal theory of evidence:<br><br>
+      <strong>一、本之</strong> běn zhī — Root it: does it accord with the precedents of ancient sage-kings? Historical validation.<br>
+      <strong>二、原之</strong> yuán zhī — Source it: does it match what ordinary people have actually seen and heard? Empirical validation.<br>
+      <strong>三、用之</strong> yòng zhī — Apply it: if put into practice in government, does it benefit the people, increase population, and enrich the state? Practical validation.
+    </div>
+
+    <!-- ── DECLINE ── -->
+    <span class="section-anchor" id="decline"></span>
+    <div class="section-head">
+      <span class="sh-cn">墨家的衰亡</span>
+      <span class="sh-py">Mòjiā de shuāiwáng</span>
+      <span class="sh-en">Why Mohism Disappeared</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="亡">
+      <div class="scholar-label">历史悬案 lìshǐ xuán'àn · The Historical Mystery</div>
+      <p>By the time of the Han dynasty (206 BCE–220 CE), Mohism had effectively ceased to exist as a living philosophical tradition. The <strong>《墨子》</strong> text survived — barely, in corrupt manuscript form — but the school was gone. This is one of the most extraordinary disappearances in intellectual history. Mohism was Confucianism's most serious rival in the Warring States period; <strong>孟子 Mèngzǐ</strong> devoted considerable energy to refuting it, which implies he considered it a genuine threat. So what happened?</p>
+      <p>Several factors converged. First, the <strong>Qin unification</strong> (221 BCE) and the subsequent burning of books and burying of scholars dealt a severe blow to all philosophical schools — but the Mohist brotherhood, with its military capabilities and quasi-independent organization, was probably viewed as particularly threatening and suppressed with particular thoroughness.</p>
+      <p>Second — and more structurally — <strong>Confucianism won state patronage</strong>. When the Han emperor 汉武帝 Hàn Wǔdì "promoted Confucianism as the sole orthodoxy" (罢黜百家，独尊儒术 bàchù bǎijiā, dúzūn Rúshù) in 136 BCE on the advice of <strong>董仲舒 Dǒng Zhòngshū</strong>, the imperial machinery of education, examination, and official appointment was harnessed to Confucian texts. Other schools had no institutional foothold and gradually faded through attrition.</p>
+      <p>Third, Mohism demanded too much of its adherents. The ascetic discipline of the brotherhood — work like a craftsman, live simply, travel to defend strangers — was genuinely demanding. Confucianism, by contrast, offered a path of self-cultivation embedded in ordinary family and social life. It did not require you to leave home or renounce comfort. Over time, the human cost of Mohist membership made recruitment increasingly difficult.</p>
+      <p>The deeper irony is that Mohist ideals did not entirely disappear — they dispersed into other traditions. The meritocratic ideal of 尚贤 found expression in the examination system. The anti-war sentiment of 非攻 echoes through certain strands of Confucian statecraft. And the logical rigor of the Mohist Canon, though forgotten as a tradition, represents a road in Chinese intellectual history that was walked to its beginning, abandoned, and never resumed.</p>
+    </div>
+
+    <!-- ── CHENGYU ── -->
+    <span class="section-anchor" id="chengyu"></span>
+    <div class="section-head">
+      <span class="sh-cn">成语与典故</span>
+      <span class="sh-py">chéngyǔ yǔ diǎngù</span>
+      <span class="sh-en">Key Passages &amp; Idioms</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="chengyu-grid">
+
+      <div class="cy">
+        <span class="cy-cn">兼爱天下</span>
+        <span class="cy-py">jiān ài tiānxià</span>
+        <span class="cy-en">to love all under heaven equally and impartially</span>
+        <span class="cy-note">The encapsulation of Mozi's central doctrine. 兼 jiān = simultaneously, all at once; 天下 tiānxià = all under heaven, meaning the entire human world. To practice 兼爱 is to have no inner circle of preference — to hold a stranger's suffering as grievous as your own child's.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">非攻</span>
+        <span class="cy-py">fēi gōng</span>
+        <span class="cy-en">condemn offensive war — aggression is always wrong regardless of outcome</span>
+        <span class="cy-note">Not merely "oppose war" but a principled moral condemnation. Mozi's point: celebrating a victorious invasion while condemning a petty theft is the fundamental moral contradiction of warring-states civilization. 非 fēi = to condemn, to say "this is wrong"; 攻 gōng = to attack, to make offensive war.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">染于苍则苍，染于黄则黄</span>
+        <span class="cy-py">rǎn yú cāng zé cāng, rǎn yú huáng zé huáng</span>
+        <span class="cy-en">dyed in blue it turns blue; dyed in yellow it turns yellow — environment shapes character absolutely</span>
+        <span class="cy-note">From the opening of the <em>Mòzǐ</em>, in a chapter on dyeing silk. Mozi watched a dyer's workshop and wept — because he saw that silk takes the color of whatever dye it is immersed in, and so do people. This is why the choice of companions, teachers, and rulers matters so much. The metaphor captures Mozi's empirical, non-essentialist view of human nature: we are not born fixed; we are formed by context. Also written: 近朱者赤，近墨者黑 jìn zhū zhě chì, jìn mò zhě hēi — "near vermilion one turns red; near ink one turns black."</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">摩顶放踵，利天下为之</span>
+        <span class="cy-py">mó dǐng fàng zhǒng, lì tiānxià wéi zhī</span>
+        <span class="cy-en">to wear away from crown to heel for the benefit of all under heaven — total self-sacrifice for universal good</span>
+        <span class="cy-note">Mencius's description of Mozi's ethics, meant as a critique but often read as tribute. 摩顶 = to wear away the top of the head; 放踵 = to wear away the heel. The image is of a man who walks so tirelessly in service of others that he is literally worn down from both ends. Mencius thought this was excessive; many later readers found it magnificent.</span>
+      </div>
+
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="page-footer">
+      <span class="footer-id">Field Notes on Chinese · <span>墨家 mòjiā</span> · topic_mojia.html</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>

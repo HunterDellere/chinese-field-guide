@@ -1,0 +1,100 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "entry.schema.json",
+  "title": "Chinese Field Guide Entry",
+  "description": "Frontmatter schema for all content files in content/",
+  "type": "object",
+  "required": ["type", "category", "title", "desc", "status"],
+  "properties": {
+    "type": {
+      "type": "string",
+      "enum": ["character", "vocab", "grammar", "topic"]
+    },
+    "category": {
+      "type": "string",
+      "enum": ["characters", "vocab", "grammar", "religion", "philosophy", "history", "geography", "culture", "culinary", "arts", "science", "daily"]
+    },
+    "status": {
+      "type": "string",
+      "enum": ["complete", "stub", "draft"]
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "desc": {
+      "type": "string",
+      "minLength": 1
+    },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" },
+      "default": []
+    },
+    "updated": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+      "description": "Required when status is complete"
+    },
+    "char": {
+      "type": "string",
+      "description": "character entries only — the single hanzi"
+    },
+    "pinyin": {
+      "type": "string",
+      "description": "Tone-marked pinyin"
+    },
+    "tone": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 5,
+      "description": "Tone number 1–4 (5 = neutral)"
+    },
+    "hsk": {
+      "oneOf": [
+        { "type": "integer", "minimum": 1, "maximum": 9 },
+        {
+          "type": "object",
+          "required": ["from", "to"],
+          "properties": {
+            "from": { "type": "integer", "minimum": 1, "maximum": 9 },
+            "to":   { "type": "integer", "minimum": 1, "maximum": 9 }
+          },
+          "additionalProperties": false
+        }
+      ],
+      "description": "HSK level (integer) or range (object with from/to)"
+    },
+    "radical": {
+      "type": "string",
+      "description": "character entries only — the radical hanzi"
+    },
+    "metaDesc": {
+      "type": "string",
+      "description": "SEO meta description override; falls back to desc if absent"
+    },
+    "pageTitle": {
+      "type": "string",
+      "description": "HTML <title> content (before ' — Field Notes on Chinese'); auto-generated if absent"
+    },
+    "topic": {
+      "type": "string",
+      "description": "Optional thematic grouping label (deprecated — use tags instead)"
+    }
+  },
+  "if": {
+    "properties": { "status": { "const": "complete" } }
+  },
+  "then": {
+    "required": ["updated"]
+  },
+  "allOf": [
+    {
+      "if": { "properties": { "type": { "const": "character" } } },
+      "then": {
+        "required": ["char", "pinyin", "tone", "hsk", "radical"]
+      }
+    }
+  ],
+  "additionalProperties": false
+}

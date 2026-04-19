@@ -1,0 +1,361 @@
+---
+type: 'topic'
+category: 'history'
+status: 'complete'
+title: '夏商周 · The Three Dynasties'
+desc: 'The legendary and early historical origins of Chinese civilization.'
+metaDesc: "夏商周 xià shāng zhōu: the mythological-historical origins of Chinese civilization — oracle bones, bronze ritual vessels, feudalism, and the golden age of philosophy."
+pageTitle: '夏商周 · The Three Dynasties'
+tags:
+  - 'ancient'
+  - 'bronze-age'
+  - 'origins'
+updated: '2026-04-18'
+pinyin: 'xià shāng zhōu'
+---
+
+<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+    <span class="toc-topic">夏商周</span>
+    <span class="toc-topic-en">The Three Dynasties</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#xia">
+        <span class="toc-cn">夏：神话还是历史</span>
+        <span class="toc-sub">Xia: Myth or History</span>
+      </a></li>
+      <li><a href="#shang">
+        <span class="toc-cn">商：甲骨文与青铜器</span>
+        <span class="toc-sub">Shang: Oracle Bones and Bronze</span>
+      </a></li>
+      <li><a href="#zhou">
+        <span class="toc-cn">周：封建制度</span>
+        <span class="toc-sub">Zhou: The Feudal Order</span>
+      </a></li>
+      <li><a href="#chunqiu">
+        <span class="toc-cn">春秋</span>
+        <span class="toc-sub">Spring and Autumn Period</span>
+      </a></li>
+      <li><a href="#zhanguo">
+        <span class="toc-cn">战国</span>
+        <span class="toc-sub">Warring States</span>
+      </a></li>
+      <li><a href="#baijia">
+        <span class="toc-cn">百家争鸣</span>
+        <span class="toc-sub">The Hundred Schools</span>
+      </a></li>
+      <li><a href="#chengyu">
+        <span class="toc-cn">成语</span>
+        <span class="toc-sub">Key Phrases &amp; Idioms</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- HERO -->
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">History · 历史 lìshǐ</span>
+      <h1 class="topic-hero-title">夏商周</h1>
+      <span class="topic-hero-title-py">xià shāng zhōu</span>
+      <p class="topic-hero-desc">The Three Dynasties: where Chinese civilization moves from legend into history — through oracle bones, bronze cauldrons, feudal lords, and a golden age of philosophy that set the terms of thought for two millennia.</p>
+    </header>
+
+    <!-- ── XIA ── -->
+    <span class="section-anchor" id="xia"></span>
+    <div class="section-head">
+      <span class="sh-cn">夏：神话还是历史</span>
+      <span class="sh-py">Xià: Shénhuà háishì Lìshǐ</span>
+      <span class="sh-en">Xia Dynasty — Myth or History?</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="夏">
+      <div class="scholar-label">历史洞见 lìshǐ dòngjiàn · Historical Insight</div>
+      <p>The Xia dynasty (夏朝 Xiàcháo, c. 2070–1600 BCE) occupies a peculiar position in Chinese civilization: universally celebrated in Chinese historical tradition, yet unconfirmed by archaeology. Classical texts including the <em>Shiji</em> 史记 and <em>Shangshu</em> 尚书 list seventeen rulers from the legendary founder <strong>禹 Yǔ</strong> (Great Yu, tamer of floods) to the last decadent king <strong>桀 Jié</strong>. But no inscription, no bronze vessel, no unambiguous artifact has yet been found bearing the name "Xia."</p>
+      <p>The debate intensified in the 1970s and 1980s when Chinese archaeologists excavated the <strong>二里头遗址 Èrlǐtóu</strong> site in Henan province. Carbon-dated to c. 1900–1500 BCE, Erlitou reveals a palatial complex, bronze foundries, jade workshops, and a stratified urban society — the earliest such evidence in the Yellow River heartland. Chinese scholarship broadly identifies Erlitou as a Xia-culture site. Western and some international scholars prefer to leave it as a "pre-Shang bronze-age culture," noting the absence of writing.</p>
+      <p>The founding mythology is coherent and culturally load-bearing regardless of archaeological status. Great Yu's father <strong>鲧 Gǔn</strong> tried to dam the floodwaters and failed; Yu succeeded by dredging channels — a parable of working with nature rather than against it. Yu received the <strong>九鼎 jiǔ dǐng</strong> (Nine Cauldrons), which became the supreme symbol of dynastic legitimacy. When a dynasty perished, the cauldrons passed to the successor — a ritual grammar that would govern Chinese political imagination for centuries. The Zhou later claimed the cauldrons; Qin coveted them; the Han Emperor Wu sent divers to recover them from the Si River.</p>
+      <p>The concept of <strong>禅让 shànràng</strong> — voluntary abdication of rule to the most virtuous, not one's own son — is attributed to the sage-kings before Yu. Yu himself broke this precedent by passing power to his son <strong>启 Qǐ</strong>, thus founding the first hereditary dynasty. Confucian thinkers looked back on the pre-Xia sage-kings (尧 Yáo and 舜 Shùn) with intense nostalgia, using them as the gold standard of moral governance.</p>
+    </div>
+
+    <div class="pattern">
+      <span class="label">关键词 guānjiàn cí · Key Terms</span>
+      <strong>大禹治水</strong> Dà Yǔ zhì shuǐ — Great Yu Controls the Floods (founding myth)<br>
+      <strong>九鼎</strong> jiǔ dǐng — Nine Cauldrons (supreme symbol of dynastic legitimacy)<br>
+      <strong>禅让</strong> shànràng — abdication to the most virtuous (pre-dynastic ideal)<br>
+      <strong>二里头</strong> Èrlǐtóu — Bronze Age site, possible Xia capital (c. 1900–1500 BCE)<br>
+      <strong>夏桀</strong> Xià Jié — the last depraved Xia king; archetype of the "bad last ruler"
+    </div>
+
+    <!-- ── SHANG ── -->
+    <span class="section-anchor" id="shang"></span>
+    <div class="section-head">
+      <span class="sh-cn">商：甲骨文与青铜器</span>
+      <span class="sh-py">Shāng: Jiǎgǔwén yǔ Qīngtóngqì</span>
+      <span class="sh-en">Shang Dynasty — Oracle Bones and Bronze</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="商">
+      <div class="scholar-label">历史洞见 lìshǐ dòngjiàn · Historical Insight</div>
+      <p>The Shang dynasty (商朝 Shāngcháo, c. 1600–1046 BCE) is the first Chinese dynasty confirmed by both archaeology and contemporary writing. Its existence was not proven until the late nineteenth century, when peasants near the city of <strong>安阳 Ānyáng</strong> in Henan province began turning up mysterious inscribed bones and turtle shells — sold to apothecaries as "dragon bones" (龙骨 lónggǔ) for medicinal use. Scholars eventually recognized these as <strong>甲骨文 jiǎgǔwén</strong> (oracle bone script): the earliest systematically recorded form of Chinese writing, dating to the Late Shang period (c. 1250–1046 BCE).</p>
+      <p>Oracle bones were used for divination. A Shang king or diviner would pose a question — Will the harvest be good? Will the king's toothache heal? Will the army prevail? — carve the question on ox scapulae or turtle plastrons, apply a heated bronze rod to create cracks, and read the answer from the crack patterns. The question, the crack, and sometimes the outcome were inscribed on the bone. Over 150,000 inscribed pieces have been recovered, giving historians an extraordinary window into Shang life, religion, and political thought.</p>
+      <p>The Shang capital known to us best is <strong>殷 Yīn</strong> (near modern Anyang), giving rise to the historical term <strong>殷商 Yīn Shāng</strong>. The city was enormous: royal tombs, workshops for bronze casting, stables, and sacrifice pits. The word for "business" or "commerce" in modern Chinese — <strong>商业 shāngyè</strong>, <strong>商人 shāngrén</strong> (merchant) — derives from the Shang, because Shang survivors displaced after 1046 BCE became itinerant traders.</p>
+      <p>The Shang's material achievement was <strong>青铜器 qīngtóngqì</strong> (bronze ritual vessels) of extraordinary technical and artistic sophistication. The great bronze cauldrons (<strong>鼎 dǐng</strong>), wine vessels (<strong>爵 jué</strong>), and ritual bells were not utilitarian objects — they were instruments of communication with ancestors and spirits, deployed in elaborate ceremonies. The most famous surviving Shang bronze is the <strong>后母戊鼎 Hòumǔwù Dǐng</strong>, weighing 832.84 kg, cast c. 1250 BCE for a queen — the largest bronze vessel ever cast in the ancient world.</p>
+      <p>Shang religion centered on ancestor veneration and divination. The supreme deity <strong>帝 Dì</strong> or <strong>上帝 Shàngdì</strong> presided over a divine court mirroring the Shang royal court; deceased Shang kings became part of this divine hierarchy and could intercede on behalf of the living. Human sacrifice was practiced on a significant scale, particularly at royal burials, where retainers, soldiers, and captives were interred with — or killed for — the deceased ruler. Excavations of the royal tombs at Anyang have revealed hundreds of sacrificial victims.</p>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">甲骨文</span>
+          <span class="card-py">jiǎgǔwén</span>
+          <span class="card-en">oracle bone script — the earliest Chinese writing</span>
+        </div>
+        <div class="card-def">
+          甲 jiǎ (shell / armor) + 骨 gǔ (bone) + 文 wén (writing). Writing incised on turtle plastrons (腹甲 fùjiǎ) and ox scapulae (肩胛骨 jiānjiǎgǔ) used for royal divination during the Late Shang period. Over 4,000 distinct graphs have been identified; roughly 2,000 are deciphered. The direct ancestor of all subsequent Chinese script forms.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">甲骨文是迄今发现的最早的成熟汉字体系。</div>
+            <div class="ex-py">Jiǎgǔwén shì qìjīn fāxiàn de zuì zǎo de chéngshú Hànzì tǐxì.</div>
+            <div class="ex-en">Oracle bone script is the earliest mature Chinese writing system yet discovered.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">发现 fāxiàn · Discovery</span>
+          Identified as ancient writing by scholar <strong>王懿荣 Wáng Yìróng</strong> in 1899, who bought medicinal "dragon bones" from a Beijing pharmacy and recognized inscriptions on them. The first systematic excavations at Anyang began in 1928 under the Academia Sinica.
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">青铜器</span>
+          <span class="card-py">qīngtóngqì</span>
+          <span class="card-en">bronze ritual vessels — the high art of the Shang world</span>
+        </div>
+        <div class="card-def">
+          青铜 qīngtóng (bronze: blue-green metal) + 器 qì (vessel; implement). Shang and Zhou bronze vessels were cast using sophisticated piece-mold techniques that produced complex zoomorphic surface decoration — the <strong>饕餮纹 tāotiè wén</strong> (taotie: a mask-like face of contested meaning, probably apotropaic) being the most iconic motif. They required mastery of mining, smelting, alloying, and precision casting on an industrial scale.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">问鼎中原 — to aspire to rule all of China</div>
+            <div class="ex-py">wèn dǐng Zhōngyuán</div>
+            <div class="ex-en">Lit. "to inquire about the cauldrons of the Central Plains" — a set phrase for political ambition, derived from the legend that the Zhou king's cauldrons embodied the Mandate of Heaven.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">天命</span>
+          <span class="card-py">tiānmìng</span>
+          <span class="card-en">Mandate of Heaven — the theological basis of dynastic legitimacy</span>
+        </div>
+        <div class="card-def">
+          天 tiān (Heaven) + 命 mìng (mandate; decree; life). The Zhou developed this concept to justify overthrowing the Shang: Heaven grants the right to rule to virtuous kings and withdraws it from the immoral. Natural disasters, popular revolts, and military defeat were all read as Heaven revoking the Mandate. The concept became the central legitimating ideology of Chinese imperial history — every dynasty claimed its own Mandate; every conquest was Heaven's will reasserted.
+        </div>
+        <div class="note">
+          <span class="note-label">以德配天 yǐ dé pèi tiān</span>
+          "To match Heaven through virtue" — the corollary to 天命. The ruler must maintain his virtue to keep the Mandate. This established a reciprocal moral-political logic that persisted through the Qing dynasty (1912 CE): rulers were responsible for their own fall.
+        </div>
+      </div>
+
+    </div>
+
+    <!-- ── WESTERN ZHOU ── -->
+    <span class="section-anchor" id="zhou"></span>
+    <div class="section-head">
+      <span class="sh-cn">周：封建制度</span>
+      <span class="sh-py">Zhōu: Fēngjiàn Zhìdù</span>
+      <span class="sh-en">Western Zhou — The Feudal Order</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="周">
+      <div class="scholar-label">历史洞见 lìshǐ dòngjiàn · Historical Insight</div>
+      <p>The Zhou dynasty (周朝 Zhōucháo, 1046–256 BCE) was the longest-lived dynasty in Chinese history, spanning nearly eight centuries. It divides cleanly into two periods: the <strong>西周 Xī Zhōu</strong> (Western Zhou, 1046–771 BCE), when the royal house held real power from its capital near modern Xi'an, and the <strong>东周 Dōng Zhōu</strong> (Eastern Zhou, 770–256 BCE), when Zhou kings became ceremonial figureheads while the real power fragmented among competing lords.</p>
+      <p>The Zhou conquest of the Shang (traditionally 1046 BCE, under <strong>武王 Wǔ Wáng</strong>, King Wu) was justified by the doctrine of <strong>天命 tiānmìng</strong> — the Mandate of Heaven. The Shang last king <strong>纣 Zhòu</strong> (not to be confused with the Zhou dynasty) was portrayed as a monster of debauchery and cruelty, his Mandate revoked. The Zhou thereafter institutionalized the Mandate as the theological grammar of all political legitimacy in Chinese history.</p>
+      <p>Western Zhou government operated through <strong>封建制 fēngjiàn zhì</strong>, a hierarchical enfeoffment system: the Zhou king distributed territories to lords (<strong>诸侯 zhūhóu</strong>) — typically members of the royal family and key allies — who in turn owed military service, tribute, and ritual attendance at the royal court. Lords distributed sub-fiefs to ministers (<strong>卿大夫 qīng dàfū</strong>), who distributed to <strong>士 shì</strong> (knights or educated servants). Below all of these were the common people and serfs. The word 封建 (feudal) is still used in modern Chinese as a pejorative for "backward" or "patriarchal" — a direct legacy of twentieth-century Marxist historiography labeling the imperial period as "feudal."</p>
+      <p>The figure who looms largest over Western Zhou is not a king but a regent: <strong>周公 Zhōu Gōng</strong>, the Duke of Zhou, brother of King Wu. When Wu died young, leaving an infant heir, Zhou Gong served as regent for seven years, suppressed a rebellion by his own brothers (who accused him of wanting the throne for himself), and then peacefully returned power to the grown king. He systematized ritual and music (<strong>制礼作乐 zhì lǐ zuò yuè</strong>) — the elaborate codes of ceremony, hierarchy, and behavior that Confucius would spend his life trying to restore. Confucius famously said he dreamed of the Duke of Zhou; if he no longer dreamed of him, it was a sign of his own moral decline.</p>
+      <p>Western Zhou collapsed abruptly in 771 BCE when the king was killed by allied Zhou lords and Rong (non-Zhou) peoples. The trigger was personal and sordid: King You (<strong>幽王 Yōu Wáng</strong>) had deposed his queen to install a favorite concubine named <strong>褒姒 Bāo Sì</strong>, and had sent false beacon-fire warnings so that lords would rush their armies to the capital — delighting the concubine with the military spectacle. When the real attack came, no one believed the beacons. The royal house fled east to <strong>洛邑 Luò Yì</strong> (Luoyi, modern Luoyang), inaugurating the Eastern Zhou period.</p>
+    </div>
+
+    <div class="pattern">
+      <span class="label">西周关键词 Xī Zhōu · Western Zhou Key Terms</span>
+      <strong>封建制</strong> fēngjiàn zhì — the enfeoffment/feudal system<br>
+      <strong>诸侯</strong> zhūhóu — the feudal lords (lit. "the various marquises")<br>
+      <strong>周公</strong> Zhōu Gōng — the Duke of Zhou; Confucius's moral hero<br>
+      <strong>制礼作乐</strong> zhì lǐ zuò yuè — codifying ritual and music (Zhou Gong's achievement)<br>
+      <strong>天命</strong> tiānmìng — Mandate of Heaven<br>
+      <strong>以德配天</strong> yǐ dé pèi tiān — to match Heaven through virtue
+    </div>
+
+    <!-- ── SPRING AND AUTUMN ── -->
+    <span class="section-anchor" id="chunqiu"></span>
+    <div class="section-head">
+      <span class="sh-cn">春秋时期</span>
+      <span class="sh-py">Chūnqiū Shíqī</span>
+      <span class="sh-en">Spring and Autumn Period (770–476 BCE)</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="春">
+      <div class="scholar-label">历史洞见 lìshǐ dòngjiàn · Historical Insight</div>
+      <p>The name <strong>春秋 Chūnqiū</strong> (Spring and Autumn) derives from the <em>Spring and Autumn Annals</em> (春秋 Chūnqiū), the terse chronicle of the state of Lu traditionally attributed to Confucius — a text whose spare, precisely chosen language was believed to encode moral judgments in every character choice. The period runs from 770 to 476 BCE (or 403 BCE in some periodizations), during which the Zhou king retained ceremonial authority while real power resided with the five or so dominant lords (<strong>五霸 wǔ bà</strong>, the "Five Hegemon-Lords").</p>
+      <p>The political logic of the Spring and Autumn period was the emergence of <strong>霸主 bàzhǔ</strong> — hegemons who claimed leadership of the inter-state system in the name of the Zhou king. The first and most celebrated was <strong>齐桓公 Qí Huán Gōng</strong> (r. 685–643 BCE), ruler of the state of Qi, whose minister <strong>管仲 Guǎn Zhòng</strong> transformed Qi into the dominant power through systematic economic and military reform. Their relationship became a model of ruler and minister for later Chinese political thought.</p>
+      <p>Warfare in this period retained a ritual quality inherited from the Zhou feudal order: battles were scheduled, preceded by diplomatic exchange, and sometimes called off for reasons of ceremony. Chariots were the prestige weapon; infantry were secondary. This aristocratic war culture would be utterly shattered in the Warring States period that followed.</p>
+      <p>Confucius (孔子 Kǒngzǐ, 551–479 BCE) lived through the late Spring and Autumn period and was animated by its disorder. He watched the lords of Lu — his home state — show contempt for the rituals of the Zhou hierarchy, and he devoted his life to restoration. His discourses (<strong>论语 Lúnyǔ</strong>, the <em>Analects</em>) are simultaneously a response to Spring and Autumn political crisis and the founding document of Chinese moral philosophy.</p>
+    </div>
+
+    <!-- ── WARRING STATES ── -->
+    <span class="section-anchor" id="zhanguo"></span>
+    <div class="section-head">
+      <span class="sh-cn">战国时期</span>
+      <span class="sh-py">Zhànguó Shíqī</span>
+      <span class="sh-en">Warring States Period (475–221 BCE)</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="战">
+      <div class="scholar-label">历史洞见 lìshǐ dòngjiàn · Historical Insight</div>
+      <p>The Warring States period (战国时代 Zhànguó Shídài, 475–221 BCE) takes its name from the <em>Zhanguo Ce</em> 战国策 (<em>Stratagems of the Warring States</em>), a collection of political speeches and diplomatic maneuvers compiled later. The period is defined by the dissolution of the older Spring and Autumn inter-state courtesy — what replaced it was total war.</p>
+      <p>The most dramatic marker of the transition was the partition of the powerful state of Jin (晋 Jìn) into three successor states: Han (韩), Wei (魏), and Zhao (赵) — formally recognized by the Zhou king in 403 BCE. This act acknowledged that the old aristocratic order was gone. The Seven Powers of the Warring States — <strong>秦 Qín, 楚 Chǔ, 燕 Yān, 赵 Zhào, 魏 Wèi, 韩 Hán, 齐 Qí</strong> — competed in a ruthless zero-sum struggle for survival and dominance that would last nearly three centuries.</p>
+      <p>Warfare was transformed root and branch. Mass infantry armies replaced chariot-based aristocratic forces. Military treatises proliferated — above all the <strong>孙子兵法 Sūnzǐ Bīngfǎ</strong> (<em>Art of War</em>) by <strong>孙武 Sūn Wǔ</strong> of Qi. States adopted universal male military service; army sizes grew to hundreds of thousands. The state of Qin under Lord Shang (商鞅 Shāng Yāng) pioneered a system of military rewards based strictly on enemy heads severed — dismantling the old aristocratic hierarchy and creating a lethal meritocracy of violence. Battle of Changping (长平之战, 260 BCE): Qin forces killed or buried alive an estimated 400,000 Zhao soldiers — an event whose scale had no precedent in Chinese history and shocked the surviving states.</p>
+      <p>States competed for talent as desperately as they competed militarily. The era of the <strong>士 shì</strong> — the mobile intellectual class — saw advisors, strategists, diplomats, and philosophers move from court to court offering their services. This competitive demand for ideas was the structural condition that produced the <strong>百家争鸣</strong>.</p>
+    </div>
+
+    <!-- ── HUNDRED SCHOOLS ── -->
+    <span class="section-anchor" id="baijia"></span>
+    <div class="section-head">
+      <span class="sh-cn">百家争鸣</span>
+      <span class="sh-py">Bǎijiā Zhēngmíng</span>
+      <span class="sh-en">The Hundred Schools of Thought</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="鸣">
+      <div class="scholar-label">思想洞见 sīxiǎng dòngjiàn · Intellectual Insight</div>
+      <p><strong>百家争鸣</strong> (bǎijiā zhēngmíng, "a hundred schools contend") is the Chinese term for the extraordinary explosion of philosophical thought during the Warring States period — China's axial age, roughly contemporaneous with ancient Greece, the Hebrew prophets, and the Upanishads. The crisis of political order created the conditions: rulers needed new ideas to survive, intellectuals had the freedom and incentive to propose them, and the old ritual certainties of the Zhou could no longer be taken for granted.</p>
+      <p>The major schools that emerged and their core questions:</p>
+      <p><strong>儒家 Rújiā (Confucianism)</strong> — Confucius and his followers, especially <strong>孟子 Mèngzǐ</strong> (Mencius, 372–289 BCE) and <strong>荀子 Xúnzǐ</strong> (310–235 BCE). The central question: how to restore moral order through ritual, benevolence (仁 rén), and righteous governance. Mencius argued human nature is fundamentally good; Xunzi argued it must be shaped by ritual and education. This internal debate would define Confucianism's tensions for two thousand years.</p>
+      <p><strong>道家 Dàojiā (Daoism)</strong> — attributed to <strong>老子 Lǎozǐ</strong> (possibly 6th century BCE) and developed by <strong>庄子 Zhuāngzǐ</strong> (369–286 BCE). The central question: what is the 道 Dào (Way), and how does one align with it? Critique of Confucian activism — the sage governs by <strong>无为 wú wéi</strong> (non-action, effortless action). Zhuangzi's prose is among the most brilliant and strange in any language.</p>
+      <p><strong>法家 Fǎjiā (Legalism)</strong> — <strong>韩非子 Hán Fēizǐ</strong> (280–233 BCE) and <strong>商鞅 Shāng Yāng</strong>. The central question: how to make the state powerful through clear laws, strict rewards and punishments, and administrative rationality. Human nature is fundamentally self-interested; moral exhortation is naive. This was the philosophy that actually won — Qin's unification of China in 221 BCE was achieved on Legalist principles.</p>
+      <p><strong>墨家 Mòjiā (Mohism)</strong> — <strong>墨子 Mòzǐ</strong> (470–391 BCE). <strong>兼爱 jiān'ài</strong> (universal love, impartial benevolence) and opposition to aggressive war. The Mohists were also China's first systematic logicians and technologists, developing theories of optics, mechanics, and military fortification. They largely disappeared after the Qin unification, partly because their egalitarian ethos was incompatible with imperial hierarchy.</p>
+      <p><strong>名家 Míngjiā (School of Names / Logicians)</strong>, <strong>阴阳家 Yīnyángjiā (School of Yin-Yang)</strong>, and <strong>纵横家 Zònghéngjiā (Diplomatic Strategists)</strong> rounded out the landscape, the last producing the great diplomatic masterminds whose arguments for north-south alliance (合纵 hézòng) or east-west alliance with Qin (连横 liánhéng) drove the Warring States endgame.</p>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">儒家</span>
+          <span class="card-py">Rújiā</span>
+          <span class="card-en">Confucianism — the school of ritual and moral cultivation</span>
+        </div>
+        <div class="card-def">
+          Founded by Confucius (孔子 Kǒngzǐ, 551–479 BCE). Core values: 仁 rén (benevolence/humaneness), 礼 lǐ (ritual propriety), 义 yì (righteousness), 忠 zhōng (loyalty), 孝 xiào (filial piety). Became the state orthodoxy under Han Emperor Wu in 136 BCE and remained the dominant intellectual tradition through 1905 CE when the imperial examination system was abolished.
+        </div>
+        <div class="note">
+          <span class="note-label">孔子名言 Kǒngzǐ míngyán</span>
+          己所不欲，勿施于人。<em>Jǐ suǒ bú yù, wù shī yú rén.</em> "Do not impose on others what you yourself do not want." — The Golden Rule, stated negatively, in the <em>Analects</em> 12.2.
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">道家</span>
+          <span class="card-py">Dàojiā</span>
+          <span class="card-en">Daoism — the way of naturalness and non-action</span>
+        </div>
+        <div class="card-def">
+          The <em>Daodejing</em> 道德经 (attributed to Laozi, c. 4th–3rd century BCE) and <em>Zhuangzi</em> 庄子. Central concept: <strong>无为 wú wéi</strong> — effortless action aligned with the natural order. The sage ruler governs so lightly that the people believe they govern themselves. A sustained critique of Confucian moral activism as meddling with the natural flow of things.
+        </div>
+        <div class="note">
+          <span class="note-label">道德经首句</span>
+          道可道，非常道。<em>Dào kě dào, fēi cháng dào.</em> "The Way that can be spoken is not the eternal Way." — <em>Daodejing</em>, Chapter 1.
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">法家</span>
+          <span class="card-py">Fǎjiā</span>
+          <span class="card-en">Legalism — governance through law, reward, and punishment</span>
+        </div>
+        <div class="card-def">
+          The philosophy that conquered China. Key theorists: <strong>商鞅 Shāng Yāng</strong> (architect of Qin's reforms), <strong>申不害 Shēn Bùhài</strong> (on administrative technique), <strong>慎到 Shèn Dào</strong> (on positional power), and <strong>韩非子 Hán Fēizǐ</strong> (synthesizer of all three). The ruler's three tools: 法 fǎ (law), 术 shù (technique of control), 势 shì (positional power/authority). Human nature is neither good nor bad — it responds to incentives. Design the incentives correctly and even a mediocre ruler can govern a powerful state.
+        </div>
+      </div>
+
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">墨家</span>
+          <span class="card-py">Mòjiā</span>
+          <span class="card-en">Mohism — universal love, opposition to aggressive war</span>
+        </div>
+        <div class="card-def">
+          Founded by <strong>墨子 Mòzǐ</strong> (c. 470–391 BCE). Distinguished by: <strong>兼爱 jiān'ài</strong> (impartial concern for all, not just one's own family and state), <strong>非攻 fēi gōng</strong> (opposition to offensive war), and a utilitarian standard of moral judgment (actions are good if they benefit the people materially). The Mohist organization was quasi-military and highly disciplined. They were China's earliest systematic logicians and engineers — the <em>Mozi</em> contains the world's first recorded description of the camera obscura.
+        </div>
+      </div>
+
+    </div>
+
+    <!-- ── CHENGYU ── -->
+    <span class="section-anchor" id="chengyu"></span>
+    <div class="section-head">
+      <span class="sh-cn">成语与关键词</span>
+      <span class="sh-py">Chéngyǔ yǔ Guānjiàn Cí</span>
+      <span class="sh-en">Idioms &amp; Key Phrases</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="chengyu-grid">
+
+      <div class="cy">
+        <span class="cy-cn">百家争鸣</span>
+        <span class="cy-py">bǎijiā zhēngmíng</span>
+        <span class="cy-en">a hundred schools contend — free intellectual debate; a golden age of ideas</span>
+        <span class="cy-note">Lit: "hundred schools contend and cry out." The standard Chinese phrase for the Warring States philosophical explosion. Still used today for any period of open intellectual competition. Mao Zedong borrowed it in 1956 with "Let a hundred flowers bloom, let a hundred schools contend" (百花齐放，百家争鸣) — then quickly reversed course.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">以德配天</span>
+        <span class="cy-py">yǐ dé pèi tiān</span>
+        <span class="cy-en">to match Heaven through virtue — the moral logic of dynastic legitimacy</span>
+        <span class="cy-note">The Zhou theological principle: the Mandate of Heaven (天命) is not permanent — it follows virtue. A ruler who loses virtue loses Heaven's backing. This gave Chinese political culture its recurring logic of dynastic rise and fall as moral narrative.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">三代之治</span>
+        <span class="cy-py">sāndài zhī zhì</span>
+        <span class="cy-en">the governance of the Three Dynasties — the Confucian golden age</span>
+        <span class="cy-note">The Three Dynasties (Xia, Shang, Zhou) collectively were idealized by Confucians as the golden age of moral government — a standard against which all later dynasties were measured and found wanting. 三代 remains a byword for ideal antiquity in Chinese intellectual discourse.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">问鼎中原</span>
+        <span class="cy-py">wèn dǐng Zhōngyuán</span>
+        <span class="cy-en">to aspire to rule China — lit. "to inquire about the cauldrons of the Central Plains"</span>
+        <span class="cy-note">From a Spring and Autumn anecdote: the king of Chu asked Zhou envoys about the weight of the Nine Cauldrons (九鼎), signaling his ambition to displace the Zhou. 问鼎 became permanently associated with political ambition at the highest level. Used today in business and politics to mean aiming for the top.</span>
+      </div>
+
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="page-footer">
+      <span class="footer-id">Field Notes on Chinese · <span>夏商周 xià shāng zhōu</span> · topic_xia_shang_zhou.html</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>

@@ -1,0 +1,469 @@
+---
+type: 'topic'
+category: 'religion'
+status: 'complete'
+title: '祖先崇拜 · Ancestor Veneration'
+desc: 'The deep continuity — tablets, offerings, and the living debt to the dead.'
+metaDesc: "祖先崇拜 zǔxiān chóngbài: Chinese ancestor veneration — the ritual care of the dead, filial piety, ancestral halls, spirit tablets, and the living continuity between generations. The central practice of Chinese civilization."
+pageTitle: '祖先崇拜 zǔxiān chóngbài'
+tags:
+  - 'ancestors'
+  - 'ritual'
+  - 'family'
+updated: '2026-04-18'
+pinyin: 'zǔxiān chóngbài'
+---
+
+<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+
+    <span class="toc-topic">祖先崇拜</span>
+    <span class="toc-topic-en">Ancestor Veneration</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#overview">
+        <span class="toc-cn">概论</span> Overview
+        <span class="toc-sub">the oldest practice</span>
+      </a></li>
+      <li><a href="#xiao">
+        <span class="toc-cn">孝道基础</span> Filial Foundation
+        <span class="toc-sub">xiào · the ethical root</span>
+      </a></li>
+      <li><a href="#ritual">
+        <span class="toc-cn">祭祀仪式</span> Ritual Practice
+        <span class="toc-sub">jìsì yíshì · offerings</span>
+      </a></li>
+      <li><a href="#citang">
+        <span class="toc-cn">宗祠</span> Ancestral Halls
+        <span class="toc-sub">zōngcí · lineage center</span>
+      </a></li>
+      <li><a href="#death">
+        <span class="toc-cn">丧葬文化</span> Death Rites
+        <span class="toc-sub">sāngsàng wénhuà</span>
+      </a></li>
+      <li><a href="#modern">
+        <span class="toc-cn">当代变迁</span> Modern Shifts
+        <span class="toc-sub">dāngdài biànqiān</span>
+      </a></li>
+      <li><a href="#chengyu">
+        <span class="toc-cn">成语</span> Idioms
+        <span class="toc-sub">chéngyǔ · set phrases</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- HERO -->
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">Religion · 宗教 zōngjiào</span>
+      <h1 class="topic-hero-title">祖先崇拜</h1>
+      <span class="topic-hero-title-py">zǔxiān chóngbài</span>
+      <p class="topic-hero-desc">Ancestor veneration is the oldest and most continuous ritual practice of Chinese civilization — the dead are not absent but present, requiring care, receiving offerings, and remaining participants in the life of the family across generations.</p>
+    </header>
+
+    <!-- ── OVERVIEW ── -->
+    <span class="section-anchor" id="overview"></span>
+    <div class="section-head">
+      <span class="sh-cn">概论</span>
+      <span class="sh-py">gàilùn</span>
+      <span class="sh-en">Overview — The Oldest Thread</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="祖">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · Before Buddhism, Before Daoism</div>
+      <p>Ancestor veneration (祖先崇拜 zǔxiān chóngbài, also 敬祖 jìng zǔ or 拜祖 bài zǔ) predates organized religion in China by millennia. Oracle bone inscriptions from the Shang dynasty (c. 1600–1046 BCE) record ritual divination directed at royal ancestors, asking them to grant military victories, good harvests, and healthy heirs. The ancestors were not dead — they were powerful, active presences whose goodwill had to be maintained through correct ritual.</p>
+      <p>This foundational logic — that the dead continue to exist, to have needs, and to exercise influence over the living — was never displaced by Buddhism or Daoism. Both traditions absorbed and accommodated it. The Buddhist concept of merit transfer (功德回向 gōngdé huíxiàng) allowed monks to perform rituals that benefited ancestors in the afterlife. Daoist specialists offered rituals to guide souls through the underworld bureaucracy. Neither eliminated the obligation of children to their deceased parents.</p>
+      <p>The sociologist Robert Bellah placed Chinese ancestor veneration within what he called "archaic religion" — a stage preceding the ethical religions (Confucianism, Buddhism) that would give it philosophical articulation, but whose basic practices remained unchanged beneath the intellectual superstructure. The food on the grave, the burning paper money, the prostration before the spirit tablet: these gestures are older than Confucius, older than writing, and they continue today.</p>
+    </div>
+
+    <!-- ── FILIAL FOUNDATION ── -->
+    <span class="section-anchor" id="xiao"></span>
+    <div class="section-head">
+      <span class="sh-cn">孝道基础</span>
+      <span class="sh-py">xiàodào jīchǔ</span>
+      <span class="sh-en">The Filial Foundation</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="孝">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · 孝 xiào — the Virtue That Makes Veneration Obligatory</div>
+      <p>The Confucian virtue of <strong>孝 xiào</strong> (filial piety — devotion to parents and ancestors) is the ethical engine that makes ancestor veneration not merely a custom but a moral imperative. Confucius himself, when asked about it, replied: <em>孝悌也者，其为仁之本与</em> — "Filial piety and fraternal submission are the root of 仁 rén (humaneness)." To be human, in this framework, is to be in correct relation to those who gave you life — and that obligation does not end at death.</p>
+      <p>The text 孝经 Xiào Jīng (Classic of Filial Piety), attributed to Confucius's disciple Zengzi, made the argument explicit: the body, hair, and skin are received from parents — to injure them dishonors that gift. This grounding of physical self-care in filial duty is one of the most characteristic features of Confucian ethics. The living body itself is an ancestral trust.</p>
+      <p>Filial piety extended explicitly beyond death. The 礼记 Lǐjì (Book of Rites) prescribed in detail how a son must grieve: three years of mourning for a parent (during which career advancement and marriage were suspended), reduced diet, rough clothing, no music. The magnitude of the obligation signaled the magnitude of the debt. As the saying goes: <em>生育之恩，重于泰山</em> — "The grace of being given birth and raised is heavier than Mount Tai."</p>
+    </div>
+
+    <div class="pattern">
+      <span class="label">孝的层次 Xiào Hierarchy — Concentric Circles of Obligation</span>
+      <strong>父母</strong> fùmǔ (living parents — highest daily obligation) → <strong>祖父母</strong> zǔfùmǔ (grandparents) → <strong>曾祖父母</strong> zēngzǔfùmǔ (great-grandparents) → <strong>列祖列宗</strong> liè zǔ liè zōng (all ancestors of the lineage) → <strong>天地君亲师</strong> tiāndì jūn qīn shī (Heaven, Earth, Sovereign, Parents, Teacher — the five sources of life and cultivation)
+    </div>
+
+    <!-- ── RITUAL PRACTICE ── -->
+    <span class="section-anchor" id="ritual"></span>
+    <div class="section-head">
+      <span class="sh-cn">祭祀仪式</span>
+      <span class="sh-py">jìsì yíshì</span>
+      <span class="sh-en">Ritual Practice — Caring for the Ancestors</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">祭祖</span>
+          <span class="card-py">jìzǔ</span>
+          <span class="card-en">ancestral offerings — the core ritual</span>
+        </div>
+        <div class="card-def">
+          祭祖 (lit. "offering to ancestors") is the ritual presentation of food, incense, and goods to deceased family members. The offering table holds cooked dishes — often the ancestor's favorite foods in life — rice, fruit, and wine. Incense is lit and prostrations (拜 bài) are made. The meal is left for the ancestor to "eat" the spiritual essence (享用 xiǎngyòng) before the family consumes it. Major occasions: Lunar New Year, Qingming, mid-year Zhongyuan, winter solstice, and death anniversaries.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">每逢清明，我们都会回老家祭祖扫墓。</div>
+            <div class="ex-py">Měi féng Qīngmíng, wǒmen dōu huì huí lǎojiā jìzǔ sǎomù.</div>
+            <div class="ex-en">Every Qingming, we return to the ancestral home to make offerings and sweep the graves.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">牌位</span>
+          <span class="card-py">páiwèi</span>
+          <span class="card-en">spirit tablet — the ancestor's dwelling in the home</span>
+        </div>
+        <div class="card-def">
+          The spirit tablet (牌位, also 神主牌 shénzhǔpái or 祖先牌位 zǔxiān páiwèi) is a wooden or paper plaque inscribed with the ancestor's name, birth and death dates, and honorific. It serves as the material dwelling of the ancestor's spirit within the home or ancestral hall. Placed on the family altar (神桌 shénzhuō), it is the focal point of daily offerings — a cup of tea in the morning, incense sticks, a respectful bow. The ancestor is resident in the tablet; to neglect it is to abandon the ancestor.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">客厅供奉着祖先的牌位，香火不断。</div>
+            <div class="ex-py">Kètīng gōngfèng zhe zǔxiān de páiwèi, xiānghuǒ bùduàn.</div>
+            <div class="ex-en">The living room enshrines the ancestors' spirit tablets, with incense burning unceasingly.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">纸钱</span>
+          <span class="card-py">zhǐqián</span>
+          <span class="card-en">spirit money — currency for the afterlife</span>
+        </div>
+        <div class="card-def">
+          纸钱 (also 冥纸 míngzhǐ, 金纸 jīnzhǐ in Taiwan, or 冥币 míngbì) are paper facsimiles of money and goods burnt as offerings — the smoke carries them to the dead. The range of available offerings has evolved with consumer culture: once simple gold and silver paper, today the deceased can receive paper iPhones, Louis Vuitton bags, cars, houses, and branded clothing. The logic is consistent: the dead have needs in the afterlife and the living have an obligation to supply them.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">扫墓时，家人焚烧纸钱，让祖先在另一个世界不缺钱用。</div>
+            <div class="ex-py">Sǎomù shí, jiārén fénshāo zhǐqián, ràng zǔxiān zài lìng yīgè shìjiè bù quē qián yòng.</div>
+            <div class="ex-en">At grave sweeping, the family burns spirit money so the ancestors won't be short of funds in the other world.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">历史 lìshǐ · History</span>
+          The practice of burning paper substitutes for the dead dates to at least the Tang dynasty (7th–10th century CE), when paper money began replacing the burial of actual goods — a more economical solution to the afterlife provisioning problem.
+        </div>
+      </div>
+
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">扫墓</span>
+          <span class="card-py">sǎomù</span>
+          <span class="card-en">tomb sweeping — the annual visit to the graves</span>
+        </div>
+        <div class="card-def">
+          扫墓 (lit. "sweep the grave") is the Qingming practice of clearing the tomb of weeds and debris, adding fresh soil, pouring libations of wine, burning paper offerings, and sharing food at the grave site. It is a ritual of maintenance — the grave, like the ancestral tablet, is the dead's address, and to let it fall into disrepair is to abandon the ancestor. Entire extended families travel to graves together, the occasion combining solemnity with family reunion.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">清明节，全家人带着鲜花和食物去扫墓，寄托对先人的思念。</div>
+            <div class="ex-py">Qīngmíng Jié, quánjiā rén dàizhe xiānhuā hé shíwù qù sǎomù, jìtuō duì xiānrén de sīniàn.</div>
+            <div class="ex-en">At Qingming, the whole family brings flowers and food to sweep the graves, expressing their longing for the ancestors.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-sienna">
+        <div class="card-head">
+          <span class="card-cn">磕头</span>
+          <span class="card-py">kētóu</span>
+          <span class="card-en">prostration — kowtow — the physical language of reverence</span>
+        </div>
+        <div class="card-def">
+          磕头 (kowtow — lit. "knock head") is the full prostration: kneeling and touching the forehead to the floor. It is the highest physical expression of reverence and submission in Chinese ritual culture — performed before ancestors, deities, the emperor, and in traditional Confucian ceremony before teachers and parents. The number of kowtows is ritual-specific: three kowtows is standard; nine kowtows (三跪九叩 sān guì jiǔ kòu) was the highest imperial ceremony. In contemporary practice, three inclined bows with hands pressed together have largely replaced the full prostration in everyday contexts.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">在祭祖仪式上，晚辈向祖先牌位磕头行礼。</div>
+            <div class="ex-py">Zài jìzǔ yíshì shàng, wǎnbèi xiàng zǔxiān páiwèi kētóu xínglǐ.</div>
+            <div class="ex-en">At the ancestral offering ceremony, the younger generation kowtows before the spirit tablets.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards ritual -->
+
+    <!-- ── ANCESTRAL HALLS ── -->
+    <span class="section-anchor" id="citang"></span>
+    <div class="section-head">
+      <span class="sh-cn">宗祠</span>
+      <span class="sh-py">zōngcí</span>
+      <span class="sh-en">Ancestral Halls — The Physical Center of Lineage</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="祠">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · The Lineage Hall as Civilization</div>
+      <p>The <strong>祠堂 cítáng</strong> (ancestral hall, lineage hall) is the most significant architectural institution of Chinese kinship organization. Every lineage of any standing had one — a building dedicated to housing the spirit tablets of all common ancestors, maintaining the genealogy, adjudicating clan disputes, and conducting the great communal rituals. In the Pearl River delta, the Hakka regions, Fujian, and Taiwan, these halls remain intact and active.</p>
+      <p>The anthropologist Maurice Freedman's foundational studies of southeastern Chinese lineages in the 1950s–60s showed that the lineage was not merely a kinship group but a <em>corporate body</em> — it owned property, lent money at interest, funded education and ritual, and presented a unified face to outsiders. The ancestral hall was the lineage's parliament, its bank, its temple, and its archive simultaneously.</p>
+      <p>The genealogy book (族谱 zúpǔ or 家谱 jiāpǔ) is the lineage's documentary identity. Updated every generation, it records every male member by generation, documents family achievements and failures, contains rules of conduct (族规 zúguī), and typically opens with a narrative of the lineage's founding ancestor and migration history. The compilation of a new genealogy (修谱 xiū pǔ) is a major communal ritual event. Some lineages trace documented lines of descent across sixty generations — fifteen hundred years of unbroken recording.</p>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">族谱</span>
+          <span class="card-py">zúpǔ</span>
+          <span class="card-en">clan genealogy — the lineage's living memory</span>
+        </div>
+        <div class="card-def">
+          族谱 (also 家谱 jiāpǔ or 宗谱 zōngpǔ) is the written genealogical record of a lineage. It records birth, death, marriage, official appointments, and notable achievements of every member, generation by generation. The use of generation names (字辈 zìbèi) — a pre-assigned character given to all members of the same generation — means that a person's place in the lineage is readable in their name. Major genealogy projects now occur online, and some diaspora communities maintain digital zúpǔ shared across continents.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他翻开族谱，一眼就能看出自己与远方亲戚的辈分关系。</div>
+            <div class="ex-py">Tā fānkāi zúpǔ, yīyǎn jiù néng kàn chū zìjǐ yǔ yuǎnfāng qīnqi de bèifèn guānxi.</div>
+            <div class="ex-en">Opening the genealogy, he could immediately see his generational relationship to distant relatives.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">祠堂</span>
+          <span class="card-py">cítáng</span>
+          <span class="card-en">ancestral hall — the lineage's center of gravity</span>
+        </div>
+        <div class="card-def">
+          The 祠堂 is architecturally distinct from both domestic and religious buildings. Typically facing south, with a courtyard (天井 tiānjǐng), successive halls of increasing sanctity, and a rear hall housing the ranked spirit tablets, the building's layout enacts a cosmological and social hierarchy simultaneously. In Guangdong, some lineage halls are magnificently decorated with ceramic friezes, gilded woodwork, and ancestral portraits. The largest — like the Chen Clan Ancestral Hall in Guangzhou (广州陈家祠) — are now museums.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">每到清明和冬至，族人聚集在祠堂，共同祭祀祖先。</div>
+            <div class="ex-py">Měi dào Qīngmíng hé Dōngzhì, zúrén jùjí zài cítáng, gòngtóng jìsì zǔxiān.</div>
+            <div class="ex-en">At every Qingming and Winter Solstice, clan members gather in the ancestral hall to collectively offer to the ancestors.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">宗族</span>
+          <span class="card-py">zōngzú</span>
+          <span class="card-en">lineage — the corporate kinship group</span>
+        </div>
+        <div class="card-def">
+          宗族 is the term for the patrilineal descent group — all those who share a common named male ancestor and who collectively maintain the ancestral hall and genealogy. In rural China, entire villages are often single-lineage settlements (单姓村 dān xìng cūn), with all residents sharing a surname. The strength of lineage organization varies enormously by region: it is strongest in Guangdong, Fujian, and Jiangxi; weaker in the north. Overseas Chinese communities have maintained 宗族 associations (宗亲会 zōngqīnhuì) that span the globe.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">在华南农村，同一宗族的人往往住在同一个村子。</div>
+            <div class="ex-py">Zài Huánán nóngcūn, tóngyī zōngzú de rén wǎngwǎng zhù zài tóngyī gè cūnzi.</div>
+            <div class="ex-en">In rural South China, people of the same lineage often live in the same village.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards citang -->
+
+    <!-- ── DEATH RITES ── -->
+    <span class="section-anchor" id="death"></span>
+    <div class="section-head">
+      <span class="sh-cn">丧葬文化</span>
+      <span class="sh-py">sāngsàng wénhuà</span>
+      <span class="sh-en">Death Rites — the Long Road of Mourning</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="丧">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · Death as a Ritual Process</div>
+      <p>Traditional Chinese death rites treat death not as a single event but as an extended <em>transition</em> requiring sustained ritual management over time. The soul (魂 hún — the yang, heavenly soul) and the body's vital spirit (魄 pò — the yin, earthly soul) are conceived as separating at death, requiring different ritual handling. The body must be buried with geomantic correctness; the soul must be guided through the underworld bureaucracy; the living family must visibly mourn for a calibrated duration.</p>
+      <p>The full traditional mourning sequence extended for three years (三年之丧 sān nián zhī sāng) — a period during which a son would refrain from music, wear undyed hemp garments, eat coarsely, and forgo official career advancement. This has been compressed in modern practice to a formal mourning period of 49 days (七七 qī qī — seven periods of seven days), with key ritual observances at day 7 (头七 tóuqī), day 35, day 49, day 100 (百日 bǎirì), and the one-year anniversary (周年忌 zhōunián jì).</p>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">头七</span>
+          <span class="card-py">tóuqī</span>
+          <span class="card-en">the first seventh day — the soul's first return</span>
+        </div>
+        <div class="card-def">
+          头七 (the first seventh day after death) is the most ritually significant of the seven-week mourning sequence. Folk belief holds that the soul returns home for one final visit on this night before departing for the underworld. Family members may leave the house temporarily, or prepare the deceased's favorite foods and a path of paper ash to guide them home. Some traditions hold that encountering the returning soul can be dangerous for the living. The 七七 (49 days total) culminates in a major ritual to officially dispatch the soul.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">头七那晚，家人特地回避，留给亡者独自归家。</div>
+            <div class="ex-py">Tóuqī nà wǎn, jiārén tèdì huíbì, liú gěi wàngzhě dúzì guījiā.</div>
+            <div class="ex-en">On the night of the first seventh day, family members deliberately left the house, leaving it for the departed to return home alone.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">风水择地</span>
+          <span class="card-py">fēngshuǐ zédì</span>
+          <span class="card-en">geomantic grave siting — fortune for the living through the dead</span>
+        </div>
+        <div class="card-def">
+          The location and orientation of a grave (阴宅 yīnzhái — "yin dwelling") directly affects the fortune of the descendants — a doctrine that made grave geomancy (阴宅风水 yīnzhái fēngshuǐ) one of the most important applications of feng shui. The ideal grave site is sheltered from harsh winds, has watercourses curving toward it from the left (the green dragon side), and faces an open prospect to the south. Graves of founding ancestors, correctly sited, were believed to produce successive generations of officials and scholars.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">古人选择墓地十分讲究，要请风水先生勘查龙穴。</div>
+            <div class="ex-py">Gǔrén xuǎnzé mùdì shífēn jiǎngjiu, yào qǐng fēngshuǐ xiānsheng kānchá lóngxué.</div>
+            <div class="ex-en">Ancients were extremely careful in choosing grave sites, inviting feng shui masters to survey the "dragon lair."</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">棺材</span>
+          <span class="card-py">guāncai</span>
+          <span class="card-en">coffin — the most important object in traditional death culture</span>
+        </div>
+        <div class="card-def">
+          The coffin (棺材 guāncai) was traditionally a major family investment — solid wood, red lacquered, with auspicious carvings. The quality of the coffin reflected both the family's means and its filial devotion. Notably, 棺材 guāncai is an auspicious-sounding homophone: 官 guān (official rank) + 财 cái (wealth) — a linguist's accident that turned the coffin into a symbol of prosperity. Coffin-shaped ornaments and images appear in New Year crafts as good-luck symbols, a perfect example of Chinese homophonic symbolism overriding content.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">棺材谐音"官财"，在某些地方被视为吉祥物。</div>
+            <div class="ex-py">Guāncai xiéyīn "guāncái", zài mǒuxiē dìfāng bèi shì wéi jíxiángwù.</div>
+            <div class="ex-en">The coffin's homophonous sound — "official wealth" — makes it a good-luck symbol in some places.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">百日</span>
+          <span class="card-py">bǎirì</span>
+          <span class="card-en">the hundredth day — mourning milestone</span>
+        </div>
+        <div class="card-def">
+          百日 (the hundredth day after death) marks an important transition in the mourning period. A ritual is held — offerings presented, incense burned, paper goods burnt — and the bereaved family begins to resume more normal life activities. In some traditions, the mourning attire (素服 sùfú — undyed hemp or white linen) is changed on this day. The full year anniversary (周年忌 zhōunián jì or 对年 duìnián in southern China) is the final major observance before the deceased enters the regular ancestral offering cycle.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">父亲去世后的百日，家人再次聚集，举行祭祀。</div>
+            <div class="ex-py">Fùqīn qùshì hòu de bǎirì, jiārén zài cì jùjí, jǔxíng jìsì.</div>
+            <div class="ex-en">One hundred days after father's passing, the family gathered again to hold the offering ceremony.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards death -->
+
+    <!-- ── MODERN ── -->
+    <span class="section-anchor" id="modern"></span>
+    <div class="section-head">
+      <span class="sh-cn">当代变迁</span>
+      <span class="sh-py">dāngdài biànqiān</span>
+      <span class="sh-en">Modern Transformations</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="变">
+      <div class="scholar-label">当代视角 dāngdài shìjiǎo · Continuity Under Pressure</div>
+      <p>The PRC government's 1985 cremation policy (火葬 huǒzàng) posed a direct challenge to traditional burial practice, which required an intact body for geomantic grave siting and the spiritual logic of the 魂魄 soul-complex. Mandatory cremation — applied most strictly in urban areas — has been partially resisted in rural regions, where families have been known to bury the urn in a traditional grave mound, or to purchase rural plots in areas not strictly enforcing the policy.</p>
+      <p>The contradiction is telling: the same government that promotes cremation as hygienic modernity also officially recognizes Qingming tomb sweeping as a national public holiday, and has in recent years encouraged "civilized" (文明 wénmíng) forms of ancestor veneration — flower offerings rather than paper burning, online 祭祀 platforms rather than physical grave visits. The platform 中国殡葬网 and services like Alibaba's Qingming offerings show how ancestor veneration has been digitized without disappearing.</p>
+      <p>Outside the mainland, the tradition has faced different pressures. In Taiwan, Singapore, Malaysia, and overseas Chinese communities globally, ancestral veneration has continued without Communist-era interruption. Overseas 宗亲会 (clan associations) maintain ancestral halls, fund genealogy updates, and organize annual ritual visits. DNA-based genealogy projects now allow overseas Chinese whose paper genealogies were lost to reconstruct lineage connections biologically.</p>
+    </div>
+
+    <!-- ── CHENGYU ── -->
+    <span class="section-anchor" id="chengyu"></span>
+    <div class="section-head">
+      <span class="sh-cn">成语</span>
+      <span class="sh-py">chéngyǔ</span>
+      <span class="sh-en">Idioms &amp; Set Phrases</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="chengyu-grid">
+
+      <div class="cy">
+        <span class="cy-cn">慎终追远</span>
+        <span class="cy-py">shèn zhōng zhuī yuǎn</span>
+        <span class="cy-en">careful attention to death rites and honoring distant ancestors</span>
+        <span class="cy-note">From the Analects (论语): 慎终追远，民德归厚矣 — "When the people are careful about death rites and diligently honor distant ancestors, the virtue of the people will return to richness." Confucius's most concise statement of why ancestor veneration matters: it cultivates moral seriousness in the living.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">敬祖尊宗</span>
+        <span class="cy-py">jìng zǔ zūn zōng</span>
+        <span class="cy-en">to revere ancestors and honor the lineage</span>
+        <span class="cy-note">A set phrase expressing the core ethic of ancestor veneration: to show reverence (敬 jìng) to direct ancestors (祖) and to honor the lineage (宗) as a whole. Used in ritual speeches, genealogy prefaces, and New Year ancestral hall ceremonies.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">光宗耀祖</span>
+        <span class="cy-py">guāng zōng yào zǔ</span>
+        <span class="cy-en">to bring glory to the lineage and honor the ancestors</span>
+        <span class="cy-note">Lit: illuminate-lineage-glorify-ancestors. The ultimate expression of filial achievement: individual success that reflects honor back onto the ancestral line. Career success, academic achievement, and marriage into a good family are all forms of 光宗耀祖. The pressure this puts on children is a defining feature of Chinese educational culture.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">认祖归宗</span>
+        <span class="cy-py">rèn zǔ guī zōng</span>
+        <span class="cy-en">to acknowledge one's ancestors and return to the lineage</span>
+        <span class="cy-note">Lit: recognize-ancestor-return-lineage. Used for those who were separated from their family — by adoption, diaspora, or historical disruption — and formally reconnect with their ancestral line. A profoundly significant act in Chinese social life. Also used metaphorically for cultural homecoming: overseas Chinese "returning" to ancestral villages.</span>
+      </div>
+
+    </div>
+
+    <!-- ADJACENT VOCAB -->
+    <div class="section-head" style="margin-top:2.5rem;">
+      <span class="sh-cn">相关词汇</span>
+      <span class="sh-py">xiāngguān cíhuì</span>
+      <span class="sh-en">Related Vocabulary</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">孝顺</span><span class="a-py">xiàoshùn</span><span class="a-en">filial; obedient to parents</span></span>
+      <span class="adj"><span class="a-cn">祖先</span><span class="a-py">zǔxiān</span><span class="a-en">ancestors</span></span>
+      <span class="adj"><span class="a-cn">后代</span><span class="a-py">hòudài</span><span class="a-en">descendants; posterity</span></span>
+      <span class="adj"><span class="a-cn">香火</span><span class="a-py">xiānghuǒ</span><span class="a-en">incense; continuity of the family line</span></span>
+      <span class="adj"><span class="a-cn">血脉</span><span class="a-py">xuèmài</span><span class="a-en">bloodline</span></span>
+      <span class="adj"><span class="a-cn">家训</span><span class="a-py">jiāxùn</span><span class="a-en">family precepts; ancestral rules</span></span>
+      <span class="adj"><span class="a-cn">忌日</span><span class="a-py">jìrì</span><span class="a-en">death anniversary (ritual day)</span></span>
+      <span class="adj"><span class="a-cn">墓地</span><span class="a-py">mùdì</span><span class="a-en">cemetery; grave site</span></span>
+      <span class="adj"><span class="a-cn">灵位</span><span class="a-py">língwèi</span><span class="a-en">spirit seat; where soul dwells</span></span>
+      <span class="adj"><span class="a-cn">家祭</span><span class="a-py">jiājì</span><span class="a-en">domestic ancestral offering</span></span>
+      <span class="adj"><span class="a-cn">上坟</span><span class="a-py">shàngfén</span><span class="a-en">to visit and offer at the grave</span></span>
+      <span class="adj"><span class="a-cn">超度</span><span class="a-py">chāodù</span><span class="a-en">to deliver souls (Buddhist ritual)</span></span>
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="page-footer">
+      <span class="footer-id">Field Notes on Chinese · <span>祖先崇拜 zǔxiān chóngbài</span> · topic_zuxian.html</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>

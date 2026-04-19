@@ -1,0 +1,269 @@
+---
+type: 'topic'
+category: 'philosophy'
+status: 'complete'
+title: '理学 · Neo-Confucianism'
+desc: 'Zhu Xi, the Great Ultimate 太极, and the Song-Ming synthesis.'
+metaDesc: "理学 Neo-Confucianism: the Song dynasty revival of Confucianism; Zhou Dunyi, the Cheng brothers, and Zhu Xi; the concepts of 理 principle and 气 material force; 格物致知 investigation of things."
+pageTitle: '理学 lǐxué'
+tags:
+  - 'neo-confucianism'
+  - 'zhuxi'
+  - 'principle'
+updated: '2026-04-18'
+pinyin: 'lǐxué'
+---
+
+<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+    <span class="toc-topic">理学</span>
+    <span class="toc-topic-en">Neo-Confucianism</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#origins">
+        <span class="toc-cn">理学的兴起</span> Origins
+        <span class="toc-sub">the Song revival</span>
+      </a></li>
+      <li><a href="#zhoudunyi">
+        <span class="toc-cn">周敦颐</span> Zhou Dunyi
+        <span class="toc-sub">太极 and the cosmos</span>
+      </a></li>
+      <li><a href="#cheng">
+        <span class="toc-cn">程氏兄弟</span> The Cheng Brothers
+        <span class="toc-sub">理 as the foundation</span>
+      </a></li>
+      <li><a href="#zhuxi">
+        <span class="toc-cn">朱熹</span> Zhu Xi
+        <span class="toc-sub">the great synthesizer</span>
+      </a></li>
+      <li><a href="#liqi">
+        <span class="toc-cn">理与气</span> Principle &amp; Material Force
+        <span class="toc-sub">lǐ yǔ qì</span>
+      </a></li>
+      <li><a href="#gewu">
+        <span class="toc-cn">格物致知</span> Investigation of Things
+        <span class="toc-sub">gé wù zhì zhī</span>
+      </a></li>
+      <li><a href="#legacy">
+        <span class="toc-cn">理学的影响</span> Legacy &amp; Critique
+        <span class="toc-sub">the examination empire</span>
+      </a></li>
+      <li><a href="#chengyu">
+        <span class="toc-cn">成语典故</span> Key Phrases
+        <span class="toc-sub">chéngyǔ diǎngù</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- HERO -->
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">Philosophy · 哲学 zhéxué</span>
+      <h1 class="topic-hero-title">理学</h1>
+      <span class="topic-hero-title-py">lǐxué</span>
+      <p class="topic-hero-desc">The Song dynasty revival and systematic restatement of Confucianism that dominated Chinese intellectual and political life for eight centuries — built on the twin concepts of 理 lǐ (principle) and 气 qì (material force).</p>
+    </header>
+
+    <!-- ── ORIGINS ── -->
+    <span class="section-anchor" id="origins"></span>
+    <div class="section-head">
+      <span class="sh-cn">理学的兴起</span>
+      <span class="sh-py">lǐxué de xīngqǐ</span>
+      <span class="sh-en">Origins — The Song Dynasty Revival</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="理">
+      <div class="scholar-label">历史背景 lìshǐ bèijǐng · Historical Context</div>
+      <p>To understand why Neo-Confucianism arose when and as it did, one must understand what it was responding to. By the Tang dynasty (618–907 CE), <strong>Buddhism</strong> had thoroughly penetrated Chinese intellectual and spiritual life. The great Tang Buddhist schools — Huayan, Tiantai, Chan — had developed highly sophisticated metaphysical systems addressing questions that Confucianism had always left relatively undeveloped: the nature of the cosmos, the origin of the world, the ultimate ground of existence, the relationship between mind and reality. Buddhist monks dominated the most sophisticated philosophical conversations of the age. Alongside Buddhism, <strong>Daoism</strong> had developed its own rich metaphysical vocabulary — the Tao, non-being (無 wú), natural spontaneity (自然 zìrán) — that had also drawn educated Chinese away from classical Confucian preoccupations.</p>
+      <p>The Song Confucians — who called their project the recovery of the <strong>道统 dàotǒng</strong> (the transmission of the Way), lost since Mencius — faced a genuine intellectual challenge: Confucianism as they had received it was ethically rich but metaphysically thin. It could tell you how to behave in human relationships; it could not easily explain why the cosmos was structured the way it was, why human nature was good (or evil, or neutral), or what the relationship was between the mind that knows and the things known. Buddhism had elaborate answers to these questions. If Confucianism was to recover its central place in Chinese thought, it needed to answer them too.</p>
+      <p>The solution was not to reject Buddhist and Daoist vocabulary but to <em>assimilate</em> it — to take the metaphysical vocabulary and the cosmological concerns that Buddhism had introduced and give them a thoroughly Confucian answer. The result, developed over the course of the Northern and Southern Song dynasties (960–1279 CE), was a new Confucianism so richly developed that it could hold its own with any of the competing traditions — and that would go on to define the intellectual framework of Chinese (and East Asian) civilization through the Qing dynasty (1644–1912 CE).</p>
+      <p>The movement went by several names: <strong>理学 lǐxué</strong> (the Learning of Principle — emphasizing the central concept of 理 lǐ), <strong>道学 dàoxué</strong> (the Learning of the Way — emphasizing the Confucian Way as their primary concern), and in Western scholarship, <strong>Neo-Confucianism</strong>. Its founders were a series of thinkers who built progressively on each other's work.</p>
+    </div>
+
+    <!-- ── ZHOU DUNYI ── -->
+    <span class="section-anchor" id="zhoudunyi"></span>
+    <div class="section-head">
+      <span class="sh-cn">周敦颐与太极</span>
+      <span class="sh-py">Zhōu Dūnyí yǔ tàijí</span>
+      <span class="sh-en">Zhou Dunyi — The Cosmic Foundation</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="周">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · The First Architect</div>
+      <p><strong>周敦颐 Zhōu Dūnyí</strong> (1017–1073 CE) is the founding figure of Neo-Confucianism — the person who first gave it its cosmological framework. A minor official of the Northern Song, he wrote two short texts that became the seed of the entire movement: the <strong>《太极图说》Tàijí Túshuō</strong> (Explanation of the Diagram of the Supreme Ultimate) and the <strong>《通书》Tōngshū</strong> (Penetrating the Book of Changes).</p>
+      <p>In the Tàijí Túshuō — a text of only 249 Chinese characters — Zhou Dunyi described the generation of the cosmos from the Supreme Ultimate (太极 tàijí): 太极 generates Yang through movement and Yin through stillness; Yin and Yang interact to generate the Five Phases; the Five Phases generate the ten thousand things; and among the ten thousand things, human beings are the most spiritual because they receive the finest endowment of the Five Phases and can thereby become morally perfect sages. The sage embodies the "correct mean" (中正 zhōngzhèng) — the perfect balance of Yin-Yang — and through this becomes the moral pivot of heaven, earth, and humanity.</p>
+      <p>The significance of this is enormous: Zhou Dunyi grounded Confucian ethics in cosmology. The reason human beings should be moral is not merely social convention or ancestral practice — it is because human beings are the culmination of a cosmic process that produced them for the purpose of embodying the moral principle that structures the universe. Ethics and cosmology are the same thing. This move gave Neo-Confucianism the metaphysical depth it needed to compete with Buddhism.</p>
+      <p>Zhou Dunyi was also revered for his personal character: he famously refused to have the grass outside his window cut, saying he felt its life as akin to his own — a gesture that blends Confucian concern with the continuity of all life. Zhu Xi later described the moment he understood Zhou Dunyi's meaning as a kind of enlightenment.</p>
+    </div>
+
+    <!-- ── CHENG BROTHERS ── -->
+    <span class="section-anchor" id="cheng"></span>
+    <div class="section-head">
+      <span class="sh-cn">程氏兄弟</span>
+      <span class="sh-py">Chéngshì xiōngdì</span>
+      <span class="sh-en">The Cheng Brothers — Principle as Foundation</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="程">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · The Concept of 理 Established</div>
+      <p><strong>程颢 Chéng Hào</strong> (1032–1085 CE) and <strong>程颐 Chéng Yí</strong> (1033–1107 CE) were brothers who had studied with Zhou Dunyi and went on to develop his cosmological insights into a full philosophical system centered on the concept of <strong>理 lǐ</strong> (principle, pattern, the rational structure of things).</p>
+      <p>Cheng Yi's formulation was decisive: <em>天下之物皆可以理照</em> — "all things under heaven can be illuminated by principle." And: <em>理一分殊</em> lǐ yī fēn shū — "Principle is one, but its manifestations are many." There is a single universal Principle (sometimes glossed as 天理 tiānlǐ, Heavenly Principle) that structures all things in the cosmos — the principle of water being wet, the principle of fire being hot, the principle of human relationships demanding specific moral responses. Every individual thing has its own particular principle, but all these particular principles are manifestations of the single universal Principle. This is why a sage who fully understands one thing has an insight into all things — because all principles are ultimately one.</p>
+      <p>The two brothers differed subtly in emphasis. Cheng Hao leaned toward the view that 理 is immediately present in the mind and accessible through a kind of inner recognition — an approach that would later develop into Wang Yangming's School of Mind (心学 xīnxué). Cheng Yi emphasized that 理 must be sought through the gradual investigation of things and affairs — an approach that Zhu Xi would systematize into the doctrine of 格物致知.</p>
+      <p>Cheng Yi was also famous for his personal austerity and his insistence on the moral importance of ceremony and propriety. When the emperor once asked him to sit in his presence, he refused, saying it would set a bad precedent for the relationship between ruler and minister. The tension between philosophical insight and social rigidity that critics would later identify in Neo-Confucianism is already visible in Cheng Yi's personality.</p>
+    </div>
+
+    <!-- ── ZHU XI ── -->
+    <span class="section-anchor" id="zhuxi"></span>
+    <div class="section-head">
+      <span class="sh-cn">朱熹</span>
+      <span class="sh-py">Zhū Xī</span>
+      <span class="sh-en">Zhu Xi — The Great Synthesizer</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="朱">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · The Canon-Maker</div>
+      <p><strong>朱熹 Zhū Xī</strong> (1130–1200 CE) is, after Confucius and Mencius, the most important figure in Confucian intellectual history. He synthesized the work of Zhou Dunyi, the Cheng brothers, and other Song thinkers into a comprehensive philosophical system, and — equally important — he fixed the <strong>canonical curriculum</strong> that would govern Chinese education for six hundred years.</p>
+      <p>His most consequential editorial act was assembling the <strong>四书 Sì Shū</strong> (Four Books): the <em>Analects</em> (论语 Lúnyǔ), the <em>Mencius</em> (孟子 Mèngzǐ), the <em>Great Learning</em> (大学 Dàxué), and the <em>Doctrine of the Mean</em> (中庸 Zhōngyōng). He wrote commentaries on all four — the <strong>集注 Jí Zhù</strong> (Collected Annotations) — and these commentaries became the <em>official interpretation</em> of the classics for the imperial examination system from 1313 CE onward. Anyone who wanted to pass the exams and enter official life had to know Zhu Xi's commentaries by heart. His reading of Confucianism was, by institutional mandate, the only legitimate reading for six centuries.</p>
+      <p>Philosophically, Zhu Xi developed the 理–气 framework with unprecedented rigor: every existing thing has both 理 (the principle that determines what kind of thing it is and what it ought to be) and 气 (the material force or psycho-physical stuff of which it is actually made). 理 is prior in logical order — you cannot have a horse without the principle of horse — but 气 is necessary for actualization: principle without material force would be nowhere and nothing. Human beings, like all things, have both; the moral challenge is that the 气 we are constituted of is not perfectly refined, so our 理 — our innate moral nature — is obscured, like a mirror covered with dust.</p>
+      <p>This dust-on-the-mirror metaphor structures Zhu Xi's theory of moral cultivation: the goal is to refine and clarify the 气 so that the innate 理 — which is already perfect — can shine through unobstructed. The method for doing this is 格物致知 (investigation of things to extend knowledge), combined with 居敬 jū jìng (maintaining reverential seriousness) in one's conduct. Zhu Xi was famously rigorous in his own practice — he spent his whole career as a minor official and teacher, repeatedly refusing or being refused higher office, and continued refining his commentaries until the end of his life.</p>
+    </div>
+
+    <!-- ── LI QI ── -->
+    <span class="section-anchor" id="liqi"></span>
+    <div class="section-head">
+      <span class="sh-cn">理与气</span>
+      <span class="sh-py">lǐ yǔ qì</span>
+      <span class="sh-en">Principle and Material Force — The Ontological Framework</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">理</span>
+          <span class="card-py">lǐ</span>
+          <span class="card-en">principle; pattern; the rational structure of all things</span>
+        </div>
+        <div class="card-def">
+          理 lǐ originally depicted veins in jade — the natural grain or pattern that runs through a stone and gives it its characteristic beauty. Extended to mean: the inherent pattern, structure, or rational principle of anything. In Neo-Confucian usage, 理 is the normative pattern — what makes a thing the kind of thing it is, and what it ought to be when it is fully what it is. The 理 of a father is fatherliness; the 理 of a knife is to cut. There is a single supreme 理 — 太极 tàijí — of which all particular principles are specifications. 理 is purely good; it has no evil in it. If evil exists in the world, it comes from 气, not from 理.
+        </div>
+        <div class="note">
+          <span class="note-label">语言传播 yǔyán chuánbō · Word Travel</span>
+          理 lǐ = 理 ri in Japanese. The concept entered Japanese Neo-Confucianism (as Shushigaku 朱子学) and is the root of 物の理 mono no kotowari — the principle of things — and 道理 dōri — reason, justification. It also gives us the modern Chinese word 理性 lǐxìng (rationality) and 理论 lǐlùn (theory).
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">气</span>
+          <span class="card-py">qì</span>
+          <span class="card-en">material force; psycho-physical stuff; the actualizing medium</span>
+        </div>
+        <div class="card-def">
+          气 qì in classical thought is the continuous, undivided medium through which all phenomena occur — neither purely material (like atoms) nor purely spiritual (like souls) but the stuff in between: breath, air, energy, force, influence, the medium of all change and activity. In Neo-Confucianism, 气 is what 理 is actualized through and in. Different things have different 气 endowments: some refined and clear, some coarse and turbid. Human beings vary in the quality of their 气, which is why some people find moral cultivation easy and others find it difficult — they have different innate material endowments, even though all have the same perfect 理.
+        </div>
+        <div class="note">
+          <span class="note-label">辨析 biànxī · 理 vs. 气</span>
+          The relationship is sometimes compared to the Aristotelian distinction between form (理) and matter (气). The parallel is illuminating but imperfect: 理 is normative (it tells you what a thing ought to be) in a way that Aristotelian form is not. 气 is psycho-physical (not purely material) in a way that Aristotelian matter is not. The Neo-Confucian framework is best understood on its own terms.
+        </div>
+      </div>
+
+    </div>
+
+    <!-- ── GE WU ── -->
+    <span class="section-anchor" id="gewu"></span>
+    <div class="section-head">
+      <span class="sh-cn">格物致知</span>
+      <span class="sh-py">gé wù zhì zhī</span>
+      <span class="sh-en">Investigation of Things to Extend Knowledge</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="格">
+      <div class="scholar-label">方法论洞见 fānglùn dòngjiàn · The Epistemological Core</div>
+      <p>The phrase <strong>格物致知 gé wù zhì zhī</strong> comes from the opening of the <em>Great Learning</em> (大学 Dàxué) — one of the Four Books that Zhu Xi made canonical. In its original context, it is tantalizingly brief: "the extension of knowledge lies in the investigation of things." What does it mean to "investigate things"? What knowledge is "extended" through this process? The text does not say. The entire history of Neo-Confucianism can be read as a series of arguments about how to interpret these four characters.</p>
+      <p>Zhu Xi's interpretation: 格 gé means "to arrive at," "to probe into thoroughly." 物 wù means "things" and "affairs" — not just physical objects but the whole range of human relationships, texts, and situations. To 格物 is to bring your full cognitive attention to bear on whatever is in front of you and penetrate to its 理 (principle). Done persistently across many things over a long time, this gradually extends the mind's grasp of principle until — in what Zhu Xi described as a moment of sudden comprehensive understanding — the learner grasps the unity underlying all the particular principles they have studied. This is the 致知 — the extension or completion of knowledge.</p>
+      <p>The method is both introspective and exoteric: it includes the close reading of classics, the careful study of human relationships, reflection on one's own moral responses, and the observation of natural phenomena. It is not purely "empirical" in the modern scientific sense — Zhu Xi was not proposing experiments — but it is an outward-directed epistemology, one that looks to the world of things and affairs for moral insight. This is precisely what Wang Yangming would challenge: he thought this outward direction was a fundamental error, leading practitioners to look for moral principle in bamboo plants rather than in their own minds.</p>
+      <p>The famous story at the heart of the Zhu Xi–Wang Yangming debate: a young Wang Yangming, having read Zhu Xi, sat before a bamboo grove for seven days attempting to 格 the bamboo — to probe its principle and thereby extend his knowledge. After seven days he had learned nothing about moral principle but had made himself severely ill. This failure became the seed of his counter-doctrine.</p>
+    </div>
+
+    <!-- ── LEGACY ── -->
+    <span class="section-anchor" id="legacy"></span>
+    <div class="section-head">
+      <span class="sh-cn">理学的影响</span>
+      <span class="sh-py">lǐxué de yǐngxiǎng</span>
+      <span class="sh-en">Legacy and Critique</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="影">
+      <div class="scholar-label">历史洞见 lìshǐ dòngjiàn · Six Centuries of Dominance</div>
+      <p>The institutional triumph of Neo-Confucianism was complete. From the Yuan dynasty (1271–1368 CE) through the end of the Qing (1912 CE), Zhu Xi's commentaries on the Four Books were the mandatory curriculum for the imperial examinations. Every educated person in China — and, through Chinese cultural influence, in Korea, Japan, and Vietnam — absorbed Neo-Confucian categories: 理 and 气, 格物, the importance of seriousness (敬 jìng) in cultivation, the hierarchy of human relationships as moral constants (五伦 wǔ lún: ruler-minister, father-son, husband-wife, elder-younger brother, friend-friend). The influence on Korea was particularly deep: the Joseon dynasty (1392–1897 CE) adopted Neo-Confucianism as state ideology more thoroughly than China itself, and Korean Neo-Confucian scholarship produced some of the most sophisticated developments of the tradition.</p>
+      <p>The critiques are equally important to understand. Later thinkers — particularly the evidential scholarship movement (考证学 kǎozhèng xué) of the Qing dynasty — argued that Zhu Xi had imposed philosophical concepts drawn from Buddhism and Daoism onto Confucian texts and called it classical scholarship. The concept of 理 as an objective cosmic principle, they argued, was a Buddhist idea in Confucian clothing. They advocated returning to the original texts through philological analysis rather than philosophical commentary.</p>
+      <p>The other major critique came from within the Confucian tradition itself: Wang Yangming's school argued that Zhu Xi's outward-directed method of 格物 was epistemologically confused — you cannot find moral principle by investigating external things, because moral principle is not outside the mind. This internal Confucian debate between the School of Principle (理学) and the School of Mind (心学) defined the intellectual landscape of the Ming dynasty and beyond, and it remains one of the great unresolved debates in Chinese philosophy.</p>
+      <p>A third critique — the most devastating in historical retrospect — came from early Chinese encounters with Western science in the seventeenth century. Jesuit missionaries brought European astronomy and mathematics; some Chinese intellectuals found that their Confucian education had given them refined moral sensibilities but no tools for investigating the natural world systematically. The 格物 that Zhu Xi had proposed was not the kind of investigation that could produce the heliocentric model or calculus. Whether Neo-Confucianism actively obstructed Chinese scientific development or simply occupied space that science might otherwise have filled remains a debated question — but the question itself marks the legacy of the tradition.</p>
+    </div>
+
+    <!-- ── CHENGYU ── -->
+    <span class="section-anchor" id="chengyu"></span>
+    <div class="section-head">
+      <span class="sh-cn">成语与典故</span>
+      <span class="sh-py">chéngyǔ yǔ diǎngù</span>
+      <span class="sh-en">Key Phrases &amp; Passages</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="chengyu-grid">
+
+      <div class="cy">
+        <span class="cy-cn">格物致知</span>
+        <span class="cy-py">gé wù zhì zhī</span>
+        <span class="cy-en">investigate things to extend knowledge — the Neo-Confucian epistemological program</span>
+        <span class="cy-note">From the 大学 Dàxué (Great Learning). 格 gé = to probe, to arrive at; 物 wù = things and affairs; 致 zhì = to extend, to bring to completion; 知 zhī = knowledge. In modern usage, 格物致知 is often invoked as a phrase for empirical investigation of the natural world — a meaning that Zhu Xi would have recognized but considered incomplete, since for him the knowledge ultimately sought was moral, not merely factual.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">存天理，灭人欲</span>
+        <span class="cy-py">cún tiānlǐ, miè rén yù</span>
+        <span class="cy-en">preserve Heavenly Principle, eliminate human desire — Zhu Xi's formulation of moral cultivation</span>
+        <span class="cy-note">Perhaps the most quoted and most criticized phrase in Neo-Confucianism. 天理 tiānlǐ = Heavenly Principle (the universal moral norm); 人欲 rén yù = human desires (not all desires but those that conflict with Heavenly Principle — excessive appetite, selfishness). Critics — especially post-May Fourth reformers — read this as Confucian repression of natural human impulses. In context, Zhu Xi meant something more specific: not the elimination of normal human needs but the subordination of selfish desire to moral principle. The phrase became a flashpoint in modern Chinese debates about tradition and liberation.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">理一分殊</span>
+        <span class="cy-py">lǐ yī fēn shū</span>
+        <span class="cy-en">Principle is one, but its manifestations are many — the unity of diversity in Neo-Confucian metaphysics</span>
+        <span class="cy-note">Formulated by Cheng Yi, developed by Zhu Xi. 理一 = principle is singular and universal; 分殊 = its particularizations are diverse. The classic image: the moon reflected in ten thousand pools of water. There is one moon (one Principle); there are ten thousand reflections (ten thousand particular principles of particular things). The reflections are real; the moon is one. Understanding this resolves the apparent contradiction between the unity of moral principle (why everyone should be moral) and the diversity of moral situations (why different situations require different responses).</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">半部论语治天下</span>
+        <span class="cy-py">bàn bù Lúnyǔ zhì tiānxià</span>
+        <span class="cy-en">half the Analects suffices to govern all under heaven — the centrality of the classics in governance</span>
+        <span class="cy-note">Attributed to the Song statesman 赵普 Zhào Pǔ, who supposedly told an emperor that he governed with only half his knowledge of the Analects and had the other half in reserve. Whether apocryphal or not, the saying captures the Neo-Confucian belief that the classics contain all the practical wisdom needed for governance, and that deep knowledge of a few texts is more valuable than broad learning. It also reflects the examination system's premium on classical mastery over practical expertise.</span>
+      </div>
+
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="page-footer">
+      <span class="footer-id">Field Notes on Chinese · <span>理学 lǐxué</span> · topic_lixue.html</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>

@@ -1,0 +1,877 @@
+---
+type: 'character'
+category: 'characters'
+status: 'complete'
+title: '道 · way, path'
+desc: "The word that gave Daoism its name — and underlies every Chinese 'ism'."
+metaDesc: "道 dào: way, path, principle, and the Word that gave Daoism its name. From road to moral order to the measure word for light and rivers."
+pageTitle: '道 dào'
+tags:
+  - 'daoism'
+  - 'philosophy'
+  - 'path'
+updated: '2026-04-18'
+char: '道'
+pinyin: 'dào'
+tone: 4
+hsk: 3
+radical: '辶'
+---
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+    <button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+    <span class="toc-glyph">道</span>
+    <span class="toc-pinyin">dào · tone 4</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#etymology">
+        <span class="toc-cn">字源</span> Etymology
+        <span class="toc-sub">zìyuán · origin &amp; structure</span>
+      </a></li>
+      <li><a href="#roads">
+        <span class="toc-cn">道路</span> Road &amp; Path
+        <span class="toc-sub">dàolù · physical paths</span>
+      </a></li>
+      <li><a href="#knowing">
+        <span class="toc-cn">知道</span> Knowing &amp; Telling
+        <span class="toc-sub">zhīdào · verbs</span>
+      </a></li>
+      <li><a href="#principle">
+        <span class="toc-cn">道理</span> Principle &amp; Ethics
+        <span class="toc-sub">dàolǐ · moral order</span>
+      </a></li>
+      <li><a href="#orders">
+        <span class="toc-cn">天道</span> The Moral Orders
+        <span class="toc-sub">tiāndào · heaven &amp; man</span>
+      </a></li>
+      <li><a href="#measure">
+        <span class="toc-cn">量词</span> Measure Word
+        <span class="toc-sub">liàngcí · counting with 道</span>
+      </a></li>
+      <li><a href="#daoist">
+        <span class="toc-cn">道家</span> Daoist Reference
+        <span class="toc-sub">Dàojiā · the tradition</span>
+      </a></li>
+      <li><a href="#chengyu">
+        <span class="toc-cn">成语</span> Idioms
+        <span class="toc-sub">chéngyǔ · set phrases</span>
+      </a></li>
+      <li><a href="#adjacent">
+        <span class="toc-cn">相邻</span> Adjacent Vocab
+        <span class="toc-sub">xiānglín cíhuì</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- HERO -->
+    <header class="hero">
+      <div class="hero-inner">
+        <div class="hero-glyph-col">
+          <span class="hero-glyph">道</span>
+          <span class="hero-trad-note">繁體字 identical</span>
+        </div>
+        <div class="hero-meta">
+          <div class="hero-pinyin">dào</div>
+          <div class="hero-en">way · path · principle · the Way</div>
+          <div class="hero-chips">
+            <span class="chip">部首 bùshǒu · 辶 chuò walk-movement</span>
+            <span class="chip">12 笔画 bǐhuà strokes</span>
+            <span class="chip chip-hsk">HSK 3</span>
+            <span class="chip">tone 4 · dào</span>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <!-- ── ETYMOLOGY ── -->
+    <span class="section-anchor" id="etymology"></span>
+    <div class="section-head">
+      <span class="sh-cn">字源</span>
+      <span class="sh-py">zìyuán</span>
+      <span class="sh-en">Etymology &amp; Structure</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="道">
+      <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
+      <p><strong>道 dào = 辶 chuò</strong> (the walk-movement radical — a foot in motion, suggesting travel and path) <strong>+ 首 shǒu</strong> (head). A head moving purposefully forward along a path: the guided way, navigated with intelligence. Oracle-bone and bronze inscriptions show a crossroads with a head positioned at it — the moment of choosing direction, of reading the way ahead. 道 encodes both the physical path AND the principle of navigation simultaneously.</p>
+      <p>This ambiguity was not an accident — it was an invitation. Laozi seized it: <em>道可道，非常道</em> — "The Way that can be spoken is not the eternal Way." The first character of the <em>Dàodéjīng</em> is 道. The second character is also 道. The opening line uses the same word as both subject (the Way) and verb (to say, to name). This is how profound a single character can be made to carry.</p>
+      <p>In Japanese, 道 <em>dō</em> becomes the suffix for every traditional discipline-art that embodies a "Way" of practice and self-cultivation: 柔道 <em>jūdō</em>, 空手道 <em>karate-dō</em>, 茶道 <em>sadō</em>, 書道 <em>shodō</em> (calligraphy), 弓道 <em>kyūdō</em> (archery), 剣道 <em>kendō</em> (sword). The "Way" as a discipline of becoming — not a destination but a mode of moving through life with craft and attention. One character carrying two civilizations' deepest conceptions of what it means to pursue excellence.</p>
+    </div>
+
+    <!-- ── ROAD & PATH ── -->
+    <span class="section-anchor" id="roads"></span>
+    <div class="section-head">
+      <span class="sh-cn">道路</span>
+      <span class="sh-py">dàolù</span>
+      <span class="sh-en">Road &amp; Path</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">构词规律 gòucí guīlǜ · 道 as physical path</span>
+      <strong>大 dà</strong> (big; main) + 道 = <strong>大道</strong> (main road; grand way)<br>
+      <strong>铁 tiě</strong> (iron; steel) + 道 = <strong>铁道</strong> (railway; railroad)<br>
+      <strong>走 zǒu</strong> (walk) + 道 = <strong>走道</strong> (corridor; walkway; aisle)<br>
+      <strong>隧 suì</strong> (tunnel) + 道 = <strong>隧道</strong> (tunnel — the way bored through solid matter)<br>
+      The physical sense of 道 as a path you traverse remains the base meaning from which all metaphorical extensions radiate.
+    </div>
+
+    <div class="cards">
+
+      <!-- 道路 -->
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">道路</span>
+          <span class="card-py">dàolù</span>
+          <span class="card-en">road; path; way</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          道 dào (way; path) + 路 lù (road; route). The most standard, neutral word for a road or path. Used freely in both spatial and metaphorical senses. 人生道路 (the road of life) is one of the most common metaphorical applications, appearing in everything from political speeches to personal memoir.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">这条道路正在修建。</div>
+            <div class="ex-py">Zhè tiáo dàolù zhèngzài xiūjiàn.</div>
+            <div class="ex-en">This road is currently under construction.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">前面的道路很崎岖。</div>
+            <div class="ex-py">Qiánmiàn de dàolù hěn qíqū.</div>
+            <div class="ex-en">The road ahead is very rough and winding.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">我们走的是同一条道路。</div>
+            <div class="ex-py">Wǒmen zǒu de shì tóngyī tiáo dàolù.</div>
+            <div class="ex-en">We are walking the same path.</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 大道 -->
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">大道</span>
+          <span class="card-py">dàdào</span>
+          <span class="card-en">main road; grand way; the broad path</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          大 dà (big; main; grand) + 道 (way; path). Physically: a wide, main thoroughfare. Philosophically: the grand way of moral order or heaven's intention. The phrase 阳关大道 yánggǔān dàdào — "the sunny broad road" — is a common idiom for a clear, righteous, and well-traveled path (as opposed to a risky shortcut).
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">阳关大道</div>
+            <div class="ex-py">yánggǔān dàdào</div>
+            <div class="ex-en">the sunny broad road — the clear, right path; an easy and open way forward</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">走大道比走小路安全。</div>
+            <div class="ex-py">Zǒu dàdào bǐ zǒu xiǎolù ānquán.</div>
+            <div class="ex-en">Taking the main road is safer than taking the small path.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">文化 wénhuà · Note</span>
+          大道之行也，天下为公 (When the great Way prevails, all under heaven is shared) — opening of the 礼记 Lǐjì passage on the Great Commonwealth. 大道 in classical texts almost always carries this double weight: road and righteous order.
+        </div>
+      </div>
+
+      <!-- 铁道 -->
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">铁道</span>
+          <span class="card-py">tiědào</span>
+          <span class="card-en">railway; railroad</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          铁 tiě (iron; steel) + 道 (way; path). The iron way — railway tracks as a path made of iron. Common in institutional and geographic contexts. Also 铁路 tiělù (the more common modern term for railway system). 铁道 tends to refer to the track itself; 铁路 to the railway as a transport network.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">铁道旁边有一片树林。</div>
+            <div class="ex-py">Tiědào pángbiān yǒu yī piàn shùlín.</div>
+            <div class="ex-en">There is a grove of trees alongside the railway.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">铁道部门负责维护轨道。</div>
+            <div class="ex-py">Tiědào bùmén fùzé wéihù guǐdào.</div>
+            <div class="ex-en">The railway department is responsible for track maintenance.</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 走道 -->
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">走道</span>
+          <span class="card-py">zǒudào</span>
+          <span class="card-en">corridor; aisle; walkway</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          走 zǒu (walk; go) + 道 (way; path). The path you walk — a corridor between rooms, an aisle on a plane or train, a narrow walkway between structures. Practical and architectural: the space designated for movement through an enclosed or constrained area.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">我想坐靠走道的座位。</div>
+            <div class="ex-py">Wǒ xiǎng zuò kào zǒudào de zuòwèi.</div>
+            <div class="ex-en">I'd like an aisle seat.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">走道很窄，两个人不容易并排走。</div>
+            <div class="ex-py">Zǒudào hěn zhǎi, liǎng gè rén bù róngyì bìngpái zǒu.</div>
+            <div class="ex-en">The corridor is very narrow — two people can't easily walk side by side.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards roads -->
+
+    <!-- ── KNOWING & TELLING ── -->
+    <span class="section-anchor" id="knowing"></span>
+    <div class="section-head">
+      <span class="sh-cn">知道</span>
+      <span class="sh-py">zhīdào</span>
+      <span class="sh-en">Verbs of Knowing &amp; Telling</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="道">
+      <div class="scholar-label">构词洞见 gòucí dòngjiàn · Insight</div>
+      <p>The verb 知道 zhīdào is among the highest-frequency verbs in all of spoken Mandarin. Literally "to know the way" — knowledge as having found the path. The metaphor is not incidental: in classical Chinese epistemology, true knowing was always directional, always purposive. To know something was to have navigated to it.</p>
+      <p>报道 bàodào (news report) = "to announce the path/way of events" — journalism as the act of mapping what has happened. 说道 shuōdào (to say, in literary narration) marks the moment a character speaks. In all three verbs, 道 contributes the sense of a purposeful, directed communication.</p>
+    </div>
+
+    <div class="cards">
+
+      <!-- 知道 -->
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">知道</span>
+          <span class="card-py">zhīdào</span>
+          <span class="card-en">to know; to be aware of</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
+        <div class="card-def">
+          知 zhī (to know; knowledge) + 道 dào (way; path). The most common verb of knowledge in everyday speech. 知道 covers factual awareness, learned information, and received news — knowing that something is the case. Operates on propositions and facts.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">你知道吗？</div>
+            <div class="ex-py">Nǐ zhīdào ma?</div>
+            <div class="ex-en">Do you know? / Did you know?</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">我不知道他在哪里。</div>
+            <div class="ex-py">Wǒ bù zhīdào tā zài nǎlǐ.</div>
+            <div class="ex-en">I don't know where he is.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">我知道了。</div>
+            <div class="ex-py">Wǒ zhīdào le.</div>
+            <div class="ex-en">I see. / Got it. / Understood.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">辨析 biànxī · Three Kinds of Knowing</span>
+          知道 = factual / informational knowledge (know that). 了解 liǎojiě = deeper, contextual understanding (understand, be familiar with). 认识 rènshi = to know a person; to recognize. You 知道 the time of the meeting; you 了解 your colleague's work style; you 认识 the boss.
+        </div>
+      </div>
+
+      <!-- 不知道 -->
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">不知道</span>
+          <span class="card-py">bù zhīdào</span>
+          <span class="card-en">don't know; I'm not sure; I have no idea</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
+        <div class="card-def">
+          不 bù (negation) + 知道. One of the most common phrases in conversational Mandarin — the honest, unadorned acknowledgment of not having found the path. As a standalone response, 不知道！is perfectly natural and socially acceptable (not rude) in most contexts.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">不知道！</div>
+            <div class="ex-py">Bù zhīdào!</div>
+            <div class="ex-en">I don't know!</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">我不知道他为什么这样做。</div>
+            <div class="ex-py">Wǒ bù zhīdào tā wèishénme zhèyàng zuò.</div>
+            <div class="ex-en">I don't know why he did it this way.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">你问我，我也不知道。</div>
+            <div class="ex-py">Nǐ wèn wǒ, wǒ yě bù zhīdào.</div>
+            <div class="ex-en">You're asking me — I don't know either.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">语用 yǔyòng · Pragmatics</span>
+          A softer alternative when declining to answer: 这个我不太清楚 (I'm not very clear on this). 不知道 is fully natural in speech but may sound blunt in formal written contexts. 尚不清楚 is the formal written equivalent.
+        </div>
+      </div>
+
+      <!-- 报道 -->
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">报道</span>
+          <span class="card-py">bàodào</span>
+          <span class="card-en">news report; to report (news)</span>
+        </div>
+        <div class="tags"><span class="tag tag-vn">V/N 动名词</span></div>
+        <div class="card-def">
+          报 bào (to announce; to report; newspaper) + 道 dào (way; path). To map and announce the course of events — journalism as the act of charting what has happened. Used both as a noun (a report, a piece of coverage) and as a verb (to report on something).
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">新闻报道</div>
+            <div class="ex-py">xīnwén bàodào</div>
+            <div class="ex-en">news report; news coverage</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这件事被媒体大量报道。</div>
+            <div class="ex-py">Zhè jiàn shì bèi méitǐ dàliàng bàodào.</div>
+            <div class="ex-en">This matter received extensive media coverage.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">记者在现场进行报道。</div>
+            <div class="ex-py">Jìzhě zài xiànchǎng jìnxíng bàodào.</div>
+            <div class="ex-en">Reporters are reporting from the scene.</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 说道 -->
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">说道</span>
+          <span class="card-py">shuōdào</span>
+          <span class="card-en">to say (literary narration marker)</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
+        <div class="card-def">
+          说 shuō (to say; to speak) + 道 dào (way; to say). A literary verb used in fiction and formal narrative to introduce direct speech. Written as X说道，"……" — "X said, '……'" Seldom appears in casual spoken Chinese; it marks elevated or written register.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他微笑着说道，"欢迎。"</div>
+            <div class="ex-py">Tā wēixiào zhe shuōdào, "Huānyíng."</div>
+            <div class="ex-en">He smiled and said, "Welcome."</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">老人缓缓说道，"这条路我走了六十年。"</div>
+            <div class="ex-py">Lǎorén huǎnhuǎn shuōdào, "Zhè tiáo lù wǒ zǒu le liùshí nián."</div>
+            <div class="ex-en">The old man said slowly, "I have walked this road for sixty years."</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">语域 yǔyù · Register</span>
+          说道 is literary / formal narrative. In everyday speech and informal writing, 说 alone suffices. 说道 elevates the passage slightly and signals more careful prose — common in fiction, reportage, and historical writing.
+        </div>
+      </div>
+
+    </div><!-- /cards knowing -->
+
+    <!-- ── PRINCIPLE & ETHICS ── -->
+    <span class="section-anchor" id="principle"></span>
+    <div class="section-head">
+      <span class="sh-cn">道理</span>
+      <span class="sh-py">dàolǐ</span>
+      <span class="sh-en">Principle &amp; Ethics</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <!-- 道理 -->
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">道理</span>
+          <span class="card-py">dàolǐ</span>
+          <span class="card-en">reason; logic; principle; the way things work</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          道 dào (way; path) + 理 lǐ (principle; pattern; grain of wood — the inherent structure of things). <em>"The logic of the path."</em> The way things make sense — the reason behind an argument, the principle underlying a situation, the basic logic that should govern behavior. 讲道理 (to reason; to be rational) is one of the most common verbs of argumentation in Chinese.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">这话很有道理。</div>
+            <div class="ex-py">Zhè huà hěn yǒu dàolǐ.</div>
+            <div class="ex-en">That makes a lot of sense. / That's a very reasonable point.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">你说的道理我明白。</div>
+            <div class="ex-py">Nǐ shuō de dàolǐ wǒ míngbai.</div>
+            <div class="ex-en">I understand the logic of what you're saying.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">跟他讲道理没有用。</div>
+            <div class="ex-py">Gēn tā jiǎng dàolǐ méiyǒu yòng.</div>
+            <div class="ex-en">It's useless to reason with him.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">常用搭配 · Common Collocations</span>
+          讲道理 = to reason; to make sense. 不讲道理 = unreasonable, irrational (a common complaint). 有道理 = makes sense; reasonable. 没道理 = makes no sense; unjust. 道理上 = in principle; on a theoretical level.
+        </div>
+      </div>
+
+      <!-- 道德 -->
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">道德</span>
+          <span class="card-py">dàodé</span>
+          <span class="card-en">morality; ethics; moral</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          道 dào (the Way) + 德 dé (virtue; virtue-power — the cultivated moral force within a person). <em>Lit. "Way and Virtue."</em> The compound appears in 道德经 <em>Dàodéjīng</em> — the foundational Daoist text. In modern Chinese, 道德 is the standard word for morality and ethics across all registers.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">这是道德问题。</div>
+            <div class="ex-py">Zhè shì dàodé wèntí.</div>
+            <div class="ex-en">This is a question of morality.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">道德标准</div>
+            <div class="ex-py">dàodé biāozhǔn</div>
+            <div class="ex-en">moral standards</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">不道德的行为</div>
+            <div class="ex-py">bù dàodé de xíngwéi</div>
+            <div class="ex-en">immoral behavior</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">辨析 biànxī · 道德 vs. 伦理</span>
+          道德 = morality in everyday and broad use (moral standards, moral person). 伦理 lúnlǐ = ethics in a more academic or systematic sense (bioethics, professional ethics). 职业道德 = professional ethics (common compound using 道德). 道德绑架 = "moral kidnapping" — using moral pressure to coerce someone.
+        </div>
+      </div>
+
+      <!-- 有道理 -->
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">有道理</span>
+          <span class="card-py">yǒu dàolǐ</span>
+          <span class="card-en">to make sense; to be reasonable; that's a fair point</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V 动词短语 dòngcí duǎnyǔ</span></div>
+        <div class="card-def">
+          有 yǒu (to have; there is) + 道理 dàolǐ (reason; logic). "To have reason" — to possess the quality of making sense. One of the most common spoken responses to an argument you find convincing, used the way "fair point," "that makes sense," and "good point" function in English.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">你说得很有道理。</div>
+            <div class="ex-py">Nǐ shuō de hěn yǒu dàolǐ.</div>
+            <div class="ex-en">What you've said makes a lot of sense.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这个方案有道理。</div>
+            <div class="ex-py">Zhège fāng'àn yǒu dàolǐ.</div>
+            <div class="ex-en">This proposal is reasonable.</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 没道理 -->
+      <div class="card c-sienna">
+        <div class="card-head">
+          <span class="card-cn">没道理</span>
+          <span class="card-py">méi dàolǐ</span>
+          <span class="card-en">unreasonable; makes no sense; unjust</span>
+        </div>
+        <div class="tags"><span class="tag tag-adj">Adj 形容词 xíngróngcí</span></div>
+        <div class="card-def">
+          没 méi (lack; without) + 道理 dàolǐ (reason; logic). "Without reason" — lacking the logic or justice to be acceptable. Used when something is not just inconvenient but genuinely wrong in its reasoning or fairness.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他这样做完全没道理。</div>
+            <div class="ex-py">Tā zhèyàng zuò wánquán méi dàolǐ.</div>
+            <div class="ex-en">It makes absolutely no sense for him to do it this way.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这个要求没道理。</div>
+            <div class="ex-py">Zhège yāoqiú méi dàolǐ.</div>
+            <div class="ex-en">This demand is unreasonable.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards principle -->
+
+    <!-- ── THE MORAL ORDERS ── -->
+    <span class="section-anchor" id="orders"></span>
+    <div class="section-head">
+      <span class="sh-cn">天道</span>
+      <span class="sh-py">tiāndào</span>
+      <span class="sh-en">The Moral Orders — 天道, 人道, 王道</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="道">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · Scholar Note</div>
+      <p>In Chinese political and moral philosophy, 道 pluralizes into different "ways" depending on who or what is doing the walking. Heaven has its 道. Humanity has its 道. The ruler has his 道. These are not merely metaphors but the foundational vocabulary of Chinese political thought for over 2,500 years — from the pre-Qin philosophers through the Neo-Confucians to political discourse today.</p>
+      <p>The most consequential opposition is 王道 wángdào (the kingly way — rule through virtue) versus 霸道 bàdào (hegemony — rule through force). This dichotomy structures Chinese thinking about legitimate versus illegitimate power in ways that persist in modern political language.</p>
+    </div>
+
+    <div class="cards">
+
+      <!-- 天道 -->
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">天道</span>
+          <span class="card-py">tiāndào</span>
+          <span class="card-en">the way of heaven; the natural moral order</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          天 tiān (heaven; sky; the natural cosmic order) + 道 dào (way; path). The principle by which the cosmos operates — rewarding virtue, punishing tyranny, maintaining the balance of nature. Not a personal god but an impersonal moral force. When a ruler loses the 天道, he loses the mandate of heaven and may be legitimately overthrown.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">天道好还。</div>
+            <div class="ex-py">Tiāndào hǎo huán.</div>
+            <div class="ex-en">The way of heaven tends toward return — what goes around comes around.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">天道不公！</div>
+            <div class="ex-py">Tiāndào bù gōng!</div>
+            <div class="ex-en">Heaven is unjust! (Said in great distress at undeserved suffering.)</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 人道 -->
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">人道</span>
+          <span class="card-py">réndào</span>
+          <span class="card-en">the way of humanity; humane treatment</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          人 rén (person; humanity) + 道 dào (way; path). How human beings ought to treat one another — the ethical standards that define human dignity. Also the root of the modern compound 人道主义 rén dào zhǔyì (humanitarianism), which appears frequently in news coverage of conflicts and disasters.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">这样对待囚犯是不人道的。</div>
+            <div class="ex-py">Zhèyàng duìdài qiúfàn shì bù réndào de.</div>
+            <div class="ex-en">Treating prisoners this way is inhumane.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">人道主义援助</div>
+            <div class="ex-py">réndào zhǔyì yuánzhù</div>
+            <div class="ex-en">humanitarian aid</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 王道 -->
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">王道</span>
+          <span class="card-py">wángdào</span>
+          <span class="card-en">the kingly way; governance by virtue rather than force</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          王 wáng (king; ruler) + 道 dào (way; path). The Confucian ideal of legitimate rule: the virtuous ruler transforms those around him through moral example, not coercion. His virtue radiates outward, bringing peace and order spontaneously. Contrasted sharply with 霸道, the way of force.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">王道是以德服人，霸道是以力服人。</div>
+            <div class="ex-py">Wángdào shì yǐ dé fú rén, bàdào shì yǐ lì fú rén.</div>
+            <div class="ex-en">The kingly way subdues through virtue; the hegemonic way subdues through force.</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 霸道 -->
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">霸道</span>
+          <span class="card-py">bàdào</span>
+          <span class="card-en">hegemony; domineering; the way of force</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          霸 bà (hegemon; overlord — one who rules by force rather than virtue) + 道 dào (way; path). Classically: governing through coercion rather than moral example — the antithesis of 王道. Colloquially in modern Mandarin: overbearing, domineering (of a person's behavior). Also used admiring strength: 这道菜真霸道 (this dish is intense/bold — used of very strong flavors).
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">这个人太霸道了。</div>
+            <div class="ex-py">Zhège rén tài bàdào le.</div>
+            <div class="ex-en">This person is too domineering / overbearing.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">霸道总裁</div>
+            <div class="ex-py">bàdào zǒngcái</div>
+            <div class="ex-en">the domineering CEO — a stock character in Chinese romance novels and dramas</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 无道 -->
+      <div class="card c-sienna">
+        <div class="card-head">
+          <span class="card-cn">无道</span>
+          <span class="card-py">wúdào</span>
+          <span class="card-en">without principle; tyrannical; having lost the Way</span>
+        </div>
+        <div class="tags"><span class="tag tag-adj">Adj 形容词 xíngróngcí</span></div>
+        <div class="card-def">
+          无 wú (without; lacking) + 道 dào (Way; moral principle). Classical term for a ruler who has abandoned virtue and lost the mandate of heaven — whose governance has become purely arbitrary and cruel. Still used in historical and literary contexts, and occasionally in strong rhetorical condemnation.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">暴君无道，民心尽失。</div>
+            <div class="ex-py">Bàojūn wúdào, mínxīn jìn shī.</div>
+            <div class="ex-en">The tyrant was without principle — all popular support was lost.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">昏庸无道的统治者终将灭亡。</div>
+            <div class="ex-py">Hūnyōng wúdào de tǒngzhìzhě zhōng jiāng mièwáng.</div>
+            <div class="ex-en">A dim, unprincipled ruler will ultimately fall.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards orders -->
+
+    <!-- ── MEASURE WORD ── -->
+    <span class="section-anchor" id="measure"></span>
+    <div class="section-head">
+      <span class="sh-cn">量词</span>
+      <span class="sh-py">liàngcí</span>
+      <span class="sh-en">道 as a Measure Word</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">量词用法 liàngcí yòngfǎ · When to count with 道</span>
+      道 as a measure word (量词 liàngcí) counts: <strong>long thin things</strong> (beams of light, rivers, scars, rainbows), <strong>abstract sequential items</strong> (exam questions, dishes of food, commands, barriers), and <strong>things that have been issued or decreed</strong> (an order, a decree, a command). The common thread is that each requires a kind of navigation or traversal — you must get through it, answer it, or pass it.
+    </div>
+
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>道 with</th>
+            <th>拼音 Pīnyīn</th>
+            <th>意思 Yìsi</th>
+            <th>例句 Lìjù</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="td-cn">一道题</td>
+            <td class="td-py">yī dào tí</td>
+            <td>one question / problem</td>
+            <td>考试有二十道题。<span class="td-small td-py-sm">Kǎoshì yǒu èrshí dào tí. — The exam has twenty questions.</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">一道光</td>
+            <td class="td-py">yī dào guāng</td>
+            <td>a beam / ray of light</td>
+            <td>一道光从窗口射进来。<span class="td-small td-py-sm">Yī dào guāng cóng chuāngkǒu shè jìnlái. — A beam of light shot in through the window.</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">一道菜</td>
+            <td class="td-py">yī dào cài</td>
+            <td>a dish of food</td>
+            <td>今晚做了三道菜。<span class="td-small td-py-sm">Jīnwǎn zuò le sān dào cài. — I made three dishes tonight.</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">一道命令</td>
+            <td class="td-py">yī dào mìnglìng</td>
+            <td>an order / command</td>
+            <td>下达了一道命令。<span class="td-small td-py-sm">Xiàdá le yī dào mìnglìng. — An order was issued.</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">一道门槛</td>
+            <td class="td-py">yī dào ménkǎn</td>
+            <td>a threshold / hurdle / barrier</td>
+            <td>这是进入行业的一道门槛。<span class="td-small td-py-sm">Zhè shì jìnrù hángyè de yī dào ménkǎn. — This is a hurdle for entering the industry.</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">一道疤</td>
+            <td class="td-py">yī dào bā</td>
+            <td>a scar</td>
+            <td>脸上有一道疤。<span class="td-small td-py-sm">Liǎn shàng yǒu yī dào bā. — There is a scar on the face.</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">一道彩虹</td>
+            <td class="td-py">yī dào cǎihóng</td>
+            <td>a rainbow</td>
+            <td>雨后出现了一道彩虹。<span class="td-small td-py-sm">Yǔ hòu chūxiàn le yī dào cǎihóng. — A rainbow appeared after the rain.</span></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- ── DAOIST REFERENCE ── -->
+    <span class="section-anchor" id="daoist"></span>
+    <div class="section-head">
+      <span class="sh-cn">道家</span>
+      <span class="sh-py">Dàojiā</span>
+      <span class="sh-en">Daoist Reference</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="道">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · The Foundational Text</div>
+      <p>Laozi's opening line — <em>道可道，非常道；名可名，非常名</em> — is arguably the most famous sentence in Chinese philosophical literature. "The Way that can be told is not the eternal Way; the name that can be named is not the eternal name." 道 here exceeds all language. Yet paradoxically, Laozi wrote it down — in 81 short chapters totaling roughly 5,000 characters. The <em>Dàodéjīng</em> (道德经) is the most translated Chinese text in history, and the most translated philosophical text in the world after the Bible.</p>
+      <p>The Daoist institution (道教 Dàojiào) built a religion around this wordless Way: liturgy, ritual, priesthood, temples, sacred mountains. The philosophical school (道家 Dàojiā) refined it into metaphysics: the concept of 无为 wúwéi (non-action — acting in harmony with the natural flow rather than against it), of 自然 zìrán (naturalness; the state of being as-itself). Both use the same character — the one that began as a crossroads with a head at it, choosing direction.</p>
+    </div>
+
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>字 Zì</th>
+            <th>拼音 Pīnyīn</th>
+            <th>英文 Yīngwén</th>
+            <th>例句 Lìjù</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="td-cn">道教</td>
+            <td class="td-py">Dàojiào</td>
+            <td>Daoism (as religion)</td>
+            <td>道教有丰富的仪式传统。<span class="td-small td-py-sm">Dàojiào yǒu fēngfù de yíshì chuántǒng. — Daoism has a rich ritual tradition.</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">道家</td>
+            <td class="td-py">Dàojiā</td>
+            <td>Daoist philosophical school</td>
+            <td>道家思想影响了中国文化。<span class="td-small td-py-sm">Dàojiā sīxiǎng yǐngxiǎng le Zhōngguó wénhuà.</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">道士</td>
+            <td class="td-py">dàoshi</td>
+            <td>Daoist priest</td>
+            <td>道士在庙里修行。<span class="td-small td-py-sm">Dàoshi zài miào lǐ xiūxíng. — The Daoist priest cultivates himself in the temple.</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">道观</td>
+            <td class="td-py">dàoguàn</td>
+            <td>Daoist temple</td>
+            <td>武当山有著名的道观。<span class="td-small td-py-sm">Wǔdāng Shān yǒu zhùmíng de dàoguàn. — Wudang Mountain has famous Daoist temples.</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">道场</td>
+            <td class="td-py">dàochǎng</td>
+            <td>Daoist ritual space; cultivation ground</td>
+            <td>这里是修炼的道场。<span class="td-small td-py-sm">Zhèlǐ shì xiūliàn de dàochǎng. — This is a place of cultivation and practice.</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">道具</td>
+            <td class="td-py">dàojù</td>
+            <td>props; tools of the trade</td>
+            <td>舞台上的道具很精致。<span class="td-small td-py-sm">Wǔtái shàng de dàojù hěn jīngzhì. — The props on stage are very elaborate.</span></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- ── CHENGYU ── -->
+    <span class="section-anchor" id="chengyu"></span>
+    <div class="section-head">
+      <span class="sh-cn">成语</span>
+      <span class="sh-py">chéngyǔ</span>
+      <span class="sh-en">Idioms &amp; Set Phrases</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="chengyu-grid">
+
+      <div class="cy">
+        <span class="cy-cn">道听途说</span>
+        <span class="cy-py">dào tīng tú shuō</span>
+        <span class="cy-en">"heard on the road, told on the path" — hearsay; rumor; unverified gossip</span>
+        <span class="cy-note">途 tú = road; path (in transit). Things overheard on the road, passed on without verification. The road is a place of unfiltered information, strangers, and half-truths. 不要相信道听途说。(Don't believe hearsay.) Used to dismiss rumors or unverified claims. The corresponding classical source is the Analects, where Confucius warns against it.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">任重道远</span>
+        <span class="cy-py">rèn zhòng dào yuǎn</span>
+        <span class="cy-en">"the burden is heavy, the road is far" — great responsibility with a long journey ahead</span>
+        <span class="cy-note">From the Analects of Confucius (论语): 仁以为己任，不亦重乎？死而后已，不亦远乎？(Is taking benevolence as one's charge not heavy? Does the journey end only at death — is that not far?) Used to describe serious long-term undertakings: social reform, academic work, national development. Conveys gravitas without complaint.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">道不同不相为谋</span>
+        <span class="cy-py">dào bù tóng bù xiāng wéi móu</span>
+        <span class="cy-en">"those who follow different ways cannot work together" — fundamental value divergence ends cooperation</span>
+        <span class="cy-note">From the Analects: when the fundamental principles (道) that govern a person's life diverge, strategic cooperation becomes impossible. Used when parting ways with a colleague, organization, or ally over principle — not personal dislike but incompatible directions. The dignity of the phrase makes it a graceful way to end an alliance.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">得道多助</span>
+        <span class="cy-py">dé dào duō zhù</span>
+        <span class="cy-en">"the righteous have many helpers" — moral legitimacy generates real-world support</span>
+        <span class="cy-note">From Mencius (孟子). Full phrase: 得道多助，失道寡助 (Those who have the Way have many helpers; those without the Way have few). Moral legitimacy is not merely symbolic — it creates tangible coalitions. Those who govern well attract support; those who govern badly find themselves isolated. Used to argue that ethical conduct is strategically as well as morally correct.</span>
+      </div>
+
+    </div>
+
+    <!-- ── ADJACENT VOCAB ── -->
+    <span class="section-anchor" id="adjacent"></span>
+    <div class="section-head">
+      <span class="sh-cn">相邻词汇</span>
+      <span class="sh-py">xiānglín cíhuì</span>
+      <span class="sh-en">Adjacent Vocabulary</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">路</span><span class="a-py">lù</span><span class="a-en">road; route</span></span>
+      <span class="adj"><span class="a-cn">径</span><span class="a-py">jìng</span><span class="a-en">path; trail; shortcut</span></span>
+      <span class="adj"><span class="a-cn">方向</span><span class="a-py">fāngxiàng</span><span class="a-en">direction; orientation</span></span>
+      <span class="adj"><span class="a-cn">方法</span><span class="a-py">fāngfǎ</span><span class="a-en">method; approach</span></span>
+      <span class="adj"><span class="a-cn">原则</span><span class="a-py">yuánzé</span><span class="a-en">principle</span></span>
+      <span class="adj"><span class="a-cn">真理</span><span class="a-py">zhēnlǐ</span><span class="a-en">truth; the true principle</span></span>
+      <span class="adj"><span class="a-cn">法</span><span class="a-py">fǎ</span><span class="a-en">law; method; dharma</span></span>
+      <span class="adj"><span class="a-cn">理</span><span class="a-py">lǐ</span><span class="a-en">principle; inherent pattern</span></span>
+      <span class="adj"><span class="a-cn">德</span><span class="a-py">dé</span><span class="a-en">virtue; moral power</span></span>
+      <span class="adj"><span class="a-cn">无</span><span class="a-py">wú</span><span class="a-en">nothingness; nonbeing</span></span>
+      <span class="adj"><span class="a-cn">自然</span><span class="a-py">zìrán</span><span class="a-en">nature; naturally; as-itself</span></span>
+      <span class="adj"><span class="a-cn">无为</span><span class="a-py">wúwéi</span><span class="a-en">non-action; the Daoist ideal</span></span>
+      <span class="adj"><span class="a-cn">天命</span><span class="a-py">tiānmìng</span><span class="a-en">mandate of heaven; fate</span></span>
+    </div>
+
+    <!-- RETENTION IMAGE -->
+    <div class="scholar" data-glyph="道">
+      <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
+      <p>A crossroads at dawn. You stand at the center — four paths, no signs. The ancient character shows a head positioned at that crossroads, moving forward. 道 is not one path but the knowing of how to walk any path. The intelligence that reads the terrain and chooses direction.</p>
+      <p>When Laozi wrote <em>道可道，非常道</em>, he was standing at that crossroads, pointing at all four paths simultaneously, refusing to collapse the mystery into a single direction. The Way that gets named becomes just one path — a reduction of the original navigational intelligence into a fixed route. The eternal 道 remains the capacity to read any terrain, not the map of one particular road.</p>
+      <p>Every 道 compound is a different application of the same intelligence: 知道 (to know) = to have found the path through the facts. 道理 (reason) = the logic of the path, what makes a route navigable. 道德 (ethics) = the Way and its cultivated virtue. 一道光 (a beam of light) = a path traced by light. 一道题 (a question) = a path you must solve your way through. The road, the principle, the beam, the dish of food, the kingly way, the Daoist absolute — all named with the same character because all require navigation.</p>
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="page-footer">
+      <span class="footer-id">Field Notes on Chinese · <span>道 dào</span> · dao4_道.html</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>

@@ -1,0 +1,730 @@
+---
+type: 'grammar'
+category: 'grammar'
+status: 'complete'
+title: '量词 · measure words'
+desc: '个, 只, 条, 本, 张 — the classifier taxonomy and the logic behind it.'
+metaDesc: "量词 liàngcí: Chinese measure words (classifiers) explained by category — shape, container, event, collective. Etymology, the logic of the system, 20 essential classifiers, and chengyu."
+pageTitle: '量词 liàngcí · Measure Words'
+tags:
+  - 'measure-words'
+  - 'classifiers'
+  - 'nouns'
+updated: '2026-04-18'
+pinyin: 'liàngcí'
+---
+
+<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+    <span class="toc-topic">量词</span>
+    <span class="toc-topic-en">Measure Words · Classifiers</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#etymology">
+        <span class="toc-cn">字源</span> Etymology
+        <span class="toc-sub">why Chinese counts this way</span>
+      </a></li>
+      <li><a href="#patterns">
+        <span class="toc-cn">结构</span> Core Patterns
+        <span class="toc-sub">Number + MW + Noun</span>
+      </a></li>
+      <li><a href="#container">
+        <span class="toc-cn">容器量词</span> Container Classifiers
+        <span class="toc-sub">杯·碗·盘·瓶</span>
+      </a></li>
+      <li><a href="#shape">
+        <span class="toc-cn">形状量词</span> Shape-Based Classifiers
+        <span class="toc-sub">条·张·根·颗</span>
+      </a></li>
+      <li><a href="#generic">
+        <span class="toc-cn">通用量词</span> Universal: 个
+        <span class="toc-sub">the fallback classifier</span>
+      </a></li>
+      <li><a href="#event">
+        <span class="toc-cn">事件量词</span> Event Classifiers
+        <span class="toc-sub">次·场·件·段</span>
+      </a></li>
+      <li><a href="#collective">
+        <span class="toc-cn">集合量词</span> Collective Classifiers
+        <span class="toc-sub">群·批·对·双</span>
+      </a></li>
+      <li><a href="#table">
+        <span class="toc-cn">量词表</span> Reference Table
+        <span class="toc-sub">20 essential classifiers</span>
+      </a></li>
+      <li><a href="#chengyu">
+        <span class="toc-cn">成语</span> Idioms
+        <span class="toc-sub">classifiers in set phrases</span>
+      </a></li>
+      <li><a href="#adjacent">
+        <span class="toc-cn">相邻</span> Adjacent Vocab
+        <span class="toc-sub">counting and quantification</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- HERO -->
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">Grammar · 语法 yǔfǎ</span>
+      <h1 class="topic-hero-title">量词</h1>
+      <span class="topic-hero-title-py">liàngcí</span>
+      <p class="topic-hero-desc">Chinese cannot count nouns directly — a measure word (classifier) must stand between every number and noun, and the choice of classifier reveals how the language categorizes the physical and social world.</p>
+    </header>
+
+    <!-- ── ETYMOLOGY ── -->
+    <span class="section-anchor" id="etymology"></span>
+    <div class="section-head">
+      <span class="sh-cn">字源与逻辑</span>
+      <span class="sh-py">zìyuán yǔ luójí</span>
+      <span class="sh-en">Etymology &amp; The Logic of the System</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="量">
+      <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
+      <p><strong>量词 liàngcí</strong> = 量 liàng (to measure; quantity) + 词 cí (word). The name encodes the function: these are "measuring words" that specify the unit or category in which a noun is counted. English has a vestige of this system: "a sheet of paper," "a head of cattle," "a school of fish" — but these are optional. In Chinese they are mandatory for every count.</p>
+      <p>The system reflects a deep cognitive choice: Chinese treats nouns as category labels rather than inherently countable units. To count, you must first specify what dimension or kind of unit you're counting along. A fish (鱼) has length and shape — hence 条. A piece of paper has flatness — hence 张. A book has bound volume — hence 本. The classifier is a semantic lens that reveals how the language perceives each object's essential nature.</p>
+      <p>Classifier languages are widespread in East and Southeast Asia (Mandarin, Cantonese, Thai, Japanese, Korean, Vietnamese all have them). Japanese borrowed extensively from Chinese: 本 hon (long cylindrical objects), 枚 mai (flat thin objects), 頭 tō (large animals) — the classifier logic traveled with the characters. This makes classifiers one of the most productive cross-linguistic anchors for learners of Chinese and Japanese together.</p>
+      <p>Even counting "one" requires a classifier: 一个人 (one person), 一本书 (one book), 一条鱼 (one fish). The generic classifier <strong>个 gè</strong> can substitute for most concrete nouns in informal speech — but overuse marks the speaker as linguistically inexperienced or deliberately casual. Choosing the right classifier is a mark of fluency and cultural literacy.</p>
+    </div>
+
+    <!-- ── CORE PATTERNS ── -->
+    <span class="section-anchor" id="patterns"></span>
+    <div class="section-head">
+      <span class="sh-cn">核心结构</span>
+      <span class="sh-py">héxīn jiégòu</span>
+      <span class="sh-en">Core Patterns</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">量词位置 liàngcí wèizhì · Where classifiers appear</span>
+      <strong>Number + Classifier + Noun</strong> → 三<strong>本</strong>书 / 一<strong>条</strong>鱼 / 两<strong>个</strong>人<br>
+      <strong>这/那/哪 + Classifier + Noun</strong> → 这<strong>本</strong>书 / 那<strong>条</strong>路 / 哪<strong>位</strong>老师<br>
+      <strong>Number + Classifier (standalone)</strong> → 我要两<strong>个</strong> (I want two [of them]) — noun understood from context
+    </div>
+
+    <div class="scholar" data-glyph="个">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · The 个 Fallback</div>
+      <p>个 gè is the most frequent classifier in Mandarin by a wide margin — it appears in corpora more often than all other classifiers combined. Historically it was a classifier specifically for certain objects, but it has generalized almost universally for concrete, countable nouns among informal speakers. In fast speech, 个 can replace 本 (books), 条 (long things), 张 (flat things), 只 (animals/one of a pair), and most others.</p>
+      <p>This is not "wrong" — it parallels the English spread of "thing" into every semantic gap. But in formal writing, educated registers, and careful speech, specific classifiers are expected and their absence is noticed. Knowing the system beyond 个 is one of the clearest markers of advanced Mandarin proficiency.</p>
+    </div>
+
+    <!-- ── CONTAINER CLASSIFIERS ── -->
+    <span class="section-anchor" id="container"></span>
+    <div class="section-head">
+      <span class="sh-cn">容器量词</span>
+      <span class="sh-py">róngqì liàngcí</span>
+      <span class="sh-en">Container and Unit Classifiers</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">一杯水</span>
+          <span class="card-py">yī bēi shuǐ</span>
+          <span class="card-en">a cup / glass of water — 杯 bēi</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">容器 container</span></div>
+        <div class="card-def">
+          杯 bēi (cup, glass) counts liquids held in cups or glasses. The container becomes the classifier. This is the most transparent type: the classifier is the vessel. A large class of classifiers work this way — 碗, 盘, 瓶, 桶, 壶 — each named for the physical container holding the substance.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">我想喝一杯咖啡。</div>
+            <div class="ex-py">Wǒ xiǎng hē yī bēi kāfēi.</div>
+            <div class="ex-en">I'd like a cup of coffee.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">请给我两杯茶。</div>
+            <div class="ex-py">Qǐng gěi wǒ liǎng bēi chá.</div>
+            <div class="ex-en">Please give me two cups of tea.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">一碗饭 · 一盘菜 · 一瓶啤酒</span>
+          <span class="card-py">yī wǎn fàn · yī pán cài · yī píng píjiǔ</span>
+          <span class="card-en">a bowl of rice · a plate of food · a bottle of beer</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">容器 container</span></div>
+        <div class="card-def">
+          碗 wǎn (bowl) — for rice, noodles, soup. Flat-bottomed dishes.<br>
+          盘 pán (plate, dish) — for stir-fried dishes, presented food at a restaurant.<br>
+          瓶 píng (bottle) — for bottled drinks, liquids in bottles.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">再来一碗，我还没吃饱。</div>
+            <div class="ex-py">Zài lái yī wǎn, wǒ hái méi chī bǎo.</div>
+            <div class="ex-en">One more bowl — I'm not full yet.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">服务员，再来一瓶啤酒！</div>
+            <div class="ex-py">Fúwùyuán, zài lái yī píng píjiǔ!</div>
+            <div class="ex-en">Waiter, one more bottle of beer!</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards container -->
+
+    <!-- ── SHAPE-BASED CLASSIFIERS ── -->
+    <span class="section-anchor" id="shape"></span>
+    <div class="section-head">
+      <span class="sh-cn">形状量词</span>
+      <span class="sh-py">xíngzhuàng liàngcí</span>
+      <span class="sh-en">Shape-Based Classifiers — the Perceptual Taxonomy</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">条 tiáo — long and sinuous</span>
+          <span class="card-py">tiáo</span>
+          <span class="card-en">for long, flexible, strip-like things</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">形状 shape</span></div>
+        <div class="card-def">
+          条 tiáo originally meant "a strip, a twig, a branch." It classifies anything elongated and somewhat flexible or sinuous: fish, rivers, roads, trousers, snakes, dogs, news items (信息, 新闻). The breadth of 条's domain is one of the more surprising aspects of the classifier system for learners.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">一条鱼 · 一条路 · 一条裤子 · 一条消息</div>
+            <div class="ex-py">yī tiáo yú · yī tiáo lù · yī tiáo kùzi · yī tiáo xiāoxi</div>
+            <div class="ex-en">a fish · a road · a pair of trousers · a piece of news</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">那条狗很可爱。</div>
+            <div class="ex-py">Nà tiáo gǒu hěn kě'ài.</div>
+            <div class="ex-en">That dog is very cute.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">记忆法 jìyìfǎ · Memory hook</span>
+          Think of 条 as covering everything you might describe as a "strip" or "ribbon": river (strip of water), road (strip of land), fish (streamlined strip-shape), trousers (two fabric tubes), snake (sinuous strip), news item (a line of text).
+        </div>
+      </div>
+
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">张 zhāng — flat and spread out</span>
+          <span class="card-py">zhāng</span>
+          <span class="card-en">for flat, sheet-like things</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">形状 shape</span></div>
+        <div class="card-def">
+          张 zhāng originally meant "to spread open, to stretch" — a bow drawn taut. It classifies anything that is flat and spreadable: paper, tables, faces, maps, tickets, photos, blankets, bows (archery). The connection to "spreading flat" unifies this seemingly disparate class.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">一张纸 · 一张桌子 · 一张脸 · 一张地图</div>
+            <div class="ex-py">yī zhāng zhǐ · yī zhāng zhuōzi · yī zhāng liǎn · yī zhāng dìtú</div>
+            <div class="ex-en">a sheet of paper · a table · a face · a map</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">请你给我一张纸。</div>
+            <div class="ex-py">Qǐng nǐ gěi wǒ yī zhāng zhǐ.</div>
+            <div class="ex-en">Please give me a sheet of paper.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">根 gēn — rod-like and slender</span>
+          <span class="card-py">gēn</span>
+          <span class="card-en">for slender, rigid, rod-shaped things</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">形状 shape</span></div>
+        <div class="card-def">
+          根 gēn means "root" (the root of a plant — slender, rigid, going down). It classifies anything slender and relatively rigid: chopsticks, nails, needles, bones, hair strands, candles, cigarettes. Where 条 implies flexibility, 根 implies stiffness.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">一根棍子 · 一根头发 · 一根香烟 · 一根蜡烛</div>
+            <div class="ex-py">yī gēn gùnzi · yī gēn tóufa · yī gēn xiāngyān · yī gēn làzhú</div>
+            <div class="ex-en">a stick · a strand of hair · a cigarette · a candle</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-sienna">
+        <div class="card-head">
+          <span class="card-cn">颗 kē — small and round</span>
+          <span class="card-py">kē</span>
+          <span class="card-en">for small, round, or grain-like objects</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">形状 shape</span></div>
+        <div class="card-def">
+          颗 kē classifies small, roundish objects — seeds, pills, stars, tears, pearls, bullets, and poetically, hearts. The "small round thing" logic extends metaphorically: 一颗心 (a heart) treats the heart as a precious small sphere; 一颗星星 (a star) treats celestial bodies as glittering seeds in the night sky.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">一颗心 · 一颗星星 · 一颗珍珠 · 一颗子弹</div>
+            <div class="ex-py">yī kē xīn · yī kē xīngxīng · yī kē zhēnzhū · yī kē zǐdàn</div>
+            <div class="ex-en">a heart · a star · a pearl · a bullet</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">她眼里含着一颗泪珠。</div>
+            <div class="ex-py">Tā yǎn lǐ hánzhe yī kē lèizhū.</div>
+            <div class="ex-en">A teardrop glistened in her eye.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards shape -->
+
+    <!-- ── GENERIC 个 ── -->
+    <span class="section-anchor" id="generic"></span>
+    <div class="section-head">
+      <span class="sh-cn">通用量词：个</span>
+      <span class="sh-py">tōngyòng liàngcí: gè</span>
+      <span class="sh-en">The Universal Classifier 个</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">个 — the safe default</span>
+          <span class="card-py">gè</span>
+          <span class="card-en">generic classifier for people, objects, abstract concepts</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">通用 universal</span></div>
+        <div class="card-def">
+          个 gè is the most versatile classifier in Mandarin. It is required for people (一个人), serves as the correct classifier for a vast range of concrete nouns (苹果, 问题, 办法, 国家), and in informal speech substitutes for almost any other classifier. Its shape was originally 箇 — a classifier for bamboo segments. The modern simplified form 个 dominates all registers.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">一个人 · 一个苹果 · 一个问题 · 一个办法</div>
+            <div class="ex-py">yī gè rén · yī gè píngguǒ · yī gè wèntí · yī gè bànfǎ</div>
+            <div class="ex-en">a person · an apple · a question · a solution</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">我有一个好主意。</div>
+            <div class="ex-py">Wǒ yǒu yī gè hǎo zhǔyi.</div>
+            <div class="ex-en">I have a good idea.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">给我一个机会。</div>
+            <div class="ex-py">Gěi wǒ yī gè jīhuì.</div>
+            <div class="ex-en">Give me a chance.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">学者注 xuézhě zhù · When 个 marks informality</span>
+          Using 个 where a specific classifier is expected (e.g., 一个书 for 一本书) signals casual register or learner-level speech. Native speakers do this in rapid colloquial talk, but in formal speech, written text, and at any moment where precision matters, specific classifiers are used. The measure word system is a register marker, not just a grammatical rule.
+        </div>
+      </div>
+
+    </div><!-- /cards generic -->
+
+    <!-- ── EVENT CLASSIFIERS ── -->
+    <span class="section-anchor" id="event"></span>
+    <div class="section-head">
+      <span class="sh-cn">事件量词</span>
+      <span class="sh-py">shìjiàn liàngcí</span>
+      <span class="sh-en">Event and Action Classifiers</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">次 cì — times / occurrences</span>
+          <span class="card-py">cì</span>
+          <span class="card-en">for repeated or countable events and opportunities</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">动量 action</span></div>
+        <div class="card-def">
+          次 cì counts occurrences, repetitions, instances. It is the verbal classifier for how many times an action has happened. Also: 一次机会 (one chance/opportunity), 一次经历 (one experience). Differs from 遍 biàn (one complete pass-through of an action from start to finish) and 回 huí (one round trip or one occasion).
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">我去过北京三次。</div>
+            <div class="ex-py">Wǒ qùguò Běijīng sān cì.</div>
+            <div class="ex-en">I've been to Beijing three times.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这是一次难得的机会。</div>
+            <div class="ex-py">Zhè shì yī cì nándé de jīhuì.</div>
+            <div class="ex-en">This is a rare opportunity.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">场 chǎng — sessions and performances</span>
+          <span class="card-py">chǎng</span>
+          <span class="card-en">for extended events, performances, weather, illnesses</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">动量 event</span></div>
+        <div class="card-def">
+          场 chǎng classifies events that have duration and a contained episode-shape: a performance, a game, a battle, a rainstorm, a dream, an illness. 一场雨 (a rain shower), 一场梦 (a dream), 一场大病 (a serious illness), 一场比赛 (a match), 一场电影 (a screening).
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">昨晚下了一场大雨。</div>
+            <div class="ex-py">Zuówǎn xià le yī chǎng dà yǔ.</div>
+            <div class="ex-en">Last night there was a heavy rain.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这一场梦让我久久不能忘怀。</div>
+            <div class="ex-py">Zhè yī chǎng mèng ràng wǒ jiǔjiǔ bù néng wànghuái.</div>
+            <div class="ex-en">This dream stayed with me for a long time.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">件 jiàn · 段 duàn — discrete and extended</span>
+          <span class="card-py">jiàn · duàn</span>
+          <span class="card-en">件: discrete items/matters · 段: stretches of time or space</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">事件 matter</span></div>
+        <div class="card-def">
+          <strong>件 jiàn</strong> classifies discrete items and matters: 一件事 (a matter/affair), 一件衣服 (a garment). The sense is a bounded, countable item.<br>
+          <strong>段 duàn</strong> classifies stretches, periods, sections: 一段时间 (a period of time), 一段路 (a stretch of road), 一段感情 (a period of romantic feeling), 一段历史 (a passage of history). The sense is a span between two points.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">我们之间有一段难忘的感情。</div>
+            <div class="ex-py">Wǒmen zhījiān yǒu yī duàn nán wàng de gǎnqíng.</div>
+            <div class="ex-en">There was an unforgettable relationship between us.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">有一件事我想告诉你。</div>
+            <div class="ex-py">Yǒu yī jiàn shì wǒ xiǎng gàosu nǐ.</div>
+            <div class="ex-en">There's something I want to tell you.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards event -->
+
+    <!-- ── COLLECTIVE CLASSIFIERS ── -->
+    <span class="section-anchor" id="collective"></span>
+    <div class="section-head">
+      <span class="sh-cn">集合量词</span>
+      <span class="sh-py">jíhé liàngcí</span>
+      <span class="sh-en">Collective and Group Classifiers</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">群 qún · 批 pī</span>
+          <span class="card-py">qún · pī</span>
+          <span class="card-en">group (gathered together) · batch (processed together)</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">集合 collective</span></div>
+        <div class="card-def">
+          <strong>群 qún</strong> = a group gathered in one place: 一群人 (a group of people), 一群鸟 (a flock of birds), 一群学生. The 羊 (sheep) component in 群 suggests flocking behavior — animals moving together.<br>
+          <strong>批 pī</strong> = a batch processed or handled together, often commercial or official: 一批货 (a consignment of goods), 一批学生 (a cohort of students), 第一批 (the first batch/wave).
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">广场上聚集了一大群人。</div>
+            <div class="ex-py">Guǎngchǎng shàng jùjí le yī dà qún rén.</div>
+            <div class="ex-en">A large crowd gathered in the square.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">我们是第一批到达的。</div>
+            <div class="ex-py">Wǒmen shì dì yī pī dào dá de.</div>
+            <div class="ex-en">We were the first group/batch to arrive.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-sienna">
+        <div class="card-head">
+          <span class="card-cn">对 duì · 双 shuāng</span>
+          <span class="card-py">duì · shuāng</span>
+          <span class="card-en">paired couple · matched pair</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">集合 paired</span></div>
+        <div class="card-def">
+          <strong>对 duì</strong> = a pair that forms a natural matched set or couple: 一对夫妻 (a married couple), 一对耳环 (a pair of earrings). The two items are complementary and often of the same type.<br>
+          <strong>双 shuāng</strong> = a pair of objects that naturally come together as a matched set, especially for things worn on both sides of the body: 一双筷子 (a pair of chopsticks), 一双鞋 (a pair of shoes), 一双手 (a pair of hands).
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他们是一对幸福的夫妻。</div>
+            <div class="ex-py">Tāmen shì yī duì xìngfú de fūqī.</div>
+            <div class="ex-en">They are a happy couple.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这双筷子用起来很顺手。</div>
+            <div class="ex-py">Zhè shuāng kuàizi yòng qǐlai hěn shùnshǒu.</div>
+            <div class="ex-en">These chopsticks feel comfortable to use.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">辨析 biànxī · 对 vs. 双</span>
+          双 requires that both items are identical (two of the same thing). 对 allows items that complement rather than duplicate: 对 is used for pairs that form a whole (couple, matched earrings), while 双 is for two identical objects worn or used together (shoes, gloves, chopsticks, socks).
+        </div>
+      </div>
+
+    </div><!-- /cards collective -->
+
+    <!-- ── REFERENCE TABLE ── -->
+    <span class="section-anchor" id="table"></span>
+    <div class="section-head">
+      <span class="sh-cn">量词参考表</span>
+      <span class="sh-py">liàngcí cānkǎo biǎo</span>
+      <span class="sh-en">20 Essential Classifiers — Reference Table</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>量词</th>
+            <th>拼音</th>
+            <th>Category</th>
+            <th>Typical nouns</th>
+            <th>Example</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="td-cn">个</td>
+            <td class="td-py">gè</td>
+            <td>Generic</td>
+            <td>people, most objects, abstract concepts</td>
+            <td>一个人 · 一个问题</td>
+          </tr>
+          <tr>
+            <td class="td-cn">本</td>
+            <td class="td-py">běn</td>
+            <td>Bound volume</td>
+            <td>books, magazines, albums, notebooks</td>
+            <td>一本书 · 三本杂志</td>
+          </tr>
+          <tr>
+            <td class="td-cn">条</td>
+            <td class="td-py">tiáo</td>
+            <td>Long/flexible</td>
+            <td>fish, roads, rivers, trousers, dogs, news</td>
+            <td>一条鱼 · 一条路</td>
+          </tr>
+          <tr>
+            <td class="td-cn">张</td>
+            <td class="td-py">zhāng</td>
+            <td>Flat/sheet</td>
+            <td>paper, tables, faces, tickets, maps, photos</td>
+            <td>一张纸 · 一张票</td>
+          </tr>
+          <tr>
+            <td class="td-cn">只</td>
+            <td class="td-py">zhī</td>
+            <td>Small animals / one of a pair</td>
+            <td>cats, birds, hands, ears, boats (small)</td>
+            <td>一只猫 · 一只手</td>
+          </tr>
+          <tr>
+            <td class="td-cn">匹</td>
+            <td class="td-py">pǐ</td>
+            <td>Large animals / fabric</td>
+            <td>horses, mules, bolts of cloth</td>
+            <td>一匹马 · 一匹布</td>
+          </tr>
+          <tr>
+            <td class="td-cn">根</td>
+            <td class="td-py">gēn</td>
+            <td>Slender/rigid</td>
+            <td>chopsticks, nails, hair strands, candles</td>
+            <td>一根头发 · 一根蜡烛</td>
+          </tr>
+          <tr>
+            <td class="td-cn">颗</td>
+            <td class="td-py">kē</td>
+            <td>Small/round</td>
+            <td>stars, seeds, pills, pearls, hearts</td>
+            <td>一颗心 · 一颗星</td>
+          </tr>
+          <tr>
+            <td class="td-cn">块</td>
+            <td class="td-py">kuài</td>
+            <td>Chunk/piece</td>
+            <td>rocks, soap, bread, land, watches</td>
+            <td>一块石头 · 一块蛋糕</td>
+          </tr>
+          <tr>
+            <td class="td-cn">把</td>
+            <td class="td-py">bǎ</td>
+            <td>Handle/handheld</td>
+            <td>chairs, umbrellas, knives, keys, fans</td>
+            <td>一把椅子 · 一把伞</td>
+          </tr>
+          <tr>
+            <td class="td-cn">间</td>
+            <td class="td-py">jiān</td>
+            <td>Room/enclosed space</td>
+            <td>rooms, houses, shops</td>
+            <td>一间房 · 两间教室</td>
+          </tr>
+          <tr>
+            <td class="td-cn">座</td>
+            <td class="td-py">zuò</td>
+            <td>Large structure</td>
+            <td>mountains, buildings, bridges, statues</td>
+            <td>一座山 · 一座桥</td>
+          </tr>
+          <tr>
+            <td class="td-cn">次</td>
+            <td class="td-py">cì</td>
+            <td>Occurrence</td>
+            <td>times, opportunities, experiences</td>
+            <td>三次 · 一次机会</td>
+          </tr>
+          <tr>
+            <td class="td-cn">场</td>
+            <td class="td-py">chǎng</td>
+            <td>Episode/performance</td>
+            <td>matches, rain, dreams, films, illness</td>
+            <td>一场雨 · 一场梦</td>
+          </tr>
+          <tr>
+            <td class="td-cn">件</td>
+            <td class="td-py">jiàn</td>
+            <td>Discrete item/matter</td>
+            <td>matters, garments, luggage items</td>
+            <td>一件事 · 一件衣服</td>
+          </tr>
+          <tr>
+            <td class="td-cn">段</td>
+            <td class="td-py">duàn</td>
+            <td>Stretch/span</td>
+            <td>time periods, road sections, relationships</td>
+            <td>一段时间 · 一段路</td>
+          </tr>
+          <tr>
+            <td class="td-cn">群</td>
+            <td class="td-py">qún</td>
+            <td>Flock/crowd</td>
+            <td>people, birds, animals (gathered)</td>
+            <td>一群人 · 一群鸟</td>
+          </tr>
+          <tr>
+            <td class="td-cn">双</td>
+            <td class="td-py">shuāng</td>
+            <td>Identical pair</td>
+            <td>shoes, socks, chopsticks, hands, eyes</td>
+            <td>一双鞋 · 一双眼睛</td>
+          </tr>
+          <tr>
+            <td class="td-cn">对</td>
+            <td class="td-py">duì</td>
+            <td>Complementary pair</td>
+            <td>couples, matched earrings, bird pairs</td>
+            <td>一对夫妻 · 一对耳环</td>
+          </tr>
+          <tr>
+            <td class="td-cn">位</td>
+            <td class="td-py">wèi</td>
+            <td>Respectful (persons)</td>
+            <td>teachers, guests, elders (honorific)</td>
+            <td>这位老师 · 一位客人</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- ── CHENGYU ── -->
+    <span class="section-anchor" id="chengyu"></span>
+    <div class="section-head">
+      <span class="sh-cn">成语</span>
+      <span class="sh-py">chéngyǔ</span>
+      <span class="sh-en">Classifiers in Idioms &amp; Set Phrases</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="chengyu-grid">
+
+      <div class="cy">
+        <span class="cy-cn">一举两得</span>
+        <span class="cy-py">yī jǔ liǎng dé</span>
+        <span class="cy-en">one move, two gains — kill two birds with one stone</span>
+        <span class="cy-note">Lit: one-raise/move-two-gains. 举 here is a verbal measure word (one lift/movement). A perfect analogue of "kill two birds with one stone." 这样做一举两得 "Doing it this way achieves two goals at once." Among the most common four-character idioms in business and daily speech.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">一石二鸟</span>
+        <span class="cy-py">yī shí èr niǎo</span>
+        <span class="cy-en">one stone, two birds — the Sino-Japanese equivalent of "kill two birds with one stone"</span>
+        <span class="cy-note">石 shí (stone) + classifier-less counting: the idiom predates strict classifier rules. More literary than 一举两得 and borrowed back from Japanese usage (一石二鳥 issekinichō) which itself came from Chinese. Both idioms circulate in modern Mandarin.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">万紫千红</span>
+        <span class="cy-py">wàn zǐ qiān hóng</span>
+        <span class="cy-en">ten thousand purples and a thousand reds — riot of spring color</span>
+        <span class="cy-note">The numbers 万 (ten thousand) and 千 (thousand) function here as measure-like intensifiers — they modify color nouns without explicit classifiers because the color words themselves serve as measure-noun compounds. From Su Shi's 朱熹 poem on spring: 等闲识得东风面，万紫千红总是春 "Casually recognizing the east wind's face — ten thousand purples and a thousand reds, all of it is spring."</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">一字千金</span>
+        <span class="cy-py">yī zì qiān jīn</span>
+        <span class="cy-en">one character, a thousand gold pieces — words of immense value</span>
+        <span class="cy-note">字 here is a classifier for characters/words. 金 (gold pieces) is the unit of price. From the story of Lü Buwei's 吕不韦 text 《吕氏春秋》 — he challenged anyone to change a single character and offered a thousand gold pieces if they could improve it. Used to praise literary excellence.</span>
+      </div>
+
+    </div>
+
+    <!-- ── ADJACENT VOCAB ── -->
+    <span class="section-anchor" id="adjacent"></span>
+    <div class="section-head">
+      <span class="sh-cn">相邻词汇</span>
+      <span class="sh-py">xiānglín cíhuì</span>
+      <span class="sh-en">Adjacent Vocabulary — Counting and Quantification</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">数词</span><span class="a-py">shùcí</span><span class="a-en">numeral</span></span>
+      <span class="adj"><span class="a-cn">指示代词</span><span class="a-py">zhǐshì dàicí</span><span class="a-en">demonstrative pronoun (这/那/哪)</span></span>
+      <span class="adj"><span class="a-cn">几</span><span class="a-py">jǐ</span><span class="a-en">how many (small number)</span></span>
+      <span class="adj"><span class="a-cn">多少</span><span class="a-py">duōshao</span><span class="a-en">how many / how much</span></span>
+      <span class="adj"><span class="a-cn">一些</span><span class="a-py">yīxiē</span><span class="a-en">some (partitive)</span></span>
+      <span class="adj"><span class="a-cn">很多</span><span class="a-py">hěn duō</span><span class="a-en">many, a lot</span></span>
+      <span class="adj"><span class="a-cn">每</span><span class="a-py">měi</span><span class="a-en">every (+ classifier + noun)</span></span>
+      <span class="adj"><span class="a-cn">各</span><span class="a-py">gè</span><span class="a-en">each, various</span></span>
+      <span class="adj"><span class="a-cn">所有</span><span class="a-py">suǒyǒu</span><span class="a-en">all, every</span></span>
+      <span class="adj"><span class="a-cn">部分</span><span class="a-py">bùfen</span><span class="a-en">part, portion</span></span>
+      <span class="adj"><span class="a-cn">整个</span><span class="a-py">zhěnggè</span><span class="a-en">the whole, entire</span></span>
+      <span class="adj"><span class="a-cn">动量词</span><span class="a-py">dòngliàngcí</span><span class="a-en">verbal measure word (次/遍/回)</span></span>
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="page-footer">
+      <span class="footer-id">Field Notes on Chinese · <span>量词 liàngcí</span> · liangci_量词.html</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>

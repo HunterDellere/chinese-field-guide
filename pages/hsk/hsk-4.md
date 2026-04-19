@@ -461,10 +461,10 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 大多 — dàduō — Adv — mostly, for the most part
 - 大方 — dàfang — Adj — generous; natural and poised
 - 大哥 — dàgē — N — eldest brother, big brother (polite address for a man of about the, gang leader; boss
-- 大规模 / 大規模 — dà guīmó — [gloss needed]
+- 大规模 / 大規模 — dà guīmó — large-scale, on a large scale
 - 大会 — dàhuì — N — general assembly, general meeting, convention
 - 大姐 — dàjiě — N — big sister, elder sister, older sister (also polite term of address for a gi
-- 大楼 / 大樓 — dà lóu — [gloss needed]
+- 大楼 / 大樓 — dà lóu — large building, tower block
 - 大陆 — dàlù — N — mainland China (reference to the PRC)
 - 大妈 — dàmā — N — father's elder brother's wife, aunt (affectionate term for an elderly woman)
 - 大型 — dàxíng — Adj — large, large-scale
@@ -525,14 +525,14 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 对比 / 對比 — duìbǐ — V/N — contrast; to contrast
 - 对付 — duìfu — V — to handle; to deal with; to tackle, to get by with; to make do, (dialect) (usu. used in the negative) to get along
 - 对于 / 對於 — duìyú — Prep — regarding, with respect to
-- 多次 — duō cì — [gloss needed]
-- 多年 — duō nián — [gloss needed]
+- 多次 — duō cì — multiple times, on many occasions
+- 多年 — duō nián — many years, for years
 - 多样 / 多樣 — duōyàng — Adj — diverse, varied
-- 多种 / 多種 — duō zhǒng — [gloss needed]
+- 多种 / 多種 — duō zhǒng — various kinds, multiple types
 - 恶心 — ěxin — Adj/V — variant of 惡心|恶心[e3 xin1]
 - 儿童 — értóng — N — child
 - 而 — ér — Conj — and, but, yet; while
-- 而是 — ér shì — [gloss needed]
+- 而是 — ér shì — but rather, instead
 - 耳机 — ěrjī — N — headphones, earphones, telephone receiver
 - 二手 — èrshǒu — Adj — indirectly acquired, second-hand (information, equipment etc), assistant
 - 发挥 / 發揮 — fāhuī — V — to give play to, to bring into play
@@ -558,7 +558,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 分散 — fēnsàn — V/Adj — to scatter, to disperse, to distribute
 - 分手 — fēnshǒu — to part company, to split up, to break up
 - 分为 / 分為 — fēnwéi — to divide sth into (parts); to subdivide
-- …分之… — …fēn zhī… — [gloss needed]
+- …分之… — …fēn zhī… — fraction: … out of … (e.g. 三分之一 one-third)
 - 纷纷 — fēnfēn — Adv — one after another, in succession, one by one
 - 奋斗 — fèndòu — V — to strive; to struggle
 - 风格 — fēnggé — N — style
@@ -579,7 +579,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 改正 — gǎizhèng — V — to correct, to amend, to put right
 - 盖 — gài — V — lid, top, cover
 - 概括 — gàikuò — V/Adj — to summarize; to generalize, briefly; in broad outline
-- 感兴趣 / 感興趣 — gǎn xìngqù — [gloss needed]
+- 感兴趣 / 感興趣 — gǎn xìngqù — to be interested in, to take an interest
 - 高潮 — gāocháo — N — high tide; high water, upsurge; peak of activity, climax (of a story, a competition etc)
 - 高价 — gāojià — N — high price
 - 高尚 — gāoshàng — Adj — noble, lofty, refined
@@ -785,7 +785,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 类型 — lèixíng — N — type; kind; category, (computer programming) type
 - 冷静 — lěngjìng — Adj — calm; cool-headed; dispassionate, (of a place) deserted; quiet
 - 厘米 — límǐ — M — centimeter
-- 离不开 / 離不開 — lí bu kāi — [gloss needed]
+- 离不开 / 離不開 — lí bu kāi — cannot do without, inseparable from
 - 力气 — lìqi — N — physical strength
 - 历史 — lìshǐ — N — history, CL:門|门[men2],段[duan4]
 - 立即 — lìjí — Adv — immediately
@@ -820,9 +820,9 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 毛巾 — máojīn — N — towel, CL:條|条[tiao2]
 - 毛衣 — máoyī — N — (wool) sweater, CL:件[jian4]
 - 帽子 — màozi — N — hat, cap, (fig.) label
-- 没错 / 沒錯 — méi cuò — [gloss needed]
+- 没错 / 沒錯 — méi cuò — that's right, correct, no mistake
 - 没法儿 — méifǎr — V — (coll.) can't do anything about it, (coll.) there's no way that ...; it's simply not c, (coll.) couldn't be (better) (i.e. simply wonderfu
-- 没想到 / 沒想到 — méi xiǎngdào — [gloss needed]
+- 没想到 / 沒想到 — méi xiǎngdào — unexpectedly, I didn't expect that
 - 美金 — měijīn — N — American dollar; US dollar
 - 美女 — měinǚ — N — beautiful woman
 - 梦 — mèng — N/V — dream (CL:場|场[chang2]), (bound form) to dream
@@ -937,8 +937,8 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 伤害 — shānghài — V — to injure; to harm
 - 商务 — shāngwù — N — commercial affairs, commercial, commerce
 - 赏 — shǎng — V — to bestow (a reward), to give (to an inferior), to hand down
-- 上个月 / 上個月 — shàng ge yuè — [gloss needed]
-- 上楼 / 上樓 — shàng lóu — [gloss needed]
+- 上个月 / 上個月 — shàng ge yuè — last month
+- 上楼 / 上樓 — shàng lóu — to go upstairs
 - 上门 / 上門 — shàngmén — to drop in, to visit, to lock a door
 - 烧 — shāo — V — to burn, to cook, to stew
 - 设施 — shèshī — N — facilities, installation
@@ -972,7 +972,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 收获 — shōuhuò — V/N — variant of 收穫|收获[shou1 huo4]
 - 收益 — shōuyì — N — earnings, profit
 - 手工 — shǒugōng — N — handwork, manual
-- 手里 / 手裡 — shǒu li — [gloss needed]
+- 手里 / 手裡 — shǒu li — in one's hand, in hand
 - 手术 — shǒushù — N — (surgical) operation, surgery, CL:個|个[ge4]
 - 手套 — shǒutào — N — glove, mitten, CL:雙|双[shuang1],隻|只[zhi1]
 - 守 — shǒu — V — to guard, to defend, to keep watch
@@ -988,7 +988,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 数据 — shùjù — N — data
 - 数码 — shùmǎ — N — number, numerals, figures
 - 刷 — shuā — V — a brush, to paint; to daub, to brush; to scrub
-- 刷牙 — shuā yá — [gloss needed]
+- 刷牙 — shuā yá — to brush one's teeth
 - 刷子 — shuāzi — N — brush, scrub, CL:把[ba3]
 - 帅 — shuài — Adj — surname Shuai
 - 帅哥 — shuàigē — N — handsome guy, lady-killer, handsome (form of address)
@@ -1101,9 +1101,9 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 细 — xì — Adj — thin or slender, finely particulate, thin and soft
 - 细节 / 細節 — xìjié — N — detail, particular
 - 细致 — xìzhì — Adj — delicate, fine, careful
-- 下个月 / 下個月 — xià ge yuè — [gloss needed]
+- 下个月 / 下個月 — xià ge yuè — next month
 - 下降 — xiàjiàng — V — to decline, to drop, to fall
-- 下楼 / 下樓 — xià lóu — [gloss needed]
+- 下楼 / 下樓 — xià lóu — to go downstairs
 - 下载 — xiàzài — V — to download, also pr. [xia4zai4]
 - 夏季 — xiàjì — N — summer
 - 鲜 — xiān — Adj — variant of 鮮|鲜[xian3]
@@ -1169,7 +1169,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 盐 — yán — N — salt, CL:粒[li4]
 - 眼镜 — yǎnjìng — N — spectacles, eyeglasses, CL:副[fu4]
 - 眼泪 — yǎnlèi — N — tear; teardrop, CL:滴[di1]
-- 眼里 / 眼裡 — yǎnli — N — [gloss needed]
+- 眼里 / 眼裡 — yǎnli — N — in one's eyes, in the eyes of
 - 演讲 — yǎnjiǎng — V — to give a lecture; to make a speech
 - 阳台 — yángtái — N — variant of 陽臺|阳台[yang2 tai2]
 - 养成 — yǎngchéng — V — to cultivate, to raise, to form (a habit)
@@ -1213,7 +1213,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 优美 — yōuměi — Adj — graceful, fine, elegant
 - 优秀 / 優秀 — yōuxiù — Adj — outstanding, excellent
 - 邮局 — yóujú — N — post office, CL:家[jia1],個|个[ge4]
-- 有劲儿 / 有勁兒 — yǒujìnr — [gloss needed]
+- 有劲儿 / 有勁兒 — yǒujìnr — energetic, vigorous; interesting, fun
 - 有趣 — yǒuqù — Adj — interesting; fascinating; amusing
 - 有限 — yǒuxiàn — Adj — limited; finite
 - 幼儿园 — yòu'éryuán — N — kindergarten, nursery school

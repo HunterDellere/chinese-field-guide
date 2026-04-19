@@ -1,0 +1,466 @@
+---
+type: 'topic'
+category: 'religion'
+status: 'complete'
+title: '萨满教 · Shamanism'
+desc: 'Manchu, Mongol, and northern indigenous shamanic traditions.'
+metaDesc: "萨满教 sàmǎn jiào: Shamanism — the indigenous spiritual tradition of the Manchu, Mongol, Evenki, and Oroqen peoples of northern China and Inner Asia. The shaman's role, three-world cosmology, ritual costume, Manchu state shamanism, and contemporary revival."
+pageTitle: '萨满教 sàmǎn jiào'
+tags:
+  - 'shamanism'
+  - 'manchu'
+  - 'indigenous'
+updated: '2026-04-18'
+pinyin: 'sàmǎn jiào'
+---
+
+<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+
+    <span class="toc-topic">萨满教</span>
+    <span class="toc-topic-en">Shamanism</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#overview">
+        <span class="toc-cn">概论</span> Overview
+        <span class="toc-sub">the word "shaman" itself</span>
+      </a></li>
+      <li><a href="#role">
+        <span class="toc-cn">萨满的角色</span> The Shaman's Role
+        <span class="toc-sub">healer · diviner · guide</span>
+      </a></li>
+      <li><a href="#cosmology">
+        <span class="toc-cn">三界宇宙观</span> Three-World Cosmology
+        <span class="toc-sub">sānjiè · the axis mundi</span>
+      </a></li>
+      <li><a href="#ritual">
+        <span class="toc-cn">萨满仪式</span> Ritual Practice
+        <span class="toc-sub">drum · costume · trance</span>
+      </a></li>
+      <li><a href="#manchu">
+        <span class="toc-cn">满族萨满</span> Manchu Shamanism
+        <span class="toc-sub">Qing dynasty state ritual</span>
+      </a></li>
+      <li><a href="#today">
+        <span class="toc-cn">当代萨满教</span> Today
+        <span class="toc-sub">revival · heritage · debate</span>
+      </a></li>
+      <li><a href="#phrases">
+        <span class="toc-cn">相关词语</span> Key Phrases
+        <span class="toc-sub">xiāngguān cíyǔ</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- HERO -->
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">Religion · 宗教 zōngjiào</span>
+      <h1 class="topic-hero-title">萨满教</h1>
+      <span class="topic-hero-title-py">sàmǎn jiào</span>
+      <p class="topic-hero-desc">The indigenous spiritual tradition of the Manchu, Mongols, Evenki, Oroqen, and the peoples of the northern forest and steppe — a tradition so ancient and so widely distributed that the word "shaman" itself, now used by every world language, comes from their vocabulary.</p>
+    </header>
+
+    <!-- ── OVERVIEW ── -->
+    <span class="section-anchor" id="overview"></span>
+    <div class="section-head">
+      <span class="sh-cn">概论</span>
+      <span class="sh-py">gàilùn</span>
+      <span class="sh-en">Overview — A Word That Circled the World</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="萨">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · The Word "Shaman"</div>
+      <p>The English word "shaman" — and by extension the world's languages' term for this type of spiritual practitioner — comes from the <strong>Tungusic</strong> (通古斯语族 Tōnggǔsī yǔzú) family of languages spoken by the Manchu, Evenki, Oroqen, and related peoples of Manchuria and Siberia. The Evenki word <em>šaman</em> (written 萨满 sàmǎn in Chinese) was recorded by Russian explorers in Siberia in the 17th century and entered European languages through their accounts. By the 19th century, "shaman" had become the universal academic term for a specific cross-cultural type of religious specialist.</p>
+      <p>This linguistic fact is significant: it means that the shamanic tradition of Inner Asia and northern China is not merely one regional variant of a broader phenomenon, but its defining and prototypical case — the tradition from which the entire concept was named and theorized. The peoples of northern China and Siberia gave the world its vocabulary for this mode of spiritual experience.</p>
+      <p>萨满教 (Sàmǎnjiào — lit. "shaman-teaching/religion") is not a unified religion in the institutional sense. It has no founder, no scripture, no creed, and no central organization. It is an orientation toward the spirit world — a set of cosmological beliefs, ritual techniques, and specialist roles that vary significantly across cultures while sharing recognizable family resemblances. The Romanian historian of religion Mircea Eliade (米尔恰·伊利亚德), in his foundational 1951 work <em>Shamanism: Archaic Techniques of Ecstasy</em>, defined the shaman's essential trait as the mastery of <strong>ecstatic trance</strong> — the ability to deliberately enter altered states of consciousness to travel in the spirit world.</p>
+    </div>
+
+    <!-- ── THE SHAMAN'S ROLE ── -->
+    <span class="section-anchor" id="role"></span>
+    <div class="section-head">
+      <span class="sh-cn">萨满的角色</span>
+      <span class="sh-py">sàmǎn de juésè</span>
+      <span class="sh-en">The Shaman's Role — Mediator Between Worlds</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="巫">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · Not a Priest — a Person of Power</div>
+      <p>The crucial distinction between a shaman (萨满 sàmǎn) and a priest (祭司 jìsī) lies in the source of authority. A priest derives authority from institutional hierarchy — ordination, lineage, scripture, position. A shaman derives authority from <strong>direct personal contact with the spirit world</strong> — from the spirits themselves, who chose this individual, who confirmed their power through healing that worked, who returned from spirit-journeys with knowledge that proved accurate.</p>
+      <p>In Tungusic tradition, a person does not choose to become a shaman. They are called — typically through an illness (萨满病 sàmǎn bìng — "shaman sickness") that resists ordinary treatment and is interpreted as the spirits claiming the candidate. Refusal risks death. Acceptance means a period of intense training under an elder shaman, learning the cosmology, the spirit-paths, the drum rhythms, the songs, and the costume's symbolism. Only then can the novice perform ceremonies for others.</p>
+      <p>The shaman serves the community as the specialist who can act in the spirit world — a world that, in this cosmology, is entirely real and causally efficacious. Illness has spirit causes; drought has spirit causes; a failed hunt has spirit causes. The shaman can investigate these causes, negotiate with or battle the relevant spirits, and retrieve what was taken (a captured soul, for instance). This is not metaphor or symbolism — it is the literal understanding of causation in this worldview.</p>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">治病</span>
+          <span class="card-py">zhìbìng</span>
+          <span class="card-en">healing — the shaman's primary function</span>
+        </div>
+        <div class="card-def">
+          The most common reason a community calls a shaman is illness. In shamanic cosmology, sickness typically results from one of three spirit-world causes: soul loss (魂魄丢失 húnpò diūshī — the soul has been captured by a spirit or wandered away in fright), spirit intrusion (邪灵侵入 xiélíng qīnrù — a harmful spirit has entered the patient's body), or ancestral displeasure (祖先不满 zǔxiān bùmǎn — an ancestor's ritual needs have been neglected). The shaman diagnoses the cause through trance-journey or divination, then acts on it: retrieving the soul, expelling the intruder, or performing the required ancestral ritual.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">在传统观念中，萨满通过与神灵沟通，找到疾病的灵性根源，为病人治疗。</div>
+            <div class="ex-py">Zài chuántǒng guānniàn zhōng, sàmǎn tōngguò yǔ shénlíng gōutōng, zhǎodào jíbìng de língxìng gēnyuán, wèi bìngrén zhìliáo.</div>
+            <div class="ex-en">In traditional belief, the shaman communicates with spirits to find the spiritual root of illness and heal the patient.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">送魂</span>
+          <span class="card-py">sòng hún</span>
+          <span class="card-en">soul guiding — escorting the dead to the afterlife</span>
+        </div>
+        <div class="card-def">
+          送魂 (guiding the soul — lit. "sending the soul") is the funerary function of the shaman: after death, the soul of the deceased may be disoriented, confused about its condition, or unable to find the path to the spirit world. The shaman, in trance, accompanies the soul — singing the path, describing the spirit geography the soul must traverse, guiding it past dangerous spirits and through the gates of the underworld. Without this guidance, the soul may linger and cause harm to the living. This function explains why shamans were essential at deaths as well as illnesses.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">族人去世后，萨满为其举行送魂仪式，引导亡魂前往祖先之地。</div>
+            <div class="ex-py">Zúrén qùshì hòu, sàmǎn wèi qí jǔxíng sòng hún yíshì, yǐndǎo wánghún qiánwǎng zǔxiān zhī dì.</div>
+            <div class="ex-en">After a clan member's death, the shaman performs the soul-guiding ceremony, leading the departed soul to the land of the ancestors.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">占卜</span>
+          <span class="card-py">zhānbǔ</span>
+          <span class="card-en">divination — reading the signs between worlds</span>
+        </div>
+        <div class="card-def">
+          Divination (占卜 zhānbǔ) is a core shamanic function: reading the state of the spirit world through material signs — the cracks in a burnt shoulder blade (肩胛骨占卜 jiānjǐgǔ zhānbǔ, scapulimancy — also the origin of Shang dynasty oracle bones), the flight of birds, the behavior of flames, the patterns in water or smoke. For the Manchu, the burning of a sheep's shoulder blade and reading its crack patterns was a standard pre-battle and pre-hunt divination practice. The oracle bone script of the Shang dynasty — China's oldest writing — likely reflects a shamanistic ritual context.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">猎人出发前，萨满通过焚烧肩胛骨的裂纹来预测猎物的方向和猎运吉凶。</div>
+            <div class="ex-py">Lièrén chūfā qián, sàmǎn tōngguò fénshāo jiānjǐgǔ de lièwén lái yùcè lièwù de fāngxiàng hé lièyùn jíxiōng.</div>
+            <div class="ex-en">Before hunters departed, the shaman burnt a shoulder blade and read its cracks to predict the direction of game and the fortune of the hunt.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">求雨</span>
+          <span class="card-py">qiú yǔ</span>
+          <span class="card-en">rain calling — interceding with sky spirits</span>
+        </div>
+        <div class="card-def">
+          Rain-calling (求雨 qiú yǔ) bridges shamanic and folk-religion traditions: the shaman performs extended trance-dancing, drumming, and offering to the spirits of rain and sky (天神 tiānshén), petitioning them to release precipitation. Similar rain-calling ceremonies exist across Inner Asian cultures — Mongolian, Evenki, Oroqen — and in Chinese folk religion, where dragons (龙 lóng) are the rain-controlling spirits and dragon kings (龙王 Lóngwáng) are petitioned. The convergence suggests deep prehistoric links between Inner Asian shamanism and early Chinese religion.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">久旱不雨时，鄂温克族萨满会举行求雨仪式，与天界神灵沟通。</div>
+            <div class="ex-py">Jiǔ hàn bù yǔ shí, Èwēnkè zú sàmǎn huì jǔxíng qiú yǔ yíshì, yǔ tiānjiè shénlíng gōutōng.</div>
+            <div class="ex-en">During prolonged drought, Evenki shamans perform rain-calling ceremonies, communicating with the spirits of the sky realm.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-sienna">
+        <div class="card-head">
+          <span class="card-cn">战争前的仪式</span>
+          <span class="card-py">zhànzhēng qián de yíshì</span>
+          <span class="card-en">pre-battle ritual — the shaman as military consultant</span>
+        </div>
+        <div class="card-def">
+          Before major military campaigns, Tungusic and Mongolian rulers consulted their shamans — divining the auspiciousness of the timing, the direction of attack, and the likely outcome. Genghis Khan's shaman Kököchü (Teb Tengri) wielded enormous political power, claiming to receive direct mandates from the Eternal Blue Sky (蒙古族的长生天 Cháng Shēng Tiān). Manchu banners maintained shamans who performed spirit-battle ceremonies before campaigns, and the great Qing conquest of China in 1644 was preceded and accompanied by shamanistic ritual. The shaman's spirit-intelligence was the commanding general's intelligence service in a cosmos where the outcome of battles was decided in the spirit world before the first arrow was shot.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">满洲军队出征前，萨满举行仪式，向祖先神灵祈求胜利，占卜战局。</div>
+            <div class="ex-py">Mǎnzhōu jūnduì chūzhēng qián, sàmǎn jǔxíng yíshì, xiàng zǔxiān shénlíng qíqiú shènglì, zhānbǔ zhànjú.</div>
+            <div class="ex-en">Before Manchu armies set out on campaign, the shaman performed ceremonies, praying to ancestral spirits for victory and divining the battle's outcome.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards role -->
+
+    <!-- ── THREE-WORLD COSMOLOGY ── -->
+    <span class="section-anchor" id="cosmology"></span>
+    <div class="section-head">
+      <span class="sh-cn">三界宇宙观</span>
+      <span class="sh-py">sānjiè yǔzhòuguān</span>
+      <span class="sh-en">The Three-World Cosmology</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="界">
+      <div class="scholar-label">宇宙观 yǔzhòuguān · The Structure of Shamanic Reality</div>
+      <p>Shamanic cosmology across Inner Asia and Siberia shares a characteristic three-tiered structure, connected by a central axis — typically conceived as a <strong>World Tree</strong> (宇宙树 yǔzhòu shù, also 世界树 shìjiè shù) or World Mountain, whose roots penetrate the underworld, whose trunk occupies the middle world of humans, and whose crown reaches the sky realm. The shaman, through mastery of trance and spirit-flight, is the being who can traverse all three levels — the universe's only mobile operator.</p>
+    </div>
+
+    <div class="pattern">
+      <span class="label">三界结构 The Three-Tier Structure of Shamanic Cosmology</span>
+      <strong>上界 Shàngjiè — Upper World</strong> · 天界 tiānjiè · Sky spirits, creator deities, sun and moon spirits, bird spirits · The realm of celestial power and origin · Shaman ascends via the World Tree or spirit-flight as bird<br><br>
+      <strong>中界 Zhōngjiè — Middle World</strong> · 人界 rénjiè · The human world, earthly nature spirits, spirits of rivers, mountains, forests, and animals · Where shamanic ceremony takes place<br><br>
+      <strong>下界 Xiàjiè — Lower World</strong> · 地界 dìjiè · The underworld · Ancestors, spirits of the dead, darker spirit powers · Shaman descends through water, cave, or root of the World Tree
+    </div>
+
+    <div class="scholar" data-glyph="树">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · The World Tree and the Shaman's Costume</div>
+      <p>The <strong>宇宙树 yǔzhòu shù</strong> (World Tree, Cosmic Tree) is the physical axis connecting the three realms — the shaman's road between worlds. In Tungusic tradition, it is often a specific tree species: the birch (白桦树 báihuà shù) among Evenki and Oroqen shamans, whose branches reach the sky and whose roots reach the underworld. Sacred birch groves are ritual spaces. The shaman's drum is ideally made from wood of this tree — making the drum itself a portable World Tree, a vehicle of cosmological travel.</p>
+      <p>Mircea Eliade, surveying shamanic traditions from Siberia to the Americas, argued that the three-world structure and the World Tree are near-universal features of shamanic cosmology — evidence of a common archaic human religious orientation predating the historical religions. This view has been both influential and contested in subsequent scholarship: some researchers see the structural similarities as evidence of common origin (possibly in Upper Paleolithic Siberia); others argue for independent convergent development driven by similar ecological and cognitive conditions.</p>
+      <p>The World Tree finds an echo in Chinese cosmological thought: the 建木 jiànmù (Connecting Wood) described in the Classic of Mountains and Seas (山海经 Shānhǎijīng) — a cosmic tree at the center of the world through which divine and human worlds communicate. The concept of 天人合一 (heaven-human unity) in Chinese philosophy may trace part of its ancestry to this shared Inner Asian shamanic cosmology, though the Confucian and Daoist traditions elaborated it in quite different directions.</p>
+    </div>
+
+    <!-- ── RITUAL PRACTICE ── -->
+    <span class="section-anchor" id="ritual"></span>
+    <div class="section-head">
+      <span class="sh-cn">萨满仪式</span>
+      <span class="sh-py">sàmǎn yíshì</span>
+      <span class="sh-en">Ritual Practice — Drum, Costume, and Trance</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">神鼓</span>
+          <span class="card-py">shén gǔ</span>
+          <span class="card-en">the shaman's drum — vehicle of the spirit-journey</span>
+        </div>
+        <div class="card-def">
+          The shaman's drum (神鼓 shén gǔ or 萨满鼓 sàmǎn gǔ) is the most essential ritual implement — sometimes called the shaman's horse (萨满的马), for it is the vehicle on which the shaman rides to the spirit world. It is typically a single-headed frame drum, one to two feet in diameter, with the frame made from a sacred wood and the drumhead from the skin of a deer, bear, or elk — animals with strong spirit associations. Symbols of the three worlds, spirit helpers, and the World Tree are often painted or incised on the drumhead. The rhythmic beating of the drum drives the shaman into trance.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">萨满击打神鼓，随着节奏加快逐渐进入迷幻状态，与神灵接触。</div>
+            <div class="ex-py">Sàmǎn jīdǎ shén gǔ, suízhe jiézòu jiākuài zhújiàn jìnrù míhuàn zhuàngtài, yǔ shénlíng jiēchù.</div>
+            <div class="ex-en">The shaman beats the spirit drum, and as the rhythm quickens gradually enters a trance state, making contact with the spirits.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">学者洞见 xuézhě dòngjiàn</span>
+          Neurological research has documented that repetitive drumming at specific frequencies (around 4–7 Hz, theta-wave range) reliably induces altered states of consciousness in human subjects. The cross-cultural convergence on drumming as the trance-induction method is likely grounded in this universal neurology — a finding that neither confirms nor denies shamanic cosmology but explains the near-universality of the drum as shamanic instrument.
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">神服</span>
+          <span class="card-py">shén fú</span>
+          <span class="card-en">the spirit costume — the shaman's armor and identity</span>
+        </div>
+        <div class="card-def">
+          The spirit costume (神服 shén fú or 萨满服 sàmǎnfú) is a complex ritual garment encoding the shaman's entire cosmological universe. Typical elements: <strong>铜镜</strong> tóng jìng (bronze mirrors on the chest and back — protective armor against harmful spirits, and surfaces in which spirits can be seen), <strong>铃铛</strong> língdang (bells and rattles that announce the shaman's presence and frighten harmful spirits), <strong>羽毛</strong> yǔmáo (feathers — enabling bird-spirit flight), <strong>骨饰</strong> gǔshì (animal bone ornaments representing spirit helpers), and <strong>飘带</strong> piāodài (streaming fabric strips representing spirits in motion). The full costume can weigh 20–30 kilograms; wearing it is itself a physical ordeal demonstrating the shaman's power.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">萨满的神服上挂满铜镜、铃铛和羽毛，每件饰物都有特定的灵性含义。</div>
+            <div class="ex-py">Sàmǎn de shénfú shàng guàmǎn tóngjìng, língdang hé yǔmáo, měi jiàn shìwù dōu yǒu tèdìng de língxìng hányì.</div>
+            <div class="ex-en">The shaman's spirit costume is hung with bronze mirrors, bells, and feathers — every ornament has a specific spiritual meaning.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">附体</span>
+          <span class="card-py">fùtǐ</span>
+          <span class="card-en">spirit possession — the spirit descending into the shaman</span>
+        </div>
+        <div class="card-def">
+          附体 (spirit possession — lit. "spirit attaches to body") is one of two modes of shamanic trance in Tungusic tradition. In the other mode (魂游 húnyóu — soul-flight), the shaman's own soul leaves the body and travels to the spirit world while the body remains passive. In 附体, the spirits descend into the shaman's body while the shaman's own consciousness recedes. The possessed shaman speaks in the voice of the spirit, may behave in uncharacteristically powerful or strange ways, and may convey information, diagnosis, or demands that the spirit brings. Both modes are considered legitimate means of spirit communication.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">仪式中，萨满突然颤抖，随后以完全不同的声音说话——众人知道神灵附体了。</div>
+            <div class="ex-py">Yíshì zhōng, sàmǎn tūrán chàndǒu, suíhòu yǐ wánquán bùtóng de shēngyīn shuōhuà — zhòngrén zhīdào shénlíng fùtǐ le.</div>
+            <div class="ex-en">During the ceremony, the shaman suddenly trembled, then spoke in a completely different voice — everyone knew a spirit had taken possession.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">萨满舞</span>
+          <span class="card-py">sàmǎn wǔ</span>
+          <span class="card-en">shamanic dance — the body as ritual instrument</span>
+        </div>
+        <div class="card-def">
+          Shamanic dance (萨满舞 sàmǎn wǔ) is the physical form of the spirit-journey: the rhythmic movement of the body — spinning, jumping, mimicking animal spirits (bear-stomp, eagle-wing, snake-writhe) — accompanies and intensifies the drum-driven trance. The dance simultaneously performs the spirit-world journey for the community's witness and propels the shaman deeper into the altered state. Evenki and Oroqen shamanic dance traditions are among the most documented in ethnomusicology; recordings were made in the early Soviet era and by Chinese ethnographers from the 1950s onward, preserving practices that have since become rare.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">萨满随着鼓声起舞，模仿各种神灵的动作，逐渐进入神灵附体状态。</div>
+            <div class="ex-py">Sàmǎn suízhe gǔshēng qǐ wǔ, mófǎng gèzhǒng shénlíng de dòngzuò, zhújiàn jìnrù shénlíng fùtǐ zhuàngtài.</div>
+            <div class="ex-en">The shaman dances to the drum, imitating the movements of various spirits, gradually entering a state of spirit possession.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards ritual -->
+
+    <!-- ── MANCHU SHAMANISM ── -->
+    <span class="section-anchor" id="manchu"></span>
+    <div class="section-head">
+      <span class="sh-cn">满族萨满教</span>
+      <span class="sh-py">Mǎnzú sàmǎnjiào</span>
+      <span class="sh-en">Manchu Shamanism — State Religion of the Qing Dynasty</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="满">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · The Qing Empire's Shamanistic Core</div>
+      <p>The Manchu (满族 Mǎnzú) founders of the Qing dynasty (1644–1912) were shamanistic in their original religion — and they brought that tradition with them to Beijing when they conquered China. The result was one of the most extraordinary cases of a state simultaneously maintaining multiple, very different religious identities: the Qing emperors were</p>
+      <p>Shamanistic practitioners performing clan rituals for their Tungusic ancestors; Buddhist sovereigns patronizing Tibetan Buddhism as the religion of their Mongolian and Tibetan subjects; and Confucian ritual specialists performing the classical sacrifices that legitimized them as successors of Chinese civilization's imperial tradition.</p>
+      <p>The focal institution of Qing state shamanism was the <strong>堂子 Tángzi</strong> — a ritual enclosure located just outside the Forbidden City's southeastern gate (今长安左门 east of today's Tian'anmen). Here, on the first day of each year and before major military campaigns, the Qing emperor performed shamanic rituals: making offerings to the spirit pole (神杆 shéngǎn — a tall wooden pole on which animal offerings were hung for sky spirits), prostrating before the clan's shamanic altar, and enacting ceremonies that had no Buddhist or Confucian counterpart. The 堂子 was forbidden to Han Chinese and even to most Manchu bannermen — it was the exclusive inner sanctum of the ruling house's ancestral shamanism.</p>
+      <p>After the Qing fell in 1912, the 堂子 was demolished and its rituals abandoned. The last generation of fully initiated imperial shamans died in the early 20th century. What survives is documented in the Manchu-language 满洲祭神祭天典礼 (Manchu Ritual of Offering to Spirits and Heaven), compiled under the Qianlong Emperor — the fullest written record of any state shamanic ritual tradition.</p>
+    </div>
+
+    <div class="pattern">
+      <span class="label">清代宫廷萨满仪式 Qing Court Shamanic Ceremonies</span>
+      <strong>堂子祭祀</strong> Tángzi jìsì — Annual new year ritual at the Tangzi enclosure outside the Forbidden City · Offerings to sky spirits on the spirit pole (神杆) · <strong>坤宁宫祭祀</strong> Kūnníng Gōng jìsì — Daily shamanic offerings inside the Forbidden City's Palace of Earthly Tranquility (坤宁宫 — the empress's palace repurposed as the inner clan shamanic sanctuary) · <strong>出征前祭祀</strong> chūzhēng qián jìsì — Pre-campaign shamanic ritual seeking ancestral blessing · <strong>朔望祭祀</strong> shuò wàng jìsì — First and fifteenth day of the lunar month offerings
+    </div>
+
+    <!-- ── SHAMANISM TODAY ── -->
+    <span class="section-anchor" id="today"></span>
+    <div class="section-head">
+      <span class="sh-cn">当代萨满教</span>
+      <span class="sh-py">dāngdài sàmǎnjiào</span>
+      <span class="sh-en">Shamanism Today — Revival, Heritage, and Debate</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="传">
+      <div class="scholar-label">当代视角 dāngdài shìjiǎo · From Suppression to Revival</div>
+      <p>20th-century Chinese shamanism endured a century of suppression under successive modernizing regimes. The Republican era (1912–1949) promoted science and attacked "superstition"; the PRC classified shamanism as feudal backwardness; and the Cultural Revolution's destruction of religious practice hit the small indigenous communities of the northeast especially hard, destroying sacred objects, prohibiting ceremonies, and persecuting practitioners.</p>
+      <p>Since the 1980s there has been a measured revival, driven by two overlapping forces. First, Chinese ethnographers and folklorists — operating under government-sanctioned programs to document China's intangible cultural heritage (非物质文化遗产 fēi wùzhì wénhuà yíchǎn) — have recorded and archived shamanic knowledge from elderly practitioners among the <strong>鄂伦春族 Èlúnchūn zú</strong> (Oroqen), <strong>鄂温克族 Èwēnkè zú</strong> (Evenki), and <strong>达斡尔族 Dáwò'ěr zú</strong> (Daur) — the small northeastern peoples whose shamanic traditions are the most fully Tungusic. Second, younger members of these communities have begun active revival efforts, re-learning ceremonies from elders and re-establishing shamanic roles in community life.</p>
+      <p>In academic study, shamanism has had a fascinating history in the Western world. Eliade's 1951 <em>Shamanism: Archaic Techniques of Ecstasy</em> made it a central concept of the history of religions. From the 1970s onward, <strong>New Age</strong> movements appropriated shamanic practices — particularly the drum-journey technique — from their cultural contexts, creating what critics call "neo-shamanism" or "plastic shamanism": cultural borrowing stripped of the specific cosmological and social contexts that give traditional shamanism its meaning. This appropriation has been a source of tension: Indigenous communities in both Siberia and North America have objected to the commercialization of their sacred practices by outsiders who purchase weekend workshop "shamanic journeys."</p>
+      <p>Within China, the question of shamanism's relationship to broader Chinese civilization is also debated. Some scholars (notably those working on 巫 wū — the ancient Chinese shaman-figure of the oracle bone period) argue for a direct link between Inner Asian shamanism and the earliest layers of Chinese religious culture, suggesting that shamanic practices underlie what would later be rationalized as Daoist cultivation techniques and Confucian ritual. The oracle bones — the Shang dynasty's divinatory script — may represent a shamanistic institution that was later domesticated by the Confucian tradition into a more decorous form.</p>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">鄂伦春族</span>
+          <span class="card-py">Èlúnchūn zú</span>
+          <span class="card-en">the Oroqen — northern China's forest hunters</span>
+        </div>
+        <div class="card-def">
+          The Oroqen (鄂伦春族 Èlúnchūn zú — from Tungusic words meaning "people who use reindeer" or "people on the mountain ridge") are among the smallest ethnic groups in China, with a population of approximately 9,000, concentrated in Inner Mongolia and Heilongjiang province. Traditionally reindeer herders and hunters in the Greater Khingan mountain forests (大兴安岭 Dà Xīng'ānlǐng), the Oroqen maintained one of the most fully intact shamanic traditions in China into the 20th century. Their birch-bark culture — clothing, housing (仙人柱 xiānrénjù — the conical birch-bark tent), canoes, and ritual objects all made from birch — represents a material culture adapted over millennia to the boreal forest.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">鄂伦春族是黑龙江流域的传统狩猎民族，萨满信仰是其文化的核心。</div>
+            <div class="ex-py">Èlúnchūn zú shì Hēilóngjiāng liúyù de chuántǒng shòuliè mínzú, sàmǎn xìnyǎng shì qí wénhuà de héxīn.</div>
+            <div class="ex-en">The Oroqen are the traditional hunting people of the Heilongjiang basin — shamanic belief is the core of their culture.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">鄂温克族</span>
+          <span class="card-py">Èwēnkè zú</span>
+          <span class="card-en">the Evenki — reindeer herders of the forest steppe</span>
+        </div>
+        <div class="card-def">
+          The Evenki (鄂温克族 Èwēnkè zú — "people who live on mountains covered with forests") are the most widely distributed Tungusic people, with populations in China (approximately 30,000, concentrated in Inner Mongolia and Heilongjiang), Russia, and Mongolia. The Evenki gave the world the word "shaman." In China, the Evenki of the Aoluguya area near Genhe, Inner Mongolia — the 敖鲁古雅鄂温克人 — are particularly known for their reindeer herding tradition (驯鹿 xùnlù) and their relatively intact shamanic practice. The last practicing elder shaman of this group, Maria Suo (玛利亚·索), died in 2022 at age 101, widely mourned as the loss of a living heritage.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">鄂温克族是萨满一词的来源民族，其驯鹿文化和萨满传统至今仍有传承。</div>
+            <div class="ex-py">Èwēnkè zú shì "sàmǎn" yī cí de láiyuán mínzú, qí xùnlù wénhuà hé sàmǎn chuántǒng zhìjīn réng yǒu chuánchéng.</div>
+            <div class="ex-en">The Evenki are the origin people of the word "saman/shaman" — their reindeer culture and shamanic tradition continue to be passed down today.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards today -->
+
+    <!-- ── KEY PHRASES ── -->
+    <span class="section-anchor" id="phrases"></span>
+    <div class="section-head">
+      <span class="sh-cn">相关词语与成语</span>
+      <span class="sh-py">xiāngguān cíyǔ yǔ chéngyǔ</span>
+      <span class="sh-en">Key Phrases and Idioms</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="chengyu-grid">
+
+      <div class="cy">
+        <span class="cy-cn">人神相通</span>
+        <span class="cy-py">rén shén xiāngtōng</span>
+        <span class="cy-en">humans and spirits communing — the fundamental premise of shamanism</span>
+        <span class="cy-note">Lit: human-spirit-mutually-communicate. The cosmological axiom that makes shamanism possible: the boundary between the human world and the spirit world is permeable, and certain human specialists can cross it. The verb 通 tōng (to connect, to permeate, to be unobstructed) captures the shamanic ideal: a channel kept open between realms. The concept resonates with Daoist ideas of 天人感应 (heaven-human resonance) and with the general folk-religion premise that humans and deities are in constant communication through prayer and ritual.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">驱鬼辟邪</span>
+        <span class="cy-py">qū guǐ bì xié</span>
+        <span class="cy-en">driving out ghosts and warding off evil — the exorcistic function</span>
+        <span class="cy-note">Lit: drive-ghost-ward-evil. Captures the apotropaic (protective, evil-averting) function that shamanism shares with folk religion broadly. The shaman's exorcism techniques — drumming, dancing, invoking spirit helpers to battle harmful spirits — are among the most dramatic and widely witnessed of all shamanic performances. The term 辟邪 bì xié (ward off evil) appears across Chinese culture: 辟邪器 (protective charms), red color, firecrackers, and door gods all serve the same function as the shaman's drum — clearing space of malevolent spirit presences.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">天人合一</span>
+        <span class="cy-py">tiān rén hé yī</span>
+        <span class="cy-en">heaven and humanity as one unity — the cosmological ideal</span>
+        <span class="cy-note">The great philosophical concept shared by Daoism, Neo-Confucianism, and Chinese cosmology broadly — that humans are not separate from the natural and cosmic order but continuous with it. In shamanic cosmology, 天人合一 is not a philosophical aspiration but a literal operational reality: the shaman IS the point of connection between heaven (天) and humanity (人), the living embodiment of cosmic unity. This suggests that the Neo-Confucian philosophical ideal may have deeper shamanic roots in the indigenous cosmologies of prehistoric northern China.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">通灵</span>
+        <span class="cy-py">tōnglíng</span>
+        <span class="cy-en">spirit communication — the shamanic gift</span>
+        <span class="cy-note">通 tōng (to connect, to pass through) + 灵 líng (spirit; efficacious; miraculous). The ability to communicate with spirits — the defining capacity of a shaman. In contemporary Chinese, 通灵 also appears in discussions of psychic ability, mediumship, and supernatural sensitivity more broadly. A person described as 通灵的 has a special connection to the spirit world. The word appears in both serious ethnographic literature on shamanism and in commercial "psychic reading" advertisements — a range that reflects its cultural migration from indigenous ritual context to popular spiritual marketplace.</span>
+      </div>
+
+    </div>
+
+    <!-- ADJACENT VOCAB -->
+    <div class="section-head" style="margin-top:2.5rem;">
+      <span class="sh-cn">相关词汇</span>
+      <span class="sh-py">xiāngguān cíhuì</span>
+      <span class="sh-en">Related Vocabulary</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">巫师</span><span class="a-py">wūshī</span><span class="a-en">sorcerer; shaman-figure (ancient Chinese)</span></span>
+      <span class="adj"><span class="a-cn">灵魂</span><span class="a-py">línghún</span><span class="a-en">soul; spirit</span></span>
+      <span class="adj"><span class="a-cn">附身</span><span class="a-py">fùshēn</span><span class="a-en">possession; spirit entering body</span></span>
+      <span class="adj"><span class="a-cn">出神</span><span class="a-py">chūshén</span><span class="a-en">to enter trance; to be rapt</span></span>
+      <span class="adj"><span class="a-cn">驱魔</span><span class="a-py">qūmó</span><span class="a-en">exorcism</span></span>
+      <span class="adj"><span class="a-cn">神灵</span><span class="a-py">shénlíng</span><span class="a-en">spirit; divine being</span></span>
+      <span class="adj"><span class="a-cn">图腾</span><span class="a-py">túténg</span><span class="a-en">totem</span></span>
+      <span class="adj"><span class="a-cn">祭天</span><span class="a-py">jì tiān</span><span class="a-en">offering to Heaven</span></span>
+      <span class="adj"><span class="a-cn">非遗</span><span class="a-py">fēiyí</span><span class="a-en">intangible cultural heritage (abbrev.)</span></span>
+      <span class="adj"><span class="a-cn">驯鹿</span><span class="a-py">xùnlù</span><span class="a-en">reindeer</span></span>
+      <span class="adj"><span class="a-cn">大兴安岭</span><span class="a-py">Dà Xīng'ānlǐng</span><span class="a-en">Greater Khingan Mountains</span></span>
+      <span class="adj"><span class="a-cn">迷幻状态</span><span class="a-py">míhuàn zhuàngtài</span><span class="a-en">trance state</span></span>
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="page-footer">
+      <span class="footer-id">Field Notes on Chinese · <span>萨满教 sàmǎn jiào</span> · topic_saman.html</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>

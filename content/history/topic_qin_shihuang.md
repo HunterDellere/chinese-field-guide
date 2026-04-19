@@ -1,0 +1,274 @@
+---
+type: 'topic'
+category: 'history'
+status: 'complete'
+title: '秦始皇 · The First Emperor'
+desc: 'Unification, standardization, and the terror that made China.'
+metaDesc: "秦始皇 Qín Shǐhuáng: Ying Zheng's unification of China in 221 BCE — standardization, the Great Wall, the Terracotta Army, burning books, and an obsession with immortality that consumed the empire."
+pageTitle: '秦始皇 · The First Emperor'
+tags:
+  - 'qin'
+  - 'unification'
+  - 'first-emperor'
+updated: '2026-04-18'
+pinyin: 'qín shǐhuáng'
+---
+
+<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+    <span class="toc-topic">秦始皇</span>
+    <span class="toc-topic-en">The First Emperor</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#unification">
+        <span class="toc-cn">统一六国</span>
+        <span class="toc-sub">Unification of the Six States</span>
+      </a></li>
+      <li><a href="#standardization">
+        <span class="toc-cn">标准化</span>
+        <span class="toc-sub">Standardization</span>
+      </a></li>
+      <li><a href="#greatwall">
+        <span class="toc-cn">万里长城</span>
+        <span class="toc-sub">The Great Wall</span>
+      </a></li>
+      <li><a href="#terracotta">
+        <span class="toc-cn">兵马俑</span>
+        <span class="toc-sub">Terracotta Army</span>
+      </a></li>
+      <li><a href="#books">
+        <span class="toc-cn">焚书坑儒</span>
+        <span class="toc-sub">Burning Books, Burying Scholars</span>
+      </a></li>
+      <li><a href="#immortality">
+        <span class="toc-cn">寻仙与死亡</span>
+        <span class="toc-sub">Immortality and Death</span>
+      </a></li>
+      <li><a href="#chengyu">
+        <span class="toc-cn">成语</span>
+        <span class="toc-sub">Key Phrases &amp; Idioms</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- HERO -->
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">History · 历史 lìshǐ</span>
+      <h1 class="topic-hero-title">秦始皇</h1>
+      <span class="topic-hero-title-py">qín shǐhuáng</span>
+      <p class="topic-hero-desc">The man who ended four centuries of warfare by conquering all six rival states and creating, in just fourteen years, a unified Chinese empire whose administrative logic endures to this day — at the cost of monuments built on mass suffering and a state that collapsed the moment he died.</p>
+    </header>
+
+    <!-- ── UNIFICATION ── -->
+    <span class="section-anchor" id="unification"></span>
+    <div class="section-head">
+      <span class="sh-cn">统一六国</span>
+      <span class="sh-py">Tǒngyī Liù Guó</span>
+      <span class="sh-en">Unification of the Six States</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="秦">
+      <div class="scholar-label">历史洞见 lìshǐ dòngjiàn · Historical Insight</div>
+      <p><strong>嬴政 Yíng Zhèng</strong> (259–210 BCE) became king of the state of Qin at age thirteen, in 246 BCE. He inherited a Qin already transformed — over the previous century — by the Legalist reforms of <strong>商鞅 Shāng Yāng</strong> into the most administratively efficient and militarily formidable state in the Warring States world. Qin's soldiers fought for rank earned by enemy heads taken in battle; its bureaucracy ran on written law rather than aristocratic patronage; its agriculture and military were coordinated by the state with ruthless precision.</p>
+      <p>Between 230 and 221 BCE, Yíng Zhèng and his generals — above all <strong>王翦 Wáng Jiān</strong> — eliminated the six remaining states in rapid succession: Hán (230), Zhào (228), Wèi (225), Chǔ (223), Yān (222), Qí (221). The campaigns were followed by the systematic dismantling of each defeated state's ruling structures, the incorporation of their territories into a centralized prefecture system, and the forced relocation of aristocratic families to the capital region to prevent the re-emergence of local power bases.</p>
+      <p>In 221 BCE, Yíng Zhèng took a new title: <strong>秦始皇帝 Qín Shǐhuángdì</strong> — "First August Emperor of Qin." The title was invented for the occasion. 皇 huáng (august; radiant) was drawn from the mythological sage-emperors of antiquity; 帝 dì (emperor; on-high deity) was the supreme Shang divine title. Together they surpassed anything a Zhou king had claimed. The modifier 始 shǐ (first; beginning) signaled his expectation that his dynasty would continue for ten thousand generations (<strong>万世 wànshì</strong>). It lasted fifteen years.</p>
+      <p>The chief minister who managed the administrative aftermath was <strong>李斯 Lǐ Sī</strong> (?–208 BCE), a former student of the Confucian philosopher Xunzi who had converted to Legalism. Li Si designed the standardization systems, advised on the suppression of dissent, and would ultimately play a central role in the dynastic crisis that followed the First Emperor's death. He was eventually executed by the very system he helped build — cut in half at the waist in the marketplace of Xianyang.</p>
+    </div>
+
+    <div class="pattern">
+      <span class="label">六国顺序 liù guó shùnxù · Order of Conquest</span>
+      <strong>韩 Hán</strong> 230 BCE → <strong>赵 Zhào</strong> 228 → <strong>魏 Wèi</strong> 225 → <strong>楚 Chǔ</strong> 223 → <strong>燕 Yān</strong> 222 → <strong>齐 Qí</strong> 221<br>
+      Total duration of conquest campaigns: nine years. The empire they produced lasted fifteen.
+    </div>
+
+    <!-- ── STANDARDIZATION ── -->
+    <span class="section-anchor" id="standardization"></span>
+    <div class="section-head">
+      <span class="sh-cn">标准化</span>
+      <span class="sh-py">Biāozhǔnhuà</span>
+      <span class="sh-en">Standardization — Knitting an Empire Together</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="同">
+      <div class="scholar-label">制度洞见 zhìdù dòngjiàn · Institutional Insight</div>
+      <p>The First Emperor's most durable achievement was not conquest but standardization — the forcible homogenization of a world that had evolved, across centuries of Warring States fragmentation, into regional incompatibility. Different states used different scripts, different currencies, different weights and measures, and different axle widths (meaning carts from one state could not travel the roads of another, since wheel ruts were spaced differently). Qin imposed uniformity by edict, and this uniformity — in script above all — became the invisible skeleton of Chinese civilization.</p>
+      <p><strong>书同文 shū tóng wén</strong> — "unify the script." Li Si standardized written Chinese as <strong>小篆 xiǎozhuàn</strong> (small seal script), suppressing the diverse regional script variants that had evolved across the Warring States. This is the single most consequential act in the history of Chinese literacy. It ensured that Chinese written language would remain a powerful unifying force even as spoken varieties diverged beyond mutual intelligibility: the <em>writing</em> connected all literate Chinese regardless of how they pronounced the characters. This logic underpins the unified written standard today.</p>
+      <p><strong>车同轨 chē tóng guǐ</strong> — "standardize axle widths." Roads were built to uniform specifications; the Qin road network radiated from the capital <strong>咸阳 Xiányáng</strong> (near modern Xi'an) across the empire. A system of <strong>驰道 chídào</strong> (imperial highways) allowed rapid troop and courier movement — the empire's neural system.</p>
+      <p>Currency was unified as the <strong>圆形方孔钱 yuánxíng fāngkǒng qián</strong> — round coins with a square hole in the center. This elegant form, which allowed coins to be strung on cords for transport, became the standard Chinese coin shape for the next two thousand years. Weights and measures were similarly standardized, with Qin-issue measuring vessels distributed to markets across the empire.</p>
+      <p>The administrative structure was Qin's deepest reform. The feudal system of enfeoffed lords was replaced by a centralized <strong>郡县制 jùnxiàn zhì</strong> — commanderies (郡 jùn) and counties (县 xiàn) governed by appointed, salaried officials who served at the emperor's pleasure and could be transferred or dismissed. They were bureaucrats, not lords. This is the structure that subsequent dynasties inherited; its descendant (province → prefecture → county) still organizes the People's Republic of China.</p>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">书同文，车同轨</span>
+          <span class="card-py">shū tóng wén, chē tóng guǐ</span>
+          <span class="card-en">unified script, standardized axle widths — the twin slogans of Qin unification</span>
+        </div>
+        <div class="card-def">
+          The paired formula for Qin's standardization program. 书同文 is still quoted in discussions of written-language policy and simplified characters. In modern usage, 车同轨 appears as a metaphor for technical and infrastructure standardization. Together they remain the shorthand for why China held together when its political center collapsed: the physical and written infrastructure of unity outlasted the dynasty that created it.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">秦始皇推行书同文、车同轨，对中华文明的统一做出了深远的贡献。</div>
+            <div class="ex-py">Qín Shǐhuáng tuīxíng shū tóng wén, chē tóng guǐ, duì Zhōnghuá wénmíng de tǒngyī zuòchū le shēnyuǎn de gòngxiàn.</div>
+            <div class="ex-en">The First Emperor's policies of unified script and standardized axle widths made a lasting contribution to the unity of Chinese civilization.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">小篆</span>
+          <span class="card-py">xiǎozhuàn</span>
+          <span class="card-en">small seal script — the Qin standardized writing form</span>
+        </div>
+        <div class="card-def">
+          The script form codified by Li Si as the imperial standard, simplifying and regularizing the large seal scripts (大篆 dàzhuàn) of the Warring States. Small seal script was itself rapidly supplemented in practical use by the faster <strong>隶书 lìshū</strong> (clerical script) — what Qin and Han clerks actually wrote in daily administrative work. 隶书 is the ancestor of modern character forms. But 小篆 survives in seal-carving (篆刻 zhuànkè) and as a calligraphic art form.
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">郡县制</span>
+          <span class="card-py">jùnxiàn zhì</span>
+          <span class="card-en">commandery-county system — China's foundational administrative structure</span>
+        </div>
+        <div class="card-def">
+          36 commanderies (郡) at unification (later expanded to over 40), subdivided into counties (县). Officials were appointed from the center, paid salaries, and could be dismissed — creating administrative accountability upward rather than hereditary independence downward. Every subsequent Chinese dynasty adapted this model. Its descendant structure (province → prefecture → county → township) still organizes the PRC today.
+        </div>
+      </div>
+
+    </div>
+
+    <!-- ── GREAT WALL ── -->
+    <span class="section-anchor" id="greatwall"></span>
+    <div class="section-head">
+      <span class="sh-cn">万里长城</span>
+      <span class="sh-py">Wànlǐ Chángchéng</span>
+      <span class="sh-en">The Great Wall</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="城">
+      <div class="scholar-label">历史洞见 lìshǐ dòngjiàn · Historical Insight</div>
+      <p>The Great Wall (<strong>万里长城 Wànlǐ Chángchéng</strong>, lit. "ten-thousand-li long wall") is one of the most persistently misrepresented monuments in history. The imposing brick structure tourists visit — snaking through the Hebei hills with watchtowers every few hundred meters — was built primarily under the <strong>明朝 Míngcháo</strong> (Ming dynasty, 1368–1644 CE). What the First Emperor actually did was connect and extend pre-existing walls that Warring States had built along their northern frontiers against steppe peoples, into a continuous barrier.</p>
+      <p>The construction was directed by General <strong>蒙恬 Méng Tián</strong>, who commanded an army of 300,000 soldiers supplemented by an enormous corvée labor force of conscripted peasants, criminals, and condemned men. The total workforce may have reached 500,000 to 1,000,000 at peak. Labor conditions were catastrophic; the wall became a byword for imperial cruelty. The most famous folktale is the story of <strong>孟姜女 Mèng Jiāngnǚ</strong>, whose husband died building the wall and whose weeping caused a section to collapse, revealing his bones — retold for two thousand years as a lament for state violence against individuals.</p>
+      <p>The wall's strategic purpose was not primarily to stop invasion — no static wall stops a determined mobile enemy — but to control movement: prevent small-scale raiding, channel trade through controlled checkpoints, and define the administrative boundary between the agricultural world and the pastoral steppe. Its primary target was the <strong>匈奴 Xiōngnú</strong>, the confederation of steppe peoples whose cavalry raided the northern frontier throughout the late Warring States period.</p>
+      <p>The claim that the Great Wall is visible from space is false. Chinese astronaut <strong>杨利伟 Yáng Lìwěi</strong> looked for it during his 2003 flight and could not see it. The wall is long but very narrow; from orbital altitude it is invisible to the naked eye. The myth reflects its cultural magnitude more than its physical dimensions.</p>
+    </div>
+
+    <!-- ── TERRACOTTA ARMY ── -->
+    <span class="section-anchor" id="terracotta"></span>
+    <div class="section-head">
+      <span class="sh-cn">兵马俑</span>
+      <span class="sh-py">Bīngmǎyǒng</span>
+      <span class="sh-en">The Terracotta Army</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="俑">
+      <div class="scholar-label">考古洞见 kǎogǔ dòngjiàn · Archaeological Insight</div>
+      <p>In March 1974, farmers drilling a well near <strong>临潼 Líntóng</strong> in Shaanxi province struck terracotta fragments at about 3.5 meters depth. What they had found would be recognized as one of the greatest archaeological discoveries of the twentieth century: the <strong>兵马俑 bīngmǎyǒng</strong> — "soldier-and-horse clay figures" — the buried army of the First Emperor.</p>
+      <p>Three excavated pits (and a fourth, empty, pit interpreted as a command post) contain an estimated 8,000 terracotta warriors, 130 chariots with 520 horses, and 150 cavalry horses, arranged in military formation. The figures are life-sized (averaging 1.8 meters tall) and were originally painted in vivid polychrome — red, green, blue, and purple lacquers — almost entirely lost to oxidation upon exposure to air. Each warrior's face is individualized, suggesting either modeling from real soldiers or a combinatorial system of interchangeable mold parts creating unique faces.</p>
+      <p>The weapons found with the figures were real and functional: bronze swords, bronze crossbow triggers, iron spearheads. The bronze weapons were treated with a chromium-oxide coating that preserved them against corrosion over two millennia — a surface treatment technique China developed independently, not matched in the West until the twentieth century.</p>
+      <p>The terracotta army is a satellite of the main burial mound (<strong>骊山陵 Lí Shān Líng</strong>), a massive earthen pyramid still standing at 76 meters high and roughly 350 meters per side, largely unexcavated. Sima Qian's <em>Shiji</em> describes the tomb interior as containing a scale model of the empire with rivers of mercury, a ceiling set with pearls for stars, and crossbow traps. Geophysical surveys of the mound detect anomalously high mercury concentrations, lending credibility to at least this part of the account. Chinese authorities have chosen not to excavate the main chamber, citing preservation technology limitations and the principle of respecting the dead.</p>
+    </div>
+
+    <!-- ── BURNING BOOKS ── -->
+    <span class="section-anchor" id="books"></span>
+    <div class="section-head">
+      <span class="sh-cn">焚书坑儒</span>
+      <span class="sh-py">Fén Shū Kēng Rú</span>
+      <span class="sh-en">Burning Books and Burying Scholars</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="焚">
+      <div class="scholar-label">历史洞见 lìshǐ dòngjiàn · Historical Insight</div>
+      <p><strong>焚书坑儒 fén shū kēng rú</strong> — "burn the books, bury the Confucians" — is the most enduring epithet of the Qin dynasty, the four-character phrase that makes Legalism a term of reproach in Chinese historical memory and makes the First Emperor a figure of simultaneous awe and condemnation. The events it summarizes took place in 213 and 212 BCE.</p>
+      <p>The <strong>焚书令 Fén Shū Lìng</strong> (Book-Burning Edict, 213 BCE), proposed by Li Si, ordered the destruction of all privately held copies of the <em>Book of Poetry</em> (诗经 Shījīng), the <em>Book of Documents</em> (书经 Shūjīng), and the philosophical texts of non-Legalist schools — anything that could be used to criticize present governance by appeal to the authority of the past. Excepted were books on medicine, agriculture, and divination, along with one copy of each prohibited text held in the imperial library. The immediate trigger was a court argument in which Confucian scholars praised the ancient feudal system, implicitly criticizing Qin's centralized prefecture model.</p>
+      <p>The <strong>坑儒 Kēng Rú</strong> (Burying of Scholars, 212 BCE) is historically more contested. Sima Qian's account, written a century later, says the emperor — furious after being deceived by alchemists who fled with imperial resources after failing to find immortality drugs — ordered an investigation of court magician-scholars and found 460 guilty of spreading false rumors. He had them "buried" (坑 kēng). Whether this means buried alive or executed and interred is debated; the number and precise nature of the event remain uncertain. The crown prince Fusu (扶苏) protested the harshness and was punished by exile to the northern frontier — a decision that would prove fateful for the dynasty.</p>
+      <p>The long-term cultural damage was severe. The <em>Book of Documents</em> had to be painstakingly reconstructed from memory by elderly scholars after the Han founding — producing two competing textual traditions (the "new-text" and "old-text" controversies) that preoccupied Han scholars for generations. Whether the burning destroyed truly irreplaceable works or primarily disrupted transmission, it stands as the paradigmatic act of state censorship in Chinese history — invoked whenever governments suppress intellectual life.</p>
+    </div>
+
+    <!-- ── IMMORTALITY ── -->
+    <span class="section-anchor" id="immortality"></span>
+    <div class="section-head">
+      <span class="sh-cn">寻仙与死亡</span>
+      <span class="sh-py">Xún Xiān yǔ Sǐwáng</span>
+      <span class="sh-en">The Search for Immortality and the Emperor's Death</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="仙">
+      <div class="scholar-label">历史洞见 lìshǐ dòngjiàn · Historical Insight</div>
+      <p>The First Emperor's obsession with physical immortality was the defining paradox of his later reign: the most powerful man in the world unable to accept that power ends at death. He commissioned multiple expeditions to find the mythical islands of immortal beings (<strong>蓬莱 Pénglái</strong>, 方丈 Fāngzhàng, 瀛洲 Yíngzhōu) said to lie in the eastern sea. The most famous was the voyage of <strong>徐福 Xú Fú</strong>, a court alchemist who set out around 219 BCE with a fleet of ships, thousands of young men and women, ample provisions — and never returned.</p>
+      <p>Later legend held that Xu Fu found Japan and became its first emperor; several Japanese cities still claim his landing site and celebrate him as a cultural founder. Historically, it is more probable that Xu Fu found a navigable coastal route, established himself elsewhere, and simply chose not to return to a master who executed those who failed him. The emperor reportedly said that had he been able to join Xu Fu, he too would have attained immortality.</p>
+      <p>The alchemists' recommended immortality elixirs typically contained mercury and other heavy metals. The First Emperor's increasing irrationality in his final years — his paranoia, his isolation behind walls of secrecy, his unpredictable cruelty — may have been compounded by mercury poisoning from the very substances he consumed to live forever. He died in the autumn of 210 BCE while on tour of the eastern provinces, at age forty-nine, far from his capital.</p>
+      <p>What followed was a crisis engineered from within. The chief eunuch <strong>赵高 Zhào Gāo</strong> and the acquiescent Li Si suppressed news of the emperor's death, forged an imperial edict ordering the crown prince Fusu to commit suicide (he did), and installed the weaker second son <strong>胡亥 Hú Hài</strong> as the Second Emperor (秦二世 Qín Èrshì). Zhao Gao then systematically eliminated rivals through the new emperor — including ultimately Li Si himself — while consolidating personal control. His <strong>指鹿为马</strong> test (presenting a deer to the court and calling it a horse, then punishing those who disagreed) became the definitive anecdote of political coercion.</p>
+      <p>The empire exploded within three years of the First Emperor's death. Mass uprisings began in 209 BCE; Qin collapsed in 206 BCE. The man who had ended four centuries of warfare created a system too rigid and too brutal to outlast him. His empire's total lifespan: fifteen years. Subsequent dynasties absorbed the lesson: they retained Qin's centralized administrative architecture while softening its Legalist edge with Confucian moral language and appeal to popular welfare.</p>
+    </div>
+
+    <!-- ── CHENGYU ── -->
+    <span class="section-anchor" id="chengyu"></span>
+    <div class="section-head">
+      <span class="sh-cn">成语与关键词</span>
+      <span class="sh-py">Chéngyǔ yǔ Guānjiàn Cí</span>
+      <span class="sh-en">Idioms &amp; Key Phrases</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="chengyu-grid">
+
+      <div class="cy">
+        <span class="cy-cn">焚书坑儒</span>
+        <span class="cy-py">fén shū kēng rú</span>
+        <span class="cy-en">burn the books and bury the Confucians — state censorship and intellectual repression</span>
+        <span class="cy-note">The four-character condemnation of the Qin cultural purges of 213–212 BCE. Still the standard Chinese phrase for any government suppression of thought or culture. Note that 坑 kēng (pit) also functions in modern colloquial Chinese as a verb meaning "to trap" or "to screw over someone" — e.g. 坑人 kēng rén (to cheat someone). The ancient resonance intensifies the modern slang.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">指鹿为马</span>
+        <span class="cy-py">zhǐ lù wéi mǎ</span>
+        <span class="cy-en">point at a deer and call it a horse — deliberate falsification to identify loyalists</span>
+        <span class="cy-note">Zhao Gao presented a deer to the court and declared it a horse, watching who agreed and who dared contradict him. Those who said "deer" were later executed. Now the standard idiom for using power to force people to deny observable reality — invoking political coercion, propaganda, and the suppression of truth. Appears constantly in modern Chinese political commentary and social media.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">书同文，车同轨</span>
+        <span class="cy-py">shū tóng wén, chē tóng guǐ</span>
+        <span class="cy-en">unified script, standardized axle widths — the rhetorical formula of systemic national unity</span>
+        <span class="cy-note">Still quoted in policy arguments about national standards — language standardization, infrastructure compatibility, technical regulation. The pairing condenses the Qin unification logic: physical connectivity (roads) plus cultural connectivity (writing) equals empire. It appears in speeches about high-speed rail interoperability as naturally as in discussions of character simplification.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">万里长城</span>
+        <span class="cy-py">wànlǐ Chángchéng</span>
+        <span class="cy-en">the ten-thousand-li Great Wall — symbol of colossal collective effort</span>
+        <span class="cy-note">万里 wànlǐ (ten thousand li) is figurative hyperbole. The wall's actual total length across all dynasties is approximately 21,196 km. Used metaphorically for any enormous undertaking requiring sustained collective effort. Classical phrase: 不到长城非好汉 "you're not a real hero until you've climbed the Great Wall" — popularized by Mao Zedong, now a common tourist slogan.</span>
+      </div>
+
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="page-footer">
+      <span class="footer-id">Field Notes on Chinese · <span>秦始皇 qín shǐhuáng</span> · topic_qin_shihuang.html</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>

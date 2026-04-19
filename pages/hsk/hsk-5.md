@@ -319,7 +319,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 
 - 安慰 — ānwèi — V/Adj — to comfort; to console
 - 岸 — àn — N — variant of 岸[an4]
-- 岸上 — àn shang — [gloss needed]
+- 岸上 — àn shang — on the shore, on the bank
 - 按摩 — ànmó — V — massage, to massage
 - 拔 — bá — V — to pull out, to pull up
 - 白酒 — báijiǔ — N — baijiu, a spirit usually distilled from sorghum, (Tw) white wine (abbr. for 白葡萄酒[bai2 pu2 tao5 jiu3
@@ -369,7 +369,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 薄弱 — bóruò — Adj — weak; frail
 - 不顾 — bùgù — V — in spite of; regardless of
 - 不利 — bùlì — Adj — unfavorable, disadvantageous, harmful
-- 不耐烦 / 不耐煩 — bù nàifán — [gloss needed]
+- 不耐烦 / 不耐煩 — bù nàifán — impatient, annoyed
 - 不幸 — bùxìng — Adj — misfortune, adversity, unfortunate
 - 不易 — bùyì — Adj — not easy to do sth, difficult, unchanging
 - 补偿 / 補償 — bǔcháng — V — to compensate; compensation
@@ -379,9 +379,9 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 不敢当 — bùgǎndāng — V — lit. I dare not (accept the honor); fig. I don't d, you flatter me
 - 不良 — bùliáng — Adj — bad; harmful; unhealthy, (of a device, connection, material etc) defective;
 - 不免 — bùmiǎn — Adv — inevitably
-- 不能不 — bù néng bù — [gloss needed]
+- 不能不 — bù néng bù — cannot but, have no choice but to
 - 不时 — bùshí — Adv — from time to time, now and then, occasionally
-- 不停 — bù tíng — [gloss needed]
+- 不停 — bù tíng — nonstop, unceasingly
 - 不许 — bùxǔ — V — not to allow, must not, can't
 - 不止 — bùzhǐ — V — incessantly, without end, more than
 - 不足 — bùzú — Adj/V — insufficient, lacking, deficiency
@@ -403,7 +403,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 差距 — chājù — N — disparity, gap
 - 插 — chā — V — to insert, stick in, pierce
 - 查询 — cháxún — V — to check, to inquire, to consult (a document etc)
-- 差（一）点儿 / 差（一）點兒 — chà(yī)diǎnr — Adv — [gloss needed]
+- 差（一）点儿 / 差（一）點兒 — chà(yī)diǎnr — Adv — almost, nearly (but not quite)
 - 拆 — chāi — V — to tear open, to tear down, to tear apart
 - 拆除 — chāichú — V — to tear down, to demolish, to dismantle
 - 产业 — chǎnyè — N — industry, estate, property
@@ -417,16 +417,16 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 倡导 / 倡導 — chàngdǎo — V — to advocate, to promote
 - 超越 — chāoyuè — V — to transcend, to surpass
 - 车主 — chēzhǔ — N — vehicle owner
-- 称2 / 稱2 — chēng — V — [gloss needed]
+- 称2 / 稱2 — chēng — V — to call, to be called (second reading of 称)
 - 称号 — chēnghào — N — name, term of address, title
 - 成本 — chéngběn — N — (manufacturing, production etc) costs
 - 成交 — chéngjiāo — to complete a contract, to reach a deal
 - 成效 — chéngxiào — N — effect, result
 - 成语 — chéngyǔ — N — Chinese set expression, typically of 4 characters,, CL:條|条[tiao2],本[ben3],句[ju4]
 - 承办 — chéngbàn — V — to undertake, to accept a contract
-- 城里 / 城裡 — chénglǐ — N — [gloss needed]
+- 城里 / 城裡 — chénglǐ — N — in the city, inside the city
 - 乘 — chéng — V — surname Cheng
-- 乘车 / 乘車 — chéng chē — [gloss needed]
+- 乘车 / 乘車 — chéng chē — to ride a vehicle, to take a bus/train
 - 乘客 — chéngkè — N — passenger
 - 乘坐 — chéngzuò — V — to take (a ship, plane etc); to ride (in a train o
 - 吃力 — chīlì — Adj — to entail strenuous effort, to toil at a task, strenuous
@@ -515,7 +515,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 地形 — dìxíng — N — topography, terrain, landform
 - 地震 — dìzhèn — N/V — earthquake
 - 递 — dì — V — to hand over; to pass on; to deliver, (bound form) progressively; in the proper order
-- 递给 / 遞給 — dì gěi — [gloss needed]
+- 递给 / 遞給 — dì gěi — to hand to, to pass to
 - 典礼 / 典禮 — diǎnlǐ — N — ceremony, celebration
 - 点燃 — diǎnrán — V — to ignite, to set on fire, aflame
 - 电池 / 電池 — diànchí — N — battery (cell)
@@ -722,7 +722,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 今日 — jīnrì — N — today
 - 尽管 / 儘管 — jǐnguǎn — Adv/Conj — even though, despite; feel free to
 - 紧紧 / 緊緊 — jǐnjǐn — closely, tightly
-- 尽可能 / 盡可能 — jìn kěnéng — [gloss needed]
+- 尽可能 / 盡可能 — jìn kěnéng — as much as possible
 - 进化 — jìnhuà — V — evolution, CL:個|个[ge4]
 - 近来 — jìnlái — N — recently, lately
 - 经费 — jīngfèi — N — funds, expenditure, CL:筆|笔[bi3]
@@ -739,7 +739,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 拒绝 — jùjué — V — to refuse; to decline; to reject
 - 俱乐部 — jùlèbù — N — (loanword) club (the organization or its premises)
 - 剧本 — jùběn — N — script; screenplay; scenario; libretto
-- 决不 / 決不 — jué bù — [gloss needed]
+- 决不 / 決不 — jué bù — absolutely not, by no means
 - 绝望 / 絕望 — juéwàng — to despair, to give up all hope, desperate
 - 军人 — jūnrén — N — serviceman, soldier, military personnel
 - 开幕 / 開幕 — kāimù — to open (a conference), to inaugurate
@@ -875,7 +875,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 频道 — píndào — N — frequency, (television) channel
 - 频繁 — pínfán — Adj — frequently, often
 - 品 — pǐn — V — (bound form) article; commodity; product; goods, (bound form) grade; rank, kind; type; variety
-- 品（工艺品） / 品（工藝品） — pǐn (gōngyìpǐn) — Suffix — [gloss needed]
+- 品（工艺品） / 品（工藝品） — pǐn (gōngyìpǐn) — Suffix — suffix: article, product (e.g. 工艺品 handicraft)
 - 品种 — pǐnzhǒng — N — breed, variety, CL:個|个[ge4]
 - 平坦 — píngtǎn — Adj — level, even, smooth
 - 平原 — píngyuán — N — field, plain, CL:個|个[ge4]
@@ -912,7 +912,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 强迫 — qiǎngpò — V — to compel, to force
 - 悄悄 — qiāoqiāo — Adv — quiet; making little or no noise, surreptitious; stealthy, anxious; worried
 - 敲 — qiāo — V — to hit, to strike, to tap
-- 敲门 / 敲門 — qiāo mén — [gloss needed]
+- 敲门 / 敲門 — qiāo mén — to knock on the door
 - 瞧 — qiáo — V — to look at, to see, to see (a doctor)
 - 琴 — qín — N — guqin 古琴[gu3 qin2] (a type of zither), musical instrument in general
 - 勤奋 / 勤奮 — qínfèn — Adj — diligent, hardworking
@@ -924,7 +924,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 晴朗 — qínglǎng — Adj — sunny and cloudless
 - 区域 — qūyù — N — area, region, district
 - 全都 — quándōu — Adv — all, without exception
-- 全世界 — quán shìjiè — [gloss needed]
+- 全世界 — quán shìjiè — the whole world, worldwide
 - 泉 — quán — N — spring (small stream), mouth of a spring, coin (archaic)
 - 劝 — quàn — V — to advise, to urge, to try to persuade
 - 缺乏 — quēfá — V — to lack; lack, shortage
@@ -940,7 +940,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 人士 — rénshì — N — person, figure, public figure
 - 人物 — rénwù — N — person; personage; figure (esp. sb of importance), character (in a play, novel etc), (genre of traditional Chinese painting) figure pai
 - 忍 — rěn — V — to bear, to endure, to tolerate
-- 忍不住 — rěn bu zhù — [gloss needed]
+- 忍不住 — rěn bu zhù — cannot help but, unable to hold back
 - 忍受 — rěnshòu — V — to bear; to endure
 - 认 — rèn — V — to recognize, to know, to admit
 - 认定 — rèndìng — V — to maintain (that sth is true), to determine (a fact), determination (of an amount)
@@ -1031,7 +1031,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 摔 — shuāi — V — to throw down, to fall, to drop and break
 - 摔倒 — shuāidǎo — to fall down, to slip and fall, to throw sb to the ground
 - 率领 — shuàilǐng — V — to lead, to command, to head
-- 双手 / 雙手 — shuāng shǒu — [gloss needed]
+- 双手 / 雙手 — shuāng shǒu — both hands
 - 水产品 — shuǐchǎnpǐn — N — aquatic products (including fish, crabs, seaweed e
 - 水分 — shuǐfèn — N — moisture content, (fig.) overstatement; padding
 - 水库 — shuǐkù — N — reservoir, CL:座[zuo4]
@@ -1147,7 +1147,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 详细 / 詳細 — xiángxì — Adj — detailed, thorough
 - 享受 — xiǎngshòu — V/N — to enjoy, to live it up, pleasure
 - 向导 — xiàngdǎo — N — guide
-- 向前 — xiàng qián — [gloss needed]
+- 向前 — xiàng qián — forward, ahead
 - 向上 — xiàngshàng — V — upward, up, to advance
 - 相声 — xiàngsheng — N — comic dialogue, sketch, crosstalk
 - 象征 — xiàngzhēng — V/N — symbol; emblem, to symbolize; to signify; to represent
@@ -1207,7 +1207,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 一辈子 — yībèizi — N — (for) a lifetime
 - 一带 — yīdài — N — region; area
 - 一旦 — yīdàn — N/Adv — once; in case
-- 一句话 / 一句話 — yī jù huà — [gloss needed]
+- 一句话 / 一句話 — yī jù huà — in a word, in one sentence
 - 一路 — yīlù — N/Adv — the whole journey, all the way, going the same way
 - 一下儿 / 一下兒 — yīxiàr — Adv — a short while; once (try something)
 - 一下子 — yīxiàzi — Adv — in a short while, all at once, all of a sudden
@@ -1237,12 +1237,12 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 优先 — yōuxiān — V — to have priority; to take precedence
 - 幽默 — yōumò — Adj — (loanword) humor, humorous
 - 尤其 — yóuqí — Adv — especially; particularly
-- 由此 — yóu cǐ — [gloss needed]
+- 由此 — yóu cǐ — from this, therefore, hence
 - 犹豫 — yóuyù — Adj — to hesitate
 - 游泳池 — yóuyǒngchí — N — swimming pool
 - 友谊 — yǒuyì — N — see 友誼縣|友谊县[You3 yi4 Xian4]
-- 有毒 — yǒu dú — [gloss needed]
-- 有害 — yǒu hài — [gloss needed]
+- 有毒 — yǒu dú — poisonous, toxic
+- 有害 — yǒu hài — harmful, hazardous
 - 有力 — yǒulì — Adj — powerful, forceful, vigorous
 - 有利于 / 有利於 — yǒulì yú — beneficial to, conducive to
 - 有着 — yǒuzhe — V — to have, to possess
@@ -1271,7 +1271,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 灾难 — zāinàn — N — disaster; catastrophe
 - 灾区 — zāiqū — N — disaster area; stricken region
 - 再次 — zàicì — Adv — once more; once again
-- 再也 — zài yě — [gloss needed]
+- 再也 — zài yě — no longer (in negative), ever again
 - 在场 — zàichǎng — V — to be present; to be on the scene
 - 在内 — zàinèi — V — (included) in it, among them
 - 暂时 — zànshí — Adj — temporary; provisional; for the time being
@@ -1328,7 +1328,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 职位 — zhíwèi — N — position; post; job
 - 职务 — zhíwù — N — post, position, job
 - 只不过 — zhǐbùguò — Adv — only; merely; nothing but; no more than, it's just that ...
-- 只见 / 只見 — zhǐ jiàn — [gloss needed]
+- 只见 / 只見 — zhǐ jiàn — only to see, one sees only
 - 指标 — zhǐbiāo — N — (production) target; quota, index; indicator, sign; signpost
 - 指甲 — zhǐjia — N — fingernail
 - 指示 — zhǐshì — N/V — to point out, to indicate, to instruct
@@ -1339,7 +1339,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 治安 — zhì'ān — N — law and order, public security
 - 治理 — zhìlǐ — V — to govern, to administer, to manage
 - 中断 — zhōngduàn — V — to cut short, to break off, to discontinue
-- 中秋节 / 中秋節 — Zhōngqiū Jié — N — [gloss needed]
+- 中秋节 / 中秋節 — Zhōngqiū Jié — N — Mid-Autumn Festival (15th day of 8th lunar month)
 - 中央 — zhōngyāng — N — central, middle, center
 - 中药 — zhōngyào — N — traditional Chinese medicine, CL:服[fu4]
 - 终点 — zhōngdiǎn — N — the end, end point, finishing line (in a race)

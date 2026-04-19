@@ -1,0 +1,608 @@
+---
+type: 'vocab'
+category: 'vocab'
+status: 'complete'
+title: '功夫 · effort, skill over time'
+desc: 'Not just martial arts — the original meaning is mastery earned through time.'
+metaDesc: "功夫 gōngfu: effort, time, skill, and the martial arts — the word that encodes China's deepest theory of mastery through sustained practice."
+pageTitle: '功夫 gōngfu'
+tags:
+  - 'mastery'
+  - 'time'
+  - 'martial-arts'
+updated: '2026-04-18'
+pinyin: 'gōngfu'
+---
+
+<button class="toc-toggle">目录 Contents ▾</button>
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+    <button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+    <span class="toc-topic">功夫</span>
+    <span class="toc-topic-en">Effort and Skill</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#etymology">
+        <span class="toc-cn">字源</span> Etymology
+        <span class="toc-sub">zìyuán · origin &amp; structure</span>
+      </a></li>
+      <li><a href="#effort">
+        <span class="toc-cn">功夫</span> Effort &amp; Time
+        <span class="toc-sub">gōngfu · the core meaning</span>
+      </a></li>
+      <li><a href="#martial">
+        <span class="toc-cn">武术</span> Martial Arts
+        <span class="toc-sub">wǔshù · the paradigm case</span>
+      </a></li>
+      <li><a href="#gong">
+        <span class="toc-cn">功</span> 功 in Compounds
+        <span class="toc-sub">gōng · achievement &amp; merit</span>
+      </a></li>
+      <li><a href="#fu">
+        <span class="toc-cn">夫</span> 夫 in Compounds
+        <span class="toc-sub">fū · labor &amp; marriage</span>
+      </a></li>
+      <li><a href="#chengyu">
+        <span class="toc-cn">成语</span> Idioms
+        <span class="toc-sub">chéngyǔ · set phrases</span>
+      </a></li>
+      <li><a href="#adjacent">
+        <span class="toc-cn">相邻</span> Adjacent Vocab
+        <span class="toc-sub">xiānglín cíhuì</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- HERO -->
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">Vocabulary · 词汇 cíhuì</span>
+      <h1 class="topic-hero-title">功夫</h1>
+      <span class="topic-hero-title-py">gōngfu</span>
+      <p class="topic-hero-desc">Effort, time, and mastery — the word that encodes China's deepest theory of how skill is built.</p>
+    </header>
+
+    <!-- ── ETYMOLOGY ── -->
+    <span class="section-anchor" id="etymology"></span>
+    <div class="section-head">
+      <span class="sh-cn">字源</span>
+      <span class="sh-py">zìyuán</span>
+      <span class="sh-en">Etymology &amp; Origin</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="功">
+      <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
+      <p><strong>功 gōng</strong> (achievement; merit; work — originally: a carpenter's square 工 doing work, the combining of craft and force) <strong>+ 夫 fū</strong> (man; husband; a person who labors — originally: a grown man with a hairpin through his topknot, marking adulthood). Time spent by a person doing work. 功夫 originally meant exactly that: the time and effort invested in something.</p>
+      <p>The martial arts meaning came second — because mastery of martial arts is the paradigm case of 功夫: years of dedicated, repetitive practice producing a capability that cannot be rushed or faked. The Western loanword "kung fu" captured only the martial meaning. But the Chinese word is richer and more fundamental: 功夫 is any deeply cultivated skill, and always implies time as the medium through which skill is built.</p>
+      <p>A calligrapher's beautiful brushwork is 功夫. A chef's precise knife technique is 功夫. A diplomat's carefully chosen pause before speaking shows 功夫. When someone says 你很有功夫 — "you have real 功夫" — they mean: I can see the years you have put in. That is the deepest possible compliment.</p>
+    </div>
+
+    <!-- ── EFFORT AND TIME ── -->
+    <span class="section-anchor" id="effort"></span>
+    <div class="section-head">
+      <span class="sh-cn">功夫</span>
+      <span class="sh-py">gōngfu</span>
+      <span class="sh-en">功夫 as Effort &amp; Time</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="功">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · Scholar Note</div>
+      <p>The core meaning of 功夫 is time-and-effort invested in something. This framing is more useful than "skill" because it contains the method: skill is 功夫 accumulated. You don't "have" skill — you "put in" 功夫 (下功夫) and skill is the result. This is China's theory of mastery, explicitly encoded in the word: there is no talent that shortcuts the hours. The character 功 contains 工 (carpenter's square — precision craft) and the meaning of achievement through measured effort. The character 夫 contains the image of a laboring adult. Together: sustained human effort applied over time produces results worth noting.</p>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">功夫</span>
+          <span class="card-py">gōngfu</span>
+          <span class="card-en">effort; time spent; painstaking work; skill as the result of sustained practice</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          The primary sense: time and effort invested. 下功夫 = to put in effort/time (literally: to place the work down). 费功夫 = to take effort; to be labor-intensive. 花功夫 = to spend time and effort. The word treats skill not as an attribute to be possessed but as a product to be produced — through the investment of hours and attention.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">这幅画下了很多功夫，细节非常精致。</div>
+            <div class="ex-py">Zhè fú huà xià le hěn duō gōngfu, xìjié fēicháng jīngzhì.</div>
+            <div class="ex-en">A great deal of effort went into this painting — the details are extremely refined.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">学好中文需要下功夫，没有捷径。</div>
+            <div class="ex-py">Xué hǎo Zhōngwén xūyào xià gōngfu, méiyǒu jiéjìng.</div>
+            <div class="ex-en">Mastering Chinese requires putting in the work — there are no shortcuts.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他在这件事上花了很多功夫，值得称赞。</div>
+            <div class="ex-py">Tā zài zhè jiàn shì shàng huā le hěn duō gōngfu, zhídé chēngzàn.</div>
+            <div class="ex-en">He spent a great deal of effort on this matter — it deserves praise.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">辨析 biànxī · 功夫 vs. 工夫</span>
+          <strong>功夫 gōngfu</strong> = skill; effort invested; the martial arts. <strong>工夫 gōngfu</strong> (same pronunciation, different character) = a stretch of time; the time available. 这点工夫够了 (this amount of time is enough) vs. 他花了很多功夫 (he invested a great deal of effort). The distinction is subtle and sometimes collapsed in informal use, but in formal writing the characters differ.
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">下功夫</span>
+          <span class="card-py">xià gōngfu</span>
+          <span class="card-en">to put in the work; to make a serious effort; to buckle down</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
+        <div class="card-def">
+          下 xià (to place; to put down) + 功夫 (effort/work). The verb phrase for serious, sustained investment of effort. The directional 下 is crucial: you are depositing effort into something, like placing a foundation. Not a momentary burst of energy but a committed, extended investment. Appears constantly in motivational contexts, educational settings, and discussions of craftsmanship.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">要想学好，就要认真下功夫。</div>
+            <div class="ex-py">Yào xiǎng xué hǎo, jiù yào rènzhēn xià gōngfu.</div>
+            <div class="ex-en">If you want to learn well, you have to put in the work seriously.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他在烹饪上下了很多功夫，厨艺进步明显。</div>
+            <div class="ex-py">Tā zài pēngrèn shàng xià le hěn duō gōngfu, chúyì jìnbù míngxiǎn.</div>
+            <div class="ex-en">He put a great deal of effort into cooking — his culinary skills have improved noticeably.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这个问题需要认真下功夫研究，不能马虎。</div>
+            <div class="ex-py">Zhège wèntí xūyào rènzhēn xià gōngfu yánjiū, bù néng mǎhu.</div>
+            <div class="ex-en">This problem requires serious dedicated study — it cannot be handled carelessly.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">费功夫</span>
+          <span class="card-py">fèi gōngfu</span>
+          <span class="card-en">to take effort; to be laborious; to be time-consuming</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
+        <div class="card-def">
+          费 fèi (to spend; to cost; to consume) + 功夫 (effort). Where 下功夫 emphasizes voluntarily investing effort, 费功夫 emphasizes the effort a task demands of you — the cost side of the equation. A task that is 费功夫 is demanding, painstaking, time-intensive. Often used to describe handmade goods, meticulous craftsmanship, or any process that cannot be rushed.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">手工刺绣很费功夫，一件要绣好几个月。</div>
+            <div class="ex-py">Shǒugōng cìxiù hěn fèi gōngfu, yī jiàn yào xiù hǎo jǐ gè yuè.</div>
+            <div class="ex-en">Hand embroidery is very labor-intensive — a single piece can take several months to complete.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这件事挺费功夫的，你得有耐心。</div>
+            <div class="ex-py">Zhè jiàn shì tǐng fèi gōngfu de, nǐ děi yǒu nàixīn.</div>
+            <div class="ex-en">This matter is quite labor-intensive — you'll need to have patience.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">做这道菜很费功夫，但值得。</div>
+            <div class="ex-py">Zuò zhè dào cài hěn fèi gōngfu, dàn zhídé.</div>
+            <div class="ex-en">Making this dish takes a lot of effort, but it's worth it.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards effort -->
+
+    <!-- ── MARTIAL ARTS ── -->
+    <span class="section-anchor" id="martial"></span>
+    <div class="section-head">
+      <span class="sh-cn">武术</span>
+      <span class="sh-py">wǔshù</span>
+      <span class="sh-en">功夫 as Martial Arts</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="武">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · Scholar Note</div>
+      <p>功夫 as martial arts is the paradigm case of the broader concept: years of practice produce a skill that cannot be faked, imitated, or acquired through shortcuts. The Chinese martial arts world distinguishes <strong>内功 nèigōng</strong> (internal cultivation — qi, meditation, inner power: Tai Chi, Baguazhang) vs. <strong>外功 wàigōng</strong> (external strength — physical conditioning, striking, technique: Shaolin). Both are 功夫, and both demand the same thing: years.</p>
+      <p>The Shaolin Temple 少林寺 on Song Mountain in Henan is considered the origin of Chinese martial arts. Bruce Lee (李小龙 Lǐ Xiǎolóng) brought 功夫 to a global audience; Jet Li (李连杰) and Jackie Chan (成龙 Chéng Lóng) continued the transmission. The Cantonese pronunciation "gung fu" became the English "kung fu" — carrying only the martial meaning across to English while the full richness of the word remained behind.</p>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">武功</span>
+          <span class="card-py">wǔgōng</span>
+          <span class="card-en">martial arts skills; fighting ability; martial merit</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          武 wǔ (martial; military) + 功 gōng (skill; merit; achievement). The wuxia term for one's martial ability level — the 功 of the 江湖 world. A character's 武功 is their rank in the martial hierarchy. 武功高强 = formidable martial skill. 武功秘籍 = a secret manual for advancing martial skill. In real-world martial arts contexts, 武功 refers to actual fighting technique and conditioning.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他的武功高强，鲜有对手。</div>
+            <div class="ex-py">Tā de wǔgōng gāoqiáng, xiǎn yǒu duìshǒu.</div>
+            <div class="ex-en">His martial skills are formidable — he rarely meets his match.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">练武功需要坚持，不能三天打鱼两天晒网。</div>
+            <div class="ex-py">Liàn wǔgōng xūyào jiānchí, bù néng sān tiān dǎ yú liǎng tiān shài wǎng.</div>
+            <div class="ex-en">Training martial arts requires persistence — you can't practice three days and slack off two.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这本武功秘籍据说能让人武功大进。</div>
+            <div class="ex-py">Zhè běn wǔgōng mìjí jùshuō néng ràng rén wǔgōng dà jìn.</div>
+            <div class="ex-en">This secret martial arts manual is said to dramatically advance one's fighting skill.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">太极拳</span>
+          <span class="card-py">tàijí quán</span>
+          <span class="card-en">Tai Chi Chuan — the soft internal martial art based on yin-yang principles</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          太极 tàijí (the Supreme Ultimate — the cosmological concept) + 拳 quán (fist; boxing style). The soft, circular martial art based on the principles of 阴阳: yielding overcomes force, softness overcomes hardness, stillness overcomes motion. A paradigm of 内功 (internal cultivation). Practiced today as both a martial art and a health practice — the slow, flowing movements seen in parks every morning across China are a distilled 功夫 of balance and body awareness.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他每天早上在公园打太极拳，已经坚持了二十年。</div>
+            <div class="ex-py">Tā měitiān zǎoshàng zài gōngyuán dǎ tàijí quán, yǐjīng jiānchí le èrshí nián.</div>
+            <div class="ex-en">He practices Tai Chi in the park every morning — he has kept it up for twenty years.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">太极拳是内家功夫，以柔克刚。</div>
+            <div class="ex-py">Tàijí quán shì nèijiā gōngfu, yǐ róu kè gāng.</div>
+            <div class="ex-en">Tai Chi is an internal martial art — it uses softness to overcome hardness.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">学太极拳入门容易，精通很难。</div>
+            <div class="ex-py">Xué tàijí quán rùmén róngyì, jīngtōng hěn nán.</div>
+            <div class="ex-en">Learning Tai Chi is easy to start, but mastery is very difficult.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">少林功夫</span>
+          <span class="card-py">Shàolín gōngfu</span>
+          <span class="card-en">Shaolin kung fu — the hard external martial art of the Shaolin Temple</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          少林 Shàolín (the Shaolin Temple, founded ca. 495 CE on Song Mountain, Henan) + 功夫. The hard, external (外功) martial tradition that emphasizes physical conditioning, striking power, and acrobatic technique. Monks at the Shaolin Temple developed martial arts as part of spiritual discipline — the 功夫 of the body was inseparable from the 功夫 of the mind. Today, Shaolin is both a living religious institution and a cultural symbol recognized worldwide.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">少林功夫享誉全球，吸引了无数外国学员。</div>
+            <div class="ex-py">Shàolín gōngfu xiǎngyù quánqiú, xīyǐn le wúshù wàiguó xuéyuán.</div>
+            <div class="ex-en">Shaolin kung fu is renowned worldwide and has attracted countless foreign students.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">少林功夫的基本功包括站桩、扎马步等。</div>
+            <div class="ex-py">Shàolín gōngfu de jīběngōng bāokuò zhàn zhuāng, zhā mǎbù děng.</div>
+            <div class="ex-en">The fundamentals of Shaolin kung fu include standing post practice, horse stance training, and more.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards martial -->
+
+    <!-- ── 功 IN COMPOUNDS ── -->
+    <span class="section-anchor" id="gong"></span>
+    <div class="section-head">
+      <span class="sh-cn">功</span>
+      <span class="sh-py">gōng</span>
+      <span class="sh-en">功 in Compounds</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">构词规律 gòucí guīlǜ · Word-Formation</span>
+      功 gōng is one of the most productive characters in Chinese — it appears in words about achievement, work, function, and merit across many domains. Core meaning: work applied yielding measurable result. <strong>功 + X</strong> → the merit/work of X. <strong>X + 功</strong> → the achievement/merit produced through X.
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">成功</span>
+          <span class="card-py">chénggōng</span>
+          <span class="card-en">to succeed; success; successful</span>
+        </div>
+        <div class="tags"><span class="tag tag-vn">V/N/Adj 动名形</span></div>
+        <div class="card-def">
+          成 chéng (to accomplish; to become; to complete) + 功 gōng (achievement; merit). To bring merit into being; to accomplish something of worth. One of the highest-frequency words in Chinese across every register: speeches, toasts, business meetings, parting words, WeChat messages. The formula 祝你成功！(Wishing you success!) is universal.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">祝你成功！一切顺利！</div>
+            <div class="ex-py">Zhù nǐ chénggōng! Yīqiè shùnlì!</div>
+            <div class="ex-en">Wishing you success! May everything go smoothly!</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他经过多年努力，终于成功了。</div>
+            <div class="ex-py">Tā jīngguò duō nián nǔlì, zhōngyú chénggōng le.</div>
+            <div class="ex-en">After years of hard work, he finally succeeded.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">成功的秘诀是坚持和自律。</div>
+            <div class="ex-py">Chénggōng de mìjué shì jiānchí hé zìlǜ.</div>
+            <div class="ex-en">The secret to success is persistence and self-discipline.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">功能</span>
+          <span class="card-py">gōngnéng</span>
+          <span class="card-en">function; capability; feature</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          功 gōng (work; merit) + 能 néng (ability; can). The work that something is able to do — its function. Appears everywhere: product features (软件功能 — software features), biology (心脏的功能 — the function of the heart), linguistics (句子的功能 — the function of a sentence). 多功能 (multi-function) is a ubiquitous compound in product descriptions.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">这个软件有很多功能，你慢慢探索。</div>
+            <div class="ex-py">Zhège ruǎnjiàn yǒu hěn duō gōngnéng, nǐ mànmàn tànsuǒ.</div>
+            <div class="ex-en">This software has many features — explore them at your own pace.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">心脏的主要功能是把血液泵送到全身。</div>
+            <div class="ex-py">Xīnzàng de zhǔyào gōngnéng shì bǎ xuèyè bèng sòng dào quánshēn.</div>
+            <div class="ex-en">The main function of the heart is to pump blood throughout the body.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这是一个多功能厅，可以举办各种活动。</div>
+            <div class="ex-py">Zhè shì yīgè duō gōngnéng tīng, kěyǐ jǔbàn gè zhǒng huódòng.</div>
+            <div class="ex-en">This is a multipurpose hall — it can host all kinds of events.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">功劳</span>
+          <span class="card-py">gōngláo</span>
+          <span class="card-en">contribution; credit; merit earned through effort</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          功 gōng (achievement) + 劳 láo (labor; toil). The credit and recognition that comes from effort invested. 功劳 is owed — it is not just recognition but acknowledgment of debt. Classic saying: 没有功劳也有苦劳 (méiyǒu gōngláo yě yǒu kǔláo) — "even if there is no achievement, there is at least the toil." A plea for recognition of effort even when results are lacking.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">这次成功，功劳最大的是你。</div>
+            <div class="ex-py">Zhè cì chénggōng, gōngláo zuì dà de shì nǐ.</div>
+            <div class="ex-en">For this success, you deserve the greatest credit.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">没有功劳也有苦劳，总不能就这样走人。</div>
+            <div class="ex-py">Méiyǒu gōngláo yě yǒu kǔláo, zǒng bù néng jiù zhèyàng zǒu rén.</div>
+            <div class="ex-en">Even if there's no achievement, there's at least the toil — you can't just let someone go like this.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他独揽功劳，不肯与人分享。</div>
+            <div class="ex-py">Tā dú lǎn gōngláo, bù kěn yǔ rén fēnxiǎng.</div>
+            <div class="ex-en">He took all the credit for himself and refused to share it.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">功课</span>
+          <span class="card-py">gōngkè</span>
+          <span class="card-en">homework; schoolwork; preparation; research done before a task</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          功 gōng (work; effort) + 课 kè (lesson; course). Originally: the work (功夫) one does for one's lessons (课). Still means homework in the educational sense, but has developed a broader meaning: 做功课 can mean doing one's research or preparation before any significant task or decision — due diligence in business, preparation before a meeting, research before a trip.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">先做好功课，再去谈判，成功率更高。</div>
+            <div class="ex-py">Xiān zuò hǎo gōngkè, zài qù tánpàn, chénggōng lǜ gèng gāo.</div>
+            <div class="ex-en">Do your homework first, then go into the negotiation — your success rate will be higher.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他在投资前做了充分的功课，非常谨慎。</div>
+            <div class="ex-py">Tā zài tóuzī qián zuò le chōngfèn de gōngkè, fēicháng jǐnshèn.</div>
+            <div class="ex-en">Before investing, he did thorough research — he was very careful.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">孩子们放学后要先做功课，再玩。</div>
+            <div class="ex-py">Háizimen fàngxué hòu yào xiān zuò gōngkè, zài wán.</div>
+            <div class="ex-en">After school, children should do their homework before playing.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards gong -->
+
+    <!-- ── 夫 IN COMPOUNDS ── -->
+    <span class="section-anchor" id="fu"></span>
+    <div class="section-head">
+      <span class="sh-cn">夫</span>
+      <span class="sh-py">fū</span>
+      <span class="sh-en">夫 in Compounds</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">夫妻</span>
+          <span class="card-py">fūqī</span>
+          <span class="card-en">husband and wife; a married couple</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          夫 fū (husband) + 妻 qī (wife). The standard word for a married couple as a unit. Classical proverb: 夫妻同心，其利断金 (when husband and wife work together, they can cut through gold). 夫妻 is formal; the colloquial word for spouse/husband is 老公 lǎogōng and for wife is 老婆 lǎopo. 夫妻关系 = marital relations; 夫妻感情 = the emotional bond of a married couple.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他们是一对恩爱的夫妻，结婚三十年了。</div>
+            <div class="ex-py">Tāmen shì yī duì ēn'ài de fūqī, jiéhūn sānshí nián le.</div>
+            <div class="ex-en">They are a devoted couple — they have been married for thirty years.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">夫妻同心，其利断金。</div>
+            <div class="ex-py">Fūqī tóng xīn, qí lì duàn jīn.</div>
+            <div class="ex-en">When husband and wife work together, they can cut through gold — nothing is beyond them.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">夫妻之间要多沟通，不能憋在心里。</div>
+            <div class="ex-py">Fūqī zhījiān yào duō gōutōng, bù néng biē zài xīn lǐ.</div>
+            <div class="ex-en">Couples need to communicate more — things can't be bottled up inside.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">丈夫</span>
+          <span class="card-py">zhàngfu</span>
+          <span class="card-en">husband; also (classical): a man of stature</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          丈 zhàng (a unit of length, about 3.3 meters — the height of a tall, impressive person) + 夫 fū (laboring man). Originally: a man of impressive stature and character. Now the standard formal word for "husband." The classical expression 大丈夫 dà zhàngfu (a real man; a man of character and resolve) preserves the original meaning: someone of moral stature, not just physical. 大丈夫能屈能伸 (a real man can bend and can straighten — knows when to yield and when to act).
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">我丈夫出差了，这周不在家。</div>
+            <div class="ex-py">Wǒ zhàngfu chūchāi le, zhè zhōu bú zài jiā.</div>
+            <div class="ex-en">My husband is on a business trip — he's not home this week.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">大丈夫能屈能伸，不必斤斤计较。</div>
+            <div class="ex-py">Dà zhàngfu néng qū néng shēn, bù bì jīnjīn jìjiào.</div>
+            <div class="ex-en">A man of character can yield and can act — he need not be petty about every little thing.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">工夫</span>
+          <span class="card-py">gōngfu</span>
+          <span class="card-en">time; a stretch of time; the time it takes to do something</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          Note: same pronunciation as 功夫 but written with 工 (work; craft). 工夫 specifically means "a stretch of time" or "the time available." This is the time-container sense, while 功夫 is the effort-content sense. In practice, native speakers often write either character in informal contexts; the distinction is clearest in formal writing. 有工夫 = to have time/free time. 这点工夫 = this amount of time.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">你有工夫来我家坐坐吗？</div>
+            <div class="ex-py">Nǐ yǒu gōngfu lái wǒ jiā zuò zuò ma?</div>
+            <div class="ex-en">Do you have time to come by my place for a visit?</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">就这点工夫，你已经做完了？</div>
+            <div class="ex-py">Jiù zhè diǎn gōngfu, nǐ yǐjīng zuòwán le?</div>
+            <div class="ex-en">In just this little time, you've already finished?</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">费了很大工夫，才找到这个地方。</div>
+            <div class="ex-py">Fèi le hěn dà gōngfu, cái zhǎodào zhège dìfang.</div>
+            <div class="ex-en">It took a great deal of time to find this place.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards fu -->
+
+    <!-- ── CHENGYU ── -->
+    <span class="section-anchor" id="chengyu"></span>
+    <div class="section-head">
+      <span class="sh-cn">成语</span>
+      <span class="sh-py">chéngyǔ</span>
+      <span class="sh-en">Idioms &amp; Set Phrases</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="chengyu-grid">
+
+      <div class="cy">
+        <span class="cy-cn">功夫不负有心人</span>
+        <span class="cy-py">gōngfu bù fù yǒuxīn rén</span>
+        <span class="cy-en">effort does not fail the determined person — hard work pays off; persistence wins</span>
+        <span class="cy-note">One of the most commonly cited Chinese sayings about effort. 有心人 = a person with resolve and intention. The saying frames determination as the prerequisite: effort pays off for those who truly commit to it. 只要坚持，功夫不负有心人。(As long as you persist, effort will not fail the determined.) Appears on classroom walls, in graduation speeches, and in parting advice across China.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">大功告成</span>
+        <span class="cy-py">dà gōng gào chéng</span>
+        <span class="cy-en">great achievement announced complete — the task is accomplished; mission accomplished</span>
+        <span class="cy-note">大功 = great achievement; 告成 = to announce/declare completion. Used for significant accomplishments after sustained effort — completing a major project, building something, finishing a long-term goal. 经过多年努力，大功告成。(After years of effort, the great work is complete.) More ceremonial than the everyday 完成了.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">事半功倍</span>
+        <span class="cy-py">shì bàn gōng bèi</span>
+        <span class="cy-en">half the effort, double the results — efficient; getting more done with less work</span>
+        <span class="cy-note">事 shì = task/effort; 半 bàn = half; 功 gōng = achievement; 倍 bèi = double. The ideal of elegant efficiency: achieving twice the result with half the input. 这个方法让我们事半功倍。(This method lets us achieve double the results with half the effort.) Often used to recommend strategies or tools that dramatically increase efficiency.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">功亏一篑</span>
+        <span class="cy-py">gōng kuī yī kuì</span>
+        <span class="cy-en">achievement falls short by one basket — to fail at the last step; to ruin everything through one final mistake</span>
+        <span class="cy-note">From the Book of Documents (尚书): the image of building a mountain, needing only one more basket of earth (篑 kuì), and stopping — leaving the mountain unfinished. The lesson: sustained effort means nothing if abandoned at the end. 不要在最后关头功亏一篑。(Don't ruin everything at the final moment.) The tragedy of near-success is the deepest kind.</span>
+      </div>
+
+    </div>
+
+    <!-- ── ADJACENT VOCAB ── -->
+    <span class="section-anchor" id="adjacent"></span>
+    <div class="section-head">
+      <span class="sh-cn">相邻词汇</span>
+      <span class="sh-py">xiānglín cíhuì</span>
+      <span class="sh-en">Adjacent Vocabulary</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">技术</span><span class="a-py">jìshù</span><span class="a-en">technique; technology</span></span>
+      <span class="adj"><span class="a-cn">技巧</span><span class="a-py">jìqiǎo</span><span class="a-en">skill; technique</span></span>
+      <span class="adj"><span class="a-cn">本领</span><span class="a-py">běnlǐng</span><span class="a-en">ability; capability</span></span>
+      <span class="adj"><span class="a-cn">才能</span><span class="a-py">cáinéng</span><span class="a-en">talent; ability</span></span>
+      <span class="adj"><span class="a-cn">努力</span><span class="a-py">nǔlì</span><span class="a-en">to work hard; effort</span></span>
+      <span class="adj"><span class="a-cn">练习</span><span class="a-py">liànxí</span><span class="a-en">to practice</span></span>
+      <span class="adj"><span class="a-cn">坚持</span><span class="a-py">jiānchí</span><span class="a-en">to persist; perseverance</span></span>
+      <span class="adj"><span class="a-cn">武术</span><span class="a-py">wǔshù</span><span class="a-en">martial arts (general term)</span></span>
+      <span class="adj"><span class="a-cn">修炼</span><span class="a-py">xiūliàn</span><span class="a-en">to cultivate; to train (spiritual connotation)</span></span>
+      <span class="adj"><span class="a-cn">精通</span><span class="a-py">jīngtōng</span><span class="a-en">to master; to be proficient</span></span>
+      <span class="adj"><span class="a-cn">熟能生巧</span><span class="a-py">shú néng shēng qiǎo</span><span class="a-en">practice makes perfect</span></span>
+      <span class="adj"><span class="a-cn">内功</span><span class="a-py">nèigōng</span><span class="a-en">internal martial cultivation</span></span>
+    </div>
+
+    <!-- RETENTION SCHOLAR BOX -->
+    <div class="scholar" data-glyph="功">
+      <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
+      <p>A carpenter's square doing work, plus a laboring man. That is 功夫: sustained human effort applied over time. The martial arts meaning is the most famous export — the one that crossed into English and became "kung fu" — but the root meaning is the more profound one. In Chinese thought, there is no shortcut, no talent that substitutes for the hours.</p>
+      <p>The calligrapher's stroke, the diplomat's pause, the chef's cut — all are 功夫, all cost time, all reveal the person behind them. When someone says <strong>你很有功夫</strong> — "you have real 功夫" — they are saying: I can see the years you've put in. That is the highest compliment the word can carry.</p>
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="page-footer">
+      <span class="footer-id">Field Notes on Chinese · <span>功夫 gōngfu</span> · gongfu_功夫.html</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>

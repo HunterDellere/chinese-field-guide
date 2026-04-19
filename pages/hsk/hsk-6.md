@@ -348,7 +348,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 奔跑 — bēnpǎo — V — to run
 - 本 — běn — Pron/Adv — MW for books; root; this (formal)
 - 本地 — běndì — N — local, this locality
-- 本期 — běn qī — [gloss needed]
+- 本期 — běn qī — this issue, current period
 - 本身 — běnshēn — Pron — itself, in itself, per se
 - 本土 — běntǔ — N — one's native country, native, local
 - 本质 — běnzhì — N — essence, nature, innate character
@@ -364,9 +364,9 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 变换 — biànhuàn — V — to transform, to convert, to vary
 - 变形 / 變形 — biànxíng — to become deformed; to change shape; to morph
 - 便 — biàn — Adv/Conj — plain, informal, suitable
-- 便是 — biàn shì — [gloss needed]
+- 便是 — biàn shì — is exactly, is precisely
 - 遍地 — biàndì — Adv — everywhere, all over
-- 表面上 — biǎomiàn shang — [gloss needed]
+- 表面上 — biǎomiàn shang — on the surface, superficially
 - 病房 — bìngfáng — N — ward (of a hospital), sickroom, CL:間|间[jian1]
 - 病情 — bìngqíng — N — state of an illness, patient's condition
 - 拨打 — bōdǎ — V — to call, to dial
@@ -385,7 +385,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 捕 — bǔ — V — to catch; to seize; to capture
 - 不成 — bùchéng — V/Adj — won't do, unable to, (at the end of a rhetorical question) can that be?
 - 不禁 — bùjīn — Adv — cannot help but
-- 不仅仅 / 不僅僅 — bù jǐnjǐn — [gloss needed]
+- 不仅仅 / 不僅僅 — bù jǐnjǐn — not only, not merely
 - 不通 — bùtōng — V — to be obstructed, to be blocked up, to be impassable
 - 不怎么 — bùzěnme — Adv — not very, not particularly
 - 不怎么样 / 不怎麼樣 — bùzěnmeyàng — not up to much, very indifferent, nothing great about it
@@ -444,7 +444,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 成品 — chéngpǐn — N — finished goods, a finished product
 - 承诺 — chéngnuò — V — to promise, to undertake to do something, commitment
 - 城区 — chéngqū — N — Cheng District or Chengqu, a district of Shanwei C, Cheng District or Chengqu, a district of Yangquan , Cheng District or Chengqu, a district of Jincheng 
-- 城乡 / 城鄉 — chéng xiāng — [gloss needed]
+- 城乡 / 城鄉 — chéng xiāng — urban and rural, city and countryside
 - 城镇 — chéngzhèn — N — town, cities and towns
 - 持有 — chíyǒu — V — to hold (passport, views etc)
 - 冲击 — chōngjī — V/N — variant of 衝擊|冲击[chong1 ji1]
@@ -481,14 +481,14 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 创办 — chuàngbàn — V — to establish; to found
 - 创建 — chuàngjiàn — V — to found; to establish
 - 创意 — chuàngyì — N/V — creative, creativity
-- 此处 / 此處 — cǐ chù — [gloss needed]
-- 此次 — cǐ cì — [gloss needed]
+- 此处 / 此處 — cǐ chù — here, at this place
+- 此次 — cǐ cì — this time, this occasion
 - 此前 — cǐqián — N — before this, before then, previously
 - 此事 — cǐshì — N — this matter
 - 此致 — cǐzhì — V — (used at the end of a letter to introduce a polite
 - 次数 — cìshù — N — number of times, frequency, order number (in a series)
-- 从不 / 從不 — cóng bù — [gloss needed]
-- 从没 / 從沒 — cóng méi — [gloss needed]
+- 从不 / 從不 — cóng bù — never (habitual), at no time
+- 从没 / 從沒 — cóng méi — have never, not once
 - 醋 — cù — N — vinegar, jealousy (in love rivalry)
 - 村庄 — cūnzhuāng — N — village, hamlet, CL:座[zuo4]
 - 错过 — cuòguò — V — to miss (train, opportunity etc)
@@ -498,7 +498,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 打动 — dǎdòng — V — to move (to pity), arousing (sympathy), touching
 - 打断 — dǎduàn — V — to interrupt, to break off, to break (a bone)
 - 打发 — dǎfa — V — to dispatch sb to do sth, to make sb leave, to pass (the time)
-- 打官司 — dǎ guānsi — [gloss needed]
+- 打官司 — dǎ guānsi — to go to court, to file a lawsuit
 - 打牌 — dǎpái — V — to play mahjong or cards
 - 打印机 — dǎyìnjī — N — printer
 - 打造 — dǎzào — V — to forge (metal), (fig.) to create; to build; to develop
@@ -552,7 +552,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 赌博 — dǔbó — V — to gamble
 - 渡 — dù — V — to cross, to pass through, to ferry
 - 端 — duān — V — (bound form) tip; end; extremity, (bound form) aspect; facet, (bound form) upright; proper
-- 端午节 / 端午節 — Duānwǔ Jié — N — [gloss needed]
+- 端午节 / 端午節 — Duānwǔ Jié — N — Dragon Boat Festival (5th day of 5th lunar month)
 - 短片 — duǎnpiàn — N — short film, video clip
 - 队伍 — duìwu — N — ranks, troops, queue
 - 对抗 — duìkàng — V — to withstand, to resist, to stand off
@@ -634,7 +634,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 歌词 — gēcí — N — song lyric, lyrics
 - 歌星 — gēxīng — N — singing star, famous singer
 - 革新 — géxīn — V/N — to innovate, innovation
-- 更是 — gèng shì — [gloss needed]
+- 更是 — gèng shì — even more so, all the more
 - 工商 — gōngshāng — N — industry and commerce
 - 公 — gōng — Adj — public, collectively owned, common
 - 公安 — gōng'ān — N — see 公安縣|公安县[Gong1 an1 Xian4]
@@ -684,7 +684,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 海外 — hǎiwài — N — overseas; abroad
 - 海湾 — hǎiwān — N — (Persian) Gulf
 - 海洋 — hǎiyáng — N — ocean, CL:個|个[ge4]
-- 好（不）容易 — hǎo(bù)róngyì — Adj — [gloss needed]
+- 好（不）容易 — hǎo(bù)róngyì — Adj — with great difficulty, not easily at all
 - 好似 — hǎosì — V — to seem, to be like
 - 好转 — hǎozhuǎn — V — to improve, to take a turn for the better, improvement
 - 好学 — hàoxué — V — easy to learn
@@ -692,7 +692,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 和谐 / 和諧 — héxié — Adj — harmonious; harmony
 - 核心 — héxīn — N — core, nucleus, center
 - 黑夜 — hēiyè — N — night
-- 很难说 / 很難說 — hěn nánshuō — [gloss needed]
+- 很难说 / 很難說 — hěn nánshuō — hard to say, difficult to determine
 - 狠 — hěn — Adj — ruthless; fierce; ferocious, determined; resolute, to harden (one's heart)
 - 横 — héng — V/Adj — horizontal, across, crosswise
 - 衡量 — héngliáng — V — to weigh, to examine, to consider
@@ -769,7 +769,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 解 — jiě — V — to divide, to break up, to split
 - 解说 — jiěshuō — V — to explain (verbally); to give a running commentar
 - 界 — jiè — N — (bound form) boundary; border, (bound form) realm
-- 界（文艺界） / 界（文藝界） — jiè(wényìjiè) — Suffix — [gloss needed]
+- 界（文艺界） / 界（文藝界） — jiè(wényìjiè) — Suffix — suffix: world, circles (e.g. 文艺界 arts world)
 - 借鉴 / 借鑒 — jièjiàn — V — to draw on (experience), to learn from
 - 金额 — jīn'é — N — sum of money; amount of money
 - 金钱 — jīnqián — N — money, currency
@@ -805,7 +805,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 决策 / 決策 — juécè — V/N — decision-making; policy decision
 - 觉悟 — juéwù — V/N — to come to understand, to realize, consciousness
 - 绝 — jué — Adj/Adv — to cut short, extinct, to disappear
-- 绝大多数 / 絕大多數 — jué dàduōshù — [gloss needed]
+- 绝大多数 / 絕大多數 — jué dàduōshù — the vast majority, the overwhelming majority
 - 军队 — jūnduì — N — armed forces; troops, CL:支[zhi1]
 - 军舰 — jūnjiàn — N — warship, military naval vessel, CL:艘[sou1]
 - 军事 — jūnshì — N — military affairs; (attributive) military
@@ -814,7 +814,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 开设 — kāishè — V — to offer (goods or services), to open (for business etc)
 - 开通 — kāitōng — V — to open (a new road or railway line); to set up (a
 - 开头 — kāitóu — N — beginning, to start
-- 开夜车 / 開夜車 — kāi yèchē — [gloss needed]
+- 开夜车 / 開夜車 — kāi yèchē — to burn the midnight oil, to work late into the night
 - 看 — kān — V — to look, to watch, to read; to visit
 - 看管 — kānguǎn — V — to look after
 - 看得见 — kàndejiàn — V — to be able to see; can see
@@ -842,7 +842,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 赖 — lài — V/Adj — surname Lai, (Tw) (coll.) LINE messaging app
 - 栏目 — lánmù — N — regular column or segment (in a publication or bro, program (TV or radio)
 - 蓝领 — lánlǐng — N — blue-collar, blue-collar worker
-- 蓝天 / 藍天 — lán tiān — [gloss needed]
+- 蓝天 / 藍天 — lán tiān — blue sky
 - 懒 — lǎn — Adj — variant of 懶|懒[lan3]
 - 牢 — láo — Adj — (literary) pen; fold (for livestock), prison; jail, firm; secure; fast
 - 老乡 — lǎoxiāng — N — fellow townsman; fellow villager; sb from the same
@@ -852,7 +852,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 理 — lǐ — V/N — texture, grain (of wood), inner essence
 - 理财 / 理財 — lǐcái — to manage wealth; to manage finances; money manage
 - 理智 — lǐzhì — N/Adj — reason, intellect, rationality
-- 力（影响力） / 力（影響力） — lì(yǐngxiǎnglì) — Suffix — [gloss needed]
+- 力（影响力） / 力（影響力） — lì(yǐngxiǎnglì) — Suffix — suffix: power, force (e.g. 影响力 influence)
 - 利 — lì — N — surname Li
 - 联盟 — liánméng — N — alliance, union, coalition
 - 联赛 — liánsài — N — (sports) league, league tournament
@@ -981,7 +981,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 清 — qīng — Adj/V — Qing (Wade-Giles: Ch'ing) dynasty of China (1644–1, surname Qing
 - 清洁 — qīngjié — Adj — clean, to clean
 - 清洁工 — qīngjiégōng — N — cleaner, janitor, garbage collector
-- 清明节 / 清明節 — Qīngmíng Jié — N — [gloss needed]
+- 清明节 / 清明節 — Qīngmíng Jié — N — Qingming Festival, Tomb-Sweeping Day
 - 清洗 — qīngxǐ — V — to wash; to rinse; to clean, (fig.) to purge; to get rid of (corrupt individual
 - 情绪 — qíngxù — N — mood, state of mind, moodiness
 - 求职 — qiúzhí — V — to seek employment
@@ -999,7 +999,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 全新 — quánxīn — Adj — all new; completely new
 - 券 — quàn — N — bond (esp. document split in two, with each party , contract, deed (i.e. title deeds)
 - 缺陷 — quēxiàn — N — defect; flaw
-- 却是 / 卻是 — què shì — [gloss needed]
+- 却是 / 卻是 — què shì — but it is, yet it is (concessive)
 - 让座 / 讓座 — ràngzuò — to give up one's seat for sb
 - 热点 — rèdiǎn — N — hot spot, point of special interest
 - 热水 — rèshuǐ — N — hot water
@@ -1047,7 +1047,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 升值 — shēngzhí — V — to rise in value, to appreciate
 - 生活费 — shēnghuófèi — N — cost of living, living expenses, alimony
 - 省钱 / 省錢 — shěngqián — to save money
-- 圣诞节 / 聖誕節 — Shèngdàn Jié — N — [gloss needed]
+- 圣诞节 / 聖誕節 — Shèngdàn Jié — N — Christmas
 - 盛行 — shèngxíng — V — to be in vogue; to be popular; to be prevalent
 - 师父 — shīfu — N — used for 師傅|师傅 (in Taiwan), master, qualified worker
 - 师生 — shīshēng — N — teachers and students
@@ -1082,7 +1082,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 税 — shuì — N — taxes, duties
 - 顺 — shùn — Adj/V/Prep — to obey, to follow, to arrange
 - 说明书 — shuōmíngshū — N — (technical) manual, (book of) directions, synopsis (of a play or film)
-- 说实话 / 說實話 — shuō shíhuà — [gloss needed]
+- 说实话 / 說實話 — shuō shíhuà — to tell the truth, honestly speaking
 - 司长 — sīzhǎng — N — bureau chief
 - 死亡 — sǐwáng — V — to die, death
 - 四处 — sìchù — N — all over the place, everywhere and all directions
@@ -1230,7 +1230,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 形 — xíng — N — to appear, to look, form
 - 凶 — xiōng — Adj — terrible, fearful
 - 凶手 — xiōngshǒu — N — murderer, assassin
-- 修车 / 修車 — xiū chē — [gloss needed]
+- 修车 / 修車 — xiū chē — to repair a vehicle, to fix a car
 - 袖珍 — xiùzhēn — Adj — pocket-sized, pocket (book etc)
 - 悬 — xuán — V — to hang or suspend, to worry, public announcement
 - 旋转 — xuánzhuǎn — V — to rotate, to revolve, to spin
@@ -1269,11 +1269,11 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 一代 — yīdài — N — an era; an age; a generation
 - 一道 — yīdào — Adv — together
 - 一贯 — yīguàn — Adj — consistent, constant, from start to finish
-- 一路上 — yīlù shang — [gloss needed]
+- 一路上 — yīlù shang — along the way, all the way
 - 仪器 — yíqì — N — instrument; apparatus, CL:臺|台[tai2]
 - 仪式 — yíshì — N — ceremony
 - 遗憾 — yíhàn — Adj/N — regret, to regret, to be sorry that
-- 一番 — yīfān — [gloss needed]
+- 一番 — yīfān — a bout of, a round of (effort or action)
 - 一模一样 / 一模一樣 — yīmú-yīyàng — (idiom) exactly alike; identical, also pr. [yi1mo2-yi1yang4]
 - 一齐 — yīqí — Adv — at the same time, simultaneously
 - 一时 — yīshí — N/Adv — a period of time, a while, for a short while
@@ -1282,7 +1282,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 艺人 — yìrén — N — entertainer; performing artist, artisan; craftsman
 - 议题 — yìtí — N — topic of discussion, topic, subject
 - 异常 — yìcháng — Adj/Adv — unusual; abnormal, extremely; exceptionally
-- 意想不到 — yìxiǎng bù dào — [gloss needed]
+- 意想不到 — yìxiǎng bù dào — unexpected, beyond imagination
 - 意愿 — yìyuàn — N — aspiration, wish (for), desire
 - 因 — yīn — Prep/Conj — old variant of 因[yin1]
 - 因素 — yīnsù — N — element, factor, CL:個|个[ge4]
@@ -1310,7 +1310,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 游戏机 — yóuxìjī — N — video game machine, video game console
 - 游行 — yóuxíng — V — to march; to parade; to demonstrate, procession; march; demonstration, to travel around; to roam
 - 有关 — yǒuguān — V — to have sth to do with, to relate to, related to
-- 有没有 / 有沒有 — yǒu méiyǒu — [gloss needed]
+- 有没有 / 有沒有 — yǒu méiyǒu — do you have, is there or isn't there
 - 有事 — yǒushì — V — to be occupied with sth, to have sth on one's mind, there is something the matter
 - 于 — yú — Prep — surname Yu
 - 娱乐 — yúlè — V/N — to entertain, to amuse, entertainment
@@ -1359,7 +1359,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 战友 — zhànyǒu — N — comrade-in-arms, battle companion
 - 站台 — zhàntái — N — platform (at a railway station), (Tw) (of an influential person) to publicly lend o, (Tw) website
 - 章 — zhāng — M — surname Zhang
-- 长（秘书长） / 長（秘書長） — zhǎng (mìshūzhǎng) — Suffix — [gloss needed]
+- 长（秘书长） / 長（秘書長） — zhǎng (mìshūzhǎng) — Suffix — suffix: chief, head (e.g. 秘书长 secretary-general)
 - 掌声 — zhǎngshēng — N — applause, CL:陣|阵[zhen4]
 - 账 — zhàng — N — account, bill, debt
 - 账户 — zhànghù — N — bank account, online account
@@ -1370,7 +1370,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 照样 — zhàoyàng — Adv — as before, (same) as usual, in the same manner
 - 照耀 — zhàoyào — V — to shine, to illuminate
 - 哲学 — zhéxué — N — philosophy
-- 这就是说 / 這就是說 — zhè jiùshì shuō — [gloss needed]
+- 这就是说 / 這就是說 — zhè jiùshì shuō — that is to say, in other words
 - 镇 — zhèn — V/N — to press down, to calm, to subdue
 - 争夺 — zhēngduó — V — to fight over, to contest, to vie over
 - 整顿 — zhěngdùn — V — to tidy up, to reorganize, to consolidate
@@ -1395,9 +1395,9 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 指定 — zhǐdìng — V — to appoint, to assign, to indicate clearly and with certainty
 - 指数 — zhǐshù — N — (numerical, statistical) index, (math.) exponent, index
 - 指头 — zhǐtou — N — finger, toe, CL:個|个[ge4]
-- 指着 / 指著 — zhǐzhe — [gloss needed]
+- 指着 / 指著 — zhǐzhe — pointing at, indicating
 - 至于 — zhìyú — V/Prep — as for, as to, to go so far as to
-- 治病 — zhì bìng — [gloss needed]
+- 治病 — zhì bìng — to treat a disease, to cure an illness
 - 智慧 — zhìhuì — N — wisdom; intelligence
 - 中等 — zhōngděng — Adj — medium
 - 中华 — Zhōnghuá — N — Zhonghua, historical and cultural term for China, , used in the official name of the Republic of China
@@ -1444,7 +1444,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 足 — zú — Adj/Adv — (bound form) foot; leg, sufficient; ample, as much as; fully
 - 足以 — zúyǐ — V — sufficient to..., so much so that, so that
 - 族 — zú — N — race, nationality, ethnicity
-- 族（上班族） — zú (shàngbānzú) — Suffix — [gloss needed]
+- 族（上班族） — zú (shàngbānzú) — Suffix — suffix: group, tribe (e.g. 上班族 office workers)
 - 祖父 — zǔfù — N — father's father, paternal grandfather
 - 祖国 — zǔguó — N — motherland
 - 祖母 — zǔmǔ — N — father's mother; paternal grandmother

@@ -1,0 +1,656 @@
+---
+type: 'vocab'
+category: 'vocab'
+status: 'complete'
+title: '关系 · relationship, connections'
+desc: 'The untranslatable social fabric — relational leverage, it matters.'
+metaDesc: "关系 guānxi: relationship, connection, social capital, and the network logic of Chinese society. The word that explains how China works."
+pageTitle: '关系 guānxi'
+tags:
+  - 'social'
+  - 'connections'
+  - 'culture'
+updated: '2026-04-18'
+pinyin: 'guānxi'
+---
+
+<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+
+    <span class="toc-topic">关系</span>
+    <span class="toc-topic-en">Relationship · Connections</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#etymology">
+        <span class="toc-cn">字源</span> Etymology
+        <span class="toc-sub">zìyuán · gate + tie</span>
+      </a></li>
+      <li><a href="#basic">
+        <span class="toc-cn">基本关系</span> Relationship
+        <span class="toc-sub">jīběn guānxi · core uses</span>
+      </a></li>
+      <li><a href="#social">
+        <span class="toc-cn">人际关系</span> Social Connections
+        <span class="toc-sub">rénjì guānxi · social capital</span>
+      </a></li>
+      <li><a href="#matters">
+        <span class="toc-cn">关系到</span> Matters &amp; Affects
+        <span class="toc-sub">guānxi dào · bearing on</span>
+      </a></li>
+      <li><a href="#guan">
+        <span class="toc-cn">关 独用</span> 关 Standalone
+        <span class="toc-sub">guān compounds</span>
+      </a></li>
+      <li><a href="#reltable">
+        <span class="toc-cn">关系词表</span> Relationship Types
+        <span class="toc-sub">vocabulary table</span>
+      </a></li>
+      <li><a href="#chengyu">
+        <span class="toc-cn">成语</span> Idioms
+        <span class="toc-sub">chéngyǔ · set phrases</span>
+      </a></li>
+      <li><a href="#adjacent">
+        <span class="toc-cn">相邻</span> Adjacent Vocab
+        <span class="toc-sub">xiānglín cíhuì</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- HERO -->
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">Vocabulary · 词汇 cíhuì</span>
+      <h1 class="topic-hero-title">关系</h1>
+      <span class="topic-hero-title-py">guānxi</span>
+      <p class="topic-hero-desc">Relationship, connection, and the social capital that makes things happen — the word that explains how China works.</p>
+    </header>
+
+    <!-- ── ETYMOLOGY ── -->
+    <span class="section-anchor" id="etymology"></span>
+    <div class="section-head">
+      <span class="sh-cn">字源</span>
+      <span class="sh-py">zìyuán</span>
+      <span class="sh-en">Etymology &amp; Structure</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="关">
+      <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
+      <p><strong>关 guān</strong> (to close; to relate to; a gate or checkpoint — originally depicted a crossbar securing a gate) <strong>+ 系 xì</strong> (to tie; to connect; a lineage or department — depicted a hand holding silk threads). The compound: a gate tied shut — the connection point, the bond that holds things together by controlling what passes between them.</p>
+      <p>关系 carries two distinct but related meanings that are essential to understand separately before seeing how they interact: (1) the abstract relationship or connection between things or people — this is relationship in the universal, neutral sense that any language needs; and (2) the practical social capital and network of personal connections that enables one to get things done in Chinese society — this is the sense that has attracted so much attention in business anthropology and been transliterated as "guanxi" in English.</p>
+      <p>The second meaning is not exotic. It is the Chinese word for the most human of realities: that what you can accomplish depends significantly on who you know and how well you have cultivated those relationships. Every society has this; Chinese society has a particularly developed vocabulary and set of practices for it. 关系 names this reality clearly where other languages use euphemism.</p>
+    </div>
+
+    <!-- ── BASIC USAGE ── -->
+    <span class="section-anchor" id="basic"></span>
+    <div class="section-head">
+      <span class="sh-cn">基本关系</span>
+      <span class="sh-py">jīběn guānxi</span>
+      <span class="sh-en">Relationship &amp; Connection — Core Uses</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">关系</span>
+          <span class="card-py">guānxi</span>
+          <span class="card-en">relationship; connection; relation</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          The neutral core meaning — the relationship or connection between any two entities. Can describe personal relationships (我们的关系很好), logical relationships (这两件事没有关系), and causal relationships (这跟你有什么关系？). An extremely high-frequency word that appears in virtually every domain of Chinese life.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他们的关系很好，经常一起出去玩。</div>
+            <div class="ex-py">Tāmen de guānxi hěn hǎo, jīngcháng yīqǐ chūqù wán.</div>
+            <div class="ex-en">They have a good relationship — they often go out together.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这两件事没有关系，不要混淆。</div>
+            <div class="ex-py">Zhè liǎng jiàn shì méiyǒu guānxi, bùyào hùnxiáo.</div>
+            <div class="ex-en">These two things are unrelated — don't conflate them.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">你们是什么关系？</div>
+            <div class="ex-py">Nǐmen shì shénme guānxi?</div>
+            <div class="ex-en">What is your relationship? (How do you know each other?)</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">语法 yǔfǎ · Grammar</span>
+          关系 as a noun requires no special verb: 我们的关系 (our relationship). As a verb phrase: 关系到 (relates to; has a bearing on). Fixed phrase: 没关系 (it doesn't matter; never mind — lit. "no relationship," meaning "no effect, no weight"). This fixed phrase is the standard response to 对不起 and is worth memorizing immediately.
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">有关系</span>
+          <span class="card-py">yǒu guānxi</span>
+          <span class="card-en">to be related; to matter; to have a bearing on</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V phrase 动词短语</span></div>
+        <div class="card-def">
+          有关系 means there is a connection, relevance, or effect between two things. 这跟我有关系吗？= "Does this concern me / affect me?" Used to establish relevance, causation, or connection. Contrast with 有关 yǒuguān (related to; concerning — slightly more formal, often in 有关部门, "relevant departments").
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">这件事跟你有没有关系？</div>
+            <div class="ex-py">Zhè jiàn shì gēn nǐ yǒu méiyǒu guānxi?</div>
+            <div class="ex-en">Does this matter concern you or not?</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">你吃什么跟你的健康有很大的关系。</div>
+            <div class="ex-py">Nǐ chī shénme gēn nǐ de jiànkāng yǒu hěn dà de guānxi.</div>
+            <div class="ex-en">What you eat has a big relationship with your health.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">睡眠质量和工作效率有直接关系。</div>
+            <div class="ex-py">Shuìmián zhìliàng hé gōngzuò xiàolǜ yǒu zhíjiē guānxi.</div>
+            <div class="ex-en">Sleep quality and work efficiency are directly related.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">没关系</span>
+          <span class="card-py">méi guānxi</span>
+          <span class="card-en">it doesn't matter; never mind; that's okay</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">Fixed phrase 固定短语</span></div>
+        <div class="card-def">
+          One of the most indispensable phrases in Mandarin. The standard response to 对不起 (sorry). Literally "no relationship" — meaning "it has no effect on us; it carries no weight." Learn this before your first week of speaking Chinese. Can also mean "it's not important" or "don't worry about it" in non-apology contexts.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">对不起！— 没关系，不用放在心上。</div>
+            <div class="ex-py">Duìbuqǐ! — Méi guānxi, bùyòng fàng zài xīn shàng.</div>
+            <div class="ex-en">Sorry! — Never mind, don't worry about it.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">迟到了没关系，重要的是你来了。</div>
+            <div class="ex-py">Chídào le méi guānxi, zhòngyào de shì nǐ lái le.</div>
+            <div class="ex-en">Being late doesn't matter — what's important is that you came.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">不会说普通话没关系，我们可以用英语。</div>
+            <div class="ex-py">Bù huì shuō pǔtōnghuà méi guānxi, wǒmen kěyǐ yòng yīngyǔ.</div>
+            <div class="ex-en">Not speaking Mandarin doesn't matter — we can use English.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards basic -->
+
+    <!-- ── SOCIAL CONNECTIONS ── -->
+    <span class="section-anchor" id="social"></span>
+    <div class="section-head">
+      <span class="sh-cn">人际关系</span>
+      <span class="sh-py">rénjì guānxi</span>
+      <span class="sh-en">Social Connections &amp; Capital</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="系">
+      <div class="scholar-label">文化洞见 wénhuà dòngjiàn · Cultural Note</div>
+      <p>In Chinese society, 关系 functions as social capital — the network of mutual obligations, trust, and reciprocity that enables people to navigate institutions, secure resources, and accomplish goals. This is not corruption (though it can shade into that at extremes); it is the basic logic of a relationship-based society in which personal trust mediates institutional access.</p>
+      <p>The key distinction: 关系 is not merely a passive description of who you know. It is an active resource that must be cultivated (维护关系 wéihù guānxi), built (建立关系 jiànlì guānxi), and sometimes leveraged (用关系 yòng guānxi). The cultivation takes time and involves reciprocal gift-giving (送礼 sònglǐ), shared meals (吃饭 chīfàn), and favors (帮忙 bāngmáng). The phrase 走后门 zǒu hòumén (to go through the back door — using connections to bypass official channels) is the more negative register of the same practice.</p>
+      <p>Understanding 关系 is not simply learning vocabulary. It is understanding that Chinese social life runs on relationship-logic in ways that differ structurally from societies organized around impersonal rules and universal procedures. Neither system is purely one thing — but the balance point is genuinely different.</p>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">人际关系</span>
+          <span class="card-py">rénjì guānxi</span>
+          <span class="card-en">interpersonal relationships; social connections</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          人际 rén jì = between people (人 person + 际 boundary, junction). 人际关系 is the standard term for the full web of interpersonal relationships in Chinese social and professional life. Appears constantly in business advice, psychology, and self-help contexts.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">处理好人际关系是职场成功的关键。</div>
+            <div class="ex-py">Chǔlǐ hǎo rénjì guānxi shì zhíchǎng chénggōng de guānjiàn.</div>
+            <div class="ex-en">Managing interpersonal relationships well is the key to professional success.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他的人际关系很广，认识很多有影响力的人。</div>
+            <div class="ex-py">Tā de rénjì guānxi hěn guǎng, rènshi hěn duō yǒu yǐngxiǎolì de rén.</div>
+            <div class="ex-en">He has extensive social connections — he knows many influential people.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">建立良好的人际关系需要时间和真诚。</div>
+            <div class="ex-py">Jiànlì liánghǎo de rénjì guānxi xūyào shíjiān hé zhēnchéng.</div>
+            <div class="ex-en">Building good interpersonal relationships requires time and sincerity.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">关系网</span>
+          <span class="card-py">guānxi wǎng</span>
+          <span class="card-en">network of connections; relationship network</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          网 wǎng = net; network. 关系网 is the spider's web of personal connections — who you know, who they know, and the overlapping obligations and trust that run through the web. Building (织 zhī — weaving), expanding (扩大 kuòdà), and maintaining this network are active ongoing activities for socially and professionally ambitious people in China.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他多年来织了一张广泛的关系网。</div>
+            <div class="ex-py">Tā duōnián lái zhī le yī zhāng guǎngfàn de guānxi wǎng.</div>
+            <div class="ex-en">He has spent years weaving a broad network of connections.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">在商业上，扩大关系网络非常重要。</div>
+            <div class="ex-py">Zài shāngyè shàng, kuòdà guānxi wǎngluò fēicháng zhòngyào.</div>
+            <div class="ex-en">In business, expanding your network of connections is critically important.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">她的关系网覆盖了政界和商界。</div>
+            <div class="ex-py">Tā de guānxi wǎng fùgài le zhèngjiè hé shāngjiè.</div>
+            <div class="ex-en">Her network of connections spans both the political and business worlds.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">走关系</span>
+          <span class="card-py">zǒu guānxi</span>
+          <span class="card-en">to use personal connections to get something done</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V phrase 动词短语</span></div>
+        <div class="card-def">
+          走 zǒu = to go through; to travel via. 走关系 means to go through the channel of personal connections to accomplish something that might otherwise be difficult or slow. This can range from mildly expedient (asking a friend to make an introduction) to ethically questionable (bypassing merit-based processes). The verb 走 implies actively mobilizing the network rather than passively having it.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他是走关系进那家公司的，不是正式面试进去的。</div>
+            <div class="ex-py">Tā shì zǒu guānxi jìn nà jiā gōngsī de, bù shì zhèngshì miànshì jìnqù de.</div>
+            <div class="ex-en">He got into that company through connections — not through a formal interview.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">在某些情况下，走关系比走程序更有效。</div>
+            <div class="ex-py">Zài mǒu xiē qíngkuàng xià, zǒu guānxi bǐ zǒu chéngxù gèng yǒuxiào.</div>
+            <div class="ex-en">In certain situations, using connections is more effective than going through official procedures.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他不想走关系，希望凭自己的实力。</div>
+            <div class="ex-py">Tā bù xiǎng zǒu guānxi, xīwàng píng zìjǐ de shílì.</div>
+            <div class="ex-en">He doesn't want to use connections — he wants to rely on his own ability.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards social -->
+
+    <!-- ── MATTERS & AFFECTS ── -->
+    <span class="section-anchor" id="matters"></span>
+    <div class="section-head">
+      <span class="sh-cn">关系到</span>
+      <span class="sh-py">guānxi dào</span>
+      <span class="sh-en">Matters, Affects &amp; Bears Upon</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">关系到</span>
+          <span class="card-py">guānxi dào</span>
+          <span class="card-en">to affect; to have a bearing on; to be relevant to</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V phrase 动词短语</span></div>
+        <div class="card-def">
+          关系到 (lit. "the relationship reaches to") means that something has a bearing on, affects, or is relevant to something else. Used for high-stakes matters where the connection is important to note explicitly. Common in official, journalistic, and persuasive writing.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">这个决定关系到每个员工的利益。</div>
+            <div class="ex-py">Zhège juédìng guānxi dào měi gè yuángōng de lìyì.</div>
+            <div class="ex-en">This decision affects the interests of every employee.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">食品安全关系到每个人的生命健康。</div>
+            <div class="ex-py">Shípǐn ānquán guānxi dào měi gè rén de shēngmìng jiànkāng.</div>
+            <div class="ex-en">Food safety has a direct bearing on everyone's life and health.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这件事关系到公司的长远发展，必须认真对待。</div>
+            <div class="ex-py">Zhè jiàn shì guānxi dào gōngsī de chángyuǎn fāzhǎn, bìxū rènzhēn duìdài.</div>
+            <div class="ex-en">This matter bears on the company's long-term development — it must be taken seriously.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">关系重大</span>
+          <span class="card-py">guānxi zhòngdà</span>
+          <span class="card-en">of great importance; high-stakes; consequential</span>
+        </div>
+        <div class="tags"><span class="tag tag-adj">Adj phrase 形容词短语</span></div>
+        <div class="card-def">
+          A common fixed expression used to characterize something as having major consequences or importance. 重大 zhòngdà = major, significant. Used in formal registers to signal that a decision, situation, or event carries real weight and should be treated with corresponding seriousness.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">这是一个关系重大的决定，请慎重考虑。</div>
+            <div class="ex-py">Zhè shì yī gè guānxi zhòngdà de juédìng, qǐng shènzhòng kǎolǜ.</div>
+            <div class="ex-en">This is a high-stakes decision — please consider it carefully.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">在关系重大的时刻，我们必须保持冷静。</div>
+            <div class="ex-py">Zài guānxi zhòngdà de shíkè, wǒmen bìxū bǎochí lěngjìng.</div>
+            <div class="ex-en">At consequential moments, we must remain calm.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards matters -->
+
+    <!-- ── 关 STANDALONE ── -->
+    <span class="section-anchor" id="guan"></span>
+    <div class="section-head">
+      <span class="sh-cn">关 独用</span>
+      <span class="sh-py">guān dú yòng</span>
+      <span class="sh-en">关 as a Standalone Productive Element</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">关心</span>
+          <span class="card-py">guānxīn</span>
+          <span class="card-en">to care about; concern; care</span>
+        </div>
+        <div class="tags"><span class="tag tag-vn">V/N 动名词</span></div>
+        <div class="card-def">
+          关 (to concern; to be connected to) + 心 (heart). The heart connected to something — caring. One of the most important relational verbs in Chinese. Both the action of caring and the expression of concern. High frequency in family, friendship, and professional contexts.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他很关心父母的健康，经常打电话问候。</div>
+            <div class="ex-py">Tā hěn guānxīn fùmǔ de jiànkāng, jīngcháng dǎ diànhuà wènhòu.</div>
+            <div class="ex-en">He cares a lot about his parents' health — he calls to check in often.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">谢谢你的关心，我现在好多了。</div>
+            <div class="ex-py">Xièxie nǐ de guānxīn, wǒ xiànzài hǎo duō le.</div>
+            <div class="ex-en">Thank you for your concern — I'm feeling much better now.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">你不用关心这件事，交给我就行。</div>
+            <div class="ex-py">Nǐ bùyòng guānxīn zhè jiàn shì, jiāo gěi wǒ jiù xíng.</div>
+            <div class="ex-en">You don't need to worry about this — just leave it to me.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">有关 / 无关</span>
+          <span class="card-py">yǒuguān / wúguān</span>
+          <span class="card-en">related to / unrelated to; relevant / irrelevant</span>
+        </div>
+        <div class="tags"><span class="tag tag-adj">Adj 形容词 xíngróngcí</span></div>
+        <div class="card-def">
+          有关 (related to; concerning; relevant) is common in formal and official Chinese — 有关部门 (relevant departments) is a classic bureaucratic phrase. 无关 (unrelated; irrelevant) is used to dismiss connections. 无关紧要 wúguān jǐnyào = unimportant; beside the point. Both pattern as adjectives before nouns or after copulas.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">有关部门已经开始调查这件事。</div>
+            <div class="ex-py">Yǒuguān bùmén yǐjīng kāishǐ diàochá zhè jiàn shì.</div>
+            <div class="ex-en">The relevant departments have already begun investigating this matter.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这件事与你无关，不必担心。</div>
+            <div class="ex-py">Zhè jiàn shì yǔ nǐ wúguān, bùbì dānxīn.</div>
+            <div class="ex-en">This matter has nothing to do with you — no need to worry.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这些细节无关紧要，我们专注于主要问题。</div>
+            <div class="ex-py">Zhèxiē xìjié wúguān jǐnyào, wǒmen zhuānzhù yú zhǔyào wèntí.</div>
+            <div class="ex-en">These details are beside the point — let's focus on the main issue.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">关注</span>
+          <span class="card-py">guānzhù</span>
+          <span class="card-en">to pay attention to; to follow closely; attention; concern</span>
+        </div>
+        <div class="tags"><span class="tag tag-vn">V/N 动名词</span></div>
+        <div class="card-def">
+          关 (to concern; to connect) + 注 (to pour; to focus — water pouring into a single point). Focused, sustained attention toward something important. In digital contexts, 关注 means to follow someone's account (social media). In social and political contexts, it means to pay close, engaged attention to an issue or person.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">请大家关注最新的进展。</div>
+            <div class="ex-py">Qǐng dàjiā guānzhù zuìxīn de jìnzhǎn.</div>
+            <div class="ex-en">Please everyone pay attention to the latest developments.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">请关注我们的官方账号获取更多信息。</div>
+            <div class="ex-py">Qǐng guānzhù wǒmen de guānfāng zhànghào huòqǔ gèng duō xìnxi.</div>
+            <div class="ex-en">Please follow our official account for more information.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这个项目引起了社会各界的广泛关注。</div>
+            <div class="ex-py">Zhège xiàngmù yǐnqǐ le shèhuì gè jiè de guǎngfàn guānzhù.</div>
+            <div class="ex-en">This project has attracted widespread attention from all sectors of society.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">关联</span>
+          <span class="card-py">guānlián</span>
+          <span class="card-en">correlation; connection; to be associated with</span>
+        </div>
+        <div class="tags"><span class="tag tag-vn">V/N 动名词</span></div>
+        <div class="card-def">
+          关 (connection) + 联 (to join; to link). More formal and analytical than 关系 — used for logical correlations, data relationships, and systematic connections. Common in academic, research, and analytical writing. 相互关联 xiānghù guānlián = mutually correlated; interconnected.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">这两个现象之间有明显的关联。</div>
+            <div class="ex-py">Zhè liǎng gè xiànxiàng zhījiān yǒu míngxiǎn de guānlián.</div>
+            <div class="ex-en">There is a clear correlation between these two phenomena.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">贫困与教育水平密切关联。</div>
+            <div class="ex-py">Pínkùn yǔ jiàoyù shuǐpíng mìqiē guānlián.</div>
+            <div class="ex-en">Poverty and education level are closely correlated.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards guan -->
+
+    <!-- ── RELATIONSHIP VOCABULARY TABLE ── -->
+    <span class="section-anchor" id="reltable"></span>
+    <div class="section-head">
+      <span class="sh-cn">关系词表</span>
+      <span class="sh-py">guānxi cí biǎo</span>
+      <span class="sh-en">Vocabulary of Relationship Types</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="人">
+      <div class="scholar-label">词汇扩展 cíhuì kuòzhǎn · Vocabulary Extension</div>
+      <p>Chinese has a richly differentiated vocabulary for relationship types. The precision of Chinese kinship terms is famous — where English has a single word "aunt," Chinese distinguishes 伯母 (father's older brother's wife), 婶母 (father's younger brother's wife), 姑母 (father's sister), 舅母 (mother's brother's wife), and 姨母 (mother's sister). But beyond kinship, Chinese also has precise terms for social, professional, and situational relationships — all of which use 关系 as the governing concept.</p>
+    </div>
+
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>词 Cí</th>
+            <th>拼音 Pīnyīn</th>
+            <th>英文 Yīngwén</th>
+            <th>注释 Zhùshì</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="td-cn">朋友关系</td>
+            <td class="td-py">péngyou guānxi</td>
+            <td>friendship</td>
+            <td>The most common social relationship; very broad in Chinese usage</td>
+          </tr>
+          <tr>
+            <td class="td-cn">恋爱关系</td>
+            <td class="td-py">liàn'ài guānxi</td>
+            <td>romantic relationship</td>
+            <td>Being in a relationship; dating. 谈恋爱 = to be in a romance</td>
+          </tr>
+          <tr>
+            <td class="td-cn">合作关系</td>
+            <td class="td-py">hézuò guānxi</td>
+            <td>cooperative relationship</td>
+            <td>Business or project partnership</td>
+          </tr>
+          <tr>
+            <td class="td-cn">竞争关系</td>
+            <td class="td-py">jìngzhēng guānxi</td>
+            <td>competitive relationship</td>
+            <td>Between rivals or competing parties</td>
+          </tr>
+          <tr>
+            <td class="td-cn">上下级关系</td>
+            <td class="td-py">shàng xià jí guānxi</td>
+            <td>hierarchical relationship</td>
+            <td>Superior-subordinate; critical in Chinese organizational culture</td>
+          </tr>
+          <tr>
+            <td class="td-cn">同事关系</td>
+            <td class="td-py">tóngshì guānxi</td>
+            <td>colleague relationship</td>
+            <td>Between coworkers; often requires careful management</td>
+          </tr>
+          <tr>
+            <td class="td-cn">师生关系</td>
+            <td class="td-py">shī shēng guānxi</td>
+            <td>teacher-student relationship</td>
+            <td>One of the five cardinal Confucian relationships</td>
+          </tr>
+          <tr>
+            <td class="td-cn">外交关系</td>
+            <td class="td-py">wàijiāo guānxi</td>
+            <td>diplomatic relations</td>
+            <td>Between countries; 建立外交关系 = to establish diplomatic relations</td>
+          </tr>
+          <tr>
+            <td class="td-cn">供应关系</td>
+            <td class="td-py">gōngyìng guānxi</td>
+            <td>supplier relationship</td>
+            <td>Between supplier and buyer; commercial chain relationship</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- ── CHENGYU ── -->
+    <span class="section-anchor" id="chengyu"></span>
+    <div class="section-head">
+      <span class="sh-cn">成语</span>
+      <span class="sh-py">chéngyǔ</span>
+      <span class="sh-en">Idioms &amp; Set Phrases</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="chengyu-grid">
+
+      <div class="cy">
+        <span class="cy-cn">息息相关</span>
+        <span class="cy-py">xī xī xiāng guān</span>
+        <span class="cy-en">"every breath mutually connected" — closely and inextricably interconnected</span>
+        <span class="cy-note">Lit: breath-breath-mutually-connected. 息 = breath. The image: two systems breathing in such synchrony that they cannot be separated. Used for things that are organically and necessarily connected. 这两个问题息息相关，解决一个就能推动另一个。"These two issues are inextricably linked — solving one will advance the other."</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">利害关系</span>
+        <span class="cy-py">lì hài guān xi</span>
+        <span class="cy-en">"interest-harm relationship" — a relationship involving mutual stakes and risks</span>
+        <span class="cy-note">Lit: benefit-harm-relationship. Describes a situation where parties are bound by shared interests and shared risks — where what benefits or harms one affects the others. 他们之间有复杂的利害关系，不能轻易分开。"There are complex stakes between them — they can't be easily separated."</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">无关紧要</span>
+        <span class="cy-py">wú guān jǐn yào</span>
+        <span class="cy-en">"unrelated to the important" — trivial; beside the point; not worth worrying about</span>
+        <span class="cy-note">Lit: no-connection-tense-important. Used to dismiss irrelevant details or minor concerns. 这些细节无关紧要，我们不要在这里浪费时间。"These details are beside the point — let's not waste time on them." Often used as a diplomatic way to redirect a conversation.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">关系密切</span>
+        <span class="cy-py">guān xi mì qiē</span>
+        <span class="cy-en">"relationship close and tight" — closely connected; intimately related</span>
+        <span class="cy-note">A descriptive fixed phrase rather than a classical 成语, but widely used as a set expression in formal Chinese writing and speech. 这两家公司的关系密切，共享很多资源。"These two companies are closely connected and share many resources." The closeness can be personal, institutional, or strategic.</span>
+      </div>
+
+    </div>
+
+    <!-- ── ADJACENT VOCAB ── -->
+    <span class="section-anchor" id="adjacent"></span>
+    <div class="section-head">
+      <span class="sh-cn">相邻词汇</span>
+      <span class="sh-py">xiānglín cíhuì</span>
+      <span class="sh-en">Adjacent Vocabulary</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">联系</span><span class="a-py">liánxi</span><span class="a-en">connection; to contact</span></span>
+      <span class="adj"><span class="a-cn">关联</span><span class="a-py">guānlián</span><span class="a-en">correlation; association</span></span>
+      <span class="adj"><span class="a-cn">网络</span><span class="a-py">wǎngluò</span><span class="a-en">network</span></span>
+      <span class="adj"><span class="a-cn">人脉</span><span class="a-py">rénmài</span><span class="a-en">personal connections; network</span></span>
+      <span class="adj"><span class="a-cn">社交</span><span class="a-py">shèjiāo</span><span class="a-en">social interaction</span></span>
+      <span class="adj"><span class="a-cn">朋友</span><span class="a-py">péngyou</span><span class="a-en">friend</span></span>
+      <span class="adj"><span class="a-cn">同事</span><span class="a-py">tóngshì</span><span class="a-en">colleague</span></span>
+      <span class="adj"><span class="a-cn">合作</span><span class="a-py">hézuò</span><span class="a-en">cooperation</span></span>
+      <span class="adj"><span class="a-cn">信任</span><span class="a-py">xìnrèn</span><span class="a-en">trust</span></span>
+      <span class="adj"><span class="a-cn">义务</span><span class="a-py">yìwù</span><span class="a-en">obligation; duty</span></span>
+      <span class="adj"><span class="a-cn">人情</span><span class="a-py">rénqíng</span><span class="a-en">social obligation; human feeling</span></span>
+      <span class="adj"><span class="a-cn">面子</span><span class="a-py">miànzi</span><span class="a-en">face; social prestige</span></span>
+    </div>
+
+    <!-- RETENTION SCHOLAR BOX -->
+    <div class="scholar" data-glyph="关" style="margin-top:2.5rem;">
+      <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
+      <p>A gate tied shut. That is 关系: the bond that both connects and controls, that opens doors and requires keys. The word for "never mind" (没关系) and the word for your social network (关系) are the same word — because in Chinese social life, what matters and who you know are not entirely separate questions.</p>
+      <p>When things are 没关系, they have no weight — no gate bars the way, no bond constrains. When you have 关系, you have weight — the accumulated trust, obligation, and reciprocity that makes society move. The network is a set of gates, and every relationship is a key. Cultivate them carefully, use them thoughtfully, and never mistake their absence for neutrality.</p>
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="page-footer">
+      <span class="footer-id">Field Notes on Chinese · <span>关系 guānxi</span> · guanxi_关系.html</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>

@@ -1,0 +1,282 @@
+---
+type: 'topic'
+category: 'history'
+status: 'complete'
+title: '明朝 · The Ming Dynasty'
+desc: "The Great Wall rebuilt, Zheng He's voyages, and the inward turn."
+metaDesc: "明朝 míngcháo: Han Chinese restoration, the ruthless founder Hongwu, Zheng He's seven voyages, the Forbidden City, the Great Wall in brick, and the dynasty's slow collapse into peasant rebellion and Manchu invasion."
+pageTitle: '明朝 míngcháo · The Ming Dynasty'
+tags:
+  - 'ming'
+  - 'great-wall'
+  - 'zhenghe'
+updated: '2026-04-18'
+pinyin: 'míngcháo'
+---
+
+<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+    <span class="toc-topic">明朝</span>
+    <span class="toc-topic-en">The Ming Dynasty</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#hongwu">
+        <span class="toc-cn">洪武帝</span> The Founder
+        <span class="toc-sub">Zhu Yuanzhang, 1368–1398</span>
+      </a></li>
+      <li><a href="#yongle">
+        <span class="toc-cn">永乐帝</span> The Yongle Emperor
+        <span class="toc-sub">Beijing, encyclopedias, voyages</span>
+      </a></li>
+      <li><a href="#zhenghe">
+        <span class="toc-cn">郑和</span> Zheng He's Voyages
+        <span class="toc-sub">1405–1433 · seven expeditions</span>
+      </a></li>
+      <li><a href="#forbidden">
+        <span class="toc-cn">紫禁城</span> The Forbidden City
+        <span class="toc-sub">heart of the Ming world</span>
+      </a></li>
+      <li><a href="#greatwall">
+        <span class="toc-cn">长城</span> The Great Wall
+        <span class="toc-sub">what tourists see today</span>
+      </a></li>
+      <li><a href="#decline">
+        <span class="toc-cn">明朝的衰亡</span> Decline
+        <span class="toc-sub">eunuchs, rebels, Manchus</span>
+      </a></li>
+      <li><a href="#chengyu">
+        <span class="toc-cn">成语短语</span> Idioms &amp; Phrases
+        <span class="toc-sub">chéngyǔ · set phrases</span>
+      </a></li>
+      <li><a href="#vocab">
+        <span class="toc-cn">核心词汇</span> Key Vocabulary
+        <span class="toc-sub">essential terms</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- HERO -->
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">History · 历史 lìshǐ</span>
+      <h1 class="topic-hero-title">明朝</h1>
+      <span class="topic-hero-title-py">míngcháo</span>
+      <p class="topic-hero-desc">The Ming dynasty (1368–1644) restored Han Chinese rule after Mongol occupation, built the Forbidden City, launched the greatest naval fleet in history, and then spent a century retreating inward before collapsing into peasant rebellion and Manchu conquest.</p>
+    </header>
+
+    <!-- ── HONGWU EMPEROR ── -->
+    <span class="section-anchor" id="hongwu"></span>
+    <div class="section-head">
+      <span class="sh-cn">洪武帝</span>
+      <span class="sh-py">Hóngwǔ Dì</span>
+      <span class="sh-en">The Founder — Zhu Yuanzhang as Hongwu Emperor</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="明">
+      <div class="scholar-label">历史背景 lìshǐ bèijǐng · Historical Context</div>
+      <p><strong>朱元璋 Zhū Yuánzhāng</strong> (1328–1398) rose from the most abject origins in Chinese history to found one of its most enduring dynasties. Born into a tenant farming family in Anhui (安徽 Ānhuī), he lost his parents, siblings, and much of his community to a catastrophic combination of drought, famine, and plague in 1344, when he was sixteen. He survived by becoming a wandering Buddhist monk-beggar for several years before joining the Red Turban rebel forces and methodically rising to become their supreme commander.</p>
+      <p>In 1368, he proclaimed the Ming dynasty (明朝 Míngcháo — "bright," "luminous," perhaps with Buddhist resonances of light) from his capital at Nanjing (南京 Nánjīng), adopting the reign name Hongwu (洪武 Hóngwǔ, "Vast Martial Power"). As the <strong>洪武帝 Hóngwǔ Dì</strong>, he would rule for thirty years and transform China's administrative structures more radically than any emperor since the First Qin Emperor.</p>
+      <p>Hongwu's psyche was shaped indelibly by his origins. He was deeply suspicious of the educated elite — the Confucian scholar-officials who had looked down on people like him for centuries. He was equally suspicious of concentrated power anywhere near his throne. His solution was institutional: he abolished the position of Prime Minister (丞相 chéngxiàng) in 1380 after executing the incumbent Hu Weiyong on charges of treason, absorbing its functions directly into the emperor's office. Henceforth the emperor himself would supervise the six ministries — a workload that, by Hongwu's own count, required handling over a thousand documents and reviewing thousands of matters in a single ten-day period. He expected his successors to match this pace. Most could not.</p>
+      <p>His purges were without precedent in scale. In two major campaigns — the Hu Weiyong case (胡惟庸案 Hú Wéiyōng àn) and the Lan Yu case (蓝玉案 Lán Yù àn) — he executed tens of thousands of officials, military commanders, and their extended families. Estimates of the total dead range from thirty thousand to over one hundred thousand. The goal was to eliminate any aristocratic military or administrative class that might threaten the throne. The result was also to eliminate much of the experienced talent that the dynasty needed to function, and to install a culture of terror in the bureaucracy that would shape official behavior for centuries.</p>
+      <p>Despite his brutality toward officials, Hongwu showed genuine concern for peasants — from whose ranks he had come. He reduced taxes, expanded land reclamation programs, created community welfare granaries (义仓 yìcāng), and established the lijia system (里甲制 lǐjiǎ zhì) of local self-administration that shifted much governance responsibility to communities themselves. His agrarian vision of a stable, self-sufficient peasant society in some ways anticipated the Maoist ideology of the twentieth century.</p>
+    </div>
+
+    <div class="pattern">
+      <span class="label">年表 niánbiǎo · Ming Key Dates</span>
+      <strong>1368</strong> — Zhu Yuanzhang proclaims Ming dynasty; capital at Nanjing<br>
+      <strong>1380</strong> — Prime Minister abolished; emperor takes direct control of government<br>
+      <strong>1402</strong> — Yongle Emperor seizes throne from his nephew in the Jingnan Campaign<br>
+      <strong>1405–1433</strong> — Zheng He's seven voyages to Southeast Asia, India, Arabia, East Africa<br>
+      <strong>1420</strong> — Forbidden City completed; capital moved from Nanjing to Beijing<br>
+      <strong>1449</strong> — Tumu Crisis: Emperor Yingzong captured by Mongols (土木之变)<br>
+      <strong>1521–1567</strong> — Jiajing and Longqing reigns: coastal piracy, Japanese trade conflicts<br>
+      <strong>1572–1620</strong> — Wanli reign: longest reign; 28 years of non-cooperation with officials<br>
+      <strong>1644</strong> — Li Zicheng takes Beijing; last Ming emperor hangs himself; Manchus enter
+    </div>
+
+    <!-- ── YONGLE EMPEROR ── -->
+    <span class="section-anchor" id="yongle"></span>
+    <div class="section-head">
+      <span class="sh-cn">永乐帝</span>
+      <span class="sh-py">Yǒnglè Dì</span>
+      <span class="sh-en">The Yongle Emperor — Beijing, Encyclopedias, and Ambition</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="乐">
+      <div class="scholar-label">历史分析 lìshǐ fēnxī · Historical Analysis</div>
+      <p>The fourth Ming emperor, known by his reign name <strong>永乐帝 Yǒnglè Dì</strong> (r. 1402–1424, "Eternal Happiness"), was Zhu Yuanzhang's fourth son, the Prince of Yan, stationed at Beijing to guard the northern frontier. He usurped the throne from his nephew the Jianwen Emperor through a three-year civil war known as the Jingnan Campaign (靖难之役 Jīngnán zhī Yì), then spent his entire reign engaged in projects of such colossal ambition that they shaped China — and Asian history — for centuries.</p>
+      <p>The most consequential decision was moving the capital from Nanjing to Beijing. Nanjing (南京, "Southern Capital") was where Hongwu had ruled; Beijing (北京, "Northern Capital") was the Prince of Yan's base, close to the northern frontier that the Yongle Emperor considered the primary military threat. The move required constructing an entirely new imperial complex — and the result was the <strong>紫禁城 Zǐjìnchéng</strong> (Forbidden City), built between 1406 and 1420, the largest palace complex in the world.</p>
+      <p>The Yongle Emperor also commissioned the <strong>永乐大典 Yǒnglè Dàdiǎn</strong> (Yongle Dadian), an encyclopedia of staggering scope — approximately 22,937 chapters compiled from thousands of books, covering history, philosophy, literature, medicine, agriculture, and the arts. Only a fraction survives today, but the project represents the most ambitious act of knowledge preservation in pre-modern history. Its implicit claim — that all knowledge could be gathered and organized under imperial patronage — encodes the Yongle worldview perfectly.</p>
+      <p>And it was the Yongle Emperor who authorized and funded the seven voyages of <strong>郑和 Zhèng Hé</strong>, the Muslim eunuch admiral whose expeditions to Southeast Asia, India, Arabia, and the East African coast between 1405 and 1433 represented the apogee of Chinese maritime power — and whose legacy remains one of the most debated questions in Chinese historiography.</p>
+    </div>
+
+    <!-- ── ZHENG HE ── -->
+    <span class="section-anchor" id="zhenghe"></span>
+    <div class="section-head">
+      <span class="sh-cn">郑和下西洋</span>
+      <span class="sh-py">Zhèng Hé Xià Xīyáng</span>
+      <span class="sh-en">Zheng He's Voyages to the Western Oceans</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="洋">
+      <div class="scholar-label">航海史 hánghǎi shǐ · Maritime History</div>
+      <p><strong>郑和 Zhèng Hé</strong> (1371–1433) was born Ma He into a Muslim family in Yunnan (云南 Yúnnán) whose patriarch had made the hajj to Mecca. Captured as a boy during the Ming conquest of Yunnan, he was castrated and entered imperial service as a eunuch attendant to the Prince of Yan — the future Yongle Emperor. He distinguished himself in the Jingnan Campaign and became one of the most trusted figures at the new court. His appointment to command the voyages was a mark of extraordinary imperial confidence.</p>
+      <p>Between 1405 and 1433, Zheng He led seven expeditions to what the Chinese called the <strong>西洋 xīyáng</strong> (Western Ocean — roughly the Indian Ocean world). At their peak, his fleets comprised over three hundred vessels and nearly thirty thousand men. His flagship, the <strong>宝船 bǎochuán</strong> (treasure ship), is described in Chinese sources as approximately 127 meters long — if accurate, making it the largest wooden ship ever built, comparable in length to a modern aircraft carrier and dwarfing anything in the Portuguese, Spanish, or Arab fleets of the period.</p>
+      <p>The voyages established Chinese tributary relationships with dozens of polities from Java to Hormuz to Malindi (in modern Kenya). They brought exotic animals — giraffes (麒麟 qílín, interpreted as the mythological qilin, a sign of heaven's blessing), lions, zebras — to the Chinese court. They demonstrated Chinese naval supremacy across the Indian Ocean in a way that remains without parallel in pre-modern maritime history.</p>
+      <p>And then, after the seventh voyage, they stopped. The Xuande Emperor (宣德帝 Xuāndé Dì, r. 1425–1435) died in 1435. Confucian officials who had opposed the voyages from the beginning — condemning them as wasteful, dangerous, and beneath the dignity of a Confucian state focused on agricultural stability — gained the upper hand at court. The fleet was allowed to rot. Records of the voyages were deliberately suppressed or destroyed by hostile officials. The shipbuilding expertise that had created the treasure ships was lost within a generation. China turned decisively inward.</p>
+      <p>This withdrawal has been analyzed endlessly by historians. Some see it as evidence of a fundamentally conservative Confucian state incapable of commercial expansion. Others emphasize the specific circumstances: the northern frontier's military demands consumed enormous resources, and the Mongol threat was more immediate to the Confucian bureaucracy than any distant maritime opportunity. What is beyond dispute is that the timing — occurring roughly simultaneously with the beginning of Portuguese expansion around Africa — produced a world-historical fork in the road whose consequences are still being lived.</p>
+    </div>
+
+    <div class="pattern">
+      <span class="label">七次下西洋 Qī cì xià xīyáng · The Seven Voyages at a Glance</span>
+      <strong>第一次 1405–1407</strong> — 62 large ships, ~27,800 men; reached Calicut (Kozhikode) on India's Malabar Coast<br>
+      <strong>第二次 1407–1409</strong> — consolidated tributary relationships in Southeast Asia and India<br>
+      <strong>第三次 1409–1411</strong> — Sri Lanka (锡兰 Xīlán); military intervention in dynastic dispute<br>
+      <strong>第四次 1413–1415</strong> — reached the Persian Gulf and Arabian peninsula; Hormuz<br>
+      <strong>第五次 1417–1419</strong> — East Africa for the first time; Malindi; brought a giraffe (麒麟) to Beijing<br>
+      <strong>第六次 1421–1422</strong> — established tributary missions across the Indian Ocean world<br>
+      <strong>第七次 1431–1433</strong> — Zheng He's last voyage; died at sea near Calicut, age ~62
+    </div>
+
+    <!-- ── FORBIDDEN CITY ── -->
+    <span class="section-anchor" id="forbidden"></span>
+    <div class="section-head">
+      <span class="sh-cn">紫禁城</span>
+      <span class="sh-py">Zǐjìnchéng</span>
+      <span class="sh-en">The Forbidden City — Heart of the Ming World</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="禁">
+      <div class="scholar-label">建筑文化 jiànzhù wénhuà · Architecture &amp; Culture</div>
+      <p>The <strong>紫禁城 Zǐjìnchéng</strong> — literally "Purple Forbidden City" — was constructed between 1406 and 1420 under the direction of the Yongle Emperor, using approximately one million workers and one hundred thousand artisans. The name derives from cosmological symbolism: 紫 (purple/crimson) references 紫微星 Zǐwēixīng, the Pole Star around which the heavens rotate — the celestial abode of the supreme divine ruler. The earthly emperor, as Son of Heaven (天子 tiānzǐ), was the terrestrial counterpart of that cosmic center. 禁 (forbidden) indicates that ordinary subjects could not enter without imperial permission. 城 (city) reflects its true scale: 72 hectares, 980 buildings, approximately 9,000 rooms.</p>
+      <p>The complex is organized along a strict south-north axis aligned with the meridian of Beijing, expressing the Chinese cosmological principle that the ruler faces south while his subjects approach from the north. The outer court (外朝 wàicháo) contained the great ceremonial halls where state business was conducted — most notably the <strong>太和殿 Tàihédiàn</strong> (Hall of Supreme Harmony), where emperors held court, received tribute, and were crowned. The inner court (内廷 nèitíng) housed the imperial family, concubines, and eunuch attendants in residential and garden compounds.</p>
+      <p>The Forbidden City served as the home of twenty-four emperors — fourteen Ming and ten Qing — across nearly five centuries. Entry was rigorously controlled: officials could only enter designated gates, at designated times, for designated audiences. The eunuchs (宦官 huànguān or 太监 tàijiān) who served the inner court became, over time, the primary intermediaries between the emperor and the outside world — a structural role that would produce both extraordinary loyalty and catastrophic corruption.</p>
+      <p>Today the Forbidden City is known in Mandarin as the <strong>故宫 Gùgōng</strong> (Former Palace / Palace Museum). It receives approximately fourteen million visitors per year, making it the world's most visited museum. The Palace Museum's collection of imperial artifacts — paintings, calligraphy, ceramics, bronzes, jades — is among the most significant in the world, with a second major portion housed in the National Palace Museum in Taipei, Taiwan, removed there in 1948.</p>
+    </div>
+
+    <!-- ── GREAT WALL ── -->
+    <span class="section-anchor" id="greatwall"></span>
+    <div class="section-head">
+      <span class="sh-cn">长城（明长城）</span>
+      <span class="sh-py">Chángchéng (Míng Chángchéng)</span>
+      <span class="sh-en">The Great Wall — the Ming Version Tourists See</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="城">
+      <div class="scholar-label">历史建筑 lìshǐ jiànzhù · Historical Architecture</div>
+      <p>The <strong>长城 Chángchéng</strong> (Long Wall / Great Wall) that tourists visit today — the majestic, brick-paved ramparts with watchtowers at Badaling (八达岭 Bādálǐng), Mutianyu (慕田峪 Mùtiányù), and Jinshanling (金山岭 Jīnshānlǐng) — is primarily a Ming dynasty construction. Earlier dynasties had built walls (the First Qin Emperor's famous wall was primarily rammed earth and far to the north of the Ming line), but it was the Ming that rebuilt and extended the wall in fired brick and stone on a scale that created what we see today.</p>
+      <p>The Ming Wall project was driven by the Tumu Crisis (土木之变 Tǔmù zhī Biàn) of 1449, in which Emperor Yingzong (英宗 Yīngzōng) was captured by Oirat Mongols under Esen Khan during a disastrous campaign. The humiliation — a sitting Chinese emperor held hostage by steppe nomads — shocked the court and produced a strategic reorientation away from offensive campaigns into Mongolia and toward fortified defense of the frontier. Over the following century and a half, the Ming progressively rebuilt and strengthened the northern wall, incorporating watchtowers, beacon towers, and garrison complexes into an integrated defense system spanning roughly 8,850 kilometers.</p>
+      <p>The wall ultimately failed in its strategic purpose: the Manchus (满族 Mǎnzú) who conquered China in 1644 did not breach the wall by force. They entered through Shanhai Pass (山海关 Shānhǎiguān) when the gate commander Wu Sangui (吴三桂 Wú Sānguì), facing the rebel forces of Li Zicheng who had just killed his emperor, opened the pass and invited the Manchus in as allies. Great walls can only be defeated from within.</p>
+      <p>The long wall's name in Chinese — 长城 Chángchéng — is literally "Long Wall." The English phrase "Great Wall of China" reflects a translation choice emphasizing magnitude; the Chinese name emphasizes extension. In contemporary Chinese, 长城 is used in numerous metaphorical senses: 钢铁长城 gāngtiě chángchéng (Iron Great Wall — a patriotic phrase for the People's Liberation Army), 心中的长城 (the wall in one's heart — barriers between people).</p>
+    </div>
+
+    <!-- ── DECLINE ── -->
+    <span class="section-anchor" id="decline"></span>
+    <div class="section-head">
+      <span class="sh-cn">明朝的衰亡</span>
+      <span class="sh-py">Míngcháo de Shuāiwáng</span>
+      <span class="sh-en">Decline — Eunuchs, Partisans, Rebels, and Manchus</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="亡">
+      <div class="scholar-label">历史分析 lìshǐ fēnxī · Historical Analysis</div>
+      <p>The late Ming was characterized by a system whose structural design made effective governance increasingly difficult. Hongwu's abolition of the Prime Ministership had concentrated executive power in the emperor — manageable for an emperor of extraordinary capacity and energy, but paralyzing when emperors were incompetent, reclusive, or simply uninterested in governing. The Wanli Emperor (万历帝 Wànlì Dì, r. 1572–1620) famously refused to hold court or process documents for twenty-eight consecutive years, conducting business — to the extent he did — through intermediaries.</p>
+      <p>Into the power vacuum stepped the <strong>宦官 huànguān</strong> (eunuchs). The eunuch institution, common to Chinese imperial courts since the Han dynasty, reached its most politically powerful and most destructive form in the late Ming. Eunuchs controlled access to the emperor, managed palace finances, commanded palace guard units, and eventually were appointed to supervise armies and provincial governments. The most notorious was <strong>魏忠贤 Wèi Zhōngxián</strong> (1568–1627), who wielded effective state power during the Tianqi Emperor's reign (1620–1627), persecuting and executing critics through a network of secret police informants, and whose power was so great that living subjects erected temples to him as if he were a deity.</p>
+      <p>Opposing the eunuch faction was the <strong>东林党 Dōnglín Dǎng</strong> (Donglin Partisans), a loose movement of Confucian scholars associated with the Donglin Academy in Wuxi (无锡 Wúxī). The Donglin advocated honest government, tax reform, and constraints on eunuch power. Their conflict with the eunuch faction was one of the defining struggles of the late Ming — and the Donglin consistently lost. Hundreds of their members were imprisoned, beaten, or killed during the height of Wei Zhongxian's power.</p>
+      <p>Meanwhile, the dynasty faced mounting external and internal crises simultaneously. In the northeast, the Jurchen leader <strong>努尔哈赤 Nǔ'ěrhāchì</strong> (Nurhaci, 1559–1626) unified the Jurchen tribes, proclaimed the Later Jin dynasty (后金 Hòu Jīn), and began the conquest of Liaodong — piece by piece taking apart Ming northeastern defenses. His son <strong>皇太极 Huángtàijí</strong> (Hong Taiji) would rename the dynasty Qing (清 Qīng) and the people Manchu (满族 Mǎnzú) in 1636.</p>
+      <p>Internally, the 1620s–1640s brought catastrophic drought, famine, and epidemic across northern China. Grain prices collapsed local economies. Banditry merged into organized rebellion. The most formidable rebel leader was <strong>李自成 Lǐ Zìchéng</strong> (1606–1645), a former postal worker from Shaanxi whose armies swept across the north under the slogan of abolishing taxes. In April 1644 his forces entered Beijing. The last Ming emperor, <strong>崇祯帝 Chóngzhēn Dì</strong>, hanged himself on Jingshan Hill (景山 Jǐngshān) behind the Forbidden City — traditionally, with a note apologizing to his ancestors that he had failed them. The Ming was over.</p>
+      <p>The philosopher <strong>王阳明 Wáng Yángmíng</strong> (Wang Yangming, 1472–1529) deserves mention as the dynasty's greatest intellectual contribution. His school of <strong>心学 xīnxué</strong> ("Learning of the Mind") held that moral knowledge is innate in every person's heart-mind (良知 liángzhī, innate moral knowing) and that ethical action requires direct engagement with the world, not just textual study. Wang Yangming's philosophy became enormously influential across East Asia — shaping Japanese Confucianism, Korean Neo-Confucianism, and the political thought of early twentieth-century reformers in China.</p>
+    </div>
+
+    <!-- ── CHENGYU ── -->
+    <span class="section-anchor" id="chengyu"></span>
+    <div class="section-head">
+      <span class="sh-cn">成语短语</span>
+      <span class="sh-py">Chéngyǔ Duǎnyǔ</span>
+      <span class="sh-en">Idioms &amp; Phrases Connected to the Ming Era</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="chengyu-grid">
+
+      <div class="cy">
+        <span class="cy-cn">土木之变</span>
+        <span class="cy-py">Tǔmù zhī Biàn</span>
+        <span class="cy-en">the Tumu Crisis — the catastrophic defeat in which a Chinese emperor was captured by nomads</span>
+        <span class="cy-note">The 1449 capture of Emperor Yingzong at Tumu Fortress (土木堡 Tǔmùbǎo) by Oirat Mongols under Esen Khan. A turning point that ended Ming offensive posture against the steppe and initiated the Great Wall rebuilding program. Used as a metonym for military disaster born of imperial overreach.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">宦官专权</span>
+        <span class="cy-py">huànguān zhuānquán</span>
+        <span class="cy-en">eunuch domination of state power — when palace servants usurp the emperor's authority</span>
+        <span class="cy-note">A recurring theme in Chinese historiography across multiple dynasties, but reaching its most extreme form in the late Ming. 专权 (monopolize power) is always pejorative. The phrase is invoked whenever insiders with access but no mandate accumulate power. 宦官 — the formal term; 太监 tàijiān — the more colloquial term for eunuch officials.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">天下兴亡，匹夫有责</span>
+        <span class="cy-py">tiānxià xīngwáng, pǐfū yǒu zé</span>
+        <span class="cy-en">the rise and fall of the realm is the responsibility of every common person</span>
+        <span class="cy-note">Attributed to the late Ming / early Qing Confucian scholar 顾炎武 Gù Yánwǔ (1613–1682), though the current form was popularized by Liang Qichao in the late Qing. A founding text of Chinese civic patriotism. 匹夫 (ordinary man, common person) here carries democratic overtones: responsibility is not reserved for rulers or officials. Often cited in discussions of national crisis.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">郑和下西洋</span>
+        <span class="cy-py">Zhèng Hé xià Xīyáng</span>
+        <span class="cy-en">Zheng He's expeditions to the Western Oceans — shorthand for Chinese maritime greatness</span>
+        <span class="cy-note">Used as a historical reference point in modern discussions of Chinese global engagement, maritime strategy, and the "peaceful rise" narrative. The voyages are cited as evidence that Chinese power projection has historically been tributary rather than colonial. 下 (go down to, descend to) reflects the Chinese perspective of the ocean as something one descends into from the land.</span>
+      </div>
+
+    </div>
+
+    <!-- ── KEY VOCABULARY ── -->
+    <span class="section-anchor" id="vocab"></span>
+    <div class="section-head">
+      <span class="sh-cn">核心词汇</span>
+      <span class="sh-py">Héxīn Cíhuì</span>
+      <span class="sh-en">Key Vocabulary of the Ming Dynasty</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">明朝</span><span class="a-py">Míngcháo</span><span class="a-en">Ming dynasty (1368–1644)</span></span>
+      <span class="adj"><span class="a-cn">洪武帝</span><span class="a-py">Hóngwǔ Dì</span><span class="a-en">first Ming emperor, Zhu Yuanzhang</span></span>
+      <span class="adj"><span class="a-cn">永乐帝</span><span class="a-py">Yǒnglè Dì</span><span class="a-en">third Ming emperor, builder of Beijing</span></span>
+      <span class="adj"><span class="a-cn">郑和</span><span class="a-py">Zhèng Hé</span><span class="a-en">admiral of the seven voyages</span></span>
+      <span class="adj"><span class="a-cn">宝船</span><span class="a-py">bǎochuán</span><span class="a-en">treasure ship (Zheng He's flagship)</span></span>
+      <span class="adj"><span class="a-cn">紫禁城</span><span class="a-py">Zǐjìnchéng</span><span class="a-en">Forbidden City</span></span>
+      <span class="adj"><span class="a-cn">故宫</span><span class="a-py">Gùgōng</span><span class="a-en">Former Palace / Palace Museum</span></span>
+      <span class="adj"><span class="a-cn">长城</span><span class="a-py">Chángchéng</span><span class="a-en">Great Wall</span></span>
+      <span class="adj"><span class="a-cn">太监</span><span class="a-py">tàijiān</span><span class="a-en">eunuch official</span></span>
+      <span class="adj"><span class="a-cn">东林党</span><span class="a-py">Dōnglín Dǎng</span><span class="a-en">Donglin Partisans (reform faction)</span></span>
+      <span class="adj"><span class="a-cn">王阳明</span><span class="a-py">Wáng Yángmíng</span><span class="a-en">philosopher of 心学 (mind-learning)</span></span>
+      <span class="adj"><span class="a-cn">心学</span><span class="a-py">xīnxué</span><span class="a-en">Learning of the Mind (Wang Yangming's school)</span></span>
+      <span class="adj"><span class="a-cn">李自成</span><span class="a-py">Lǐ Zìchéng</span><span class="a-en">rebel leader who took Beijing in 1644</span></span>
+      <span class="adj"><span class="a-cn">崇祯帝</span><span class="a-py">Chóngzhēn Dì</span><span class="a-en">last Ming emperor</span></span>
+      <span class="adj"><span class="a-cn">靖难之役</span><span class="a-py">Jīngnán zhī Yì</span><span class="a-en">Jingnan Campaign (Yongle's usurpation)</span></span>
+      <span class="adj"><span class="a-cn">西洋</span><span class="a-py">Xīyáng</span><span class="a-en">Western Ocean (Indian Ocean world)</span></span>
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="page-footer">
+      <span class="footer-id">Field Notes on Chinese · <span>明朝 míngcháo</span> · topic_mingchao.html</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>

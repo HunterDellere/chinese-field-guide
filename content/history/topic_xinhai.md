@@ -1,0 +1,296 @@
+---
+type: 'topic'
+category: 'history'
+status: 'complete'
+title: '辛亥革命 · The 1911 Revolution'
+desc: 'The end of empire, Sun Yat-sen, and the birth of the Republic.'
+metaDesc: "辛亥革命 xīnhài gémìng: the revolution that ended 2,000 years of imperial rule. Sun Yat-sen, the Three Principles, the Wuchang Uprising, Yuan Shikai's betrayal, and the May Fourth Movement as intellectual sequel."
+pageTitle: '辛亥革命 xīnhài gémìng · The 1911 Revolution'
+tags:
+  - '1911'
+  - 'republic'
+  - 'sun-yatsen'
+updated: '2026-04-18'
+pinyin: 'xīnhài gémìng'
+---
+
+<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+    <span class="toc-topic">辛亥革命</span>
+    <span class="toc-topic-en">The 1911 Revolution</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#crisis">
+        <span class="toc-cn">清末危机</span> Late Qing Crisis
+        <span class="toc-sub">the conditions for revolution</span>
+      </a></li>
+      <li><a href="#sunyatsen">
+        <span class="toc-cn">孙中山</span> Sun Yat-sen
+        <span class="toc-sub">father of the revolution</span>
+      </a></li>
+      <li><a href="#wuchang">
+        <span class="toc-cn">武昌起义</span> Wuchang Uprising
+        <span class="toc-sub">October 10, 1911 · 双十节</span>
+      </a></li>
+      <li><a href="#sanmin">
+        <span class="toc-cn">三民主义</span> Three Principles
+        <span class="toc-sub">nationalism, democracy, livelihood</span>
+      </a></li>
+      <li><a href="#yuan">
+        <span class="toc-cn">袁世凯</span> Yuan Shikai's Betrayal
+        <span class="toc-sub">the republic hijacked</span>
+      </a></li>
+      <li><a href="#mayfourth">
+        <span class="toc-cn">五四运动</span> May Fourth Movement
+        <span class="toc-sub">1919 · science, democracy, and Marxism</span>
+      </a></li>
+      <li><a href="#chengyu">
+        <span class="toc-cn">成语短语</span> Idioms &amp; Phrases
+        <span class="toc-sub">chéngyǔ · set phrases</span>
+      </a></li>
+      <li><a href="#vocab">
+        <span class="toc-cn">核心词汇</span> Key Vocabulary
+        <span class="toc-sub">essential terms</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- HERO -->
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">History · 历史 lìshǐ</span>
+      <h1 class="topic-hero-title">辛亥革命</h1>
+      <span class="topic-hero-title-py">xīnhài gémìng</span>
+      <p class="topic-hero-desc">The revolution of 1911 ended more than two thousand years of imperial rule in China — but the republic it created was almost immediately hijacked, leaving unresolved the questions of democracy, national identity, and political legitimacy that would drive Chinese history through the rest of the twentieth century.</p>
+    </header>
+
+    <!-- ── LATE QING CRISIS ── -->
+    <span class="section-anchor" id="crisis"></span>
+    <div class="section-head">
+      <span class="sh-cn">清末危机</span>
+      <span class="sh-py">Qīng Mò Wēijī</span>
+      <span class="sh-en">Late Qing Crisis — The Conditions for Revolution</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="革">
+      <div class="scholar-label">历史背景 lìshǐ bèijǐng · Historical Context</div>
+      <p>The name of the revolution derives from the traditional Chinese sexagenary calendar (干支 gānzhī): 1911 was the year of 辛亥 xīnhài (the combination of the eighth Heavenly Stem 辛 and the twelfth Earthly Branch 亥). The revolution therefore carries a date inscribed in the ancient cosmological system it was helping to dismantle — a poetic irony that the Chinese historical imagination has not missed.</p>
+      <p>By 1900, the Qing dynasty faced simultaneous crises that would have challenged any government: military defeat at the hands of Japan (1895) and the Western powers (1900), the financial burden of massive indemnities, the destabilization of traditional elites by a modernizing economy that rewarded new skills, the collapse of the Confucian examination system (abolished in 1905), and the emergence of a new class of educated Chinese — many trained in Japan or the West — who had absorbed ideas of nationalism, constitutionalism, and popular sovereignty.</p>
+      <p>The abolition of the examination system in 1905 was particularly consequential. For 1,300 years, the examination system had been the primary mechanism through which talented men achieved social mobility and the state recruited its officials. Its abolition left an entire class of ambitious young men with classical educations and no clear path to status — and simultaneously signaled that the state itself was abandoning the Confucian framework that had justified imperial authority. Into the resulting vacuum poured new ideologies: constitutional monarchy (advocated by 康有为 Kāng Yǒuwéi and 梁启超 Liáng Qǐchāo), outright revolution (advocated by 孙中山 Sūn Zhōngshān and others), and nascent socialism.</p>
+      <p>The constitutional reformers around Kang Youwei and Liang Qichao argued that China needed a Japanese-style transformation — Meiji modernization within a monarchical framework. The revolutionaries argued that the Manchu dynasty was irredeemably alien and that no genuine national revival was possible under foreign rule. This debate — reform vs. revolution, modernization within existing structures vs. structural overthrow — would define Chinese politics through much of the twentieth century.</p>
+      <p>A series of failed uprisings organized by revolutionary networks between 1895 and 1911 — most of them engineered by Sun Yat-sen's organization and most of them quickly suppressed — built a revolutionary tradition and created martyrs whose deaths accumulated moral capital. The <strong>黄花岗起义 Huánghuāgāng Qǐyì</strong> (Yellow Flower Mound Uprising) of April 1911, in which seventy-two revolutionaries were killed and their bodies buried together by sympathizers in Guangzhou, became a major symbol of revolutionary sacrifice.</p>
+    </div>
+
+    <!-- ── SUN YAT-SEN ── -->
+    <span class="section-anchor" id="sunyatsen"></span>
+    <div class="section-head">
+      <span class="sh-cn">孙中山</span>
+      <span class="sh-py">Sūn Zhōngshān</span>
+      <span class="sh-en">Sun Yat-sen — Father of the Revolution</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="孙">
+      <div class="scholar-label">历史人物 lìshǐ rénwù · Key Figure</div>
+      <p><strong>孙中山 Sūn Zhōngshān</strong> (Sun Yat-sen, 1866–1925) — known in China as 国父 Guófù, "Father of the Nation" — is the only political figure claimed as a founding father by both the People's Republic of China and the Republic of China (Taiwan), a distinction that reflects his unique role as a symbol of Chinese national aspiration that no subsequent political faction has been willing to abandon.</p>
+      <p>Born in Guangdong to a family with connections to overseas Chinese communities, Sun was educated partly in Hawaii and Hong Kong, trained as a physician, and became a revolutionary activist after the failure of an early reform petition to the Qing government in 1894. He founded the Revive China Society (兴中会 Xīngzhōng Huì) in Hawaii that year, and spent the next seventeen years as an exile and fundraiser — traveling to overseas Chinese communities in Hawaii, North America, Southeast Asia, Japan, and Europe to raise money and organize support for revolutionary networks inside China.</p>
+      <p>He was outside China — in the United States, raising funds — when the Wuchang Uprising broke out in October 1911. He learned of it from American newspapers. This biographical detail captures something essential about Sun: he was the revolution's ideological architect and international face more than its on-the-ground organizer. His prestige was such that when he returned to China in December 1911, the provincial assemblies that had declared independence elected him Provisional President of the Republic of China (中华民国临时大总统 Zhōnghuá Mínguó Línshí Dàzǒngtǒng) in January 1912.</p>
+      <p>His motto — <strong>天下为公 tiānxià wéi gōng</strong> ("the world belongs to all" / "all under heaven is the public good") — drawn from the <em>Book of Rites</em> (礼记 Lǐjì), appears on buildings, monuments, and public spaces across both mainland China and Taiwan. It expresses his vision of governance as public service rather than private dynastic possession — a direct rebuke to both the Manchu dynasty and to the warlord politics that would dominate the decade after his revolution.</p>
+      <p>Sun spent the years after 1912 in an almost continuous state of political frustration — watching Yuan Shikai hijack the republic, then leading an unsuccessful second revolution, then reorganizing his party (renamed the 中国国民党 Zhōngguó Guómíndǎng, Kuomintang / KMT, in 1919) with Soviet assistance, and finally launching the Northern Expedition before dying of liver cancer in Beijing in March 1925, the revolution incomplete. His last written words reportedly expressed sorrow that the revolution had not yet succeeded.</p>
+    </div>
+
+    <!-- ── WUCHANG UPRISING ── -->
+    <span class="section-anchor" id="wuchang"></span>
+    <div class="section-head">
+      <span class="sh-cn">武昌起义</span>
+      <span class="sh-py">Wǔchāng Qǐyì</span>
+      <span class="sh-en">The Wuchang Uprising — October 10, 1911</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="武">
+      <div class="scholar-label">历史事件 lìshǐ shìjiàn · The Pivotal Moment</div>
+      <p>The revolution that ended the Qing dynasty began not with a carefully organized campaign but with an accidental explosion. On October 9, 1911, a bomb being assembled in a revolutionary cell in Hankou (汉口 Hànkǒu, one of the tri-cities that would later merge into modern Wuhan, 武汉 Wǔhàn) went off prematurely. Alarmed that Qing authorities would now have their address lists and membership rolls, revolutionary soldiers in the New Army garrison at Wuchang (武昌 Wǔchāng) decided to strike immediately rather than wait for a planned future date.</p>
+      <p>On the night of October 10, 1911 — the tenth day of the tenth month, written 10/10 and called <strong>双十节 Shuāngshí Jié</strong> (Double Ten Festival) — the Wuchang garrison mutinied. The Qing commander fled. The revolutionaries captured the Hubei provincial capital and proclaimed independence within hours. The date is now celebrated as National Day in the Republic of China (Taiwan).</p>
+      <p>What is remarkable about the Wuchang Uprising is less its military details than its political velocity. Within six weeks, fifteen of China's twenty-four provinces had declared independence from the Qing court. Most of this was not military revolution — it was provincial assemblies and New Army commanders, many of whom had little connection to Sun Yat-sen's revolutionary network, seizing the opportunity to declare allegiance to a new order. The Qing dynasty collapsed not because it was militarily defeated but because its provincial elites — including many who had worked within the system — simultaneously abandoned it.</p>
+      <p>The Qing court's response was to recall its most capable general: <strong>袁世凯 Yuán Shìkǎi</strong> (1859–1916), who had been forced into retirement after the Guangxu Emperor's death. His recall set in motion a dynamic that would subvert the revolution almost immediately after its apparent success.</p>
+    </div>
+
+    <!-- ── THREE PRINCIPLES ── -->
+    <span class="section-anchor" id="sanmin"></span>
+    <div class="section-head">
+      <span class="sh-cn">三民主义</span>
+      <span class="sh-py">Sānmín Zhǔyì</span>
+      <span class="sh-en">The Three Principles of the People</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="民">
+      <div class="scholar-label">政治思想 zhèngzhì sīxiǎng · Political Philosophy</div>
+      <p>Sun Yat-sen's political philosophy, developed over decades and articulated most fully in a series of lectures in 1924, is called the <strong>三民主义 Sānmín Zhǔyì</strong> (Three Principles of the People) — often compared in Chinese political culture to Lincoln's "of the people, by the people, for the people," a formulation that Sun himself cited. The three principles are:</p>
+      <p><strong>民族主义 Mínzú Zhǔyì</strong> (Nationalism / National Identity): In its early form, this meant expelling the Manchus and restoring Han Chinese governance — "drive out the Tatars, restore China" (驱除鞑虏，恢复中华 qūchú Dálǔ, huīfù Zhōnghuá). After the revolution's success, Sun revised it to mean building a unified national identity among all of China's ethnic groups — Han, Manchu, Mongolian, Tibetan, and Muslim (the "Five Peoples of China," 五族共和 wǔ zú gònghé). Later, it came to emphasize resistance to foreign imperialism.</p>
+      <p><strong>民权主义 Mínquán Zhǔyì</strong> (Democracy / People's Rights): Sun envisioned a distinctive Chinese form of democratic governance incorporating "Five-Power Constitutionalism" (五权宪法 wǔquán xiànfǎ) — adding to the Western three branches (legislative, executive, judicial) two traditional Chinese institutions: an examination yuan (考试院 Kǎoshì Yuàn, managing civil service testing) and a control yuan (监察院 Jiānchá Yuàn, overseeing officials). He also envisioned a transitional period of "political tutelage" (训政 xùnzhèng) during which the KMT would educate the population for democratic self-governance — a clause that would later be used to justify one-party rule.</p>
+      <p><strong>民生主义 Mínshēng Zhǔyì</strong> (People's Livelihood): Sun's social and economic program, influenced by Henry George's single-tax theory, socialist thought, and Chinese traditions. It emphasized equalization of land rights, regulation of capital, and state intervention to prevent the extremes of poverty and wealth he had witnessed in Western industrial societies. This principle contained the seeds of both the KMT's land reform programs and the CCP's appropriation of Sun's legacy.</p>
+      <p>The Three Principles remain the official political ideology of the Republic of China (Taiwan) to this day — enshrined in the constitution. On the mainland, Sun Yat-sen is honored as a "forerunner of the revolution" (革命先行者 gémìng xiānxíng zhě) whose incomplete program the Chinese Communist Party claims to have fulfilled.</p>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">民族主义</span>
+          <span class="card-py">Mínzú Zhǔyì</span>
+          <span class="card-en">Nationalism — national identity and anti-imperialism</span>
+        </div>
+        <div class="card-def">
+          The first principle, evolving from anti-Manchu sentiment to pan-Chinese national identity to resistance against foreign imperialism. The evolution of this principle tracks the broader evolution of Chinese nationalism: from ethnic to civic, from anti-dynastic to anti-colonial.
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">民权主义</span>
+          <span class="card-py">Mínquán Zhǔyì</span>
+          <span class="card-en">Democracy — the rights and sovereignty of the people</span>
+        </div>
+        <div class="card-def">
+          Sun's vision of Chinese democracy combined Western constitutionalism with Chinese institutional traditions. The "Five-Power Constitution" added examination and control functions to the legislative-executive-judicial trifecta. His concept of a transitional "tutelage" period before full democracy would prove deeply influential — and deeply abused.
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">民生主义</span>
+          <span class="card-py">Mínshēng Zhǔyì</span>
+          <span class="card-en">People's Livelihood — economic justice and social welfare</span>
+        </div>
+        <div class="card-def">
+          The social-economic principle, influenced by land-value taxation theory and early socialism. Sun feared that China would develop capitalism's inequalities along with its productive power. The principle emphasized equalization of land ownership and regulation of capital — goals that both the KMT and CCP would claim to pursue through radically different means.
+        </div>
+      </div>
+
+    </div><!-- /cards -->
+
+    <!-- ── YUAN SHIKAI ── -->
+    <span class="section-anchor" id="yuan"></span>
+    <div class="section-head">
+      <span class="sh-cn">袁世凯的背叛</span>
+      <span class="sh-py">Yuán Shìkǎi de Bèipàn</span>
+      <span class="sh-en">Yuan Shikai — The Republic Hijacked</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="凯">
+      <div class="scholar-label">历史分析 lìshǐ fēnxī · Historical Analysis</div>
+      <p><strong>袁世凯 Yuán Shìkǎi</strong> (1859–1916) was the most powerful military commander in China at the end of the Qing era — the modernizer of the Beiyang Army (北洋军 Běiyáng Jūn), the dominant military force in north China, loyal to him personally rather than to the dynasty. When the Wuchang Uprising broke out, the Qing court had no military option that did not go through him. When Sun Yat-sen's provisional government needed the Qing to abdicate, it also had no realistic option that did not go through Yuan.</p>
+      <p>The deal struck in early 1912 was a political compromise born of mutual weakness: Yuan would pressure the Qing court to abdicate peacefully; in exchange, Sun Yat-sen would resign the provisional presidency in Yuan's favor. The last Qing emperor, the six-year-old Puyi, formally abdicated on February 12, 1912 — ending the Qing dynasty and over two thousand years of imperial governance in a single document. The Republic of China (中华民国 Zhōnghuá Mínguó) was born.</p>
+      <p>Yuan Shikai then systematically dismantled whatever democratic institutions the provisional government had established. He moved the capital from Nanjing (where the revolutionaries were strong) to Beijing (where his military base was). He had the newly elected parliamentary majority leader of Sun Yat-sen's party, <strong>宋教仁 Sòng Jiàorén</strong>, assassinated at Shanghai railway station in March 1913. When Sun Yat-sen led a "Second Revolution" (二次革命 Èrcì Gémìng) in July 1913 to oust Yuan, it was quickly crushed. Sun fled to Japan.</p>
+      <p>Yuan dissolved parliament, had himself appointed president for life, and in December 1915 attempted to restore the imperial system with himself as emperor — the culmination of a process that had gradually stripped the republic of every republican institution. This provoked a nationwide revolt. Provincial military commanders who had accepted Yuan's authority declared independence one by one. Yuan backed down, canceled his imperial claims, and died — conveniently — of illness in June 1916. The brief episode of his imperial restoration (洪宪帝制 Hóngxiàn Dìzhì) lasted only eighty-three days.</p>
+      <p>Yuan's death did not restore republican order. It inaugurated the Warlord Period (军阀时代 Jūnfá Shídài, 1916–1928), in which rival military commanders (军阀 jūnfá, warlords) carved up China into competing zones of control, conducting destructive wars while the nominal republican government in Beijing became an empty shell. The revolution had ended the dynasty but failed to build a functioning state to replace it.</p>
+    </div>
+
+    <!-- ── MAY FOURTH MOVEMENT ── -->
+    <span class="section-anchor" id="mayfourth"></span>
+    <div class="section-head">
+      <span class="sh-cn">五四运动</span>
+      <span class="sh-py">Wǔ-Sì Yùndòng</span>
+      <span class="sh-en">The May Fourth Movement — 1919 and its Aftermath</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="四">
+      <div class="scholar-label">思想运动 sīxiǎng yùndòng · Intellectual Movement</div>
+      <p>On May 4, 1919, several thousand students from Beijing's universities marched to Tiananmen Square (天安门广场 Tiān'ānmén Guǎngchǎng) to protest the terms of the Paris Peace Conference (巴黎和会 Bālí Héhuì). China had joined the Allied Powers in World War I expecting that, as a victor, it would recover the German concessions in Shandong (山东 Shāndōng) province. Instead, those concessions were transferred to Japan — which had presented China with the humiliating Twenty-One Demands (二十一条 Èrshíyī Tiáo) in 1915. The students' rage at this betrayal by the Western powers — powers they had looked to as models of democracy and international law — catalyzed a cultural movement of extraordinary consequence.</p>
+      <p>The <strong>五四运动 Wǔ-Sì Yùndòng</strong> (May Fourth Movement) is typically understood in two phases. The immediate political protest (anti-Japanese, anti-warlord) was followed by and intertwined with a deeper cultural revolution — the <strong>新文化运动 Xīn Wénhuà Yùndòng</strong> (New Culture Movement) — that had been building since 1915 around the journal <em>New Youth</em> (新青年 Xīn Qīngnián) edited by <strong>陈独秀 Chén Dúxiù</strong> and contributed to by <strong>胡适 Hú Shì</strong> and others. This movement attacked the foundations of traditional Chinese culture with a radical thoroughness that has few parallels in intellectual history.</p>
+      <p>The twin banners of the New Culture Movement were <strong>赛先生 Sài Xiānsheng</strong> (Mr. Science, a phonetic rendering of "Science") and <strong>德先生 Dé Xiānsheng</strong> (Mr. Democracy, a phonetic rendering of "Democracy"). Traditional Chinese culture — particularly Confucianism — was held responsible for China's weakness, backwardness, and inability to resist foreign aggression. Confucius (孔家店 Kǒng Jiā Diàn, "the Confucian shop") was a target of withering criticism. The classical literary language (文言文 wényánwén), which had been the medium of educated Chinese for centuries, was attacked as elitist and inaccessible; reformers advocated replacing it with vernacular writing (白话文 báihuàwén) to democratize literacy. <strong>鲁迅 Lǔ Xùn</strong> (Lu Xun, 1881–1936), whose short story "A Madman's Diary" (狂人日记 Kuángrén Rìjì, 1918) depicted the entire Confucian tradition as cannibalistic, is the movement's greatest literary figure.</p>
+      <p>The political and cultural crisis created by the May Fourth experience also gave birth to Chinese Marxism. <strong>李大钊 Lǐ Dàzhāo</strong>, head librarian at Beijing University, became the first major Chinese Marxist intellectual. Among his library assistants was a young man from Hunan named <strong>毛泽东 Máo Zédōng</strong>. The Chinese Communist Party (中国共产党 Zhōngguó Gòngchǎndǎng) was founded in Shanghai in July 1921 — directly from networks of intellectuals radicalized by the May Fourth experience.</p>
+      <p>May Fourth thus marks the hinge between the political revolution of 1911 and the social revolutions of the twentieth century. The date is commemorated in China as Youth Day (青年节 Qīngnián Jié, May 4), and "the May Fourth spirit" (五四精神 Wǔ-Sì Jīngshén) — variously defined as patriotism, science, democracy, or critical cultural engagement — remains a live reference point in Chinese intellectual and political discourse.</p>
+    </div>
+
+    <!-- ── CHENGYU ── -->
+    <span class="section-anchor" id="chengyu"></span>
+    <div class="section-head">
+      <span class="sh-cn">成语短语</span>
+      <span class="sh-py">Chéngyǔ Duǎnyǔ</span>
+      <span class="sh-en">Idioms &amp; Phrases of the Revolutionary Era</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="chengyu-grid">
+
+      <div class="cy">
+        <span class="cy-cn">天下为公</span>
+        <span class="cy-py">tiānxià wéi gōng</span>
+        <span class="cy-en">the world belongs to all — the realm is the public good, not private property</span>
+        <span class="cy-note">Sun Yat-sen's personal motto, drawn from the ancient <em>Book of Rites</em>. Inscribed on buildings and monuments across Taiwan and mainland China. The phrase directly opposes the Confucian concept of dynasties as family property (家天下 jiā tiānxià, "the realm as one family's possession"). Still invoked in Chinese political speeches as an aspiration for governance as public service rather than private power.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">振兴中华</span>
+        <span class="cy-py">zhènxīng Zhōnghuá</span>
+        <span class="cy-en">revitalize China — the rallying cry of national renewal</span>
+        <span class="cy-note">Attributed to Sun Yat-sen and the Revive China Society (兴中会). One of the most durable slogans in modern Chinese political history, used by the Nationalist government, the Communist government, and by Xi Jinping's "China Dream" (中国梦 Zhōngguó Mèng) rhetoric. The phrase encodes a particular historical narrative: China was once great, was humiliated, and is now recovering its rightful place.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">革命尚未成功，同志仍须努力</span>
+        <span class="cy-py">gémìng shàngwèi chénggōng, tóngzhì réng xū nǔlì</span>
+        <span class="cy-en">the revolution has not yet succeeded — comrades, you must still strive on</span>
+        <span class="cy-note">Sun Yat-sen's last written message, reportedly dictated as he lay dying in Beijing in March 1925. The phrase became one of the most quoted sentences in twentieth-century Chinese political culture, displayed in KMT institutions, invoked in speeches, and carried across the Taiwan Strait. Its power lies in framing the revolutionary project as perpetually unfinished — requiring continued dedication from every generation.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">三民主义</span>
+        <span class="cy-py">Sānmín Zhǔyì</span>
+        <span class="cy-en">the Three Principles of the People — nationalism, democracy, livelihood</span>
+        <span class="cy-note">Sun Yat-sen's political program, still the official ideology of the Republic of China (Taiwan). The phrase is so embedded in Chinese political vocabulary that it functions almost as a set term. Each of the three characters 民族 (national/ethnic group), 民权 (civil rights/people's rights), and 民生 (people's livelihood) has become a template for political analysis: any policy can be evaluated against each principle.</span>
+      </div>
+
+    </div>
+
+    <!-- ── KEY VOCABULARY ── -->
+    <span class="section-anchor" id="vocab"></span>
+    <div class="section-head">
+      <span class="sh-cn">核心词汇</span>
+      <span class="sh-py">Héxīn Cíhuì</span>
+      <span class="sh-en">Key Vocabulary of the Revolutionary Period</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">辛亥革命</span><span class="a-py">Xīnhài Gémìng</span><span class="a-en">the 1911 Revolution</span></span>
+      <span class="adj"><span class="a-cn">孙中山</span><span class="a-py">Sūn Zhōngshān</span><span class="a-en">Sun Yat-sen, father of the republic</span></span>
+      <span class="adj"><span class="a-cn">国父</span><span class="a-py">guófù</span><span class="a-en">father of the nation (Sun's title)</span></span>
+      <span class="adj"><span class="a-cn">中华民国</span><span class="a-py">Zhōnghuá Mínguó</span><span class="a-en">Republic of China</span></span>
+      <span class="adj"><span class="a-cn">武昌起义</span><span class="a-py">Wǔchāng Qǐyì</span><span class="a-en">Wuchang Uprising (Oct 10, 1911)</span></span>
+      <span class="adj"><span class="a-cn">双十节</span><span class="a-py">Shuāngshí Jié</span><span class="a-en">Double Ten Festival (Taiwan's National Day)</span></span>
+      <span class="adj"><span class="a-cn">三民主义</span><span class="a-py">Sānmín Zhǔyì</span><span class="a-en">Three Principles of the People</span></span>
+      <span class="adj"><span class="a-cn">袁世凯</span><span class="a-py">Yuán Shìkǎi</span><span class="a-en">military strongman who hijacked the republic</span></span>
+      <span class="adj"><span class="a-cn">北洋军</span><span class="a-py">Běiyáng Jūn</span><span class="a-en">Beiyang Army (Yuan's power base)</span></span>
+      <span class="adj"><span class="a-cn">军阀</span><span class="a-py">jūnfá</span><span class="a-en">warlord</span></span>
+      <span class="adj"><span class="a-cn">五四运动</span><span class="a-py">Wǔ-Sì Yùndòng</span><span class="a-en">May Fourth Movement (1919)</span></span>
+      <span class="adj"><span class="a-cn">新文化运动</span><span class="a-py">Xīn Wénhuà Yùndòng</span><span class="a-en">New Culture Movement</span></span>
+      <span class="adj"><span class="a-cn">白话文</span><span class="a-py">báihuàwén</span><span class="a-en">vernacular written Chinese</span></span>
+      <span class="adj"><span class="a-cn">鲁迅</span><span class="a-py">Lǔ Xùn</span><span class="a-en">Lu Xun, greatest May Fourth writer</span></span>
+      <span class="adj"><span class="a-cn">国民党</span><span class="a-py">Guómíndǎng</span><span class="a-en">Kuomintang / Nationalist Party (KMT)</span></span>
+      <span class="adj"><span class="a-cn">共产党</span><span class="a-py">Gòngchǎndǎng</span><span class="a-en">Communist Party, founded 1921</span></span>
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="page-footer">
+      <span class="footer-id">Field Notes on Chinese · <span>辛亥革命 xīnhài gémìng</span> · topic_xinhai.html</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>

@@ -1,0 +1,276 @@
+---
+type: 'topic'
+category: 'history'
+status: 'complete'
+title: '清朝 · The Qing Dynasty'
+desc: 'Manchu rule, the long peace, and the slow unraveling before 1911.'
+metaDesc: "清朝 qīngcháo: China's last imperial dynasty (1644–1912), ruled by the Manchu people. The three great emperors, Opium Wars, unequal treaties, Taiping Rebellion, Empress Dowager Cixi, and the end of 2,000 years of imperial rule."
+pageTitle: '清朝 qīngcháo · The Qing Dynasty'
+tags:
+  - 'qing'
+  - 'manchu'
+  - 'decline'
+updated: '2026-04-18'
+pinyin: 'qīngcháo'
+---
+
+<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+    <span class="toc-topic">清朝</span>
+    <span class="toc-topic-en">The Qing Dynasty</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#manchu">
+        <span class="toc-cn">满族入关</span> The Manchu Conquest
+        <span class="toc-sub">1644 · the queue and the transition</span>
+      </a></li>
+      <li><a href="#golden">
+        <span class="toc-cn">康乾盛世</span> The Golden Age
+        <span class="toc-sub">Kangxi, Yongzheng, Qianlong</span>
+      </a></li>
+      <li><a href="#opium">
+        <span class="toc-cn">鸦片战争</span> Opium Wars
+        <span class="toc-sub">1839–1842 &amp; 1856–1860</span>
+      </a></li>
+      <li><a href="#treaties">
+        <span class="toc-cn">不平等条约</span> Unequal Treaties
+        <span class="toc-sub">the century of humiliation begins</span>
+      </a></li>
+      <li><a href="#taiping">
+        <span class="toc-cn">太平天国</span> Taiping Rebellion
+        <span class="toc-sub">1850–1864 · 20–30 million dead</span>
+      </a></li>
+      <li><a href="#cixi">
+        <span class="toc-cn">慈禧与末代</span> Cixi and the End
+        <span class="toc-sub">1861–1912 · the last decades</span>
+      </a></li>
+      <li><a href="#chengyu">
+        <span class="toc-cn">成语短语</span> Idioms &amp; Phrases
+        <span class="toc-sub">chéngyǔ · set phrases</span>
+      </a></li>
+      <li><a href="#vocab">
+        <span class="toc-cn">核心词汇</span> Key Vocabulary
+        <span class="toc-sub">essential terms</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- HERO -->
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">History · 历史 lìshǐ</span>
+      <h1 class="topic-hero-title">清朝</h1>
+      <span class="topic-hero-title-py">qīngcháo</span>
+      <p class="topic-hero-desc">China's last imperial dynasty (1644–1912) — ruled by the Manchu people — encompassed a golden age of territorial expansion, then a century of crisis, Opium Wars, unequal treaties, and catastrophic civil war before the revolution of 1911 ended two thousand years of imperial rule.</p>
+    </header>
+
+    <!-- ── MANCHU CONQUEST ── -->
+    <span class="section-anchor" id="manchu"></span>
+    <div class="section-head">
+      <span class="sh-cn">满族入关</span>
+      <span class="sh-py">Mǎnzú Rùguān</span>
+      <span class="sh-en">The Manchu Entry Through the Pass — 1644</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="清">
+      <div class="scholar-label">历史背景 lìshǐ bèijǐng · Historical Context</div>
+      <p>The Qing dynasty's founding moment is one of history's more striking ironies. The <strong>满族 Mǎnzú</strong> (Manchu people) — a semi-nomadic people from Manchuria (满洲 Mǎnzhōu), northeast of the Great Wall — had been building their state for decades under the leadership of Nurhaci (努尔哈赤 Nǔ'ěrhāchì) and his son Hong Taiji (皇太极 Huángtàijí). In 1636, Hong Taiji renamed his state the Qing dynasty (清朝 Qīngcháo, "Clear" or "Pure") and his people the Manchu — establishing a new identity distinct from the Jurchen name their predecessors had used.</p>
+      <p>They did not conquer Beijing. They were invited in. When the rebel Li Zicheng's forces took Beijing in April 1644 and the last Ming emperor hanged himself, the Ming frontier commander <strong>吴三桂 Wú Sānguì</strong> faced an impossible choice: surrender to the rebels who had killed his emperor, or seek allies. He opened Shanhai Pass (山海关 Shānhǎiguān) — the gateway through the Great Wall — and invited Qing forces to help him defeat Li Zicheng. The Manchus, with their highly disciplined banner armies (八旗 bāqí), did exactly that, then declined to leave.</p>
+      <p>The full Qing conquest of China took seventeen more years. Southern Ming loyalist courts held out in Fujian, Guangdong, and Yunnan. The formidable loyalist commander <strong>郑成功 Zhèng Chénggōng</strong> (Koxinga) operated from Fujian and famously expelled the Dutch from Taiwan (台湾 Táiwān) in 1662, establishing it as a Ming loyalist base — the first Chinese governance of Taiwan. The last loyalist resistance on the mainland was crushed in 1662; Taiwan was incorporated into the Qing in 1683.</p>
+      <p>The Manchu imposition of the <strong>辫子 biànzi</strong> (queue hairstyle — the distinctive braid worn down the back, with the front of the head shaved) was one of the most culturally provocative acts of the conquest. Under the slogan "Keep your hair, lose your head; keep your head, lose your hair" (留头不留发，留发不留头 liú tóu bù liú fà, liú fà bù liú tóu), Qing authorities required all Han male subjects to adopt the Manchu hairstyle as a sign of submission. Resistance was punished by execution. The queue would be worn by Han men for 268 years — and cutting it would become a powerful symbolic act of revolution in 1911.</p>
+      <p>Despite this coercive beginning, the Qing proved remarkably adept at accommodating Chinese culture. The Manchu emperors became fluent in Chinese, mastered the Confucian classics, patronized Chinese arts and scholarship, and governed through the inherited Ming bureaucratic system with only modest modifications. They maintained their Manchu identity through strict endogamy, Manchu-language education, and separate banner military institutions — but they ruled as Chinese emperors, not as foreign overlords in the Yuan pattern.</p>
+    </div>
+
+    <div class="pattern">
+      <span class="label">清朝年表 Qīngcháo niánbiǎo · Key Dates</span>
+      <strong>1644</strong> — Manchu entry through Shanhai Pass; Qing takes Beijing<br>
+      <strong>1661–1722</strong> — Kangxi Emperor's reign: longest in Chinese history<br>
+      <strong>1683</strong> — Taiwan incorporated into Qing; Zheng family regime ends<br>
+      <strong>1735–1796</strong> — Qianlong Emperor's reign; peak of Qing territory<br>
+      <strong>1793</strong> — Macartney Mission: Britain seeks trade; Qianlong declines<br>
+      <strong>1839</strong> — Lin Zexu destroys Guangzhou opium stocks; First Opium War begins<br>
+      <strong>1842</strong> — Treaty of Nanjing: Hong Kong ceded; five ports opened<br>
+      <strong>1850–1864</strong> — Taiping Rebellion: 20–30 million dead<br>
+      <strong>1860</strong> — Anglo-French forces burn the Summer Palace (圆明园)<br>
+      <strong>1894–1895</strong> — Sino-Japanese War; Taiwan ceded to Japan<br>
+      <strong>1900</strong> — Boxer Rebellion; Eight-Nation Alliance occupies Beijing<br>
+      <strong>1908</strong> — Cixi and the Guangxu Emperor die within one day of each other<br>
+      <strong>1912</strong> — Last emperor Puyi abdicates; Qing dynasty ends
+    </div>
+
+    <!-- ── GOLDEN AGE ── -->
+    <span class="section-anchor" id="golden"></span>
+    <div class="section-head">
+      <span class="sh-cn">康乾盛世</span>
+      <span class="sh-py">Kāng-Qián Shèngshì</span>
+      <span class="sh-en">The Golden Age — Kangxi, Yongzheng, Qianlong</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="盛">
+      <div class="scholar-label">历史分析 lìshǐ fēnxī · The Three Great Emperors</div>
+      <p>The period from roughly 1661 to 1796 — spanning the reigns of three remarkable emperors — is known as the <strong>康乾盛世 Kāng-Qián Shèngshì</strong> (the High Qing Age, or the Flourishing Era of Kangxi and Qianlong). During this period, the Qing dynasty reached the apex of its territorial extent, population, economic output, and cultural prestige. China was the largest and most populous state in the world, producing approximately one-third of global GDP by some estimates.</p>
+      <p>The <strong>康熙帝 Kāngxī Dì</strong> (Kangxi Emperor, r. 1661–1722) is widely regarded as one of the ablest rulers in Chinese history. He pacified the Three Feudatories rebellion (三藩之乱 Sānfān zhī Luàn), incorporated Taiwan, neutralized the Zunghar Mongol threat, concluded the Treaty of Nerchinsk (尼布楚条约 Níbùchǔ Tiáoyuē, 1689) with Russia — the first treaty between China and a European power — and presided over decades of population growth and economic recovery. He was also genuinely curious about Western learning: Jesuit missionaries at his court introduced him to Western mathematics, astronomy, and music, and he engaged with them in substantive intellectual exchange. He commissioned the Kangxi Dictionary (康熙字典 Kāngxī Zìdiǎn, 1716), a comprehensive character dictionary of 47,035 entries that remains a reference work.</p>
+      <p>The <strong>雍正帝 Yōngzhèng Dì</strong> (Yongzheng Emperor, r. 1722–1735) is the most enigmatic of the three — hardworking, suspicious, and administratively innovative. He reformed the tax system, centralized financial reporting, created the Grand Council (军机处 Jūnjī Chù) as a new inner advisory body, and worked relentlessly to eliminate corruption. He is also associated with one of the most sweeping campaigns of literary censorship in Chinese history: the literary inquisition (文字狱 wénzì yù) that punished writers for perceived anti-Manchu sentiments in their texts — in some cases in books published decades earlier.</p>
+      <p>The <strong>乾隆帝 Qiánlóng Dì</strong> (Qianlong Emperor, r. 1735–1796, though he retained effective power until 1799) presided over the Qing's maximum territorial extent. His "Ten Great Campaigns" (十全武功 Shí Quán Wǔ Gōng) expanded Chinese control into Central Asia, defeating the Zunghars (a military campaign that historians have characterized as a genocide of the Zunghar population) and consolidating control over Xinjiang (新疆 Xīnjiāng, "New Territory"), Tibet (西藏 Xīzàng), and Outer Mongolia. He was also a prolific poet, calligrapher, and art collector — and his habit of inscribing his own poems on ancient artworks is regarded with something less than admiration by art historians today.</p>
+      <p>The Qianlong reign also marked the beginning of Qing decline, though this would only become apparent in retrospect. His famous dismissal of the Macartney Mission (马戛尔尼使团 Mǎgáěrnì shǐtuán) in 1793 — the British diplomatic mission seeking trade access and proper diplomatic relations — with the assertion that China "possesses all things in prolific abundance and lacks no product within its own borders" has become a symbol of imperial complacency in the face of the Industrial Revolution beginning in Britain. By his death in 1799, corruption had metastasized through the bureaucracy (centered on his favorite official He Shen, 和珅 Hé Shēn, whose fortune upon arrest was estimated at the equivalent of years of imperial revenue), and the structural challenges that would plague the nineteenth century were already taking shape.</p>
+    </div>
+
+    <!-- ── OPIUM WARS ── -->
+    <span class="section-anchor" id="opium"></span>
+    <div class="section-head">
+      <span class="sh-cn">鸦片战争</span>
+      <span class="sh-py">Yāpiàn Zhànzhēng</span>
+      <span class="sh-en">The Opium Wars — 1839–1842 and 1856–1860</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="战">
+      <div class="scholar-label">历史转折点 lìshǐ zhuǎnzhédiǎn · Historical Turning Point</div>
+      <p>The Opium Wars are the foundational trauma of modern Chinese historical consciousness — the events that mark the beginning of what Chinese historiography calls the <strong>百年屈辱 Bǎinián Qūrǔ</strong> (Century of Humiliation), a period extending from 1839 to 1949 in which China was repeatedly defeated, dismembered, and humiliated by foreign powers. Understanding the Opium Wars is prerequisite to understanding modern Chinese nationalism, foreign policy, and the psychological weight that "unequal treaties" carry in contemporary Chinese political discourse.</p>
+      <p>The structural problem: the Qing had restricted Western trade to a single port, Guangzhou (广州 Guǎngzhōu), through the <strong>广州体制 Guǎngzhōu Tǐzhì</strong> (Canton System). Western merchants could only trade through licensed Chinese merchants (the 行商 hángshāng, or Hong merchants) and could not reside permanently in the city or deal directly with Chinese officials. Britain, the dominant commercial power of the era, was importing enormous quantities of Chinese tea, silk, and porcelain — and paying for them in silver, creating a chronic trade deficit. The solution the East India Company devised was opium: grown in Bengal, shipped to Guangzhou, and sold through a network of smugglers for Chinese silver.</p>
+      <p>By the 1830s, opium addiction had spread dramatically through Chinese society — affecting soldiers, officials, and merchants — and silver was flowing out of China in alarming quantities, destabilizing the currency. Commissioner <strong>林则徐 Lín Zéxú</strong> (1785–1850) was sent to Guangzhou with orders to stop the trade. In a famous act that became a patriotic emblem, he confiscated approximately 1,200 tons of British-owned opium in 1839 and destroyed it in public at Humen (虎门 Hǔmén) — an event commemorated in the phrase <strong>虎门销烟 Hǔmén xiāo yān</strong> (the Humen Opium Destruction).</p>
+      <p>Britain responded with military force — the First Opium War (第一次鸦片战争 Dì yī cì Yāpiàn Zhànzhēng, 1839–1842). The technological disparity was stark and brutal. British steam-powered warships and modern artillery overwhelmed Chinese coastal defenses. The Nemesis, the first iron-hulled steam warship, operated in Chinese inland waters in ways sailing vessels never could have, bombarding fortifications and shrugging off Qing artillery fire. The war ended with the <strong>南京条约 Nánjīng Tiáoyuē</strong> (Treaty of Nanjing, 1842) — the first of the unequal treaties.</p>
+      <p>The Second Opium War (第二次鸦片战争, 1856–1860), fought by Britain and France following disputes over treaty implementation, went further. Anglo-French forces occupied Beijing in 1860 and deliberately burned the <strong>圆明园 Yuánmíngyuán</strong> (Old Summer Palace), a vast imperial garden complex of extraordinary beauty and cultural significance, as punishment for the Qing court's treatment of British negotiators. The loss of the Summer Palace remains a live wound in Chinese historical memory — its ruins, left unrestored, are maintained today as a "patriotic education" site.</p>
+    </div>
+
+    <!-- ── UNEQUAL TREATIES ── -->
+    <span class="section-anchor" id="treaties"></span>
+    <div class="section-head">
+      <span class="sh-cn">不平等条约</span>
+      <span class="sh-py">Bùpíngděng Tiáoyuē</span>
+      <span class="sh-en">Unequal Treaties — The Legal Architecture of Humiliation</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="约">
+      <div class="scholar-label">历史分析 lìshǐ fēnxī · Legal &amp; Political Analysis</div>
+      <p>The concept of <strong>不平等条约 bùpíngděng tiáoyuē</strong> (unequal treaties) is central to modern Chinese nationalism and cannot be understood without grasping both the specific legal content of these agreements and the psychological weight they accumulated over eighty years of repetition. Each treaty was experienced as a forced concession — signed not through diplomatic negotiation but under military duress, with the muzzles of superior foreign guns pointing at Chinese cities.</p>
+      <p>The key features that made these treaties "unequal": Chinese territory was ceded outright (Hong Kong to Britain in 1842; additional territories in subsequent treaties); trade ports were opened under terms dictated by foreign powers (the treaty ports, 通商口岸 tōngshāng kǒu'àn); reparations were imposed in quantities that strained Qing finances for decades; and — most insidiously — foreigners in China gained <strong>治外法权 zhìwài fǎquán</strong> (extraterritoriality), meaning they were subject only to their own countries' legal systems, not Chinese law, regardless of crimes committed on Chinese soil.</p>
+      <p>The cumulative list of losses through unequal treaties reads as a catalog of amputation: Hong Kong to Britain (1842, 1860, 1898 — Kowloon and the New Territories); Macau formalized under Portuguese control; Taiwan and the Penghu Islands ceded to Japan after the Sino-Japanese War (甲午战争 Jiǎwǔ Zhànzhēng, 1894–1895); Russia gaining influence over Manchuria and Outer Mongolia through separate conventions. The Boxer Protocol of 1901 imposed the largest indemnity in Chinese history, to be paid over forty years with interest.</p>
+      <p>The phrase most commonly associated with this era in Chinese historical memory is <strong>落后就要挨打 luòhòu jiù yào ái dǎ</strong> — "if you fall behind, you will be beaten." Attributed to various twentieth-century Chinese leaders (often Deng Xiaoping), it encapsulates the lesson drawn from the century of humiliation: that national weakness invites predation, and that modernization is therefore not merely desirable but existentially necessary. This phrase continues to circulate in contemporary Chinese political and educational discourse as justification for rapid development.</p>
+    </div>
+
+    <!-- ── TAIPING REBELLION ── -->
+    <span class="section-anchor" id="taiping"></span>
+    <div class="section-head">
+      <span class="sh-cn">太平天国</span>
+      <span class="sh-py">Tàipíng Tiānguó</span>
+      <span class="sh-en">The Taiping Rebellion — 1850 to 1864</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="平">
+      <div class="scholar-label">历史灾难 lìshǐ zāinàn · Historical Catastrophe</div>
+      <p>The <strong>太平天国运动 Tàipíng Tiānguó yùndòng</strong> (Taiping Heavenly Kingdom movement, 1850–1864) was the deadliest civil war in human history — and one of the least known outside China. Estimates of death toll range from 20 to 30 million, with some scholars proposing figures as high as 70 million when all associated famine, disease, and displacement are accounted for. To put this in context: the total casualties of the First World War were approximately 20 million.</p>
+      <p>The rebellion originated in Guangdong (广东 Guǎngdōng) with a Hakka man named <strong>洪秀全 Hóng Xiùquán</strong> (1814–1864), who had repeatedly failed the civil service examinations and then experienced a vision during a subsequent illness. He came to believe, partly through exposure to Protestant missionary materials, that he was the younger brother of Jesus Christ, sent to establish God's kingdom on earth. His synthesis of Christian millenarianism with Chinese heterodox religious traditions and deep peasant grievances against Qing rule — heavy taxation, Manchu ethnic domination, widespread poverty — produced a mass movement of extraordinary force.</p>
+      <p>The Taiping forces captured Nanjing in 1853 and renamed it Tianjing (天京 Tiānjīng, "Heavenly Capital"), ruling a substantial portion of southern China for eleven years. Their program was radical by any standard: abolition of private property and establishment of communal land ownership, equality of men and women (women served as soldiers and administrators), prohibition of foot-binding, opium, gambling, and prostitution, and replacement of Confucian classics with Taiping Christian texts in the examination system.</p>
+      <p>The Qing court, which could not suppress the Taiping using its demoralized banner and Green Standard armies, eventually turned to two forces that would reshape the late Qing political landscape. First, Western-led forces: the "Ever Victorious Army" (常胜军 Cháng Shèng Jūn) led by the American Frederick Townsend Ward and later the British officer Charles George Gordon ("Chinese Gordon"). Second, and more consequentially, Han Chinese regional armies: the Hunan Army (湘军 Xiāngjūn) led by <strong>曾国藩 Zēng Guófān</strong> and the Anhui Army (淮军 Huáijūn) led by <strong>李鸿章 Lǐ Hóngzhāng</strong>. These two figures, who funded and commanded their own armies independently of Manchu authority, prefigured the warlordism that would follow the Qing's collapse.</p>
+      <p>The Taiping capital fell in 1864; Hong Xiuquan had died of illness shortly before. The south was devastated — entire cities depopulated, agricultural infrastructure destroyed, tens of millions dead. The Qing survived, but the victory had accelerated its transformation into a dynasty dependent on Han regional power brokers it could not control.</p>
+    </div>
+
+    <!-- ── CIXI AND THE END ── -->
+    <span class="section-anchor" id="cixi"></span>
+    <div class="section-head">
+      <span class="sh-cn">慈禧与末代</span>
+      <span class="sh-py">Cíxī yǔ Mòdài</span>
+      <span class="sh-en">Cixi and the End of the Dynasty</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="禧">
+      <div class="scholar-label">历史人物 lìshǐ rénwù · Key Figure</div>
+      <p><strong>慈禧太后 Cíxī Tàihòu</strong> (Empress Dowager Cixi, 1835–1908) is the dominant figure of the late Qing and one of the most historically contested women in Chinese history. Born into a minor Manchu clan, she entered the imperial harem as a low-ranking concubine of the Xianfeng Emperor (咸丰帝 Xiánfēng Dì) and rose to extraordinary power through her only son — who became the Tongzhi Emperor (同治帝 Tóngzhì Dì) at age five in 1861. As co-regent with the Empress Dowager Ci'an (慈安太后), she effectively controlled the Qing government for the next four decades, with two brief interruptions.</p>
+      <p>Her record is genuinely mixed. Under her regency, the <strong>洋务运动 Yángwù Yùndòng</strong> (Self-Strengthening Movement) attempted to modernize Chinese military and industrial capacity by adopting Western technology while preserving Chinese values — the formula expressed as 中体西用 zhōng tǐ xī yòng ("Chinese essence, Western application"). Arsenals, shipyards, telegraph lines, and military academies were established. The effort was real but insufficient: the 1894–1895 war with Japan, which China had expected to win against a small island neighbor it had previously patronized culturally, ended in shattering defeat.</p>
+      <p>In 1898, the young Guangxu Emperor (光绪帝 Guāngxù Dì), influenced by reformers <strong>康有为 Kāng Yǒuwéi</strong> and <strong>梁启超 Liáng Qǐchāo</strong>, launched the <strong>百日维新 Bǎirì Wéixīn</strong> (Hundred Days Reform) — a sweeping program of modernization modeled partly on the Meiji Restoration in Japan. Cixi staged a coup, placed the Guangxu Emperor under house arrest, executed several leading reformers, and reversed nearly all the reforms. The episode confirmed her conservative instincts at precisely the moment when deep structural change had become urgent.</p>
+      <p>The <strong>义和团运动 Yìhétuán Yùndòng</strong> (Boxer Rebellion, 1899–1901) — a movement of rural Chinese who practiced martial arts rituals they believed made them invulnerable to bullets and who attacked Christian missionaries and Chinese Christian converts — received Cixi's support in a moment of catastrophic misjudgment. Her government declared war on all foreign powers simultaneously in June 1900. An Eight-Nation Alliance (八国联军 Bāguó Liánjūn) lifted the siege of the foreign legations in Beijing and occupied the capital. Cixi fled to Xi'an disguised as a peasant. The resulting Boxer Protocol (辛丑条约 Xīnchǒu Tiáoyuē, 1901) imposed an indemnity of 450 million taels of silver — roughly the Qing's total revenue for two years — and required permanent foreign military presence in Beijing.</p>
+      <p>Cixi died in November 1908, one day after the Guangxu Emperor — who had been her prisoner for a decade — died under circumstances that have never been satisfactorily explained. The three-year-old <strong>溥仪 Pǔyí</strong> (Puyi) became the last Qing emperor. Three years later, the 1911 Revolution swept the dynasty away.</p>
+    </div>
+
+    <!-- ── CHENGYU ── -->
+    <span class="section-anchor" id="chengyu"></span>
+    <div class="section-head">
+      <span class="sh-cn">成语短语</span>
+      <span class="sh-py">Chéngyǔ Duǎnyǔ</span>
+      <span class="sh-en">Idioms &amp; Phrases Connected to the Qing Era</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="chengyu-grid">
+
+      <div class="cy">
+        <span class="cy-cn">康乾盛世</span>
+        <span class="cy-py">Kāng-Qián shèngshì</span>
+        <span class="cy-en">the flourishing era of Kangxi and Qianlong — the Qing golden age</span>
+        <span class="cy-note">The compound reign-name shorthand 康乾 (Kangxi-Qianlong) with 盛世 (flourishing era, golden age). 盛世 is a politically charged term in contemporary China — the current leadership regularly uses 太平盛世 and similar phrases to characterize the present era, invoking the Qing golden age as a model for prosperity under strong central rule.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">虎门销烟</span>
+        <span class="cy-py">Hǔmén xiāo yān</span>
+        <span class="cy-en">the Humen Opium Destruction — Lin Zexu's burning of British opium in 1839</span>
+        <span class="cy-note">Commissioner Lin Zexu's destruction of 1,200 tons of British-owned opium at Humen (虎门), Guangdong, in June 1839. The act that triggered the First Opium War. Commemorated as a patriotic symbol in Chinese history education. The date (June 26) is marked as China's National Anti-Drug Day (中国禁毒日). Lin Zexu (林则徐) is celebrated as a national hero who stood against foreign aggression.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">割地赔款</span>
+        <span class="cy-py">gēdì péikuǎn</span>
+        <span class="cy-en">cede territory and pay indemnities — the formula of defeat in unequal treaties</span>
+        <span class="cy-note">Lit: cut-land-compensate-money. The standard shorthand for what unequal treaties required of China: territorial concessions (割地) combined with massive financial reparations (赔款). The phrase encodes the humiliation of the treaty system in four characters. Used in historical discussion and in nationalist rhetoric to characterize the Qing's failure to protect Chinese sovereignty.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">落后就要挨打</span>
+        <span class="cy-py">luòhòu jiù yào ái dǎ</span>
+        <span class="cy-en">if you fall behind, you will be beaten — the fundamental lesson of the century of humiliation</span>
+        <span class="cy-note">The defining phrase of modern Chinese nationalist historiography. Attributed to various leaders; popularized by Deng Xiaoping. The phrase frames national development not as aspiration but as existential necessity: weakness invites predation, therefore modernization is survival. Still widely cited in Chinese media and political speeches today as justification for rapid economic and military development.</span>
+      </div>
+
+    </div>
+
+    <!-- ── KEY VOCABULARY ── -->
+    <span class="section-anchor" id="vocab"></span>
+    <div class="section-head">
+      <span class="sh-cn">核心词汇</span>
+      <span class="sh-py">Héxīn Cíhuì</span>
+      <span class="sh-en">Key Vocabulary of the Qing Dynasty</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">清朝</span><span class="a-py">Qīngcháo</span><span class="a-en">Qing dynasty (1644–1912)</span></span>
+      <span class="adj"><span class="a-cn">满族</span><span class="a-py">Mǎnzú</span><span class="a-en">Manchu people</span></span>
+      <span class="adj"><span class="a-cn">辫子</span><span class="a-py">biànzi</span><span class="a-en">the Manchu queue hairstyle</span></span>
+      <span class="adj"><span class="a-cn">八旗</span><span class="a-py">bāqí</span><span class="a-en">Eight Banners (Manchu military system)</span></span>
+      <span class="adj"><span class="a-cn">康熙帝</span><span class="a-py">Kāngxī Dì</span><span class="a-en">Kangxi Emperor (r. 1661–1722)</span></span>
+      <span class="adj"><span class="a-cn">乾隆帝</span><span class="a-py">Qiánlóng Dì</span><span class="a-en">Qianlong Emperor (r. 1735–1796)</span></span>
+      <span class="adj"><span class="a-cn">鸦片</span><span class="a-py">yāpiàn</span><span class="a-en">opium</span></span>
+      <span class="adj"><span class="a-cn">林则徐</span><span class="a-py">Lín Zéxú</span><span class="a-en">Commissioner who destroyed the opium</span></span>
+      <span class="adj"><span class="a-cn">不平等条约</span><span class="a-py">bùpíngděng tiáoyuē</span><span class="a-en">unequal treaties</span></span>
+      <span class="adj"><span class="a-cn">百年屈辱</span><span class="a-py">Bǎinián Qūrǔ</span><span class="a-en">Century of Humiliation</span></span>
+      <span class="adj"><span class="a-cn">太平天国</span><span class="a-py">Tàipíng Tiānguó</span><span class="a-en">Taiping Heavenly Kingdom</span></span>
+      <span class="adj"><span class="a-cn">圆明园</span><span class="a-py">Yuánmíngyuán</span><span class="a-en">Old Summer Palace (burned 1860)</span></span>
+      <span class="adj"><span class="a-cn">慈禧太后</span><span class="a-py">Cíxī Tàihòu</span><span class="a-en">Empress Dowager Cixi</span></span>
+      <span class="adj"><span class="a-cn">洋务运动</span><span class="a-py">Yángwù Yùndòng</span><span class="a-en">Self-Strengthening Movement</span></span>
+      <span class="adj"><span class="a-cn">义和团</span><span class="a-py">Yìhétuán</span><span class="a-en">Boxer movement</span></span>
+      <span class="adj"><span class="a-cn">溥仪</span><span class="a-py">Pǔyí</span><span class="a-en">last Qing emperor</span></span>
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="page-footer">
+      <span class="footer-id">Field Notes on Chinese · <span>清朝 qīngcháo</span> · topic_qingchao.html</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>

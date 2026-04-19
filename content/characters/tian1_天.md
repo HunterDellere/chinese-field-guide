@@ -1,0 +1,889 @@
+---
+type: 'character'
+category: 'characters'
+status: 'complete'
+title: '天 · sky, heaven, day'
+desc: 'Heaven as moral authority, weather, time, and the ground of 天命 the Mandate of Heaven.'
+metaDesc: "天 tiān: sky, heaven, day, and the supreme moral authority of Chinese civilization. Etymology, vocabulary compounds, the Mandate of Heaven, chengyu idioms, and usage notes."
+pageTitle: '天 tiān'
+tags:
+  - 'cosmology'
+  - 'heaven'
+  - 'mandate'
+updated: '2026-04-18'
+char: '天'
+pinyin: 'tiān'
+tone: 1
+hsk: 1
+radical: '大'
+---
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+    <button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+    <span class="toc-glyph">天</span>
+    <span class="toc-pinyin">tiān · tone 1</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#etymology">
+        <span class="toc-cn">字源</span> Etymology
+        <span class="toc-sub">zìyuán · origin &amp; structure</span>
+      </a></li>
+      <li><a href="#patterns">
+        <span class="toc-cn">构词</span> Patterns
+        <span class="toc-sub">gòucí · word-formation</span>
+      </a></li>
+      <li><a href="#sky">
+        <span class="toc-cn">天气</span> Sky &amp; Weather
+        <span class="toc-sub">tiānqì · atmosphere</span>
+      </a></li>
+      <li><a href="#days">
+        <span class="toc-cn">今天</span> 天 as Day
+        <span class="toc-sub">tiān · time words</span>
+      </a></li>
+      <li><a href="#paradise">
+        <span class="toc-cn">天堂</span> Paradise
+        <span class="toc-sub">tiāntáng · heaven above</span>
+      </a></li>
+      <li><a href="#mandate">
+        <span class="toc-cn">天命</span> The Mandate
+        <span class="toc-sub">tiānmìng · cosmic authority</span>
+      </a></li>
+      <li><a href="#endowed">
+        <span class="toc-cn">天才</span> Heaven-Endowed
+        <span class="toc-sub">tiāncái · innate gifts</span>
+      </a></li>
+      <li><a href="#moral-table">
+        <span class="toc-cn">天道</span> Moral Compounds
+        <span class="toc-sub">tiāndào · cosmic order</span>
+      </a></li>
+      <li><a href="#chengyu">
+        <span class="toc-cn">成语</span> Idioms
+        <span class="toc-sub">chéngyǔ · set phrases</span>
+      </a></li>
+      <li><a href="#adjacent">
+        <span class="toc-cn">相邻</span> Adjacent Vocab
+        <span class="toc-sub">xiānglín cíhuì</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- HERO -->
+    <header class="hero">
+      <div class="hero-inner">
+        <div class="hero-glyph-col">
+          <span class="hero-glyph">天</span>
+          <span class="hero-trad-note">繁體字 identical</span>
+        </div>
+        <div class="hero-meta">
+          <div class="hero-pinyin">tiān</div>
+          <div class="hero-en">sky · heaven · day · the supreme moral authority</div>
+          <div class="hero-chips">
+            <span class="chip">部首 bùshǒu · 大 dà great/person</span>
+            <span class="chip">4 笔画 bǐhuà strokes</span>
+            <span class="chip chip-hsk">HSK 1</span>
+            <span class="chip">tone 1 · tiān</span>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <!-- ── ETYMOLOGY ── -->
+    <span class="section-anchor" id="etymology"></span>
+    <div class="section-head">
+      <span class="sh-cn">字源</span>
+      <span class="sh-py">zìyuán</span>
+      <span class="sh-en">Etymology &amp; Structure</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="天">
+      <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
+      <p><strong>天 tiān = 大 dà</strong> (a person, arms outstretched) <strong>+ 一</strong> (a horizontal line above the head). Oracle-bone script shows a stick figure with a prominent mark above the crown — <em>what is above the person</em> = sky. Elegantly minimal: the one stroke that separates the human from the infinite above. The character was written, and the cosmos was divided.</p>
+      <p>But 天 is never merely meteorological in Chinese thought. It is the supreme moral-cosmic authority — not a personal god who intervenes with miracles, but an impersonal order that rewards virtue and punishes tyranny through the course of history. <strong>天命 tiānmìng</strong> (Mandate of Heaven): the Zhou dynasty used this concept in the eleventh century BCE to justify overthrowing the Shang. Heaven had "withdrawn its mandate" from the decadent Shang king and bestowed it on the virtuous Zhou. Every subsequent dynasty claimed 天命, and every collapse was interpreted as its loss. The concept shaped Chinese political theory for three millennia — it is perhaps the most consequential idea the character encodes.</p>
+      <p>In Japanese, 天 is read <em>ten</em> or <em>ame</em>. <strong>天皇</strong> <em>Tennō</em> = Emperor (lit. "heavenly sovereign"); <strong>天国</strong> <em>tengoku</em> = paradise; <strong>天気</strong> <em>tenki</em> = weather. The sky above is never just weather in either civilization.</p>
+    </div>
+
+    <!-- ── WORD-FORMATION ── -->
+    <span class="section-anchor" id="patterns"></span>
+    <div class="section-head">
+      <span class="sh-cn">构词</span>
+      <span class="sh-py">gòucí</span>
+      <span class="sh-en">Word-Formation Patterns</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">构词规律 gòucí guīlǜ · Four Templates</span>
+      <strong>天 + noun</strong> → sky/heavenly thing: 天气 weather · 天空 the sky · 天堂 paradise<br>
+      <strong>天 as time word</strong> → day: 今天 today · 明天 tomorrow · 每天 every day · 天天 day after day<br>
+      <strong>天 + moral noun</strong> → cosmic order: 天命 mandate of heaven · 天道 way of heaven · 天理 heavenly principle<br>
+      <strong>天 + superlative</strong> → ultimate: 天才 genius (heaven-talent) · 天下 all under heaven · 天经地义 self-evident truth
+    </div>
+
+    <!-- ── SKY & WEATHER ── -->
+    <span class="section-anchor" id="sky"></span>
+    <div class="section-head">
+      <span class="sh-cn">天气 · 天空</span>
+      <span class="sh-py">tiānqì · tiānkōng</span>
+      <span class="sh-en">Sky &amp; Weather</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <!-- 天气 -->
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">天气</span>
+          <span class="card-py">tiānqì</span>
+          <span class="card-en">weather</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          天 tiān (sky) + 气 qì (breath; air; vital force). Literally: the sky's breath. In traditional Chinese cosmology, <em>qì</em> 气 is the invisible force that animates all phenomena — weather is the sky breathing. Among the first words taught at HSK 1, yet it carries this depth beneath the surface.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">今天天气怎么样？</div>
+            <div class="ex-py">Jīntiān tiānqì zěnmeyàng?</div>
+            <div class="ex-en">What's the weather like today?</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">天气预报说明天有雨。</div>
+            <div class="ex-py">Tiānqì yùbào shuō míngtiān yǒu yǔ.</div>
+            <div class="ex-en">The weather forecast says there will be rain tomorrow.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这种天气最适合喝茶。</div>
+            <div class="ex-py">Zhè zhǒng tiānqì zuì shìhé hē chá.</div>
+            <div class="ex-en">This kind of weather is best for drinking tea.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">语法 yǔfǎ · Grammar</span>
+          天气 is a pure noun — never used as a verb. Modification: 天气 + 好/坏/热/冷/晴/阴. Compound modifier: 天气预报 tiānqì yùbào (weather forecast), 天气变化 tiānqì biànhuà (weather change).
+        </div>
+      </div>
+
+      <!-- 天空 -->
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">天空</span>
+          <span class="card-py">tiānkōng</span>
+          <span class="card-en">the sky; the heavens as a physical expanse</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          天 tiān (sky) + 空 kōng (empty; hollow; space). More poetic and specific than 天气 — refers to the physical dome of sky above, not weather conditions. Used in literary contexts, poetry, and vivid description. 空 kōng also means "empty" — the sky is the great emptiness above.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">夜晚的天空布满了星星。</div>
+            <div class="ex-py">Yèwǎn de tiānkōng bùmǎn le xīngxīng.</div>
+            <div class="ex-en">The night sky was covered with stars.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">蔚蓝的天空下，一切都显得宁静。</div>
+            <div class="ex-py">Wèilán de tiānkōng xià, yīqiè dōu xiǎndé níngjìng.</div>
+            <div class="ex-en">Under the azure sky, everything seemed tranquil.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">辨析 biànxī · 天空 vs. 天气</span>
+          <strong>天空</strong> = the visual dome, the physical space of sky (literary, poetic). <strong>天气</strong> = the weather conditions. You look up at the 天空; you check the 天气 before going out.
+        </div>
+      </div>
+
+      <!-- 天色 -->
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">天色</span>
+          <span class="card-py">tiānsè</span>
+          <span class="card-en">color of the sky; time of day as read from the light</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          天 tiān (sky) + 色 sè (color; hue; appearance). The quality of sky-light as a way of telling the time or mood of the day — dawn's pale gray, midday's high white, dusk's orange bleed. A literary and slightly classical usage, common in classical fiction and poetry.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">天色已晚，我们得回家了。</div>
+            <div class="ex-py">Tiānsè yǐ wǎn, wǒmen děi huí jiā le.</div>
+            <div class="ex-en">The sky has grown dark; we need to head home.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">天色渐渐亮了，鸟儿开始歌唱。</div>
+            <div class="ex-py">Tiānsè jiànjiàn liàng le, niǎo'er kāishǐ gēchàng.</div>
+            <div class="ex-en">The sky gradually brightened, and the birds began to sing.</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 晴天/雨天/阴天 -->
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">晴天 · 雨天 · 阴天</span>
+          <span class="card-py">qíngtiān · yǔtiān · yīntiān</span>
+          <span class="card-en">sunny day · rainy day · overcast day</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          天 tiān as suffix: "day of [weather type]." The pattern — weather adjective + 天 — is one of the most productive in spoken Chinese. 晴 qíng (clear); 雨 yǔ (rain); 阴 yīn (overcast, shadow-side). Also: 雪天 xuětiān (snowy day), 风天 fēngtiān (windy day), 大热天 dà rètiān (scorching hot day).
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">晴天打伞，未雨绸缪。</div>
+            <div class="ex-py">Qíngtiān dǎ sǎn, wèi yǔ chóu móu.</div>
+            <div class="ex-en">Carry an umbrella on sunny days — prepare before the rain comes. <em>(proverb)</em></div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">阴天的时候我总觉得有点沉闷。</div>
+            <div class="ex-py">Yīntiān de shíhòu wǒ zǒng juédé yǒudiǎn chénmèn.</div>
+            <div class="ex-en">I always feel a bit sluggish on overcast days.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards sky -->
+
+    <!-- ── 天 AS DAY ── -->
+    <span class="section-anchor" id="days"></span>
+    <div class="section-head">
+      <span class="sh-cn">今天 · 明天</span>
+      <span class="sh-py">jīntiān · míngtiān</span>
+      <span class="sh-en">天 as Day Counter — The Time-Word System</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">时间词规律 shíjiāncí guīlǜ · The 天 Time-Word Grid</span>
+      <strong>前天</strong> qiántiān (day before yesterday) ← <strong>昨天</strong> zuótiān (yesterday) ← <strong>今天</strong> jīntiān (today) → <strong>明天</strong> míngtiān (tomorrow) → <strong>后天</strong> hòutiān (day after tomorrow)<br>
+      <strong>每天</strong> měitiān (every day) · <strong>天天</strong> tiāntiān (day after day, emphatic) · <strong>当天</strong> dāngtiān (that very day) · <strong>整天</strong> zhěngtiān (the whole day long)
+    </div>
+
+    <div class="cards">
+
+      <!-- 今天 -->
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">今天</span>
+          <span class="card-py">jīntiān</span>
+          <span class="card-en">today</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 时间词 shíjiāncí</span></div>
+        <div class="card-def">
+          今 jīn (now; the present moment) + 天 tiān (day). The word for "today" encodes "the now-day." Chinese time words are nouns that typically occupy the topic position at the start of a sentence, before the verb — they work differently from English adverbs like "today."
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">今天我很忙，明天再说吧。</div>
+            <div class="ex-py">Jīntiān wǒ hěn máng, míngtiān zài shuō ba.</div>
+            <div class="ex-en">I'm very busy today — let's talk tomorrow.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">今天的会议几点开始？</div>
+            <div class="ex-py">Jīntiān de huìyì jǐ diǎn kāishǐ?</div>
+            <div class="ex-en">What time does today's meeting start?</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">我今天一直没睡好。</div>
+            <div class="ex-py">Wǒ jīntiān yīzhí méi shuì hǎo.</div>
+            <div class="ex-en">I haven't slept well all day today.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">语法 yǔfǎ · Position</span>
+          Time words precede the subject or come after the subject before the verb: <code>今天 + subj + verb</code> or <code>subj + 今天 + verb</code>. Both are correct. Nominal modifier: 今天的 + noun (today's meeting, today's news, today's world).
+        </div>
+      </div>
+
+      <!-- 明天 -->
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">明天</span>
+          <span class="card-py">míngtiān</span>
+          <span class="card-en">tomorrow</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 时间词 shíjiāncí</span></div>
+        <div class="card-def">
+          明 míng (bright; dawn; the next) + 天 tiān (day). The "bright day" — the day the sun will rise again. 明 also means "next" in 明年 míngnián (next year) and 明月 míngyuè (the bright moon — a poetic image for longing). Note: in classical Chinese, 明日 míngrì is the literary form; 明天 is modern spoken Mandarin.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">明天见！</div>
+            <div class="ex-py">Míngtiān jiàn!</div>
+            <div class="ex-en">See you tomorrow!</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">明天的事明天再说。</div>
+            <div class="ex-py">Míngtiān de shì míngtiān zài shuō.</div>
+            <div class="ex-en">Tomorrow's things can wait until tomorrow.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">明天还不知道会怎样，好好活着今天。</div>
+            <div class="ex-py">Míngtiān hái bù zhīdào huì zěnyàng, hǎohǎo huózhe jīntiān.</div>
+            <div class="ex-en">We don't know yet what tomorrow will bring — live well today.</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 昨天 -->
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">昨天</span>
+          <span class="card-py">zuótiān</span>
+          <span class="card-en">yesterday</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 时间词 shíjiāncí</span></div>
+        <div class="card-def">
+          昨 zuó (yesterday; past) + 天 tiān (day). The 昨 character is rarely used outside this compound and 昨晚 zuówǎn (last night) in modern Chinese. Note the tonal transition: 昨 zuó is tone 2, 天 tiān is tone 1 — two rising pitches in sequence, which requires attention in spoken practice.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">昨天我去了图书馆待了一整天。</div>
+            <div class="ex-py">Zuótiān wǒ qù le túshūguǎn dāi le yī zhěng tiān.</div>
+            <div class="ex-en">Yesterday I went to the library and stayed the whole day.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">昨天的事已经过去了。</div>
+            <div class="ex-py">Zuótiān de shì yǐjīng guòqù le.</div>
+            <div class="ex-en">Yesterday's matters have already passed.</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 后天 -->
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">后天</span>
+          <span class="card-py">hòutiān</span>
+          <span class="card-en">the day after tomorrow</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 时间词 shíjiāncí</span></div>
+        <div class="card-def">
+          后 hòu (after; behind; later) + 天 tiān (day). Chinese has dedicated words for two days in either direction of today: 前天 qiántiān / 昨天 zuótiān / 今天 jīntiān / 明天 míngtiān / 后天 hòutiān. Beyond that, you count: 三天后 sān tiān hòu (three days later). Note the second meaning of 后天: "acquired; postnatal" (contrasted with 先天 xiāntiān — innate).
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">后天是我的生日，你来参加吗？</div>
+            <div class="ex-py">Hòutiān shì wǒ de shēngrì, nǐ lái cānjiā ma?</div>
+            <div class="ex-en">The day after tomorrow is my birthday — will you come?</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 每天 -->
+      <div class="card c-sienna">
+        <div class="card-head">
+          <span class="card-cn">每天 · 天天</span>
+          <span class="card-py">měitiān · tiāntiān</span>
+          <span class="card-en">every day · day after day (emphatic)</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 时间词 shíjiāncí</span></div>
+        <div class="card-def">
+          <strong>每天</strong> měitiān: 每 měi (every; each) + 天 tiān (day). The neutral distributive "every day." 每 attaches to any time unit: 每年 (every year), 每月 (every month), 每周 (every week). <strong>天天</strong> tiāntiān: the emphatic reduplicated form — "day after day, relentlessly, without fail." Carries a stronger sense of unbroken repetition.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">我每天早上七点起床。</div>
+            <div class="ex-py">Wǒ měitiān zǎoshang qī diǎn qǐchuáng.</div>
+            <div class="ex-en">I get up at seven every morning.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他天天去跑步，风雨无阻。</div>
+            <div class="ex-py">Tā tiāntiān qù pǎobù, fēng yǔ wú zǔ.</div>
+            <div class="ex-en">He runs every single day without fail, rain or shine.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">辨析 biànxī · 每天 vs. 天天</span>
+          <strong>每天</strong> = neutral frequency: "every day" (schedule, routine). <strong>天天</strong> = emphatic persistence: "day after day" (often implies complaint or admiration). 天天吃面条 — "noodles day after day!" implies the speaker is tired of it.
+        </div>
+      </div>
+
+    </div><!-- /cards days -->
+
+    <!-- ── PARADISE ── -->
+    <span class="section-anchor" id="paradise"></span>
+    <div class="section-head">
+      <span class="sh-cn">天堂 · 天国</span>
+      <span class="sh-py">tiāntáng · tiānguó</span>
+      <span class="sh-en">Paradise — Heaven as a Dwelling Place</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <!-- 天堂 -->
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">天堂</span>
+          <span class="card-py">tiāntáng</span>
+          <span class="card-en">paradise; heaven as a place of bliss</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          天 tiān (heaven) + 堂 táng (hall; grand hall; a place of gathering). The "heavenly hall" — used in Chinese Buddhism for the Pure Land, and in general usage for any paradise-like place. Also commonly used hyperbolically: 美食天堂 (food paradise), 购物天堂 (shopping paradise), 自行车天堂 (cycling paradise).
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">上有天堂，下有苏杭。</div>
+            <div class="ex-py">Shàng yǒu tiāntáng, xià yǒu Sū Háng.</div>
+            <div class="ex-en">Above is paradise; below are Suzhou and Hangzhou. <em>(famous Chinese proverb)</em></div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">对一个书迷来说，图书馆就是天堂。</div>
+            <div class="ex-py">Duì yīgè shū mí lái shuō, túshūguǎn jiù shì tiāntáng.</div>
+            <div class="ex-en">For a book lover, a library is paradise.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">辨析 biànxī · 天堂 vs. 天国</span>
+          <strong>天堂</strong> = paradise (Buddhist, poetic, colloquial); general sense of an ideal place. <strong>天国</strong> tiānguó = Kingdom of Heaven (specifically the Christian theological concept in Chinese). The difference is theological register.
+        </div>
+      </div>
+
+      <!-- 天国 -->
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">天国</span>
+          <span class="card-py">tiānguó</span>
+          <span class="card-en">Kingdom of Heaven (Christian usage)</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          天 tiān (heaven) + 国 guó (kingdom; nation). The standard Chinese translation of "Kingdom of Heaven" in Christian scripture. The Taiping Heavenly Kingdom (太平天国 Tàipíng Tiānguó, 1850–1864) fused this term with Chinese imperial ideology — claiming both Christian divine authority and the Mandate of Heaven — in one of the most devastating rebellions in human history, killing tens of millions.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">天国是属于心灵谦卑之人的。</div>
+            <div class="ex-py">Tiānguó shì shǔyú xīnlíng qiānbēi zhī rén de.</div>
+            <div class="ex-en">The Kingdom of Heaven belongs to the humble in spirit. <em>(Matthew 5:3)</em></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 上天 -->
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">上天</span>
+          <span class="card-py">shàngtiān</span>
+          <span class="card-en">heaven above; God/fate; to ascend into the sky</span>
+        </div>
+        <div class="tags"><span class="tag tag-vn">V/N 动名词</span></div>
+        <div class="card-def">
+          上 shàng (above; to ascend) + 天 tiān (heaven). As a noun: the heavens conceived as a moral agent — equivalent to "God" or "fate" in many colloquial contexts. As a verb: to ascend to the sky (a rocket launching; a person dying). The colloquial reverence for heaven's authority: 上天自有安排 — "heaven has arranged it."
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">上天自有安排，不用太担心。</div>
+            <div class="ex-py">Shàngtiān zì yǒu ānpái, bùyòng tài dānxīn.</div>
+            <div class="ex-en">Heaven has its own plan — no need to worry too much.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">火箭明天上天，全国都在关注。</div>
+            <div class="ex-py">Huǒjiàn míngtiān shàngtiān, quánguó dōu zài guānzhù.</div>
+            <div class="ex-en">The rocket launches tomorrow — the whole country is watching. <em>[verb use]</em></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 老天 -->
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">老天 · 老天爷</span>
+          <span class="card-py">lǎotiān · lǎotiān yé</span>
+          <span class="card-en">dear heaven; good God (colloquial exclamation)</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          老 lǎo (old; venerable — a term of respectful familiarity) + 天 tiān + 爷 yé (grandfather; lord). The folk personification of heaven as a kindly — or sometimes indifferent — old grandfather. Common in exclamation: 老天爷! = "Good Lord!" / "Oh heavens!" Bridges the impersonal cosmic 天 with ordinary human emotion. Used when luck turns dramatically, for better or worse.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">老天爷，这是怎么回事！</div>
+            <div class="ex-py">Lǎotiān yé, zhè shì zěnme huí shì!</div>
+            <div class="ex-en">Good heavens, what on earth is happening!</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">老天总算开眼了，他终于赢了。</div>
+            <div class="ex-py">Lǎotiān zǒngsuàn kāi yǎn le, tā zhōngyú yíng le.</div>
+            <div class="ex-en">Heaven has finally opened its eyes — he won at last. <em>(justice done)</em></div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards paradise -->
+
+    <!-- ── MANDATE OF HEAVEN ── -->
+    <span class="section-anchor" id="mandate"></span>
+    <div class="section-head">
+      <span class="sh-cn">天命 · 天子</span>
+      <span class="sh-py">tiānmìng · tiānzǐ</span>
+      <span class="sh-en">The Mandate of Heaven — Political Theology</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="命">
+      <div class="scholar-label">历史洞见 lìshǐ dòngjiàn · Historical Insight</div>
+      <p><strong>天命 tiānmìng</strong> — the Mandate of Heaven — is arguably the most important political concept in Chinese history. First articulated by the Duke of Zhou in the eleventh century BCE to justify the Zhou conquest of the Shang: heaven blesses virtuous rulers and withdraws from corrupt ones. The signs of heaven withdrawing: natural disasters, peasant rebellions, barbarian invasions, crop failures. When a dynasty fell, history recorded that 天命已失 — "Heaven's mandate was lost."</p>
+      <p>The concept was simultaneously radical and conservative. Radical: any ruler could be overthrown if sufficiently wicked, providing moral justification for revolution. Conservative: legitimacy still descended from above, not upward from the people. Confucian scholars elaborated it into a full system — good government kept heaven and earth in harmony; bad government brought floods, droughts, and comets as cosmic complaints.</p>
+      <p>In modern Chinese, 天命 survives colloquially as "fate" or "destiny" — the secular residue of three millennia of political theology. When Confucius said at age 50, 知天命 — "I came to know heaven's will" — he was describing a kind of moral lucidity, the moment when one stops fighting one's nature and accepts the shape of one's life.</p>
+    </div>
+
+    <div class="cards">
+
+      <!-- 天命 -->
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">天命</span>
+          <span class="card-py">tiānmìng</span>
+          <span class="card-en">Mandate of Heaven; fate; destiny</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          天 tiān (heaven) + 命 mìng (mandate; decree; life; fate). The Zhou dynasty's master concept. In modern colloquial use, it slides toward "one's fate" or "destiny" — the sense that one's life circumstances were assigned by heaven. Common in classical literature, philosophical essays, and costume dramas (古装剧 gǔzhuāng jù).
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">奉天承运，皇帝诏曰……</div>
+            <div class="ex-py">Fèng tiān chéng yùn, huángdì zhào yuē…</div>
+            <div class="ex-en">"By the decree of heaven and in accordance with its will, the Emperor proclaims…" <em>(the standard opening formula of imperial edicts)</em></div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">五十而知天命。</div>
+            <div class="ex-py">Wǔshí ér zhī tiānmìng.</div>
+            <div class="ex-en">At fifty, one comes to know heaven's will. <em>(Confucius, Analects 2.4)</em></div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">文化 wénhuà · Culture</span>
+          Because of the Analects line, 知天命 is a poetic way to refer to age 50 in classical Chinese — "the age of knowing heaven's will." Confucius's autobiography in the Analects uses five such ages: 15 (set on learning), 30 (standing firm), 40 (free of doubt), 50 (knowing heaven's will), 60 (obedient ear), 70 (heart's desire within proper bounds).
+        </div>
+      </div>
+
+      <!-- 天子 -->
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">天子</span>
+          <span class="card-py">tiānzǐ</span>
+          <span class="card-en">Son of Heaven — the Emperor</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          天 tiān (heaven) + 子 zǐ (son; child). The Chinese emperor's formal title: he is heaven's son, the intermediary between the cosmic order and humanity. Not a god himself, but heaven's appointed representative on earth. The title dates to the Zhou dynasty and was used through the Qing (ended 1912). The imperial palace was the axis mundi — the point where heaven and earth touched.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">天子一怒，血流千里。</div>
+            <div class="ex-py">Tiānzǐ yī nù, xuè liú qiān lǐ.</div>
+            <div class="ex-en">When the Son of Heaven rages, blood flows for a thousand li. <em>(historical proverb on imperial power)</em></div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">天子守国门，君王死社稷。</div>
+            <div class="ex-py">Tiānzǐ shǒu guómén, jūnwáng sǐ shèjì.</div>
+            <div class="ex-en">The Son of Heaven guards the nation's gates; the ruler dies with the altars of state. <em>(said of the Ming emperor Chongzhen)</em></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 天下 -->
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">天下</span>
+          <span class="card-py">tiānxià</span>
+          <span class="card-en">all under heaven — the realm; the world</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          天 tiān (heaven) + 下 xià (below; under). Literally: everything under heaven. The classical Chinese word for "the world" — not the physical globe, but the entire human realm under one political and moral order. The emperor ruled 天下; scholars debated 天下 affairs; heroes traveled 天下. Still used idiomatically in modern speech.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">天下兴亡，匹夫有责。</div>
+            <div class="ex-py">Tiānxià xīngwáng, pǐfū yǒu zé.</div>
+            <div class="ex-en">Every common person bears responsibility for the rise and fall of the realm. <em>(Gu Yanwu, seventeenth century)</em></div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">天下没有免费的午餐。</div>
+            <div class="ex-py">Tiānxià méiyǒu miǎnfèi de wǔcān.</div>
+            <div class="ex-en">Under heaven there is no free lunch.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">现代用法 xiàndài yòngfǎ · Modern Usage</span>
+          天下 survives as an idiom-builder: 天下为公 (the world belongs to all — Sun Yat-sen's motto), 天下无难事 (nothing in the world is impossible), 天下第一 (number one in the world). The cosmological scope has flattened to emphatic hyperbole, but the grandeur echoes.
+        </div>
+      </div>
+
+    </div><!-- /cards mandate -->
+
+    <!-- ── HEAVEN-ENDOWED ── -->
+    <span class="section-anchor" id="endowed"></span>
+    <div class="section-head">
+      <span class="sh-cn">天才 · 天生</span>
+      <span class="sh-py">tiāncái · tiānshēng</span>
+      <span class="sh-en">Heaven-Endowed Qualities — Innate Gifts</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <!-- 天才 -->
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">天才</span>
+          <span class="card-py">tiāncái</span>
+          <span class="card-en">genius; heaven-given talent</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          天 tiān (heaven) + 才 cái (talent; ability). A 天才 is a person whose gifts come directly from heaven, not from personal effort. In traditional Confucian culture, praising someone as 天才 could carry a subtle implication that their excellence is unearned — which is why Confucius himself valued 勤奋 qínfèn (diligence) above innate talent. In modern usage, the word is purely complimentary.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">莫扎特是难得一见的音乐天才。</div>
+            <div class="ex-py">Mòzhātè shì nándé yī jiàn de yīnyuè tiāncái.</div>
+            <div class="ex-en">Mozart was a rare musical genius.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">天才是百分之一的灵感加上百分之九十九的汗水。</div>
+            <div class="ex-py">Tiāncái shì bǎifēnzhī yī de línggǎn jiā shàng bǎifēnzhī jiǔshíjiǔ de hànshuǐ.</div>
+            <div class="ex-en">Genius is one percent inspiration and ninety-nine percent perspiration. <em>(Edison, widely cited in China)</em></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 天生 -->
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">天生</span>
+          <span class="card-py">tiānshēng</span>
+          <span class="card-en">innate; born with; naturally endowed</span>
+        </div>
+        <div class="tags"><span class="tag tag-adj">Adj 形容词 xíngróngcí</span></div>
+        <div class="card-def">
+          天 tiān (heaven) + 生 shēng (to be born; to live). "Born of heaven" = innate, not acquired. The counterpart to 后天 hòutiān (acquired; postnatal). In classical philosophy, the 先天/后天 dichotomy maps roughly onto nature/nurture — one of the most enduring debates in Chinese intellectual life.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">她天生就有一副好嗓子。</div>
+            <div class="ex-py">Tā tiānshēng jiù yǒu yīfù hǎo sǎngzi.</div>
+            <div class="ex-en">She was born with a beautiful voice.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他天生乐观，从不抱怨。</div>
+            <div class="ex-py">Tā tiānshēng lèguān, cóng bù bàoyuàn.</div>
+            <div class="ex-en">He's naturally optimistic — he never complains.</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 天赋 -->
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">天赋</span>
+          <span class="card-py">tiānfù</span>
+          <span class="card-en">natural gift; innate ability; heaven's endowment</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          天 tiān (heaven) + 赋 fù (to endow; to bestow; to compose — originally: the government's levy on subjects, then poetic composition). Heaven's formal bestowal. 天赋 is slightly more formal and literary than 天才, referring to specific aptitudes rather than a person of exceptional overall genius.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">她有学习语言的天赋，一年就学会了日语。</div>
+            <div class="ex-py">Tā yǒu xuéxí yǔyán de tiānfù, yī nián jiù xuéhuì le rìyǔ.</div>
+            <div class="ex-en">She has a natural gift for languages — she learned Japanese in a year.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">延伸 yánshēn · Extension</span>
+          天赋人权 tiānfù rénquán = "heaven-endowed human rights" — the Chinese rendering of "natural rights" in Enlightenment political philosophy. The word 天赋 gives rights a cosmological grounding: they are not granted by the state, but bestowed by heaven. This framing carries enormous rhetorical weight in Chinese discussions of rights and liberty.
+        </div>
+      </div>
+
+      <!-- 天真 -->
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">天真</span>
+          <span class="card-py">tiānzhēn</span>
+          <span class="card-en">naive; innocent; guileless — "heaven-true"</span>
+        </div>
+        <div class="tags"><span class="tag tag-adj">Adj 形容词 xíngróngcí</span></div>
+        <div class="card-def">
+          天 tiān (heaven; natural state) + 真 zhēn (true; genuine; real). In its positive sense: the uncorrupted authenticity of someone unspoiled by the world — the Daoist ideal of 真人 (the True Person) who has not lost their heaven-given nature. In its negative sense: dangerously trusting, politically innocent, failing to grasp how the world actually works. Context determines which is meant.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">孩子天真无邪的笑容让人感动。</div>
+            <div class="ex-py">Háizi tiānzhēn wúxié de xiàoróng ràng rén gǎndòng.</div>
+            <div class="ex-en">The child's innocent, guileless smile was deeply touching.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">你也太天真了，以为他真的是好意？</div>
+            <div class="ex-py">Nǐ yě tài tiānzhēn le, yǐwéi tā zhēn de shì hǎoyì?</div>
+            <div class="ex-en">You're being too naive — you really think his intentions are good?</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards endowed -->
+
+    <!-- ── MORAL COMPOUNDS TABLE ── -->
+    <span class="section-anchor" id="moral-table"></span>
+    <div class="section-head">
+      <span class="sh-cn">天道 · 天理</span>
+      <span class="sh-py">tiāndào · tiānlǐ</span>
+      <span class="sh-en">天 in Moral &amp; Cosmic Compounds</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>字 Zì</th>
+            <th>拼音 Pīnyīn</th>
+            <th>英文 Yīngwén</th>
+            <th>注释 Zhùshì</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="td-cn">天道</td>
+            <td class="td-py">tiān dào</td>
+            <td>Way of Heaven</td>
+            <td>The natural moral order of the cosmos. 天道好还 tiān dào hǎo huán — "Heaven's way returns" (moral karma). Used in both Confucian and Daoist contexts with somewhat different emphases.</td>
+          </tr>
+          <tr>
+            <td class="td-cn">天理</td>
+            <td class="td-py">tiān lǐ</td>
+            <td>Heavenly Principle</td>
+            <td>Neo-Confucian (Song dynasty, Zhu Xi) term for the moral principle embedded in all things and events. 天理难容 — "Cannot be tolerated by heavenly principle" (used of a heinous act).</td>
+          </tr>
+          <tr>
+            <td class="td-cn">天意</td>
+            <td class="td-py">tiān yì</td>
+            <td>Heaven's Intent; providence</td>
+            <td>What heaven intends. Used to explain historical outcomes that seem beyond human control. 这是天意 — "This is heaven's will" (resignation or wonder at events).</td>
+          </tr>
+          <tr>
+            <td class="td-cn">天命</td>
+            <td class="td-py">tiān mìng</td>
+            <td>Mandate of Heaven; fate</td>
+            <td>The foundational political concept: heaven's mandate to rule, and in modern usage, one's personal destiny or calling.</td>
+          </tr>
+          <tr>
+            <td class="td-cn">天地</td>
+            <td class="td-py">tiān dì</td>
+            <td>Heaven and Earth; the universe</td>
+            <td>The fundamental dyad of Chinese cosmology. 开天辟地 kāi tiān pì dì — "to open heaven and split earth" = a world-creating act; something entirely unprecedented.</td>
+          </tr>
+          <tr>
+            <td class="td-cn">天人合一</td>
+            <td class="td-py">tiān rén hé yī</td>
+            <td>Unity of Heaven and Humanity</td>
+            <td>The Confucian-Daoist ideal: humans and nature in perfect harmony, not in opposition. A cornerstone of Chinese ecological and cosmological philosophy.</td>
+          </tr>
+          <tr>
+            <td class="td-cn">天经地义</td>
+            <td class="td-py">tiān jīng dì yì</td>
+            <td>Self-evident truth; axiomatic</td>
+            <td>Lit: heaven's warp and earth's weft — the structural fabric of moral reality. Used for things so obviously true that argument is not just unnecessary but absurd.</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- ── CHENGYU ── -->
+    <span class="section-anchor" id="chengyu"></span>
+    <div class="section-head">
+      <span class="sh-cn">成语</span>
+      <span class="sh-py">chéngyǔ</span>
+      <span class="sh-en">Idioms &amp; Set Phrases</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="chengyu-grid">
+
+      <div class="cy">
+        <span class="cy-cn">天经地义</span>
+        <span class="cy-py">tiān jīng dì yì</span>
+        <span class="cy-en">self-evident truth; axiomatic — too obvious to argue about</span>
+        <span class="cy-note">Lit: heaven's warp and earth's weft. 经 jīng = warp threads (the vertical structural threads in a loom); 义 yì = weft and righteous pattern. Together they constitute the fabric of moral reality — what is simply given. "孩子要孝顺父母，这是天经地义的事。" — "Children should honor their parents — this is self-evidently right."</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">天下太平</span>
+        <span class="cy-py">tiān xià tài píng</span>
+        <span class="cy-en">all under heaven is at peace — the realm in perfect order</span>
+        <span class="cy-note">The Confucian ideal end-state, the aspiration of the Great Learning (大学). Used both sincerely as a wish and ironically when someone is oblivious to real disorder. "你只有你才以为天下太平呢。" — "Only you could think the world is at peace."</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">天衣无缝</span>
+        <span class="cy-py">tiān yī wú fèng</span>
+        <span class="cy-en">seamless; flawless — not a flaw to be found</span>
+        <span class="cy-note">Lit: heaven's robe has no seams. The garments of heavenly beings are woven whole — no stitching, no joins. Used to praise flawless plans, flawless stories, and flawless alibis. When applied to an alibi, the idiom carries a slight edge: seamlessness itself can be suspicious.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">人定胜天</span>
+        <span class="cy-py">rén dìng shèng tiān</span>
+        <span class="cy-en">human will can overcome heaven — perseverance defeats fate</span>
+        <span class="cy-note">The Maoist rejoinder to classical fatalism. 人定 = human resolution and determination; 胜 = to overcome; 天 = heaven/fate. Against the traditional acceptance of 天命, this phrase asserts that collective human effort can reshape nature and destiny. A cornerstone slogan of the Great Leap Forward era, and still used to encourage perseverance.</span>
+      </div>
+
+    </div>
+
+    <!-- ── ADJACENT VOCAB ── -->
+    <span class="section-anchor" id="adjacent"></span>
+    <div class="section-head">
+      <span class="sh-cn">相邻词汇</span>
+      <span class="sh-py">xiānglín cíhuì</span>
+      <span class="sh-en">Adjacent Vocabulary</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">地</span><span class="a-py">dì</span><span class="a-en">earth — the 天/地 pair</span></span>
+      <span class="adj"><span class="a-cn">天地</span><span class="a-py">tiāndì</span><span class="a-en">heaven and earth</span></span>
+      <span class="adj"><span class="a-cn">上</span><span class="a-py">shàng</span><span class="a-en">above; up; to ascend</span></span>
+      <span class="adj"><span class="a-cn">空</span><span class="a-py">kōng</span><span class="a-en">sky; empty; void</span></span>
+      <span class="adj"><span class="a-cn">宇宙</span><span class="a-py">yǔzhòu</span><span class="a-en">universe; cosmos</span></span>
+      <span class="adj"><span class="a-cn">命运</span><span class="a-py">mìngyùn</span><span class="a-en">fate; destiny</span></span>
+      <span class="adj"><span class="a-cn">自然</span><span class="a-py">zìrán</span><span class="a-en">nature; natural; of course</span></span>
+      <span class="adj"><span class="a-cn">神</span><span class="a-py">shén</span><span class="a-en">deity; spirit; divine</span></span>
+      <span class="adj"><span class="a-cn">云</span><span class="a-py">yún</span><span class="a-en">cloud</span></span>
+      <span class="adj"><span class="a-cn">星</span><span class="a-py">xīng</span><span class="a-en">star</span></span>
+      <span class="adj"><span class="a-cn">阳</span><span class="a-py">yáng</span><span class="a-en">sun-side; yang; positive</span></span>
+      <span class="adj"><span class="a-cn">阴</span><span class="a-py">yīn</span><span class="a-en">shadow-side; yin; overcast</span></span>
+    </div>
+
+    <!-- RETENTION IMAGE -->
+    <div class="scholar" data-glyph="天">
+      <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
+      <p>A stick figure with one line drawn above its head. That line is everything above you — not just sky but destiny, moral order, and the judgment of history. The oracle-bone scribes needed only four strokes to encode the entire Chinese political universe: a person, and the infinite above them.</p>
+      <p>When a Chinese emperor fell, people said <strong>天命已失</strong> tiānmìng yǐ shī — "Heaven's mandate is lost." When a Chinese child is called <strong>天才</strong>, they are not simply being flattered; they are being placed under the sky, their gifts attributed to the cosmos itself. When a dynasty was founded, the first imperial edict began with <strong>奉天承运</strong> — "By heaven's will and in accordance with its pattern."</p>
+      <p>The line above the head is very heavy.</p>
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="page-footer">
+      <span class="footer-id">Field Notes on Chinese · <span>天 tiān</span> · tian1_天.html</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>

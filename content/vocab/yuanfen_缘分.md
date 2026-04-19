@@ -1,0 +1,600 @@
+---
+type: 'vocab'
+category: 'vocab'
+status: 'complete'
+title: '缘分 · karmic connection'
+desc: 'Buddhist-rooted fate that ties strangers, lovers, and old friends.'
+metaDesc: "缘分 yuánfèn: the karmic connection that brings people together across lifetimes. Buddhist origins, romantic use, and the Chinese philosophy of destined encounters."
+pageTitle: '缘分 yuánfèn'
+tags:
+  - 'buddhism'
+  - 'fate'
+  - 'romance'
+updated: '2026-04-18'
+pinyin: 'yuánfèn'
+---
+
+<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+
+    <span class="toc-topic">缘分</span>
+    <span class="toc-topic-en">Karmic Connection · Fate</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#etymology">
+        <span class="toc-cn">字源</span> Etymology
+        <span class="toc-sub">zìyuán · thread + portion</span>
+      </a></li>
+      <li><a href="#yuanfen">
+        <span class="toc-cn">缘分</span> Destined Connection
+        <span class="toc-sub">yuánfèn · core uses</span>
+      </a></li>
+      <li><a href="#buddhist">
+        <span class="toc-cn">佛教之缘</span> Buddhist Origins
+        <span class="toc-sub">fójiào zhī yuán</span>
+      </a></li>
+      <li><a href="#relationships">
+        <span class="toc-cn">缘分与感情</span> Relationships
+        <span class="toc-sub">yuánfèn yǔ gǎnqíng</span>
+      </a></li>
+      <li><a href="#redthread">
+        <span class="toc-cn">红线</span> The Red Thread
+        <span class="toc-sub">hóngxiàn · Yuèlǎo</span>
+      </a></li>
+      <li><a href="#philosophy">
+        <span class="toc-cn">随缘哲学</span> 随缘 Philosophy
+        <span class="toc-sub">suí yuán · acceptance</span>
+      </a></li>
+      <li><a href="#chengyu">
+        <span class="toc-cn">成语</span> Idioms
+        <span class="toc-sub">chéngyǔ · set phrases</span>
+      </a></li>
+      <li><a href="#adjacent">
+        <span class="toc-cn">相邻</span> Adjacent Vocab
+        <span class="toc-sub">xiānglín cíhuì</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- HERO -->
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">Vocabulary · 词汇 cíhuì</span>
+      <h1 class="topic-hero-title">缘分</h1>
+      <span class="topic-hero-title-py">yuánfèn</span>
+      <p class="topic-hero-desc">The karmic thread that ties people together across lifetimes — fate, connection, and the philosophy of destined meetings.</p>
+    </header>
+
+    <!-- ── ETYMOLOGY ── -->
+    <span class="section-anchor" id="etymology"></span>
+    <div class="section-head">
+      <span class="sh-cn">字源</span>
+      <span class="sh-py">zìyuán</span>
+      <span class="sh-en">Etymology &amp; Structure</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="缘">
+      <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
+      <p><strong>缘 yuán</strong> (edge; fringe; cause; karmic connection — silk 糸 + a character depicting a person climbing a tree along its edge 彖: clinging to the periphery, holding the thread) <strong>+ 分 fèn</strong> (portion; share; lot in life — from 八 to divide + 刀 knife: something cut and portioned out). The compound: the karmic portion that has been cut and assigned to you — the connections that were fated to occur.</p>
+      <p>缘 in Chinese Buddhism translates the Sanskrit term <em>pratyaya</em> (condition; cause; dependent arising) — the principle that every phenomenon arises due to causes and conditions that were set in motion previously. Nothing meets by pure chance; everything is the result of earlier seeds. 分 fèn is your allotted share — what fate has portioned to you, the way a meal is divided among guests.</p>
+      <p>Together: your allotted karmic connections — the specific people and encounters that were always going to be yours, because the causes were already in place. Originally a technical Buddhist term, 缘分 has been fully absorbed into everyday Chinese. You don't need to be Buddhist to use it. It has become the Chinese language's way of saying: some things that happen to us feel more than random, and that feeling deserves a word.</p>
+    </div>
+
+    <!-- ── DESTINED CONNECTION ── -->
+    <span class="section-anchor" id="yuanfen"></span>
+    <div class="section-head">
+      <span class="sh-cn">缘分</span>
+      <span class="sh-py">yuánfèn</span>
+      <span class="sh-en">Destined Connection — Core Uses</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">缘分</span>
+          <span class="card-py">yuánfèn</span>
+          <span class="card-en">karmic connection; destined bond; fate that brings people together</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          The core concept — any encounter, relationship, or connection that feels fated or destined. Used for romantic relationships, friendships, chance encounters with strangers, and even business partnerships that feel meant to be. 缘分 does not imply inevitability in the fatalistic Western sense; it suggests that the connection has deep roots — that the meeting was the flowering of causes long planted.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">我们能在这里相遇，真是缘分。</div>
+            <div class="ex-py">Wǒmen néng zài zhèlǐ xiāngyù, zhēn shì yuánfèn.</div>
+            <div class="ex-en">That we could meet here — what a destined connection.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这是我们的缘分，不管走到哪里都会再见面。</div>
+            <div class="ex-py">Zhè shì wǒmen de yuánfèn, bùguǎn zǒu dào nǎlǐ dōu huì zài jiànmiàn.</div>
+            <div class="ex-en">This is our 缘分 — wherever we go, we'll meet again.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">缘分到了，一切自然而然就好了。</div>
+            <div class="ex-py">Yuánfèn dào le, yīqiè zìrán ér rán jiù hǎo le.</div>
+            <div class="ex-en">When the karmic connection arrives, everything will fall into place naturally.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">语域 yǔyù · Register</span>
+          缘分 spans from highly colloquial (chatting about how you met a friend) to elevated literary (classical poetry about parting and reunion). It is never pompous or overly formal — it is the ordinary person's word for the feeling that certain encounters mean something beyond coincidence. Use it freely.
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">有缘</span>
+          <span class="card-py">yǒu yuán</span>
+          <span class="card-en">to have a karmic connection; fated to meet</span>
+        </div>
+        <div class="tags"><span class="tag tag-adj">Adj phrase 形容词短语</span></div>
+        <div class="card-def">
+          有缘 means that a karmic connection exists between people — that the conditions for their meeting were in place. The famous saying 有缘千里来相会，无缘对面不相识 encodes the principle beautifully: those with 缘 will find each other across distances; those without it will fail to recognize each other even standing face to face.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">有缘千里来相会，无缘对面不相识。</div>
+            <div class="ex-py">Yǒu yuán qiānlǐ lái xiāng huì, wú yuán duìmiàn bù xiāng shí.</div>
+            <div class="ex-en">Those with fate will meet across a thousand miles; those without it won't recognize each other face to face.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">我们真的很有缘，在三个不同的城市都碰到了。</div>
+            <div class="ex-py">Wǒmen zhēn de hěn yǒu yuán, zài sān gè bùtóng de chéngshì dōu pèng dào le.</div>
+            <div class="ex-en">We really have 缘 — we've run into each other in three different cities.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">有缘人自然会相遇，不必强求。</div>
+            <div class="ex-py">Yǒu yuán rén zìrán huì xiāngyù, bùbì qiǎngqiú.</div>
+            <div class="ex-en">Those who are fated to meet will naturally meet — there's no need to force it.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">无缘</span>
+          <span class="card-py">wú yuán</span>
+          <span class="card-en">to have no karmic connection; not fated to be together</span>
+        </div>
+        <div class="tags"><span class="tag tag-adj">Adj phrase 形容词短语</span></div>
+        <div class="card-def">
+          The absence of karmic connection — not fated to meet, to succeed, or to be together. 无缘 can be used philosophically and without bitterness to accept failure or rejection: 和这份工作无缘 (it was not my fate to have this job) is a graceful way to accept an outcome without assigning blame. It reframes failure as a question of timing and conditions rather than inadequacy.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">我们无缘，算了，不必再勉强。</div>
+            <div class="ex-py">Wǒmen wú yuán, suàn le, bùbì zài miǎnqiǎng.</div>
+            <div class="ex-en">We have no 缘 between us — let it go; no need to force it anymore.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">和这个职位无缘，也许是因为时机还没到。</div>
+            <div class="ex-py">Hé zhège zhíwèi wú yuán, yěxǔ shì yīnwèi shíjī hái méi dào.</div>
+            <div class="ex-en">It wasn't fated for me to have this position — perhaps the timing simply hasn't arrived.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">两个人如果无缘，就算住得很近也会擦肩而过。</div>
+            <div class="ex-py">Liǎng gè rén rúguǒ wú yuán, jiùsuàn zhù de hěn jìn yě huì cā jiān ér guò.</div>
+            <div class="ex-en">If two people have no 缘, even if they live close together they'll pass each other by.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards yuanfen -->
+
+    <!-- ── BUDDHIST ORIGINS ── -->
+    <span class="section-anchor" id="buddhist"></span>
+    <div class="section-head">
+      <span class="sh-cn">佛教之缘</span>
+      <span class="sh-py">fójiào zhī yuán</span>
+      <span class="sh-en">Buddhist Origins of 缘</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="佛">
+      <div class="scholar-label">佛教洞见 fójiào dòngjiàn · Buddhist Note</div>
+      <p>In Buddhist thought, 缘 (Sanskrit: <em>pratyaya</em> — condition; contributing cause) is a core concept in the doctrine of 缘起 yuánqǐ (dependent co-arising; pratītyasamutpāda): all phenomena arise dependent on prior causes and conditions. Nothing exists independently; nothing meets by pure chance. Every encounter is the ripening of seeds planted long ago — across this lifetime and previous ones.</p>
+      <p>The popular saying that captures this most vividly: <strong>五百年修得同船渡，千年修得共枕眠</strong> — "Five hundred years of cultivation to cross a river on the same boat; a thousand years to share a pillow." Even the briefest contact — a stranger on a ferry — required five centuries of karmic preparation. A lifetime partnership required a thousand years.</p>
+      <p>This framework makes every meaningful encounter precious. It also makes parting bittersweet rather than meaningless — if 缘分 brought you together, the parting is simply 缘分已尽 (the connection has run its course), not an accident or abandonment. Buddhist temporal scale transforms the emotional texture of every relationship.</p>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">缘起</span>
+          <span class="card-py">yuánqǐ</span>
+          <span class="card-en">dependent origination; origin; the arising through causes and conditions</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          The Buddhist technical term for pratītyasamutpāda — the arising of phenomena through causes and conditions. In everyday use, 缘起 also means simply "the origin" or "how something came about." Both usages share the underlying idea that nothing simply begins from nothing; everything has prior causes.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">缘起性空是大乘佛教的核心教义之一。</div>
+            <div class="ex-py">Yuánqǐ xìng kōng shì dàchéng fójiào de héxīn jiàoyì zhī yī.</div>
+            <div class="ex-en">Dependent origination and emptiness are among the core teachings of Mahayana Buddhism.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">你能跟我说说这个项目的缘起吗？</div>
+            <div class="ex-py">Nǐ néng gēn wǒ shuō shuō zhège xiàngmù de yuánqǐ ma?</div>
+            <div class="ex-en">Can you tell me the origin story of this project?</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">佛教讲"诸法缘起"，没有什么是无因而生的。</div>
+            <div class="ex-py">Fójiào jiǎng "zhū fǎ yuánqǐ", méiyǒu shénme shì wúyīn ér shēng de.</div>
+            <div class="ex-en">Buddhism teaches that all phenomena arise from causes — nothing arises without a reason.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">结缘</span>
+          <span class="card-py">jié yuán</span>
+          <span class="card-en">to form a karmic bond; to connect; to begin a meaningful relationship</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V phrase 动词短语</span></div>
+        <div class="card-def">
+          结 jié (to tie; to form; to knot) + 缘. To tie a karmic thread — to form a connection that carries the weight of 缘分. Used both for meeting people and for discovering lifelong passions: 与书结缘 (to form a bond with books — to become a lifelong reader) suggests that one's love of reading has a fated quality, not just a habit.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他们在一次偶然的旅途中结缘，后来成了好朋友。</div>
+            <div class="ex-py">Tāmen zài yī cì ǒurán de lǚtú zhōng jié yuán, hòulái chéng le hǎo péngyou.</div>
+            <div class="ex-en">They formed a bond during a chance journey and later became good friends.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他从小与音乐结缘，长大后成了一名作曲家。</div>
+            <div class="ex-py">Tā cóng xiǎo yǔ yīnyuè jié yuán, zhǎng dà hòu chéng le yī míng zuòqǔ jiā.</div>
+            <div class="ex-en">He formed a bond with music from childhood and grew up to become a composer.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">与这片土地结缘，是我这辈子最好的事。</div>
+            <div class="ex-py">Yǔ zhè piàn tǔdì jié yuán, shì wǒ zhè bèizi zuì hǎo de shì.</div>
+            <div class="ex-en">Forming a bond with this land is the best thing that has happened to me in this life.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards buddhist -->
+
+    <!-- ── RELATIONSHIPS ── -->
+    <span class="section-anchor" id="relationships"></span>
+    <div class="section-head">
+      <span class="sh-cn">缘分与感情</span>
+      <span class="sh-py">yuánfèn yǔ gǎnqíng</span>
+      <span class="sh-en">缘分 in Relationships — Connection, Duration, and Ending</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">缘分未尽</span>
+          <span class="card-py">yuánfèn wèi jìn</span>
+          <span class="card-en">the karmic connection is not yet exhausted; there is still fate between us</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">Fixed phrase 固定短语</span></div>
+        <div class="card-def">
+          未 wèi = not yet; 尽 jìn = exhausted, used up. The karmic thread still has length to run — the connection between two people has not reached its natural conclusion. Used when separated people reunite, when a relationship that seemed ended resurfaces, or simply when two people feel that there is more between them yet to unfold.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">我们的缘分还没尽，所以又在这里相遇了。</div>
+            <div class="ex-py">Wǒmen de yuánfèn hái méi jìn, suǒyǐ yòu zài zhèlǐ xiāngyù le.</div>
+            <div class="ex-en">Our 缘分 is not yet exhausted — that's why we've met again here.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">缘分未尽，我们迟早还会见面的。</div>
+            <div class="ex-py">Yuánfèn wèi jìn, wǒmen chízǎo hái huì jiànmiàn de.</div>
+            <div class="ex-en">The connection has not run its course — sooner or later we'll meet again.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">缘分已尽</span>
+          <span class="card-py">yuánfèn yǐ jìn</span>
+          <span class="card-en">the karmic connection is exhausted; the fate between us has run its course</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">Fixed phrase 固定短语</span></div>
+        <div class="card-def">
+          已 yǐ = already; the connection has used up its allotted length. A peaceful, fatalistic way to accept a relationship ending — romantic, platonic, or professional. By attributing the ending to the natural exhaustion of 缘分 rather than to failure, fault, or malice, the phrase makes parting more graceful. 不必强求 (don't force it) follows naturally.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">缘分已尽，不必强求，好聚好散。</div>
+            <div class="ex-py">Yuánfèn yǐ jìn, bùbì qiǎngqiú, hǎo jù hǎo sàn.</div>
+            <div class="ex-en">The 缘分 has run its course — don't force it; part on good terms.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">也许我们的缘分已尽，该各走各的路了。</div>
+            <div class="ex-py">Yěxǔ wǒmen de yuánfèn yǐ jìn, gāi gè zǒu gè de lù le.</div>
+            <div class="ex-en">Perhaps our 缘分 has run its course — it's time for each of us to go our own way.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">她平静地接受了分手，认为这是缘分已尽。</div>
+            <div class="ex-py">Tā píngjìng de jiēshòu le fēnshǒu, rènwéi zhè shì yuánfèn yǐ jìn.</div>
+            <div class="ex-en">She accepted the breakup calmly, feeling that the 缘分 had simply run its course.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">千里缘</span>
+          <span class="card-py">qiānlǐ yuán</span>
+          <span class="card-en">a connection across a thousand miles; long-distance destined bond</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N phrase 名词短语</span></div>
+        <div class="card-def">
+          千里 qiānlǐ = a thousand li (the traditional Chinese unit of distance; figuratively: any great distance). The phrase evokes connections that transcend physical separation — the meeting of people from far apart who nonetheless find each other. The image of a single thread (一线牵 yī xiàn qiān) stretched across a thousand miles appears in classical poetry and remains vivid today.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">千里缘一线牵，我们在异乡相遇，真是命中注定。</div>
+            <div class="ex-py">Qiānlǐ yuán yī xiàn qiān, wǒmen zài yìxiāng xiāngyù, zhēn shì mìngzhōng zhùdìng.</div>
+            <div class="ex-en">A single thread ties a thousand-mile connection — meeting in a foreign land, it was truly destined.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">千里之外的两个人，因为缘分在同一天来到这座城市。</div>
+            <div class="ex-py">Qiānlǐ zhī wài de liǎng gè rén, yīnwèi yuánfèn zài tóngyī tiān lái dào zhè zuò chéngshì.</div>
+            <div class="ex-en">Two people from a thousand miles away arrived in the same city on the same day because of 缘分.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards relationships -->
+
+    <!-- ── THE RED THREAD ── -->
+    <span class="section-anchor" id="redthread"></span>
+    <div class="section-head">
+      <span class="sh-cn">红线</span>
+      <span class="sh-py">hóngxiàn</span>
+      <span class="sh-en">The Red Thread of Fate — 月老 and Destined Love</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="月">
+      <div class="scholar-label">神话洞见 shénhuà dòngjiàn · Mythological Note</div>
+      <p>The Chinese equivalent of the Western "red string of fate" begins with <strong>月老 Yuèlǎo</strong> — the Old Man Under the Moon, the deity of marriage and romantic fate. According to legend, Yuèlǎo ties couples together with a red thread (红线 hóngxiàn) at the moment of their birth — regardless of the distance between them, their social class, or their circumstances. The thread is invisible but indestructible; it will slowly draw them together.</p>
+      <p>This is not simply romantic mythology. It expresses the deeper logic of 缘分 in its most vivid form: the connection exists before the meeting. 有缘 people will find each other. 无缘 people will pass without recognition even face to face. The thread was there before either person arrived. When it is finally pulled taut and the meeting occurs, it is not coincidence — it is the thread becoming visible.</p>
+      <p>月老 remains an active figure in popular religion. Temples dedicated to Yuèlǎo receive worshippers who tie red threads around a stone or statue and pray for a destined partner to appear. The practice bridges ancient mythology and living contemporary devotion.</p>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">月老</span>
+          <span class="card-py">Yuèlǎo</span>
+          <span class="card-en">the Old Man Under the Moon; deity of marriage and romantic fate</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N (proper) 专有名词</span></div>
+        <div class="card-def">
+          月 yuè (moon) + 老 lǎo (old; elderly; venerable). Yuèlǎo appears at night under the moon, checking his celestial book of destined marriages, and tying the red threads that will unite couples across any distance. 拜月老 (to pray to Yuèlǎo) is a common practice among those seeking romantic fate. The figure appears in Tang dynasty literary sources and remains beloved today.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">月老牵线，让这两个人在千里之外相遇了。</div>
+            <div class="ex-py">Yuèlǎo qiān xiàn, ràng zhè liǎng gè rén zài qiānlǐ zhī wài xiāngyù le.</div>
+            <div class="ex-en">Yuèlǎo tied the thread and brought these two people together from a thousand miles away.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">她每年都去庙里拜月老，希望能找到有缘人。</div>
+            <div class="ex-py">Tā měi nián dōu qù miào lǐ bài Yuèlǎo, xīwàng néng zhǎodào yǒu yuán rén.</div>
+            <div class="ex-en">She goes to the temple every year to pray to Yuèlǎo, hoping to find her destined one.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">朋友开玩笑说是月老把他们撮合在一起的。</div>
+            <div class="ex-py">Péngyou kāi wánxiào shuō shì Yuèlǎo bǎ tāmen cuōhé zài yīqǐ de.</div>
+            <div class="ex-en">Their friends joked that it was Yuèlǎo who brought them together.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">红线</span>
+          <span class="card-py">hóngxiàn</span>
+          <span class="card-en">red thread of fate; also: a line that must not be crossed</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          红 hóng (red — the color of luck, celebration, and vital force in Chinese culture) + 线 xiàn (thread; line). The red thread of fate in romantic mythology. In political and administrative discourse, 红线 has acquired a completely different meaning: a limit that must not be crossed — a hard boundary, a red line. Context distinguishes the two uses entirely.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">月老用红线把他们连在了一起，从此相守一生。</div>
+            <div class="ex-py">Yuèlǎo yòng hóngxiàn bǎ tāmen lián zài le yīqǐ, cóngcǐ xiāng shǒu yīshēng.</div>
+            <div class="ex-en">Yuèlǎo tied them together with the red thread, and from that point they stayed together for life.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这是不能越过的红线，任何人都不例外。</div>
+            <div class="ex-py">Zhè shì bù néng yuèguò de hóngxiàn, rènhé rén dōu bù lìwài.</div>
+            <div class="ex-en">This is a line that cannot be crossed — no one is exempt. (political/administrative meaning)</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">民间传说月老手中的红线，牵连着天下有缘人。</div>
+            <div class="ex-py">Mínjiān chuánshuō Yuèlǎo shǒuzhōng de hóngxiàn, qiānlián zhe tiānxià yǒu yuán rén.</div>
+            <div class="ex-en">Folk legend says the red thread in Yuèlǎo's hands binds all the fated ones in the world.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">语义双重性 · Semantic Duality</span>
+          The same 红线 means the thread of romantic fate in cultural/literary contexts and a political boundary in governance discourse. The ambiguity can create interesting literary effects when used deliberately, but in ordinary speech the context makes the meaning clear immediately.
+        </div>
+      </div>
+
+    </div><!-- /cards redthread -->
+
+    <!-- ── 随缘 PHILOSOPHY ── -->
+    <span class="section-anchor" id="philosophy"></span>
+    <div class="section-head">
+      <span class="sh-cn">随缘哲学</span>
+      <span class="sh-py">suí yuán zhéxué</span>
+      <span class="sh-en">随缘 as Philosophy — Fate, Non-Attachment, and Acceptance</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="随">
+      <div class="scholar-label">哲学洞见 zhéxué dòngjiàn · Philosophical Note</div>
+      <p>随缘 suí yuán (follow the karmic current; go with the flow of fate) sits at the intersection of Buddhist and Daoist thought. From Buddhism: accept conditions as they arise, without forcing outcomes through ego-driven will. From Daoism: follow the natural flow of things (道法自然 dào fǎ zìrán — the Dao follows the natural), yielding to what is rather than insisting on what one wants.</p>
+      <p>In contemporary Chinese life, 随缘 functions as both a genuine philosophical attitude and a practical conversational move — a way to signal equanimity in the face of uncertainty, disappointment, or uncontrollable outcomes. When someone says 随缘吧 after a failed job application or a relationship that didn't work out, they are invoking the full weight of this tradition: it wasn't mine to force; if the conditions align, it will come; if not, there is wisdom in acceptance.</p>
+      <p>The related phrase 强求不来 qiǎngqiú bù lái — "forcing it won't make it come" — expresses the same insight from the negative direction. 缘分 that has to be forced is not 缘分; it is manufacture. The genuine article arrives when the conditions are right.</p>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">随缘</span>
+          <span class="card-py">suí yuán</span>
+          <span class="card-en">to follow the karmic current; to go with fate; non-attachment</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V/Philosophy 动词/人生观</span></div>
+        <div class="card-def">
+          随 suí (to follow; to go along with) + 缘. The attitude of trusting the flow of karmic conditions rather than forcing outcomes. Used as both a verb (to practice 随缘 as an approach to life) and as an exclamation of acceptance: 随缘吧！(Just go with it; let fate decide). One of the most culturally resonant attitudes in Chinese social life.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">随缘吧，强求没有用。</div>
+            <div class="ex-py">Suí yuán ba, qiǎngqiú méiyǒu yòng.</div>
+            <div class="ex-en">Just go with fate — forcing it is useless.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他的人生态度就是随缘，不强求任何事。</div>
+            <div class="ex-py">Tā de rénshēng tàidu jiù shì suí yuán, bù qiǎngqiú rènhé shì.</div>
+            <div class="ex-en">His life philosophy is to go with fate — he doesn't force anything.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">随缘不是消极，而是对生命有更深的信任。</div>
+            <div class="ex-py">Suí yuán bù shì xiāojí, ér shì duì shēngmìng yǒu gèng shēn de xìnrèn.</div>
+            <div class="ex-en">随缘 is not passivity — it is a deeper trust in life itself.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">顺其自然</span>
+          <span class="card-py">shùn qí zìrán</span>
+          <span class="card-en">to let things take their natural course; to go with the flow</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">Fixed phrase 固定短语</span></div>
+        <div class="card-def">
+          顺 shùn (to go along with; to follow the direction of) + 其 (it; its) + 自然 (nature; natural course). A close companion to 随缘 — the attitude of allowing things to develop naturally without forcing. Where 随缘 has specifically Buddhist karmic connotations, 顺其自然 is more broadly Daoist. Both advise against aggressive forcing of outcomes.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">这件事就顺其自然吧，不必太纠结。</div>
+            <div class="ex-py">Zhè jiàn shì jiù shùn qí zìrán ba, bùbì tài jiūjié.</div>
+            <div class="ex-en">Just let this matter take its natural course — no need to agonize over it.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">两个人的感情，顺其自然才是最好的。</div>
+            <div class="ex-py">Liǎng gè rén de gǎnqíng, shùn qí zìrán cái shì zuì hǎo de.</div>
+            <div class="ex-en">When it comes to feelings between two people, letting things develop naturally is best.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards philosophy -->
+
+    <!-- ── CHENGYU ── -->
+    <span class="section-anchor" id="chengyu"></span>
+    <div class="section-head">
+      <span class="sh-cn">成语</span>
+      <span class="sh-py">chéngyǔ</span>
+      <span class="sh-en">Idioms &amp; Set Phrases</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="chengyu-grid">
+
+      <div class="cy">
+        <span class="cy-cn">有缘千里来相会</span>
+        <span class="cy-py">yǒu yuán qiānlǐ lái xiāng huì</span>
+        <span class="cy-en">"those with fate meet across a thousand miles" — destiny brings people together regardless of distance</span>
+        <span class="cy-note">The full saying: 有缘千里来相会，无缘对面不相识。"Those with karmic connection will meet across a thousand miles; those without it won't recognize each other face to face." One of the most beloved Chinese sayings about fate and connection. Often quoted at reunions, surprising meetings, or to celebrate the wonder of a relationship that defied the odds of distance.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">缘木求鱼</span>
+        <span class="cy-py">yuán mù qiú yú</span>
+        <span class="cy-en">"climb a tree to look for fish" — to seek something by completely wrong means; a futile approach</span>
+        <span class="cy-note">Lit: climb-tree-seek-fish. Here 缘 means "to climb along" rather than "karmic connection" — a completely different sense of the character (the edge-clinging, tree-climbing meaning). A cautionary idiom from Mencius. Used when someone's method is fundamentally unsuited to their goal. 用这种方法解决那个问题，无异于缘木求鱼。"Using this method for that problem is like climbing a tree to find fish."</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">天赐良缘</span>
+        <span class="cy-py">tiān cì liáng yuán</span>
+        <span class="cy-en">"heaven-bestowed good fate" — a heaven-sent destined match; a blessed union</span>
+        <span class="cy-note">Lit: heaven-bestow-good-fate. The most auspicious framing for a destined romantic match — one that heaven itself has arranged and blessed. Used in wedding toasts, blessings, and romantic contexts when the match seems particularly right. 他们的婚姻真是天赐良缘，两个人都幸福极了。"Their marriage is truly heaven-sent — both of them are genuinely happy."</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">随缘</span>
+        <span class="cy-py">suí yuán</span>
+        <span class="cy-en">"follow the karmic current" — to go with the flow; to accept what fate brings; non-attachment</span>
+        <span class="cy-note">Lit: follow-karmic-connection. A Buddhist and Daoist attitude of non-attachment — accepting outcomes without forcing them, trusting the flow of conditions rather than imposing a rigid agenda. Has become a widely used life philosophy and response to uncertainty or disappointment. 随缘吧，强求没用。"Just go with fate — forcing it is useless." The phrase can express wisdom, resignation, or genuine peace depending on context.</span>
+      </div>
+
+    </div>
+
+    <!-- ── ADJACENT VOCAB ── -->
+    <span class="section-anchor" id="adjacent"></span>
+    <div class="section-head">
+      <span class="sh-cn">相邻词汇</span>
+      <span class="sh-py">xiānglín cíhuì</span>
+      <span class="sh-en">Adjacent Vocabulary</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">命运</span><span class="a-py">mìngyùn</span><span class="a-en">fate; destiny</span></span>
+      <span class="adj"><span class="a-cn">命中注定</span><span class="a-py">mìngzhōng zhùdìng</span><span class="a-en">fated; destined; predestined</span></span>
+      <span class="adj"><span class="a-cn">机缘</span><span class="a-py">jīyuán</span><span class="a-en">opportunity; chance connection</span></span>
+      <span class="adj"><span class="a-cn">巧合</span><span class="a-py">qiǎohé</span><span class="a-en">coincidence</span></span>
+      <span class="adj"><span class="a-cn">注定</span><span class="a-py">zhùdìng</span><span class="a-en">destined; predetermined</span></span>
+      <span class="adj"><span class="a-cn">天意</span><span class="a-py">tiānyì</span><span class="a-en">heaven's will; providential</span></span>
+      <span class="adj"><span class="a-cn">前世</span><span class="a-py">qiánshì</span><span class="a-en">previous life; past existence</span></span>
+      <span class="adj"><span class="a-cn">轮回</span><span class="a-py">lúnhuí</span><span class="a-en">reincarnation; samsara</span></span>
+      <span class="adj"><span class="a-cn">业</span><span class="a-py">yè</span><span class="a-en">karma (Buddhist)</span></span>
+      <span class="adj"><span class="a-cn">红线</span><span class="a-py">hóngxiàn</span><span class="a-en">red thread of fate</span></span>
+      <span class="adj"><span class="a-cn">缘分</span><span class="a-py">yuánfèn</span><span class="a-en">karmic connection (core word)</span></span>
+      <span class="adj"><span class="a-cn">相遇</span><span class="a-py">xiāngyù</span><span class="a-en">to meet; to encounter</span></span>
+    </div>
+
+    <!-- RETENTION SCHOLAR BOX -->
+    <div class="scholar" data-glyph="缘" style="margin-top:2.5rem;">
+      <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
+      <p>Silk thread clinging to a tree's edge — that is 缘, holding on at the fringe, the thread of connection running through everything. Buddhism taught that every meeting is the result of causes accumulated across lifetimes. 缘分 took that doctrine and gave it to ordinary people as a living word: your friends, your loves, your chance encounters on trains and in waiting rooms — none of it is random. The thread was there before you arrived.</p>
+      <p>When a Chinese person says 这是缘分, they are not being superstitious — they are expressing a philosophy of relationship: that the meaningful ones were always coming, that the conditions were in place long before the meeting, and that the ones which don't work out simply 缘分已尽 — the thread has run its natural length. There is grief in that, but no blame and no bitterness.</p>
+      <p>And 随缘 — follow the thread, don't force it — is not passivity. It is the wisdom of knowing which connections are yours and which ones you are trying to manufacture by sheer will. The thread will pull when the time comes. Until then, 随缘.</p>
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="page-footer">
+      <span class="footer-id">Field Notes on Chinese · <span>缘分 yuánfèn</span> · yuanfen_缘分.html</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>

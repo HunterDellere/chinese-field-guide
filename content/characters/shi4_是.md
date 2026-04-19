@@ -1,0 +1,758 @@
+---
+type: 'character'
+category: 'characters'
+status: 'complete'
+title: '是 · to be'
+desc: 'The copula, the cleft construction, classical 是非 right-and-wrong.'
+metaDesc: "是 shì: the copula, the cleft construction, right and wrong — etymology, grammar, the 是…的 focus pattern, and the full 是-family of connectors."
+pageTitle: '是 shì'
+tags:
+  - 'grammar'
+  - 'copula'
+  - 'logic'
+updated: '2026-04-18'
+char: '是'
+pinyin: 'shì'
+tone: 4
+hsk: 1
+radical: '日'
+---
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+    <button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+    <span class="toc-glyph">是</span>
+    <span class="toc-pinyin">shì · tone 4</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#etymology">
+        <span class="toc-cn">字源</span> Etymology
+        <span class="toc-sub">zìyuán · origin &amp; structure</span>
+      </a></li>
+      <li><a href="#patterns">
+        <span class="toc-cn">构词</span> Patterns
+        <span class="toc-sub">gòucí · word-formation</span>
+      </a></li>
+      <li><a href="#copula">
+        <span class="toc-cn">基本</span> The Copula
+        <span class="toc-sub">jīběn · to be</span>
+      </a></li>
+      <li><a href="#cleft">
+        <span class="toc-cn">是…的</span> The Cleft
+        <span class="toc-sub">shì…de · focus construction</span>
+      </a></li>
+      <li><a href="#shifei">
+        <span class="toc-cn">是非</span> Right &amp; Wrong
+        <span class="toc-sub">shìfēi · logic &amp; judgment</span>
+      </a></li>
+      <li><a href="#family">
+        <span class="toc-cn">是家族</span> The 是-Family
+        <span class="toc-sub">connectors &amp; compounds</span>
+      </a></li>
+      <li><a href="#table">
+        <span class="toc-cn">表格</span> 是…的 Variants
+        <span class="toc-sub">focus pattern table</span>
+      </a></li>
+      <li><a href="#chengyu">
+        <span class="toc-cn">成语</span> Idioms
+        <span class="toc-sub">chéngyǔ · set phrases</span>
+      </a></li>
+      <li><a href="#adjacent">
+        <span class="toc-cn">相邻</span> Adjacent Vocab
+        <span class="toc-sub">xiānglín cíhuì</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- HERO -->
+    <header class="hero">
+      <div class="hero-inner">
+        <div class="hero-glyph-col">
+          <span class="hero-glyph">是</span>
+          <span class="hero-trad-note">繁體字 identical</span>
+        </div>
+        <div class="hero-meta">
+          <div class="hero-pinyin">shì</div>
+          <div class="hero-en">to be · the copula · 是非 right and wrong</div>
+          <div class="hero-chips">
+            <span class="chip">部首 bùshǒu · 日 rì sun</span>
+            <span class="chip">9 笔画 bǐhuà strokes</span>
+            <span class="chip chip-hsk">HSK 1</span>
+            <span class="chip">tone 4 · shì</span>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <!-- ── ETYMOLOGY ── -->
+    <span class="section-anchor" id="etymology"></span>
+    <div class="section-head">
+      <span class="sh-cn">字源</span>
+      <span class="sh-py">zìyuán</span>
+      <span class="sh-en">Etymology &amp; Structure</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="是">
+      <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
+      <p>The oracle-bone form of <strong>是 shì</strong> shows <strong>日 rì</strong> (sun) above <strong>正 zhèng</strong> (upright; correct — a foot placed on a straight path, the image of walking a true line). The sun at its zenith directly overhead casts no shadow in any direction; this is the "correct" moment, the "true" position, the one point where nothing is ambiguous. From this image, 是 originally meant <em>this; correct; true</em> — not "to be."</p>
+      <p>In classical Chinese, 是 functioned as a <strong>demonstrative pronoun</strong> — "this thing here." The compound 是非 shìfēi literally means "this-that" and came to encode the great moral binary: right-versus-wrong, the question of where something stands relative to the true position. The copula function developed later through grammaticalization: the construction 是 + topic + predicate became so conventionalized that 是 gradually lost its pronoun weight and became the linking verb recognizable today. This is why classical texts phrase things like 是乃仁也 ("this is benevolence") — the classical 是 is still a pronoun being predicated, not yet a full copula.</p>
+      <p>In Japanese, the same character appears in <strong>是非 zehi</strong> — but meaning has drifted to "by all means; please." The classical sense of "this-versus-that / right-versus-wrong" was absorbed into polite invitation. In Chinese, 是非 retains its full philosophical and moral edge: 明辨是非 "to clearly discern right from wrong" remains a live Confucian imperative, not an archaic phrase.</p>
+    </div>
+
+    <!-- ── WORD-FORMATION ── -->
+    <span class="section-anchor" id="patterns"></span>
+    <div class="section-head">
+      <span class="sh-cn">构词</span>
+      <span class="sh-py">gòucí</span>
+      <span class="sh-en">Word-Formation Patterns</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">构词规律 gòucí guīlǜ · Three Templates</span>
+      <strong>是 + noun/adj</strong> → copula: 他是医生 tā shì yīshēng · He is a doctor<br>
+      <strong>是…的</strong> → cleft/focus: 我是昨天来的 wǒ shì zuótiān lái de · It was yesterday that I came<br>
+      <strong>还是 / 但是 / 可是 / 就是 / 于是 / 要是</strong> → the 是-family connectors — each with its own grammatical register and function
+    </div>
+
+    <!-- ── THE COPULA ── -->
+    <span class="section-anchor" id="copula"></span>
+    <div class="section-head">
+      <span class="sh-cn">基本</span>
+      <span class="sh-py">jīběn</span>
+      <span class="sh-en">The Copula — to be</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <!-- 是 -->
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">是</span>
+          <span class="card-py">shì</span>
+          <span class="card-en">to be; is / am / are / was / were</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
+        <div class="card-def">
+          The Chinese copula links subject to predicate <em>noun or noun phrase.</em> Critical rule: 是 is <strong>not used with adjectives in the predicative position</strong>. 他很高 (He is tall) — no 是. 他是高的 is unnatural except in contrastive contexts. 是 links nouns to nouns: 他是老师 (He is a teacher). Adjectives form their own predicates directly, typically with 很 as a filler. 是 has no tense marking — context, time adverbs, or aspect markers indicate time frame.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">她是我的老师。</div>
+            <div class="ex-py">Tā shì wǒ de lǎoshī.</div>
+            <div class="ex-en">She is my teacher.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这是什么？</div>
+            <div class="ex-py">Zhè shì shénme?</div>
+            <div class="ex-en">What is this?</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">今天是星期五。</div>
+            <div class="ex-py">Jīntiān shì xīngqīwǔ.</div>
+            <div class="ex-en">Today is Friday.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">语法 yǔfǎ · The Adjective Rule</span>
+          <strong>是 with nouns only.</strong> Predicative adjectives never need 是: 天气很好 (The weather is good) — not 天气是好的 in natural speech. Exception: formal or contrastive writing uses the de-nominalized form: 问题是明显的 "The problem is obvious" — the adjective is treated as the head of a nominal predicate. Know this rule — it is one of the most common errors for English speakers.
+        </div>
+      </div>
+
+      <!-- 不是 -->
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">不是</span>
+          <span class="card-py">bú shì</span>
+          <span class="card-en">is not; to not be; it's not that…</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
+        <div class="card-def">
+          The negation of 是 — always 不是, never 没是 (unlike verbs of action, which can be negated with 没 for past tense). 不是 is also used in the fixed adversative construction 不是…就是 (if not X then Y) and in the rhetorical pattern 不是…是 (it's not X — it's Y), which is one of the most natural ways to correct a misunderstanding in Chinese.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他不是中国人，是韩国人。</div>
+            <div class="ex-py">Tā bú shì Zhōngguórén, shì Hánguórén.</div>
+            <div class="ex-en">He's not Chinese — he's Korean.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">不是我不想去，是我太忙了。</div>
+            <div class="ex-py">Bú shì wǒ bù xiǎng qù, shì wǒ tài máng le.</div>
+            <div class="ex-en">It's not that I don't want to go — I'm just too busy.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这不是问题所在。</div>
+            <div class="ex-py">Zhè bú shì wèntí suǒzài.</div>
+            <div class="ex-en">This is not where the problem lies.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">语法 yǔfǎ · Tone Sandhi</span>
+          不 normally reads 4th tone (bù) but shifts to 2nd tone (bú) before another 4th-tone syllable: 不是 = bú shì. This sandhi rule applies automatically and consistently throughout the language.
+        </div>
+      </div>
+
+      <!-- 是不是 -->
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">是不是</span>
+          <span class="card-py">shì bu shì</span>
+          <span class="card-en">is it or isn't it? · right? (A-not-A question / tag)</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
+        <div class="card-def">
+          The A-not-A question form of 是 — a canonical Chinese question-formation strategy. Verb + 不 + Verb creates a yes-no question with slightly more rhetorical directness than a rising-intonation question. 是不是 also functions as a sentence-final tag question: 你也去，是不是？ ("You're going too, right?"). The tag use is warmer and more conversational than the full question.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">你是不是她的朋友？</div>
+            <div class="ex-py">Nǐ shì bu shì tā de péngyou?</div>
+            <div class="ex-en">Are you her friend or not?</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他是不是已经走了？</div>
+            <div class="ex-py">Tā shì bu shì yǐjīng zǒu le?</div>
+            <div class="ex-en">Has he already left?</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">你也觉得很奇怪，是不是？</div>
+            <div class="ex-py">Nǐ yě juéde hěn qíguài, shì bu shì?</div>
+            <div class="ex-en">You also find it strange, don't you? <em>[tag use]</em></div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">语法 yǔfǎ · Position &amp; Register</span>
+          是不是 can appear at sentence-beginning (governing the whole predicate) or sentence-end (tag). The end-position version is warmer. Note: 不 loses its tone here — read as neutral bù·shì, not a sandhi context. In questions, the whole phrase is often said quickly as a unit.
+        </div>
+      </div>
+
+    </div><!-- /cards copula -->
+
+    <!-- ── THE CLEFT ── -->
+    <span class="section-anchor" id="cleft"></span>
+    <div class="section-head">
+      <span class="sh-cn">是…的</span>
+      <span class="sh-py">shì…de</span>
+      <span class="sh-en">The Cleft — Focus &amp; Emphasis</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="是">
+      <div class="scholar-label">构式洞见 gòushì dòngjiàn · Construction Insight</div>
+      <p>The <strong>是…的</strong> construction is one of Chinese grammar's most important and most misunderstood devices. It does not assert that something happened — it takes an event already known or assumed and <strong>focuses on one specific element</strong> of it: the time, the place, the manner, or the agent. The event is presupposed; 是…的 frames <em>which aspect</em> of that event you are asserting. In English, this maps onto cleft sentences: "It was <em>yesterday</em> that I came" presupposes I came — the new information is <em>when.</em></p>
+      <p>Structure: <code>是 + [focused element] + verb phrase + 的</code>. The 是 can be dropped in rapid speech; the 的 is obligatory and marks the boundary of the construction. The focused element sits immediately after 是, regardless of its usual syntactic position — this is why time words, which normally precede the verb in Mandarin, can follow 是 here: 我是昨天来的. The 是…的 construction is the Chinese spotlight: point it wherever the new information lives.</p>
+    </div>
+
+    <div class="cards">
+
+      <!-- Time focus -->
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">时间焦点</span>
+          <span class="card-py">shíjiān jiāodiǎn</span>
+          <span class="card-en">time focus — "it was [then] that…"</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">构式 gòushì · Construction</span></div>
+        <div class="card-def">
+          When the focused element is a time expression, it appears directly after 是. This answers the implicit question "when?" about a past event both parties know occurred. The event itself is not in question — only its timing is being asserted.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">我是去年认识她的。</div>
+            <div class="ex-py">Wǒ shì qùnián rènshi tā de.</div>
+            <div class="ex-en">It was last year that I met her.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他们是三点钟到的。</div>
+            <div class="ex-py">Tāmen shì sān diǎn zhōng dào de.</div>
+            <div class="ex-en">It was at three o'clock that they arrived.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这部电影是什么时候上映的？</div>
+            <div class="ex-py">Zhè bù diànyǐng shì shénme shíhou shàngyìng de?</div>
+            <div class="ex-en">When did this film come out? <em>[question form: focused element = 什么时候]</em></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Place focus -->
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">地点焦点</span>
+          <span class="card-py">dìdiǎn jiāodiǎn</span>
+          <span class="card-en">place focus — "it was [there] that…"</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">构式 gòushì · Construction</span></div>
+        <div class="card-def">
+          When the focused element is a place, the construction answers "where?" — again, about a past event both speakers know happened. The place phrase typically includes 在 and appears immediately after 是.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">我是在图书馆看完这本书的。</div>
+            <div class="ex-py">Wǒ shì zài túshūguǎn kànwán zhè běn shū de.</div>
+            <div class="ex-en">It was at the library that I finished this book.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他们是在上海认识的。</div>
+            <div class="ex-py">Tāmen shì zài Shànghǎi rènshi de.</div>
+            <div class="ex-en">It was in Shanghai that they met.</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Manner focus -->
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">方式焦点</span>
+          <span class="card-py">fāngshì jiāodiǎn</span>
+          <span class="card-en">manner focus — "it was [by X] that…"</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">构式 gòushì · Construction</span></div>
+        <div class="card-def">
+          When the focused element is a manner, means, or instrument, 是…的 answers "how?" The manner phrase sits after 是 and before the main verb. This is a natural way to specify or contrast the means of travel, communication, or action.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">我是坐飞机来的，不是坐火车。</div>
+            <div class="ex-py">Wǒ shì zuò fēijī lái de, bú shì zuò huǒchē.</div>
+            <div class="ex-en">I came by plane — not by train.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这个消息是通过朋友知道的。</div>
+            <div class="ex-py">Zhège xiāoxi shì tōngguò péngyou zhīdào de.</div>
+            <div class="ex-en">It was through a friend that I heard this news.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">语法 yǔfǎ · Negation of 是…的</span>
+          Negate with 不是…的: 我不是坐飞机去的 "I didn't go by plane." The 不是 replaces 是 at the start; the 的 remains at the end. This is distinct from negating the event itself (我没去 "I didn't go") — the cleft negation focuses specifically on the manner or circumstance, not the event.
+        </div>
+      </div>
+
+    </div><!-- /cards cleft -->
+
+    <!-- ── 是非 ── -->
+    <span class="section-anchor" id="shifei"></span>
+    <div class="section-head">
+      <span class="sh-cn">是非</span>
+      <span class="sh-py">shìfēi</span>
+      <span class="sh-en">Right &amp; Wrong — The Logical Pair</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <!-- 是非 -->
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">是非</span>
+          <span class="card-py">shìfēi</span>
+          <span class="card-en">right and wrong; truth and falsehood; trouble; gossip</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          是 (this; right) + 非 fēi (not; wrong — originally a pictograph of two birds flying in opposite directions, suggesting divergence and negation). The classical pronoun pair "this-that" became the foundational moral binary. Used in Confucian ethics (明辨是非 — to clearly discern right from wrong), in legal discourse (是非曲直 — right, wrong, and all the complexity between), and colloquially to mean "trouble" or "gossip" (惹是生非 — to stir up trouble, literally to invite right-and-wrong into existence).
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">孩子要从小学会明辨是非。</div>
+            <div class="ex-py">Háizi yào cóng xiǎo xuéhuì míng biàn shìfēi.</div>
+            <div class="ex-en">Children should learn from a young age to clearly discern right from wrong.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他这个人特别爱惹是生非。</div>
+            <div class="ex-py">Tā zhège rén tèbié ài rě shìfēi.</div>
+            <div class="ex-en">He's the type who loves to stir up trouble.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这件事是非曲直，一时难以判断。</div>
+            <div class="ex-py">Zhè jiàn shì shìfēi qūzhí, yīshí nányǐ pànduàn.</div>
+            <div class="ex-en">The rights and wrongs of this matter are not easy to judge immediately.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">文化 wénhuà · Classical Context</span>
+          The character 非 fēi (not; wrong) pairs with 是 across classical philosophy, law, and logic. 是非之心 (the heart that distinguishes right from wrong) is one of Mencius's four innate moral sprouts — the seed of wisdom 智. In Japanese, 是非 zehi drifted to a politeness marker. In Chinese, the moral discrimination meaning remains fully alive.
+        </div>
+      </div>
+
+      <!-- 是否 -->
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">是否</span>
+          <span class="card-py">shìfǒu</span>
+          <span class="card-en">whether or not; if (formal written)</span>
+        </div>
+        <div class="tags"><span class="tag tag-conj">Conj 连词 liáncí</span></div>
+        <div class="card-def">
+          是 (yes/right) + 否 fǒu (no; to negate — a classical negative particle). A formal, written-register conjunction meaning "whether or not." The colloquial equivalents are 有没有 or 是不是. 是否 appears in journalism, academic writing, formal correspondence, and polished speech. It cannot begin a sentence the way 是不是 can — it embeds into longer constructions as a subordinating element.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">请问您是否参加今天的会议？</div>
+            <div class="ex-py">Qǐngwèn nín shìfǒu cānjiā jīntiān de huìyì?</div>
+            <div class="ex-en">May I ask whether you will attend today's meeting?</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">我不确定他是否已经知道这件事。</div>
+            <div class="ex-py">Wǒ bù quèdìng tā shìfǒu yǐjīng zhīdào zhè jiàn shì.</div>
+            <div class="ex-en">I'm not certain whether he already knows about this.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">语域 yǔyù · Register</span>
+          是否 is formal and written. In conversation, use 是不是 or 有没有 instead. In writing: 我想确认是否可以更改时间 "I'd like to confirm whether the time can be changed." Mixing 是否 into casual speech sounds stilted.
+        </div>
+      </div>
+
+      <!-- X 是 X -->
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">X 是 X</span>
+          <span class="card-py">X shì X (dànshì / jiùshì…)</span>
+          <span class="card-en">X it certainly is — but… (concessive reduplicated pattern)</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">构式 gòushì · Construction</span></div>
+        <div class="card-def">
+          The concessive reduplicated construction: any adjective or verb + 是 + same adjective or verb, followed by a pivot word (但是 / 可是 / 就是) and a qualification. The first clause concedes the point; the second pivots. Pattern: <code>[X] 是 [X]，但是/可是/就是 + [counter-point]</code>. This is one of Chinese's most natural ways to express "that may be true, but…" — and it sounds immediately native.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">贵是贵，但是质量确实好。</div>
+            <div class="ex-py">Guì shì guì, dànshì zhìliàng quèshí hǎo.</div>
+            <div class="ex-en">It's expensive, granted — but the quality is genuinely good.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">好是好，就是太远了。</div>
+            <div class="ex-py">Hǎo shì hǎo, jiùshì tài yuǎn le.</div>
+            <div class="ex-en">It's good, sure — it's just too far away.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">想是想，可是没有钱。</div>
+            <div class="ex-py">Xiǎng shì xiǎng, kěshì méiyǒu qián.</div>
+            <div class="ex-en">I want to, yes — but I don't have the money.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards shifei -->
+
+    <!-- ── 是-FAMILY ── -->
+    <span class="section-anchor" id="family"></span>
+    <div class="section-head">
+      <span class="sh-cn">是家族</span>
+      <span class="sh-py">shì jiāzú</span>
+      <span class="sh-en">The 是-Family — Connectors &amp; Compounds</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <!-- 还是 -->
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">还是</span>
+          <span class="card-py">háishì</span>
+          <span class="card-en">or (in questions); still; had better</span>
+        </div>
+        <div class="tags"><span class="tag tag-conj">Conj/Adv 连词/副词</span></div>
+        <div class="card-def">
+          还 hái (still; also) + 是. Three functions that must be distinguished: (1) In questions: A 还是 B? — "Is it A or B?" This is a <em>choice question</em>, not an open question. (2) As adverb meaning "still; in the end": 还是你说得对 "you were right after all." (3) Suggestion/recommendation: 还是 + V + 吧 = "you'd better / it would be best to": 还是早点去吧 "you'd better go early."
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">你喝茶还是喝咖啡？</div>
+            <div class="ex-py">Nǐ hē chá háishì hē kāfēi?</div>
+            <div class="ex-en">Do you want tea or coffee? <em>[choice question]</em></div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">还是你说得对。</div>
+            <div class="ex-py">Háishì nǐ shuō de duì.</div>
+            <div class="ex-en">You were right after all. <em>[adverbial: still / in the end]</em></div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">外面冷，还是穿上外套吧。</div>
+            <div class="ex-py">Wàimiàn lěng, háishì chuān shàng wàitào ba.</div>
+            <div class="ex-en">It's cold outside — you'd better put on your coat. <em>[suggestion]</em></div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">辨析 biànxī · 还是 vs. 或者</span>
+          <strong>还是</strong> in questions: 你喝茶还是咖啡？ (tea or coffee?). <strong>或者 huòzhě</strong> in statements: 你可以喝茶或者咖啡 (you can have tea or coffee). This distinction is tested in HSK and frequently confused. Mixing them is a reliable marker of non-native production.
+        </div>
+      </div>
+
+      <!-- 但是/可是 -->
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">但是 / 可是</span>
+          <span class="card-py">dànshì / kěshì</span>
+          <span class="card-en">but; however</span>
+        </div>
+        <div class="tags"><span class="tag tag-conj">Conj 连词 liáncí</span></div>
+        <div class="card-def">
+          Two high-frequency adversative conjunctions, both containing 是. <strong>但是</strong> dànshì: slightly more formal, appropriate in both writing and speech. <strong>可是</strong> kěshì: more colloquial, warmer in spoken register. Both pivot from a preceding clause to a contrasting one. The canonical concession structure is 虽然…但是/可是: "Although…but" — note that Chinese, unlike English, requires the "but" half even when "although" opens the sentence.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">虽然很贵，但是值得买。</div>
+            <div class="ex-py">Suīrán hěn guì, dànshì zhíde mǎi.</div>
+            <div class="ex-en">Although it's expensive, it's worth buying.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">我想去，可是没有时间。</div>
+            <div class="ex-py">Wǒ xiǎng qù, kěshì méiyǒu shíjiān.</div>
+            <div class="ex-en">I want to go, but I don't have time.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">语法 yǔfǎ · 虽然…但是</span>
+          Chinese does NOT drop the "but" when using "although": 虽然 must be paired with 但是 or 可是. 虽然很忙 alone is a fragment — the consequent clause must follow. This differs from English "Although I'm busy" (complete sentence).
+        </div>
+      </div>
+
+      <!-- 就是 -->
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">就是</span>
+          <span class="card-py">jiùshì</span>
+          <span class="card-en">precisely; exactly; even if; it's just that</span>
+        </div>
+        <div class="tags"><span class="tag tag-conj">Conj/Adv 连词/副词</span></div>
+        <div class="card-def">
+          就 jiù (then; precisely; at once) + 是. Multiple functions make 就是 one of the most versatile particles in spoken Mandarin. (1) Emphatic confirmation: 就是他 "it's precisely him / that's right, him." (2) Concessive-conditional: 就是再难，我也要做 "Even if it gets harder still, I'll do it." (3) Mild caveat: 就是有点贵 "it's just a bit expensive" — a gentle softener that avoids bluntness while registering a concern.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">对，就是这个意思。</div>
+            <div class="ex-py">Duì, jiùshì zhège yìsi.</div>
+            <div class="ex-en">Yes, that's precisely the meaning.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">就是天塌下来，我也不会放弃。</div>
+            <div class="ex-py">Jiùshì tiān tā xià lái, wǒ yě bú huì fàngqì.</div>
+            <div class="ex-en">Even if the sky fell, I still wouldn't give up.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这家餐厅很好，就是停车不太方便。</div>
+            <div class="ex-py">Zhè jiā cāntīng hěn hǎo, jiùshì tíngchē bù tài fāngbiàn.</div>
+            <div class="ex-en">This restaurant is great — it's just that parking isn't very convenient.</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 于是 -->
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">于是</span>
+          <span class="card-py">yúshì</span>
+          <span class="card-en">thereupon; as a result; and so</span>
+        </div>
+        <div class="tags"><span class="tag tag-conj">Conj 连词 liáncí</span></div>
+        <div class="card-def">
+          于 yú (at; in; given) + 是 (this; the situation). Classical origin: "at this point; given this situation." A narrative conjunction that advances a story — signaling consequence or the next development in a sequence. Slightly formal register. Common in written narration, newspaper reporting, and classical-influenced prose. English equivalent: "thereupon," "and so," "consequently," "at that."
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他迷路了，于是打电话求助。</div>
+            <div class="ex-py">Tā mí lù le, yúshì dǎ diànhuà qiúzhù.</div>
+            <div class="ex-en">He got lost, and so he called for help.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">会议结束，于是大家各自离去。</div>
+            <div class="ex-py">Huìyì jiéshù, yúshì dàjiā gèzì lí qù.</div>
+            <div class="ex-en">The meeting ended, whereupon everyone went their separate ways.</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 要是 -->
+      <div class="card c-sienna">
+        <div class="card-head">
+          <span class="card-cn">要是</span>
+          <span class="card-py">yàoshi</span>
+          <span class="card-en">if; supposing that (colloquial conditional)</span>
+        </div>
+        <div class="tags"><span class="tag tag-conj">Conj 连词 liáncí</span></div>
+        <div class="card-def">
+          要 yào (want; will; should) + 是. A colloquial conditional — warmer and more conversational than 如果 rúguǒ. Common in everyday speech and informal writing. Often paired with 就 in the consequent clause: 要是下雨就取消 "If it rains, cancel it." Slightly more emotionally colored than the neutral 如果 — implies the speaker has a stake in the condition.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">要是你不来，我就一个人去了。</div>
+            <div class="ex-py">Yàoshi nǐ bù lái, wǒ jiù yī gè rén qù le.</div>
+            <div class="ex-en">If you don't come, I'll go alone.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">要是我有翅膀该多好。</div>
+            <div class="ex-py">Yàoshi wǒ yǒu chìbǎng gāi duō hǎo.</div>
+            <div class="ex-en">If only I had wings — wouldn't that be something.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">辨析 biànxī · Conditionals</span>
+          如果 rúguǒ (neutral, formal and colloquial) · 要是 yàoshi (colloquial, warmer, more personal) · 假如 jiǎrú (written, explicitly hypothetical) · 假设 jiǎshè (academic: "assuming that"). All require 就 in the consequence clause in careful usage.
+        </div>
+      </div>
+
+    </div><!-- /cards family -->
+
+    <!-- ── TABLE ── -->
+    <span class="section-anchor" id="table"></span>
+    <div class="section-head">
+      <span class="sh-cn">表格</span>
+      <span class="sh-py">biǎogé</span>
+      <span class="sh-en">是…的 Pattern — Focus Variants</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>焦点类型 Focus Type</th>
+            <th>结构 Structure</th>
+            <th>例句 Example</th>
+            <th>英文 English</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="td-cn">时间 Time</td>
+            <td class="td-py">是 + time + VP + 的</td>
+            <td>我是昨天买的。<span class="td-small td-py-sm">Wǒ shì zuótiān mǎi de.</span></td>
+            <td>It was yesterday that I bought it.</td>
+          </tr>
+          <tr>
+            <td class="td-cn">地点 Place</td>
+            <td class="td-py">是 + 在+place + VP + 的</td>
+            <td>他是在北京长大的。<span class="td-small td-py-sm">Tā shì zài Běijīng zhǎngdà de.</span></td>
+            <td>It was in Beijing that he grew up.</td>
+          </tr>
+          <tr>
+            <td class="td-cn">方式 Manner</td>
+            <td class="td-py">是 + manner + VP + 的</td>
+            <td>我是骑车来的。<span class="td-small td-py-sm">Wǒ shì qí chē lái de.</span></td>
+            <td>It was by bicycle that I came.</td>
+          </tr>
+          <tr>
+            <td class="td-cn">施事 Agent</td>
+            <td class="td-py">是 + agent + VP + 的</td>
+            <td>这篇文章是他写的。<span class="td-small td-py-sm">Zhè piān wénzhāng shì tā xiě de.</span></td>
+            <td>It was he who wrote this article.</td>
+          </tr>
+          <tr>
+            <td class="td-cn">目的 Purpose</td>
+            <td class="td-py">是 + 为了+purpose + VP + 的</td>
+            <td>她是为了学中文来的。<span class="td-small td-py-sm">Tā shì wèile xué Zhōngwén lái de.</span></td>
+            <td>It was to learn Chinese that she came.</td>
+          </tr>
+          <tr>
+            <td class="td-cn">否定 Negation</td>
+            <td class="td-py">不是 + focused + VP + 的</td>
+            <td>我不是故意的。<span class="td-small td-py-sm">Wǒ bú shì gùyì de.</span></td>
+            <td>I didn't do it on purpose.</td>
+          </tr>
+          <tr>
+            <td class="td-cn">疑问 Question</td>
+            <td class="td-py">是 + 什么时候/在哪里 + VP + 的?</td>
+            <td>你是怎么知道的？<span class="td-small td-py-sm">Nǐ shì zěnme zhīdào de?</span></td>
+            <td>How did you find out? / By what means did you learn of it?</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- ── CHENGYU ── -->
+    <span class="section-anchor" id="chengyu"></span>
+    <div class="section-head">
+      <span class="sh-cn">成语</span>
+      <span class="sh-py">chéngyǔ</span>
+      <span class="sh-en">Idioms &amp; Set Phrases</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="chengyu-grid">
+
+      <div class="cy">
+        <span class="cy-cn">似是而非</span>
+        <span class="cy-py">sì shì ér fēi</span>
+        <span class="cy-en">seemingly correct but actually wrong — plausible falsehood</span>
+        <span class="cy-note">Lit: seem-right-yet-wrong. For things that look true on the surface but are fundamentally mistaken or misleading. The inverse of 是非分明. 这种说法似是而非，要仔细辨别。"This claim seems right but isn't — examine it carefully." Classic critical thinking vocabulary.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">是非颠倒</span>
+        <span class="cy-py">shì fēi diān dǎo</span>
+        <span class="cy-en">right and wrong turned upside down — moral inversion</span>
+        <span class="cy-note">Lit: right-wrong-overturned-upended. Used when injustice prevails, when blame is assigned to the innocent, or when someone deliberately distorts moral reality. 他把是非颠倒，让人无法接受。Strong condemnation in formal and classical register.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">积非成是</span>
+        <span class="cy-py">jī fēi chéng shì</span>
+        <span class="cy-en">errors accumulated until they harden into accepted norm</span>
+        <span class="cy-note">Lit: accumulate-wrong-become-right. When a mistake or deviation is repeated so long it calcifies into convention. Applied in linguistics (describing language change), ethics, and institutional analysis. A cautionary concept: not all norms are correct simply because they persist.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">是古非今</span>
+        <span class="cy-py">shì gǔ fēi jīn</span>
+        <span class="cy-en">to praise the ancient and disparage the present</span>
+        <span class="cy-note">Lit: right-ancient-wrong-present. The bias of treating old things as inherently superior to contemporary ones. Appears in debates about tradition versus modernity, canonical texts versus living practice. Qin Shihuang's advisors warned him about scholars guilty of this very tendency.</span>
+      </div>
+
+    </div>
+
+    <!-- ── ADJACENT VOCAB ── -->
+    <span class="section-anchor" id="adjacent"></span>
+    <div class="section-head">
+      <span class="sh-cn">相邻词汇</span>
+      <span class="sh-py">xiānglín cíhuì</span>
+      <span class="sh-en">Adjacent Vocabulary</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">对</span><span class="a-py">duì</span><span class="a-en">correct; right</span></span>
+      <span class="adj"><span class="a-cn">错</span><span class="a-py">cuò</span><span class="a-en">wrong; mistake</span></span>
+      <span class="adj"><span class="a-cn">真</span><span class="a-py">zhēn</span><span class="a-en">true; genuine</span></span>
+      <span class="adj"><span class="a-cn">假</span><span class="a-py">jiǎ</span><span class="a-en">false; fake</span></span>
+      <span class="adj"><span class="a-cn">确实</span><span class="a-py">quèshí</span><span class="a-en">indeed; certainly</span></span>
+      <span class="adj"><span class="a-cn">的确</span><span class="a-py">díquè</span><span class="a-en">certainly; definitely</span></span>
+      <span class="adj"><span class="a-cn">也是</span><span class="a-py">yě shì</span><span class="a-en">that's also true; fair enough</span></span>
+      <span class="adj"><span class="a-cn">算是</span><span class="a-py">suàn shì</span><span class="a-en">counts as; could be considered</span></span>
+      <span class="adj"><span class="a-cn">应该是</span><span class="a-py">yīnggāi shì</span><span class="a-en">should be; probably is</span></span>
+      <span class="adj"><span class="a-cn">看来是</span><span class="a-py">kànlái shì</span><span class="a-en">it seems to be</span></span>
+      <span class="adj"><span class="a-cn">其实</span><span class="a-py">qíshí</span><span class="a-en">actually; in fact</span></span>
+      <span class="adj"><span class="a-cn">本来</span><span class="a-py">běnlái</span><span class="a-en">originally; as it should be</span></span>
+    </div>
+
+    <!-- RETENTION IMAGE -->
+    <div class="scholar" data-glyph="是">
+      <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
+      <p>Picture the sun at high noon — directly overhead, casting no shadow in any direction. That moment is <strong>是 shì</strong>: the "true" position, the correct one, the point where nothing is ambiguous or uncertain. When you say 他是老师, you are placing him at high noon under the sun of identity — no shadow of doubt, no ambiguity.</p>
+      <p>When 是 moves into 是…的, it becomes a spotlight. The event already happened — the sun already rose and set. 是…的 aims the beam at one precise element: the moment, the location, the means. "It was <em>then</em>" — the sun fixed at that specific meridian and no other.</p>
+      <p>And 是非: the ancient pronouns "this-that" — this thing here, in the light, versus that other thing, over in shadow. The Confucian imperative 明辨是非 is simply: learn to tell noon from twilight. The character carries the entire history of Chinese moral reasoning inside it — a sun, a foot on a straight path, and the question of where something truly stands.</p>
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="page-footer">
+      <span class="footer-id">Field Notes on Chinese · <span>是 shì</span> · shi4_是.html</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>

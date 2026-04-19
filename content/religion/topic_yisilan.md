@@ -1,0 +1,434 @@
+---
+type: 'topic'
+category: 'religion'
+status: 'complete'
+title: '伊斯兰教 · Islam in China'
+desc: 'Hui Muslims, Uyghur traditions, and 1400 years of Islamic presence.'
+metaDesc: "伊斯兰教 yīsīlán jiào: Islam in China — 1400 years of Muslim presence, the Hui people, Uyghur traditions, mosque architecture from Xi'an to Kashgar, halal food culture, and Muslim contributions to Chinese civilization."
+pageTitle: '伊斯兰教 yīsīlán jiào'
+tags:
+  - 'islam'
+  - 'hui'
+  - 'uyghur'
+updated: '2026-04-18'
+pinyin: 'yīsīlán jiào'
+---
+
+<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+
+    <span class="toc-topic">伊斯兰教</span>
+    <span class="toc-topic-en">Islam in China</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#history">
+        <span class="toc-cn">历史入华</span> Historical Entry
+        <span class="toc-sub">Tang dynasty Silk Road</span>
+      </a></li>
+      <li><a href="#hui">
+        <span class="toc-cn">回族</span> The Hui People
+        <span class="toc-sub">Huí · Chinese Muslims</span>
+      </a></li>
+      <li><a href="#uyghur">
+        <span class="toc-cn">维吾尔族</span> Uyghurs
+        <span class="toc-sub">Xīnjiāng tradition</span>
+      </a></li>
+      <li><a href="#mosque">
+        <span class="toc-cn">清真寺建筑</span> Mosque Architecture
+        <span class="toc-sub">Xi'an to Kashgar</span>
+      </a></li>
+      <li><a href="#culture">
+        <span class="toc-cn">文化贡献</span> Cultural Contributions
+        <span class="toc-sub">cuisine · scholarship</span>
+      </a></li>
+      <li><a href="#vocab">
+        <span class="toc-cn">相关词语</span> Key Terms
+        <span class="toc-sub">xiāngguān cíyǔ</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- HERO -->
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">Religion · 宗教 zōngjiào</span>
+      <h1 class="topic-hero-title">伊斯兰教</h1>
+      <span class="topic-hero-title-py">yīsīlán jiào</span>
+      <p class="topic-hero-desc">Islam entered China via the Silk Road in the Tang dynasty, nearly fourteen centuries ago — carried by Arab and Persian merchants, adopted by Central Asian Turkic peoples, and woven into Chinese life to produce two distinct and enduring Muslim traditions: the Hui and the Uyghur.</p>
+    </header>
+
+    <!-- ── HISTORICAL ENTRY ── -->
+    <span class="section-anchor" id="history"></span>
+    <div class="section-head">
+      <span class="sh-cn">伊斯兰教在华历史</span>
+      <span class="sh-py">yīsīlán jiào zài huá lìshǐ</span>
+      <span class="sh-en">Historical Entry — 1400 Years of Muslim Presence</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="清">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · Three Waves of Islamic Entry</div>
+      <p>Islamic presence in China dates to the early 7th century CE — within decades of the Prophet's death. The first wave came by sea and overland trade: Arab and Persian merchants established communities in the great Tang-dynasty port cities of <strong>广州 Guǎngzhōu</strong> (Guangzhou), <strong>泉州 Quánzhōu</strong> (Quanzhou), <strong>扬州 Yángzhōu</strong>, and <strong>长安 Cháng'ān</strong> (modern Xi'an), where 胡商 húshāng (foreign merchants, broadly Persians and Central Asians) had long traded. By the late Tang these communities were substantial enough to have their own mosques, qadis (legal judges), and cemeteries. The oldest surviving mosque in China — the Huaisheng Mosque (怀圣寺 Huáishèng Sì, "Memorial to the Prophet") in Guangzhou — is traditionally said to date from 627 CE, built by Sa'd ibn Abi Waqqas, a companion of the Prophet, though the current structure is later.</p>
+      <p>The second wave came with the <strong>Mongol Yuan dynasty</strong> (1271–1368), which actively recruited Central Asian Muslim administrators, soldiers, and technicians into its governance of China. Semu people (色目人 sèmù rén — lit. "various-eyes people" — a Yuan category for Central and West Asians) occupied a privileged administrative tier just below Mongols in the Yuan hierarchy. Entire communities of Muslim craftsmen, astronomers, and officials were relocated into China's interior, seeding Muslim communities across provinces where they had not previously existed — including Yunnan, which became and remains a major center of Hui population.</p>
+      <p>Under the <strong>Ming dynasty</strong> (1368–1644), Islam in China entered a phase of deep sinification. Chinese-speaking Muslims — now fully settled, intermarried, and culturally Chinese in language and custom — began producing Chinese-language Islamic scholarship. The <em>Han Kitab</em> (汉克塔布) tradition, a body of philosophical texts written in classical Chinese that synthesized Confucianism and Islam, emerged in the 17th century, most prominently in the works of Wang Daiyu (王岱舆) and Liu Zhi (刘智). These thinkers reframed Islamic theology in Neo-Confucian vocabulary, arguing that Islam's God (真主 Zhēnzhǔ) was equivalent to the Confucian Heaven (天 Tiān).</p>
+    </div>
+
+    <div class="pattern">
+      <span class="label">清真寺 qīngzhēn sì — Mosque Architecture Through the Dynasties</span>
+      <strong>唐宋</strong> (Tang-Song style) — courtyard layout following Chinese temple architecture; pagoda-style minaret; tiled roofs; no Arabic script on exterior · <strong>明清</strong> (Ming-Qing sinified) — same Chinese form, increasingly elaborate interior Arabic calligraphy, crescent-and-star finials added to rooflines · <strong>清末–当代</strong> (Late Qing–Modern) — some mosques rebuilt in Middle Eastern/Arab style (dome + minaret), especially in Xinjiang, Ningxia, and new construction
+    </div>
+
+    <!-- ── HUI PEOPLE ── -->
+    <span class="section-anchor" id="hui"></span>
+    <div class="section-head">
+      <span class="sh-cn">回族</span>
+      <span class="sh-py">Huí zú</span>
+      <span class="sh-en">The Hui — Chinese-Speaking Muslims</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="回">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · Who Are the Hui?</div>
+      <p>The 回族 Huí zú (Hui ethnic group) are China's largest Muslim ethnic minority — estimated at 10–12 million, though this is a minimum figure as many Muslim Chinese do not identify with the Hui category. The Hui are defined primarily by <strong>religious practice</strong> (Islamic faith) and <strong>ancestry</strong> (descent from Muslim communities of various origins) rather than by a distinct language: they speak Mandarin or regional Chinese dialects as their mother tongue, with Arabic and Persian loanwords in religious vocabulary and some regional vernacular.</p>
+      <p>The Hui are distributed across all of China but are concentrated in three provinces: <strong>宁夏 Níngxià</strong> (Ningxia Hui Autonomous Region, the only autonomous region named for the Hui), <strong>甘肃 Gānsù</strong>, and <strong>云南 Yúnnán</strong>. Major Hui communities also exist in Beijing (centered on Niujie, 牛街), Xi'an, and virtually every Chinese city, where they typically form distinct neighborhood enclaves around a mosque.</p>
+      <p>The defining cultural marker of the Hui is the 清真 qīngzhēn (halal) food system — a set of dietary prohibitions (avoiding pork and non-halal-slaughtered meat) and the distinct cuisine that developed around these constraints. 清真 restaurants are among the most visible markers of Muslim presence in Chinese cities. The word 清真 — literally "pure and true" — is the Chinese rendering of an Arabic theological concept (tanzih — the absolute transcendence and purity of God), and has become the standard Chinese term for "halal" in all contexts.</p>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">清真饮食</span>
+          <span class="card-py">qīngzhēn yǐnshí</span>
+          <span class="card-en">halal food — the most visible face of Hui culture</span>
+        </div>
+        <div class="card-def">
+          清真 cuisine is a distinct tradition within Chinese cooking, developed by Hui communities over centuries. Core prohibitions: no pork (猪肉 zhūròu), no blood, no alcohol (in strictly observant contexts), and meat must be slaughtered according to Islamic rite (念清真 niàn qīngzhēn). Hui cuisine developed around lamb and beef as primary proteins — producing some of China's most beloved dishes, including 兰州拉面 Lánzhōu lāmiàn (Lanzhou beef noodles), 羊肉泡馍 yángròu pàomó (lamb in bread-soup, Xi'an's signature dish), and 羊肉串 yángròu chuàn (lamb skewers).
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">北京牛街附近有许多清真餐厅，供应正宗的回族美食。</div>
+            <div class="ex-py">Běijīng Niú Jiē fùjìn yǒu xǔduō qīngzhēn cāntīng, gōngyìng zhèngzōng de Huízú měishí.</div>
+            <div class="ex-en">Near Niujie in Beijing there are many halal restaurants serving authentic Hui cuisine.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">语言 yǔyán · The Word 清真</span>
+          清真 qīngzhēn (pure and true) entered Chinese as a translation of the Arabic concept of divine transcendence. Its migration from theological term to food-labeling category is a perfect example of Islamic concepts being absorbed into Chinese vernacular life. On storefronts across China, the 清真 sign (often in green, the Islamic color) signals halal certification.
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">宁夏</span>
+          <span class="card-py">Níngxià</span>
+          <span class="card-en">Ningxia — the Hui homeland</span>
+        </div>
+        <div class="card-def">
+          宁夏回族自治区 (Ningxia Hui Autonomous Region) is the only autonomous region in China named for the Hui people. With a population of about 7 million, roughly one-third of whom are Hui, Ningxia has the highest concentration of Hui in any single administrative unit. Major Hui centers include Yinchuan (银川), the capital, and the Tongxin Great Mosque (同心大清真寺), one of China's oldest mosques. Ningxia is also the historical home of multiple sufi brotherhoods (门宦 ménhuàn), which have played a major role in Hui religious organization.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">宁夏回族自治区是中国回族文化的重要中心。</div>
+            <div class="ex-py">Níngxià Huízú Zìzhìqū shì Zhōngguó Huízú wénhuà de zhòngyào zhōngxīn.</div>
+            <div class="ex-en">The Ningxia Hui Autonomous Region is an important center of Hui culture in China.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">经堂教育</span>
+          <span class="card-py">jīngtáng jiàoyù</span>
+          <span class="card-en">mosque school education — traditional Islamic learning</span>
+        </div>
+        <div class="card-def">
+          经堂教育 (mosque school education — lit. "sutra hall education," using the Buddhist term 经堂 for a building devoted to sacred texts) is the traditional system by which Hui Muslim boys study Arabic, Persian, and Islamic jurisprudence under an imam (阿訇 āhōng — from Persian ākhund). The system developed in China during the Ming dynasty when Arabic literacy declined and texts were taught through oral transmission and Chinese glosses. It remains active in mosques across Ningxia, Gansu, and Yunnan.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">很多回族男孩自幼在清真寺接受经堂教育，学习阿拉伯语和《古兰经》。</div>
+            <div class="ex-py">Hěn duō Huízú nánhái zìyòu zài qīngzhēnsì jiēshòu jīngtáng jiàoyù, xuéxí Ālābóyǔ hé Gǔlánjīng.</div>
+            <div class="ex-en">Many Hui boys receive mosque school education from childhood, studying Arabic and the Quran.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards hui -->
+
+    <!-- ── UYGHUR ── -->
+    <span class="section-anchor" id="uyghur"></span>
+    <div class="section-head">
+      <span class="sh-cn">维吾尔族与新疆</span>
+      <span class="sh-py">Wéiwú'ěr zú yǔ Xīnjiāng</span>
+      <span class="sh-en">Uyghurs and Xinjiang</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="疆">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · A Distinct Tradition</div>
+      <p>The Uyghurs (维吾尔族 Wéiwú'ěr zú) are a Turkic-speaking Muslim people of the Tarim Basin and Turpan Depression in what is today the Xinjiang Uyghur Autonomous Region (新疆维吾尔自治区 Xīnjiāng Wéiwú'ěr Zìzhìqū) in northwestern China. Their Islam is culturally and historically distinct from that of the Hui: it arrived from Central Asia, not from maritime routes; it is embedded in a Turkic-language culture with close ties to Uzbekistan, Kazakhstan, and the broader Persianate world; and it incorporates Sufi traditions of considerable antiquity.</p>
+      <p>The Uyghur language belongs to the Karluk branch of the Turkic family, written historically in Arabic script (still in use in diaspora communities) and now officially in a modified Latin script in China. Uyghur culture encompasses a rich tradition of poetry, music, and oral literature; the 12 Muqam (十二木卡姆 Shí'èr Mùkǎmǔ) — a suite of classical musical modes — is UNESCO-listed intangible cultural heritage. The traditional gathering known as 麦西热甫 màixīrèfǔ (meshrep) — a community celebration combining music, dance, and storytelling — was also recognized by UNESCO in 2010.</p>
+      <p>The political situation in Xinjiang is a subject of significant complexity and ongoing international concern, with documented restrictions on Uyghur religious practice, culture, and movement — particularly since 2017. This guide presents these facts without editorial framing. Learners engaging with Chinese discourse on this topic will encounter the PRC official narrative (emphasizing "de-extremification" and "vocational training") and should be aware that substantial international documentation exists that characterizes the situation differently.</p>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">十二木卡姆</span>
+          <span class="card-py">Shí'èr Mùkǎmǔ</span>
+          <span class="card-en">the Twelve Muqam — Uyghur classical music tradition</span>
+        </div>
+        <div class="card-def">
+          The Twelve Muqam (木卡姆 mùkǎmǔ, from Arabic maqam — mode/scale) is the comprehensive musical tradition of the Uyghur people: twelve suites, each a multi-movement composition comprising song, instrumental interlude, and dance, totaling hundreds of pieces. The tradition encompasses the full emotional and social range of Uyghur life: lyric poetry, epic narrative, devotional song, and festive dance. It was inscribed on the UNESCO Intangible Cultural Heritage List in 2005 as a Masterpiece of Oral and Intangible Heritage.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">新疆维吾尔族的十二木卡姆是一套完整的音乐、歌唱和舞蹈体系。</div>
+            <div class="ex-py">Xīnjiāng Wéiwú'ěr zú de Shí'èr Mùkǎmǔ shì yī tào wánzhěng de yīnyuè, gēchàng hé wǔdǎo tǐxì.</div>
+            <div class="ex-en">Xinjiang's Uyghur Twelve Muqam is a comprehensive system of music, song, and dance.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">都塔尔</span>
+          <span class="card-py">dūtǎ'ěr</span>
+          <span class="card-en">the dutar — Uyghur long-necked lute</span>
+        </div>
+        <div class="card-def">
+          The dutar (都塔尔 dūtǎ'ěr, from Persian do-tar — "two strings") is the emblematic instrument of Uyghur music: a long-necked lute with two strings, pear-shaped body, and a distinctive tonal quality — thin, resonant, with long-sustained notes. It appears in both solo and ensemble performance, in the Muqam tradition and in everyday folk music. Related instruments exist across Central Asia (the Afghan dutar, the Persian dotār), reflecting the shared musical culture of the Silk Road. Uyghur craftsmen have produced elaborately decorated dutars for centuries.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">都塔尔是维吾尔族最具代表性的弦乐器，音色悠远深沉。</div>
+            <div class="ex-py">Dūtǎ'ěr shì Wéiwú'ěr zú zuì jù dàibiǎoxìng de xiányuèqì, yīnsè yōuyuǎn shēnchén.</div>
+            <div class="ex-en">The dutar is the most representative string instrument of the Uyghur people, with a distant and deep tonal quality.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">麦西热甫</span>
+          <span class="card-py">màixīrèfǔ</span>
+          <span class="card-en">meshrep — the traditional Uyghur community gathering</span>
+        </div>
+        <div class="card-def">
+          麦西热甫 màixīrèfǔ (meshrep, from Persian/Turkic mäshrip — "gathering place") is the traditional Uyghur social institution: a community assembly that brings people together for music, dance, storytelling, comedy, and the resolution of social disputes through a combination of festivity and collective moral deliberation. The meshrep has historically served functions of social cohesion, conflict resolution, and cultural transmission. It was inscribed on the UNESCO Intangible Cultural Heritage List in 2010 as facing urgent need of safeguarding.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">麦西热甫是维吾尔族聚会、娱乐和解决纠纷的传统形式。</div>
+            <div class="ex-py">Màixīrèfǔ shì Wéiwú'ěr zú jùhuì, yúlè hé jiějué jiūfēn de chuántǒng xíngshì.</div>
+            <div class="ex-en">The meshrep is the traditional Uyghur form of gathering, entertainment, and dispute resolution.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards uyghur -->
+
+    <!-- ── MOSQUE ARCHITECTURE ── -->
+    <span class="section-anchor" id="mosque"></span>
+    <div class="section-head">
+      <span class="sh-cn">中国清真寺</span>
+      <span class="sh-py">Zhōngguó qīngzhēnsì</span>
+      <span class="sh-en">Mosque Architecture — East Meets West in Sacred Space</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">大清真寺（西安）</span>
+          <span class="card-py">Dà Qīngzhēnsì (Xī'ān)</span>
+          <span class="card-en">Great Mosque of Xi'an — Chinese Islamic architecture at its peak</span>
+        </div>
+        <div class="card-def">
+          The Great Mosque of Xi'an (西安大清真寺 Xī'ān Dà Qīngzhēnsì), located in the Muslim Quarter (回民街 Huímín Jiē), is one of the oldest and most architecturally significant mosques in China. Founded in 742 CE during the Tang dynasty (though the current structures are largely Ming and Qing), it presents an almost entirely Chinese exterior: traditional courtyard layout, tiled roofs with upturned eaves, carved stone archways with Chinese inscriptions — only the orientation (qibla toward Mecca) and interior Arabic calligraphy signal its Islamic function. The minaret resembles a Chinese pagoda. It is the finest example of the sinified mosque tradition.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">西安大清真寺外观与中国传统建筑融为一体，不熟悉的人可能看不出这是清真寺。</div>
+            <div class="ex-py">Xī'ān Dà Qīngzhēnsì wàiguān yǔ Zhōngguó chuántǒng jiànzhú róng wéi yītǐ, bù shúxī de rén kěnéng kàn bù chū zhè shì qīngzhēnsì.</div>
+            <div class="ex-en">The Great Mosque of Xi'an blends seamlessly with Chinese traditional architecture — the unfamiliar visitor might not realize it is a mosque.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">牛街礼拜寺（北京）</span>
+          <span class="card-py">Niú Jiē Lǐbài Sì (Běijīng)</span>
+          <span class="card-en">Niujie Mosque, Beijing — the heart of Beijing's Hui community</span>
+        </div>
+        <div class="card-def">
+          The Niujie Mosque (牛街礼拜寺 — "Ox Street Worship Temple"), founded in 996 CE during the Liao dynasty, is Beijing's oldest and largest mosque and the center of the city's Hui community. Its architecture follows the Chinese courtyard temple model but incorporates moon-and-star finials and Arabic calligraphy throughout. The mosque's neighborhood — Niujie (牛街, "Ox Street") in Xuanwu district — has been a Hui Muslim enclave for over a thousand years, with halal restaurants, butchers, and bakeries lining the street alongside the mosque.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">牛街礼拜寺是北京回族社区的核心，已有逾千年历史。</div>
+            <div class="ex-py">Niú Jiē Lǐbài Sì shì Běijīng Huízú shèqū de héxīn, yǐ yǒu yú qiān nián lìshǐ.</div>
+            <div class="ex-en">The Niujie Mosque is the core of Beijing's Hui community, with over a thousand years of history.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">艾提尕尔清真寺（喀什）</span>
+          <span class="card-py">Àitígā'ěr Qīngzhēnsì (Kāshí)</span>
+          <span class="card-en">Id Kah Mosque, Kashgar — Central Asian Islamic architecture in China</span>
+        </div>
+        <div class="card-def">
+          The Id Kah Mosque (艾提尕尔清真寺 — from Uyghur Aididgah — "festival prayer ground") in Kashgar is the largest mosque in China by capacity, able to hold 20,000 worshippers. Its architecture is Central Asian rather than Chinese in character: a yellow façade, dome, twin minarets, and a large courtyard typical of the mosques of Samarkand and Bukhara. Founded in 1442 CE, it has been rebuilt and expanded multiple times. The Kashgar Id Kah serves as the visual symbol of Uyghur Islamic identity and the architectural counterpoint to the sinified mosques of eastern China.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">喀什艾提尕尔清真寺是中国最大的清真寺，建筑风格充满中亚伊斯兰色彩。</div>
+            <div class="ex-py">Kāshí Àitígā'ěr Qīngzhēnsì shì Zhōngguó zuì dà de qīngzhēnsì, jiànzhú fēnggé chōngmǎn Zhōngyà Yīsīlán sècǎi.</div>
+            <div class="ex-en">Kashgar's Id Kah Mosque is China's largest mosque, with an architectural style full of Central Asian Islamic character.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards mosque -->
+
+    <!-- ── CULTURAL CONTRIBUTIONS ── -->
+    <span class="section-anchor" id="culture"></span>
+    <div class="section-head">
+      <span class="sh-cn">伊斯兰文化贡献</span>
+      <span class="sh-py">yīsīlán wénhuà gòngxiàn</span>
+      <span class="sh-en">Cultural Contributions to Chinese Civilization</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="贡">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · Muslims at the Imperial Court</div>
+      <p>Muslim scholars, navigators, and technicians made substantial contributions to Chinese civilization across multiple dynasties. The most visible institutional legacy is in <strong>astronomy and calendar science</strong>: the Yuan dynasty imported Islamic astronomical instruments and established a Muslim Astronomical Bureau (回回司天台 Huíhuí Sītiāntái) alongside the Chinese one. The Islamic world's advanced trigonometry, astronomical tables, and instrument-making were absorbed into Chinese practice. Persian astronomers at the Yuan court produced the 万年历 (Ten-Thousand Year Calendar) that influenced Ming-dynasty calendrical reform.</p>
+      <p>In <strong>cartography</strong>, the 1402 Korean map Gangnido, one of the oldest surviving world maps, incorporated Islamic-tradition maps of the Middle East and Africa alongside Chinese cartographic knowledge — showing the degree to which Islamic geographic knowledge had penetrated the East Asian world. The Ming-dynasty Chinese world map 大明混一图 (Da Ming Hunyi Tu) similarly shows clear Islamic cartographic influence.</p>
+      <p>In <strong>medicine</strong>, Arab pharmacological traditions — mediated through Silk Road contact — contributed to the development of Chinese materia medica. The great Ming-dynasty pharmacopoeia 本草纲目 (Bencao Gangmu) by Li Shizhen (李时珍) includes many substances of Arabic and Persian origin with their foreign names transliterated.</p>
+      <p>Most enduringly, Muslim culinary culture has shaped Chinese cuisine in ways no longer recognized as "Islamic." Lamb skewers (羊肉串 yángròu chuàn) are sold on street corners across China. Lanzhou beef noodles (兰州牛肉拉面) are China's most ubiquitous noodle dish — a Hui invention now served in every city. Xi'an's lamb-in-bread soup (羊肉泡馍) is a national favorite. The 清真 food tradition is one of the most successful cases of a minority cuisine entering the mainstream of a majority food culture.</p>
+    </div>
+
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>清真美食 Dish</th>
+            <th>起源 Origin</th>
+            <th>特点 Character</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="td-cn">兰州牛肉拉面</td>
+            <td>Lanzhou, Gansu — Hui Muslim origin</td>
+            <td>Hand-pulled noodles in clear beef broth; China's most common noodle dish</td>
+          </tr>
+          <tr>
+            <td class="td-cn">羊肉泡馍</td>
+            <td>Xi'an — Tang-dynasty Hui Muslim origin</td>
+            <td>Flatbread torn into lamb broth; Xi'an's signature dish</td>
+          </tr>
+          <tr>
+            <td class="td-cn">烤羊肉串</td>
+            <td>Xinjiang Uyghur tradition</td>
+            <td>Cumin-spiced lamb skewers; ubiquitous street food across China</td>
+          </tr>
+          <tr>
+            <td class="td-cn">馕</td>
+            <td>Xinjiang — from Central Asian tradition (naan)</td>
+            <td>Tandoor-baked flatbread; staple carbohydrate of Xinjiang cuisine</td>
+          </tr>
+          <tr>
+            <td class="td-cn">手抓饭</td>
+            <td>Xinjiang Uyghur — from Central Asian plov</td>
+            <td>Rice with lamb, carrots, and onion; the Uyghur national dish (polo/pilaf)</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- ── KEY TERMS ── -->
+    <span class="section-anchor" id="vocab"></span>
+    <div class="section-head">
+      <span class="sh-cn">相关词语</span>
+      <span class="sh-py">xiāngguān cíyǔ</span>
+      <span class="sh-en">Key Terms and Vocabulary</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="chengyu-grid">
+
+      <div class="cy">
+        <span class="cy-cn">清真</span>
+        <span class="cy-py">qīngzhēn</span>
+        <span class="cy-en">pure and true — the Chinese term for halal and for Islam's monotheism</span>
+        <span class="cy-note">清 qīng (pure, clear) + 真 zhēn (true, genuine). The standard Chinese translation of the Islamic concept of divine purity and absolute transcendence. Applied in Chinese to: halal food (清真饮食), mosques (清真寺 — "pure truth temple"), and informally to Islamic identity. The phrase elegantly maps Islamic theological vocabulary onto classical Chinese aesthetic-spiritual concepts.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">安拉</span>
+        <span class="cy-py">Ānlā</span>
+        <span class="cy-en">Allah — God in Chinese Muslim usage</span>
+        <span class="cy-note">The standard Chinese transliteration of Arabic Allāh. Chinese-speaking Muslims also use 真主 Zhēnzhǔ (True Lord — a theologically informed Chinese rendering, placing Islamic monotheism in dialogue with Confucian cosmology). The phrase 安拉胡阿克巴 (Allāhu Akbar — God is Great) appears in Chinese-language Islamic texts and in the daily practice of Chinese Muslims. In colloquial Chinese, it is recognizable as an Islamic exclamation.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">斋戒</span>
+        <span class="cy-py">zhāijiè</span>
+        <span class="cy-en">fasting — the Chinese term for Ramadan's fast</span>
+        <span class="cy-note">斋 zhāi (fasting; vegetarian abstinence — a word also used for Buddhist fasting) + 戒 jiè (precept; prohibition). 斋月 zhāiyuè is the Chinese for Ramadan (the Fasting Month). 开斋节 Kāizhāi Jié is Eid al-Fitr (the Festival Breaking the Fast). The terminology shows how Islamic religious practice was mapped onto existing Chinese vocabulary for fasting and dietary restrictions — primarily Buddhist in origin.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">阿訇</span>
+        <span class="cy-py">āhōng</span>
+        <span class="cy-en">imam — the Chinese Muslim term for mosque leader and scholar</span>
+        <span class="cy-note">From Persian ākhund (scholar, teacher). 阿訇 āhōng is the standard Chinese Muslim term for the mosque's imam and religious authority — combining the functions of prayer leader, teacher, legal counselor, and community elder. The use of a Persian loanword (not Arabic) reflects the historical route of Islam's entry into China: through Persianate Central Asian channels as much as through Arabic-speaking merchants.</span>
+      </div>
+
+    </div>
+
+    <!-- ADJACENT VOCAB -->
+    <div class="section-head" style="margin-top:2.5rem;">
+      <span class="sh-cn">相关词汇</span>
+      <span class="sh-py">xiāngguān cíhuì</span>
+      <span class="sh-en">Related Vocabulary</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">礼拜</span><span class="a-py">lǐbài</span><span class="a-en">prayer (Islamic); also "week" in Chinese</span></span>
+      <span class="adj"><span class="a-cn">古兰经</span><span class="a-py">Gǔlánjīng</span><span class="a-en">the Quran</span></span>
+      <span class="adj"><span class="a-cn">穆斯林</span><span class="a-py">mùsīlín</span><span class="a-en">Muslim (transliteration)</span></span>
+      <span class="adj"><span class="a-cn">圣战</span><span class="a-py">shèngzhàn</span><span class="a-en">jihad (lit. "holy war")</span></span>
+      <span class="adj"><span class="a-cn">先知</span><span class="a-py">xiānzhī</span><span class="a-en">prophet (Muhammad)</span></span>
+      <span class="adj"><span class="a-cn">开斋节</span><span class="a-py">Kāizhāi Jié</span><span class="a-en">Eid al-Fitr</span></span>
+      <span class="adj"><span class="a-cn">古尔邦节</span><span class="a-py">Gǔ'ěrbāng Jié</span><span class="a-en">Eid al-Adha (Sacrifice Festival)</span></span>
+      <span class="adj"><span class="a-cn">丝绸之路</span><span class="a-py">sīchóu zhīlù</span><span class="a-en">Silk Road</span></span>
+      <span class="adj"><span class="a-cn">回民</span><span class="a-py">Huímín</span><span class="a-en">Hui people (folk term)</span></span>
+      <span class="adj"><span class="a-cn">宣礼塔</span><span class="a-py">xuānlǐtǎ</span><span class="a-en">minaret</span></span>
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="page-footer">
+      <span class="footer-id">Field Notes on Chinese · <span>伊斯兰教 yīsīlán jiào</span> · topic_yisilan.html</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>

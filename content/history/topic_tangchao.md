@@ -1,0 +1,258 @@
+---
+type: 'topic'
+category: 'history'
+status: 'complete'
+title: '唐朝 · The Tang Dynasty'
+desc: 'The cosmopolitan golden age — poetry, Buddhism, and the Silk Road.'
+metaDesc: "唐朝 tángcháo: China's golden age — Taizong's model governance, Chang'an as the world's greatest city, Empress Wu Zetian, the poetry of Li Bai and Du Fu, and the An Lushan Rebellion that marked the end of the High Tang."
+pageTitle: '唐朝 · The Tang Dynasty'
+tags:
+  - 'tang'
+  - 'golden-age'
+  - 'cosmopolitan'
+updated: '2026-04-18'
+pinyin: 'tángcháo'
+---
+
+<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+    <span class="toc-topic">唐朝</span>
+    <span class="toc-topic-en">The Tang Dynasty</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#taizong">
+        <span class="toc-cn">贞观之治</span>
+        <span class="toc-sub">Taizong's Reign</span>
+      </a></li>
+      <li><a href="#highTang">
+        <span class="toc-cn">盛唐</span>
+        <span class="toc-sub">The High Tang</span>
+      </a></li>
+      <li><a href="#wuzetian">
+        <span class="toc-cn">武则天</span>
+        <span class="toc-sub">Empress Wu</span>
+      </a></li>
+      <li><a href="#changan">
+        <span class="toc-cn">长安</span>
+        <span class="toc-sub">Chang'an as World City</span>
+      </a></li>
+      <li><a href="#poetry">
+        <span class="toc-cn">唐诗</span>
+        <span class="toc-sub">Tang Poetry</span>
+      </a></li>
+      <li><a href="#rebellion">
+        <span class="toc-cn">安史之乱</span>
+        <span class="toc-sub">The An Lushan Rebellion</span>
+      </a></li>
+      <li><a href="#chengyu">
+        <span class="toc-cn">成语</span>
+        <span class="toc-sub">Key Phrases &amp; Idioms</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- HERO -->
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">History · 历史 lìshǐ</span>
+      <h1 class="topic-hero-title">唐朝</h1>
+      <span class="topic-hero-title-py">tángcháo</span>
+      <p class="topic-hero-desc">China's golden age: a cosmopolitan empire whose capital Chang'an held a million people of dozens of nationalities, whose court produced the greatest poetry in the Chinese language, and whose confidence — until the catastrophic An Lushan Rebellion split history in two — seemed limitless.</p>
+    </header>
+
+    <!-- ── TAIZONG ── -->
+    <span class="section-anchor" id="taizong"></span>
+    <div class="section-head">
+      <span class="sh-cn">贞观之治</span>
+      <span class="sh-py">Zhēnguān zhī Zhì</span>
+      <span class="sh-en">Taizong's Reign — The Model Emperor</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="唐">
+      <div class="scholar-label">历史洞见 lìshǐ dòngjiàn · Historical Insight</div>
+      <p>The Tang dynasty (唐朝 Tángcháo, 618–907 CE) was founded by <strong>李渊 Lǐ Yuān</strong>, a Sui dynasty military governor who exploited the chaos of Sui's collapse — brought on by Emperor Yang's catastrophic Korean campaigns and the rebellion they provoked — to seize the throne. Li Yuan was an efficient administrator and a shrewd coalition-builder, but he would be eclipsed by his second son: <strong>李世民 Lǐ Shìmín</strong> (598–649 CE), who would become <strong>唐太宗 Táng Tàizōng</strong> and the most admired emperor in Chinese history after the Han founders.</p>
+      <p>Li Shimin's path to the throne was violent. In 626 CE, he and his supporters ambushed and killed his elder brother (the crown prince) and a younger brother at the palace's <strong>玄武门 Xuánwǔ Mén</strong> (Xuanwu Gate), then forced his father to abdicate in his favor — the <strong>玄武门之变 Xuánwǔ Mén zhī Biàn</strong> (Xuanwu Gate Incident). This coup haunted Taizong for the rest of his life and shaped his intense investment in moral governance as a form of self-legitimation.</p>
+      <p>The period of Taizong's personal rule (627–649 CE) is known as <strong>贞观之治 Zhēnguān zhī Zhì</strong> — the Well-Governed Era of Zhenguan (Zhenguan being his reign-era name). Its reputation rests on Taizong's relationship with his remonstrating ministers — above all <strong>魏徵 Wèi Zhēng</strong>, who repeatedly criticized the emperor to his face and was never punished. Taizong's famous self-reflection: "A ruler uses his ministers as a mirror; a bright mirror reveals flaws; a flattering minister is a distorting mirror." His own formulation: <strong>以史为镜，可以知兴替</strong> — "Using history as a mirror, one can understand the rise and fall of dynasties."</p>
+      <p>Taizong's military campaigns extended Tang power into Central Asia and Korea; his diplomatic network incorporated the Tibetan kingdom (he sent a princess, <strong>文成公主 Wénchéng Gōngzhǔ</strong>, to marry the Tibetan king <strong>松赞干布 Sōngzàn Gānbù</strong> in 641 CE, a union still celebrated in both Chinese and Tibetan traditions). The Turkic peoples of the steppe honored him with the title <strong>天可汗 Tiān Kèhán</strong> (Heavenly Khagan) — recognizing him as the supreme lord of the steppe world as well as the agricultural world, a dual sovereignty no Han emperor had achieved.</p>
+    </div>
+
+    <!-- ── HIGH TANG ── -->
+    <span class="section-anchor" id="highTang"></span>
+    <div class="section-head">
+      <span class="sh-cn">盛唐</span>
+      <span class="sh-py">Shèng Táng</span>
+      <span class="sh-en">The High Tang — Peak of Chinese Imperial Civilization</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="盛">
+      <div class="scholar-label">历史洞见 lìshǐ dòngjiàn · Historical Insight</div>
+      <p>The <strong>盛唐 Shèng Táng</strong> (High Tang) conventionally refers to the century from roughly 650 to 755 CE — from the consolidation of Taizong's achievement through the opening decades of <strong>唐玄宗 Táng Xuánzōng</strong>'s reign (r. 712–756 CE), when Tang culture achieved its fullest expression before the An Lushan catastrophe. This was the era that produced Li Bai and Du Fu, when Chang'an was the greatest city on earth, and when the Tang was confident enough in its power to absorb foreign influences without anxiety.</p>
+      <p>The <strong>科举 kējǔ</strong> civil examination system — inaugurated under the Sui and dramatically expanded under Tang — was central to this era's character. The examinations, which tested mastery of the Confucian classics and especially skill in composing regulated verse (律诗 lǜshī), created a meritocratic pathway to power that was available in principle to any man of sufficient education. In practice, preparation required years of study that only families of some wealth could support, but it was genuinely open across regional lines and social backgrounds compared to the aristocratic systems of the early Tang. The exams also meant that the ruling elite were, by definition, poets — with profound consequences for the culture's investment in verse as the supreme literary form.</p>
+      <p>Tang culture absorbed the world around it with remarkable openness. Music from Central Asia (<strong>胡乐 Hú yuè</strong>), dance forms from Sogdiana and Kucha, fashions from the steppe, Buddhist iconography from India and Gandhara — all were incorporated, adapted, and re-expressed in distinctly Tang form. The <strong>唐三彩 Táng Sāncǎi</strong> (Tang polychrome glazed ceramics), with their vivid splashes of amber, green, and cream, are the material signature of this cosmopolitan confidence. Found across the trade routes from Japan to Egypt, they are the first "global" Chinese artistic export.</p>
+    </div>
+
+    <!-- ── EMPRESS WU ── -->
+    <span class="section-anchor" id="wuzetian"></span>
+    <div class="section-head">
+      <span class="sh-cn">武则天</span>
+      <span class="sh-py">Wǔ Zétiān</span>
+      <span class="sh-en">Empress Wu Zetian — The Only Woman Emperor</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="则">
+      <div class="scholar-label">历史洞见 lìshǐ dòngjiàn · Historical Insight</div>
+      <p><strong>武则天 Wǔ Zétiān</strong> (624–705 CE) is the only woman in Chinese history to rule as emperor in her own name. She entered the palace as a low-ranking concubine of Emperor Taizong at age fourteen; when Taizong died (649 CE) she was sent, as was custom, to a Buddhist nunnery. She was rescued from this fate by Taizong's son, the new Emperor Gaozong, who brought her back to court as his own concubine — a scandalous violation of Tang propriety that she apparently engineered. She rose through a series of political eliminations to become Gaozong's empress in 655 CE.</p>
+      <p>As Gaozong's health deteriorated in the 660s, Wu Zetian effectively governed the empire. After his death in 683 CE, she maneuvered through two of her own sons, deposing one and forcing another's abdication, before declaring herself emperor of a new dynasty, the <strong>周 Zhōu</strong> (Wu Zhou dynasty, 690–705 CE). She used Buddhism to legitimize her rule — Buddhist texts had been produced, likely at her instigation, claiming that a woman would arise to rule the world as a chakravartin (wheel-turning king), and she was identified as this figure.</p>
+      <p>Wu Zetian's governance was consequential in several directions. She massively expanded the civil examination system, adding palace examinations in the emperor's personal presence and creating <strong>武举 wǔjǔ</strong> (military examinations) — broadening the meritocratic base against the old aristocratic families who had dominated the early Tang court and who resented her. She was a capable administrator, presided over an expanding empire, and sponsored Buddhist art on a large scale (the <strong>龙门石窟 Lóngmén Shíkū</strong> Longmen Grottoes near Luoyang were completed partly under her patronage). She was also ruthless in eliminating opposition, using a system of anonymous denunciation (<strong>告密制度 gàomì zhìdù</strong>) that created an atmosphere of fear.</p>
+      <p>She was deposed in 705 CE by a coup at age eighty, her Tang dynasty restored. Her blank stele (<strong>无字碑 Wúzì Bēi</strong>) — erected beside her tomb with no inscription — has been interpreted ever since as either supreme confidence (her deeds speak for themselves) or a deliberate challenge to history to write its own verdict. The debate has continued for 1,300 years.</p>
+    </div>
+
+    <!-- ── CHANG'AN ── -->
+    <span class="section-anchor" id="changan"></span>
+    <div class="section-head">
+      <span class="sh-cn">长安：世界之都</span>
+      <span class="sh-py">Cháng'ān: Shìjiè zhī Dū</span>
+      <span class="sh-en">Chang'an as the World's Greatest City</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="长">
+      <div class="scholar-label">文化洞见 wénhuà dòngjiàn · Cultural Insight</div>
+      <p><strong>长安 Cháng'ān</strong> (lit. "Perpetual Peace," modern Xi'an) at its Tang-era peak was the largest city on earth — population estimates for the city proper and its surrounding urban area range from 800,000 to over one million people. The Tang capital was laid out on a grid of mathematical precision: a rectangle roughly 9.7 km east-west by 8.2 km north-south, divided into 108 rectangular wards (坊 fāng) by a grid of avenues. The main north-south axis, <strong>朱雀大街 Zhūquè Dàjiē</strong> (Vermilion Bird Avenue), was 150 meters wide — wider than any road in imperial Rome.</p>
+      <p>Chang'an was genuinely cosmopolitan: home to Zoroastrian temples, Nestorian Christian churches (<strong>景教 Jǐngjiào</strong> — celebrated in the Nestorian Stele of 781 CE, discovered in Xi'an in 1625), Manichaean meeting halls, Jewish communities, Persian and Sogdian merchant quarters, Japanese and Korean students studying for years at a time, and embassies from dozens of states from Japan to the Byzantine Empire. The <strong>西市 Xī Shì</strong> (Western Market) was the commercial district where foreign merchants concentrated; it was a permanent international trade fair and cultural crossroads.</p>
+      <p>The Tang capital's physical magnificence was not merely architectural: it was the material expression of a worldview that saw China as the center of a civilized world that extended to all points of the compass, and that was confident enough in this centrality to welcome, absorb, and transform everything the periphery could offer. This openness — sometimes called the "Tang spirit" (唐朝精神 Tángcháo jīngshén) — is one reason the Tang is nostalgically idealized in Chinese culture as a period of unself-conscious greatness.</p>
+      <p>The <strong>科举</strong> examination system drew students to Chang'an from all over the empire and from neighboring states. Korean and Japanese students lived in Chang'an for years, mastering Tang poetry, Confucian learning, Buddhist doctrine, and Chinese administrative methods — then carried Tang culture back home, where it transformed their own civilizations. The Japanese imperial palace at Nara (built 710 CE) was explicitly modeled on Chang'an's grid plan. Tang calligraphy, poetry forms, Buddhist iconography, and administrative vocabulary all became foundational to Japanese and Korean high culture.</p>
+    </div>
+
+    <!-- ── TANG POETRY ── -->
+    <span class="section-anchor" id="poetry"></span>
+    <div class="section-head">
+      <span class="sh-cn">唐诗</span>
+      <span class="sh-py">Táng Shī</span>
+      <span class="sh-en">Tang Poetry — the Supreme Achievement of Chinese Literature</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="诗">
+      <div class="scholar-label">文学洞见 wénxué dòngjiàn · Literary Insight</div>
+      <p>The Tang dynasty produced what Chinese literary tradition regards as the pinnacle of Chinese poetry. The <strong>全唐诗 Quán Táng Shī</strong> (Complete Tang Poetry), compiled in 1705 on imperial order, contains 48,900 poems by over 2,200 poets — and is understood to be only a fraction of what was composed. The Tang examination's requirement that candidates compose regulated verse (律诗 lǜshī) in strict formal patterns meant that virtually every literate person wrote poetry, and the best poets were also the most brilliant minds in public life.</p>
+      <p><strong>李白 Lǐ Bái</strong> (701–762 CE), known in English as Li Po or Li Bai, is the poet of ecstatic freedom — of wine, moonlight, mountains, and friendship, of the Daoist sage-wanderer who has shed the anxieties of office and ambition. He was reportedly never fully committed to the examination career; his poems revel in an aristocratic contempt for worldly striving. His verse is immediate, sensory, and technically brilliant in a way that conceals its technical command. He is the poet most memorized by Chinese schoolchildren today.</p>
+      <p><strong>杜甫 Dù Fǔ</strong> (712–770 CE), known as the "Poet-Sage" (<strong>诗圣 Shī Shèng</strong>), is Li Bai's great counterpart — the poet of moral seriousness, historical witness, and compassion for suffering. Where Li Bai flies, Du Fu stays on the ground among the wounded and the displaced. He witnessed the An Lushan Rebellion firsthand, spent years as a refugee, and poured the catastrophe into verse of extraordinary formal precision and moral weight. His poem <strong>春望 Chūn Wàng</strong> (Spring View) — written while imprisoned in rebel-held Chang'an — contains one of the most famous couplets in Chinese literature: 烽火连三月，家书抵万金 (Beacon fires for three months; a letter from home worth ten thousand gold).</p>
+      <p><strong>王维 Wáng Wéi</strong> (699–759 CE) is the third of the great trio — poet, painter, and devoted Buddhist whose verse has a quality of contemplative stillness that his admirers called "poetry with painting within it, painting with poetry within it" (诗中有画，画中有诗). His quatrains of mountain solitude and autumn light seem to dissolve the boundary between observer and observed. He survived the An Lushan Rebellion by capitulating to the rebels — accepted office in the rebel court and later had to be pardoned, a stain his admirers have argued about ever since.</p>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">律诗</span>
+          <span class="card-py">lǜshī</span>
+          <span class="card-en">regulated verse — the Tang's dominant poetic form</span>
+        </div>
+        <div class="card-def">
+          The eight-line regulated poem: fixed tonal pattern, mandatory parallelism in the middle two couplets (对仗 duìzhàng), and strict rhyme scheme. An eight-line poem in five-character lines (五言律诗 wǔyán lǜshī) or seven-character lines (七言律诗 qīyán lǜshī). The constraint was also the point — working within the form while achieving naturalness and depth was the supreme test of a poet's skill. The examination required composing a 律诗 on a given topic within a time limit.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">床前明月光，疑是地上霜。举头望明月，低头思故乡。</div>
+            <div class="ex-py">Chuáng qián míng yuè guāng, yí shì dì shàng shuāng. Jǔ tóu wàng míng yuè, dī tóu sī gùxiāng.</div>
+            <div class="ex-en">Bright moonlight before my bed — I almost think it frost on the ground. / I raise my head to gaze at the bright moon; I lower my head and think of home. (Li Bai — the most memorized poem in China)</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">玄奘</span>
+          <span class="card-py">Xuánzàng</span>
+          <span class="card-en">the monk who walked to India — Tang Buddhism's greatest figure</span>
+        </div>
+        <div class="card-def">
+          The monk <strong>玄奘 Xuánzàng</strong> (602–664 CE) traveled overland to India in 629 CE — without imperial authorization, defying a travel ban — spent sixteen years there studying at Nalanda and other Buddhist centers, and returned to Chang'an in 645 CE carrying 657 Sanskrit texts. He spent the rest of his life translating them. His journey is the historical basis for the mythological novel <strong>西游记 Xīyóujì</strong> (<em>Journey to the West</em>), where he appears as the monk Tang Seng accompanied by the Monkey King Sun Wukong.
+        </div>
+        <div class="note">
+          <span class="note-label">佛教巅峰 Fójiào diānfēng · Buddhism's Tang Peak</span>
+          Tang was Buddhism's highest moment in China: the great translation project under Xuanzang, the flourishing of Chan (禅 Chán — the school later known in Japan as Zen), the Pure Land sect (净土宗 Jìngtǔzōng), and the Huayan school. Emperor Xuanzong later began restricting monasteries; the <strong>会昌法难 Huìchāng Fǎnàn</strong> (Huichang Suppression, 842–845 CE) devastated Buddhist institutions.
+        </div>
+      </div>
+
+    </div>
+
+    <!-- ── AN LUSHAN REBELLION ── -->
+    <span class="section-anchor" id="rebellion"></span>
+    <div class="section-head">
+      <span class="sh-cn">安史之乱</span>
+      <span class="sh-py">Ān-Shǐ zhī Luàn</span>
+      <span class="sh-en">The An Lushan Rebellion — The Turning Point</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="乱">
+      <div class="scholar-label">历史洞见 lìshǐ dòngjiàn · Historical Insight</div>
+      <p>The <strong>安史之乱 Ān-Shǐ zhī Luàn</strong> (An-Shi Rebellion, 755–763 CE) is the great rupture in Tang history — the event that divides "High Tang" from "Late Tang," confident expansion from anxious contraction. It is named for its two leaders: <strong>安禄山 Ān Lùshān</strong>, a military commander of Sogdian-Turkic origin who controlled three northeastern frontier commands (节度使 jiédùshǐ), and his subordinate <strong>史思明 Shǐ Sīmíng</strong>.</p>
+      <p>The rebellion's precondition was the concentration of military power in the frontier commands. Emperor Xuanzong (r. 712–756 CE), in the long and brilliant opening decades of his reign — the <strong>开元盛世 Kāiyuán Shèngshì</strong> (Glorious Era of Kaiyuan) — had allowed this concentration to develop while himself falling into the pleasures of late reign: his obsessive love for the imperial consort <strong>杨贵妃 Yáng Guìfēi</strong> (Yang Guifei) and his reliance on the corrupt chief minister <strong>杨国忠 Yáng Guózhōng</strong> (Yang Guifei's cousin) had weakened court governance.</p>
+      <p>An Lushan launched his rebellion in December 755 CE with an army of approximately 200,000. He captured the secondary capital Luoyang in January 756 CE, and the primary capital Chang'an fell that summer. Xuanzong fled southwest toward Sichuan; at the Mawei station (<strong>马嵬驿 Mǎwéi Yì</strong>), his escort troops mutinied and demanded the execution of Yang Guozhong — and then of Yang Guifei herself. Xuanzong consented; she was strangled. The tragedy of Xuanzong and Yang Guifei became the most celebrated love story in Chinese literary history, immortalized in Bai Juyi's <strong>长恨歌 Cháng Hèn Gē</strong> (Song of Everlasting Regret).</p>
+      <p>The rebellion was suppressed by 763 CE but only with the help of the Uyghur Khaganate — at significant political cost. The Tang never recovered its former vigor. The frontier military commanders (节度使) retained their power; the court depended on them rather than commanding them. Over the next century and a half, the Tang contracted, eunuch power at court intensified, and the brilliant provincial culture of the Late Tang — melancholy, self-aware, retrospective — expressed the mood of an empire that knew its best years were past.</p>
+    </div>
+
+    <!-- ── CHENGYU ── -->
+    <span class="section-anchor" id="chengyu"></span>
+    <div class="section-head">
+      <span class="sh-cn">成语与关键词</span>
+      <span class="sh-py">Chéngyǔ yǔ Guānjiàn Cí</span>
+      <span class="sh-en">Idioms &amp; Key Phrases</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="chengyu-grid">
+
+      <div class="cy">
+        <span class="cy-cn">贞观之治</span>
+        <span class="cy-py">Zhēnguān zhī Zhì</span>
+        <span class="cy-en">the Well-Governed Era of Zhenguan — the Confucian ideal of enlightened imperial rule</span>
+        <span class="cy-note">Taizong's reign era (627–649 CE), celebrated as the model of good governance in Chinese political tradition. The formula "[reign-era name] 之治" became the standard way to name historical periods of exceptional governance — as in 文景之治 and 开元盛世. Used today in political speeches to invoke the ideal of a competent, morally serious ruler who listens to honest remonstrance.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">以史为镜</span>
+        <span class="cy-py">yǐ shǐ wéi jìng</span>
+        <span class="cy-en">use history as a mirror — learn from the past to govern the present</span>
+        <span class="cy-note">Taizong's most famous political aphorism: "Using copper as a mirror, one can straighten one's appearance; using history as a mirror, one can understand the rise and fall of dynasties; using people as a mirror, one can perceive one's own gains and losses." The "people as mirror" referred to his minister Wei Zheng, whose death he mourned with these words. Still among the most quoted sayings in Chinese political discourse.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">开元盛世</span>
+        <span class="cy-py">Kāiyuán Shèngshì</span>
+        <span class="cy-en">the Glorious Era of Kaiyuan — the High Tang at its zenith</span>
+        <span class="cy-note">The reign-era name 开元 (713–741 CE) under Emperor Xuanzong gave its name to the period of Tang's greatest cultural and economic flourishing. Population reached approximately 50 million; the examination system produced its greatest talents; Chang'an was at its most cosmopolitan. 盛世 (flourishing age) is still used in modern Chinese political rhetoric to describe periods of national strength and prosperity.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">烽火连三月，家书抵万金</span>
+        <span class="cy-py">fēnghuǒ lián sān yuè, jiāshū dǐ wàn jīn</span>
+        <span class="cy-en">beacon fires for three months; a letter from home worth ten thousand gold</span>
+        <span class="cy-note">Du Fu's couplet from 春望 (Spring View), written during the An Lushan Rebellion while imprisoned in rebel-held Chang'an (756 CE). Among the most quoted lines in Chinese literature — a complete world of wartime separation compressed into fourteen characters. 家书抵万金 jiāshū dǐ wàn jīn (a letter from home is worth ten thousand gold) is quoted independently whenever discussing the preciousness of family connection during separation or hardship.</span>
+      </div>
+
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="page-footer">
+      <span class="footer-id">Field Notes on Chinese · <span>唐朝 tángcháo</span> · topic_tangchao.html</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>

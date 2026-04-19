@@ -1228,7 +1228,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 唉 — ài — Intj — interjection or grunt of agreement or recognition , to sigh
 - 爱不释手 / 愛不釋手 — àibùshìshǒu — (idiom) to like sth so much that one is reluctant 
 - 爱理不理 / 愛理不理 — àilǐ-bùlǐ — (idiom) standoffish; indifferent
-- 爱面子 / 愛面子 — ài miànzi — [gloss needed]
+- 爱面子 / 愛面子 — ài miànzi — to care about face/reputation, to be sensitive to social standing
 - 爱惜 / 愛惜 — àixī — V — to treasure, to cherish
 - 碍事 / 礙事 — àishì — to be in the way; to be a hindrance, (usu. in the negative) to be of consequence; to ma
 - 安定 — āndìng — Adj/V — stable; calm; settled, to stabilize, Valium; diazepam
@@ -1239,7 +1239,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 安心 — ānxīn — Adj — at ease; to settle one's mind
 - 安逸 — ānyì — Adj — easy and comfortable, easy
 - 按键 — ànjiàn — N — button or key (on a device), keystroke, CL:個|个[ge4]
-- 按理说 / 按理說 — ànlǐ shuō — [gloss needed]
+- 按理说 / 按理說 — ànlǐ shuō — logically speaking, in principle
 - 按说 — ànshuō — Adv — in the ordinary course of events; ordinarily; norm
 - 案件 — ànjiàn — N — case, instance, CL:宗[zong1],樁|桩[zhuang1],起[qi3]
 - 暗地里 — àndìlǐ — N — secretly; inwardly; on the sly
@@ -1269,7 +1269,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 白白 — báibái — Adv — in vain, to no purpose, for nothing
 - 百分比 — bǎifēnbǐ — N — percentage
 - 百合 — bǎihé — N — (botany) lily, (ACG) (slang) yuri (genre depicting romantic or in
-- 百科全书 / 百科全書 — bǎikē quánshū — [gloss needed]
+- 百科全书 / 百科全書 — bǎikē quánshū — encyclopedia
 - 柏树 — bǎishù — N — cypress tree, Taiwan pr. [bo2 shu4]
 - 摆放 — bǎifàng — V — to set up; to arrange; to lay out
 - 摆平 / 擺平 — bǎipíng — to be fair, to be impartial, to settle (a matter etc)
@@ -1285,7 +1285,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 斑点 — bāndiǎn — N — spot, stain, speckle
 - 搬迁 — bānqiān — V — to move, to relocate, removal
 - 板块 — bǎnkuài — N — slab, (geology) tectonic plate, (fig.) sector (of the stock market or of industry)
-- 办不到 / 辦不到 — bàn bu dào — [gloss needed]
+- 办不到 / 辦不到 — bàn bu dào — cannot be done, impossible to accomplish
 - 半边天 — bànbiāntiān — N — half the sky, women of the new society, womenfolk
 - 半场 — bànchǎng — N — half of a game or contest, half-court
 - 半岛 — bàndǎo — N — peninsula
@@ -1339,7 +1339,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 暴利 — bàolì — N — sudden huge profits
 - 暴躁 — bàozào — Adj — irascible; irritable
 - 曝光 — bàoguāng — to expose (photography), (fig.) to expose (a scandal), (advertising) exposure
-- 爆冷门 / 爆冷門 — bào lěngmén — [gloss needed]
+- 爆冷门 / 爆冷門 — bào lěngmén — to produce a dark-horse result, to spring a surprise
 - 爆满 — bàomǎn — V — filled to capacity (of theater, stadium, gymnasium
 - 爆竹 — bàozhú — N — firecracker
 - 卑鄙 — bēibǐ — Adj — base, mean, contemptible
@@ -1377,7 +1377,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 逼真 — bīzhēn — Adj — lifelike, true to life, distinctly
 - 鼻涕 — bítì — N — nasal mucus; snivel; snot
 - 比比皆是 — bǐbǐ-jiēshì — can be found everywhere
-- 比不上 — bǐ bu shàng — [gloss needed]
+- 比不上 — bǐ bu shàng — cannot compare with, inferior to
 - 比起 — bǐqǐ — compared with
 - 比试 — bǐshi — V — to have a competition, to measure with one's hand or arm, to make a gesture of measuring
 - 比喻 — bǐyù — N/V — to compare, to liken to, metaphor
@@ -1436,11 +1436,11 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 别看 — biékàn — Conj — don't be fooled by the fact that
 - 别墅 — biéshù — N — villa, CL:幢[zhuang4],座[zuo4]
 - 别说 — biéshuō — Conj — to say nothing of; not to mention; let alone
-- 别提了 / 別提了 — biétí le — [gloss needed]
+- 别提了 / 別提了 — biétí le — don't even mention it, it's too embarrassing to bring up
 - 别致 — biézhì — Adj — unusual; unique
 - 别扭 — bièniu — Adj — awkward, difficult, uncomfortable
 - 彬彬有礼 / 彬彬有禮 — bīnbīn-yǒulǐ — refined and courteous, urbane
-- 滨海 / 濱海 — bīn hǎi — [gloss needed]
+- 滨海 / 濱海 — bīn hǎi — coastal, seaside
 - 缤纷 — bīnfēn — Adj — vast and various, rich and diverse
 - 冰棍儿 — bīnggùnr — N — ice lolly, popsicle
 - 冰山 — bīngshān — N — iceberg, ice-covered mountain, (fig.) a backer one cannot rely on for long
@@ -1469,10 +1469,10 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 搏斗 — bódòu — V — to wrestle; to fight; to struggle
 - 不定 — bùdìng — Adj/Adv — indefinite, indeterminate, (botany) adventitious
 - 不见得 — bùjiàndé — Adv — not necessarily, not likely
-- 不利于 / 不利於 — bùlì yú — [gloss needed]
+- 不利于 / 不利於 — bùlì yú — unfavorable to, detrimental to
 - 不慎 — bùshèn — Adj — incautious, inattentive
 - 不适 — bùshì — Adj — unwell, indisposed, out of sorts
-- 不算 — bù suàn — [gloss needed]
+- 不算 — bù suàn — doesn't count, not considered
 - 不像话 — bùxiànghuà — Adj — unreasonable, shocking, outrageous
 - 不屑 — bùxiè — V — to disdain to do sth, to think sth not worth doing, to feel it beneath one's dignity
 - 不懈 — bùxiè — Adj — untiring, unremitting, indefatigable
@@ -1491,7 +1491,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 不得已 — bùdéyǐ — Adj — to act against one's will, to have no alternative but to, to have to
 - 不妨 — bùfáng — Adv — there is no harm in; might as well
 - 不服 — bùfú — V — not to accept sth, to want to have sth overruled or changed, to refuse to obey or comply
-- 不服气 / 不服氣 — bù fúqì — [gloss needed]
+- 不服气 / 不服氣 — bù fúqì — unconvinced, refusing to accept defeat
 - 不假思索 — bùjiǎ-sīsuǒ — (idiom) to act without taking time to think; to re
 - 不解 — bùjiě — V — to not understand, to be puzzled by, indissoluble
 - 不经意 — bùjīngyì — V — not paying attention; carelessly; by accident
@@ -1499,14 +1499,14 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 不堪 — bùkān — V/Adj — cannot bear, cannot stand, utterly
 - 不可避免 — bùkě-bìmiǎn — (idiom) inevitable; unavoidable
 - 不可思议 / 不可思議 — bùkě-sīyì — (idiom) inconceivable; unimaginable; unfathomable
-- 不肯 — bù kěn — [gloss needed]
-- 不理 — bù lǐ — [gloss needed]
+- 不肯 — bù kěn — unwilling to, refuse to
+- 不理 — bù lǐ — to ignore, to pay no attention to
 - 不了了之 — bùliǎo-liǎozhī — to settle a matter by leaving it unsettled, to end up with nothing definite
-- 不难 / 不難 — bù nán — [gloss needed]
+- 不难 / 不難 — bù nán — not difficult, easy enough
 - 不平 — bùpíng — Adj/N — uneven, injustice, unfairness
 - 不起眼 — bùqǐyǎn — unremarkable, nothing out of the ordinary
 - 不容 — bùróng — V — must not, cannot, to not allow
-- 不如说 / 不如說 — bùrú shuō — [gloss needed]
+- 不如说 / 不如說 — bùrú shuō — it would be more accurate to say, or rather
 - 不同寻常 / 不同尋常 — bùtóng-xúncháng — out of the ordinary, unusual
 - 不为人知 / 不為人知 — bùwéirénzhī — not known to anyone, secret, unknown
 - 不惜 — bùxī — V — not stint, not spare, not hesitate (to do sth)
@@ -1516,11 +1516,11 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 不以为然 / 不以為然 — bùyǐwéirán — not to accept as correct (idiom); to object, to disapprove, to take exception to
 - 不由得 — bùyóude — V/Adv — can't help, cannot but
 - 不由自主 — bùyóuzìzhǔ — (idiom) can't help but; involuntarily
-- 不予 — bù yǔ — [gloss needed]
+- 不予 — bù yǔ — not to grant, to refuse (formal)
 - 不约而同 / 不約而同 — bùyuē'értóng — (idiom) (of two or more people) to take the same a
 - 不知 — bùzhī — V — not to know, unaware, unknowingly
 - 不知不觉 / 不知不覺 — bùzhī-bùjué — (idiom) unconsciously; unwittingly
-- 不准 — bù zhǔn — [gloss needed]
+- 不准 — bù zhǔn — not allowed, forbidden
 - 布局 — bùjú — N/V — arrangement, composition, layout
 - 步伐 — bùfá — N — pace, (measured) step, march
 - 步入 — bùrù — V — to step into; to enter
@@ -1604,8 +1604,8 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 阐述 / 闡述 — chǎnshù — V — to expound, to elaborate
 - 颤抖 — chàndǒu — V — to shudder, to shiver, to shake
 - 猖狂 — chāngkuáng — Adj — savage, furious
-- 长达 / 長達 — cháng dá — [gloss needed]
-- 长期以来 / 長期以來 — chángqī yǐlái — [gloss needed]
+- 长达 / 長達 — cháng dá — as long as, lasting as much as
+- 长期以来 / 長期以來 — chángqī yǐlái — for a long time, over a long period
 - 长效 — chángxiào — N/Adj — to be effective over an extended period
 - 长征 — chángzhēng — N — Long March (retreat of the Red Army 1934-1935)
 - 长足 — chángzú — Adj — remarkable (progress, improvement, expansion etc)
@@ -1659,7 +1659,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 趁 — chèn — Prep — to avail oneself of, to take advantage of
 - 趁机 — chènjī — Adv — to seize an opportunity
 - 趁早 — chènzǎo — Adv — as soon as possible, at the first opportunity, the sooner the better
-- 趁着 / 趁著 — chènzhe — [gloss needed]
+- 趁着 / 趁著 — chènzhe — taking advantage of, while the opportunity exists
 - 称呼 — chēnghu — V/N — to call; to address as, form of address; appellation
 - 称作 / 稱作 — chēngzuò — to be called; to be known as
 - 成才 — chéngcái — V — to make sth of oneself, to become a person who is worthy of respect
@@ -1688,7 +1688,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 逞能 — chěngnéng — to show off one's ability, to boast one's merits
 - 逞强 / 逞強 — chěngqiáng — to show off, to try to be brave
 - 秤 — chèng — N — to weigh (variant of 稱|称[cheng1])
-- 吃不上 — chī bushàng — V — [gloss needed]
+- 吃不上 — chī bushàng — V — unable to get food, cannot afford to eat
 - 吃喝玩乐 / 吃喝玩樂 — chī-hē-wán-lè — lit. to eat, drink, play and be merry (idiom), fig. to abandon oneself to a life of pleasure
 - 吃苦 — chīkǔ — to bear hardships
 - 吃亏 / 吃虧 — chīkuī — to suffer losses, to come to grief, to lose out
@@ -1751,14 +1751,14 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 出丑 / 出醜 — chūchǒu — to make a fool of oneself
 - 出道 — chūdào — to start one's career, (of an entertainer) to make one's debut
 - 出发点 — chūfādiǎn — N — starting point, (fig.) basis; motive
-- 出风头 / 出風頭 — chū fēngtou — [gloss needed]
+- 出风头 / 出風頭 — chū fēngtou — to show off, to seek the limelight
 - 出境 — chūjìng — to leave a country or region, outbound (tourism)
 - 出局 — chūjú — (of a batter) to be put out (in baseball); to be d, (of a player or team) to be eliminated from a comp, (fig.) to be weeded out; to get the chop (in a com
 - 出具 — chūjù — V — to issue (document, certificate etc), to provide
 - 出口成章 — chūkǒu-chéngzhāng — (idiom) (of one's speech) eloquent, articulate
 - 出卖 — chūmài — V — to offer for sale; to sell, to sell out; to betray
-- 出毛病 — chū máobìng — [gloss needed]
-- 出难题 / 出難題 — chū nántí — [gloss needed]
+- 出毛病 — chū máobìng — to develop a problem, to go wrong
+- 出难题 / 出難題 — chū nántí — to pose a difficult problem, to make things hard
 - 出人意料 — chūrényìliào — unexpected (idiom), surprising
 - 出任 — chūrèn — V — to take up a post; to start in a new job
 - 出山 — chūshān — to leave the mountain (of a hermit), to come out of obscurity to a government job, to take a leading position
@@ -1770,10 +1770,10 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 出息 — chūxi — N — to yield interest, profit etc, to exhale (Buddhism)
 - 出血 — chūxiě — to bleed; bleeding, (fig.) to spend money in large amounts
 - 出演 — chūyǎn — V — to appear (in a show etc), an appearance (on stage etc)
-- 出洋相 — chū yángxiàng — [gloss needed]
+- 出洋相 — chū yángxiàng — to make a fool of oneself, to embarrass oneself
 - 出游 — chūyóu — V — to go on a tour, to have an outing
 - 出众 — chūzhòng — Adj — to stand out, outstanding
-- 出主意 — chū zhǔyi — [gloss needed]
+- 出主意 — chū zhǔyi — to offer a suggestion, to come up with an idea
 - 出资 — chūzī — V — to fund, to put money into sth, to invest
 - 出自 — chūzì — V — to come from
 - 出走 — chūzǒu — V — to leave home, to go off, to run away
@@ -1798,7 +1798,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 踹 — chuài — V — to kick, to trample, to tread on
 - 川流不息 — chuānliú-bùxī — the stream flows without stopping (idiom); unendin
 - 穿过 — chuānguò — V — to pass through
-- 穿小鞋 — chuān xiǎoxié — [gloss needed]
+- 穿小鞋 — chuān xiǎoxié — to make things difficult for someone (lit. to make wear tight shoes)
 - 穿越 — chuānyuè — V — to pass through, to traverse, to cross
 - 穿着 — chuānzhuó — N — attire; clothes; dress
 - 传承 / 傳承 — chuánchéng — V/N — to pass on, to inherit; heritage
@@ -1817,7 +1817,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 床位 — chuángwèi — N — bed (in hospital, hotel, train etc), berth, bunk
 - 创 — chuàng — V — variant of 創|创[chuang4]
 - 创始人 — chuàngshǐrén — N — creator; founder; initiator
-- 吹了 — chuī le — [gloss needed]
+- 吹了 — chuī le — it's off, it fell through, (plans) collapsed
 - 吹牛 — chuīniú — to talk big; to brag; to shoot off one's mouth, (dialect) to chat idly
 - 吹捧 — chuīpěng — V — to flatter, to laud sb's accomplishments, adulation
 - 垂 — chuí — V — to hang (down), droop, dangle
@@ -1853,8 +1853,8 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 匆匆 — cōngcōng — Adj — hurriedly
 - 匆忙 — cōngmáng — Adj — hasty, hurried
 - 葱 — cōng — N — scallion, green onion
-- 从今以后 / 從今以後 — cóng jīn yǐhòu — [gloss needed]
-- 从来不 / 從來不 — cónglái bù — [gloss needed]
+- 从今以后 / 從今以後 — cóng jīn yǐhòu — from now on, henceforth
+- 从来不 / 從來不 — cónglái bù — never, at no time ever
 - 从容 — cóngróng — Adj — to go easy, unhurried, calm
 - 从容不迫 / 從容不迫 — cóngróng-bùpò — calm, unruffled
 - 从头 — cóngtóu — Adv — anew, from the start
@@ -1897,7 +1897,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 打岔 — dǎchà — interruption, to interrupt (esp. talk), to change the subject
 - 打倒 — dǎdǎo — to overthrow, to knock down, Down with ... !
 - 打盹儿 / 打盹兒 — dǎdǔnr — erhua variant of 打盹[da3 dun3]
-- 打交道 — dǎ jiāodao — [gloss needed]
+- 打交道 — dǎ jiāodao — to deal with, to have contact with
 - 打搅 — dǎjiǎo — V — to disturb; to trouble; to bother
 - 打捞 — dǎlāo — V — to salvage, to dredge, to fish out (person or object from the sea)
 - 打量 — dǎliang — V — to size sb up, to look sb up and down, to take the measure of
@@ -1905,7 +1905,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 打磨 — dǎmó — V — to polish; to burnish; to shine
 - 打通 — dǎtōng — to open access, to establish contact, to remove a block
 - 打仗 — dǎzhàng — to fight a battle, to go to war
-- 打招呼 — dǎ zhāohu — [gloss needed]
+- 打招呼 — dǎ zhāohu — to greet, to say hello; to give a heads-up
 - 大包大揽 / 大包大攬 — dàbāo-dàlǎn — to take complete charge (idiom)
 - 大笔 — dàbǐ — N — (formal, honorific) your writing; your handwriting, pen; calligraphy brush, a large sum of (money)
 - 大臣 — dàchén — N — chancellor (of a monarchy), cabinet minister
@@ -1913,14 +1913,14 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 大大咧咧 — dàdaliēliē — Adj — (idiom) carefree; offhand; casual
 - 大地 — dàdì — N — earth, mother earth
 - 大队 — dàduì — N — group, a large body of, production brigade
-- 大幅度 — dà fúdù — [gloss needed]
+- 大幅度 — dà fúdù — by a large margin, substantially
 - 大公无私 / 大公無私 — dàgōng-wúsī — selfless, impartial
 - 大家庭 — dàjiātíng — N — extended family, big family, harmonious group
 - 大街小巷 — dàjiē-xiǎoxiàng — great streets and small alleys (idiom); everywhere
 - 大惊小怪 / 大驚小怪 — dàjīng-xiǎoguài — to make a fuss about nothing (idiom)
 - 大局 — dàjú — N — overall situation, the big picture
 - 大款 — dàkuǎn — N — very wealthy person
-- 大面积 / 大面積 — dà miànjī — [gloss needed]
+- 大面积 / 大面積 — dà miànjī — large area, on a large scale
 - 大名鼎鼎 — dàmíng-dǐngdǐng — grand reputation, renowned, famous
 - 大模大样 / 大模大樣 — dàmú-dàyàng — boldly; ostentatiously, poised; self-assured, Taiwan pr. [da4 mo2 da4 yang4]
 - 大棚 — dàpéng — N — greenhouse, polytunnel
@@ -1930,7 +1930,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 大数据 — dàshùjù — N — big data (computing)
 - 大肆 — dàsì — Adv — wantonly, without restraint (of enemy or malefactor), unbridled
 - 大体 — dàtǐ — Adv — in general; more or less; in rough terms; basicall, overall situation; the big picture, cadaver for dissection in training medical student
-- 大体上 / 大體上 — dàtǐ shang — [gloss needed]
+- 大体上 / 大體上 — dàtǐ shang — generally speaking, on the whole
 - 大同小异 / 大同小異 — dàtóng-xiǎoyì — virtually the same, differing only on small points
 - 大腕儿 — dàwànr — N — erhua variant of 大腕[da4 wan4]
 - 大选 — dàxuǎn — V — general election
@@ -2012,7 +2012,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 得手 — déshǒu — Adj — to go smoothly; to come off; to succeed
 - 得体 — détǐ — Adj — appropriate to the occasion, fitting
 - 得天独厚 / 得天獨厚 — détiāndúhòu — blessed by heaven (idiom), enjoying exceptional advantages, favored by nature
-- 得益于 / 得益於 — déyì yú — [gloss needed]
+- 得益于 / 得益於 — déyì yú — to benefit from, thanks to
 - 得意扬扬 / 得意揚揚 — déyì-yángyáng — variant of 得意洋洋[de2 yi4 yang2 yang2]
 - 得知 — dézhī — V — to find out, to learn of
 - 得罪 — dézuì — V — to commit an offense, to violate the law, excuse me! (formal)
@@ -2057,7 +2057,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 地质 — dìzhì — N — geology
 - 弟子 — dìzǐ — N — disciple; follower
 - 帝国 — dìguó — N — empire, imperial
-- 帝国主义 / 帝國主義 — dìguó zhǔyì — [gloss needed]
+- 帝国主义 / 帝國主義 — dìguó zhǔyì — imperialism
 - 递交 — dìjiāo — V — to present, to give, to hand over
 - 第一手 — dìyīshǒu — Adj — first-hand
 - 第一线 — dìyīxiàn — N — front line, forefront
@@ -2112,7 +2112,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 定金 — dìngjīn — N — down payment, advance payment
 - 定居 — dìngjū — to settle (in some city, country etc); to take up 
 - 定论 — dìnglùn — N — final conclusion, accepted argument
-- 定为 / 定為 — dìngwéi — [gloss needed]
+- 定为 / 定為 — dìngwéi — to designate as, to set as
 - 定向 — dìngxiàng — V — to orientate, directional, directed
 - 定心丸 — dìngxīnwán — N — tranquilizer, sth that sets one's mind at ease
 - 定义 — dìngyì — N — definition, to define
@@ -2164,7 +2164,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 堵塞 — dǔsè — V — to clog up, blockage
 - 杜绝 — dùjué — V — to put an end to
 - 妒忌 — dùjì — V — to be jealous of (sb's achievements etc), to be envious, envy
-- 度（知名度） — dù(zhīmíngdù) — Suffix — [gloss needed]
+- 度（知名度） — dù(zhīmíngdù) — Suffix — suffix: degree, extent (e.g. 知名度 level of fame)
 - 度假 — dùjià — V — to go on holidays, to spend one's vacation
 - 渡过 / 渡過 — dùguò — to cross over, to pass through
 - 端正 — duānzhèng — Adj/V — upright, regular, proper
@@ -2195,7 +2195,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 多功能 — duōgōngnéng — Adj — multifunctional, multifunction
 - 多亏 — duōkuī — V — thanks to, luckily
 - 多劳多得 / 多勞多得 — duōláo-duōdé — work more and get more
-- 多年来 / 多年來 — duō nián lái — [gloss needed]
+- 多年来 / 多年來 — duō nián lái — over the years, for many years
 - 多心 — duōxīn — oversensitive, suspicious
 - 多余 / 多餘 — duōyú — V/Adj — surplus, extra, unnecessary
 - 多元 — duōyuán — Adj — pluralistic, diverse
@@ -2240,7 +2240,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 发酵 / 發酵 — fājiào — to ferment, (fig.) (of trends, emotions or repercussions etc) 
 - 发掘 — fājué — V — to excavate, to explore, (fig.) to unearth
 - 发愣 / 發愣 — fālèng — to stare blankly; to be in a daze
-- 发脾气 / 發脾氣 — fā píqi — [gloss needed]
+- 发脾气 / 發脾氣 — fā píqi — to lose one's temper, to get angry
 - 发起人 — fāqǐrén — N — proposer, initiator, founding member
 - 发热 / 發熱 — fārè — to have a high temperature, feverish, unable to think calmly
 - 发誓 / 發誓 — fāshì — to vow, to pledge, to swear
@@ -2270,7 +2270,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 反常 — fǎncháng — Adj — unusual, abnormal
 - 反倒 — fǎndào — Adv — (coll.) but on the contrary; but instead
 - 反感 — fǎngǎn — Adj/N — to be disgusted with, to dislike, bad reaction
-- 反过来 / 反過來 — fǎn guòlái — [gloss needed]
+- 反过来 / 反過來 — fǎn guòlái — conversely, the other way around
 - 反击 — fǎnjī — V — to strike back; to beat back; to counterattack
 - 反馈 — fǎnkuì — V — to send back information, feedback
 - 反面 — fǎnmiàn — N/Adj — reverse side, backside, the other side (of a problem etc)
@@ -2308,10 +2308,10 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 放置 — fàngzhì — V — to put
 - 放纵 — fàngzòng — V — to indulge, to pamper, to connive at
 - 飞速 — fēisù — Adv — swift, rapidly
-- 飞往 / 飛往 — fēiwǎng — [gloss needed]
+- 飞往 / 飛往 — fēiwǎng — to fly to, to fly toward
 - 飞翔 — fēixiáng — V — to circle in the air, to soar
 - 飞跃 — fēiyuè — V — to leap
-- 非（非金属） / 非（非金屬） — fēi (fēijīnshǔ) — Prefix — [gloss needed]
+- 非（非金属） / 非（非金屬） — fēi (fēijīnshǔ) — Prefix — prefix: non-, not (e.g. 非金属 non-metal)
 - 非得 — fēiděi — Adv — (followed by a verb phrase, then – optionally – 不可
 - 非法 — fēifǎ — Adj — illegal
 - 非凡 — fēifán — Adj — out of the ordinary, unusually (good, talented etc)
@@ -2453,7 +2453,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 改版 — gǎibǎn — to revise the current edition, revised edition
 - 改编 — gǎibiān — V — to adapt, to rearrange, to revise
 - 改动 — gǎidòng — V — to alter, to modify, to revise
-- 改革开放 / 改革開放 — gǎigé kāifàng — [gloss needed]
+- 改革开放 / 改革開放 — gǎigé kāifàng — reform and opening-up (PRC policy since 1978)
 - 改良 — gǎiliáng — V — to improve (sth), to reform (a system)
 - 改名 — gǎimíng — V — to rename
 - 改日 — gǎirì — Adv — another day, some other day
@@ -2473,7 +2473,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 赶赴 — gǎnfù — V — to hurry, to rush
 - 赶往 / 趕往 — gǎnwǎng — to hurry to (somewhere)
 - 敢情 — gǎnqing — Adv — actually, as it turns out, indeed
-- 感（责任感） / 感（責任感） — gǎn (zérèngǎn) — Suffix — [gloss needed]
+- 感（责任感） / 感（責任感） — gǎn (zérèngǎn) — Suffix — suffix: sense of, feeling of (e.g. 责任感 sense of responsibility)
 - 感触 — gǎnchù — N — one's thoughts and feelings, emotional stirring, moved
 - 感恩 — gǎn'ēn — to be grateful
 - 感激 — gǎnjī — V — to be grateful, to appreciate, thankful
@@ -2544,7 +2544,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 根深蒂固 — gēnshēn-dìgù — deep-rooted (problem etc)
 - 根源 — gēnyuán — N — origin, root (cause)
 - 根治 — gēnzhì — V — to bring under permanent control, to effect a radical cure
-- 跟不上 — gēn bu shàng — [gloss needed]
+- 跟不上 — gēn bu shàng — cannot keep up with, fall behind
 - 跟上 — gēnshang — to catch up with, to keep pace with
 - 跟踪 — gēnzōng — V — to follow sb's tracks, to tail, to shadow
 - 更改 — gēnggǎi — V — to alter
@@ -2563,7 +2563,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 公车 — gōngchē — N — bus, abbr. for 公共汽車|公共汽车[gong1 gong4 qi4 che1], car belonging to an organization and used by its m
 - 公道 — gōngdao — Adj — justice, fairness, public highway
 - 公费 — gōngfèi — N — at public expense
-- 公共场所 / 公共場所 — gōnggòng chǎngsuǒ — [gloss needed]
+- 公共场所 / 公共場所 — gōnggòng chǎngsuǒ — public place, public venue
 - 公关 — gōngguān — N — public relations
 - 公函 — gōnghán — N — official letter
 - 公积金 — gōngjījīn — N — official reserves, accumulated fund
@@ -2578,7 +2578,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 公事 — gōngshì — N — work-related matters, documents
 - 公务 — gōngwù — N — official business
 - 公益 — gōngyì — N — public good; public welfare; public interest
-- 公益性 — gōngyìxìng — N — [gloss needed]
+- 公益性 — gōngyìxìng — N — public-welfare nature, public-interest character
 - 公用 — gōngyòng — V — public, for public use
 - 公寓 — gōngyù — N — apartment building; block of flats (may be a publi
 - 公约 — gōngyuē — N — convention (i.e. international agreement)
@@ -2641,7 +2641,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 固然 — gùrán — Conj — admittedly; although
 - 固执 — gùzhi — Adj — obstinate, stubborn, to fixate on
 - 故 — gù — Adv/Conj — happening, instance, reason
-- 顾不得 / 顧不得 — gùbu dé — [gloss needed]
+- 顾不得 / 顧不得 — gùbu dé — to have no time to attend to, cannot be bothered with
 - 顾不上 / 顧不上 — gùbushàng — cannot attend to or manage
 - 顾及 — gùjí — V — to take into consideration, to attend to
 - 顾虑 — gùlǜ — N/V — misgivings; apprehensions, to worry about; to be concerned about
@@ -2652,7 +2652,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 雇主 — gùzhǔ — N — variant of 雇主[gu4 zhu3]
 - 瓜分 — guāfēn — V — to partition, to divide up
 - 瓜子 — guāzǐ — N — melon seed, seeds of pumpkin, watermelon or sunflower etc, roa
-- 刮风 / 颳風 — guā fēng — [gloss needed]
+- 刮风 / 颳風 — guā fēng — to be windy, wind is blowing
 - 寡妇 — guǎfu — N — widow
 - 挂钩 — guàgōu — N — to couple; to link; to hook together, (fig.) (preceded by 與|与[yu3] + {entity}) to establ, (fig.) to link (marketing efforts with production 
 - 挂号 / 掛號 — guàhào — to register (at a hospital etc), to send by registered mail
@@ -2678,7 +2678,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 官兵 — guānbīng — N — (military) officers and soldiers, officers and men, (old) government troops
 - 官吏 — guānlì — N — bureaucrat, official
 - 官僚 — guānliáo — N — bureaucrat, bureaucracy, bureaucratic
-- 官僚主义 / 官僚主義 — guānliáo zhǔyì — [gloss needed]
+- 官僚主义 / 官僚主義 — guānliáo zhǔyì — bureaucratism, red-tape mentality
 - 官员 — guānyuán — N — official (in an organization or government), administrator
 - 棺材 — guāncai — N — coffin, CL:具[ju4],口[kou3]
 - 管家 — guǎnjiā — N — (old) butler; steward, manager; administrator; housekeeper, to manage a household
@@ -2751,7 +2751,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 过境 / 過境 — guòjìng — to pass through a country's territory, transit
 - 过滤 — guòlǜ — V — to filter
 - 过期 / 過期 — guòqī — to be overdue, to exceed the time limit, to expire (as in expiration date)
-- 过日子 / 過日子 — guò rìzi — [gloss needed]
+- 过日子 / 過日子 — guò rìzi — to get through one's days, to live one's life
 - 过剩 — guòshèng — V — to be excessive; to be more than is required
 - 过失 — guòshī — N — error, fault, (law) negligence
 - 过头 / 過頭 — guòtóu — to overdo it, to overstep the limit, excessively
@@ -2759,7 +2759,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 过意不去 / 過意不去 — guòyìbùqù — to feel very apologetic
 - 过瘾 / 過癮 — guòyǐn — to satisfy a craving, to get a kick out of sth, gratifying
 - 过硬 / 過硬 — guòyìng — to have perfect mastery of sth, to be up to the mark
-- 过早 / 過早 — guò zǎo — [gloss needed]
+- 过早 / 過早 — guò zǎo — too early, prematurely
 - 海岸 — hǎi'àn — N — coastal, seacoast
 - 海拔 — hǎibá — N — height above sea level, elevation
 - 海滨 — hǎibīn — N — shore, seaside
@@ -2767,7 +2767,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 海量 — hǎiliàng — N — huge volume
 - 海绵 — hǎimián — N — (zoology) sea sponge, (esp.) dried sea sponge, sponge (made from polyester or cellulose etc)
 - 海面 — hǎimiàn — N — the surface of the sea; ocean surface
-- 海内外 / 海內外 — hǎi nèiwài — [gloss needed]
+- 海内外 / 海內外 — hǎi nèiwài — at home and abroad, domestic and overseas
 - 海滩 — hǎitān — N — beach, CL:片[pian4]
 - 海峡 — hǎixiá — N — strait; channel
 - 海啸 — hǎixiào — N — tsunami
@@ -2799,9 +2799,9 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 航天员 — hángtiānyuán — N — astronaut
 - 航行 — hángxíng — V — to sail, to fly, to navigate
 - 航运 — hángyùn — N — shipping, transport
-- 毫不 — háo bù — [gloss needed]
-- 毫不犹豫 / 毫不猶豫 — háo bù yóuyù — [gloss needed]
-- 毫无 / 毫無 — háo wú — [gloss needed]
+- 毫不 — háo bù — not at all, in no way
+- 毫不犹豫 / 毫不猶豫 — háo bù yóuyù — without the slightest hesitation
+- 毫无 / 毫無 — háo wú — completely without, absolutely no
 - 豪华 — háohuá — Adj — luxurious
 - 好比 — hǎobǐ — V — to be just like; can be compared to
 - 好歹 — hǎodǎi — N/Adv — good and bad, most unfortunate occurrence, in any case
@@ -2833,14 +2833,14 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 合资 — hézī — V — joint venture
 - 合作社 — hézuòshè — N — cooperative, workers' or agricultural producers' cooperative et
 - 何必 — hébì — Adv — there is no need, why should
-- 何处 / 何處 — hé chù — [gloss needed]
+- 何处 / 何處 — hé chù — where, what place (literary)
 - 何苦 — hékǔ — Adv — why bother?, is it worth the trouble?
 - 何况 — hékuàng — Conj — let alone, to say nothing of, besides
-- 何时 / 何時 — hé shí — [gloss needed]
+- 何时 / 何時 — hé shí — when, at what time (literary)
 - 和蔼 — hé'ǎi — Adj — kindly, nice, amiable
 - 和解 — héjiě — V — to settle (a dispute out of court), to reconcile, settlement
 - 和睦 — hémù — Adj — peaceful relations, harmonious
-- 和平共处 / 和平共處 — hépíng gòngchǔ — [gloss needed]
+- 和平共处 / 和平共處 — hépíng gòngchǔ — peaceful coexistence
 - 和气 — héqi — Adj/N — friendly, polite, amiable
 - 和尚 — héshang — N — Buddhist monk
 - 河流 — héliú — N — river, CL:條|条[tiao2]
@@ -2957,16 +2957,16 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 话语 — huàyǔ — N — words, speech, utterance
 - 怀抱 — huáibào — V/N — to hug, to cherish, within the bosom (of the family)
 - 怀旧 — huáijiù — V — to feel nostalgic, nostalgia
-- 怀里 / 懷裡 — huái li — [gloss needed]
+- 怀里 / 懷裡 — huái li — in one's arms, in one's embrace
 - 怀孕 / 懷孕 — huáiyùn — pregnant, to have conceived, gestation
-- 怀着 / 懷著 — huáizhe — [gloss needed]
+- 怀着 / 懷著 — huáizhe — harboring, with (a feeling or intention)
 - 槐树 — huáishù — N — locust tree (Sophora japonica)
 - 坏事 — huàishì — N — bad thing; misdeed, to ruin things
 - 欢呼 — huānhū — V — to cheer for, to acclaim
 - 欢聚 — huānjù — V — to get together socially, to celebrate, party
 - 欢快 — huānkuài — Adj — cheerful and lighthearted, lively
 - 欢声笑语 / 歡聲笑語 — huānshēng-xiàoyǔ — cheers and laughter
-- 还款 / 還款 — huán kuǎn — [gloss needed]
+- 还款 / 還款 — huán kuǎn — to repay a loan, loan repayment
 - 还原 / 還原 — huányuán — to restore to the original state, to reconstruct (an event), reduction (chemistry)
 - 环球 — huánqiú — V — around the world, worldwide
 - 环绕 — huánrào — V — to surround, to circle, to revolve around
@@ -3090,7 +3090,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 激起 — jīqǐ — V — to arouse, to evoke, to cause
 - 激素 — jīsù — N — hormone
 - 及 — jí — Conj — and, to reach, up to
-- 及其 — jí qí — [gloss needed]
+- 及其 — jí qí — and its, together with (formal connective)
 - 及早 — jízǎo — Adv — at the earliest possible time; as soon as possible
 - 吉普 — jípǔ — N — Jeep (car brand)
 - 吉他 — jítā — N — (loanword) guitar, CL:把[ba3]
@@ -3098,7 +3098,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 级别 — jíbié — N — (military) rank, level, grade
 - 极度 — jídù — Adv — extremely
 - 极力 — jílì — Adv — to make a supreme effort, at all costs
-- 极少数 / 極少數 — jí shǎoshù — [gloss needed]
+- 极少数 / 極少數 — jí shǎoshù — a tiny minority, very few
 - 极为 — jíwéi — Adv — extremely; exceedingly
 - 极限 — jíxiàn — N — limit, extreme boundary
 - 即 — jí — Adv — namely, that is, i.e.
@@ -3170,7 +3170,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 价位 — jiàwèi — N — price level
 - 价值观 — jiàzhíguān — N — value system; personal or cultural values
 - 驾 — jià — V — surname Jia
-- 驾车 / 駕車 — jià chē — [gloss needed]
+- 驾车 / 駕車 — jià chē — to drive a vehicle
 - 驾驭 — jiàyù — V — to urge on (of horse), to drive, to steer
 - 架势 — jiàshi — N — attitude, position (on an issue etc)
 - 架子 — jiàzi — N — shelf, frame, stand
@@ -3351,7 +3351,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 介意 — jièyì — to care about, to take offense, to mind
 - 介于 — jièyú — V — between, intermediate, to lie between
 - 戒备 — jièbèi — V — to take precautions, to guard against (emergency)
-- 戒烟 / 戒煙 — jiè yān — [gloss needed]
+- 戒烟 / 戒煙 — jiè yān — to quit smoking
 - 戒指 — jièzhi — N — (finger) ring
 - 届时 — jièshí — Adv — when the time comes, at the scheduled time
 - 界定 — jièdìng — V — definition, to delimit
@@ -3368,11 +3368,11 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 津贴 — jīntiē — N — allowance
 - 筋 — jīn — N — muscle, tendon, veins visible under the skin
 - 禁不住 — jīnbuzhù — V — can't help it, can't bear it
-- 仅次于 / 僅次於 — jǐn cì yú — [gloss needed]
+- 仅次于 / 僅次於 — jǐn cì yú — second only to, ranked just below
 - 尽 — jǐn — V/Adv — to the greatest extent, (when used before a noun of location) furthest or , to be within the limits of
 - 尽早 — jǐnzǎo — Adv — as early as possible
 - 紧凑 — jǐncòu — Adj — compact, terse, tight (schedule)
-- 紧接着 / 緊接著 — jǐn jiēzhe — [gloss needed]
+- 紧接着 / 緊接著 — jǐn jiēzhe — immediately after, right on the heels of
 - 紧迫 — jǐnpò — Adj — pressing, urgent
 - 紧缺 — jǐnquē — Adj — in short supply, scarce
 - 紧缩 — jǐnsuō — V — (economics) to reduce, to curtail, to cut back
@@ -3387,7 +3387,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 进度 — jìndù — N — rate of progress
 - 进而 — jìn'ér — Conj — and then; and thereby; and in turn
 - 进修 — jìnxiū — V — to undertake advanced studies, to take a refresher course
-- 近年来 / 近年來 — jìnnián lái — [gloss needed]
+- 近年来 / 近年來 — jìnnián lái — in recent years
 - 劲头 — jìntóu — N — enthusiasm, zeal, vigor
 - 晋升 — jìnshēng — V — to promote to a higher position
 - 浸泡 — jìnpào — V — to steep, to soak, to immerse
@@ -3558,7 +3558,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 开朗 — kāilǎng — Adj — spacious and well-lit, open and clear, (of character) optimistic
 - 开辟 — kāipì — V — to open up, to set up, to establish
 - 开启 — kāiqǐ — V — to start; to begin; to initiate (an era, process, , (computing) to enable (a feature), (of a system or device) to start operating automat
-- 开枪 / 開槍 — kāi qiāng — [gloss needed]
+- 开枪 / 開槍 — kāi qiāng — to fire a gun, to shoot
 - 开天辟地 / 開天闢地 — kāitiān-pìdì — to split heaven and earth apart (idiom); refers to
 - 开拓 — kāituò — V — to break new ground (for agriculture), to open up (a new seam), to develop (border regions)
 - 开销 — kāixiāo — V/N — to pay (expenses), expenses, (old) to dismiss (an employee)
@@ -3571,13 +3571,13 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 看护 — kānhù — V/N — to nurse, to look after, to watch over
 - 勘探 — kāntàn — V — to explore, to survey, to prospect (for oil etc)
 - 堪称 — kānchēng — V — can be rated as, can be said to be
-- 侃大山 — kǎn dàshān — [gloss needed]
+- 侃大山 — kǎn dàshān — to chat idly, to shoot the breeze
 - 砍 — kǎn — V — to chop, to cut down, to throw sth at sb
 - 看得出 — kàndechū — V — can see, can tell
-- 看热闹 / 看熱鬧 — kàn rènao — [gloss needed]
+- 看热闹 / 看熱鬧 — kàn rènao — to watch the excitement, to be a bystander
 - 看似 — kànsì — V — to look as if; to seem
 - 看台 — kàntái — N — terrace, spectator's grandstand, viewing platform
-- 看样子 / 看樣子 — kàn yàngzi — [gloss needed]
+- 看样子 / 看樣子 — kàn yàngzi — it looks like, by the looks of things
 - 看中 — kànzhòng — to have a preference for, to fancy, to choose after consideration
 - 看重 — kànzhòng — V — to regard as important; to value
 - 慷慨 — kāngkǎi — Adj — vehement; fervent, generous; magnanimous
@@ -3663,7 +3663,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 哭笑不得 — kūxiào-bùdé — lit. not to know whether to laugh or cry (idiom), both funny and extremely embarrassing, between laughter and tears
 - 窟窿 — kūlong — N — hole, pocket, cavity
 - 苦力 — kǔlì — N — bitter work, hard toil, (loanword) coolie, unskilled Chinese laborer in co
-- 苦练 / 苦練 — kǔ liàn — [gloss needed]
+- 苦练 / 苦練 — kǔ liàn — to practice hard, to train strenuously
 - 苦难 — kǔnàn — N — suffering
 - 苦恼 — kǔnǎo — Adj — vexed, distressed
 - 苦笑 — kǔxiào — V — to force a smile, a bitter laugh
@@ -3726,7 +3726,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 来临 — láilín — V — to approach; to come closer
 - 来龙去脉 / 來龍去脈 — láilóng-qùmài — lit. the rise and fall of the terrain (idiom), fig. the whole sequence of events; causes and effe
 - 来年 — láinián — N — next year, the coming year
-- 来源于 / 來源於 — láiyuán yú — [gloss needed]
+- 来源于 / 來源於 — láiyuán yú — to originate from, to derive from
 - 拦 — lán — V — to block sb's path, to obstruct, to flag down (a taxi)
 - 栏 — lán — N — fence, railing, hurdle
 - 栏杆 — lángān — N — railing, banister
@@ -3754,7 +3754,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 老化 — lǎohuà — V — (of a person, population or material) to age, (of knowledge) to become outdated
 - 老人家 — lǎorenjia — N — polite term for old woman or man
 - 老实说 / 老實說 — lǎoshishuō — honestly speaking; to be frank, ...
-- 老远 / 老遠 — lǎo yuǎn — [gloss needed]
+- 老远 / 老遠 — lǎo yuǎn — from far away, a long way off
 - 老字号 — lǎozìhao — N — shop, firm, or brand of merchandise with a long-es
 - 姥姥 — lǎolao — N — (coll.) mother's mother; maternal grandmother
 - 姥爷 — lǎoye — N — (coll.) mother's father; maternal grandfather
@@ -3949,7 +3949,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 屡次 — lǚcì — Adv — repeatedly, time and again
 - 缕 — lǚ — M — strand, thread, detailed
 - 履行 — lǚxíng — V — to fulfill (one's obligations), to carry out (a task), to implement (an agreement)
-- 率（成功率） — lǜ (chénggōnglǜ) — Suffix — [gloss needed]
+- 率（成功率） — lǜ (chénggōnglǜ) — Suffix — suffix: rate, ratio (e.g. 成功率 success rate)
 - 绿灯 — lǜdēng — N — green light (traffic signal), (fig.) permission to proceed
 - 绿地 — lǜdì — N — green area (e.g. urban park or garden)
 - 孪生 — luánshēng — Adj — (adj.) twin
@@ -3994,7 +3994,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 埋藏 — máicáng — V — to bury, to hide by burying, hidden
 - 埋伏 — máifú — V — to ambush, to lie in wait for, to lie low
 - 埋没 — máimò — V — to engulf, to bury, to overlook
-- 买不起 / 買不起 — mǎi bu qǐ — [gloss needed]
+- 买不起 / 買不起 — mǎi bu qǐ — cannot afford to buy
 - 迈 — mài — V — to take a step, to stride
 - 迈进 — màijìn — V — to step in, to stride forward, to forge ahead
 - 卖弄 — màinong — V — to show off, to make a display of
@@ -4007,7 +4007,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 蔓延 — mànyán — V — to extend, to spread
 - 漫 — màn — V — free, unrestrained, to inundate
 - 漫游 — mànyóu — V — to travel around, to roam, (mobile telephony) roaming
-- 慢慢来 / 慢慢來 — mànmàn lái — [gloss needed]
+- 慢慢来 / 慢慢來 — mànmàn lái — take it easy, no rush
 - 慢性 — mànxìng — Adj — slow and patient, chronic (disease), slow to take effect (e.g. a slow poison)
 - 忙活 — mánghuo — V — to be really busy, pressing business
 - 忙碌 — mánglù — Adj — busy; bustling
@@ -4015,7 +4015,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 盲目 — mángmù — Adj — (fig.) (of one's actions) blind; unthinking
 - 茫然 — mángrán — Adj — blankly, vacantly, at a loss
 - 矛头 — máotóu — N — spearhead, barb, an attack or criticism
-- 茅台（酒） / 茅臺（酒） — Máotái(jiǔ) — N — [gloss needed]
+- 茅台（酒） / 茅臺（酒） — Máotái(jiǔ) — N — Moutai (premium Chinese baijiu liquor)
 - 茂密 — màomì — Adj — dense (of plant growth), lush
 - 茂盛 — màoshèng — Adj — lush
 - 冒充 — màochōng — V — to feign, to pretend to be, to pass oneself off as
@@ -4025,7 +4025,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 没劲 — méijìn — Adj — to have no strength, to feel weak, exhausted
 - 没说的 / 沒說的 — méishuōde — (coll.) nothing to pick on; really good, (coll.) nothing to discuss; settled matter; no pro
 - 没完没了 / 沒完沒了 — méiwán-méiliǎo — without end, incessantly, on and on
-- 没意思 / 沒意思 — méi yìsi — [gloss needed]
+- 没意思 / 沒意思 — méi yìsi — boring, meaningless, no fun
 - 没辙 / 沒轍 — méizhé — at one's wit's end, unable to find a way out
 - 没准儿 / 沒準兒 — méizhǔnr — erhua variant of 沒準|没准[mei2 zhun3]
 - 玫瑰 — méigui — N — rugosa rose (shrub) (Rosa rugosa) (CL:棵[ke1]), rose flower (CL:朵[duo3])
@@ -4168,7 +4168,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 幕后 — mùhòu — N — behind the scenes
 - 穆斯林 — mùsīlín — N — Muslim
 - 拿手 — náshǒu — Adj — expert in, good at
-- 哪知道 — nǎ zhīdào — [gloss needed]
+- 哪知道 — nǎ zhīdào — who would have thought, who knew
 - 呐喊 — nàhǎn — V — shout, rallying cry, cheering
 - 纳闷儿 / 納悶兒 — nàmènr — erhua variant of 納悶|纳闷[na4 men4]
 - 纳入 / 納入 — nàrù — V — to incorporate into, to include
@@ -4181,14 +4181,14 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 耐性 — nàixìng — N — patience
 - 南瓜 — nánguā — N — pumpkin
 - 难处 — nánchù — N — trouble; difficulty; problem
-- 难得一见 / 難得一見 — nándé yī jiàn — [gloss needed]
+- 难得一见 / 難得一見 — nándé yī jiàn — rarely seen, hard to come by
 - 难点 — nándiǎn — N — difficulty
 - 难怪 — nánguài — Adv/V — (it's) no wonder (that...), (it's) not surprising (that)
 - 难关 — nánguān — N — difficulty, crisis
 - 难堪 — nánkān — V/Adj — hard to take, embarrassed
 - 难说 — nánshuō — V — hard to tell (i.e. hard to judge or hard to predic, cannot bring oneself to say it
 - 难为情 — nánwéiqíng — Adj — embarrassed
-- 难以想象 / 難以想象 — nányǐ-xiǎngxiàng — [gloss needed]
+- 难以想象 / 難以想象 — nányǐ-xiǎngxiàng — hard to imagine, unimaginable
 - 难以置信 / 難以置信 — nányǐ-zhìxìn — (idiom) hard to believe; incredible
 - 挠 — náo — V — to scratch, to thwart, to yield
 - 恼羞成怒 / 惱羞成怒 — nǎoxiū-chéngnù — (idiom) to become enraged over a perceived humilia
@@ -4287,7 +4287,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 刨 — páo — V — to dig, to excavate, (coll.) to exclude
 - 跑车 — pǎochē — N — racing bicycle; racing car; sports car, to drive a vehicle (such as a truck or taxi) for a, (of a conductor or attendant) to work on a train
 - 跑道 — pǎodào — N — athletic track, track, runway (i.e. airstrip)
-- 跑龙套 / 跑龍套 — pǎo lóngtào — [gloss needed]
+- 跑龙套 / 跑龍套 — pǎo lóngtào — to play a bit part, to do minor supporting work
 - 泡沫 — pàomò — N — foam, (soap) bubble, (economic) bubble
 - 胚胎 — pēitāi — N — embryo
 - 陪伴 — péibàn — V — to accompany
@@ -4306,7 +4306,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 膨胀 — péngzhàng — V — to expand, to inflate, to swell
 - 捧 — pěng — V — to hold or offer with both hands, to sing the praises of, classifier for what can be held in both hands
 - 捧场 / 捧場 — pěngchǎng — to show one's support for a performer or theatrica, to patronize a restaurant or store, to sing the praises of
-- 碰钉子 / 碰釘子 — pèng dīngzi — [gloss needed]
+- 碰钉子 / 碰釘子 — pèng dīngzi — to hit a snag, to meet a rebuff
 - 碰巧 — pèngqiǎo — Adv — by chance, by coincidence, to happen to
 - 碰上 — pèngshang — to run into, to come upon, to meet
 - 碰撞 — pèngzhuàng — V — to collide, collision
@@ -4324,7 +4324,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 媲美 — pìměi — V — to match, is comparable with
 - 僻静 — pìjìng — Adj — lonely, secluded
 - 譬如 — pìrú — V — for example; for instance; such as
-- 譬如说 / 譬如說 — pìrú shuō — [gloss needed]
+- 譬如说 / 譬如說 — pìrú shuō — for example, for instance
 - 片子 — piānzi — N — film, movie, film reel
 - 偏差 — piānchā — N — bias, deviation
 - 偏方 — piānfāng — N — folk remedy, home remedy
@@ -4335,14 +4335,14 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 偏远 — piānyuǎn — Adj — remote, far from civilization
 - 篇幅 — piānfú — N — length (of a piece of writing), space occupied on a printed page
 - 片段 — piànduàn — N — fragment (of speech etc), extract (from book etc), episode (of story etc)
-- 骗人 / 騙人 — piàn rén — [gloss needed]
+- 骗人 / 騙人 — piàn rén — to deceive people, deceptive
 - 漂 — piāo — V — to float, to drift
 - 飘 — piāo — V/Adj — variant of 飄|飘[piao1]
 - 票房 — piàofáng — N — box office
 - 撇 — piě — V/N — to cast away, to fling aside
 - 拼搏 — pīnbó — V — to struggle, to wrestle
 - 拼命 — pīnmìng — to do one's utmost; with all one's might; at all c
-- 贫富 / 貧富 — pín fù — [gloss needed]
+- 贫富 / 貧富 — pín fù — rich and poor, wealth disparity
 - 贫穷 — pínqióng — Adj — poor, impoverished
 - 频率 — pínlǜ — N — frequency
 - 频频 — pínpín — Adv — repeatedly, again and again, continuously
@@ -4372,7 +4372,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 凭证 — píngzhèng — N — proof, certificate, receipt
 - 瓶颈 — píngjǐng — N — neck of a bottle, (fig.) bottleneck, problem that impedes progress
 - 萍水相逢 — píngshuǐ-xiāngféng — strangers coming together by chance (idiom)
-- 泼冷水 / 潑冷水 — pō lěngshuǐ — [gloss needed]
+- 泼冷水 / 潑冷水 — pō lěngshuǐ — to pour cold water on, to dampen enthusiasm
 - 颇 — pō — Adv — surname Po, Taiwan pr. [Po3]
 - 迫不及待 — pòbùjídài — (idiom) unable to hold oneself back; eager to do s
 - 迫害 — pòhài — V — to persecute
@@ -4391,7 +4391,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 菩萨 — púsà — N — (Buddhism) bodhisattva
 - 朴实 — pǔshí — Adj — plain, simple, guileless
 - 朴素 — pǔsù — Adj — plain and simple, unadorned, simple living
-- 普通人 — pǔtōng rén — [gloss needed]
+- 普通人 — pǔtōng rén — ordinary person, average person
 - 谱 — pǔ — V/N — chart, list, table
 - 瀑布 — pùbù — N — waterfall
 - 七嘴八舌 — qīzuǐ-bāshé — lively discussion with everybody talking at once
@@ -4449,7 +4449,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 卡子 — qiǎzi — N — clip, hair fastener, checkpoint
 - 洽谈 — qiàtán — V — to discuss
 - 恰到好处 / 恰到好處 — qiàdào-hǎochù — it's just perfect, it's just right
-- 恰恰相反 — qiàqià xiāngfǎn — [gloss needed]
+- 恰恰相反 — qiàqià xiāngfǎn — exactly the opposite, just the reverse
 - 恰巧 — qiàqiǎo — Adv — by chance; as chance would have it
 - 恰如其分 — qiàrú-qífèn — (idiom) appropriate, apt, just right
 - 千变万化 / 千變萬化 — qiānbiàn-wànhuà — countless changes, constant permutation
@@ -4507,7 +4507,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 抢夺 — qiǎngduó — V — to plunder, to pillage, to forcibly take
 - 抢劫 — qiǎngjié — V — to rob, looting
 - 抢眼 — qiǎngyǎn — Adj — eye-catching
-- 敲边鼓 / 敲邊鼓 — qiāo biāngǔ — [gloss needed]
+- 敲边鼓 / 敲邊鼓 — qiāo biāngǔ — to play a supporting role, to back someone up on the side
 - 敲诈 — qiāozhà — V — to rip off, to extort (money), extortion
 - 乔装 — qiáozhuāng — V — to pretend, to feign, to disguise oneself
 - 瞧不起 — qiáobuqǐ — V — to look down upon; to hold in contempt
@@ -4596,7 +4596,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 取缔 — qǔdì — V — to suppress; to crack down on; to prohibit
 - 取而代之 — qǔ'érdàizhī — (idiom) to replace; to supersede; to take its (or 
 - 取经 / 取經 — qǔjīng — to journey to India on a quest for the Buddhist sc, to learn by studying another's experience
-- 取决于 / 取決於 — qǔjué yú — [gloss needed]
+- 取决于 / 取決於 — qǔjué yú — to depend on, to be determined by
 - 取暖 — qǔnuǎn — V — to warm oneself (by a fire, heater etc)
 - 取胜 — qǔshèng — V — to score a victory, to prevail over one's opponents
 - 取笑 — qǔxiào — V — to tease; to make fun of
@@ -4703,7 +4703,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 柔和 — róuhé — Adj — gentle, soft
 - 柔软 — róuruǎn — Adj — soft
 - 揉 — róu — V — to knead, to massage, to rub
-- 如果说 / 如果說 — rúguǒ shuō — [gloss needed]
+- 如果说 / 如果說 — rúguǒ shuō — if we say, assuming that
 - 如实 — rúshí — Adv — as things really are, realistic
 - 如意 — rúyì — as one wants; according to one's wishes, ruyi scepter, a symbol of power and good fortune
 - 如愿以偿 / 如願以償 — rúyuànyǐcháng — to have one's wish fulfilled
@@ -4754,7 +4754,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 傻瓜 — shǎguā — N — idiot, fool
 - 筛 — shāi — V — (bound form) a sieve, to sieve; to sift; to filter, to eliminate through selection
 - 筛选 — shāixuǎn — V — to filter
-- 晒太阳 / 曬太陽 — shài tàiyáng — [gloss needed]
+- 晒太阳 / 曬太陽 — shài tàiyáng — to sunbathe, to bask in the sun
 - 山川 — shānchuān — N — mountains and rivers, landscape
 - 山顶 — shāndǐng — N — hilltop
 - 山冈 — shāngāng — N — mound, small hill
@@ -4774,7 +4774,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 伤残 — shāngcán — V — disabled, maimed, crippled
 - 伤感 — shānggǎn — Adj — sad, emotional, sentimental
 - 伤痕 — shānghén — N — scar, bruise
-- 伤脑筋 / 傷腦筋 — shāng nǎojīn — [gloss needed]
+- 伤脑筋 / 傷腦筋 — shāng nǎojīn — to rack one's brains, to be a headache
 - 伤势 — shāngshì — N — condition of an injury
 - 商贩 — shāngfàn — N — trader, peddler
 - 商贾 — shānggǔ — N — merchant
@@ -4786,7 +4786,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 上火 — shànghuǒ — to get angry, to suffer from excessive internal heat (TCM)
 - 上空 — shàngkōng — N — the skies above a certain place; (aviation) airspa, (Tw) topless
 - 上流 — shàngliú — N — upper class
-- 上期 — shàng qī — [gloss needed]
+- 上期 — shàng qī — last issue, previous period
 - 上任 — shàngrèn — to take office, previous (incumbent), predecessor
 - 上述 — shàngshù — Adj — aforementioned, above-mentioned
 - 上司 — shàngsi — N — boss, superior
@@ -4810,20 +4810,20 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 少见 — shǎojiàn — V/Adj — rare; seldom seen, (formal) it's a rare pleasure to see you
 - 少量 — shǎoliàng — Adj — a smidgen, a little bit, a few
 - 少有 — shǎoyǒu — rare, infrequent
-- 少林寺 — Shàolín Sì — N — [gloss needed]
+- 少林寺 — Shàolín Sì — N — Shaolin Monastery (famous Buddhist temple)
 - 少女 — shàonǚ — N — girl, young lady
 - 奢侈 — shēchǐ — Adj — luxurious, extravagant
 - 奢望 — shēwàng — V/N — an extravagant hope, to have excessive expectations
 - 设 — shè — V — to set up; to put in place, (math.) given; suppose; if
 - 设定 — shèdìng — V — to set, to set up, to install
 - 设法 — shèfǎ — V — to try, to make an attempt, to think of a way (to accomplish sth)
-- 社会主义 / 社會主義 — shèhuì zhǔyì — [gloss needed]
+- 社会主义 / 社會主義 — shèhuì zhǔyì — socialism
 - 社交 — shèjiāo — N — interaction, social contact
 - 社论 — shèlùn — N — editorial (in a newspaper), CL:篇[pian1]
 - 社团 — shètuán — N — association, society, group
 - 涉嫌 — shèxián — V — to be a suspect (in a crime), to be suspected of
 - 摄氏度 — shèshìdù — M — °C (degrees Celsius)
-- 谁知道 / 誰知道 — shéi zhīdào — [gloss needed]
+- 谁知道 / 誰知道 — shéi zhīdào — who would have known, nobody knew
 - 申办 — shēnbàn — V — to apply for, to bid for
 - 申报 — shēnbào — V — to report (to the authorities), to declare (to customs)
 - 申领 — shēnlǐng — V — to apply (for license, visa etc)
@@ -4913,10 +4913,10 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 施压 — shīyā — V — to pressure
 - 湿度 — shīdù — N — humidity level
 - 湿润 — shīrùn — Adj — moist
-- 十字路口 — shízì lùkǒu — [gloss needed]
+- 十字路口 — shízì lùkǒu — crossroads, intersection
 - 时不时 — shíbùshí — Adv — from time to time
 - 时段 — shíduàn — N — time interval, work shift, time slot
-- 时隔 / 時隔 — shí gé — [gloss needed]
+- 时隔 / 時隔 — shí gé — after an interval of, separated by (time)
 - 时好时坏 / 時好時壞 — shíhǎo-shíhuài — sometimes good, sometimes bad
 - 时间表 — shíjiānbiǎo — N — schedule, timetable
 - 时空 — shíkōng — N — time and place, world of a particular locale and era, (physics) space-time
@@ -4943,9 +4943,9 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 示意 — shìyì — V — to hint, to indicate (an idea to sb)
 - 世代 — shìdài — N — for many generations, generation, era
 - 世故 — shìgu — Adj — the ways of the world
-- 世界级 / 世界級 — shìjiè jí — [gloss needed]
+- 世界级 / 世界級 — shìjiè jí — world-class, international level
 - 世袭 — shìxí — V — succession, inheritance, hereditary
-- 市场经济 / 市場經濟 — shìchǎng jīngjì — [gloss needed]
+- 市场经济 / 市場經濟 — shìchǎng jīngjì — market economy
 - 势必 — shìbì — Adv — to be bound to, undoubtedly will
 - 势不可当 / 勢不可當 — shìbùkědāng — impossible to resist (idiom); an irresistible forc
 - 势头 — shìtou — N — power, momentum, tendency
@@ -5106,13 +5106,13 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 说不上 — shuōbushàng — V — to be unable to say or tell, to not be worth mentioning
 - 说到底 / 說到底 — shuōdàodǐ — in the final analysis, in the end
 - 说道 — shuōdao — V/N — to state, to say (the quoted words)
-- 说干就干 / 說幹就幹 — shuō gàn jiù gàn — [gloss needed]
+- 说干就干 / 說幹就幹 — shuō gàn jiù gàn — to act as soon as one says (decisive action)
 - 说谎 / 說謊 — shuōhuǎng — to lie, to tell an untruth
-- 说老实话 / 說老實話 — shuō lǎoshi huà — [gloss needed]
-- 说起来 / 說起來 — shuō qǐlái — [gloss needed]
+- 说老实话 / 說老實話 — shuō lǎoshi huà — to be honest, to tell it straight
+- 说起来 / 說起來 — shuō qǐlái — speaking of which, come to think of it
 - 说情 / 說情 — shuōqíng — to intercede, to plead for sb else
-- 说闲话 / 說閒話 — shuō xiánhuà — [gloss needed]
-- 说真的 / 說真的 — shuō zhēnde — [gloss needed]
+- 说闲话 / 說閒話 — shuō xiánhuà — to gossip, to talk behind one's back
+- 说真的 / 說真的 — shuō zhēnde — to be honest, seriously speaking
 - 硕果 — shuòguǒ — N — major achievement, great work, triumphant success
 - 司法 — sīfǎ — V — judicial, (administration of) justice
 - 司空见惯 / 司空見慣 — sīkōng-jiànguàn — a common occurrence (idiom)
@@ -5157,7 +5157,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 酥 — sū — Adj — flaky pastry, crunchy, limp
 - 俗 — sú — Adj — custom, convention, popular
 - 俗话 — súhuà — N — common saying, proverb
-- 俗话说 / 俗話說 — súhuà shuō — [gloss needed]
+- 俗话说 / 俗話說 — súhuà shuō — as the saying goes, the proverb says
 - 俗语 — súyǔ — N — common saying, proverb, colloquial speech
 - 诉苦 / 訴苦 — sùkǔ — to grumble, to complain, grievance
 - 诉说 — sùshuō — V — to recount, to tell of, to relate
@@ -5174,8 +5174,8 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 算盘 — suànpán — N — abacus, CL:把[ba3], plan
 - 算账 / 算賬 — suànzhàng — (accounting) to balance the books; to do the accou, (fig.) to settle an account; to get one's revenge
 - 虽说 — suīshuō — Conj — though, although
-- 随处可见 / 隨處可見 — suíchù kě jiàn — [gloss needed]
-- 随大溜 / 隨大溜 — suí dàliù — [gloss needed]
+- 随处可见 / 隨處可見 — suíchù kě jiàn — visible everywhere, can be seen anywhere
+- 随大溜 / 隨大溜 — suí dàliù — to follow the crowd, to go with the flow
 - 随机 — suíjī — Adj — according to the situation, pragmatic, random
 - 随即 — suíjí — Adv — immediately, presently, following which
 - 随身 — suíshēn — Adj — to (carry) on one's person, to (take) with one
@@ -5215,7 +5215,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 瘫 — tān — V — paralyzed
 - 瘫痪 — tānhuàn — V — (medicine) to suffer paralysis, (fig.) to be paralyzed; to break down; to come to 
 - 坛 — tán — N — altar, platform; rostrum, (bound form) (sporting, literary etc) circles; wor
-- 谈不上 / 談不上 — tán bu shàng — [gloss needed]
+- 谈不上 / 談不上 — tán bu shàng — cannot be called, does not qualify as
 - 谈到 / 談到 — tándào — to refer to, to speak about, to talk about
 - 谈论 — tánlùn — V — to discuss; to talk about
 - 谈起 / 談起 — tánqǐ — to mention, to speak of, to talk about
@@ -5242,7 +5242,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 倘若 — tǎngruò — Conj — if; supposing; in case
 - 淌 — tǎng — V — to drip, to trickle, to shed (tears)
 - 烫 — tàng — V/Adj — to scald, to burn (by scalding), to blanch (cooking)
-- 掏钱 / 掏錢 — tāo qián — [gloss needed]
+- 掏钱 / 掏錢 — tāo qián — to pull out money, to pay
 - 滔滔不绝 / 滔滔不絕 — tāotāo-bùjué — (idiom) to produce a torrent of words; to talk on 
 - 逃避 — táobì — V — to escape, to evade, to avoid
 - 逃生 — táoshēng — V — to flee for one's life
@@ -5256,7 +5256,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 讨 — tǎo — V — to invite, to provoke, to demand or ask for
 - 讨好 / 討好 — tǎohǎo — to get the desired outcome, to win favor by fawning on sb, to curry favor with
 - 讨价还价 / 討價還價 — tǎojià-huánjià — to haggle over price, to bargain
-- 讨人喜欢 / 討人喜歡 — tǎo rén xǐhuan — [gloss needed]
+- 讨人喜欢 / 討人喜歡 — tǎo rén xǐhuan — likeable, pleasing to people
 - 特产 — tèchǎn — N — special local product, (regional) specialty
 - 特长 — tècháng — N — personal strength, one's special ability or strong points
 - 特例 — tèlì — N — special case, isolated example
@@ -5489,7 +5489,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 往日 — wǎngrì — N — former days; the past
 - 往事 — wǎngshì — N — past events, former happenings
 - 妄想 — wàngxiǎng — V/N — to attempt vainly, a vain attempt, delusion
-- 忘不了 — wàng bu liǎo — [gloss needed]
+- 忘不了 — wàng bu liǎo — cannot forget, unforgettable
 - 忘掉 — wàngdiào — to forget
 - 旺 — wàng — Adj — prosperous, flourishing, (of flowers) blooming
 - 旺季 — wàngjì — N — busy season, peak period, see also 淡季[dan4 ji4]
@@ -5670,13 +5670,13 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 下场 — xiàchǎng — N — to leave (the stage, an exam room, the playing fie, to take part in some activity, to take an examination (in the imperial examinatio
 - 下跌 — xiàdiē — V — to fall, to tumble
 - 下岗 / 下崗 — xiàgǎng — (of a guard, sentry etc) to come off duty, (of a worker) be to laid off
-- 下功夫 — xià gōngfu — [gloss needed]
+- 下功夫 — xià gōngfu — to put in effort, to work hard on
 - 下海 — xiàhǎi — to go out to sea, to enter the sea (to swim etc), (fig.) to take the plunge (e.g. leave a secure job
 - 下级 — xiàjí — N — low ranking, low level, underclass
-- 下决心 / 下決心 — xià juéxīn — [gloss needed]
+- 下决心 / 下決心 — xià juéxīn — to make up one's mind, to resolve to
 - 下令 — xiàlìng — to give an order; to issue an order
 - 下落 — xiàluò — N — whereabouts, to drop, to fall
-- 下期 — xià qī — [gloss needed]
+- 下期 — xià qī — next issue, next period
 - 下棋 — xiàqí — to play chess
 - 下山 — xiàshān — to go down a hill, (of the sun or moon) to set
 - 下手 — xiàshǒu — to start, to put one's hand to, to set about
@@ -5685,7 +5685,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 下调 — xiàtiáo — V — to adjust downwards, to lower (prices, wages etc)
 - 下乡 / 下鄉 — xiàxiāng — to go to the countryside
 - 下旬 — xiàxún — N — last third of the month
-- 下一代 — xià yī dài — [gloss needed]
+- 下一代 — xià yī dài — the next generation
 - 下意识 — xiàyìshí — N/Adv — subconscious mind
 - 下游 — xiàyóu — N — lower reaches (of a river), lower level, lower echelon
 - 下坠 — xiàzhuì — V — (of objects) to fall, to drop, to droop
@@ -5729,7 +5729,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 乡亲 — xiāngqīn — N — fellow countryman (from the same village), local people, villager
 - 乡下 — xiāngxia — N — countryside, rural area, CL:個|个[ge4]
 - 相伴 — xiāngbàn — V — to accompany sb, to accompany each other
-- 相比之下 — xiāngbǐ zhī xià — [gloss needed]
+- 相比之下 — xiāngbǐ zhī xià — by comparison, in comparison
 - 相差 — xiāngchà — V — to differ
 - 相传 — xiāngchuán — V — to pass on, to hand down, tradition has it that ...
 - 相当于 — xiāngdāngyú — V — equivalent to
@@ -6074,7 +6074,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 野外 — yěwài — N — countryside, areas outside the city
 - 野心 — yěxīn — N — ambition, wild schemes, careerism
 - 野营 — yěyíng — V — to camp, field lodgings
-- 业（服务业） / 業（服務業） — yè (fúwùyè) — Suffix — [gloss needed]
+- 业（服务业） / 業（服務業） — yè (fúwùyè) — Suffix — suffix: industry, sector (e.g. 服务业 service industry)
 - 业绩 — yèjì — N — achievement; accomplishment, (in more recent usage) performance (of a business,
 - 夜班 — yèbān — N — night shift
 - 夜市 — yèshì — N — night market
@@ -6093,7 +6093,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 依 — yī — V/Prep — to depend on, to comply with or listen to sb, according to
 - 依托 / 依託 — yītuō — V — to rely on; support, backing
 - 依依不舍 / 依依不捨 — yīyī-bùshě — reluctant to part (idiom); broken-hearted at havin
-- 一不小心 — yī bù xiǎoxīn — [gloss needed]
+- 一不小心 — yī bù xiǎoxīn — if one is not careful, inadvertently
 - 一刹那 — yīchànà — N — a moment, an instant, in a flash
 - 一大早 — yīdàzǎo — N — at dawn, at first light, first thing in the morning
 - 一动不动 / 一動不動 — yīdòng-bùdòng — motionless
@@ -6133,7 +6133,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 以致 — yǐzhì — Conj — to such an extent as to, down to, up to
 - 矣 — yǐ — Aux — classical final particle, similar to modern 了[le5]
 - 倚 — yǐ — V — to lean on, to rely upon
-- 一长一短 / 一長一短 — yī cháng yī duǎn — [gloss needed]
+- 一长一短 / 一長一短 — yī cháng yī duǎn — one long one short; pros and cons
 - 一成不变 / 一成不變 — yīchéng-bùbiàn — (idiom) immutable; impervious to change; set in st
 - 一筹莫展 / 一籌莫展 — yīchóu-mòzhǎn — to be unable to find a solution, to be at wits' end
 - 一帆风顺 / 一帆風順 — yīfān-fēngshùn — propitious wind throughout the journey (idiom), plain sailing, to go smoothly
@@ -6188,7 +6188,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 疫苗 — yìmiáo — N — vaccine
 - 益处 — yìchù — N — benefit
 - 意料 — yìliào — V — to anticipate; to expect, expectations
-- 意料之外 — yìliào zhī wài — [gloss needed]
+- 意料之外 — yìliào zhī wài — beyond expectation, unexpected
 - 意图 — yìtú — N — intent, intention, to intend
 - 意向 — yìxiàng — N — intention, purpose, intent
 - 溢 — yì — V — to overflow, (literary) excessive, old variant of 鎰|镒[yi4]
@@ -6209,7 +6209,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 引入 — yǐnrù — V — to draw into, to pull into, to introduce
 - 引用 — yǐnyòng — V — to cite, to quote; citation
 - 引诱 — yǐnyòu — V — to coerce (sb into doing sth bad), to lure (into a trap), to seduce
-- 饮水 / 飲水 — yǐn shuǐ — [gloss needed]
+- 饮水 / 飲水 — yǐn shuǐ — drinking water; to drink water
 - 饮用水 — yǐnyòngshuǐ — N — drinking water; potable water
 - 隐蔽 — yǐnbì — V/Adj — to conceal, to hide, covert
 - 隐患 — yǐnhuàn — N — a danger concealed within sth, hidden damage, misfortune not visible from the surface
@@ -6247,7 +6247,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 拥护 — yōnghù — V — to endorse; to support
 - 拥挤 — yōngjǐ — V/Adj — crowded, to throng, congestion
 - 庸俗 — yōngsú — Adj — vulgar, tacky, tawdry
-- 永不 — yǒng bù — [gloss needed]
+- 永不 — yǒng bù — never, never ever
 - 永恒 — yǒnghéng — Adj — eternal, everlasting, fig. to pass into eternity (i.e. to die)
 - 永久 — yǒngjiǔ — Adj — everlasting, perpetual, lasting
 - 勇往直前 — yǒngwǎng-zhíqián — to advance bravely
@@ -6290,10 +6290,10 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 有的放矢 — yǒudì-fàngshǐ — lit. to have a target in mind when shooting one's , fig. to have a clear objective
 - 有机 — yǒujī — Adj — organic
 - 有口无心 / 有口無心 — yǒukǒu-wúxīn — to speak harshly but without any bad intent (idiom
-- 有两下子 / 有兩下子 — yǒu liǎngxiàzi — [gloss needed]
+- 有两下子 / 有兩下子 — yǒu liǎngxiàzi — to have some real ability, to have a few tricks up one's sleeve
 - 有声有色 / 有聲有色 — yǒushēng-yǒusè — having sound and color (idiom); vivid, dazzling
 - 有所 — yǒusuǒ — V — somewhat, to some extent
-- 有所不同 — yǒusuǒ bù tóng — [gloss needed]
+- 有所不同 — yǒusuǒ bù tóng — to differ in some respects, not entirely the same
 - 有望 — yǒuwàng — V — hopeful, promising
 - 有效期 — yǒuxiàoqī — N — period of validity, sell-by date
 - 有幸 — yǒuxìng — Adj — fortunately
@@ -6317,7 +6317,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 愚公移山 — yúgōng-yíshān — the old man moves mountains (idiom); fig. where th
 - 舆论 — yúlùn — N — public opinion
 - 与此同时 / 與此同時 — yǔcǐ-tóngshí — at the same time, meanwhile
-- 与否 / 與否 — yǔ fǒu — [gloss needed]
+- 与否 / 與否 — yǔ fǒu — whether or not
 - 与其 — yǔqí — Conj — rather than... (used in expressions of the form 與其
 - 与日俱增 / 與日俱增 — yǔrì-jùzēng — to increase steadily, to grow with each passing day
 - 与时俱进 / 與時俱進 — yǔshí-jùjìn — abreast of modern developments, to keep up with the times, progressive
@@ -6345,14 +6345,14 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 寓言 — yùyán — N — fable; allegory; parable, CL:則|则[ze2]
 - 寓意 — yùyì — N — moral (of a story), lesson to be learned, implication
 - 愈合 — yùhé — V — (of a wound) to heal
-- 愈来愈 / 愈來愈 — yù lái yù — [gloss needed]
+- 愈来愈 / 愈來愈 — yù lái yù — more and more, increasingly
 - 愈演愈烈 — yùyǎn-yùliè — ever more critical, problems get more and more intense
 - 冤 — yuān — N/Adj — injustice, grievance, wrong
 - 冤枉 — yuānwang — V/Adj — to accuse wrongly, to treat unjustly, injustice
 - 渊源 — yuānyuán — N — origin, source, relationship
 - 元老 — yuánlǎo — N — senior figure; doyen; founding member; veteran
 - 元首 — yuánshǒu — N — head of state
-- 元宵节 / 元宵節 — Yuánxiāo Jié — N — [gloss needed]
+- 元宵节 / 元宵節 — Yuánxiāo Jié — N — Lantern Festival (15th day of 1st lunar month)
 - 原本 — yuánběn — Adv — originally, the original; original copy; original version
 - 原材料 — yuáncáiliào — N — raw and semifinished materials
 - 原创 — yuánchuàng — V — to create (an original work), (of a work) original, original creation; original work
@@ -6565,7 +6565,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 芝士 — zhīshì — N — (loanword) cheese
 - 知己 — zhījǐ — Adj/N — to know oneself, to be intimate or close, intimate friend
 - 知觉 — zhījué — N — perception, consciousness
-- 知识分子 / 知識分子 — zhīshi fènzǐ — [gloss needed]
+- 知识分子 / 知識分子 — zhīshi fènzǐ — intellectual, educated person
 - 知足 — zhīzú — Adj — content with one's situation, to know contentment (hence happiness)
 - 肢体 — zhītǐ — N — limb, limbs and trunk, body
 - 脂肪 — zhīfáng — N — fat (in the body, in a plant, or in food)
@@ -6585,7 +6585,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 职业病 — zhíyèbìng — N — occupational disease
 - 职员 — zhíyuán — N — office worker, staff member, CL:個|个[ge4],位[wei4]
 - 止步 — zhǐbù — to halt, to stop, to go no farther
-- 止咳 — zhǐ ké — [gloss needed]
+- 止咳 — zhǐ ké — to relieve a cough, anti-cough
 - 止血 — zhǐxuè — V — to staunch (bleeding), hemostatic (drug)
 - 旨在 — zhǐzài — V — to have as its purpose, to be intended to, to aim to (do sth)
 - 指点 — zhǐdiǎn — V — to point out, to indicate, to give directions
@@ -6615,7 +6615,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 致辞 / 致辭 — zhìcí — to express in words or writing, to make a speech (esp. short introduction, vote of, to address (an audience)
 - 致富 — zhìfù — V — to become rich
 - 致敬 — zhìjìng — V — to salute, to pay one's respects to, to pay tribute to
-- 致力于 / 致力於 — zhìlì yú — [gloss needed]
+- 致力于 / 致力於 — zhìlì yú — to devote oneself to, to be committed to
 - 致命 — zhìmìng — V — fatal, mortal, deadly
 - 致使 — zhìshǐ — V/Conj — to cause, to result in
 - 秩序 — zhìxù — N — order; orderliness (in society, in the classroom, 
@@ -6754,12 +6754,12 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 着手 — zhuóshǒu — V — to put one's hand to it, to start out on a task, to set out
 - 着想 — zhuóxiǎng — V — to give thought (to others), to consider (other people's needs), also pr. [zhao2 xiang3]
 - 着眼 — zhuóyǎn — V — to have one's eyes on (a goal), having sth in mind, to concentrate
-- 着眼于 / 著眼於 — zhuóyǎn yú — [gloss needed]
+- 着眼于 / 著眼於 — zhuóyǎn yú — to focus on, to have one's sights set on
 - 着重 — zhuózhòng — V — to put emphasis on; to stress
 - 姿势 — zīshì — N — posture, position
 - 姿态 — zītài — N — attitude, posture, stance
 - 兹 — zī — Pron — (literary) this, (literary) now, (literary) year
-- 资本主义 / 資本主義 — zīběn zhǔyì — [gloss needed]
+- 资本主义 / 資本主義 — zīběn zhǔyì — capitalism
 - 资历 — zīlì — N — qualifications, experience, seniority
 - 资深 — zīshēn — Adj — senior; highly experienced; veteran
 - 资讯 — zīxùn — N — information
@@ -6799,7 +6799,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 宗 — zōng — M — surname Zong
 - 宗旨 — zōngzhǐ — N — objective, aim, goal
 - 综上所述 / 綜上所述 — zōngshàng-suǒshù — in summary, to sum up
-- 总的来说 / 總的來說 — zǒngde lái shuō — [gloss needed]
+- 总的来说 / 總的來說 — zǒngde lái shuō — generally speaking, all in all
 - 总额 — zǒng'é — N — total (amount or value)
 - 总而言之 / 總而言之 — zǒng'éryánzhī — in short, in a word, in brief
 - 总计 — zǒngjì — V — (grand) total
@@ -6809,12 +6809,12 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 纵容 — zòngróng — V — to tolerate or condone wrongdoing; to allow (sb) t
 - 纵深 — zòngshēn — N — depth (from front to rear), depth (into a territory), span (of time)
 - 粽子 — zòngzi — N — glutinous rice and choice of filling wrapped in le
-- 走过场 / 走過場 — zǒu guòchǎng — [gloss needed]
-- 走后门 / 走後門 — zǒu hòumén — [gloss needed]
+- 走过场 / 走過場 — zǒu guòchǎng — to go through the motions
+- 走后门 / 走後門 — zǒu hòumén — to use the back door, to pull strings
 - 走近 — zǒujìn — to approach, to draw near to
 - 走廊 — zǒuláng — N — corridor, aisle, hallway
 - 走投无路 / 走投無路 — zǒutóu-wúlù — to be at an impasse (idiom), in a tight spot, at the end of one's rope
-- 走弯路 / 走彎路 — zǒu wānlù — [gloss needed]
+- 走弯路 / 走彎路 — zǒu wānlù — to take the long way around, to make unnecessary detours
 - 奏效 — zòuxiào — to show results; to be effective
 - 揍 — zòu — V — to hit; to beat (sb), (coll.) to smash (sth)
 - 租赁 — zūlìn — V — to rent; to lease; to hire
@@ -6830,7 +6830,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 祖籍 — zǔjí — N — ancestral hometown, original domicile (and civil registration)
 - 祖先 — zǔxiān — N — ancestors; forebears, (biology) ancestral species; ancient species from 
 - 祖宗 — zǔzong — N — ancestor, forebear
-- 钻空子 / 鑽空子 — zuān kòngzi — [gloss needed]
+- 钻空子 / 鑽空子 — zuān kòngzi — to exploit a loophole, to find a gap to sneak through
 - 钻研 — zuānyán — V — to study meticulously, to delve into
 - 钻石 — zuànshí — N — diamond, CL:顆|颗[ke1]
 - 嘴唇 — zuǐchún — N — lip, CL:片[pian4]
@@ -6851,7 +6851,7 @@ One word per line, in source order. Format: `simplified — pinyin — POS — E
 - 坐落 — zuòluò — V — to be situated, to be located (of a building)
 - 座谈 — zuòtán — V — to have an informal discussion, CL:次[ci4]
 - 座右铭 — zuòyòumíng — N — motto, maxim
-- 做生意 — zuò shēngyi — [gloss needed]
+- 做生意 — zuò shēngyi — to do business, to run a business
 - 做证 / 做證 — zuòzhèng — variant of 作證|作证[zuo4 zheng4]
 
 ---

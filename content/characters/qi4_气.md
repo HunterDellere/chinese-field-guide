@@ -1,0 +1,754 @@
+---
+type: 'character'
+category: 'characters'
+status: 'complete'
+title: '气 · breath, vital energy'
+desc: 'From weather to anger to the cosmic force underlying TCM and martial arts.'
+metaDesc: "气 qì: breath, air, vital energy, atmosphere. Etymology from steam pictograph to cosmological substrate, weather, anger, tone of voice, and the classical qi of Chinese natural philosophy."
+pageTitle: '气 qì'
+tags:
+  - 'cosmology'
+  - 'tcm'
+  - 'energy'
+updated: '2026-04-18'
+char: '气'
+pinyin: 'qì'
+tone: 4
+hsk: 3
+radical: '气'
+---
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+    <button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+    <span class="toc-glyph">气</span>
+    <span class="toc-pinyin">qì · tone 4</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#etymology">
+        <span class="toc-cn">字源</span> Etymology
+        <span class="toc-sub">zìyuán · steam &amp; cosmology</span>
+      </a></li>
+      <li><a href="#patterns">
+        <span class="toc-cn">构词</span> Patterns
+        <span class="toc-sub">gòucí · word-formation</span>
+      </a></li>
+      <li><a href="#weather">
+        <span class="toc-cn">天气/空气</span> Air &amp; Weather
+        <span class="toc-sub">physical atmosphere</span>
+      </a></li>
+      <li><a href="#anger">
+        <span class="toc-cn">生气/气愤</span> Anger
+        <span class="toc-sub">shēngqì · blocked qi</span>
+      </a></li>
+      <li><a href="#tone">
+        <span class="toc-cn">语气/口气</span> Tone &amp; Register
+        <span class="toc-sub">yǔqì · manner of speech</span>
+      </a></li>
+      <li><a href="#bearing">
+        <span class="toc-cn">气质/气势</span> Bearing &amp; Energy
+        <span class="toc-sub">temperament &amp; presence</span>
+      </a></li>
+      <li><a href="#cosmological">
+        <span class="toc-cn">宇宙之气</span> Cosmological Qi
+        <span class="toc-sub">TCM · philosophy · elements</span>
+      </a></li>
+      <li><a href="#table">
+        <span class="toc-cn">情感之气</span> Emotional Qi Table
+        <span class="toc-sub">anger &amp; spirit compounds</span>
+      </a></li>
+      <li><a href="#chengyu">
+        <span class="toc-cn">成语</span> Idioms
+        <span class="toc-sub">chéngyǔ · set phrases</span>
+      </a></li>
+      <li><a href="#adjacent">
+        <span class="toc-cn">相邻</span> Adjacent Vocab
+        <span class="toc-sub">xiānglín cíhuì</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- HERO -->
+    <header class="hero">
+      <div class="hero-inner">
+        <div class="hero-glyph-col">
+          <span class="hero-glyph">气</span>
+          <span class="hero-trad-note">繁體 氣 qì — rice 米 inside</span>
+        </div>
+        <div class="hero-meta">
+          <div class="hero-pinyin">qì</div>
+          <div class="hero-en">breath · air · vital energy · atmosphere</div>
+          <div class="hero-chips">
+            <span class="chip">部首 bùshǒu · 气 qì (itself)</span>
+            <span class="chip">4 笔画 bǐhuà strokes</span>
+            <span class="chip chip-hsk">HSK 3</span>
+            <span class="chip">tone 4 · qì</span>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <!-- ── ETYMOLOGY ── -->
+    <span class="section-anchor" id="etymology"></span>
+    <div class="section-head">
+      <span class="sh-cn">字源</span>
+      <span class="sh-py">zìyuán</span>
+      <span class="sh-en">Etymology &amp; Structure</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="气">
+      <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
+      <p>The oracle-bone and bronze forms of 气 show <strong>three wavy horizontal lines</strong> — rising steam or vapor, the visible breath of transformation. The simplified character 气 preserves those waves almost unchanged. Look at it: you can still see the undulation, the rise, the dispersal into air.</p>
+      <p>The traditional form <strong>氣</strong> tells a richer story: it adds 米 mǐ (rice, grain) inside the steam lines. Steam rising from a pot of cooking rice — the breath of life nourished by food. The traditional character encodes the entire economy of sustenance: the grain, the fire, the steam that means the meal is ready and life continues.</p>
+      <p>In classical Chinese natural philosophy, 气 is the fundamental substrate of the universe — not quite matter, not quite energy, but something between: the breath that animates all things. The cosmos is 气 condensing (yin) and dispersing (yang). Your body is 气 circulating through meridians. Weather is 气 in the sky. Anger is 气 blocked and rising. The word does for Chinese cosmology what "energy" does for physics — except it is also breath, also emotion, also weather, also the manner in which someone speaks. One character, the entire felt texture of the world.</p>
+    </div>
+
+    <!-- ── WORD-FORMATION ── -->
+    <span class="section-anchor" id="patterns"></span>
+    <div class="section-head">
+      <span class="sh-cn">构词</span>
+      <span class="sh-py">gòucí</span>
+      <span class="sh-en">Word-Formation Patterns</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">构词规律 gòucí guīlǜ · Four Domains of 气</span>
+      <strong>天/空 + 气</strong> → atmospheric: 天气 weather · 空气 air · 气候 climate · 气温 temperature<br>
+      <strong>生/怒/闷 + 气</strong> → emotional: 生气 angry · 闷气 suppressed frustration · 怨气 resentment<br>
+      <strong>语/口 + 气</strong> → register/tone: 语气 grammatical mood; tone · 口气 manner of speaking<br>
+      <strong>气 + quality</strong> → bearing &amp; presence: 气质 temperament · 气势 momentum · 气场 aura
+    </div>
+
+    <!-- ── WEATHER ── -->
+    <span class="section-anchor" id="weather"></span>
+    <div class="section-head">
+      <span class="sh-cn">天气/空气</span>
+      <span class="sh-py">tiānqì / kōngqì</span>
+      <span class="sh-en">Physical Air &amp; Weather</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <!-- 天气 -->
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">天气</span>
+          <span class="card-py">tiānqì</span>
+          <span class="card-en">weather</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          天 tiān (sky; heaven) + 气 qì. Literally "sky-qi" — the state of atmospheric qi at a given moment. One of the most essential everyday words in Chinese. In classical cosmology, 天气 is not just the weather but the disposition of heaven — an expression of the larger order of things. Today it is simply the first word many learners need.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">今天天气怎么样？</div>
+            <div class="ex-py">Jīntiān tiānqì zěnmeyàng?</div>
+            <div class="ex-en">What's the weather like today?</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">天气预报说明天会下雨。</div>
+            <div class="ex-py">Tiānqì yùbào shuō míngtiān huì xià yǔ.</div>
+            <div class="ex-en">The weather forecast says it will rain tomorrow.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这种天气最适合待在家里。</div>
+            <div class="ex-py">Zhè zhǒng tiānqì zuì shìhé dāi zài jiālǐ.</div>
+            <div class="ex-en">This kind of weather is perfect for staying home.</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 空气 -->
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">空气</span>
+          <span class="card-py">kōngqì</span>
+          <span class="card-en">air; atmosphere (physical)</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          空 kōng (empty; void; sky) + 气 qì. The physical substance of the atmosphere — what you breathe. Also used metaphorically for social atmosphere: 房间里的空气很紧张 "the air in the room was tense." The same word covers oxygen and social mood.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">山里的空气非常新鲜。</div>
+            <div class="ex-py">Shān lǐ de kōngqì fēicháng xīnxiān.</div>
+            <div class="ex-en">The air in the mountains is very fresh.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">城市的空气污染越来越严重。</div>
+            <div class="ex-py">Chéngshì de kōngqì wūrǎn yuèláiyuè yánzhòng.</div>
+            <div class="ex-en">Air pollution in cities is getting increasingly severe.</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 气候 -->
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">气候</span>
+          <span class="card-py">qìhòu</span>
+          <span class="card-en">climate; the long-term atmospheric pattern</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          气 qì + 候 hòu (season; to wait; signs). 候 originally referred to the five-day intervals used in classical Chinese to track seasonal changes. 气候 = the patterned behavior of atmospheric qi over time — climate, not weather. Also used metaphorically: 政治气候 (political climate).
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">全球气候变化是当今最重要的问题之一。</div>
+            <div class="ex-py">Quánqiú qìhòu biànhuà shì dāngjīn zuì zhòngyào de wèntí zhī yī.</div>
+            <div class="ex-en">Global climate change is one of the most important issues today.</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 气温 -->
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">气温</span>
+          <span class="card-py">qìwēn</span>
+          <span class="card-en">air temperature</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          气 qì (air; atmospheric qi) + 温 wēn (warmth; temperature). The temperature of the air — a meteorological and everyday term. Used in weather reports, health advice, and daily conversation about the feel of a day.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">今天气温很低，要多穿衣服。</div>
+            <div class="ex-py">Jīntiān qìwēn hěn dī, yào duō chuān yīfu.</div>
+            <div class="ex-en">The temperature is very low today — dress warmly.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards weather -->
+
+    <!-- ── ANGER ── -->
+    <span class="section-anchor" id="anger"></span>
+    <div class="section-head">
+      <span class="sh-cn">生气/气愤</span>
+      <span class="sh-py">shēngqì / qìfèn</span>
+      <span class="sh-en">Anger — Qi Blocked, Rising, and Erupting</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="怒">
+      <div class="scholar-label">文化洞见 wénhuà dòngjiàn · Cultural Insight</div>
+      <p>In Chinese, anger is almost always described through the metaphor of 气 — blocked, rising, overflowing, or erupting. This is not incidental. In classical medical and philosophical thought, emotions are qi-states: anger is qi rising against obstruction, becoming pressurized, and eventually forcing its way out. The metaphors are not metaphors — they describe what is literally understood to be happening in the body. When someone says 气死我了 (lit. "qi'd me to death"), they are invoking a very old theory of how rage actually works.</p>
+    </div>
+
+    <div class="cards">
+
+      <!-- 生气 -->
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">生气</span>
+          <span class="card-py">shēngqì</span>
+          <span class="card-en">to be angry; to get mad (lit. "produce qi")</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
+        <div class="card-def">
+          生 shēng (to produce; to arise) + 气 qì. The most common everyday word for anger — what you reach for when someone cuts in line, when plans fall through, when people are unreasonable. Colloquial, direct, very high frequency. <strong>Critical ambiguity:</strong> in classical and formal usage, 生气 also means "vitality" or "life force" (生命之气). The same compound, two registers, opposite emotional valences.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他又迟到了，我真的很生气。</div>
+            <div class="ex-py">Tā yòu chídào le, wǒ zhēnde hěn shēngqì.</div>
+            <div class="ex-en">He was late again — I'm really angry.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">别生气了，事情都解决了。</div>
+            <div class="ex-py">Bié shēngqì le, shìqíng dōu jiějué le.</div>
+            <div class="ex-en">Don't be angry anymore — everything has been resolved.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">气死我了！</div>
+            <div class="ex-py">Qì sǐ wǒ le!</div>
+            <div class="ex-en">I'm furious! (lit. "qi'd me to death" — colloquial intensifier)</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">辨析 biànxī · 生气 vs. 生气</span>
+          <strong>生气 shēngqì</strong> (verb) = to be angry. <strong>生气 shēngqì</strong> (noun, formal/classical) = vitality; life force: 这个孩子充满生气 "This child is full of vitality." Context and register resolve the ambiguity: anger is spoken; vitality is written.
+        </div>
+      </div>
+
+      <!-- 气愤 -->
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">气愤</span>
+          <span class="card-py">qìfèn</span>
+          <span class="card-en">indignant; righteously angry</span>
+        </div>
+        <div class="tags"><span class="tag tag-adj">Adj 形容词 xíngróngcí</span></div>
+        <div class="card-def">
+          气 qì + 愤 fèn (indignation; righteous anger — originally: qi pressing against the heart). Slightly stronger and more formal than 生气. Implies that the anger is justified — that you are responding to something genuinely unfair or wrong. Less colloquial, more dignified.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他对这种不公平的待遇感到非常气愤。</div>
+            <div class="ex-py">Tā duì zhè zhǒng bù gōngpíng de dàiyù gǎndào fēicháng qìfèn.</div>
+            <div class="ex-en">He was extremely indignant at this unfair treatment.</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 动气 -->
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">动气</span>
+          <span class="card-py">dòngqì</span>
+          <span class="card-en">to get riled up; to let anger stir (colloquial)</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
+        <div class="card-def">
+          动 dòng (to move; to stir) + 气 qì. For qi to be "moved" — to let irritation become active anger. Often used in negative advice: 别动气 "don't get worked up." The qi-as-fluid metaphor is explicit: something causes the qi to shift and agitate.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">别为这种小事动气，不值得。</div>
+            <div class="ex-py">Bié wèi zhè zhǒng xiǎoshì dòngqì, bù zhídé.</div>
+            <div class="ex-en">Don't get worked up over such a small thing — it's not worth it.</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 发火 -->
+      <div class="card c-sienna">
+        <div class="card-head">
+          <span class="card-cn">发火</span>
+          <span class="card-py">fāhuǒ</span>
+          <span class="card-en">to lose one's temper; to flare up (contrast)</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
+        <div class="card-def">
+          发 fā (to emit; to break out) + 火 huǒ (fire). Not a 气 compound — but essential for contrast. Where 生气 is quiet simmering anger, 发火 is the eruption: raised voice, visible emotion, the moment qi becomes fire. Colloquial. Very common in domestic and workplace situations.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他当着所有人的面发火，太失控了。</div>
+            <div class="ex-py">Tā dāngzhe suǒyǒu rén de miàn fāhuǒ, tài shīkòng le.</div>
+            <div class="ex-en">He lost his temper in front of everyone — completely out of control.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">辨析 biànxī · Anger Spectrum</span>
+          生气 (mild, internal) → 气愤 (justified, stronger) → 动气 (stirred, active) → 发火 (erupted). The spectrum moves from smoldering qi to open combustion. In TCM terms: qi blocked → qi rising → fire generated → fire expelled.
+        </div>
+      </div>
+
+    </div><!-- /cards anger -->
+
+    <!-- ── TONE & REGISTER ── -->
+    <span class="section-anchor" id="tone"></span>
+    <div class="section-head">
+      <span class="sh-cn">语气/口气</span>
+      <span class="sh-py">yǔqì / kǒuqì</span>
+      <span class="sh-en">Tone, Register &amp; Manner of Speaking</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <!-- 语气 -->
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">语气</span>
+          <span class="card-py">yǔqì</span>
+          <span class="card-en">tone of voice; grammatical mood; modal register</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          语 yǔ (language; speech) + 气 qì. The qi of language — how something is said, not what. In grammatical analysis, 语气 = mood (indicative, imperative, interrogative). In everyday speech, 语气 refers to the emotional register and attitude conveyed by the manner of speaking: harsh, gentle, indifferent, encouraging.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他说话的语气让人觉得很不舒服。</div>
+            <div class="ex-py">Tā shuōhuà de yǔqì ràng rén juéde hěn bù shūfu.</div>
+            <div class="ex-en">The tone in which he spoke made people feel very uncomfortable.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">语气词"吧""呢""啊"是汉语的重要特点。</div>
+            <div class="ex-py">Yǔqìcí "ba" "ne" "a" shì Hànyǔ de zhòngyào tèdiǎn.</div>
+            <div class="ex-en">Modal particles like "吧," "呢," and "啊" are an important feature of Mandarin.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">语法 yǔfǎ · 语气词 Modal Particles</span>
+          语气词 yǔqìcí — the modal particles that close sentences in Chinese: 吧 bā (suggestion; mild assertion), 呢 ne (continuing state; soft question), 啊 ā (exclamation; warmth), 嘛 ma (it's obvious), 吗 ma (yes-no question). These tiny syllables carry the entire emotional qi of a sentence — mastering them is mastering register.
+        </div>
+      </div>
+
+      <!-- 口气 -->
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">口气</span>
+          <span class="card-py">kǒuqì</span>
+          <span class="card-en">manner of speaking; breath smell; implied attitude</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          口 kǒu (mouth) + 气 qì. Operates on two levels: (1) the qi from the mouth — literally breath smell (口气重 "bad breath"); (2) the implied attitude and tone in what someone says — what their words reveal about how they feel. 你这个口气 "That tone of yours…" carries reproach.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">你的口气太大了，真的能做到吗？</div>
+            <div class="ex-py">Nǐ de kǒuqì tài dà le, zhēnde néng zuòdào ma?</div>
+            <div class="ex-en">You're talking awfully big — can you actually pull it off?</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">从他的口气来看，他好像不太高兴。</div>
+            <div class="ex-py">Cóng tā de kǒuqì lái kàn, tā hǎoxiàng bú tài gāoxìng.</div>
+            <div class="ex-en">Judging from how he's talking, he doesn't seem very happy.</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 语气词 -->
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">口吻</span>
+          <span class="card-py">kǒuwěn</span>
+          <span class="card-en">manner of speech; implied standpoint (literary)</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          口 kǒu (mouth) + 吻 wěn (lips; to kiss — the form of the mouth). The <em>shape</em> of what comes from the mouth — the distinctive way a person speaks, implying their perspective and attitude. More literary than 口气, used in written analysis, narration, and formal commentary.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">作者以一个孩子的口吻来讲述这个故事。</div>
+            <div class="ex-py">Zuòzhě yǐ yī gè háizi de kǒuwěn lái jiǎngshù zhège gùshì.</div>
+            <div class="ex-en">The author tells the story in the voice of a child.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards tone -->
+
+    <!-- ── BEARING & ENERGY ── -->
+    <span class="section-anchor" id="bearing"></span>
+    <div class="section-head">
+      <span class="sh-cn">气质/气势</span>
+      <span class="sh-py">qìzhì / qìshì</span>
+      <span class="sh-en">Bearing, Presence &amp; Aura</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <!-- 气质 -->
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">气质</span>
+          <span class="card-py">qìzhì</span>
+          <span class="card-en">temperament; elegant bearing; innate quality</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          气 qì + 质 zhì (substance; essence; nature). The essential quality of a person's qi — their innate temperament and the bearing it produces. In psychological Chinese, it corresponds to personality type. In everyday speech, 有气质 means "has an air about them" — elegant, distinctive, refined. It is always a compliment.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">她举手投足之间都充满了气质。</div>
+            <div class="ex-py">Tā jǔ shǒu tóu zú zhījiān dōu chōngmǎn le qìzhì.</div>
+            <div class="ex-en">Her every gesture was full of grace and presence.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这个人很有气质，一看就是受过良好教育的。</div>
+            <div class="ex-py">Zhège rén hěn yǒu qìzhì, yī kàn jiù shì shòuguò liánghǎo jiàoyù de.</div>
+            <div class="ex-en">This person has real presence — you can tell at a glance they were well-educated.</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 气势 -->
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">气势</span>
+          <span class="card-py">qìshì</span>
+          <span class="card-en">momentum; imposing presence; force of spirit</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          气 qì + 势 shì (power; momentum; force — the potential energy of a situation). The directed force of qi — not inner refinement (气质) but outward projection of power. A army, a waterfall, a master calligrapher's brushstroke, a confident leader entering a room — all can have 气势. The word captures sheer force of presence.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他演讲的时候气势磅礴，全场为之震动。</div>
+            <div class="ex-py">Tā yǎnjiǎng de shíhòu qìshì pángbó, quán chǎng wèi zhī zhèndòng.</div>
+            <div class="ex-en">His speech had such commanding force that the entire audience was moved.</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 气场 -->
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">气场</span>
+          <span class="card-py">qìchǎng</span>
+          <span class="card-en">aura; energy field; presence (modern slang)</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          气 qì + 场 chǎng (field — as in electromagnetic field or a venue). Originally a TCM and qigong term for the field of qi that radiates from a practitioner. Absorbed into popular culture as a way of describing the palpable aura of a charismatic person. 气场强 = powerful aura; 气场弱 = weak presence. Modern, colloquial, slightly fashionable.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">这位老师气场很强，学生都不敢说话。</div>
+            <div class="ex-py">Zhè wèi lǎoshī qìchǎng hěn qiáng, xuésheng dōu bù gǎn shuōhuà.</div>
+            <div class="ex-en">This teacher has such a powerful aura that the students don't dare speak.</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 气色 -->
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">气色</span>
+          <span class="card-py">qìsè</span>
+          <span class="card-en">complexion; appearance of health (lit. "qi-color")</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          气 qì + 色 sè (color; appearance). In TCM, the complexion — the color and quality of the face — is a direct index of the health of one's internal qi. 气色好 (good complexion) = qi is ample and circulating freely; 气色差 (poor complexion) = qi is deficient or blocked. A doctor's first diagnostic tool.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">你最近气色不太好，要多注意休息。</div>
+            <div class="ex-py">Nǐ zuìjìn qìsè bú tài hǎo, yào duō zhùyì xiūxi.</div>
+            <div class="ex-en">Your complexion hasn't been great lately — make sure to rest more.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards bearing -->
+
+    <!-- ── COSMOLOGICAL QI ── -->
+    <span class="section-anchor" id="cosmological"></span>
+    <div class="section-head">
+      <span class="sh-cn">宇宙之气</span>
+      <span class="sh-py">yǔzhòu zhī qì</span>
+      <span class="sh-en">Cosmological Qi — Philosophy, Medicine, Practice</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="氣">
+      <div class="scholar-label">哲学洞见 zhéxué dòngjiàn · Philosophical Insight</div>
+      <p>In classical Chinese natural philosophy, 气 is not a metaphor — it is the literal substance of the universe. Everything that exists is 气 in different states of condensation and dispersal. When 气 condenses, it becomes form: mountains, bodies, water. When it disperses, it returns to the void. The two primary modes of 气 are <strong>阳气 yángqì</strong> (yang qi — active, warm, expanding, rising) and <strong>阴气 yīnqì</strong> (yin qi — receptive, cool, condensing, descending). Their alternation produces seasons, tides, day and night, life and death.</p>
+      <p>In traditional Chinese medicine (中医 Zhōngyī), 气 circulates through the body via a network of <strong>经络 jīngluò</strong> (meridians) — pathways invisible to dissection but mapped by centuries of clinical observation. Health is free-flowing qi. Disease is blocked, deficient, or rebellious qi. Acupuncture, moxibustion, and qigong (气功 qìgōng) all work by regulating the flow of qi through these channels.</p>
+      <p>Key cosmological qi compounds: <strong>元气 yuánqì</strong> (primordial qi — the original qi of the cosmos; also: vitality after illness or catastrophe), <strong>正气 zhèngqì</strong> (upright/righteous qi — the moral force that resists both disease and corruption), <strong>邪气 xiéqì</strong> (pathogenic/evil qi — the force that invades and disrupts), <strong>中气 zhōngqì</strong> (central qi — the digestive qi of the stomach and spleen, the pivot of health).</p>
+    </div>
+
+    <div class="cards">
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">元气</span>
+          <span class="card-py">yuánqì</span>
+          <span class="card-en">primordial qi; vitality; the reserves of life force</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          元 yuán (origin; primary; first) + 气 qì. In cosmology: the undifferentiated qi before heaven and earth separated — the primordial substrate of existence. In medicine: the constitutional qi inherited from one's parents, stored in the kidneys, spent by illness and restored by rest. In everyday speech: the reserves of strength and vitality one has after recovery.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他生病之后元气大伤，需要慢慢恢复。</div>
+            <div class="ex-py">Tā shēngbìng zhīhòu yuánqì dàshāng, xūyào mànmàn huīfù.</div>
+            <div class="ex-en">After his illness, his vitality was seriously depleted — recovery will take time.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这场经济危机伤了国家的元气。</div>
+            <div class="ex-py">Zhè chǎng jīngjì wéijī shāng le guójiā de yuánqì.</div>
+            <div class="ex-en">This economic crisis depleted the vitality of the nation.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">正气</span>
+          <span class="card-py">zhèngqì</span>
+          <span class="card-en">upright qi; righteous energy; moral integrity</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          正 zhèng (upright; correct; proper) + 气 qì. In TCM: the body's defensive qi that resists pathogenic invasion. In moral discourse: the upright character and courage that resists corruption and injustice. The great Song dynasty patriot Wen Tianxiang wrote 正气歌 (Song of the Righteous Qi) — a defining text of Chinese moral literature — while imprisoned by the Mongols before his execution.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">社会需要更多充满正气的人。</div>
+            <div class="ex-py">Shèhuì xūyào gèng duō chōngmǎn zhèngqì de rén.</div>
+            <div class="ex-en">Society needs more people full of righteous energy.</div>
+          </div>
+        </div>
+      </div>
+    </div><!-- /cards cosmological -->
+
+    <!-- ── EMOTIONAL QI TABLE ── -->
+    <span class="section-anchor" id="table"></span>
+    <div class="section-head">
+      <span class="sh-cn">情感之气</span>
+      <span class="sh-py">qínggǎn zhī qì</span>
+      <span class="sh-en">Emotional &amp; Spiritual Qi — Compound Table</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>字 Zì</th>
+            <th>拼音 Pīnyīn</th>
+            <th>英文 Yīngwén</th>
+            <th>例句 Lìjù</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="td-cn">生气</td>
+            <td class="td-py">shēngqì</td>
+            <td>anger (colloquial)</td>
+            <td>别生气了。<span class="td-small td-py-sm">Bié shēngqì le. — Don't be angry.</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">怒气</td>
+            <td class="td-py">nùqì</td>
+            <td>rage; fury (stronger, formal)</td>
+            <td>他怒气冲冲地走了。<span class="td-small td-py-sm">Tā nùqì chōngchōng de zǒu le. — He stormed off in fury.</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">火气</td>
+            <td class="td-py">huǒqì</td>
+            <td>fiery temper; internal heat (TCM)</td>
+            <td>他火气很大，小心点。<span class="td-small td-py-sm">Tā huǒqì hěn dà, xiǎoxīn diǎn. — He has a short fuse, be careful.</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">闷气</td>
+            <td class="td-py">mènqì</td>
+            <td>suppressed frustration; pent-up grievance</td>
+            <td>她只能生闷气。<span class="td-small td-py-sm">Tā zhǐ néng shēng mènqì. — She could only seethe in silence.</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">怨气</td>
+            <td class="td-py">yuànqì</td>
+            <td>resentment; accumulated grievance</td>
+            <td>他心里充满了怨气。<span class="td-small td-py-sm">Tā xīnlǐ chōngmǎn le yuànqì. — He was full of resentment.</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">意气</td>
+            <td class="td-py">yìqì</td>
+            <td>passion; willful spirit; temperament</td>
+            <td>意气风发，斗志昂扬。<span class="td-small td-py-sm">Yìqì fēngfā — Full of spirit and fighting will.</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">志气</td>
+            <td class="td-py">zhìqì</td>
+            <td>ambition; aspiration; fighting spirit</td>
+            <td>他是个很有志气的年轻人。<span class="td-small td-py-sm">Tā shì gè hěn yǒu zhìqì de niánqīngrén.</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">骨气</td>
+            <td class="td-py">gǔqì</td>
+            <td>backbone; moral courage; strength of character</td>
+            <td>做人要有骨气。<span class="td-small td-py-sm">Zuòrén yào yǒu gǔqì. — In conduct, one must have backbone.</span></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- ── CHENGYU ── -->
+    <span class="section-anchor" id="chengyu"></span>
+    <div class="section-head">
+      <span class="sh-cn">成语</span>
+      <span class="sh-py">chéngyǔ</span>
+      <span class="sh-en">Idioms &amp; Set Phrases</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="chengyu-grid">
+
+      <div class="cy">
+        <span class="cy-cn">一口气</span>
+        <span class="cy-py">yī kǒu qì</span>
+        <span class="cy-en">in one breath; without stopping; in one go</span>
+        <span class="cy-note">Lit: one-mouth-breath. Describes doing something continuously, without pause — one uninterrupted exhalation of effort. 他一口气跑了十公里 "He ran ten kilometers without stopping." 一口气读完这本书 "Read the whole book in one sitting." The most common and versatile 气 idiom in everyday speech.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">气吞山河</span>
+        <span class="cy-py">qì tūn shān hé</span>
+        <span class="cy-en">spirit that could swallow mountains and rivers — magnificent, all-encompassing force</span>
+        <span class="cy-note">Lit: qi-swallow-mountain-river. A classical idiom for heroic grandeur: the qi of a great army, a historical figure, or a piece of calligraphy or poetry so powerful it seems to contain all of nature within it. Often used in literary and historical commentary. 岳飞的词气吞山河 "Yue Fei's lyrics had the force to swallow mountains and rivers."</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">扬眉吐气</span>
+        <span class="cy-py">yáng méi tǔ qì</span>
+        <span class="cy-en">to feel proud and elated; to finally breathe out after long suffering</span>
+        <span class="cy-note">Lit: raise-eyebrows-exhale-qi. The physical sensation of relief and pride after enduring hardship or injustice. The eyebrows lift, the breath that was held in tension is finally released. Used for vindication, promotion after years of struggle, or national pride after historical humiliation.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">气壮山河</span>
+        <span class="cy-py">qì zhuàng shān hé</span>
+        <span class="cy-en">magnificent spirit that fills the mountains and rivers</span>
+        <span class="cy-note">Lit: qi-strong-mountain-river. Similar to 气吞山河 but with a sense of steadiness rather than swallowing — the qi stands as firm and vast as mountains and rivers. Used for patriotic spirit, heroic resolve, or great art. A phrase from Wen Tianxiang's 正气歌 tradition.</span>
+      </div>
+
+    </div>
+
+    <!-- ── ADJACENT VOCAB ── -->
+    <span class="section-anchor" id="adjacent"></span>
+    <div class="section-head">
+      <span class="sh-cn">相邻词汇</span>
+      <span class="sh-py">xiānglín cíhuì</span>
+      <span class="sh-en">Adjacent Vocabulary</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">力</span><span class="a-py">lì</span><span class="a-en">strength; force</span></span>
+      <span class="adj"><span class="a-cn">精</span><span class="a-py">jīng</span><span class="a-en">essence; vitality; refined</span></span>
+      <span class="adj"><span class="a-cn">神</span><span class="a-py">shén</span><span class="a-en">spirit; divine; mind</span></span>
+      <span class="adj"><span class="a-cn">血</span><span class="a-py">xuè</span><span class="a-en">blood</span></span>
+      <span class="adj"><span class="a-cn">呼吸</span><span class="a-py">hūxī</span><span class="a-en">to breathe; breathing</span></span>
+      <span class="adj"><span class="a-cn">能量</span><span class="a-py">néngliàng</span><span class="a-en">energy (physics)</span></span>
+      <span class="adj"><span class="a-cn">活力</span><span class="a-py">huólì</span><span class="a-en">vitality; vigor</span></span>
+      <span class="adj"><span class="a-cn">元气</span><span class="a-py">yuánqì</span><span class="a-en">primordial qi; reserves of vitality</span></span>
+      <span class="adj"><span class="a-cn">阳气</span><span class="a-py">yángqì</span><span class="a-en">yang energy; warm, active qi</span></span>
+      <span class="adj"><span class="a-cn">阴气</span><span class="a-py">yīnqì</span><span class="a-en">yin energy; cool, receptive qi</span></span>
+      <span class="adj"><span class="a-cn">风水</span><span class="a-py">fēngshuǐ</span><span class="a-en">geomancy (lit. wind-water)</span></span>
+      <span class="adj"><span class="a-cn">经络</span><span class="a-py">jīngluò</span><span class="a-en">meridians (TCM)</span></span>
+    </div>
+
+    <!-- RETENTION IMAGE -->
+    <div class="scholar" data-glyph="氣">
+      <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
+      <p>Steam rising from a pot of rice. That is the character 氣 — and that is the concept. 气 is not a thing but a process: always moving, always transforming, condensing into water when cooled, dispersing into air when heated. You cannot hold it still. You cannot point at it and say "there it is."</p>
+      <p>Your anger is steam with nowhere to go — pressure building in the pot. Your vitality is the rice still cooking, the fire still lit. Your weather is the whole kitchen. Your moral courage is the flame that keeps the water from going cold. The next time you say 生气 (angry), 天气 (weather), or 语气 (tone of voice), you are describing three completely different domains with one concept — because in Chinese thought, they are not different. They are all just qi, doing what qi does.</p>
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="page-footer">
+      <span class="footer-id">Field Notes on Chinese · <span>气 qì</span> · qi4_气.html</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>

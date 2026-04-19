@@ -1,0 +1,36 @@
+<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+    <span class="toc-topic">{{{tocTitle}}}</span>
+    <span class="toc-topic-en">{{{tocTitleEn}}}</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      {{{tocItems}}}
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">Grammar · 语法 yǔfǎ</span>
+      <h1 class="topic-hero-title">{{{heroTitle}}}</h1>
+      <span class="topic-hero-title-py">{{{heroTitlePy}}}</span>
+      <p class="topic-hero-desc">{{{heroDesc}}}</p>
+    </header>
+
+    {{{mainContent}}}
+
+    <footer class="page-footer">
+      <span class="footer-id">Field Notes on Chinese · <span>{{{footerLabel}}}</span> · {{{filename}}}</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>

@@ -1,0 +1,700 @@
+---
+type: 'grammar'
+category: 'grammar'
+status: 'complete'
+title: '把 · the disposal construction'
+desc: 'Moving the object before the verb — when and why.'
+metaDesc: "把 bǎ: the disposal construction — taking hold of the object and doing something definitive to it. Etymology, patterns, resultative complements, errors to avoid, and 把 as measure word."
+pageTitle: '把 bǎ'
+tags:
+  - 'syntax'
+  - 'object'
+  - 'disposal'
+updated: '2026-04-18'
+pinyin: 'bǎ'
+---
+
+<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+
+    <span class="toc-topic">把</span>
+    <span class="toc-topic-en">Disposal Construction</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#etymology">
+        <span class="toc-cn">字源</span> Etymology
+        <span class="toc-sub">the grasping hand</span>
+      </a></li>
+      <li><a href="#patterns">
+        <span class="toc-cn">句型</span> Pattern
+        <span class="toc-sub">Subj + 把 + Obj + V + Result</span>
+      </a></li>
+      <li><a href="#disposal">
+        <span class="toc-cn">处置</span> Disposal Results
+        <span class="toc-sub">finish, put away, close, open</span>
+      </a></li>
+      <li><a href="#directional">
+        <span class="toc-cn">趋向</span> Directional Complements
+        <span class="toc-sub">move, bring, take</span>
+      </a></li>
+      <li><a href="#errors">
+        <span class="toc-cn">错误</span> Common Errors
+        <span class="toc-sub">when 把 cannot be used</span>
+      </a></li>
+      <li><a href="#measure">
+        <span class="toc-cn">量词</span> 把 as Measure Word
+        <span class="toc-sub">handles and handfuls</span>
+      </a></li>
+      <li><a href="#table">
+        <span class="toc-cn">对照表</span> Verb Table
+        <span class="toc-sub">V + resultative complement pairs</span>
+      </a></li>
+      <li><a href="#chengyu">
+        <span class="toc-cn">成语</span> Idioms
+        <span class="toc-sub">grasping, control, timing</span>
+      </a></li>
+      <li><a href="#adjacent">
+        <span class="toc-cn">相邻</span> Adjacent Vocab
+        <span class="toc-sub">related structures</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- HERO -->
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">Grammar · 语法 yǔfǎ</span>
+      <h1 class="topic-hero-title">把</h1>
+      <span class="topic-hero-title-py">bǎ</span>
+      <p class="topic-hero-desc">The disposal construction — taking hold of a definite object and doing something deliberate and consequential to it. One of the most distinctively Chinese grammatical structures, with no clean equivalent in European languages.</p>
+    </header>
+
+    <!-- ── ETYMOLOGY ── -->
+    <span class="section-anchor" id="etymology"></span>
+    <div class="section-head">
+      <span class="sh-cn">字源</span>
+      <span class="sh-py">zìyuán</span>
+      <span class="sh-en">Etymology — The Grasping Hand</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="把">
+      <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
+      <p><strong>把 bǎ</strong> is composed of <strong>手 shǒu</strong> (hand, as the left radical 扌) + <strong>巴 bā</strong> (a phonetic element depicting a tail or a creature that clings). The core physical meaning is <em>to grip, to clasp with the hand</em>. A 把 is the handle of a tool, a hilt, or the part you grasp. This physical reality of grasping directly motivates the grammatical construction: the 把 construction is, at its heart, about <em>taking hold of something and doing something definitive to it.</em></p>
+      <p>The grammatical use developed from the physical: "I take hold of this thing and do X to it" gradually became a construction that foregrounds the object and encodes the idea that the action will <em>affect, change, or dispose of</em> that object in a deliberate, concrete way. In classical Chinese, 把 retained this hands-on quality — 把酒问青天 (holding a wine cup, asking the blue sky) from Su Shi's famous lyric captures 把 in its original physical sense while serving a grammatical role.</p>
+      <p>Chinese linguists call it the <strong>处置式 chǔzhì shì</strong> — the "disposal construction." The word 处置 means to handle, to deal with, to dispose of. The object is not merely mentioned — it is <em>taken into hand and dealt with.</em></p>
+    </div>
+
+    <!-- ── PATTERN BOX ── -->
+    <span class="section-anchor" id="patterns"></span>
+    <div class="section-head">
+      <span class="sh-cn">句型</span>
+      <span class="sh-py">jùxíng</span>
+      <span class="sh-en">Core Pattern — Subject Grips Object, Does X</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">把字句 bǎzì jù · The 把 Construction Pattern</span>
+      <strong>Subject + 把 + Object + Verb + Resultative/Complement</strong><br><br>
+      我 + 把 + 书 + 看 + 完了。Wǒ bǎ shū kàn wán le. — I finished reading the book.<br>
+      她 + 把 + 门 + 关 + 上了。Tā bǎ mén guān shàng le. — She closed the door. (shut it into the closed position)<br>
+      他 + 把 + 椅子 + 搬 + 进来了。Tā bǎ yǐzi bān jìnlái le. — He moved the chair inside.<br><br>
+      <strong>Three requirements for 把:</strong><br>
+      1. The object must be <em>definite</em> — 把<strong>那本</strong>书 (that book), not 把书 alone unless it's contextually known.<br>
+      2. The verb phrase must have a <em>result, direction, or complement</em> — the bare verb cannot stand alone after 把.<br>
+      3. The subject must be the <em>agent</em> who deliberately acts on the object — no stative verbs, no perception verbs.
+    </div>
+
+    <div class="scholar" data-glyph="把">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · Why the Verb Cannot Stand Alone</div>
+      <p>The most important constraint on the 把 construction is that the verb phrase <strong>must include a resultative element</strong>. A bare verb is ungrammatical: <em>*把书看</em> is wrong. The sentence must answer the question: what happened to the book as a result? Options include:</p>
+      <p>Resultative complement: 看<strong>完</strong> (finish reading), 看<strong>懂</strong> (read and understand), 看<strong>破</strong> (see through)<br>
+      Directional complement: 拿<strong>出来</strong> (take out), 放<strong>下</strong> (put down), 搬<strong>进去</strong> (move inside)<br>
+      Aspect marker: 写<strong>了</strong> (wrote it), 吃<strong>掉</strong> (ate it up), 喝<strong>光</strong> (drank it all up)<br>
+      Degree/result phrase: 打<strong>得很厉害</strong> (hit hard), 整理<strong>得很整齐</strong> (arranged neatly)</p>
+      <p>This requirement reflects the core meaning: if you take something in hand and act on it, that action must <em>conclude with a result.</em> The 把 construction is inherently telic — it implies a completed, consequential outcome.</p>
+    </div>
+
+    <!-- ── DISPOSAL RESULTS ── -->
+    <span class="section-anchor" id="disposal"></span>
+    <div class="section-head">
+      <span class="sh-cn">处置结果</span>
+      <span class="sh-py">chǔzhì jiéguǒ</span>
+      <span class="sh-en">Disposal Results — Core Examples</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">把作业做完</span>
+          <span class="card-py">bǎ zuòyè zuò wán</span>
+          <span class="card-en">to finish the homework (do it through to completion)</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V + 完 resultative complement</span></div>
+        <div class="card-def">
+          做 zuò (to do) + 完 wán (to finish; to exhaust; resultative complement). The 完 is the result — the homework has been completely done. Without 完, the sentence would be ungrammatical: *把作业做. 完 is one of the most common resultative complements in the 把 construction.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">你必须把作业做完才能玩。</div>
+            <div class="ex-py">Nǐ bìxū bǎ zuòyè zuò wán cái néng wán.</div>
+            <div class="ex-en">You must finish your homework before you can play.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">我把报告写完了。</div>
+            <div class="ex-py">Wǒ bǎ bàogào xiě wán le.</div>
+            <div class="ex-en">I finished writing the report.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">把这瓶水喝完。</div>
+            <div class="ex-py">Bǎ zhè píng shuǐ hē wán.</div>
+            <div class="ex-en">Drink this bottle of water completely. (finish it)</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">把书放好</span>
+          <span class="card-py">bǎ shū fàng hǎo</span>
+          <span class="card-en">to put the book away properly</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V + 好 resultative complement</span></div>
+        <div class="card-def">
+          放 fàng (to place; to put) + 好 hǎo (well; properly; in the right state). The 好 signals the object reaches a satisfactory, correct, or complete state. 放好 is not just "put down" — it's "place in a way that is done properly." 好 as a resultative complement implies care, correctness, and readiness.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">请把书放好。</div>
+            <div class="ex-py">Qǐng bǎ shū fàng hǎo.</div>
+            <div class="ex-en">Please put the book away properly.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">把行李整理好再出发。</div>
+            <div class="ex-py">Bǎ xínglǐ zhěnglǐ hǎo zài chūfā.</div>
+            <div class="ex-en">Arrange the luggage properly before setting off.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他把计划准备好了。</div>
+            <div class="ex-py">Tā bǎ jìhuà zhǔnbèi hǎo le.</div>
+            <div class="ex-en">He has the plan ready. (prepared it properly)</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">把门关上</span>
+          <span class="card-py">bǎ mén guān shàng</span>
+          <span class="card-en">to close the door (shut it into the closed position)</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V + 上 directional/resultative complement</span></div>
+        <div class="card-def">
+          关 guān (to close) + 上 shàng (up; into a closed/attached state). Here 上 is a resultative complement indicating that the door has been moved into the closed, shut position. 上 in this sense implies closure, attachment, or sealing — 关上 means "closed all the way." Contrast: 关了门 (closed the door — completed action) vs. 把门关上 (closed the door — and it is now shut).
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">请把门关上。</div>
+            <div class="ex-py">Qǐng bǎ mén guān shàng.</div>
+            <div class="ex-en">Please close the door.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">别忘了把灯关上。</div>
+            <div class="ex-py">Bié wàng le bǎ dēng guān shàng.</div>
+            <div class="ex-en">Don't forget to turn off the lights.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">把窗户打开</span>
+          <span class="card-py">bǎ chuānghu dǎ kāi</span>
+          <span class="card-en">to open the window (strike it into an open state)</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V + 开 resultative complement</span></div>
+        <div class="card-def">
+          打 dǎ (to hit; to strike — used as a general action verb with many objects) + 开 kāi (open; apart; into an open state). The combination 打开 means "open" — the object is moved into an open or separated state. 开 as a resultative complement implies separation, opening, or dispersal.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">天气太热，把窗户打开吧。</div>
+            <div class="ex-py">Tiānqì tài rè, bǎ chuānghu dǎ kāi ba.</div>
+            <div class="ex-en">It's too hot — open the window.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">把礼物打开看看。</div>
+            <div class="ex-py">Bǎ lǐwù dǎ kāi kàn kan.</div>
+            <div class="ex-en">Open the gift and have a look.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他把信封拆开了。</div>
+            <div class="ex-py">Tā bǎ xìnfēng chāi kāi le.</div>
+            <div class="ex-en">He opened the envelope. (tore it open)</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards disposal -->
+
+    <!-- ── DIRECTIONAL COMPLEMENTS ── -->
+    <span class="section-anchor" id="directional"></span>
+    <div class="section-head">
+      <span class="sh-cn">趋向补语</span>
+      <span class="sh-py">qūxiàng bǔyǔ</span>
+      <span class="sh-en">把 with Directional Complements</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">把椅子搬进来</span>
+          <span class="card-py">bǎ yǐzi bān jìnlái</span>
+          <span class="card-en">bring the chair inside (move it in-coming direction)</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V + 进来 directional complement</span></div>
+        <div class="card-def">
+          搬 bān (to move heavy things; to transport) + 进来 jìnlái (in-coming; into this space). The directional complement 进来 specifies both the direction (in) and the orientation toward the speaker (来). The 把 construction signals the chair is a definite, specific object being moved as a deliberate act.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">帮我把椅子搬进来。</div>
+            <div class="ex-py">Bāng wǒ bǎ yǐzi bān jìnlái.</div>
+            <div class="ex-en">Help me bring the chair inside.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">把那些箱子搬出去。</div>
+            <div class="ex-py">Bǎ nàxiē xiāngzi bān chūqù.</div>
+            <div class="ex-en">Move those boxes out. (away from speaker)</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">把包放下</span>
+          <span class="card-py">bǎ bāo fàng xià</span>
+          <span class="card-en">put the bag down</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V + 下 directional complement</span></div>
+        <div class="card-def">
+          放 fàng (to place; put) + 下 xià (down; into a lower position). A simple directional 把 sentence — the object (bag) is moved to a lower location. 下 here signals downward movement or lowering into position. The 把 foregrounds the deliberate, targeted nature of the placing.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">先把包放下，休息一会儿。</div>
+            <div class="ex-py">Xiān bǎ bāo fàng xià, xiūxi yīhuìr.</div>
+            <div class="ex-en">Put the bag down first and rest a while.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">请把手机放下，专心上课。</div>
+            <div class="ex-py">Qǐng bǎ shǒujī fàng xià, zhuānxīn shàng kè.</div>
+            <div class="ex-en">Please put your phone down and pay attention in class.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">把书拿出来</span>
+          <span class="card-py">bǎ shū ná chūlái</span>
+          <span class="card-en">take the book out (bring it out into the open)</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V + 出来 directional complement</span></div>
+        <div class="card-def">
+          拿 ná (to take; to hold in the hand) + 出来 chūlái (out-coming; out toward the speaker). The book is extracted from some container or location and brought into the present space. 出来 implies emergence from a hidden or enclosed place toward an open, accessible position.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">把书从包里拿出来。</div>
+            <div class="ex-py">Bǎ shū cóng bāo li ná chūlái.</div>
+            <div class="ex-en">Take the book out of the bag.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">你能把那个问题的答案找出来吗？</div>
+            <div class="ex-py">Nǐ néng bǎ nàge wèntí de dá'àn zhǎo chūlái ma?</div>
+            <div class="ex-en">Can you find the answer to that problem?</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">把手机从口袋里掏出来。</div>
+            <div class="ex-py">Bǎ shǒujī cóng kǒudài lǐ tāo chūlái.</div>
+            <div class="ex-en">Fish your phone out of your pocket.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards directional -->
+
+    <!-- ── COMMON ERRORS ── -->
+    <span class="section-anchor" id="errors"></span>
+    <div class="section-head">
+      <span class="sh-cn">常见错误</span>
+      <span class="sh-py">chángjiàn cuòwù</span>
+      <span class="sh-en">Common 把 Errors — When It Cannot Be Used</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">*把书看</span>
+          <span class="card-py">*bǎ shū kàn</span>
+          <span class="card-en">WRONG — verb must have a resultative element</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">Error Type 1 · bare verb</span></div>
+        <div class="card-def">
+          The most fundamental 把 error: using a bare verb with no resultative or directional complement. The construction requires that the action have a clear outcome. The sentence is ungrammatical because it doesn't tell us what happened to the book as a result.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">错误：*我把书看。</div>
+            <div class="ex-py">Cuòwù: *Wǒ bǎ shū kàn.</div>
+            <div class="ex-en">WRONG: *I read the book. (no result)</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">正确：我把书看完了。/ 我把书看了一遍。</div>
+            <div class="ex-py">Zhèngquè: Wǒ bǎ shū kàn wán le. / Wǒ bǎ shū kàn le yī biàn.</div>
+            <div class="ex-en">CORRECT: I finished reading the book. / I read the book once through.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">*把他喜欢</span>
+          <span class="card-py">*bǎ tā xǐhuān</span>
+          <span class="card-en">WRONG — stative/emotional verbs cannot take 把</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">Error Type 2 · stative and mental verbs</span></div>
+        <div class="card-def">
+          Stative verbs (是, 有, 像), mental-state verbs (喜欢, 爱, 恨, 讨厌, 知道, 认识, 觉得), and perception verbs (看见, 听见, 闻到) cannot be used in the 把 construction. The 把 construction requires an agent who deliberately acts on a concrete object with a physical or tangible result. Emotions, states, and perceptions do not dispose of objects.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">错误：*我把他喜欢。/ *我把他认识。</div>
+            <div class="ex-py">Cuòwù: *Wǒ bǎ tā xǐhuān. / *Wǒ bǎ tā rènshi.</div>
+            <div class="ex-en">WRONG: *I like him. / *I know him. (states, not disposal)</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">正确：我喜欢他。/ 我认识他。</div>
+            <div class="ex-py">Zhèngquè: Wǒ xǐhuān tā. / Wǒ rènshi tā.</div>
+            <div class="ex-en">CORRECT: I like him. / I know him. (plain SVO)</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">*把一本书看完</span>
+          <span class="card-py">*bǎ yī běn shū kàn wán</span>
+          <span class="card-en">WRONG (usually) — object must be definite</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">Error Type 3 · indefinite objects</span></div>
+        <div class="card-def">
+          The object of 把 must be definite — a specific, known thing. An indefinite object (a book you haven't mentioned before, an unspecified amount) generally cannot be used. The construction implies you are taking hold of <em>a particular thing</em> and doing something to it. Use demonstratives (这, 那, 这些), possessives (我的, 他的), or contextually established nouns.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">错误（通常）：*我把一本书看完了。</div>
+            <div class="ex-py">Cuòwù (tōngcháng): *Wǒ bǎ yī běn shū kàn wán le.</div>
+            <div class="ex-en">WRONG (usually): I finished reading a book. (indefinite)</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">正确：我把那本书看完了。/ 我把这本书看完了。</div>
+            <div class="ex-py">Zhèngquè: Wǒ bǎ nà běn shū kàn wán le. / Wǒ bǎ zhè běn shū kàn wán le.</div>
+            <div class="ex-en">CORRECT: I finished reading that book. / I finished reading this book.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">注意 zhùyì · Note</span>
+          In practice, if a noun is contextually established and understood to be definite, the demonstrative can be omitted: 你把书放好了吗？"Did you put the book away?" works when "the book" is contextually known. But in isolation, a bare indefinite object sounds unnatural.
+        </div>
+      </div>
+
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">*我把他看见了</span>
+          <span class="card-py">*wǒ bǎ tā kànjian le</span>
+          <span class="card-en">WRONG — unaffected objects cannot take 把</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">Error Type 4 · unaffected objects</span></div>
+        <div class="card-def">
+          The object of the 把 construction must be <em>affected</em> by the action — it must undergo a change, be moved, be consumed, be transformed, or be disposed of. Perception and cognition verbs (看见 see, 听见 hear, 闻到 smell) involve objects that are registered but not physically affected. The world contains him; seeing him doesn't change him.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">错误：*我把他看见了。</div>
+            <div class="ex-py">Cuòwù: *Wǒ bǎ tā kànjian le.</div>
+            <div class="ex-en">WRONG: I saw him. (he's not affected by being seen)</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">正确：我看见他了。</div>
+            <div class="ex-py">Zhèngquè: Wǒ kànjian tā le.</div>
+            <div class="ex-en">CORRECT: I saw him. (plain SVO)</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards errors -->
+
+    <!-- ── 把 AS MEASURE WORD ── -->
+    <span class="section-anchor" id="measure"></span>
+    <div class="section-head">
+      <span class="sh-cn">量词把</span>
+      <span class="sh-py">liàngcí bǎ</span>
+      <span class="sh-en">把 as Measure Word — Handles and Handfuls</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">一把椅子</span>
+          <span class="card-py">yī bǎ yǐzi</span>
+          <span class="card-en">a chair (one handle-shaped piece of furniture)</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">量词 measure word</span></div>
+        <div class="card-def">
+          把 as a measure word applies to objects that have a handle or can be grasped, or that you can take in hand — chairs (by the back), tools, weapons, fans, keys, locks, umbrellas, guitars. The connection to the core meaning of 把 (to grip) is transparent.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">请给我拿一把椅子。</div>
+            <div class="ex-py">Qǐng gěi wǒ ná yī bǎ yǐzi.</div>
+            <div class="ex-en">Please bring me a chair.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他有一把好刀。</div>
+            <div class="ex-py">Tā yǒu yī bǎ hǎo dāo.</div>
+            <div class="ex-en">He has a good knife.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">量词列表 liàngcí lièbiǎo · Objects Counted with 把</span>
+          刀 knife · 剑 sword · 椅子 chair · 扇子 fan · 锁 lock · 钥匙 key · 雨伞 umbrella · 吉他 guitar · 剪刀 scissors · 锄头 hoe
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">一把汗</span>
+          <span class="card-py">yī bǎ hàn</span>
+          <span class="card-en">a palm's worth of sweat — anxious, breaking out in a sweat</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">量词 measure word · idiomatic</span></div>
+        <div class="card-def">
+          把 can measure abstract quantities that could theoretically fill a cupped hand — a handful of something. 一把汗 (a palm of sweat) is an idiom for being anxious or nervous to the point of sweating. 一把泪 (a handful of tears) appears in literary contexts for weeping. These extend the concrete grasping image into emotional territory.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">看他们比赛，我都捏了一把汗。</div>
+            <div class="ex-py">Kàn tāmen bǐsài, wǒ dōu niē le yī bǎ hàn.</div>
+            <div class="ex-en">Watching them compete had me sweating with anxiety. (lit. I clenched a palm of sweat)</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">她读完那封信，流了一把眼泪。</div>
+            <div class="ex-py">Tā dú wán nà fēng xìn, liú le yī bǎ yǎnlèi.</div>
+            <div class="ex-en">After reading the letter, she shed a flood of tears.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">一把年纪</span>
+          <span class="card-py">yī bǎ niánjì</span>
+          <span class="card-en">getting on in age; a certain age (often with mild reproach)</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">量词 measure word · idiomatic</span></div>
+        <div class="card-def">
+          一把年纪 literally "a handful of years" — used to describe someone who is getting on in age. Often carries a mildly reproachful or surprised tone: someone that age should know better, or it's surprising they're doing something. Common in colloquial speech and semi-formal contexts.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">都一把年纪了，还这么不懂事。</div>
+            <div class="ex-py">Dōu yī bǎ niánjì le, hái zhème bù dǒngshì.</div>
+            <div class="ex-en">At that age, and still this immature.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">一把年纪了，要注意身体。</div>
+            <div class="ex-py">Yī bǎ niánjì le, yào zhùyì shēntǐ.</div>
+            <div class="ex-en">At your age, you need to take care of your health.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards measure -->
+
+    <!-- ── TABLE ── -->
+    <span class="section-anchor" id="table"></span>
+    <div class="section-head">
+      <span class="sh-cn">对照表</span>
+      <span class="sh-py">duìzhào biǎo</span>
+      <span class="sh-en">Verb + Resultative Complement Pairs with 把</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>动词 Verb</th>
+            <th>补语 Complement</th>
+            <th>组合 Combined</th>
+            <th>例句 Example</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="td-cn">看 kàn</td>
+            <td class="td-cn">完 wán</td>
+            <td class="td-cn">看完</td>
+            <td>把书看完 <span class="td-small td-py-sm">— finish reading the book</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">写 xiě</td>
+            <td class="td-cn">好 hǎo</td>
+            <td class="td-cn">写好</td>
+            <td>把报告写好 <span class="td-small td-py-sm">— write the report well / finish it properly</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">关 guān</td>
+            <td class="td-cn">上 shàng</td>
+            <td class="td-cn">关上</td>
+            <td>把门关上 <span class="td-small td-py-sm">— close the door shut</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">打 dǎ</td>
+            <td class="td-cn">开 kāi</td>
+            <td class="td-cn">打开</td>
+            <td>把窗户打开 <span class="td-small td-py-sm">— open the window</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">放 fàng</td>
+            <td class="td-cn">下 xià</td>
+            <td class="td-cn">放下</td>
+            <td>把包放下 <span class="td-small td-py-sm">— put the bag down</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">搬 bān</td>
+            <td class="td-cn">进来 jìnlái</td>
+            <td class="td-cn">搬进来</td>
+            <td>把椅子搬进来 <span class="td-small td-py-sm">— move the chair inside</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">拿 ná</td>
+            <td class="td-cn">出来 chūlái</td>
+            <td class="td-cn">拿出来</td>
+            <td>把书拿出来 <span class="td-small td-py-sm">— take the book out</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">吃 chī</td>
+            <td class="td-cn">掉 diào</td>
+            <td class="td-cn">吃掉</td>
+            <td>把蛋糕吃掉 <span class="td-small td-py-sm">— eat up the cake (completely / get rid of it)</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">弄 nòng</td>
+            <td class="td-cn">坏 huài</td>
+            <td class="td-cn">弄坏</td>
+            <td>把手机弄坏了 <span class="td-small td-py-sm">— broke the phone</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">整理 zhěnglǐ</td>
+            <td class="td-cn">好 hǎo</td>
+            <td class="td-cn">整理好</td>
+            <td>把房间整理好 <span class="td-small td-py-sm">— tidy up the room properly</span></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- ── CHENGYU ── -->
+    <span class="section-anchor" id="chengyu"></span>
+    <div class="section-head">
+      <span class="sh-cn">成语</span>
+      <span class="sh-py">chéngyǔ</span>
+      <span class="sh-en">Idioms — Grasping, Control, Timing</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="chengyu-grid">
+
+      <div class="cy">
+        <span class="cy-cn">把握时机</span>
+        <span class="cy-py">bǎwò shíjī</span>
+        <span class="cy-en">to seize the moment; to grasp the opportunity at the right time</span>
+        <span class="cy-note">把握 bǎwò (grip; certainty; grasp) + 时机 shíjī (the right moment). A common exhortation in business, speech, and motivational contexts. Also used as a noun: 有把握 yǒu bǎwò = "to be confident, certain" (lit. to have a grip on it). 没有把握 = "not sure, not confident."</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">无从把握</span>
+        <span class="cy-py">wú cóng bǎwò</span>
+        <span class="cy-en">impossible to grasp; no way to get a handle on it</span>
+        <span class="cy-note">Lit: no-way-from-grasp. Used when a situation is too fluid, complex, or uncertain to control or predict. The physical image of reaching for something and finding no surface to grip carries directly into this idiom.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">手到擒来</span>
+        <span class="cy-py">shǒu dào qín lái</span>
+        <span class="cy-en">as easy as reaching out and grabbing it; a sure thing</span>
+        <span class="cy-note">Lit: hand-arrives-capture-comes. The hand extends (手到) and the prey comes into the grasp (擒来). Used for tasks that are effortlessly accomplished — the antithesis of struggle. Thematically linked to 把: the hand that reaches out and takes hold.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">当机立断</span>
+        <span class="cy-py">dāng jī lì duàn</span>
+        <span class="cy-en">to decide decisively at the right moment; not to hesitate when the time comes</span>
+        <span class="cy-note">Lit: facing-the-opportunity-immediately-decide. The complement of 把握时机 — not just grasping the moment but acting on it decisively. 断 here means to cut through, to decide without wavering. The virtuous counterpart to 犹豫不决 (hesitating and unable to decide).</span>
+      </div>
+
+    </div>
+
+    <!-- ── ADJACENT VOCAB ── -->
+    <span class="section-anchor" id="adjacent"></span>
+    <div class="section-head">
+      <span class="sh-cn">相邻词汇</span>
+      <span class="sh-py">xiānglín cíhuì</span>
+      <span class="sh-en">Adjacent Vocabulary</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">被</span><span class="a-py">bèi</span><span class="a-en">passive marker (counterpart)</span></span>
+      <span class="adj"><span class="a-cn">让</span><span class="a-py">ràng</span><span class="a-en">to let; causative / colloquial passive</span></span>
+      <span class="adj"><span class="a-cn">叫</span><span class="a-py">jiào</span><span class="a-en">colloquial passive marker</span></span>
+      <span class="adj"><span class="a-cn">把握</span><span class="a-py">bǎwò</span><span class="a-en">grip; certainty; to be confident</span></span>
+      <span class="adj"><span class="a-cn">完</span><span class="a-py">wán</span><span class="a-en">to finish (resultative complement)</span></span>
+      <span class="adj"><span class="a-cn">好</span><span class="a-py">hǎo</span><span class="a-en">properly done (resultative)</span></span>
+      <span class="adj"><span class="a-cn">掉</span><span class="a-py">diào</span><span class="a-en">away; off; done with (resultative)</span></span>
+      <span class="adj"><span class="a-cn">开</span><span class="a-py">kāi</span><span class="a-en">open; apart (directional/resultative)</span></span>
+      <span class="adj"><span class="a-cn">上</span><span class="a-py">shàng</span><span class="a-en">onto; closed; into position</span></span>
+      <span class="adj"><span class="a-cn">进来</span><span class="a-py">jìnlái</span><span class="a-en">in (toward speaker)</span></span>
+      <span class="adj"><span class="a-cn">出去</span><span class="a-py">chūqù</span><span class="a-en">out (away from speaker)</span></span>
+      <span class="adj"><span class="a-cn">处置</span><span class="a-py">chǔzhì</span><span class="a-en">to handle; to dispose of; the construction name</span></span>
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="page-footer">
+      <span class="footer-id">Field Notes on Chinese · <span>把 bǎ</span> · ba_把.html</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>

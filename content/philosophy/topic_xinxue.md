@@ -1,0 +1,222 @@
+---
+type: 'topic'
+category: 'philosophy'
+status: 'complete'
+title: '心学 · Wang Yangming'
+desc: 'Innate knowing 良知 and the unity of knowledge and action.'
+metaDesc: "心学 the School of Mind: Wang Yangming, 心即理 mind is principle, 知行合一 unity of knowledge and action, 致良知 extend innate moral knowledge. Ming dynasty philosophy and its lasting influence."
+pageTitle: '心学 xīnxué'
+tags:
+  - 'wang-yangming'
+  - 'mind'
+  - 'knowing'
+updated: '2026-04-18'
+pinyin: 'xīnxué'
+---
+
+<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+    <span class="toc-topic">心学</span>
+    <span class="toc-topic-en">School of Mind</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#life">
+        <span class="toc-cn">王阳明其人</span> Wang Yangming
+        <span class="toc-sub">life and formation</span>
+      </a></li>
+      <li><a href="#bamboo">
+        <span class="toc-cn">格竹的失败</span> The Bamboo Experiment
+        <span class="toc-sub">gé zhú · the turning point</span>
+      </a></li>
+      <li><a href="#xinjiili">
+        <span class="toc-cn">心即理</span> Mind is Principle
+        <span class="toc-sub">xīn jí lǐ</span>
+      </a></li>
+      <li><a href="#zhixing">
+        <span class="toc-cn">知行合一</span> Unity of Knowledge and Action
+        <span class="toc-sub">zhī xíng hé yī</span>
+      </a></li>
+      <li><a href="#liangzhi">
+        <span class="toc-cn">致良知</span> Innate Moral Knowledge
+        <span class="toc-sub">zhì liángzhī</span>
+      </a></li>
+      <li><a href="#legacy">
+        <span class="toc-cn">心学的影响</span> Legacy
+        <span class="toc-sub">China and Japan</span>
+      </a></li>
+      <li><a href="#chengyu">
+        <span class="toc-cn">成语典故</span> Key Passages
+        <span class="toc-sub">chéngyǔ diǎngù</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- HERO -->
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">Philosophy · 哲学 zhéxué</span>
+      <h1 class="topic-hero-title">心学</h1>
+      <span class="topic-hero-title-py">xīnxué</span>
+      <p class="topic-hero-desc">Wang Yangming's radical inversion of Neo-Confucianism: moral principle is not outside the mind awaiting investigation, but is the mind itself — and every person already possesses the innate moral knowledge to be a sage.</p>
+    </header>
+
+    <!-- ── LIFE ── -->
+    <span class="section-anchor" id="life"></span>
+    <div class="section-head">
+      <span class="sh-cn">王阳明其人</span>
+      <span class="sh-py">Wáng Yángmíng qí rén</span>
+      <span class="sh-en">Wang Yangming — Life and Formation</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="心">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · The Complete Man</div>
+      <p><strong>王守仁 Wáng Shǒurén</strong> (1472–1529 CE), known by his honorific <strong>王阳明 Wáng Yángmíng</strong>, is one of the very few figures in Chinese history who achieved the Confucian ideal of the complete person: a man who excelled simultaneously as philosopher, statesman, military commander, poet, and calligrapher. This biographical wholeness is not incidental to his philosophy — he believed, more urgently than anyone before him, that philosophy and action could not be separated, and he lived that belief across a career that included both the most dangerous intellectual risks and genuine military campaigns.</p>
+      <p>He was born into the elite: his father 王华 Wáng Huá was the top-ranked scholar of his examination cohort — the 状元 zhuàngyuán, first in the empire. Wang Yangming himself passed the imperial examinations in 1499 and entered official life. But from early in his career he was restless with orthodoxy. He investigated the Daoist and Buddhist traditions with genuine seriousness, not as a dilettante but as someone who suspected that Zhu Xi's Neo-Confucianism — the official doctrine — was missing something essential.</p>
+      <p>The crisis that crystallized his philosophy came in 1506–1507, when he was beaten with forty strokes of the bamboo, imprisoned in Beijing, and then exiled to a remote military post in Guizhou — one of the most backward regions of the empire, inhabited by non-Chinese peoples and considered a place of moral and physical danger. The emperor's favorite eunuch, Liu Jin (刘瑾 Liú Jǐn), had engineered the persecution. Wang Yangming survived the exile through what he later described as a direct insight into the nature of the mind — an experience of enlightenment, described in his biography as a night in which he suddenly understood what 格物致知 (investigation of things to extend knowledge) truly meant, and burst out laughing and crying simultaneously. This is the famous <strong>龙场悟道 Lóngchǎng wùdào</strong> — the enlightenment at Longchang — the founding moment of his philosophy.</p>
+      <p>He returned from exile to a distinguished career as an official and military commander — he suppressed rebellions and maintained order in difficult frontier regions — while simultaneously teaching and developing his philosophy in a style that was explicitly Socratic: dialogues with students, immediate responses to concrete situations, a constant refusal to systematize into rigid doctrine. His followers compiled his conversations into the <strong>《传习录》Chuánxí Lù</strong> (Instructions for Practical Living), one of the great documents of Chinese philosophy.</p>
+    </div>
+
+    <!-- ── BAMBOO ── -->
+    <span class="section-anchor" id="bamboo"></span>
+    <div class="section-head">
+      <span class="sh-cn">格竹的失败</span>
+      <span class="sh-py">gé zhú de shībài</span>
+      <span class="sh-en">The Bamboo Experiment — Where Zhu Xi's Method Failed</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="竹">
+      <div class="scholar-label">关键事件 guānjiàn shìjiàn · The Founding Failure</div>
+      <p>The story of Wang Yangming and the bamboo is one of the most famous philosophical anecdotes in Chinese history, and it bears careful reading because it encodes precisely what was at stake in the debate between the School of Principle (理学) and the School of Mind (心学).</p>
+      <p>As a young man committed to Zhu Xi's method of <strong>格物致知</strong> — investigating things to extend moral knowledge — Wang Yangming determined to begin systematically. He sat before a bamboo grove and devoted himself to probing the principle (理 lǐ) of the bamboo. He stayed for three days. He stayed for seven days. He found no moral principle; he learned only that bamboo has joints, is hollow, bends in wind. He became ill — exhausted, probably running a fever. He concluded that either the method was wrong or he lacked the moral constitution to execute it. He blamed himself and tried other things for years.</p>
+      <p>The critique he eventually developed was devastating in its logic. Zhu Xi's doctrine requires that moral principle exists in external things and affairs — that by investigating the bamboo, a table, a human relationship, a classical text, one gradually accumulates the components of moral knowledge until it coheres in a sudden comprehensive insight. But Wang Yangming asked: what exactly is the moral principle of bamboo? Bamboo has a botanical structure; it has properties; it grows and dies according to its nature. None of this tells you anything about how to be a good son, a loyal minister, a humane ruler. Either 格物 in Zhu Xi's sense cannot deliver moral knowledge, or the bamboo was the wrong thing to investigate, or — and this was Wang Yangming's conclusion — the principle does not reside <em>in</em> the bamboo at all.</p>
+      <p>Where does it reside? In the mind that perceives the bamboo. In the moral consciousness that the mind brings to every encounter with the world. This was the seed of his counter-doctrine: <strong>心即理 xīn jí lǐ</strong> — mind is principle.</p>
+    </div>
+
+    <!-- ── XIN JI LI ── -->
+    <span class="section-anchor" id="xinjiili"></span>
+    <div class="section-head">
+      <span class="sh-cn">心即理</span>
+      <span class="sh-py">xīn jí lǐ</span>
+      <span class="sh-en">Mind is Principle — The Central Thesis</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="即">
+      <div class="scholar-label">核心命题 héxīn mìngtí · The Philosophical Core</div>
+      <p>The three characters <strong>心即理 xīn jí lǐ</strong> — mind is principle — are among the most consequential in the history of Chinese philosophy. They invert the direction of moral inquiry that Zhu Xi had established. For Zhu Xi, 理 (principle) is objective — it exists in things and affairs independent of any mind, and the mind must go out to investigate and find it. For Wang Yangming, 理 is not outside the mind awaiting discovery; 理 <em>is</em> what the mind is in its most fundamental nature. The mind and moral principle are the same thing.</p>
+      <p>This does not mean that Wang Yangming was a pure idealist in the sense of denying the existence of the external world. His point is more specific: moral principle — the kind of principle that tells you what is right and wrong, what a good person does in a given situation — cannot be abstracted from the mind that perceives moral situations and responds to them. The principle of filial piety is not a structure embedded in the relationship between parent and child waiting to be extracted; it is the moral responsiveness of a mind that has a parent and knows what that relationship demands. The principle lives in the relationship-as-experienced, not in an abstract external structure.</p>
+      <p>A student once asked Wang Yangming: you say there is no principle outside the mind — but the flowers on the mountain bloom and fall regardless of whether I observe them. What does this have to do with my mind? Wang Yangming replied: when you do not look at the flowers, they do not exist <em>for you</em> — your mind and the flowers are both in a state of quiescence. When you come and observe them, their colors immediately become clear. This shows that the flowers are not separable from your mind. The response illustrates both the power and the difficulty of his position: he is making a phenomenological point (the world as morally experienced is not separable from the experiencing mind) that is easily misread as a denial of objective reality.</p>
+      <p>The practical implication is immediate: if moral principle is in the mind, you do not need to study external things for years before you can act morally. You already have moral principle within you. The task is not accumulation of external knowledge but clearing away the obstructions that prevent your innate moral knowledge from operating freely. This is why Wang Yangming's philosophy feels urgent and democratizing in a way that Zhu Xi's does not — it implies that every person, not just the highly educated, already has what they need to be good.</p>
+    </div>
+
+    <!-- ── ZHI XING HE YI ── -->
+    <span class="section-anchor" id="zhixing"></span>
+    <div class="section-head">
+      <span class="sh-cn">知行合一</span>
+      <span class="sh-py">zhī xíng hé yī</span>
+      <span class="sh-en">Unity of Knowledge and Action</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="知">
+      <div class="scholar-label">核心学说 héxīn xuéshuō · The Second Major Doctrine</div>
+      <p><strong>知行合一 zhī xíng hé yī</strong> — the unity of knowing and acting — is Wang Yangming's most famous and most practically influential doctrine. It sounds paradoxical: surely we often know something is right without doing it? We know we should exercise and do not; we know we should be patient and are not. How can knowing and acting be one?</p>
+      <p>Wang Yangming's response dismantles the apparent paradox by redefining what "genuine knowledge" means. He argues that what people call "knowing" when they say "I know I should exercise but don't" is not genuine knowledge but merely intellectual acknowledgment — a verbal registration that something is true, without the felt, embodied conviction that actually moves a person to act. <em>Genuine</em> knowledge of something good automatically moves you toward it; genuine knowledge of something harmful automatically moves you away from it. The person who knows that fire burns and still touches it has not genuinely known it — they have heard that fire burns. The person who has been burned knows it in the full sense, and that knowledge has the quality of avoidance built into it.</p>
+      <p>Applied to ethics: a person who says "I know I should be filial but I am not" has not yet genuinely known filial piety. They have an intellectual concept of filial piety. Genuine moral knowledge — the kind that comes from truly understanding what filial piety means and feeling its pull — would issue in filial action. The unity of knowing and acting is thus not a metaphysical claim that every thought is also an action, but an epistemological claim about the nature of genuine moral knowledge: it is inherently motivating. If you know and do not act, you do not yet fully know.</p>
+      <p>The further implication: moral cultivation is not primarily a matter of accumulating knowledge to be applied later. Acting morally <em>is</em> knowing morally; the separation of theory and practice is artificial and produces the kind of person who talks well about virtue while behaving badly. Wang Yangming was suspicious of pure scholars who had studied morality without practicing it — he thought their knowledge was merely verbal, a kind of sophisticated self-deception. This gave his philosophy its urgently practical quality and made it attractive to figures of action — military commanders, reformers, revolutionaries.</p>
+    </div>
+
+    <!-- ── LIANG ZHI ── -->
+    <span class="section-anchor" id="liangzhi"></span>
+    <div class="section-head">
+      <span class="sh-cn">致良知</span>
+      <span class="sh-py">zhì liángzhī</span>
+      <span class="sh-en">Extending Innate Moral Knowledge</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="良">
+      <div class="scholar-label">最终学说 zuìzhōng xuéshuō · The Mature Doctrine</div>
+      <p>The concept of <strong>良知 liángzhī</strong> — "innate moral knowledge" or "innate conscience" — comes from Mencius, who argued that everyone is born with the moral sprouts (四端 sì duān) of benevolence, righteousness, ritual propriety, and wisdom. Wang Yangming radicalized this inheritance into his most mature doctrine: <strong>致良知 zhì liángzhī</strong> — "extend" or "realize" the innate moral knowledge that everyone already possesses.</p>
+      <p>良知 is Wang Yangming's name for what every person already has as their fundamental moral capacity — the immediate, pre-reflective sense of right and wrong that arises spontaneously in any moral situation, before calculation and self-interest have a chance to obscure it. When you see a child about to fall into a well, the impulse of alarm and compassion that arises before you think about it — that is 良知 operating. When you are about to lie and feel a twinge of discomfort — that is 良知. It is not infallible, and it can be smothered by habit, selfishness, and intellectual overlay, but it is always there, and it is always responding to moral situations correctly in its first, uncorrupted movement.</p>
+      <p>The task of moral cultivation, then, is not to acquire 良知 — you already have it — but to <em>致</em> it: to extend it, to allow it to operate fully, to clear away the obstructions (selfish desires, intellectual confusion, habitual moral laziness) that prevent it from expressing itself in every situation. Wang Yangming compared 良知 to a bright mirror that has been covered with dust: the mirror itself is perfect; the work of cultivation is simply polishing.</p>
+      <p>This has a startling democratizing implication that Wang Yangming stated explicitly in one of his most memorable sayings: <strong>满街都是圣人 mǎn jiē dōu shì shèngrén</strong> — "saints fill the streets." Every person who acts from their 良知 is in that moment a sage. The Confucian ideal of sagehood, which the examination-focused tradition had made seem like an impossibly high and distant goal attainable only after decades of study, Wang Yangming placed within the immediate reach of every person who stopped thinking and simply acted from their innate moral sense. A woodcutter who cares for his mother is practicing sagehood in that moment as surely as any scholar who quotes the classics.</p>
+    </div>
+
+    <!-- ── LEGACY ── -->
+    <span class="section-anchor" id="legacy"></span>
+    <div class="section-head">
+      <span class="sh-cn">心学的影响</span>
+      <span class="sh-py">xīnxué de yǐngxiǎng</span>
+      <span class="sh-en">Legacy — China, Japan, and the Modern World</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="影">
+      <div class="scholar-label">历史洞见 lìshǐ dòngjiàn · The Afterlife of a Radical Philosophy</div>
+      <p>Wang Yangming's philosophy had a seismic impact on the intellectual history of East Asia that extends far beyond China's borders and continues into the present. Within Ming China, his school exploded into a diverse and often radical movement. Some of his followers — particularly <strong>王艮 Wáng Gěn</strong> (1483–1541 CE) and the so-called Taizhou School — pushed the democratizing implications of 良知 to their logical conclusion, arguing that ordinary people's moral experience was as valid as any scholar's, and taking the philosophy into the streets, markets, and workshops. 王艮 lectured to commoners, craftsmen, and farmers — a genuinely unprecedented act in Confucian tradition. The left wing of Wang Yangming's school became one of the most socially radical movements in Chinese intellectual history.</p>
+      <p>In <strong>Japan</strong>, Wang Yangming's philosophy arrived in the late sixteenth and seventeenth centuries and became known as <strong>陽明学 Yōmeigaku</strong>. Its impact on Japanese intellectual and political history was enormous, partly because its emphasis on action over scholarship, on moral urgency over ritual decorum, resonated with samurai culture in ways that Zhu Xi's more scholarly Neo-Confucianism did not. Several of the key intellectual figures behind the Meiji Restoration (1868) — the transformation of Japan into a modern state — were Yōmeigaku thinkers who drew on Wang Yangming's doctrine that genuine knowledge is expressed in action, and that loyalty to principle may override loyalty to existing authority. <strong>吉田松陰 Yoshida Shōin</strong> (1830–1859), one of the most important ideological architects of the Restoration, was deeply influenced by Yōmeigaku.</p>
+      <p>In modern China, Wang Yangming has been repeatedly invoked by reformers and revolutionaries. <strong>康有为 Kāng Yǒuwéi</strong>, the leader of the 1898 Hundred Days' Reform, admired him. The Nationalist leader <strong>蒋介石 Jiǎng Jièshí</strong> (Chiang Kai-shek) was a devoted follower who renamed the military academy at Nanjing after Wang Yangming's legendary site of enlightenment — 黄埔 Huángpǔ became 中正 Zhōngzhèng, after his own courtesy name, but the philosophical debt was explicit. And <strong>毛泽东 Máo Zédōng</strong>, whatever his formal ideology, displayed a Yangmingist suspicion of purely theoretical knowledge divorced from practice — the famous Maoist slogan 知行合一 appears in revolutionary documents, though filtered through Marxist-Leninist vocabulary into something Wang Yangming might not have recognized.</p>
+      <p>The deepest appeal of Wang Yangming's philosophy lies in its anti-fragmentation: the insistence that a person's knowing, acting, and being must be unified, that a life divided between what one knows and what one does is not a life but a sustained self-deception. This makes his work feel urgent across centuries and cultural boundaries — a challenge not to this or that doctrine but to the gap that exists in every human life between principle and practice, between what we claim to value and how we actually live.</p>
+    </div>
+
+    <!-- ── CHENGYU ── -->
+    <span class="section-anchor" id="chengyu"></span>
+    <div class="section-head">
+      <span class="sh-cn">成语与典故</span>
+      <span class="sh-py">chéngyǔ yǔ diǎngù</span>
+      <span class="sh-en">Key Passages &amp; Sayings</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="chengyu-grid">
+
+      <div class="cy">
+        <span class="cy-cn">知行合一</span>
+        <span class="cy-py">zhī xíng hé yī</span>
+        <span class="cy-en">the unity of knowledge and action — genuine knowing is inherently motivating</span>
+        <span class="cy-note">Wang Yangming's most famous doctrine and the phrase by which he is most often remembered in both China and Japan. In modern usage, 知行合一 has broadened into a general exhortation to match words with deeds and theory with practice — making it useful far beyond its original philosophical context. It appears in corporate mission statements, self-help books, and political speeches, usually with the specific epistemological claim stripped away. Understanding the original argument restores its full force: it is not merely "walk the talk" but a claim about the very nature of moral knowledge.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">此心光明，亦复何言</span>
+        <span class="cy-py">cǐ xīn guāngmíng, yì fù hé yán</span>
+        <span class="cy-en">this mind is bright and clear — what more is there to say?</span>
+        <span class="cy-note">Wang Yangming's last words, spoken on his deathbed in 1529 when a student asked if he had any final instructions. His response — that his mind was luminous (光明 guāngmíng), and that this was sufficient — encapsulates his entire philosophy. A mind in which 良知 operates freely and is not obscured by selfishness or intellectual overlay is a 光明 mind. At the moment of death, having lived as he believed one should, he found there was nothing left to say about how to live. The phrase is one of the great death-sentences in Chinese intellectual history.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">满街都是圣人</span>
+        <span class="cy-py">mǎn jiē dōu shì shèngrén</span>
+        <span class="cy-en">saints fill the streets — everyone already has the innate moral knowledge to be a sage</span>
+        <span class="cy-note">Said to have been uttered by Wang Yangming after a student asked skeptically whether ordinary people could really possess 良知. His response: walk out onto any busy street and observe — anyone who acts from their innate moral sense in that moment is a sage. This is the democratizing provocation at the heart of his philosophy, and it alarmed conservative Confucians who thought sagehood was the result of decades of rigorous cultivation. Wang Yangming was not denying that cultivation matters — but he was insisting that the moral resource from which cultivation works is already universally present.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">心外无理，心外无物</span>
+        <span class="cy-py">xīn wài wú lǐ, xīn wài wú wù</span>
+        <span class="cy-en">outside the mind there is no principle; outside the mind there are no things</span>
+        <span class="cy-note">Two formulations of Wang Yangming's central thesis in their most direct form. 心外无理 xīn wài wú lǐ directly contradicts Zhu Xi: principle is not outside the mind awaiting investigation. 心外无物 xīn wài wú wù is his response to the "flowers on the mountain" question — in the morally relevant sense, things do not exist independently of the mind that perceives them. These phrases were the most controversial in his philosophy; critics accused him of Buddhist idealism; supporters argued he was making a phenomenological point about moral experience, not a metaphysical claim about physical reality.</span>
+      </div>
+
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="page-footer">
+      <span class="footer-id">Field Notes on Chinese · <span>心学 xīnxué</span> · topic_xinxue.html</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>

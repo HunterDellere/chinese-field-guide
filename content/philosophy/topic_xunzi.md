@@ -1,0 +1,353 @@
+---
+type: 'topic'
+category: 'philosophy'
+status: 'complete'
+title: '荀子 · Xunzi'
+desc: 'Human nature as bad — ritual and education as correction.'
+metaDesc: "荀子 Xunzi: human nature is bad 性恶论, ritual as civilizing force, a naturalistic Heaven 天, the primacy of learning 学, and the paradox that Confucianism's greatest logician produced two Legalist students."
+pageTitle: '荀子 xúnzǐ'
+tags:
+  - 'xunzi'
+  - 'ritual'
+  - 'human-nature'
+updated: '2026-04-18'
+pinyin: 'xúnzǐ'
+---
+
+<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+    <span class="toc-topic">荀子</span>
+    <span class="toc-topic-en">Xunzi — The Rigorous Confucian</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#person">
+        <span class="toc-cn">荀子其人</span> Life &amp; World
+        <span class="toc-sub">310–235 BCE · the third great Confucian</span>
+      </a></li>
+      <li><a href="#xingelalun">
+        <span class="toc-cn">性恶论</span> Human Nature is Bad
+        <span class="toc-sub">the counter-claim to Mencius</span>
+      </a></li>
+      <li><a href="#li">
+        <span class="toc-cn">礼</span> Ritual as Civilization
+        <span class="toc-sub">why ritual must be imposed, not cultivated</span>
+      </a></li>
+      <li><a href="#tian">
+        <span class="toc-cn">天</span> A Naturalistic Heaven
+        <span class="toc-sub">Heaven without moral will</span>
+      </a></li>
+      <li><a href="#xue">
+        <span class="toc-cn">学</span> The Primacy of Learning
+        <span class="toc-sub">education as transformation</span>
+      </a></li>
+      <li><a href="#paradox">
+        <span class="toc-cn">荀子的悖论</span> The Paradox
+        <span class="toc-sub">the Confucian who made Legalists</span>
+      </a></li>
+      <li><a href="#passages">
+        <span class="toc-cn">经典语录</span> Key Passages
+        <span class="toc-sub">famous lines and chengyu</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- HERO -->
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">Philosophy · 哲学 zhéxué</span>
+      <h1 class="topic-hero-title">荀子</h1>
+      <span class="topic-hero-title-py">xúnzǐ</span>
+      <p class="topic-hero-desc">The most systematic and logically rigorous of the classical Confucians argued that human nature is innately bad, that Heaven is morally indifferent, and that civilization is an entirely human achievement — and then, paradoxically, trained the two students who became the architects of Legalism.</p>
+    </header>
+
+    <!-- ── PERSON ── -->
+    <span class="section-anchor" id="person"></span>
+    <div class="section-head">
+      <span class="sh-cn">荀子其人</span>
+      <span class="sh-py">xúnzǐ qírén</span>
+      <span class="sh-en">Life &amp; World</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="荀">
+      <div class="scholar-label">历史背景 lìshǐ bèijǐng · Historical Context</div>
+      <p>Xun Kuang 荀况 — Master Xun 荀子 — lived approximately 310–235 BCE, making him the latest of the three great Confucians and a figure whose life extended into the final, most violent phase of the Warring States period. He came from the state of Zhao 赵 in what is now Shanxi province. He spent much of his adult life studying and teaching at the famous Jixia Academy 稷下学宫 in the state of Qi 齐 — the most cosmopolitan intellectual institution of the ancient Chinese world, where thinkers from every school gathered to debate, teach, and refine their ideas in an atmosphere of unusual openness.</p>
+      <p>Xunzi's position at the Jixia Academy was eventually the highest honor available there: he was made its 祭酒 jì jiǔ — head libationer, essentially the rector of the academy — three times. This recognition reflects the esteem in which he was held by contemporaries, even though later Confucian tradition would evaluate him more ambivalently. He also served briefly as a magistrate in the state of Chu 楚, appointed by the Chu prime minister Lord Chunshen 春申君, before being removed when his patron fell from power.</p>
+      <p>As a philosopher, Xunzi is in a different register from Confucius and Mencius. Where Confucius teaches through example, aphorism, and dialogue, and Mencius argues through vivid analogies and emotional cases, Xunzi writes in sustained essays — carefully organized, argumentatively structured, willing to engage and refute rival positions at length. His text, the 荀子, consists of thirty-two chapters, most of which appear to be his own composition rather than records compiled by disciples. He is, in this sense, the first Chinese philosopher in the recognizable modern sense: a systematic thinker who writes his own arguments.</p>
+      <p>His position within the Confucian tradition is complicated. He considered himself a faithful follower of Confucius, dedicated to preserving and extending the Confucian Way in an era when he felt it was being distorted — particularly by what he considered Mencius's misguided optimism about human nature. Yet several of his most important doctrines diverge sharply from anything Confucius or Mencius said, and his two most famous students — 韩非 Hán Fēi and 李斯 Lǐ Sī — became the founding figures of Legalism 法家, the philosophical school most antithetical to Confucian values. This paradox has fascinated historians of Chinese thought for two millennia.</p>
+    </div>
+
+    <!-- ── XINGELALUN ── -->
+    <span class="section-anchor" id="xingelalun"></span>
+    <div class="section-head">
+      <span class="sh-cn">性恶论</span>
+      <span class="sh-py">xìng è lùn</span>
+      <span class="sh-en">Human Nature is Bad — The Counter-Claim to Mencius</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="性">
+      <div class="scholar-label">核心论证 héxīn lùnzhèng · Central Argument</div>
+      <p>Xunzi's most famous and most controversial doctrine is stated directly in the title of his twenty-third chapter: 性恶 xìng è — "Human Nature is Bad." The chapter opens with the uncompromising claim: 人之性恶，其善者伪也 — "Human nature is bad; what is good in human beings is their artificial (deliberately cultivated) achievement." 伪 wèi here does not mean "fake" or "hypocritical" — it means "deliberately made," "artificially produced" as opposed to naturally arising. Goodness is real, but it is an achievement, not a given.</p>
+      <p>The argument against Mencius is direct and carefully constructed. Mencius claims that human beings are innately good and that bad behavior results from neglect of one's innate moral sprouts or from the distorting effects of bad environment. Xunzi asks: if human nature were innately good, why would we need ritual 礼 and morality 义 at all? The need for these things proves that they are supplements to what nature provides — not expressions of it. If nature already inclined toward goodness, the elaborate apparatus of Confucian moral education would be redundant. But clearly it is not redundant — it is urgently necessary. Therefore nature alone is insufficient, which means it cannot be innately directed toward the good.</p>
+      <p>More specifically, Xunzi observes: what human beings naturally desire is pleasure, profit, and the satisfaction of appetite. Left without moral cultivation, people will pursue these desires in ways that generate conflict, disorder, and mutual destruction. This is not evil in the sense of malevolence — Xunzi does not think people are born with a will to harm others. Rather, they are born with desires that, if unregulated and untrained, will predictably generate harmful behavior. The distinction is important: innate badness, for Xunzi, means "innately insufficient" or "innately inclined toward disorder" rather than "innately malevolent."</p>
+      <p>The political consequence is significant and distinguishes Xunzi sharply from Mencius. If Mencius is right, moral cultivation involves drawing out and developing what is already present; the teacher's and ruler's task is to create conditions for natural goodness to emerge. If Xunzi is right, moral cultivation involves imposing external form on resistant natural material — it is more like the work of a craftsman shaping raw material than a gardener helping plants grow. This is why Xunzi emphasizes 礼 (ritual) and 师 (teachers) so heavily: they are the external forces that shape what nature alone cannot produce.</p>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">性恶</span>
+          <span class="card-py">xìng è</span>
+          <span class="card-en">human nature is bad — innately insufficient for morality without cultivation</span>
+        </div>
+        <div class="card-def">
+          Xunzi's foundational claim: 人之性恶，其善者伪也 — "Human nature is bad; what is good in humans is their deliberately cultivated achievement." 性 xìng: what one is born with. 恶 è: bad, harmful, insufficient. 伪 wèi: artificial, deliberately made (not fake). Goodness is real but must be built, not grown.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">人之性恶，其善者伪也。</div>
+            <div class="ex-py">Rén zhī xìng è, qí shàn zhě wèi yě.</div>
+            <div class="ex-en">Human nature is bad; what is good in humans is their deliberately cultivated achievement. (荀子·性恶)</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">辨析 biànxī · Comparison with Mencius</span>
+          The contrast 性善论 (Mencius) vs. 性恶论 (Xunzi) is one of the great debates of Chinese philosophy. Both agree that goodness is achievable and that moral education is essential. They disagree on what education does: for Mencius, it cultivates what is already there; for Xunzi, it imposes what is not naturally there. The difference determines the entire shape of their political and educational philosophies.
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">化性起伪</span>
+          <span class="card-py">huà xìng qǐ wèi</span>
+          <span class="card-en">transforming inborn nature and establishing the deliberately cultivated</span>
+        </div>
+        <div class="card-def">
+          化 huà (transform) + 性 xìng (inborn nature) + 起 qǐ (establish, raise up) + 伪 wèi (deliberate cultivation). The Xunzian formula for what moral education accomplishes: it transforms what is innate and establishes in its place the cultivated. Not suppression of nature but transformation of it through sustained effort. The result is fully real goodness, not fake behavior.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">圣人化性而起伪，伪起而生礼义。</div>
+            <div class="ex-py">Shèngrén huà xìng ér qǐ wèi, wèi qǐ ér shēng lǐyì.</div>
+            <div class="ex-en">The sage transforms inborn nature and establishes the deliberately cultivated; from this cultivation arise ritual and righteousness. (荀子·性恶)</div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- ── LI ── -->
+    <span class="section-anchor" id="li"></span>
+    <div class="section-head">
+      <span class="sh-cn">礼</span>
+      <span class="sh-py">lǐ</span>
+      <span class="sh-en">Ritual as Civilization — The Civilizing Force</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="禮">
+      <div class="scholar-label">礼的功能 lǐ de gōngnéng · The Function of Ritual</div>
+      <p>If human nature is innately bad — if our natural desires, unregulated, lead to disorder — then 礼 lǐ (ritual propriety) is not merely a cultural preference or an expression of inner goodness: it is the essential civilizing force without which human social life would be intolerable. Xunzi gives 礼 a more urgent philosophical grounding than either Confucius or Mencius did, precisely because his theory of human nature makes it more necessary.</p>
+      <p>Xunzi's account of the origin of ritual is quasi-historical and functional. He argues that the ancient sage-kings 圣王 devised ritual not arbitrarily but in response to a real problem: human desires are unlimited, but resources are limited. Without regulation, the competition for limited resources will generate endless conflict. Ritual is the system of institutionalized norms that calibrates desires to resources — that teaches people to want in appropriate measure, to defer to appropriate parties, and to coordinate their desires so that social life becomes possible. The origin of ritual is practical necessity, not Heaven's command.</p>
+      <p>This functional account of ritual's origin is philosophically significant. It makes ritual a human invention — the product of sages' wisdom in response to the problem of human nature — rather than a cosmic given or an expression of innate moral structure. This in turn makes the maintenance and transmission of ritual through institutions (schools, courts, families) absolutely essential: if ritual is not taught and enforced, it will not naturally regenerate from within. For Xunzi, the institutions of Confucian civilization — the teachers, the rulers, the rituals — are not refinements of something already present. They are the entire basis of whatever goodness human life can achieve.</p>
+      <p>The 礼 in Xunzi's text covers a wider range than in previous Confucian thought. It includes not only the traditional ritual forms (sacrifice, mourning, marriage) but the entire system of social norms, ranks, and proper relationships. 礼 is the structure of civilization itself. This expansive sense of ritual as civilizational structure — rather than as a set of specific practices — anticipates later neo-Confucian discussions of 理 lǐ (cosmic principle) and foreshadows the Legalist emphasis on institutional law as the foundation of social order.</p>
+    </div>
+
+    <!-- ── TIAN ── -->
+    <span class="section-anchor" id="tian"></span>
+    <div class="section-head">
+      <span class="sh-cn">天</span>
+      <span class="sh-py">tiān</span>
+      <span class="sh-en">A Naturalistic Heaven — Heaven Without Moral Will</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="天">
+      <div class="scholar-label">自然主义 zìrán zhǔyì · Naturalism</div>
+      <p>Xunzi's doctrine of Heaven 天 tiān is the most radical departure from the mainstream of Chinese religious and philosophical thought in the classical period, and arguably the most intellectually significant contribution he made. His chapter "On Heaven" 天论 is a systematic argument for a naturalistic understanding of the cosmos — one in which Heaven operates according to regular, impersonal principles that do not respond to human behavior, desires, or prayers.</p>
+      <p>The traditional Chinese view of Heaven — shared in various forms by Confucius, Mencius, and virtually all other classical thinkers — held that Heaven had a moral will and that it communicated with humans through natural events. Good governance produced good harvests; bad governance produced floods, droughts, and solar eclipses. The Mandate of Heaven was not merely a political metaphor but a cosmological reality: Heaven watched human affairs and responded. Mencius in particular connected this to his theory of 天命 tiānmìng (Heavenly Mandate) and the people's response as Heaven's instrument.</p>
+      <p>Xunzi rejects this view decisively. His argument: 天行有常，不为尧存，不为桀亡 — "Heaven's movements are constant; they do not persist for the sake of Yao (the sage-king) nor cease for the sake of Jie (the tyrant)." The cosmos operates according to regular natural laws that are completely indifferent to the identity or virtue of the rulers who happen to be alive at any given time. The seasons turn regardless of who is on the throne. The stars move in their courses regardless of the character of the man observing them. If floods occur, they occur because of natural processes, not as Heaven's judgment on human wickedness.</p>
+      <p>The consequences of this position are profound. It strips natural disasters, unusual celestial events, and agricultural plenty or failure of their status as moral messages from Heaven. An eclipse is not Heaven's disapproval of the emperor. A drought is not Heaven's punishment for corrupt officials. This demystification of natural events redirects human attention from supernatural explanation to natural investigation — an unusually proto-scientific orientation for classical Chinese thought. Xunzi's famous formula: 制天命而用之 zhì tiānmìng ér yòng zhī — "master the decrees of Heaven and use them." Rather than appealing to Heaven for favor, master the regularities of nature and put them to use.</p>
+      <p>This naturalism does not make Xunzi an atheist in the modern sense. He retains a role for ritual acknowledgment of Heaven and the ancestral spirits, but in a transformed register: these rituals are valuable not because Heaven actually responds to them, but because performing them expresses and cultivates the appropriate attitudes of reverence and humility that civilization requires. The function of ritual is psychological and social, not cosmological.</p>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">天行有常</span>
+          <span class="card-py">tiān xíng yǒu cháng</span>
+          <span class="card-en">Heaven's movements are constant — the cosmos operates by regular, impersonal laws</span>
+        </div>
+        <div class="card-def">
+          天 tiān (Heaven/Nature) + 行 xíng (movements, operations) + 有常 yǒu cháng (have regularity, are constant). The foundational statement of Xunzi's naturalism. Heaven's processes are reliable precisely because they are not subject to human will or divine whim. Used in modern Chinese to mean: natural processes are consistent and predictable.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">天行有常，不为尧存，不为桀亡。</div>
+            <div class="ex-py">Tiān xíng yǒu cháng, bù wéi Yáo cún, bù wéi Jié wáng.</div>
+            <div class="ex-en">Heaven's movements are constant; they do not persist for Yao nor cease for Jie. (荀子·天论)</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">制天命而用之</span>
+          <span class="card-py">zhì tiānmìng ér yòng zhī</span>
+          <span class="card-en">master the decrees of Heaven and use them — human agency over nature</span>
+        </div>
+        <div class="card-def">
+          制 zhì (master, control) + 天命 tiānmìng (Heaven's decrees — here: natural regularities) + 用之 yòng zhī (put them to use). Rather than praying to Heaven for good weather, study the patterns of weather and use them. Rather than appeasing spirits for good harvests, understand the principles of agriculture and apply them. A proto-scientific orientation: knowledge as the basis of mastery over natural processes.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">大天而思之，孰与物畜而制之？</div>
+            <div class="ex-py">Dà tiān ér sī zhī, shú yǔ wù xù ér zhì zhī?</div>
+            <div class="ex-en">Exalting Heaven and longing for it — is that better than tending to things and mastering them? (荀子·天论)</div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- ── XUE ── -->
+    <span class="section-anchor" id="xue"></span>
+    <div class="section-head">
+      <span class="sh-cn">学</span>
+      <span class="sh-py">xué</span>
+      <span class="sh-en">The Primacy of Learning — Education as Transformation</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="學">
+      <div class="scholar-label">教育哲学 jiàoyù zhéxué · Philosophy of Education</div>
+      <p>The opening line of the Xunzi is 学不可以已 — "Learning cannot stop." This is not merely an inspirational exhortation. It is a philosophical statement that follows necessarily from Xunzi's doctrine of human nature. If human beings are not innately good, if goodness must be cultivated and imposed rather than drawn out, then the process of moral learning never reaches a natural completion point. There is no moment at which one has fully become good and can stop. The process of cultivation — 学 xué, 礼 lǐ, self-examination — must be continuous.</p>
+      <p>Xunzi's first chapter, 劝学 (Encouraging Learning), is one of the most celebrated essays in classical Chinese literature. It is a sustained argument for the transformative power of learning, using a series of brilliant analogies. Blue dye comes from the indigo plant but is bluer than the plant itself — the product can surpass its source. Straight wood bends into a wheel when steamed and will remain bent even when the steaming stops — transformation through sustained process is permanent. Metal, however sharp the original ore, becomes sharper still when ground on a whetstone. And then: 君子博学而日参省乎己，则知明而行无过矣 — "The noble person who learns broadly and each day examines himself will have clear understanding and act without error." The examination of the self is not optional — it is the mechanism through which learning becomes internalized rather than merely memorized.</p>
+      <p>The metaphor that most precisely captures Xunzi's view of education: 蓬生麻中，不扶而直 — "Hemp growing among mugwort will stand straight without being supported." The plant grows straight not because of its own nature but because of the environment in which it grows. Human beings are similarly shaped by their environment. This is why the choice of teachers, friends, and surroundings is so important. And this is why institutional education — schools, courts, the systematic transmission of ritual and classical learning — is not a supplement to human development but its primary vehicle.</p>
+    </div>
+
+    <div class="pattern">
+      <span class="label">学的三要素 xué de sān yàosù · Three Elements of Learning (Xunzi)</span>
+      <strong>师 shī — Teachers</strong> → the indispensable human transmitters of the tradition; learning without teachers produces errors<br>
+      <strong>礼 lǐ — Ritual</strong> → the curriculum itself; ritual is the knowledge-form that must be mastered and internalized<br>
+      <strong>积 jī — Accumulation</strong> → learning is incremental; virtue is built through sustained small acts, not sudden transformation
+    </div>
+
+    <!-- ── PARADOX ── -->
+    <span class="section-anchor" id="paradox"></span>
+    <div class="section-head">
+      <span class="sh-cn">荀子的悖论</span>
+      <span class="sh-py">xúnzǐ de bèilùn</span>
+      <span class="sh-en">The Paradox — The Confucian Who Made Legalists</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="法">
+      <div class="scholar-label">历史悖论 lìshǐ bèilùn · Historical Paradox</div>
+      <p>The most discussed fact about Xunzi's career is that his two most famous students — 韩非 Hán Fēi and 李斯 Lǐ Sī — became the founding theorists and practitioners of Legalism 法家, the philosophical school that achieved the unification of China under the Qin dynasty (221–206 BCE) but whose methods were precisely antithetical to Confucian values. Han Fei became the greatest Legalist theorist. Li Si became the prime minister of the Qin emperor and the administrator of the unified empire. Both were brilliant men. Both were products of Xunzi's instruction. The question of how a Confucian schoolroom produced two Legalists is the central puzzle of Xunzi's intellectual legacy.</p>
+      <p>The answer lies in what Xunzi and the Legalists share, and what they differ on. They share: (1) a rejection of Mencius's innate goodness thesis; (2) a belief that human behavior must be shaped by external institutions rather than cultivated from within; (3) a practical, unsentimental orientation toward the problem of social order; (4) a high estimation of the role of rules, norms, and law (礼 in Xunzi, 法 fǎ in the Legalists) in regulating human behavior. Where they diverge: Xunzi insists that the institutions of civilization — and the values they encode — must be Confucian: humaneness 仁, righteousness 义, ritual 礼. The Legalists drop the Confucian values and retain only the institutional mechanism: the ruler governs through strict and impartially applied law 法, administered rewards and punishments 赏罚, and the careful management of officials' power 术. The result is a bureaucratic administration without Confucian virtue.</p>
+      <p>It is as if Xunzi gave his students the argument form — "humans need external institutional shaping to become good" — and they took the argument form while rejecting its Confucian content. From Xunzi's point of view, this was a catastrophic misuse of the argument. A state governed by strict law and ruthless administration, without the humanizing influence of ritual and virtue, would be efficient but inhuman — which is precisely what the Qin empire became. The Qin collapsed after fifteen years, having unified China at enormous human cost and then being unable to hold what it had won. Later Confucians were able to point to the Qin collapse as evidence that Legalism, for all its administrative efficiency, could not sustain itself — that the Confucian virtues Xunzi's students had abandoned were in fact indispensable.</p>
+      <p>Xunzi himself was ambivalent about Legalist methods. He engaged seriously with the question of law and governance, and his political philosophy has more institutional specificity than Mencius's. But he never abandoned the view that ritually cultivated virtue — not law — was the foundation of a genuinely humane political order. His students chose the institutional structure and discarded the virtue. In doing so, they demonstrated, perhaps more clearly than Xunzi intended, exactly how much depends on the values that fill an institution, rather than the institution itself.</p>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">韩非</span>
+          <span class="card-py">Hán Fēi</span>
+          <span class="card-en">Han Fei — greatest Legalist theorist, student of Xunzi</span>
+        </div>
+        <div class="card-def">
+          韩非 (280–233 BCE): a prince of the state of Han who studied under Xunzi and became the most systematic theorist of Legalism 法家. His text, the 韩非子 Hánfēizǐ, synthesizes earlier Legalist thought and provides the fullest account of governance through law 法, technique 术, and power 势. He was eventually imprisoned and killed by Li Si — his fellow student and rival — after the Qin state conquered Han.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">以法治国。</div>
+            <div class="ex-py">Yǐ fǎ zhì guó.</div>
+            <div class="ex-en">Govern the state through law. (Core Legalist principle)</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">李斯</span>
+          <span class="card-py">Lǐ Sī</span>
+          <span class="card-en">Li Si — prime minister of Qin, architect of the unified empire, student of Xunzi</span>
+        </div>
+        <div class="card-def">
+          李斯 (280–208 BCE): Xunzi's student who rose to become prime minister of the Qin state and then the unified Qin empire. He implemented many of the administrative reforms — standardization of weights, measures, script, and roads — that defined the Qin empire. He also pushed for the burning of books 焚书 and the burying of Confucian scholars 坑儒 — a policy that targeted the very tradition in which he had been educated. He was eventually executed by the second Qin emperor.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">书同文，车同轨。</div>
+            <div class="ex-py">Shū tóng wén, chē tóng guǐ.</div>
+            <div class="ex-en">Unify writing; unify the axle gauge. (Qin standardization slogan)</div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- ── PASSAGES ── -->
+    <span class="section-anchor" id="passages"></span>
+    <div class="section-head">
+      <span class="sh-cn">经典语录</span>
+      <span class="sh-py">jīngdiǎn yǔlù</span>
+      <span class="sh-en">Key Passages and Chengyu</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="chengyu-grid">
+
+      <div class="cy">
+        <span class="cy-cn">青出于蓝而胜于蓝</span>
+        <span class="cy-py">qīng chū yú lán ér shèng yú lán</span>
+        <span class="cy-en">Blue comes from indigo but surpasses indigo — the student surpasses the teacher</span>
+        <span class="cy-note">From 劝学 (Encouraging Learning), the opening chapter of the Xunzi. The original context is an argument about the power of education to transform: the product (blue dye) surpasses its source (the indigo plant) through processing. Xunzi uses this as an analogy for how sustained learning and cultivation can produce character that surpasses the merely natural starting point. In modern Chinese it is used exclusively to mean: the student has surpassed the teacher; the younger generation has exceeded the older. One of the most commonly cited chengyu in educational contexts.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">锲而不舍，金石可镂</span>
+        <span class="cy-py">qiè ér bù shě, jīn shí kě lòu</span>
+        <span class="cy-en">Persevere without giving up, and you can engrave even metal and stone</span>
+        <span class="cy-note">From 劝学. The full passage contrasts: if you chisel but give up, you cannot even cut rotten wood; if you persevere without stopping, you can engrave metal and stone. The image captures Xunzi's emphasis on accumulation 积 and sustained effort: virtue is not achieved through sudden insight but through relentless, incremental practice. The contrast with Mencius is implicit — Mencius locates goodness in the innate; Xunzi locates it in the sustained act of cultivation. Used in modern Chinese to mean: persistence is the key to achievement in any difficult domain.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">学不可以已</span>
+        <span class="cy-py">xué bù kě yǐ yǐ</span>
+        <span class="cy-en">Learning cannot stop — the process of cultivation has no natural endpoint</span>
+        <span class="cy-note">Opening line of the Xunzi and of the 劝学 chapter — the programmatic statement of Xunzi's entire educational philosophy. 已 yǐ: to stop, to cease. The philosophical force follows from the 性恶论: if goodness is not innate but must be cultivated, then the cultivation is never complete by its own logic. There is no natural moment of arrival. Learning, self-examination, and ritual practice must be continuous. Used in modern Chinese as a general statement about the value of lifelong learning.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">制天命而用之</span>
+        <span class="cy-py">zhì tiānmìng ér yòng zhī</span>
+        <span class="cy-en">Master the decrees of Heaven and use them — human agency as the response to natural necessity</span>
+        <span class="cy-note">From 天论 (On Heaven). Contrasted with the alternative: 大天而思之 — "exalting Heaven and longing for it." Xunzi argues that the latter is passive and futile; the former is the correct response to a world governed by regular, impersonal natural processes. Rather than appeasing a morally attentive Heaven, learn the patterns of nature and put that knowledge to work. This proto-scientific orientation was unusual in classical Chinese thought and represents Xunzi's most distinctive contribution to Chinese intellectual history.</span>
+      </div>
+
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="page-footer">
+      <span class="footer-id">Field Notes on Chinese · <span>荀子 xúnzǐ</span> · topic_xunzi.html</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>
