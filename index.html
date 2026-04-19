@@ -119,8 +119,8 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Noto+Serif+SC:wght@400;600;700&family=Inconsolata:wght@400;500&display=swap">
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Noto+Serif+SC:wght@400;600;700&family=Inconsolata:wght@400;500&display=swap" rel="stylesheet">
-<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='14' fill='%238b1a1a'/><rect x='6' y='6' width='88' height='88' rx='10' fill='none' stroke='%23f2e8d5' stroke-width='2' stroke-opacity='0.55'/><text x='50' y='52' text-anchor='middle' dominant-baseline='central' font-family='Noto Serif SC, serif' font-size='68' font-weight='700' fill='%23f2e8d5'>書</text></svg>">
-<link rel="apple-touch-icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 180 180'><rect width='180' height='180' rx='32' fill='%238b1a1a'/><rect x='12' y='12' width='156' height='156' rx='22' fill='none' stroke='%23f2e8d5' stroke-width='3' stroke-opacity='0.55'/><text x='90' y='94' text-anchor='middle' dominant-baseline='central' font-family='Noto Serif SC, serif' font-size='118' font-weight='700' fill='%23f2e8d5'>書</text></svg>">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='14' fill='%238b1a1a'/><rect x='6' y='6' width='88' height='88' rx='10' fill='none' stroke='%23f2e8d5' stroke-width='2' stroke-opacity='0.55'/><text x='50' y='30' text-anchor='middle' dominant-baseline='central' font-family='Noto Serif SC, serif' font-size='42' font-weight='700' fill='%23f2e8d5'>書</text><text x='50' y='72' text-anchor='middle' dominant-baseline='central' font-family='Noto Serif SC, serif' font-size='42' font-weight='700' fill='%23f2e8d5'>屋</text></svg>">
+<link rel="apple-touch-icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 180 180'><rect width='180' height='180' rx='32' fill='%238b1a1a'/><rect x='12' y='12' width='156' height='156' rx='22' fill='none' stroke='%23f2e8d5' stroke-width='3' stroke-opacity='0.55'/><text x='90' y='54' text-anchor='middle' dominant-baseline='central' font-family='Noto Serif SC, serif' font-size='72' font-weight='700' fill='%23f2e8d5'>書</text><text x='90' y='128' text-anchor='middle' dominant-baseline='central' font-family='Noto Serif SC, serif' font-size='72' font-weight='700' fill='%23f2e8d5'>屋</text></svg>">
 <link rel="stylesheet" href="style.css">
 <style>
   .index-shell {
@@ -191,17 +191,28 @@
     vertical-align: 0.05em;
     box-shadow: 0 0 0 2px rgba(160,100,40,0.18);
   }
+  /* Hero glyph — a small chop / seal-stamp with 書屋 stacked vertically,
+     the way a corner bookshop's hanging sign reads. The two characters share
+     equal weight and a thin inner border, like a name seal (名章). */
   .index-hero-glyph {
-    font-family: var(--font-cn); font-size: 5.5rem; color: var(--papyrus);
-    line-height: 1;
+    font-family: var(--font-cn); color: var(--papyrus);
     width: 7.5rem; height: 7.5rem;
     margin: 0 auto 1rem;
-    display: flex; align-items: center; justify-content: center;
+    display: flex; flex-direction: column;
+    align-items: center; justify-content: center;
+    gap: 0.05rem;
     background: var(--red);
     border-radius: 12px;
     position: relative;
     letter-spacing: 0;
     box-shadow: 0 4px 0 rgba(139,26,26,0.35), 0 12px 32px rgba(139,26,26,0.22);
+    padding: 0.4rem 0;
+  }
+  .index-hero-glyph .ihg-cn {
+    font-family: var(--font-cn); font-weight: 700;
+    font-size: 2.65rem; line-height: 1.02;
+    letter-spacing: 0;
+    display: block;
   }
   .index-hero-glyph::after {
     content: '';
@@ -966,7 +977,8 @@
     .overview-grid { grid-template-columns: repeat(2, 1fr); }
     .colophon { grid-template-columns: 1fr; gap: 1.5rem; }
     .index-hero-title { font-size: 2.2rem; }
-    .index-hero-glyph { width: 6rem; height: 6rem; font-size: 4.2rem; }
+    .index-hero-glyph { width: 6rem; height: 6rem; padding: 0.3rem 0; }
+    .index-hero-glyph .ihg-cn { font-size: 2.05rem; }
     .start-here-list { grid-template-columns: repeat(2, 1fr); }
     .featured-card { grid-template-columns: 1fr; gap: 0.9rem; padding: 1.3rem 1.4rem; }
     .featured-glyph { width: 4.5rem; height: 4.5rem; font-size: 2.8rem; }
@@ -978,7 +990,8 @@
   }
   @media (max-width: 600px) {
     .index-shell { padding: 2rem 1.25rem 4rem; }
-    .index-hero-glyph { width: 5rem; height: 5rem; font-size: 3.5rem; }
+    .index-hero-glyph { width: 5rem; height: 5rem; padding: 0.25rem 0; }
+    .index-hero-glyph .ihg-cn { font-size: 1.7rem; }
     .index-hero-title { font-size: 1.85rem; }
     .overview-grid { grid-template-columns: 1fr; }
     .start-here-list { grid-template-columns: repeat(2, 1fr); }
@@ -1018,7 +1031,10 @@
   <span id="top" aria-hidden="true" style="position:absolute;top:0;"></span>
 
   <header class="index-hero">
-    <span class="index-hero-glyph" aria-hidden="true">書</span>
+    <span class="index-hero-glyph" aria-label="Shūwū" role="img">
+      <span class="ihg-cn" aria-hidden="true">書</span>
+      <span class="ihg-cn" aria-hidden="true">屋</span>
+    </span>
     <div class="index-hero-eyebrow">
       <span class="eyebrow-cn">角落書屋</span>
       <span class="eyebrow-sep">·</span>
