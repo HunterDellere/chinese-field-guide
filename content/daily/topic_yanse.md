@@ -60,7 +60,7 @@ pinyin: 'yánsè'
       <p class="topic-hero-desc">Red for joy, white for death, green hats and yellow emperors — the symbolic weight of color in Chinese daily life.</p>
     </header>
 
-    <section class="section-anchor" id="red">
+    <span class="section-anchor" id="red"></span>
       <h2 class="section-head">Red · 红 hóng</h2>
       <div class="scholar" data-glyph="红">
         <div class="scholar-label">喜庆 xǐqìng · Joy and Celebration</div>
@@ -68,9 +68,9 @@ pinyin: 'yánsè'
         <p>The association of red with the Communist Party adds a political dimension that overlays the traditional symbolism: red is simultaneously the color of good fortune and of the revolution. In practice, the contexts are largely separate — red at a wedding is clearly traditional luck; red flags are clearly political — but the color carries both registers simultaneously in a way that has no equivalent in most Western color symbolism.</p>
         <p>Gift-giving tip: red packaging, red ribbon, or red envelopes signal auspiciousness. Wrapping a gift in white or black packaging is an error with specific funereal connotations. The color of the packaging communicates intent as clearly as the gift itself.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="white">
+
+    <span class="section-anchor" id="white"></span>
       <h2 class="section-head">White · 白 bái</h2>
       <div class="scholar" data-glyph="白">
         <div class="scholar-label">丧事 sāngshì · Mourning</div>
@@ -78,9 +78,9 @@ pinyin: 'yánsè'
         <p>This creates a direct collision with Western bridal convention. A Chinese bride wearing white at her wedding is adopting a Western fashion; her mother and grandmother may be quietly uncomfortable. Traditional Chinese brides wear red; modern urban weddings often include both — a white Western-style wedding dress for the photography, then a change into red qipao for the banquet.</p>
         <p>The symbolic logic: white is associated with the West (西 xī) in the traditional Five Phases color system — white corresponds to metal, autumn, and the direction west, which is the direction the sun sets and where death lies. This directional symbolism predates any Western influence and explains why white has carried this meaning for thousands of years.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="yellow">
+
+    <span class="section-anchor" id="yellow"></span>
       <h2 class="section-head">Yellow · 黄 huáng</h2>
       <div class="scholar" data-glyph="黄">
         <div class="scholar-label">皇色 huángsè · Imperial Color</div>
@@ -88,9 +88,9 @@ pinyin: 'yánsè'
         <p>Yellow is also the color of the center in the Five Phases system — associated with earth, harvest, and the generative middle of things. The Yellow Emperor (黄帝 Huángdì) is the mythological ancestor of the Chinese people, and the Yellow River (黄河 Huánghé) is the "Mother River" of Chinese civilization. Yellow saturates the founding mythology in a way that makes it impossible to disentangle from concepts of civilization itself.</p>
         <p>A modern complication: <strong>黄色</strong> (huángsè) has acquired the meaning "pornographic" or "obscene" in contemporary slang — a usage that appears to derive from Western associations (yellow journalism, yellow as a color of low quality) via translation. Context determines which meaning applies, but the slippage is a reliable source of unintended comedy for language learners.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="others">
+
+    <span class="section-anchor" id="others"></span>
       <h2 class="section-head">Other Colors · 其他颜色 qítā</h2>
       <div class="cards">
         <div class="card c-teal">
@@ -110,9 +110,9 @@ pinyin: 'yánsè'
           <p>Gold is the color of wealth, success, and material prosperity. It appears heavily in New Year decorations, business signage, and gift packaging. In interior design, gold accents signal luxury and aspiration. Unlike yellow's imperial connotations, gold is accessible — anyone can use it to signal prosperity.</p>
         </div>
       </div>
-    </section>
 
-    <section class="section-anchor" id="vocab">
+
+    <span class="section-anchor" id="vocab"></span>
       <h2 class="section-head">Key Vocabulary · 词汇 cíhuì</h2>
       <div class="cards">
         <div class="card c-red">
@@ -128,7 +128,7 @@ pinyin: 'yánsè'
           <p>Lucky, propitious — used of colors, numbers, objects, and words considered fortunate. Red, gold, and 8 are 吉利; white flowers and the number 4 are not.</p>
         </div>
       </div>
-    </section>
+
 
     <footer class="page-footer">
       <span class="footer-id">Field Notes on Chinese · <span>颜色</span> · Everyday Life</span>

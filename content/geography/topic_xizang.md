@@ -67,7 +67,7 @@ pinyin: 'Xīzàng'
       <p class="topic-hero-desc">The Roof of the World — a plateau so high it generates its own weather, a civilization shaped by altitude, and a Buddhism that grew from the landscape as much as from doctrine.</p>
     </header>
 
-    <section class="section-anchor" id="plateau">
+    <span class="section-anchor" id="plateau"></span>
       <h2 class="section-head">The Plateau · 青藏高原 Qīng-Zàng Gāoyuán</h2>
       <div class="scholar" data-glyph="藏">
         <div class="scholar-label">世界屋脊 shìjiè wūjǐ · The Roof of the World</div>
@@ -85,9 +85,9 @@ pinyin: 'Xīzàng'
         <strong>Population of Tibet Autonomous Region</strong> → approximately 3.7 million (2020 census)<br>
         <strong>Administrative capital</strong> → 拉萨 Lhāsā (Lhasa), elevation 3,650 m
       </div>
-    </section>
 
-    <section class="section-anchor" id="buddhism">
+
+    <span class="section-anchor" id="buddhism"></span>
       <h2 class="section-head">Tibetan Buddhism · 藏传佛教 Zàngchuán Fójiào</h2>
       <div class="scholar" data-glyph="佛">
         <div class="scholar-label">金刚乘 jīngāngchéng · Vajrayana and the Landscape of Practice</div>
@@ -96,9 +96,9 @@ pinyin: 'Xīzàng'
         <p>The geography of Tibet is inseparable from the practice of Tibetan Buddhism. Mountains, passes, and lakes are not merely landscape features but sites of power — inhabited by deities, associated with particular lineages, the destinations of pilgrimage circuits. Mount Kailash (冈仁波齐 Gāng Rénbōqí) is the most sacred mountain in the tradition: Hindus, Buddhists, Jains, and Bön practitioners all regard it as the center of the world, and thousands of pilgrims annually circumambulate its base — a 52-kilometer circuit called a <strong>科拉</strong> (kēlā, Tibetan: kora). The pilgrimage landscape of Tibet is one in which every significant geographic feature is also a religious map.</p>
         <p>Monasteries (<strong>寺院</strong> sìyuàn) were the institutional foundation of traditional Tibetan society. The three great Gelug monasteries near Lhasa — Ganden, Drepung, and Sera — each housed thousands of monks and functioned as universities, courts, and economic centers as much as places of worship. The monastery system was the primary vehicle of literacy, of legal administration, and of cultural transmission across the plateau. The destruction of the Cultural Revolution, which targeted religious institutions across China with particular intensity, devastated the monastery network; reconstruction has been ongoing since the 1980s.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="potala">
+
+    <span class="section-anchor" id="potala"></span>
       <h2 class="section-head">The Potala Palace · 布达拉宫 Bùdálā Gōng</h2>
       <div class="scholar" data-glyph="宫">
         <div class="scholar-label">拉萨的心脏 · The Heart of Lhasa</div>
@@ -106,9 +106,9 @@ pinyin: 'Xīzàng'
         <p>The palace was the winter residence of the Dalai Lamas — the summer residence was the Norbulingka garden palace on the western edge of Lhasa. Until 1959, when the Fourteenth Dalai Lama fled to India following an uprising against Chinese administration, the Potala was the center of Tibetan political and religious authority simultaneously. The institution of the Dalai Lama embodies the Tibetan fusion of religious and governmental power: the Dalai Lama is understood as the incarnation of Avalokiteshvara (观世音菩萨 Guānshìyīn Púsà, the bodhisattva of compassion), the patron deity of Tibet, who rules through successive rebirths.</p>
         <p>Today the Potala is a museum and UNESCO World Heritage Site. It receives hundreds of thousands of visitors annually and is one of the most recognizable architectural images in the world. Its symbolic charge for Tibetans in and outside Tibet remains very high — it appears on the flag used by the Tibetan exile government and in the imagery of the political movement for Tibetan autonomy or independence. For the PRC government, it is simultaneously a heritage site to be preserved and an element of the broader narrative of Tibet as part of Chinese civilization since antiquity.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="history">
+
+    <span class="section-anchor" id="history"></span>
       <h2 class="section-head">Historical Relations · 历史关系 lìshǐ guānxi</h2>
       <div class="scholar" data-glyph="史">
         <div class="scholar-label">唐朝到中华人民共和国 · Tang Dynasty to the PRC</div>
@@ -116,18 +116,18 @@ pinyin: 'Xīzàng'
         <p>The Mongol Yuan dynasty (1271–1368) brought Tibet into a relationship of patronage with the Sakya lamas — the Yuan emperors supported the Sakya school institutionally, and the Sakya hierarch performed Buddhist rituals for the imperial court in a relationship scholars call "patron-priest" or chö-yön. Whether this constituted Tibetan incorporation into the Mongol empire or a bilateral religious-political relationship is debated. The Ming dynasty that followed had less direct engagement with the plateau. The Qing dynasty (1644–1912) is most significant for contemporary disputes: Qing emperors were patrons of Tibetan Buddhism and maintained substantial authority over Tibetan affairs, particularly after military interventions in the eighteenth century. Whether this made Tibet part of the Qing empire in the same sense that Hebei was, or a protectorate with a different legal status, is the crux of the historical argument that underlies contemporary political claims.</p>
         <p>The modern sequence is less disputed in its facts than in its interpretation. The Republic of China (1912–1949) claimed sovereignty over Tibet while being largely unable to project power there. Tibet functioned with substantial de facto independence during this period, with its own government, currency, and passport, although it received no international recognition as an independent state. In 1950, the People's Liberation Army entered Tibet; the 1951 Seventeen-Point Agreement formalized Tibet's incorporation into the People's Republic. The uprising of 1959 and the flight of the Dalai Lama to Dharamsala in India marked the end of the traditional Tibetan government-in-exile's operation within Tibet. The Tibet Autonomous Region was formally established in 1965.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="today">
+
+    <span class="section-anchor" id="today"></span>
       <h2 class="section-head">Tibet Today · 当代西藏 dāngdài Xīzàng</h2>
       <div class="scholar" data-glyph="今">
         <div class="scholar-label">文化保护与变化 · Preservation and Change</div>
         <p>Contemporary Tibet is a zone of rapid economic development and complex cultural dynamics. The Qinghai-Tibet Railway, completed in 2006 and running to 5,072 meters at its highest point — the world's highest railway — transformed access to the plateau. It brought Han Chinese migrants, tourists, manufactured goods, and state investment at a scale and speed that previous infrastructure could not have delivered. Lhasa has expanded dramatically; its urban fabric now includes large Han-majority commercial districts alongside the historic Tibetan quarter around the Jokhang Temple.</p>
         <p>Tibetan language, religion, and cultural practice continue, and the monastery restoration since the 1980s has been substantial. Tibetan Buddhism is practiced openly, the Jokhang Temple receives pilgrims daily, and the traditional arts of thangka painting, butter sculpture, and ritual music are maintained by active practitioners. At the same time, the political situation — particularly the question of the Dalai Lama's succession and the status of Tibetan cultural and religious autonomy — remains a source of tension both within Tibet and in China's international relations. The balance between development and cultural continuity, and who controls the terms of that balance, is the defining question of contemporary Tibetan life.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="vocab">
+
+    <span class="section-anchor" id="vocab"></span>
       <h2 class="section-head">Key Vocabulary · 词汇 cíhuì</h2>
       <div class="cards">
         <div class="card c-ochre">
@@ -151,7 +151,7 @@ pinyin: 'Xīzàng'
           <p>Snow Land — a poetic name for Tibet, used in both Chinese and Tibetan contexts. Refers to the snowcapped mountains and high plateau character of the Tibetan landscape and appears in poetry, song, and political rhetoric from multiple perspectives.</p>
         </div>
       </div>
-    </section>
+
 
     <footer class="page-footer">
       <span class="footer-id">Field Notes on Chinese · <span>西藏</span> · Geography</span>

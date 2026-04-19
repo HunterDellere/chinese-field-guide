@@ -67,7 +67,7 @@ pinyin: 'Shànghǎi'
       <p class="topic-hero-desc">From fishing village to the most cosmopolitan city in Asia — a port that absorbed empires, reinvented itself three times, and has never quite decided whether it belongs to China or the world.</p>
     </header>
 
-    <section class="section-anchor" id="geography">
+    <span class="section-anchor" id="geography"></span>
       <h2 class="section-head">Geography &amp; Position · 地理位置 dìlǐ wèizhi</h2>
       <div class="scholar" data-glyph="海">
         <div class="scholar-label">长三角 · The Yangtze Delta Gateway</div>
@@ -75,9 +75,9 @@ pinyin: 'Shànghǎi'
         <p>This geography made Shanghai's rise almost inevitable once China began trading with the world. A city at the mouth of a river draining 1.8 million square kilometers of the most productive agricultural land in China — land that produces silk, tea, porcelain, and grain — is positioned to become a trading hub regardless of any particular political arrangement. What the mid-nineteenth century colonial system did was accelerate a process that the river's own logic had already set in motion.</p>
         <p>Modern Shanghai is a municipality directly under the central government, with a total land area of approximately 6,340 km² including its offshore islands. Its population of roughly 24 million makes it one of the five largest cities on earth. The Huangpu River divides the city between <strong>浦西</strong> (Pǔxī, "west of the Pu") — the historic core — and <strong>浦东</strong> (Pǔdōng, "east of the Pu") — the reclaimed and developed zone that became the symbol of reform-era China's ambitions.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="concessions">
+
+    <span class="section-anchor" id="concessions"></span>
       <h2 class="section-head">The Concession Era · 租界时代 zūjiè shídài</h2>
       <div class="scholar" data-glyph="界">
         <div class="scholar-label">1842–1943 · 外滩与半殖民地 · The Bund and Semi-Colonialism</div>
@@ -86,9 +86,9 @@ pinyin: 'Shànghǎi'
         <p>The <strong>外滩</strong> (Wàitān, "The Bund") is the visual monument of the concession era — the mile-long waterfront promenade facing the Huangpu where the great banking and trading houses built their headquarters in the grandiose neoclassical and Art Deco styles of late Victorian and Edwardian commerce. The Customs House with its clock tower, the Hong Kong and Shanghai Banking Corporation building, the Cathay Hotel — each structure announces that this is a city organized around the movement of money and goods. The Bund remains intact and is now a heritage corridor. It was built to project confidence; the confidence it projects today belongs to different hands.</p>
         <p>By 1900, Shanghai had a population approaching one million and was already the largest city in China and one of the largest in Asia. By 1930, it handled roughly half of China's foreign trade. The city ran on a mixture of British law, French tolerance, Qing nominal sovereignty, and Chinese entrepreneurial energy that found in the concession zones a space for the kind of commercial and political activity that would have been suppressed in the interior.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="golden">
+
+    <span class="section-anchor" id="golden"></span>
       <h2 class="section-head">The Golden Era · 黄金时代 huángjīn shídài</h2>
       <div class="scholar" data-glyph="金">
         <div class="scholar-label">1920–1937 · 东方巴黎 · Paris of the East</div>
@@ -96,9 +96,9 @@ pinyin: 'Shànghǎi'
         <p>The publishing industry, liberated from Qing censorship and operating under the partial protection of the concession zones, made Shanghai the center of Chinese literary and intellectual life. The May Fourth generation of writers — Lu Xun among them, though he is usually claimed by politics rather than pleasure — found in Shanghai an audience for a new vernacular literature. Film studios produced the first generation of Chinese cinema. Jazz bands played in the ballrooms of the Cathay Hotel. Department stores on Nanjing Road sold French perfume and American cigarettes alongside silk and preserved meats. The <strong>月份牌</strong> (yuèfènpái, "calendar posters") with their images of elegantly dressed Chinese women became the era's visual signature — consumer advertising fused with Shanghai's particular blend of Chinese and Western aesthetic.</p>
         <p>This was also the city where Chinese modernity — as distinct from mere Westernization — was being negotiated in real time. The question that Shanghai posed, and never fully answered, was whether a Chinese civilization could be both itself and open to the world without losing the first in the process of absorbing the second. The writers and intellectuals and filmmakers of the 1920s and 30s worked out their answers in print and on screen. The Japanese invasion in 1937 ended the experiment abruptly.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="transformation">
+
+    <span class="section-anchor" id="transformation"></span>
       <h2 class="section-head">Revolution &amp; Pudong · 革命与重建 gémìng yǔ chóngjiàn</h2>
       <div class="scholar" data-glyph="浦">
         <div class="scholar-label">1949年后 · 浦东新区 · Communist Transformation and the New Frontier</div>
@@ -118,9 +118,9 @@ pinyin: 'Shànghǎi'
           <strong>1994–2015</strong> → Pudong skyline built; Shanghai Tower completed
         </div>
       </div>
-    </section>
 
-    <section class="section-anchor" id="identity">
+
+    <span class="section-anchor" id="identity"></span>
       <h2 class="section-head">Shanghainese Identity · 上海人 Shànghǎirén</h2>
       <div class="scholar" data-glyph="沪">
         <div class="scholar-label">吴语 · 海派 · The Character of a City</div>
@@ -128,9 +128,9 @@ pinyin: 'Shànghǎi'
         <p>The concept of <strong>海派</strong> (hǎipài, "sea style" or "Shanghai style") captures the city's particular aesthetic and cultural orientation: cosmopolitan, eclectic, influenced by the world without being defined by any single foreign tradition, more interested in refinement and commerce than in ideology. Shanghainese are sometimes stereotyped by other Chinese as elitist, status-conscious, and dismissive of those from other provinces — a stereotype that maps onto real regional differences in how the city relates to its own history of openness. Being from Shanghai has always implied a certain relationship to the outside world.</p>
         <p>The tension between cosmopolitanism and Chineseness that the 1920s intellectuals debated has not been resolved. It has simply changed register. Today it appears as a question about the Shanghainese dialect: the younger generation speaks Mandarin as their primary language, and Shanghainese is in measurable decline as a first language among Shanghai-born residents under thirty. The city that was once the laboratory for a distinctive Chinese modernity now faces the possibility of becoming a modern Chinese city like others — prosperous, efficient, and less distinctly itself.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="vocab">
+
+    <span class="section-anchor" id="vocab"></span>
       <h2 class="section-head">Key Vocabulary · 词汇 cíhuì</h2>
       <div class="cards">
         <div class="card c-ochre">
@@ -154,7 +154,7 @@ pinyin: 'Shànghǎi'
           <p>Shanghainese — the Wu Chinese topolect spoken in Shanghai, mutually unintelligible with Mandarin. A marker of local identity increasingly in tension with the spread of Putonghua as the dominant urban language for the younger generation.</p>
         </div>
       </div>
-    </section>
+
 
     <footer class="page-footer">
       <span class="footer-id">Field Notes on Chinese · <span>上海</span> · Geography</span>

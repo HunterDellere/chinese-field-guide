@@ -68,7 +68,7 @@ pinyin: 'Bādà Càixì'
       <p class="topic-hero-desc">Read the Eight Great Cuisines as a geographic document — what the land, climate, and trade routes of each region produced at the table, and what the table tells you about the land.</p>
     </header>
 
-    <section class="section-anchor" id="frame">
+    <span class="section-anchor" id="frame"></span>
       <h2 class="section-head">The Geographic Frame · 地理文献 dìlǐ wénxiàn</h2>
       <div class="scholar" data-glyph="食">
         <div class="scholar-label">食物是地图 · Food as a Document of Place</div>
@@ -76,9 +76,9 @@ pinyin: 'Bādà Càixì'
         <p>The premise is that cuisine is one of the most faithful archives of geographic circumstance. Before refrigeration, before global supply chains, before the possibility of moving strawberries from Chile to Sweden in February, people ate what their terrain and climate produced. The proteins available in a landlocked mountain basin are categorically different from those available on a subtropical coast with easy maritime access. The preservation techniques needed in a cold, dry north are different from those needed in a hot, humid south. The spicing that makes food palatable when fresh ingredients are scarce differs from the spicing that celebrates the abundance of fresh produce. Read a cuisine's characteristic ingredients, techniques, and flavors, and you are reading a geographic document.</p>
         <p>The eight cuisines map cleanly onto China's major ecological zones: the Yellow River agricultural heartland, the Yangtze delta and its tributaries, the subtropical south coast, the isolated Sichuan basin, the central mountains, and the maritime province of Fujian. Each zone produced a distinct food culture, and the eight canonical traditions are both the result of those conditions and a record of them.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="north">
+
+    <span class="section-anchor" id="north"></span>
       <h2 class="section-head">The Northern Tradition · 鲁菜 Lǔcài</h2>
       <div class="scholar" data-glyph="鲁">
         <div class="scholar-label">黄河下游 · 渤海 · The River, the Coast, and the Imperial Kitchen</div>
@@ -86,9 +86,9 @@ pinyin: 'Bādà Càixì'
         <p>The geographic signature of Shandong cuisine is its access to wheat (the dominant cereal of the Yellow River plain) and to the seafood of two distinct seas. Wheat produces noodles, flatbreads, and dumplings — the starch culture of northern China. The Bohai and Yellow Seas provide scallops, sea cucumbers, abalone, and crab — luxury seafoods that became central to the banquet tradition. The combination of agricultural abundance and coastal access made Shandong the natural source of provisions for the capital — both for the Zhou and later for the Beijing imperial kitchens of the Ming and Qing dynasties. The cuisine that fed emperors was northern cuisine: clear-broth soups, carefully braised meats, precise knife work, a preference for the authentic flavors of quality ingredients rather than the elaborate spicing that masks lesser ones.</p>
         <p>The geographic logic: a flat, fertile river plain with reliable agriculture and coastal seafood access, close to the political center of gravity in northern China, produces a cuisine oriented toward quality, freshness, and restraint — because the ingredients are good enough to speak for themselves. Shandong cuisine does not need to hide behind chili heat or complex fermented aromatics, because the scallops are excellent and the wheat is fine.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="interior">
+
+    <span class="section-anchor" id="interior"></span>
       <h2 class="section-head">The Interior Traditions · 川菜 · 湘菜 · 徽菜</h2>
       <div class="scholar" data-glyph="川">
         <div class="scholar-label">盆地 · 内陆 · 山地 · Basin, Hinterland, Mountain</div>
@@ -97,9 +97,9 @@ pinyin: 'Bādà Càixì'
         <p><strong>湘菜</strong> (Xiāngcài, Hunan cuisine) shares the chili heat of Sichuan but differs in character because Hunan's geography differs. Hunan is not an enclosed basin — it is an inland province centered on Dongting Lake (洞庭湖 Dòngtíng Hú), fed by multiple rivers draining south toward the Yangtze. Its terrain is varied: flat lakeshore lowlands, hilly interior, and the mountainous west bordering Guizhou. The lake provides freshwater fish and a moist agricultural environment; the interior's isolation from maritime trade meant that preservation techniques — salting, smoking, curing, and heavy chili treatment — developed to extend the life of proteins. Hunan cuisine is spicier than Sichuan and less numbing; it also uses sour and smoky flavors more systematically. The geographic logic: a landlocked province with reliable freshwater resources but no coastal access, in a hot and humid climate, producing a cuisine that uses heat both as flavor and as preservation.</p>
         <p><strong>徽菜</strong> (Huīcài, Anhui cuisine) is the least internationally known of the eight and the one most directly shaped by a specific geographic circumstance: the mountains of southern Anhui (the Huizhou 徽州 region) are beautiful but agriculturally poor, and historically they produced a large emigrant merchant class — the <strong>徽商</strong> (Huīshāng, Huizhou merchants) — who traveled China selling salt, timber, and goods. The cuisine that emerged from this mountain economy is defined by preservation: ham curing, salting of freshwater fish, pickling, and the use of tree fungi and wild mountain vegetables. Ham becomes central (Anhui's 火腿 huǒtuǐ rivals Jinhua's in reputation), because cured meat travels and keeps. The mountain geography, with its limited flatland agriculture and its seasonal harvests of fungi, bamboo, and wild herbs, is written directly into the flavor palette.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="south">
+
+    <span class="section-anchor" id="south"></span>
       <h2 class="section-head">The Southern Traditions · 粤菜 · 苏菜 · 浙菜 · 闽菜</h2>
       <div class="scholar" data-glyph="粤">
         <div class="scholar-label">三角洲 · 海岸 · 贸易 · Delta, Coast, and Maritime Trade</div>
@@ -121,9 +121,9 @@ pinyin: 'Bādà Càixì'
         <strong>湘菜 Hunan</strong> → Dongting Lake basin, inland → heat preservation + freshwater → pure spice, sour, smoke<br>
         <strong>徽菜 Anhui</strong> → southern mountain zone → poor terrain + merchant migration → curing, ham, preserved fish, fungi
       </div>
-    </section>
 
-    <section class="section-anchor" id="patterns">
+
+    <span class="section-anchor" id="patterns"></span>
       <h2 class="section-head">Geographic Patterns · 地理规律 dìlǐ guīlǜ</h2>
       <div class="scholar" data-glyph="理">
         <div class="scholar-label">规律与例外 · What the Map Reveals</div>
@@ -131,9 +131,9 @@ pinyin: 'Bādà Càixì'
         <p>The second pattern is the preservation axis. Cuisines from geographically constrained or isolated zones — mountains (Anhui, parts of Sichuan), landlocked basins (Hunan's inland regions) — develop elaborate preservation traditions: curing, smoking, fermenting, pickling. Cuisines from zones of abundance and easy access — the Pearl River delta, the Yangtze delta — have less need for preservation and correspondingly less fermented complexity in their basic flavor palette (though they have fermented condiments as well).</p>
         <p>The third pattern is the diaspora effect. Cantonese cuisine became the default "Chinese food" of the global diaspora because the Cantonese were the dominant emigrant community through the nineteenth and early twentieth centuries, taking their food with them. Fujian cuisine had a similar spread across Southeast Asia. Shandong cuisine, despite being the most historically prestigious within China, had almost no international diaspora spread — because Shandong's population emigrated inward to Manchuria and the northeast rather than overseas. The geographic direction of migration determined which cuisines became internationally known, creating a global image of Chinese food that is geographically narrow relative to the actual diversity of the tradition.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="vocab">
+
+    <span class="section-anchor" id="vocab"></span>
       <h2 class="section-head">Key Vocabulary · 词汇 cíhuì</h2>
       <div class="cards">
         <div class="card c-ochre">
@@ -161,7 +161,7 @@ pinyin: 'Bādà Càixì'
           <p>Dim sum — small Cantonese dishes served with tea in the teahouse tradition. The term literally means "touch the heart." Dim sum culture grew from the Cantonese tea-drinking and commercial meeting tradition of Guangdong and Hong Kong and is now the most internationally recognized format of Chinese communal dining.</p>
         </div>
       </div>
-    </section>
+
 
     <footer class="page-footer">
       <span class="footer-id">Field Notes on Chinese · <span>八大菜系</span> · Geography</span>

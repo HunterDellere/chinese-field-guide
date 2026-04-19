@@ -60,7 +60,7 @@ pinyin: 'sì dà fāmíng'
       <p class="topic-hero-desc">Compass, gunpowder, paper, and printing — the Chinese technologies that remade the medieval world.</p>
     </header>
 
-    <section class="section-anchor" id="paper">
+    <span class="section-anchor" id="paper"></span>
       <h2 class="section-head">Paper · 造纸术 zàozhǐ shù</h2>
       <div class="scholar" data-glyph="纸">
         <div class="scholar-label">蔡伦 Cài Lún · 105 CE</div>
@@ -68,9 +68,9 @@ pinyin: 'sì dà fāmíng'
         <p>The court official <strong>蔡伦</strong> (Cài Lún) is credited with refining and standardizing papermaking around 105 CE, producing a process that would define the technology for the next millennium. He reported his improvements to Emperor He of Han, who rewarded him and promoted the process throughout the empire. Archaeological evidence suggests cruder forms of paper existed earlier, but Cai Lun's process produced the first reliably thin, smooth, and consistent sheets.</p>
         <p>Paper reached the Islamic world via the Battle of Talas (751 CE), where Arab forces captured Chinese papermakers among the prisoners of war. From the Islamic world it spread to Europe, arriving in earnest by the twelfth century. The Latin word "paper" and its cognates in European languages derive from "papyrus," but the technology they describe is entirely Chinese.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="printing">
+
+    <span class="section-anchor" id="printing"></span>
       <h2 class="section-head">Printing · 印刷术 yìnshuā shù</h2>
       <div class="scholar" data-glyph="印">
         <div class="scholar-label">毕昇 Bì Shēng · movable type c. 1040 CE</div>
@@ -78,9 +78,9 @@ pinyin: 'sì dà fāmíng'
         <p><strong>毕昇</strong> (Bì Shēng) invented movable type printing around 1040 CE, creating individual ceramic characters that could be assembled, printed, disassembled, and reused. His innovation preceded Gutenberg's movable type press by roughly four centuries. The technology spread more slowly in Chinese than in European contexts because the logographic writing system requires thousands of individual type pieces to print a full text, making the setup costs enormous compared to the alphabetic printing Gutenberg was working with.</p>
         <p>Woodblock printing remained the dominant Chinese printing technology through the Qing dynasty — paradoxically, the very scale of the Chinese character set that limited movable type also supported a rich tradition of woodblock printing with beautifully carved type that maintained aesthetic qualities impossible to achieve with cast metal type.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="gunpowder">
+
+    <span class="section-anchor" id="gunpowder"></span>
       <h2 class="section-head">Gunpowder · 火药 huǒyào</h2>
       <div class="scholar" data-glyph="火">
         <div class="scholar-label">炼丹术 liàndān shù · Alchemy's accident</div>
@@ -88,9 +88,9 @@ pinyin: 'sì dà fāmíng'
         <p>The Song dynasty military deployed increasingly sophisticated gunpowder weapons against the Mongol invasions: fire bombs, rocket arrows, early guns, and the first cannons. The Mongols learned gunpowder warfare from their Chinese adversaries and spread it westward across their enormous empire — it reached the Islamic world and then Europe through this transfer.</p>
         <p>The historical irony: China invented gunpowder, developed sophisticated gunpowder weapons for centuries, but by the nineteenth century faced European powers armed with gunpowder-based weapons far more advanced than China's own. The technological lead had been reversed through a process that historians are still debating — concerning the different military, institutional, and economic environments in which gun technology developed in each region.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="compass">
+
+    <span class="section-anchor" id="compass"></span>
       <h2 class="section-head">The Compass · 指南针 zhǐnánzhēn</h2>
       <div class="scholar" data-glyph="针">
         <div class="scholar-label">指南 zhǐnán · South-Pointing</div>
@@ -98,9 +98,9 @@ pinyin: 'sì dà fāmíng'
         <p>Magnetic properties of lodestone were documented in China by the fourth century BCE. The first compass-like device — a lodestone spoon on a bronze plate — appears in Han dynasty texts. By the eleventh century CE, magnetized needle compasses were in use for navigation. Song dynasty sailors used the compass to navigate the South China Sea and Indian Ocean trade routes — the Chinese maritime presence in Southeast Asia, South Asia, and East Africa predates European arrival by centuries and was partly enabled by compass navigation.</p>
         <p>The compass reached the Islamic world and then Europe by the twelfth to thirteenth centuries, enabling the Age of Exploration. The Portuguese arrival in Asia, the Spanish in the Americas, and ultimately European global dominance are downstream consequences of compass technology originally developed for Chinese geomantic (feng shui) purposes.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="legacy">
+
+    <span class="section-anchor" id="legacy"></span>
       <h2 class="section-head">Global Legacy · 影响 yǐngxiǎng</h2>
       <div class="scholar" data-glyph="明">
         <div class="scholar-label">李约瑟难题 · The Needham Question</div>
@@ -108,7 +108,7 @@ pinyin: 'sì dà fāmíng'
         <p>Proposed answers are numerous and contested: the imperial examination system prioritized literary over technical knowledge; the Chinese state's capacity to suppress competition reduced incentive for technical innovation; the fragmented political landscape of Europe created competitive pressures that unified China lacked; Chinese intellectual culture emphasized application over theoretical systematization. None of these explanations is wholly satisfying.</p>
         <p>The four inventions are central to this question. The fact that all four had their most transformative impacts outside China — gunpowder enabled European warfare, the compass enabled European exploration, printing enabled the Protestant Reformation, paper enabled everything — is the heart of the paradox.</p>
       </div>
-    </section>
+
 
     <footer class="page-footer">
       <span class="footer-id">Field Notes on Chinese · <span>四大发明</span> · Science &amp; Medicine</span>

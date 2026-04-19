@@ -66,7 +66,7 @@ pinyin: 'Huánghé'
       <p class="topic-hero-desc">The cradle of Chinese civilization — a river that floods, destroys, and nourishes in equal measure, its loess-yellow waters shaping every dynasty that tried to master it.</p>
     </header>
 
-    <section class="section-anchor" id="course">
+    <span class="section-anchor" id="course"></span>
       <h2 class="section-head">The River's Course · 河道 héd&#xE0;o</h2>
       <div class="scholar" data-glyph="河">
         <div class="scholar-label">青海 → 渤海 · Source to Sea</div>
@@ -74,9 +74,9 @@ pinyin: 'Huánghé'
         <p>Once it reaches the plain, the river's character changes entirely. Freed from the gorges that constrain it, it slows, drops its sediment load, and begins to build the vast alluvial fan that has made the North China Plain one of the most fertile — and most flood-prone — agricultural regions on earth. The river reaches the sea at the Bohai Gulf in Shandong, but the exact location of its mouth has shifted many times over historical centuries because the river itself migrates: the delta advances into the sea, the old channel silts up, and eventually the river breaks out of it.</p>
         <p>The river is conventionally divided into three sections. The <strong>上游</strong> (shàngyóu, "upper reaches") runs from the source to Hekou in Inner Mongolia — a zone of clear water, canyon landscapes, and relatively low population. The <strong>中游</strong> (zhōngyóu, "middle reaches") crosses the Loess Plateau from Hekou to Zhengzhou — the zone where the river picks up its enormous sediment load and where its destructive potential originates. The <strong>下游</strong> (xiàyóu, "lower reaches") runs from Zhengzhou to the sea across the North China Plain — a zone where the river flows above its surrounding countryside, contained by embankments, waiting.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="loess">
+
+    <span class="section-anchor" id="loess"></span>
       <h2 class="section-head">The Loess Plateau · 黄土高原 huángtǔ gāoyuán</h2>
       <div class="scholar" data-glyph="土">
         <div class="scholar-label">细沙成原 · How Wind Builds a Plateau</div>
@@ -94,9 +94,9 @@ pinyin: 'Huánghé'
         <strong>Province crossings</strong> → Qinghai → Sichuan → Gansu → Ningxia → Inner Mongolia → Shaanxi → Shanxi → Henan → Shandong<br>
         <strong>Historical course shifts</strong> → at least 26 major channel changes since 602 BCE
       </div>
-    </section>
 
-    <section class="section-anchor" id="sorrow">
+
+    <span class="section-anchor" id="sorrow"></span>
       <h2 class="section-head">China's Sorrow · 中国的悲哀</h2>
       <div class="scholar" data-glyph="洪">
         <div class="scholar-label">母亲河与害河 · Mother River and River of Harm</div>
@@ -105,9 +105,9 @@ pinyin: 'Huánghé'
         <p>The 1938 event deserves particular note because the flooding was deliberate. As Japanese forces advanced toward the Nationalist government's position in Wuhan, Chiang Kai-shek ordered the demolition of the Yellow River dikes at Huayuankou in Henan. The flood that followed destroyed the Japanese advance — and killed between 400,000 and 900,000 Chinese civilians, displacing perhaps 3 million more. The river's destructive capacity was weaponized. It is one of the most consequential acts of environmental warfare in modern history, and it remains poorly known outside China.</p>
         <p>The river has also shifted its entire lower course multiple times. For much of Chinese history it entered the sea south of the Shandong Peninsula, flowing into the Yellow Sea. In 1855 it abruptly shifted to its current course, entering the Bohai Gulf north of the peninsula — a course change that destroyed millions of hectares of farmland and created decades of chaos. These course shifts are not geological events in human terms; they happened within living memory, within the span of a dynasty, shaping the political geography of entire eras.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="capitals">
+
+    <span class="section-anchor" id="capitals"></span>
       <h2 class="section-head">The River Capitals · 沿河古都 yán hé gǔ dū</h2>
       <div class="scholar" data-glyph="都">
         <div class="scholar-label">洛阳 · 开封 · 郑州 · Cities of the Central Plain</div>
@@ -116,9 +116,9 @@ pinyin: 'Huánghé'
         <p><strong>开封</strong> (Kāifēng) was the capital of the Northern Song dynasty (960–1127) and the most populous city on earth at its peak, home to perhaps a million people. Zhang Zeduan's painted scroll <em>Along the River During the Qingming Festival</em> (清明上河图) documents its street life in extraordinary detail — the grain merchants, the boats on the Bian Canal, the teahouses, the bridges crowded with traders. Kaifeng's fate was sealed by the Yellow River: it has been flooded and buried repeatedly, the Song-era city now lying roughly eight meters below the modern surface. The river that sustained the Song capital also destroyed it.</p>
         <p><strong>郑州</strong> (Zhèngzhōu) has been a settlement since the Shang dynasty — archaeologists have identified it as the site of Ao, a major Shang capital — and is now the provincial capital of Henan and a modern rail hub. Its position at the point where the Yellow River breaks out of its gorges onto the North China Plain made it a natural crossroads for four thousand years. The 2021 floods that submerged Zhengzhou's subway system in a matter of hours, killing dozens of passengers, were a reminder that the river's relationship with the city it helped create has not been tamed by concrete and pumping stations.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="water">
+
+    <span class="section-anchor" id="water"></span>
       <h2 class="section-head">Water Rights Today · 水资源 shuǐ zīyuán</h2>
       <div class="scholar" data-glyph="水">
         <div class="scholar-label">断流 · 分水 · The River That Runs Dry</div>
@@ -126,9 +126,9 @@ pinyin: 'Huánghé'
         <p>The crisis prompted the first unified basin-wide water allocation system, implemented from 1999, which assigned specific water quotas to each province along the river. The system has largely ended the worst droughts, but it has not resolved the underlying tension: the Yellow River basin is home to hundreds of millions of people whose water demands grow alongside their prosperity, in a catchment where rainfall is sparse and variability is high. Climate change is reducing glacier coverage on the Qinghai-Tibet Plateau — the ultimate source — while increasing the frequency of both extreme droughts and extreme flood events on the lower river.</p>
         <p>The <strong>小浪底水库</strong> (Xiǎolángdǐ Reservoir), completed in 2001, is the primary flood-control and sediment-management infrastructure on the modern river. Each year in late spring, engineers conduct a deliberate artificial flood — releasing water at high velocity through the dam's outlets to scour accumulated sediment from the lower riverbed. The event has become a tourist attraction: thousands of people gather to watch the roiling yellow water blast through the sluices. It is a striking image — the state managing the river's sediment budget in real time, performing the function that natural floods once performed catastrophically and without warning.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="vocab">
+
+    <span class="section-anchor" id="vocab"></span>
       <h2 class="section-head">Key Vocabulary · 词汇 cíhuì</h2>
       <div class="cards">
         <div class="card c-ochre">
@@ -156,7 +156,7 @@ pinyin: 'Huánghé'
           <p>The Great Bend — the large northern loop of the Yellow River into Inner Mongolia. The fertile irrigated land within the bend has been farmed since antiquity and was historically a zone of contest between Han Chinese settlers and nomadic peoples of the steppe.</p>
         </div>
       </div>
-    </section>
+
 
     <footer class="page-footer">
       <span class="footer-id">Field Notes on Chinese · <span>黄河</span> · Geography</span>

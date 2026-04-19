@@ -60,7 +60,7 @@ pinyin: 'Cháng Jiāng'
       <p class="topic-hero-desc">The longest river in Asia — the southern spine of Chinese civilization, the Three Gorges, and the river that divides north from south.</p>
     </header>
 
-    <section class="section-anchor" id="divide">
+    <span class="section-anchor" id="divide"></span>
       <h2 class="section-head">North-South Divide · 南北分界 nán-běi fēnjiè</h2>
       <div class="scholar" data-glyph="江">
         <div class="scholar-label">秦岭-淮河 · The Qinling-Huai Line</div>
@@ -68,9 +68,9 @@ pinyin: 'Cháng Jiāng'
         <p>North of the Yangtze: wheat cultivation, drier climate, colder winters, speakers of Mandarin dialects. South of the Yangtze: rice cultivation, humid subtropical climate, speakers of Cantonese, Wu, Min, and other non-Mandarin varieties. This divide is encoded in food (noodles versus rice as staple), body type stereotypes, temperament generalizations, and the most persistent regional identity markers in Chinese culture.</p>
         <p>The phrase <strong>南甜北咸，东酸西辣</strong> (South sweet, North salty, East sour, West spicy) summarizes regional flavor preferences in four characters — and while it oversimplifies, it is accurate enough to be both useful and debatable.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="gorges">
+
+    <span class="section-anchor" id="gorges"></span>
       <h2 class="section-head">The Three Gorges · 三峡 Sānxiá</h2>
       <div class="scholar" data-glyph="峡">
         <div class="scholar-label">三峡大坝 · Three Gorges Dam</div>
@@ -78,9 +78,9 @@ pinyin: 'Cháng Jiāng'
         <p>The <strong>三峡大坝</strong> (Sānxiá Dàbà, Three Gorges Dam), completed in 2006, is the world's largest hydroelectric dam — 2,335 meters long, 185 meters tall, with 32 major turbines. Its reservoir flooded over a thousand archaeological sites and displaced an estimated 1.3 million people from 13 cities, 140 towns, and 1,350 villages. The flooding permanently altered the gorge landscape — the water level rose 175 meters, submerging lower cliff faces and fundamentally changing the visual experience.</p>
         <p>The Dam represents an argument about Chinese modernity that has no comfortable resolution: the largest clean energy infrastructure project in human history, built at an enormous human and cultural cost, by a government with the capacity to make that tradeoff unilaterally.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="history">
+
+    <span class="section-anchor" id="history"></span>
       <h2 class="section-head">History on the River · 历史 lìshǐ</h2>
       <div class="cards">
         <div class="card c-red">
@@ -96,9 +96,9 @@ pinyin: 'Cháng Jiāng'
           <p>In 1935, the Red Army's Long March included several critical Yangtze crossings under pursuit. The crossing at Luding Bridge (泸定桥), in Sichuan, was memorialized as a moment of revolutionary heroism in Communist Party history — soldiers crossing a chain bridge under fire to hold the way open.</p>
         </div>
       </div>
-    </section>
 
-    <section class="section-anchor" id="poetry">
+
+    <span class="section-anchor" id="poetry"></span>
       <h2 class="section-head">The River in Poetry · 诗与江 shī yǔ jiāng</h2>
       <div class="scholar" data-glyph="流">
         <div class="scholar-label">朝辞白帝彩云间 · Leaving White Emperor City</div>
@@ -118,9 +118,9 @@ pinyin: 'Cháng Jiāng'
         </div>
         <p>The poem celebrates the speed of the current through the gorges — Li Bai had just been pardoned from exile and was racing home. Its joy is entirely in the velocity of the river carrying him back.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="vocab">
+
+    <span class="section-anchor" id="vocab"></span>
       <h2 class="section-head">Key Vocabulary · 词汇 cíhuì</h2>
       <div class="cards">
         <div class="card c-ochre">
@@ -136,7 +136,7 @@ pinyin: 'Cháng Jiāng'
           <p>Source — literally "source head." The Yangtze's source was definitively surveyed only in the 1970s–80s, deep in the Tanggula Mountains on the Tibetan Plateau. The identification of a river's 源头 carries cosmological weight — knowing where a river begins is knowing something fundamental about the world.</p>
         </div>
       </div>
-    </section>
+
 
     <footer class="page-footer">
       <span class="footer-id">Field Notes on Chinese · <span>长江</span> · Geography</span>

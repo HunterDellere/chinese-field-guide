@@ -60,7 +60,7 @@ pinyin: 'shēngxiào'
       <p class="topic-hero-desc">The twelve animals, what they mean, and why your birth year still shapes how people see you.</p>
     </header>
 
-    <section class="section-anchor" id="system">
+    <span class="section-anchor" id="system"></span>
       <h2 class="section-head">The System · 体系 tǐxì</h2>
       <div class="scholar" data-glyph="肖">
         <div class="scholar-label">十二地支 · Twelve Earthly Branches</div>
@@ -68,9 +68,9 @@ pinyin: 'shēngxiào'
         <p>The animal cycle combines with a ten-year cycle of Heavenly Stems (天干 tiāngān) to produce a sixty-year cycle (六十甲子 liùshí jiǎzǐ) — the basic unit of traditional Chinese time reckoning. This sixty-year cycle appears in dates throughout Chinese history and explains why a person's sixtieth birthday is a major landmark: one full cycle completed.</p>
         <p>The animals were probably assigned to the branches during the Han dynasty (206 BCE – 220 CE), borrowing from Central Asian and Indic astronomical traditions that similarly attached animals to time units. The specific Chinese twelve — rat, ox, tiger, rabbit, dragon, snake, horse, goat, monkey, rooster, dog, pig — are culturally Chinese, though neighbors including Japan, Korea, and Vietnam adopted the same system with minor local variations.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="animals">
+
+    <span class="section-anchor" id="animals"></span>
       <h2 class="section-head">The Twelve Animals · 十二生肖</h2>
       <div class="cards">
         <div class="card c-sienna">
@@ -122,9 +122,9 @@ pinyin: 'shēngxiào'
           <p>Generous, diligent, kind. Associated with good fortune and material comfort. The pig is the last animal because, in the origin story, it arrived late after stopping to eat. Despite the tardiness, it is considered a lucky sign.</p>
         </div>
       </div>
-    </section>
 
-    <section class="section-anchor" id="benyear">
+
+    <span class="section-anchor" id="benyear"></span>
       <h2 class="section-head">Your Zodiac Year · 本命年 běnmìngnián</h2>
       <div class="scholar" data-glyph="命">
         <div class="scholar-label">犯太岁 fàn tàisuì · Offending the Year God</div>
@@ -132,9 +132,9 @@ pinyin: 'shēngxiào'
         <p>The protective measure is wearing red — red underwear, red socks, red string around the wrist — ideally given as a gift by family rather than purchased for yourself. Red wards off the bad luck associated with the Year God's attention. Jewelry shops do significant business selling red cord bracelets in the months before each zodiac year.</p>
         <p>The logic is counterintuitive to outsiders: your own animal year, which should feel celebratory, is actually a year when you're most exposed. The tradition encodes a kind of humility — don't assume good fortune; take protective measures and be careful.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="today">
+
+    <span class="section-anchor" id="today"></span>
       <h2 class="section-head">The Zodiac Today · 现代 xiàndài</h2>
       <div class="scholar" data-glyph="现">
         <div class="scholar-label">婚配与生育 · Marriage and Birth</div>
@@ -142,9 +142,9 @@ pinyin: 'shēngxiào'
         <p>Birth planning around zodiac signs is a documented demographic phenomenon. Dragon years produce measurable birth-rate spikes; Tiger years produce measurable drops. The difference is significant enough to affect hospital staffing, school enrollment cohort sizes, and — years later — the labor market entry of those cohorts.</p>
         <p>The zodiac is also a low-stakes social vocabulary: knowing someone's sign is a quick way to locate them in a shared reference system. "What's your sign?" (你是什么属相？Nǐ shì shénme shǔxiàng?) is a casual opener at any age — and knowing the answer tells you, roughly, someone's age while giving you a personality schema to play with.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="vocab">
+
+    <span class="section-anchor" id="vocab"></span>
       <h2 class="section-head">Key Vocabulary · 词汇 cíhuì</h2>
       <div class="cards">
         <div class="card c-ochre">
@@ -164,7 +164,7 @@ pinyin: 'shēngxiào'
           <p>The sixty-year cycle — the combination of twelve animals with ten Heavenly Stems, the basic unit of traditional Chinese time reckoning.</p>
         </div>
       </div>
-    </section>
+
 
     <footer class="page-footer">
       <span class="footer-id">Field Notes on Chinese · <span>生肖</span> · Culture</span>

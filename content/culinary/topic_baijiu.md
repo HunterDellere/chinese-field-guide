@@ -60,7 +60,7 @@ pinyin: 'báijiǔ'
       <p class="topic-hero-desc">China's fiery grain spirit — the most consumed distilled liquor in the world by volume, and what it means to drink together.</p>
     </header>
 
-    <section class="section-anchor" id="what">
+    <span class="section-anchor" id="what"></span>
       <h2 class="section-head">What Is Baijiu · 什么是白酒</h2>
       <div class="scholar" data-glyph="酒">
         <div class="scholar-label">白酒 báijiǔ · white liquor</div>
@@ -68,9 +68,9 @@ pinyin: 'báijiǔ'
         <p>Alcohol content typically runs from 38% to 65% ABV, with most premium baijiu sitting around 52–53%. The spirit is clear, which gives it the "white" designation — in contrast to <strong>黄酒</strong> (huángjiǔ, yellow wine), China's fermented rice wine, which is amber-colored and much lower in alcohol.</p>
         <p>What distinguishes baijiu from Western grain spirits is the <strong>qū</strong> fermentation starter and the solid-state fermentation in pits or jars. The fermentation pits in some Sichuan distilleries are centuries old and are legally protected historical sites — the accumulated microbial ecology of those pits is considered essential to the flavor profile of the spirit.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="aromas">
+
+    <span class="section-anchor" id="aromas"></span>
       <h2 class="section-head">Aroma Types · 香型 xiāngxíng</h2>
       <div class="cards">
         <div class="card c-red">
@@ -90,9 +90,9 @@ pinyin: 'báijiǔ'
           <p>Made from rice rather than sorghum, with a lighter, slightly sweet profile closer to sake or rice wine than other baijiu. Associated with Guilin Sanhua (桂林三花) from Guangxi. More approachable for those unfamiliar with baijiu.</p>
         </div>
       </div>
-    </section>
 
-    <section class="section-anchor" id="brands">
+
+    <span class="section-anchor" id="brands"></span>
       <h2 class="section-head">Famous Brands · 名牌 míngpái</h2>
       <div class="scholar" data-glyph="茅">
         <div class="scholar-label">国酒 guójiǔ · National Spirit</div>
@@ -100,9 +100,9 @@ pinyin: 'báijiǔ'
         <p><strong>五粮液</strong> (WǔliángYè, Wuliangye) — "five-grain liquid," made from sorghum, rice, glutinous rice, wheat, and corn — is the flagship strong-aroma baijiu and Moutai's closest rival in prestige and price.</p>
         <p>Below these two, dozens of provincial brands command intense regional loyalty. Sichuan's Luzhou Laojiao (泸州老窖), Shanxi's Fenjiu (汾酒), Anhui's Gujing (古井贡酒) — each embedded in the food culture and hospitality norms of its home region.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="ritual">
+
+    <span class="section-anchor" id="ritual"></span>
       <h2 class="section-head">The Drinking Ritual · 干杯 gānbēi</h2>
       <div class="scholar" data-glyph="杯">
         <div class="scholar-label">劝酒 quàn jiǔ · Toasting Culture</div>
@@ -110,9 +110,9 @@ pinyin: 'báijiǔ'
         <p>The social dynamics around baijiu at business banquets are complex. Refusing to drink can be read as disrespect or lack of commitment to the relationship; accepting every toast can impair judgment. Navigating this requires knowing the acceptable exits — medical reasons, driving, being the designated protector of a senior colleague. The key phrase <strong>我以茶代酒</strong> (wǒ yǐ chá dài jiǔ, "I substitute tea for wine") is a polite and accepted alternative.</p>
         <p>The role of baijiu in <strong>关系</strong> (guānxi) is significant: sharing a bottle, especially a good one, is a bonding act. The willingness to drink together signals trust and mutual obligation. Gifting a bottle of premium Moutai is a gesture with clear social meaning — it says "I value this relationship enough to spend significantly on it."</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="vocab">
+
+    <span class="section-anchor" id="vocab"></span>
       <h2 class="section-head">Key Vocabulary · 词汇 cíhuì</h2>
       <div class="cards">
         <div class="card c-ochre">
@@ -132,7 +132,7 @@ pinyin: 'báijiǔ'
           <p>The fermentation pit — the earthen or stone pit in which the fermented grain mash (酒醅 jiǔpēi) undergoes anaerobic fermentation. Old pits with established microbial ecosystems are considered the most valuable assets of a distillery.</p>
         </div>
       </div>
-    </section>
+
 
     <footer class="page-footer">
       <span class="footer-id">Field Notes on Chinese · <span>白酒</span> · Culinary</span>

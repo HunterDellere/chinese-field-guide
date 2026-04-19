@@ -60,7 +60,7 @@ sources:
       <p class="topic-hero-desc">He marked the boat where his sword fell into the river. When the boat reached the shore, he dived where the mark was.</p>
     </header>
 
-    <section class="section-anchor" id="story">
+    <span class="section-anchor" id="story"></span>
       <h2 class="section-head">The Story · 故事 gùshi</h2>
       <div class="scholar" data-glyph="舟">
         <div class="scholar-label">吕氏春秋 Lǚshì Chūnqiū · 3rd century BCE</div>
@@ -68,18 +68,18 @@ sources:
         <p>When the boat reached the far shore, the man slipped over the side at the notch he had carved, and dived down to search for his sword.</p>
         <p>The story is told in the <strong>吕氏春秋</strong> (Lǚshì Chūnqiū, "The Spring and Autumn of Mr. Lǚ"), a third-century BCE encyclopedic work sponsored by Lǚ Bùwéi, chancellor of Qin and regent to the young man who would later become the First Emperor. The parable appears in the chapter <em>察今</em> ("Chá jīn," "Examining the Present"), which argues that laws and institutions must be revised as circumstances change. The sword is in one place. The boat has moved. The mark on the boat tells you nothing about where the sword is now.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="meaning">
+
+    <span class="section-anchor" id="meaning"></span>
       <h2 class="section-head">Meaning · 含义 hányì</h2>
       <div class="scholar" data-glyph="剑">
         <div class="scholar-label">时过境迁 shí guò jìng qiān · Time passes, the situation shifts</div>
         <p>The chengyu names a specific logical error: using a reference point that was valid at one moment to locate something at a later moment, after the relationship between the reference and the thing has changed. It is not merely about being wrong; it is about treating a transient indicator as though it were permanent, and so becoming systematically wrong in a way the original circumstances have already ruled out.</p>
         <p>The idiom shares territory with 守株待兔 ("guarding the stump") but points in a different direction. 守株待兔 is the error of expecting a rare event to repeat. 刻舟求剑 is the error of treating a contingent relationship as if it were fixed. One is about probability; the other is about reference frames. Both, in the Warring States philosophical context, were arguments against applying old methods to new circumstances.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="usage">
+
+    <span class="section-anchor" id="usage"></span>
       <h2 class="section-head">Usage · 用法 yòngfǎ</h2>
       <div class="cards">
         <div class="card c-red">
@@ -95,9 +95,9 @@ sources:
           <p>时代变了，你还用老办法管理，这不是刻舟求剑吗？(Shídài biàn le, nǐ hái yòng lǎo bànfǎ guǎnlǐ, zhè bú shì kè zhōu qiú jiàn ma?) — Times have changed and you're still managing by the old methods. Isn't that just carving the boat to find the sword?</p>
         </div>
       </div>
-    </section>
 
-    <section class="section-anchor" id="characters">
+
+    <span class="section-anchor" id="characters"></span>
       <h2 class="section-head">Character Analysis · 字解 zìjiě</h2>
       <div class="cards">
         <div class="card c-ochre">
@@ -117,7 +117,7 @@ sources:
           <p>Sword, double-edged straight sword. Traditional form 劍. Distinguished from 刀 (dāo, a single-edged blade or knife). The jiàn is the noble weapon of the Chinese tradition — scholar-officials studied the straight sword, and the Daoist immortals carried it. That the lost object is a jiàn, not a mere tool, makes the man's loss more poignant and his method more absurd.</p>
         </div>
       </div>
-    </section>
+
 
     <footer class="page-footer">
       <span class="footer-id">Field Notes on Chinese · <span>刻舟求剑</span> · Chengyu</span>

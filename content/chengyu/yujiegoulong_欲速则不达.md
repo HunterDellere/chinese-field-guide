@@ -57,7 +57,7 @@ pinyin: 'yù sù zé bù dá'
       <p class="topic-hero-desc">Speed desired, arrival missed — Confucius on why rushing produces the opposite of what you intend.</p>
     </header>
 
-    <section class="section-anchor" id="source">
+    <span class="section-anchor" id="source"></span>
       <h2 class="section-head">Source · 出处 chūchù</h2>
       <div class="scholar" data-glyph="达">
         <div class="scholar-label">论语·子路 · Analects, Book 13</div>
@@ -65,9 +65,9 @@ pinyin: 'yù sù zé bù dá'
         <p>The context is specifically about governance — the warning is against the administrator who tries to show results quickly (to demonstrate competence, to accumulate credit) at the cost of actually achieving substantive goals. It is a critique of performance over substance, of the appearance of urgency substituting for careful, patient work.</p>
         <p>The phrase has expanded far beyond its original governmental context to become one of the most general and universally applicable sayings in the Chinese repertoire — equivalent in function to the English "haste makes waste," but with the Confucian authority of the Analects behind it.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="meaning">
+
+    <span class="section-anchor" id="meaning"></span>
       <h2 class="section-head">Meaning · 含义 hányì</h2>
       <div class="scholar" data-glyph="速">
         <div class="scholar-label">欲速 yù sù · Desiring Speed</div>
@@ -75,9 +75,9 @@ pinyin: 'yù sù zé bù dá'
         <p>The full phrase contains a corollary that is less often quoted: <strong>见小利则大事不成</strong> (jiàn xiǎolì zé dàshì bù chéng, "be seduced by small gains and great affairs will not be accomplished"). This second half makes the political-strategic point explicit: if you optimize for immediate, visible wins, you sacrifice long-term, consequential ones.</p>
         <p>Together the two halves describe a coherent picture of bad governance or bad strategy: rushing and short-termism, each the mirror of the other. The patient, unhurried administrator who keeps the long goal in view is the implied ideal.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="usage">
+
+    <span class="section-anchor" id="usage"></span>
       <h2 class="section-head">Usage · 用法 yòngfǎ</h2>
       <div class="cards">
         <div class="card c-ochre">
@@ -93,9 +93,9 @@ pinyin: 'yù sù zé bù dá'
           <p>Teachers invoke 欲速则不达 to discourage students from trying to sprint through vocabulary lists and grammar rules without consolidating what they've learned. The idiom is also itself a good memory object — understanding it requires the very patient, thorough approach it recommends.</p>
         </div>
       </div>
-    </section>
 
-    <section class="section-anchor" id="characters">
+
+    <span class="section-anchor" id="characters"></span>
       <h2 class="section-head">Character Analysis · 字解 zìjiě</h2>
       <div class="cards">
         <div class="card c-ochre">
@@ -115,7 +115,7 @@ pinyin: 'yù sù zé bù dá'
           <p>达 means to arrive at, to achieve, to reach. 不达 is failure to arrive. The same character appears in 达到目的 (dádào mùdì, to achieve the goal), 表达 (biǎodá, to express), 达人 (dárén, expert, accomplished person — a social media term for influencer).</p>
         </div>
       </div>
-    </section>
+
 
     <footer class="page-footer">
       <span class="footer-id">Field Notes on Chinese · <span>欲速则不达</span> · Chengyu</span>

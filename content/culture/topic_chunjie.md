@@ -60,7 +60,7 @@ pinyin: 'Chūnjié'
       <p class="topic-hero-desc">Lunar New Year. The world's largest annual human migration and the most important date on the Chinese calendar.</p>
     </header>
 
-    <section class="section-anchor" id="migration">
+    <span class="section-anchor" id="migration"></span>
       <h2 class="section-head">The Great Migration · 春运 chūnyùn</h2>
       <div class="scholar" data-glyph="春">
         <div class="scholar-label">回家 huíjiā · Going Home</div>
@@ -68,9 +68,9 @@ pinyin: 'Chūnjié'
         <p>The scale of chūnyùn reflects the scale of internal migration. Millions of workers from rural areas — <strong>农民工</strong> (nóngmíngōng, "peasant workers") — work in coastal factories and cities throughout the year and return to their home villages for the Spring Festival. The holiday is the one time the family unit reconstitutes itself in person, often after months or years of separation.</p>
         <p>For many migrant workers, the Spring Festival reunion dinner is the emotional center of the year. The pressure to return, combined with parental expectations about income, marriage, and life progress, makes chūnyùn psychologically intense as well as logistically demanding.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="eve">
+
+    <span class="section-anchor" id="eve"></span>
       <h2 class="section-head">New Year's Eve · 除夕 chúxī</h2>
       <div class="scholar" data-glyph="夕">
         <div class="scholar-label">年夜饭 niányèfàn · Reunion Dinner</div>
@@ -78,9 +78,9 @@ pinyin: 'Chūnjié'
         <p>The dishes served carry symbolic weight: whole fish (鱼 yú) sounds like "surplus" (余 yú); New Year's cake (年糕 niángāo) sounds like "year-high" — every year better than the last. Dumplings in the north (their shape resembles ancient ingots), glutinous rice balls in the south. The specific dishes vary enormously by region, but the principle is constant: food as embodied wish for the year ahead.</p>
         <p>After dinner, the family watches the CCTV Spring Festival Gala (春晚 Chūnwǎn), the most-watched television broadcast in the world, running four to five hours through the night. It is famously criticized and just as famously watched. The ubiquity makes it a shared reference point regardless of personal taste.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="traditions">
+
+    <span class="section-anchor" id="traditions"></span>
       <h2 class="section-head">Traditions · 习俗 xísú</h2>
       <div class="cards">
         <div class="card c-red">
@@ -100,18 +100,18 @@ pinyin: 'Chūnjié'
           <p>The house is thoroughly cleaned before New Year's Day to sweep away bad luck from the previous year. After the new year begins, sweeping is avoided for the first few days — you might sweep out the new good luck. The timing of cleaning becomes a micro-cultural negotiation in multigenerational households.</p>
         </div>
       </div>
-    </section>
 
-    <section class="section-anchor" id="fifteen">
+
+    <span class="section-anchor" id="fifteen"></span>
       <h2 class="section-head">Lantern Festival · 元宵节 yuánxiāo jié</h2>
       <div class="scholar" data-glyph="元">
         <div class="scholar-label">十五 shíwǔ · The Fifteenth Day</div>
         <p>The Spring Festival officially ends on the fifteenth day of the first lunar month with <strong>元宵节</strong> (Yuánxiāo Jié, the Lantern Festival). Lanterns of every size and shape are displayed, riddle-guessing games are played on lantern tags, and <strong>汤圆</strong> (tāngyuán) — glutinous rice balls filled with sesame, peanut, or red bean paste — are eaten, their round shape symbolizing family completeness.</p>
         <p>The full moon of the fifteenth marks the first full moon of the new year. The Lantern Festival has an older association with courtship — historically one of the few occasions when unmarried women could move about publicly at night, making it the subject of much classical poetry about chance encounters and romantic longing.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="vocab">
+
+    <span class="section-anchor" id="vocab"></span>
       <h2 class="section-head">Key Vocabulary · 词汇 cíhuì</h2>
       <div class="cards">
         <div class="card c-red">
@@ -131,7 +131,7 @@ pinyin: 'Chūnjié'
           <p>The lunar calendar — literally "farmers' calendar." Used to calculate traditional festival dates, which is why the Gregorian calendar date of Spring Festival changes each year.</p>
         </div>
       </div>
-    </section>
+
 
     <footer class="page-footer">
       <span class="footer-id">Field Notes on Chinese · <span>春节</span> · Culture</span>

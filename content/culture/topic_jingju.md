@@ -60,16 +60,16 @@ pinyin: 'jīngjù'
       <p class="topic-hero-desc">China's national theatrical art — acrobatics, painted faces, falsetto voices, and two centuries of stylized storytelling.</p>
     </header>
 
-    <section class="section-anchor" id="origin">
+    <span class="section-anchor" id="origin"></span>
       <h2 class="section-head">Origin · 起源 qǐyuán</h2>
       <div class="scholar" data-glyph="京">
         <div class="scholar-label">徽班进京 · The Hui Troupes Enter Beijing</div>
         <p>Peking Opera crystallized around 1790 when four Anhui opera troupes (<strong>徽班</strong> huībān) came to Beijing to perform for the Qianlong Emperor's eightieth birthday celebration and stayed. Over the following decades, the Hui troupes absorbed elements from Hubei Han opera and other regional styles to produce a new synthesis — what would eventually be called <strong>京剧</strong> (jīngjù, "capital theatre").</p>
         <p>Its golden age was the late nineteenth and early twentieth century, when masters like Tan Xinpei and the Four Great Dan (四大名旦) — Mei Lanfang, Cheng Yanqiu, Shang Xiaoyun, Xun Huisheng — brought the form to its height of refinement. <strong>梅兰芳</strong> (Méi Lánfāng) in particular became the most famous Chinese performer of his era internationally, touring the United States and the Soviet Union and influencing Brecht and Stanislavski.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="roles">
+
+    <span class="section-anchor" id="roles"></span>
       <h2 class="section-head">Role Types · 行当 hángdang</h2>
       <div class="cards">
         <div class="card c-ochre">
@@ -89,9 +89,9 @@ pinyin: 'jīngjù'
           <p>The comedic role, identifiable by white patches around the nose and eyes. Both male (武丑 wǔchǒu — acrobatic clowns, 文丑 wénchoǔ — verbal comedians) and some female clown types exist. The 丑 often speaks in a colloquial voice closer to natural speech than other roles, and their comedy can carry pointed social commentary.</p>
         </div>
       </div>
-    </section>
 
-    <section class="section-anchor" id="lian">
+
+    <span class="section-anchor" id="lian"></span>
       <h2 class="section-head">Face Painting · 脸谱 liǎnpǔ</h2>
       <div class="scholar" data-glyph="脸">
         <div class="scholar-label">颜色与性格 · Color and Character</div>
@@ -103,9 +103,9 @@ pinyin: 'jīngjù'
         <p><strong>金/银 jīn/yín (gold/silver)</strong> — divinity, the supernatural, figures from mythology.</p>
         <p>Each character's face design is unique and hereditary — passed from master to student with the role. The design encodes the character's moral nature, personality, and history in a visual grammar that Chinese audiences have been reading for two centuries.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="skills">
+
+    <span class="section-anchor" id="skills"></span>
       <h2 class="section-head">Four Skills · 四功五法 sì gōng wǔ fǎ</h2>
       <div class="scholar" data-glyph="功">
         <div class="scholar-label">训练 xùnliàn · Training</div>
@@ -113,9 +113,9 @@ pinyin: 'jīngjù'
         <p>Training begins in childhood — traditionally from age seven — and requires full-time immersion for years before a student can perform publicly. The acrobatic component is particularly demanding: wu (martial) performers train daily in tumbling, flips, and staged combat choreography that is extraordinarily physically demanding.</p>
         <p>The <strong>五法</strong> (wǔ fǎ, "five methods") govern hand (手 shǒu), eye (眼 yǎn), body (身 shēn), method (法 fǎ), and footwork (步 bù) — the micro-vocabulary of physical expression through which emotion is conveyed without realism. A trained audience reads a sleeve gesture as grief or joy; an untrained one may see nothing but a sleeve.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="vocab">
+
+    <span class="section-anchor" id="vocab"></span>
       <h2 class="section-head">Key Vocabulary · 词汇 cíhuì</h2>
       <div class="cards">
         <div class="card c-ochre">
@@ -135,7 +135,7 @@ pinyin: 'jīngjù'
           <p>Opera fan — literally "theatre-obsessive." The devoted fan who can sing along from memory, knows every role's vocal style, and has opinions about every major performer.</p>
         </div>
       </div>
-    </section>
+
 
     <footer class="page-footer">
       <span class="footer-id">Field Notes on Chinese · <span>京剧</span> · Culture</span>

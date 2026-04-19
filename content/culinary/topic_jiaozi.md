@@ -56,7 +56,7 @@ pinyin: 'jiǎozi'
       <p class="topic-hero-desc">Folded, boiled, and shared — the dumpling as ritual food, family labor, and cultural marker.</p>
     </header>
 
-    <section class="section-anchor" id="ritual">
+    <span class="section-anchor" id="ritual"></span>
       <h2 class="section-head">Ritual Food · 仪式 yíshì</h2>
       <div class="scholar" data-glyph="饺">
         <div class="scholar-label">春节 chūnjié · New Year</div>
@@ -64,9 +64,9 @@ pinyin: 'jiǎozi'
         <p>A traditional practice hides a coin inside one dumpling. Whoever finds it in their bowl is said to have especially good fortune in the coming year. This coin-dumpling logic appears in similar forms across many cultures (the French galette des rois, British Christmas pudding), but in China it is specifically linked to the New Year and the dumpling's ingot shape.</p>
         <p>The north-south divide on New Year food is real and emotional: southerners eat <strong>年糕</strong> (niángāo, sticky rice cake) or 汤圆 (tāngyuán, glutinous rice balls); northerners eat jiǎozi. This is not a minor preference — it maps onto distinct agricultural traditions (wheat north, rice south) and is the kind of difference people argue about with family.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="making">
+
+    <span class="section-anchor" id="making"></span>
       <h2 class="section-head">Making Dumplings · 包饺子 bāo jiǎozi</h2>
       <div class="scholar" data-glyph="包">
         <div class="scholar-label">家庭劳动 · Family Labor</div>
@@ -74,9 +74,9 @@ pinyin: 'jiǎozi'
         <p>The seal matters aesthetically and structurally: the classic crescent fold (月牙形) pleats one side against the flat other in a series of overlapping folds. A well-pleated dumpling stays closed during boiling and looks beautiful on the plate. The skill of the pleating is part of what makes a good dumpling maker.</p>
         <p>Chinese children learn to wrap dumplings from grandparents — it is one of the primary intergenerational food-knowledge transfers, happening in kitchens across the diaspora as much as in China itself.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="types">
+
+    <span class="section-anchor" id="types"></span>
       <h2 class="section-head">Types and Relatives · 种类 zhǒnglèi</h2>
       <div class="cards">
         <div class="card c-ochre">
@@ -100,9 +100,9 @@ pinyin: 'jiǎozi'
           <p>Originating in Jiangnan (Shanghai region) — a pleated steamed dumpling containing pork filling and a pocket of aspic that melts during steaming into hot soup. Eating them requires puncturing carefully, sipping the soup, then eating the dumpling. A cult food internationally.</p>
         </div>
       </div>
-    </section>
 
-    <section class="section-anchor" id="vocab">
+
+    <span class="section-anchor" id="vocab"></span>
       <h2 class="section-head">Key Vocabulary · 词汇 cíhuì</h2>
       <div class="cards">
         <div class="card c-ochre">
@@ -122,7 +122,7 @@ pinyin: 'jiǎozi'
           <p>To dip — as in dipping a dumpling into sauce (蘸酱 zhàn jiàng). The correct word for the motion; 沾 (zhān) is a common error for this usage.</p>
         </div>
       </div>
-    </section>
+
 
     <footer class="page-footer">
       <span class="footer-id">Field Notes on Chinese · <span>饺子</span> · Culinary</span>

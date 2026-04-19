@@ -60,7 +60,7 @@ pinyin: 'shūfǎ'
       <p class="topic-hero-desc">The art of the brush — where writing becomes the most personal expression of character.</p>
     </header>
 
-    <section class="section-anchor" id="scripts">
+    <span class="section-anchor" id="scripts"></span>
       <h2 class="section-head">The Five Scripts · 字体 zìtǐ</h2>
       <div class="scholar" data-glyph="書">
         <div class="scholar-label">演变 yǎnbiàn · Evolution</div>
@@ -71,9 +71,9 @@ pinyin: 'shūfǎ'
         <p><strong>行书 xíngshū (Running Script)</strong> — a semifluid style between regular and cursive. Strokes begin to connect; the brush lifts less. This is the script most calligraphers use for personal letters and expressive work — fluid enough to be alive, controlled enough to be legible.</p>
         <p><strong>草书 cǎoshū (Cursive Script)</strong> — the most abstract, where characters become gesture rather than diagram. A trained reader can decipher cursive; a casual reader cannot. Its energy is the most visible and the most dangerous to get wrong.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="tools">
+
+    <span class="section-anchor" id="tools"></span>
       <h2 class="section-head">Four Treasures · 文房四宝 wénfáng sìbǎo</h2>
       <div class="cards">
         <div class="card c-ochre">
@@ -93,9 +93,9 @@ pinyin: 'shūfǎ'
           <p>Xuan paper (宣纸 xuānzhǐ), made in Jingxian, Anhui, is the calligraphic standard — sized to control absorbency, fibrous enough to catch dry-brush effects, durable enough to survive centuries. Its relationship with ink is the fundamental material fact of Chinese painting and calligraphy alike.</p>
         </div>
       </div>
-    </section>
 
-    <section class="section-anchor" id="wangxizhi">
+
+    <span class="section-anchor" id="wangxizhi"></span>
       <h2 class="section-head">Wang Xizhi · 王羲之 Wáng Xīzhī</h2>
       <div class="scholar" data-glyph="羲">
         <div class="scholar-label">书圣 shūshèng · Sage of Calligraphy</div>
@@ -103,9 +103,9 @@ pinyin: 'shūfǎ'
         <p>Legend holds that Wang Xizhi was slightly drunk when he wrote it, and that when he tried to copy it later — sober — he could never equal it. Emperor Taizong of Tang coveted it so intensely that he reportedly had it buried with him when he died; what survives are later copies of copies, each treasured as if original.</p>
         <p>The text itself meditates on pleasure, friendship, and mortality — themes that made it resonate far beyond its calligraphic excellence. Its running-script style became the model every subsequent calligrapher studied and measured themselves against.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="aesthetic">
+
+    <span class="section-anchor" id="aesthetic"></span>
       <h2 class="section-head">The Aesthetic · 美学 měixué</h2>
       <div class="scholar" data-glyph="法">
         <div class="scholar-label">笔意 bǐyì · Brush Intent</div>
@@ -113,9 +113,9 @@ pinyin: 'shūfǎ'
         <p>The famous dictum <strong>字如其人</strong> (zì rú qí rén, "the character is like the person") means that how you write reveals who you are. This is why calligraphy was a required accomplishment for the scholar-official class and why poor calligraphy was a mark against a candidate in the imperial examination system.</p>
         <p>The concept of <strong>笔意</strong> (bǐyì, "brush intent") holds that the mind and the hand must be unified at the moment of writing — hesitation shows, aggression shows, serenity shows. The stroke is not correctable; what appears on paper is who you were at that instant.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="vocab">
+
+    <span class="section-anchor" id="vocab"></span>
       <h2 class="section-head">Key Vocabulary · 词汇 cíhuì</h2>
       <div class="cards">
         <div class="card c-ochre">
@@ -139,7 +139,7 @@ pinyin: 'shūfǎ'
           <p>Sage of Calligraphy — the title given to Wang Xizhi.</p>
         </div>
       </div>
-    </section>
+
 
     <footer class="page-footer">
       <span class="footer-id">Field Notes on Chinese · <span>书法</span> · Arts &amp; Literature</span>

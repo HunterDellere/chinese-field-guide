@@ -60,7 +60,7 @@ pinyin: 'kuàizi'
       <p class="topic-hero-desc">The rules, the taboos, and what not to do — the etiquette that marks insider from outsider at the Chinese table.</p>
     </header>
 
-    <section class="section-anchor" id="history">
+    <span class="section-anchor" id="history"></span>
       <h2 class="section-head">History · 历史 lìshǐ</h2>
       <div class="scholar" data-glyph="筷">
         <div class="scholar-label">箸 zhù · the older name</div>
@@ -68,9 +68,9 @@ pinyin: 'kuàizi'
         <p>The older word for chopsticks is <strong>箸</strong> (zhù), still used in formal and literary contexts. The word <strong>筷子</strong> (kuàizi) is a folk euphemism — 箸 was considered inauspicious by sailors and boat operators because it sounds like 住 (zhù, "to stop"), bad news for a vessel that needed to keep moving. So they substituted 快 (kuài, "fast") + 子, and the colloquial word stuck.</p>
         <p>Chinese chopsticks are typically longer and blunter than Japanese varieties, suited to reaching shared dishes in the center of the table rather than picking food from individual bowls. Material has ranged from bronze (elite) to bamboo and wood (common) to ivory and jade (imperial). Modern restaurants typically use disposable bamboo; households use lacquered wood or melamine.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="taboos">
+
+    <span class="section-anchor" id="taboos"></span>
       <h2 class="section-head">The Taboos · 禁忌 jìnjì</h2>
       <div class="cards">
         <div class="card c-red">
@@ -98,9 +98,9 @@ pinyin: 'kuàizi'
           <p>In more formal or hygienic-conscious settings, a second pair of chopsticks (公筷, "public chopsticks") is used for taking from shared dishes, not one's own eating chopsticks. Post-COVID this practice has become more common in urban restaurants and households.</p>
         </div>
       </div>
-    </section>
 
-    <section class="section-anchor" id="technique">
+
+    <span class="section-anchor" id="technique"></span>
       <h2 class="section-head">Technique · 用法 yòngfǎ</h2>
       <div class="scholar" data-glyph="用">
         <div class="scholar-label">握法 wòfǎ · The Hold</div>
@@ -108,9 +108,9 @@ pinyin: 'kuàizi'
         <p>This is the technique adults use. Children learning often hold both sticks simultaneously in the fist, a grip that adults find endearing and then gradually correct. An adult holding chopsticks incorrectly is mildly notable — not offensive, but a sign of someone who didn't grow up using them daily.</p>
         <p>The tips must align perfectly to grip small or slippery items. This is why "can you use chopsticks?" (你会用筷子吗？) is a common question to foreign guests, and why responding fluently in both language and utensil tends to generate genuine appreciation.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="culture">
+
+    <span class="section-anchor" id="culture"></span>
       <h2 class="section-head">Cultural Meaning · 文化意义</h2>
       <div class="scholar" data-glyph="仁">
         <div class="scholar-label">孔子与刀 · Confucius and the Knife</div>
@@ -118,9 +118,9 @@ pinyin: 'kuàizi'
         <p>The chopstick as a result is a remarkably peaceful utensil — its sole function is to bring food to the mouth. The contrast with the Western knife-fork-spoon set (where the knife is prominent) is stark and noted by Chinese observers who consider the Western table setup somewhat aggressive.</p>
         <p>The phrase <strong>同甘共苦</strong> (tóng gān gòng kǔ, "share sweetness, share bitterness together") — deep mutual commitment — is often illustrated with the image of chopsticks: a single stick breaks easily; a bundle does not. The chopstick as metaphor for solidarity appears in folk stories and political speeches alike.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="vocab">
+
+    <span class="section-anchor" id="vocab"></span>
       <h2 class="section-head">Key Vocabulary · 词汇 cíhuì</h2>
       <div class="cards">
         <div class="card c-ochre">
@@ -136,7 +136,7 @@ pinyin: 'kuàizi'
           <p>Disposable chopsticks — the individually wrapped bamboo or wood pairs given at most restaurants. Billions are used annually; their environmental cost is a topic of ongoing public debate.</p>
         </div>
       </div>
-    </section>
+
 
     <footer class="page-footer">
       <span class="footer-id">Field Notes on Chinese · <span>筷子</span> · Everyday Life</span>

@@ -60,7 +60,7 @@ pinyin: 'Běijīng'
       <p class="topic-hero-desc">Capital geography — the hutong grid, the Forbidden City, and the northern axis that has organized Chinese power for seven centuries.</p>
     </header>
 
-    <section class="section-anchor" id="names">
+    <span class="section-anchor" id="names"></span>
       <h2 class="section-head">The City's Names · 名称 míngchēng</h2>
       <div class="scholar" data-glyph="京">
         <div class="scholar-label">大都 · 北平 · 北京</div>
@@ -68,9 +68,9 @@ pinyin: 'Běijīng'
         <p>The name <strong>Peking</strong> in Western languages derives from an older romanization of the Mandarin pronunciation. Taiwan still officially calls the city 北平 (Běipíng) or occasionally uses Peking in English — a usage loaded with political meaning, implying the legitimacy question is unresolved.</p>
         <p>The name 北京 encodes its orientation: north of the ancient capitals at Luoyang and Chang'an, north of the Yangtze basin, north toward the steppe frontier that has always been the primary security challenge of any unified Chinese state. Controlling the north is controlling the zone where Chinese civilization and nomadic power historically met and clashed.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="axis">
+
+    <span class="section-anchor" id="axis"></span>
       <h2 class="section-head">The Central Axis · 中轴线 zhōngzhóuxiàn</h2>
       <div class="scholar" data-glyph="轴">
         <div class="scholar-label">天地之中 · The Center of Heaven and Earth</div>
@@ -78,9 +78,9 @@ pinyin: 'Běijīng'
         <p>The cosmological logic: the emperor occupies the center of the world; heaven is directly above him; the capital is arranged to make this geometrically visible. The axis aligns with the celestial pole — it is a physical diagram of the claim that Chinese political authority reflects cosmic order.</p>
         <p>The central axis was inscribed as a UNESCO World Heritage Site in 2024. Its geometry remains readable in the city: standing at the south gate of Tiananmen and looking north, you can see through successive courtyards to Jingshan Hill in a single sightline — the visual experience of the axis is intact despite the twentieth century.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="forbidden">
+
+    <span class="section-anchor" id="forbidden"></span>
       <h2 class="section-head">The Forbidden City · 故宫 gùgōng</h2>
       <div class="scholar" data-glyph="宫">
         <div class="scholar-label">紫禁城 zǐjìnchéng · Purple Forbidden City</div>
@@ -88,9 +88,9 @@ pinyin: 'Běijīng'
         <p>Built between 1406 and 1420 by the Yongle Emperor using labor drawn from across China, the complex contains 980 buildings and approximately 9,000 rooms. It served as the home of 24 emperors — the last fourteen of the Ming dynasty and the ten of the Qing. Its last imperial occupant, the Xuantong Emperor (Puyi), was expelled in 1924.</p>
         <p>The complex is structured as a nested sequence of increasingly restricted spaces — outer courts for state functions, inner courts for imperial family life, private gardens at the rear. Each transition inward represented a step closer to the sacred center. The outermost gate (Tiananmen, 天安门, "Gate of Heavenly Peace") is now also the symbolic entrance to the People's Republic — Mao's portrait hangs where imperial proclamations once appeared.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="hutong">
+
+    <span class="section-anchor" id="hutong"></span>
       <h2 class="section-head">The Hutong · 胡同 hútòng</h2>
       <div class="scholar" data-glyph="同">
         <div class="scholar-label">四合院 sìhéyuàn · Courtyard Life</div>
@@ -98,9 +98,9 @@ pinyin: 'Běijīng'
         <p>The 四合院 is the spatial unit of traditional Beijing family life: a central courtyard open to the sky, surrounded on four sides by one-story rooms. The compound is simultaneously private (high walls, single entrance) and expansive (the courtyard is generous, trees grow inside, the sky is fully visible). Multigenerational families occupied these compounds — grandparents in the main hall facing south, sons and their families in the side wings.</p>
         <p>The hutong neighborhoods that survive — Nanluoguxiang, Shichahai, Gulou — are now heavily gentrified, with coffee shops and boutiques occupying former family homes. The tension between preservation and development, between the livable past and the efficient future, is nowhere more visible in Beijing than in the hutong debate.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="vocab">
+
+    <span class="section-anchor" id="vocab"></span>
       <h2 class="section-head">Key Vocabulary · 词汇 cíhuì</h2>
       <div class="cards">
         <div class="card c-ochre">
@@ -116,7 +116,7 @@ pinyin: 'Běijīng'
           <p>The "four-nine city" — a colloquial name for old Beijing, referring to its four inner city gates and nine outer city gates. A marker of old Beijing nostalgia and native identity.</p>
         </div>
       </div>
-    </section>
+
 
     <footer class="page-footer">
       <span class="footer-id">Field Notes on Chinese · <span>北京</span> · Geography</span>

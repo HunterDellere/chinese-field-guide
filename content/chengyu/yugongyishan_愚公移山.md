@@ -59,7 +59,7 @@ sources:
       <p class="topic-hero-desc">Two mountains blocked his door. He and his sons began to move them, one basket at a time.</p>
     </header>
 
-    <section class="section-anchor" id="story">
+    <span class="section-anchor" id="story"></span>
       <h2 class="section-head">The Story · 故事 gùshi</h2>
       <div class="scholar" data-glyph="山">
         <div class="scholar-label">列子 Lièzǐ · compiled c. 4th century CE</div>
@@ -68,9 +68,9 @@ sources:
         <p>The old man — called Yúgōng (愚公), "the Foolish Old Man" — answered: "Though I die, my sons will continue. When they die, their sons will continue, and their sons after them. The mountains do not grow. Each basket removed is a basket less. Why should the mountains not one day be flat?" The clever neighbour had no reply.</p>
         <p>The story is told in the <strong>列子</strong> (Lièzǐ), a Daoist-flavoured text whose received form dates to the fourth century CE though it is traditionally attributed to Liè Yǔkòu, a pre-Qin philosopher. In the original ending, the mountain spirits, alarmed that the old man will not stop, appeal to the High God, who sends two giants to carry the mountains away. The perseverance is what moves heaven.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="mao">
+
+    <span class="section-anchor" id="mao"></span>
       <h2 class="section-head">Mao's Version · 毛泽东 Máo Zédōng</h2>
       <div class="scholar" data-glyph="山">
         <div class="scholar-label">1945 · Closing Speech, 7th CCP Congress</div>
@@ -78,9 +78,9 @@ sources:
         <p>The speech became a foundational text of the Maoist canon. For decades it was required reading in Chinese schools, and the phrase 愚公移山 acquired a specifically revolutionary resonance. The name of a PRC state television programme, the title of a 1961 Xu Beihong painting, the slogan in countless mass campaigns — the chengyu's twentieth-century career is inseparable from Mao's appropriation of it.</p>
         <p>In contemporary usage, this political overlay has faded somewhat. Younger speakers use the idiom more or less as any language might: to praise long, patient effort toward a goal that looks impossible. But the phrase retains, faintly, the echo of the mass mobilisation rhetoric of the Mao era — worth knowing about when you hear it used in political speeches today.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="usage">
+
+    <span class="section-anchor" id="usage"></span>
       <h2 class="section-head">Usage · 用法 yòngfǎ</h2>
       <div class="cards">
         <div class="card c-red">
@@ -96,9 +96,9 @@ sources:
           <p>虽然很困难，我们要有愚公移山的精神。(Suīrán hěn kùnnán, wǒmen yào yǒu yú gōng yí shān de jīngshén.) — Though it is difficult, we must have the spirit of the Foolish Old Man moving the mountains.</p>
         </div>
       </div>
-    </section>
 
-    <section class="section-anchor" id="characters">
+
+    <span class="section-anchor" id="characters"></span>
       <h2 class="section-head">Character Analysis · 字解 zìjiě</h2>
       <div class="cards">
         <div class="card c-ochre">
@@ -118,7 +118,7 @@ sources:
           <p>Mountain. A pure pictograph in every era of its writing — three peaks rising, stable and obvious from oracle bone through modern print. Mountains are the physical image of the immovable in Chinese thought, which is what gives the parable its force. 愚公移山 is not "the Foolish Old Man does a hard thing." It is "the Foolish Old Man moves the thing that does not move."</p>
         </div>
       </div>
-    </section>
+
 
     <footer class="page-footer">
       <span class="footer-id">Field Notes on Chinese · <span>愚公移山</span> · Chengyu</span>

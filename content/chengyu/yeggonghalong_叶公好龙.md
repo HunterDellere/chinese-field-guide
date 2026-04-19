@@ -52,7 +52,7 @@ pinyin: 'Yègōng hào lóng'
       <p class="topic-hero-desc">He decorated his palace with dragons — until a real one appeared. The idiom for loving what you only love in the abstract.</p>
     </header>
 
-    <section class="section-anchor" id="story">
+    <span class="section-anchor" id="story"></span>
       <h2 class="section-head">The Story · 故事 gùshi</h2>
       <div class="scholar" data-glyph="龙">
         <div class="scholar-label">刘向 Liú Xiàng · 1st century BCE</div>
@@ -60,9 +60,9 @@ pinyin: 'Yègōng hào lóng'
         <p>The Heaven Dragon heard of Lord Ye's devotion and was moved to visit him in person. The dragon descended from the clouds and thrust its head through the window, its tail coiling through the doorway. At the sight of the real dragon, Lord Ye turned white with terror and fled, trembling, unable to stop shaking.</p>
         <p>The story appears in <strong>刘向</strong> (Liú Xiàng)'s <em>新序</em> (Xīn Xù, "New Arrangements"), a Han dynasty collection of moral anecdotes. Its point is precise: Lord Ye's love was for the idea of dragons — their beauty, their power, their symbolic meaning — not for actual dragons in their living, terrifying reality. What he loved was the representation, and he was unprepared for the thing itself.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="usage">
+
+    <span class="section-anchor" id="usage"></span>
       <h2 class="section-head">Usage · 用法 yòngfǎ</h2>
       <div class="cards">
         <div class="card c-red">
@@ -78,9 +78,9 @@ pinyin: 'Yègōng hào lóng'
           <p>他说喜欢挑战，其实是叶公好龙。(Tā shuō xǐhuān tiǎozhàn, qíshí shì Yègōng hào lóng.) — He says he loves challenges, but actually he's like Lord Ye and his dragons: the real thing frightens him.</p>
         </div>
       </div>
-    </section>
 
-    <section class="section-anchor" id="characters">
+
+    <span class="section-anchor" id="characters"></span>
       <h2 class="section-head">Character Analysis · 字解 zìjiě</h2>
       <div class="cards">
         <div class="card c-ochre">
@@ -100,7 +100,7 @@ pinyin: 'Yègōng hào lóng'
           <p>Dragon — the Chinese dragon, quite different from its Western counterpart. The Chinese dragon (龙) is a benevolent, water-controlling celestial creature associated with imperial power, rain, and good fortune. Lord Ye's dragon obsession is therefore not a Gothic eccentricity but a prestigious passion — all the more ironic when the real thing arrives.</p>
         </div>
       </div>
-    </section>
+
 
     <footer class="page-footer">
       <span class="footer-id">Field Notes on Chinese · <span>叶公好龙</span> · Chengyu</span>

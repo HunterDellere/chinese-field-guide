@@ -60,7 +60,7 @@ pinyin: 'Táiwān'
       <p class="topic-hero-desc">An island with multiple names, multiple claims, and the most consequential unresolved question in East Asian geopolitics.</p>
     </header>
 
-    <section class="section-anchor" id="geography">
+    <span class="section-anchor" id="geography"></span>
       <h2 class="section-head">Geography · 地理 dìlǐ</h2>
       <div class="scholar" data-glyph="台">
         <div class="scholar-label">福尔摩沙 · Formosa</div>
@@ -68,9 +68,9 @@ pinyin: 'Táiwān'
         <p>The Portuguese, arriving in the sixteenth century, called it <strong>Ilha Formosa</strong> — "Beautiful Island" — a name that remained in Western use through the twentieth century. The name Taiwan (台湾) derives from a Siraya Aboriginal word, adopted into Dutch and then Chinese usage during the colonial period.</p>
         <p>Taiwan's indigenous Austronesian peoples — sixteen officially recognized groups — are the original inhabitants, having lived on the island for at least 6,000 years before Han Chinese settlement began in significant numbers in the seventeenth century. Their languages, now endangered, are among the oldest surviving evidence for the Austronesian language family that spread across the Pacific.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="history">
+
+    <span class="section-anchor" id="history"></span>
       <h2 class="section-head">History · 历史 lìshǐ</h2>
       <div class="cards">
         <div class="card c-teal">
@@ -86,9 +86,9 @@ pinyin: 'Táiwān'
           <p>Japan governed Taiwan as its first overseas colony for fifty years, investing heavily in infrastructure (railways, roads, electricity, water systems) while suppressing local cultural expression and imposing Japanese language and customs. Taiwan's modern infrastructure foundations date largely to this period. Japanese rule ended with Japan's surrender in World War II in 1945.</p>
         </div>
       </div>
-    </section>
 
-    <section class="section-anchor" id="1949">
+
+    <span class="section-anchor" id="1949"></span>
       <h2 class="section-head">The 1949 Retreat · 1949年撤退</h2>
       <div class="scholar" data-glyph="国">
         <div class="scholar-label">国民党 · The Kuomintang</div>
@@ -96,9 +96,9 @@ pinyin: 'Táiwān'
         <p>The Nationalist government maintained that it was the legitimate government of all of China — the <strong>中华民国</strong> (Zhōnghuá Mínguó, Republic of China, ROC) — temporarily exiled from the mainland. Taiwan held China's UN Security Council seat until 1971. The ROC continues to operate today as the government of Taiwan, with its own military, currency, passport, and elected institutions.</p>
         <p>The 1949 arrival created a complex layered society on Taiwan: the pre-existing Han Taiwanese (majority Hoklo and Hakka), the Aboriginal peoples, and the new mainland arrivals ("mainlanders," 外省人 wàishěng rén) who brought Mandarin as the official language and imposed martial law until 1987. The tensions between these groups shaped Taiwanese identity politics for generations.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="status">
+
+    <span class="section-anchor" id="status"></span>
       <h2 class="section-head">Current Status · 现状 xiànzhuàng</h2>
       <div class="scholar" data-glyph="海">
         <div class="scholar-label">台海问题 · The Taiwan Strait Question</div>
@@ -106,9 +106,9 @@ pinyin: 'Táiwān'
         <p>Within Taiwan, surveys show growing identification as "Taiwanese" rather than "Chinese" — a generational shift that accelerated after the 1990s democratization. Taiwan's democratic institutions, including direct presidential elections since 1996, have produced a political culture that has increasingly diverged from the mainland.</p>
         <p>The Taiwan Strait remains one of the world's most consequential potential conflict zones. Any discussion of Taiwan in Chinese contexts — whether in mainland China, with Taiwanese interlocutors, or in diaspora communities — carries political weight that may not be immediately visible. How one refers to the island, and what one says about its status, is rarely neutral.</p>
       </div>
-    </section>
 
-    <section class="section-anchor" id="vocab">
+
+    <span class="section-anchor" id="vocab"></span>
       <h2 class="section-head">Key Vocabulary · 词汇 cíhuì</h2>
       <div class="cards">
         <div class="card c-ochre">
@@ -124,7 +124,7 @@ pinyin: 'Táiwān'
           <p>Traditional characters — the term used in Taiwan for the traditional character system that Taiwan retained when the PRC introduced simplified characters in the 1950s. Taiwan uses 正體字 (traditional/correct form characters); PRC uses 简体字 (simplified characters).</p>
         </div>
       </div>
-    </section>
+
 
     <footer class="page-footer">
       <span class="footer-id">Field Notes on Chinese · <span>台湾</span> · Geography</span>
