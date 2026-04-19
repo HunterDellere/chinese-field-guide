@@ -208,12 +208,12 @@ Sidebar uses `.toc-topic`, `.toc-topic-en`, `.toc-divider`, `.toc-label`, `.toc-
 ## Section Anchor Pattern
 Each scrollable section must have a `.section-anchor` for the TOC scroll-spy to work:
 ```html
-<section class="section-anchor" id="etymology">
-  <h2 class="section-head">Etymology</h2>
-  ...
-</section>
+<span class="section-anchor" id="etymology"></span>
+<div class="section-head">...</div>
 ```
 The TOC link must point to `#etymology`. The IntersectionObserver in `toc-scroll.js` handles activation automatically.
+
+`.section-anchor` is a hidden zero-height element with `top: calc(-1 * (var(--nav-h) + 24px))` — this negative offset ensures that when a TOC link is clicked, the section scrolls into view below the sticky nav rather than hidden behind it. Do not remove or change this class.
 
 ---
 
