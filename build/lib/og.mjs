@@ -67,14 +67,15 @@ export function renderOgSvg(entry) {
 }
 
 /**
- * Inline SVG data-URI favicon: a single category glyph in category colour on transparent.
+ * Inline SVG data-URI favicon: consistent 書 glyph on papyrus background,
+ * centered and padded so it reads at 16×16 tab size across all pages.
  */
-export function categoryFaviconDataUri(category) {
-  const cat = CATEGORY_GLYPH[category] || CATEGORY_GLYPH.characters;
-  // Compact inline SVG; no XML decl, escape minimally
+export function categoryFaviconDataUri(_category) {
   const svg =
     `<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'>` +
-    `<text y='.9em' font-size='90' fill='${cat.color}'>${cat.glyph}</text>` +
+    `<rect width='100' height='100' rx='18' fill='#f2e8d5'/>` +
+    `<text x='50' y='50' text-anchor='middle' dominant-baseline='central'` +
+    ` font-family='Noto Serif SC, serif' font-size='72' font-weight='700' fill='#8b1a1a'>書</text>` +
     `</svg>`;
   return 'data:image/svg+xml,' + encodeURIComponent(svg);
 }

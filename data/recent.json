@@ -142,6 +142,25 @@
     "updated": "2026-04-19"
   },
   {
+    "path": "pages/characters/fo2_佛.html",
+    "type": "character",
+    "category": "characters",
+    "title": "佛 · Buddha, the awakened",
+    "desc": "The character that carried an entire worldview across the Silk Road — etymology, Buddhism, the 佛-family of compounds.",
+    "tags": [
+      "religion",
+      "buddhism",
+      "culture"
+    ],
+    "status": "complete",
+    "char": "佛",
+    "pinyin": "fó",
+    "tone": 2,
+    "hsk": 5,
+    "radical": "亻",
+    "updated": "2026-04-19"
+  },
+  {
     "path": "pages/characters/mu4_木.html",
     "type": "character",
     "category": "characters",
@@ -199,6 +218,61 @@
     "tone": 2,
     "hsk": 3,
     "radical": "王",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/characters/yao4_要.html",
+    "type": "character",
+    "category": "characters",
+    "title": "要 · to want, must, essential",
+    "desc": "Want, need, must, and will — the grammar engine disguised as a single character.",
+    "tags": [
+      "grammar",
+      "modal"
+    ],
+    "status": "complete",
+    "char": "要",
+    "pinyin": "yào",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "女",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/characters/zai4_再.html",
+    "type": "character",
+    "category": "characters",
+    "title": "再 · again, then, further",
+    "desc": "Again, one more time, and the subtle art of \"and then\" — the character that sequences and repeats.",
+    "tags": [
+      "grammar",
+      "time"
+    ],
+    "status": "complete",
+    "char": "再",
+    "pinyin": "zài",
+    "tone": 4,
+    "hsk": 2,
+    "radical": "冂",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/characters/zai4_在.html",
+    "type": "character",
+    "category": "characters",
+    "title": "在 · to be at, located, in progress",
+    "desc": "Location, existence, and the progressive aspect — the character that puts things in place and actions in motion.",
+    "tags": [
+      "grammar",
+      "space",
+      "aspect"
+    ],
+    "status": "complete",
+    "char": "在",
+    "pinyin": "zài",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "土",
     "updated": "2026-04-19"
   },
   {
@@ -276,72 +350,6 @@
     ],
     "status": "complete",
     "pinyin": "yú gōng yí shān",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/culinary/topic_caixi.html",
-    "type": "topic",
-    "category": "culinary",
-    "title": "八大菜系 · Eight Great Cuisines",
-    "desc": "How geography, climate, and dynasty shaped eight distinct schools of Chinese cooking.",
-    "tags": [
-      "food",
-      "culture",
-      "geography",
-      "history"
-    ],
-    "status": "complete",
-    "pinyin": "bā dà càixì",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/culinary/topic_chuancai.html",
-    "type": "topic",
-    "category": "culinary",
-    "title": "川菜 · Sichuan Cuisine",
-    "desc": "The mala kitchen — how a landlocked basin built the most complex spice vocabulary in the world.",
-    "tags": [
-      "food",
-      "culture",
-      "geography",
-      "history"
-    ],
-    "status": "complete",
-    "pinyin": "chuāncài",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/culinary/topic_doufu.html",
-    "type": "topic",
-    "category": "culinary",
-    "title": "豆腐 · Tofu",
-    "desc": "Two thousand years of soybeans and water: the food that fed a civilization without meat.",
-    "tags": [
-      "food",
-      "culture",
-      "history",
-      "buddhism",
-      "daily-life"
-    ],
-    "status": "complete",
-    "pinyin": "dòufu",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/culinary/topic_huoguo.html",
-    "type": "topic",
-    "category": "culinary",
-    "title": "火锅 · Hotpot",
-    "desc": "The communal pot at the center of the table: a social institution disguised as a meal.",
-    "tags": [
-      "food",
-      "culture",
-      "social",
-      "history",
-      "daily-life"
-    ],
-    "status": "complete",
-    "pinyin": "huǒguō",
     "updated": "2026-04-19"
   }
 ]

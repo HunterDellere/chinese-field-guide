@@ -6,7 +6,7 @@
     <atom:link href="https://hunterdellere.github.io/chinese-field-guide/feed.xml" rel="self" type="application/rss+xml" />
     <description>A field guide to Chinese — characters, language, and the long civilisation behind them.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Apr 2026 15:38:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 16:09:23 GMT</lastBuildDate>
     <item>
       <title>楚辞 · Songs of Chu</title>
       <link>https://hunterdellere.github.io/chinese-field-guide/pages/arts/topic_chuci.html</link>
@@ -72,6 +72,14 @@
       <category>arts</category>
     </item>
     <item>
+      <title>佛 · Buddha, the awakened</title>
+      <link>https://hunterdellere.github.io/chinese-field-guide/pages/characters/fo2_佛.html</link>
+      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/characters/fo2_佛.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>The character that carried an entire worldview across the Silk Road — etymology, Buddhism, the 佛-family of compounds.</description>
+      <category>characters</category>
+    </item>
+    <item>
       <title>木 · tree, wood</title>
       <link>https://hunterdellere.github.io/chinese-field-guide/pages/characters/mu4_木.html</link>
       <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/characters/mu4_木.html</guid>
@@ -93,6 +101,30 @@
       <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/characters/wang2_王.html</guid>
       <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
       <description>Three horizontals joined by one vertical — the ruler who connects heaven, earth, and humanity. Also the most common Chinese surname, and a radical that is secretly 玉 (jade) in disguise.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>要 · to want, must, essential</title>
+      <link>https://hunterdellere.github.io/chinese-field-guide/pages/characters/yao4_要.html</link>
+      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/characters/yao4_要.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Want, need, must, and will — the grammar engine disguised as a single character.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>再 · again, then, further</title>
+      <link>https://hunterdellere.github.io/chinese-field-guide/pages/characters/zai4_再.html</link>
+      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/characters/zai4_再.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Again, one more time, and the subtle art of &quot;and then&quot; — the character that sequences and repeats.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>在 · to be at, located, in progress</title>
+      <link>https://hunterdellere.github.io/chinese-field-guide/pages/characters/zai4_在.html</link>
+      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/characters/zai4_在.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Location, existence, and the progressive aspect — the character that puts things in place and actions in motion.</description>
       <category>characters</category>
     </item>
     <item>
@@ -214,38 +246,6 @@
       <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
       <description>Money wrapped in red — the gift that is never just money, and the ritual that binds generations, occasions, and now hundreds of millions of WeChat users.</description>
       <category>culture</category>
-    </item>
-    <item>
-      <title>清明节 · Tomb-Sweeping Day</title>
-      <link>https://hunterdellere.github.io/chinese-field-guide/pages/culture/topic_qingming.html</link>
-      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/culture/topic_qingming.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>The day the living visit the dead — a spring festival of grief, gratitude, and continuity across generations.</description>
-      <category>culture</category>
-    </item>
-    <item>
-      <title>太极 · Tai Chi</title>
-      <link>https://hunterdellere.github.io/chinese-field-guide/pages/culture/topic_taiji.html</link>
-      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/culture/topic_taiji.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>The slow-motion practice in the park at dawn — its philosophy is older than the movements, and the movements carry the whole philosophy.</description>
-      <category>culture</category>
-    </item>
-    <item>
-      <title>中秋节 · Mid-Autumn Festival</title>
-      <link>https://hunterdellere.github.io/chinese-field-guide/pages/culture/topic_zhongqiu.html</link>
-      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/culture/topic_zhongqiu.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>The moon at its fullest, the family reunited — the festival that turns a celestial event into a meditation on longing and belonging.</description>
-      <category>culture</category>
-    </item>
-    <item>
-      <title>称呼 · Forms of Address</title>
-      <link>https://hunterdellere.github.io/chinese-field-guide/pages/daily/topic_chenghu.html</link>
-      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/daily/topic_chenghu.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>In Chinese, how you address someone is not a formality — it is a precise statement of how you understand the relationship between you.</description>
-      <category>daily</category>
     </item>
   </channel>
 </rss>

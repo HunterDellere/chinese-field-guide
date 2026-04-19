@@ -16,7 +16,7 @@ import matter from 'gray-matter';
 import { validateEntry } from './lib/validate.mjs';
 import { buildSearchIndex } from './lib/search-index.mjs';
 import { buildRelations, buildAdjacency, renderRelatedHtml, renderAdjacencyHtml } from './lib/relations.mjs';
-import { injectStrokeOrder, buildLinkMap, autoLinkBody, addPinyinAudio, addErrataLink, addContentRequestLink, renderSourcesHtml, fixTocToggles } from './lib/augment.mjs';
+import { injectStrokeOrder, buildLinkMap, autoLinkBody, addPinyinAudio, buildPageFooter, renderSourcesHtml, fixTocToggles } from './lib/augment.mjs';
 import { renderOgSvg, categoryFaviconDataUri } from './lib/og.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
@@ -237,11 +237,7 @@ for (const { fm, body, slug, category, outDir, entry } of pending) {
       augmentedBody = autoLinkBody(augmentedBody, linkMap, entry);
       if (augmentedBody.length !== beforeLen) autoLinkCount++;
 
-      // 3.5 Errata + content request links in footer
-      augmentedBody = addErrataLink(augmentedBody, fm, slug, category);
-      augmentedBody = addContentRequestLink(augmentedBody);
-
-      // 4. Sources + related entries + prev/next at the bottom
+      // 4. Sources + related entries + prev/next at the bottom (inject before page-footer)
       const sourcesHtml = renderSourcesHtml(fm);
       const relatedHtml = renderRelatedHtml(relations.get(entry.path) || [], entry.path);
       const adjacencyHtml = renderAdjacencyHtml(adjacency.get(entry.path), entry.path);
@@ -256,6 +252,9 @@ for (const { fm, body, slug, category, outDir, entry } of pending) {
           augmentedBody = augmentedBody.replace('</main>', `${injection}\n  </main>`);
         }
       }
+
+      // 4.5 Rewrite page-footer to unified footer (runs after injection so placement is stable)
+      augmentedBody = buildPageFooter(augmentedBody, fm, slug, category);
     }
 
     const html = renderPage(fm, augmentedBody, slug, category);

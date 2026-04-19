@@ -56,38 +56,53 @@ function escapeHtmlInline(s) {
 }
 
 /**
- * Add an errata link to the page footer.
- * Uses GitHub Issues (pre-filled title) rather than mailto, to avoid exposing a
- * personal email address to scrapers and to keep the correction trail public.
- *
- * Footer pattern across content pages:
- *   <span class="footer-id">...</span>
- *   <a href="../../index.html" class="footer-back">← All Entries</a>
+ * Rewrite the minimal page-footer (footer-id + footer-back) into the full
+ * unified footer: label+link meta grid (corrections, request, Ko-fi, share)
+ * plus an id/back row. Replaces the old addErrataLink + addContentRequestLink
+ * approach that bolted pill buttons on before footer-back.
  */
-export function addErrataLink(body, fm, slug, category) {
-  if (!body.includes('class="footer-back"')) return body;
-  const title = encodeURIComponent(`Correction: ${category}/${slug}`);
-  const bodyTxt = encodeURIComponent(
+export function buildPageFooter(body, fm, slug, category) {
+  if (!body.includes('class="page-footer"')) return body;
+
+  const corrTitle = encodeURIComponent(`Correction: ${category}/${slug}`);
+  const corrBody = encodeURIComponent(
     `Page: pages/${category}/${slug}.html\n\n` +
     `Describe the correction (quote the exact sentence or claim):\n\n`
   );
-  const url = `https://github.com/HunterDellere/chinese-field-guide/issues/new?title=${title}&body=${bodyTxt}&labels=correction`;
-  const errata = `<a class="footer-errata" href="${url}" target="_blank" rel="noopener noreferrer">Suggest a correction on GitHub →</a>`;
-  return body.replace(
-    /<a([^>]*?)class="footer-back"/,
-    `${errata}\n      <a$1class="footer-back"`
-  );
-}
+  const corrUrl = `https://github.com/HunterDellere/chinese-field-guide/issues/new?title=${corrTitle}&body=${corrBody}&labels=correction`;
+  const reqTitle = encodeURIComponent('Request: ');
+  const reqUrl = `https://github.com/HunterDellere/chinese-field-guide/issues/new?template=content-request.yml&title=${reqTitle}`;
 
-export function addContentRequestLink(body) {
-  if (!body.includes('class="footer-back"')) return body;
-  const title = encodeURIComponent('Request: ');
-  const url = `https://github.com/HunterDellere/chinese-field-guide/issues/new?template=content-request.yml&title=${title}`;
-  const link = `<a class="footer-errata" href="${url}" target="_blank" rel="noopener noreferrer">Request an entry →</a>`;
-  return body.replace(
-    /<a([^>]*?)class="footer-back"/,
-    `${link}\n      <a$1class="footer-back"`
-  );
+  const idLabel = fm.char
+    ? `${fm.char} ${fm.pinyin || ''} · ${slug}`
+    : (fm.title ? `${fm.title.split('·')[0].trim()} · ${slug}` : slug);
+
+  const newFooter = `<footer class="page-footer">
+      <div class="page-footer-meta">
+        <div>
+          <div class="label">Corrections</div>
+          <a href="${corrUrl}" target="_blank" rel="noopener noreferrer">Open an issue</a>
+        </div>
+        <div>
+          <div class="label">Request an entry</div>
+          <a href="${reqUrl}" target="_blank" rel="noopener noreferrer">Suggest a topic</a>
+        </div>
+        <div>
+          <div class="label">Support</div>
+          <a href="https://ko-fi.com/hdellere" target="_blank" rel="noopener">Buy me a coffee on Ko-fi</a>
+        </div>
+        <div>
+          <div class="label">Share</div>
+          <button type="button" class="page-footer-share" data-share>Copy link</button>
+        </div>
+      </div>
+      <div class="page-footer-row">
+        <span class="footer-id">書屋 · Shūwū · <span>${idLabel}</span></span>
+        <a href="../../index.html" class="footer-back">← All Entries</a>
+      </div>
+    </footer>`;
+
+  return body.replace(/<footer class="page-footer">[\s\S]*?<\/footer>/, newFooter);
 }
 
 export function injectStrokeOrder(body, fm) {
