@@ -119,7 +119,7 @@ pinyin: 'Běijīng'
 
 
     <footer class="page-footer">
-      <span class="footer-id">Field Notes on Chinese · <span>北京</span> · Geography</span>
+      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>北京</span> · Geography</span>
       <a href="../../index.html" class="footer-back">← All Entries</a>
     </footer>
 

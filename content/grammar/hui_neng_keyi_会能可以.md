@@ -496,7 +496,7 @@ pinyin: 'huì / néng / kěyǐ'
 
     <!-- FOOTER -->
     <footer class="page-footer">
-      <span class="footer-id">Field Notes on Chinese · <span>会 / 能 / 可以</span> · hui_neng_keyi_会能可以.html</span>
+      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>会 / 能 / 可以</span> · hui_neng_keyi_会能可以.html</span>
       <a href="../../index.html" class="footer-back">← All Entries</a>
     </footer>
 

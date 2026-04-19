@@ -893,7 +893,7 @@ radical: '子'
 
     <!-- FOOTER -->
     <footer class="page-footer">
-      <span class="footer-id">Field Notes on Chinese · <span>字 zì</span> · zi4_字.html</span>
+      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>字 zì</span> · zi4_字.html</span>
       <a href="../../index.html" class="footer-back">← All Entries</a>
     </footer>
 

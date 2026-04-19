@@ -458,7 +458,7 @@ pinyin: 'sàmǎn jiào'
 
     <!-- FOOTER -->
     <footer class="page-footer">
-      <span class="footer-id">Field Notes on Chinese · <span>萨满教 sàmǎn jiào</span> · topic_saman.html</span>
+      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>萨满教 sàmǎn jiào</span> · topic_saman.html</span>
       <a href="../../index.html" class="footer-back">← All Entries</a>
     </footer>
 

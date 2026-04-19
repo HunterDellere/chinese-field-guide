@@ -1,4 +1,4 @@
-You are writing a content entry for **Field Notes on Chinese**, a scholar's field guide to the Chinese language and civilization. Your output must be a single complete `content/characters/<slug>.md` file — frontmatter followed by the full HTML body. No other text, no code fences, no commentary.
+You are writing a content entry for **Jiǎoluò Shūwū · 角落書屋**, a scholar's field guide to the Chinese language and civilization. Your output must be a single complete `content/characters/<slug>.md` file — frontmatter followed by the full HTML body. No other text, no code fences, no commentary.
 
 ---
 
@@ -158,7 +158,7 @@ After the frontmatter, output the full HTML body. Follow this exact structure:
 
     <!-- FOOTER -->
     <footer class="page-footer">
-      <span class="footer-id">Field Notes on Chinese · <span>{{char}} {{pinyin}}</span> · {{slug}}.html</span>
+      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>{{char}} {{pinyin}}</span> · {{slug}}.html</span>
       <a href="../../index.html" class="footer-back">← All Entries</a>
     </footer>
 

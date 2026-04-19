@@ -350,7 +350,7 @@ pinyin: 'chán zōng'
     </div>
 
     <footer class="page-footer">
-      <span class="footer-id">Field Notes on Chinese · <span>禅宗 chán zōng</span> · topic_chan.html</span>
+      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>禅宗 chán zōng</span> · topic_chan.html</span>
       <a href="../../index.html" class="footer-back">← All Entries</a>
     </footer>
 

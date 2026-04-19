@@ -288,7 +288,7 @@ pinyin: 'xīnhài gémìng'
 
     <!-- FOOTER -->
     <footer class="page-footer">
-      <span class="footer-id">Field Notes on Chinese · <span>辛亥革命 xīnhài gémìng</span> · topic_xinhai.html</span>
+      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>辛亥革命 xīnhài gémìng</span> · topic_xinhai.html</span>
       <a href="../../index.html" class="footer-back">← All Entries</a>
     </footer>
 

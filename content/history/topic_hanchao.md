@@ -221,7 +221,7 @@ pinyin: 'hàncháo'
 
     <!-- FOOTER -->
     <footer class="page-footer">
-      <span class="footer-id">Field Notes on Chinese · <span>汉朝 hàncháo</span> · topic_hanchao.html</span>
+      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>汉朝 hàncháo</span> · topic_hanchao.html</span>
       <a href="../../index.html" class="footer-back">← All Entries</a>
     </footer>
 

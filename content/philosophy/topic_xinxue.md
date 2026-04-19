@@ -214,7 +214,7 @@ pinyin: 'xīnxué'
 
     <!-- FOOTER -->
     <footer class="page-footer">
-      <span class="footer-id">Field Notes on Chinese · <span>心学 xīnxué</span> · topic_xinxue.html</span>
+      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>心学 xīnxué</span> · topic_xinxue.html</span>
       <a href="../../index.html" class="footer-back">← All Entries</a>
     </footer>
 

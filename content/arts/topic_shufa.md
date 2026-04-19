@@ -142,7 +142,7 @@ pinyin: 'shūfǎ'
 
 
     <footer class="page-footer">
-      <span class="footer-id">Field Notes on Chinese · <span>书法</span> · Arts &amp; Literature</span>
+      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>书法</span> · Arts &amp; Literature</span>
       <a href="../../index.html" class="footer-back">← All Entries</a>
     </footer>
 

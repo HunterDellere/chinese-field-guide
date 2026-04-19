@@ -811,7 +811,7 @@ radical: '心'
 
     <!-- FOOTER -->
     <footer class="page-footer">
-      <span class="footer-id">Field Notes on Chinese · <span>心 xīn</span> · xin1_心.html</span>
+      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>心 xīn</span> · xin1_心.html</span>
       <a href="../../index.html" class="footer-back">← All Entries</a>
     </footer>
 

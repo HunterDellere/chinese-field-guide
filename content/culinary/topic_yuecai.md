@@ -187,7 +187,7 @@ pinyin: 'yuècài'
     </div>
 
     <footer class="page-footer">
-      <span class="footer-id">Field Notes on Chinese · <span>粤菜</span> · Culinary</span>
+      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>粤菜</span> · Culinary</span>
       <a href="../../index.html" class="footer-back">← All Entries</a>
     </footer>
 

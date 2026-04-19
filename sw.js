@@ -1,4 +1,4 @@
-/* Field Notes on Chinese — service worker
+/* Jiǎoluò Shūwū · 角落書屋 — service worker
  *
  * Strategy:
  *   - Install: pre-cache the shell (style.css, scripts, manifest, fonts CSS).

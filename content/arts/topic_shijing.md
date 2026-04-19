@@ -213,7 +213,7 @@ pinyin: 'shījīng'
     </div>
 
     <footer class="page-footer">
-      <span class="footer-id">Field Notes on Chinese · <span>诗经 shījīng</span> · Arts &amp; Literature</span>
+      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>诗经 shījīng</span> · Arts &amp; Literature</span>
       <a href="../../index.html" class="footer-back">← All Entries</a>
     </footer>
 

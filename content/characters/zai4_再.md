@@ -484,7 +484,7 @@ radical: '冂'
     </div>
 
     <footer class="page-footer">
-      <span class="footer-id">Field Notes on Chinese · <span>再 zài</span> · zai4_再.html</span>
+      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>再 zài</span> · zai4_再.html</span>
       <a href="../../index.html" class="footer-back">← All Entries</a>
     </footer>
 

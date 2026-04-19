@@ -46,7 +46,7 @@ npm run watch      # rebuild on content changes
 **GitHub Pages** (recommended — free, zero config):
 1. Push this repo to GitHub.
 2. Go to Settings → Pages → Source: Deploy from branch `main`, folder `/`.
-3. Site lives at `https://[username].github.io/chinese-field-guide/`.
+3. Site lives at `https://[username].github.io/jiaoluo-shuwu/`.
 
 Alternatives: **Cloudflare Pages** or **Netlify** (free tier). All three work identically — static files only.
 

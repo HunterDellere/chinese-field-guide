@@ -488,7 +488,7 @@ pinyin: 'lián…dōu/yě'
 
     <!-- FOOTER -->
     <footer class="page-footer">
-      <span class="footer-id">Field Notes on Chinese · <span>连…都/也 lián…dōu/yě</span> · lian_dou_连都.html</span>
+      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>连…都/也 lián…dōu/yě</span> · lian_dou_连都.html</span>
       <a href="../../index.html" class="footer-back">← All Entries</a>
     </footer>
 

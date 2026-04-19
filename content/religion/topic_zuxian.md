@@ -461,7 +461,7 @@ pinyin: 'zǔxiān chóngbài'
 
     <!-- FOOTER -->
     <footer class="page-footer">
-      <span class="footer-id">Field Notes on Chinese · <span>祖先崇拜 zǔxiān chóngbài</span> · topic_zuxian.html</span>
+      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>祖先崇拜 zǔxiān chóngbài</span> · topic_zuxian.html</span>
       <a href="../../index.html" class="footer-back">← All Entries</a>
     </footer>
 

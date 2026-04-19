@@ -261,7 +261,7 @@ pinyin: 'lǐxué'
 
     <!-- FOOTER -->
     <footer class="page-footer">
-      <span class="footer-id">Field Notes on Chinese · <span>理学 lǐxué</span> · topic_lixue.html</span>
+      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>理学 lǐxué</span> · topic_lixue.html</span>
       <a href="../../index.html" class="footer-back">← All Entries</a>
     </footer>
 

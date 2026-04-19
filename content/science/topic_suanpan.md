@@ -178,7 +178,7 @@ pinyin: 'suànpán'
     </div>
 
     <footer class="page-footer">
-      <span class="footer-id">Field Notes on Chinese · <span>算盘</span> · Science &amp; Medicine</span>
+      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>算盘</span> · Science &amp; Medicine</span>
       <a href="../../index.html" class="footer-back">← All Entries</a>
     </footer>
 

@@ -272,7 +272,7 @@ pinyin: 'mòjiā'
 
     <!-- FOOTER -->
     <footer class="page-footer">
-      <span class="footer-id">Field Notes on Chinese · <span>墨家 mòjiā</span> · topic_mojia.html</span>
+      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>墨家 mòjiā</span> · topic_mojia.html</span>
       <a href="../../index.html" class="footer-back">← All Entries</a>
     </footer>
 

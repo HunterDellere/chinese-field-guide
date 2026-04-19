@@ -1,4 +1,4 @@
-You are writing a content entry for **Field Notes on Chinese**, a scholar's field guide to the Chinese language and civilization. Your output must be a single complete `content/{{category}}/{{slug}}.md` file — frontmatter followed by the full HTML body. No other text, no code fences, no commentary.
+You are writing a content entry for **Jiǎoluò Shūwū · 角落書屋**, a scholar's field guide to the Chinese language and civilization. Your output must be a single complete `content/{{category}}/{{slug}}.md` file — frontmatter followed by the full HTML body. No other text, no code fences, no commentary.
 
 ---
 
@@ -75,7 +75,7 @@ Tags must come from the controlled vocabulary in `content/_schema/tags.json`.
     <!-- Use .adj-wrap for adjacent vocabulary chips -->
 
     <footer class="page-footer">
-      <span class="footer-id">Field Notes on Chinese · <span>{{title_cn}} {{pinyin}}</span> · {{slug}}.html</span>
+      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>{{title_cn}} {{pinyin}}</span> · {{slug}}.html</span>
       <a href="../../index.html" class="footer-back">← All Entries</a>
     </footer>
 

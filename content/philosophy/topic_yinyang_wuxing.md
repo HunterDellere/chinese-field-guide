@@ -370,7 +370,7 @@ pinyin: 'yīnyáng wǔxíng'
 
     <!-- FOOTER -->
     <footer class="page-footer">
-      <span class="footer-id">Field Notes on Chinese · <span>阴阳五行 yīnyáng wǔxíng</span> · topic_yinyang_wuxing.html</span>
+      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>阴阳五行 yīnyáng wǔxíng</span> · topic_yinyang_wuxing.html</span>
       <a href="../../index.html" class="footer-back">← All Entries</a>
     </footer>
 

@@ -173,7 +173,7 @@ pinyin: 'qǐngkè chīfàn'
     </div>
 
     <footer class="page-footer">
-      <span class="footer-id">Field Notes on Chinese · <span>请客吃饭</span> · Everyday Life</span>
+      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>请客吃饭</span> · Everyday Life</span>
       <a href="../../index.html" class="footer-back">← All Entries</a>
     </footer>
 

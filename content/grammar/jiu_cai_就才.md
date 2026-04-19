@@ -650,7 +650,7 @@ pinyin: 'jiù / cái'
 
     <!-- FOOTER -->
     <footer class="page-footer">
-      <span class="footer-id">Field Notes on Chinese · <span>就／才 jiù / cái</span> · jiu_cai_就才.html</span>
+      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>就／才 jiù / cái</span> · jiu_cai_就才.html</span>
       <a href="../../index.html" class="footer-back">← All Entries</a>
     </footer>
 

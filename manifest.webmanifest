@@ -1,9 +1,9 @@
 {
-  "name": "Field Notes on Chinese",
+  "name": "Jiǎoluò Shūwū · 角落書屋",
   "short_name": "Field Notes",
   "description": "A field guide to Chinese — characters, language, and the long civilisation behind them.",
-  "start_url": "/chinese-field-guide/",
-  "scope": "/chinese-field-guide/",
+  "start_url": "/jiaoluo-shuwu/",
+  "scope": "/jiaoluo-shuwu/",
   "display": "standalone",
   "background_color": "#f2e8d5",
   "theme_color": "#1c1208",

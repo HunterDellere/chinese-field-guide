@@ -58,7 +58,7 @@ export function renderOgSvg(entry) {
   <rect width="1200" height="630" filter="url(#paper)" opacity="0.06"/>
   <line x1="60" y1="60" x2="1140" y2="60" stroke="${cat.color}" stroke-width="3"/>
   <line x1="60" y1="570" x2="1140" y2="570" stroke="${cat.color}" stroke-width="3"/>
-  <text x="80" y="100" font-family="Inconsolata, monospace" font-size="22" letter-spacing="6" fill="#6b5535" text-transform="uppercase">SHŪWŪ · 書屋</text>
+  <text x="80" y="100" font-family="Inconsolata, monospace" font-size="22" letter-spacing="6" fill="#6b5535" text-transform="uppercase">JIǍOLUÒ SHŪWŪ · 角落書屋</text>
   <text x="1120" y="100" font-family="Inconsolata, monospace" font-size="22" letter-spacing="3" fill="#6b5535" text-anchor="end">${escXml(entry.category)}</text>
   <text x="600" y="${isLong ? 350 : 380}" font-family="Noto Serif SC, serif" font-size="${glyphSize}" font-weight="700" fill="${cat.color}" text-anchor="middle" dominant-baseline="middle">${escXml(glyph)}</text>
   ${pinyin ? `<text x="600" y="${isLong ? 470 : 490}" font-family="Inconsolata, monospace" font-size="44" letter-spacing="4" fill="#a06428" text-anchor="middle">${escXml(pinyin)}</text>` : ''}

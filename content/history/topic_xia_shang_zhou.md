@@ -353,7 +353,7 @@ pinyin: 'xià shāng zhōu'
 
     <!-- FOOTER -->
     <footer class="page-footer">
-      <span class="footer-id">Field Notes on Chinese · <span>夏商周 xià shāng zhōu</span> · topic_xia_shang_zhou.html</span>
+      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>夏商周 xià shāng zhōu</span> · topic_xia_shang_zhou.html</span>
       <a href="../../index.html" class="footer-back">← All Entries</a>
     </footer>
 

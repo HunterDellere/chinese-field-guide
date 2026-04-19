@@ -188,7 +188,7 @@ pinyin: 'èrshísì jiéqì'
     </div>
 
     <footer class="page-footer">
-      <span class="footer-id">Field Notes on Chinese · <span>二十四节气</span> · Science &amp; Medicine</span>
+      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>二十四节气</span> · Science &amp; Medicine</span>
       <a href="../../index.html" class="footer-back">← All Entries</a>
     </footer>
 

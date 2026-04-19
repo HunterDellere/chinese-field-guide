@@ -274,7 +274,7 @@ pinyin: 'míngcháo'
 
     <!-- FOOTER -->
     <footer class="page-footer">
-      <span class="footer-id">Field Notes on Chinese · <span>明朝 míngcháo</span> · topic_mingchao.html</span>
+      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>明朝 míngcháo</span> · topic_mingchao.html</span>
       <a href="../../index.html" class="footer-back">← All Entries</a>
     </footer>
 

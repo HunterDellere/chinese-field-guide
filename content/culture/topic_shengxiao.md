@@ -167,7 +167,7 @@ pinyin: 'shēngxiào'
 
 
     <footer class="page-footer">
-      <span class="footer-id">Field Notes on Chinese · <span>生肖</span> · Culture</span>
+      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>生肖</span> · Culture</span>
       <a href="../../index.html" class="footer-back">← All Entries</a>
     </footer>
 

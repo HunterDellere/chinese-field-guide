@@ -69,9 +69,9 @@ export function buildPageFooter(body, fm, slug, category) {
     `Page: pages/${category}/${slug}.html\n\n` +
     `Describe the correction (quote the exact sentence or claim):\n\n`
   );
-  const corrUrl = `https://github.com/HunterDellere/chinese-field-guide/issues/new?title=${corrTitle}&body=${corrBody}&labels=correction`;
+  const corrUrl = `https://github.com/HunterDellere/jiaoluo-shuwu/issues/new?title=${corrTitle}&body=${corrBody}&labels=correction`;
   const reqTitle = encodeURIComponent('Request: ');
-  const reqUrl = `https://github.com/HunterDellere/chinese-field-guide/issues/new?template=content-request.yml&title=${reqTitle}`;
+  const reqUrl = `https://github.com/HunterDellere/jiaoluo-shuwu/issues/new?template=content-request.yml&title=${reqTitle}`;
 
   const idLabel = fm.char
     ? `${fm.char} ${fm.pinyin || ''} · ${slug}`
@@ -92,7 +92,7 @@ export function buildPageFooter(body, fm, slug, category) {
         </div>
       </div>
       <div class="page-footer-row">
-        <span class="footer-id">書屋 · Shūwū · <span>${idLabel}</span></span>
+        <span class="footer-id">角落書屋 · Jiǎoluò Shūwū · <span>${idLabel}</span></span>
         <a href="../../index.html" class="footer-back">← All entries</a>
       </div>
     </footer>`;

@@ -267,7 +267,7 @@ pinyin: 'wénhuà dà gémìng'
 
     <!-- FOOTER -->
     <footer class="page-footer">
-      <span class="footer-id">Field Notes on Chinese · <span>文化大革命 wénhuà dà gémìng</span> · topic_wenge.html</span>
+      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>文化大革命 wénhuà dà gémìng</span> · topic_wenge.html</span>
       <a href="../../index.html" class="footer-back">← All Entries</a>
     </footer>
 

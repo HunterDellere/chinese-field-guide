@@ -59,7 +59,7 @@ function buildPageTitle(fm) {
   return fm.title || '';
 }
 
-const SITE_URL = 'https://hunterdellere.github.io/chinese-field-guide';
+const SITE_URL = 'https://hunterdellere.github.io/jiaoluo-shuwu';
 
 function buildJsonLd(fm, slug, category) {
   if (fm.status !== 'complete') return '';
@@ -75,7 +75,7 @@ function buildJsonLd(fm, slug, category) {
       name: fm.char || (fm.title ? fm.title.split('·')[0].trim() : slug),
       alternateName: fm.pinyin || undefined,
       description,
-      inDefinedTermSet: 'Field Notes on Chinese',
+      inDefinedTermSet: 'Jiǎoluò Shūwū · 角落書屋',
       url,
       inLanguage: 'zh-Hans',
       author,
@@ -91,7 +91,7 @@ function buildJsonLd(fm, slug, category) {
       author,
       datePublished: fm.updated || undefined,
       dateModified: fm.updated || undefined,
-      publisher: { '@type': 'Organization', name: 'Field Notes on Chinese' },
+      publisher: { '@type': 'Organization', name: 'Jiǎoluò Shūwū · 角落書屋' },
       mainEntityOfPage: url,
     };
   }
@@ -112,7 +112,7 @@ function buildOgTags(fm, slug, category) {
     `<meta property="og:description" content="${escapeAttr(desc)}">`,
     `<meta property="og:url" content="${url}">`,
     `<meta property="og:image" content="${ogImg}">`,
-    `<meta property="og:site_name" content="Field Notes on Chinese">`,
+    `<meta property="og:site_name" content="Jiǎoluò Shūwū · 角落書屋">`,
     `<meta name="twitter:card" content="summary_large_image">`,
     `<meta name="twitter:title" content="${escapeAttr(title)}">`,
     `<meta name="twitter:description" content="${escapeAttr(desc)}">`,
@@ -391,7 +391,7 @@ const rssXml =
   `<?xml version="1.0" encoding="UTF-8"?>\n` +
   `<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">\n` +
   `  <channel>\n` +
-  `    <title>Field Notes on Chinese</title>\n` +
+  `    <title>Jiǎoluò Shūwū · 角落書屋</title>\n` +
   `    <link>${SITE_URL}/</link>\n` +
   `    <atom:link href="${SITE_URL}/feed.xml" rel="self" type="application/rss+xml" />\n` +
   `    <description>A field guide to Chinese — characters, language, and the long civilisation behind them.</description>\n` +
@@ -418,11 +418,11 @@ for (const e of entries) {
 
 // PWA manifest
 const manifest = {
-  name: 'Field Notes on Chinese',
+  name: 'Jiǎoluò Shūwū · 角落書屋',
   short_name: 'Field Notes',
   description: 'A field guide to Chinese — characters, language, and the long civilisation behind them.',
-  start_url: '/chinese-field-guide/',
-  scope: '/chinese-field-guide/',
+  start_url: '/jiaoluo-shuwu/',
+  scope: '/jiaoluo-shuwu/',
   display: 'standalone',
   background_color: '#f2e8d5',
   theme_color: '#1c1208',

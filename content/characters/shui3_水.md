@@ -271,7 +271,7 @@ sources:
     </div>
 
     <footer class="page-footer">
-      <span class="footer-id">Field Notes on Chinese · <span>水 shuǐ</span> · shui3_水.html</span>
+      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>水 shuǐ</span> · shui3_水.html</span>
       <a href="../../index.html" class="footer-back">← All Entries</a>
     </footer>
 

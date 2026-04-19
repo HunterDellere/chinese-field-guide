@@ -392,7 +392,7 @@ pinyin: 'dàojiào'
     </div>
 
     <footer class="page-footer">
-      <span class="footer-id">Field Notes on Chinese · <span>道教 dàojiào</span> · topic_daojiao.html</span>
+      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>道教 dàojiào</span> · topic_daojiao.html</span>
       <a href="../../index.html" class="footer-back">← All Entries</a>
     </footer>
 

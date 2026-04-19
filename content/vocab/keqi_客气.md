@@ -187,7 +187,7 @@ sources:
 
 
     <footer class="page-footer">
-      <span class="footer-id">Field Notes on Chinese · <span>客气 kèqi</span> · Vocabulary</span>
+      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>客气 kèqi</span> · Vocabulary</span>
       <a href="../../index.html" class="footer-back">← All Entries</a>
     </footer>
 

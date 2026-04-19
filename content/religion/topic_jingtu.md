@@ -336,7 +336,7 @@ pinyin: 'jìngtǔ zōng'
     </div>
 
     <footer class="page-footer">
-      <span class="footer-id">Field Notes on Chinese · <span>净土宗 jìngtǔ zōng</span> · topic_jingtu.html</span>
+      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>净土宗 jìngtǔ zōng</span> · topic_jingtu.html</span>
       <a href="../../index.html" class="footer-back">← All Entries</a>
     </footer>
 

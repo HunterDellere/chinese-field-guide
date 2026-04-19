@@ -131,7 +131,7 @@ for (const cat of CATEGORIES) {
       // Extract meta description and page title from original HTML
       const metaDescMatch = html.match(/<meta name="description" content="([^"]+)">/);
       const metaDesc = metaDescMatch ? metaDescMatch[1] : null;
-      const pageTitleMatch = html.match(/<title>([^<]+) — Field Notes on Chinese<\/title>/);
+      const pageTitleMatch = html.match(/<title>([^<]+) — Jiǎoluò Shūwū · 角落書屋<\/title>/);
       const pageTitle = pageTitleMatch ? pageTitleMatch[1] : null;
 
       // Build frontmatter object (ordered for readability)

@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * draft.mjs — scaffolding tool for chinese-field-guide
+ * draft.mjs — scaffolding tool for jiaoluo-shuwu
  *
  * Creates a stub draft file in local/drafts/<category>/<slug>.md with correct
  * frontmatter and HTML structure. Edit the stub (or ask Claude Code to fill it),
@@ -158,7 +158,7 @@ radical: ''
 
     <!-- FOOTER -->
     <footer class="page-footer">
-      <span class="footer-id">Field Notes on Chinese · <span>${char} ${pinyin}</span> · ${slug}.html</span>
+      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>${char} ${pinyin}</span> · ${slug}.html</span>
       <a href="../../index.html" class="footer-back">← All Entries</a>
     </footer>
 
@@ -210,7 +210,7 @@ pinyin: ''
     <!-- add content sections -->
 
     <footer class="page-footer">
-      <span class="footer-id">Field Notes on Chinese · ${slug}.html</span>
+      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · ${slug}.html</span>
       <a href="../../index.html" class="footer-back">← All Entries</a>
     </footer>
 

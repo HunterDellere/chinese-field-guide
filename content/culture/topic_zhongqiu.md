@@ -184,7 +184,7 @@ pinyin: 'Zhōngqiūjié'
     </div>
 
     <footer class="page-footer">
-      <span class="footer-id">Field Notes on Chinese · <span>中秋节 Zhōngqiūjié</span> · Culture</span>
+      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>中秋节 Zhōngqiūjié</span> · Culture</span>
       <a href="../../index.html" class="footer-back">← All Entries</a>
     </footer>
 
