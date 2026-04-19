@@ -1,0 +1,197 @@
+---
+type: 'topic'
+category: 'science'
+status: 'complete'
+title: '二十四节气 · 24 Solar Terms'
+desc: 'The sun moves 15 degrees and the world changes — a precision agricultural calendar that doubled as a medical manual and is now UNESCO heritage.'
+metaDesc: "二十四节气 èrshísì jiéqì: the 24 solar terms — how each marks a 15-degree solar position, all 24 names and meanings, agricultural timing, TCM seasonal medicine, and UNESCO intangible heritage status."
+pageTitle: '二十四节气 24 Solar Terms'
+tags:
+  - 'science'
+  - 'history'
+  - 'cosmology'
+  - 'culture'
+  - 'tcm'
+updated: '2026-04-19'
+pinyin: 'èrshísì jiéqì'
+---
+
+<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+    <span class="toc-topic">二十四节气</span>
+    <span class="toc-topic-en">24 Solar Terms</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#what">
+        <span class="toc-cn">何为节气</span> What Are Solar Terms
+        <span class="toc-sub">astronomy and agricultural logic</span>
+      </a></li>
+      <li><a href="#all24">
+        <span class="toc-cn">全部节气</span> All 24 Terms
+        <span class="toc-sub">names, meanings, approximate dates</span>
+      </a></li>
+      <li><a href="#agriculture">
+        <span class="toc-cn">农业</span> Agricultural Significance
+        <span class="toc-sub">planting, flood, and frost</span>
+      </a></li>
+      <li><a href="#medicine">
+        <span class="toc-cn">医学</span> Seasonal Medicine
+        <span class="toc-sub">diet, acupuncture, and constitutional timing</span>
+      </a></li>
+      <li><a href="#living">
+        <span class="toc-cn">当代</span> Solar Terms Today
+        <span class="toc-sub">UNESCO heritage and living practice</span>
+      </a></li>
+      <li><a href="#vocab">
+        <span class="toc-cn">词汇</span> Key Vocabulary
+        <span class="toc-sub">terms to know</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">Science &amp; Medicine · 科技 kējì</span>
+      <h1 class="topic-hero-title">二十四节气</h1>
+      <span class="topic-hero-title-py">èrshísì jiéqì</span>
+      <p class="topic-hero-desc">The sun moves 15 degrees and the world changes — a precision agricultural calendar that doubled as a medical manual and is now UNESCO heritage.</p>
+    </header>
+
+    <span class="section-anchor" id="what"></span>
+    <div class="section-head">
+      <span class="sh-cn">何为节气</span>
+      <span class="sh-py">hé wèi jiéqì</span>
+      <span class="sh-en">What Are Solar Terms — Astronomy and Agricultural Logic</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="节">
+      <div class="scholar-label">太阳黄经 tàiyáng huángjīng · Solar Longitude</div>
+      <p>The twenty-four solar terms (二十四节气 èrshísì jiéqì) divide the sun's annual apparent path through the ecliptic into 24 equal segments of 15 degrees each. When the sun reaches each of these positions, a new solar term begins. The astronomical definition is precise and absolute: it does not depend on the lunar month, the Gregorian calendar, or any administrative decision. Spring Equinox (春分 Chūnfēn) begins exactly when the sun reaches 0 degrees celestial longitude. Grain Rains (谷雨 Gǔyǔ) begins when it reaches 30 degrees. The system divides the year by the sun's actual position in space, making each term a fixed astronomical event rather than a conventional date.</p>
+      <p>In Gregorian terms, each solar term begins on approximately the same date each year — within a day or two, due to the Gregorian calendar's own approximations and leap year corrections. This near-fixedness is one reason the solar terms have remained practically useful as a seasonal guide even after the Gregorian calendar became China's civil standard. A farmer who knows that 清明 Qīngmíng (Clear and Bright) falls around April 4–6 each year knows when to begin certain spring agricultural tasks with Gregorian-calendar precision while still using the traditional term as his reference.</p>
+      <p>The solar terms are divided into two overlapping sets. The twelve <strong>节</strong> (jié, "joints" or minor terms) mark the beginning of each of the 12 solar months. The twelve <strong>中气</strong> (zhōngqì, "middle qi" or major terms) fall at the midpoint of each solar month, at even multiples of 30 degrees. This distinction is technically important: the major terms (中气) are what anchor the intercalary month system described in the Calendar entry. An intercalary month is specifically a lunar month in which no major solar term falls — a month that fits between two major terms without containing one. The astronomical elegance here is that the intercalary rule automatically ensures that the same lunar months always remain roughly aligned with the same seasons.</p>
+      <p>The solar terms were consolidated into their canonical 24-term form during the Han dynasty, codified in the <em>Huainanzi</em> 淮南子 (c. 139 BCE). Evidence of earlier forms of seasonal division appears in oracle bone inscriptions from the Shang dynasty — at minimum, the two solstices and two equinoxes were recognized by 1200 BCE. The fully developed 24-term system reflects the agricultural needs of north China's Yellow River basin: the terms track frost dates, monsoon arrival, ice thaw, and harvest windows specific to that climate. Some terms are less directly applicable in southern China, where the seasons differ markedly, but the system was propagated empire-wide and adapted locally in practice.</p>
+    </div>
+
+    <span class="section-anchor" id="all24"></span>
+    <div class="section-head">
+      <span class="sh-cn">二十四节气</span>
+      <span class="sh-py">èrshísì jiéqì</span>
+      <span class="sh-en">All 24 Solar Terms</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">二十四节气全表 · Complete List of 24 Solar Terms (starting from Vernal Equinox, 0°)</span>
+      <strong>春分</strong> Chūnfēn · Vernal Equinox · ~Mar 20 · 0° · equal day and night; the pivot of spring<br>
+      <strong>清明</strong> Qīngmíng · Clear and Bright · ~Apr 5 · 15° · clear skies, warm air; spring plowing begins; Tomb-Sweeping Festival<br>
+      <strong>谷雨</strong> Gǔyǔ · Grain Rains · ~Apr 20 · 30° · seasonal rains nourish the grain seedlings; last frost in north China<br>
+      <strong>立夏</strong> Lìxià · Start of Summer · ~May 6 · 45° · summer begins; silkworm feeding peaks<br>
+      <strong>小满</strong> Xiǎomǎn · Grain Buds · ~May 21 · 60° · grain kernels begin to fill but are not yet ripe; "small fullness"<br>
+      <strong>芒种</strong> Mángzhòng · Grain in Ear · ~Jun 6 · 75° · awned grains ready to harvest; rush to plant next crop before heat<br>
+      <strong>夏至</strong> Xiàzhì · Summer Solstice · ~Jun 21 · 90° · longest day; peak yang; heat begins to intensify<br>
+      <strong>小暑</strong> Xiǎoshǔ · Minor Heat · ~Jul 7 · 105° · weather grows hot; monsoon arrives in Yangtze valley<br>
+      <strong>大暑</strong> Dàshǔ · Major Heat · ~Jul 23 · 120° · hottest period of the year; thunderstorms peak<br>
+      <strong>立秋</strong> Lìqiū · Start of Autumn · ~Aug 7 · 135° · autumn begins; heat persists but qi turns<br>
+      <strong>处暑</strong> Chǔshǔ · End of Heat · ~Aug 23 · 150° · summer heat retreats; cool nights begin<br>
+      <strong>白露</strong> Báilù · White Dew · ~Sep 8 · 165° · dew forms on grass at dawn; autumn chill arrives<br>
+      <strong>秋分</strong> Qiūfēn · Autumnal Equinox · ~Sep 23 · 180° · equal day and night; the pivot of autumn<br>
+      <strong>寒露</strong> Hánlù · Cold Dew · ~Oct 8 · 195° · dew turns cold; geese fly south; harvest completes<br>
+      <strong>霜降</strong> Shuāngjiàng · Frost's Descent · ~Oct 23 · 210° · first frost falls; deciduous trees lose leaves<br>
+      <strong>立冬</strong> Lìdōng · Start of Winter · ~Nov 7 · 225° · winter begins; water begins to freeze<br>
+      <strong>小雪</strong> Xiǎoxuě · Minor Snow · ~Nov 22 · 240° · light snow possible; rivers begin to ice<br>
+      <strong>大雪</strong> Dàxuě · Major Snow · ~Dec 7 · 255° · heavy snow; animals in full hibernation<br>
+      <strong>冬至</strong> Dōngzhì · Winter Solstice · ~Dec 22 · 270° · shortest day; peak yin; yang begins to return; major festival<br>
+      <strong>小寒</strong> Xiǎohán · Minor Cold · ~Jan 6 · 285° · cold intensifies; often colder than Major Cold in practice<br>
+      <strong>大寒</strong> Dàhán · Major Cold · ~Jan 20 · 300° · coldest term in the official calendar; ice harvest season<br>
+      <strong>立春</strong> Lìchūn · Start of Spring · ~Feb 4 · 315° · the official start of spring; the new year of the solar terms cycle<br>
+      <strong>雨水</strong> Yǔshuǐ · Rain Water · ~Feb 19 · 330° · snow turns to rain; rivers thaw; sap rises<br>
+      <strong>惊蛰</strong> Jīngzhé · Awakening of Insects · ~Mar 6 · 345° · first spring thunder "awakens" hibernating insects; spring plowing begins
+    </div>
+
+    <span class="section-anchor" id="agriculture"></span>
+    <div class="section-head">
+      <span class="sh-cn">农业意义</span>
+      <span class="sh-py">nóngyè yìyì</span>
+      <span class="sh-en">Agricultural Significance — Planting, Flood, and Frost</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="雨">
+      <div class="scholar-label">农谚 nóngyàn · Agricultural Proverbs</div>
+      <p>The solar terms generated a rich tradition of agricultural proverbs (农谚 nóngyàn) that encoded practical planting and harvesting wisdom into memorable phrases. The proverbs function as compressed decision trees: they tell the farmer what the solar term typically signals and what action it demands. Many of these proverbs are specific to the north China plain, where the system was developed, and their accuracy decreases as you move south into the more complex climate zones of Sichuan or Guangdong. But they represent a genuine empirical tradition — the accumulated observation of what typically happens in a given place at a given point in the solar year, encoded for easy transmission across generations.</p>
+      <p>Some representative proverbs: <em>清明前后，种瓜点豆</em> (Qīngmíng qiánhòu, zhòng guā diǎn dòu — "Around Clear and Bright, plant melons and sow beans"). <em>谷雨前后，种瓜种豆</em> (Gǔyǔ qiánhòu, zhòng guā zhòng dòu — "Around Grain Rains, plant the squash and beans"). <em>冬至到，吃水饺</em> (Dōngzhì dào, chī shuǐjiǎo — "When Winter Solstice arrives, eat dumplings") — a tradition still widely observed. <em>大暑不割禾，一天损一箩</em> ("If you do not harvest at Major Heat, one day's delay costs a basket"). These proverbs are not merely cultural artifacts — they encode real phenological observation, and climate researchers have used traditional agricultural proverbs as one data source for reconstructing pre-instrumental climate records in China.</p>
+    </div>
+
+    <span class="section-anchor" id="medicine"></span>
+    <div class="section-head">
+      <span class="sh-cn">节气与医学</span>
+      <span class="sh-py">jiéqì yǔ yīxué</span>
+      <span class="sh-en">Seasonal Medicine — Diet, Acupuncture, and Constitutional Timing</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="气">
+      <div class="scholar-label">顺应天时 shùnyìng tiānshí · Following Heaven's Timing</div>
+      <p>In traditional Chinese medicine, each solar term marks a shift in the macro-cosmic qi environment to which the body's internal qi must adapt. The transition points between terms — especially the major solar terms at the solstices and equinoxes — are considered periods of heightened vulnerability, when the body must exert more effort to maintain its internal balance against the changing external qi. The <em>Huangdi Neijing</em> is explicit: one who understands and acts in accordance with the seasonal qi will remain healthy; one who acts against it will fall ill. This is not metaphor — it is the theoretical justification for seasonal dietary and lifestyle protocols that remain active in Chinese medical practice.</p>
+      <p>Winter Solstice (冬至 Dōngzhì) marks the nadir of yang qi and the beginning of its return. Traditional Chinese medicine designates the period from Winter Solstice through Early Spring as the time for supplementing kidney yang — warming foods, early sleep, reduced physical exertion, and specifically formulated warming herbal preparations. Summer Solstice (夏至 Xiàzhì) is the yang peak, when heart fire is most active and yin-nourishing foods are recommended to prevent heat damage. The most widely practiced solar term medical intervention is the "Three Hottest Days Treatment" (三伏灸 sānfú jiǔ) — moxibustion at specific acupoints performed during the three hottest periods of the year (Major Heat zone). The theory is that treating yang-deficiency and cold conditions at the year's yang peak produces the strongest tonifying effect: treating cold by meeting it with heat at the heat's maximum. Clinical studies on this practice have produced mixed but generally positive results for conditions including respiratory allergies, arthritis, and chronic digestive weakness.</p>
+    </div>
+
+    <span class="section-anchor" id="living"></span>
+    <div class="section-head">
+      <span class="sh-cn">当代节气</span>
+      <span class="sh-py">dāngdài jiéqì</span>
+      <span class="sh-en">Solar Terms Today — UNESCO Heritage and Living Practice</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="春">
+      <div class="scholar-label">非物质文化遗产 fēi wùzhì wénhuà yíchǎn · Intangible Cultural Heritage</div>
+      <p>In November 2016, UNESCO added the Twenty-Four Solar Terms to its Representative List of the Intangible Cultural Heritage of Humanity, describing them as "a system of time-keeping created by the Chinese through observing the annual motion of the sun and manifested in people's everyday life." The listing recognized not only the astronomical system itself but the living practices it organizes: the seasonal foods eaten at each term, the ceremonies and activities associated with specific terms (especially Winter Solstice and Clear and Bright / Tomb-Sweeping), the agricultural knowledge transmitted through solar term proverbs, and the way the terms structure temporal experience and seasonal awareness for hundreds of millions of people.</p>
+      <p>The solar terms remain more actively present in Chinese everyday life than the comparable seasonal quarter-days of European tradition. When 冬至 Dōngzhì (Winter Solstice) arrives, much of China eats dumplings (in the north) or tangyuan glutinous rice balls (in the south) — a practice that does not require any belief in the cosmological framework, just a shared seasonal marker and an occasion to eat traditional food. When 清明 Qīngmíng (Clear and Bright) arrives, Chinese families across the world visit ancestral graves, sweep them, and burn offerings — connecting the agricultural term to the deepest social and religious practices of Chinese culture. The terms have become, in this way, both astronomical facts and cultural occasions — which is exactly what the most durable calendar systems always are.</p>
+    </div>
+
+    <span class="section-anchor" id="vocab"></span>
+    <div class="section-head">
+      <span class="sh-cn">词汇</span>
+      <span class="sh-py">cíhuì</span>
+      <span class="sh-en">Key Vocabulary</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+      <div class="card c-teal">
+        <div class="card-head"><span class="tag-n">n</span> 节气 jiéqì</div>
+        <p>Solar term — literally "joint qi," marking the points where seasonal qi shifts. One of the twenty-four equal divisions of the solar year, each spanning 15 degrees of the sun's ecliptic path. The word 节 (joint, node) captures the idea of a hinge point or transition — the moment when one seasonal state gives way to another.</p>
+      </div>
+      <div class="card c-ochre">
+        <div class="card-head"><span class="tag-n">n</span> 冬至 dōngzhì</div>
+        <p>Winter Solstice — the most important of the twenty-four solar terms, celebrated as a major festival throughout Chinese history. Marks the shortest day and the nadir of yin/yang cycle — from this point yang begins its return. Dumplings are eaten in the north; tangyuan in the south. Some traditions treat Dongzhi as more important than the lunar new year.</p>
+      </div>
+      <div class="card c-sienna">
+        <div class="card-head"><span class="tag-n">n</span> 清明 qīngmíng</div>
+        <p>Clear and Bright — the solar term around April 4–6, one of the few solar terms that is also a public holiday in China (and Taiwan, Hong Kong). The Tomb-Sweeping Festival (清明节 Qīngmíngjié) falls on or near this term: families visit ancestral graves, sweep them, leave offerings, and burn paper goods. One of the most universally observed Chinese cultural practices, connecting the agricultural calendar to ancestor veneration.</p>
+      </div>
+      <div class="card c-violet">
+        <div class="card-head"><span class="tag-n">n</span> 三伏 sānfú</div>
+        <p>The Three Hottest Periods — the three intervals of approximately 10 days each during Major Heat and surrounding terms, traditionally considered the most intensely hot and humid days of the year. In traditional Chinese medicine, the sānfú period is the prime time for treating cold-type and yang-deficiency conditions through moxibustion (三伏灸 sānfú jiǔ), exploiting maximum external yang to drive warming treatment deep into the body. The practice has documented clinical use for respiratory allergies and osteoarthritis.</p>
+      </div>
+    </div>
+
+    <footer class="page-footer">
+      <span class="footer-id">Field Notes on Chinese · <span>二十四节气</span> · Science &amp; Medicine</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>
+<script src="../../scripts/toc-scroll.js"></script>

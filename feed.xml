@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Field Notes on Chinese</title>
+    <link>https://hunterdellere.github.io/chinese-field-guide/</link>
+    <atom:link href="https://hunterdellere.github.io/chinese-field-guide/feed.xml" rel="self" type="application/rss+xml" />
+    <description>A field guide to Chinese — characters, language, and the long civilisation behind them.</description>
+    <language>en</language>
+    <lastBuildDate>Sun, 19 Apr 2026 06:01:21 GMT</lastBuildDate>
+    <item>
+      <title>楚辞 · Songs of Chu</title>
+      <link>https://hunterdellere.github.io/chinese-field-guide/pages/arts/topic_chuci.html</link>
+      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/arts/topic_chuci.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>The shamanistic southern voice that gave Chinese literature its second pole — visionary, romantic, and inconsolably exiled.</description>
+      <category>arts</category>
+    </item>
+    <item>
+      <title>昆曲 · Kun Opera</title>
+      <link>https://hunterdellere.github.io/chinese-field-guide/pages/arts/topic_kunqu.html</link>
+      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/arts/topic_kunqu.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>The oldest surviving form of Chinese opera — refined to such perfection over four centuries that it nearly disappeared from its own beauty.</description>
+      <category>arts</category>
+    </item>
+    <item>
+      <title>鲁迅 · Lu Xun</title>
+      <link>https://hunterdellere.github.io/chinese-field-guide/pages/arts/topic_luxun.html</link>
+      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/arts/topic_luxun.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>The writer who looked at traditional Chinese society and saw cannibalism — and the complicated, unresolvable legacy he left behind.</description>
+      <category>arts</category>
+    </item>
+    <item>
+      <title>诗经 · Book of Songs</title>
+      <link>https://hunterdellere.github.io/chinese-field-guide/pages/arts/topic_shijing.html</link>
+      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/arts/topic_shijing.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>China oldest poetry anthology — three hundred poems that Confucius said no educated person could afford to ignore.</description>
+      <category>arts</category>
+    </item>
+    <item>
+      <title>水墨画 · Ink-Wash Painting</title>
+      <link>https://hunterdellere.github.io/chinese-field-guide/pages/arts/topic_shuimohua.html</link>
+      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/arts/topic_shuimohua.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Where the brush meets philosophy — five tones of ink, the art of leaving space, and landscapes that are not about landscape at all.</description>
+      <category>arts</category>
+    </item>
+    <item>
+      <title>宋词 · Song Dynasty Lyric</title>
+      <link>https://hunterdellere.github.io/chinese-field-guide/pages/arts/topic_songci.html</link>
+      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/arts/topic_songci.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>The poem that sings — fixed tune patterns, named meters, and three masters who defined what the Chinese lyric could feel.</description>
+      <category>arts</category>
+    </item>
+    <item>
+      <title>文房四宝 · Four Treasures of the Study</title>
+      <link>https://hunterdellere.github.io/chinese-field-guide/pages/arts/topic_wenfangsibao.html</link>
+      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/arts/topic_wenfangsibao.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Brush, ink, inkstone, and paper — the four instruments through which a scholar thought, wrote, painted, and demonstrated who he was.</description>
+      <category>arts</category>
+    </item>
+    <item>
+      <title>篆刻 · Seal Carving</title>
+      <link>https://hunterdellere.github.io/chinese-field-guide/pages/arts/topic_zhuanke.html</link>
+      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/arts/topic_zhuanke.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>The art of the name — bronze to stone, dynasty to dynasty, two schools of carvers, and the small red square that authenticates everything.</description>
+      <category>arts</category>
+    </item>
+    <item>
+      <title>八大菜系 · Eight Great Cuisines</title>
+      <link>https://hunterdellere.github.io/chinese-field-guide/pages/culinary/topic_caixi.html</link>
+      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/culinary/topic_caixi.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>How geography, climate, and dynasty shaped eight distinct schools of Chinese cooking.</description>
+      <category>culinary</category>
+    </item>
+    <item>
+      <title>川菜 · Sichuan Cuisine</title>
+      <link>https://hunterdellere.github.io/chinese-field-guide/pages/culinary/topic_chuancai.html</link>
+      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/culinary/topic_chuancai.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>The mala kitchen — how a landlocked basin built the most complex spice vocabulary in the world.</description>
+      <category>culinary</category>
+    </item>
+    <item>
+      <title>豆腐 · Tofu</title>
+      <link>https://hunterdellere.github.io/chinese-field-guide/pages/culinary/topic_doufu.html</link>
+      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/culinary/topic_doufu.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Two thousand years of soybeans and water: the food that fed a civilization without meat.</description>
+      <category>culinary</category>
+    </item>
+    <item>
+      <title>火锅 · Hotpot</title>
+      <link>https://hunterdellere.github.io/chinese-field-guide/pages/culinary/topic_huoguo.html</link>
+      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/culinary/topic_huoguo.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>The communal pot at the center of the table: a social institution disguised as a meal.</description>
+      <category>culinary</category>
+    </item>
+    <item>
+      <title>鲁菜 · Shandong Cuisine</title>
+      <link>https://hunterdellere.github.io/chinese-field-guide/pages/culinary/topic_lucai.html</link>
+      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/culinary/topic_lucai.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>The oldest school — how the home province of Confucius fed the imperial court for two thousand years.</description>
+      <category>culinary</category>
+    </item>
+    <item>
+      <title>面条 · Noodles</title>
+      <link>https://hunterdellere.github.io/chinese-field-guide/pages/culinary/topic_miantiao.html</link>
+      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/culinary/topic_miantiao.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Four thousand years of wheat in water — noodle cultures from Lanzhou to Suzhou.</description>
+      <category>culinary</category>
+    </item>
+    <item>
+      <title>粤菜 · Cantonese Cuisine</title>
+      <link>https://hunterdellere.github.io/chinese-field-guide/pages/culinary/topic_yuecai.html</link>
+      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/culinary/topic_yuecai.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Freshness as philosophy: the cooking tradition that traveled the world and stayed true to itself.</description>
+      <category>culinary</category>
+    </item>
+    <item>
+      <title>茶文化 · Tea Culture</title>
+      <link>https://hunterdellere.github.io/chinese-field-guide/pages/culture/topic_cha_wenhua.html</link>
+      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/culture/topic_cha_wenhua.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Tea as civilization — the way a leaf became a philosophical practice, a diplomatic currency, and the shape of daily life across two millennia.</description>
+      <category>culture</category>
+    </item>
+    <item>
+      <title>汉服 · Traditional Han Dress</title>
+      <link>https://hunterdellere.github.io/chinese-field-guide/pages/culture/topic_hanfu.html</link>
+      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/culture/topic_hanfu.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Ancient silhouettes worn in modern streets — the revival of Han dynasty clothing and the identity politics it carries.</description>
+      <category>culture</category>
+    </item>
+    <item>
+      <title>红包 · Red Envelopes</title>
+      <link>https://hunterdellere.github.io/chinese-field-guide/pages/culture/topic_hongbao.html</link>
+      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/culture/topic_hongbao.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Money wrapped in red — the gift that is never just money, and the ritual that binds generations, occasions, and now hundreds of millions of WeChat users.</description>
+      <category>culture</category>
+    </item>
+    <item>
+      <title>清明节 · Tomb-Sweeping Day</title>
+      <link>https://hunterdellere.github.io/chinese-field-guide/pages/culture/topic_qingming.html</link>
+      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/culture/topic_qingming.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>The day the living visit the dead — a spring festival of grief, gratitude, and continuity across generations.</description>
+      <category>culture</category>
+    </item>
+    <item>
+      <title>太极 · Tai Chi</title>
+      <link>https://hunterdellere.github.io/chinese-field-guide/pages/culture/topic_taiji.html</link>
+      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/culture/topic_taiji.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>The slow-motion practice in the park at dawn — its philosophy is older than the movements, and the movements carry the whole philosophy.</description>
+      <category>culture</category>
+    </item>
+    <item>
+      <title>中秋节 · Mid-Autumn Festival</title>
+      <link>https://hunterdellere.github.io/chinese-field-guide/pages/culture/topic_zhongqiu.html</link>
+      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/culture/topic_zhongqiu.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>The moon at its fullest, the family reunited — the festival that turns a celestial event into a meditation on longing and belonging.</description>
+      <category>culture</category>
+    </item>
+    <item>
+      <title>称呼 · Forms of Address</title>
+      <link>https://hunterdellere.github.io/chinese-field-guide/pages/daily/topic_chenghu.html</link>
+      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/daily/topic_chenghu.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>In Chinese, how you address someone is not a formality — it is a precise statement of how you understand the relationship between you.</description>
+      <category>daily</category>
+    </item>
+    <item>
+      <title>红白喜事 · Weddings &amp; Funerals</title>
+      <link>https://hunterdellere.github.io/chinese-field-guide/pages/daily/topic_hongbai.html</link>
+      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/daily/topic_hongbai.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>The phrase itself tells the story: red and white, marriage and death, both require the same thing — the whole community showing up.</description>
+      <category>daily</category>
+    </item>
+    <item>
+      <title>敬酒 · Toasting Culture</title>
+      <link>https://hunterdellere.github.io/chinese-field-guide/pages/daily/topic_jingjiu.html</link>
+      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/daily/topic_jingjiu.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>The Chinese toast is not a punctuation mark at the end of a speech — it is a social instrument with its own grammar, hierarchy, and rules of engagement.</description>
+      <category>daily</category>
+    </item>
+    <item>
+      <title>迷信 · Superstitions</title>
+      <link>https://hunterdellere.github.io/chinese-field-guide/pages/daily/topic_mixin.html</link>
+      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/daily/topic_mixin.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Superstition in China is not a holdover from ignorance — it is a living system that coexists comfortably with education, modernity, and pragmatism.</description>
+      <category>daily</category>
+    </item>
+    <item>
+      <title>请客吃饭 · Treating to a Meal</title>
+      <link>https://hunterdellere.github.io/chinese-field-guide/pages/daily/topic_qingke.html</link>
+      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/daily/topic_qingke.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>The Chinese banquet is not a meal with social dimensions — it is a social institution that happens to involve food.</description>
+      <category>daily</category>
+    </item>
+    <item>
+      <title>数字 · Lucky &amp; Unlucky Numbers</title>
+      <link>https://hunterdellere.github.io/chinese-field-guide/pages/daily/topic_shuzi.html</link>
+      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/daily/topic_shuzi.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>In China, numbers are not neutral — they carry sound, and sound carries meaning, and meaning can determine whether you close the deal or jinx the wedding.</description>
+      <category>daily</category>
+    </item>
+    <item>
+      <title>送礼 · Gift-Giving</title>
+      <link>https://hunterdellere.github.io/chinese-field-guide/pages/daily/topic_songli.html</link>
+      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/daily/topic_songli.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Gift-giving in China is less about generosity than about maintenance — a technology for building and sustaining the relationships that make life work.</description>
+      <category>daily</category>
+    </item>
+    <item>
+      <title>八大菜系 · Cuisines as Geography</title>
+      <link>https://hunterdellere.github.io/chinese-field-guide/pages/geography/topic_caixi_geography.html</link>
+      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/geography/topic_caixi_geography.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Read the Eight Great Cuisines as a geographic document — what the land, climate, and trade routes of each region produced at the table, and what the table tells you about the land.</description>
+      <category>geography</category>
+    </item>
+    <item>
+      <title>方言 · The Dialect Map</title>
+      <link>https://hunterdellere.github.io/chinese-field-guide/pages/geography/topic_fangyan.html</link>
+      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/geography/topic_fangyan.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Chinese is not one language but a family — seven major dialect groups whose speakers cannot understand one another, united by a shared written script and divided by a history of geography and migration.</description>
+      <category>geography</category>
+    </item>
+  </channel>
+</rss>

@@ -3,7 +3,7 @@ type: 'topic'
 category: 'culture'
 status: 'complete'
 title: '春节 · Spring Festival'
-desc: "Lunar New Year — the largest annual human migration and the most important date on the Chinese calendar."
+desc: "Lunar New Year. The largest annual human migration and the most important date on the Chinese calendar."
 metaDesc: "春节 Chūnjié: Chinese Lunar New Year — the largest annual human migration, the traditions of reunion dinner, red envelopes, lanterns, and what the holiday means socially."
 pageTitle: '春节 · Spring Festival'
 tags:
@@ -57,7 +57,7 @@ pinyin: 'Chūnjié'
       <span class="topic-hero-eyebrow">Culture · 文化 wénhuà</span>
       <h1 class="topic-hero-title">春节</h1>
       <span class="topic-hero-title-py">Chūnjié</span>
-      <p class="topic-hero-desc">Lunar New Year — the world's largest annual human migration and the most important date on the Chinese calendar.</p>
+      <p class="topic-hero-desc">Lunar New Year. The world's largest annual human migration and the most important date on the Chinese calendar.</p>
     </header>
 
     <section class="section-anchor" id="migration">
@@ -66,7 +66,7 @@ pinyin: 'Chūnjié'
         <div class="scholar-label">回家 huíjiā · Going Home</div>
         <p><strong>春运</strong> (chūnyùn, "spring transport") is the annual migration of hundreds of millions of people traveling home for the Lunar New Year — the largest annual human migration in the world. The official window runs about forty days around the new year, and the combined number of trips can exceed three billion. Train tickets sell out within minutes of release. The queues at bus and train stations in major cities are a defining image of contemporary China.</p>
         <p>The scale of chūnyùn reflects the scale of internal migration. Millions of workers from rural areas — <strong>农民工</strong> (nóngmíngōng, "peasant workers") — work in coastal factories and cities throughout the year and return to their home villages for the Spring Festival. The holiday is the one time the family unit reconstitutes itself in person, often after months or years of separation.</p>
-        <p>For many migrant workers, the Spring Festival reunion dinner is the emotional center of the year. The pressure to return — and the pressure of parental expectations about income, marriage, and life progress — makes chūnyùn not just logistically but psychologically intense.</p>
+        <p>For many migrant workers, the Spring Festival reunion dinner is the emotional center of the year. The pressure to return, combined with parental expectations about income, marriage, and life progress, makes chūnyùn psychologically intense as well as logistically demanding.</p>
       </div>
     </section>
 
@@ -76,7 +76,7 @@ pinyin: 'Chūnjié'
         <div class="scholar-label">年夜饭 niányèfàn · Reunion Dinner</div>
         <p><strong>除夕</strong> (chúxī, New Year's Eve) is organized around the <strong>年夜饭</strong> (niányèfàn, "year night meal") — the reunion dinner eaten by the whole family together. This meal is the emotional core of the holiday: whatever has kept people apart, whatever friction exists in the family, the reunion dinner is where the family presents itself to itself as a coherent unit.</p>
         <p>The dishes served carry symbolic weight: whole fish (鱼 yú) sounds like "surplus" (余 yú); New Year's cake (年糕 niángāo) sounds like "year-high" — every year better than the last. Dumplings in the north (their shape resembles ancient ingots), glutinous rice balls in the south. The specific dishes vary enormously by region, but the principle is constant: food as embodied wish for the year ahead.</p>
-        <p>After dinner, the family watches the CCTV Spring Festival Gala (春晚 Chūnwǎn) — the most-watched television broadcast in the world, running four to five hours through the night. It is famously criticized and just as famously watched: an institution whose cultural ubiquity makes it a collective reference point regardless of personal taste.</p>
+        <p>After dinner, the family watches the CCTV Spring Festival Gala (春晚 Chūnwǎn), the most-watched television broadcast in the world, running four to five hours through the night. It is famously criticized and just as famously watched. The ubiquity makes it a shared reference point regardless of personal taste.</p>
       </div>
     </section>
 
@@ -85,7 +85,7 @@ pinyin: 'Chūnjié'
       <div class="cards">
         <div class="card c-red">
           <div class="card-head">红包 hóngbāo · Red Envelopes</div>
-          <p>Gifts of money in red envelopes given by elders to children and unmarried younger relatives. The color red is protective; the money is not the point — the amount is less important than the gesture. WeChat's digital red envelope (微信红包) function, introduced in 2014, transformed the tradition into an interactive game and was a landmark moment in Chinese fintech adoption.</p>
+          <p>Gifts of money in red envelopes given by elders to children and unmarried younger relatives. The color red is protective; the gesture matters more than the sum. WeChat's digital red envelope (微信红包) function, introduced in 2014, turned the tradition into an interactive game and was a landmark moment in Chinese fintech adoption.</p>
         </div>
         <div class="card c-red">
           <div class="card-head">鞭炮 biānpào · Firecrackers</div>

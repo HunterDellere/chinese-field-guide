@@ -1,0 +1,203 @@
+---
+type: 'topic'
+category: 'culinary'
+status: 'complete'
+title: '豆腐 · Tofu'
+desc: 'Two thousand years of soybeans and water: the food that fed a civilization without meat.'
+metaDesc: "豆腐 Dòufu: Chinese tofu — Han dynasty origins, production from soybean curd, regional varieties from silken to firm, and its role in Buddhist and everyday cooking."
+pageTitle: '豆腐 Tofu'
+tags:
+  - 'food'
+  - 'culture'
+  - 'history'
+  - 'buddhism'
+  - 'daily-life'
+updated: '2026-04-19'
+pinyin: 'dòufu'
+---
+
+<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+    <span class="toc-topic">豆腐</span>
+    <span class="toc-topic-en">Tofu</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#origins">
+        <span class="toc-cn">起源</span> Origins
+        <span class="toc-sub">qǐyuán · Liu An and the Han court</span>
+      </a></li>
+      <li><a href="#production">
+        <span class="toc-cn">制作</span> Production
+        <span class="toc-sub">zhìzuò · how tofu is made</span>
+      </a></li>
+      <li><a href="#varieties">
+        <span class="toc-cn">种类</span> Varieties
+        <span class="toc-sub">zhǒnglèi · the tofu spectrum</span>
+      </a></li>
+      <li><a href="#buddhism">
+        <span class="toc-cn">佛教与豆腐</span> Buddhism
+        <span class="toc-sub">fójiào yǔ dòufu · the vegetarian kitchen</span>
+      </a></li>
+      <li><a href="#vocab">
+        <span class="toc-cn">词汇</span> Key Vocabulary
+        <span class="toc-sub">cíhuì · terms to know</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">Culinary · 饮食 yǐnshí</span>
+      <h1 class="topic-hero-title">豆腐</h1>
+      <span class="topic-hero-title-py">dòufu</span>
+      <p class="topic-hero-desc">Two thousand years of soybeans and water: the food that fed a civilization without meat.</p>
+    </header>
+
+    <span class="section-anchor" id="origins"></span>
+    <div class="section-head">
+      <span class="sh-cn">起源</span>
+      <span class="sh-py">qǐyuán</span>
+      <span class="sh-en">Origins — Liu An and the Han Court</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="豆">
+      <div class="scholar-label">刘安与豆腐 liú ān yǔ dòufu · The Prince and the Curd</div>
+      <p>The canonical origin story of tofu credits its invention to 刘安 (Liú Ān), Prince of Huainan during the Han dynasty, who died in 122 BCE. Liu An was an alchemist — he compiled the 淮南子 (Huáinánzǐ), a major Daoist philosophical text — and tradition holds that he or his researchers accidentally discovered that coagulated soybean milk produced a solid, edible curd while experimenting with elixirs of immortality. The story is almost certainly apocryphal, but it has attached itself to tofu with the persistence of all founding myths, and the Huainan region of Anhui province still celebrates itself as the birthplace of 豆腐.</p>
+      <p>The archaeological and textual evidence points to tofu becoming a documented food during the Han dynasty, with clear descriptions appearing by the Tang and extensive culinary discussion by the Song. The Song dynasty poet and official Su Dongpo 苏东坡 — the same figure who lends his name to the Zhejiang pork dish — wrote admiringly of tofu preparations. By the Song, tofu had spread throughout China and was being produced and sold commercially in cities, consumed across social classes, and prepared in an extraordinary range of ways. The Song food writer Wu Zimu described Hangzhou tofu shops as busy enough that their operations rivaled those of the capital's other major food businesses.</p>
+      <p>The spread of tofu beyond China followed the spread of Chinese Buddhism. Chan (Zen) monks carried both the philosophy and the culinary practice of vegetarianism, centered on tofu, to Korea and Japan. Japanese 豆腐 (tōfu) arrived via Buddhist monasteries in the Nara period and became a cornerstone of Japanese cuisine — the silken and firm tofu traditions of Japan trace back to Chinese monastic cooking. Korea developed its own 두부 (dubu) tradition separately but in parallel contact with Chinese influence. The soybean, native to Manchuria and northeastern China, was thus the agricultural basis for one of the most significant culinary transfers in Asian food history.</p>
+    </div>
+
+    <span class="section-anchor" id="production"></span>
+    <div class="section-head">
+      <span class="sh-cn">制作</span>
+      <span class="sh-py">zhìzuò</span>
+      <span class="sh-en">Production — How Tofu Is Made</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="腐">
+      <div class="scholar-label">豆腐工艺 dòufu gōngyì · The Craft of Curd</div>
+      <p>Tofu production follows a logic directly analogous to cheesemaking: a liquid (soybean milk rather than cow's milk) is coagulated by an acid or mineral agent to separate the curds from the whey, and the resulting curds are pressed to varying degrees of firmness. The process begins by soaking dried soybeans overnight, grinding them with water, and straining the resulting slurry to produce 豆浆 (dòujiāng, soybean milk). This liquid is then brought to a boil — a step that destroys the anti-nutritional factors in raw soybeans — and coagulated by adding a coagulant while the milk is still hot.</p>
+      <p>The choice of coagulant is the first major variable in tofu production. Nigari (硫酸钙 liúsuāngài in Mandarin, but more commonly called 卤水 lǔshuǐ in China) — magnesium chloride derived from seawater — produces a tofu with a firmer, slightly more minerally flavored curd that holds its structure well in cooking. Gypsum (石膏 shígāo, calcium sulfate) produces a softer, smoother, more delicate curd that is the basis for silken tofu and the style preferred in southern China. Some producers use glucono delta-lactone (内酯 nèizhǐ), an acid coagulant that produces the smoothest, most custard-like result — the silken tofu favored for cold dessert preparations.</p>
+      <p>Once the curds have formed in the coagulation vessel, they are ladled into cloth-lined molds and pressed. The degree of pressing determines the final texture: minimal pressing produces silken tofu (嫩豆腐 nèn dòufu or 内酯豆腐), moderate pressing produces standard firm tofu (老豆腐 lǎo dòufu or 北豆腐 běi dòufu), and extended pressing produces extra-firm tofu (豆腐干 dòufugān) that can be sliced thin and stir-fried or eaten as a snack with seasoning. The whey drained off during pressing is sometimes used in soups or discarded; in traditional production it was fed to pigs. The morning delivery of fresh tofu from neighborhood tofu shops was a defining feature of Chinese urban life until the twentieth century — the sound of the tofu seller's horn in the early morning was as familiar to city residents as the sound of a rooster in the countryside.</p>
+    </div>
+
+    <span class="section-anchor" id="varieties"></span>
+    <div class="section-head">
+      <span class="sh-cn">种类</span>
+      <span class="sh-py">zhǒnglèi</span>
+      <span class="sh-en">Varieties — The Tofu Spectrum</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+      <div class="card c-teal">
+        <span class="card-cn">嫩豆腐</span>
+        <span class="card-py">nèn dòufu</span>
+        <span class="card-en">Silken Tofu</span>
+        <span class="tag-n">n.</span>
+        <p>The softest form, coagulated with minimal pressing. Trembling, custard-smooth, delicate enough to break with a chopstick. The tofu used in mapo tofu (麻婆豆腐) must be silken — the dish depends on the contrast between the quivering, barely-holding cubes and the aggressive mala sauce. Also served cold, topped with soy sauce, sesame oil, and scallion — one of the simplest and most elegant preparations in Chinese cooking.</p>
+      </div>
+      <div class="card c-ochre">
+        <span class="card-cn">老豆腐</span>
+        <span class="card-py">lǎo dòufu</span>
+        <span class="card-en">Firm Tofu; Northern Tofu</span>
+        <span class="tag-n">n.</span>
+        <p>Pressed longer and denser than silken tofu, with a slightly grainy texture that holds up well to frying, braising, and rough handling in a wok. 北豆腐 (northern tofu, 老豆腐) is the workhorse of Chinese home cooking — versatile enough to be fried, braised, crumbled, or sliced. When pan-fried to a golden crust, the contrast between the crisp exterior and the creamy interior is its own complete pleasure.</p>
+      </div>
+      <div class="card c-sienna">
+        <span class="card-cn">豆腐干</span>
+        <span class="card-py">dòufugān</span>
+        <span class="card-en">Dried Tofu; Firm Pressed Tofu</span>
+        <span class="tag-n">n.</span>
+        <p>Pressed until dense and firm enough to slice thin and stir-fry like meat. Available plain, smoked (熏豆腐干 xūn dòufugān), or seasoned with five-spice. A common snack and ingredient, particularly in central and northern China. The texture is chewy and substantial — it can be cut into strips that mimic the texture and function of meat in vegetarian preparations, which is partly why it became essential in Buddhist cooking.</p>
+      </div>
+      <div class="card c-violet">
+        <span class="card-cn">臭豆腐</span>
+        <span class="card-py">chòu dòufu</span>
+        <span class="card-en">Stinky Tofu; Fermented Tofu</span>
+        <span class="tag-n">n.</span>
+        <p>Tofu fermented in a brine of fermented milk, vegetables, meat, and various bacterial cultures for days to months, producing a pungent, complex aroma that can be detected from considerable distance. Deep-fried 臭豆腐 — the Taiwanese and Hunan street version — has a crisp exterior and a creamy, pungent interior that converts most skeptics on first taste. 臭 (chòu) means "stinky" — the name is accurate and worn as a badge of honor.</p>
+      </div>
+      <div class="card c-red">
+        <span class="card-cn">腐乳</span>
+        <span class="card-py">fǔrǔ</span>
+        <span class="card-en">Fermented Bean Curd; Tofu Cheese</span>
+        <span class="tag-n">n.</span>
+        <p>Cubes of tofu fermented in brine with Shaoxing wine, chilies, and various seasonings until they become soft, creamy, and intensely flavored — something like a cross between blue cheese and miso paste. Red fermented tofu (红腐乳 hóng fǔrǔ) uses red yeast rice for color and is used in marinades for char siu and other Cantonese roast meats. White fermented tofu is a breakfast condiment and key component of hotpot dipping sauces.</p>
+      </div>
+    </div>
+
+    <span class="section-anchor" id="buddhism"></span>
+    <div class="section-head">
+      <span class="sh-cn">佛教与豆腐</span>
+      <span class="sh-py">fójiào yǔ dòufu</span>
+      <span class="sh-en">Buddhism and Tofu — The Vegetarian Kitchen</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="素">
+      <div class="scholar-label">素食文化 sùshí wénhuà · The Vegetarian Tradition</div>
+      <p>Chinese Buddhist vegetarianism — 素食 (sùshí, "plain eating") — developed alongside tofu in a relationship of mutual reinforcement. The Buddhist precept against taking life (不杀生 bù shāshēng) led monasteries across China to develop elaborate vegetarian cuisines that used tofu and its derivatives as the primary protein source. Monastic cooks over centuries developed techniques for using tofu, bean skins (腐皮 fǔpí), gluten (面筋 miànjīn), and fermented bean products to create dishes that mimic the texture and appearance of meat without using any animal products — a practice called 素斋 (sùzhāi, "pure vegetarian").</p>
+      <p>The results of this monastic culinary tradition are more sophisticated than the term "meat substitute" suggests. A skilled 素斋 cook does not simply replace chicken with a shaped piece of tofu — they use the physical properties of bean curd skin, layered and steamed, to create a product with genuine textural complexity. The 仿荤 (fǎnghūn, "imitation meat") dishes of famous Buddhist temples — where tofu skin becomes "roast duck" and braised gluten becomes "pork belly" — are demonstrations of culinary ingenuity that ask something of the diner: not to be fooled, but to experience the pleasure of craft that can produce complexity from simple ingredients.</p>
+      <p>Beyond monastic cuisine, tofu's association with vegetarianism has made it integral to ordinary Chinese food culture in ways that go beyond institutional religion. The concept of eating 素 (sù, plain/vegetarian) extends into domestic practice: Buddhist lay practitioners may observe vegetarian days on the first and fifteenth of the lunar month; elderly women in particular are known for their commitment to periodic vegetarian eating as a spiritual practice. These practices have historically sustained neighborhood tofu shops, neighborhood markets for fresh vegetables, and a sophisticated culture of plant-based cooking that predates Western interest in vegetarianism by two millennia.</p>
+      <p>Tofu also plays a significant role in Chinese folk medicine and nutrition. 豆腐 is understood in traditional medicine as having a cooling (凉 liáng) nature that clears heat and dampness from the body — making it particularly valued in hot summer months and in the diets of people with conditions associated with excess heat. High in protein, calcium, and isoflavones, tofu also proved nutritionally essential in areas where meat was expensive or unavailable. That a single food could serve simultaneously as a philosophical statement, a medical preparation, a ritual offering, a daily staple, and a culinary canvas is perhaps the clearest evidence of tofu's unique position in Chinese civilization.</p>
+    </div>
+
+    <span class="section-anchor" id="vocab"></span>
+    <div class="section-head">
+      <span class="sh-cn">词汇</span>
+      <span class="sh-py">cíhuì</span>
+      <span class="sh-en">Key Vocabulary</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+      <div class="card c-ochre">
+        <span class="card-cn">豆浆</span>
+        <span class="card-py">dòujiāng</span>
+        <span class="card-en">soybean milk</span>
+        <span class="tag-n">n.</span>
+        <p>The liquid intermediate in tofu production, also consumed directly as a breakfast beverage — one of the most common morning drinks in China, sold from street stalls alongside 油条 (yóutiáo, fried dough sticks). Served hot or cold, sweetened or savory. A bowl of 豆浆 with 油条 is the northern Chinese breakfast in its most elemental form.</p>
+      </div>
+      <div class="card c-teal">
+        <span class="card-cn">豆腐脑</span>
+        <span class="card-py">dòufu nǎo</span>
+        <span class="card-en">tofu pudding; soft tofu in brine</span>
+        <span class="tag-n">n.</span>
+        <p>"Tofu brain" — the freshest, softest stage of tofu, coagulated but not pressed, served in the coagulation vessel or scooped into a bowl. In the north it is topped with savory broth, sesame paste, pickled vegetables, and chili oil. In the south (and in Sichuan) it is served sweet, with sugar syrup and ginger. The north-south divide over sweet vs. savory tofu pudding is one of China's most reliably heated food arguments.</p>
+      </div>
+      <div class="card c-sienna">
+        <span class="card-cn">素食</span>
+        <span class="card-py">sùshí</span>
+        <span class="card-en">vegetarian food; plain eating</span>
+        <span class="tag-n">n.</span>
+        <p>Chinese vegetarianism with Buddhist roots: 素 (plain, simple, unadorned) + 食 (food, eating). Strictly observed 素食 excludes not only meat and fish but also the five pungent vegetables (五辛 wǔxīn: garlic, onion, leek, shallot, ginger in some traditions) believed to agitate the mind. Chinese Buddhist vegetarian cuisine — 素斋 sùzhāi — is one of the world's oldest and most refined plant-based cooking traditions.</p>
+      </div>
+      <div class="card c-violet">
+        <span class="card-cn">腐皮</span>
+        <span class="card-py">fǔpí</span>
+        <span class="card-en">tofu skin; bean curd skin; yuba</span>
+        <span class="tag-n">n.</span>
+        <p>The skin that forms on the surface of heated soybean milk — lifted off and dried into sheets. Fresh 腐皮 is delicate and can be wrapped around fillings; dried, it can be rehydrated and braised. Called 湯葉 yuba in Japanese (imported from Chinese Buddhist cooking). One of the most versatile products of the soybean kitchen and a foundation of 仿荤 (imitation meat) dishes in temple vegetarian cooking.</p>
+      </div>
+    </div>
+
+    <footer class="page-footer">
+      <span class="footer-id">Field Notes on Chinese · <span>豆腐</span> · Culinary</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>
+<script src="../../scripts/toc-scroll.js"></script>

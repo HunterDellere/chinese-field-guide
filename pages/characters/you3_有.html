@@ -6,17 +6,26 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>有 yǒu — Field Notes on Chinese</title>
 <meta name="description" content="有 yǒu: to have, there is/are, existence itself — etymology, possession vs. existential uses, 有点 vs. 一点, formal compounds, and the Daoist 有无 binary.">
+<meta name="theme-color" content="#1c1208">
+<link rel="alternate" type="application/rss+xml" title="Field Notes on Chinese" href="../../feed.xml">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>字</text></svg>">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600&family=Noto+Serif+SC:wght@300;400;600;700&family=Inconsolata:wght@300;400;500&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Noto+Serif+SC:wght@400;600;700&family=Inconsolata:wght@400;500&display=swap">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Noto+Serif+SC:wght@400;600;700&family=Inconsolata:wght@400;500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="../../style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"DefinedTerm","name":"有","alternateName":"yǒu","description":"有 yǒu: to have, there is/are, existence itself — etymology, possession vs. existential uses, 有点 vs. 一点, formal compounds, and the Daoist 有无 binary.","inDefinedTermSet":"Field Notes on Chinese","url":"https://hunterdellere.github.io/chinese-field-guide/pages/characters/you3_有.html","inLanguage":"zh-Hans","author":{"@type":"Person","name":"Hunter Dellere"}}</script>
 </head>
 <body>
 
-<nav class="topnav">
-  <a href="../../index.html" class="topnav-brand">Field Notes on <span>Chinese</span></a>
-  <a href="../../index.html" class="topnav-back">← All Entries</a>
+<a class="skip-link" href="#main-content">Skip to content</a>
+
+<nav class="topnav" aria-label="Site">
+  <a href="../../index.html" class="topnav-brand" aria-label="Field Notes on Chinese — home">Field Notes on <span>Chinese</span></a>
+  <a href="../../index.html" class="topnav-back" aria-label="Back to all entries">← All Entries</a>
 </nav>
+
+<div class="reading-progress" aria-hidden="true"><div class="reading-progress-bar"></div></div>
 
 <button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
@@ -95,7 +104,7 @@
           </div>
         </div>
         <div class="hero-meta">
-          <div class="hero-pinyin">yǒu</div>
+          <div class="hero-pinyin">yǒu<button type="button" class="audio-btn" data-audio="有" aria-label="Play pronunciation">🔊</button></div>
           <div class="hero-en">to have · there is/are · existence itself</div>
           <div class="hero-chips">
             <span class="chip">部首 bùshǒu · 月 yuè moon/flesh</span>
@@ -106,6 +115,20 @@
         </div>
       </div>
     </header>
+
+    <!-- STROKE ORDER -->
+    <section class="stroke-order" aria-label="Stroke order animation">
+      <div class="so-head">
+        <span class="so-label">笔顺 bǐshùn · Stroke order</span>
+        <div class="so-controls">
+          <button type="button" class="so-btn" data-so-action="play" aria-label="Play stroke animation">▶ Play</button>
+          <button type="button" class="so-btn" data-so-action="step" aria-label="Step through strokes">Step</button>
+          <button type="button" class="so-btn" data-so-action="reset" aria-label="Reset and replay">↻</button>
+        </div>
+      </div>
+      <div class="so-stage" id="so-stage" data-char="有"></div>
+      <p class="so-hint">Click the character to replay. Drag to draw it yourself in quiz mode.</p>
+    </section>
 
     <!-- ── ETYMOLOGY ── -->
     <span class="section-anchor" id="etymology"></span>
@@ -159,7 +182,7 @@
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          The possessive use: subject + 有 + object. 我有一本书 (I have a book). 他有时间 (He has time). 她有很多朋友 (She has many friends). Unlike English "have," 有 is never used as an auxiliary verb — there is no equivalent of English "I have done" formed with 有. Completed actions use aspect markers 了, 过, etc. instead. 有 remains a main verb only.
+          The possessive use: subject + 有 + object. 我有一本书 (I have a book). 他有时间 (He has time). 她有很多朋友 (She has many friends). Unlike English "have," 有 is never used as an auxiliary verb — there is no equivalent of English "I have done" formed with 有. Completed actions use aspect markers <a class="auto-link" href="../grammar/le_了.html">了</a>, 过, etc. instead. 有 remains a main verb only.
         </div>
         <div class="examples">
           <div class="example">
@@ -179,7 +202,7 @@
           </div>
         </div>
         <div class="note">
-          <span class="note-label">语法 yǔfǎ · 有 vs. 是</span>
+          <span class="note-label">语法 yǔfǎ · 有 vs. <a class="auto-link" href="shi4_是.html">是</a></span>
           <strong>有</strong> = to have (possession/existence). <strong>是</strong> = to be (identity/equation). 我有书 (I have a book) vs. 这是书 (This is a book). The two are never interchangeable — a very common beginner error is using 是 where 有 is required.
         </div>
       </div>
@@ -227,7 +250,7 @@
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          The A-not-A question form of 有. Used both for possession ("do you have X?") and for existence ("is there X?"). In rapid speech, 有没有 is often compressed or the object follows immediately: 有没有时间？ Also used as a sentence-final tag: 你来过北京，有没有？ — "You've been to Beijing, haven't you?"
+          The A-not-A question form of 有. Used both for possession ("do you have X?") and for existence ("is there X?"). In rapid speech, 有没有 is often compressed or the object follows immediately: 有没有时间？ Also used as a sentence-final tag: 你来过<a class="auto-link" href="../geography/topic_beijing.html">北京</a>，有没有？ — "You've been to Beijing, haven't you?"
         </div>
         <div class="examples">
           <div class="example">
@@ -290,7 +313,7 @@
       <!-- 有意思 -->
       <div class="card c-adj">
         <div class="card-head">
-          <span class="card-cn">有意思</span>
+          <span class="card-cn">有<a class="auto-link" href="../vocab/yisi_意思.html">意思</a></span>
           <span class="card-py">yǒu yìsi</span>
           <span class="card-en">interesting; meaningful; amusing (lit. "has meaning")</span>
         </div>
@@ -588,7 +611,7 @@
         </div>
         <div class="tags"><span class="tag tag-adj">Det 限定词 xiàndìngcí</span></div>
         <div class="card-def">
-          有 + 的 (nominalizing particle). Functions as an indefinite partitive — "some of [a set already mentioned or implied]." The pattern 有的…有的… (some…others…) distributes a set into contrasting subgroups and is one of the most natural ways to express "some people…some people…" in Chinese.
+          有 + <a class="auto-link" href="../grammar/de_的得地.html">的</a> (nominalizing particle). Functions as an indefinite partitive — "some of [a set already mentioned or implied]." The pattern 有的…有的… (some…others…) distributes a set into contrasting subgroups and is one of the most natural ways to express "some people…some people…" in Chinese.
         </div>
         <div class="examples">
           <div class="example">
@@ -619,7 +642,7 @@
       <table>
         <thead>
           <tr>
-            <th>字 Zì</th>
+            <th><a class="auto-link" href="zi4_字.html">字</a> Zì</th>
             <th>拼音 Pīnyīn</th>
             <th>英文 Yīngwén</th>
             <th>例句 Lìjù</th>
@@ -745,8 +768,33 @@
     </div>
 
     <!-- FOOTER -->
+    
+    <aside class="related" aria-labelledby="related-label">
+      <span class="related-label" id="related-label">Related entries</span>
+      <div class="related-list">
+      <a class="related-link" href="shi4_是.html"><span class="rl-cn">是</span><span class="rl-py">shì</span><span class="rl-en">to be</span></a>
+      </div>
+    </aside>
+    <nav class="prev-next" aria-label="Within this section">
+      <a class="pn-link pn-prev" href="shi4_是.html" rel="prev">
+        <span class="pn-arrow">←</span>
+        <span class="pn-meta">
+          <span class="pn-label">Previous</span>
+          <span class="pn-title"><span class="pn-cn">是</span> <span class="pn-py">shì</span></span>
+        </span>
+      </a>
+      <a class="pn-link pn-next" href="qi4_气.html" rel="next">
+        <span class="pn-arrow">→</span>
+        <span class="pn-meta">
+          <span class="pn-label">Next</span>
+          <span class="pn-title"><span class="pn-cn">气</span> <span class="pn-py">qì</span></span>
+        </span>
+      </a>
+    </nav>
+
     <footer class="page-footer">
       <span class="footer-id">Field Notes on Chinese · <span>有 yǒu</span> · you3_有.html</span>
+      <a class="footer-errata" href="mailto:hunter@bootle.io?subject=Field%20Notes%20correction%3A%20you3_%E6%9C%89" rel="noopener">Suggest a correction</a>
       <a href="../../index.html" class="footer-back">← All Entries</a>
     </footer>
 
@@ -754,6 +802,7 @@
 </div>
 
 <script src="../../scripts/toc-scroll.js"></script>
+<script src="../../scripts/enhance.js" defer></script>
 
 </body>
 </html>

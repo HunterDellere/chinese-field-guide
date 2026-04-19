@@ -1,6 +1,6 @@
 (function () {
   const CATEGORY_META = {
-    characters: { cn: "字",   py: "zì",       en: "Characters",         color: "var(--red)",        desc: "The single glyphs — etymology, decomposition, daily use." },
+    characters: { cn: "字",   py: "zì",       en: "Characters",         color: "var(--red)",        desc: "Single glyphs. Etymology, decomposition, daily use." },
     vocab:      { cn: "词",   py: "cí",       en: "Vocabulary",         color: "var(--ochre)",      desc: "Words and concepts that carry cultural weight." },
     grammar:    { cn: "法",   py: "fǎ",       en: "Grammar",            color: "var(--teal-ink)",   desc: "Particles, structures, and the joints of the language." },
     religion:   { cn: "宗教", py: "zōngjiào", en: "Religion",           color: "var(--red)",        desc: "Buddhism, Daoism, folk practice, ancestor rites." },
@@ -12,7 +12,7 @@
     arts:       { cn: "艺文", py: "yìwén",    en: "Arts & Literature",  color: "var(--violet-ink)", desc: "Poetry, painting, calligraphy, opera." },
     science:    { cn: "科技", py: "kējì",     en: "Science & Medicine", color: "var(--teal-ink)",   desc: "Astronomy, medicine, and technology before modernity." },
     daily:      { cn: "日常", py: "rìcháng",  en: "Everyday Life",      color: "var(--ochre)",      desc: "Names, numbers, gifts, gestures, taboos." },
-    chengyu:    { cn: "成语", py: "chéngyǔ",  en: "Chengyu",            color: "var(--red)",        desc: "Four-character idioms — the compressed wisdom of classical literature." }
+    chengyu:    { cn: "成语", py: "chéngyǔ",  en: "Chengyu",            color: "var(--red)",        desc: "Four-character idioms. Compressed wisdom from classical texts." }
   };
 
   const CAT_ORDER = [
@@ -24,6 +24,21 @@
   ];
 
   const TODAY = new Date().toISOString().slice(0, 10);
+
+  // Curated reading order: an opinionated tour that gives a first-time reader
+  // a sense of the whole. Match by exact path so it stays stable across rebuilds.
+  const START_HERE = [
+    "pages/characters/ren2_人.html",
+    "pages/characters/jia1_家.html",
+    "pages/grammar/le_了.html",
+    "pages/vocab/yinyang_阴阳.html",
+    "pages/vocab/mianzi_面子.html",
+    "pages/philosophy/topic_kongzi.html",
+    "pages/culture/topic_chunjie.html",
+    "pages/culinary/topic_jiaozi.html",
+    "pages/chengyu/maodun_矛盾.html",
+    "pages/arts/topic_tangshi.html"
+  ];
 
   const SUGGESTIONS = [
     { label: "心", q: "心" },
@@ -116,6 +131,37 @@
 
     document.getElementById("stats").innerHTML =
       `<strong>${allEntries.length}</strong> entries &nbsp;·&nbsp; <strong>${activeCategoriesCount}</strong> sections &nbsp;·&nbsp; updated <strong>${TODAY}</strong>`;
+
+    // ── start-here list ────────────────────────────────────────────────────────
+    const byPath = {};
+    allEntries.forEach(e => { byPath[e.path] = e; });
+    const startList = document.getElementById("start-here-list");
+    if (startList) {
+      const startSection = document.getElementById("start-here");
+      const items = START_HERE.map(p => byPath[p]).filter(Boolean);
+      if (items.length === 0) {
+        startSection.style.display = "none";
+      } else {
+        items.forEach(e => {
+          const li = document.createElement("li");
+          const a = document.createElement("a");
+          a.href = e.path;
+          a.className = "start-here-item";
+          const glyph = e.char || (e.title ? e.title.charAt(0) : "");
+          const titleEn = e.title ? (e.title.split("·").slice(1).join("·").trim() || e.title) : "";
+          a.innerHTML = `
+            <span class="start-here-num"></span>
+            ${glyph ? `<span class="start-here-cn">${escapeHtml(glyph)}</span>` : ""}
+            <span class="start-here-body">
+              <span class="start-here-title">${escapeHtml(titleEn)}</span>
+              <span class="start-here-py">${escapeHtml(e.pinyin || "")}</span>
+            </span>
+          `;
+          li.appendChild(a);
+          startList.appendChild(li);
+        });
+      }
+    }
 
     // ── overview grid ──────────────────────────────────────────────────────────
     const overviewGrid = document.getElementById("overview-grid");
@@ -392,6 +438,39 @@
     }
     suggestEl.innerHTML = buildSuggestionsHtml("try");
     document.getElementById("no-results-suggest").innerHTML = buildSuggestionsHtml("try");
+
+    // ── HSK filter chips ──────────────────────────────────────────────────────
+    const hskChipsEl = document.getElementById("hsk-chips");
+    if (hskChipsEl) {
+      const levels = [1, 2, 3, 4, 5, 6];
+      hskChipsEl.innerHTML =
+        `<span class="hsk-chips-label">HSK</span>` +
+        levels.map(n =>
+          `<button class="hsk-chip" data-hsk="${n}" type="button" aria-pressed="false">${n}</button>`
+        ).join("") +
+        `<button class="hsk-chip" data-hsk="" type="button" aria-pressed="false">All</button>`;
+
+      hskChipsEl.addEventListener("click", e => {
+        const btn = e.target.closest(".hsk-chip");
+        if (!btn) return;
+        const level = btn.dataset.hsk;
+        const isActive = btn.classList.contains("active");
+        hskChipsEl.querySelectorAll(".hsk-chip").forEach(b => {
+          b.classList.remove("active");
+          b.setAttribute("aria-pressed", "false");
+        });
+        if (level && !isActive) {
+          btn.classList.add("active");
+          btn.setAttribute("aria-pressed", "true");
+          searchInput.value = "hsk " + level;
+        } else {
+          searchInput.value = "";
+        }
+        filterText = searchInput.value;
+        clearBtn.classList.toggle("visible", filterText.length > 0);
+        applyFilters();
+      });
+    }
 
     function handleSuggestClick(e) {
       const btn = e.target.closest(".suggest-chip");

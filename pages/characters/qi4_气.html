@@ -6,17 +6,26 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>气 qì — Field Notes on Chinese</title>
 <meta name="description" content="气 qì: breath, air, vital energy, atmosphere. Etymology from steam pictograph to cosmological substrate, weather, anger, tone of voice, and the classical qi of Chinese natural philosophy.">
+<meta name="theme-color" content="#1c1208">
+<link rel="alternate" type="application/rss+xml" title="Field Notes on Chinese" href="../../feed.xml">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>字</text></svg>">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600&family=Noto+Serif+SC:wght@300;400;600;700&family=Inconsolata:wght@300;400;500&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Noto+Serif+SC:wght@400;600;700&family=Inconsolata:wght@400;500&display=swap">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Noto+Serif+SC:wght@400;600;700&family=Inconsolata:wght@400;500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="../../style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"DefinedTerm","name":"气","alternateName":"qì","description":"气 qì: breath, air, vital energy, atmosphere. Etymology from steam pictograph to cosmological substrate, weather, anger, tone of voice, and the classical qi of Chinese natural philosophy.","inDefinedTermSet":"Field Notes on Chinese","url":"https://hunterdellere.github.io/chinese-field-guide/pages/characters/qi4_气.html","inLanguage":"zh-Hans","author":{"@type":"Person","name":"Hunter Dellere"}}</script>
 </head>
 <body>
 
-<nav class="topnav">
-  <a href="../../index.html" class="topnav-brand">Field Notes on <span>Chinese</span></a>
-  <a href="../../index.html" class="topnav-back">← All Entries</a>
+<a class="skip-link" href="#main-content">Skip to content</a>
+
+<nav class="topnav" aria-label="Site">
+  <a href="../../index.html" class="topnav-brand" aria-label="Field Notes on Chinese — home">Field Notes on <span>Chinese</span></a>
+  <a href="../../index.html" class="topnav-back" aria-label="Back to all entries">← All Entries</a>
 </nav>
+
+<div class="reading-progress" aria-hidden="true"><div class="reading-progress-bar"></div></div>
 
 <button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
@@ -95,7 +104,7 @@
           </div>
         </div>
         <div class="hero-meta">
-          <div class="hero-pinyin">qì</div>
+          <div class="hero-pinyin">qì<button type="button" class="audio-btn" data-audio="气" aria-label="Play pronunciation">🔊</button></div>
           <div class="hero-en">breath · air · vital energy · atmosphere</div>
           <div class="hero-chips">
             <span class="chip">部首 bùshǒu · 气 qì (itself)</span>
@@ -106,6 +115,20 @@
         </div>
       </div>
     </header>
+
+    <!-- STROKE ORDER -->
+    <section class="stroke-order" aria-label="Stroke order animation">
+      <div class="so-head">
+        <span class="so-label">笔顺 bǐshùn · Stroke order</span>
+        <div class="so-controls">
+          <button type="button" class="so-btn" data-so-action="play" aria-label="Play stroke animation">▶ Play</button>
+          <button type="button" class="so-btn" data-so-action="step" aria-label="Step through strokes">Step</button>
+          <button type="button" class="so-btn" data-so-action="reset" aria-label="Reset and replay">↻</button>
+        </div>
+      </div>
+      <div class="so-stage" id="so-stage" data-char="气"></div>
+      <p class="so-hint">Click the character to replay. Drag to draw it yourself in quiz mode.</p>
+    </section>
 
     <!-- ── ETYMOLOGY ── -->
     <span class="section-anchor" id="etymology"></span>
@@ -134,7 +157,7 @@
 
     <div class="pattern">
       <span class="label">构词规律 gòucí guīlǜ · Four Domains of 气</span>
-      <strong>天/空 + 气</strong> → atmospheric: 天气 weather · 空气 air · 气候 climate · 气温 temperature<br>
+      <strong><a class="auto-link" href="tian1_天.html">天</a>/空 + 气</strong> → atmospheric: 天气 weather · 空气 air · 气候 climate · 气温 temperature<br>
       <strong>生/怒/闷 + 气</strong> → emotional: 生气 angry · 闷气 suppressed frustration · 怨气 resentment<br>
       <strong>语/口 + 气</strong> → register/tone: 语气 grammatical mood; tone · 口气 manner of speaking<br>
       <strong>气 + quality</strong> → bearing &amp; presence: 气质 temperament · 气势 momentum · 气场 aura
@@ -561,7 +584,7 @@
     <div class="scholar" data-glyph="氣">
       <div class="scholar-label">哲学洞见 zhéxué dòngjiàn · Philosophical Insight</div>
       <p>In classical Chinese natural philosophy, 气 is not a metaphor — it is the literal substance of the universe. Everything that exists is 气 in different states of condensation and dispersal. When 气 condenses, it becomes form: mountains, bodies, water. When it disperses, it returns to the void. The two primary modes of 气 are <strong>阳气 yángqì</strong> (yang qi — active, warm, expanding, rising) and <strong>阴气 yīnqì</strong> (yin qi — receptive, cool, condensing, descending). Their alternation produces seasons, tides, day and night, life and death.</p>
-      <p>In traditional Chinese medicine (中医 Zhōngyī), 气 circulates through the body via a network of <strong>经络 jīngluò</strong> (meridians) — pathways invisible to dissection but mapped by centuries of clinical observation. Health is free-flowing qi. Disease is blocked, deficient, or rebellious qi. Acupuncture, moxibustion, and qigong (气功 qìgōng) all work by regulating the flow of qi through these channels.</p>
+      <p>In traditional Chinese medicine (<a class="auto-link" href="../science/topic_zhongyi.html">中医</a> Zhōngyī), 气 circulates through the body via a network of <strong>经络 jīngluò</strong> (meridians) — pathways invisible to dissection but mapped by centuries of clinical observation. Health is free-flowing qi. Disease is blocked, deficient, or rebellious qi. Acupuncture, moxibustion, and qigong (气功 qìgōng) all work by regulating the flow of qi through these channels.</p>
       <p>Key cosmological qi compounds: <strong>元气 yuánqì</strong> (primordial qi — the original qi of the cosmos; also: vitality after illness or catastrophe), <strong>正气 zhèngqì</strong> (upright/righteous qi — the moral force that resists both disease and corruption), <strong>邪气 xiéqì</strong> (pathogenic/evil qi — the force that invades and disrupts), <strong>中气 zhōngqì</strong> (central qi — the digestive qi of the stomach and spleen, the pivot of health).</p>
     </div>
 
@@ -623,7 +646,7 @@
       <table>
         <thead>
           <tr>
-            <th>字 Zì</th>
+            <th><a class="auto-link" href="zi4_字.html">字</a> Zì</th>
             <th>拼音 Pīnyīn</th>
             <th>英文 Yīngwén</th>
             <th>例句 Lìjù</th>
@@ -743,7 +766,7 @@
       <span class="adj"><span class="a-cn">元气</span><span class="a-py">yuánqì</span><span class="a-en">primordial qi; reserves of vitality</span></span>
       <span class="adj"><span class="a-cn">阳气</span><span class="a-py">yángqì</span><span class="a-en">yang energy; warm, active qi</span></span>
       <span class="adj"><span class="a-cn">阴气</span><span class="a-py">yīnqì</span><span class="a-en">yin energy; cool, receptive qi</span></span>
-      <span class="adj"><span class="a-cn">风水</span><span class="a-py">fēngshuǐ</span><span class="a-en">geomancy (lit. wind-water)</span></span>
+      <span class="adj"><span class="a-cn"><a class="auto-link" href="../science/topic_fengshui_science.html"><a class="auto-link" href="../vocab/fengshui_风水.html">风水</a></a></span><span class="a-py">fēngshuǐ</span><span class="a-en">geomancy (lit. wind-water)</span></span>
       <span class="adj"><span class="a-cn">经络</span><span class="a-py">jīngluò</span><span class="a-en">meridians (TCM)</span></span>
     </div>
 
@@ -755,8 +778,37 @@
     </div>
 
     <!-- FOOTER -->
+    
+    <aside class="related" aria-labelledby="related-label">
+      <span class="related-label" id="related-label">Related entries</span>
+      <div class="related-list">
+      <a class="related-link" href="../science/topic_jieqi.html"><span class="rl-cn">二十四节气</span><span class="rl-py">èrshísì jiéqì</span><span class="rl-en">24 Solar Terms</span></a>
+      <a class="related-link" href="tian1_天.html"><span class="rl-cn">天</span><span class="rl-py">tiān</span><span class="rl-en">sky, heaven, day</span></a>
+      <a class="related-link" href="../vocab/yinyang_阴阳.html"><span class="rl-cn">阴阳</span><span class="rl-py">yīnyáng</span><span class="rl-en">yin and yang</span></a>
+      <a class="related-link" href="../philosophy/topic_yinyang_wuxing.html"><span class="rl-cn">阴阳五行</span><span class="rl-py">yīnyáng wǔxíng</span><span class="rl-en">Yin-Yang and the Five Phases</span></a>
+      <a class="related-link" href="../vocab/fengshui_风水.html"><span class="rl-cn">风水</span><span class="rl-py">fēngshuǐ</span><span class="rl-en">wind and water</span></a>
+      </div>
+    </aside>
+    <nav class="prev-next" aria-label="Within this section">
+      <a class="pn-link pn-prev" href="you3_有.html" rel="prev">
+        <span class="pn-arrow">←</span>
+        <span class="pn-meta">
+          <span class="pn-label">Previous</span>
+          <span class="pn-title"><span class="pn-cn">有</span> <span class="pn-py">yǒu</span></span>
+        </span>
+      </a>
+      <a class="pn-link pn-next" href="dao4_道.html" rel="next">
+        <span class="pn-arrow">→</span>
+        <span class="pn-meta">
+          <span class="pn-label">Next</span>
+          <span class="pn-title"><span class="pn-cn">道</span> <span class="pn-py">dào</span></span>
+        </span>
+      </a>
+    </nav>
+
     <footer class="page-footer">
       <span class="footer-id">Field Notes on Chinese · <span>气 qì</span> · qi4_气.html</span>
+      <a class="footer-errata" href="mailto:hunter@bootle.io?subject=Field%20Notes%20correction%3A%20qi4_%E6%B0%94" rel="noopener">Suggest a correction</a>
       <a href="../../index.html" class="footer-back">← All Entries</a>
     </footer>
 
@@ -764,6 +816,7 @@
 </div>
 
 <script src="../../scripts/toc-scroll.js"></script>
+<script src="../../scripts/enhance.js" defer></script>
 
 </body>
 </html>

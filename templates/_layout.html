@@ -6,21 +6,31 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>{{{pageTitle}}} — Field Notes on Chinese</title>
 <meta name="description" content="{{{metaDesc}}}">
+<meta name="theme-color" content="#1c1208">
+<link rel="alternate" type="application/rss+xml" title="Field Notes on Chinese" href="../../feed.xml">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>字</text></svg>">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600&family=Noto+Serif+SC:wght@300;400;600;700&family=Inconsolata:wght@300;400;500&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Noto+Serif+SC:wght@400;600;700&family=Inconsolata:wght@400;500&display=swap">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Noto+Serif+SC:wght@400;600;700&family=Inconsolata:wght@400;500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="../../style.css">
+{{{jsonLd}}}
 </head>
 <body>
 
-<nav class="topnav">
-  <a href="../../index.html" class="topnav-brand">Field Notes on <span>Chinese</span></a>
-  <a href="../../index.html" class="topnav-back">← All Entries</a>
+<a class="skip-link" href="#main-content">Skip to content</a>
+
+<nav class="topnav" aria-label="Site">
+  <a href="../../index.html" class="topnav-brand" aria-label="Field Notes on Chinese — home">Field Notes on <span>Chinese</span></a>
+  <a href="../../index.html" class="topnav-back" aria-label="Back to all entries">← All Entries</a>
 </nav>
+
+<div class="reading-progress" aria-hidden="true"><div class="reading-progress-bar"></div></div>
 
 {{{pageBody}}}
 
 <script src="../../scripts/toc-scroll.js"></script>
+<script src="../../scripts/enhance.js" defer></script>
 
 </body>
 </html>

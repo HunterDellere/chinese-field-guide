@@ -1,0 +1,168 @@
+---
+type: 'topic'
+category: 'daily'
+status: 'complete'
+title: '敬酒 · Toasting Culture'
+desc: 'The Chinese toast is not a punctuation mark at the end of a speech — it is a social instrument with its own grammar, hierarchy, and rules of engagement.'
+metaDesc: "敬酒 jìngjiǔ: toasting culture in China — the structure of a formal toast, holding your cup lower than your superior, the pressure to drink, how to decline without losing face, and regional variation."
+pageTitle: '敬酒 Toasting Culture'
+tags:
+  - 'social'
+  - 'culture'
+  - 'etiquette'
+  - 'daily-life'
+  - 'food'
+  - 'ritual'
+updated: '2026-04-19'
+pinyin: 'jìngjiǔ'
+---
+
+<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+    <span class="toc-topic">敬酒</span>
+    <span class="toc-topic-en">Toasting Culture</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#structure">
+        <span class="toc-cn">敬酒结构</span> Anatomy of a Toast
+        <span class="toc-sub">stand, hold, speak, drain</span>
+      </a></li>
+      <li><a href="#hierarchy">
+        <span class="toc-cn">尊重</span> The Hierarchy in the Glass
+        <span class="toc-sub">holding lower, the logic of deference</span>
+      </a></li>
+      <li><a href="#pressure">
+        <span class="toc-cn">劝酒</span> The Pressure to Drink
+        <span class="toc-sub">quàn jiǔ — and how to refuse</span>
+      </a></li>
+      <li><a href="#regional">
+        <span class="toc-cn">地区差异</span> Regional Variation
+        <span class="toc-sub">baijiu north, beer south, tea always</span>
+      </a></li>
+      <li><a href="#vocab">
+        <span class="toc-cn">词汇</span> Key Vocabulary
+        <span class="toc-sub">cíhuì · terms to know</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">Everyday Life · 日常 rìcháng</span>
+      <h1 class="topic-hero-title">敬酒</h1>
+      <span class="topic-hero-title-py">jìngjiǔ</span>
+      <p class="topic-hero-desc">The Chinese toast is not a punctuation mark at the end of a speech — it is a social instrument with its own grammar, hierarchy, and rules of engagement.</p>
+    </header>
+
+    <span class="section-anchor" id="structure"></span>
+    <div class="section-head">
+      <span class="sh-cn">敬酒结构</span>
+      <span class="sh-py">jìngjiǔ jiégòu</span>
+      <span class="sh-en">Anatomy of a Toast — Stand, Hold, Speak, Drain</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="酒">
+      <div class="scholar-label">正式敬酒 zhèngshì jìngjiǔ · the formal toast sequence</div>
+      <p>The formal Chinese toast has a structure, and the elements of that structure are not optional. When the host rises to propose the first toast of the evening, everyone stands. The host lifts the glass with both hands — or at minimum holds the base of the glass in the palm of one hand, the other hand supporting or hovering nearby — and delivers a brief speech. The speech is directed at the honored guest or at the group as a whole, and it expresses gratitude, welcomes the occasion, and wishes everyone health and prosperity. The speech is typically brief — two to four sentences — because the point is the gesture and the collective act of drinking, not the rhetoric.</p>
+      <p>At the end of the speech comes 干杯 (gānbēi, literally "dry cup" — "bottoms up"). The word 干 means dry; the implied meaning is that the cup should be emptied completely. In the strictest version of the custom, the glass is inverted after draining to demonstrate that nothing remains — particularly with baijiu shots, where the glass is small enough to make this practical. The gesture is a proof of commitment: I drank all of it, I gave nothing less than you did. Following 干杯, everyone drinks, glasses are refilled, and the meal resumes — until the next toast.</p>
+      <p>After the host's opening toast, individuals may propose their own toasts throughout the meal: to the honored guest, to specific people at the table, to the host in return, or to the group as a whole. A formal business dinner may involve dozens of individual toasts across the evening. The structure of each individual toast mirrors the opening: stand, hold the glass correctly, state your purpose and addressee, say 干杯, drink. The addressee drinks in response, and the gesture is complete. At a large round table, it is common for someone to make a circuit of the room, toasting each table in turn — this is one of the host's responsibilities and is understood as a mark of serious effort to honor all the guests.</p>
+    </div>
+
+    <span class="section-anchor" id="hierarchy"></span>
+    <div class="section-head">
+      <span class="sh-cn">尊重</span>
+      <span class="sh-py">zūnzhòng</span>
+      <span class="sh-en">The Hierarchy in the Glass — Holding Lower, the Logic of Deference</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="敬">
+      <div class="scholar-label">表示尊重 biǎoshì zūnzhòng · expressing respect</div>
+      <p>When clinking glasses with someone senior to you — older, higher in organizational rank, or a guest of honor — you hold your glass slightly lower than theirs. The physical positioning of the glass expresses the social relationship without requiring words. Your rim beneath their rim: I acknowledge that I stand below you. The gesture can be subtle — a few centimeters is sufficient — but it is noticed, and its absence is also noticed. Clinking glasses at exactly the same height with a superior is not necessarily offensive, but it is a mild social flatness; making the effort to lower yours is a form of visible courtesy.</p>
+      <p>The corollary is that the superior should not allow too great a height differential — bending the glass very low in front of an elder to exaggerate the distance would be awkward. The convention is a calibrated gesture, not a performance of abasement. When a younger subordinate clinks glasses with you and lowers their glass, you acknowledge it by a slight lowering of your own — a mutual recognition of the hierarchy, gracefully handled by both parties. The entire exchange takes perhaps two seconds and says more than several minutes of formal speech about how the relationship is understood.</p>
+      <p>The physical management of the glass extends to refilling. At a formal dinner, the junior people at the table are responsible for keeping the glasses of seniors filled — noticing when a glass is low and refilling it before it empties is a concrete act of service and attention. Allowing a senior guest's glass to sit empty while your own is full is a social failure that experienced hosts notice. The act of refilling is always done with both hands on the bottle — one hand holding the bottle, the other steadying or supporting it — mirroring the two-hand courtesy of pouring tea and presenting objects.</p>
+    </div>
+
+    <span class="section-anchor" id="pressure"></span>
+    <div class="section-head">
+      <span class="sh-cn">劝酒</span>
+      <span class="sh-py">quàn jiǔ</span>
+      <span class="sh-en">The Pressure to Drink — Quàn Jiǔ and How to Refuse</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="干">
+      <div class="scholar-label">劝酒文化 quàn jiǔ wénhuà · the culture of urging drinks</div>
+      <p>劝酒 (quàn jiǔ) — the active urging of guests to drink — is an institutionalized element of the Chinese banquet. The host presses guests to drink more; guests in turn press each other; the social pressure to participate in each round is genuine and can be considerable. The logic behind the pressure is partly relational: refusing to drink with someone who has raised a toast to you can be read as a rejection of the overture, a refusal to commit to the mutual vulnerability that shared drinking represents. Drinking together — particularly drinking to the bottom of the glass together — is a bonding act, a signal of openness and trust.</p>
+      <p>The pressure is also, in some contexts, a test. A business partner who drinks reluctantly, or who constantly deflects toasts, may be perceived as someone who does not want to get close, who is holding something back, who is not fully in. In the northeast of China and in many government and business contexts, the ability to drink well — to hold your baijiu, to stay composed, to continue functioning through multiple rounds — is considered a professional asset. The banquet is partly a character assessment. A person who cannot handle the table is sometimes considered a person who cannot handle the job.</p>
+      <p>Refusing is nonetheless possible, and there are accepted scripts for doing so without losing face. The cleanest excuse is driving: 我开车了 (wǒ kāi chē le, "I drove here") is understood and respected — drunk driving laws are strict and enforcement has increased significantly. A health excuse — 我身体不好 (wǒ shēntǐ bù hǎo, "my health is not good") or citing a medication that conflicts with alcohol — is also accepted, though it may prompt expressions of concern that are sometimes more ceremonial than practical. Substituting tea in the glass is an increasingly accepted option: the physical gesture of raising and clinking the cup is preserved even when its contents are not alcoholic. The substitute maintains the social form of the toast while declining its chemical content.</p>
+    </div>
+
+    <span class="section-anchor" id="regional"></span>
+    <div class="section-head">
+      <span class="sh-cn">地区差异</span>
+      <span class="sh-py">dìqū chāyì</span>
+      <span class="sh-en">Regional Variation — Baijiu North, Beer South, Tea Always</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="白">
+      <div class="scholar-label">南北差异 nán běi chāyì · northern and southern drinking culture</div>
+      <p>The drink of choice for formal toasting varies significantly by region and has a rough north-south pattern. In the northeast — Heilongjiang, Jilin, Liaoning — and in much of northern and central China, baijiu (白酒) is the prestige drink for formal occasions. Baijiu is a clear grain spirit, typically 40–60% alcohol by volume, with a flavor profile that ranges from intensely fragrant to almost solvent-like depending on the variety and production method. Its social function in northern Chinese business culture is difficult to overstate: Moutai (茅台) and Wuliangye (五粮液) are the two flagship brands and function as currencies of respect. Presenting a bottle of Moutai is a statement of seriousness; toasting with it is a mutual declaration of commitment.</p>
+      <p>In southern China — Guangdong, Fujian, parts of Zhejiang — beer is the more common banquet drink, and the toasting culture is less intense than in the north. Cantonese drinking culture has traditionally involved less of the northern-style pressure; the south is known for greater tolerance of moderate or no drinking. Tea, particularly oolong or Pu-erh, is available at virtually every formal meal as an alternative, and substituting tea for spirits in a toast is understood and accepted. The Cantonese phrase 以茶代酒 (yǐ chá dài jiǔ, "substitute tea for wine") acknowledges the gesture explicitly: you are observing the form of the toast even while substituting the content.</p>
+      <p>A contemporary shift is underway across China: younger urban cohorts are drinking less baijiu, and the banquet culture that demanded heavy drinking is loosening, particularly in private sector and technology industry settings. This is not a rejection of toast culture — the ritual of the toast, the clinking of glasses, the expressions of mutual regard — but a renegotiation of the alcohol requirement. The form persists; the content is becoming more flexible. In a generation, the dynamics of the Chinese business dinner may look significantly different, though the fundamental social logic of the shared table is unlikely to change.</p>
+    </div>
+
+    <span class="section-anchor" id="vocab"></span>
+    <div class="section-head">
+      <span class="sh-cn">词汇</span>
+      <span class="sh-py">cíhuì</span>
+      <span class="sh-en">Key Vocabulary</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+      <div class="card c-red">
+        <div class="card-head"><span class="tag-v">v</span> 干杯 gānbēi</div>
+        <p>Bottoms up — "dry cup." The standard toast call, implying the glass is to be emptied. Contrasted with 随意 (suíyì, "as you like"), which allows partial drinking. 干杯 is the stronger and more committed version. Refusing to 干杯 with someone who has singled you out for a toast is a social rebuff.</p>
+      </div>
+      <div class="card c-red">
+        <div class="card-head"><span class="tag-v">v</span> 随意 suíyì</div>
+        <p>As you like, freely, casually — the softer alternative to 干杯 that allows the recipient to drink as much or as little as they wish. Using 随意 rather than 干杯 is a show of consideration, often offered to guests who are known to drink little or who have already flagged a limitation. It preserves the form of the toast without the obligation to drain the glass.</p>
+      </div>
+      <div class="card c-ochre">
+        <div class="card-head"><span class="tag-v">v</span> 劝酒 quàn jiǔ</div>
+        <p>To urge someone to drink — the active encouragement of guests to participate in toasts and consume more. 劝酒 ranges from gentle pressing to sustained social pressure. At some banquets, particularly in government or traditional business contexts, it is a structured performance as much as a personal preference. The person being pressed is expected to resist politely before conceding.</p>
+      </div>
+      <div class="card c-ochre">
+        <div class="card-head"><span class="tag-n">n</span> 以茶代酒 yǐ chá dài jiǔ</div>
+        <p>Substitute tea for spirits — the accepted formula for toasting without drinking alcohol. The phrase is spoken while raising a cup of tea, acknowledging the substitution explicitly. Its use signals that you understand the protocol and are respecting the form of the occasion even while opting out of the alcohol. It is gracious and is understood as such.</p>
+      </div>
+      <div class="card c-teal">
+        <div class="card-head"><span class="tag-n">n</span> 茅台 máotái</div>
+        <p>Moutai — the prestige baijiu produced in Maotai Town, Guizhou province. Made from sorghum using the sauce-aroma (酱香 jiàngxiāng) method, it is the most famous Chinese spirit and functions as a currency of respect in formal Chinese business culture. Its price and scarcity have made it a marker of serious intent: bringing a bottle of Moutai to a banquet is a meaningful gesture.</p>
+      </div>
+      <div class="card c-sienna">
+        <div class="card-head"><span class="tag-n">n</span> 酒量 jiǔliàng</div>
+        <p>Drinking capacity, alcohol tolerance — the amount a person can drink before losing composure. Having a good 酒量 is considered a professional asset in industries and regions where banquet culture is strong. The phrase 我酒量不好 (wǒ jiǔliàng bù hǎo, "my capacity is poor") is a common and accepted excuse for drinking lightly, particularly from younger participants and women.</p>
+      </div>
+    </div>
+
+    <footer class="page-footer">
+      <span class="footer-id">Field Notes on Chinese · <span>敬酒</span> · Everyday Life</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>
+<script src="../../scripts/toc-scroll.js"></script>

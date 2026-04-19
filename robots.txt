@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hunterdellere.github.io/chinese-field-guide/sitemap.xml

@@ -1,0 +1,209 @@
+---
+type: 'topic'
+category: 'arts'
+status: 'complete'
+title: '水墨画 · Ink-Wash Painting'
+desc: 'Where the brush meets philosophy — five tones of ink, the art of leaving space, and landscapes that are not about landscape at all.'
+metaDesc: "水墨画 Shuǐmòhuà: Chinese ink-wash painting — the five ink tones, liubai negative space, literati painting wenrenhua, the Four Gentlemen, and masters Su Shi, Mi Fu, Ni Zan, and Shitao."
+pageTitle: '水墨画 Shuǐmòhuà'
+tags:
+  - 'art'
+  - 'brush'
+  - 'calligraphy'
+  - 'culture'
+  - 'history'
+  - 'classical'
+updated: '2026-04-19'
+pinyin: 'shuǐmòhuà'
+---
+
+<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+    <span class="toc-topic">水墨画</span>
+    <span class="toc-topic-en">Ink-Wash Painting</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#philosophy">
+        <span class="toc-cn">哲学</span> Philosophy of the Brush
+        <span class="toc-sub">qi, void, the five tones</span>
+      </a></li>
+      <li><a href="#liubai">
+        <span class="toc-cn">留白</span> Negative Space
+        <span class="toc-sub">liúbái · what is not painted</span>
+      </a></li>
+      <li><a href="#wenrenhua">
+        <span class="toc-cn">文人画</span> Literati Painting
+        <span class="toc-sub">the scholar-painter ideal</span>
+      </a></li>
+      <li><a href="#subjects">
+        <span class="toc-cn">题材</span> The Major Subjects
+        <span class="toc-sub">landscape, bamboo, the Four Gentlemen</span>
+      </a></li>
+      <li><a href="#masters">
+        <span class="toc-cn">大师</span> Key Masters
+        <span class="toc-sub">Su Shi, Mi Fu, Ni Zan, Shitao</span>
+      </a></li>
+      <li><a href="#vocab">
+        <span class="toc-cn">词汇</span> Key Vocabulary
+        <span class="toc-sub">cíhuì · terms to know</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">Arts &amp; Literature · 艺文 yìwén</span>
+      <h1 class="topic-hero-title">水墨画</h1>
+      <span class="topic-hero-title-py">shuǐ mò huà</span>
+      <p class="topic-hero-desc">Where the brush meets philosophy — five tones of ink, the art of leaving space, and landscapes that are not about landscape at all.</p>
+    </header>
+
+    <span class="section-anchor" id="philosophy"></span>
+    <div class="section-head">
+      <span class="sh-cn">笔墨哲学</span>
+      <span class="sh-py">bǐmò zhéxué</span>
+      <span class="sh-en">Philosophy of the Brush</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="墨">
+      <div class="scholar-label">艺术理论 yìshù lǐlùn · Art Theory</div>
+      <p>Chinese ink-wash painting 水墨画 shuǐmòhuà operates from a set of assumptions about the relationship between the visible world, the painter's inner state, and the painted image that are quite unlike the assumptions underlying the Western oil painting tradition. The goal is not faithful representation of the external world but the capture of 气韵 qìyùn — the vital breath-rhythm of the subject. A bamboo stalk painted by a great master is not the bamboo as the eye sees it; it is the bamboo's essential nature, its inner life, its way of being in the world. This distinction between external appearance 形 xíng and inner spirit 神 shén is fundamental to Chinese painting theory from at least the fifth century onward, when the art critic Xie He 谢赫 formulated his 六法 Liù Fǎ (Six Principles of Painting), of which the first and supreme principle is 气韵生动 qìyùn shēngdòng — "spirit resonance, life movement."</p>
+      <p>The medium itself is fundamental to this philosophy. Water-based ink on absorbent xuan paper 宣纸 is unforgiving: marks cannot be corrected, washes cannot be reworked, hesitation shows, and overworking kills the life of the painting. The completed work must emerge from a state of concentrated, unhesitating engagement — what later critics described as 意在笔先 yì zài bǐ xiān, "the intention precedes the brush." The painter must know the painting before making it. This is why Chinese painting theory places such emphasis on internal cultivation: you cannot paint a bamboo well until you have understood bamboo thoroughly, dwelt with it, absorbed its spirit. The external preparation is study; the internal preparation is a kind of imaginative identification.</p>
+      <p>Ink — 墨 mò — is the central material fact of the tradition. Traditional Chinese ink is a compressed stick of pine soot and animal glue, ground against an inkstone with water to produce a liquid of varying concentration. This single material, manipulated through the angle and pressure of the brush and the amount of water in the mix, produces an enormous tonal range. Classical Chinese painting theory identifies <strong>五墨 wǔmò</strong> (Five Tones of Ink): 焦 jiāo (scorched, near-dry), 浓 nóng (thick, full black), 重 zhòng (heavy, deep), 淡 dàn (dilute, light grey), and 清 qīng (clear, nearly water). A skilled painter orchestrates these five tones across a single composition without any color pigment, creating depth, atmosphere, texture, and luminosity from one substance and water alone.</p>
+    </div>
+
+    <div class="pattern">
+      <span class="label">五墨 wǔmò · The Five Tones of Ink</span>
+      <strong>焦 jiāo</strong> — scorched, near-dry: for rough textures, bark, old rocks · brush nearly dry, hair separating<br>
+      <strong>浓 nóng</strong> — thick, full black: for strong outlines, darkest shadows, anchoring elements<br>
+      <strong>重 zhòng</strong> — heavy, deep: mid-dark, for shadows and transitions<br>
+      <strong>淡 dàn</strong> — dilute, light grey: for mist, distance, soft foliage, atmospheric wash<br>
+      <strong>清 qīng</strong> — clear, nearly water: for the faintest tone, almost invisible, suggesting vast aerial distance
+    </div>
+
+    <span class="section-anchor" id="liubai"></span>
+    <div class="section-head">
+      <span class="sh-cn">留白</span>
+      <span class="sh-py">liú bái</span>
+      <span class="sh-en">Negative Space — The Art of Not Painting</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="白">
+      <div class="scholar-label">空间美学 kōngjiān měixué · Spatial Aesthetics</div>
+      <p>留白 liúbái — literally "leaving white," or "preserving the blank" — is one of the most discussed concepts in Chinese painting and calligraphy. It refers to the deliberate use of unpainted space as an active compositional element: the blank areas of xuan paper that are not simply empty but are, in the hands of a skilled painter, as carefully considered as the brushwork itself. The blank can be mist, can be sky, can be water, can be distance, can be silence. Or it can be nothing named at all — just space that breathes around the painted forms, allowing them to exist without suffocation.</p>
+      <p>The philosophical grounding of 留白 is unmistakably Daoist. The 道德经 Dàodéjīng argues in its eleventh chapter that utility lies in emptiness: a wheel's hub is useful because of the hollow at its center; a room is useful because of the empty space within it. What is not there is what makes the thing work. Applied to painting, this means that the blank space is not the absence of painting but its necessary counterpart — the silence that gives the sounds meaning, the space that gives the forms life. A composition that covers every inch of paper with brushwork leaves no room for the viewer's imagination and no room for the painting to breathe. The 留白 is where the viewer's mind enters and completes the work.</p>
+      <p>In practice, 留白 operates differently across different subject matters. In landscape painting 山水画 shānshuǐ huà, blank space typically reads as mist, cloud, or water — forms that naturally obscure and dissolve. A mountain peak emerging from unpainted white below it is understood to be rising from mist, not floating in the abstract. In figure painting, blank space around a figure can create a sense of isolation, contemplation, or grandeur. In the painting of plants and flowers, especially the ink orchid or bamboo, a single spray of leaves against a blank field creates an effect of austere concentration that a fully rendered background would destroy. The discipline of 留白 is the discipline of knowing when to stop, which is also the calligraphic discipline of not overworking a stroke.</p>
+    </div>
+
+    <span class="section-anchor" id="wenrenhua"></span>
+    <div class="section-head">
+      <span class="sh-cn">文人画</span>
+      <span class="sh-py">wénrén huà</span>
+      <span class="sh-en">Literati Painting — The Scholar-Painter Ideal</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="文">
+      <div class="scholar-label">美学运动 měixué yùndòng · Aesthetic Movement</div>
+      <p>文人画 wénrén huà — "scholar-painter painting" or "literati painting" — is the most influential movement in the history of Chinese art. It emerged in the Northern Song dynasty, was theorized most forcefully by Su Shi 苏轼 and the critic and painter Mi Fu 米芾, and became the dominant aesthetic paradigm of Chinese painting from the Yuan dynasty onward. Its core argument is simple and radical: the goal of painting is not technical proficiency or faithful representation but the expression of the painter's cultivated character. A painting by a 文人 — a person of broad education and refined sensibility — is inherently superior to the same scene rendered by a professional artisan, because it bears the trace of a superior mind.</p>
+      <p>This argument had significant practical implications. It devalued technical virtuosity as such — the pyrotechnically skilled professional court painters who produced perfectly lifelike flowers and birds were judged aesthetically inferior to a scholar who dashed off a bamboo in ten minutes. It privileged ink monochrome over color — color was associated with the decorative, the popular, the sensory; ink was associated with the intellectual, the concentrated, the morally serious. And it drew painting into the same ethical-aesthetic orbit as calligraphy: the brush stroke in a painting, like the stroke in a written character, was understood as a trace of the person who made it. Clumsy strokes indicated a clumsy character; live strokes indicated a vital mind.</p>
+      <p>The 文人画 tradition also established a specific repertoire of favored subjects: landscape above all, followed by bamboo, the prunus plum 梅 méi, the orchid 兰 lán, and the chrysanthemum 菊 jú. These subjects were chosen not primarily for their visual interest but for their associative and symbolic richness — each was linked to specific Confucian or Daoist virtues, specific poets and historical figures, specific seasonal and emotional contexts. To paint a bamboo well was to demonstrate not only technical command but cultural knowledge and moral alignment with the bamboo's qualities of resilience, flexibility, and humble uprightness.</p>
+    </div>
+
+    <span class="section-anchor" id="subjects"></span>
+    <div class="section-head">
+      <span class="sh-cn">题材与四君子</span>
+      <span class="sh-py">tícái yǔ sì jūnzǐ</span>
+      <span class="sh-en">Major Subjects — Landscape &amp; the Four Gentlemen</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+      <div class="card c-teal">
+        <div class="card-head">山水 shānshuǐ · Landscape</div>
+        <p>The supreme subject of Chinese painting. Mountains and water — the two poles of the landscape — represent the stable and the mutable, the permanent and the transient, yang and yin. A great landscape painting is not a view of a place but a meditation on nature itself. The viewer is invited to enter the painting and travel through it — the painter provides paths, clearings, streams, and empty distance as an imaginative itinerary.</p>
+      </div>
+      <div class="card c-ochre">
+        <div class="card-head">梅 méi · Prunus Plum</div>
+        <p>The prunus plum blossoms in late winter, often in snow, and became the symbol of perseverance through hardship and of moral integrity that does not bend to circumstances. It is the first of the Four Gentlemen 四君子 sì jūnzǐ — the group of plants (plum, orchid, bamboo, chrysanthemum) that together embody the Confucian scholar-gentleman virtues.</p>
+      </div>
+      <div class="card c-sienna">
+        <div class="card-head">兰 lán · Orchid</div>
+        <p>The orchid — fragrant and growing in secluded valleys, unobserved — represents virtue that does not depend on recognition. Associated with Qu Yuan and with the Confucian ideal of moral cultivation for its own sake. Ink orchid painting is among the most demanding of the literati subjects: a single spray, on a blank ground, with nowhere to hide.</p>
+      </div>
+      <div class="card c-violet">
+        <div class="card-head">竹 zhú · Bamboo</div>
+        <p>Bamboo is hollow-hearted (associated with open-mindedness), upright, and resilient — it bends in the wind but does not break. It became the emblematic 文人画 subject: Su Shi painted bamboo, his sister-in-law Wang Dingguo painted bamboo, the Yuan dynasty master Wen Tong 文同 was so celebrated for his bamboo that Su Shi wrote an essay on the aesthetic theory behind painting it.</p>
+      </div>
+      <div class="card c-red">
+        <div class="card-head">菊 jú · Chrysanthemum</div>
+        <p>The chrysanthemum blooms in autumn, when other flowers have faded, and is associated with quiet retirement from public life, with the poet Tao Yuanming 陶渊明 who famously planted chrysanthemums at his country retreat, and with a kind of dignified perseverance into old age. The fourth of the Four Gentlemen.</p>
+      </div>
+    </div>
+
+    <span class="section-anchor" id="masters"></span>
+    <div class="section-head">
+      <span class="sh-cn">大师</span>
+      <span class="sh-py">dàshī</span>
+      <span class="sh-en">Key Masters — Su Shi, Mi Fu, Ni Zan, Shitao</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="畫">
+      <div class="scholar-label">画坛巨匠 huàtán jùjiàng · Canonical Masters</div>
+      <p><strong>Su Shi 苏轼</strong> (1037–1101) was the founding theorist of 文人画 more than its founding practitioner — his surviving paintings are few and debated — but his theoretical arguments established the framework within which Chinese painting would be discussed for the next eight centuries. His key claim: "To discuss painting in terms of formal likeness is to have the understanding of a child." What matters is not whether the painted bamboo looks exactly like bamboo but whether it captures the spirit of bamboo — and for that, the painter's own cultivation matters more than the painter's technical skills.</p>
+      <p><strong>Mi Fu 米芾</strong> (1051–1107) was the most eccentric genius of the Northern Song — a calligrapher, painter, and connoisseur who reportedly bowed to strange rocks and addressed them as "Elder Brother." His contribution to landscape painting was the 米点皴 mǐ diǎn cūn (Mi dot texture stroke): instead of the conventional linear brushwork used to render mountain surfaces, he used horizontal dots of diluted ink, layered in varying density, to create atmospheric mists and soft mountain forms. The effect is of landscape seen through humidity — not the sharp contours of the northern mountains but the veiled, dissolving forms of the Yangzi delta that Mi Fu called home.</p>
+      <p><strong>Ni Zan 倪瓒</strong> (1301–1374) is the Yuan dynasty master whose influence on later Chinese landscape painting is perhaps greater than any single figure's. His compositions are austere to the point of severity: a cluster of rocks and bare trees in the foreground, a stretch of empty water, distant hills in the middle distance, and enormous blank sky above. There are almost never any human figures; the structures in his landscapes — a pavilion, a thatched shelter — are invariably empty. He described his own painting with characteristic directness: "I simply express the untrammeled spirit in my breast, that is all. Why should I care about whether it looks like the subject or not?" This statement became, in retrospect, the manifesto of abstract expressionism in Chinese painting.</p>
+      <p><strong>Shitao 石涛</strong> (1642–1707), born a prince of the Ming royal house and a refugee after the Qing conquest, is the most philosophically ambitious of the late Chinese painting masters. His treatise 画语录 Huà Yǔ Lù (Talks on Painting) is the most systematic attempt to theorize the nature of the brush stroke itself — what he calls the 一画 yī huà (One Stroke or Primal Line) — as the origin from which all paintings and all creation emerge. He argued against the slavish copying of ancient masters that had become the norm of orthodox 文人画, insisting instead on direct engagement with the natural world and the painter's own experience: 搜尽奇峰打草稿 "exhaust all strange peaks to make your drafts." His work is the most formally inventive in the entire Chinese painting tradition, combining intense naturalistic observation with radical compositional experiment.</p>
+    </div>
+
+    <span class="section-anchor" id="vocab"></span>
+    <div class="section-head">
+      <span class="sh-cn">词汇</span>
+      <span class="sh-py">cíhuì</span>
+      <span class="sh-en">Key Vocabulary</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+      <div class="card c-ochre">
+        <div class="card-head"><span class="tag-n">n</span> 气韵生动 qìyùn shēngdòng</div>
+        <p>Spirit resonance, life movement — Xie He first principle of painting, and the supreme criterion by which Chinese paintings are judged. A work with 气韵生动 has a quality of living presence that cannot be reduced to technical competence. It is the highest praise in Chinese art criticism.</p>
+      </div>
+      <div class="card c-teal">
+        <div class="card-head"><span class="tag-n">n</span> 留白 liúbái</div>
+        <p>Leaving white — the deliberate use of unpainted space as an active compositional element. Not emptiness but productive void: the space that allows forms to breathe, invites the viewer imagination, and embodies the Daoist principle that utility lies in emptiness.</p>
+      </div>
+      <div class="card c-sienna">
+        <div class="card-head"><span class="tag-n">n</span> 皴法 cūnfǎ</div>
+        <p>Texture stroke technique — the set of specialized brushwork methods used to render the surface of rocks and mountains. Different schools developed different 皴 techniques: axe-cut strokes 斧劈皴, hemp-fiber strokes 披麻皴, Mi dots 米点皴. The choice of texture stroke is a signature of regional and personal style.</p>
+      </div>
+      <div class="card c-violet">
+        <div class="card-head"><span class="tag-n">n</span> 四君子 sì jūnzǐ</div>
+        <p>Four Gentlemen — the four emblematic plants of the literati painting tradition: prunus plum 梅 (perseverance), orchid 兰 (secluded virtue), bamboo 竹 (resilience), chrysanthemum 菊 (dignified retirement). Together they map the principal Confucian virtues onto natural forms.</p>
+      </div>
+      <div class="card c-red">
+        <div class="card-head"><span class="tag-n">n</span> 意在笔先 yì zài bǐ xiān</div>
+        <p>The intention precedes the brush — the principle that a painter must have fully conceived the work before beginning to paint, because ink on xuan paper cannot be corrected. Applies equally to calligraphy. The visible stroke is the trace of an internal state that was complete before the brush touched paper.</p>
+      </div>
+    </div>
+
+    <footer class="page-footer">
+      <span class="footer-id">Field Notes on Chinese · <span>水墨画 shuǐmòhuà</span> · Arts &amp; Literature</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>
+<script src="../../scripts/toc-scroll.js"></script>

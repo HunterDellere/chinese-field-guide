@@ -1,43 +1,265 @@
 <!DOCTYPE html>
-<!-- {"type":"topic","category":"arts","status":"stub"} -->
+<!-- {"type":"topic","pinyin":"sòngcí","category":"arts","tags":["poetry","literature","classical","song","history","culture"],"status":"complete"} -->
 <html lang="zh-Hans">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>宋词 sòngcí — Field Notes on Chinese</title>
+<title>宋词 Sòngcí — Field Notes on Chinese</title>
+<meta name="description" content="宋词 Sòngcí: the Song dynasty lyric form, ci versus shi, named tune patterns, Li Qingzhao, Su Shi, Xin Qiji, and the split between graceful and heroic styles.">
+<meta name="theme-color" content="#1c1208">
+<link rel="alternate" type="application/rss+xml" title="Field Notes on Chinese" href="../../feed.xml">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>字</text></svg>">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600&family=Noto+Serif+SC:wght@300;400;600;700&family=Inconsolata:wght@300;400;500&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Noto+Serif+SC:wght@400;600;700&family=Inconsolata:wght@400;500&display=swap">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Noto+Serif+SC:wght@400;600;700&family=Inconsolata:wght@400;500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="../../style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"宋词 · Song Dynasty Lyric","description":"宋词 Sòngcí: the Song dynasty lyric form, ci versus shi, named tune patterns, Li Qingzhao, Su Shi, Xin Qiji, and the split between graceful and heroic styles.","url":"https://hunterdellere.github.io/chinese-field-guide/pages/arts/topic_songci.html","inLanguage":"en","author":{"@type":"Person","name":"Hunter Dellere"},"datePublished":"2026-04-19","dateModified":"2026-04-19","publisher":{"@type":"Organization","name":"Field Notes on Chinese"},"mainEntityOfPage":"https://hunterdellere.github.io/chinese-field-guide/pages/arts/topic_songci.html"}</script>
 </head>
 <body>
-<nav class="topnav">
-  <a href="../../index.html" class="topnav-brand">Field Notes on <span>Chinese</span></a>
-  <a href="../../index.html" class="topnav-back">← All Entries</a>
+
+<a class="skip-link" href="#main-content">Skip to content</a>
+
+<nav class="topnav" aria-label="Site">
+  <a href="../../index.html" class="topnav-brand" aria-label="Field Notes on Chinese — home">Field Notes on <span>Chinese</span></a>
+  <a href="../../index.html" class="topnav-back" aria-label="Back to all entries">← All Entries</a>
 </nav>
+
+<div class="reading-progress" aria-hidden="true"><div class="reading-progress-bar"></div></div>
+
 <button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
 <div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
   <aside class="sidebar" id="sidebar">
     <span class="toc-topic">宋词</span>
-    <span class="toc-topic-en">Song Lyric</span>
+    <span class="toc-topic-en">Song Dynasty Lyric</span>
+
     <div class="toc-divider"></div>
-    <span class="toc-label">Coming soon</span>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#form">
+        <span class="toc-cn">词体</span> The Ci Form
+        <span class="toc-sub">how ci differs from shi</span>
+      </a></li>
+      <li><a href="#wenwan">
+        <span class="toc-cn">婉约</span> The Graceful Style
+        <span class="toc-sub">Li Yu, Liu Yong, Li Qingzhao</span>
+      </a></li>
+      <li><a href="#liqingzhao">
+        <span class="toc-cn">李清照</span> Li Qingzhao
+        <span class="toc-sub">the finest voice in Song lyric</span>
+      </a></li>
+      <li><a href="#haofang">
+        <span class="toc-cn">豪放</span> The Heroic Style
+        <span class="toc-sub">Su Shi, Xin Qiji</span>
+      </a></li>
+      <li><a href="#poems">
+        <span class="toc-cn">名篇</span> Key Poems
+        <span class="toc-sub">passages that endured</span>
+      </a></li>
+      <li><a href="#vocab">
+        <span class="toc-cn">词汇</span> Key Vocabulary
+        <span class="toc-sub">cíhuì · terms to know</span>
+      </a></li>
+    </ul>
   </aside>
+
+  <!-- ═══ MAIN ═══ -->
   <main class="main">
+
     <header class="topic-hero">
-      <span class="topic-hero-eyebrow">Arts & Literature · 艺文 yìwén</span>
+      <span class="topic-hero-eyebrow">Arts &amp; Literature · 艺文 yìwén</span>
       <h1 class="topic-hero-title">宋词</h1>
-      <span class="topic-hero-title-py">sòngcí</span>
-      <p class="topic-hero-desc">The ci 词 form — music, meter, and the bittersweet mood of the Song dynasty.</p>
+      <span class="topic-hero-title-py">sòng cí<button type="button" class="audio-btn" data-audio="宋词" aria-label="Play pronunciation">🔊</button></span>
+      <p class="topic-hero-desc">The poem that sings — fixed tune patterns, named meters, and three masters who defined what the Chinese lyric could feel.</p>
     </header>
-    <div class="scholar" data-glyph="宋">
-      <div class="scholar-label">待完成 dài wánchéng · Stub</div>
-      <p>This entry is a placeholder. The authoring queue is in <code>README.md</code>.</p>
+
+    <span class="section-anchor" id="form"></span>
+    <div class="section-head">
+      <span class="sh-cn">词体</span>
+      <span class="sh-py">cí tǐ</span>
+      <span class="sh-en">The Ci Form — How It Differs from Shi</span>
+      <span class="sh-rule"></span>
     </div>
+
+    <div class="scholar" data-glyph="詞">
+      <div class="scholar-label">文体分析 wéntǐ fēnxī · Genre Analysis</div>
+      <p>To understand 宋词 Sòngcí — Song dynasty lyrics — you first need to understand what they are not. Classical Chinese poetry divides broadly into two major formal traditions: 诗 shī (regulated verse, with fixed line lengths, tonal patterns, and parallelism requirements) and 词 cí (lyrics written to specific musical tunes, with variable line lengths and different tonal rules). The 诗 tradition reaches its height in the Tang dynasty; the 词 tradition reaches its height in the Song. They are not simply longer and shorter versions of the same thing. They are different instruments.</p>
+      <p>A 词 is written to a named tune pattern 词牌 cípái. There are several hundred standard tune patterns in the classical repertoire, each with its own fixed structure: a specified number of lines, each line with a fixed syllable count, the tonal contour of each syllable prescribed, and the rhyme scheme fixed. When a poet writes a poem to the tune 水调歌头 Shuǐdiào Gētóu, for instance, every word must conform to the pattern of that tune — the syllable count per line, the tonal pattern, the required rhymes are all set. The poet provides the words; the music provides the structure. Eventually, the original tunes were largely lost, but the verbal patterns — the 词谱 cípǔ (tune syllabary) — were preserved and continued to be used as structural templates for verse composition long after the music had disappeared.</p>
+      <p>This musical origin had significant aesthetic consequences. Because the tunes varied in mood and tempo — some stately and ceremonial, some light and playful, some mournful and slow — the tune pattern itself carried an emotional register before the poet wrote a word. A poem written to 钗头凤 Chāi Tóu Fèng (Phoenix Hairpin) would be expected to carry a certain kind of aching lyricism; a poem written to 满江红 Mǎn Jiāng Hóng (River All in Red) would carry martial urgency. The poet worked within and against these expectations. The history of the 词 form is partly the history of poets using unexpected tune patterns for unexpected emotional content — Li Qingzhao using a slow, mournful tune to describe grief; Su Shi using a vigorous tune to meditate on history rather than on love.</p>
+      <p>The tune patterns vary enormously in length. Short ones (小令 xiǎolìng) may have as few as sixteen characters; long ones (慢词 màncí or 长调 chángdiào) may exceed one hundred characters. The extended long form allowed for a kind of lyric development impossible in regulated verse: the poem could unfold an argument, build an image, shift emotional register across its two sections 上片 / 下片 (upper stanza / lower stanza). This structural division into two stanzas — which most tune patterns observe — gave the 词 its characteristic two-part movement: situation established in the first stanza, emotional or philosophical turn in the second.</p>
+    </div>
+
+    <div class="pattern">
+      <span class="label">词与诗的比较 cí yǔ shī de bǐjiào · Ci vs. Shi at a Glance</span>
+      <strong>诗 shī (Regulated Verse)</strong> → fixed 5- or 7-character lines throughout · tonal pattern and parallelism required · Tang dynasty height · subjects: nature, travel, friendship, politics<br>
+      <strong>词 cí (Lyric)</strong> → variable line lengths, determined by tune pattern · two-stanza structure (上片/下片) · Song dynasty height · subjects: love, time, exile, seasonal melancholy<br>
+      <strong>Tune patterns 词牌</strong> → 小令 short (≤58 characters) · 中调 medium (59–90) · 长调 long (≥91) · 水调歌头: 95 characters · 满江红: 93 characters
+    </div>
+
+    <span class="section-anchor" id="wenwan"></span>
+    <div class="section-head">
+      <span class="sh-cn">婉约派</span>
+      <span class="sh-py">wǎnyuē pài</span>
+      <span class="sh-en">The Graceful Style — Li Yu, Liu Yong &amp; the Lyric Mainstream</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="婉">
+      <div class="scholar-label">风格分析 fēnggé fēnxī · Stylistic Analysis</div>
+      <p>Classical Chinese criticism divides the 词 tradition into two broad stylistic camps: 婉约 wǎnyuē (graceful, delicate, restrained) and 豪放 háofàng (heroic, expansive, bold). This is a simplification — many major poets wrote in both modes, and the distinction was established retrospectively by critics — but it captures a genuine difference in ambition and register that runs through the entire 词 tradition.</p>
+      <p>The 婉约 tradition is the older and numerically dominant one. It encompasses the mainstream of the 词 form from its origins in late Tang entertainment culture through its first great flowering in the Five Dynasties period (907–960), when the last king of the Southern Tang state, Li Yu 李煜 (937–978), transformed the form from entertainment verse into genuine lyric art. Li Yu's early poems are about the pleasures of court life — beautiful women, music, spring gardens. His later poems, written after his capture by the Song dynasty and his captivity in Kaifeng, are about loss, exile, grief, and the absolute pastness of the past. His poem 虞美人 Yú Měirén, written shortly before his execution, ends with the famous couplet: "When will there be an end to the spring flowers and autumn moon? / How much of the past do I know? / Last night the east wind came again to my small tower — / I cannot bear to look toward my old kingdom in the bright moonlight. // The carved railings and jade steps should still be there, / Only the faces of the people have grown old. / Ask how great my sorrow is — / It is like the spring river flowing east." The image of sorrow as a river became one of the defining metaphors of the 词 tradition.</p>
+      <p>The great Song dynasty representative of the 婉约 style before Li Qingzhao is Liu Yong 柳永 (c. 987–1053), who was the first major poet to specialize in the long form 慢词 and who wrote in a more vernacular, popular register than the court poets who preceded him. Liu Yong's reputation in his lifetime was enormous — his lyrics were sung in every teahouse and entertainment quarter in the empire — and his influence on the form's development was decisive. He showed that the 词 could handle extended lyric development, complex emotional modulation, and a more explicitly popular subject matter than the refined entertainment culture of the early form had allowed.</p>
+    </div>
+
+    <span class="section-anchor" id="liqingzhao"></span>
+    <div class="section-head">
+      <span class="sh-cn">李清照</span>
+      <span class="sh-py">lǐ qīngzhào</span>
+      <span class="sh-en">Li Qingzhao — The Finest Voice in Song Lyric</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="照">
+      <div class="scholar-label">诗人传记 shīrén zhuànjì · Poet Biography</div>
+      <p>Li Qingzhao 李清照 (1084 – c. 1155) is the greatest female poet in the classical Chinese tradition and, by many critical accounts, the finest of all the 词 poets regardless of gender. She was born into a scholarly family in Jinan 济南, Shandong, received an unusually thorough education in literature and the arts, and married Zhao Mingcheng 赵明诚, an antiquarian and collector of bronzes and inscriptions, with whom she shared an exceptionally productive and apparently happy intellectual partnership for over two decades. Her early poems reflect this life of cultivated ease: a poem about drowsing through an autumn afternoon, a poem about being drunk on chrysanthemum wine in autumn and struggling to row a boat home through the lotus flowers, a poem about missing her husband while he is away. These early 词 are distinguished by their precision of observation, their technical command of the form, and a quality of physical specificity — the exact sensation of autumn chill, the exact color of late chrysanthemums — that sets her apart from the more abstractly conventional lyric tradition she inherited.</p>
+      <p>The Jurchen Jin dynasty invaded the northern Song territories in 1127, and Li Qingzhao's life broke in two. She and Zhao Mingcheng fled south with their collection; Zhao Mingcheng died in 1129, still in his early forties. Li Qingzhao spent the rest of her long life in the south, a refugee, having lost most of the collection she and her husband had assembled over a lifetime, surrounded by a Song court that refused to attempt reconquest of the north. Her late poems are among the most powerful expressions of grief and exile in Chinese literature. The 词 she wrote to the tune 声声慢 Shēngshēng Màn (Slow, Slow Song) opens with one of the most technically virtuosic passages in classical Chinese poetry: "寻寻觅觅，冷冷清清，凄凄惨惨戚戚" — fourteen consecutive disyllabic reduplicated characters, seven rhyming pairs, painting a state of desolate searching that builds its emotional effect through pure phonetic accumulation before the poem has said anything explicitly.</p>
+      <p>Li Qingzhao also wrote literary criticism. Her essay 词论 Cí Lùn is the most significant piece of 词 criticism by a major practitioner, and its judgments on her contemporaries and predecessors are characteristically sharp. She argues that the 词 must be distinctly different from 诗 — it must have its own character and not simply borrow the forms and subjects of regulated verse. She criticizes Su Shi, among others, for writing 词 that are essentially 诗 in different dress. Whether or not one accepts her critical argument, the essay demonstrates the seriousness with which she approached the 词 as a distinct literary form with its own demands.</p>
+    </div>
+
+    <span class="section-anchor" id="haofang"></span>
+    <div class="section-head">
+      <span class="sh-cn">豪放派</span>
+      <span class="sh-py">háofàng pài</span>
+      <span class="sh-en">The Heroic Style — Su Shi &amp; Xin Qiji</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="豪">
+      <div class="scholar-label">风格对比 fēnggé duìbǐ · Stylistic Contrast</div>
+      <p>Su Shi 苏轼 (1037–1101), known by his literary name Su Dongpo 苏东坡, is the most towering literary figure of the Song dynasty: poet, essayist, calligrapher, painter, official, gastronome, and Buddhist layman of considerable attainment. He was also, repeatedly, a man in political difficulty — his career followed the oscillations of faction politics between the reform party of Wang Anshi 王安石 and the conservative reaction, and he spent significant periods in provincial exile. It was in exile at Huangzhou 黄州 that he wrote his most celebrated 词.</p>
+      <p>Su Shi's 念奴娇·赤壁怀古 (Thoughts on the Red Cliff, to the tune Niannujiao) is the exemplary text of the 豪放 style. Standing on the Red Cliff above the Yangzi River — traditionally identified, wrongly, as the site of the famous Battle of Red Cliff of 208 CE — Su Shi reflects on the heroes of the past, on the great military commander Zhou Yu who won that battle at age thirty-four, and on his own aging, bookish, exiled self. The poem ends: "Human life is like a dream — let me pour a libation to the river and the moon." The gesture is enormous in its range: from the historical grandeur of ancient battles to the smallness of one man with a cup of wine, from ambition to acceptance, from the time of heroes to the time of reflection. This is what the 豪放 style does at its best: it uses the lyric form to think historically, philosophically, on a scale that the more intimate 婉约 tradition never attempts.</p>
+      <p>Xin Qiji 辛弃疾 (1140–1207) is the other great 豪放 master, writing in very different historical circumstances. Born in the north after the Jin conquest, he led a militia against the Jin and defected south to the Song court at age twenty-three, carrying the heads of several Jin officers as credentials. He spent the rest of his life in the south, repeatedly offered minor posts, repeatedly sidelined, never given the military command he desperately wanted to lead a reconquest of the north. His 词 burn with a frustrated martial energy that the more cultivated Su Shi never quite needed to express. His poem 破阵子·为陈同甫赋壮词以寄之 (Warrior, written for Chen Tongfu) describes a dream of the military life: the drinking with comrades, the sound of horns, the moment of battle, the possibility of receiving rewards from the emperor — and then the waking: "but now I am gray-haired." The structure of dream and waking, of what was imagined versus what is actual, gives his 词 their characteristic tension.</p>
+    </div>
+
+    <span class="section-anchor" id="poems"></span>
+    <div class="section-head">
+      <span class="sh-cn">名篇选读</span>
+      <span class="sh-py">míngpiān xuǎndú</span>
+      <span class="sh-en">Key Poems — Passages That Endured</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="chengyu-grid">
+
+      <div class="cy">
+        <span class="cy-cn">寻寻觅觅，冷冷清清，凄凄惨惨戚戚。</span>
+        <span class="cy-py">xún xún mì mì, lěng lěng qīng qīng, qī qī cǎn cǎn qī qī.</span>
+        <span class="cy-en">Searching, searching, seeking, seeking — cold and desolate, mournful and bleak, wretched and sorrowful.</span>
+        <span class="cy-note">Opening of Li Qingzhao's 声声慢 (Slow, Slow Song), written after her husband's death and the loss of the north. The fourteen consecutive reduplicated syllables are technically dazzling and have no equivalent in any other Chinese poem. Each pair escalates the emotional register: from active searching to cold emptiness to inconsolable grief. It is among the most analyzed openings in classical Chinese poetry.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">大江东去，浪淘尽，千古风流人物。</span>
+        <span class="cy-py">dà jiāng dōng qù, làng táo jìn, qiān gǔ fēngliú rénwù.</span>
+        <span class="cy-en">The great river flows east; its waves have washed away all the brilliant heroes of a thousand ages.</span>
+        <span class="cy-note">Opening of Su Shi's 念奴娇·赤壁怀古, the most celebrated poem of the 豪放 style. The image of the river as time, washing away all human greatness, is both commonplace and inexhaustible. The phrase 千古风流人物 qiān gǔ fēngliú rénwù (brilliant figures of a thousand ages) is still in common use in Chinese to describe historical heroes.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">明月几时有？把酒问青天。</span>
+        <span class="cy-py">míng yuè jǐ shí yǒu? bǎ jiǔ wèn qīng tiān.</span>
+        <span class="cy-en">When did the bright moon first appear? Cup in hand, I ask the blue sky.</span>
+        <span class="cy-note">Opening of Su Shi's 水调歌头 (Prelude to Water Melody), written on the Mid-Autumn Festival while missing his younger brother Su Zhe. The poem ends with the famous couplet: "We wish each other long life — / Though a thousand miles apart, we share this moon." It is among the most memorized poems in the Chinese literary tradition and is still recited at Mid-Autumn Festival.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">众里寻他千百度，蓦然回首，那人却在灯火阑珊处。</span>
+        <span class="cy-py">zhòng lǐ xún tā qiān bǎi dù, mò rán huí shǒu, nà rén què zài dēnghuǒ lánshān chù.</span>
+        <span class="cy-en">I searched for her a thousand times among the crowd — then suddenly turned, and there she was, where the lantern light was fading.</span>
+        <span class="cy-note">Closing lines of Xin Qiji's 青玉案·元夕, describing a Lantern Festival scene. The Qing dynasty scholar Wang Guowei cited this couplet as the third and highest of the "three stages of great achievement" in scholarship and art — the moment when long effort suddenly yields revelation. The image of the longed-for figure found precisely where the light is dim has become a touchstone for the Chinese idea of the insight that comes after exhaustion.</span>
+      </div>
+
+    </div>
+
+    <span class="section-anchor" id="vocab"></span>
+    <div class="section-head">
+      <span class="sh-cn">词汇</span>
+      <span class="sh-py">cíhuì</span>
+      <span class="sh-en">Key Vocabulary</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+      <div class="card c-ochre">
+        <div class="card-head"><span class="tag-n">n</span> 词牌 cípái</div>
+        <p>Tune pattern — the named musical template to which a 词 is written. Specifies the number of lines, the syllable count of each line, the tonal contour, and the rhyme scheme. Several hundred standard tune patterns exist in the classical repertoire.</p>
+      </div>
+      <div class="card c-teal">
+        <div class="card-head"><span class="tag-n">n</span> 婉约 wǎnyuē</div>
+        <p>Graceful and restrained — the dominant stylistic tradition of the 词, characterized by delicate emotion, intimate scale, and subjects of love, beauty, and seasonal melancholy. Li Yu, Liu Yong, and Li Qingzhao are its central figures.</p>
+      </div>
+      <div class="card c-sienna">
+        <div class="card-head"><span class="tag-n">n</span> 豪放 háofàng</div>
+        <p>Heroic and expansive — the alternative 词 style, characterized by large-scale historical and philosophical subjects, martial energy, and a willingness to use the lyric form for ideas rather than feelings alone. Su Shi and Xin Qiji are its defining practitioners.</p>
+      </div>
+      <div class="card c-violet">
+        <div class="card-head"><span class="tag-n">n</span> 上片 / 下片 shàng piàn / xià piàn</div>
+        <p>Upper stanza / lower stanza — the two-part structure of most 词 tune patterns. The upper stanza typically establishes a scene or situation; the lower stanza develops a turn, emotional shift, or philosophical reflection. Analogous to the octave/sestet structure of the Italian sonnet.</p>
+      </div>
+      <div class="card c-ochre">
+        <div class="card-head"><span class="tag-n">n</span> 小令 xiǎolìng</div>
+        <p>Short lyric form — tune patterns of 58 characters or fewer. The most concentrated 词 form, requiring the greatest compression. Contrasted with 长调 chángdiào or 慢词 màncí, the extended long forms of 91 characters or more.</p>
+      </div>
+      <div class="card c-red">
+        <div class="card-head"><span class="tag-n">n</span> 易安体 yì'ān tǐ</div>
+        <p>The "Yi-an style" — the distinctive lyric mode of Li Qingzhao (whose courtesy name was Yi-an 易安). Characterized by colloquial precision, physical specificity, and a technically innovative use of reduplicated binomes to convey emotional states. One of the named styles in classical Chinese poetic criticism.</p>
+      </div>
+    </div>
+
+    
+    <aside class="related" aria-labelledby="related-label">
+      <span class="related-label" id="related-label">Related entries</span>
+      <div class="related-list">
+      <a class="related-link" href="topic_chuci.html"><span class="rl-cn">楚辞</span><span class="rl-py">chǔcí</span><span class="rl-en">Songs of Chu</span></a>
+      <a class="related-link" href="topic_shijing.html"><span class="rl-cn">诗经</span><span class="rl-py">shījīng</span><span class="rl-en">Book of Songs</span></a>
+      <a class="related-link" href="topic_luxun.html"><span class="rl-cn">鲁迅</span><span class="rl-py">lǔxùn</span><span class="rl-en">Lu Xun</span></a>
+      <a class="related-link" href="topic_kunqu.html"><span class="rl-cn">昆曲</span><span class="rl-py">kūnqǔ</span><span class="rl-en">Kun Opera</span></a>
+      <a class="related-link" href="topic_wenfangsibao.html"><span class="rl-cn">文房四宝</span><span class="rl-py">wénfáng sìbǎo</span><span class="rl-en">Four Treasures of the Study</span></a>
+      </div>
+    </aside>
+    <nav class="prev-next" aria-label="Within this section">
+      <a class="pn-link pn-prev" href="topic_sidaimingzhu.html" rel="prev">
+        <span class="pn-arrow">←</span>
+        <span class="pn-meta">
+          <span class="pn-label">Previous</span>
+          <span class="pn-title"><span class="pn-cn">四大名著</span> <span class="pn-py">sì dà míngzhù</span></span>
+        </span>
+      </a>
+      <a class="pn-link pn-next" href="topic_wenfangsibao.html" rel="next">
+        <span class="pn-arrow">→</span>
+        <span class="pn-meta">
+          <span class="pn-label">Next</span>
+          <span class="pn-title"><span class="pn-cn">文房四宝</span> <span class="pn-py">wénfáng sìbǎo</span></span>
+        </span>
+      </a>
+    </nav>
+
     <footer class="page-footer">
-      <span class="footer-id">Field Notes on Chinese · <span>宋词</span> · topic_songci.html</span>
+      <span class="footer-id">Field Notes on Chinese · <span>宋词 sòngcí</span> · Arts &amp; Literature</span>
+      <a class="footer-errata" href="mailto:hunter@bootle.io?subject=Field%20Notes%20correction%3A%20topic_songci" rel="noopener">Suggest a correction</a>
       <a href="../../index.html" class="footer-back">← All Entries</a>
     </footer>
+
   </main>
 </div>
+<script src="../../scripts/toc-scroll.js"></script>
+
+<script src="../../scripts/toc-scroll.js"></script>
+<script src="../../scripts/enhance.js" defer></script>
+
 </body>
 </html>

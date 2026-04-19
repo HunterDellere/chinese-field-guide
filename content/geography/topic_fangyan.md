@@ -1,0 +1,172 @@
+---
+type: 'topic'
+category: 'geography'
+status: 'complete'
+title: '方言 · The Dialect Map'
+desc: 'Chinese is not one language but a family — seven major dialect groups whose speakers cannot understand one another, united by a shared written script and divided by a history of geography and migration.'
+metaDesc: "方言 Fāngyán: Chinese dialects — Mandarin, Cantonese, Hokkien, Wu, Hakka, Gan, Xiang, mutual intelligibility, Putonghua standardization, and topolects vs. dialects."
+pageTitle: '方言 · The Dialect Map'
+tags:
+  - 'language'
+  - 'geography'
+  - 'culture'
+  - 'history'
+  - 'identity'
+  - 'vocabulary'
+  - 'writing'
+updated: '2026-04-19'
+pinyin: 'Fāngyán'
+---
+
+<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+    <span class="toc-topic">方言</span>
+    <span class="toc-topic-en">The Dialect Map</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#problem">
+        <span class="toc-cn">方言问题</span> One Script, Many Tongues
+        <span class="toc-sub">what "Chinese" actually means</span>
+      </a></li>
+      <li><a href="#groups">
+        <span class="toc-cn">七大方言</span> The Seven Groups
+        <span class="toc-sub">Mandarin · Cantonese · Wu · Min · Hakka · Gan · Xiang</span>
+      </a></li>
+      <li><a href="#intelligibility">
+        <span class="toc-cn">互通性</span> Mutual Intelligibility
+        <span class="toc-sub">who can understand whom — and who cannot</span>
+      </a></li>
+      <li><a href="#putonghua">
+        <span class="toc-cn">普通话</span> The Standard
+        <span class="toc-sub">standardization, politics, and Putonghua</span>
+      </a></li>
+      <li><a href="#written">
+        <span class="toc-cn">书写与口语</span> Written vs. Spoken
+        <span class="toc-sub">the gap between text and speech</span>
+      </a></li>
+      <li><a href="#vocab">
+        <span class="toc-cn">词汇</span> Key Vocabulary
+        <span class="toc-sub">cíhuì · terms to know</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">Geography · 地理 dìlǐ</span>
+      <h1 class="topic-hero-title">方言</h1>
+      <span class="topic-hero-title-py">Fāngyán</span>
+      <p class="topic-hero-desc">Chinese is not one language but a family — seven major dialect groups whose speakers cannot understand one another, united by a shared written script and divided by a history of geography and migration.</p>
+    </header>
+
+    <section class="section-anchor" id="problem">
+      <h2 class="section-head">One Script, Many Tongues · 一字多音 yī zì duō yīn</h2>
+      <div class="scholar" data-glyph="言">
+        <div class="scholar-label">方言还是语言？· Dialect or Language?</div>
+        <p>The term <strong>方言</strong> (fāngyán) literally means "square/regional speech" — local or regional varieties of the language. Its use to describe Cantonese, Shanghainese, Hokkien, and Hakka implies that these are dialects of a single Chinese language, mere regional variations on a common tongue. This is politically convenient and linguistically contested. A speaker of Mandarin who has had no exposure to Cantonese cannot understand a word of Cantonese conversation; the phonological systems, tonal inventories, and vocabulary stocks are so different that comprehension is essentially zero. By the standard criterion used in linguistics — mutual intelligibility — Cantonese and Mandarin are separate languages. The same applies to the relationship between Mandarin and Wu (Shanghainese), and between Mandarin and Min (Hokkien/Fujianese).</p>
+        <p>The political calculation that labels these "dialects" rather than "languages" is the same one that labels all written Chinese script a single language: the written characters serve as a shared medium across all variety groups, and the narrative of Chinese linguistic unity supports the narrative of Chinese cultural and political unity. This is not a deceptive calculation — it reflects a genuine feature of Chinese linguistic history, in which the classical written language served as a shared medium for educated elites across enormous geographic and phonological differences for two thousand years. But it should not obscure the fact that the spoken varieties are, in the daily experience of their speakers, genuinely different forms of communication.</p>
+        <p>Western linguists often use the term <strong>topolect</strong> — coined by scholar Victor Mair as a translation of 方言 that avoids the dialect/language binary — to sidestep the political dimension while acknowledging the geographic specificity of each variety. The topolect framework treats each variety (Cantonese, Wu, Min, etc.) as a distinct regional speech form without pre-judging whether it is a "dialect" of Chinese or a "language" in its own right. This is the approach used here.</p>
+      </div>
+    </section>
+
+    <section class="section-anchor" id="groups">
+      <h2 class="section-head">The Seven Groups · 七大方言 qī dà fāngyán</h2>
+      <div class="scholar" data-glyph="语">
+        <div class="scholar-label">官话 · 粤 · 吴 · 闽 · 客 · 赣 · 湘</div>
+        <p><strong>官话 Guānhuà</strong> (Mandarin, literally "official speech") is by far the largest group, spoken by roughly 70% of the Chinese population across northern and southwestern China. Its geographic spread reflects the historical movement of population from the northern heartland — the Yellow River basin — outward and southward. Within Guānhuà there is substantial internal variation: Beijing Mandarin, Sichuan Mandarin, and Yunnan Mandarin are mutually intelligible but phonologically distinct. The standardized form of Mandarin — <strong>普通话</strong> (Pǔtōnghuà, "common speech") — is based primarily on the Beijing dialect with vocabulary and grammar drawn from the broader northern literary tradition.</p>
+        <p><strong>粤语 Yuèyǔ</strong> (Cantonese) is spoken in Guangdong province, Hong Kong, Macau, and by overseas Chinese communities in North America, the UK, Southeast Asia, and Australia. It has nine tones versus Mandarin's four, preserves several features of Middle Chinese phonology that Mandarin has lost (including final consonants -p, -t, -k), and has a substantial literary and pop cultural tradition. It is the prestige topolect of southern China and the language of one of the most economically significant and culturally productive regions in Chinese history. Approximately 80 million speakers.</p>
+        <p><strong>吴语 Wúyǔ</strong> (Wu, including Shanghainese) is spoken across the Yangtze delta — Jiangsu south of the river, Zhejiang, and Shanghai. It has approximately 80 million speakers and a long literary tradition. Shanghainese (上海话 Shànghǎihuà) is the prestige variety of Wu and the topolect most familiar to non-Wu speakers. Wu is characterized by its preservation of voiced initials (sounds like /b/, /d/, /g/ that have become unvoiced in Mandarin) and its complex tone sandhi system — where tones change depending on neighboring syllables.</p>
+        <p><strong>闽语 Mǐnyǔ</strong> (Min) is the most internally diverse of the seven groups — its main varieties (Hokkien/Minnan, Teochew, Fuzhou) are not mutually intelligible with each other, let alone with Mandarin. Min is spoken in Fujian province, Taiwan (where it is called Taiwanese or 台語 Táiyǔ), and by the largest overseas Chinese community in Southeast Asia — the Hokkien-speaking merchants who built the Chinese diasporas of Malaysia, Singapore, Indonesia, and the Philippines in the eighteenth and nineteenth centuries. Hokkien preserves final stops (-p, -t, -k) that Mandarin has eliminated and has a vocabulary base with significant early Sinitic features. Approximately 50 million speakers of all Min varieties.</p>
+        <p><strong>客家话 Kèjiāhuà</strong> (Hakka — literally "guest family speech") is spoken by a people defined by migration: the Hakka are the descendants of Han Chinese who moved from northern China to the mountainous interior of southern China over a series of migrations from the Tang to the Ming dynasty, and whose subsequent migrations carried them to Taiwan, Southeast Asia, and the diaspora. The Hakka identity is particularly strong — the group maintained a distinct cultural and linguistic identity across centuries of living as minorities in regions dominated by other topolect speakers. Approximately 40 million speakers.</p>
+        <p><strong>赣语 Gànyǔ</strong> (Gan) is spoken primarily in Jiangxi province. It has approximately 20 million speakers and is intermediate in some features between Mandarin and Wu. It is the least internationally prominent of the seven groups and is sometimes considered endangered at the prestige level by the advance of Putonghua into Jiangxi's educational and media landscape.</p>
+        <p><strong>湘语 Xiāngyǔ</strong> (Xiang) is spoken in Hunan province, with approximately 36 million speakers. It is subdivided into Old Xiang (which preserves voiced initials and is less influenced by Mandarin) and New Xiang (which has been substantially Mandarinized). Mao Zedong's famously strong Hunan accent — his Mandarin is said to have been heavily colored by Xiang phonology — made Xiang briefly the most listened-to topolect in China during the Cultural Revolution.</p>
+      </div>
+
+      <div class="pattern">
+        <span class="label">七大方言一览 · The Seven Groups at a Glance</span>
+        <strong>官话 Guānhuà (Mandarin)</strong> → ~70% of Chinese speakers · North &amp; Southwest China · basis of Putonghua<br>
+        <strong>粤语 Yuèyǔ (Cantonese)</strong> → ~80 million · Guangdong, HK, Macau, diaspora · 9 tones<br>
+        <strong>吴语 Wúyǔ (Wu/Shanghainese)</strong> → ~80 million · Yangtze delta, Shanghai, Zhejiang · voiced initials<br>
+        <strong>闽语 Mǐnyǔ (Min/Hokkien)</strong> → ~50 million · Fujian, Taiwan, SE Asia · most internally diverse<br>
+        <strong>客家话 Kèjiāhuà (Hakka)</strong> → ~40 million · S. China mountains, Taiwan, diaspora · migration-defined<br>
+        <strong>赣语 Gànyǔ (Gan)</strong> → ~20 million · Jiangxi province<br>
+        <strong>湘语 Xiāngyǔ (Xiang)</strong> → ~36 million · Hunan province · Mao's native topolect
+      </div>
+    </section>
+
+    <section class="section-anchor" id="intelligibility">
+      <h2 class="section-head">Mutual Intelligibility · 互通性 hùtōng xìng</h2>
+      <div class="scholar" data-glyph="通">
+        <div class="scholar-label">谁能听懂谁？· Who Can Understand Whom?</div>
+        <p>The mutual intelligibility question is the quickest way to grasp the actual scale of topolect diversity. A native Mandarin speaker visiting Guangzhou with no Cantonese exposure: comprehension is zero. The same speaker in Shanghai with a Wu-speaking taxi driver: comprehension is zero. In Fujian with an older Hokkien speaker: zero. The shared characters help with written communication but do nothing for spoken understanding — and the spoken language is where daily life happens.</p>
+        <p>Within the seven groups there is more variation. A Beijing Mandarin speaker can follow Sichuan Mandarin with some effort and exposure — the differences are accent and a handful of vocabulary items rather than a distinct phonological system. An older-generation Cantonese speaker may have some passive understanding of Taishanese (台山话 Tāishānhuà), another Yue variety, but not of Shanghainese Wu. The Hokkien varieties of Fujian and Taiwan share enough features for communication, but Teochew and Hokkien are distinct enough to cause real comprehension problems.</p>
+        <p>What unites all speakers of all topolects is the written standard. A person who can read Chinese characters can read texts written by speakers of any other Chinese topolect — because the writing system represents meaning rather than sound, and all topolects have been adapted to use the same characters for the same concepts (with some variation and some unique characters in Cantonese writing for specifically Cantonese vocabulary). This is why the political claim of a single Chinese language is not entirely wrong — there is a real sense in which the written language is shared, even if the spoken ones are not.</p>
+      </div>
+    </section>
+
+    <section class="section-anchor" id="putonghua">
+      <h2 class="section-head">The Standard · 普通话 Pǔtōnghuà</h2>
+      <div class="scholar" data-glyph="普">
+        <div class="scholar-label">标准化的政治 · The Politics of Standardization</div>
+        <p><strong>普通话</strong> (Pǔtōnghuà, "common speech") is the official standard spoken form of Chinese used in the People's Republic of China. The name itself is ideologically intentional — not "Beijing dialect" or "Mandarin" (官话 guānhuà, "officials' speech," which carries both geographic and class connotations) but "common speech" — neutral, accessible, the property of no single region or class. It is based on the phonology of Beijing Mandarin with vocabulary and grammar drawn from the broader northern literary tradition and was formalized as the national standard in 1956.</p>
+        <p>Taiwan uses the same spoken standard under the name <strong>國語</strong> (Guóyǔ, "national language") — the term the Republican government used before 1949. Singapore uses <strong>华语</strong> (Huáyǔ, "Chinese speech") to refer to Mandarin, reflecting the city-state's specific linguistic politics. The standard is the same in all three cases, differing mainly in some vocabulary, in the use of traditional versus simplified characters in writing, and in the politically laden choice of what to call it.</p>
+        <p>The spread of Putonghua since 1949 and particularly since the 1980s represents one of the most consequential linguistic standardization projects in human history. Universal Putonghua education in schools, Putonghua-only instruction mandated in an increasing number of regions, and Putonghua in all national broadcast media have produced a generation of Chinese speakers for whom the standard is either their first language or a language nearly indistinguishable from it. The success of this project is also its cost: topolect vitality is in measurable decline in younger generations across China, most dramatically in urban areas where Putonghua provides all the advantages.</p>
+      </div>
+    </section>
+
+    <section class="section-anchor" id="written">
+      <h2 class="section-head">Written vs. Spoken · 书面语与口语 shūmiànyǔ yǔ kǒuyǔ</h2>
+      <div class="scholar" data-glyph="文">
+        <div class="scholar-label">书面语 · 口语 · The Gap Between Text and Speech</div>
+        <p>One of the most distinctive features of the Chinese linguistic situation is the gap between written and spoken registers — a gap much wider than in most major languages. Classical Chinese (文言文 wényánwén) was the written standard for two thousand years and was already diverging from spoken language during the Han dynasty. A document written in classical Chinese in the Tang dynasty (618–907) was not a transcription of how people spoke — it was a learned register, acquired through education, modeled on ancient texts, and used for formal writing by elites across all topolect regions. A Cantonese official and a northern Mandarin speaker could exchange formal documents in classical Chinese without difficulty, even though their spoken languages were mutually incomprehensible.</p>
+        <p>The May Fourth Movement of 1919 produced a push for written vernacular Chinese (白话文 báihuàwén) — writing that more closely followed spoken Mandarin, eliminating the learned obscurity of classical Chinese. The success of this movement transformed Chinese literature, journalism, and eventually official writing. But the vernacular standard that won was Mandarin-based, leaving speakers of other topolects in a position where the "vernacular" written language was still a second register learned from education rather than a transcription of their mother tongue.</p>
+        <p>Cantonese writing represents the most developed exception to this pattern. Cantonese has an extensive system of written representation — including characters unique to Cantonese (like 係 haih, "is") and standard characters used with Cantonese-specific readings and meanings — that allows Cantonese to be written as it is spoken. This written Cantonese appears in social media, comic books, informal correspondence, and advertising throughout Hong Kong and Guangdong. It is not taught in schools as a standard, but its existence demonstrates that the claim that Chinese characters can only represent Mandarin is wrong. The other major topolects have similar capabilities but less developed written traditions for the vernacular.</p>
+      </div>
+    </section>
+
+    <section class="section-anchor" id="vocab">
+      <h2 class="section-head">Key Vocabulary · 词汇 cíhuì</h2>
+      <div class="cards">
+        <div class="card c-ochre">
+          <div class="card-head"><span class="tag-n">n</span> 普通话 Pǔtōnghuà</div>
+          <p>Common speech — the official standard spoken Mandarin of the PRC, based on Beijing phonology with northern literary vocabulary. Taught in all schools, used in all national broadcast media. The corresponding terms in Taiwan (國語 Guóyǔ) and Singapore (华语 Huáyǔ) refer to the same spoken standard.</p>
+        </div>
+        <div class="card c-teal">
+          <div class="card-head"><span class="tag-n">n</span> 方言 fāngyán</div>
+          <p>Topolect, regional speech — the Chinese term for what English often calls "dialect." Applied to the major regional speech varieties: Cantonese, Wu, Min, Hakka, Gan, Xiang. The term implies these are "dialects" of Chinese rather than distinct languages, a classification that is politically meaningful but linguistically contested.</p>
+        </div>
+        <div class="card c-sienna">
+          <div class="card-head"><span class="tag-n">n</span> 闽南语 Mǐnnányǔ</div>
+          <p>Southern Min — the Hokkien topolect spoken in southern Fujian, Taiwan (as 台語 Táiyǔ or 台灣話 Táiwānhuà), and across Southeast Asian Chinese communities in Malaysia, Singapore, Indonesia, and the Philippines. One of the most geographically dispersed Chinese topolects due to historical Fujianese maritime migration.</p>
+        </div>
+        <div class="card c-violet">
+          <div class="card-head"><span class="tag-n">n</span> 白话文 báihuàwén</div>
+          <p>Vernacular written Chinese — the written style based on spoken Mandarin, advocated by the May Fourth Movement (1919) as a replacement for classical Chinese (文言文 wényánwén). The success of the vernacular movement transformed Chinese literature and journalism and is the basis of modern standard written Chinese.</p>
+        </div>
+        <div class="card c-red">
+          <div class="card-head"><span class="tag-n">n</span> 客家人 Kèjiārén</div>
+          <p>The Hakka people — literally "guest family people," so named because they arrived in the regions where they settled as migrants, after earlier inhabitants. Defined by a history of successive southward migrations, the Hakka maintain a distinct cultural and linguistic identity and are found in concentrated communities across southern China, Taiwan, and the diaspora.</p>
+        </div>
+        <div class="card c-ochre">
+          <div class="card-head"><span class="tag-n">n</span> 声调 shēngdiào</div>
+          <p>Tones — the pitch contours that distinguish meaning in Chinese topolects. Mandarin has four tones plus a neutral fifth; Cantonese has six to nine (depending on analysis); many Min varieties have seven or eight. The tonal inventory is one of the most significant points of divergence between topolects and a major obstacle to mutual intelligibility.</p>
+        </div>
+      </div>
+    </section>
+
+    <footer class="page-footer">
+      <span class="footer-id">Field Notes on Chinese · <span>方言</span> · Geography</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>

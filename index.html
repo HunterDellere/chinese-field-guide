@@ -10,6 +10,7 @@
 <meta name="author" content="Hunter Dellere">
 <meta name="keywords" content="Chinese language, Mandarin, hanzi, Chinese characters, HSK, Chinese culture, Chinese philosophy, Chinese history, Chinese grammar, learn Chinese">
 <link rel="canonical" href="https://hunterdellere.github.io/chinese-field-guide/">
+<link rel="alternate" type="application/rss+xml" title="Field Notes on Chinese" href="feed.xml">
 
 <!-- Open Graph -->
 <meta property="og:type" content="website">
@@ -42,7 +43,9 @@
 </script>
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600&family=Noto+Serif+SC:wght@300;400;600;700&family=Inconsolata:wght@300;400;500&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Noto+Serif+SC:wght@400;600;700&family=Inconsolata:wght@400;500&display=swap">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Noto+Serif+SC:wght@400;600;700&family=Inconsolata:wght@400;500&display=swap" rel="stylesheet">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>字</text></svg>">
 <link rel="stylesheet" href="style.css">
 <style>
@@ -81,6 +84,34 @@
   .section-sub {
     font-size: 0.95rem; color: var(--ink-4); font-style: italic; margin: 0 0 1.5rem; max-width: 620px;
   }
+
+  .start-here-section { margin-bottom: 3.5rem; }
+  .start-here-list {
+    list-style: none; padding: 0; margin: 0;
+    display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.5rem 0.9rem;
+    counter-reset: starthere;
+  }
+  .start-here-item {
+    display: flex; align-items: center; gap: 0.85rem;
+    padding: 0.7rem 0.95rem;
+    background: var(--papyrus-2); border: 1px solid var(--rule);
+    border-radius: var(--radius-lg);
+    text-decoration: none; color: var(--ink-2);
+    transition: border-color 0.15s, background 0.15s, transform 0.15s;
+    counter-increment: starthere;
+    min-height: 44px;
+  }
+  .start-here-item:hover { border-color: var(--red); background: var(--papyrus-3); transform: translateX(2px); }
+  .start-here-item:focus-visible { outline: none; border-color: var(--ochre); box-shadow: 0 0 0 2px rgba(160,100,40,0.25); }
+  .start-here-num {
+    font-family: var(--font-mono); font-size: 0.7rem; color: var(--ochre);
+    min-width: 1.4rem; flex-shrink: 0; letter-spacing: 0.08em;
+  }
+  .start-here-num::before { content: counter(starthere, decimal-leading-zero); }
+  .start-here-cn { font-family: var(--font-cn); font-weight: 700; color: var(--red); font-size: 1.15rem; flex-shrink: 0; }
+  .start-here-body { display: flex; flex-direction: column; gap: 0.05rem; min-width: 0; flex: 1; }
+  .start-here-title { font-size: 0.88rem; line-height: 1.3; color: var(--ink-2); font-weight: 600; }
+  .start-here-py { font-family: var(--font-mono); font-size: 0.68rem; color: var(--ink-5); letter-spacing: 0.04em; }
 
   .overview-section { margin-bottom: 3.5rem; }
   .overview-grid {
@@ -209,6 +240,25 @@
   .no-results-msg code { font-family: var(--font-mono); color: var(--red); background: none; padding: 0; }
 
   .categories-section { margin-bottom: 2rem; }
+  .hsk-chips {
+    display: flex; flex-wrap: wrap; gap: 0.4rem;
+    margin-bottom: 0.8rem; align-items: center;
+  }
+  .hsk-chips-label {
+    font-family: var(--font-mono); font-size: 0.6rem; letter-spacing: 0.18em;
+    text-transform: uppercase; color: var(--ink-5); margin-right: 0.4rem;
+  }
+  .hsk-chip {
+    font-family: var(--font-mono); font-size: 0.68rem; letter-spacing: 0.08em;
+    padding: 0.3rem 0.7rem; border-radius: 20px;
+    background: var(--papyrus); border: 1px solid var(--rule);
+    color: var(--ink-3); cursor: pointer;
+    transition: background 0.12s, border-color 0.12s, color 0.12s;
+    min-height: 30px;
+  }
+  .hsk-chip:hover { border-color: var(--ochre); color: var(--ink); }
+  .hsk-chip.active { background: var(--red); color: var(--papyrus); border-color: var(--red); }
+  .hsk-chip:focus-visible { outline: none; border-color: var(--ochre); box-shadow: 0 0 0 2px rgba(160,100,40,0.3); }
 
   .cat-group { margin-bottom: 2.75rem; animation: fadeUp 0.5s ease both; }
   .cat-group.hidden { display: none; }
@@ -306,6 +356,7 @@
     .index-shell { padding: 2rem 1.25rem 4rem; }
     .index-hero-glyph { font-size: 4.5rem; }
     .overview-grid { grid-template-columns: 1fr; }
+    .start-here-list { grid-template-columns: 1fr; }
     .entry-grid, .recent-grid { grid-template-columns: repeat(auto-fill, minmax(175px, 1fr)); }
     .filter-bar { top: calc(var(--nav-h) + 4px); }
     .filter-shortcut-hint { display: none; }
@@ -317,18 +368,20 @@
 </head>
 <body>
 
-<nav class="topnav">
+<a class="skip-link" href="#main-content">Skip to content</a>
+
+<nav class="topnav" aria-label="Site">
   <span class="topnav-brand">Field Notes on <span>Chinese</span></span>
-  <span style="font-family:var(--font-mono);font-size:0.65rem;color:var(--ink-5);letter-spacing:0.1em;">目录 mùlù · Index</span>
+  <span style="font-family:var(--font-mono);font-size:0.65rem;color:var(--papyrus-5);letter-spacing:0.1em;">目录 mùlù · Index</span>
 </nav>
 
-<div class="index-shell">
+<main class="index-shell" id="main-content">
 
   <header class="index-hero">
     <span class="index-hero-glyph">字</span>
     <div class="index-hero-eyebrow">Field Notes on Chinese</div>
     <h1 class="index-hero-title">A field guide to Chinese</h1>
-    <p class="index-hero-desc">Characters, language, and the long civilisation behind them — written as a scholar's notebook for curious readers.</p>
+    <p class="index-hero-desc">Characters, words, grammar, and the civilisation behind them. Written for curious readers who want the story, not just the translation.</p>
     <div class="hero-ctas">
       <a href="#cat-characters" class="hero-cta hero-cta-primary">Start with characters →</a>
       <a href="#overview" class="hero-cta hero-cta-secondary">What's inside ↓</a>
@@ -337,11 +390,19 @@
 
   <div class="index-stats" id="stats"></div>
 
+  <!-- Start here -->
+  <section class="start-here-section" id="start-here">
+    <div class="section-eyebrow">入门 rùmén</div>
+    <h2 class="section-title">Start here</h2>
+    <p class="section-sub">Ten entries that give a sense of the whole. Read in order, or skip around.</p>
+    <ol class="start-here-list" id="start-here-list"></ol>
+  </section>
+
   <!-- Overview -->
   <section class="overview-section" id="overview">
     <div class="section-eyebrow">概览 gàilǎn</div>
     <h2 class="section-title">What's inside</h2>
-    <p class="section-sub">Twelve sections, from the building blocks of the language to the civilisation that built them.</p>
+    <p class="section-sub">Thirteen sections that move from the building blocks of the language up through the civilisation that built it.</p>
     <div class="overview-grid" id="overview-grid"></div>
   </section>
 
@@ -349,7 +410,7 @@
   <section class="recent-section" id="recent">
     <div class="section-eyebrow">最近 zuìjìn</div>
     <h2 class="section-title">Recently added</h2>
-    <p class="section-sub">The latest entries to land in the field guide.</p>
+    <p class="section-sub">Latest additions to the field guide.</p>
     <div class="recent-grid" id="recent-grid"></div>
   </section>
 
@@ -357,7 +418,9 @@
   <section class="categories-section">
     <div class="section-eyebrow">浏览 liúlǎn</div>
     <h2 class="section-title">Browse all entries</h2>
-    <p class="section-sub">Search by character, pinyin, keyword, radical, or HSK level.</p>
+    <p class="section-sub">Search by character, pinyin, keyword, radical, or HSK level. Click a section title to collapse it.</p>
+
+    <div class="hsk-chips" id="hsk-chips" role="group" aria-label="Filter by HSK level"></div>
 
     <div class="filter-bar" id="filter-bar">
       <div class="filter-search-wrap">
@@ -389,16 +452,16 @@
     <div class="legend-grid">
       <div class="legend-panel">
         <div class="legend-head">Page types</div>
-        <div class="legend-item"><span class="legend-glyph">字</span><span><b>Character.</b> One glyph — etymology, decomposition, compounds.</span></div>
+        <div class="legend-item"><span class="legend-glyph">字</span><span><b>Character.</b> One glyph, with its etymology, decomposition, and compounds.</span></div>
         <div class="legend-item"><span class="legend-glyph">词</span><span><b>Vocabulary.</b> A word or concept that carries cultural weight.</span></div>
         <div class="legend-item"><span class="legend-glyph">法</span><span><b>Grammar.</b> A particle, structure, or grammatical pattern.</span></div>
         <div class="legend-item"><span class="legend-glyph">题</span><span><b>Topic.</b> A short essay on a cultural, historical, or philosophical subject.</span></div>
       </div>
       <div class="legend-panel">
         <div class="legend-head">Anatomy of an entry</div>
-        <div class="legend-item"><span class="legend-glyph">①</span><span><b>Hero.</b> Glyph, pinyin, gloss, and HSK / radical chips.</span></div>
-        <div class="legend-item"><span class="legend-glyph">②</span><span><b>Etymology.</b> The story of how the character came to look and mean what it does.</span></div>
-        <div class="legend-item"><span class="legend-glyph">③</span><span><b>Compounds & chengyu.</b> The character as a building block.</span></div>
+        <div class="legend-item"><span class="legend-glyph">①</span><span><b>Hero.</b> Glyph, pinyin, gloss, and HSK or radical chips.</span></div>
+        <div class="legend-item"><span class="legend-glyph">②</span><span><b>Etymology.</b> How the character came to look and mean what it does.</span></div>
+        <div class="legend-item"><span class="legend-glyph">③</span><span><b>Compounds and chengyu.</b> The character as a building block.</span></div>
         <div class="legend-item"><span class="legend-glyph">④</span><span><b>Retention hook.</b> A memory image so the glyph sticks.</span></div>
       </div>
       <div class="legend-panel">
@@ -415,7 +478,7 @@
   <footer class="colophon">
     <div class="colophon-main">
       <p class="author-line">Written by Hunter Dellere.</p>
-      <p>An ongoing personal study of the Chinese language and the civilisation that gave rise to it — kept public so other curious readers can browse along.</p>
+      <p>An ongoing personal study of the Chinese language and the civilisation that gave rise to it. Kept public so other curious readers can browse along.</p>
       <p>Sources include Outlier Linguistic Solutions, Wenlin, Pleco, the Hanyu Da Cidian, and classical primary texts where applicable. Errors and idiosyncratic readings are mine.</p>
     </div>
     <div class="colophon-meta">
@@ -438,7 +501,7 @@
     </div>
   </footer>
 
-</div>
+</main>
 
 <script src="scripts/homepage.js"></script>
 
