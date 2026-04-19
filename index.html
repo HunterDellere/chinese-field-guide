@@ -48,7 +48,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Noto+Serif+SC:wght@400;600;700&family=Inconsolata:wght@400;500&display=swap">
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Noto+Serif+SC:wght@400;600;700&family=Inconsolata:wght@400;500&display=swap" rel="stylesheet">
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>字</text></svg>">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90' fill='%238b1a1a'>書</text></svg>">
 <link rel="stylesheet" href="style.css">
 <style>
   .index-shell { max-width: 1080px; margin: 0 auto; padding: 3.5rem 2rem 5rem; }
@@ -106,11 +106,12 @@
   .hero-cta-secondary:focus-visible { outline: 2px solid var(--ochre); outline-offset: 3px; border-radius: var(--radius); }
 
   .index-stats { font-family: var(--font-mono); font-size: 0.68rem; color: var(--ink-5); text-align: center; margin-bottom: 3rem; letter-spacing: 0.12em; text-transform: uppercase; }
-  .index-stats strong { color: var(--ink-3); font-weight: 600; letter-spacing: 0.04em; }
+  .index-stats strong { color: var(--ochre); font-size: 0.78rem; font-weight: 700; letter-spacing: 0.04em; }
 
   .section-eyebrow {
     font-family: var(--font-mono); font-size: 0.66rem; letter-spacing: 0.22em; text-transform: uppercase;
     color: var(--ochre); margin: 0 0 0.45rem; font-weight: 500;
+    border-left: 2px solid var(--ochre); padding-left: 0.6rem;
   }
   .section-title {
     font-family: var(--font-body); font-size: 1.7rem; font-weight: 600; color: var(--ink);
@@ -123,41 +124,63 @@
   .start-here-section { margin-bottom: 4rem; }
   .start-here-list {
     list-style: none; padding: 0; margin: 0;
-    display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.5rem 0.9rem;
+    display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.6rem;
     counter-reset: starthere;
   }
   .start-here-item {
-    display: flex; align-items: flex-start; gap: 0.95rem;
-    padding: 0.9rem 1.1rem;
+    display: flex; flex-direction: column;
+    padding: 0.85rem 0.95rem 0.9rem;
     background: var(--papyrus-2); border: 1px solid var(--rule);
     border-radius: var(--radius-lg);
     text-decoration: none; color: var(--ink-2);
     transition: border-color 0.15s, background 0.15s, transform 0.15s, box-shadow 0.15s;
     counter-increment: starthere;
-    min-height: 64px;
-    position: relative;
+    position: relative; overflow: hidden;
+    min-height: 120px;
   }
-  .start-here-item::before {
-    content: '';
-    position: absolute; left: 0; top: 0; bottom: 0; width: 3px;
-    background: var(--red); border-radius: 3px 0 0 3px;
-    opacity: 0; transition: opacity 0.15s;
-  }
-  .start-here-item:hover { border-color: var(--red); background: var(--papyrus-3); transform: translateX(3px); box-shadow: 0 3px 8px rgba(28,18,8,0.06); }
-  .start-here-item:hover::before { opacity: 1; }
+  .start-here-item:hover { background: var(--papyrus-3); transform: translateY(-2px); box-shadow: 0 4px 12px rgba(28,18,8,0.08); }
   .start-here-item:focus-visible { outline: none; border-color: var(--ochre); box-shadow: 0 0 0 2px rgba(160,100,40,0.25); }
-  .start-here-num {
-    font-family: var(--font-mono); font-size: 0.7rem; color: var(--ochre);
-    min-width: 1.4rem; flex-shrink: 0; letter-spacing: 0.08em;
-  }
+
+  .start-here-item[data-category="characters"] { border-top: 2px solid var(--cat-characters); }
+  .start-here-item[data-category="vocab"]       { border-top: 2px solid var(--cat-vocab); }
+  .start-here-item[data-category="grammar"]     { border-top: 2px solid var(--cat-grammar); }
+  .start-here-item[data-category="religion"]    { border-top: 2px solid var(--cat-religion); }
+  .start-here-item[data-category="philosophy"]  { border-top: 2px solid var(--cat-philosophy); }
+  .start-here-item[data-category="history"]     { border-top: 2px solid var(--cat-history); }
+  .start-here-item[data-category="geography"]   { border-top: 2px solid var(--cat-geography); }
+  .start-here-item[data-category="culture"]     { border-top: 2px solid var(--cat-culture); }
+  .start-here-item[data-category="culinary"]    { border-top: 2px solid var(--cat-culinary); }
+  .start-here-item[data-category="arts"]        { border-top: 2px solid var(--cat-arts); }
+  .start-here-item[data-category="science"]     { border-top: 2px solid var(--cat-science); }
+  .start-here-item[data-category="daily"]       { border-top: 2px solid var(--cat-daily); }
+  .start-here-item[data-category="chengyu"]     { border-top: 2px solid var(--cat-chengyu); }
+
+  .start-here-item[data-category="characters"] .start-here-cn { color: var(--cat-characters); }
+  .start-here-item[data-category="vocab"]       .start-here-cn { color: var(--cat-vocab); }
+  .start-here-item[data-category="grammar"]     .start-here-cn { color: var(--cat-grammar); }
+  .start-here-item[data-category="religion"]    .start-here-cn { color: var(--cat-religion); }
+  .start-here-item[data-category="philosophy"]  .start-here-cn { color: var(--cat-philosophy); }
+  .start-here-item[data-category="history"]     .start-here-cn { color: var(--cat-history); }
+  .start-here-item[data-category="geography"]   .start-here-cn { color: var(--cat-geography); }
+  .start-here-item[data-category="culture"]     .start-here-cn { color: var(--cat-culture); }
+  .start-here-item[data-category="culinary"]    .start-here-cn { color: var(--cat-culinary); }
+  .start-here-item[data-category="arts"]        .start-here-cn { color: var(--cat-arts); }
+  .start-here-item[data-category="science"]     .start-here-cn { color: var(--cat-science); }
+  .start-here-item[data-category="daily"]       .start-here-cn { color: var(--cat-daily); }
+  .start-here-item[data-category="chengyu"]     .start-here-cn { color: var(--cat-chengyu); }
+
+  .start-here-item-top { display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 0.3rem; }
+  .start-here-num { font-family: var(--font-mono); font-size: 0.58rem; color: var(--ink-5); letter-spacing: 0.08em; padding-top: 0.1rem; }
   .start-here-num::before { content: counter(starthere, decimal-leading-zero); }
-  .start-here-num { font-family: var(--font-mono); font-size: 0.65rem; color: var(--ochre); min-width: 1.4rem; flex-shrink: 0; letter-spacing: 0.08em; padding-top: 0.15rem; }
-  .start-here-cn { font-family: var(--font-cn); font-weight: 700; color: var(--red); font-size: 1.25rem; flex-shrink: 0; letter-spacing: 0.02em; line-height: 1.2; }
-  .start-here-cn.sh-multi { font-size: 1rem; letter-spacing: 0.04em; }
-  .start-here-body { display: flex; flex-direction: column; gap: 0.1rem; min-width: 0; flex: 1; }
-  .start-here-title { font-size: 0.92rem; line-height: 1.3; color: var(--ink-2); font-weight: 600; }
-  .start-here-py { font-family: var(--font-mono); font-size: 0.66rem; color: var(--ink-5); letter-spacing: 0.04em; }
-  .start-here-desc { font-size: 0.78rem; color: var(--ink-4); font-style: italic; line-height: 1.4; margin-top: 0.15rem; }
+  .start-here-cn { font-family: var(--font-cn); font-weight: 700; color: var(--red); font-size: 1.9rem; line-height: 1; letter-spacing: 0.02em; }
+  .start-here-cn.sh-multi { font-size: 1.3rem; letter-spacing: 0.04em; line-height: 1.1; }
+  .start-here-title { font-size: 0.85rem; font-weight: 600; color: var(--ink-2); line-height: 1.3; display: block; }
+  .start-here-py { font-family: var(--font-mono); font-size: 0.62rem; color: var(--ink-5); letter-spacing: 0.04em; margin-top: 0.1rem; display: block; }
+  .start-here-desc { font-size: 0.74rem; color: var(--ink-4); font-style: italic; line-height: 1.4; margin-top: 0.25rem; flex: 1; display: block; }
+  .start-here-cat {
+    font-family: var(--font-mono); font-size: 0.55rem; text-transform: uppercase;
+    letter-spacing: 0.14em; color: var(--ink-5); margin-top: auto; padding-top: 0.55rem; display: block;
+  }
 
   .overview-section { margin-bottom: 4rem; }
   .overview-grid {
@@ -432,25 +455,62 @@
     letter-spacing: 0.1em; opacity: 0.6;
   }
 
+  /* Category-colored left border on recent cards */
+  .recent-card[data-category="characters"]::before { background: var(--cat-characters); }
+  .recent-card[data-category="vocab"]::before       { background: var(--cat-vocab); }
+  .recent-card[data-category="grammar"]::before     { background: var(--cat-grammar); }
+  .recent-card[data-category="religion"]::before    { background: var(--cat-religion); }
+  .recent-card[data-category="philosophy"]::before  { background: var(--cat-philosophy); }
+  .recent-card[data-category="history"]::before     { background: var(--cat-history); }
+  .recent-card[data-category="geography"]::before   { background: var(--cat-geography); }
+  .recent-card[data-category="culture"]::before     { background: var(--cat-culture); }
+  .recent-card[data-category="culinary"]::before    { background: var(--cat-culinary); }
+  .recent-card[data-category="arts"]::before        { background: var(--cat-arts); }
+  .recent-card[data-category="science"]::before     { background: var(--cat-science); }
+  .recent-card[data-category="daily"]::before       { background: var(--cat-daily); }
+  .recent-card[data-category="chengyu"]::before     { background: var(--cat-chengyu); }
+
+  /* Category-colored overview cell hover borders */
+  .overview-cell[data-category="characters"]:hover { border-color: rgba(139,26,26,0.4); }
+  .overview-cell[data-category="vocab"]:hover       { border-color: rgba(160,100,40,0.4); }
+  .overview-cell[data-category="grammar"]:hover     { border-color: rgba(26,80,80,0.4); }
+  .overview-cell[data-category="religion"]:hover    { border-color: rgba(92,61,122,0.4); }
+  .overview-cell[data-category="philosophy"]:hover  { border-color: rgba(58,92,58,0.4); }
+  .overview-cell[data-category="history"]:hover     { border-color: rgba(107,68,32,0.4); }
+  .overview-cell[data-category="geography"]:hover   { border-color: rgba(42,92,107,0.4); }
+  .overview-cell[data-category="culture"]:hover     { border-color: rgba(139,58,26,0.4); }
+  .overview-cell[data-category="culinary"]:hover    { border-color: rgba(122,74,16,0.4); }
+  .overview-cell[data-category="arts"]:hover        { border-color: rgba(74,40,120,0.4); }
+  .overview-cell[data-category="science"]:hover     { border-color: rgba(26,74,92,0.4); }
+  .overview-cell[data-category="daily"]:hover       { border-color: rgba(92,74,26,0.4); }
+  .overview-cell[data-category="chengyu"]:hover     { border-color: rgba(107,26,42,0.4); }
+
+  @media (max-width: 900px) {
+    .start-here-list { grid-template-columns: repeat(3, 1fr); }
+  }
   @media (max-width: 800px) {
     .overview-grid { grid-template-columns: repeat(2, 1fr); }
     .legend-grid { grid-template-columns: 1fr; }
     .colophon { grid-template-columns: 1fr; gap: 1.5rem; }
     .index-hero-title { font-size: 2.2rem; }
     .index-hero-glyph { font-size: 5.5rem; }
+    .start-here-list { grid-template-columns: repeat(2, 1fr); }
   }
   @media (max-width: 600px) {
     .index-shell { padding: 2rem 1.25rem 4rem; }
     .index-hero-glyph { font-size: 4.5rem; }
     .index-hero-title { font-size: 1.85rem; }
     .overview-grid { grid-template-columns: 1fr; }
-    .start-here-list { grid-template-columns: 1fr; }
+    .start-here-list { grid-template-columns: repeat(2, 1fr); }
     .entry-grid, .recent-grid { grid-template-columns: repeat(auto-fill, minmax(175px, 1fr)); }
     .filter-bar { top: calc(var(--nav-h) + 4px); }
     .filter-shortcut-hint { display: none; }
     .filter-actions button.desktop-only { display: none; }
     .filter-actions button.mobile-toggle { display: inline-block; }
     .section-title { font-size: 1.35rem; }
+  }
+  @media (max-width: 380px) {
+    .start-here-list { grid-template-columns: 1fr; }
   }
 </style>
 </head>
@@ -493,7 +553,7 @@
   <section class="start-here-section" id="start-here">
     <div class="section-eyebrow">入门 rùmén</div>
     <h2 class="section-title">Start here</h2>
-    <p class="section-sub">Ten entries that give a sense of the whole. Read in order, or skip around.</p>
+    <p class="section-sub">Twelve entries that give a sense of the whole — language, philosophy, culture, food. Read in order, or skip around.</p>
     <ol class="start-here-list" id="start-here-list"></ol>
   </section>
 

@@ -1,18 +1,18 @@
 (function () {
   const CATEGORY_META = {
-    characters: { cn: "字",   py: "zì",       en: "Characters",         color: "var(--red)",        desc: "Single glyphs. Etymology, decomposition, daily use." },
-    vocab:      { cn: "词",   py: "cí",       en: "Vocabulary",         color: "var(--ochre)",      desc: "Words and concepts that carry cultural weight." },
-    grammar:    { cn: "法",   py: "fǎ",       en: "Grammar",            color: "var(--teal-ink)",   desc: "Particles, structures, and the joints of the language." },
-    religion:   { cn: "宗教", py: "zōngjiào", en: "Religion",           color: "var(--red)",        desc: "Buddhism, Daoism, folk practice, ancestor rites." },
-    philosophy: { cn: "哲学", py: "zhéxué",   en: "Philosophy",         color: "var(--sienna)",     desc: "The hundred schools and what they argued about." },
-    history:    { cn: "历史", py: "lìshǐ",    en: "History",            color: "var(--ochre)",      desc: "Dynasties, ruptures, and the long arc." },
-    geography:  { cn: "地理", py: "dìlǐ",     en: "Geography",          color: "var(--teal-ink)",   desc: "Places, dialects, and the shape of the land." },
-    culture:    { cn: "文化", py: "wénhuà",   en: "Culture",            color: "var(--red)",        desc: "What people make and how they live with it." },
-    culinary:   { cn: "饮食", py: "yǐnshí",   en: "Culinary",           color: "var(--sienna)",     desc: "What is cooked, drunk, and shared at the table." },
-    arts:       { cn: "艺文", py: "yìwén",    en: "Arts & Literature",  color: "var(--violet-ink)", desc: "Poetry, painting, calligraphy, opera." },
-    science:    { cn: "科技", py: "kējì",     en: "Science & Medicine", color: "var(--teal-ink)",   desc: "Astronomy, medicine, and technology before modernity." },
-    daily:      { cn: "日常", py: "rìcháng",  en: "Everyday Life",      color: "var(--ochre)",      desc: "Names, numbers, gifts, gestures, taboos." },
-    chengyu:    { cn: "成语", py: "chéngyǔ",  en: "Chengyu",            color: "var(--red)",        desc: "Four-character idioms. Compressed wisdom from classical texts." }
+    characters: { cn: "字",   py: "zì",       en: "Characters",         color: "var(--cat-characters)", desc: "Single glyphs. Etymology, decomposition, daily use." },
+    vocab:      { cn: "词",   py: "cí",       en: "Vocabulary",         color: "var(--cat-vocab)",      desc: "Words and concepts that carry cultural weight." },
+    grammar:    { cn: "法",   py: "fǎ",       en: "Grammar",            color: "var(--cat-grammar)",    desc: "Particles, structures, and the joints of the language." },
+    religion:   { cn: "宗教", py: "zōngjiào", en: "Religion",           color: "var(--cat-religion)",   desc: "Buddhism, Daoism, folk practice, ancestor rites." },
+    philosophy: { cn: "哲学", py: "zhéxué",   en: "Philosophy",         color: "var(--cat-philosophy)", desc: "The hundred schools and what they argued about." },
+    history:    { cn: "历史", py: "lìshǐ",    en: "History",            color: "var(--cat-history)",    desc: "Dynasties, ruptures, and the long arc." },
+    geography:  { cn: "地理", py: "dìlǐ",     en: "Geography",          color: "var(--cat-geography)",  desc: "Places, dialects, and the shape of the land." },
+    culture:    { cn: "文化", py: "wénhuà",   en: "Culture",            color: "var(--cat-culture)",    desc: "What people make and how they live with it." },
+    culinary:   { cn: "饮食", py: "yǐnshí",   en: "Culinary",           color: "var(--cat-culinary)",   desc: "What is cooked, drunk, and shared at the table." },
+    arts:       { cn: "艺文", py: "yìwén",    en: "Arts & Literature",  color: "var(--cat-arts)",       desc: "Poetry, painting, calligraphy, opera." },
+    science:    { cn: "科技", py: "kējì",     en: "Science & Medicine", color: "var(--cat-science)",    desc: "Astronomy, medicine, and technology before modernity." },
+    daily:      { cn: "日常", py: "rìcháng",  en: "Everyday Life",      color: "var(--cat-daily)",      desc: "Names, numbers, gifts, gestures, taboos." },
+    chengyu:    { cn: "成语", py: "chéngyǔ",  en: "Chengyu",            color: "var(--cat-chengyu)",    desc: "Four-character idioms. Compressed wisdom from classical texts." }
   };
 
   const CAT_ORDER = [
@@ -29,11 +29,13 @@
   // a sense of the whole. Match by exact path so it stays stable across rebuilds.
   const START_HERE = [
     "pages/characters/ren2_人.html",
-    "pages/characters/jia1_家.html",
+    "pages/characters/xin1_心.html",
     "pages/grammar/le_了.html",
     "pages/vocab/yinyang_阴阳.html",
     "pages/vocab/mianzi_面子.html",
+    "pages/vocab/guanxi_关系.html",
     "pages/philosophy/topic_kongzi.html",
+    "pages/characters/dao4_道.html",
     "pages/culture/topic_chunjie.html",
     "pages/culinary/topic_jiaozi.html",
     "pages/chengyu/maodun_矛盾.html",
@@ -210,17 +212,20 @@
           const a = document.createElement("a");
           a.href = e.path;
           a.className = "start-here-item";
+          if (e.category) a.dataset.category = e.category;
           const glyph = leadCn(e);
           const titleEn = e.title ? (e.title.split("·").slice(1).join("·").trim() || e.title) : "";
           const isLong = glyph.length > 1;
+          const catMeta = CATEGORY_META[e.category] || {};
           a.innerHTML = `
-            <span class="start-here-num"></span>
-            ${glyph ? `<span class="start-here-cn${isLong ? " sh-multi" : ""}">${escapeHtml(glyph)}</span>` : ""}
-            <span class="start-here-body">
-              <span class="start-here-title">${escapeHtml(titleEn)}</span>
-              <span class="start-here-py">${escapeHtml(e.pinyin || "")}</span>
-              ${e.desc ? `<span class="start-here-desc">${escapeHtml(e.desc)}</span>` : ""}
-            </span>
+            <div class="start-here-item-top">
+              ${glyph ? `<span class="start-here-cn${isLong ? " sh-multi" : ""}">${escapeHtml(glyph)}</span>` : ""}
+              <span class="start-here-num"></span>
+            </div>
+            <span class="start-here-title">${escapeHtml(titleEn)}</span>
+            <span class="start-here-py">${escapeHtml(e.pinyin || "")}</span>
+            ${e.desc ? `<span class="start-here-desc">${escapeHtml(e.desc)}</span>` : ""}
+            <span class="start-here-cat">${escapeHtml(catMeta.en || e.category || "")}</span>
           `;
           li.appendChild(a);
           startList.appendChild(li);
@@ -236,6 +241,7 @@
       const cell = document.createElement(count > 0 ? "a" : "div");
       if (count > 0) cell.href = "#cat-" + key;
       cell.className = "overview-cell";
+      cell.dataset.category = key;
       cell.innerHTML = `
         <span class="overview-glyph" style="color:${meta.color}">${meta.cn}</span>
         <div class="overview-body">
@@ -265,6 +271,7 @@
       const card = document.createElement("a");
       card.href = e.path;
       card.className = "recent-card";
+      if (e.category) card.dataset.category = e.category;
       const glyphChar = leadCn(e);
       const isNew = e.updated && daysAgo(date) <= 14;
       const len = glyphChar.length;

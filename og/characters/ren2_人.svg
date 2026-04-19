@@ -15,7 +15,7 @@
   <rect width="1200" height="630" filter="url(#paper)" opacity="0.06"/>
   <line x1="60" y1="60" x2="1140" y2="60" stroke="#8b1a1a" stroke-width="3"/>
   <line x1="60" y1="570" x2="1140" y2="570" stroke="#8b1a1a" stroke-width="3"/>
-  <text x="80" y="100" font-family="Inconsolata, monospace" font-size="22" letter-spacing="6" fill="#6b5535" text-transform="uppercase">FIELD NOTES ON CHINESE</text>
+  <text x="80" y="100" font-family="Inconsolata, monospace" font-size="22" letter-spacing="6" fill="#6b5535" text-transform="uppercase">SHŪWŪ · 書屋</text>
   <text x="1120" y="100" font-family="Inconsolata, monospace" font-size="22" letter-spacing="3" fill="#6b5535" text-anchor="end">characters</text>
   <text x="600" y="380" font-family="Noto Serif SC, serif" font-size="360" font-weight="700" fill="#8b1a1a" text-anchor="middle" dominant-baseline="middle">人</text>
   <text x="600" y="490" font-family="Inconsolata, monospace" font-size="44" letter-spacing="4" fill="#a06428" text-anchor="middle">rén</text>

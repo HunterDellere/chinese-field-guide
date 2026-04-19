@@ -4,19 +4,19 @@
  */
 
 const CATEGORY_GLYPH = {
-  characters: { glyph: '字', color: '#8b1a1a' },
+  characters: { glyph: '書', color: '#8b1a1a' },
   vocab:      { glyph: '词', color: '#a06428' },
   grammar:    { glyph: '法', color: '#1a5050' },
-  chengyu:    { glyph: '语', color: '#8b1a1a' },
-  religion:   { glyph: '宗', color: '#8b1a1a' },
-  philosophy: { glyph: '哲', color: '#7a3a18' },
-  history:    { glyph: '史', color: '#a06428' },
-  geography:  { glyph: '地', color: '#1a5050' },
-  culture:    { glyph: '文', color: '#8b1a1a' },
-  culinary:   { glyph: '食', color: '#7a3a18' },
+  chengyu:    { glyph: '语', color: '#6b1a2a' },
+  religion:   { glyph: '宗', color: '#5c3d7a' },
+  philosophy: { glyph: '哲', color: '#3a5c3a' },
+  history:    { glyph: '史', color: '#6b4420' },
+  geography:  { glyph: '地', color: '#2a5c6b' },
+  culture:    { glyph: '文', color: '#8b3a1a' },
+  culinary:   { glyph: '食', color: '#7a4a10' },
   arts:       { glyph: '艺', color: '#4a2878' },
-  science:    { glyph: '科', color: '#1a5050' },
-  daily:      { glyph: '日', color: '#a06428' }
+  science:    { glyph: '科', color: '#1a4a5c' },
+  daily:      { glyph: '日', color: '#5c4a1a' }
 };
 
 function escXml(s) {
@@ -58,7 +58,7 @@ export function renderOgSvg(entry) {
   <rect width="1200" height="630" filter="url(#paper)" opacity="0.06"/>
   <line x1="60" y1="60" x2="1140" y2="60" stroke="${cat.color}" stroke-width="3"/>
   <line x1="60" y1="570" x2="1140" y2="570" stroke="${cat.color}" stroke-width="3"/>
-  <text x="80" y="100" font-family="Inconsolata, monospace" font-size="22" letter-spacing="6" fill="#6b5535" text-transform="uppercase">FIELD NOTES ON CHINESE</text>
+  <text x="80" y="100" font-family="Inconsolata, monospace" font-size="22" letter-spacing="6" fill="#6b5535" text-transform="uppercase">SHŪWŪ · 書屋</text>
   <text x="1120" y="100" font-family="Inconsolata, monospace" font-size="22" letter-spacing="3" fill="#6b5535" text-anchor="end">${escXml(entry.category)}</text>
   <text x="600" y="${isLong ? 350 : 380}" font-family="Noto Serif SC, serif" font-size="${glyphSize}" font-weight="700" fill="${cat.color}" text-anchor="middle" dominant-baseline="middle">${escXml(glyph)}</text>
   ${pinyin ? `<text x="600" y="${isLong ? 470 : 490}" font-family="Inconsolata, monospace" font-size="44" letter-spacing="4" fill="#a06428" text-anchor="middle">${escXml(pinyin)}</text>` : ''}

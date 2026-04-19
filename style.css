@@ -44,6 +44,21 @@
   --nav-h:      46px;
 
   --focus-ring: 0 0 0 2px rgba(160,100,40,0.35);
+
+  /* Per-category accent palette */
+  --cat-characters:  #8b1a1a;
+  --cat-vocab:       #a06428;
+  --cat-grammar:     #1a5050;
+  --cat-religion:    #5c3d7a;
+  --cat-philosophy:  #3a5c3a;
+  --cat-history:     #6b4420;
+  --cat-geography:   #2a5c6b;
+  --cat-culture:     #8b3a1a;
+  --cat-culinary:    #7a4a10;
+  --cat-arts:        #4a2878;
+  --cat-science:     #1a4a5c;
+  --cat-daily:       #5c4a1a;
+  --cat-chengyu:     #6b1a2a;
 }
 
 ::selection { background: rgba(139,26,26,0.18); color: var(--ink); }
@@ -1250,6 +1265,150 @@ a.adj:focus-visible { outline: none; border-color: var(--ochre); box-shadow: 0 0
     transition: none !important;
   }
 }
+
+/* ── PER-CATEGORY THEMING ────────────────────────────────── */
+/*
+ * body[data-category] is set at parse time by the inline script in _layout.html.
+ * Each category gets its own accent color applied to: hero bar, topic-hero title,
+ * sidebar TOC active state, section-head .sh-cn, and reading progress bar.
+ */
+
+/* Helper mixin via repeated rules — one block per category */
+:is(
+  body[data-category="characters"],
+  body[data-category="vocab"],
+  body[data-category="grammar"],
+  body[data-category="religion"],
+  body[data-category="philosophy"],
+  body[data-category="history"],
+  body[data-category="geography"],
+  body[data-category="culture"],
+  body[data-category="culinary"],
+  body[data-category="arts"],
+  body[data-category="science"],
+  body[data-category="daily"],
+  body[data-category="chengyu"]
+) {
+  /* reset to be overridden below */
+}
+
+/* Characters — deep red (unchanged from base) */
+body[data-category="characters"] .hero::after,
+body[data-category="characters"] .topic-hero::after { background: var(--cat-characters); }
+body[data-category="characters"] .topic-hero-title { color: var(--cat-characters); }
+body[data-category="characters"] .toc-list a.active,
+body[data-category="characters"] .toc-list a:hover { color: var(--cat-characters); border-left-color: var(--cat-characters); background: rgba(139,26,26,0.06); }
+body[data-category="characters"] .sh-cn { color: var(--cat-characters); }
+body[data-category="characters"] .reading-progress-bar { background: linear-gradient(90deg, var(--cat-characters), #c07830); }
+body[data-category="characters"] .hero-glyph { color: var(--cat-characters); }
+
+/* Vocab — ochre */
+body[data-category="vocab"] .hero::after,
+body[data-category="vocab"] .topic-hero::after { background: var(--cat-vocab); }
+body[data-category="vocab"] .topic-hero-title { color: var(--cat-vocab); }
+body[data-category="vocab"] .toc-list a.active,
+body[data-category="vocab"] .toc-list a:hover { color: var(--cat-vocab); border-left-color: var(--cat-vocab); background: rgba(160,100,40,0.06); }
+body[data-category="vocab"] .sh-cn { color: var(--cat-vocab); }
+body[data-category="vocab"] .reading-progress-bar { background: linear-gradient(90deg, var(--cat-vocab), #c07830); }
+
+/* Grammar — teal */
+body[data-category="grammar"] .hero::after,
+body[data-category="grammar"] .topic-hero::after { background: var(--cat-grammar); }
+body[data-category="grammar"] .topic-hero-title { color: var(--cat-grammar); }
+body[data-category="grammar"] .toc-list a.active,
+body[data-category="grammar"] .toc-list a:hover { color: var(--cat-grammar); border-left-color: var(--cat-grammar); background: rgba(26,80,80,0.06); }
+body[data-category="grammar"] .sh-cn { color: var(--cat-grammar); }
+body[data-category="grammar"] .reading-progress-bar { background: linear-gradient(90deg, var(--cat-grammar), #2a7070); }
+
+/* Religion — indigo-violet */
+body[data-category="religion"] .hero::after,
+body[data-category="religion"] .topic-hero::after { background: var(--cat-religion); }
+body[data-category="religion"] .topic-hero-title { color: var(--cat-religion); }
+body[data-category="religion"] .toc-list a.active,
+body[data-category="religion"] .toc-list a:hover { color: var(--cat-religion); border-left-color: var(--cat-religion); background: rgba(92,61,122,0.07); }
+body[data-category="religion"] .sh-cn { color: var(--cat-religion); }
+body[data-category="religion"] .reading-progress-bar { background: linear-gradient(90deg, var(--cat-religion), #7a5a9a); }
+
+/* Philosophy — forest green */
+body[data-category="philosophy"] .hero::after,
+body[data-category="philosophy"] .topic-hero::after { background: var(--cat-philosophy); }
+body[data-category="philosophy"] .topic-hero-title { color: var(--cat-philosophy); }
+body[data-category="philosophy"] .toc-list a.active,
+body[data-category="philosophy"] .toc-list a:hover { color: var(--cat-philosophy); border-left-color: var(--cat-philosophy); background: rgba(58,92,58,0.07); }
+body[data-category="philosophy"] .sh-cn { color: var(--cat-philosophy); }
+body[data-category="philosophy"] .reading-progress-bar { background: linear-gradient(90deg, var(--cat-philosophy), #5a8a5a); }
+
+/* History — amber-brown */
+body[data-category="history"] .hero::after,
+body[data-category="history"] .topic-hero::after { background: var(--cat-history); }
+body[data-category="history"] .topic-hero-title { color: var(--cat-history); }
+body[data-category="history"] .toc-list a.active,
+body[data-category="history"] .toc-list a:hover { color: var(--cat-history); border-left-color: var(--cat-history); background: rgba(107,68,32,0.07); }
+body[data-category="history"] .sh-cn { color: var(--cat-history); }
+body[data-category="history"] .reading-progress-bar { background: linear-gradient(90deg, var(--cat-history), #a06428); }
+
+/* Geography — slate teal */
+body[data-category="geography"] .hero::after,
+body[data-category="geography"] .topic-hero::after { background: var(--cat-geography); }
+body[data-category="geography"] .topic-hero-title { color: var(--cat-geography); }
+body[data-category="geography"] .toc-list a.active,
+body[data-category="geography"] .toc-list a:hover { color: var(--cat-geography); border-left-color: var(--cat-geography); background: rgba(42,92,107,0.07); }
+body[data-category="geography"] .sh-cn { color: var(--cat-geography); }
+body[data-category="geography"] .reading-progress-bar { background: linear-gradient(90deg, var(--cat-geography), #1a7a8a); }
+
+/* Culture — terracotta */
+body[data-category="culture"] .hero::after,
+body[data-category="culture"] .topic-hero::after { background: var(--cat-culture); }
+body[data-category="culture"] .topic-hero-title { color: var(--cat-culture); }
+body[data-category="culture"] .toc-list a.active,
+body[data-category="culture"] .toc-list a:hover { color: var(--cat-culture); border-left-color: var(--cat-culture); background: rgba(139,58,26,0.07); }
+body[data-category="culture"] .sh-cn { color: var(--cat-culture); }
+body[data-category="culture"] .reading-progress-bar { background: linear-gradient(90deg, var(--cat-culture), #c06030); }
+
+/* Culinary — warm spice brown */
+body[data-category="culinary"] .hero::after,
+body[data-category="culinary"] .topic-hero::after { background: var(--cat-culinary); }
+body[data-category="culinary"] .topic-hero-title { color: var(--cat-culinary); }
+body[data-category="culinary"] .toc-list a.active,
+body[data-category="culinary"] .toc-list a:hover { color: var(--cat-culinary); border-left-color: var(--cat-culinary); background: rgba(122,74,16,0.07); }
+body[data-category="culinary"] .sh-cn { color: var(--cat-culinary); }
+body[data-category="culinary"] .reading-progress-bar { background: linear-gradient(90deg, var(--cat-culinary), #c07820); }
+
+/* Arts — violet */
+body[data-category="arts"] .hero::after,
+body[data-category="arts"] .topic-hero::after { background: var(--cat-arts); }
+body[data-category="arts"] .topic-hero-title { color: var(--cat-arts); }
+body[data-category="arts"] .toc-list a.active,
+body[data-category="arts"] .toc-list a:hover { color: var(--cat-arts); border-left-color: var(--cat-arts); background: rgba(74,40,120,0.07); }
+body[data-category="arts"] .sh-cn { color: var(--cat-arts); }
+body[data-category="arts"] .reading-progress-bar { background: linear-gradient(90deg, var(--cat-arts), #7a50b0); }
+
+/* Science — deep blue-teal */
+body[data-category="science"] .hero::after,
+body[data-category="science"] .topic-hero::after { background: var(--cat-science); }
+body[data-category="science"] .topic-hero-title { color: var(--cat-science); }
+body[data-category="science"] .toc-list a.active,
+body[data-category="science"] .toc-list a:hover { color: var(--cat-science); border-left-color: var(--cat-science); background: rgba(26,74,92,0.07); }
+body[data-category="science"] .sh-cn { color: var(--cat-science); }
+body[data-category="science"] .reading-progress-bar { background: linear-gradient(90deg, var(--cat-science), #2a7090); }
+
+/* Daily — dark gold */
+body[data-category="daily"] .hero::after,
+body[data-category="daily"] .topic-hero::after { background: var(--cat-daily); }
+body[data-category="daily"] .topic-hero-title { color: var(--cat-daily); }
+body[data-category="daily"] .toc-list a.active,
+body[data-category="daily"] .toc-list a:hover { color: var(--cat-daily); border-left-color: var(--cat-daily); background: rgba(92,74,26,0.07); }
+body[data-category="daily"] .sh-cn { color: var(--cat-daily); }
+body[data-category="daily"] .reading-progress-bar { background: linear-gradient(90deg, var(--cat-daily), #9a8020); }
+
+/* Chengyu — dark crimson */
+body[data-category="chengyu"] .hero::after,
+body[data-category="chengyu"] .topic-hero::after { background: var(--cat-chengyu); }
+body[data-category="chengyu"] .topic-hero-title { color: var(--cat-chengyu); }
+body[data-category="chengyu"] .toc-list a.active,
+body[data-category="chengyu"] .toc-list a:hover { color: var(--cat-chengyu); border-left-color: var(--cat-chengyu); background: rgba(107,26,42,0.07); }
+body[data-category="chengyu"] .sh-cn { color: var(--cat-chengyu); }
+body[data-category="chengyu"] .reading-progress-bar { background: linear-gradient(90deg, var(--cat-chengyu), #a03050); }
 
 /* ── VIEW TRANSITIONS (progressive enhancement) ─────────── */
 @view-transition { navigation: auto; }
