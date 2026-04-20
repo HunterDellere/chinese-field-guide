@@ -16,6 +16,7 @@ import matter from 'gray-matter';
 import { validateEntry } from './lib/validate.mjs';
 import { buildSearchIndex } from './lib/search-index.mjs';
 import { buildRelations, buildAdjacency, renderRelatedHtml, renderAdjacencyHtml } from './lib/relations.mjs';
+import { renderHskBody } from './lib/hsk.mjs';
 import { injectStrokeOrder, buildLinkMap, autoLinkBody, addPinyinAudio, buildPageFooter, renderSourcesHtml } from './lib/augment.mjs';
 import { renderOgSvg, categoryFaviconDataUri } from './lib/og.mjs';
 
@@ -29,6 +30,7 @@ const LAYOUT = readFileSync(join(ROOT, 'templates/_layout.html'), 'utf8');
 function walk(dir) {
   const results = [];
   for (const name of readdirSync(dir)) {
+    if (name.startsWith('_')) continue; // skip _schema, _source, _featured, etc.
     const full = join(dir, name);
     if (statSync(full).isDirectory()) {
       results.push(...walk(full));
@@ -221,6 +223,14 @@ for (const { fm, body, slug, category, outDir, entry } of pending) {
   try {
     let augmentedBody = body;
 
+    // HSK level pages: substitute placeholder with generated list body
+    if (category === 'hsk' && augmentedBody.includes('HSK_BODY_PLACEHOLDER')) {
+      const levelMatch = slug.match(/^hsk-(.+)$/);
+      if (levelMatch) {
+        augmentedBody = renderHskBody(levelMatch[1], entries, ROOT);
+      }
+    }
+
     if (entry.status === 'complete') {
       // 1. Stroke order on character pages
       augmentedBody = injectStrokeOrder(augmentedBody, fm);
@@ -321,6 +331,15 @@ const recent = entries
   .slice(0, 20);
 writeFileSync(join(dataDir, 'recent.json'), JSON.stringify(recent, null, 2), 'utf8');
 
+// Daily featured rotation — copy curated content/_featured/daily.json into data/
+try {
+  const featuredSrc = join(ROOT, 'content', '_featured', 'daily.json');
+  const featured = JSON.parse(readFileSync(featuredSrc, 'utf8'));
+  writeFileSync(join(dataDir, 'featured.json'), JSON.stringify(featured), 'utf8');
+} catch (err) {
+  console.warn('Could not emit data/featured.json:', err.message);
+}
+
 // Sitemap + robots
 const today = new Date().toISOString().slice(0, 10);
 const urls = [
@@ -412,14 +431,16 @@ const manifest = {
   name: 'Jiǎoluò Shūwū · 角落書屋',
   short_name: 'Jiǎoluò Shūwū',
   description: 'Notes on Chinese language and civilisation — characters, vocabulary, grammar, history, philosophy, and the world they shaped.',
-  start_url: '/jiaoluo-shuwu/',
-  scope: '/jiaoluo-shuwu/',
+  start_url: '/',
+  scope: '/',
   display: 'standalone',
   background_color: '#f2e8d5',
   theme_color: '#1c1208',
   lang: 'en',
   icons: [
-    { src: 'data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'0 0 100 100\'><rect width=\'100\' height=\'100\' fill=\'%23f2e8d5\'/><text y=\'.9em\' font-size=\'90\' fill=\'%238b1a1a\'>字</text></svg>', sizes: '512x512', type: 'image/svg+xml', purpose: 'any maskable' }
+    { src: '/icons/icon-192.png', sizes: '192x192', type: 'image/png', purpose: 'any' },
+    { src: '/icons/icon-512.png', sizes: '512x512', type: 'image/png', purpose: 'any' },
+    { src: '/icons/icon-maskable-512.png', sizes: '512x512', type: 'image/png', purpose: 'maskable' }
   ]
 };
 writeFileSync(join(ROOT, 'manifest.webmanifest'), JSON.stringify(manifest, null, 2), 'utf8');

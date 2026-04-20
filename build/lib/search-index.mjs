@@ -68,11 +68,28 @@ function* cjkTokensRich(text) {
 }
 
 function* cjkTokensLean(text) {
-  // Full-run + 1-gram only. Use for desc/body. Skip very long runs (prose).
+  // Full-run + 1-gram only. Use for desc. Skip long runs (prose sentences).
   const runs = String(text || '').match(/[\u4e00-\u9fff]+/g) || [];
   for (const run of runs) {
     if (run.length <= 12) yield run;
     for (const ch of run) yield ch;
+  }
+}
+
+function* cjkTokensBody(text) {
+  // Body prose: only short runs (≤4 chars, i.e. words/phrases, not sentences).
+  // Single chars not emitted — too noisy, and every character on a page
+  // appears in the char/title field anyway.
+  const runs = String(text || '').match(/[\u4e00-\u9fff]+/g) || [];
+  for (const run of runs) {
+    if (run.length <= 4) yield run;
+  }
+}
+
+function* latinTokensBody(text) {
+  // Body Latin: require length ≥ 4 to keep out "and/the/was/etc"-tier filler.
+  for (const t of latinTokens(text)) {
+    if (t.length >= 4) yield t;
   }
 }
 
@@ -84,6 +101,11 @@ function* fieldTokensRich(text) {
 function* fieldTokensLean(text) {
   yield* latinTokens(text);
   yield* cjkTokensLean(text);
+}
+
+function* fieldTokensBody(text) {
+  yield* latinTokensBody(text);
+  yield* cjkTokensBody(text);
 }
 
 function hskTokens(hsk) {
@@ -172,7 +194,7 @@ export function buildSearchIndex(entries, bodies = {}) {
 
     const body = bodies[entry.path];
     if (body) {
-      for (const t of fieldTokensLean(body)) add(t, pathId, FIELD_WEIGHT.body);
+      for (const t of fieldTokensBody(body)) add(t, pathId, FIELD_WEIGHT.body);
     }
   }
 
