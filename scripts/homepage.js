@@ -395,131 +395,25 @@
       }
     }
 
-    // ── overview groups ────────────────────────────────────────────────────────
-    // Three families: Language, Topics, Hubs. Each gets a labelled shelf.
-    const overviewStack = document.getElementById("overview-stack");
-    const overviewSub = document.getElementById("overview-sub");
-    if (overviewSub) {
-      const total = CAT_ORDER.reduce((n, k) => n + (groups[k] ? groups[k].length : 0), 0);
-      overviewSub.textContent = `Three families — language, topics, collections — ${total} notes in all.`;
-    }
-    function renderShelf(label, keys) {
-      const shelf = document.createElement("div");
-      shelf.className = "overview-shelf overview-shelf-" + label.kind;
-      shelf.innerHTML = `
-        <div class="overview-shelf-head">
-          <span class="overview-shelf-cn">${label.cn}</span>
-          <span class="overview-shelf-py">${label.py}</span>
-          <span class="overview-shelf-en">${label.en}</span>
-          <span class="overview-shelf-desc">${label.desc}</span>
-        </div>
-        <div class="overview-grid"></div>
-      `;
-      const grid = shelf.querySelector(".overview-grid");
-      keys.forEach(key => {
+    // ── category jump-strip (replaces the removed overview section) ──────────
+    // Compact pill-strip at the top of Browse: one chip per category with glyph,
+    // name, and count. Scrolls the category into view and expands it on click.
+    (function renderJumpstrip() {
+      const strip = document.getElementById("cat-jumpstrip");
+      if (!strip) return;
+      const frag = document.createDocumentFragment();
+      CAT_ORDER.forEach(key => {
+        const count = groups[key] ? groups[key].length : 0;
+        if (!count) return;
         const meta = CATEGORY_META[key];
-        const count = groups[key].length;
-        const cell = document.createElement(count > 0 ? "a" : "div");
-        if (count > 0) cell.href = "#cat-" + key;
-        cell.className = "overview-cell";
-        cell.dataset.category = key;
-        cell.innerHTML = `
-          <span class="overview-glyph" style="color:${meta.color}">${meta.cn}</span>
-          <div class="overview-body">
-            <span class="overview-py">${meta.py}</span>
-            <span class="overview-name">${meta.en}</span>
-            <span class="overview-desc">${meta.desc}</span>
-            <span class="overview-count">${count + (count === 1 ? " entry" : " entries")}</span>
-          </div>
-        `;
-        grid.appendChild(cell);
+        const chip = document.createElement("a");
+        chip.href = "#cat-" + key;
+        chip.className = "jumpstrip-chip";
+        chip.dataset.category = key;
+        chip.innerHTML = `<span class="js-glyph">${meta.cn}</span><span class="js-name">${meta.en}</span><span class="js-count">${count}</span>`;
+        frag.appendChild(chip);
       });
-      overviewStack.appendChild(shelf);
-    }
-    renderShelf({ kind: "language", cn: "语言", py: "yǔyán",  en: "The Language",
-                  desc: "Characters, words, grammar — the building blocks." }, LANGUAGE_KEYS);
-    renderShelf({ kind: "topics",   cn: "话题", py: "huàtí",  en: "Topics",
-                  desc: "Thought, history, place, lived life — what the language is used to say." }, TOPICS_KEYS);
-
-    // Collections shelf: chengyu + HSK as category cells, each hub entry as its own cell.
-    (function renderHubsShelf() {
-      const shelf = document.createElement("div");
-      shelf.className = "overview-shelf overview-shelf-hubs";
-      shelf.innerHTML = `
-        <div class="overview-shelf-head">
-          <span class="overview-shelf-cn">集锦</span>
-          <span class="overview-shelf-py">jíjǐn</span>
-          <span class="overview-shelf-en">Collections</span>
-          <span class="overview-shelf-desc">Idioms, curated reading paths, and reference lists.</span>
-        </div>
-        <div class="overview-grid"></div>
-      `;
-      const grid = shelf.querySelector(".overview-grid");
-
-      // Chengyu as a normal category cell
-      const cyMeta = CATEGORY_META["chengyu"];
-      const cyCount = groups["chengyu"].length;
-      const cyCell = document.createElement(cyCount > 0 ? "a" : "div");
-      if (cyCount > 0) cyCell.href = "#cat-chengyu";
-      cyCell.className = "overview-cell";
-      cyCell.dataset.category = "chengyu";
-      cyCell.innerHTML = `
-        <span class="overview-glyph" style="color:${cyMeta.color}">${cyMeta.cn}</span>
-        <div class="overview-body">
-          <span class="overview-name">${cyMeta.en}</span>
-          <span class="overview-py">${cyMeta.py}</span>
-          <span class="overview-desc">${cyMeta.desc}</span>
-          <span class="overview-count">${cyCount + (cyCount === 1 ? " entry" : " entries")}</span>
-        </div>
-      `;
-      grid.appendChild(cyCell);
-
-      // HSK as a normal category cell
-      const hskMeta = CATEGORY_META["hsk"];
-      const hskCount = groups["hsk"] ? groups["hsk"].length : 0;
-      const hskCell = document.createElement(hskCount > 0 ? "a" : "div");
-      if (hskCount > 0) hskCell.href = "#cat-hsk";
-      hskCell.className = "overview-cell";
-      hskCell.dataset.category = "hsk";
-      hskCell.innerHTML = `
-        <span class="overview-glyph" style="color:${hskMeta.color}">${hskMeta.cn}</span>
-        <div class="overview-body">
-          <span class="overview-name">${hskMeta.en}</span>
-          <span class="overview-py">${hskMeta.py}</span>
-          <span class="overview-desc">${hskMeta.desc}</span>
-          <span class="overview-count">${hskCount + (hskCount === 1 ? " entry" : " entries")}</span>
-        </div>
-      `;
-      grid.appendChild(hskCell);
-
-      // Each hub entry as its own cell
-      // Stage swatch colors mirror the card color CSS variables
-      const STAGE_COLORS = ["var(--teal-ink)","var(--ochre)","var(--sienna)","var(--violet-ink)","var(--red)"];
-      groups["hubs"].forEach(e => {
-        const cn = leadCn(e);
-        const en = e.title ? (e.title.split("·").slice(1).join("·").trim().split("—")[0].trim() || e.title) : "";
-        const memberLabel = e.memberCount ? `${e.memberCount} entries · reading path` : "reading path";
-        // Stage swatch: 5 colour dots representing the 5 stages
-        const swatchDots = STAGE_COLORS.map(c =>
-          `<span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:${c};margin-right:3px;opacity:0.7"></span>`
-        ).join("");
-        const cell = document.createElement("a");
-        cell.href = e.path;
-        cell.className = "overview-cell";
-        cell.dataset.category = "hubs";
-        cell.innerHTML = `
-          <span class="overview-glyph" style="color:${CATEGORY_META.hubs.color}">${cn}</span>
-          <div class="overview-body">
-            <span class="overview-py">${escapeHtml(e.pinyin || "")}</span>
-            <span class="overview-name">${escapeHtml(en)}</span>
-            <span class="overview-desc">${escapeHtml(e.desc || "")}</span>
-            <span class="overview-count" style="display:flex;align-items:center;gap:4px;margin-top:4px">${swatchDots}<span>${escapeHtml(memberLabel)}</span></span>
-          </div>
-        `;
-        grid.appendChild(cell);
-      });
-
-      overviewStack.appendChild(shelf);
+      strip.appendChild(frag);
     })();
 
     // ── recent grid ────────────────────────────────────────────────────────────

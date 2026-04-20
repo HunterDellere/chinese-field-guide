@@ -309,52 +309,40 @@
     letter-spacing: 0.14em; color: var(--ink-5); margin-top: auto; padding-top: 0.55rem; display: block;
   }
 
-  .overview-section { margin-bottom: 4rem; }
-  .overview-stack { display: flex; flex-direction: column; gap: 1.6rem; }
-  .overview-shelf {
-    background: var(--papyrus-2);
-    border: 1px solid var(--rule);
-    border-radius: 10px;
-    padding: 1.3rem 1.4rem 1.3rem;
-    position: relative;
-    box-shadow: 0 1px 0 rgba(28,18,8,0.04), 0 6px 18px rgba(28,18,8,0.04);
+  /* ── Category jump-strip — compact pill row at top of Browse ── */
+  .cat-jumpstrip {
+    display: flex; flex-wrap: wrap; gap: 0.4rem;
+    margin: 0.75rem 0 0;
   }
-  .overview-shelf-head {
-    display: flex; flex-direction: column; align-items: flex-start; gap: 0.2rem;
-    margin-bottom: 0.85rem;
-    padding-bottom: 0.65rem;
-    border-bottom: 1px dashed var(--rule-2);
+  .jumpstrip-chip {
+    display: inline-flex; align-items: center; gap: 0.35rem;
+    padding: 0.28rem 0.7rem 0.28rem 0.55rem;
+    background: var(--papyrus); border: 1px solid var(--rule);
+    border-radius: 20px; text-decoration: none; color: var(--ink-3);
+    font-family: var(--font-ui); font-size: 0.8rem;
+    transition: background 0.12s, border-color 0.12s, color 0.12s;
+    white-space: nowrap;
   }
-  .overview-shelf-cn {
-    font-family: var(--font-cn); font-size: 1.4rem; font-weight: 700;
-    color: var(--ink-2); letter-spacing: 0.04em; line-height: 1.2;
-  }
-  .overview-shelf-py { font-family: var(--font-mono); font-size: 0.72rem; color: var(--ochre); letter-spacing: 0.06em; }
-  .overview-shelf-en { font-family: var(--font-body); font-size: 1rem; font-weight: 600; color: var(--ink); }
-  .overview-shelf-desc { font-size: 0.85rem; color: var(--ink-4); font-style: italic; line-height: 1.45; margin-top: 0.15rem; }
-  .overview-grid {
-    display: grid; grid-template-columns: 1fr; gap: 0.5rem;
-  }
-  .overview-cell {
-    background: var(--papyrus); border: 1px solid var(--rule-2); border-radius: 8px;
-    padding: 0.95rem 1.05rem; text-decoration: none; color: var(--ink-2);
-    transition: background 0.15s, border-color 0.15s, transform 0.15s, box-shadow 0.15s;
-    display: flex; flex-direction: column; gap: 0; align-items: flex-start;
-    position: relative;
-    border-left: 3px solid var(--rule);
-  }
-  .overview-cell:hover { background: var(--papyrus-2); transform: translateY(-2px); box-shadow: 0 3px 8px rgba(28,18,8,0.06); }
-  .overview-cell:focus-visible { outline: none; border-color: var(--ochre); box-shadow: 0 0 0 2px rgba(160,100,40,0.25); }
-  .overview-glyph {
-    font-family: var(--font-cn); font-size: 1.95rem; font-weight: 700; line-height: 1; color: var(--red);
-    text-shadow: 1px 1px 0 rgba(139,26,26,0.12); letter-spacing: 0.02em;
-    margin-bottom: 0.35rem;
-  }
-  .overview-body { display: flex; flex-direction: column; gap: 0.1rem; min-width: 0; width: 100%; }
-  .overview-name { font-size: 0.93rem; font-weight: 600; color: var(--ink); }
-  .overview-py { font-family: var(--font-mono); font-size: 0.7rem; color: var(--ochre); }
-  .overview-desc { font-size: 0.8rem; color: var(--ink-4); font-style: italic; line-height: 1.45; margin-top: 0.25rem; text-wrap: pretty; }
-  .overview-count { font-family: var(--font-mono); font-size: 0.6rem; color: var(--ink-5); letter-spacing: 0.12em; margin-top: 0.4rem; text-transform: uppercase; }
+  .jumpstrip-chip:hover { background: var(--papyrus-3); border-color: var(--ochre); color: var(--ink); }
+  .jumpstrip-chip:focus-visible { outline: none; border-color: var(--ochre); box-shadow: 0 0 0 2px rgba(160,100,40,0.25); }
+  .js-glyph { font-family: var(--font-cn); font-weight: 700; font-size: 0.95rem; line-height: 1; color: var(--red); }
+  .js-name { font-size: 0.78rem; color: var(--ink-3); }
+  .js-count { font-family: var(--font-mono); font-size: 0.62rem; color: var(--ink-5); letter-spacing: 0.06em; margin-left: 0.1rem; }
+
+  .jumpstrip-chip[data-category="characters"] .js-glyph { color: var(--cat-characters); }
+  .jumpstrip-chip[data-category="vocab"]      .js-glyph { color: var(--cat-vocab); }
+  .jumpstrip-chip[data-category="grammar"]    .js-glyph { color: var(--cat-grammar); }
+  .jumpstrip-chip[data-category="religion"]   .js-glyph { color: var(--cat-religion); }
+  .jumpstrip-chip[data-category="philosophy"] .js-glyph { color: var(--cat-philosophy); }
+  .jumpstrip-chip[data-category="history"]    .js-glyph { color: var(--cat-history); }
+  .jumpstrip-chip[data-category="geography"]  .js-glyph { color: var(--cat-geography); }
+  .jumpstrip-chip[data-category="culture"]    .js-glyph { color: var(--cat-culture); }
+  .jumpstrip-chip[data-category="culinary"]   .js-glyph { color: var(--cat-culinary); }
+  .jumpstrip-chip[data-category="arts"]       .js-glyph { color: var(--cat-arts); }
+  .jumpstrip-chip[data-category="science"]    .js-glyph { color: var(--cat-science); }
+  .jumpstrip-chip[data-category="daily"]      .js-glyph { color: var(--cat-daily); }
+  .jumpstrip-chip[data-category="chengyu"]    .js-glyph { color: var(--cat-chengyu); }
+  .jumpstrip-chip[data-category="hubs"]       .js-glyph { color: var(--cat-hubs); }
 
   .recent-section { margin-bottom: 4rem; }
   .recent-grid {
@@ -666,57 +654,19 @@
     color: inherit;
   }
 
-  /* ── How to read — compact 4-up page-type legend ─────────────────────── */
-  .howto-section { margin-bottom: 3.5rem; }
-  .howto-types {
-    display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.75rem;
-    margin-bottom: 1.1rem;
-  }
-  .howto-type {
-    display: flex; align-items: flex-start; gap: 0.85rem;
-    padding: 0.95rem 1rem;
-    background: var(--papyrus-2); border: 1px solid var(--rule);
-    border-radius: 8px; text-decoration: none;
-    transition: background 0.15s, border-color 0.15s, transform 0.12s;
-  }
-  .howto-type:hover {
-    background: var(--papyrus-3); border-color: rgba(139,26,26,0.25);
-    transform: translateY(-1px);
-  }
-  .howto-type:focus-visible {
-    outline: none; border-color: var(--ochre);
-    box-shadow: 0 0 0 2px rgba(160,100,40,0.25);
-  }
-  .howto-glyph {
-    font-family: var(--font-cn); font-weight: 700;
-    font-size: 2rem; line-height: 1; color: var(--red);
-    flex-shrink: 0;
-  }
-  .howto-type[data-category="characters"] .howto-glyph { color: var(--cat-characters); }
-  .howto-type[data-category="vocab"]      .howto-glyph { color: var(--cat-vocab); }
-  .howto-type[data-category="grammar"]    .howto-glyph { color: var(--cat-grammar); }
-  .howto-type[data-category="culture"]    .howto-glyph { color: var(--cat-culture); }
-  .howto-body { display: flex; flex-direction: column; gap: 0.15rem; min-width: 0; }
-  .howto-name {
-    font-family: var(--font-ui); font-size: 0.95rem; font-weight: 600;
-    color: var(--ink);
-  }
-  .howto-desc {
-    font-family: var(--font-ui); font-size: 0.82rem; line-height: 1.4;
-    color: var(--ink-4);
-  }
+  /* ── Keyboard shortcuts hint — displayed beneath the Search input ── */
   .howto-shortcuts {
-    font-family: var(--font-ui); font-size: 0.85rem;
-    color: var(--ink-4); margin: 0;
-    display: flex; flex-wrap: wrap; align-items: center; gap: 0.35rem;
+    font-family: var(--font-ui); font-size: 0.82rem;
+    color: var(--ink-5); margin: 0.6rem 0 0;
+    display: flex; flex-wrap: wrap; align-items: center; gap: 0.3rem;
     line-height: 1.8;
   }
   .howto-shortcuts kbd {
-    font-family: var(--font-mono); font-size: 0.75rem;
+    font-family: var(--font-mono); font-size: 0.72rem;
     background: var(--papyrus-2); border: 1px solid var(--rule);
     border-bottom-width: 2px;
     border-radius: 4px; padding: 0.05rem 0.4rem;
-    color: var(--ink-2); line-height: 1;
+    color: var(--ink-3); line-height: 1;
   }
 
   .colophon {
@@ -780,39 +730,6 @@
   .recent-card[data-category="daily"]::before       { background: var(--cat-daily); }
   .recent-card[data-category="chengyu"]::before     { background: var(--cat-chengyu); }
   .recent-card[data-category="hubs"]::before        { background: var(--cat-hubs); }
-
-  /* Category accent — left bar + glyph color on every overview cell.
-     Using border-left so the colour is always visible, not just on hover.
-     Glyph inherits from cell so we override per-category. */
-  .overview-cell[data-category="characters"] { border-left-color: var(--cat-characters); }
-  .overview-cell[data-category="vocab"]      { border-left-color: var(--cat-vocab); }
-  .overview-cell[data-category="grammar"]    { border-left-color: var(--cat-grammar); }
-  .overview-cell[data-category="religion"]   { border-left-color: var(--cat-religion); }
-  .overview-cell[data-category="philosophy"] { border-left-color: var(--cat-philosophy); }
-  .overview-cell[data-category="history"]    { border-left-color: var(--cat-history); }
-  .overview-cell[data-category="geography"]  { border-left-color: var(--cat-geography); }
-  .overview-cell[data-category="culture"]    { border-left-color: var(--cat-culture); }
-  .overview-cell[data-category="culinary"]   { border-left-color: var(--cat-culinary); }
-  .overview-cell[data-category="arts"]       { border-left-color: var(--cat-arts); }
-  .overview-cell[data-category="science"]    { border-left-color: var(--cat-science); }
-  .overview-cell[data-category="daily"]      { border-left-color: var(--cat-daily); }
-  .overview-cell[data-category="chengyu"]    { border-left-color: var(--cat-chengyu); }
-  .overview-cell[data-category="hubs"]      { border-left-color: var(--cat-hubs); }
-
-  .overview-cell[data-category="characters"]:hover { border-color: var(--cat-characters); }
-  .overview-cell[data-category="vocab"]:hover       { border-color: var(--cat-vocab); }
-  .overview-cell[data-category="grammar"]:hover     { border-color: var(--cat-grammar); }
-  .overview-cell[data-category="religion"]:hover    { border-color: var(--cat-religion); }
-  .overview-cell[data-category="philosophy"]:hover  { border-color: var(--cat-philosophy); }
-  .overview-cell[data-category="history"]:hover     { border-color: var(--cat-history); }
-  .overview-cell[data-category="geography"]:hover   { border-color: var(--cat-geography); }
-  .overview-cell[data-category="culture"]:hover     { border-color: var(--cat-culture); }
-  .overview-cell[data-category="culinary"]:hover    { border-color: var(--cat-culinary); }
-  .overview-cell[data-category="arts"]:hover        { border-color: var(--cat-arts); }
-  .overview-cell[data-category="science"]:hover     { border-color: var(--cat-science); }
-  .overview-cell[data-category="daily"]:hover       { border-color: var(--cat-daily); }
-  .overview-cell[data-category="chengyu"]:hover     { border-color: var(--cat-chengyu); }
-  .overview-cell[data-category="hubs"]:hover        { border-color: var(--cat-hubs); }
 
   /* Recent + browse entry cards: glyph picks up the category colour, replacing
      the default red. Mirrors the How-to-Read legend so the type is clear at
@@ -895,7 +812,6 @@
 
   @media (max-width: 900px) {
     .start-here-list { grid-template-columns: repeat(3, 1fr); }
-    .howto-types { grid-template-columns: repeat(2, 1fr); }
   }
   @media (max-width: 800px) {
     .colophon { grid-template-columns: 1fr; gap: 1.5rem; }
@@ -918,9 +834,6 @@
     .index-hero-title { font-size: 1.85rem; }
 
     .start-here-list { grid-template-columns: repeat(2, 1fr); }
-    .howto-types { grid-template-columns: 1fr; gap: 0.55rem; }
-    .howto-type { padding: 0.8rem 0.9rem; }
-    .howto-glyph { font-size: 1.75rem; }
     .entry-grid, .recent-grid { grid-template-columns: repeat(auto-fill, minmax(175px, 1fr)); }
     .browse-section { padding: 1.25rem 1.1rem 1rem; }
     .filter-bar-hero .filter-search { font-size: 1rem; min-height: 44px; }

@@ -122,7 +122,7 @@
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='14' fill='%238b1a1a'/><rect x='6' y='6' width='88' height='88' rx='10' fill='none' stroke='%23f2e8d5' stroke-width='2' stroke-opacity='0.55'/><text x='50' y='30' text-anchor='middle' dominant-baseline='central' font-family='Noto Serif SC, serif' font-size='42' font-weight='700' fill='%23f2e8d5'>角</text><text x='50' y='72' text-anchor='middle' dominant-baseline='central' font-family='Noto Serif SC, serif' font-size='42' font-weight='700' fill='%23f2e8d5'>書</text></svg>">
 <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
 <link rel="stylesheet" href="style.css?v=8">
-<link rel="stylesheet" href="style-home.css?v=2">
+<link rel="stylesheet" href="style-home.css?v=3">
 </head>
 <body>
 
@@ -172,6 +172,15 @@
     <article class="featured-card" id="featured-card" data-watermark=""></article>
   </section>
 
+  <!-- Quick Start — curated tour for new readers, placed near the top
+       so first-time visitors get oriented before they dive into Browse. -->
+  <section class="start-here-section" id="start-here">
+    <div class="section-eyebrow"><span class="eb-mark" aria-hidden="true"></span>入门 rùmén</div>
+    <h2 class="section-title">New here? Start with these</h2>
+    <p class="section-sub" id="start-here-sub">Entries that give a sense of the whole — language, philosophy, culture, food. Read in order, or wander.</p>
+    <ol class="start-here-list" id="start-here-list"></ol>
+  </section>
+
   <div class="section-divider" aria-hidden="true">
     <svg viewBox="0 0 320 14" focusable="false">
       <path d="M2 7 L130 7" stroke="currentColor" stroke-width="0.9" stroke-linecap="round" opacity="0.35"/>
@@ -180,61 +189,12 @@
     </svg>
   </div>
 
-  <!-- What's inside — overview of the whole guide. -->
-  <section class="overview-section" id="overview">
-    <div class="section-eyebrow"><span class="eb-mark" aria-hidden="true"></span>概览 gàilǎn</div>
-    <h2 class="section-title">What's in the nook</h2>
-    <p class="section-sub" id="overview-sub">Three families — language, topics, collections — the full shape of the nook at a glance.</p>
-    <div class="overview-stack" id="overview-stack"></div>
-  </section>
-
   <!-- Recently added — surfaces the latest work right near the top. -->
   <section class="recent-section" id="recent">
     <div class="section-eyebrow"><span class="eb-mark" aria-hidden="true"></span>最近 zuìjìn</div>
     <h2 class="section-title">Recently written</h2>
     <p class="section-sub">What's been written most recently — a good place to catch up.</p>
     <div class="recent-grid" id="recent-grid"></div>
-  </section>
-
-  <!-- How to read — compact legend, placed before Browse so readers know
-       the entry format before they dive in. -->
-  <section class="howto-section" id="howto">
-    <div class="section-eyebrow"><span class="eb-mark" aria-hidden="true"></span>说明 shuōmíng</div>
-    <h2 class="section-title">How to read</h2>
-    <p class="section-sub">Four kinds of entry. A colour marks each one throughout the site, so you always know where you are.</p>
-    <div class="howto-types">
-      <a href="#cat-characters" class="howto-type" data-category="characters">
-        <span class="howto-glyph">字</span>
-        <span class="howto-body">
-          <span class="howto-name">Character</span>
-          <span class="howto-desc">One glyph — etymology, decomposition, daily use.</span>
-        </span>
-      </a>
-      <a href="#cat-vocab" class="howto-type" data-category="vocab">
-        <span class="howto-glyph">词</span>
-        <span class="howto-body">
-          <span class="howto-name">Vocabulary</span>
-          <span class="howto-desc">A word or concept with cultural weight.</span>
-        </span>
-      </a>
-      <a href="#cat-grammar" class="howto-type" data-category="grammar">
-        <span class="howto-glyph">法</span>
-        <span class="howto-body">
-          <span class="howto-name">Grammar</span>
-          <span class="howto-desc">A particle, structure, or pattern.</span>
-        </span>
-      </a>
-      <a href="#cat-culture" class="howto-type" data-category="culture">
-        <span class="howto-glyph">题</span>
-        <span class="howto-body">
-          <span class="howto-name">Topic</span>
-          <span class="howto-desc">A short essay on culture, history, or thought.</span>
-        </span>
-      </a>
-    </div>
-    <p class="howto-shortcuts">
-      <kbd>/</kbd> to search · <kbd>↑</kbd> <kbd>↓</kbd> to step · <kbd>Enter</kbd> to open · <kbd>Esc</kbd> to clear
-    </p>
   </section>
 
   <!-- Search — standalone, no connection to browse -->
@@ -249,6 +209,9 @@
       </div>
       <span class="filter-shortcut-hint">press <kbd>/</kbd></span>
     </div>
+    <p class="howto-shortcuts">
+      <kbd>/</kbd> to search · <kbd>↑</kbd> <kbd>↓</kbd> to step · <kbd>Enter</kbd> to open · <kbd>Esc</kbd> to clear
+    </p>
     <div class="search-suggest-row" id="filter-suggest"></div>
     <div class="filter-result" id="filter-result"></div>
     <div class="no-results" id="no-results">
@@ -264,6 +227,7 @@
     <div class="browse-panel">
       <div class="section-eyebrow"><span class="eb-mark" aria-hidden="true"></span>浏览 liúlǎn</div>
       <h2 class="section-title" id="browse-heading">Browse</h2>
+      <nav class="cat-jumpstrip" id="cat-jumpstrip" aria-label="Jump to category"></nav>
       <div class="browse-controls">
         <div class="hsk-chips" id="hsk-chips" role="group" aria-label="Filter by HSK level"></div>
       </div>
@@ -276,15 +240,6 @@
       </div>
     </div>
     <div id="categories"></div>
-  </section>
-
-  <!-- Quick Start — curated tour for new readers, placed near the bottom
-       so it doubles as a closing recommendation. -->
-  <section class="start-here-section" id="start-here">
-    <div class="section-eyebrow"><span class="eb-mark" aria-hidden="true"></span>入门 rùmén</div>
-    <h2 class="section-title">Quick Start</h2>
-    <p class="section-sub" id="start-here-sub">New here? Start with these. Language, philosophy, culture, food — a sampler that shows what the nook is for.</p>
-    <ol class="start-here-list" id="start-here-list"></ol>
   </section>
 
   <!-- Colophon -->
