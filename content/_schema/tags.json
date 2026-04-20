@@ -270,5 +270,8 @@
   {"slug": "media",             "label": "Media"},
   {"slug": "legal",             "label": "Legal"},
   {"slug": "tones",             "label": "Tones"},
-  {"slug": "phonology",         "label": "Phonology"}
+  {"slug": "phonology",         "label": "Phonology"},
+  {"slug": "production",        "label": "Production"},
+  {"slug": "birth",             "label": "Birth"},
+  {"slug": "industry",          "label": "Industry"}
 ]

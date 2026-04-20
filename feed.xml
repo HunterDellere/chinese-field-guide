@@ -6,7 +6,15 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>Notes on Chinese language and civilisation — characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Apr 2026 21:46:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 22:15:29 GMT</lastBuildDate>
+    <item>
+      <title>产 · to produce, give birth, property, output</title>
+      <link>https://jiaoshoo.com/pages/characters/chan3_产.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/chan3_产.html</guid>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
+      <description>From birth to bounty: a character that spans biological generation and industrial output, linking the miracle of birth to the logic of production and wealth.</description>
+      <category>characters</category>
+    </item>
     <item>
       <title>告 · to tell, to announce, to report</title>
       <link>https://jiaoshoo.com/pages/characters/gao4_告.html</link>
@@ -64,11 +72,27 @@
       <category>vocab</category>
     </item>
     <item>
+      <title>产品 · product, manufactured good</title>
+      <link>https://jiaoshoo.com/pages/vocab/chanpin_产品.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/chanpin_产品.html</guid>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
+      <description>The standard Chinese word for product — what production yields and commerce moves. From factory floor to digital marketplace, 产品 names the output of organized human effort.</description>
+      <category>vocab</category>
+    </item>
+    <item>
       <title>拼音 · the romanization system for Mandarin</title>
       <link>https://jiaoshoo.com/pages/vocab/pinyin_拼音.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/pinyin_拼音.html</guid>
       <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
       <description>Pinyin is the official romanization of Mandarin — the system that maps Chinese sounds to the Latin alphabet. It is a pronunciation guide, not a writing system, and it does not replace characters.</description>
+      <category>vocab</category>
+    </item>
+    <item>
+      <title>生产 · to produce, production, manufacturing</title>
+      <link>https://jiaoshoo.com/pages/vocab/shengchan_生产.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/shengchan_生产.html</guid>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
+      <description>The foundational act of economic life — and, in China&apos;s Marxist political vocabulary, the act from which all social relations flow. Life gives rise to production; production sustains life.</description>
       <category>vocab</category>
     </item>
     <item>
@@ -221,30 +245,6 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/dian4_电.html</guid>
       <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
       <description>Lightning descending from a rain cloud — a character that jumped from describing the weather to naming the force that defines modern civilization.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>佛 · Buddha, the awakened</title>
-      <link>https://jiaoshoo.com/pages/characters/fo2_佛.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/fo2_佛.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>The character that carried an entire worldview across the Silk Road — etymology, Buddhism, the 佛-family of compounds.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>福 · fortune, blessing, good luck</title>
-      <link>https://jiaoshoo.com/pages/characters/fu2_福.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/fu2_福.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>The most recognized Chinese character in the world — fortune, blessing, and the art of the upside-down 福.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>工 · work, craft, labor, worker</title>
-      <link>https://jiaoshoo.com/pages/characters/gong1_工.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/gong1_工.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Three strokes encoding heaven, earth, and the human craft connecting them — the root character for all labor, skill, and making in Chinese.</description>
       <category>characters</category>
     </item>
   </channel>

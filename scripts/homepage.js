@@ -818,6 +818,43 @@
     let filterText = "";
     let debounceTimer = null;
 
+    const searchResultsEl = document.getElementById("search-results");
+
+    function renderSearchResults(matchedPaths, queryRaw) {
+      // Build a flat ranked list from all entries, sorted by score descending.
+      const scored = [];
+      allEntries.forEach(e => {
+        const score = matchedPaths.get(e.path);
+        if (score !== undefined) scored.push({ e, score });
+      });
+      scored.sort((a, b) => b.score - a.score);
+
+      const frag = document.createDocumentFragment();
+      for (const { e } of scored) {
+        const card = document.createElement("a");
+        card.href = e.path;
+        card.className = "entry-card";
+        if (e.category) card.dataset.category = e.category;
+        const glyphChar = leadCn(e);
+        const len = glyphChar.length;
+        const sizeClass = len >= 4 ? " glyph-4" : len === 3 ? " glyph-3" : len === 2 ? " glyph-2" : "";
+        const titleNoCn = e.title && glyphChar
+          ? (e.title.split("·").slice(1).join("·").trim() || e.title)
+          : (e.title || "");
+        const catMeta = CATEGORY_META[e.category] || {};
+        card.innerHTML = `
+          ${glyphChar ? `<span class="entry-glyph${sizeClass}">${highlight(glyphChar, queryRaw)}</span>` : ""}
+          <span class="entry-pinyin">${highlight(e.pinyin || "", queryRaw)}</span>
+          <span class="entry-title">${highlight(titleNoCn, queryRaw)}</span>
+          <span class="entry-desc">${highlight(e.desc || "", queryRaw)}</span>
+          <span class="sr-cat-label">${escapeHtml(catMeta.en || e.category || "")}</span>
+        `;
+        frag.appendChild(card);
+      }
+      searchResultsEl.innerHTML = "";
+      searchResultsEl.appendChild(frag);
+    }
+
     function applyFilters() {
       const queryRaw = filterText.trim();
       let query = normalize(queryRaw);
@@ -825,66 +862,43 @@
       query = query.replace(/\bhsk[\s-]*(\d)\b/g, 'hsk$1').replace(/\bhsk\s*level\s*(\d)\b/g, 'hsk$1');
       const hasQuery = query.length > 0;
 
-      // Inverted index lookup: weighted scoring
-      const matchedPaths = hasQuery ? searchPaths(query, searchIndex) : null;
+      // Switch between search-results container and category browse.
+      container.classList.toggle("hidden", hasQuery);
+      searchResultsEl.classList.toggle("visible", hasQuery);
+      suggestEl.classList.toggle("visible", !hasQuery);
 
-      let totalVisible = 0;
-      let catsWithVisible = 0;
+      const resultEl = document.getElementById("filter-result");
+      const noResults = document.getElementById("no-results");
 
-      Object.keys(catGroupMap).forEach(key => {
-        const g = catGroupMap[key];
+      if (hasQuery) {
+        const matchedPaths = searchPaths(query, searchIndex);
+        const totalVisible = matchedPaths ? matchedPaths.size : 0;
 
-        renderCardsForGroup(key, hasQuery ? queryRaw : "", matchedPaths);
-
-        const catVisible = hasQuery
-          ? g.entries.filter(e => matchedPaths.has(e.path)).length
-          : g.entries.length;
-
-        const showGroup = !hasQuery || catVisible > 0;
-        g.groupEl.classList.toggle("hidden", !showGroup);
-
-        if (hasQuery && catVisible > 0) {
-          g.groupEl.classList.remove("collapsed");
-          g.headEl.setAttribute("aria-expanded", "true");
-        } else if (!hasQuery) {
+        if (totalVisible > 0) {
+          renderSearchResults(matchedPaths, queryRaw);
+          noResults.classList.remove("visible");
+          resultEl.textContent = `${totalVisible} ${totalVisible === 1 ? "entry" : "entries"}`;
+          resultEl.classList.add("visible");
+        } else {
+          searchResultsEl.innerHTML = "";
+          document.getElementById("no-results-query").textContent = queryRaw;
+          noResults.classList.add("visible");
+          resultEl.classList.remove("visible");
+        }
+      } else {
+        // Restore browse view — reset each group to its saved collapse state.
+        Object.keys(catGroupMap).forEach(key => {
+          const g = catGroupMap[key];
+          g.groupEl.classList.remove("hidden");
           const shouldBeCollapsed = collapsedSet.has(key);
           g.groupEl.classList.toggle("collapsed", shouldBeCollapsed);
           g.headEl.setAttribute("aria-expanded", shouldBeCollapsed ? "false" : "true");
-        }
-
-        if (catVisible > 0) catsWithVisible++;
-        totalVisible += catVisible;
-      });
-
-      // Hide the Language/Civilisation family heading if every cat-group
-      // below it is hidden — otherwise an empty label floats over nothing.
-      container.querySelectorAll('.cat-family').forEach(familyEl => {
-        let node = familyEl.nextElementSibling;
-        let anyVisible = false;
-        while (node && !node.classList.contains('cat-family')) {
-          if (node.classList.contains('cat-group') && !node.classList.contains('hidden')) {
-            anyVisible = true;
-            break;
-          }
-          node = node.nextElementSibling;
-        }
-        familyEl.classList.toggle('hidden', !anyVisible);
-      });
-
-      const resultEl = document.getElementById("filter-result");
-      if (hasQuery) {
-        resultEl.textContent = `${totalVisible} ${totalVisible === 1 ? "entry" : "entries"} across ${catsWithVisible} ${catsWithVisible === 1 ? "section" : "sections"}`;
-        resultEl.classList.add("visible");
-      } else {
-        resultEl.classList.remove("visible");
-      }
-
-      const noResults = document.getElementById("no-results");
-      if (hasQuery && totalVisible === 0) {
-        document.getElementById("no-results-query").textContent = queryRaw;
-        noResults.classList.add("visible");
-      } else {
+          renderCardsForGroup(key, "", null);
+        });
+        container.querySelectorAll('.cat-family').forEach(el => el.classList.remove('hidden'));
+        searchResultsEl.innerHTML = "";
         noResults.classList.remove("visible");
+        resultEl.classList.remove("visible");
       }
 
       try {
@@ -975,12 +989,8 @@
       clearTimeout(debounceTimer);
       debounceTimer = setTimeout(applyFilters, 120);
     });
-    searchInput.addEventListener("focus", () => {
-      if (!searchInput.value) suggestEl.classList.add("visible");
-    });
-    searchInput.addEventListener("blur", () => {
-      setTimeout(() => suggestEl.classList.remove("visible"), 180);
-    });
+    // Suggestions stay visible below the browse header whenever there is no active query.
+    // applyFilters handles showing/hiding them as part of the state toggle.
 
     clearBtn.addEventListener("click", () => {
       searchInput.value = "";
@@ -993,6 +1003,7 @@
     document.addEventListener("keydown", e => {
       if (e.key === "/" && !["INPUT","TEXTAREA","SELECT"].includes(document.activeElement.tagName)) {
         e.preventDefault();
+        if (searchWrap) searchWrap.classList.add("search-visible");
         searchInput.focus();
         searchInput.select();
         return;
@@ -1033,6 +1044,22 @@
         clearBtn.classList.add("visible");
       }
     } catch {}
+
+    // Reveal the nav search only once the hero has scrolled out of view.
+    // If the page loaded with a ?q= query, show it immediately.
+    const searchWrap = document.querySelector(".topnav-search-wrap");
+    if (searchWrap) {
+      const hero = document.querySelector(".index-hero");
+      if (hero && !filterText) {
+        const obs = new IntersectionObserver(
+          ([entry]) => { searchWrap.classList.toggle("search-visible", !entry.isIntersecting); },
+          { threshold: 0 }
+        );
+        obs.observe(hero);
+      } else {
+        searchWrap.classList.add("search-visible");
+      }
+    }
 
     applyFilters();
   } // end boot()

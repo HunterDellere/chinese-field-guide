@@ -132,9 +132,13 @@
   <a href="./" class="topnav-brand" aria-label="Jiǎoluò Shūwū — home" data-home-link>
     <span class="topnav-brand-cn">角書</span><span class="topnav-brand-sep"> · </span><span class="topnav-brand-en">Jiǎoshū</span>
   </a>
+  <div class="topnav-search-wrap">
+    <svg class="topnav-search-icon" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><line x1="16.5" y1="16.5" x2="21" y2="21"/></svg>
+    <input class="topnav-search-input" id="filter-search" type="search" placeholder="Search…" autocomplete="off" spellcheck="false" aria-label="Search entries — character, pinyin, keyword, radical, or HSK level">
+    <button class="topnav-search-clear" id="filter-clear" aria-label="Clear search">×</button>
+  </div>
   <div class="topnav-right">
     <a href="#" class="topnav-random" data-random-entry data-entries-base="" aria-label="Open a random entry"><span aria-hidden="true">⟳</span> Random</a>
-    <a href="#browse" class="topnav-back" aria-label="Browse all entries">Browse</a>
   </div>
 </nav>
 <script src="scripts/enhance.js" defer></script>
@@ -245,15 +249,6 @@
       <h2 class="section-title" id="browse-heading">All the notes</h2>
       <p class="section-sub">Search by character, pinyin, keyword, radical, or HSK level. Or just wander.</p>
 
-      <div class="filter-bar filter-bar-hero" id="filter-bar">
-        <div class="filter-search-wrap">
-          <svg class="filter-search-icon" viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><line x1="16.5" y1="16.5" x2="21" y2="21"/></svg>
-          <input class="filter-search" id="filter-search" type="search" placeholder="Search character, pinyin, keyword, or HSK level…" autocomplete="off" spellcheck="false" aria-label="Search entries — character, pinyin, keyword, radical, or HSK level">
-          <button class="filter-clear" id="filter-clear" aria-label="Clear search">×</button>
-        </div>
-        <span class="filter-shortcut-hint">press <kbd>/</kbd></span>
-      </div>
-
       <div class="browse-controls">
         <div class="hsk-chips" id="hsk-chips" role="group" aria-label="Filter by HSK level"></div>
         <div class="filter-suggest visible" id="filter-suggest"></div>
@@ -275,6 +270,7 @@
       <div class="filter-suggest visible" id="no-results-suggest"></div>
     </div>
 
+    <div id="search-results" class="search-results" aria-live="polite" aria-label="Search results"></div>
     <div id="categories"></div>
   </section>
 

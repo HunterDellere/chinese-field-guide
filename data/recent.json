@@ -1,5 +1,25 @@
 [
   {
+    "path": "pages/characters/chan3_产.html",
+    "type": "character",
+    "category": "characters",
+    "title": "产 · to produce, give birth, property, output",
+    "desc": "From birth to bounty: a character that spans biological generation and industrial output, linking the miracle of birth to the logic of production and wealth.",
+    "tags": [
+      "economy",
+      "commerce",
+      "production",
+      "birth"
+    ],
+    "status": "complete",
+    "char": "产",
+    "pinyin": "chǎn",
+    "tone": 3,
+    "hsk": 3,
+    "radical": "亠",
+    "updated": "2026-04-20"
+  },
+  {
     "path": "pages/characters/gao4_告.html",
     "type": "character",
     "category": "characters",
@@ -127,6 +147,21 @@
     "updated": "2026-04-20"
   },
   {
+    "path": "pages/vocab/chanpin_产品.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "产品 · product, manufactured good",
+    "desc": "The standard Chinese word for product — what production yields and commerce moves. From factory floor to digital marketplace, 产品 names the output of organized human effort.",
+    "tags": [
+      "commerce",
+      "economy",
+      "production"
+    ],
+    "status": "complete",
+    "pinyin": "chǎnpǐn",
+    "updated": "2026-04-20"
+  },
+  {
     "path": "pages/vocab/pinyin_拼音.html",
     "type": "topic",
     "category": "vocab",
@@ -139,6 +174,22 @@
       "literacy"
     ],
     "status": "complete",
+    "updated": "2026-04-20"
+  },
+  {
+    "path": "pages/vocab/shengchan_生产.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "生产 · to produce, production, manufacturing",
+    "desc": "The foundational act of economic life — and, in China's Marxist political vocabulary, the act from which all social relations flow. Life gives rise to production; production sustains life.",
+    "tags": [
+      "economy",
+      "production",
+      "politics",
+      "industry"
+    ],
+    "status": "complete",
+    "pinyin": "shēngchǎn",
     "updated": "2026-04-20"
   },
   {
@@ -296,62 +347,6 @@
     ],
     "status": "complete",
     "pinyin": "zhuànkè",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/characters/ai4_爱.html",
-    "type": "character",
-    "category": "characters",
-    "title": "爱 · love, to love, to cherish",
-    "desc": "Love in all its forms — romantic, familial, and the Confucian ethic of universal benevolence.",
-    "tags": [
-      "emotion",
-      "romance",
-      "confucianism"
-    ],
-    "status": "complete",
-    "char": "爱",
-    "pinyin": "ài",
-    "tone": 4,
-    "hsk": 1,
-    "radical": "爫",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/characters/bian4_变.html",
-    "type": "character",
-    "category": "characters",
-    "title": "变 · to change, to transform",
-    "desc": "The character at the heart of the I Ching, the dynastic cycle, and the modern vocabulary of reform — change as the one constant.",
-    "tags": [
-      "philosophy",
-      "change"
-    ],
-    "status": "complete",
-    "char": "变",
-    "pinyin": "biàn",
-    "tone": 4,
-    "hsk": 3,
-    "radical": "又",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/characters/bu4_不.html",
-    "type": "character",
-    "category": "characters",
-    "title": "不 · no, not, negation",
-    "desc": "The great negator — the most used character in Mandarin and the foundation of all denial.",
-    "tags": [
-      "grammar",
-      "negation",
-      "syntax"
-    ],
-    "status": "complete",
-    "char": "不",
-    "pinyin": "bù",
-    "tone": 4,
-    "hsk": 1,
-    "radical": "一",
     "updated": "2026-04-19"
   }
 ]

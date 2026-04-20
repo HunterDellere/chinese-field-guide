@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <filter id="paper">
+      <feTurbulence type="fractalNoise" baseFrequency="0.65" numOctaves="5" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+    </filter>
+    <radialGradient id="vignette" cx="50%" cy="0%" r="80%">
+      <stop offset="0%" stop-color="#a06428" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#f2e8d5" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#f2e8d5"/>
+  <rect width="1200" height="630" fill="url(#vignette)"/>
+  <rect width="1200" height="630" filter="url(#paper)" opacity="0.06"/>
+  <line x1="60" y1="60" x2="1140" y2="60" stroke="#a06428" stroke-width="3"/>
+  <line x1="60" y1="570" x2="1140" y2="570" stroke="#a06428" stroke-width="3"/>
+  <text x="80" y="100" font-family="Inconsolata, monospace" font-size="22" letter-spacing="6" fill="#6b5535" text-transform="uppercase">JIǍOLUÒ SHŪWŪ · 角落書屋</text>
+  <text x="1120" y="100" font-family="Inconsolata, monospace" font-size="22" letter-spacing="3" fill="#6b5535" text-anchor="end">vocab</text>
+  <text x="600" y="275" font-family="Noto Serif SC, serif" font-size="280" font-weight="700" fill="#a06428" text-anchor="middle" dominant-baseline="middle">产品</text>
+  <text x="600" y="460" font-family="Inconsolata, monospace" font-size="40" letter-spacing="4" fill="#a06428" text-anchor="middle" dominant-baseline="middle">chǎnpǐn</text>
+  <text x="600" y="525" font-family="Cormorant Garamond, Georgia, serif" font-style="italic" font-size="30" fill="#2e2010" text-anchor="middle" dominant-baseline="middle">product, manufactured good</text>
+</svg>

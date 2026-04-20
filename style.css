@@ -224,6 +224,70 @@ body {
 .topnav-random.loading span { animation: spin 0.9s linear infinite; }
 @keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
 
+/* ── Homepage topnav search ─────────────────────────────────────────────── */
+.topnav-search-wrap {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  max-width: 420px;
+  margin: 0 1.5rem;
+  background: rgba(255,255,255,0.07);
+  border: 1px solid rgba(160,100,40,0.25);
+  border-radius: 6px;
+  padding: 0 0.5rem 0 0.6rem;
+  opacity: 0;
+  pointer-events: none;
+  transition: border-color 0.15s, background 0.15s, opacity 0.25s;
+}
+.topnav-search-wrap.search-visible {
+  opacity: 1;
+  pointer-events: auto;
+}
+.topnav-search-wrap:focus-within {
+  background: rgba(255,255,255,0.1);
+  border-color: rgba(160,100,40,0.6);
+}
+.topnav-search-icon {
+  color: rgba(200,180,140,0.5);
+  flex-shrink: 0;
+  transition: color 0.15s;
+}
+.topnav-search-wrap:focus-within .topnav-search-icon { color: var(--ochre-2); }
+.topnav-search-input {
+  flex: 1;
+  background: none;
+  border: none;
+  outline: none;
+  color: var(--papyrus);
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.04em;
+  padding: 0 0.4rem;
+  height: 32px;
+  -webkit-appearance: none;
+}
+.topnav-search-input::placeholder { color: rgba(200,180,140,0.4); }
+.topnav-search-input::-webkit-search-cancel-button { display: none; }
+.topnav-search-clear {
+  display: none;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+  background: none;
+  border: none;
+  color: rgba(200,180,140,0.5);
+  font-size: 1rem;
+  line-height: 1;
+  cursor: pointer;
+  padding: 0;
+  flex-shrink: 0;
+  border-radius: 3px;
+  transition: color 0.12s;
+}
+.topnav-search-clear:hover { color: var(--ochre-2); }
+.topnav-search-clear.visible { display: inline-flex; }
+
 /* Auto-link tooltip */
 .al-tooltip {
   position: absolute;
@@ -1660,7 +1724,7 @@ a.pf-btn-share:focus-visible, button.pf-btn-share:focus-visible {
     border-bottom: none;
     border-top: 1px solid var(--red);
     border-radius: 14px 14px 0 0;
-    padding: 1.2rem 0 1.5rem;
+    padding: 1.2rem 0 5rem;
     display: none;
     background: var(--papyrus);
     box-shadow: 0 -8px 20px rgba(28,18,8,0.18);
@@ -1723,6 +1787,8 @@ a.pf-btn-share:focus-visible, button.pf-btn-share:focus-visible {
   .topnav-random { font-size: 0.6rem; letter-spacing: 0.12em; }
   .topnav-back { font-size: 0.6rem; letter-spacing: 0.12em; }
   .topnav-brand-sep, .topnav-brand-en { display: none; }
+  .topnav-search-wrap { margin: 0 0.6rem; max-width: none; }
+  .topnav-search-input { font-size: 0.68rem; height: 30px; }
   /* Larger tap target on mobile — ensures home link is easy to hit with a thumb */
   .topnav-brand {
     padding: 0.5rem 0.9rem 0.5rem 0.5rem;
