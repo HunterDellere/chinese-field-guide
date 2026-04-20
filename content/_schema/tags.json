@@ -249,5 +249,9 @@
   {"slug": "body",              "label": "Body"},
   {"slug": "pragmatics",        "label": "Pragmatics"},
   {"slug": "spoken",            "label": "Spoken"},
-  {"slug": "past-tense",        "label": "Past Tense"}
+  {"slug": "past-tense",        "label": "Past Tense"},
+  {"slug": "hsk",               "label": "HSK"},
+  {"slug": "wordlist",          "label": "Word List"},
+  {"slug": "advanced",          "label": "Advanced"},
+  {"slug": "hub",               "label": "Hub"}
 ]

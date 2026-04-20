@@ -1,0 +1,1183 @@
+# HSK Level 2
+
+Source: ivankra/hsk30 (vocabulary, traditional forms, pinyin, POS); krmanik/HSK-3.0 (characters, grammar). Based on 《国际中文教育中文水平等级标准》GF 0025—2021 (Ministry of Education PRC, 2021). Fetched April 2026.
+
+Counts: 300 characters · 772 vocabulary words · 85 grammar points
+
+---
+
+## Characters
+
+One character per line. When traditional form differs from simplified, shown as `simplified / traditional`.
+
+- 啊
+- 安
+- 般
+- 板
+- 办 / 辦
+- 饱 / 飽
+- 报 / 報
+- 背
+- 笔 / 筆
+- 必
+- 变 / 變
+- 便
+- 遍
+- 表
+- 部
+- 才
+- 参
+- 餐
+- 草
+- 层 / 層
+- 查
+- 长 / 長
+- 超
+- 晨
+- 称
+- 成
+- 楚
+- 处 / 處
+- 船
+- 吹
+- 春
+- 词 / 詞
+- 带 / 帶
+- 单 / 單
+- 但
+- 当 / 當
+- 倒
+- 灯 / 燈
+- 低
+- 典
+- 掉
+- 定
+- 冬
+- 懂
+- 度
+- 短
+- 段
+- 队 / 隊
+- 而
+- 发 / 發
+- 法
+- 份
+- 封
+- 复
+- 该 / 該
+- 改
+- 感
+- 刚 / 剛
+- 更
+- 公
+- 共
+- 狗
+- 够 / 夠
+- 故
+- 顾 / 顧
+- 观
+- 惯 / 慣
+- 广 / 廣
+- 海
+- 喊
+- 合
+- 河
+- 黑
+- 红 / 紅
+- 忽
+- 湖
+- 护 / 護
+- 划 / 劃
+- 画 / 畫
+- 换 / 換
+- 黄 / 黃
+- 活
+- 或
+- 级 / 級
+- 急
+- 己
+- 计 / 計
+- 际
+- 绩
+- 加
+- 检
+- 件
+- 健
+- 讲 / 講
+- 交
+- 角
+- 饺
+- 脚 / 腳
+- 接
+- 街
+- 节 / 節
+- 结 / 結
+- 借
+- 斤
+- 近
+- 经 / 經
+- 睛
+- 静 / 靜
+- 久
+- 酒
+- 举 / 舉
+- 句
+- 卡
+- 康
+- 靠
+- 科
+- 可
+- 克
+- 刻
+- 空
+- 哭
+- 筷
+- 拉
+- 蓝 / 藍
+- 篮
+- 乐 / 樂
+- 离 / 離
+- 礼 / 禮
+- 理
+- 力
+- 利
+- 例
+- 脸 / 臉
+- 练 / 練
+- 凉 / 涼
+- 亮
+- 辆 / 輛
+- 量
+- 留
+- 流
+- 旅
+- 绿 / 綠
+- 论
+- 卖 / 賣
+- 满 / 滿
+- 猫 / 貓
+- 末
+- 目
+- 鸟 / 鳥
+- 弄
+- 努
+- 爬
+- 怕
+- 排
+- 碰
+- 篇
+- 片
+- 漂
+- 平
+- 瓶
+- 普
+- 其
+- 骑 / 騎
+- 千
+- 墙 / 牆
+- 且
+- 青
+- 轻 / 輕
+- 清
+- 情
+- 晴
+- 秋
+- 求
+- 取
+- 全
+- 确
+- 然
+- 让 / 讓
+- 如
+- 人
+- 色
+- 声 / 聲
+- 省
+- 实
+- 食
+- 使
+- 示
+- 市
+- 适
+- 室
+- 收
+- 受
+- 舒
+- 熟
+- 数 / 數
+- 顺 / 順
+- 司
+- 思
+- 算
+- 虽 / 雖
+- 随 / 隨
+- 所
+- 它
+- 态
+- 堂
+- 讨 / 討
+- 套
+- 特
+- 疼
+- 提
+- 题 / 題
+- 铁 / 鐵
+- 庭
+- 停
+- 挺
+- 通
+- 头 / 頭
+- 推
+- 腿
+- 完
+- 碗
+- 万 / 萬
+- 王
+- 往
+- 为 / 為
+- 位
+- 味
+- 喂 / 餵
+- 温
+- 闻 / 聞
+- 务
+- 物
+- 夏
+- 相
+- 响 / 響
+- 向
+- 像
+- 鞋
+- 心
+- 信
+- 姓
+- 须 / 須
+- 许 / 許
+- 选 / 選
+- 雪
+- 言
+- 颜
+- 眼
+- 阳
+- 养 / 養
+- 药 / 藥
+- 业
+- 夜
+- 宜
+- 已
+- 以
+- 椅
+- 亿 / 億
+- 意
+- 因
+- 阴 / 陰
+- 音
+- 银 / 銀
+- 印
+- 应 / 應
+- 英
+- 迎
+- 永
+- 由
+- 油
+- 游
+- 又
+- 于
+- 鱼 / 魚
+- 育
+- 园 / 園
+- 原
+- 愿 / 願
+- 越
+- 云 / 雲
+- 运 / 運
+- 咱
+- 脏 / 髒
+- 澡
+- 占
+- 照
+- 者
+- 直
+- 只 / 隻
+- 纸 / 紙
+- 钟 / 鐘
+- 周 / 週
+- 主
+- 助
+- 装 / 裝
+- 自
+- 租
+- 组 / 組
+- 嘴
+- 座
+
+---
+
+## Vocabulary
+
+One word per line, in source order. Format: `simplified — pinyin — POS — English gloss`. When traditional form differs from simplified, shown as `simplified / traditional`. Items marked `[gloss needed]` are lower-frequency entries requiring specialist verification.
+
+- 啊 — a — Aux — particle: exclamation, surprise, or softening
+- 爱情 / 愛情 — àiqíng — N — love (romantic)
+- 爱人 / 愛人 — àiren — N — spouse (husband or wife)
+- 安静 / 安靜 — ānjìng — Adj/V — quiet, peaceful, calm
+- 安全 — ānquán — Adj/N — safe, secure; safety
+- 白色 — báisè — N — white (color)
+- 班长 / 班長 — bānzhǎng — N — class monitor; team leader
+- 办 / 辦 — bàn — V — to do, to handle, to manage
+- 办法 / 辦法 — bànfǎ — N — method, way, means
+- 办公室 / 辦公室 — bàngōngshì — N — office
+- 半夜 — bànyè — N — midnight, middle of the night
+- 帮助 / 幫助 — bāngzhù — V — to help; assistance
+- 饱 / 飽 — bǎo — Adj — full (after eating), satiated
+- 报名 / 報名 — bàomíng — to sign up, to register
+- 报纸 / 報紙 — bàozhǐ — N — newspaper
+- 北方 — běifāng — N — the north, northern region
+- 背 — bèi — V — to carry on back; to recite from memory
+- 比如 — bǐrú — V — for example, such as
+- 比如说 / 比如說 — bǐrú shuō — for example, for instance
+- 笔 / 筆 — bǐ — N/M — pen, pencil; brush
+- 笔记 / 筆記 — bǐjì — N — notes (written)
+- 笔记本 / 筆記本 — bǐjìběn — N — notebook; laptop
+- 必须 / 必須 — bìxū — Adv — must, have to
+- 边 / 邊 — biān — N — side, edge; while (doing)
+- 变 / 變 — biàn — V — to change, to transform
+- 变成 / 變成 — biànchéng — to become, to turn into
+- 遍 — biàn — M — MW for complete actions from start to finish
+- 表 — biǎo — N — watch; form; surface; to express
+- 表示 — biǎoshì — V/N — to express, to indicate
+- 不错 / 不錯 — bùcuò — Adj — not bad, pretty good
+- 不但 — bùdàn — Conj — not only
+- 不够 / 不夠 — bùgòu — V/Adv — not enough, insufficient
+- 不过 / 不過 — bùguò — Conj — but, however; no more than
+- 不太 — bù tài — not very
+- 不要 — bùyào — Adv — don't; don't want
+- 不好意思 — bù hǎoyìsi — embarrassed; excuse me
+- 不久 — bùjiǔ — Adj — soon, before long
+- 不满 / 不滿 — bùmǎn — Adj — dissatisfied, discontented
+- 不如 — bùrú — V — not as good as; had better
+- 不少 — bù shǎo — quite a few
+- 不同 — bù tóng — different
+- 不行 — bùxíng — V/Adj — not OK; not capable
+- 不一定 — bùyīdìng — Adv — not necessarily
+- 不一会儿 / 不一會兒 — bù yīhuìr — in a short while, soon
+- 部分 — bùfen — N — part, portion, section
+- 才 — cái — Adv — just, only then; talented
+- 菜单 / 菜單 — càidān — N — menu
+- 参观 / 參觀 — cānguān — V — to visit (a place), to look around
+- 参加 / 參加 — cānjiā — V — to participate, to attend
+- 草 — cǎo — N — grass, plant
+- 草地 — cǎodì — N — lawn, grassy area
+- 层 / 層 — céng — M — floor, story; layer; MW for layers
+- 查 — chá — V — to check, to look up, to investigate
+- 差不多 — chàbuduō — Adj/Adv — almost, nearly; about the same
+- 长 / 長 — cháng — Adj — long (length); often
+- 常见 / 常見 — cháng jiàn — common, commonly seen
+- 常用 — cháng yòng — commonly used, frequently used
+- 场 / 場 — chǎng — M — MW for performances, sporting events
+- 超过 / 超過 — chāoguò — V — to exceed, to surpass
+- 超市 — chāoshì — N — supermarket
+- 车辆 / 車輛 — chēliàng — N — vehicles, motor vehicles
+- 称1 / 稱1 — chēng — V — to weigh; to call, to be named
+- 成 — chéng — V — to become; to accomplish; OK
+- 成绩 / 成績 — chéngjì — N — grade, result, achievement
+- 成为 / 成為 — chéngwéi — V — to become
+- 重复 / 重複 — chóngfù — V — to repeat; repetition
+- 重新 — chóngxīn — Adv — again, anew, afresh
+- 出发 / 出發 — chūfā — V — to set out, to depart
+- 出国 / 出國 — chūguó — to go abroad
+- 出口 — chūkǒu — N — exit; to export
+- 出门 / 出門 — chūmén — to go out of the house, to leave home
+- 出生 — chūshēng — V — to be born; birth
+- 出现 / 出現 — chūxiàn — V — to appear, to emerge, to show up
+- 出院 — chūyuàn — to be discharged from hospital
+- 出租 — chūzū — V — to rent out; for hire
+- 出租车 / 出租車 — chūzūchē — N — taxi, cab
+- 船 — chuán — N — boat, ship, vessel
+- 吹 — chuī — V — to blow; to play (wind instrument); to brag
+- 春节 / 春節 — Chūnjié — N — Chinese New Year, Spring Festival
+- 春天 — chūntiān — N — spring (season)
+- 词 / 詞 — cí — N — word; lyrics
+- 词典 / 詞典 — cídiǎn — N — dictionary
+- 词语 / 詞語 — cíyǔ — N — words and expressions, vocabulary
+- 从小 / 從小 — cóngxiǎo — Adv — from childhood, since childhood
+- 答应 / 答應 — dāying — V — to answer; to promise, to agree
+- 打工 — dǎgōng — to do odd jobs, to work (for wages)
+- 打算 — dǎsuàn — V/N — to plan, to intend; plan, intention
+- 打印 — dǎyìn — V — to print
+- 大部分 — dàbùfen — N — the majority, most of
+- 大大 — dàdà — Adv — greatly, considerably
+- 大多数 / 大多數 — dàduōshù — N — the majority, most
+- 大海 — dàhǎi — N — the sea, the ocean
+- 大家 — dàjiā — Pron — everyone, everybody
+- 大量 — dàliàng — Adj — a large quantity of
+- 大门 / 大門 — dàmén — N — main gate, main entrance
+- 大人 — dàren — N — adult; authority figure
+- 大声 / 大聲 — dà shēng — loudly
+- 大小 — dàxiǎo — N — size; big and small
+- 大衣 — dàyī — N — overcoat, coat
+- 大自然 — dàzìrán — N — nature (the natural world)
+- 带 / 帶 — dài — V — to bring, to carry; belt, band, zone
+- 带来 / 帶來 — dàilái — to bring, to bring about
+- 单位 / 單位 — dānwèi — N — unit; work unit, organization
+- 但 — dàn — Conj — but, however, yet
+- 但是 — dànshì — Conj — but, however
+- 蛋 — dàn — N — egg
+- 当 / 當 — dāng — V/Prep — to serve as; when; should
+- 当时 / 當時 — dāngshí — N — at that time, then
+- 倒 — dǎo — V — to fall over; to pour; on the contrary
+- 到处 / 到處 — dàochù — Adv — everywhere, all over
+- 倒 — dào — V — to fall over; to pour; on the contrary
+- 道 — dào — M — road; way; to say; MW for orders, dishes
+- 道理 — dàolǐ — N — reason, truth, principle
+- 道路 — dàolù — N — road, path; way (figurative)
+- 得 — dé — V — to get, to obtain; must; structural particle
+- 得出 — déchū — to reach (a conclusion), to derive
+- 的话 / 的話 — dehuà — Aux — if (conditional particle)
+- 得 — de — Aux — to get, to obtain; must; structural particle
+- 灯 / 燈 — dēng — N — lamp, light
+- 等 — děng — Aux/N — to wait; et cetera; equal
+- 等到 — děngdào — Prep — to wait until
+- 等于 / 等於 — děngyú — V — to equal, to be equivalent to
+- 低 — dī — Adj/V — low; to lower
+- 地球 — dìqiú — N — the Earth, the globe
+- 地铁 / 地鐵 — dìtiě — N — subway, metro, underground railway
+- 地铁站 / 地鐵站 — dìtiězhàn — N — subway station, metro station
+- 点头 / 點頭 — diǎntóu — to nod one's head
+- 店 — diàn — N — shop, store
+- 掉 — diào — V — to fall, to drop; to lose
+- 东北 / 東北 — dōngběi — N — northeast
+- 东方 / 東方 — dōngfāng — N — the East, eastern direction
+- 东南 / 東南 — dōngnán — N — southeast
+- 冬天 — dōngtiān — N — winter
+- 懂 — dǒng — V — to understand, to comprehend
+- 懂得 — dǒngde — V — to understand, to know
+- 动物 / 動物 — dòngwù — N — animal
+- 动物园 / 動物園 — dòngwùyuán — N — zoo
+- 读音 / 讀音 — dúyīn — N — pronunciation, reading (of a character)
+- 度 — dù — N/M — degree (temperature, angle); MW for degrees
+- 短 — duǎn — Adj — short (in length)
+- 短信 — duǎnxìn — N — text message, SMS
+- 段 — duàn — M — MW for passages, paragraphs, time periods
+- 队 / 隊 — duì — N — team, group; queue, line
+- 队长 / 隊長 — duìzhǎng — N — team captain, team leader
+- 对 / 對 — duì — Prep/V — correct, right; toward
+- 对话 / 對話 — duìhuà — V/N — to have a dialogue; dialogue, conversation
+- 对面 / 對面 — duìmiàn — N — opposite side, across from
+- 多 — duō — Adv — many, much; how (interrogative)
+- 多久 — duōjiǔ — Pron — how long (time)
+- 多么 / 多麼 — duōme — Adv — how (exclamatory)
+- 多数 / 多數 — duōshù — N — the majority
+- 多云 / 多雲 — duōyún — N — cloudy, overcast
+- 而且 — érqiě — Conj — moreover, furthermore
+- 发 / 發 — fā — V — to send out, to emit; hair; to start
+- 发现 / 發現 — fāxiàn — V/N — to discover; discovery
+- 饭馆 / 飯館 — fànguǎn — N — restaurant
+- 方便 — fāngbiàn — Adj — convenient; to be convenient
+- 方便面 / 方便麵 — fāngbiànmiàn — N — instant noodles
+- 方法 — fāngfǎ — N — method, way
+- 方面 — fāngmiàn — N — aspect, side, respect
+- 方向 — fāngxiàng — N — direction
+- 放下 — fàngxia — to put down, to set down
+- 放心 — fàngxīn — to be at ease, to relax; rest assured
+- 分 — fēn — V — minute; score; to divide
+- 分开 / 分開 — fēnkāi — to separate, to part
+- 分数 / 分數 — fēnshù — N — score, grade, fraction
+- 分钟 / 分鐘 — fēnzhōng — M — minute
+- 份 — fèn — M — MW for portions, shares, copies
+- 封 — fēng — M — MW for letters, envelopes; to seal
+- 服务 / 服務 — fúwù — V — to serve; service
+- 复习 / 複習 — fùxí — V — to review (lessons)
+- 该 / 該 — gāi — V — should, ought to; that particular
+- 改 — gǎi — V — to change, to correct, to alter
+- 改变 / 改變 — gǎibiàn — V/N — to change; change
+- 干杯 / 乾杯 — gānbēi — to toast (drinks); cheers!
+- 感到 — gǎndào — V — to feel, to sense
+- 感动 / 感動 — gǎndòng — Adj/V — to be moved or touched; touching
+- 感觉 / 感覺 — gǎnjué — V/N — feeling, sensation; to feel
+- 感谢 / 感謝 — gǎnxiè — V — to thank, to be grateful; gratitude
+- 干活儿 / 幹活兒 — gànhuór — to do physical work, to labor
+- 刚 / 剛 — gāng — Adv — just, just now; hard, firm
+- 刚才 — gāngcái — N — just now, a moment ago
+- 刚刚 / 剛剛 — gānggāng — Adv — just, just now
+- 高级 / 高級 — gāojí — Adj — high-level, advanced, senior
+- 高中 — gāozhōng — N — high school, senior middle school
+- 个子 / 個子 — gèzi — N — height, stature, build
+- 更 — gèng — Adv — even more, still more
+- 公共汽车 / 公共汽車 — gōnggòng qìchē — public bus
+- 公交车 / 公交車 — gōngjiāochē — N — public bus, city bus
+- 公斤 — gōngjīn — M — kilogram
+- 公里 — gōnglǐ — M — kilometer
+- 公路 — gōnglù — N — highway, road
+- 公平 — gōngpíng — Adj — fair, just, impartial
+- 公司 — gōngsī — N — company, corporation
+- 公园 — gōngyuán — N — park (for public recreation), CL:座[zuo4]
+- 狗 — gǒu — N — dog
+- 够 / 夠 — gòu — V/Adv — enough, sufficient; to reach
+- 故事 — gùshi — N — story, tale
+- 故意 — gùyì — Adv — deliberately, on purpose
+- 顾客 / 顧客 — gùkè — N — customer, client
+- 关机 / 關機 — guānjī — to turn off (a phone/device)
+- 关心 / 關心 — guānxīn — V — to care about, to show concern
+- 观点 / 觀點 — guāndiǎn — N — viewpoint, standpoint
+- 广场 / 廣場 — guǎngchǎng — N — public square, plaza
+- 广告 / 廣告 — guǎnggào — N — advertisement, commercial
+- 国际 / 國際 — guójì — N — international
+- 过来 / 過來 — guòlái — V — to come over; to regain consciousness
+- 过年 / 過年 — guònián — to celebrate the New Year
+- 过去 / 過去 — guòqù — V — the past; to pass by, to go over
+- 过 / 過 — guo — Aux — to pass; experiential particle
+- 海 — hǎi — N — sea, ocean
+- 海边 / 海邊 — hǎi biān — seaside, by the sea
+- 喊 — hǎn — V — to call out, to shout, to yell
+- 好 — hǎo — Adv — good, well; easy to
+- 好处 / 好處 — hǎochù — N — benefit, advantage
+- 好多 — hǎoduō — Num — many, a lot of
+- 好久 — hǎojiǔ — Adj — a long time, for quite a while
+- 好人 — hǎorén — N — good person, kind person
+- 好事 — hǎoshì — N — good thing, good deed
+- 好像 — hǎoxiàng — Adv/V — to seem, to be like; as if
+- 合适 / 合適 — héshì — Adj — suitable, appropriate
+- 河 — hé — N — river
+- 黑 — hēi — Adj — short name for Heilongjiang 黑龍江|黑龙江[Hei1 long2 jia
+- 黑板 — hēibǎn — N — blackboard, chalkboard
+- 黑色 — hēisè — N — black
+- 红 — hóng — Adj — surname Hong
+- 红色 — hóngsè — N — red (color), revolutionary
+- 后来 — hòulái — N — afterwards; later, newly arrived
+- 忽然 — hūrán — Adv — suddenly, all of a sudden
+- 湖 — hú — N — lake
+- 护照 / 護照 — hùzhào — N — passport
+- 花 — huā — V — flower; to spend (money/time)
+- 花园 — huāyuán — N — garden (for flowers, ornamental plants etc); (land, CL:座[zuo4]
+- 画 / 畫 — huà — V — picture, painting; to draw, to paint
+- 画家 / 畫家 — huàjiā — N — painter, artist
+- 画儿 / 畫兒 — huàr — N — picture, drawing
+- 坏处 — huàichù — N — harm, troubles, CL:個|个[ge4]
+- 坏人 / 壞人 — huàirén — N — bad person, villain
+- 欢迎 — huānyíng — V — to welcome, welcome
+- 换 / 換 — huàn — V — to change, to exchange, to replace
+- 黄 / 黃 — huáng — Adj — yellow
+- 黄色 / 黃色 — huángsè — N — yellow (color)
+- 回 — huí — M — to return; MW for occurrences
+- 回国 / 回國 — huí guó — to return to one's home country
+- 会 / 會 — huì — N — can, be able to; will; meeting
+- 活动 — huódòng — V/N — to exercise; to move about; to work out, shaky; unsteady; loose (tooth etc), movable; flexible; liquid (capital etc)
+- 或 — huò — Conj — or; either
+- 或者 — huòzhě — Conj — or, possibly; maybe; perhaps
+- 机会 — jīhuì — N — opportunity, chance, occasion
+- 鸡 / 雞 — jī — N — chicken; rooster
+- 级 / 級 — jí — N — level, grade, rank
+- 急 — jí — Adj — urgent, pressing; anxious
+- 计划 / 計劃 — jìhuà — N/V — plan; to plan
+- 计算机 / 計算機 — jìsuànjī — N — computer
+- 加 — jiā — V — Canada (abbr. for 加拿大[Jia1 na2 da4]), surname Jia
+- 加油 — jiāyóu — to cheer on; keep it up!
+- 家（科学家） / 家（科學家） — jiā (kēxuéjiā) — Suffix — expert, specialist suffix (e.g., 科学家 scientist)
+- 家庭 — jiātíng — N — family, household
+- 家长 / 家長 — jiāzhǎng — N — parent, guardian
+- 假 — jiǎ — Adj — fake, false, artificial
+- 假期 — jiàqī — N — vacation
+- 检查 / 檢查 — jiǎnchá — V/N — to check, to inspect; examination
+- 见到 / 見到 — jiàndào — to see, to meet (someone)
+- 见过 / 見過 — jiànguo — to have seen (someone/something)
+- 件 — jiàn — M — item, component, classifier for events, things, clothes etc
+- 健康 — jiànkāng — Adj/N — health, healthy
+- 讲 / 講 — jiǎng — V — to speak, to explain, to tell
+- 讲话 / 講話 — jiǎnghuà — to give a speech; speech, talk
+- 交 — jiāo — V — to hand over; to deliver; to pay (money); to turn , to make friends, (of lines) to intersect
+- 交给 / 交給 — jiāo gěi — to hand over to, to entrust to
+- 交朋友 — jiāo péngyou — to make friends
+- 交通 — jiāotōng — N — traffic; communications
+- 角 — jiǎo — M/N — 10 cents (jiǎo); corner, angle
+- 角度 — jiǎodù — N — angle; point of view
+- 饺子 / 餃子 — jiǎozi — N — dumpling (boiled)
+- 脚 / 腳 — jiǎo — N — foot; leg (of furniture)
+- 叫作 — jiàozuò — V — to be called, to be known as
+- 教师 / 教師 — jiàoshī — N — teacher, educator
+- 教室 — jiàoshì — N — classroom, CL:間|间[jian1]
+- 教学 / 教學 — jiàoxué — N — teaching and learning; instruction
+- 教育 — jiàoyù — V/N — education; to educate
+- 接 — jiē — V — to receive, to answer (the phone), to meet or welcome sb
+- 接到 — jiēdào — to receive (a call/message)
+- 接受 — jiēshòu — V — to accept, to receive
+- 接下来 / 接下來 — jiē xiàlái — next, following, what comes next
+- 接着 / 接著 — jiēzhe — V/Adv — to continue; then, next
+- 街 — jiē — N — street, CL:條|条[tiao2]
+- 节 / 節 — jié — N/M — festival, holiday; section, part; MW for lessons
+- 节目 / 節目 — jiémù — N — program, show (TV/performance)
+- 节日 — jiérì — N — holiday, festival, CL:個|个[ge4]
+- 结果 / 結果 — jiéguǒ — N/Conj — result, outcome; as a result
+- 借 — jiè — V — to borrow, to lend
+- 斤 — jīn — M — jin (0.5 kg); catty
+- 今后 / 今後 — jīnhòu — N — from now on, in the future
+- 进入 / 進入 — jìnrù — V — to enter, to go into
+- 进行 — jìnxíng — V — (of a process etc) to proceed; to be in progress; , (of people) to carry out; to conduct (an investiga, (of an army etc) to be on the march; to advance
+- 近 — jìn — Adj — near, close
+- 经常 — jīngcháng — Adv — frequently; constantly; regularly; often, day-to-day; everyday; daily
+- 经过 / 經過 — jīngguò — V/N — to pass by, to go through; process
+- 经理 / 經理 — jīnglǐ — N — manager, director
+- 酒 — jiǔ — N — alcohol, wine, liquor
+- 酒店 — jiǔdiàn — N — hotel; bar
+- 就要 — jiùyào — Adv — about to, going to (imminently)
+- 举 / 舉 — jǔ — V — to lift, to raise; to hold
+- 举手 / 舉手 — jǔshǒu — V — to raise one's hand
+- 举行 — jǔxíng — V — to hold (a meeting, ceremony etc)
+- 句 — jù — M — MW for sentences
+- 句子 — jùzi — N — sentence
+- 卡 — kǎ — N — card; calorie; to be stuck
+- 开机 / 開機 — kāijī — to turn on (a phone/device)
+- 开心 / 開心 — kāixīn — Adj/V — happy, joyful; to feel happy
+- 开学 / 開學 — kāixué — school starts; to start a new term
+- 看法 — kànfǎ — N — view, opinion, perspective
+- 考生 — kǎoshēng — N — exam candidate, test-taker
+- 靠 — kào — V — to lean on; to rely on; near
+- 科 — kē — N — department, subject; branch of study
+- 科学 / 科學 — kēxué — N/Adj — science; scientific
+- 可爱 — kě'ài — Adj — adorable, cute, lovely
+- 可能 — kěnéng — V/Adj/N — possible; possibly; perhaps; possibility
+- 可怕 — kěpà — Adj — frightening, terrible, dreadful
+- 可是 — kěshì — Conj — but, however
+- 可以 — kěyǐ — V — can, may, possible
+- 克 — kè — M — gram
+- 刻 — kè — M — quarter of an hour; to carve
+- 客人 — kèrén — N — guest, visitor, customer
+- 课堂 / 課堂 — kètáng — N — classroom; class (in session)
+- 空气 / 空氣 — kōngqì — N — air
+- 哭 — kū — V — to cry, to weep
+- 快餐 — kuàicān — N — fast food
+- 快点儿 / 快點兒 — kuài diǎnr — faster, hurry up
+- 快乐 / 快樂 — kuàilè — Adj — happy, joyful
+- 快要 — kuàiyào — Adv — about to, soon
+- 筷子 — kuàizi — N — chopsticks
+- 拉 — lā — V — to pull, to drag; to play (string instrument)
+- 来自 / 來自 — láizì — V — to come from
+- 蓝 — lán — Adj — surname Lan
+- 蓝色 / 藍色 — lánsè — N — blue (color)
+- 篮球 / 籃球 — lánqiú — N — basketball
+- 老 — lǎo — Adv — old; for a long time; always
+- 老（老王） — lǎo (Lǎo Wáng) — Prefix — prefix for address (e.g., 老王 Old Wang)
+- 老年 — lǎonián — N — old age, senior years
+- 老朋友 — lǎo péngyou — old friend
+- 老是 — lǎoshì — Adv — always, constantly
+- 离 — lí — V/Prep — surname Li
+- 离开 / 離開 — líkāi — to leave, to depart from
+- 礼物 — lǐwù — N — gift; present, CL:件[jian4],份[fen4]
+- 里头 / 裡頭 — lǐtou — N — inside, interior
+- 理想 — lǐxiǎng — N — ideal; ideal, dream
+- 例如 — lìrú — V — for example, for instance
+- 例子 — lìzi — N — example, case
+- 脸 / 臉 — liǎn — N — face
+- 练 / 練 — liàn — V — to practice, to drill
+- 练习 — liànxí — V/N — to practice, exercise, drill
+- 凉 / 涼 — liáng — Adj — cool, cold; disappointing
+- 凉快 — liángkuai — Adj — pleasantly cool (weather etc), to cool oneself; to cool off, (Tw) (slang) (of clothing) scanty; revealing
+- 两 / 兩 — liǎng — M — two (before measure words); both
+- 亮 — liàng — Adj/V — bright, shiny; to be bright
+- 辆 / 輛 — liàng — M — MW for vehicles
+- 零下 — líng xià — below zero, sub-zero
+- 留 — liú — V — to stay; to keep; to leave (a message)
+- 留下 — liúxia — to stay behind; to leave (something behind)
+- 留学生 / 留學生 — liúxuéshēng — N — international student, student studying abroad
+- 流 — liú — V — to flow, to drift; current
+- 流利 — liúlì — Adj — fluent, smooth
+- 流行 — liúxíng — V/Adj — popular, fashionable; to spread
+- 路边 / 路邊 — lù biān — roadside, the side of the road
+- 旅客 — lǚkè — N — traveler, passenger
+- 旅行 — lǚxíng — V — to travel; travel, journey
+- 旅游 / 旅遊 — lǚyóu — V — to travel; tourism
+- 绿 — lǜ — Adj — used in names
+- 绿色 — lǜsè — N — green
+- 卖 / 賣 — mài — V — to sell
+- 满 / 滿 — mǎn — Adj — full; satisfied; completely
+- 满意 — mǎnyì — V — satisfied, pleased, to one's satisfaction
+- 猫 / 貓 — māo — N — cat
+- 米 — mǐ — M — rice (uncooked); meter
+- 面1 — miàn — N/M — face; surface; MW for flat objects
+- 面2 — miàn — N — noodles; flour
+- 面前 — miànqián — N — in front of, before (a person)
+- 名 — míng — N/M — name; MW for people; fame
+- 名称 / 名稱 — míngchēng — N — name, title, designation
+- 名单 / 名單 — míngdān — N — name list, roster
+- 明星 — míngxīng — N — star (celebrity), famous person
+- 目的 — mùdì — N — purpose, aim, goal
+- 拿出 — náchū — to take out, to produce
+- 拿到 — nádào — to get, to obtain
+- 那 — nà — Conj — that; then
+- 那会儿 / 那會兒 — nàhuìr — Pron — at that time, then
+- 那么 — nàme — Pron — like that; in that way; to that extent, (before a number) ... or so; about ..., then; in that case
+- 那时候 / 那時候 — nà shíhou|nà shí — at that time
+- 那样 / 那樣 — nàyàng — Pron — like that, in that way
+- 南方 — nánfāng — N — south; southern direction, (in China) southern regions, often referring to ar
+- 难过 / 難過 — nánguò — Adj — sad, unhappy; to feel bad
+- 难看 / 難看 — nánkàn — Adj — ugly; embarrassing
+- 难受 / 難受 — nánshòu — Adj — uncomfortable; feeling bad
+- 难题 / 難題 — nántí — N — difficult problem, tough question
+- 难听 / 難聽 — nántīng — Adj — unpleasant to hear
+- 能够 / 能夠 — nénggòu — V — to be able to, to be capable of
+- 年级 — niánjí — N — grade, year (in school, college etc), CL:個|个[ge4]
+- 年轻 / 年輕 — niánqīng — Adj — young
+- 鸟 / 鳥 — niǎo — N — bird
+- 弄 — nòng — V — to do; to make; to mess with
+- 努力 — nǔlì — Adj — to make an effort; to try hard; to strive, hard-working; conscientious
+- 爬 — pá — V — to climb, to crawl
+- 爬山 — pá shān — to hike, to climb a mountain
+- 怕 — pà — V — to fear, to be afraid of
+- 排 — pái — N/M — row, line; to arrange; MW for rows
+- 排队 / 排隊 — páiduì — to line up, to queue
+- 排球 — páiqiú — N — volleyball
+- 碰 — pèng — V — to touch, to bump into; to meet by chance
+- 碰到 — pèngdào — to bump into, to encounter
+- 碰见 / 碰見 — pèngjiàn — to run into, to meet by chance
+- 篇 — piān — M — MW for essays, articles
+- 便宜 — piányi — Adj/N — cheap; inexpensive, a petty advantage, to let sb off lightly
+- 片 — piàn — M — MW for flat objects, film, slice
+- 漂亮 — piàoliang — Adj — pretty, beautiful
+- 平 — píng — Adj — flat, level; equal, even
+- 平安 — píng'ān — Adj — safe, at peace; safe and sound
+- 平常 — píngcháng — N/Adj — ordinary, normal; usually
+- 平等 — píngděng — Adj — equal, equality
+- 平时 / 平時 — píngshí — N — ordinary times, usually
+- 瓶 — píng — N/M — bottle, vase, pitcher
+- 瓶子 — píngzi — N — bottle
+- 普通 — pǔtōng — Adj — ordinary, common, average
+- 普通话 / 普通話 — pǔtōnghuà — N — Mandarin Chinese (standard spoken)
+- 其他 — qítā — Pron — other, the rest
+- 其中 — qízhōng — N — among them, within (a group)
+- 骑 / 騎 — qí — V — to ride (a bike or horse)
+- 骑车 / 騎車 — qí chē — to ride a bicycle
+- 起飞 / 起飛 — qǐfēi — V — to take off (aircraft)
+- 气 / 氣 — qì — V/N — air, gas; to get angry; temperament
+- 气温 / 氣溫 — qìwēn — N — air temperature
+- 千 — qiān — Num — thousand
+- 千克 — qiānkè — M — kilogram
+- 前年 — qiánnián — N — the year before last
+- 墙 / 牆 — qiáng — N — wall
+- 青年 — qīngnián — N — youth, young person
+- 青少年 — qīng-shàonián — N — teenagers, young people
+- 轻 / 輕 — qīng — Adj — light (weight); gentle, mild
+- 清楚 — qīngchu — Adj — clear, distinct; to be clear about
+- 晴 — qíng — Adj — clear (weather), sunny
+- 晴天 — qíngtiān — N — sunny day
+- 请客 / 請客 — qǐngkè — to treat (someone to a meal/drink)
+- 请求 / 請求 — qǐngqiú — V/N — to request; request
+- 秋天 — qiūtiān — N — autumn, fall
+- 求 — qiú — V — to seek, to beg, to request
+- 球场 / 球場 — qiúchǎng — N — ball court, sports ground
+- 球队 / 球隊 — qiúduì — N — sports team
+- 球鞋 — qiúxié — N — athletic shoes, sneakers
+- 取 — qǔ — V — to take, to get, to fetch
+- 取得 — qǔdé — V — to obtain, to achieve, to gain
+- 全 — quán — Adv/Adj — all, entire, complete
+- 全部 — quánbù — N — all, complete, entire
+- 全国 / 全國 — quánguó — N — the whole country, nationwide
+- 全家 — quánjiā — N — the whole family
+- 全年 — quánnián — N — the whole year
+- 全身 — quánshēn — N — the whole body
+- 全体 / 全體 — quántǐ — N — all members, everybody
+- 然后 — ránhòu — Conj — then; after that; afterwards
+- 让 — ràng — V/Prep — to yield, to permit, to let sb do sth
+- 热情 — rèqíng — N/Adj — cordial, enthusiastic, passion
+- 人口 — rénkǒu — N — population
+- 人们 / 人們 — rénmen — N — people
+- 人数 / 人數 — rénshù — N — number of people
+- 认为 — rènwéi — V — to believe; to think; to consider; to feel
+- 日报 / 日報 — rìbào — N — daily newspaper
+- 日子 — rìzi — N — day; period of time; life
+- 如果 — rúguǒ — Conj — if; in case; in the event that
+- 入口 — rùkǒu — N — entrance
+- 商量 — shāngliang — V — to discuss, to consult
+- 商人 — shāngrén — N — businessman, merchant
+- 上周 — shàng zhōu — last week
+- 少数 / 少數 — shǎoshù — N — a small number, minority
+- 少年 — shàonián — N — teenager, youth (10-16 years old)
+- 身边 / 身邊 — shēnbiān — N — nearby, at one's side
+- 什么样 / 什麼樣 — shénmeyàng — Pron — what kind of, what type of
+- 生 — shēng — V — to give birth; raw, uncooked; student
+- 生词 / 生詞 — shēngcí — N — new word, vocabulary item
+- 生活 — shēnghuó — N/V — to live, life, livelihood
+- 声音 / 聲音 — shēngyīn — N — sound, voice
+- 省 — shěng — N — province; to save, to economize
+- 省 — shěng — V — province; to save, to economize
+- 十分 — shífēn — Adv — very, extremely; completely
+- 实际 / 實際 — shíjì — N/Adj — actual, real, practical
+- 实习 / 實習 — shíxí — V/N — internship; to intern, to do a practice
+- 实现 / 實現 — shíxiàn — V — to realize, to achieve
+- 实在 / 實在 — shízài — Adv — indeed, truly; real, solid
+- 实在 / 實在 — shízai — Adj — indeed, truly; real, solid
+- 食物 — shíwù — N — food, foodstuff
+- 使用 — shǐyòng — V — to use, to employ; usage
+- 市 — shì — N — city; market
+- 市长 / 市長 — shìzhǎng — N — mayor
+- 事情 — shìqing — N — matter, affair, thing
+- 收 — shōu — V — to receive; to collect; to put away
+- 收到 — shōudào — to receive (something)
+- 收入 — shōurù — V/N — income, revenue
+- 手表 / 手錶 — shǒubiǎo — N — wristwatch
+- 受到 — shòudào — to receive, to be subject to
+- 舒服 — shūfu — Adj — comfortable, at ease
+- 熟 — shú/shóu — Adj — cooked, ripe; familiar, well-acquainted
+- 数 / 數 — shǔ — V — to count; number
+- 数字 / 數字 — shùzì — N — number, digit; numeral
+- 水平 — shuǐpíng — N — level, standard
+- 顺利 / 順利 — shùnlì — Adj — smooth, successful
+- 说明 / 說明 — shuōmíng — V/N — to explain; explanation
+- 司机 / 司機 — sījī — N — driver (professional)
+- 送到 — sòngdào — to deliver to, to take to
+- 送给 / 送給 — sòng gěi — to give as a gift to
+- 算 — suàn — V — to calculate; to count as; to plan
+- 虽然 — suīrán — Conj — although; even though (often used correlatively wi
+- 随便 / 隨便 — suíbiàn — Adj — casual, relaxed; as you like
+- 随时 / 隨時 — suíshí — Adv — at any time, whenever
+- 所以 — suǒyǐ — Conj — therefore, as a result, so
+- 所有 — suǒyǒu — Adj — all; to possess
+- 它 — tā — Pron — it (non-human)
+- 它们 / 它們 — tāmen — Pron — they, them (non-human)
+- 太太 — tàitai — N — Mrs.; wife
+- 太阳 — tàiyáng — N — sun, sunlight; sunshine, temple (on the side of the human head) (abbr. for 
+- 态度 / 態度 — tàidù — N — attitude, approach
+- 讨论 / 討論 — tǎolùn — V — to discuss; discussion
+- 套 — tào — M — MW for sets/suites; to put on; set
+- 特别 / 特別 — tèbié — Adj/Adv — special, particular; especially
+- 特点 / 特點 — tèdiǎn — N — characteristic, feature, trait
+- 疼 — téng — V — to ache, to hurt; to love dearly
+- 提 — tí — V — to carry; to raise; to mention
+- 提出 — tíchū — to put forward, to raise (a point)
+- 提到 — tídào — to mention, to bring up
+- 提高 — tígāo — to raise, to improve; improvement
+- 题 — tí — N — surname Ti
+- 体育 / 體育 — tǐyù — N — physical education, sports
+- 体育场 / 體育場 — tǐyùchǎng — N — sports stadium, athletics field
+- 体育馆 / 體育館 — tǐyùguǎn — N — gymnasium, sports hall
+- 天上 — tiānshàng — N — in the sky, in the heavens
+- 条 / 條 — tiáo — M — MW for long thin objects; clause
+- 条件 / 條件 — tiáojiàn — N — condition, requirement, factor
+- 听讲 / 聽講 — tīngjiǎng — to listen to a lecture, to pay attention
+- 听说 / 聽說 — tīngshuō — V — to hear (that); it is said
+- 停 — tíng — V — to stop, to cease; to park
+- 停车 / 停車 — tíngchē — to park a car
+- 停车场 / 停車場 — tíngchēchǎng — N — parking lot
+- 挺 — tǐng — Adv — very, quite; upright; to endure
+- 挺好 — tǐng hǎo — quite good, pretty good
+- 通 — tōng — V/Adj — to connect; to communicate; all through
+- 通过 / 通過 — tōngguò — Prep/V — to pass; through, by means of
+- 通知 — tōngzhī — V/N — to notify; notice, notification
+- 同时 / 同時 — tóngshí — Conj/N — at the same time, simultaneously
+- 同事 — tóngshì — N — colleague, coworker
+- 同样 / 同樣 — tóngyàng — Adj/Conj — same, equally, similarly
+- 头 / 頭 — tóu — N/M — head; top; first; MW for livestock
+- 头（里头） / 頭（裡頭） — tou (lǐtou) — Suffix — suffix (e.g., 里头 inside)
+- 头发 / 頭髮 — tóufa — N — hair (on the head)
+- 图片 / 圖片 — túpiàn — N — picture, image, photo
+- 推 — tuī — V — to push; to promote
+- 腿 — tuǐ — N — leg
+- 外地 — wàidì — N — another part of the country, outside the area
+- 外卖 / 外賣 — wàimài — N/V — takeout food, food delivery
+- 完 — wán — V — to finish, to be done
+- 完成 — wánchéng — to complete, to accomplish
+- 完全 — wánquán — Adj/Adv — completely, fully; complete
+- 晚安 — wǎn'ān — V — good night
+- 晚报 / 晚報 — wǎnbào — N — evening newspaper
+- 晚餐 — wǎncān — N — dinner, supper
+- 晚会 / 晚會 — wǎnhuì — N — evening party, gala
+- 碗 — wǎn — N — variant of 碗[wan3]
+- 万 / 萬 — wàn — Num — ten thousand
+- 网 / 網 — wǎng — N — net; network; internet
+- 网球 / 網球 — wǎngqiú — N — tennis
+- 网站 / 網站 — wǎngzhàn — N — website
+- 往 — wǎng — V/Prep — toward, in the direction of; to; past
+- 为 / 為 — wèi — Prep — for, for the sake of; to act as
+- 为什么 / 為什麼 — wèi shénme — why, for what reason
+- 位 — wèi — M — MW for persons (polite); position
+- 味道 — wèidào — N — taste, flavor
+- 喂 — wèi — Intj — hello (on phone); hey; to feed
+- 温度 / 溫度 — wēndù — N — temperature
+- 闻 / 聞 — wén — V — to smell; to hear (literary)
+- 问路 / 問路 — wènlù — V — to ask for directions
+- 问题 — wèntí — N — question, problem, issue
+- 午餐 — wǔcān — N — lunch
+- 午睡 — wǔshuì — N/V — afternoon nap; to nap
+- 西北 — xīběi — N — northwest
+- 西餐 — xīcān — N — Western food
+- 西方 — xīfāng — N — the West, western direction
+- 西南 — xīnán — N — southwest
+- 西医 / 西醫 — xīyī — N — Western medicine; Western-trained doctor
+- 习惯 / 習慣 — xíguàn — N/V — habit; to be accustomed to
+- 洗衣机 / 洗衣機 — xǐyījī — N — washing machine
+- 洗澡 — xǐzǎo — to bathe, to take a shower
+- 下 — xià — M — under, below; to get off; next
+- 下雪 — xià xuě — to snow
+- 下周 / 下週 — xià zhōu — next week
+- 夏天 — xiàtiān — N — summer
+- 相同 — xiāngtóng — Adj — the same, identical
+- 相信 — xiāngxìn — V — to believe, to trust
+- 响 / 響 — xiǎng — Adj — loud, noisy; to sound, to ring
+- 想到 — xiǎngdào — to think of, to come up with
+- 想法 — xiǎngfǎ — N — idea, opinion, thought
+- 想起 — xiǎngqǐ — to recall, to think of
+- 向 — xiàng — Prep/V — surname Xiang
+- 相机 / 相機 — xiàngjī — N — camera
+- 像 — xiàng — V — to resemble, to be like; image, portrait
+- 小（小王） — xiǎo (Xiǎo Wáng) — Prefix — prefix for address to younger people (e.g., 小王 Young Wang)
+- 小声 / 小聲 — xiǎo shēng — in a low voice, quietly
+- 小时候 / 小時候 — xiǎoshíhou — N — when one was young, childhood
+- 小说 / 小說 — xiǎoshuō — N — novel, fiction
+- 小心 — xiǎoxīn — Adj/V — careful; to be careful
+- 小组 / 小組 — xiǎozǔ — N — small group, team
+- 校园 / 校園 — xiàoyuán — N — campus, school grounds
+- 校长 / 校長 — xiàozhǎng — N — principal, school president
+- 笑话 / 笑話 — xiàohua — V — to joke; joke
+- 笑话儿 / 笑話兒 — xiàohuar — N — joke, funny story
+- 鞋 — xié — N — shoe
+- 心里 / 心裡 — xīnlǐ — N — in one's heart/mind
+- 心情 — xīnqíng — N — mood, state of mind
+- 心中 — xīnzhōng — N — in one's heart
+- 新闻 / 新聞 — xīnwén — N — news
+- 信 — xìn — N — letter (correspondence); to believe; trust
+- 信号 / 信號 — xìnhào — N — signal
+- 信息 — xìnxī — N — information
+- 信心 — xìnxīn — N — confidence, faith
+- 信用卡 — xìnyòngkǎ — N — credit card
+- 星星 — xīngxing — N — star (celestial body)
+- 行动 / 行動 — xíngdòng — V/N — action, movement; to act, to move
+- 行人 — xíngrén — N — pedestrian, passer-by
+- 行为 / 行為 — xíngwéi — N — behavior, conduct
+- 姓 — xìng — N/V — surname; to be surnamed
+- 姓名 — xìngmíng — N — full name (surname and given name)
+- 休假 — xiūjià — to take a vacation, to be on leave
+- 许多 — xǔduō — Num — many, a lot of, much
+- 选 / 選 — xuǎn — V — to choose, to select; to elect
+- 学期 / 學期 — xuéqī — N — semester, school term
+- 雪 — xuě — N — snow
+- 颜色 / 顏色 — yánsè — N — color
+- 眼 — yǎn — N/M — eye; MW for looks
+- 眼睛 — yǎnjing — N — eye
+- 养 / 養 — yǎng — V — to raise (animals); to support; to nurture
+- 样子 / 樣子 — yàngzi — N — appearance, look; style, manner
+- 要求 — yāoqiú — V/N — to require; requirement
+- 药 / 藥 — yào — N — medicine, drug
+- 药店 / 藥店 — yàodiàn — N — pharmacy, drugstore
+- 药片 / 藥片 — yàopiàn — N — tablet, pill
+- 药水 / 藥水 — yàoshuǐ — N — liquid medicine, medicinal solution
+- 也许 / 也許 — yěxǔ — Adv — perhaps, maybe, possibly
+- 夜 — yè — N — night
+- 夜里 / 夜裡 — yèlǐ — N — at night, in the night
+- 一部分 — yī bùfen — a part of, some of
+- 一定 — yīdìng — Adj/Adv — definitely, certainly; fixed, definite
+- 一共 — yīgòng — Adv — in total, altogether
+- 一会儿 / 一會兒 — yīhuìr — Adv — a while; in a moment
+- 一路平安 — yīlù-píng'ān — have a safe journey; bon voyage
+- 一路顺风 / 一路順風 — yīlù-shùnfēng — bon voyage, have a smooth journey
+- 已经 / 已經 — yǐjīng — Adv — already
+- 以后 / 以後 — yǐhòu — N — after, afterwards; later
+- 以前 — yǐqián — N — before, formerly, previously
+- 以上 — yǐshàng — N — above, over, more than
+- 以外 — yǐwài — N — outside, beyond, other than
+- 以为 / 以為 — yǐwéi — V — to think (mistakenly), to assume
+- 以下 — yǐxià — N — below, under, less than
+- 椅子 — yǐzi — N — chair
+- 一般 — yībān — Adj — general, ordinary; generally
+- 一点点 / 一點點 — yī diǎndiǎn — just a little bit
+- 一生 — yīshēng — N — all one's life, a lifetime
+- 一直 — yīzhí — Adv — always; all along; straight (direction)
+- 亿 / 億 — yì — Num — one hundred million
+- 意见 / 意見 — yìjiàn — N — opinion, view; objection
+- 意思 — yìsi — N — meaning; idea; a token (of appreciation)
+- 因为 / 因為 — yīnwèi — Conj/Prep — because
+- 阴 / 陰 — yīn — Adj — overcast, cloudy; yin; negative
+- 阴天 / 陰天 — yīntiān — N — overcast day, cloudy day
+- 音节 / 音節 — yīnjié — N — syllable
+- 音乐 / 音樂 — yīnyuè — N — music
+- 音乐会 / 音樂會 — yīnyuèhuì — N — concert
+- 银行 / 銀行 — yínháng — N — bank (financial institution)
+- 银行卡 / 銀行卡 — yínhángkǎ — N — bank card, debit card
+- 应该 / 應該 — yīnggāi — V — should, ought to
+- 英文 — Yīngwén — N — English (language, especially written)
+- 英语 / 英語 — Yīngyǔ — N — English (language)
+- 影片 — yǐngpiàn — N — film, movie
+- 影响 / 影響 — yǐngxiǎng — V/N — to influence, to affect; influence
+- 永远 / 永遠 — yǒngyuǎn — Adv — always, forever, permanently
+- 油 — yóu — N — oil, fat, grease
+- 游客 / 遊客 — yóukè — N — tourist, visitor
+- 友好 — yǒuhǎo — Adj — friendly, amicable
+- 有空儿 / 有空兒 — yǒukòngr — V — to have free time, to be free
+- 有人 — yǒu rén — someone, there is someone
+- 有（一）点儿 / 有（一）點兒 — yǒu(yī)diǎnr — Adv — a bit, somewhat
+- 有意思 — yǒu yìsi — interesting, fun
+- 又 — yòu — Adv — again; both...and... (linking adjectives)
+- 鱼 / 魚 — yú — N — fish
+- 语言 / 語言 — yǔyán — N — language
+- 原来 / 原來 — yuánlái — Adj/Adv — originally; so (that's why)
+- 原因 — yuányīn — N — reason, cause
+- 院 — yuàn — N — courtyard; institution (hospital, court)
+- 院长 / 院長 — yuànzhǎng — N — dean, director (of an institution)
+- 院子 — yuànzi — N — courtyard, yard
+- 愿意 / 願意 — yuànyì — V — to be willing to, to want to
+- 月份 — yuèfèn — N — month (of the year)
+- 月亮 — yuèliang — N — the moon
+- 越 — yuè — Adv — more and more; to exceed; to cross
+- 越来越 / 越來越 — yuè lái yuè — more and more
+- 云 / 雲 — yún — N — cloud
+- 运动 — yùndòng — V/N — to move, to exercise, sports
+- 咱 — zán — Pron — we/I (including the listener)
+- 咱们 / 咱們 — zánmen — Pron — we (including the listener)
+- 脏 / 髒 — zāng — Adj — dirty, filthy
+- 早餐 — zǎocān — N — breakfast
+- 早晨 — zǎochen — N — morning, early morning
+- 早就 — zǎo jiù — long ago, already for a long time
+- 怎么办 / 怎麼辦 — zěnme bàn — what to do, what should be done
+- 怎么样 — zěnmeyàng — Pron — how?, how about?, how was it?
+- 怎样 / 怎樣 — zěnyàng — Pron — how; what kind
+- 占 — zhàn — V — to occupy, to take up; to account for
+- 站 — zhàn — V — station, stop; to stand
+- 站住 — zhànzhù — stop! (to halt someone); to stand firm
+- 长 / 長 — zhǎng — V — long (length); often
+- 长大 / 長大 — zhǎngdà — to grow up
+- 找出 — zhǎochū — to find, to discover
+- 照顾 / 照顧 — zhàogù — V — to look after, to take care of
+- 照片 — zhàopiàn — N — photograph, photo
+- 照相 — zhàoxiàng — to take a photo
+- 这么 — zhème — Pron — so much, this much, how much?
+- 这时候 / 這時候 — zhè shíhou|zhè shí — at this time, at this moment
+- 这样 / 這樣 — zhèyàng — Pron — like this, in this way
+- 真正 — zhēnzhèng — Adj — true, genuine, real
+- 正常 — zhèngcháng — Adj — normal, regular
+- 正好 — zhènghǎo — Adj/Adv — just right, exactly; just in time
+- 正确 / 正確 — zhèngquè — Adj — correct, right, accurate
+- 正是 — zhèngshì — V — precisely, exactly is
+- 直接 — zhíjiē — Adj — direct, directly; immediate
+- 只 — zhǐ — Adv — only, just; MW for animals and certain objects
+- 只能 — zhǐ néng — can only, have no choice but to
+- 只要 — zhǐyào — Conj — as long as, provided that
+- 纸 / 紙 — zhǐ — N — paper
+- 中餐 — zhōngcān — N — Chinese food
+- 中级 / 中級 — zhōngjí — Adj — intermediate level
+- 中年 — zhōngnián — N — middle age
+- 中小学 / 中小學 — zhōng-xiǎoxué — primary and secondary school
+- 中心 — zhōngxīn — N — center, core
+- 中医 / 中醫 — zhōngyī — N — Traditional Chinese Medicine; TCM doctor
+- 重点 / 重點 — zhòngdiǎn — N/Adv — key point, emphasis; key, focal
+- 重视 / 重視 — zhòngshì — V — to attach importance to, to value
+- 周 / 週 — zhōu — M — MW for weeks; week
+- 周末 — zhōumò — N — weekend
+- 周年 / 週年 — zhōunián — N — anniversary
+- 主人 — zhǔrén — N — host; owner, master
+- 主要 — zhǔyào — Adj — main, chief, major
+- 住房 — zhùfáng — N — housing, accommodation
+- 住院 — zhùyuàn — to be hospitalized, to be admitted to hospital
+- 装 / 裝 — zhuāng — V — to install; to pack; to pretend; clothing
+- 准确 / 準確 — zhǔnquè — Adj — accurate, precise, exact
+- 自己 — zìjǐ — Pron — oneself; (attributive) one's own
+- 自行车 / 自行車 — zìxíngchē — N — bicycle
+- 自由 — zìyóu — N/Adj — freedom, liberty; free
+- 字典 — zìdiǎn — N — dictionary (character-based)
+- 走过 / 走過 — zǒuguò — to walk past, to pass by
+- 走进 / 走進 — zǒujìn — to walk into, to enter
+- 走开 / 走開 — zǒukāi — to go away, to leave
+- 租 — zū — V — to rent (from); to hire
+- 组 / 組 — zǔ — V/N — to form, to organize; group
+- 组成 / 組成 — zǔchéng — V — to form, to make up, to compose
+- 组长 / 組長 — zǔzhǎng — N — group leader, team leader
+- 嘴 — zuǐ — N — mouth; beak; spout
+- 最近 — zuìjìn — N — recently, soon, nearest
+- 作家 — zuòjiā — N — writer, author
+- 作文 — zuòwén — N — composition, essay (school writing)
+- 作业 / 作業 — zuòyè — N — homework, assignment
+- 作用 — zuòyòng — N — function, role, effect
+- 座 — zuò — M — MW for large immovable objects (mountains, buildings)
+- 座位 — zuòwèi — N — seat, place
+- 做到 — zuòdào — to accomplish, to achieve
+- 做法 — zuòfǎ — N — method, way of doing something
+- 做饭 / 做飯 — zuòfàn — to prepare a meal, to cook
+
+---
+
+## Grammar
+
+Grammar point labels from 《国际中文教育中文水平等级标准》as organized in the krmanik/HSK-3.0 grammar files. Each entry is a grammar topic heading.
+
+- 能愿动词
+- 能愿动词：该、应该
+- 能愿动词：愿意
+- 动词重叠：AA、A一A、A了A、ABAB
+- 疑问代词：多久、为什么、怎么样、怎样
+-  人称代词：别人、大家、它、它们、咱、咱们、自己
+- 指示代词：那么、那样、这么、这样
+- 形容词重叠：AA、AABB
+- 千、万、亿
+- “序数表示法”）
+- 名量词：层、封、件、条、位
+- 动量词：遍、次、场、回、下
+- 时量词：分钟、年、天、周
+- 程度副词：多、多么、好、更、十分、特别、挺、有（一）点儿
+- 范围、协同副词：全、一共、只
+- 时间副词：刚、刚刚、还、忽然、一直、已经
+- 频率、重复副词：重新、经常、老、老是、又
+- 关联副词：就
+- 方式副词：故意
+- 情态副词：必须、差不多、好像、一定、也许
+- 语气副词：才、都、就、正好
+- 当
+- 往
+- 向
+- 从
+- 对
+- 给
+- 离
+- 为
+- 连接词或短语：或、或者
+- 连接分句或句子：不过、但、但是、而且、那、如果、虽然、只要
+- 结构助词：得
+- 动态助词：过
+- 动态助词：着
+- 语气助词：啊、吧、的
+- 其他助词：的话、等
+- 喂
+- 基本结构类型
+- 其他结构类型1
+- 名词性短语
+- 动词性短语
+- 形容词性短语
+- 不一会儿
+- 什么的
+- 越来越
+- 还是⋯⋯吧
+- 又⋯⋯又⋯⋯
+- （在）⋯⋯以前/以后/前/后
+- 名词、代词、数词或数量短语、名词性短语作谓语
+- 结果补语1：动词+错/懂/干净/好/会/清楚/完
+- 趋向补语1
+- 状态补语1：动词+得+形容词性词语
+- 数量补语1：动词+动量补语
+- 数量补语2：形容词+数量补语
+- 主谓句3：名词谓语句
+- “有”字句2
+- “比较句2-（4）”）
+- 存现句1：表示存在
+- “‘有’字句1-（2）”）
+- 连动句1：表示前后动作先后发生
+- 比较句2
+- 比较句3
+- “是⋯⋯的”句1：强调时间、地点、方式、动作者
+- 双宾语句
+- 承接复句
+- 递进复句
+- 选择复句
+- 转折复句
+- 假设复句
+- 条件复句：只要⋯⋯，就⋯⋯
+- 因果复句
+- 紧缩复句：一⋯⋯就⋯⋯
+- 持续态：动词+着
+- 经历态：用动态助词“过”表示
+- 序数表示法
+- 概数表示法1
+- 用“就”表示强调
+- “是⋯⋯的”句 1和【四42】“是⋯⋯的”句2）
+- 用“好吗、可以吗、行吗、怎么样”提问
+- 用 "什么时候、什么样、为什么、怎么样、怎样”提问
+- 用“呢”构成的省略式疑问句“代词/名词+呢？”提问
+- 用“是不是”提问
+- 用“吧”提问
+- 该⋯⋯了
+- 要/快要/就要⋯⋯了

@@ -64,6 +64,8 @@
   --cat-arts:        #4a2878;   /* indigo     */
   --cat-science:     #1a4a5c;   /* steel teal */
   --cat-daily:       #7a6024;   /* mustard    */
+  --cat-hsk:         #2a5c3d;   /* celadon    */
+  --cat-hubs:        #5c2a78;   /* deep wisteria */
 
   /* Seal colour — overridden per category below. Drives the chop marks on
      .scholar boxes, the tab under each .section-head, and the centre chop
@@ -1646,3 +1648,47 @@ body[data-category="chengyu"] .reading-progress-bar { background: linear-gradien
 
 /* ── VIEW TRANSITIONS (progressive enhancement) ─────────── */
 @view-transition { navigation: auto; }
+
+/* ── HSK level pages ────────────────────────────────────── */
+body[data-category="hsk"] .hero::after,
+body[data-category="hsk"] .topic-hero::after { background: var(--cat-hsk); }
+body[data-category="hsk"] .topic-hero-title { color: var(--cat-hsk); }
+body[data-category="hsk"] .toc-list a.active,
+body[data-category="hsk"] .toc-list a:hover { color: var(--cat-hsk); border-left-color: var(--cat-hsk); background: rgba(42,92,61,0.07); }
+body[data-category="hsk"] .sh-cn { color: var(--cat-hsk); }
+body[data-category="hsk"] .reading-progress-bar { background: linear-gradient(90deg, var(--cat-hsk), #5a8c6d); }
+body[data-category="hsk"] { --seal-color: var(--cat-hsk); }
+
+.hsk-stats { display: flex; gap: 1.25rem; flex-wrap: wrap; margin-top: 1rem; font-family: 'Inconsolata', 'Noto Sans Mono', monospace; font-size: 0.85rem; letter-spacing: 0.02em; color: rgba(28, 18, 8, 0.68); }
+.hsk-stat strong { color: var(--cat-hsk); font-weight: 600; }
+.hsk-stat em { font-style: normal; opacity: 0.72; }
+
+.hsk-char-grid { list-style: none; padding: 0; margin: 1.25rem 0 2rem; display: grid; grid-template-columns: repeat(auto-fill, minmax(78px, 1fr)); gap: 0.4rem 0.6rem; }
+.hsk-char-item { font-family: 'Noto Serif SC', serif; font-size: 1.35rem; line-height: 1.15; text-align: center; padding: 0.55rem 0.2rem; border: 1px solid rgba(42,92,61,0.12); border-radius: 4px; background: rgba(255,255,255,0.35); }
+.hsk-char-item .hsk-ch { color: rgba(28,18,8,0.78); }
+.hsk-char-item .hsk-ch-linked { color: var(--cat-hsk); text-decoration: none; font-weight: 600; border-bottom: 1px solid rgba(42,92,61,0.32); }
+.hsk-char-item .hsk-ch-linked:hover { background: rgba(42,92,61,0.08); }
+.hsk-char-item .hsk-trad { display: block; font-size: 0.85rem; opacity: 0.55; margin-top: 0.1rem; }
+
+.hsk-vocab-list { list-style: none; padding: 0; margin: 1.25rem 0 2rem; display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 0.5rem 1rem; }
+.hsk-vocab-item { padding: 0.55rem 0.75rem; border-left: 2px solid rgba(42,92,61,0.18); background: rgba(255,255,255,0.3); border-radius: 0 3px 3px 0; display: grid; grid-template-columns: auto 1fr; column-gap: 0.75rem; row-gap: 0.1rem; align-items: baseline; font-size: 0.95rem; }
+.hsk-vocab-hz { grid-row: 1 / span 2; font-family: 'Noto Serif SC', serif; font-size: 1.15rem; color: rgba(28,18,8,0.82); }
+.hsk-vocab-hz .hsk-wd-linked { color: var(--cat-hsk); text-decoration: none; font-weight: 600; border-bottom: 1px solid rgba(42,92,61,0.32); }
+.hsk-vocab-hz .hsk-ch-linked { color: var(--cat-hsk); text-decoration: none; font-weight: 600; border-bottom: 1px solid rgba(42,92,61,0.32); }
+.hsk-vocab-hz .hsk-trad { font-size: 0.85rem; opacity: 0.5; }
+.hsk-vocab-py { font-family: 'Cormorant Garamond', serif; font-style: italic; font-size: 0.95rem; color: rgba(28,18,8,0.62); grid-column: 2; }
+.hsk-vocab-pos { font-family: 'Inconsolata', 'Noto Sans Mono', monospace; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.04em; color: var(--cat-hsk); opacity: 0.68; margin-left: 0.35rem; }
+.hsk-vocab-gloss { grid-column: 2; font-size: 0.9rem; color: rgba(28,18,8,0.72); line-height: 1.4; }
+
+.hsk-grammar-list { list-style: none; padding: 0; margin: 1.25rem 0 2rem; display: grid; grid-template-columns: 1fr; gap: 0.3rem; }
+.hsk-grammar-item { padding: 0.5rem 0.85rem; border-left: 2px solid rgba(42,92,61,0.22); background: rgba(255,255,255,0.28); border-radius: 0 3px 3px 0; font-family: 'Noto Serif SC', serif; font-size: 0.98rem; color: rgba(28,18,8,0.8); line-height: 1.5; }
+
+/* ── Hubs category (cluster pages) ──────────────────────── */
+body[data-category="hubs"] .hero::after,
+body[data-category="hubs"] .topic-hero::after { background: var(--cat-hubs); }
+body[data-category="hubs"] .topic-hero-title { color: var(--cat-hubs); }
+body[data-category="hubs"] .toc-list a.active,
+body[data-category="hubs"] .toc-list a:hover { color: var(--cat-hubs); border-left-color: var(--cat-hubs); background: rgba(92,42,120,0.07); }
+body[data-category="hubs"] .sh-cn { color: var(--cat-hubs); }
+body[data-category="hubs"] .reading-progress-bar { background: linear-gradient(90deg, var(--cat-hubs), #8a52b0); }
+body[data-category="hubs"] { --seal-color: var(--cat-hubs); }
