@@ -888,6 +888,82 @@ h3.stage-name {
 .stage-head.s-violet { border-left-color: var(--violet-ink);  background: rgba(90,50,140,0.04); }
 .stage-head.s-red    { border-left-color: var(--red);         background: rgba(180,40,40,0.04); }
 
+/* ── STAGES LEGEND (hub reading-path overview list) ────────
+   A compact, clickable list shown under the "Reading Path" heading,
+   giving an at-a-glance map of the stages with jump links. Visually
+   distinct from .stage-head separators so readers can tell the map
+   from the first actual stage. */
+.stages-legend {
+  list-style: none;
+  margin: 0.75rem 0 1.75rem;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 0.5rem;
+  counter-reset: stage;
+}
+.stages-legend > li {
+  margin: 0;
+  padding: 0;
+}
+.stage-legend-item {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  align-items: center;
+  gap: 0.25rem 0.7rem;
+  padding: 0.45rem 0.75rem 0.45rem 0.65rem;
+  background: var(--papyrus-2);
+  border: 1px solid var(--rule);
+  border-left-width: 3px;
+  border-radius: var(--radius);
+  color: var(--ink);
+  text-decoration: none;
+  transition: background 0.15s, border-color 0.15s, transform 0.1s;
+}
+.stage-legend-item:hover,
+.stage-legend-item:focus-visible {
+  background: var(--papyrus-3);
+  transform: translateX(2px);
+}
+.stage-legend-num {
+  font-family: var(--font-mono);
+  font-size: 0.58rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--ink-5);
+}
+.stage-legend-body {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.2;
+  min-width: 0;
+}
+.stage-legend-cn {
+  font-family: var(--font-cn);
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--ink);
+}
+.stage-legend-en {
+  font-size: 0.72rem;
+  color: var(--ink-3);
+  font-style: italic;
+  margin-top: 0.1rem;
+}
+.stage-legend-count {
+  font-family: var(--font-mono);
+  font-size: 0.62rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--ink-5);
+  white-space: nowrap;
+}
+.stage-legend-item.s-teal   { border-left-color: var(--teal-ink); }
+.stage-legend-item.s-ochre  { border-left-color: var(--ochre); }
+.stage-legend-item.s-sienna { border-left-color: var(--sienna); }
+.stage-legend-item.s-violet { border-left-color: var(--violet-ink); }
+.stage-legend-item.s-red    { border-left-color: var(--red); }
+
 /* ── CARD ANCHOR (deep-link # beside each card title) ────── */
 .card-anchor {
   opacity: 0;

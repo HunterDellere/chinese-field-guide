@@ -78,25 +78,31 @@ function renderHubStagesHtml(fm, slug, category) {
   if (!fm.stages || !fm.stages.length) return { html: '', sidebarListHtml: '' };
   const fromPath = `pages/${category}/${slug}.html`;
 
-  // Legend block (#stages) — one stage-head per stage, no cards
+  // Legend block (#stages) — compact clickable list that jumps to each stage.
+  // Visually distinct from the full .stage-head separators that appear above each
+  // stage's cards below, so the reader can tell the overview list from the content.
   const legendItems = fm.stages.map((st, i) => {
     const cn = st.cn || st.name;
     const en = st.name_en || st.name;
     const stageColorClass = `s-${st.color || 'teal'}`;
-    const stageIdAttr = `stage-${i + 1}`;
+    const count = (st.members || []).length;
+    const countLabel = count ? `${count} ${count === 1 ? 'entry' : 'entries'}` : '';
     return `
-      <div class="stage-head ${stageColorClass}" id="${stageIdAttr}">
-        <span class="stage-num">Stage ${i + 1}</span>
-        <h3 class="stage-name">${escapeHtmlBuild(cn)}</h3>
-        <span class="stage-name-en">${escapeHtmlBuild(en)}</span>
-        ${st.note ? `<span class="stage-note">${escapeHtmlBuild(st.note)}</span>` : ''}
-      </div>`;
+      <li><a class="stage-legend-item ${stageColorClass}" href="#stage-${i + 1}">
+        <span class="stage-legend-num">Stage ${i + 1}</span>
+        <span class="stage-legend-body">
+          <span class="stage-legend-cn">${escapeHtmlBuild(cn)}</span>
+          <span class="stage-legend-en">${escapeHtmlBuild(en)}</span>
+        </span>
+        ${countLabel ? `<span class="stage-legend-count">${countLabel}</span>` : ''}
+      </a></li>`;
   }).join('');
 
   const stagesSection = `
     <span class="section-anchor" id="stages"></span>
     <div class="section-head"><h2>Reading Path</h2></div>
-    ${legendItems}`;
+    <ol class="stages-legend">${legendItems}
+    </ol>`;
 
   // Cards by stage (#path — each stage gets its own stage-head + cards block)
   const stageCards = fm.stages.map((st, i) => {
