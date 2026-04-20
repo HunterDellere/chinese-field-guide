@@ -384,8 +384,8 @@
               ${glyph ? `<span class="start-here-cn${isLong ? " sh-multi" : ""}">${escapeHtml(glyph)}</span>` : ""}
               <span class="start-here-num"></span>
             </div>
-            <span class="start-here-title">${escapeHtml(titleEn)}</span>
             <span class="start-here-py">${escapeHtml(e.pinyin || "")}</span>
+            <span class="start-here-title">${escapeHtml(titleEn)}</span>
             ${e.desc ? `<span class="start-here-desc">${escapeHtml(e.desc)}</span>` : ""}
             <span class="start-here-cat">${escapeHtml(catMeta.en || e.category || "")}</span>
           `;

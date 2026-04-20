@@ -301,8 +301,8 @@
   .start-here-num::before { content: counter(starthere, decimal-leading-zero); }
   .start-here-cn { font-family: var(--font-cn); font-weight: 700; color: var(--red); font-size: 1.9rem; line-height: 1; letter-spacing: 0.02em; }
   .start-here-cn.sh-multi { font-size: 1.3rem; letter-spacing: 0.04em; line-height: 1.1; }
-  .start-here-title { font-size: 0.85rem; font-weight: 600; color: var(--ink-2); line-height: 1.3; display: block; }
-  .start-here-py { font-family: var(--font-mono); font-size: 0.62rem; color: var(--ink-5); letter-spacing: 0.04em; margin-top: 0.1rem; display: block; }
+  .start-here-py { font-family: var(--font-mono); font-size: 0.62rem; color: var(--ink-5); letter-spacing: 0.04em; display: block; }
+  .start-here-title { font-size: 0.85rem; font-weight: 600; color: var(--ink-2); line-height: 1.3; margin-top: 0.2rem; display: block; }
   .start-here-desc { font-size: 0.74rem; color: var(--ink-4); font-style: italic; line-height: 1.4; margin-top: 0.25rem; flex: 1; display: block; }
   .start-here-cat {
     font-family: var(--font-mono); font-size: 0.55rem; text-transform: uppercase;
