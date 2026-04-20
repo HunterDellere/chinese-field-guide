@@ -1169,6 +1169,21 @@
     "updated": "2026-04-19"
   },
   {
+    "path": "pages/chengyu/mituzhifan_迷途知返.html",
+    "type": "vocab",
+    "category": "chengyu",
+    "title": "迷途知返 · To Realise You Are Lost and Turn Back",
+    "desc": "Four characters that describe one of the most human experiences: taking a wrong road, recognising it, and finding the way home. The Chinese idiom for course-correction done with dignity.",
+    "tags": [
+      "idioms",
+      "classical",
+      "philosophy"
+    ],
+    "status": "complete",
+    "pinyin": "mí tú zhī fǎn",
+    "updated": "2026-04-19"
+  },
+  {
     "path": "pages/chengyu/saiwengshima_塞翁失马.html",
     "type": "vocab",
     "category": "chengyu",

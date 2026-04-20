@@ -236,6 +236,7 @@
         <span class="e404-tooltip-cn">迷途知返</span>
         <span class="e404-tooltip-py">mí tú zhī fǎn</span>
         <span class="e404-tooltip-en">To realise you are lost and find your way back.</span>
+        <span class="e404-tooltip-en" style="margin-top:0.35rem;opacity:0.6;font-style:normal;font-family:var(--font-mono);font-size:0.58rem;letter-spacing:0.12em;text-transform:uppercase">click to read →</span>
       </div>
     </div>
 
@@ -297,8 +298,15 @@
   var wrap = document.getElementById('glyphWrap');
   var charEl = document.getElementById('glyphChar');
   var tooltip = document.getElementById('glyphTooltip');
+  var CHENGYU_URL = '/pages/chengyu/mituzhifan_迷途知返.html';
 
   function cycle() {
+    // Once revealed, the next click navigates to the chengyu page
+    if (revealed) {
+      window.location.href = CHENGYU_URL;
+      return;
+    }
+
     idx = (idx + 1) % glyphs.length;
     charEl.style.opacity = '0';
     charEl.style.transform = 'scale(0.7) rotate(8deg)';
@@ -307,11 +315,12 @@
       charEl.style.opacity = '';
       charEl.style.transform = '';
     }, 180);
-    // On the归 character (index 3), reveal the tooltip
-    if (idx === 3 && !revealed) {
+    // On 归 (index 3), reveal the chengyu tooltip
+    if (idx === 3) {
       revealed = true;
-      tooltip.style.opacity = '';
       wrap.classList.add('revealed');
+      // Update aria-label to signal the next click navigates
+      wrap.setAttribute('aria-label', '迷途知返 — click to read the chengyu');
     }
   }
 
@@ -320,12 +329,10 @@
     if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); cycle(); }
   });
 
-  // Auto-dismiss tooltip after 6 seconds once revealed
+  // Once revealed, pulse the glyph to invite one more click
   var observer = new MutationObserver(function () {
     if (wrap.classList.contains('revealed')) {
-      setTimeout(function () {
-        wrap.classList.remove('revealed');
-      }, 6000);
+      charEl.style.opacity = '0.55';
       observer.disconnect();
     }
   });
