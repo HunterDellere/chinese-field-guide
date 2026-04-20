@@ -440,8 +440,61 @@
                   desc: "Characters, words, grammar — the building blocks." }, LANGUAGE_KEYS);
     renderShelf({ kind: "topics",   cn: "话题", py: "huàtí",  en: "Topics",
                   desc: "Thought, history, place, lived life — what the language is used to say." }, TOPICS_KEYS);
-    renderShelf({ kind: "hubs",     cn: "门户", py: "ménhù",  en: "Hubs",
-                  desc: "Curated collections and reading paths through thematic clusters." }, HUBS_KEYS);
+
+    // Hubs shelf: chengyu as a category cell, each hub entry as its own cell.
+    (function renderHubsShelf() {
+      const shelf = document.createElement("div");
+      shelf.className = "overview-shelf overview-shelf-hubs";
+      shelf.innerHTML = `
+        <div class="overview-shelf-head">
+          <span class="overview-shelf-cn">门户</span>
+          <span class="overview-shelf-py">ménhù</span>
+          <span class="overview-shelf-en">Hubs</span>
+          <span class="overview-shelf-desc">Curated collections and reading paths through thematic clusters.</span>
+        </div>
+        <div class="overview-grid"></div>
+      `;
+      const grid = shelf.querySelector(".overview-grid");
+
+      // Chengyu as a normal category cell
+      const cyMeta = CATEGORY_META["chengyu"];
+      const cyCount = groups["chengyu"].length;
+      const cyCell = document.createElement(cyCount > 0 ? "a" : "div");
+      if (cyCount > 0) cyCell.href = "#cat-chengyu";
+      cyCell.className = "overview-cell";
+      cyCell.dataset.category = "chengyu";
+      cyCell.innerHTML = `
+        <span class="overview-glyph" style="color:${cyMeta.color}">${cyMeta.cn}</span>
+        <div class="overview-body">
+          <span class="overview-name">${cyMeta.en}</span>
+          <span class="overview-py">${cyMeta.py}</span>
+          <span class="overview-desc">${cyMeta.desc}</span>
+          <span class="overview-count">${cyCount + (cyCount === 1 ? " entry" : " entries")}</span>
+        </div>
+      `;
+      grid.appendChild(cyCell);
+
+      // Each hub entry as its own cell
+      groups["hubs"].forEach(e => {
+        const cn = leadCn(e);
+        const en = e.title ? (e.title.split("·").slice(1).join("·").trim() || e.title) : "";
+        const cell = document.createElement("a");
+        cell.href = e.path;
+        cell.className = "overview-cell";
+        cell.dataset.category = "hubs";
+        cell.innerHTML = `
+          <span class="overview-glyph" style="color:${CATEGORY_META.hubs.color}">${cn}</span>
+          <div class="overview-body">
+            <span class="overview-name">${escapeHtml(en)}</span>
+            <span class="overview-py">${escapeHtml(e.pinyin || "")}</span>
+            <span class="overview-desc">${escapeHtml(e.desc || "")}</span>
+          </div>
+        `;
+        grid.appendChild(cell);
+      });
+
+      overviewStack.appendChild(shelf);
+    })();
 
     // ── recent grid ────────────────────────────────────────────────────────────
     // Uses data/recent.json (sorted by updated desc at build time) so the order
