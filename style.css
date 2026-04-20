@@ -569,6 +569,20 @@ h1, h2, h3, .section-head { text-wrap: balance; }
   text-wrap: balance;
   position: relative;
 }
+/* Chapter-break ornament: a short centered rule in the whitespace above each
+   section-head, closing the previous section before the next one opens. The
+   first section-head on a page is suppressed — it sits under the hero, which
+   provides its own bottom rule + coloured tab. */
+.section-head::before {
+  content: '';
+  display: block;
+  width: 3.5rem;
+  height: 1px;
+  background: var(--rule);
+  opacity: 0.75;
+  margin: 0 auto 1.6rem;
+}
+.main > .section-head:first-of-type::before { content: none; }
 /* Small coloured tab under each section head — echoes the red bar under
    the hero so every section reads as a labelled tag. Colour follows the
    active category via --seal-color. */
@@ -966,6 +980,35 @@ h3.stage-name {
 .stage-legend-item.s-sienna { border-left-color: var(--sienna); }
 .stage-legend-item.s-violet { border-left-color: var(--violet-ink); }
 .stage-legend-item.s-red    { border-left-color: var(--red); }
+
+/* ── PATH BEGIN DIVIDER (hub legend → first stage) ───────────
+   A labelled horizontal rule injected between the .stages-legend map and
+   the first .stage-head. Without this, the reader's eye ran straight from
+   the last legend card into the first stage block, which looks similar —
+   this divider clearly marks the transition from "map" to "journey". */
+.path-begin {
+  display: flex;
+  align-items: center;
+  gap: 0.9rem;
+  margin: 2.5rem 0 2.25rem;
+  font-family: var(--font-mono);
+  font-size: 0.62rem;
+  letter-spacing: 0.24em;
+  text-transform: uppercase;
+  color: var(--ink-5);
+}
+.path-begin::before,
+.path-begin::after {
+  content: '';
+  flex: 1 1 auto;
+  height: 1px;
+  background: var(--rule);
+}
+.path-begin-label {
+  flex-shrink: 0;
+  white-space: nowrap;
+  color: var(--ink-4);
+}
 
 /* ── CARD ANCHOR (deep-link # beside each card title) ────── */
 .card-anchor {
