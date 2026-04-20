@@ -288,10 +288,9 @@
   // Glyph cycles through characters related to being lost / searching / returning
   var glyphs = [
     { char: '迷', pinyin: 'mí', en: 'lost, bewildered' },
-    { char: '惑', pinyin: 'huò', en: 'confused, doubtful' },
-    { char: '找', pinyin: 'zhǎo', en: 'to search, to look for' },
-    { char: '归', pinyin: 'guī', en: 'to return, to go back' },
-    { char: '迷', pinyin: 'mí', en: 'lost, bewildered' },
+    { char: '途', pinyin: 'tú', en: 'road, the journey underway' },
+    { char: '知', pinyin: 'zhī', en: 'to realise, to know' },
+    { char: '返', pinyin: 'fǎn', en: 'to turn back, to return' },
   ];
   var idx = 0;
   var revealed = false;
@@ -315,7 +314,7 @@
       charEl.style.opacity = '';
       charEl.style.transform = '';
     }, 180);
-    // On 归 (index 3), reveal the chengyu tooltip
+    // On 返 (index 3 — last character of 迷途知返), reveal the chengyu tooltip
     if (idx === 3) {
       revealed = true;
       wrap.classList.add('revealed');

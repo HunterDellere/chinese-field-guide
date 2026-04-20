@@ -1215,6 +1215,21 @@
     "updated": "2026-04-19"
   },
   {
+    "path": "pages/chengyu/wuruqitu_误入歧途.html",
+    "type": "vocab",
+    "category": "chengyu",
+    "title": "误入歧途 · To Stray onto the Wrong Road",
+    "desc": "The four-character idiom for taking a wrong turn — morally, professionally, or literally. Where 迷途知返 describes the recovery, 误入歧途 describes the moment things went wrong.",
+    "tags": [
+      "idioms",
+      "classical",
+      "philosophy"
+    ],
+    "status": "complete",
+    "pinyin": "wù rù qí tú",
+    "updated": "2026-04-19"
+  },
+  {
     "path": "pages/chengyu/yugongyishan_愚公移山.html",
     "type": "vocab",
     "category": "chengyu",
