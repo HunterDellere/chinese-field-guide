@@ -148,6 +148,7 @@ function renderHubStagesHtml(fm, slug, category) {
 
   const pathSection = `
     <span class="section-anchor" id="path"></span>
+    <div class="path-begin" role="presentation"><span class="path-begin-label">开始阅读 · Begin the path</span></div>
     ${stageCards}`;
 
   const html = `<!-- auto-link-skip -->${stagesSection}\n${pathSection}<!-- /auto-link-skip -->`;
