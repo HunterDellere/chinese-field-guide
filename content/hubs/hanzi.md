@@ -172,7 +172,7 @@ stages:
     <div class="section-head"><h2>Further Reading</h2></div>
     <div class="scholar" data-glyph="文">
       <div class="scholar-label">延伸阅读 · yánshēn yuèdú — companion hubs &amp; references</div>
-      <p><strong>Companion hubs on this site:</strong> The <a href="../../pages/hubs/zhexue.html">哲学 — Philosophy hub</a> gives many of the characters in this hub their philosophical weight: 道, 心, and 文 are not just linguistic objects but the vocabulary of a civilisation's deepest arguments. The <a href="../../pages/hubs/dynasties.html">朝代 — Dynasties hub</a> provides historical context: oracle-bone script emerged in the Shang, seal script was standardised by the Qin, and each dynasty produced its own calligraphic masters.</p>
+      <p><strong>Companion hubs on this site:</strong> The <a href="zhexue.html">哲学 — Philosophy hub</a> gives many of the characters in this hub their philosophical weight: 道, 心, and 文 are not just linguistic objects but the vocabulary of a civilisation's deepest arguments. The <a href="dynasties.html">朝代 — Dynasties hub</a> provides historical context: oracle-bone script emerged in the Shang, seal script was standardised by the Qin, and each dynasty produced its own calligraphic masters.</p>
       <p><strong>Key references:</strong> Cecilia Lindqvist's <em>China: Empire of Living Symbols</em> (1991) is the best introductory treatment of character etymology for non-specialists. For the radical system, Rick Harbaugh's <em>Chinese Characters: A Genealogy and Dictionary</em> (Yale, 1998) remains the most useful structural reference. The online resource Outlier Linguistics (outlier-linguistics.com) provides rigorous etymological entries grounded in current scholarship.</p>
     </div>
 

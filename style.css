@@ -388,6 +388,22 @@ body {
 .toc-hub-link { display: flex; flex-direction: column; gap: 0.05rem; }
 .toc-hub-cn { font-family: var(--font-cn); font-weight: 600; color: var(--ink-2); }
 .toc-hub-en { font-size: 0.72rem; color: var(--ink-5); font-style: italic; }
+.toc-sublist {
+  list-style: none;
+  padding: 0 0 0.25rem 1.4rem;
+  margin: 0;
+}
+.toc-sublist li { display: block; }
+.toc-sublist a {
+  display: block;
+  padding: 0.2rem 0.6rem;
+  font-size: 0.74rem;
+  color: var(--ink-5);
+  text-decoration: none;
+  border-left: 2px solid transparent;
+  transition: all 0.15s;
+}
+.toc-sublist a:hover { color: var(--teal-ink); border-left-color: var(--teal-ink); }
 
 /* ── MAIN CONTENT ────────────────────────────────────────── */
 .main { padding: 3rem 3rem 6rem 3.5rem; max-width: 780px; }
@@ -822,47 +838,79 @@ h1, h2, h3, .section-head { text-wrap: balance; }
 /* ── STAGE HEADS (hub reading-path stage separators) ──────── */
 .stage-head {
   display: flex;
-  align-items: baseline;
+  align-items: center;
   flex-wrap: wrap;
-  gap: 0.3rem 0.7rem;
-  margin: 2rem 0 0.5rem;
-  padding: 0.55rem 1rem;
+  gap: 0.25rem 0.75rem;
+  margin: 2.25rem 0 0.6rem;
+  padding: 0.75rem 1.1rem;
   background: var(--papyrus-2);
   border: 1px solid var(--rule);
+  border-left-width: 5px;
   border-radius: var(--radius);
+  scroll-margin-top: calc(var(--nav-h) + 1.5rem);
+}
+.stage-head:target {
+  animation: target-flash 1.4s ease-out;
 }
 .stage-num {
   font-family: var(--font-mono);
-  font-size: 0.6rem;
-  letter-spacing: 0.18em;
+  font-size: 0.58rem;
+  letter-spacing: 0.2em;
   text-transform: uppercase;
   color: var(--ink-5);
+  flex-shrink: 0;
 }
-.stage-name {
+h3.stage-name {
   font-family: var(--font-cn);
-  font-size: 0.95rem;
+  font-size: 1rem;
   font-weight: 700;
   color: var(--ink);
+  margin: 0;
+  line-height: 1.2;
 }
 .stage-name-en {
-  font-size: 0.82rem;
+  font-size: 0.8rem;
   color: var(--ink-3);
   font-style: italic;
 }
 .stage-note {
   width: 100%;
-  font-size: 0.78rem;
+  font-size: 0.76rem;
   color: var(--ink-5);
   font-style: italic;
   line-height: 1.5;
-  margin-top: 0.1rem;
+  margin-top: 0.15rem;
 }
 /* Stage border colours mirror card colour classes */
-.stage-head.s-teal   { border-left: 3px solid var(--teal-ink); }
-.stage-head.s-ochre  { border-left: 3px solid var(--ochre); }
-.stage-head.s-sienna { border-left: 3px solid var(--sienna); }
-.stage-head.s-violet { border-left: 3px solid var(--violet-ink); }
-.stage-head.s-red    { border-left: 3px solid var(--red); }
+.stage-head.s-teal   { border-left-color: var(--teal-ink);    background: rgba(26,80,80,0.04); }
+.stage-head.s-ochre  { border-left-color: var(--ochre);       background: rgba(190,140,50,0.04); }
+.stage-head.s-sienna { border-left-color: var(--sienna);      background: rgba(160,80,50,0.04); }
+.stage-head.s-violet { border-left-color: var(--violet-ink);  background: rgba(90,50,140,0.04); }
+.stage-head.s-red    { border-left-color: var(--red);         background: rgba(180,40,40,0.04); }
+
+/* ── CARD ANCHOR (deep-link # beside each card title) ────── */
+.card-anchor {
+  opacity: 0;
+  margin-left: 0.4em;
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  color: var(--ink-5);
+  text-decoration: none;
+  transition: opacity 0.15s;
+  align-self: center;
+}
+.card:hover .card-anchor { opacity: 1; }
+.card:target {
+  outline: 2px solid var(--teal-ink);
+  outline-offset: 2px;
+  animation: target-flash 1.4s ease-out;
+}
+
+/* ── TARGET FLASH ANIMATION ─────────────────────────────── */
+@keyframes target-flash {
+  0%   { background-color: rgba(26,80,80,0.18); }
+  100% { background-color: transparent; }
+}
 
 /* ── CARD META (hub reading-path type + length labels) ───── */
 .card-meta {

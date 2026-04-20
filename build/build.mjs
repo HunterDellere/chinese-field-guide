@@ -58,23 +58,36 @@ function escapeHtmlBuild(s) {
 }
 
 /**
+ * Derive a safe ASCII card id from a member slug.
+ * 'characters/cha2_茶' → 'cha2'
+ * 'culinary/topic_cha' → 'topic_cha'
+ */
+function cardId(memberSlug) {
+  const base = memberSlug.split('/').pop();
+  // If basename contains an underscore followed by a non-ASCII char, keep only the ASCII prefix
+  const asciiPrefix = base.match(/^([A-Za-z0-9_-]+)_[^\x00-\x7F]/);
+  return asciiPrefix ? asciiPrefix[1] : base;
+}
+
+/**
  * Render the stages legend + staged reading-path cards HTML from frontmatter stages[].
- * Replaces the existing hand-typed #stages + #path sections in hub bodies.
+ * Returns { html, sidebarListHtml } — html is wrapped in auto-link-skip sentinels
+ * so the auto-linker never scans hrefs inside generated card markup.
  */
 function renderHubStagesHtml(fm, slug, category) {
-  if (!fm.stages || !fm.stages.length) return '';
+  if (!fm.stages || !fm.stages.length) return { html: '', sidebarListHtml: '' };
   const fromPath = `pages/${category}/${slug}.html`;
 
-  // Legend block (#stages)
+  // Legend block (#stages) — one stage-head per stage, no cards
   const legendItems = fm.stages.map((st, i) => {
     const cn = st.cn || st.name;
     const en = st.name_en || st.name;
-    const colorClass = COLOR_TO_CARD[st.color] || 'c-teal';
     const stageColorClass = `s-${st.color || 'teal'}`;
+    const stageIdAttr = `stage-${i + 1}`;
     return `
-      <div class="stage-head ${stageColorClass}">
+      <div class="stage-head ${stageColorClass}" id="${stageIdAttr}">
         <span class="stage-num">Stage ${i + 1}</span>
-        <span class="stage-name">${escapeHtmlBuild(cn)}</span>
+        <h3 class="stage-name">${escapeHtmlBuild(cn)}</h3>
         <span class="stage-name-en">${escapeHtmlBuild(en)}</span>
         ${st.note ? `<span class="stage-note">${escapeHtmlBuild(st.note)}</span>` : ''}
       </div>`;
@@ -91,26 +104,29 @@ function renderHubStagesHtml(fm, slug, category) {
     const stageColorClass = `s-${st.color || 'teal'}`;
     const cn = st.cn || st.name;
     const en = st.name_en || st.name;
+    const stageIdAttr = `stage-${i + 1}`;
     const cards = (st.members || []).map(member => {
       const href = relPathBuild(fromPath, `pages/${member.slug}.html`);
       const typeLabel = member.type ? TYPE_LABEL[member.type] || member.type : '';
       const minsLabel = member.mins ? `${member.mins} min` : '';
       const metaStr = [typeLabel, minsLabel].filter(Boolean).join(' · ');
+      const cid = cardId(member.slug);
       return `
-      <div class="card ${colorClass}">
+      <div class="card ${colorClass}" id="card-${cid}">
         ${metaStr ? `<div class="card-meta">${escapeHtmlBuild(metaStr)}</div>` : ''}
         <div class="card-head">
           <span class="card-cn">${escapeHtmlBuild(member.label_cn)}</span>
           ${member.label_en ? `<span class="card-en">${escapeHtmlBuild(member.label_en)}</span>` : ''}
+          <a class="card-anchor" href="#card-${cid}" aria-label="Link to this entry">#</a>
         </div>
         <p><a href="${escapeHtmlBuild(href)}">${escapeHtmlBuild(member.label_cn)}</a>${member.note ? ` — ${escapeHtmlBuild(member.note)}` : ''}</p>
       </div>`;
     }).join('');
 
     return `
-    <div class="stage-head ${stageColorClass}">
+    <div class="stage-head ${stageColorClass}" id="${stageIdAttr}">
       <span class="stage-num">Stage ${i + 1}</span>
-      <span class="stage-name">${escapeHtmlBuild(cn)}</span>
+      <h3 class="stage-name">${escapeHtmlBuild(cn)}</h3>
       <span class="stage-name-en">${escapeHtmlBuild(en)}</span>
       ${st.note ? `<span class="stage-note">${escapeHtmlBuild(st.note)}</span>` : ''}
     </div>
@@ -118,12 +134,18 @@ function renderHubStagesHtml(fm, slug, category) {
     </div>`;
   }).join('');
 
-  // Wrap path section
+  // Sidebar TOC nested list for stages
+  const sidebarListHtml = fm.stages.map((st, i) => {
+    const en = st.name_en || st.name;
+    return `<li><a href="#stage-${i + 1}">${escapeHtmlBuild(en)}</a></li>`;
+  }).join('\n        ');
+
   const pathSection = `
     <span class="section-anchor" id="path"></span>
     ${stageCards}`;
 
-  return stagesSection + '\n' + pathSection;
+  const html = `<!-- auto-link-skip -->${stagesSection}\n${pathSection}<!-- /auto-link-skip -->`;
+  return { html, sidebarListHtml };
 }
 
 function relPathBuild(fromPath, toPath) {
@@ -389,20 +411,24 @@ for (const { fm, body, slug, category, outDir, entry } of pending) {
 
     // Hub pages: inject stages section from frontmatter (if stages[] present)
     if (fm.type === 'hub' && fm.stages && fm.stages.length) {
-      const stagesHtml = renderHubStagesHtml(fm, slug, category);
-      // Replace the existing hand-typed #path section (and #stages if present)
-      // by inserting the generated block just before id="path" in the body.
+      const { html: stagesHtml, sidebarListHtml } = renderHubStagesHtml(fm, slug, category);
       if (augmentedBody.includes('id="path"')) {
-        // Remove old hand-typed #stages section if present (between #overview end and id="path")
+        // Remove old hand-typed #stages section if present
         augmentedBody = augmentedBody.replace(
           /<span class="section-anchor" id="stages"><\/span>[\s\S]*?(?=<span class="section-anchor" id="path">)/,
           ''
         );
-        // Replace everything from id="path" through the closing </div> of the adj-wrap (Quick Index)
-        // We target: the section-anchor for path, through (but not including) id="also"
+        // Replace everything from id="path" through (but not including) id="also"
         augmentedBody = augmentedBody.replace(
           /<span class="section-anchor" id="path"><\/span>[\s\S]*?(?=<span class="section-anchor" id="also">)/,
           stagesHtml + '\n\n    '
+        );
+      }
+      // Inject nested stage list into sidebar TOC under the #path link
+      if (sidebarListHtml) {
+        augmentedBody = augmentedBody.replace(
+          /(<li><a href="#path">[\s\S]*?<\/a><\/li>)/,
+          `$1\n        <ul class="toc-sublist">\n        ${sidebarListHtml}\n        </ul>`
         );
       }
     }

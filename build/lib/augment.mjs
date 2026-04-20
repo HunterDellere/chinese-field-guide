@@ -155,6 +155,15 @@ function splitIntoSections(body) {
 export function autoLinkBody(body, linkMap, currentEntry) {
   if (!linkMap.length) return body;
 
+  // Extract auto-link-skip sentinel blocks before any splitting so section
+  // boundaries inside the block don't fracture the sentinel across chunks.
+  const skipBlocks = [];
+  body = body.replace(/<!--\s*auto-link-skip\s*-->[\s\S]*?<!--\s*\/auto-link-skip\s*-->/g, (m) => {
+    const token = `\x00SKIP${skipBlocks.length}\x00`;
+    skipBlocks.push(m);
+    return token;
+  });
+
   // Global usage counter: path → total links inserted across the whole page
   const globalCount = new Map();
   // Per-section usage counter: path → links inserted in the current section
@@ -180,34 +189,62 @@ export function autoLinkBody(body, linkMap, currentEntry) {
         result += seg.text;
         continue;
       }
-      let text = seg.text;
-      for (const { phrase, path } of linkMap) {
-        const secUsed = sectionCount.get(path) || 0;
-        const globUsed = globalCount.get(path) || 0;
-        if (secUsed >= MAX_LINKS_PER_TARGET_PER_SECTION) continue;
-        if (globUsed >= MAX_LINKS_PER_TARGET_GLOBAL) continue;
-
-        const idx = text.indexOf(phrase);
-        if (idx === -1) continue;
-        // Skip if phrase sits inside a longer Chinese run (avoid linking 心 inside 关心).
-        if (phrase.length === 1 && HZ_RE.test(phrase)) {
-          const before = text[idx - 1] || '';
-          const after  = text[idx + phrase.length] || '';
-          if (HZ_RE.test(before) || HZ_RE.test(after)) continue;
+      // Build output left-to-right, advancing a cursor so already-inserted
+      // link markup is never rescanned by subsequent phrase substitutions.
+      let remaining = seg.text;
+      let built = '';
+      let anyReplaced = true;
+      while (anyReplaced) {
+        anyReplaced = false;
+        // Find the earliest-occurring phrase in `remaining` that is within budget.
+        let bestIdx = -1;
+        let bestPhrase = null;
+        let bestPath = null;
+        for (const { phrase, path } of linkMap) {
+          const secUsed = sectionCount.get(path) || 0;
+          const globUsed = globalCount.get(path) || 0;
+          if (secUsed >= MAX_LINKS_PER_TARGET_PER_SECTION) continue;
+          if (globUsed >= MAX_LINKS_PER_TARGET_GLOBAL) continue;
+          const idx = remaining.indexOf(phrase);
+          if (idx === -1) continue;
+          if (phrase.length === 1 && HZ_RE.test(phrase)) {
+            const before = remaining[idx - 1] || '';
+            const after  = remaining[idx + phrase.length] || '';
+            if (HZ_RE.test(before) || HZ_RE.test(after)) continue;
+          }
+          if (bestIdx === -1 || idx < bestIdx) {
+            bestIdx = idx;
+            bestPhrase = phrase;
+            bestPath = path;
+          }
         }
-        const href = relativePath(currentEntry.path, path);
-        const replacement = `<a class="auto-link" href="${escapeAttr(href)}">${escapeHtml(phrase)}</a>`;
-        text = text.slice(0, idx) + replacement + text.slice(idx + phrase.length);
-        sectionCount.set(path, secUsed + 1);
-        globalCount.set(path, globUsed + 1);
+        if (bestIdx !== -1) {
+          const href = relativePath(currentEntry.path, bestPath);
+          const replacement = `<a class="auto-link" href="${escapeAttr(href)}">${escapeHtml(bestPhrase)}</a>`;
+          built += remaining.slice(0, bestIdx) + replacement;
+          remaining = remaining.slice(bestIdx + bestPhrase.length);
+          sectionCount.set(bestPath, (sectionCount.get(bestPath) || 0) + 1);
+          globalCount.set(bestPath, (globalCount.get(bestPath) || 0) + 1);
+          anyReplaced = true;
+        }
       }
-      result += text;
+      result += built + remaining;
     }
     processedChunks.push(result);
   }
 
   // Re-join, stripping the section-boundary sentinels
-  return processedChunks.join('').split(SECTION_BOUNDARY).join('');
+  let result = processedChunks.join('').split(SECTION_BOUNDARY).join('');
+
+  // Reinsert auto-link-skip blocks verbatim (also strip the sentinel comments)
+  result = result.replace(/\x00SKIP(\d+)\x00/g, (_, i) => {
+    const block = skipBlocks[Number(i)];
+    // Strip the sentinel comment wrappers from the final output
+    return block
+      .replace(/^<!--\s*auto-link-skip\s*-->/, '')
+      .replace(/<!--\s*\/auto-link-skip\s*-->$/, '');
+  });
+  return result;
 }
 
 /**
@@ -256,6 +293,7 @@ function splitProtected(body) {
   const segs = [];
   const protectedTags = ['a', 'code', 'pre', 'script', 'style'];
   const re = new RegExp(
+    `<!--\\s*auto-link-skip\\s*-->[\\s\\S]*?<!--\\s*\\/auto-link-skip\\s*-->|` + // skip sentinel
     `<(${protectedTags.join('|')})\\b[^>]*>[\\s\\S]*?<\\/\\1>|` + // protected element trees
     `<header class="hero">[\\s\\S]*?<\\/header>|` +                // hero
     `<header class="topic-hero">[\\s\\S]*?<\\/header>|` +

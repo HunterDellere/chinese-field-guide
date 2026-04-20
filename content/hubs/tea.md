@@ -167,7 +167,7 @@ stages:
     <div class="section-head"><h2>Further Reading</h2></div>
     <div class="scholar" data-glyph="茶">
       <div class="scholar-label">延伸阅读 · yánshēn yuèdú — companion hubs &amp; references</div>
-      <p><strong>Companion hubs on this site:</strong> The <a href="../../pages/hubs/zhexue.html">哲学 — Philosophy hub</a> provides the Daoist undercurrent in tea culture: the concept of 道 in 茶道 is the same 道 that Laozi put at the centre of his cosmology. The <a href="../../pages/hubs/zhongyi.html">中医 — Medicine hub</a> explains why many teas are classified by temperature and flavour properties: the classification system is identical to the one used for medicinal herbs.</p>
+      <p><strong>Companion hubs on this site:</strong> The <a href="zhexue.html">哲学 — Philosophy hub</a> provides the Daoist undercurrent in tea culture: the concept of 道 in 茶道 is the same 道 that Laozi put at the centre of his cosmology. The <a href="zhongyi.html">中医 — Medicine hub</a> explains why many teas are classified by temperature and flavour properties: the classification system is identical to the one used for medicinal herbs.</p>
       <p><strong>Primary texts:</strong> Lu Yu's <em>Chajing</em> (茶经, Classic of Tea, c. 760 CE) is the founding text of Chinese tea culture — available in Francis Ross Carpenter's English translation. For contemporary context, James Norwood Pratt's <em>New Tea Lover's Treasury</em> remains a useful bridge between the Chinese taxonomy and Western consumption habits.</p>
       <p><strong>Practical reference:</strong> The Tea Guardian (teaguardian.com) has the most rigorous English-language reference material on the six-class taxonomy, processing methods, and regional variations, grounded in Chinese-language sources.</p>
     </div>

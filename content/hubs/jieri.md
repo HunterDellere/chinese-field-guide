@@ -137,7 +137,7 @@ stages:
     <div class="section-head"><h2>Further Reading</h2></div>
     <div class="scholar" data-glyph="年">
       <div class="scholar-label">延伸阅读 · yánshēn yuèdú — companion hubs &amp; references</div>
-      <p><strong>Companion hubs on this site:</strong> The <a href="../../pages/hubs/zhexue.html">哲学 — Philosophy hub</a> provides the cosmological substrate of the calendar: yin-yang theory, the five phases, and 命运 as philosophical concepts rather than folk belief. The <a href="../../pages/hubs/zhongyi.html">中医 — Medicine hub</a> shows how the 24 solar terms structure not just farming but also diet and health — eating with the seasons is a TCM principle as much as a culinary one.</p>
+      <p><strong>Companion hubs on this site:</strong> The <a href="zhexue.html">哲学 — Philosophy hub</a> provides the cosmological substrate of the calendar: yin-yang theory, the five phases, and 命运 as philosophical concepts rather than folk belief. The <a href="zhongyi.html">中医 — Medicine hub</a> shows how the 24 solar terms structure not just farming but also diet and health — eating with the seasons is a TCM principle as much as a culinary one.</p>
       <p><strong>Key references:</strong> Kenneth Dean and Thomas Lamarre's <em>Ritual and Its Consequences</em> (2008) covers the social theory of Chinese ritual. For the practical calendar, the China Heritage website (chinaheritage.net) run by Geremie Barmé provides the best English-language contextual commentary on festivals as they occur each year.</p>
     </div>
 
