@@ -146,10 +146,13 @@ export function renderHskBody(level, entries, rootDir) {
   const vocabHtml = vocab.map(v => {
     const link = wordLookup.get(v.simp) ? wordLink(v.simp, wordLookup) : charLink(v.simp, charLookup);
     const trad = v.trad ? ` <span class="hsk-trad">/ ${escapeHtml(v.trad)}</span>` : '';
+    const metaParts = [
+      v.pinyin ? `<span class="hsk-vocab-py">${escapeHtml(v.pinyin)}</span>` : '',
+      v.pos ? `<span class="hsk-vocab-pos">${escapeHtml(v.pos)}</span>` : '',
+    ].filter(Boolean).join('');
     return `<li class="hsk-vocab-item">
           <span class="hsk-vocab-hz">${link}${trad}</span>
-          ${v.pinyin ? `<span class="hsk-vocab-py">${escapeHtml(v.pinyin)}</span>` : ''}
-          ${v.pos ? `<span class="hsk-vocab-pos">${escapeHtml(v.pos)}</span>` : ''}
+          ${metaParts ? `<span class="hsk-vocab-meta">${metaParts}</span>` : ''}
           ${v.gloss ? `<span class="hsk-vocab-gloss">${escapeHtml(v.gloss)}</span>` : ''}
         </li>`;
   }).join('\n        ');

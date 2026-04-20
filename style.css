@@ -1747,15 +1747,16 @@ body[data-category="hsk"] { --seal-color: var(--cat-hsk); }
 .hsk-char-item .hsk-ch-linked:hover { background: rgba(42,92,61,0.08); }
 .hsk-char-item .hsk-trad { display: block; font-size: 0.85rem; opacity: 0.55; margin-top: 0.1rem; }
 
-.hsk-vocab-list { list-style: none; padding: 0; margin: 1.25rem 0 2rem; display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 0.5rem 1rem; }
-.hsk-vocab-item { padding: 0.55rem 0.75rem; border-left: 2px solid rgba(42,92,61,0.18); background: rgba(255,255,255,0.3); border-radius: 0 3px 3px 0; display: grid; grid-template-columns: auto 1fr; column-gap: 0.75rem; row-gap: 0.1rem; align-items: baseline; font-size: 0.95rem; }
-.hsk-vocab-hz { grid-row: 1 / span 2; font-family: 'Noto Serif SC', serif; font-size: 1.15rem; color: rgba(28,18,8,0.82); }
+.hsk-vocab-list { list-style: none; padding: 0; margin: 1.25rem 0 2rem; display: flex; flex-direction: column; gap: 0.35rem; }
+.hsk-vocab-item { padding: 0.55rem 0.75rem; border-left: 2px solid rgba(42,92,61,0.18); background: rgba(255,255,255,0.3); border-radius: 0 3px 3px 0; display: flex; flex-direction: column; gap: 0.05rem; }
+.hsk-vocab-hz { font-family: 'Noto Serif SC', serif; font-size: 1.1rem; color: rgba(28,18,8,0.85); line-height: 1.3; }
 .hsk-vocab-hz .hsk-wd-linked { color: var(--cat-hsk); text-decoration: none; font-weight: 600; border-bottom: 1px solid rgba(42,92,61,0.32); }
 .hsk-vocab-hz .hsk-ch-linked { color: var(--cat-hsk); text-decoration: none; font-weight: 600; border-bottom: 1px solid rgba(42,92,61,0.32); }
 .hsk-vocab-hz .hsk-trad { font-size: 0.85rem; opacity: 0.5; }
-.hsk-vocab-py { font-family: 'Cormorant Garamond', serif; font-style: italic; font-size: 0.95rem; color: rgba(28,18,8,0.62); grid-column: 2; }
-.hsk-vocab-pos { font-family: 'Inconsolata', 'Noto Sans Mono', monospace; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.04em; color: var(--cat-hsk); opacity: 0.68; margin-left: 0.35rem; }
-.hsk-vocab-gloss { grid-column: 2; font-size: 0.9rem; color: rgba(28,18,8,0.72); line-height: 1.4; }
+.hsk-vocab-meta { display: flex; align-items: baseline; gap: 0.45em; }
+.hsk-vocab-py { font-family: 'Cormorant Garamond', serif; font-style: italic; font-size: 0.9rem; color: rgba(28,18,8,0.55); }
+.hsk-vocab-pos { font-family: 'Inconsolata', 'Noto Sans Mono', monospace; font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--cat-hsk); opacity: 0.7; }
+.hsk-vocab-gloss { font-size: 0.88rem; color: rgba(28,18,8,0.72); line-height: 1.45; }
 
 .hsk-grammar-list { list-style: none; padding: 0; margin: 1.25rem 0 2rem; display: grid; grid-template-columns: 1fr; gap: 0.3rem; }
 .hsk-grammar-item { padding: 0.5rem 0.85rem; border-left: 2px solid rgba(42,92,61,0.22); background: rgba(255,255,255,0.28); border-radius: 0 3px 3px 0; font-family: 'Noto Serif SC', serif; font-size: 0.98rem; color: rgba(28,18,8,0.8); line-height: 1.5; }
