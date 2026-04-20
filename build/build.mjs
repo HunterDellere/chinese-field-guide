@@ -295,12 +295,18 @@ function buildJsonLd(fm, slug, category) {
   ].join('\n');
 }
 
+const LANG_LOCALE = {
+  characters: 'zh_CN', vocab: 'zh_CN', grammar: 'zh_CN', chengyu: 'zh_CN',
+};
+
 function buildOgTags(fm, slug, category) {
   if (fm.status !== 'complete') return '';
   const url = `${SITE_URL}/pages/${category}/${slug}.html`;
   const ogImg = `${SITE_URL}/og/${category}/${slug}.svg`;
   const title = fm.pageTitle || buildPageTitle(fm);
   const desc = fm.metaDesc || fm.desc || '';
+  const primaryLocale = LANG_LOCALE[category] || 'en_US';
+  const alternateLocale = primaryLocale === 'zh_CN' ? 'en_US' : 'zh_CN';
   return [
     `<meta property="og:type" content="article">`,
     `<meta property="og:title" content="${escapeAttr(title)}">`,
@@ -308,6 +314,8 @@ function buildOgTags(fm, slug, category) {
     `<meta property="og:url" content="${url}">`,
     `<meta property="og:image" content="${ogImg}">`,
     `<meta property="og:site_name" content="Jiǎoluò Shūwū · 角落書屋">`,
+    `<meta property="og:locale" content="${primaryLocale}">`,
+    `<meta property="og:locale:alternate" content="${alternateLocale}">`,
     `<meta name="twitter:card" content="summary_large_image">`,
     `<meta name="twitter:title" content="${escapeAttr(title)}">`,
     `<meta name="twitter:description" content="${escapeAttr(desc)}">`,
@@ -322,10 +330,22 @@ function escapeAttr(s) {
     .replace(/</g, '&lt;');
 }
 
+function appendGloss(baseTitle, fm) {
+  if (!fm.desc) return baseTitle;
+  if (baseTitle.includes('—') || baseTitle.includes('·')) return baseTitle;
+  // Take text before " — " if present, otherwise before the first comma
+  const byDash = fm.desc.split(' — ')[0].trim();
+  const gloss = byDash.length <= 50 ? byDash : fm.desc.split(',')[0].trim();
+  if (!gloss || gloss.length > 55) return baseTitle;
+  return `${baseTitle} — ${gloss}`;
+}
+
 function renderPage(fm, body, slug, category) {
   const filename = `${slug}.html`;
   const metaComment = buildMetaComment(fm);
-  const pageTitle = fm.pageTitle || buildPageTitle(fm);
+  const rawTitle = fm.pageTitle || buildPageTitle(fm);
+  const needsGloss = fm.type === 'character' || fm.type === 'vocab' || fm.type === 'grammar';
+  const pageTitle = needsGloss ? appendGloss(rawTitle, fm) : rawTitle;
   const metaDesc = fm.metaDesc || fm.desc || '';
   const jsonLd = buildJsonLd(fm, slug, category);
   const ogTags = buildOgTags(fm, slug, category);
