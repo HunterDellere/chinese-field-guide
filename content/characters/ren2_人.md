@@ -97,10 +97,10 @@ radical: '人'
           <div class="hero-pinyin">rén</div>
           <div class="hero-en">person · human being · humanity</div>
           <div class="hero-chips">
-            <span class="chip">部首 bùshǒu · 人 rén (itself)</span>
-            <span class="chip">2 笔画 bǐhuà strokes</span>
             <span class="chip chip-hsk">HSK 1</span>
-            <span class="chip">tone 2 · rén</span>
+            <span class="chip">笔画 2</span>
+            <span class="chip">部首 人 (itself)</span>
+            <span class="chip">声调 第二声 (rising)</span>
           </div>
         </div>
       </div>

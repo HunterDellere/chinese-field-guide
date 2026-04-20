@@ -93,10 +93,10 @@ radical: '宀'
           <div class="hero-pinyin">jiā</div>
           <div class="hero-en">home · family · school of thought · nation</div>
           <div class="hero-chips">
-            <span class="chip">部首 bùshǒu · 宀 mián roof</span>
-            <span class="chip">10 笔画 bǐhuà strokes</span>
             <span class="chip chip-hsk">HSK 1</span>
-            <span class="chip">tone 1 · jiā</span>
+            <span class="chip">笔画 10</span>
+            <span class="chip">部首 宀 (roof)</span>
+            <span class="chip">声调 第一声 (flat)</span>
           </div>
         </div>
       </div>

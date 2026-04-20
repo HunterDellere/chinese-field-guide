@@ -74,10 +74,10 @@ radical: '女'
           <div class="hero-pinyin">nǚ</div>
           <div class="hero-en">woman · female · daughter</div>
           <div class="hero-chips">
-            <span class="chip">部首 bùshǒu · 女 nǚ woman</span>
-            <span class="chip">3 笔画 bǐhuà strokes</span>
             <span class="chip chip-hsk">HSK 2</span>
-            <span class="chip">tone 3 · nǚ</span>
+            <span class="chip">笔画 3</span>
+            <span class="chip">部首 女 (itself)</span>
+            <span class="chip">声调 第三声 (dipping)</span>
           </div>
         </div>
       </div>

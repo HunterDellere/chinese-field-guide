@@ -92,10 +92,10 @@ radical: '冂'
           <div class="hero-pinyin">zài</div>
           <div class="hero-en">again · one more · and then · further</div>
           <div class="hero-chips">
-            <span class="chip">部首 bùshǒu · 冂 jiōng frame</span>
-            <span class="chip">6 笔画 bǐhuà strokes</span>
             <span class="chip chip-hsk">HSK 2</span>
-            <span class="chip">tone 4 · zài</span>
+            <span class="chip">笔画 6</span>
+            <span class="chip">部首 冂 (frame)</span>
+            <span class="chip">声调 第四声 (falling)</span>
           </div>
         </div>
       </div>

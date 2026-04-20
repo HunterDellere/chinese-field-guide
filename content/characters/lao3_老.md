@@ -79,10 +79,10 @@ radical: '老'
           <div class="hero-pinyin">lǎo</div>
           <div class="hero-en">old · aged · venerable · experienced · always</div>
           <div class="hero-chips">
-            <span class="chip">部首 bùshǒu · 老 lǎo old</span>
-            <span class="chip">6 笔画 bǐhuà strokes</span>
             <span class="chip chip-hsk">HSK 2</span>
-            <span class="chip">tone 3 · lǎo</span>
+            <span class="chip">笔画 6</span>
+            <span class="chip">部首 老 (itself)</span>
+            <span class="chip">声调 第三声 (dipping)</span>
           </div>
         </div>
       </div>

@@ -73,10 +73,10 @@ radical: '手'
           <div class="hero-pinyin">shǒu</div>
           <div class="hero-en">hand · person skilled at something · -ist / -er (suffix)</div>
           <div class="hero-chips">
-            <span class="chip">部首 bùshǒu · 手 shǒu hand</span>
-            <span class="chip">4 笔画 bǐhuà strokes</span>
             <span class="chip chip-hsk">HSK 2</span>
-            <span class="chip">tone 3 · shǒu</span>
+            <span class="chip">笔画 4</span>
+            <span class="chip">部首 手 (itself)</span>
+            <span class="chip">声调 第三声 (dipping)</span>
           </div>
         </div>
       </div>

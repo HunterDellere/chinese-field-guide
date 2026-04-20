@@ -85,10 +85,10 @@ radical: '礻'
           <div class="hero-pinyin">lǐ</div>
           <div class="hero-en">rites · ritual propriety · ceremony · gift · to treat with respect</div>
           <div class="hero-chips">
-            <span class="chip">部首 bùshǒu · 礻 shì spirit; sacred</span>
-            <span class="chip">5 笔画 bǐhuà strokes</span>
             <span class="chip chip-hsk">HSK 4</span>
-            <span class="chip">tone 3 · lǐ</span>
+            <span class="chip">笔画 5</span>
+            <span class="chip">部首 礻 (spirit; sacred)</span>
+            <span class="chip">声调 第三声 (dipping)</span>
           </div>
         </div>
       </div>

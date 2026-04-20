@@ -85,10 +85,10 @@ radical: '女'
           <div class="hero-pinyin">hǎo / hào</div>
           <div class="hero-en">good · fine · well · (hào) to like, to be fond of</div>
           <div class="hero-chips">
-            <span class="chip">部首 bùshǒu · 女 nǚ woman</span>
-            <span class="chip">6 笔画 bǐhuà strokes</span>
             <span class="chip chip-hsk">HSK 1</span>
-            <span class="chip">tone 3 · hǎo (tone 4 · hào)</span>
+            <span class="chip">笔画 6</span>
+            <span class="chip">部首 女 (woman)</span>
+            <span class="chip">声调 第三声 (dipping)</span>
           </div>
         </div>
       </div>

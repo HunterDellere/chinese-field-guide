@@ -78,10 +78,10 @@ radical: '金'
           <div class="hero-pinyin">jīn</div>
           <div class="hero-en">gold · metal · money · the surname Jin</div>
           <div class="hero-chips">
-            <span class="chip">部首 bùshǒu · 金 jīn metal</span>
-            <span class="chip">8 笔画 bǐhuà strokes</span>
             <span class="chip chip-hsk">HSK 3</span>
-            <span class="chip">tone 1 · jīn</span>
+            <span class="chip">笔画 8</span>
+            <span class="chip">部首 金 (itself)</span>
+            <span class="chip">声调 第一声 (flat)</span>
           </div>
         </div>
       </div>

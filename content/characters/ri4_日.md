@@ -78,10 +78,10 @@ radical: '日'
           <div class="hero-pinyin">rì</div>
           <div class="hero-en">sun · day · daily · Japan</div>
           <div class="hero-chips">
-            <span class="chip">部首 bùshǒu · 日 rì sun</span>
-            <span class="chip">4 笔画 bǐhuà strokes</span>
             <span class="chip chip-hsk">HSK 2</span>
-            <span class="chip">tone 4 · rì</span>
+            <span class="chip">笔画 4</span>
+            <span class="chip">部首 日 (itself)</span>
+            <span class="chip">声调 第四声 (falling)</span>
           </div>
         </div>
       </div>

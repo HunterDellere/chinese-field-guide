@@ -88,10 +88,10 @@ sources:
           <div class="hero-pinyin">mù</div>
           <div class="hero-en">tree · wood · timber · the wood element</div>
           <div class="hero-chips">
-            <span class="chip">部首 bùshǒu · 木 mù (itself)</span>
-            <span class="chip">4 笔画 bǐhuà strokes</span>
             <span class="chip chip-hsk">HSK 1</span>
-            <span class="chip">tone 4 · mù</span>
+            <span class="chip">笔画 4</span>
+            <span class="chip">部首 木 (itself)</span>
+            <span class="chip">声调 第四声 (falling)</span>
           </div>
         </div>
       </div>

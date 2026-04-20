@@ -93,10 +93,10 @@ radical: '子'
           <div class="hero-pinyin">zì</div>
           <div class="hero-en">character · written word · the writing system itself</div>
           <div class="hero-chips">
-            <span class="chip">部首 bùshǒu · 子 zǐ child</span>
-            <span class="chip">6 笔画 bǐhuà strokes</span>
             <span class="chip chip-hsk">HSK 1</span>
-            <span class="chip">tone 4 · zì</span>
+            <span class="chip">笔画 6</span>
+            <span class="chip">部首 子 (child)</span>
+            <span class="chip">声调 第四声 (falling)</span>
           </div>
         </div>
       </div>

@@ -51,10 +51,11 @@ radical: '口'
           <div class="hero-pinyin">chī</div>
           <div class="hero-en">to eat · to consume · to endure · to suffer · to be beaten by</div>
           <div class="hero-chips">
-            <span class="chip">部首 bùshǒu · 口 kǒu mouth</span>
-            <span class="chip">6 笔画 bǐhuà strokes</span>
             <span class="chip chip-hsk">HSK 1</span>
-            <span class="chip">tone 1 · chī</span>
+            <span class="chip">笔画 6</span>
+            <span class="chip">部首 口 (mouth)</span>
+            <span class="chip">声旁 乞 (qǐ)</span>
+            <span class="chip">声调 第一声 (flat)</span>
           </div>
         </div>
       </div>

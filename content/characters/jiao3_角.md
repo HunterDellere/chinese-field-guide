@@ -85,10 +85,10 @@ radical: '角'
           <div class="hero-pinyin">jiǎo / jué</div>
           <div class="hero-en">corner · horn · angle · (music) the third pentatonic tone</div>
           <div class="hero-chips">
-            <span class="chip">部首 bùshǒu · 角 jiǎo horn</span>
-            <span class="chip">7 笔画 bǐhuà strokes</span>
             <span class="chip chip-hsk">HSK 2–4</span>
-            <span class="chip">tone 3 · jiǎo</span>
+            <span class="chip">笔画 7</span>
+            <span class="chip">部首 角 (itself)</span>
+            <span class="chip">声调 第三声 (dipping)</span>
           </div>
         </div>
       </div>

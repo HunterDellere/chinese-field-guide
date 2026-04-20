@@ -80,10 +80,11 @@ radical: '日'
           <div class="hero-pinyin">shí</div>
           <div class="hero-en">time · hour · season · the right moment</div>
           <div class="hero-chips">
-            <span class="chip">部首 bùshǒu · 日 rì sun</span>
-            <span class="chip">6 笔画 bǐhuà strokes</span>
             <span class="chip chip-hsk">HSK 1</span>
-            <span class="chip">tone 2 · shí</span>
+            <span class="chip">笔画 6</span>
+            <span class="chip">部首 日 (sun)</span>
+            <span class="chip">声旁 寺 (sì)</span>
+            <span class="chip">声调 第二声 (rising)</span>
           </div>
         </div>
       </div>

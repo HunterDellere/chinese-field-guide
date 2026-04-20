@@ -93,10 +93,10 @@ radical: '日'
           <div class="hero-pinyin">shì</div>
           <div class="hero-en">to be · the copula · 是非 right and wrong</div>
           <div class="hero-chips">
-            <span class="chip">部首 bùshǒu · 日 rì sun</span>
-            <span class="chip">9 笔画 bǐhuà strokes</span>
             <span class="chip chip-hsk">HSK 1</span>
-            <span class="chip">tone 4 · shì</span>
+            <span class="chip">笔画 9</span>
+            <span class="chip">部首 日 (sun)</span>
+            <span class="chip">声调 第四声 (falling)</span>
           </div>
         </div>
       </div>

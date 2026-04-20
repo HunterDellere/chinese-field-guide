@@ -85,10 +85,10 @@ radical: '一'
           <div class="hero-pinyin">bù</div>
           <div class="hero-en">not · no · un- · negation of verbs, adjectives, and states</div>
           <div class="hero-chips">
-            <span class="chip">部首 bùshǒu · 一 yī horizontal</span>
-            <span class="chip">4 笔画 bǐhuà strokes</span>
             <span class="chip chip-hsk">HSK 1</span>
-            <span class="chip">tone 4 · bù (bú before tone 4)</span>
+            <span class="chip">笔画 4</span>
+            <span class="chip">部首 一 (horizontal)</span>
+            <span class="chip">声调 第四声 (falling)</span>
           </div>
         </div>
       </div>

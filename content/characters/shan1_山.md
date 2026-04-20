@@ -74,10 +74,10 @@ radical: '山'
           <div class="hero-pinyin">shān</div>
           <div class="hero-en">mountain · hill · peak · sacred high place</div>
           <div class="hero-chips">
-            <span class="chip">部首 bùshǒu · 山 shān mountain</span>
-            <span class="chip">3 笔画 bǐhuà strokes</span>
             <span class="chip chip-hsk">HSK 1</span>
-            <span class="chip">tone 1 · shān</span>
+            <span class="chip">笔画 3</span>
+            <span class="chip">部首 山 (itself)</span>
+            <span class="chip">声调 第一声 (flat)</span>
           </div>
         </div>
       </div>

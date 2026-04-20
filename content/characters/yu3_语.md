@@ -73,10 +73,11 @@ radical: '讠'
           <div class="hero-pinyin">yǔ</div>
           <div class="hero-en">language · speech · words · to speak · saying</div>
           <div class="hero-chips">
-            <span class="chip">部首 bùshǒu · 讠yán speech</span>
-            <span class="chip">9 笔画 bǐhuà strokes</span>
             <span class="chip chip-hsk">HSK 2</span>
-            <span class="chip">tone 3 · yǔ</span>
+            <span class="chip">笔画 9</span>
+            <span class="chip">部首 讠 (speech)</span>
+            <span class="chip">声旁 吾 (wú)</span>
+            <span class="chip">声调 第三声 (dipping)</span>
           </div>
         </div>
       </div>

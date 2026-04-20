@@ -81,10 +81,10 @@ radical: '尸'
           <div class="hero-pinyin">wū</div>
           <div class="hero-en">room · dwelling · house · a named study or retreat</div>
           <div class="hero-chips">
-            <span class="chip">部首 bùshǒu · 尸 shī body/corpse</span>
-            <span class="chip">9 笔画 bǐhuà strokes</span>
             <span class="chip chip-hsk">HSK 1–3</span>
-            <span class="chip">tone 1 · wū</span>
+            <span class="chip">笔画 9</span>
+            <span class="chip">部首 尸 (body/corpse)</span>
+            <span class="chip">声调 第一声 (flat)</span>
           </div>
         </div>
       </div>

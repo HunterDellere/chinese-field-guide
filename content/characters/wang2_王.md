@@ -89,10 +89,10 @@ sources:
           <div class="hero-pinyin">wáng</div>
           <div class="hero-en">king · monarch · prince · the most common Chinese surname</div>
           <div class="hero-chips">
-            <span class="chip">部首 bùshǒu · 王 wáng (itself, often indexed under 玉)</span>
-            <span class="chip">4 笔画 bǐhuà strokes</span>
             <span class="chip chip-hsk">HSK 3</span>
-            <span class="chip">tone 2 · wáng</span>
+            <span class="chip">笔画 4</span>
+            <span class="chip">部首 王 (itself, often indexed under 玉)</span>
+            <span class="chip">声调 第二声 (rising)</span>
           </div>
         </div>
       </div>

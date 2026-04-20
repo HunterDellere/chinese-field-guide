@@ -79,10 +79,10 @@ radical: '丨'
           <div class="hero-pinyin">zhōng · zhòng</div>
           <div class="hero-en">middle · center · China · in the midst of · to hit the mark</div>
           <div class="hero-chips">
-            <span class="chip">部首 bùshǒu · 丨 gǔn vertical stroke</span>
-            <span class="chip">4 笔画 bǐhuà strokes</span>
             <span class="chip chip-hsk">HSK 1</span>
-            <span class="chip">tone 1 (zhōng) · tone 4 (zhòng)</span>
+            <span class="chip">笔画 4</span>
+            <span class="chip">部首 丨 (vertical stroke)</span>
+            <span class="chip">声调 第一声 (flat)</span>
           </div>
         </div>
       </div>
