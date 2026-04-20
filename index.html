@@ -248,7 +248,7 @@
       <div class="filter-bar filter-bar-hero" id="filter-bar">
         <div class="filter-search-wrap">
           <svg class="filter-search-icon" viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><line x1="16.5" y1="16.5" x2="21" y2="21"/></svg>
-          <input class="filter-search" id="filter-search" type="search" placeholder="e.g. 心, dao, confucius, HSK 2…" autocomplete="off" spellcheck="false" aria-label="Search entries">
+          <input class="filter-search" id="filter-search" type="search" placeholder="Search character, pinyin, keyword, or HSK level…" autocomplete="off" spellcheck="false" aria-label="Search entries — character, pinyin, keyword, radical, or HSK level">
           <button class="filter-clear" id="filter-clear" aria-label="Clear search">×</button>
         </div>
         <span class="filter-shortcut-hint">press <kbd>/</kbd></span>
@@ -271,6 +271,7 @@
 
     <div class="no-results" id="no-results">
       <p class="no-results-msg">No entries match <code id="no-results-query"></code>.</p>
+      <p class="no-results-hint">Try a single character (心), pinyin without tones (dao), a keyword (confucius), or an HSK level (HSK 2). Or pick a starting point below.</p>
       <div class="filter-suggest visible" id="no-results-suggest"></div>
     </div>
 

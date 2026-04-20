@@ -9,7 +9,7 @@
  *   BONUS_CONTAINS_CHARACTER  — one entry's char appears in the other's CN title prefix
  */
 
-const MAX_RELATED = 5;
+const MAX_RELATED = 8;
 const MIN_SCORE = 0.15;
 
 const BONUS_SAME_CATEGORY      = 0.08;
@@ -34,30 +34,56 @@ function score(a, b) {
   const tagsA = new Set(a.tags || []);
   const tagsB = new Set(b.tags || []);
   let s = 0;
+  const reasons = []; // { kind, weight, label }
 
   // Tag Jaccard
   if (tagsA.size > 0 || tagsB.size > 0) {
-    let intersect = 0;
-    for (const t of tagsA) if (tagsB.has(t)) intersect++;
-    const union = tagsA.size + tagsB.size - intersect;
-    if (union > 0) s += intersect / union;
+    const shared = [];
+    for (const t of tagsA) if (tagsB.has(t)) shared.push(t);
+    const union = tagsA.size + tagsB.size - shared.length;
+    if (union > 0 && shared.length > 0) {
+      const w = shared.length / union;
+      s += w;
+      reasons.push({ kind: 'tag', weight: w, label: shared[0] });
+    }
   }
 
-  if (a.category === b.category) s += BONUS_SAME_CATEGORY;
+  if (a.category === b.category) {
+    s += BONUS_SAME_CATEGORY;
+    // Category is a weak signal; only use it as the reason if nothing stronger applies.
+    reasons.push({ kind: 'category', weight: BONUS_SAME_CATEGORY, label: a.category });
+  }
 
   // Shared radical (character pages only)
-  if (a.radical && b.radical && a.radical === b.radical) s += BONUS_SHARED_RADICAL;
+  if (a.radical && b.radical && a.radical === b.radical) {
+    s += BONUS_SHARED_RADICAL;
+    reasons.push({ kind: 'radical', weight: BONUS_SHARED_RADICAL, label: a.radical });
+  }
 
   // HSK proximity (within 1 level)
   const ha = hskMid(a.hsk);
   const hb = hskMid(b.hsk);
-  if (ha !== null && hb !== null && Math.abs(ha - hb) <= 1) s += BONUS_HSK_PROXIMITY;
+  if (ha !== null && hb !== null && Math.abs(ha - hb) <= 1) {
+    s += BONUS_HSK_PROXIMITY;
+    reasons.push({ kind: 'hsk', weight: BONUS_HSK_PROXIMITY, label: `HSK ${Math.round(ha)}` });
+  }
 
   // Contains-the-character: one entry's char appears in the other's CN title prefix
-  if (a.char && cnPrefix(b.title).includes(a.char)) s += BONUS_CONTAINS_CHARACTER;
-  if (b.char && cnPrefix(a.title).includes(b.char)) s += BONUS_CONTAINS_CHARACTER;
+  if (a.char && cnPrefix(b.title).includes(a.char)) {
+    s += BONUS_CONTAINS_CHARACTER;
+    reasons.push({ kind: 'contains', weight: BONUS_CONTAINS_CHARACTER, label: `contains ${a.char}` });
+  }
+  if (b.char && cnPrefix(a.title).includes(b.char)) {
+    s += BONUS_CONTAINS_CHARACTER;
+    reasons.push({ kind: 'contains', weight: BONUS_CONTAINS_CHARACTER, label: `in ${b.char}` });
+  }
 
-  return s;
+  // Primary reason = highest-weight non-category signal; fall back to category.
+  reasons.sort((x, y) => y.weight - x.weight);
+  const strong = reasons.find(r => r.kind !== 'category');
+  const primary = strong || reasons[0] || null;
+
+  return { score: s, reason: primary };
 }
 
 /** Resolve explicit `related` slugs from frontmatter to full entry objects. */
@@ -80,20 +106,21 @@ export function buildRelations(entries) {
   const relations = new Map();
 
   for (const a of complete) {
-    // Explicit author-specified related entries come first (deduped below)
-    const explicit = resolveExplicit(a.related, complete);
-    const explicitPaths = new Set(explicit.map(e => e.path));
+    // Explicit author-specified related entries come first (deduped below).
+    // Author picks don't need a reason chip — they're curated.
+    const explicit = resolveExplicit(a.related, complete).map(entry => ({ entry, reason: null }));
+    const explicitPaths = new Set(explicit.map(r => r.entry.path));
 
     const scored = [];
     for (const b of complete) {
       if (a.path === b.path) continue;
-      if (explicitPaths.has(b.path)) continue; // already in explicit list
-      const s = score(a, b);
-      if (s >= MIN_SCORE) scored.push({ entry: b, s });
+      if (explicitPaths.has(b.path)) continue;
+      const { score: s, reason } = score(a, b);
+      if (s >= MIN_SCORE) scored.push({ entry: b, s, reason });
     }
     scored.sort((x, y) => y.s - x.s || x.entry.title.localeCompare(y.entry.title));
 
-    const derived = scored.slice(0, MAX_RELATED).map(x => x.entry);
+    const derived = scored.slice(0, MAX_RELATED).map(x => ({ entry: x.entry, reason: x.reason }));
     const merged = [...explicit, ...derived].slice(0, MAX_RELATED);
     relations.set(a.path, merged);
   }
@@ -130,10 +157,36 @@ function escapeHtml(str) {
     .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
 }
 
+const REASON_PREFIX = {
+  radical:  'shares radical',
+  contains: '',  // label already reads "contains 心" / "in 道"
+  tag:      'shared theme',
+  hsk:      'same level',
+  category: 'same section',
+};
+
+function reasonChipHtml(reason) {
+  if (!reason) return '';
+  const prefix = REASON_PREFIX[reason.kind] || '';
+  // For "contains" the label is already a full phrase; otherwise combine "prefix · label"
+  let text;
+  if (reason.kind === 'contains') {
+    text = reason.label;
+  } else if (prefix && reason.label) {
+    text = `${prefix} · ${reason.label}`;
+  } else {
+    text = prefix || reason.label || '';
+  }
+  if (!text) return '';
+  return `<span class="rl-reason rl-reason-${reason.kind}">${escapeHtml(text)}</span>`;
+}
+
 export function renderRelatedHtml(related, fromPath) {
   if (!related || related.length === 0) return '';
-  const fromDir = fromPath.split('/').slice(0, -1).join('/');
-  const items = related.map(e => {
+  const items = related.map(r => {
+    // Accept both the old {entry} and new {entry, reason} shapes
+    const e = r.entry || r;
+    const reason = r.reason || null;
     const href = relativePath(fromPath, e.path);
     const cn = e.char || (e.title ? e.title.split('·')[0].trim() : '');
     const py = e.pinyin || '';
@@ -143,12 +196,13 @@ export function renderRelatedHtml(related, fromPath) {
            (cn ? `<span class="rl-cn">${escapeHtml(cn)}</span>` : '') +
            (py ? `<span class="rl-py">${escapeHtml(py)}</span>` : '') +
            `<span class="rl-en">${escapeHtml(titleEn)}</span>` +
+           reasonChipHtml(reason) +
            `</a>`;
   }).join('\n      ');
 
   return `
     <aside class="related" aria-labelledby="related-label">
-      <span class="related-label" id="related-label">Related entries</span>
+      <span class="related-label" id="related-label">Related entries · neighbours of this one</span>
       <div class="related-list">
       ${items}
       </div>

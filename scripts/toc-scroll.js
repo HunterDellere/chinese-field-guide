@@ -23,7 +23,11 @@ else { window.__tocScrollInit = true; (function () {
           });
         }
       });
-    }, { rootMargin: '-15% 0px -75% 0px' });
+    // Detection band: upper third of the viewport. A section becomes "active"
+    // once its anchor crosses ~10% from the top and stays active until the next
+    // anchor enters the band. Previous setting (-15% / -75%) kept the old link
+    // active too long on short sections.
+    }, { rootMargin: '-10% 0px -60% 0px' });
 
     anchors.forEach(function (a) { observer.observe(a); });
   }
@@ -33,7 +37,15 @@ else { window.__tocScrollInit = true; (function () {
   const sidebar = document.getElementById('sidebar');
   if (toggle && sidebar) {
     if (!toggle.hasAttribute('aria-controls')) toggle.setAttribute('aria-controls', 'sidebar');
+    if (!toggle.hasAttribute('aria-label')) toggle.setAttribute('aria-label', 'Toggle contents');
     toggle.setAttribute('aria-expanded', 'false');
+
+    // Stable markup: a label + a chevron glyph that rotates via CSS when
+    // aria-expanded="true". Replaces the old text-swap ("Contents ▾" ↔
+    // "Close ✕") which made the button feel like a different control.
+    if (!toggle.querySelector('.toc-toggle-label')) {
+      toggle.innerHTML = '<span class="toc-toggle-label">目录 Contents</span><span class="toc-toggle-chevron" aria-hidden="true">▾</span>';
+    }
 
     // Create a backdrop that only shows when the sheet is open on mobile
     const backdrop = document.createElement('div');
@@ -45,13 +57,11 @@ else { window.__tocScrollInit = true; (function () {
       sidebar.classList.add('open');
       backdrop.classList.add('visible');
       toggle.setAttribute('aria-expanded', 'true');
-      toggle.textContent = '目录 Close ✕';
     }
     function closeSidebar() {
       sidebar.classList.remove('open');
       backdrop.classList.remove('visible');
       toggle.setAttribute('aria-expanded', 'false');
-      toggle.textContent = '目录 Contents ▾';
     }
     toggle.addEventListener('click', function (e) {
       e.preventDefault();

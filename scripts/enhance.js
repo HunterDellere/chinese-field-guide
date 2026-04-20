@@ -413,6 +413,41 @@ else { window.__enhanceInit = true; (function () {
     }).catch(function () {});
   });
 
+  // ── Back link preserves category context ─────────────────────────────────
+  // The layout's "← All Entries" link ships as a bare homepage URL. Rewrite it
+  // to deep-link to the originating category section (#cat-<category>) and, if
+  // the visitor arrived from the homepage in this tab, use history.back() so
+  // the homepage scroll position and filter state survive the round trip.
+  (function wireBackLink() {
+    const backLink = document.querySelector('.topnav-back');
+    if (!backLink) return;
+    const cat = document.body.dataset.category;
+    const href = backLink.getAttribute('href') || '../../index.html';
+    if (cat) {
+      try {
+        const url = new URL(href, location.href);
+        url.hash = 'cat-' + cat;
+        backLink.setAttribute('href', url.pathname + url.search + url.hash);
+      } catch (_) {
+        backLink.setAttribute('href', href + '#cat-' + cat);
+      }
+    }
+    backLink.addEventListener('click', function (e) {
+      // Intercept only plain left-clicks; let middle/cmd/ctrl clicks open as usual.
+      if (e.defaultPrevented || e.button !== 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+      try {
+        const ref = document.referrer ? new URL(document.referrer) : null;
+        if (!ref || ref.origin !== location.origin) return;
+        const p = ref.pathname;
+        const cameFromHome = p === '/' || /\/index\.html$/.test(p) || p.endsWith('/');
+        if (cameFromHome && history.length > 1) {
+          e.preventDefault();
+          history.back();
+        }
+      } catch (_) { /* fall through to default navigation */ }
+    });
+  })();
+
   // ── Random entry (topnav button) ──────────────────────────────────────────
   const randomBtns = document.querySelectorAll('[data-random-entry]');
   if (randomBtns.length) {
