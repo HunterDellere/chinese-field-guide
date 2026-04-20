@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<!-- {"type":"topic","category":"daily","status":"complete","title":"404 — Page not found"} -->
+<html lang="zh-Hans">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>404 — Jiǎoluò Shūwū · 角落書屋</title>
+<meta name="description" content="This page doesn't exist — but the scholar's nook has plenty of other corners to explore.">
+<meta name="robots" content="noindex">
+<meta name="theme-color" content="#1c1208">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>字</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Noto+Serif+SC:wght@400;600;700&family=Noto+Sans+Mono:wght@400;500&display=swap" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Noto+Serif+SC:wght@400;600;700&family=Noto+Sans+Mono:wght@400;500&display=swap" rel="stylesheet"></noscript>
+<link rel="stylesheet" href="/style.css">
+<style>
+/* ── 404 layout ───────────────────────────────────────────── */
+.e404-shell {
+  min-height: calc(100vh - var(--nav-h, 46px));
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 4rem 1.5rem 5rem;
+}
+.e404-card {
+  max-width: 540px;
+  width: 100%;
+  text-align: center;
+}
+
+/* ── glyph hero ───────────────────────────────────────────── */
+.e404-glyph-wrap {
+  position: relative;
+  display: inline-block;
+  margin-bottom: 0.5rem;
+  cursor: pointer;
+}
+.e404-glyph {
+  font-family: var(--font-cn);
+  font-size: clamp(6rem, 22vw, 9rem);
+  font-weight: 700;
+  color: var(--red);
+  opacity: 0.15;
+  line-height: 1;
+  display: block;
+  transition: opacity 0.25s, transform 0.25s;
+  user-select: none;
+}
+.e404-glyph-wrap:hover .e404-glyph,
+.e404-glyph-wrap:focus .e404-glyph { opacity: 0.35; transform: scale(1.06) rotate(-2deg); }
+.e404-glyph-wrap:active .e404-glyph { transform: scale(0.94) rotate(3deg); }
+
+/* tooltip that appears after clicking */
+.e404-tooltip {
+  position: absolute;
+  left: 50%;
+  top: 105%;
+  transform: translateX(-50%) translateY(6px);
+  background: var(--ink);
+  color: var(--papyrus);
+  border-radius: var(--radius);
+  padding: 0.55rem 1rem;
+  font-family: var(--font-mono);
+  font-size: 0.64rem;
+  letter-spacing: 0.08em;
+  white-space: nowrap;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.2s, transform 0.2s;
+  z-index: 10;
+  box-shadow: 0 2px 8px var(--shadow);
+}
+.e404-tooltip::before {
+  content: '';
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  border: 5px solid transparent;
+  border-bottom-color: var(--ink);
+}
+.e404-glyph-wrap.revealed .e404-tooltip {
+  opacity: 1;
+  transform: translateX(-50%) translateY(0);
+}
+.e404-tooltip-cn {
+  font-family: var(--font-cn);
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: var(--ochre-2);
+  display: block;
+  margin-bottom: 0.2rem;
+}
+.e404-tooltip-py {
+  color: var(--papyrus-4);
+  display: block;
+  margin-bottom: 0.25rem;
+}
+.e404-tooltip-en {
+  color: var(--papyrus-3);
+  font-style: italic;
+  display: block;
+  font-family: var(--font-body);
+  font-size: 0.76rem;
+  letter-spacing: 0;
+}
+
+/* ── text content ─────────────────────────────────────────── */
+.e404-code {
+  font-family: var(--font-mono);
+  font-size: 0.6rem;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--ink-5);
+  display: block;
+  margin-bottom: 1.5rem;
+}
+.e404-title {
+  font-family: var(--font-body);
+  font-size: clamp(1.4rem, 4vw, 1.8rem);
+  font-weight: 600;
+  color: var(--ink);
+  line-height: 1.25;
+  margin-bottom: 0.85rem;
+}
+.e404-desc {
+  font-size: 0.95rem;
+  color: var(--ink-4);
+  line-height: 1.8;
+  margin-bottom: 0.5rem;
+  font-style: italic;
+  max-width: 42ch;
+  margin-inline: auto;
+}
+.e404-hint {
+  font-family: var(--font-mono);
+  font-size: 0.6rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink-5);
+  margin-bottom: 2.2rem;
+  display: block;
+}
+
+/* ── actions ──────────────────────────────────────────────── */
+.e404-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  justify-content: center;
+  margin-bottom: 2.5rem;
+}
+.e404-btn {
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  padding: 0.6rem 1.3rem;
+  border-radius: var(--radius);
+  text-decoration: none;
+  border: 1px solid;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+}
+.e404-btn-primary {
+  background: var(--ink);
+  color: var(--papyrus);
+  border-color: var(--ink);
+}
+.e404-btn-primary:hover { background: var(--red); border-color: var(--red); }
+.e404-btn-secondary {
+  background: transparent;
+  color: var(--ink-4);
+  border-color: var(--rule);
+}
+.e404-btn-secondary:hover { background: var(--papyrus-2); color: var(--ink); border-color: var(--ink-5); }
+
+/* ── hub links ────────────────────────────────────────────── */
+.e404-hubs {
+  padding-top: 1.75rem;
+  border-top: 1px solid var(--rule);
+}
+.e404-hubs-label {
+  font-family: var(--font-mono);
+  font-size: 0.58rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--ink-5);
+  display: block;
+  margin-bottom: 0.85rem;
+}
+.e404-hub-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  justify-content: center;
+}
+.e404-hub-link {
+  font-size: 0.88rem;
+  padding: 0.3rem 0.85rem;
+  border-radius: 20px;
+  border: 1px solid var(--rule);
+  color: var(--ink-3);
+  text-decoration: none;
+  background: var(--papyrus-2);
+  transition: background 0.12s, color 0.12s, border-color 0.12s;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+.e404-hub-link:hover { background: var(--papyrus-3); color: var(--ink); border-color: var(--ink-5); }
+.e404-hub-cn { font-family: var(--font-cn); font-weight: 700; }
+.e404-hub-en { font-size: 0.72rem; color: var(--ink-5); font-family: var(--font-mono); letter-spacing: 0.06em; }
+</style>
+</head>
+<body>
+<a class="skip-link" href="#main-content">Skip to content</a>
+
+<nav class="topnav" aria-label="Site">
+  <a href="/index.html" class="topnav-brand" aria-label="Jiǎoluò Shūwū — home">
+    <span class="topnav-brand-cn">書屋</span><span class="topnav-brand-sep"> · </span><span class="topnav-brand-en">Shūwū</span>
+  </a>
+  <div class="topnav-right">
+    <a href="/index.html" class="topnav-back" aria-label="Back to all entries">← All Entries</a>
+  </div>
+</nav>
+
+<div class="e404-shell">
+  <main class="e404-card" id="main-content">
+
+    <!-- Easter egg: click the glyph to reveal the chengyu 迷途知返 -->
+    <div class="e404-glyph-wrap" id="glyphWrap" role="button" tabindex="0"
+         aria-label="Click to reveal a chengyu about being lost">
+      <span class="e404-glyph" id="glyphChar" aria-hidden="true">迷</span>
+      <div class="e404-tooltip" id="glyphTooltip" role="tooltip">
+        <span class="e404-tooltip-cn">迷途知返</span>
+        <span class="e404-tooltip-py">mí tú zhī fǎn</span>
+        <span class="e404-tooltip-en">To realise you are lost and find your way back.</span>
+      </div>
+    </div>
+
+    <span class="e404-code">404 — page not found</span>
+    <h1 class="e404-title">This corner of the nook is empty.</h1>
+    <p class="e404-desc">迷 mí — lost, bewildered, a path that disappears into the undergrowth. The page you were looking for doesn't exist here.</p>
+    <span class="e404-hint">↑ tap the character</span>
+
+    <div class="e404-actions">
+      <a class="e404-btn e404-btn-primary" href="/index.html">← All entries</a>
+      <a class="e404-btn e404-btn-secondary" href="/index.html#search">Search the nook</a>
+    </div>
+
+    <div class="e404-hubs">
+      <span class="e404-hubs-label">Or start a reading path</span>
+      <div class="e404-hub-links">
+        <a class="e404-hub-link" href="/pages/hubs/zhexue.html">
+          <span class="e404-hub-cn">哲学</span>
+          <span class="e404-hub-en">Philosophy</span>
+        </a>
+        <a class="e404-hub-link" href="/pages/hubs/hanzi.html">
+          <span class="e404-hub-cn">汉字</span>
+          <span class="e404-hub-en">Writing</span>
+        </a>
+        <a class="e404-hub-link" href="/pages/hubs/dynasties.html">
+          <span class="e404-hub-cn">朝代</span>
+          <span class="e404-hub-en">Dynasties</span>
+        </a>
+        <a class="e404-hub-link" href="/pages/hubs/tea.html">
+          <span class="e404-hub-cn">六大茶类</span>
+          <span class="e404-hub-en">Tea</span>
+        </a>
+        <a class="e404-hub-link" href="/pages/hubs/zhongyi.html">
+          <span class="e404-hub-cn">中医</span>
+          <span class="e404-hub-en">Medicine</span>
+        </a>
+        <a class="e404-hub-link" href="/pages/hubs/jieri.html">
+          <span class="e404-hub-cn">节日</span>
+          <span class="e404-hub-en">Festivals</span>
+        </a>
+      </div>
+    </div>
+
+  </main>
+</div>
+
+<script>
+(function () {
+  // Glyph cycles through characters related to being lost / searching / returning
+  var glyphs = [
+    { char: '迷', pinyin: 'mí', en: 'lost, bewildered' },
+    { char: '惑', pinyin: 'huò', en: 'confused, doubtful' },
+    { char: '找', pinyin: 'zhǎo', en: 'to search, to look for' },
+    { char: '归', pinyin: 'guī', en: 'to return, to go back' },
+    { char: '迷', pinyin: 'mí', en: 'lost, bewildered' },
+  ];
+  var idx = 0;
+  var revealed = false;
+  var wrap = document.getElementById('glyphWrap');
+  var charEl = document.getElementById('glyphChar');
+  var tooltip = document.getElementById('glyphTooltip');
+
+  function cycle() {
+    idx = (idx + 1) % glyphs.length;
+    charEl.style.opacity = '0';
+    charEl.style.transform = 'scale(0.7) rotate(8deg)';
+    setTimeout(function () {
+      charEl.textContent = glyphs[idx].char;
+      charEl.style.opacity = '';
+      charEl.style.transform = '';
+    }, 180);
+    // On the归 character (index 3), reveal the tooltip
+    if (idx === 3 && !revealed) {
+      revealed = true;
+      tooltip.style.opacity = '';
+      wrap.classList.add('revealed');
+    }
+  }
+
+  wrap.addEventListener('click', cycle);
+  wrap.addEventListener('keydown', function (e) {
+    if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); cycle(); }
+  });
+
+  // Auto-dismiss tooltip after 6 seconds once revealed
+  var observer = new MutationObserver(function () {
+    if (wrap.classList.contains('revealed')) {
+      setTimeout(function () {
+        wrap.classList.remove('revealed');
+      }, 6000);
+      observer.disconnect();
+    }
+  });
+  observer.observe(wrap, { attributes: true, attributeFilter: ['class'] });
+})();
+</script>
+
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "TOKEN_PLACEHOLDER"}'></script>
+</body>
+</html>
