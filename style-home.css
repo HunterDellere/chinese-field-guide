@@ -333,7 +333,7 @@
   .overview-shelf-en { font-family: var(--font-body); font-size: 1rem; font-weight: 600; color: var(--ink); }
   .overview-shelf-desc { font-size: 0.85rem; color: var(--ink-4); font-style: italic; line-height: 1.45; margin-top: 0.15rem; }
   .overview-grid {
-    display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.7rem;
+    display: grid; grid-template-columns: 1fr; gap: 0.5rem;
   }
   .overview-cell {
     background: var(--papyrus); border: 1px solid var(--rule-2); border-radius: 8px;
@@ -874,7 +874,7 @@
     .index-hero-glyph { width: 5rem; height: 5rem; padding: 0.25rem 0; }
     .index-hero-glyph .ihg-cn { font-size: 1.7rem; }
     .index-hero-title { font-size: 1.85rem; }
-    .overview-grid { grid-template-columns: 1fr; }
+
     .start-here-list { grid-template-columns: repeat(2, 1fr); }
     .howto-types { grid-template-columns: 1fr; gap: 0.55rem; }
     .howto-type { padding: 0.8rem 0.9rem; }
