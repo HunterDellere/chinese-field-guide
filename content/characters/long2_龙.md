@@ -84,10 +84,10 @@ radical: '龙'
           <div class="hero-pinyin">lóng</div>
           <div class="hero-en">dragon · the imperial symbol · China's mythic totem</div>
           <div class="hero-chips">
-            <span class="chip">部首 bùshǒu · 龙 lóng (itself)</span>
-            <span class="chip">5 笔画 bǐhuà strokes</span>
             <span class="chip chip-hsk">HSK 3</span>
-            <span class="chip">tone 2 · lóng</span>
+            <span class="chip">笔画 5</span>
+            <span class="chip">部首 龙 (itself)</span>
+            <span class="chip">声调 第二声 (rising)</span>
           </div>
         </div>
       </div>

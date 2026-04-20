@@ -84,10 +84,10 @@ radical: '言'
           <div class="hero-pinyin">yán</div>
           <div class="hero-en">speech · word · to speak · language</div>
           <div class="hero-chips">
-            <span class="chip">部首 bùshǒu · 言 yán (itself)</span>
-            <span class="chip">7 笔画 bǐhuà strokes</span>
             <span class="chip chip-hsk">HSK 4</span>
-            <span class="chip">tone 2 · yán</span>
+            <span class="chip">笔画 7</span>
+            <span class="chip">部首 言 (itself)</span>
+            <span class="chip">声调 第二声 (rising)</span>
           </div>
         </div>
       </div>

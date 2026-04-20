@@ -73,10 +73,11 @@ radical: '雨'
           <div class="hero-pinyin">diàn</div>
           <div class="hero-en">electricity · electric · lightning · telegram · phone</div>
           <div class="hero-chips">
-            <span class="chip">部首 bùshǒu · 雨 yǔ rain</span>
-            <span class="chip">5 笔画 bǐhuà strokes</span>
             <span class="chip chip-hsk">HSK 2</span>
-            <span class="chip">tone 4 · diàn</span>
+            <span class="chip">笔画 5</span>
+            <span class="chip">部首 雨 (rain)</span>
+            <span class="chip">声旁 申 (shēn)</span>
+            <span class="chip">声调 第四声 (falling)</span>
           </div>
         </div>
       </div>

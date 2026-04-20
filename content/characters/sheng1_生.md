@@ -82,10 +82,10 @@ radical: '生'
           <div class="hero-pinyin">shēng</div>
           <div class="hero-en">life · to be born · raw · unfamiliar · student</div>
           <div class="hero-chips">
-            <span class="chip">部首 bùshǒu · 生 shēng life</span>
-            <span class="chip">5 笔画 bǐhuà strokes</span>
             <span class="chip chip-hsk">HSK 1</span>
-            <span class="chip">tone 1 · shēng</span>
+            <span class="chip">笔画 5</span>
+            <span class="chip">部首 生 (itself)</span>
+            <span class="chip">声调 第一声 (flat)</span>
           </div>
         </div>
       </div>

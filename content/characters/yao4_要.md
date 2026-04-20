@@ -92,10 +92,10 @@ radical: '女'
           <div class="hero-pinyin">yào</div>
           <div class="hero-en">to want · must · will · important</div>
           <div class="hero-chips">
-            <span class="chip">部首 bùshǒu · 女 nǚ woman</span>
-            <span class="chip">9 笔画 bǐhuà strokes</span>
             <span class="chip chip-hsk">HSK 1</span>
-            <span class="chip">tone 4 · yào</span>
+            <span class="chip">笔画 9</span>
+            <span class="chip">部首 女 (woman)</span>
+            <span class="chip">声调 第四声 (falling)</span>
           </div>
         </div>
       </div>

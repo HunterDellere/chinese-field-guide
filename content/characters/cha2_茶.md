@@ -67,8 +67,9 @@ related:
       <div class="hero-en">tea; the tea plant; a tea-colored drink</div>
       <div class="hero-chips">
         <span class="chip chip-hsk">HSK 3</span>
-        <span class="chip chip-topic">Tea</span>
-        <span class="chip chip-radical">艹 grass</span>
+        <span class="chip">笔画 10</span>
+        <span class="chip">部首 艹 (grass)</span>
+        <span class="chip">声调 第二声 (rising)</span>
       </div>
     </header>
 

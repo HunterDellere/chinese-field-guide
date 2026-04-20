@@ -79,10 +79,10 @@ radical: '子'
           <div class="hero-pinyin">xué</div>
           <div class="hero-en">to study · to learn · school · learning · -ology</div>
           <div class="hero-chips">
-            <span class="chip">部首 bùshǒu · 子 zǐ child</span>
-            <span class="chip">8 笔画 bǐhuà strokes</span>
             <span class="chip chip-hsk">HSK 1</span>
-            <span class="chip">tone 2 · xué</span>
+            <span class="chip">笔画 8</span>
+            <span class="chip">部首 子 (child)</span>
+            <span class="chip">声调 第二声 (rising)</span>
           </div>
         </div>
       </div>

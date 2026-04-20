@@ -79,10 +79,10 @@ radical: '月'
           <div class="hero-pinyin">yuè</div>
           <div class="hero-en">moon · month · monthly</div>
           <div class="hero-chips">
-            <span class="chip">部首 bùshǒu · 月 yuè moon</span>
-            <span class="chip">4 笔画 bǐhuà strokes</span>
             <span class="chip chip-hsk">HSK 1</span>
-            <span class="chip">tone 4 · yuè</span>
+            <span class="chip">笔画 4</span>
+            <span class="chip">部首 月 (itself)</span>
+            <span class="chip">声调 第四声 (falling)</span>
           </div>
         </div>
       </div>

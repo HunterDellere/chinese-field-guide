@@ -97,10 +97,11 @@ radical: '心'
           <div class="hero-pinyin">gǎn</div>
           <div class="hero-en">to feel · to sense · to be moved · to perceive inwardly</div>
           <div class="hero-chips">
-            <span class="chip">部首 bùshǒu · 心 xīn heart</span>
-            <span class="chip">13 笔画 bǐhuà strokes</span>
             <span class="chip chip-hsk">HSK 2–4</span>
-            <span class="chip">tone 3 · gǎn</span>
+            <span class="chip">笔画 13</span>
+            <span class="chip">部首 心 (heart)</span>
+            <span class="chip">声旁 咸 (xián)</span>
+            <span class="chip">声调 第三声 (dipping)</span>
           </div>
         </div>
       </div>

@@ -98,10 +98,10 @@ trad: '氣'
           <div class="hero-pinyin">qì</div>
           <div class="hero-en">breath · air · vital energy · atmosphere</div>
           <div class="hero-chips">
-            <span class="chip">部首 bùshǒu · 气 qì (itself)</span>
-            <span class="chip">4 笔画 bǐhuà strokes</span>
             <span class="chip chip-hsk">HSK 3</span>
-            <span class="chip">tone 4 · qì</span>
+            <span class="chip">笔画 4</span>
+            <span class="chip">部首 气 (itself)</span>
+            <span class="chip">声调 第四声 (falling)</span>
           </div>
         </div>
       </div>

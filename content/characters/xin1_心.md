@@ -93,10 +93,10 @@ radical: '心'
           <div class="hero-pinyin">xīn</div>
           <div class="hero-en">heart · mind · the seat of thought and feeling</div>
           <div class="hero-chips">
-            <span class="chip">部首 bùshǒu · 心 xīn (itself)</span>
-            <span class="chip">4 笔画 bǐhuà strokes</span>
             <span class="chip chip-hsk">HSK 2</span>
-            <span class="chip">tone 1 · xīn</span>
+            <span class="chip">笔画 4</span>
+            <span class="chip">部首 心 (itself)</span>
+            <span class="chip">声调 第一声 (flat)</span>
           </div>
         </div>
       </div>

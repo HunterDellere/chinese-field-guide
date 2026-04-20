@@ -84,10 +84,11 @@ radical: '土'
           <div class="hero-pinyin">dì</div>
           <div class="hero-en">earth · ground · land · the second of the Three Powers</div>
           <div class="hero-chips">
-            <span class="chip">部首 bùshǒu · 土 tǔ (earth, soil)</span>
-            <span class="chip">6 笔画 bǐhuà strokes</span>
             <span class="chip chip-hsk">HSK 1</span>
-            <span class="chip">tone 4 · dì</span>
+            <span class="chip">笔画 6</span>
+            <span class="chip">部首 土 (earth)</span>
+            <span class="chip">声旁 也 (yě)</span>
+            <span class="chip">声调 第四声 (falling)</span>
           </div>
         </div>
       </div>

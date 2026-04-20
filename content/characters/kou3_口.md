@@ -77,10 +77,10 @@ radical: '口'
           <div class="hero-pinyin">kǒu</div>
           <div class="hero-en">mouth · opening · entrance · population (measure)</div>
           <div class="hero-chips">
-            <span class="chip">部首 bùshǒu · 口 kǒu mouth</span>
-            <span class="chip">3 笔画 bǐhuà strokes</span>
             <span class="chip chip-hsk">HSK 3</span>
-            <span class="chip">tone 3 · kǒu</span>
+            <span class="chip">笔画 3</span>
+            <span class="chip">部首 口 (itself)</span>
+            <span class="chip">声调 第三声 (dipping)</span>
           </div>
         </div>
       </div>

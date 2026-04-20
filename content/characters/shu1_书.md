@@ -85,10 +85,10 @@ radical: '乛'
           <div class="hero-pinyin">shū</div>
           <div class="hero-en">book · writing · calligraphy · letter · document</div>
           <div class="hero-chips">
-            <span class="chip">部首 bùshǒu · 乛 secondary hook</span>
-            <span class="chip">4 笔画 bǐhuà strokes</span>
             <span class="chip chip-hsk">HSK 1–3</span>
-            <span class="chip">tone 1 · shū</span>
+            <span class="chip">笔画 4</span>
+            <span class="chip">部首 乛 (secondary hook)</span>
+            <span class="chip">声调 第一声 (flat)</span>
           </div>
         </div>
       </div>

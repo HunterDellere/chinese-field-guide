@@ -88,10 +88,10 @@ sources:
           <div class="hero-pinyin">shuǐ</div>
           <div class="hero-en">water · river · liquid · the first element</div>
           <div class="hero-chips">
-            <span class="chip">部首 bùshǒu · 水 shuǐ (itself)</span>
-            <span class="chip">4 笔画 bǐhuà strokes</span>
             <span class="chip chip-hsk">HSK 1</span>
-            <span class="chip">tone 3 · shuǐ</span>
+            <span class="chip">笔画 4</span>
+            <span class="chip">部首 水 (itself)</span>
+            <span class="chip">声调 第三声 (dipping)</span>
           </div>
         </div>
       </div>

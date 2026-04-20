@@ -73,10 +73,10 @@ radical: '走'
           <div class="hero-pinyin">zǒu</div>
           <div class="hero-en">to walk · to go · to leave · to travel · to depart</div>
           <div class="hero-chips">
-            <span class="chip">部首 bùshǒu · 走 zǒu walk</span>
-            <span class="chip">7 笔画 bǐhuà strokes</span>
             <span class="chip chip-hsk">HSK 1</span>
-            <span class="chip">tone 3 · zǒu</span>
+            <span class="chip">笔画 7</span>
+            <span class="chip">部首 走 (itself)</span>
+            <span class="chip">声调 第三声 (dipping)</span>
           </div>
         </div>
       </div>

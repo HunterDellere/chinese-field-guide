@@ -84,10 +84,10 @@ radical: '心'
           <div class="hero-pinyin">sī</div>
           <div class="hero-en">to think · to miss · thought · longing</div>
           <div class="hero-chips">
-            <span class="chip">部首 bùshǒu · 心 xīn (heart — bottom)</span>
-            <span class="chip">9 笔画 bǐhuà strokes</span>
             <span class="chip chip-hsk">HSK 3</span>
-            <span class="chip">tone 1 · sī</span>
+            <span class="chip">笔画 9</span>
+            <span class="chip">部首 心 (heart — bottom)</span>
+            <span class="chip">声调 第一声 (flat)</span>
           </div>
         </div>
       </div>

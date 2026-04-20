@@ -84,10 +84,10 @@ radical: '又'
           <div class="hero-pinyin">biàn</div>
           <div class="hero-en">to change · to transform · to become different</div>
           <div class="hero-chips">
-            <span class="chip">部首 bùshǒu · 又 yòu (again; hand)</span>
-            <span class="chip">9 笔画 bǐhuà strokes</span>
             <span class="chip chip-hsk">HSK 3</span>
-            <span class="chip">tone 4 · biàn</span>
+            <span class="chip">笔画 9</span>
+            <span class="chip">部首 又 (again; hand)</span>
+            <span class="chip">声调 第四声 (falling)</span>
           </div>
         </div>
       </div>

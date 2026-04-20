@@ -93,10 +93,10 @@ radical: '辶'
           <div class="hero-pinyin">dào</div>
           <div class="hero-en">way · path · principle · the Way</div>
           <div class="hero-chips">
-            <span class="chip">部首 bùshǒu · 辶 chuò walk-movement</span>
-            <span class="chip">12 笔画 bǐhuà strokes</span>
             <span class="chip chip-hsk">HSK 3</span>
-            <span class="chip">tone 4 · dào</span>
+            <span class="chip">笔画 12</span>
+            <span class="chip">部首 辶 (walk-movement)</span>
+            <span class="chip">声调 第四声 (falling)</span>
           </div>
         </div>
       </div>

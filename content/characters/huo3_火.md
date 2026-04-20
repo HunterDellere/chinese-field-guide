@@ -82,10 +82,10 @@ radical: '火'
           <div class="hero-pinyin">huǒ</div>
           <div class="hero-en">fire · flame · angry · hot; trending</div>
           <div class="hero-chips">
-            <span class="chip">部首 bùshǒu · 火 huǒ fire</span>
-            <span class="chip">4 笔画 bǐhuà strokes</span>
             <span class="chip chip-hsk">HSK 1</span>
-            <span class="chip">tone 3 · huǒ</span>
+            <span class="chip">笔画 4</span>
+            <span class="chip">部首 火 (itself)</span>
+            <span class="chip">声调 第三声 (dipping)</span>
           </div>
         </div>
       </div>

@@ -58,10 +58,10 @@ radical: '爫'
           <div class="hero-pinyin">ài</div>
           <div class="hero-en">to love · love · to be fond of · to cherish · to tend to do</div>
           <div class="hero-chips">
-            <span class="chip">部首 bùshǒu · 爫 (hand/claw above)</span>
-            <span class="chip">10 笔画 bǐhuà strokes (simp.) · 13 (trad.)</span>
             <span class="chip chip-hsk">HSK 1</span>
-            <span class="chip">tone 4 · ài</span>
+            <span class="chip">笔画 10</span>
+            <span class="chip">部首 爫 (hand/claw above)</span>
+            <span class="chip">声调 第四声 (falling)</span>
           </div>
         </div>
       </div>

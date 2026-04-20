@@ -50,10 +50,11 @@ radical: '钅'
           <div class="hero-pinyin">qián</div>
           <div class="hero-en">money · coin · currency · cash · a unit of weight</div>
           <div class="hero-chips">
-            <span class="chip">部首 bùshǒu · 钅 jīn metal</span>
-            <span class="chip">10 笔画 bǐhuà strokes (simp.) · 16 (trad.)</span>
             <span class="chip chip-hsk">HSK 1</span>
-            <span class="chip">tone 2 · qián</span>
+            <span class="chip">笔画 10</span>
+            <span class="chip">部首 钅 (metal)</span>
+            <span class="chip">声旁 戋 (jiān)</span>
+            <span class="chip">声调 第二声 (rising)</span>
           </div>
         </div>
       </div>
