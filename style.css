@@ -1305,22 +1305,23 @@ a.adj:focus-visible { outline: none; border-color: var(--ochre); box-shadow: 0 0
 }
 .page-footer-actions {
   display: flex;
-  flex-wrap: wrap;
+  flex-direction: column;
   align-items: center;
-  justify-content: space-between;
-  gap: 0.75rem 1.5rem;
+  gap: 1rem;
   margin-bottom: 1.4rem;
 }
 .page-footer-links {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
+  justify-content: center;
   gap: 0.4rem 1.4rem;
 }
 .page-footer-buttons {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
+  justify-content: center;
   gap: 0.6rem;
 }
 .pf-link {
@@ -1443,7 +1444,7 @@ a.pf-btn-share:focus-visible, button.pf-btn-share:focus-visible {
 .footer-back:hover { color: var(--red); }
 .footer-back:focus-visible { outline: 2px solid var(--ochre); outline-offset: 3px; border-radius: 2px; color: var(--red); }
 @media (max-width: 620px) {
-  .page-footer-actions { gap: 1rem; flex-direction: column; align-items: stretch; }
+  .page-footer-actions { align-items: stretch; }
   .page-footer-buttons { width: 100%; }
   .pf-btn { flex: 1; justify-content: center; }
   .page-footer-row { flex-direction: column; gap: 0.55rem; align-items: flex-start; }
