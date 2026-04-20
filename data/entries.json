@@ -2140,6 +2140,20 @@
     "updated": "2026-04-19"
   },
   {
+    "path": "pages/hubs/dynasties.html",
+    "type": "topic",
+    "category": "hubs",
+    "title": "朝代 · The Dynasties — A Reading Path Through Chinese History",
+    "desc": "A guided walk through four thousand years of Chinese dynasties, from the three founding houses to the modern ruptures that ended imperial rule.",
+    "tags": [
+      "history",
+      "dynasty",
+      "hub"
+    ],
+    "status": "complete",
+    "updated": "2026-04-19"
+  },
+  {
     "path": "pages/hubs/tea.html",
     "type": "topic",
     "category": "hubs",
