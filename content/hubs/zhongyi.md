@@ -2,6 +2,7 @@
 type: hub
 category: hubs
 title: "中医 · Traditional Chinese Medicine — A Reading Path"
+pinyin: "zhōngyī"
 desc: "A guided walk through the philosophy, practice, and vocabulary of Chinese medicine — from yin-yang and qi to acupuncture, herbology, and the five phases."
 status: complete
 updated: "2026-04-19"

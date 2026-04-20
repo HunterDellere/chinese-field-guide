@@ -2,6 +2,7 @@
 type: hub
 category: hubs
 title: "汉字 · The Writing System — A Reading Path"
+pinyin: "hànzì"
 desc: "A guided walk through Chinese characters — from oracle bone to modern glyph, from radical to compound, from stroke to calligraphy."
 status: complete
 updated: "2026-04-19"

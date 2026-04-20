@@ -2,6 +2,7 @@
 type: hub
 category: hubs
 title: "哲学 · Chinese Philosophy — A Reading Path"
+pinyin: "zhéxué"
 desc: "A guided walk through the great schools of Chinese thought — from Confucius and Laozi to the Neo-Confucian synthesis and the living debate between order and spontaneity."
 status: complete
 updated: "2026-04-19"

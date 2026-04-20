@@ -588,6 +588,12 @@
 
   /* Entry grid */
   .entry-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 0.9rem; }
+  /* Hubs: single-column so long reading-path titles aren't squashed */
+  .cat-group[data-category="hubs"] .entry-grid { grid-template-columns: 1fr; gap: 0.6rem; }
+  .cat-group[data-category="hubs"] .entry-card { padding: 0.9rem 1.1rem; }
+  .cat-group[data-category="hubs"] .entry-glyph { font-size: 1.8rem; margin-bottom: 0.25rem; }
+  .cat-group[data-category="hubs"] .entry-glyph.glyph-2 { font-size: 1.5rem; }
+  .cat-group[data-category="hubs"] .entry-glyph.glyph-4 { font-size: 1.2rem; }
 
   .entry-card {
     background: var(--papyrus-2); border: 1px solid var(--rule); border-radius: var(--radius-lg);

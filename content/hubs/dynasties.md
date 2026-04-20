@@ -2,6 +2,7 @@
 type: hub
 category: hubs
 title: "朝代 · The Dynasties — A Reading Path Through Chinese History"
+pinyin: "cháodài"
 desc: "A guided walk through four thousand years of Chinese dynasties, from the three founding houses to the modern ruptures that ended imperial rule."
 status: complete
 updated: "2026-04-19"

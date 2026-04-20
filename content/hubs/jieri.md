@@ -2,6 +2,7 @@
 type: hub
 category: hubs
 title: "节日 · The Festival Calendar — A Reading Path"
+pinyin: "jiérì"
 desc: "A guided walk through the Chinese year — the lunar calendar, the solar terms, and the great festivals that mark the turning of time."
 status: complete
 updated: "2026-04-19"
