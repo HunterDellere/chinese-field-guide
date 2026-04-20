@@ -2031,6 +2031,129 @@
     "updated": "2026-04-19"
   },
   {
+    "path": "pages/hsk/hsk-1.html",
+    "type": "topic",
+    "category": "hsk",
+    "title": "HSK 1 · Level 1",
+    "desc": "The complete HSK 1 vocabulary, character, and grammar list — cross-linked to Jiǎoluò Shūwū entries where available.",
+    "tags": [
+      "hsk",
+      "vocabulary",
+      "wordlist"
+    ],
+    "status": "complete",
+    "hsk": 1,
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/hsk/hsk-2.html",
+    "type": "topic",
+    "category": "hsk",
+    "title": "HSK 2 · Level 2",
+    "desc": "The complete HSK 2 vocabulary, character, and grammar list — cross-linked to Jiǎoluò Shūwū entries where available.",
+    "tags": [
+      "hsk",
+      "vocabulary",
+      "wordlist"
+    ],
+    "status": "complete",
+    "hsk": 2,
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/hsk/hsk-3.html",
+    "type": "topic",
+    "category": "hsk",
+    "title": "HSK 3 · Level 3",
+    "desc": "The complete HSK 3 vocabulary, character, and grammar list — cross-linked to Jiǎoluò Shūwū entries where available.",
+    "tags": [
+      "hsk",
+      "vocabulary",
+      "wordlist"
+    ],
+    "status": "complete",
+    "hsk": 3,
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/hsk/hsk-4.html",
+    "type": "topic",
+    "category": "hsk",
+    "title": "HSK 4 · Level 4",
+    "desc": "The complete HSK 4 vocabulary, character, and grammar list — cross-linked to Jiǎoluò Shūwū entries where available.",
+    "tags": [
+      "hsk",
+      "vocabulary",
+      "wordlist"
+    ],
+    "status": "complete",
+    "hsk": 4,
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/hsk/hsk-5.html",
+    "type": "topic",
+    "category": "hsk",
+    "title": "HSK 5 · Level 5",
+    "desc": "The complete HSK 5 vocabulary, character, and grammar list — cross-linked to Jiǎoluò Shūwū entries where available.",
+    "tags": [
+      "hsk",
+      "vocabulary",
+      "wordlist"
+    ],
+    "status": "complete",
+    "hsk": 5,
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/hsk/hsk-6.html",
+    "type": "topic",
+    "category": "hsk",
+    "title": "HSK 6 · Level 6",
+    "desc": "The complete HSK 6 vocabulary, character, and grammar list — cross-linked to Jiǎoluò Shūwū entries where available.",
+    "tags": [
+      "hsk",
+      "vocabulary",
+      "wordlist"
+    ],
+    "status": "complete",
+    "hsk": 6,
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/hsk/hsk-7-9.html",
+    "type": "topic",
+    "category": "hsk",
+    "title": "HSK 7-9 · Advanced",
+    "desc": "The combined HSK 7, 8, and 9 advanced-level vocabulary, character, and grammar list.",
+    "tags": [
+      "hsk",
+      "vocabulary",
+      "wordlist",
+      "advanced"
+    ],
+    "status": "complete",
+    "hsk": {
+      "from": 7,
+      "to": 9
+    },
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/hubs/tea.html",
+    "type": "topic",
+    "category": "hubs",
+    "title": "六大茶类 · The Six Teas — A Reading Path",
+    "desc": "A guided tour through the six classes of Chinese tea, plus the character, the utensils, and the gongfu ceremony.",
+    "tags": [
+      "tea",
+      "culinary",
+      "hub"
+    ],
+    "status": "complete",
+    "updated": "2026-04-19"
+  },
+  {
     "path": "pages/science/topic_bencao.html",
     "type": "topic",
     "category": "science",

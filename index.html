@@ -104,7 +104,7 @@
     {
       "@type": "Question",
       "name": "Where should a first-time visitor start?",
-      "acceptedAnswer": { "@type": "Answer", "text": "The ‘Quick Start’ section on the homepage is an opinionated tour of the whole — twelve entries across characters, grammar, philosophy, food, and culture. A weekly ‘This week's thread’ feature also surfaces a single theme and its related entries." }
+      "acceptedAnswer": { "@type": "Answer", "text": "The ‘Quick Start’ section on the homepage is an opinionated tour of the whole — twelve entries across characters, grammar, philosophy, food, and culture. A daily ‘Today's thread’ feature also surfaces a single theme and its related entries." }
     },
     {
       "@type": "Question",
@@ -120,7 +120,7 @@
 <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Noto+Serif+SC:wght@400;600;700&family=Noto+Sans+Mono:wght@400;500&display=swap" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Noto+Serif+SC:wght@400;600;700&family=Noto+Sans+Mono:wght@400;500&display=swap" rel="stylesheet"></noscript>
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='14' fill='%238b1a1a'/><rect x='6' y='6' width='88' height='88' rx='10' fill='none' stroke='%23f2e8d5' stroke-width='2' stroke-opacity='0.55'/><text x='50' y='30' text-anchor='middle' dominant-baseline='central' font-family='Noto Serif SC, serif' font-size='42' font-weight='700' fill='%23f2e8d5'>書</text><text x='50' y='72' text-anchor='middle' dominant-baseline='central' font-family='Noto Serif SC, serif' font-size='42' font-weight='700' fill='%23f2e8d5'>屋</text></svg>">
-<link rel="apple-touch-icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 180 180'><rect width='180' height='180' rx='32' fill='%238b1a1a'/><rect x='12' y='12' width='156' height='156' rx='22' fill='none' stroke='%23f2e8d5' stroke-width='3' stroke-opacity='0.55'/><text x='90' y='54' text-anchor='middle' dominant-baseline='central' font-family='Noto Serif SC, serif' font-size='72' font-weight='700' fill='%23f2e8d5'>書</text><text x='90' y='128' text-anchor='middle' dominant-baseline='central' font-family='Noto Serif SC, serif' font-size='72' font-weight='700' fill='%23f2e8d5'>屋</text></svg>">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
 <link rel="stylesheet" href="style.css">
 <link rel="stylesheet" href="style-home.css">
 </head>
@@ -164,11 +164,11 @@
     </svg>
   </header>
 
-  <!-- This week's reading — moved to the very top so the lead theme greets visitors first. -->
+  <!-- Today's reading — rotates daily so returning visitors get a fresh lead. -->
   <section class="featured-section" id="featured" aria-labelledby="featured-heading">
-    <div class="section-eyebrow"><span class="eb-mark" aria-hidden="true"></span>本周 běnzhōu</div>
-    <h2 class="section-title" id="featured-heading">This week's thread</h2>
-    <p class="section-sub">One theme and a few entries that answer to it — a thread to follow on a quiet afternoon.</p>
+    <div class="section-eyebrow"><span class="eb-mark" aria-hidden="true"></span>今日 jīnrì</div>
+    <h2 class="section-title" id="featured-heading">Today's thread</h2>
+    <p class="section-sub">One theme and a few entries that answer to it — a thread to follow over a cup of tea.</p>
     <article class="featured-card" id="featured-card" data-watermark=""></article>
   </section>
 
@@ -373,6 +373,7 @@ document.addEventListener('click', function (e) {
   }).catch(function () {});
 });
 </script>
+<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "TOKEN_PLACEHOLDER"}'></script>
 
 </body>
 </html>
