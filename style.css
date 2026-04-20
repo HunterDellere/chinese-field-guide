@@ -1598,19 +1598,34 @@ a.pf-btn-share:focus-visible, button.pf-btn-share:focus-visible {
   .main { padding: 2rem 2rem 5rem 2.5rem; }
 }
 
-/* Mobile: sidebar becomes an overlay sheet; single-column layout */
+/* Mobile: sidebar becomes an overlay sheet; single-column layout.
+   Topnav is docked to the bottom of the viewport so the brand + right-side
+   actions sit within thumb reach. Sticky offsets flip accordingly. */
 @media (max-width: 768px) {
+  body { padding-bottom: var(--nav-h); }
+  .topnav {
+    position: fixed;
+    top: auto;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    border-bottom: none;
+    border-top: 1px solid rgba(139,26,26,0.6);
+    box-shadow: 0 -2px 0 rgba(139,26,26,0.4), 0 -1px 8px rgba(0,0,0,0.15);
+  }
+  .reading-progress { position: fixed; top: auto; bottom: var(--nav-h); left: 0; right: 0; }
+  .section-anchor { top: -24px; }
   .shell { grid-template-columns: 1fr; display: block; }
   .sidebar {
     position: fixed;
-    top: var(--nav-h);
+    top: 0;
     left: 0; right: 0;
     max-height: calc(100vh - var(--nav-h));
     height: auto;
     overflow-y: auto;
     border-right: none;
-    border-bottom: 1px solid var(--rule);
-    border-top: 1px solid var(--red);
+    border-bottom: 1px solid var(--red);
+    border-top: none;
     padding: 1.2rem 0 1.5rem;
     display: none;
     background: var(--papyrus);
@@ -1618,6 +1633,7 @@ a.pf-btn-share:focus-visible, button.pf-btn-share:focus-visible {
     z-index: 180;
     animation: slideDown 0.18s ease both;
   }
+  .sidebar-backdrop { inset: 0 0 var(--nav-h) 0; }
   .sidebar.open { display: block; }
   @keyframes slideDown {
     from { opacity: 0; transform: translateY(-8px); }
