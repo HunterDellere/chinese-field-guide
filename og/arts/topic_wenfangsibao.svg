@@ -17,7 +17,7 @@
   <line x1="60" y1="570" x2="1140" y2="570" stroke="#4a2878" stroke-width="3"/>
   <text x="80" y="100" font-family="Inconsolata, monospace" font-size="22" letter-spacing="6" fill="#6b5535" text-transform="uppercase">JIǍOLUÒ SHŪWŪ · 角落書屋</text>
   <text x="1120" y="100" font-family="Inconsolata, monospace" font-size="22" letter-spacing="3" fill="#6b5535" text-anchor="end">arts</text>
-  <text x="600" y="350" font-family="Noto Serif SC, serif" font-size="200" font-weight="700" fill="#4a2878" text-anchor="middle" dominant-baseline="middle">文房四宝</text>
-  <text x="600" y="470" font-family="Inconsolata, monospace" font-size="44" letter-spacing="4" fill="#a06428" text-anchor="middle">wénfáng sìbǎo</text>
-  <text x="600" y="530" font-family="Cormorant Garamond, Georgia, serif" font-style="italic" font-size="32" fill="#2e2010" text-anchor="middle">Four Treasures of the Study</text>
+  <text x="600" y="275" font-family="Noto Serif SC, serif" font-size="216" font-weight="700" fill="#4a2878" text-anchor="middle" dominant-baseline="middle">文房四宝</text>
+  <text x="600" y="460" font-family="Inconsolata, monospace" font-size="40" letter-spacing="4" fill="#a06428" text-anchor="middle" dominant-baseline="middle">wénfáng sìbǎo</text>
+  <text x="600" y="525" font-family="Cormorant Garamond, Georgia, serif" font-style="italic" font-size="30" fill="#2e2010" text-anchor="middle" dominant-baseline="middle">Four Treasures of the Study</text>
 </svg>

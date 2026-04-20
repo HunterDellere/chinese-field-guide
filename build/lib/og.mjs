@@ -38,8 +38,20 @@ export function renderOgSvg(entry) {
   const titleEn = entry.title
     ? (entry.title.split('·').slice(1).join('·').trim() || entry.title)
     : '';
-  const isLong = glyph.length > 1;
-  const glyphSize = isLong ? Math.max(140, 320 - glyph.length * 30) : 360;
+
+  // Unicode-safe length (surrogate pairs for rare CJK glyphs).
+  const len = [...glyph].length;
+  // Single char gets a heroic size; multi-char scales down so chengyu still fit.
+  const glyphSize = len === 1
+    ? 300
+    : Math.max(150, 280 - (len - 2) * 32);
+
+  // Vertical rhythm — center-anchored bands within the 60→570 frame.
+  // Glyph, pinyin, and title sit in distinct bands so the CJK ink never
+  // collides with the pinyin/title below it.
+  const glyphY  = 275;
+  const pinyinY = 460;
+  const titleY  = 525;
 
   return `<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
@@ -60,9 +72,9 @@ export function renderOgSvg(entry) {
   <line x1="60" y1="570" x2="1140" y2="570" stroke="${cat.color}" stroke-width="3"/>
   <text x="80" y="100" font-family="Inconsolata, monospace" font-size="22" letter-spacing="6" fill="#6b5535" text-transform="uppercase">JIǍOLUÒ SHŪWŪ · 角落書屋</text>
   <text x="1120" y="100" font-family="Inconsolata, monospace" font-size="22" letter-spacing="3" fill="#6b5535" text-anchor="end">${escXml(entry.category)}</text>
-  <text x="600" y="${isLong ? 350 : 380}" font-family="Noto Serif SC, serif" font-size="${glyphSize}" font-weight="700" fill="${cat.color}" text-anchor="middle" dominant-baseline="middle">${escXml(glyph)}</text>
-  ${pinyin ? `<text x="600" y="${isLong ? 470 : 490}" font-family="Inconsolata, monospace" font-size="44" letter-spacing="4" fill="#a06428" text-anchor="middle">${escXml(pinyin)}</text>` : ''}
-  ${titleEn ? `<text x="600" y="${isLong ? 530 : 550}" font-family="Cormorant Garamond, Georgia, serif" font-style="italic" font-size="32" fill="#2e2010" text-anchor="middle">${escXml(titleEn)}</text>` : ''}
+  <text x="600" y="${glyphY}" font-family="Noto Serif SC, serif" font-size="${glyphSize}" font-weight="700" fill="${cat.color}" text-anchor="middle" dominant-baseline="middle">${escXml(glyph)}</text>
+  ${pinyin ? `<text x="600" y="${pinyinY}" font-family="Inconsolata, monospace" font-size="40" letter-spacing="4" fill="#a06428" text-anchor="middle" dominant-baseline="middle">${escXml(pinyin)}</text>` : ''}
+  ${titleEn ? `<text x="600" y="${titleY}" font-family="Cormorant Garamond, Georgia, serif" font-style="italic" font-size="30" fill="#2e2010" text-anchor="middle" dominant-baseline="middle">${escXml(titleEn)}</text>` : ''}
 </svg>`;
 }
 
