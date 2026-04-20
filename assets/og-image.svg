@@ -9,34 +9,50 @@
       <stop offset="0%" stop-color="#8b1a1a"/>
       <stop offset="100%" stop-color="#c07830"/>
     </linearGradient>
+    <linearGradient id="seal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#a01f1f"/>
+      <stop offset="55%" stop-color="#8b1a1a"/>
+      <stop offset="100%" stop-color="#6e1313"/>
+    </linearGradient>
   </defs>
   <!-- Large glyph watermark: 書 (shū, book) -->
   <text x="970" y="530" font-family="'Noto Serif SC', 'Songti SC', serif"
         font-size="460" font-weight="400"
         fill="#8b1a1a" opacity="0.08" text-anchor="middle">書</text>
+  <!-- Seal / logo — stacked 角書 to match the app icon -->
+  <g transform="translate(1000,90)">
+    <rect width="160" height="160" rx="22" ry="22" fill="url(#seal)"/>
+    <rect x="10" y="10" width="140" height="140" rx="14" ry="14"
+          fill="none" stroke="#f2e8d5" stroke-width="1.2" stroke-opacity="0.55"/>
+    <g font-family="'Noto Serif SC', 'Songti SC', serif"
+       font-weight="700" fill="#f2e8d5" text-anchor="middle">
+      <text x="80" y="72" font-size="70">角</text>
+      <text x="80" y="138" font-size="70">書</text>
+    </g>
+  </g>
   <!-- Eyebrow -->
   <text x="100" y="160" font-family="'Cormorant Garamond', Georgia, serif"
         font-size="26" font-weight="400" fill="#8b1a1a" letter-spacing="6">
-    JIǍOLUÒ SHŪWŪ
+    JIǍOSHŪ · THE NOOK BOOK
   </text>
   <!-- Chinese brand title -->
-  <text x="100" y="260" font-family="'Noto Serif SC', 'Songti SC', serif"
-        font-size="92" font-weight="600" fill="#14110a" letter-spacing="10">
-    角落書屋
+  <text x="100" y="280" font-family="'Noto Serif SC', 'Songti SC', serif"
+        font-size="140" font-weight="600" fill="#14110a" letter-spacing="16">
+    角書
   </text>
   <!-- Divider -->
-  <line x1="100" y1="305" x2="340" y2="305" stroke="#8b1a1a" stroke-width="1.5"/>
+  <line x1="100" y1="325" x2="340" y2="325" stroke="#8b1a1a" stroke-width="1.5"/>
   <!-- English tagline -->
-  <text x="100" y="370" font-family="'Cormorant Garamond', Georgia, serif"
+  <text x="100" y="390" font-family="'Cormorant Garamond', Georgia, serif"
         font-size="42" font-style="italic" font-weight="300" fill="#2c1f10">
     A reading corner for Chinese
   </text>
   <!-- Description -->
-  <text x="100" y="430" font-family="'Cormorant Garamond', Georgia, serif"
+  <text x="100" y="450" font-family="'Cormorant Garamond', Georgia, serif"
         font-size="28" font-weight="300" fill="#5a4428">
     Characters · Vocabulary · Grammar
   </text>
-  <text x="100" y="468" font-family="'Cormorant Garamond', Georgia, serif"
+  <text x="100" y="488" font-family="'Cormorant Garamond', Georgia, serif"
         font-size="28" font-weight="300" fill="#5a4428">
     Philosophy · History · Food · Tea
   </text>

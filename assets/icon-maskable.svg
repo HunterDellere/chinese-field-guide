@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <!-- Jiǎoshū · 角書 — maskable app icon
+       Full-bleed cinnabar with glyphs confined to the 80% safe zone
+       (a centred circle of radius ~205) per the W3C maskable spec. -->
+  <defs>
+    <linearGradient id="seal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#a01f1f"/>
+      <stop offset="55%" stop-color="#8b1a1a"/>
+      <stop offset="100%" stop-color="#6e1313"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" fill="url(#seal)"/>
+  <g font-family="Noto Serif CJK TC, Noto Serif SC, Songti SC, serif"
+     font-weight="700" fill="#f2e8d5" text-anchor="middle">
+    <text x="256" y="242" font-size="170">角</text>
+    <text x="256" y="408" font-size="170">書</text>
+  </g>
+</svg>

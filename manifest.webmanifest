@@ -1,7 +1,7 @@
 {
-  "name": "Jiǎoluò Shūwū · 角落書屋",
-  "short_name": "Jiǎoluò Shūwū",
-  "description": "Notes on Chinese language and civilisation — characters, vocabulary, grammar, history, philosophy, and the world they shaped.",
+  "name": "Jiǎoshū · 角書",
+  "short_name": "Jiǎoshū",
+  "description": "Jiǎoshū — the nook book. A reading corner for the Chinese language and civilisation: characters, vocabulary, grammar, history, philosophy, and the world they shaped.",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
