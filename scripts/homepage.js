@@ -14,7 +14,7 @@
     daily:      { cn: "日常", py: "rìcháng",  en: "Everyday Life",      color: "var(--cat-daily)",      desc: "Names, numbers, gifts, gestures, taboos." },
     chengyu:    { cn: "成语", py: "chéngyǔ",  en: "Chengyu",            color: "var(--cat-chengyu)",    desc: "Four-character idioms. Compressed wisdom from classical texts." },
     hsk:        { cn: "考试", py: "kǎoshì",   en: "HSK Lists",           color: "var(--cat-hsk)",        desc: "Characters, vocabulary, and grammar by official HSK level." },
-    hubs:       { cn: "门户", py: "ménhù",    en: "Hubs",                color: "var(--cat-hubs)",       desc: "Curated reading paths through thematic clusters." }
+    hubs:       { cn: "读径", py: "dú jìng",  en: "Reading Paths",       color: "var(--cat-hubs)",       desc: "Curated reading paths through thematic clusters." }
   };
 
   // Three families: Language → Topics → Hubs.
@@ -401,7 +401,7 @@
     const overviewSub = document.getElementById("overview-sub");
     if (overviewSub) {
       const total = CAT_ORDER.reduce((n, k) => n + (groups[k] ? groups[k].length : 0), 0);
-      overviewSub.textContent = `Three families — language, topics, hubs — ${total} notes in all.`;
+      overviewSub.textContent = `Three families — language, topics, collections — ${total} notes in all.`;
     }
     function renderShelf(label, keys) {
       const shelf = document.createElement("div");
@@ -573,7 +573,7 @@
     const GROUP_META = {
       language: { cn: "语言", py: "yǔyán",  en: "The Language", desc: "Characters, words, grammar — the building blocks." },
       topics:   { cn: "话题", py: "huàtí",  en: "Topics",       desc: "Thought, history, place, lived life — what the language is used to say." },
-      hubs:     { cn: "门户", py: "ménhù",  en: "Hubs",         desc: "Curated collections and reading paths through thematic clusters." }
+      hubs:     { cn: "集锦", py: "jíjǐn",  en: "Collections",  desc: "Idioms, curated reading paths, and reference lists." }
     };
     const familiesInserted = new Set();
 
