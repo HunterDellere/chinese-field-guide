@@ -17,7 +17,7 @@ import { validateEntry } from './lib/validate.mjs';
 import { buildSearchIndex } from './lib/search-index.mjs';
 import { buildRelations, buildAdjacency, renderRelatedHtml, renderAdjacencyHtml } from './lib/relations.mjs';
 import { renderHskBody } from './lib/hsk.mjs';
-import { injectStrokeOrder, buildLinkMap, autoLinkBody, addPinyinAudio, buildPageFooter, renderSourcesHtml, renderReviewBanner, ensureMainContentId } from './lib/augment.mjs';
+import { injectStrokeOrder, buildLinkMap, autoLinkBody, addPinyinAudio, buildPageFooter, renderSourcesHtml, ensureMainContentId } from './lib/augment.mjs';
 import { renderOgSvg, categoryFaviconDataUri } from './lib/og.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
@@ -548,12 +548,6 @@ for (const { fm, body, slug, category, outDir, entry } of pending) {
 
     }
 
-    // Inject review banner at the top of <main> (right after the opening tag)
-    const reviewBanner = renderReviewBanner(fm);
-    if (reviewBanner) {
-      augmentedBody = augmentedBody.replace(/(<main\b[^>]*>)/, `$1${reviewBanner}`);
-    }
-
     // Inject unified footer on all pages (strips authored stub if present)
     augmentedBody = buildPageFooter(augmentedBody, fm, slug, category);
 
@@ -756,4 +750,18 @@ console.log(`\nBuild complete: ${built} pages written, ${pruned} pruned, ${error
 console.log(`OG cards: ${ogWritten} SVGs generated.`);
 console.log(`Sitemap: ${urls.length} URLs.`);
 console.log(`Auto-linked: ${autoLinkCount}/${pending.length} pages.`);
+
+// ── Admin dashboard (last: depends on entries.json being fresh) ────────────
+// Runs validate-facts for machine-readable findings, then generates the admin
+// page. Validator errors do NOT fail the build — the admin page IS the surface
+// for seeing those errors. Hard gating lives in `npm run check`.
+try {
+  const { spawnSync } = await import('node:child_process');
+  const vf = spawnSync(process.execPath, [join(__dirname, 'validate-facts.mjs')], { stdio: 'inherit' });
+  const admin = spawnSync(process.execPath, [join(__dirname, 'build-admin.mjs')], { stdio: 'inherit' });
+  if (admin.status !== 0) console.warn('build-admin: exited non-zero (admin page may be stale)');
+} catch (e) {
+  console.warn('admin pipeline failed:', e.message);
+}
+
 if (errors) process.exit(1);

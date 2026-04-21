@@ -162,6 +162,10 @@ const INDEX_INVARIANTS = [
 // Stage 2: layout + type invariants
 for (const [file, { html, meta }] of pageInfo) {
   const isIndex = file === join(ROOT, 'index.html');
+  // _admin/ and other _-prefixed page dirs are generated dashboards — exempt
+  // from content-layout invariants.
+  const relPath = relative(pagesDir, file);
+  if (relPath.startsWith('_')) continue;
 
   if (isIndex) {
     for (const inv of INDEX_INVARIANTS) {
@@ -255,6 +259,7 @@ for (const slug of contentSlugs) {
 }
 for (const slug of pageSlugs) {
   if (slug.startsWith('hsk/')) continue; // hsk pages are generated; content/hsk may not mirror
+  if (slug.startsWith('_')) continue;    // _admin/ etc — generated dashboards, not content-backed
   if (!contentSlugs.has(slug)) {
     fail(join(pagesDir, slug + '.html'), `orphan page: no corresponding content/${slug}.md`);
   }

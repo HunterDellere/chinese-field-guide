@@ -41,31 +41,6 @@ export function renderSourcesHtml(fm) {
     </aside>`;
 }
 
-/**
- * Render a review-status banner for pages whose factual claims haven't been
- * verified yet. Inserted at the top of <main> so it's impossible to miss.
- * Returns HTML block or empty string.
- */
-export function renderReviewBanner(fm) {
-  const status = fm.factual_review;
-  if (status === 'verified' || !status) return '';
-  if (status === 'pending') {
-    return `
-    <div class="review-banner review-banner-pending" role="status">
-      <span class="rb-cn">审校中</span>
-      <span class="rb-en">Under factual review — component decomposition and etymology claims on this page are awaiting verification against Outlier and other sources. Corrections welcome.</span>
-    </div>`;
-  }
-  if (status === 'unverified') {
-    return `
-    <div class="review-banner review-banner-unverified" role="status">
-      <span class="rb-cn">未审校</span>
-      <span class="rb-en">Not yet reviewed — treat factual claims on this page as provisional.</span>
-    </div>`;
-  }
-  return '';
-}
-
 function escapeHtmlInline(s) {
   return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 }

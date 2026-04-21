@@ -309,7 +309,14 @@ For character stubs use `.hero` + `.hero-glyph` / `.hero-pinyin` / `.hero-en` / 
 
 ## Factual Review
 
-Every character and vocab page carries a `factual_review` frontmatter field (`verified` / `pending` / `unverified`). Backfilled pages default to `pending` — the UI shows a banner so readers know the state.
+Every character and vocab page carries a `factual_review` frontmatter field (`verified` / `pending` / `unverified`). Backfilled pages default to `pending`. **The status is not shown on public pages** — it's surfaced only through the admin dashboard.
+
+**Admin dashboard** (not linked from public surfaces): `/pages/_admin/review.html`. Generated on every `npm run build`. Bookmark the URL. The dashboard shows:
+- Counts by review status
+- Filterable table of every reviewable page (character / vocab) with status, validator findings inline, and a link to edit the source
+- Global findings (e.g. coverage gaps)
+
+The admin page carries `<meta name="robots" content="noindex,nofollow">`. It's excluded from `sitemap.xml`, `feed.xml`, `data/search-index.json`, `data/entries.json`, and the check.mjs orphan/layout invariants (anything under `pages/_*` is treated as a generated dashboard).
 
 `npm run validate:facts` (part of `npm run check`) automatically:
 - Cross-checks frontmatter `radical`, `pinyin`, `tone` against `data/_reference/hanzi-facts.json` (a site-filtered subset of Unihan + CC-CEDICT + IDS data).
