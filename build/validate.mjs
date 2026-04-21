@@ -14,9 +14,13 @@ import { join, dirname, basename, relative } from 'path';
 import { fileURLToPath } from 'url';
 import matter from 'gray-matter';
 import { validateEntry } from './lib/validate.mjs';
+import { createFinding, mergeFindings } from './lib/findings.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
+const EMIT = process.argv.includes('--emit-findings');
+
+const adminFindings = [];
 
 function walk(dir) {
   const results = [];
@@ -44,6 +48,12 @@ for (const filePath of files) {
   } catch (err) {
     console.error(`✗ ${rel}\n  ${err.message}`);
     errors++;
+    if (EMIT) {
+      adminFindings.push(createFinding({
+        level: 'ERROR', category: 'schema',
+        file: `content/${rel}`, msg: err.message,
+      }));
+    }
   }
 }
 
@@ -65,9 +75,21 @@ for (const { fm, rel } of allFrontmatters) {
       if (!knownSlugs.has(member.slug)) {
         console.error(`✗ ${rel}\n  stages[].members[].slug: "${member.slug}" does not match any content file`);
         errors++;
+        if (EMIT) {
+          adminFindings.push(createFinding({
+            level: 'ERROR', category: 'hub-members',
+            file: `content/${rel}`,
+            msg: `stages[].members[].slug: "${member.slug}" does not match any content file`,
+            fix: `Check that content/${member.slug}.md exists`,
+          }));
+        }
       }
     }
   }
+}
+
+if (EMIT) {
+  mergeFindings(ROOT, adminFindings, ['schema', 'hub-members']);
 }
 
 if (errors === 0) {

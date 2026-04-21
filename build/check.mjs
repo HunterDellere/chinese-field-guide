@@ -20,9 +20,11 @@
 import { readFileSync, readdirSync, statSync, existsSync } from 'fs';
 import { join, dirname, basename, relative, resolve } from 'path';
 import { fileURLToPath } from 'url';
+import { createFinding, mergeFindings } from './lib/findings.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT      = join(__dirname, '..');
+const EMIT      = process.argv.includes('--emit-findings');
 
 // ── file walking ────────────────────────────────────────────────────────────
 
@@ -266,6 +268,21 @@ for (const slug of pageSlugs) {
 }
 
 // ── report ──────────────────────────────────────────────────────────────────
+
+if (EMIT && errors.length > 0) {
+  // Classify each error string into a category based on keywords in the message.
+  const adminFindings = errors.map(e => {
+    const msg = e.replace(/^[^\n]+\n\s*/, ''); // strip filename prefix line
+    const file = e.split('\n')[0].trim();
+    let category = 'layout';
+    if (/broken (href|src|fragment)/.test(msg))  category = 'links';
+    if (/broken fragment/.test(msg))              category = 'anchors';
+    if (/orphan (content|page)/.test(msg))        category = 'orphans';
+    if (/invariant failed: (character|vocab|topic|grammar|chengyu|hub)/.test(msg)) category = 'layout';
+    return createFinding({ level: 'ERROR', category, file, msg });
+  });
+  mergeFindings(ROOT, adminFindings, ['links', 'anchors', 'orphans', 'layout']);
+}
 
 if (errors.length === 0) {
   console.log(`✓ check.mjs: ${pageInfo.size} pages, ${contentSlugs.size} content sources — all invariants hold, all links resolve.`);
