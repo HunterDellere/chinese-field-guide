@@ -1170,37 +1170,6 @@ tbody tr:hover td { background: var(--papyrus-2); }
 .cy-en { font-size: 0.88rem; color: var(--ink-2); font-style: italic; }
 .cy-note { font-size: 0.78rem; color: var(--ink-4); line-height: 1.55; margin-top: 0.25rem; }
 
-/* ── REVIEW STATUS BANNER ────────────────────────────────── */
-.review-banner {
-  margin: 0 0 1.4rem 0;
-  padding: 0.7rem 1rem;
-  border: 1px solid var(--rule);
-  border-left: 3px solid var(--ochre, #b78d3f);
-  background: color-mix(in srgb, var(--ochre, #b78d3f) 6%, transparent);
-  font-family: var(--font-body);
-  font-size: 0.82rem;
-  color: var(--ink-3);
-  display: flex;
-  flex-direction: column;
-  gap: 0.2rem;
-  border-radius: 3px;
-}
-.review-banner-unverified {
-  border-left-color: var(--red, #a33a2a);
-  background: color-mix(in srgb, var(--red, #a33a2a) 5%, transparent);
-}
-.review-banner .rb-cn {
-  font-family: var(--font-sc, var(--font-body));
-  font-size: 0.92rem;
-  color: var(--ink-2);
-  letter-spacing: 0.04em;
-}
-.review-banner .rb-en {
-  font-style: italic;
-  color: var(--ink-4);
-  line-height: 1.45;
-}
-
 /* ── SOURCES BLOCK ───────────────────────────────────────── */
 .sources {
   margin-top: 2.5rem;

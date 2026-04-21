@@ -16,6 +16,7 @@ import matter from 'gray-matter';
 const ROOT = path.resolve(new URL('.', import.meta.url).pathname, '..');
 const CONTENT = path.join(ROOT, 'content');
 const REF_DIR = path.join(ROOT, 'data', '_reference');
+const ADMIN_DIR = path.join(ROOT, 'data', '_admin');
 
 const FACTS = JSON.parse(fs.readFileSync(path.join(REF_DIR, 'hanzi-facts.json'), 'utf8'));
 const VARIANTS_RAW = JSON.parse(fs.readFileSync(path.join(REF_DIR, 'radical-variants.json'), 'utf8'));
@@ -359,5 +360,17 @@ if (byLevel.ERROR.length === 0 && byLevel.WARN.length === 0) {
 } else {
   console.log(`\nSummary: ${byLevel.ERROR.length} errors, ${byLevel.WARN.length} warnings.`);
 }
+
+// Emit machine-readable findings for the admin dashboard. data/_admin is
+// generated; it's excluded from the public site surfaces.
+if (!fs.existsSync(ADMIN_DIR)) fs.mkdirSync(ADMIN_DIR, { recursive: true });
+fs.writeFileSync(
+  path.join(ADMIN_DIR, 'findings.json'),
+  JSON.stringify({
+    generated: new Date().toISOString(),
+    summary: { errors: byLevel.ERROR.length, warnings: byLevel.WARN.length },
+    findings,
+  }, null, 2) + '\n'
+);
 
 process.exit(byLevel.ERROR.length > 0 ? 1 : 0);

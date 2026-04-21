@@ -1,0 +1,44 @@
+{
+  "generated": "2026-04-21T17:19:10.142Z",
+  "summary": {
+    "errors": 0,
+    "warnings": 7
+  },
+  "findings": [
+    {
+      "level": "WARN",
+      "file": "content/characters/chang2_长.md",
+      "msg": "pinyin 'cháng' differs from reference [\"zhǎng\"] for '长' — confirm if secondary reading is intended"
+    },
+    {
+      "level": "WARN",
+      "file": "content/characters/di4_地.md",
+      "msg": "pinyin 'dì' differs from reference [\"de\"] for '地' — confirm if secondary reading is intended"
+    },
+    {
+      "level": "WARN",
+      "file": "content/characters/dian4_电.md",
+      "msg": "radical '雨' differs from reference '曰' for '电' (may be a system choice — verify)"
+    },
+    {
+      "level": "WARN",
+      "file": "content/characters/fo2_佛.md",
+      "msg": "pinyin 'fó' differs from reference [\"fú\"] for '佛' — confirm if secondary reading is intended"
+    },
+    {
+      "level": "WARN",
+      "file": "content/characters/shu1_书.md",
+      "msg": "radical '乛' differs from reference '丨' for '书' (may be a system choice — verify)"
+    },
+    {
+      "level": "WARN",
+      "file": "content/characters/yao4_要.md",
+      "msg": "radical '女' differs from reference '覀' for '要' (may be a system choice — verify)"
+    },
+    {
+      "level": "WARN",
+      "file": "data/_reference/hanzi-facts.json",
+      "msg": "16 hanzi appear in content/ but have no reference entry: 変喫剣楽竜牀気臓囍哋箇珅栄浄伋龘. Claims about these characters cannot be mechanically verified. Run 'npm run refresh:reference' after updating upstream data."
+    }
+  ]
+}

@@ -1,0 +1,1844 @@
+<!DOCTYPE html>
+<!-- ADMIN: not indexed; not linked from public surfaces -->
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex,nofollow,noarchive,nosnippet">
+<title>角落書屋</title>
+<link rel="stylesheet" href="../../style.css">
+<style>
+  body { font-family: var(--font-body, system-ui, sans-serif); background: var(--paper, #f5ede0); color: var(--ink-2, #2a2420); padding: 2rem 1.5rem; max-width: 1400px; margin: 0 auto; }
+  .admin-header { border-bottom: 2px solid var(--rule, #c9bca4); padding-bottom: 1rem; margin-bottom: 2rem; }
+  .admin-header h1 { font-family: var(--font-serif, serif); font-size: 1.6rem; margin: 0 0 0.3rem 0; letter-spacing: 0.02em; }
+  .admin-header .subtitle { font-style: italic; color: var(--ink-4, #6b5f4f); font-size: 0.88rem; }
+  .admin-header .meta { font-family: var(--font-mono, monospace); font-size: 0.72rem; color: var(--ink-5, #8a7e6d); margin-top: 0.4rem; }
+  .counts { display: flex; gap: 0.7rem; margin: 1.5rem 0 2rem 0; flex-wrap: wrap; }
+  .count-card { padding: 0.6rem 1rem; border: 1px solid var(--rule, #c9bca4); border-radius: 3px; min-width: 110px; }
+  .count-card .n { font-size: 1.6rem; font-weight: 600; font-family: var(--font-mono, monospace); line-height: 1; }
+  .count-card .l { font-size: 0.72rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--ink-4, #6b5f4f); margin-top: 0.3rem; }
+  .count-card.cc-verified { border-left: 3px solid #3a7a4a; }
+  .count-card.cc-pending { border-left: 3px solid #b78d3f; }
+  .count-card.cc-unverified { border-left: 3px solid #a33a2a; }
+  .count-card.cc-missing { border-left: 3px solid #8a7e6d; }
+  .count-card.cc-err { border-left: 3px solid #a33a2a; color: #a33a2a; }
+  .count-card.cc-warn { border-left: 3px solid #b78d3f; }
+  .admin-section { margin-bottom: 2.5rem; }
+  .admin-section h2 { font-size: 1.05rem; border-bottom: 1px solid var(--rule, #c9bca4); padding-bottom: 0.4rem; margin-bottom: 0.8rem; font-family: var(--font-serif, serif); }
+  .muted { color: var(--ink-5, #8a7e6d); font-weight: normal; font-size: 0.82rem; }
+  table.review-table { border-collapse: collapse; width: 100%; font-size: 0.82rem; }
+  table.review-table th, table.review-table td { padding: 0.5rem 0.7rem; text-align: left; vertical-align: top; border-bottom: 1px solid var(--rule, #c9bca4); }
+  table.review-table th { font-size: 0.7rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--ink-5, #8a7e6d); background: transparent; }
+  .c-status { width: 120px; white-space: nowrap; }
+  .c-title { max-width: 400px; }
+  .c-findings { max-width: 600px; }
+  .c-actions { width: 100px; white-space: nowrap; }
+  .chip { display: inline-block; padding: 0.15rem 0.55rem; border-radius: 2px; font-size: 0.7rem; letter-spacing: 0.05em; font-family: var(--font-mono, monospace); border: 1px solid; }
+  .chip-verified { color: #3a7a4a; border-color: #3a7a4a; }
+  .chip-pending { color: #b78d3f; border-color: #b78d3f; }
+  .chip-unverified { color: #a33a2a; border-color: #a33a2a; }
+  .chip-missing { color: #8a7e6d; border-color: #8a7e6d; }
+  .p-title { font-family: var(--font-serif, serif); font-size: 0.95rem; color: var(--ink-2, #2a2420); text-decoration: none; border-bottom: 1px dotted var(--rule, #c9bca4); }
+  .p-title:hover { border-bottom-style: solid; }
+  .t-py { font-style: italic; font-family: var(--font-body, serif); font-size: 0.82rem; color: var(--ink-4, #6b5f4f); }
+  .p-meta { font-size: 0.72rem; color: var(--ink-5, #8a7e6d); margin-top: 0.25rem; font-family: var(--font-mono, monospace); letter-spacing: 0.04em; }
+  .p-sources { margin-top: 0.3rem; }
+  .p-sources .src { display: inline-block; padding: 0.1rem 0.4rem; font-size: 0.68rem; background: color-mix(in srgb, #3a7a4a 10%, transparent); color: #3a7a4a; margin-right: 0.3rem; border-radius: 2px; font-family: var(--font-mono, monospace); }
+  .findings-list { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 0.3rem; }
+  .findings-list li { padding: 0.35rem 0.5rem; border-left: 2px solid; font-size: 0.78rem; line-height: 1.4; }
+  .findings-list li.f-error { border-left-color: #a33a2a; background: color-mix(in srgb, #a33a2a 5%, transparent); }
+  .findings-list li.f-warn  { border-left-color: #b78d3f; background: color-mix(in srgb, #b78d3f 5%, transparent); }
+  .findings-list li.f-info  { border-left-color: var(--rule, #c9bca4); }
+  .f-level { display: inline-block; font-family: var(--font-mono, monospace); font-size: 0.65rem; font-weight: 600; letter-spacing: 0.1em; margin-right: 0.4rem; }
+  .f-error .f-level { color: #a33a2a; }
+  .f-warn  .f-level { color: #b78d3f; }
+  .f-ctx { font-family: var(--font-mono, monospace); font-size: 0.7rem; color: var(--ink-4, #6b5f4f); margin-top: 0.25rem; padding-left: 0.5rem; border-left: 1px solid var(--rule, #c9bca4); }
+  .no-findings { color: var(--ink-5, #8a7e6d); font-family: var(--font-mono, monospace); font-size: 0.8rem; }
+  .action-link { font-size: 0.72rem; color: var(--ink-4, #6b5f4f); font-family: var(--font-mono, monospace); text-decoration: none; border-bottom: 1px dotted var(--rule, #c9bca4); }
+  .action-link:hover { border-bottom-style: solid; }
+  .filters { display: flex; gap: 0.6rem; margin-bottom: 0.8rem; font-size: 0.8rem; align-items: center; flex-wrap: wrap; }
+  .filters label { cursor: pointer; }
+  .filters input[type="text"] { padding: 0.3rem 0.5rem; border: 1px solid var(--rule, #c9bca4); font-family: var(--font-mono, monospace); font-size: 0.8rem; background: transparent; color: inherit; }
+  .filters select { padding: 0.3rem 0.5rem; border: 1px solid var(--rule, #c9bca4); background: transparent; font-family: var(--font-mono, monospace); font-size: 0.8rem; }
+  code { font-family: var(--font-mono, monospace); background: color-mix(in srgb, var(--ink-4, #6b5f4f) 8%, transparent); padding: 0.1rem 0.3rem; border-radius: 2px; font-size: 0.8rem; }
+  #admin-root { display: none; }
+</style>
+<script>
+// Passphrase gate. Failure closes silently (redirects home). Success persists in
+// localStorage so the gate is one-time-per-device. Plaintext never stored.
+(async function () {
+  var EXPECTED = '2092bbb3fd73f990c9d5d51a985634263ba212436a087ce4394461ea8704a4bf';
+  function sha(text) {
+    var buf = new TextEncoder().encode(text);
+    return crypto.subtle.digest('SHA-256', buf).then(function (h) {
+      return Array.from(new Uint8Array(h)).map(function (b) {
+        return b.toString(16).padStart(2, '0');
+      }).join('');
+    });
+  }
+  function goHome() { window.location.replace('../../index.html'); }
+  try {
+    if (localStorage.getItem('shuwu_key') === EXPECTED) {
+      document.documentElement.dataset.unlocked = '1';
+      return;
+    }
+  } catch (_) {}
+  // Prompt once. We only reach here if the user arrived via the 5-tap gesture
+  // (or guessed the URL). Either way, a wrong answer redirects home silently.
+  var entered = window.prompt('');
+  if (!entered) { goHome(); return; }
+  var hash = await sha(entered);
+  if (hash === EXPECTED) {
+    try { localStorage.setItem('shuwu_key', EXPECTED); } catch (_) {}
+    document.documentElement.dataset.unlocked = '1';
+  } else {
+    goHome();
+  }
+})();
+// Reveal body only once unlocked.
+var _reveal = setInterval(function () {
+  if (document.documentElement.dataset.unlocked === '1') {
+    clearInterval(_reveal);
+    var root = document.getElementById('admin-root');
+    if (root) root.style.display = 'block';
+  }
+}, 30);
+</script>
+</head>
+<body>
+  <div id="admin-root">
+  <header class="admin-header">
+    <h1>审校台 · Factual Review Dashboard</h1>
+    <div class="subtitle">Not publicly linked. Bookmark this URL.</div>
+    <div class="meta">generated 2026-04-21T17:19:07.735Z · 0 errors, 7 warnings · 118 reviewable pages</div>
+  </header>
+
+  <section class="admin-section">
+    <div class="counts">
+      <div class="count-card cc-verified"><div class="n">0</div><div class="l">verified</div></div>
+      <div class="count-card cc-pending"><div class="n">118</div><div class="l">pending</div></div>
+      <div class="count-card cc-unverified"><div class="n">0</div><div class="l">unverified</div></div>
+      <div class="count-card cc-missing"><div class="n">0</div><div class="l">missing</div></div>
+      <div class="count-card cc-err"><div class="n">0</div><div class="l">errors</div></div>
+      <div class="count-card cc-warn"><div class="n">7</div><div class="l">warnings</div></div>
+    </div>
+  </section>
+
+  
+  <section class="admin-section">
+    <h2>Global findings <span class="muted">(1)</span></h2>
+    <ul class="findings-list">
+      <li class="f-warn"><span class="f-level">WARN</span> <code>data/_reference/hanzi-facts.json</code> — 16 hanzi appear in content/ but have no reference entry: 変喫剣楽竜牀気臓囍哋箇珅栄浄伋龘. Claims about these characters cannot be mechanically verified. Run 'npm run refresh:reference' after updating upstream data.</li>
+    </ul>
+  </section>
+
+  <section class="admin-section">
+    <h2>Pages <span class="muted">(118 reviewable)</span></h2>
+    <div class="filters">
+      <label>Status
+        <select id="filter-status">
+          <option value="">all</option>
+          <option value="missing">missing</option>
+          <option value="unverified">unverified</option>
+          <option value="pending">pending</option>
+          <option value="verified">verified</option>
+        </select>
+      </label>
+      <label>Type
+        <select id="filter-type">
+          <option value="">all</option>
+          <option value="character">character</option>
+          <option value="vocab">vocab</option>
+        </select>
+      </label>
+      <label>Only with findings <input type="checkbox" id="filter-findings"></label>
+      <label>Search <input type="text" id="filter-search" placeholder="char, pinyin, title…"></label>
+    </div>
+    <table class="review-table">
+      <thead>
+        <tr><th>Status</th><th>Page</th><th>Validator findings</th><th>Action</th></tr>
+      </thead>
+      <tbody id="review-rows">
+        
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/ai4_爱.html" target="_blank" rel="noopener" class="p-title">爱 <span class="t-py">ài</span> — love, to love, to cherish</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/ai4_爱.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/bian4_变.html" target="_blank" rel="noopener" class="p-title">变 <span class="t-py">biàn</span> — to change, to transform</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/bian4_变.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/bu4_不.html" target="_blank" rel="noopener" class="p-title">不 <span class="t-py">bù</span> — no, not, negation</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/bu4_不.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/cha2_茶.html" target="_blank" rel="noopener" class="p-title">茶 <span class="t-py">chá</span> — tea</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/cha2_茶.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/chan3_产.html" target="_blank" rel="noopener" class="p-title">产 <span class="t-py">chǎn</span> — to produce, give birth, property, output</a>
+        <div class="p-meta">character · characters · updated 2026-04-20</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/chan3_产.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/chang2_长.html" target="_blank" rel="noopener" class="p-title">长 <span class="t-py">cháng</span> — long; to grow; chief</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <ul class="findings-list"><li class="f-warn"><span class="f-level">WARN</span> pinyin 'cháng' differs from reference [&quot;zhǎng&quot;] for '长' — confirm if secondary reading is intended</li></ul>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/chang2_长.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/chi1_吃.html" target="_blank" rel="noopener" class="p-title">吃 <span class="t-py">chī</span> — to eat</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/chi1_吃.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/da3_打.html" target="_blank" rel="noopener" class="p-title">打 <span class="t-py">dǎ</span> — to hit, to strike; the most versatile verb in Mandarin</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/da3_打.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/da4_大.html" target="_blank" rel="noopener" class="p-title">大 <span class="t-py">dà</span> — big, great, large</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/da4_大.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/dao4_道.html" target="_blank" rel="noopener" class="p-title">道 <span class="t-py">dào</span> — way, path</a>
+        <div class="p-meta">character · characters · updated 2026-04-18</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/dao4_道.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/di4_地.html" target="_blank" rel="noopener" class="p-title">地 <span class="t-py">dì</span> — earth, ground, land</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <ul class="findings-list"><li class="f-warn"><span class="f-level">WARN</span> pinyin 'dì' differs from reference [&quot;de&quot;] for '地' — confirm if secondary reading is intended</li></ul>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/di4_地.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/dian4_电.html" target="_blank" rel="noopener" class="p-title">电 <span class="t-py">diàn</span> — electricity, electric, telegram</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <ul class="findings-list"><li class="f-warn"><span class="f-level">WARN</span> radical '雨' differs from reference '曰' for '电' (may be a system choice — verify)</li></ul>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/dian4_电.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/fo2_佛.html" target="_blank" rel="noopener" class="p-title">佛 <span class="t-py">fó</span> — Buddha, the awakened</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <ul class="findings-list"><li class="f-warn"><span class="f-level">WARN</span> pinyin 'fó' differs from reference [&quot;fú&quot;] for '佛' — confirm if secondary reading is intended</li></ul>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/fo2_佛.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/fu2_福.html" target="_blank" rel="noopener" class="p-title">福 <span class="t-py">fú</span> — fortune, blessing, good luck</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/fu2_福.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/gan3_感.html" target="_blank" rel="noopener" class="p-title">感 <span class="t-py">gǎn</span> — to feel, to resonate</a>
+        <div class="p-meta">character · characters · updated 2026-04-18</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/gan3_感.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/gao4_告.html" target="_blank" rel="noopener" class="p-title">告 <span class="t-py">gào</span> — to tell, to announce, to report</a>
+        <div class="p-meta">character · characters · updated 2026-04-20</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/gao4_告.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/gong1_工.html" target="_blank" rel="noopener" class="p-title">工 <span class="t-py">gōng</span> — work, craft, labor, worker</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/gong1_工.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/guang3_广.html" target="_blank" rel="noopener" class="p-title">广 <span class="t-py">guǎng</span> — wide, broad, to spread</a>
+        <div class="p-meta">character · characters · updated 2026-04-20</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/guang3_广.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/guo2_国.html" target="_blank" rel="noopener" class="p-title">国 <span class="t-py">guó</span> — country, nation, state</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/guo2_国.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/hao3_好.html" target="_blank" rel="noopener" class="p-title">好 <span class="t-py">hǎo</span> — good; to like</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/hao3_好.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/huo3_火.html" target="_blank" rel="noopener" class="p-title">火 <span class="t-py">huǒ</span> — fire, flame, anger, popularity</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/huo3_火.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/jia1_家.html" target="_blank" rel="noopener" class="p-title">家 <span class="t-py">jiā</span> — home, family</a>
+        <div class="p-meta">character · characters · updated 2026-04-18</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/jia1_家.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/jiao3_角.html" target="_blank" rel="noopener" class="p-title">角 <span class="t-py">jiǎo</span> — corner, horn, angle</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/jiao3_角.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/jin1_金.html" target="_blank" rel="noopener" class="p-title">金 <span class="t-py">jīn</span> — gold, metal, money</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/jin1_金.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/kou3_口.html" target="_blank" rel="noopener" class="p-title">口 <span class="t-py">kǒu</span> — mouth, opening, entrance</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/kou3_口.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/lao3_老.html" target="_blank" rel="noopener" class="p-title">老 <span class="t-py">lǎo</span> — old, venerable, experienced</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/lao3_老.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/li3_礼.html" target="_blank" rel="noopener" class="p-title">礼 <span class="t-py">lǐ</span> — rites, ceremony, propriety</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/li3_礼.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/long2_龙.html" target="_blank" rel="noopener" class="p-title">龙 <span class="t-py">lóng</span> — dragon, the imperial symbol</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/long2_龙.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/luo4_落.html" target="_blank" rel="noopener" class="p-title">落 <span class="t-py">luò</span> — to fall, to settle, to land</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/luo4_落.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/mei3_美.html" target="_blank" rel="noopener" class="p-title">美 <span class="t-py">měi</span> — beautiful, USA, delicious</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/mei3_美.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/ming2_明.html" target="_blank" rel="noopener" class="p-title">明 <span class="t-py">míng</span> — bright, clear, tomorrow</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/ming2_明.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/mu4_木.html" target="_blank" rel="noopener" class="p-title">木 <span class="t-py">mù</span> — tree, wood</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/mu4_木.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/nian2_年.html" target="_blank" rel="noopener" class="p-title">年 <span class="t-py">nián</span> — year</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/nian2_年.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/nu3_女.html" target="_blank" rel="noopener" class="p-title">女 <span class="t-py">nǚ</span> — woman, female</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/nu3_女.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/pin3_品.html" target="_blank" rel="noopener" class="p-title">品 <span class="t-py">pǐn</span> — article, grade, character, to taste</a>
+        <div class="p-meta">character · characters · updated 2026-04-20</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/pin3_品.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/qi4_气.html" target="_blank" rel="noopener" class="p-title">气 <span class="t-py">qì</span> — breath, vital energy</a>
+        <div class="p-meta">character · characters · updated 2026-04-18</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/qi4_气.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/qian2_钱.html" target="_blank" rel="noopener" class="p-title">钱 <span class="t-py">qián</span> — money, coin, currency</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/qian2_钱.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/ren2_人.html" target="_blank" rel="noopener" class="p-title">人 <span class="t-py">rén</span> — person, humanity</a>
+        <div class="p-meta">character · characters · updated 2026-04-18</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/ren2_人.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/ri4_日.html" target="_blank" rel="noopener" class="p-title">日 <span class="t-py">rì</span> — sun, day, Japan</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/ri4_日.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/se4_色.html" target="_blank" rel="noopener" class="p-title">色 <span class="t-py">sè</span> — color, appearance, desire</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/se4_色.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/shan1_山.html" target="_blank" rel="noopener" class="p-title">山 <span class="t-py">shān</span> — mountain, hill, sacred peak</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/shan1_山.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/sheng1_生.html" target="_blank" rel="noopener" class="p-title">生 <span class="t-py">shēng</span> — life, birth, raw, student</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/sheng1_生.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/shi2_时.html" target="_blank" rel="noopener" class="p-title">时 <span class="t-py">shí</span> — time, hour, season</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/shi2_时.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/shi4_是.html" target="_blank" rel="noopener" class="p-title">是 <span class="t-py">shì</span> — to be</a>
+        <div class="p-meta">character · characters · updated 2026-04-18</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/shi4_是.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/shou3_手.html" target="_blank" rel="noopener" class="p-title">手 <span class="t-py">shǒu</span> — hand</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/shou3_手.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/shu1_书.html" target="_blank" rel="noopener" class="p-title">书 <span class="t-py">shū</span> — book, writing, letter</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <ul class="findings-list"><li class="f-warn"><span class="f-level">WARN</span> radical '乛' differs from reference '丨' for '书' (may be a system choice — verify)</li></ul>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/shu1_书.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/shui3_水.html" target="_blank" rel="noopener" class="p-title">水 <span class="t-py">shuǐ</span> — water</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/shui3_水.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/shuo1_说.html" target="_blank" rel="noopener" class="p-title">说 <span class="t-py">shuō</span> — to speak, to say, to explain</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/shuo1_说.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/si1_思.html" target="_blank" rel="noopener" class="p-title">思 <span class="t-py">sī</span> — to think, to miss, thought</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/si1_思.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/tian1_天.html" target="_blank" rel="noopener" class="p-title">天 <span class="t-py">tiān</span> — sky, heaven, day</a>
+        <div class="p-meta">character · characters · updated 2026-04-18</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/tian1_天.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/tu2_图.html" target="_blank" rel="noopener" class="p-title">图 <span class="t-py">tú</span> — map, diagram, to plan, to seek</a>
+        <div class="p-meta">character · characters · updated 2026-04-20</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/tu2_图.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/tu3_土.html" target="_blank" rel="noopener" class="p-title">土 <span class="t-py">tǔ</span> — earth, soil, local, native</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/tu3_土.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/wang2_王.html" target="_blank" rel="noopener" class="p-title">王 <span class="t-py">wáng</span> — king</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/wang2_王.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/wen2_文.html" target="_blank" rel="noopener" class="p-title">文 <span class="t-py">wén</span> — writing, culture, civil</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/wen2_文.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/wu1_屋.html" target="_blank" rel="noopener" class="p-title">屋 <span class="t-py">wū</span> — room, house, dwelling</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/wu1_屋.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/xin1_心.html" target="_blank" rel="noopener" class="p-title">心 <span class="t-py">xīn</span> — heart, mind</a>
+        <div class="p-meta">character · characters · updated 2026-04-18</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/xin1_心.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/xue2_学.html" target="_blank" rel="noopener" class="p-title">学 <span class="t-py">xué</span> — to study, to learn, learning</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/xue2_学.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/yan2_言.html" target="_blank" rel="noopener" class="p-title">言 <span class="t-py">yán</span> — speech, word, language</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/yan2_言.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/yao4_要.html" target="_blank" rel="noopener" class="p-title">要 <span class="t-py">yào</span> — to want, must, essential</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <ul class="findings-list"><li class="f-warn"><span class="f-level">WARN</span> radical '女' differs from reference '覀' for '要' (may be a system choice — verify)</li></ul>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/yao4_要.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/you3_有.html" target="_blank" rel="noopener" class="p-title">有 <span class="t-py">yǒu</span> — to have, to exist</a>
+        <div class="p-meta">character · characters · updated 2026-04-18</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/you3_有.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/yu3_语.html" target="_blank" rel="noopener" class="p-title">语 <span class="t-py">yǔ</span> — language, speech, words</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/yu3_语.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/yue4_月.html" target="_blank" rel="noopener" class="p-title">月 <span class="t-py">yuè</span> — moon, month</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/yue4_月.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/zai4_再.html" target="_blank" rel="noopener" class="p-title">再 <span class="t-py">zài</span> — again, then, further</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/zai4_再.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/zai4_在.html" target="_blank" rel="noopener" class="p-title">在 <span class="t-py">zài</span> — to be at, located, in progress</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/zai4_在.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/zhi1_之.html" target="_blank" rel="noopener" class="p-title">之 <span class="t-py">zhī</span> — of, going, this — the classical connective</a>
+        <div class="p-meta">character · characters · updated 2026-04-20</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/zhi1_之.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/zhong1_中.html" target="_blank" rel="noopener" class="p-title">中 <span class="t-py">zhōng</span> — middle, China, to hit the mark</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/zhong1_中.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/zi4_字.html" target="_blank" rel="noopener" class="p-title">字 <span class="t-py">zì</span> — character, written word</a>
+        <div class="p-meta">character · characters · updated 2026-04-18</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/zi4_字.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="character">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../characters/zou3_走.html" target="_blank" rel="noopener" class="p-title">走 <span class="t-py">zǒu</span> — to walk, to go, to leave</a>
+        <div class="p-meta">character · characters · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/characters/zou3_走.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="vocab">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../chengyu/huashetianzu_画蛇添足.html" target="_blank" rel="noopener" class="p-title">画蛇添足 · Drawing Legs on a Snake</a>
+        <div class="p-meta">vocab · chengyu · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/chengyu/huashetianzu_画蛇添足.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="vocab">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../chengyu/kezhouqiujian_刻舟求剑.html" target="_blank" rel="noopener" class="p-title">刻舟求剑 · Carving the Boat to Find the Sword</a>
+        <div class="p-meta">vocab · chengyu · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/chengyu/kezhouqiujian_刻舟求剑.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="vocab">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../chengyu/maodun_矛盾.html" target="_blank" rel="noopener" class="p-title">矛盾 · Contradiction</a>
+        <div class="p-meta">vocab · chengyu · updated 2026-04-18</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/chengyu/maodun_矛盾.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="vocab">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../chengyu/mituzhifan_迷途知返.html" target="_blank" rel="noopener" class="p-title">迷途知返 · To Realise You Are Lost and Turn Back</a>
+        <div class="p-meta">vocab · chengyu · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/chengyu/mituzhifan_迷途知返.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="vocab">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../chengyu/saiwengshima_塞翁失马.html" target="_blank" rel="noopener" class="p-title">塞翁失马 · The Old Man at the Frontier Loses His Horse</a>
+        <div class="p-meta">vocab · chengyu · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/chengyu/saiwengshima_塞翁失马.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="vocab">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../chengyu/shouzhudaitu_守株待兔.html" target="_blank" rel="noopener" class="p-title">守株待兔 · Guarding the Stump, Waiting for Rabbits</a>
+        <div class="p-meta">vocab · chengyu · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/chengyu/shouzhudaitu_守株待兔.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="vocab">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../chengyu/wuruqitu_误入歧途.html" target="_blank" rel="noopener" class="p-title">误入歧途 · To Stray onto the Wrong Road</a>
+        <div class="p-meta">vocab · chengyu · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/chengyu/wuruqitu_误入歧途.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="vocab">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../chengyu/yeggonghalong_叶公好龙.html" target="_blank" rel="noopener" class="p-title">叶公好龙 · Lord Ye Loves Dragons</a>
+        <div class="p-meta">vocab · chengyu · updated 2026-04-18</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/chengyu/yeggonghalong_叶公好龙.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="vocab">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../chengyu/yugongyishan_愚公移山.html" target="_blank" rel="noopener" class="p-title">愚公移山 · The Foolish Old Man Moves the Mountains</a>
+        <div class="p-meta">vocab · chengyu · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/chengyu/yugongyishan_愚公移山.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="vocab">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../chengyu/yujiegoulong_欲速则不达.html" target="_blank" rel="noopener" class="p-title">欲速则不达 · Haste Does Not Bring Success</a>
+        <div class="p-meta">vocab · chengyu · updated 2026-04-18</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/chengyu/yujiegoulong_欲速则不达.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="vocab">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../vocab/biji_笔记.html" target="_blank" rel="noopener" class="p-title">笔记 · notes, jottings</a>
+        <div class="p-meta">vocab · vocab · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/vocab/biji_笔记.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="vocab">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../vocab/bijiao_比较.html" target="_blank" rel="noopener" class="p-title">比较 · to compare; relatively, fairly</a>
+        <div class="p-meta">vocab · vocab · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/vocab/bijiao_比较.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="vocab">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../vocab/chadao_茶道.html" target="_blank" rel="noopener" class="p-title">茶道 · the way of tea</a>
+        <div class="p-meta">vocab · vocab · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/vocab/chadao_茶道.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="vocab">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../vocab/chaju_茶具.html" target="_blank" rel="noopener" class="p-title">茶具 · Tea Implements</a>
+        <div class="p-meta">vocab · vocab · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/vocab/chaju_茶具.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="vocab">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../vocab/chanpin_产品.html" target="_blank" rel="noopener" class="p-title">产品 · product, manufactured good</a>
+        <div class="p-meta">vocab · vocab · updated 2026-04-20</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/vocab/chanpin_产品.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="vocab">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../vocab/chunjie_春节.html" target="_blank" rel="noopener" class="p-title">春节 · Spring Festival</a>
+        <div class="p-meta">vocab · vocab · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/vocab/chunjie_春节.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="vocab">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../vocab/daode_道德.html" target="_blank" rel="noopener" class="p-title">道德 · morality, ethics, virtue</a>
+        <div class="p-meta">vocab · vocab · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/vocab/daode_道德.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="vocab">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../vocab/dongxi_东西.html" target="_blank" rel="noopener" class="p-title">东西 · things</a>
+        <div class="p-meta">vocab · vocab · updated 2026-04-18</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/vocab/dongxi_东西.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="vocab">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../vocab/fengshui_风水.html" target="_blank" rel="noopener" class="p-title">风水 · wind and water</a>
+        <div class="p-meta">vocab · vocab · updated 2026-04-18</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/vocab/fengshui_风水.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="vocab">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../vocab/fengsu_风俗.html" target="_blank" rel="noopener" class="p-title">风俗 · customs, traditions, folk practices</a>
+        <div class="p-meta">vocab · vocab · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/vocab/fengsu_风俗.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="vocab">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../vocab/gongfu_功夫.html" target="_blank" rel="noopener" class="p-title">功夫 · effort, skill over time</a>
+        <div class="p-meta">vocab · vocab · updated 2026-04-18</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/vocab/gongfu_功夫.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="vocab">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../vocab/gongfucha_工夫茶.html" target="_blank" rel="noopener" class="p-title">工夫茶 · Gongfu Tea</a>
+        <div class="p-meta">vocab · vocab · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/vocab/gongfucha_工夫茶.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="vocab">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../vocab/guanxi_关系.html" target="_blank" rel="noopener" class="p-title">关系 · relationship, connections</a>
+        <div class="p-meta">vocab · vocab · updated 2026-04-18</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/vocab/guanxi_关系.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="vocab">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../vocab/gushi_故事.html" target="_blank" rel="noopener" class="p-title">故事 · story, tale, narrative</a>
+        <div class="p-meta">vocab · vocab · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/vocab/gushi_故事.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="vocab">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../vocab/hanzi_汉字.html" target="_blank" rel="noopener" class="p-title">汉字 · Chinese characters</a>
+        <div class="p-meta">vocab · vocab · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/vocab/hanzi_汉字.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="vocab">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../vocab/jianghu_江湖.html" target="_blank" rel="noopener" class="p-title">江湖 · rivers and lakes</a>
+        <div class="p-meta">vocab · vocab · updated 2026-04-18</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/vocab/jianghu_江湖.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="vocab">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../vocab/jiangshan_江山.html" target="_blank" rel="noopener" class="p-title">江山 · rivers and mountains, the realm</a>
+        <div class="p-meta">vocab · vocab · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/vocab/jiangshan_江山.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="vocab">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../vocab/jieqi_节气.html" target="_blank" rel="noopener" class="p-title">节气 · the 24 solar terms</a>
+        <div class="p-meta">vocab · vocab · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/vocab/jieqi_节气.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="vocab">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../vocab/jingju_京剧.html" target="_blank" rel="noopener" class="p-title">京剧 · Peking Opera</a>
+        <div class="p-meta">vocab · vocab · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/vocab/jingju_京剧.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="vocab">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../vocab/keqi_客气.html" target="_blank" rel="noopener" class="p-title">客气 · politeness, ceremony</a>
+        <div class="p-meta">vocab · vocab · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/vocab/keqi_客气.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="vocab">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../vocab/li3_礼.html" target="_blank" rel="noopener" class="p-title">礼 · ritual, propriety, gift, courtesy</a>
+        <div class="p-meta">vocab · vocab · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/vocab/li3_礼.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="vocab">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../vocab/mianzi_面子.html" target="_blank" rel="noopener" class="p-title">面子 · face, honor</a>
+        <div class="p-meta">vocab · vocab · updated 2026-04-18</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/vocab/mianzi_面子.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="vocab">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../vocab/mingyun_命运.html" target="_blank" rel="noopener" class="p-title">命运 · fate, destiny</a>
+        <div class="p-meta">vocab · vocab · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/vocab/mingyun_命运.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="vocab">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../vocab/putonghua_普通话.html" target="_blank" rel="noopener" class="p-title">普通话 · Mandarin Chinese</a>
+        <div class="p-meta">vocab · vocab · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/vocab/putonghua_普通话.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="vocab">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../vocab/qigong_气功.html" target="_blank" rel="noopener" class="p-title">气功 · qigong</a>
+        <div class="p-meta">vocab · vocab · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/vocab/qigong_气功.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="vocab">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../vocab/ren2_仁.html" target="_blank" rel="noopener" class="p-title">仁 · humaneness, benevolence</a>
+        <div class="p-meta">vocab · vocab · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/vocab/ren2_仁.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="vocab">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../vocab/rensheng_人生.html" target="_blank" rel="noopener" class="p-title">人生 · human life; one's life journey</a>
+        <div class="p-meta">vocab · vocab · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/vocab/rensheng_人生.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="vocab">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../vocab/shengchan_生产.html" target="_blank" rel="noopener" class="p-title">生产 · to produce, production, manufacturing</a>
+        <div class="p-meta">vocab · vocab · updated 2026-04-20</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/vocab/shengchan_生产.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="vocab">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../vocab/shici_诗词.html" target="_blank" rel="noopener" class="p-title">诗词 · Chinese poetry</a>
+        <div class="p-meta">vocab · vocab · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/vocab/shici_诗词.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="vocab">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../vocab/shijian_时间.html" target="_blank" rel="noopener" class="p-title">时间 · time</a>
+        <div class="p-meta">vocab · vocab · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/vocab/shijian_时间.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="vocab">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../vocab/shufa_书法.html" target="_blank" rel="noopener" class="p-title">书法 · calligraphy</a>
+        <div class="p-meta">vocab · vocab · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/vocab/shufa_书法.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="vocab">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../vocab/tianming_天命.html" target="_blank" rel="noopener" class="p-title">天命 · the Mandate of Heaven</a>
+        <div class="p-meta">vocab · vocab · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/vocab/tianming_天命.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="vocab">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../vocab/tianxia_天下.html" target="_blank" rel="noopener" class="p-title">天下 · all under heaven</a>
+        <div class="p-meta">vocab · vocab · updated 2026-04-18</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/vocab/tianxia_天下.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="vocab">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../vocab/wushu_武术.html" target="_blank" rel="noopener" class="p-title">武术 · martial arts</a>
+        <div class="p-meta">vocab · vocab · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/vocab/wushu_武术.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="vocab">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../vocab/xiao4_孝.html" target="_blank" rel="noopener" class="p-title">孝 · filial piety</a>
+        <div class="p-meta">vocab · vocab · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/vocab/xiao4_孝.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="vocab">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../vocab/yinyang_阴阳.html" target="_blank" rel="noopener" class="p-title">阴阳 · yin and yang</a>
+        <div class="p-meta">vocab · vocab · updated 2026-04-18</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/vocab/yinyang_阴阳.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="vocab">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../vocab/yisi_意思.html" target="_blank" rel="noopener" class="p-title">意思 · meaning, intention</a>
+        <div class="p-meta">vocab · vocab · updated 2026-04-18</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/vocab/yisi_意思.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="vocab">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../vocab/yuanfen_缘分.html" target="_blank" rel="noopener" class="p-title">缘分 · karmic connection</a>
+        <div class="p-meta">vocab · vocab · updated 2026-04-18</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/vocab/yuanfen_缘分.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="vocab">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../vocab/zhongguohua_中国画.html" target="_blank" rel="noopener" class="p-title">中国画 · Chinese painting</a>
+        <div class="p-meta">vocab · vocab · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/vocab/zhongguohua_中国画.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+    <tr class="row-pending" data-status="pending" data-type="vocab">
+      <td class="c-status"><span class="chip chip-pending">审校中 pending</span></td>
+      <td class="c-title">
+        <a href="../vocab/zhongyi_中医.html" target="_blank" rel="noopener" class="p-title">中医 · Traditional Chinese Medicine</a>
+        <div class="p-meta">vocab · vocab · updated 2026-04-19</div>
+        
+      </td>
+      <td class="c-findings">
+        <span class="no-findings">—</span>
+      </td>
+      <td class="c-actions">
+        <a class="action-link" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/content/vocab/zhongyi_中医.md" target="_blank" rel="noopener">edit source</a>
+      </td>
+    </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <script>
+    (function() {
+      const rows = Array.from(document.querySelectorAll('#review-rows tr'));
+      const fStatus = document.getElementById('filter-status');
+      const fType = document.getElementById('filter-type');
+      const fFindings = document.getElementById('filter-findings');
+      const fSearch = document.getElementById('filter-search');
+      function apply() {
+        const s = fStatus.value, t = fType.value;
+        const onlyF = fFindings.checked;
+        const q = fSearch.value.trim().toLowerCase();
+        for (const r of rows) {
+          let show = true;
+          if (s && r.dataset.status !== s) show = false;
+          if (t && r.dataset.type !== t) show = false;
+          if (onlyF && !r.querySelector('.findings-list')) show = false;
+          if (q && !r.textContent.toLowerCase().includes(q)) show = false;
+          r.style.display = show ? '' : 'none';
+        }
+      }
+      [fStatus, fType, fFindings, fSearch].forEach(el => el.addEventListener('input', apply));
+    })();
+  </script>
+  </div>
+</body>
+</html>
