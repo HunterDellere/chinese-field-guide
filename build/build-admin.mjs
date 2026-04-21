@@ -28,12 +28,22 @@ const ROOT = path.resolve(__dirname, '..');
 
 const entriesPath  = path.join(ROOT, 'data', 'entries.json');
 const findingsPath = path.join(ROOT, 'data', '_admin', 'findings.json');
+const schemaPath   = path.join(ROOT, 'content', '_schema', 'entry.schema.json');
 const outDir  = path.join(ROOT, 'pages', '_admin');
 const outPath = path.join(outDir, 'review.html');
 
 if (!fs.existsSync(entriesPath)) {
   console.error('build-admin: data/entries.json missing — run `npm run build` first.');
   process.exit(1);
+}
+
+// Review states are the source of truth for the state filter and any stats.
+// Derived from the frontmatter schema so adding/renaming a state in the schema
+// automatically updates the admin UI instead of silently diverging.
+const schema = JSON.parse(fs.readFileSync(schemaPath, 'utf8'));
+const REVIEW_STATES = [...(schema.properties?.content_review?.enum || []), 'missing'];
+if (!REVIEW_STATES.includes('verified') || !REVIEW_STATES.includes('pending')) {
+  throw new Error(`build-admin: schema.content_review.enum missing expected states; got ${JSON.stringify(REVIEW_STATES)}`);
 }
 
 // findings.json may not exist yet (first run). Use empty scaffold.
@@ -236,16 +246,23 @@ function pageRowHtml(pagePath, r, rowFindings, includeState = false) {
 }
 
 // ── Tab: Needs Review ─────────────────────────────────────────────────────────
-// Combines: review state issues (missing/unverified/pending) + any ERROR finding across all categories
-const needsReviewEntries = reviewable
-  .filter(([, r]) => (r.content_review || 'missing') !== 'verified')
+// Shows every reviewable (complete) entry, sorted so items needing attention
+// (missing / unverified / pending) come first and verified entries come last.
+// The state filter lets you narrow to any single review state — including
+// verified — so this tab also serves as the "all entries" browser.
+const allReviewableEntries = reviewable
+  .slice()
   .sort((a, b) => {
-    const order = { missing: 0, unverified: 1, pending: 2 };
+    const order = { missing: 0, unverified: 1, pending: 2, verified: 3 };
     const ka = a[1].content_review || 'missing';
     const kb = b[1].content_review || 'missing';
     if (order[ka] !== order[kb]) return order[ka] - order[kb];
     return a[0].localeCompare(b[0]);
   });
+
+const needsAttentionEntries = allReviewableEntries.filter(
+  ([, r]) => (r.content_review || 'missing') !== 'verified'
+);
 
 // Also entries with any ERROR finding (not already in the reviewable list)
 const errorPaths = new Set();
@@ -256,14 +273,14 @@ for (const f of findings.filter(f => f.level === 'ERROR')) {
     : f.file;
   if (entries.find(e => e.path === pagesPath)) errorPaths.add(pagesPath);
 }
-const needsReviewRows = needsReviewEntries.map(([p, r]) => {
+const needsReviewRows = allReviewableEntries.map(([p, r]) => {
   const contentPath = p.replace(/^pages\//, 'content/').replace(/\.html$/, '.md');
   const rowFindings = [...(findingsByFile[contentPath] || []), ...(findingsByFile[p] || [])];
   return pageRowHtml(p, r, rowFindings, true);
 }).join('');
 
 const errorOnlyRows = [...errorPaths]
-  .filter(p => !needsReviewEntries.some(([ep]) => ep === p))
+  .filter(p => !allReviewableEntries.some(([ep]) => ep === p))
   .map(p => {
     const r = review[p] || {};
     const contentPath = p.replace(/^pages\//, 'content/').replace(/\.html$/, '.md');
@@ -874,7 +891,9 @@ document.addEventListener('DOMContentLoaded', function() {
 
 function filterBarHtml(tabId, includeStateFilter = false) {
   const stateOpts = includeStateFilter
-    ? `<label>State <select class="f-status"><option value="">all states</option><option>missing</option><option>unverified</option><option>pending</option><option>verified</option></select></label><div class="filter-divider"></div>`
+    ? `<label>State <select class="f-status"><option value="">all states</option>${
+        REVIEW_STATES.map(s => `<option>${esc(s)}</option>`).join('')
+      }</select></label><div class="filter-divider"></div>`
     : '';
   return `<div class="filter-bar">
     ${stateOpts}
@@ -917,17 +936,15 @@ function tabPanelHtml(tabId, label, descHtml, contentHtml) {
 
 // ── Assemble all tab panels ───────────────────────────────────────────────────
 
-const nrCount = needsReviewEntries.length + [...errorPaths].filter(p => !needsReviewEntries.some(([ep]) => ep === p)).length;
+const nrCount = needsAttentionEntries.length + [...errorPaths].filter(p => !allReviewableEntries.some(([ep]) => ep === p)).length;
 const needsDesc = nrCount === 0
-  ? 'All entries are verified and clean. New entries or errors will appear here.'
-  : `Entries with unverified factual review state, plus any entry carrying an ERROR finding.`;
+  ? 'All reviewable entries are verified. Use the state filter to browse verified entries.'
+  : `Unverified factual-review entries plus any entry with an ERROR finding. Use the state filter to also browse verified entries.`;
 
 const panelNeeds = tabPanelHtml('needs-review', 'Needs Review',
   needsDesc + ` <span class="kbd">j</span><span class="kbd">k</span> navigate · <span class="kbd">Enter</span> inspect · <span class="kbd">x</span> resolve · <span class="kbd">/</span> search`,
   filterBarHtml('needs-review', true) +
-  (nrCount === 0
-    ? `<div class="empty-state"><div class="es-icon">✓</div><div class="es-title">All clear</div><div class="es-body">Every entry is verified and no ERROR findings are active. Use the other tabs to browse warnings and info notes.</div></div>`
-    : tableHtml(needsReviewRows + errorOnlyRows, true))
+  tableHtml(needsReviewRows + errorOnlyRows, true)
 );
 
 function buildTabPanel(tabDef) {
@@ -982,7 +999,7 @@ const TAB_LABELS = {
 const tabButtonsHtml = TAB_DEFS.map(t => {
   let badgeHtml = '';
   if (t.id === 'needs-review') {
-    const nr = needsReviewEntries.length + [...errorPaths].filter(p => !needsReviewEntries.some(([ep]) => ep === p)).length;
+    const nr = needsAttentionEntries.length + [...errorPaths].filter(p => !allReviewableEntries.some(([ep]) => ep === p)).length;
     if (nr > 0) badgeHtml = `<span class="tab-badge tb-err">${nr}</span>`;
   } else if (t.categories) {
     const errs  = t.categories.reduce((s, c) => s + ((catCounts[c] || {}).ERROR || 0), 0);
@@ -1140,8 +1157,27 @@ var _reveal = setInterval(function () {
 </body>
 </html>`;
 
+// ── Build-time invariants: catch manual edits that silently break the UI ─────
+// If you rename a tab id, tweak TAB_LABELS, or reorder the state filter and
+// one of these assertions throws, the build fails with a clear message.
+for (const t of TAB_DEFS) {
+  if (!TAB_LABELS[t.id]) {
+    throw new Error(`build-admin: TAB_DEFS has id '${t.id}' with no matching TAB_LABELS entry`);
+  }
+}
+for (const s of REVIEW_STATES) {
+  if (!html.includes(`<option>${s}</option>`)) {
+    throw new Error(`build-admin: review state '${s}' missing from the state filter <select> — filterBarHtml drift`);
+  }
+}
+const needsRowCount = (html.match(/<tr class="row /g) || []).length;
+const expectedMinRows = allReviewableEntries.length;
+if (needsRowCount < expectedMinRows) {
+  throw new Error(`build-admin: rendered only ${needsRowCount} rows but ${expectedMinRows} reviewable entries exist — row rendering drift`);
+}
+
 fs.mkdirSync(outDir, { recursive: true });
 fs.writeFileSync(outPath, html);
 
-const needsAttention = needsReviewEntries.length + [...errorPaths].length;
+const needsAttention = needsAttentionEntries.length + [...errorPaths].filter(p => !allReviewableEntries.some(([ep]) => ep === p)).length;
 console.log(`✓ build-admin: pages/_admin/review.html — ${needsAttention} items needing attention, ${findings.length} total findings`);
