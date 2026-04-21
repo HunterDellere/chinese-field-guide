@@ -304,6 +304,37 @@ function walk(dir) {
 
 walk(CONTENT);
 
+// ────────────── Coverage audit: warn about hanzi not in reference ──────────────
+// Any hanzi used in content/ but absent from hanzi-facts.json means the validator
+// silently skipped its claims. This is our "reference data is stale" alarm —
+// surfaces when new content uses characters outside the vendored subset.
+// Run `npm run refresh:reference` (optionally with --fetch) to expand coverage.
+{
+  const used = new Set();
+  const walkForChars = (dir) => {
+    for (const e of fs.readdirSync(dir, { withFileTypes: true })) {
+      if (e.name.startsWith('_')) continue;
+      const p = path.join(dir, e.name);
+      if (e.isDirectory()) walkForChars(p);
+      else if (e.name.endsWith('.md')) {
+        const src = fs.readFileSync(p, 'utf8');
+        for (const ch of src) {
+          const cp = ch.codePointAt(0);
+          if ((cp >= 0x4E00 && cp <= 0x9FFF) || (cp >= 0x3400 && cp <= 0x4DBF)) used.add(ch);
+        }
+      }
+    }
+  };
+  walkForChars(CONTENT);
+  const uncovered = [];
+  for (const ch of used) if (!FACTS[ch]) uncovered.push(ch);
+  if (uncovered.length > 0) {
+    emit('WARN', 'data/_reference/hanzi-facts.json',
+      `${uncovered.length} hanzi appear in content/ but have no reference entry: ${uncovered.slice(0, 40).join('')}${uncovered.length > 40 ? '…' : ''}. ` +
+      `Claims about these characters cannot be mechanically verified. Run 'npm run refresh:reference' after updating upstream data.`);
+  }
+}
+
 // ────────────── Report ──────────────
 const byLevel = { ERROR: [], WARN: [], INFO: [] };
 for (const f of findings) (byLevel[f.level] || []).push(f);

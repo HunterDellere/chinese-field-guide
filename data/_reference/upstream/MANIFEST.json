@@ -1,0 +1,29 @@
+{
+  "_note": "Raw upstream reference data vendored into this repo for durability. The site does not depend on network access to upstream mirrors at build time — these files are the source of truth for the derived filtered JSONs one directory up. Regenerate the filtered subsets with `npm run refresh:reference` (pass `--fetch` to pull fresh copies from upstream instead of using the local files).",
+  "files": [
+    {
+      "file": "makemeahanzi-dictionary.txt",
+      "source_url": "https://raw.githubusercontent.com/skishore/makemeahanzi/master/dictionary.txt",
+      "fetched": "2026-04-21",
+      "sha256": "744bb05d5b0742e9ee35c37791f94d56a173349b3367569e7ca11e510364d203",
+      "license": "LGPL-3.0-or-later (see LICENSE-makemeahanzi.txt)",
+      "description": "One JSON object per line per hanzi. Fields: character, pinyin[], decomposition (IDS), radical, etymology, definition. Derived from Unihan + CJKlib. Used for frontmatter cross-check and prose decomposition validation."
+    },
+    {
+      "file": "opencc-TSCharacters.txt",
+      "source_url": "https://raw.githubusercontent.com/BYVoid/OpenCC/master/data/dictionary/TSCharacters.txt",
+      "fetched": "2026-04-21",
+      "sha256": "ad870b4feeb494cfa7b3b05242bd79af574b22f6b2bdeb89a1633e4b50ed0a3c",
+      "license": "Apache-2.0 (see LICENSE-opencc.txt)",
+      "description": "Traditional → simplified character mapping. Tab-separated: trad<TAB>simp1 simp2 ..."
+    },
+    {
+      "file": "opencc-STCharacters.txt",
+      "source_url": "https://raw.githubusercontent.com/BYVoid/OpenCC/master/data/dictionary/STCharacters.txt",
+      "fetched": "2026-04-21",
+      "sha256": "9cedfb8bf13a220087103d9a96d9f56050c341c24a809cbce5c85c9045456557",
+      "license": "Apache-2.0 (see LICENSE-opencc.txt)",
+      "description": "Simplified → traditional character mapping. Tab-separated: simp<TAB>trad1 trad2 ..."
+    }
+  ]
+}

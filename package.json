@@ -7,6 +7,7 @@
     "build": "node build/build.mjs",
     "validate": "node build/validate.mjs",
     "validate:facts": "node build/validate-facts.mjs",
+    "refresh:reference": "node scripts/refresh-reference.mjs",
     "check": "node build/check.mjs && node build/validate-facts.mjs",
     "verify": "npm run validate && npm run build && npm run check",
     "draft": "node build/draft.mjs",

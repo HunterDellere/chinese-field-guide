@@ -52,19 +52,25 @@ Work through this list, using a reference like Outlier Obscure (Pleco), Wenlin, 
 
 ---
 
-## Reference data
+## Reference data (durable, no network at build time)
 
-The build uses these vendored files in `data/_reference/`:
+The build reads local files only. Raw upstream sources are committed under `data/_reference/upstream/` with SHA256 checksums in `MANIFEST.json` and license files:
 
-- `hanzi-facts.json` — Unihan + CC-CEDICT + IDS decomposition for every hanzi used on the site
-- `radical-variants.json` — manual equivalence groups (⺮↔竹 etc.)
-- `simp-trad-pairs.json` — simp↔trad pairs derived from OpenCC
+- `upstream/makemeahanzi-dictionary.txt` — one JSON entry per hanzi (pinyin, IDS decomposition, radical, etymology). Upstream: github.com/skishore/makemeahanzi. Derived from Unihan + CJKlib. Licensed LGPL-3.0-or-later.
+- `upstream/opencc-TSCharacters.txt` / `opencc-STCharacters.txt` — simp↔trad mappings. Upstream: github.com/BYVoid/OpenCC. Licensed Apache-2.0.
 
-To re-seed after adding new content:
+Derived (committed) subsets consumed by the build:
+
+- `hanzi-facts.json` — filtered to hanzi actually used on the site (~4,300 entries, ~840 KB).
+- `simp-trad-pairs.json` — ~1,500 simp↔trad pairs relevant to site scope.
+- `radical-variants.json` — hand-curated component equivalence groups (⺮↔竹, 钅↔金, 礻↔示, 辶↔辵, 肉↔月↔⺼, etc.). Not derived from any upstream; fully local.
+
+Refresh workflow:
 
 ```
-node -e "require('./build/build.mjs')"   # first, ensure content is current
-# then regenerate hanzi-facts.json from upstream dictionary.txt if new chars appear.
+npm run refresh:reference              # regenerate derived JSONs from local upstream copies (offline)
+npm run refresh:reference -- --fetch   # re-download upstream first, then regenerate
+npm run refresh:reference -- --verify  # verify upstream file SHA256s match MANIFEST.json
 ```
 
-(A proper `scripts/refresh-reference.mjs` is a future task; for now the source URLs are noted in `build/validate-facts.mjs`.)
+`validate-facts.mjs` emits a WARNing listing any hanzi that appears in content but has no entry in `hanzi-facts.json`. If that list grows after you add content, run `npm run refresh:reference` (or `--fetch` for fresh upstream). For hanzi that never appear in upstream (Japanese shinjitai variants used in comparison, rare obsolete characters), the warning is informational — those claims just won't be mechanically verified.

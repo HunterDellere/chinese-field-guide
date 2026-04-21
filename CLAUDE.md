@@ -319,7 +319,15 @@ Every character and vocab page carries a `factual_review` frontmatter field (`ve
 
 Before flipping a page from `pending` to `verified`: follow the checklist in `templates/_drafting/factual-review.md`, populate `factual_sources` (e.g. `['Outlier', 'Wenlin', 'Shuōwén']`), and bump `updated`.
 
-To refresh reference data after adding content with new hanzi, re-run the vendoring step documented at the top of `build/validate-facts.mjs`.
+### Reference data is durable (no network dependency at build time)
+
+The raw upstream source files (makemeahanzi dictionary, OpenCC simp↔trad tables) are **committed to this repo** under `data/_reference/upstream/` with license files and a `MANIFEST.json` that records each file's source URL, fetch date, and SHA256. The build only reads these local files — upstream repositories going away does not break the build.
+
+- `npm run refresh:reference` — regenerate `hanzi-facts.json` and `simp-trad-pairs.json` from the committed upstream files (offline, reproducible).
+- `npm run refresh:reference -- --fetch` — re-download raw upstream files first (with retry/backoff), then regenerate. Updates manifest SHA256s.
+- `npm run refresh:reference -- --verify` — verify committed upstream files match the SHA256s in the manifest. Use in CI to detect tampering.
+
+`validate-facts.mjs` also emits a coverage WARNing when content uses hanzi that aren't in `hanzi-facts.json`, so if new content drifts beyond the vendored subset, you'll notice at check-time rather than silently lose validation coverage.
 
 ---
 
