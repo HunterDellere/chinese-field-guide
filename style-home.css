@@ -309,41 +309,6 @@
     letter-spacing: 0.14em; color: var(--ink-5); margin-top: auto; padding-top: 0.55rem; display: block;
   }
 
-  /* ── Category jump-strip — compact pill row at top of Browse ── */
-  .cat-jumpstrip {
-    display: flex; flex-wrap: wrap; gap: 0.4rem;
-    margin: 0.75rem 0 0;
-  }
-  .jumpstrip-chip {
-    display: inline-flex; align-items: center; gap: 0.35rem;
-    padding: 0.28rem 0.7rem 0.28rem 0.55rem;
-    background: var(--papyrus); border: 1px solid var(--rule);
-    border-radius: 20px; text-decoration: none; color: var(--ink-3);
-    font-family: var(--font-ui); font-size: 0.8rem;
-    transition: background 0.12s, border-color 0.12s, color 0.12s;
-    white-space: nowrap;
-  }
-  .jumpstrip-chip:hover { background: var(--papyrus-3); border-color: var(--ochre); color: var(--ink); }
-  .jumpstrip-chip:focus-visible { outline: none; border-color: var(--ochre); box-shadow: 0 0 0 2px rgba(160,100,40,0.25); }
-  .js-glyph { font-family: var(--font-cn); font-weight: 700; font-size: 0.95rem; line-height: 1; color: var(--red); }
-  .js-name { font-size: 0.78rem; color: var(--ink-3); }
-  .js-count { font-family: var(--font-mono); font-size: 0.62rem; color: var(--ink-5); letter-spacing: 0.06em; margin-left: 0.1rem; }
-
-  .jumpstrip-chip[data-category="characters"] .js-glyph { color: var(--cat-characters); }
-  .jumpstrip-chip[data-category="vocab"]      .js-glyph { color: var(--cat-vocab); }
-  .jumpstrip-chip[data-category="grammar"]    .js-glyph { color: var(--cat-grammar); }
-  .jumpstrip-chip[data-category="religion"]   .js-glyph { color: var(--cat-religion); }
-  .jumpstrip-chip[data-category="philosophy"] .js-glyph { color: var(--cat-philosophy); }
-  .jumpstrip-chip[data-category="history"]    .js-glyph { color: var(--cat-history); }
-  .jumpstrip-chip[data-category="geography"]  .js-glyph { color: var(--cat-geography); }
-  .jumpstrip-chip[data-category="culture"]    .js-glyph { color: var(--cat-culture); }
-  .jumpstrip-chip[data-category="culinary"]   .js-glyph { color: var(--cat-culinary); }
-  .jumpstrip-chip[data-category="arts"]       .js-glyph { color: var(--cat-arts); }
-  .jumpstrip-chip[data-category="science"]    .js-glyph { color: var(--cat-science); }
-  .jumpstrip-chip[data-category="daily"]      .js-glyph { color: var(--cat-daily); }
-  .jumpstrip-chip[data-category="chengyu"]    .js-glyph { color: var(--cat-chengyu); }
-  .jumpstrip-chip[data-category="hubs"]       .js-glyph { color: var(--cat-hubs); }
-
   .recent-section { margin-bottom: 4rem; }
   .recent-grid {
     display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 0.9rem;

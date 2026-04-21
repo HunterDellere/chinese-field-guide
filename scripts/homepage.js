@@ -395,27 +395,6 @@
       }
     }
 
-    // ── category jump-strip (replaces the removed overview section) ──────────
-    // Compact pill-strip at the top of Browse: one chip per category with glyph,
-    // name, and count. Scrolls the category into view and expands it on click.
-    (function renderJumpstrip() {
-      const strip = document.getElementById("cat-jumpstrip");
-      if (!strip) return;
-      const frag = document.createDocumentFragment();
-      CAT_ORDER.forEach(key => {
-        const count = groups[key] ? groups[key].length : 0;
-        if (!count) return;
-        const meta = CATEGORY_META[key];
-        const chip = document.createElement("a");
-        chip.href = "#cat-" + key;
-        chip.className = "jumpstrip-chip";
-        chip.dataset.category = key;
-        chip.innerHTML = `<span class="js-glyph">${meta.cn}</span><span class="js-name">${meta.en}</span><span class="js-count">${count}</span>`;
-        frag.appendChild(chip);
-      });
-      strip.appendChild(frag);
-    })();
-
     // ── recent grid ────────────────────────────────────────────────────────────
     // Uses data/recent.json (sorted by updated desc at build time) so the order
     // is stable and meaningful — not re-derived from the full entry list.
