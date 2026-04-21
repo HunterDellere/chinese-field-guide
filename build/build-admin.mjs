@@ -223,6 +223,18 @@ function pageRowHtml(pagePath, r, rowFindings, includeState = false) {
   const ageDays = r.updated ? Math.round((Date.now() - new Date(r.updated)) / 86400000) : null;
   const ageStr  = ageDays !== null ? `${ageDays}d ago` : '';
 
+  // Broad searchable blob: everything a user might reasonably type. Includes
+  // the tone-stripped pinyin so searching "gan" matches "gǎn". Diacritics get
+  // stripped client-side too, so the raw pinyin stays here for completeness.
+  const pinyinNoTone = (r.pinyin || '').normalize('NFD').replace(/[̀-ͯ]/g, '');
+  const searchTokens = [
+    r.title, r.char, r.pinyin, pinyinNoTone,
+    r.type, r.category, r.desc, pagePath, status,
+    ...(r.tags || []),
+    ...(r.content_sources || []),
+    ...rowFindings.map(f => `${f.msg || ''} ${f.fix || ''} ${f.category || ''}`),
+  ].filter(Boolean).join(' ').toLowerCase();
+
   return `<tr class="row row-${esc(r.status || 'complete')}"
     data-status="${esc(r.content_review || 'missing')}"
     data-type="${esc(r.type || '')}"
@@ -231,6 +243,7 @@ function pageRowHtml(pagePath, r, rowFindings, includeState = false) {
     data-age="${ageDays !== null ? ageDays : 9999}"
     data-path="${esc(pagePath)}"
     data-title="${esc(r.title || pagePath)}"
+    data-search="${esc(searchTokens)}"
     role="button" tabindex="0" onclick="openDrawer('${pagePath.replace(/'/g, "\\'")}')" onkeydown="if(event.key==='Enter')openDrawer('${pagePath.replace(/'/g, "\\'")}')">
     ${includeState ? `<td class="c-state">${statusChipHtml(status)}</td>` : ''}
     <td class="c-title">
@@ -373,43 +386,92 @@ const CSS = `
 
   /* ── Header ── */
   .adm-header {
-    display: flex; align-items: center; gap: 1.25rem;
-    padding-bottom: 0.9rem; margin-bottom: 1.25rem;
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    align-items: center; gap: 1.25rem;
+    padding-bottom: 0.9rem; margin-bottom: 1rem;
     border-bottom: 1px solid var(--adm-rule);
   }
-  .adm-header-brand { font-family: var(--adm-serif); font-size: 1.25rem; letter-spacing: 0.02em; color: var(--adm-ink); line-height: 1.2; }
-  .adm-header-brand span { font-size: 0.8rem; font-style: italic; color: var(--adm-ink3); font-family: system-ui, sans-serif; margin-left: 0.4rem; }
-  .adm-header-meta { font-family: var(--adm-mono); font-size: 0.68rem; color: var(--adm-ink3); line-height: 1.8; }
-  .adm-header-meta .sep { margin: 0 0.4em; opacity: 0.4; }
-  .adm-header-right { margin-left: auto; display: flex; align-items: center; gap: 1rem; }
+  .adm-header-brand {
+    font-family: var(--adm-serif); font-size: 1.25rem;
+    letter-spacing: 0.02em; color: var(--adm-ink); line-height: 1.2;
+    display: flex; align-items: baseline; gap: 0.4rem;
+  }
+  .adm-header-brand .brand-cn { font-weight: 600; }
+  .adm-header-brand .brand-en {
+    font-size: 0.72rem; font-style: italic; color: var(--adm-ink3);
+    font-family: system-ui, sans-serif;
+  }
+  .adm-header-right { display: flex; align-items: center; gap: 1rem; justify-self: end; }
+  .adm-header-meta { font-family: var(--adm-mono); font-size: 0.66rem; color: var(--adm-ink3); line-height: 1.6; white-space: nowrap; }
+  .adm-header-meta .sep { margin: 0 0.35em; opacity: 0.4; }
   .show-resolved-label { font-size: 0.72rem; color: var(--adm-ink3); display: flex; align-items: center; gap: 0.3rem; cursor: pointer; }
   .adm-lock-out { font-family: var(--adm-mono); font-size: 0.68rem; color: var(--adm-ink3); cursor: pointer; text-decoration: underline; text-decoration-style: dotted; text-underline-offset: 2px; }
   .adm-lock-out:hover { color: var(--adm-ink); }
 
-  /* ── Stat bar (replaces summary strip + chips) ── */
+  /* ── Global search (header) ── */
+  .global-search-wrap {
+    position: relative; display: flex; align-items: center;
+    max-width: 520px; width: 100%;
+  }
+  .global-search-wrap::before {
+    content: '⌕'; position: absolute; left: 0.65rem;
+    color: var(--adm-ink3); font-size: 0.95rem; pointer-events: none;
+  }
+  #global-search {
+    flex: 1; padding: 0.48rem 2rem 0.48rem 1.9rem;
+    border: 1px solid var(--adm-rule); border-radius: 3px;
+    background: var(--adm-bg); color: var(--adm-ink);
+    font-family: inherit; font-size: 0.85rem;
+    transition: border-color 0.1s, box-shadow 0.1s;
+  }
+  #global-search:focus {
+    outline: none; border-color: var(--adm-ink2);
+    box-shadow: 0 0 0 2px rgba(30,26,22,0.08);
+  }
+  #global-search::placeholder { color: var(--adm-ink3); font-style: italic; }
+  #global-search-clear {
+    position: absolute; right: 0.3rem; top: 50%; transform: translateY(-50%);
+    border: none; background: transparent; cursor: pointer;
+    font-family: var(--adm-mono); font-size: 0.95rem; color: var(--adm-ink3);
+    padding: 0.15rem 0.4rem; border-radius: 2px; line-height: 1;
+  }
+  #global-search-clear:hover { color: var(--adm-ink); background: var(--adm-bg2); }
+  .gs-hint {
+    position: absolute; right: 2rem; top: 50%; transform: translateY(-50%);
+    font-family: var(--adm-mono); font-size: 0.6rem; color: var(--adm-ink3);
+    border: 1px solid var(--adm-rule); border-radius: 2px;
+    padding: 0.02rem 0.3rem; background: var(--adm-bg2); pointer-events: none;
+  }
+  #global-search:focus + .gs-hint, #global-search:not(:placeholder-shown) + .gs-hint { display: none; }
+  @media (max-width: 860px) {
+    .adm-header { grid-template-columns: 1fr auto; }
+    .global-search-wrap { grid-column: 1 / -1; max-width: none; }
+  }
+
+  /* ── Stat bar ── */
   .stat-bar {
     display: flex; align-items: stretch; gap: 0; flex-wrap: wrap;
     border: 1px solid var(--adm-rule); border-radius: 4px; overflow: hidden;
-    margin-bottom: 1.5rem; background: var(--adm-bg2);
+    margin-bottom: 1.25rem; background: var(--adm-bg2);
   }
   .stat-item {
     display: flex; flex-direction: column; align-items: center; justify-content: center;
-    padding: 0.55rem 1.1rem; min-width: 72px; gap: 0.1rem;
+    padding: 0.5rem 0.9rem; min-width: 72px; gap: 0.08rem;
     border-right: 1px solid var(--adm-rule); flex: 1;
   }
+  .stat-item.stat-clickable { cursor: pointer; transition: background 0.1s; }
+  .stat-item.stat-clickable:hover { background: rgba(0,0,0,0.03); }
   .stat-item:last-child { border-right: none; }
   .stat-item + .stat-item.stat-group-start { border-left: 2px solid var(--adm-rule); }
-  .stat-n { font-family: var(--adm-mono); font-size: 1.35rem; font-weight: 700; line-height: 1; }
-  .stat-l { font-size: 0.62rem; letter-spacing: 0.09em; text-transform: uppercase; color: var(--adm-ink3); margin-top: 0.15rem; }
+  .stat-n { font-family: var(--adm-mono); font-size: 1.2rem; font-weight: 700; line-height: 1; }
+  .stat-l { font-size: 0.6rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--adm-ink3); margin-top: 0.15rem; }
   .stat-item.s-verified .stat-n { color: var(--adm-green); }
   .stat-item.s-pending  .stat-n { color: var(--adm-amber); }
   .stat-item.s-unverified .stat-n { color: var(--adm-red); }
   .stat-item.s-err  .stat-n { color: var(--adm-red); }
   .stat-item.s-warn .stat-n { color: var(--adm-amber); }
-  .stat-item.stat-scope { flex: 0 0 auto; min-width: 0; padding: 0.35rem 0.65rem; justify-content: flex-end; border-right: none; }
-  .stat-item.stat-scope .stat-n { font-size: 0.75rem; color: var(--adm-ink3); }
-  .stat-item.stat-scope .stat-l { color: var(--adm-ink3); }
-  .stat-n-sm { font-size: 0.9rem !important; }
+  .stat-item.s-muted .stat-n { color: var(--adm-ink2); font-weight: 500; }
 
   /* ── Tabs ── */
   .tabs { display: flex; border-bottom: 1px solid var(--adm-rule); margin-bottom: 1rem; flex-wrap: wrap; gap: 0; }
@@ -446,28 +508,33 @@ const CSS = `
 
   /* ── Filter bar ── */
   .filter-bar {
-    display: flex; gap: 0.4rem; align-items: center; flex-wrap: wrap;
-    margin-bottom: 0.75rem; padding: 0.5rem 0.75rem;
+    display: flex; gap: 0.6rem; align-items: center; flex-wrap: wrap;
+    margin-bottom: 0.75rem; padding: 0.45rem 0.7rem;
     background: var(--adm-bg2); border: 1px solid var(--adm-rule); border-radius: 3px;
     font-size: 0.78rem;
   }
   .filter-bar label { display: flex; align-items: center; gap: 0.3rem; color: var(--adm-ink2); }
-  .filter-bar select, .filter-bar input[type="text"] {
+  .filter-bar select {
     padding: 0.2rem 0.4rem; border: 1px solid var(--adm-rule);
     background: var(--adm-bg); color: inherit; font-family: var(--adm-mono);
     font-size: 0.75rem; border-radius: 2px;
   }
-  .filter-bar input[type="text"] { width: 160px; }
   .filter-count { font-family: var(--adm-mono); font-size: 0.68rem; color: var(--adm-ink3); margin-left: 0.25rem; }
   .filter-divider { width: 1px; background: var(--adm-rule); align-self: stretch; margin: 0 0.15rem; }
   .filter-actions { display: flex; gap: 0.35rem; margin-left: auto; }
   .filter-actions button {
-    font-size: 0.7rem; padding: 0.2rem 0.5rem;
+    font-size: 0.7rem; padding: 0.22rem 0.55rem;
     border: 1px solid var(--adm-rule); background: var(--adm-bg);
     cursor: pointer; font-family: var(--adm-mono); color: var(--adm-ink2);
     border-radius: 2px;
   }
-  .filter-actions button:hover { background: rgba(0,0,0,0.05); }
+  .filter-actions button:hover { background: rgba(0,0,0,0.05); color: var(--adm-ink); }
+
+  /* Sticky filter bar so filters stay visible while scrolling a long table */
+  .tab-panel.active .filter-bar {
+    position: sticky; top: 0; z-index: 10;
+    box-shadow: 0 1px 0 var(--adm-rule);
+  }
 
   /* ── Table ── */
   .review-table { border-collapse: collapse; width: 100%; font-size: 0.82rem; }
@@ -620,28 +687,35 @@ function showTab(id) {
     p.classList.toggle('active', p.id === 'tab-' + id);
   });
   currentTab = id;
-  updateRowCounts();
+  // Re-apply filters in the newly active tab so global search/per-tab
+  // selectors narrow the rows correctly after a tab switch.
+  applyFilters(id);
 }
 
 var currentTab = 'needs-review';
 
-// ── Filter (per-tab) ─────────────────────────────────────────────────────────
+// ── Filter (global search + per-tab selectors) ───────────────────────────────
+// Strip combining diacritics so 'gan' matches 'gǎn'.
+function normalizeQuery(s) {
+  return String(s || '').normalize('NFD').replace(/[\\u0300-\\u036f]/g, '').toLowerCase().trim();
+}
+
 function applyFilters(tabId) {
-  var panel   = document.getElementById('tab-' + tabId);
+  var panel = document.getElementById('tab-' + tabId);
   if (!panel) return;
   var fStatus   = panel.querySelector('.f-status');
   var fType     = panel.querySelector('.f-type');
   var fLevel    = panel.querySelector('.f-level-sel');
   var fFindings = panel.querySelector('.f-findings');
-  var fSearch   = panel.querySelector('.f-search');
+  var globalSearch = document.getElementById('global-search');
   var showRes   = document.getElementById('show-resolved-global');
 
   var status  = fStatus   ? fStatus.value.trim()   : '';
-  var type    = fType     ? fType.value.trim()      : '';
-  var level   = fLevel    ? fLevel.value.trim()     : '';
-  var onlyF   = fFindings ? fFindings.checked       : false;
-  var q       = fSearch   ? fSearch.value.trim().toLowerCase() : '';
-  var showR   = showRes   ? showRes.checked          : false;
+  var type    = fType     ? fType.value.trim()     : '';
+  var level   = fLevel    ? fLevel.value.trim()    : '';
+  var onlyF   = fFindings ? fFindings.checked      : false;
+  var q       = globalSearch ? normalizeQuery(globalSearch.value) : '';
+  var showR   = showRes   ? showRes.checked        : false;
   var resolved = loadResolved();
 
   panel.querySelectorAll('tr.row').forEach(function(row) {
@@ -650,12 +724,33 @@ function applyFilters(tabId) {
     if (!showR && resolved[path]) { row.style.display = 'none'; return; }
     if (status && row.dataset.status !== status) show = false;
     if (type   && row.dataset.type   !== type)   show = false;
-    if (level  && row.dataset.level  !== level && !(level === 'ERROR' && row.dataset.level === 'ERROR')) show = false;
+    if (level  && row.dataset.level  !== level) show = false;
     if (onlyF  && !row.querySelector('.findings-list')) show = false;
-    if (q      && !row.textContent.toLowerCase().includes(q)) show = false;
+    if (q) {
+      var hay = row.dataset.search || '';
+      if (!hay.includes(q)) show = false;
+    }
     row.style.display = show ? '' : 'none';
   });
   updateRowCounts();
+}
+
+// Global search re-applies filters to EVERY panel so that switching tabs
+// while a search is active preserves the match set.
+function applyGlobalSearch() {
+  document.querySelectorAll('.tab-panel').forEach(function(p) {
+    applyFilters(p.id.replace('tab-', ''));
+  });
+}
+
+function resetFilters(tabId) {
+  var panel = document.getElementById('tab-' + tabId);
+  if (!panel) return;
+  ['.f-status', '.f-type', '.f-level-sel'].forEach(function(sel) {
+    var el = panel.querySelector(sel); if (el) el.value = '';
+  });
+  var cb = panel.querySelector('.f-findings'); if (cb) cb.checked = false;
+  applyFilters(tabId);
 }
 
 function updateRowCounts() {
@@ -845,7 +940,7 @@ document.addEventListener('keydown', function(e) {
   var focused = document.activeElement;
   var idx = rows.indexOf(focused);
 
-  if (e.key === '/' ) { e.preventDefault(); var fs = panel.querySelector('.f-search'); if(fs) fs.focus(); return; }
+  if (e.key === '/' ) { e.preventDefault(); var gs = document.getElementById('global-search'); if(gs) gs.focus(); return; }
   if (e.key === 'j' && !e.metaKey) { e.preventDefault(); var n = idx < rows.length-1 ? rows[idx+1] : rows[0]; if(n) n.focus(); return; }
   if (e.key === 'k' && !e.metaKey) { e.preventDefault(); var p = idx > 0 ? rows[idx-1] : rows[rows.length-1]; if(p) p.focus(); return; }
   if (e.key === 'Enter' && focused && focused.dataset.path) { openDrawer(focused.dataset.path); return; }
@@ -856,6 +951,17 @@ document.addEventListener('keydown', function(e) {
   }
 });
 
+// ── Jump from stat tile to Needs Review pre-filtered by state ───────────────
+function jumpToState(state) {
+  showTab('needs-review');
+  var panel = document.getElementById('tab-needs-review');
+  if (!panel) return;
+  var sel = panel.querySelector('.f-status');
+  if (sel) { sel.value = state; applyFilters('needs-review'); }
+  // Scroll the table into view in case the stat-bar was above the fold.
+  panel.scrollIntoView({ behavior: 'smooth', block: 'start' });
+}
+
 // ── Lock out ─────────────────────────────────────────────────────────────────
 function lockOut() {
   try { localStorage.removeItem('shuwu_key'); } catch {}
@@ -864,25 +970,41 @@ function lockOut() {
 
 // ── Init ──────────────────────────────────────────────────────────────────────
 document.addEventListener('DOMContentLoaded', function() {
-  // Wire filter inputs for every tab
+  // Global search: one input drives every panel.
+  var gs = document.getElementById('global-search');
+  if (gs) {
+    gs.addEventListener('input', applyGlobalSearch);
+    var clearBtn = document.getElementById('global-search-clear');
+    if (clearBtn) clearBtn.addEventListener('click', function() {
+      gs.value = ''; applyGlobalSearch(); gs.focus();
+    });
+  }
+
+  // Per-tab selector filters
   document.querySelectorAll('.tab-panel').forEach(function(panel) {
     var tabId = panel.id.replace('tab-', '');
-    panel.querySelectorAll('.f-status, .f-type, .f-level-sel, .f-findings, .f-search').forEach(function(el) {
+    panel.querySelectorAll('.f-status, .f-type, .f-level-sel, .f-findings').forEach(function(el) {
       el.addEventListener('input', function() { applyFilters(tabId); });
+      el.addEventListener('change', function() { applyFilters(tabId); });
     });
-    var showRes = document.getElementById('show-resolved-global');
-    if (showRes) showRes.addEventListener('change', function() { refreshResolvedUI(); applyFilters(tabId); });
     // Sort headers
     panel.querySelectorAll('th[data-sort]').forEach(function(th) {
       th.addEventListener('click', function() { sortTable(tabId, th.dataset.sort); });
     });
-    // Export button
+    // Export / reset buttons
     var exportBtn = panel.querySelector('.export-btn');
     if (exportBtn) exportBtn.addEventListener('click', function() { exportMarkdown(tabId); });
+    var resetBtn = panel.querySelector('.reset-btn');
+    if (resetBtn) resetBtn.addEventListener('click', function() { resetFilters(tabId); });
+  });
+
+  var showRes = document.getElementById('show-resolved-global');
+  if (showRes) showRes.addEventListener('change', function() {
+    refreshResolvedUI();
+    applyGlobalSearch();
   });
 
   refreshResolvedUI();
-  updateRowCounts();
   showTab('needs-review');
 });
 `;
@@ -900,10 +1022,10 @@ function filterBarHtml(tabId, includeStateFilter = false) {
     <label>Type <select class="f-type"><option value="">all types</option><option>character</option><option>vocab</option><option>topic</option><option>grammar</option><option>chengyu</option><option>hub</option></select></label>
     <label>Level <select class="f-level-sel"><option value="">all levels</option><option>ERROR</option><option>WARN</option><option>INFO</option></select></label>
     <label><input type="checkbox" class="f-findings"> Has findings</label>
-    <input type="text" class="f-search" placeholder="Search…" aria-label="Search entries">
     <span class="filter-count"></span>
     <div class="filter-actions">
-      <button class="export-btn">Export markdown</button>
+      <button class="reset-btn" type="button">Reset</button>
+      <button class="export-btn" type="button">Export markdown</button>
     </div>
   </div>`;
 }
@@ -938,11 +1060,11 @@ function tabPanelHtml(tabId, label, descHtml, contentHtml) {
 
 const nrCount = needsAttentionEntries.length + [...errorPaths].filter(p => !allReviewableEntries.some(([ep]) => ep === p)).length;
 const needsDesc = nrCount === 0
-  ? 'All reviewable entries are verified. Use the state filter to browse verified entries.'
-  : `Unverified factual-review entries plus any entry with an ERROR finding. Use the state filter to also browse verified entries.`;
+  ? 'All reviewable entries are verified. Use the state filter to browse any subset.'
+  : 'Every complete entry, sorted so items needing attention come first. Use the state filter to narrow to a single review state.';
 
-const panelNeeds = tabPanelHtml('needs-review', 'Needs Review',
-  needsDesc + ` <span class="kbd">j</span><span class="kbd">k</span> navigate · <span class="kbd">Enter</span> inspect · <span class="kbd">x</span> resolve · <span class="kbd">/</span> search`,
+const panelNeeds = tabPanelHtml('needs-review', 'All Entries',
+  needsDesc + ` <span class="kbd">/</span> search · <span class="kbd">j</span><span class="kbd">k</span> navigate · <span class="kbd">Enter</span> inspect · <span class="kbd">x</span> resolve`,
   filterBarHtml('needs-review', true) +
   tableHtml(needsReviewRows + errorOnlyRows, true)
 );
@@ -984,7 +1106,7 @@ const panelAnalytics = tabPanelHtml('analytics', 'Analytics',
 
 // ── Tabs header ───────────────────────────────────────────────────────────────
 const TAB_LABELS = {
-  'needs-review': 'Needs Review',
+  'needs-review': 'All Entries',
   'factual':      'Factual',
   'schema':       'Schema & Tags',
   'links':        'Links',
@@ -1076,41 +1198,50 @@ var _reveal = setInterval(function () {
 <div class="adm-wrap">
 
   <header class="adm-header">
-    <div class="adm-header-brand">审校台<span>Site Admin · 角落書屋</span></div>
-    <div class="adm-header-meta">
-      <span>findings updated ${esc(genTime)}</span>
-      <span class="sep">·</span>
-      <span>${summary.errors || 0} errors</span>
-      <span class="sep">·</span>
-      <span>${summary.warnings || 0} warnings</span>
-      <span class="sep">·</span>
-      <span>${summary.info || 0} info</span>
+    <div class="adm-header-brand">
+      <span class="brand-cn">书屋管理台</span>
+      <span class="brand-en">Admin · 角落書屋</span>
+    </div>
+    <div class="global-search-wrap">
+      <input id="global-search" type="text"
+             placeholder="Search entries by title, pinyin, char, tag, finding…"
+             autocomplete="off" spellcheck="false"
+             aria-label="Search all entries">
+      <span class="gs-hint">press /</span>
+      <button id="global-search-clear" type="button" aria-label="Clear search">×</button>
     </div>
     <div class="adm-header-right">
       <label class="show-resolved-label">
         <input type="checkbox" id="show-resolved-global"> Show resolved
       </label>
-      <div class="adm-lock-out" onclick="lockOut()">Lock out</div>
+      <div class="adm-lock-out" onclick="lockOut()" title="Clear key and return home">Lock out</div>
     </div>
   </header>
 
-  <!-- Stat bar: review state + severity counts + entry totals -->
+  <div class="adm-header-meta">
+    <span>findings updated ${esc(genTime)}</span>
+    <span class="sep">·</span>
+    <span>${summary.errors || 0} errors · ${summary.warnings || 0} warnings · ${summary.info || 0} info</span>
+  </div>
+
+  <!-- Stat bar: review state + severity counts + entry totals
+       Clickable tiles jump to the Needs Review tab and pre-filter by state. -->
   <div class="stat-bar">
-    <div class="stat-item s-verified">
+    <div class="stat-item s-verified stat-clickable" onclick="jumpToState('verified')" title="Show only verified entries">
       <span class="stat-n">${stateCounts.verified}</span>
       <span class="stat-l">Verified</span>
     </div>
-    <div class="stat-item s-pending">
+    <div class="stat-item s-pending stat-clickable" onclick="jumpToState('pending')" title="Show only pending entries">
       <span class="stat-n">${stateCounts.pending}</span>
       <span class="stat-l">Pending</span>
     </div>
-    <div class="stat-item s-unverified">
+    <div class="stat-item s-unverified stat-clickable" onclick="jumpToState('unverified')" title="Show only unverified entries">
       <span class="stat-n">${stateCounts.unverified}</span>
       <span class="stat-l">Unverified</span>
     </div>
-    <div class="stat-item stat-scope">
-      <span class="stat-n stat-n-sm">${reviewableCount}</span>
-      <span class="stat-l">reviewable</span>
+    <div class="stat-item s-muted stat-clickable" onclick="jumpToState('missing')" title="Show only entries with no review state">
+      <span class="stat-n">${stateCounts.missing}</span>
+      <span class="stat-l">Missing</span>
     </div>
     <div class="stat-item stat-group-start s-err">
       <span class="stat-n">${summary.errors || 0}</span>
@@ -1120,19 +1251,19 @@ var _reveal = setInterval(function () {
       <span class="stat-n">${summary.warnings || 0}</span>
       <span class="stat-l">Warnings</span>
     </div>
-    <div class="stat-item">
+    <div class="stat-item s-muted">
       <span class="stat-n">${summary.info || 0}</span>
       <span class="stat-l">Info</span>
     </div>
-    <div class="stat-item stat-group-start">
+    <div class="stat-item stat-group-start s-muted">
       <span class="stat-n">${completeCount}</span>
       <span class="stat-l">Complete</span>
     </div>
-    <div class="stat-item">
+    <div class="stat-item s-muted">
       <span class="stat-n">${stubCount}</span>
       <span class="stat-l">Stubs</span>
     </div>
-    <div class="stat-item">
+    <div class="stat-item s-muted">
       <span class="stat-n">${entries.length}</span>
       <span class="stat-l">Total</span>
     </div>

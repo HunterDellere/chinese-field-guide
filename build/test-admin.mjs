@@ -88,9 +88,13 @@ for (const p of reviewable) {
   if (failures.length > 10) break; // don't spam
 }
 
-// ── 4. Needs Review panel exists ────────────────────────────────────────────
+// ── 4. Primary entries panel exists ─────────────────────────────────────────
 check('needs-review panel present', html.includes('id="tab-needs-review"'));
-check('needs-review tab label',     html.includes('Needs Review'), 'tab label changed — update test-admin or TAB_LABELS');
+check('primary tab label',          html.includes('All Entries'), 'tab label changed — update test-admin or TAB_LABELS');
+
+// ── 5. Global search input present and rows carry data-search ───────────────
+check('global search input',        html.includes('id="global-search"'), 'global search input missing from header');
+check('rows carry data-search',     /data-search="/.test(html), 'row data-search attribute missing — search will not filter');
 
 // ── Report ──────────────────────────────────────────────────────────────────
 if (failures.length > 0) {
