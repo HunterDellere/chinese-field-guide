@@ -704,8 +704,8 @@ for (const e of entries) {
 
 // PWA manifest
 const manifest = {
-  name: 'Jiǎoluò Shūwū · 角落書屋',
-  short_name: 'Jiǎoluò Shūwū',
+  name: '角落書屋',
+  short_name: '角落書屋',
   description: 'Notes on Chinese language and civilisation — characters, vocabulary, grammar, history, philosophy, and the world they shaped.',
   start_url: '/',
   scope: '/',
