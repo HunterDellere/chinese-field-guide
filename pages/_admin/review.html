@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="robots" content="noindex,nofollow,noarchive,nosnippet">
-<title>Admin · Factual Review Dashboard · 角落書屋</title>
+<title>角落書屋</title>
 <link rel="stylesheet" href="../../style.css">
 <style>
   body { font-family: var(--font-body, system-ui, sans-serif); background: var(--paper, #f5ede0); color: var(--ink-2, #2a2420); padding: 2rem 1.5rem; max-width: 1400px; margin: 0 auto; }
@@ -61,13 +61,56 @@
   .filters input[type="text"] { padding: 0.3rem 0.5rem; border: 1px solid var(--rule, #c9bca4); font-family: var(--font-mono, monospace); font-size: 0.8rem; background: transparent; color: inherit; }
   .filters select { padding: 0.3rem 0.5rem; border: 1px solid var(--rule, #c9bca4); background: transparent; font-family: var(--font-mono, monospace); font-size: 0.8rem; }
   code { font-family: var(--font-mono, monospace); background: color-mix(in srgb, var(--ink-4, #6b5f4f) 8%, transparent); padding: 0.1rem 0.3rem; border-radius: 2px; font-size: 0.8rem; }
+  #admin-root { display: none; }
 </style>
+<script>
+// Passphrase gate. Failure closes silently (redirects home). Success persists in
+// localStorage so the gate is one-time-per-device. Plaintext never stored.
+(async function () {
+  var EXPECTED = '2092bbb3fd73f990c9d5d51a985634263ba212436a087ce4394461ea8704a4bf';
+  function sha(text) {
+    var buf = new TextEncoder().encode(text);
+    return crypto.subtle.digest('SHA-256', buf).then(function (h) {
+      return Array.from(new Uint8Array(h)).map(function (b) {
+        return b.toString(16).padStart(2, '0');
+      }).join('');
+    });
+  }
+  function goHome() { window.location.replace('../../index.html'); }
+  try {
+    if (localStorage.getItem('shuwu_key') === EXPECTED) {
+      document.documentElement.dataset.unlocked = '1';
+      return;
+    }
+  } catch (_) {}
+  // Prompt once. We only reach here if the user arrived via the 5-tap gesture
+  // (or guessed the URL). Either way, a wrong answer redirects home silently.
+  var entered = window.prompt('');
+  if (!entered) { goHome(); return; }
+  var hash = await sha(entered);
+  if (hash === EXPECTED) {
+    try { localStorage.setItem('shuwu_key', EXPECTED); } catch (_) {}
+    document.documentElement.dataset.unlocked = '1';
+  } else {
+    goHome();
+  }
+})();
+// Reveal body only once unlocked.
+var _reveal = setInterval(function () {
+  if (document.documentElement.dataset.unlocked === '1') {
+    clearInterval(_reveal);
+    var root = document.getElementById('admin-root');
+    if (root) root.style.display = 'block';
+  }
+}, 30);
+</script>
 </head>
 <body>
+  <div id="admin-root">
   <header class="admin-header">
     <h1>审校台 · Factual Review Dashboard</h1>
     <div class="subtitle">Not publicly linked. Bookmark this URL.</div>
-    <div class="meta">generated 2026-04-21T16:59:38.030Z · 0 errors, 7 warnings · 118 reviewable pages</div>
+    <div class="meta">generated 2026-04-21T17:19:07.735Z · 0 errors, 7 warnings · 118 reviewable pages</div>
   </header>
 
   <section class="admin-section">
@@ -1796,5 +1839,6 @@
       [fStatus, fType, fFindings, fSearch].forEach(el => el.addEventListener('input', apply));
     })();
   </script>
+  </div>
 </body>
 </html>

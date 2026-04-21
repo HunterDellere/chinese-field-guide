@@ -327,5 +327,42 @@ document.addEventListener('click', function (e) {
   }).catch(function () {});
 });
 </script>
+<script>
+// Intentionally undocumented. The colophon ornament's 屋 is the back door.
+(function () {
+  var svg = document.querySelector('.colophon-ornament');
+  if (!svg) return;
+  // Inject a transparent hit-rect covering the whole ornament so taps land
+  // reliably even on the whitespace between the painted strokes.
+  var NS = 'http://www.w3.org/2000/svg';
+  var hit = document.createElementNS(NS, 'rect');
+  hit.setAttribute('x', '0');
+  hit.setAttribute('y', '0');
+  hit.setAttribute('width', '200');
+  hit.setAttribute('height', '24');
+  hit.setAttribute('fill', 'transparent');
+  hit.setAttribute('pointer-events', 'all');
+  svg.appendChild(hit);
+  svg.style.cursor = 'default'; // no affordance change
+  var taps = [];
+  function onTap() {
+    var now = Date.now();
+    // Keep only taps in the last 1.5 seconds.
+    taps = taps.filter(function (t) { return now - t < 1500; });
+    taps.push(now);
+    if (taps.length >= 5) {
+      taps = [];
+      // Small fade, then navigate — no alert, no indicator.
+      svg.style.transition = 'opacity 180ms ease-out';
+      svg.style.opacity = '0';
+      setTimeout(function () {
+        window.location.href = 'pages/_admin/review.html';
+      }, 180);
+    }
+  }
+  // Click covers both mouse clicks and synthesized touch-clicks on modern browsers.
+  svg.addEventListener('click', onTap);
+})();
+</script>
 </body>
 </html>
