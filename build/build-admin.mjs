@@ -554,6 +554,25 @@ const CSS = `
   .review-table tr.row:focus { outline: 2px solid var(--adm-amber); outline-offset: -2px; }
   .review-table tr.row.resolved { opacity: 0.35; }
   .review-table tr.row.resolved td { text-decoration: line-through; }
+
+  /* Thin left-edge bar in the state color for quick visual scan.
+     Applied via the first child cell so it works regardless of whether
+     the State column is visible on the current tab. */
+  .review-table tr.row td:first-child { border-left: 3px solid transparent; }
+  .review-table tr.row[data-status="verified"]   td:first-child { border-left-color: var(--adm-green); }
+  .review-table tr.row[data-status="pending"]    td:first-child { border-left-color: var(--adm-amber); }
+  .review-table tr.row[data-status="unverified"] td:first-child { border-left-color: var(--adm-red); }
+  .review-table tr.row[data-status="missing"]    td:first-child { border-left-color: var(--adm-rule); }
+
+  /* No-matches empty row */
+  .no-matches-row td { text-align: center; color: var(--adm-ink3); padding: 1.25rem 0.65rem; }
+  .linkish {
+    border: none; background: transparent; cursor: pointer;
+    font: inherit; color: var(--adm-ink2); font-family: var(--adm-mono);
+    font-size: 0.72rem; text-decoration: underline dotted;
+    text-underline-offset: 2px; padding: 0; margin-left: 0.25rem;
+  }
+  .linkish:hover { color: var(--adm-ink); }
   .c-state   { width: 100px; white-space: nowrap; }
   .c-title   { width: 32%; }
   .c-findings { }
@@ -690,6 +709,7 @@ function showTab(id) {
   // Re-apply filters in the newly active tab so global search/per-tab
   // selectors narrow the rows correctly after a tab switch.
   applyFilters(id);
+  saveFilterState();
 }
 
 var currentTab = 'needs-review';
@@ -746,7 +766,7 @@ function applyGlobalSearch() {
 function resetFilters(tabId) {
   var panel = document.getElementById('tab-' + tabId);
   if (!panel) return;
-  ['.f-status', '.f-type', '.f-level-sel'].forEach(function(sel) {
+  ['.f-status', '.f-type', '.f-level-sel', '.f-sort'].forEach(function(sel) {
     var el = panel.querySelector(sel); if (el) el.value = '';
   });
   var cb = panel.querySelector('.f-findings'); if (cb) cb.checked = false;
@@ -756,19 +776,44 @@ function resetFilters(tabId) {
 function updateRowCounts() {
   document.querySelectorAll('.tab-panel').forEach(function(panel) {
     var counter = panel.querySelector('.filter-count');
-    if (!counter) return;
+    var total   = panel.querySelectorAll('tr.row').length;
     var visible = panel.querySelectorAll('tr.row:not([style*="display: none"])').length;
-    counter.textContent = visible + ' rows';
+    if (counter) {
+      counter.textContent = visible === total
+        ? visible + ' rows'
+        : visible + ' of ' + total + ' rows';
+    }
+    // Toggle the "no matches" row when filters hide every entry.
+    var emptyRow = panel.querySelector('.no-matches-row');
+    if (emptyRow) emptyRow.style.display = (visible === 0 && total > 0) ? '' : 'none';
   });
 }
 
+function clearAllFilters() {
+  var gs = document.getElementById('global-search');
+  if (gs) gs.value = '';
+  document.querySelectorAll('.tab-panel').forEach(function(panel) {
+    panel.querySelectorAll('.f-status, .f-type, .f-level-sel, .f-sort').forEach(function(s) { s.value = ''; });
+    var cb = panel.querySelector('.f-findings'); if (cb) cb.checked = false;
+  });
+  applyGlobalSearch();
+  saveFilterState();
+}
+
 // ── Sort ─────────────────────────────────────────────────────────────────────
-var sortState = {}; // tabId → { col, dir }
-function sortTable(tabId, col) {
+// sortState[tabId] = { col, dir }. Two entry points:
+//   - header click: toggles direction on repeat click
+//   - Sort dropdown: uses explicit 'col-dir' (e.g. 'title-asc')
+var sortState = {};
+function sortTable(tabId, col, explicitDir) {
   if (!sortState[tabId]) sortState[tabId] = { col: null, dir: 'asc' };
   var s = sortState[tabId];
-  s.dir = s.col === col ? (s.dir === 'asc' ? 'desc' : 'asc') : 'asc';
-  s.col = col;
+  if (explicitDir) {
+    s.col = col; s.dir = explicitDir;
+  } else {
+    s.dir = s.col === col ? (s.dir === 'asc' ? 'desc' : 'asc') : 'asc';
+    s.col = col;
+  }
 
   var panel = document.getElementById('tab-' + tabId);
   if (!panel) return;
@@ -784,17 +829,34 @@ function sortTable(tabId, col) {
       var o = {ERROR:3,WARN:2,INFO:1,'':0};
       av = o[a.dataset.level]||0; bv = o[b.dataset.level]||0;
     }
-    else if (col === 'status')  { var so = {missing:0,unverified:1,pending:2,verified:3}; av = so[a.dataset.status]||0; bv = so[b.dataset.status]||0; }
+    else if (col === 'status')  {
+      // 'status-asc' means attention-first (missing/unverified before verified).
+      var so = {missing:0,unverified:1,pending:2,verified:3};
+      av = so[a.dataset.status]||0; bv = so[b.dataset.status]||0;
+    }
     if (typeof av === 'string') { var cmp = av.localeCompare(bv); return s.dir === 'asc' ? cmp : -cmp; }
     return s.dir === 'asc' ? av - bv : bv - av;
   });
 
   rows.forEach(function(r) { tbody.appendChild(r); });
+  // Keep the no-matches row pinned to the bottom so it doesn't float above data.
+  var emptyRow = panel.querySelector('.no-matches-row');
+  if (emptyRow) tbody.appendChild(emptyRow);
 
   panel.querySelectorAll('th[data-sort]').forEach(function(th) {
     th.classList.remove('sort-asc', 'sort-desc');
     if (th.dataset.sort === col) th.classList.add(s.dir === 'asc' ? 'sort-asc' : 'sort-desc');
   });
+}
+
+// Called from the Sort dropdown — parses 'title-asc' etc.
+function sortFromDropdown(tabId, value) {
+  if (!value) return; // 'default' — leave current order alone
+  var idx = value.lastIndexOf('-');
+  if (idx < 0) return;
+  var col = value.slice(0, idx);
+  var dir = value.slice(idx + 1);
+  sortTable(tabId, col, dir);
 }
 
 // ── Drawer ───────────────────────────────────────────────────────────────────
@@ -951,13 +1013,13 @@ document.addEventListener('keydown', function(e) {
   }
 });
 
-// ── Jump from stat tile to Needs Review pre-filtered by state ───────────────
+// ── Jump from stat tile to All Entries pre-filtered by state ────────────────
 function jumpToState(state) {
   showTab('needs-review');
   var panel = document.getElementById('tab-needs-review');
   if (!panel) return;
   var sel = panel.querySelector('.f-status');
-  if (sel) { sel.value = state; applyFilters('needs-review'); }
+  if (sel) { sel.value = state; applyFilters('needs-review'); saveFilterState(); }
   // Scroll the table into view in case the stat-bar was above the fold.
   panel.scrollIntoView({ behavior: 'smooth', block: 'start' });
 }
@@ -968,15 +1030,57 @@ function lockOut() {
   window.location.replace('../../index.html');
 }
 
+// ── URL hash persistence ────────────────────────────────────────────────────
+// Bookmark a filtered view by copying the URL. Reloading restores tab +
+// search + per-tab selectors so your place in a long review session sticks.
+var _hashSuspended = false;
+function saveFilterState() {
+  if (_hashSuspended) return;
+  var params = new URLSearchParams();
+  var gs = document.getElementById('global-search');
+  if (gs && gs.value) params.set('q', gs.value);
+  if (currentTab && currentTab !== 'needs-review') params.set('tab', currentTab);
+  var panel = document.getElementById('tab-' + currentTab);
+  if (panel) {
+    var st = panel.querySelector('.f-status');  if (st && st.value) params.set('state', st.value);
+    var ty = panel.querySelector('.f-type');    if (ty && ty.value) params.set('type',  ty.value);
+    var lv = panel.querySelector('.f-level-sel'); if (lv && lv.value) params.set('level', lv.value);
+    var so = panel.querySelector('.f-sort');    if (so && so.value) params.set('sort',  so.value);
+    var fb = panel.querySelector('.f-findings'); if (fb && fb.checked) params.set('findings', '1');
+  }
+  var str = params.toString();
+  history.replaceState(null, '', str ? '#' + str : location.pathname + location.search);
+}
+
+function restoreFilterState() {
+  if (!location.hash) return null;
+  _hashSuspended = true;
+  var params = new URLSearchParams(location.hash.slice(1));
+  var gs = document.getElementById('global-search');
+  if (gs && params.get('q')) gs.value = params.get('q');
+  var tab = params.get('tab') || 'needs-review';
+  var panel = document.getElementById('tab-' + tab);
+  if (panel) {
+    if (params.get('state')) { var s = panel.querySelector('.f-status'); if (s) s.value = params.get('state'); }
+    if (params.get('type'))  { var t = panel.querySelector('.f-type');   if (t) t.value = params.get('type'); }
+    if (params.get('level')) { var l = panel.querySelector('.f-level-sel'); if (l) l.value = params.get('level'); }
+    if (params.get('sort'))  { var o = panel.querySelector('.f-sort');   if (o) o.value = params.get('sort'); }
+    if (params.get('findings') === '1') { var f = panel.querySelector('.f-findings'); if (f) f.checked = true; }
+    if (params.get('sort')) sortFromDropdown(tab, params.get('sort'));
+  }
+  _hashSuspended = false;
+  return tab;
+}
+
 // ── Init ──────────────────────────────────────────────────────────────────────
 document.addEventListener('DOMContentLoaded', function() {
   // Global search: one input drives every panel.
   var gs = document.getElementById('global-search');
   if (gs) {
-    gs.addEventListener('input', applyGlobalSearch);
+    gs.addEventListener('input', function() { applyGlobalSearch(); saveFilterState(); });
     var clearBtn = document.getElementById('global-search-clear');
     if (clearBtn) clearBtn.addEventListener('click', function() {
-      gs.value = ''; applyGlobalSearch(); gs.focus();
+      gs.value = ''; applyGlobalSearch(); saveFilterState(); gs.focus();
     });
   }
 
@@ -984,18 +1088,27 @@ document.addEventListener('DOMContentLoaded', function() {
   document.querySelectorAll('.tab-panel').forEach(function(panel) {
     var tabId = panel.id.replace('tab-', '');
     panel.querySelectorAll('.f-status, .f-type, .f-level-sel, .f-findings').forEach(function(el) {
-      el.addEventListener('input', function() { applyFilters(tabId); });
-      el.addEventListener('change', function() { applyFilters(tabId); });
+      el.addEventListener('input', function() { applyFilters(tabId); saveFilterState(); });
+      el.addEventListener('change', function() { applyFilters(tabId); saveFilterState(); });
+    });
+    // Sort dropdown
+    var sortSel = panel.querySelector('.f-sort');
+    if (sortSel) sortSel.addEventListener('change', function() {
+      sortFromDropdown(tabId, sortSel.value); saveFilterState();
     });
     // Sort headers
     panel.querySelectorAll('th[data-sort]').forEach(function(th) {
-      th.addEventListener('click', function() { sortTable(tabId, th.dataset.sort); });
+      th.addEventListener('click', function() {
+        sortTable(tabId, th.dataset.sort);
+        // Clear dropdown so it doesn't disagree with click-sorted state.
+        var sd = panel.querySelector('.f-sort'); if (sd) sd.value = '';
+      });
     });
     // Export / reset buttons
     var exportBtn = panel.querySelector('.export-btn');
     if (exportBtn) exportBtn.addEventListener('click', function() { exportMarkdown(tabId); });
     var resetBtn = panel.querySelector('.reset-btn');
-    if (resetBtn) resetBtn.addEventListener('click', function() { resetFilters(tabId); });
+    if (resetBtn) resetBtn.addEventListener('click', function() { resetFilters(tabId); saveFilterState(); });
   });
 
   var showRes = document.getElementById('show-resolved-global');
@@ -1005,7 +1118,8 @@ document.addEventListener('DOMContentLoaded', function() {
   });
 
   refreshResolvedUI();
-  showTab('needs-review');
+  var restoredTab = restoreFilterState();
+  showTab(restoredTab || 'needs-review');
 });
 `;
 
@@ -1021,6 +1135,15 @@ function filterBarHtml(tabId, includeStateFilter = false) {
     ${stateOpts}
     <label>Type <select class="f-type"><option value="">all types</option><option>character</option><option>vocab</option><option>topic</option><option>grammar</option><option>chengyu</option><option>hub</option></select></label>
     <label>Level <select class="f-level-sel"><option value="">all levels</option><option>ERROR</option><option>WARN</option><option>INFO</option></select></label>
+    <label>Sort <select class="f-sort">
+      <option value="">default</option>
+      <option value="title-asc">Title A→Z</option>
+      <option value="title-desc">Title Z→A</option>
+      <option value="age-asc">Newest first</option>
+      <option value="age-desc">Oldest first</option>
+      <option value="level-desc">Severity high→low</option>
+      <option value="status-asc">State (attention-first)</option>
+    </select></label>
     <label><input type="checkbox" class="f-findings"> Has findings</label>
     <span class="filter-count"></span>
     <div class="filter-actions">
@@ -1038,10 +1161,11 @@ function tableHtml(rows, includeState = false) {
     : 'No findings in this category.';
   return `<table class="review-table">
     <thead>
-      <tr>${stateCol}<th data-sort="title">Page <span class="sort-arrow"></span></th><th>Findings</th><th></th></tr>
+      <tr>${stateCol}<th data-sort="title">Page <span class="sort-arrow"></span></th><th data-sort="level">Findings <span class="sort-arrow"></span></th><th></th></tr>
     </thead>
     <tbody>
       ${rows || `<tr><td colspan="${colspan}" class="no-rows">${emptyMsg}</td></tr>`}
+      <tr class="no-matches-row" style="display:none"><td colspan="${colspan}" class="no-rows">No entries match the current filters. <button type="button" class="linkish" onclick="clearAllFilters()">Clear filters</button></td></tr>
     </tbody>
   </table>`;
 }
