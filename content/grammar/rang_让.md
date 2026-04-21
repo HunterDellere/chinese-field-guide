@@ -2,6 +2,7 @@
 type: 'grammar'
 category: 'grammar'
 status: 'complete'
+content_review: 'pending'
 title: '让 · causative and permission structure'
 desc: "One verb, two functions: 让 makes someone do something, and lets someone do something — the core Chinese causative and permissive structure."
 metaDesc: "让 ràng: causative and permission in Mandarin. The 让-sentence structure (让 + person + verb), how to distinguish causative from permissive meaning, and related verbs 叫 and 请."

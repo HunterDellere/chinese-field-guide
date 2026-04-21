@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'philosophy'
 status: 'complete'
+content_review: 'pending'
 title: '阴阳五行 · Yin-Yang and the Five Phases'
 desc: 'The cosmological engine of classical thought — correspondence, resonance, and transformation.'
 metaDesc: "阴阳五行: the cosmological frameworks of complementary opposites and five transformative phases — the foundation of Chinese medicine, divination, and classical thought."

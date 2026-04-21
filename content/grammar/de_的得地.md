@@ -2,6 +2,7 @@
 type: 'grammar'
 category: 'grammar'
 status: 'complete'
+content_review: 'pending'
 title: "的 · 得 · 地 · the three de's"
 desc: 'Attribution, result complement, and adverbial marker — distinguished once and for all.'
 metaDesc: "的, 得, and 地 are all pronounced 'de' but serve entirely different syntactic roles — adjectival marker, result complement, and adverbial marker. Etymology, examples, and a definitive comparison."

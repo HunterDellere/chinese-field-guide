@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'hsk'
 status: 'complete'
+content_review: 'pending'
 title: 'HSK 4 · Level 4'
 desc: 'The complete HSK 4 vocabulary, character, and grammar list — cross-linked to Jiǎoluò Shūwū entries where available.'
 metaDesc: 'HSK 4 (Chinese Proficiency Test Level 4) — full character list, vocabulary list, and grammar points, sourced from the 2021 国际中文教育中文水平等级标准.'

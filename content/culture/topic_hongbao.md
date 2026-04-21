@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'culture'
 status: 'complete'
+content_review: 'pending'
 title: '红包 · Red Envelopes'
 desc: 'Money wrapped in red — the gift that is never just money, and the ritual that binds generations, occasions, and now hundreds of millions of WeChat users.'
 metaDesc: "红包 Hóngbāo: Chinese red envelopes — origins, lucky money traditions, wedding customs, and the WeChat digital red envelope revolution."

@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'geography'
 status: 'complete'
+content_review: 'pending'
 title: '香港 · Hong Kong'
 desc: 'The entrepôt that became a world city — a harbor geography that made it the gateway between East and West, and a Cantonese identity that survived colonial rule and asks harder questions under reunification.'
 metaDesc: "香港 Xiānggǎng: Hong Kong — Victoria Harbour, the colonial era, the 1997 handover, Cantonese identity, the economic miracle, and 本土 local identity."

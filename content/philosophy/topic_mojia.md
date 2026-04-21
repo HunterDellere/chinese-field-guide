@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'philosophy'
 status: 'complete'
+content_review: 'pending'
 title: '墨家 · Mohism'
 desc: 'Universal love, anti-war, and the utilitarian logic China nearly chose.'
 metaDesc: "墨家 Mohism: universal love, anti-aggression, meritocracy, and the utilitarian challenge to Confucian China. Mozi, Mohist logic, and why the school vanished."

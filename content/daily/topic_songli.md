@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'daily'
 status: 'complete'
+content_review: 'pending'
 title: '送礼 · Gift-Giving'
 desc: 'Gift-giving in China is less about generosity than about maintenance — a technology for building and sustaining the relationships that make life work.'
 metaDesc: "送礼 sònglǐ: gift-giving in Chinese culture — the logic of reciprocity, what to give, what never to give, the two-hand rule, and why gifts are not opened in front of the giver."

@@ -15,8 +15,8 @@ pinyin: 'yú gōng yí shān'
 sources:
   - 'Lièzǐ 列子, "Tāng wèn" 汤问 chapter (compiled Jin dynasty, 4th century CE; attributed to Liè Yǔkòu, 5th–4th c. BCE)'
   - 'Máo Zédōng, "How the Foolish Old Man Moved the Mountains" 愚公移山 (1945) — closing speech to the 7th CCP Congress'
-factual_review: 'verified'
-factual_sources:
+content_review: 'verified'
+content_sources:
   - 'Unihan'
 ---
 

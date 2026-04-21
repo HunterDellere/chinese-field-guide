@@ -17,8 +17,8 @@ pinyin: 'zhōng'
 tone: 1
 hsk: 1
 radical: '丨'
-factual_review: 'verified'
-factual_sources:
+content_review: 'verified'
+content_sources:
   - 'Unihan'
 ---
 

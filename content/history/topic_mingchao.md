@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'history'
 status: 'complete'
+content_review: 'pending'
 title: '明朝 · The Ming Dynasty'
 desc: "The Great Wall rebuilt, Zheng He's voyages, and the inward turn."
 metaDesc: "明朝 míngcháo: Han Chinese restoration, the ruthless founder Hongwu, Zheng He's seven voyages, the Forbidden City, the Great Wall in brick, and the dynasty's slow collapse into peasant rebellion and Manchu invasion."

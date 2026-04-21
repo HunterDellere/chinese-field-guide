@@ -2,6 +2,7 @@
 type: 'grammar'
 category: 'grammar'
 status: 'complete'
+content_review: 'pending'
 title: '虽然…但是 · although … but'
 desc: 'The concession frame — granting the premise but pivoting to the real point.'
 metaDesc: "虽然…但是 suīrán…dànshì: although X, but Y. Structure, the concession pivot, spoken variants, and comparison with 尽管…还是 and 即使…也."

@@ -16,8 +16,8 @@ pinyin: 'guǎng'
 tone: 3
 hsk: 4
 radical: '广'
-factual_review: 'verified'
-factual_sources:
+content_review: 'verified'
+content_sources:
   - 'Unihan'
 ---
 

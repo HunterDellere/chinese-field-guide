@@ -2,6 +2,7 @@
 type: 'grammar'
 category: 'grammar'
 status: 'complete'
+content_review: 'pending'
 title: '是…的 · the cleft construction'
 desc: 'Focus and past-detail marking — the construction that trips every learner.'
 metaDesc: "是…的: the Chinese cleft construction — presupposing a known action, focusing on one detail (time, place, manner, agent). Why it requires completed or known events, and how to shift focus with it."

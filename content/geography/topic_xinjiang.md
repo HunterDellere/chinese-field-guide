@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'geography'
 status: 'complete'
+content_review: 'pending'
 title: '新疆 · Xinjiang'
 desc: "China's largest province. A vast desert interior crossed by the Silk Road, home to Uyghur civilization, bounded by the Tianshan mountains, and at the center of contested questions about identity and governance."
 metaDesc: "新疆 Xīnjiāng: Xinjiang — the Tarim Basin, Taklamakan Desert, Tianshan, Silk Road oasis cities, Uyghur culture, and the contemporary situation."

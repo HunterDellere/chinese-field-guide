@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'geography'
 status: 'complete'
+content_review: 'pending'
 title: '台湾 · Taiwan'
 desc: 'An island with multiple names, multiple claims, and the most consequential unresolved question in East Asian geopolitics.'
 metaDesc: "台湾 Táiwān: Taiwan — the geography and history of the island, Dutch and Qing colonization, the Republic of China, the 1949 retreat, cross-strait relations, and the question of status."

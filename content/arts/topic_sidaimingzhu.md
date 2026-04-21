@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'arts'
 status: 'complete'
+content_review: 'pending'
 title: '四大名著 · Four Great Classical Novels'
 desc: 'The four novels every educated Chinese person has read — the canonical stories of war, outlaws, pilgrims, and dreams.'
 metaDesc: "四大名著 sì dà míngzhù: China's four great classical novels — Water Margin, Romance of the Three Kingdoms, Journey to the West, and Dream of the Red Chamber."

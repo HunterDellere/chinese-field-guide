@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'arts'
 status: 'complete'
+content_review: 'pending'
 title: '诗经 · Book of Songs'
 desc: 'China oldest poetry anthology — three hundred poems that Confucius said no educated person could afford to ignore.'
 metaDesc: "诗经 Shījīng: the Book of Songs, China oldest poetry anthology (c. 1046-771 BCE), its three sections feng ya song, the Four Beginnings, and its role in Confucian education."

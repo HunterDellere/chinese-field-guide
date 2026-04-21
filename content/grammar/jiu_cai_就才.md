@@ -2,6 +2,7 @@
 type: 'grammar'
 category: 'grammar'
 status: 'complete'
+content_review: 'pending'
 title: '就 vs. 才 · sooner vs. later'
 desc: 'The timing and emphasis pair — speaker attitude encoded in one syllable.'
 metaDesc: "就 vs. 才: the timing and emphasis pair. 就 = sooner/easier than expected; 才 = later/harder than expected. Etymology, core contrast, conditional structures 只要…就 and 只有…才, and chengyu."

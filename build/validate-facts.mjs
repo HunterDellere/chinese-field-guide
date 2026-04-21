@@ -280,16 +280,16 @@ function validateFile(fp) {
   }
 
   // ────────────── Layer 2: Review-state gate ──────────────
-  if (fm.status === 'complete' && (fm.type === 'character' || fm.type === 'vocab')) {
-    if (!fm.factual_review) {
+  if (fm.status === 'complete') {
+    if (!fm.content_review) {
       emit('ERROR', rel,
-        `status:complete character/vocab page is missing 'factual_review' frontmatter (must be 'verified' or 'pending')`);
-    } else if (!['verified', 'pending', 'unverified'].includes(fm.factual_review)) {
+        `status:complete page is missing 'content_review' frontmatter (must be 'verified' or 'pending')`);
+    } else if (!['verified', 'pending', 'unverified'].includes(fm.content_review)) {
       emit('ERROR', rel,
-        `factual_review: '${fm.factual_review}' — must be 'verified', 'pending', or 'unverified'`);
-    } else if (fm.factual_review === 'verified' && (!fm.factual_sources || fm.factual_sources.length === 0)) {
+        `content_review: '${fm.content_review}' — must be 'verified', 'pending', or 'unverified'`);
+    } else if (fm.content_review === 'verified' && (!fm.content_sources || fm.content_sources.length === 0)) {
       emit('ERROR', rel,
-        `factual_review: verified requires a non-empty 'factual_sources' array (e.g. ['Outlier', 'Wenlin', 'Shuōwén'])`);
+        `content_review: verified requires a non-empty 'content_sources' array (e.g. ['Outlier', 'Wenlin', 'Shuōwén'])`);
     }
   }
 }

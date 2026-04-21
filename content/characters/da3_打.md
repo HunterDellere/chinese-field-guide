@@ -16,8 +16,8 @@ pinyin: 'dǎ'
 tone: 3
 hsk: 1
 radical: '扌'
-factual_review: 'verified'
-factual_sources:
+content_review: 'verified'
+content_sources:
   - 'Unihan'
 ---
 

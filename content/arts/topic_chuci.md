@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'arts'
 status: 'complete'
+content_review: 'pending'
 title: '楚辞 · Songs of Chu'
 desc: 'The shamanistic southern voice that gave Chinese literature its second pole — visionary, romantic, and inconsolably exiled.'
 metaDesc: "楚辞 Chǔcí: the Songs of Chu, Qu Yuan and the Li Sao, the shamanistic tradition, celestial journeys, dragon boats, and how southern romanticism balanced northern moral seriousness in the Chinese literary tradition."

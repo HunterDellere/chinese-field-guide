@@ -2,6 +2,7 @@
 type: 'grammar'
 category: 'grammar'
 status: 'complete'
+content_review: 'pending'
 title: "会 · 能 · 可以 · the three 'can's"
 desc: 'Learned ability vs. situational capacity vs. permission — not interchangeable.'
 metaDesc: "会, 能, and 可以 all translate as 'can' but encode distinct meanings: learned ability, physical/circumstantial capacity, and permission. Etymology, contrast examples, and a complete comparison."

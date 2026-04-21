@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'culinary'
 status: 'complete'
+content_review: 'pending'
 title: '川菜 · Sichuan Cuisine'
 desc: 'The mala kitchen — how a landlocked basin built the most complex spice vocabulary in the world.'
 metaDesc: "川菜 Chuāncài: Sichuan cuisine — mala flavor, fermented pastes, 24 flavor profiles, and the geography that shaped China's boldest kitchen."

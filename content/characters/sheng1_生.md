@@ -16,8 +16,8 @@ pinyin: 'shēng'
 tone: 1
 hsk: 1
 radical: '生'
-factual_review: 'verified'
-factual_sources:
+content_review: 'verified'
+content_sources:
   - 'Unihan'
 ---
 

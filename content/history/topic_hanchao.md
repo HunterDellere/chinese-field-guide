@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'history'
 status: 'complete'
+content_review: 'pending'
 title: '汉朝 · The Han Dynasty'
 desc: 'Why Chinese call themselves 汉人 — the dynasty that defined the civilization.'
 metaDesc: "汉朝 hàncháo: the dynasty that gave the Chinese their name — Liu Bang's founding, Emperor Wu's expansion, the Silk Road, Confucian orthodoxy, and the Grand Historian Sima Qian's Records that defined Chinese historiography."

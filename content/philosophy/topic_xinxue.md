@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'philosophy'
 status: 'complete'
+content_review: 'pending'
 title: '心学 · Wang Yangming'
 desc: 'Innate knowing 良知 and the unity of knowledge and action.'
 metaDesc: "心学 the School of Mind: Wang Yangming, 心即理 mind is principle, 知行合一 unity of knowledge and action, 致良知 extend innate moral knowledge. Ming dynasty philosophy and its lasting influence."

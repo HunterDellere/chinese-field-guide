@@ -2,6 +2,7 @@
 type: 'grammar'
 category: 'grammar'
 status: 'complete'
+content_review: 'pending'
 title: '与其…不如 · rather than … it would be better to'
 desc: 'Comparative preference construction — the most elegant way to argue for one choice over another.'
 metaDesc: "与其…不如 yǔqí … bùrú: rather than X, it would be better to do Y. Structure, rhetorical force, spoken variants, and the preference-comparison family."

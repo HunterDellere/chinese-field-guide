@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'culture'
 status: 'complete'
+content_review: 'pending'
 title: '中秋节 · Mid-Autumn Festival'
 desc: 'The moon at its fullest, the family reunited — the festival that turns a celestial event into a meditation on longing and belonging.'
 metaDesc: "中秋节 Zhōngqiūjié: Chinese Mid-Autumn Festival — mooncakes, the legend of Chang'e, and the lunar symbolism of reunion and longing."

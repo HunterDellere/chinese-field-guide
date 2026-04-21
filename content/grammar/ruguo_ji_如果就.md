@@ -2,6 +2,7 @@
 type: 'grammar'
 category: 'grammar'
 status: 'complete'
+content_review: 'pending'
 title: '如果…就 · if … then'
 desc: 'The foundational conditional frame — the engine of hypothetical reasoning in Mandarin.'
 metaDesc: "如果…就 rúguǒ…jiù: if X then Y. Structure, subject position, real vs. hypothetical conditionals, related conditional forms, and spoken shortcuts."

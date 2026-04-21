@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'arts'
 status: 'complete'
+content_review: 'pending'
 title: '昆曲 · Kun Opera'
 desc: 'The oldest surviving form of Chinese opera — refined to such perfection over four centuries that it nearly disappeared from its own beauty.'
 metaDesc: "昆曲 Kūnqǔ: Kun opera from Suzhou, its musical structure, Tang Xianzu Peony Pavilion, the comparison with Peking Opera, UNESCO heritage status, and why its refinement made it endangered."

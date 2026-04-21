@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'culture'
 status: 'complete'
+content_review: 'pending'
 title: '清明节 · Tomb-Sweeping Day'
 desc: 'The day the living visit the dead — a spring festival of grief, gratitude, and continuity across generations.'
 metaDesc: "清明节 Qīngmíngjié: Chinese Tomb-Sweeping Day — ancestor veneration, the Hanshi Cold Food ban, grave-sweeping rituals, and the solar term that gives the day its name."

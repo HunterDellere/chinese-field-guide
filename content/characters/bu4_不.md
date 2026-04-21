@@ -16,8 +16,8 @@ pinyin: 'bù'
 tone: 4
 hsk: 1
 radical: '一'
-factual_review: 'verified'
-factual_sources:
+content_review: 'verified'
+content_sources:
   - 'Unihan'
 ---
 

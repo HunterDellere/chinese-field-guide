@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'history'
 status: 'complete'
+content_review: 'pending'
 title: '宋朝 · The Song Dynasty'
 desc: 'Economic revolution, printing, compass — the dynasty modernity missed.'
 metaDesc: "宋朝 sòngcháo: politically weak but culturally brilliant — paper money, printing, gunpowder, and the compass all flourished; the Jingkang Humiliation sent the court south; Neo-Confucianism redefined Chinese thought until the Mongols ended it all in 1279."

@@ -12,8 +12,8 @@ tags:
   - 'things'
 updated: '2026-04-18'
 pinyin: 'dōngxi'
-factual_review: 'verified'
-factual_sources:
+content_review: 'verified'
+content_sources:
   - 'Unihan'
 ---
 

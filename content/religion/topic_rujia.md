@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'religion'
 status: 'complete'
+content_review: 'pending'
 title: '儒家 · Confucianism'
 desc: 'The school of the ru — ritual, hierarchy, and moral cultivation as state religion.'
 metaDesc: "儒家 rújiā: Confucianism — the Five Constants, Five Relationships, the Great Learning program, canonical texts, and the legacy of ritual, hierarchy, and moral cultivation across East Asian civilization."

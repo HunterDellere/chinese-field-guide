@@ -2,6 +2,7 @@
 type: 'grammar'
 category: 'grammar'
 status: 'complete'
+content_review: 'pending'
 title: '对 · toward, regarding, correct'
 desc: "A preposition, adjective, and verb rolled into one — 对 introduces the object of an action, asserts correctness, and forms the backbone of Chinese directional expressions."
 metaDesc: "对 duì: toward, regarding, correct, right. The three core uses of 对 in Mandarin — as a preposition (toward/to), as an adjective (correct/right), and in fixed expressions (对不起/对了)."

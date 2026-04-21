@@ -20,8 +20,8 @@ radical: '水'
 sources:
   - 'Lǎozǐ 老子 ch. 8 — "shàng shàn ruò shuǐ" 上善若水, the highest good is like water'
   - 'Outlier Linguistic Solutions — etymology of 水 from oracle bone river pictograph'
-factual_review: 'verified'
-factual_sources:
+content_review: 'verified'
+content_sources:
   - 'Unihan'
 ---
 

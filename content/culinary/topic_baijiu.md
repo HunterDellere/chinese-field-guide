@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'culinary'
 status: 'complete'
+content_review: 'pending'
 title: '白酒 · Baijiu'
 desc: "China's fiery grain spirit — the most consumed distilled liquor in the world by volume, and what it means to drink together."
 metaDesc: "白酒 báijiǔ: baijiu — Chinese grain spirit, the highest-volume distilled liquor in the world, its twelve aroma types, Moutai, Wuliangye, and the social ritual of ganbei."

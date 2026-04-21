@@ -2,6 +2,7 @@
 type: 'grammar'
 category: 'grammar'
 status: 'complete'
+content_review: 'pending'
 title: '把 · the disposal construction'
 desc: 'Moving the object before the verb — when and why.'
 metaDesc: "把 bǎ: the disposal construction — taking hold of the object and doing something definitive to it. Etymology, patterns, resultative complements, errors to avoid, and 把 as measure word."

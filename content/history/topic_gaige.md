@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'history'
 status: 'complete'
+content_review: 'pending'
 title: '改革开放 · Reform and Opening Up'
 desc: "Deng Xiaoping's 1978 pivot that transformed China from a closed command economy into the world's second largest economy in four decades."
 metaDesc: "改革开放 gǎigé kāifàng: the Third Plenum of 1978, Deng Xiaoping's pragmatist revolution, the Special Economic Zones, 摸着石头过河, and the four modernizations — the policy turn that remade China and lifted 800 million people out of poverty."

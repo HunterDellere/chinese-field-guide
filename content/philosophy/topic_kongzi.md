@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'philosophy'
 status: 'complete'
+content_review: 'pending'
 title: '孔子 · Confucius'
 desc: 'His life, the Analects 论语, and the civilization he shaped.'
 metaDesc: "孔子 Confucius: his life in Lu state, the Analects 论语, the noble person 君子, humaneness 仁, ritual propriety 礼, and the civilization he shaped."

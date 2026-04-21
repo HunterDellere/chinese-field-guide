@@ -16,8 +16,8 @@ pinyin: 'fó'
 tone: 2
 hsk: 5
 radical: '亻'
-factual_review: 'verified'
-factual_sources:
+content_review: 'verified'
+content_sources:
   - 'Unihan'
 ---
 

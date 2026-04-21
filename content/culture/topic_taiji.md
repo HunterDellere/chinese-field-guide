@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'culture'
 status: 'complete'
+content_review: 'pending'
 title: '太极 · Tai Chi'
 desc: 'The slow-motion practice in the park at dawn — its philosophy is older than the movements, and the movements carry the whole philosophy.'
 metaDesc: "太极 Tàijí: Tai Chi — the cosmological origins, Chen Village, the five major styles, and why slowness is not the same as ease."

@@ -2,6 +2,7 @@
 type: 'grammar'
 category: 'grammar'
 status: 'complete'
+content_review: 'pending'
 title: '除了 · except, besides, in addition to'
 desc: "The dual-function exclusion/inclusion marker — 除了 can narrow a set to everything except one thing, or expand it to include one more thing, depending on which particle follows."
 metaDesc: "除了 chúle: except, besides, in addition to. The two uses of 除了 in Mandarin — 除了…以外/之外 with 都/还/也 determines whether it means 'except' (exclusion) or 'in addition to' (inclusion)."

@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'philosophy'
 status: 'complete'
+content_review: 'pending'
 title: '理学 · Neo-Confucianism'
 desc: 'Zhu Xi, the Great Ultimate 太极, and the Song-Ming synthesis.'
 metaDesc: "理学 Neo-Confucianism: the Song dynasty revival of Confucianism; Zhou Dunyi, the Cheng brothers, and Zhu Xi; the concepts of 理 principle and 气 material force; 格物致知 investigation of things."

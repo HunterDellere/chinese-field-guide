@@ -16,8 +16,8 @@ pinyin: 'fú'
 tone: 2
 hsk: 3
 radical: '示'
-factual_review: 'verified'
-factual_sources:
+content_review: 'verified'
+content_sources:
   - 'Unihan'
 ---
 

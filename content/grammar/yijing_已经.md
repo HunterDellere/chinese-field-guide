@@ -2,6 +2,7 @@
 type: 'grammar'
 category: 'grammar'
 status: 'complete'
+content_review: 'pending'
 title: '已经 · already'
 desc: "Mandarin's 'already' adverb — how 已经 differs from English, its placement before the verb, and its relationship with 了 and 还没有."
 metaDesc: "已经 yǐjīng: already in Mandarin Chinese. Position rules, how 已经 works with 了, when to use 还没有 as the negative, and natural example sentences."

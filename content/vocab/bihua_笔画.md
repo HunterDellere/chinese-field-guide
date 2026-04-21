@@ -12,8 +12,8 @@ tags:
   - 'calligraphy'
   - 'language'
 updated: '2026-04-20'
-factual_review: 'verified'
-factual_sources:
+content_review: 'verified'
+content_sources:
   - 'Unihan'
 ---
 

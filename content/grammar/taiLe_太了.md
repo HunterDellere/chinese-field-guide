@@ -2,6 +2,7 @@
 type: 'grammar'
 category: 'grammar'
 status: 'complete'
+content_review: 'pending'
 title: '太…了 · too, excessively'
 desc: "The emphatic degree structure — 太…了 expresses excess and strong feeling, from complaints to enthusiastic praise."
 metaDesc: "太…了 tài…le: too, excessively in Mandarin. How 太…了 expresses both negative excess and enthusiastic approval, the role of 了, and contrast with 非常 and 很."

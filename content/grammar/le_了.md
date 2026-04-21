@@ -2,6 +2,7 @@
 type: 'grammar'
 category: 'grammar'
 status: 'complete'
+content_review: 'pending'
 title: '了 · the perfective particle'
 desc: 'Perfective aspect vs. change-of-state — the single most-confused particle.'
 metaDesc: "了 le: the most complex particle in Mandarin. Two pronunciations, two functions — completion marker and new-situation particle. Etymology, patterns, the double-了 construction, negation, and the liǎo family."

@@ -12,8 +12,8 @@ tags:
   - 'binary'
 updated: '2026-04-18'
 pinyin: 'yīnyáng'
-factual_review: 'verified'
-factual_sources:
+content_review: 'verified'
+content_sources:
   - 'Unihan'
 ---
 

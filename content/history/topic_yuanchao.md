@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'history'
 status: 'complete'
+content_review: 'pending'
 title: '元朝 · The Yuan Dynasty'
 desc: 'Kublai Khan, Mongol rule, and China as the center of a world empire.'
 metaDesc: "元朝 yuáncháo: Kublai Khan's Mongol dynasty (1271–1368), the four-class social order, Yuan drama, Marco Polo, and the collapse that gave birth to the Ming."

@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'arts'
 status: 'complete'
+content_review: 'pending'
 title: '宋词 · Song Dynasty Lyric'
 desc: 'The poem that sings — fixed tune patterns, named meters, and three masters who defined what the Chinese lyric could feel.'
 metaDesc: "宋词 Sòngcí: the Song dynasty lyric form, ci versus shi, named tune patterns, Li Qingzhao, Su Shi, Xin Qiji, and the split between graceful and heroic styles."

@@ -2,6 +2,7 @@
 type: 'grammar'
 category: 'grammar'
 status: 'complete'
+content_review: 'pending'
 title: '的话 · if; in the case that'
 desc: 'The soft conditional — how 的话 marks a premise without committing to it.'
 metaDesc: "的话 de huà: the conditional particle in Mandarin. How to express 'if' using 的话, its relationship with 如果 and 要是, and the difference between 的话 conditionals and factual clauses."

@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'arts'
 status: 'complete'
+content_review: 'pending'
 title: '文房四宝 · Four Treasures of the Study'
 desc: 'Brush, ink, inkstone, and paper — the four instruments through which a scholar thought, wrote, painted, and demonstrated who he was.'
 metaDesc: "文房四宝 Wénfáng Sìbǎo: the Four Treasures of the Study — brush, ink, inkstone, and paper. History, craft, connoisseurship, and the cultural meaning of the scholar tools."

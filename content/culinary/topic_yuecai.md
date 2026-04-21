@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'culinary'
 status: 'complete'
+content_review: 'pending'
 title: '粤菜 · Cantonese Cuisine'
 desc: 'Freshness as philosophy: the cooking tradition that traveled the world and stayed true to itself.'
 metaDesc: "粤菜 Yuècài: Cantonese cuisine's freshness philosophy, dim sum culture, roast meats, and its outsized influence on global Chinese food."

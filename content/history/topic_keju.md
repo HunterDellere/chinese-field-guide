@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'history'
 status: 'complete'
+content_review: 'pending'
 title: '科举 · The Imperial Examination System'
 desc: 'The exam that governed Chinese civilization for 1,300 years — selecting officials by merit, enshrining the Confucian canon, and shaping every dynasty from the Sui through the Qing.'
 metaDesc: "科举 kējǔ: the imperial examination system that selected China's officials by merit for 1,300 years — founded under Sui (605 CE), abolished in 1905, and echoed today in the 高考 gaokao."

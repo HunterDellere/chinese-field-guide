@@ -16,8 +16,8 @@ pinyin: 'míng'
 tone: 2
 hsk: 2
 radical: '日'
-factual_review: 'verified'
-factual_sources:
+content_review: 'verified'
+content_sources:
   - 'Unihan'
 ---
 

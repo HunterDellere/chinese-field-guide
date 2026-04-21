@@ -5,6 +5,7 @@ title: "六大茶类 · The Six Teas — A Reading Path"
 pinyin: "liù dà chá lèi"
 desc: "A guided tour through the six classes of Chinese tea, plus the character, the utensils, and the gongfu ceremony."
 status: complete
+content_review: 'pending'
 updated: "2026-04-19"
 tags: ["tea","culinary","hub"]
 stages:

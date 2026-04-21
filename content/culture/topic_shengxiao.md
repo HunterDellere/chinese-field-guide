@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'culture'
 status: 'complete'
+content_review: 'pending'
 title: '生肖 · Chinese Zodiac'
 desc: 'The twelve animals, what they mean, and why your birth year still shapes how people see you.'
 metaDesc: "生肖 shēngxiào: the Chinese zodiac — the twelve animals, their associated traits, the sixty-year cycle, and how the zodiac intersects with compatibility, career, and marriage decisions today."

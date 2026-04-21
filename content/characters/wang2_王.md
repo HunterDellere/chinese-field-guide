@@ -21,8 +21,8 @@ sources:
   - 'Dǒng Zhòngshū 董仲舒, Chūnqiū Fánlù 春秋繁露 (2nd c. BCE) — the heaven-earth-humanity gloss of 王'
   - 'Shuōwén Jiězì 说文解字, Xǔ Shèn (c. 100 CE) — 王 as connecting three realms'
   - 'Outlier Linguistic Solutions — 王 as axe / 玉 as jade, two distinct origins fused in later radical indexing'
-factual_review: 'verified'
-factual_sources:
+content_review: 'verified'
+content_sources:
   - 'Unihan'
 ---
 

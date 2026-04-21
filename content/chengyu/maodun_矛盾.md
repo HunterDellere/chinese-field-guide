@@ -16,8 +16,8 @@ sources:
   - 'Hánfēizǐ 韩非子, "Nán yī" 难一 chapter (3rd century BCE) — original spear-and-shield parable'
   - 'Mao Zedong, "On Contradiction" 矛盾论 (1937) — Marxist-dialectical adoption of the term'
   - 'Outlier Linguistic Solutions — etymology of 矛 and 盾'
-factual_review: 'verified'
-factual_sources:
+content_review: 'verified'
+content_sources:
   - 'Unihan'
 ---
 

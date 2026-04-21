@@ -2,6 +2,7 @@
 type: 'grammar'
 category: 'grammar'
 status: 'complete'
+content_review: 'pending'
 title: '因为…所以 · because…therefore'
 desc: "The causal conjunction pair — 因为 states the cause and 所以 announces the result, forming a two-clause logical structure that Chinese uses more explicitly than English."
 metaDesc: "因为…所以 yīnwèi…suǒyǐ: because…therefore. How the paired conjunction works, when to use both halves vs. just one, and contrast with 因此/由于 for formal writing."

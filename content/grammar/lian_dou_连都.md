@@ -2,6 +2,7 @@
 type: 'grammar'
 category: 'grammar'
 status: 'complete'
+content_review: 'pending'
 title: '连…都/也 · even X'
 desc: 'The intensifier construction — raising the stakes of a claim.'
 metaDesc: "连…都/也 is Chinese's primary scalar intensifier: 'even X [does/is]…' singles out the most extreme case to make a claim about the whole. Etymology, examples, register contrasts, and related idioms."

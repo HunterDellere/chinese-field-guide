@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'daily'
 status: 'complete'
+content_review: 'pending'
 title: '迷信 · Superstitions'
 desc: 'Superstition in China is not a holdover from ignorance — it is a living system that coexists comfortably with education, modernity, and pragmatism.'
 metaDesc: "迷信 mìxìn: superstitions in Chinese culture — door gods, ghost month, the kitchen god, Spring Festival taboos, lucky charms, and what function these beliefs serve in managing the uncertainties of daily life."

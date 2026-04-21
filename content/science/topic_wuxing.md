@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'science'
 status: 'complete'
+content_review: 'pending'
 title: '五行 · The Five Phases'
 desc: 'The five dynamic processes — wood, fire, earth, metal, water — that classical Chinese science used to map medicine, cosmology, music, politics, and time.'
 metaDesc: '五行 wǔxíng: the Five Phases of classical Chinese thought — wood, fire, earth, metal, water — and the two cycles of generation and control that organized TCM, cosmology, music, statecraft, and the calendar.'

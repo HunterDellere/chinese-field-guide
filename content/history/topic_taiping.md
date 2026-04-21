@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'history'
 status: 'complete'
+content_review: 'pending'
 title: '太平天国 · The Taiping Heavenly Kingdom'
 desc: "The millenarian rebellion that killed 20–30 million people and nearly toppled the Qing dynasty — the deadliest civil war in human history."
 metaDesc: "太平天国 Tàipíng Tiānguó (1850–1864): Hong Xiuquan's Christian-inflected millenarian movement, the Xiang Army, Zeng Guofan, and the deadliest civil war in human history."

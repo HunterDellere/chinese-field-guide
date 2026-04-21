@@ -18,8 +18,8 @@ related:
   - 'culinary/topic_cha'
   - 'culture/topic_cha_wenhua'
   - 'vocab/chaju_茶具'
-factual_review: 'verified'
-factual_sources:
+content_review: 'verified'
+content_sources:
   - 'Unihan'
 ---
 

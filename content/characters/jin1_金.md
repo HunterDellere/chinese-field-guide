@@ -16,8 +16,8 @@ pinyin: 'jīn'
 tone: 1
 hsk: 3
 radical: '金'
-factual_review: 'verified'
-factual_sources:
+content_review: 'verified'
+content_sources:
   - 'Unihan'
 ---
 

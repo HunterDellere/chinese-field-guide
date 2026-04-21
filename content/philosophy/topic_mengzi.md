@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'philosophy'
 status: 'complete'
+content_review: 'pending'
 title: '孟子 · Mencius'
 desc: 'Human nature as inherently good — the sprouts of virtue.'
 metaDesc: "孟子 Mencius: the second sage of Confucianism, the goodness of human nature 性善论, the four sprouts 四端, the kingly way 王道, and the principle that people are more important than rulers 民贵君轻."

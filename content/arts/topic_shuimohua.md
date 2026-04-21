@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'arts'
 status: 'complete'
+content_review: 'pending'
 title: '水墨画 · Ink-Wash Painting'
 desc: 'Where the brush meets philosophy — five tones of ink, the art of leaving space, and landscapes that are not about landscape at all.'
 metaDesc: "水墨画 Shuǐmòhuà: Chinese ink-wash painting — the five ink tones, liubai negative space, literati painting wenrenhua, the Four Gentlemen, and masters Su Shi, Mi Fu, Ni Zan, and Shitao."

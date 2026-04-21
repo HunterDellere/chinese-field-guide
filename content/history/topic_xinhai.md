@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'history'
 status: 'complete'
+content_review: 'pending'
 title: '辛亥革命 · The 1911 Revolution'
 desc: 'The end of empire, Sun Yat-sen, and the birth of the Republic.'
 metaDesc: "辛亥革命 xīnhài gémìng: the revolution that ended 2,000 years of imperial rule. Sun Yat-sen, the Three Principles, the Wuchang Uprising, Yuan Shikai's betrayal, and the May Fourth Movement as intellectual sequel."

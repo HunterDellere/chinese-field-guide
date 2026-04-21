@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'daily'
 status: 'complete'
+content_review: 'pending'
 title: '筷子 · Chopsticks'
 desc: 'The rules, the taboos, and what not to do — the etiquette that marks insider from outsider at the Chinese table.'
 metaDesc: "筷子 kuàizi: chopsticks — the taboos, proper technique, the history of the utensil, and what chopstick etiquette reveals about Chinese values around food and the dead."

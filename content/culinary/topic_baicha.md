@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'culinary'
 status: 'complete'
+content_review: 'pending'
 title: '白茶 · White Tea'
 desc: 'The most minimal of all tea categories — plucked, withered, and dried, with no firing and no rolling, yielding a tea of extraordinary delicacy.'
 metaDesc: "白茶 báichá: Chinese white tea — Silver Needle, White Peony, Shou Mei, aging potential, Fuding and Zhenghe origins, and the philosophy of minimal processing."

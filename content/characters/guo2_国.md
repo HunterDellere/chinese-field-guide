@@ -16,8 +16,8 @@ pinyin: 'guó'
 tone: 2
 hsk: 1
 radical: '囗'
-factual_review: 'verified'
-factual_sources:
+content_review: 'verified'
+content_sources:
   - 'Unihan'
 ---
 

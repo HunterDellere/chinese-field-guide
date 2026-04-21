@@ -2,6 +2,7 @@
 type: 'grammar'
 category: 'grammar'
 status: 'complete'
+content_review: 'pending'
 title: '过 · the experiential aspect marker'
 desc: "The particle that says 'I have ever done this' — not when, not how often, just that it once happened. The most-confused pair with 了."
 metaDesc: "过 guò: experiential aspect marker in Mandarin. The particle for 'have ever done', distinct from 了 (perfective). Covers patterns, negation with 没, contrast with 了, and the full verb 过 (to pass)."

@@ -16,8 +16,8 @@ pinyin: 'luò'
 tone: 4
 hsk: {from: 3, to: 5}
 radical: '艹'
-factual_review: 'verified'
-factual_sources:
+content_review: 'verified'
+content_sources:
   - 'Unihan'
 ---
 

@@ -12,8 +12,8 @@ tags:
   - 'romance'
 updated: '2026-04-18'
 pinyin: 'yuánfèn'
-factual_review: 'verified'
-factual_sources:
+content_review: 'verified'
+content_sources:
   - 'Unihan'
 ---
 

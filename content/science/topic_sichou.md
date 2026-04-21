@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'science'
 status: 'complete'
+content_review: 'pending'
 title: '丝绸 · Silk'
 desc: 'The thread that built the first global trade network — Chinese silk, the secret of sericulture, and the road that carried it west.'
 metaDesc: "丝绸 sīchóu: Chinese silk — the discovery of sericulture, the guarded secret of silk production, the Silk Road trade network, and silk's role in Chinese luxury culture and diplomacy."

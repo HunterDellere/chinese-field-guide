@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'religion'
 status: 'complete'
+content_review: 'pending'
 title: '祖先崇拜 · Ancestor Veneration'
 desc: 'The deep continuity — tablets, offerings, and the living debt to the dead.'
 metaDesc: "祖先崇拜 zǔxiān chóngbài: Chinese ancestor veneration — the ritual care of the dead, filial piety, ancestral halls, spirit tablets, and the living continuity between generations. The central practice of Chinese civilization."

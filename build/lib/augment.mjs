@@ -10,12 +10,12 @@ const HZ_RE = /[\u4e00-\u9fff]/;
 
 /**
  * Render a small Sources block from frontmatter. Merges fm.sources (general page
- * sources) with fm.factual_sources (sources consulted for factual review).
+ * sources) with fm.content_sources (sources consulted for content review).
  * Returns HTML block or empty string.
  */
 export function renderSourcesHtml(fm) {
   const general = Array.isArray(fm.sources) ? fm.sources : [];
-  const factual = Array.isArray(fm.factual_sources) ? fm.factual_sources : [];
+  const factual = Array.isArray(fm.content_sources) ? fm.content_sources : [];
   if (general.length === 0 && factual.length === 0) return '';
   // Render as a single list; factual-specific sources get a subtle prefix.
   const seen = new Set();

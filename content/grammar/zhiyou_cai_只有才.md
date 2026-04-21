@@ -2,6 +2,7 @@
 type: 'grammar'
 category: 'grammar'
 status: 'complete'
+content_review: 'pending'
 title: '只有…才 · only if…then; the restrictive conditional'
 desc: 'The exclusive condition — only when X is met can Y happen. The grammatical frame for necessity.'
 metaDesc: "只有…才 zhǐyǒu…cái: only if…then. Structure, 只有 vs. 只要, the 才 consequence marker, logical necessity vs. sufficiency, and examples."

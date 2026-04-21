@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'history'
 status: 'complete'
+content_review: 'pending'
 title: '清朝 · The Qing Dynasty'
 desc: 'Manchu rule, the long peace, and the slow unraveling before 1911.'
 metaDesc: "清朝 qīngcháo: China's last imperial dynasty (1644–1912), ruled by the Manchu people. The three great emperors, Opium Wars, unequal treaties, Taiping Rebellion, Empress Dowager Cixi, and the end of 2,000 years of imperial rule."

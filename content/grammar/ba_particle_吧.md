@@ -2,6 +2,7 @@
 type: 'grammar'
 category: 'grammar'
 status: 'complete'
+content_review: 'pending'
 title: '吧 · the suggestion and confirmation particle'
 desc: 'The softest word in Mandarin — how one syllable softens commands, hedges statements, and reads the room.'
 metaDesc: "吧 ba: the Mandarin sentence-final particle for suggestions, confirmations, and hedged statements. Usage patterns, tone distinctions, and comparison with 啊 and 呢."

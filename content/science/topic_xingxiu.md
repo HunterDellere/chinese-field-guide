@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'science'
 status: 'complete'
+content_review: 'pending'
 title: '星宿 · Chinese Constellations'
 desc: 'China mapped the entire sky independently of Greece — 1,464 stars, 28 lunar mansions, and four mythological guardians that divided the cosmos long before Ptolemy.'
 metaDesc: "星宿 xīngxiù: Chinese constellations — the 28 lunar mansions, the Three Enclosures of the northern sky, the four directional symbols, and the depth of the Chinese astronomical tradition compiled around 300 BCE."

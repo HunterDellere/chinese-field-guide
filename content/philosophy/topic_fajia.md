@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'philosophy'
 status: 'complete'
+content_review: 'pending'
 title: '法家 · Legalism'
 desc: 'Han Feizi, statecraft, and the realpolitik that unified China.'
 metaDesc: "法家 Legalism: the three pillars of 法 law, 术 technique, and 势 power; Han Feizi, Shang Yang, and the Qin dynasty as Legalism's laboratory. The statecraft that unified China."

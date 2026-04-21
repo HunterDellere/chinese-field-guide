@@ -51,15 +51,15 @@ if (fs.existsSync(findingsPath)) {
 
 const entries = JSON.parse(fs.readFileSync(entriesPath, 'utf8'));
 
-// ── Supplemental frontmatter (factual_review, factual_sources) ──────────────
+// ── Supplemental frontmatter (content_review, content_sources) ──────────────
 const review = {};
 for (const e of entries) {
   const src = path.join(ROOT, e.path.replace(/^pages\//, 'content/').replace(/\.html$/, '.md'));
   if (!fs.existsSync(src)) continue;
   const { data: fm } = matter(fs.readFileSync(src, 'utf8'));
   review[e.path] = {
-    factual_review:   fm.factual_review   || null,
-    factual_sources:  fm.factual_sources  || [],
+    content_review:   fm.content_review   || null,
+    content_sources:  fm.content_sources  || [],
     status:   fm.status,
     type:     fm.type,
     category: fm.category,
@@ -72,15 +72,17 @@ for (const e of entries) {
   };
 }
 
-// ── Factual-review state counts ──────────────────────────────────────────────
-const reviewable = Object.entries(review).filter(([, r]) =>
-  r.status === 'complete' && (r.type === 'character' || r.type === 'vocab')
-);
+// ── Content-review state counts ──────────────────────────────────────────────
+// Reviewable = all complete pages. Stubs are excluded.
+const reviewable = Object.entries(review).filter(([, r]) => r.status === 'complete');
+const reviewableCount = reviewable.length;
 const stateCounts = { verified: 0, pending: 0, unverified: 0, missing: 0 };
 for (const [, r] of reviewable) {
-  const s = r.factual_review || 'missing';
+  const s = r.content_review || 'missing';
   stateCounts[s in stateCounts ? s : 'missing']++;
 }
+const stubCount   = entries.filter(e => e.status === 'stub').length;
+const completeCount = entries.filter(e => e.status === 'complete').length;
 
 // ── Group findings by file ──────────────────────────────────────────────────
 const findingsByFile = {};
@@ -181,8 +183,8 @@ for (const e of entries) {
     updated:   r.updated || e.updated,
     tags:      r.tags || e.tags || [],
     desc:      r.desc || e.desc || '',
-    factual_review:  r.factual_review,
-    factual_sources: r.factual_sources || [],
+    content_review:  r.content_review,
+    content_sources: r.content_sources || [],
     findings:  allFindings,
     inbound:   inboundLinks,
   };
@@ -196,13 +198,13 @@ const globalFindings = findings.filter(f =>
 // ── Build per-tab rows ────────────────────────────────────────────────────────
 
 function pageRowHtml(pagePath, r, rowFindings, includeState = false) {
-  const status = r.factual_review || 'missing';
+  const status = r.content_review || 'missing';
   const contentPath = pagePath.replace(/^pages\//, 'content/').replace(/\.html$/, '.md');
   const findingsHtml = rowFindings.length
     ? `<ul class="findings-list">${rowFindings.map(findingItemHtml).join('')}</ul>`
     : '<span class="no-findings">—</span>';
-  const sourcesHtml = (r.factual_sources || []).length
-    ? `<div class="p-sources">${r.factual_sources.map(s => `<span class="src">${esc(s)}</span>`).join(' ')}</div>`
+  const sourcesHtml = (r.content_sources || []).length
+    ? `<div class="p-sources">${r.content_sources.map(s => `<span class="src">${esc(s)}</span>`).join(' ')}</div>`
     : '';
   const titleHtml = r.char
     ? `${esc(r.char)} <span class="t-py">${esc(r.pinyin || '')}</span> — ${esc((r.title || '').replace(/^.*?·\s*/, ''))}`
@@ -212,7 +214,7 @@ function pageRowHtml(pagePath, r, rowFindings, includeState = false) {
   const ageStr  = ageDays !== null ? `${ageDays}d ago` : '';
 
   return `<tr class="row row-${esc(r.status || 'complete')}"
-    data-status="${esc(r.factual_review || 'missing')}"
+    data-status="${esc(r.content_review || 'missing')}"
     data-type="${esc(r.type || '')}"
     data-category="${esc(r.category || '')}"
     data-level="${esc(rowFindings.length ? rowFindings.reduce((m, f) => { const o={ERROR:3,WARN:2,INFO:1}; return o[f.level]>o[m]?f.level:m; }, 'INFO') : '')}"
@@ -236,11 +238,11 @@ function pageRowHtml(pagePath, r, rowFindings, includeState = false) {
 // ── Tab: Needs Review ─────────────────────────────────────────────────────────
 // Combines: review state issues (missing/unverified/pending) + any ERROR finding across all categories
 const needsReviewEntries = reviewable
-  .filter(([, r]) => (r.factual_review || 'missing') !== 'verified')
+  .filter(([, r]) => (r.content_review || 'missing') !== 'verified')
   .sort((a, b) => {
     const order = { missing: 0, unverified: 1, pending: 2 };
-    const ka = a[1].factual_review || 'missing';
-    const kb = b[1].factual_review || 'missing';
+    const ka = a[1].content_review || 'missing';
+    const kb = b[1].content_review || 'missing';
     if (order[ka] !== order[kb]) return order[ka] - order[kb];
     return a[0].localeCompare(b[0]);
   });
@@ -302,7 +304,7 @@ function buildCategoryTabRows(categories) {
     // Use entry review data if we have it, otherwise build minimal stub
     const rData = review[p] || {
       title: p, type: r.type || '', category: r.category || '',
-      updated: r.updated, factual_review: null,
+      updated: r.updated, content_review: null,
     };
     return pageRowHtml(p, rData, rowFindings, false);
   }).join('');
@@ -387,6 +389,10 @@ const CSS = `
   .stat-item.s-unverified .stat-n { color: var(--adm-red); }
   .stat-item.s-err  .stat-n { color: var(--adm-red); }
   .stat-item.s-warn .stat-n { color: var(--adm-amber); }
+  .stat-item.stat-scope { flex: 0 0 auto; min-width: 0; padding: 0.35rem 0.65rem; justify-content: flex-end; border-right: none; }
+  .stat-item.stat-scope .stat-n { font-size: 0.75rem; color: var(--adm-ink3); }
+  .stat-item.stat-scope .stat-l { color: var(--adm-ink3); }
+  .stat-n-sm { font-size: 0.9rem !important; }
 
   /* ── Tabs ── */
   .tabs { display: flex; border-bottom: 1px solid var(--adm-rule); margin-bottom: 1rem; flex-wrap: wrap; gap: 0; }
@@ -733,8 +739,8 @@ function openDrawer(path) {
       '<div class="drawer-kv">' +
         '<span class="dk">status</span><span class="dv">' + esc(data.status||'—') + '</span>' +
         '<span class="dk">updated</span><span class="dv">' + esc(data.updated||'—') + ' (' + esc(ageStr) + ')</span>' +
-        '<span class="dk">factual_review</span><span class="dv">' + esc(data.factual_review||'—') + '</span>' +
-        (data.factual_sources && data.factual_sources.length ? '<span class="dk">sources</span><span class="dv">' + data.factual_sources.map(function(s){return'<span class="src">'+esc(s)+'</span>';}).join(' ') + '</span>' : '') +
+        '<span class="dk">content_review</span><span class="dv">' + esc(data.content_review||'—') + '</span>' +
+        (data.content_sources && data.content_sources.length ? '<span class="dk">sources</span><span class="dv">' + data.content_sources.map(function(s){return'<span class="src">'+esc(s)+'</span>';}).join(' ') + '</span>' : '') +
         '<span class="dk">tags</span><span class="dv">' + tagsHtml + '</span>' +
         '<span class="dk">desc</span><span class="dv" style="font-size:0.78rem;color:var(--adm-ink2)">' + esc(data.desc||'—') + '</span>' +
       '</div>' +
@@ -1071,7 +1077,7 @@ var _reveal = setInterval(function () {
     </div>
   </header>
 
-  <!-- Stat bar: review state + severity counts in one compact row -->
+  <!-- Stat bar: review state + severity counts + entry totals -->
   <div class="stat-bar">
     <div class="stat-item s-verified">
       <span class="stat-n">${stateCounts.verified}</span>
@@ -1084,6 +1090,10 @@ var _reveal = setInterval(function () {
     <div class="stat-item s-unverified">
       <span class="stat-n">${stateCounts.unverified}</span>
       <span class="stat-l">Unverified</span>
+    </div>
+    <div class="stat-item stat-scope">
+      <span class="stat-n stat-n-sm">${reviewableCount}</span>
+      <span class="stat-l">reviewable</span>
     </div>
     <div class="stat-item stat-group-start s-err">
       <span class="stat-n">${summary.errors || 0}</span>
@@ -1098,8 +1108,16 @@ var _reveal = setInterval(function () {
       <span class="stat-l">Info</span>
     </div>
     <div class="stat-item stat-group-start">
+      <span class="stat-n">${completeCount}</span>
+      <span class="stat-l">Complete</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-n">${stubCount}</span>
+      <span class="stat-l">Stubs</span>
+    </div>
+    <div class="stat-item">
       <span class="stat-n">${entries.length}</span>
-      <span class="stat-l">Total entries</span>
+      <span class="stat-l">Total</span>
     </div>
   </div>
 

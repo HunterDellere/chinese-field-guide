@@ -15,8 +15,8 @@ pinyin: 'zǒu'
 tone: 3
 hsk: 1
 radical: '走'
-factual_review: 'verified'
-factual_sources:
+content_review: 'verified'
+content_sources:
   - 'Unihan'
 ---
 

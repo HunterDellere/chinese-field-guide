@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'daily'
 status: 'complete'
+content_review: 'pending'
 title: '红白喜事 · Weddings & Funerals'
 desc: 'The phrase itself tells the story: red and white, marriage and death, both require the same thing — the whole community showing up.'
 metaDesc: "红白喜事 hóngbái xǐshì: weddings and funerals in Chinese culture — the six rites, the red sedan chair, betrothal gifts, mourning customs, ghost money, and why both occasions are called joyful events."

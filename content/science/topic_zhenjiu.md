@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'science'
 status: 'complete'
+content_review: 'pending'
 title: '针灸 · Acupuncture'
 desc: 'Needles, meridians, and the ancient practice that resists simple verdicts from modern science.'
 metaDesc: "针灸 zhēnjiǔ: acupuncture and moxibustion — meridian theory, the 12 main channels, the bronze man atlas, the sensation of deqi, and what clinical research actually shows."

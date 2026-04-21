@@ -2,6 +2,7 @@
 type: 'grammar'
 category: 'grammar'
 status: 'complete'
+content_review: 'pending'
 title: '比 · comparison structure'
 desc: "Mandarin's primary comparison marker — A 比 B + Adj expresses difference, not just ranking."
 metaDesc: "比 bǐ: the comparison structure in Mandarin. How to express 'more than' with 比, the degree complement, negation, and the difference from English comparatives."

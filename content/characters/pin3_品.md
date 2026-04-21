@@ -17,8 +17,8 @@ pinyin: 'pǐn'
 tone: 3
 hsk: 3
 radical: '口'
-factual_review: 'verified'
-factual_sources:
+content_review: 'verified'
+content_sources:
   - 'Unihan'
 ---
 

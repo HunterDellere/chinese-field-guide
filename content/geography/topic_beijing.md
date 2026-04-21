@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'geography'
 status: 'complete'
+content_review: 'pending'
 title: '北京 · Beijing'
 desc: 'Capital geography — the hutong grid, the Forbidden City, and the northern axis that has organized Chinese power for seven centuries.'
 metaDesc: "北京 Běijīng: Beijing — the Forbidden City, the central axis, hutong lane networks, the meaning of the city's names across dynasties, and Beijing as a lens on Chinese political geography."

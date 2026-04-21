@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'religion'
 status: 'complete'
+content_review: 'pending'
 title: '民间信仰 · Folk Religion'
 desc: 'Kitchen gods, city gods, and the living popular religion beneath Buddhism and Daoism.'
 metaDesc: "民间信仰 mínjiān xìnyǎng: Chinese folk religion — the diffuse blend of Confucian ethics, Daoist cosmology, Buddhist karma, and animism that underlies everyday Chinese spiritual life. Deity hierarchies, festivals, temple culture, taboos, and contemporary practice."

@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'science'
 status: 'complete'
+content_review: 'pending'
 title: '风水 · Geomancy as Proto-Science'
 desc: 'Before the terms ecology, hydrology, and orientation science existed, the fengshui master was reading the same landscape — just with a different vocabulary.'
 metaDesc: "风水 fēngshuǐ: geomancy as proto-science — burial and living site selection, qi flow and landscape reading, the luopan compass, Form School versus Compass School, and fengshui in contemporary architecture."

@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'philosophy'
 status: 'complete'
+content_review: 'pending'
 title: '易经 · The Book of Changes'
 desc: 'The oldest and most cryptic of the Chinese classics — a manual of divination, a philosophy of change, and a map of the universe encoded in 64 hexagrams.'
 metaDesc: "易经 Yìjīng: the 64 hexagrams, yin and yang lines, the binary logic of change, and the text that underpins Chinese cosmology, medicine, divination, and philosophy."

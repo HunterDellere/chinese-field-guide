@@ -16,8 +16,8 @@ pinyin: 'gào'
 tone: 4
 hsk: 3
 radical: '口'
-factual_review: 'verified'
-factual_sources:
+content_review: 'verified'
+content_sources:
   - 'Unihan'
 ---
 

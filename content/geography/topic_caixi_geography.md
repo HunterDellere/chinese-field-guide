@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'geography'
 status: 'complete'
+content_review: 'pending'
 title: '八大菜系 · Cuisines as Geography'
 desc: 'Read the Eight Great Cuisines as a geographic document — what the land, climate, and trade routes of each region produced at the table, and what the table tells you about the land.'
 metaDesc: "八大菜系 Bādà Càixì: the Eight Great Cuisines as geography — how terrain, climate, and trade shaped Lu, Sichuan, Cantonese, Jiangsu, Zhejiang, Fujian, Hunan, and Anhui cooking."

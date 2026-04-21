@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'history'
 status: 'complete'
+content_review: 'pending'
 title: '文化大革命 · The Cultural Revolution'
 desc: "1966–76: Red Guards, struggle sessions, and the destruction of the past."
 metaDesc: "文化大革命 wénhuà dà gémìng (1966–1976): Mao Zedong's campaign against the Four Olds, Red Guards, struggle sessions, the Send-Down Movement, the Gang of Four, and the official verdict of history."

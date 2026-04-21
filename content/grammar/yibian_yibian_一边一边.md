@@ -2,6 +2,7 @@
 type: 'grammar'
 category: 'grammar'
 status: 'complete'
+content_review: 'pending'
 title: '一边…一边 · while doing; at the same time'
 desc: 'Simultaneous actions — the frame for describing two things happening at once.'
 metaDesc: "一边…一边 yībiān…yībiān: while doing; at the same time. Structure, subject rules, 一边 vs. 边 vs. 同时 vs. 又…又, and common patterns."

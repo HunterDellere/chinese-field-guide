@@ -2,6 +2,7 @@
 type: 'grammar'
 category: 'grammar'
 status: 'complete'
+content_review: 'pending'
 title: '越来越 · more and more; increasingly'
 desc: 'The degree escalation pattern — expressing a quality that grows continuously over time.'
 metaDesc: "越来越 yuèláiyuè: more and more; increasingly. Structure, the 越…越 comparative frame, negation, and the full degree-change family."

@@ -14,8 +14,8 @@ updated: '2026-04-19'
 pinyin: 'shǒu zhū dài tù'
 sources:
   - 'Hánfēizǐ 韩非子, "Wǔ dù" 五蠹 chapter (3rd century BCE) — original parable, used by Hán Fēi as a critique of Confucian conservatism'
-factual_review: 'verified'
-factual_sources:
+content_review: 'verified'
+content_sources:
   - 'Unihan'
 ---
 

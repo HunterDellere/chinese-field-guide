@@ -2,6 +2,7 @@
 type: 'grammar'
 category: 'grammar'
 status: 'complete'
+content_review: 'pending'
 title: '而且 · moreover, and furthermore'
 desc: 'Additive conjunction that layers information — not just "and" but "and on top of that."'
 metaDesc: "而且 érqiě: the additive conjunction meaning 'moreover, and furthermore.' Patterns, difference from 也/还/又, paired constructions, and spoken vs. written register."

@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'arts'
 status: 'complete'
+content_review: 'pending'
 title: '唐诗 · Tang Poetry'
 desc: 'Li Bai, Du Fu, and the golden age of regulated verse.'
 metaDesc: "唐诗 tángshī: Tang dynasty poetry — the regulated lüshi, Li Bai's romantic genius, Du Fu's moral witness, and why China still memorizes these verses today."

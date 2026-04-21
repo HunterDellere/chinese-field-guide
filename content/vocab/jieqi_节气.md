@@ -13,8 +13,8 @@ tags:
   - 'cosmology'
 updated: '2026-04-19'
 pinyin: 'jiéqì'
-factual_review: 'verified'
-factual_sources:
+content_review: 'verified'
+content_sources:
   - 'Unihan'
 ---
 

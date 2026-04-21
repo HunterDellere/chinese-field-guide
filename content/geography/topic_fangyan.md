@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'geography'
 status: 'complete'
+content_review: 'pending'
 title: '方言 · The Dialect Map'
 desc: 'Chinese is not one language but a family — seven major dialect groups whose speakers cannot understand one another, united by a shared written script and divided by a history of geography and migration.'
 metaDesc: "方言 Fāngyán: Chinese dialects — Mandarin, Cantonese, Hokkien, Wu, Hakka, Gan, Xiang, mutual intelligibility, Putonghua standardization, and topolects vs. dialects."

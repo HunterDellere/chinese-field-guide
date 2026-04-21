@@ -307,13 +307,13 @@ For character stubs use `.hero` + `.hero-glyph` / `.hero-pinyin` / `.hero-en` / 
 
 ---
 
-## Factual Review
+## Content Review
 
-Every character and vocab page carries a `factual_review` frontmatter field (`verified` / `pending` / `unverified`). Backfilled pages default to `pending`. **The status is not shown on public pages** — it's surfaced only through the admin dashboard.
+Every complete page carries a `content_review` frontmatter field (`verified` / `pending` / `unverified`). All complete pages default to `pending`. **The status is not shown on public pages** — it's surfaced only through the admin dashboard.
 
 **Admin dashboard** (not linked from public surfaces): `/pages/_admin/review.html`. Generated on every `npm run build`. Bookmark the URL. The dashboard shows:
-- Counts by review status
-- Filterable table of every reviewable page (character / vocab) with status, validator findings inline, and a link to edit the source
+- Counts by review status across all complete pages
+- Filterable table of every reviewable page with status, validator findings inline, and a link to edit the source
 - Global findings (e.g. coverage gaps)
 
 The admin page carries `<meta name="robots" content="noindex,nofollow">`. It's excluded from `sitemap.xml`, `feed.xml`, `data/search-index.json`, `data/entries.json`, and the check.mjs orphan/layout invariants (anything under `pages/_*` is treated as a generated dashboard).
@@ -322,9 +322,9 @@ The admin page carries `<meta name="robots" content="noindex,nofollow">`. It's e
 - Cross-checks frontmatter `radical`, `pinyin`, `tone` against `data/_reference/hanzi-facts.json` (a site-filtered subset of Unihan + CC-CEDICT + IDS data).
 - Extracts every `X = Y + Z` claim from etymology prose and verifies the components match the IDS decomposition, with radical-variant and simp↔trad equivalence applied.
 - Checks `phonetic` claims against the reference phonetic component.
-- Fails the build if a `status: complete` character/vocab page is missing `factual_review`, or if `factual_review: verified` lacks `factual_sources`.
+- Fails the build if a `status: complete` page is missing `content_review`, or if `content_review: verified` lacks `content_sources`.
 
-Before flipping a page from `pending` to `verified`: follow the checklist in `templates/_drafting/factual-review.md`, populate `factual_sources` (e.g. `['Outlier', 'Wenlin', 'Shuōwén']`), and bump `updated`.
+Before flipping a page from `pending` to `verified`: follow the checklist in `templates/_drafting/factual-review.md`, populate `content_sources` (e.g. `['Outlier', 'Wenlin', 'Shuōwén']`), and bump `updated`.
 
 ### Reference data is durable (no network dependency at build time)
 

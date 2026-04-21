@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'religion'
 status: 'complete'
+content_review: 'pending'
 title: '妈祖 · the Sea Goddess'
 desc: 'Coastal goddess of sailors, fishermen, and the overseas Chinese diaspora.'
 metaDesc: "妈祖 māzǔ: the sea goddess of the Chinese maritime world — historical origin, legends, her divine attendants 千里眼 and 顺风耳, geographic spread from Fujian to Southeast Asia, and UNESCO heritage status. The patron deity of sailors and the overseas Chinese diaspora."

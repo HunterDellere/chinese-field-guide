@@ -2,6 +2,7 @@
 type: 'topic'
 category: 'religion'
 status: 'complete'
+content_review: 'pending'
 title: '萨满教 · Shamanism'
 desc: 'Manchu, Mongol, and northern indigenous shamanic traditions.'
 metaDesc: "萨满教 sàmǎn jiào: Shamanism — the indigenous spiritual tradition of the Manchu, Mongol, Evenki, and Oroqen peoples of northern China and Inner Asia. The shaman's role, three-world cosmology, ritual costume, Manchu state shamanism, and contemporary revival."

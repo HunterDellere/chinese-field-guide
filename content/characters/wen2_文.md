@@ -17,8 +17,8 @@ pinyin: 'wén'
 tone: 2
 hsk: 2
 radical: '文'
-factual_review: 'verified'
-factual_sources:
+content_review: 'verified'
+content_sources:
   - 'Unihan'
 ---
 

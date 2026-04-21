@@ -15,8 +15,8 @@ pinyin: 'zài'
 tone: 4
 hsk: 2
 radical: '冂'
-factual_review: 'verified'
-factual_sources:
+content_review: 'verified'
+content_sources:
   - 'Unihan'
 ---
 

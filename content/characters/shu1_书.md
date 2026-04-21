@@ -16,8 +16,8 @@ pinyin: 'shū'
 tone: 1
 hsk: {from: 1, to: 3}
 radical: '乛'
-factual_review: 'verified'
-factual_sources:
+content_review: 'verified'
+content_sources:
   - 'Unihan'
 ---
 

@@ -7,7 +7,7 @@
  *   - Topic/vocab/grammar/chengyu pages missing <header class="topic-hero"> (WARN)
  *   - complete pages missing any section-anchor at all (WARN)
  *   - Inconsistent tone markers: hero pinyin diacritic ≠ frontmatter tone number (ERROR)
- *   - Entries with factual_review:verified but no visible sources block (WARN)
+ *   - Entries with content_review:verified but no visible sources block (WARN)
  *   - Vocab-card examples with Chinese text but no pinyin span (INFO)
  *
  * Reads pages/**\/*.html (generated) + content/**\/*.md (frontmatter).
@@ -113,11 +113,11 @@ for (const pageFull of walkPages(PAGES)) {
   }
 
   // ── 5. Verified entries: sources block should be present ─────────────────
-  if (fm.factual_review === 'verified') {
+  if (fm.content_review === 'verified') {
     const hasSources = /class="sources|id="sources|<div[^>]+sources/.test(html) ||
-                       (fm.factual_sources && fm.factual_sources.length > 0);
+                       (fm.content_sources && fm.content_sources.length > 0);
     if (!hasSources) {
-      emit('WARN', relFile, `factual_review:verified but no sources block found`, {
+      emit('WARN', relFile, `content_review:verified but no sources block found`, {
         fix: 'Add a Sources section to the page body listing the reference works consulted',
       });
     }

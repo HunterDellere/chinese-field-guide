@@ -2,6 +2,7 @@
 type: 'grammar'
 category: 'grammar'
 status: 'complete'
+content_review: 'pending'
 title: '从 · from, since, following'
 desc: "The preposition of origin and following — 从 marks the starting point of movement in space and time, and appears in essential patterns for expressing duration, routes, and rules."
 metaDesc: "从 cóng: from, since, following. How 从 marks spatial origin (from a place), temporal origin (since a time), and adherence (following a rule). Key patterns with 从来/从此/从…到…"
