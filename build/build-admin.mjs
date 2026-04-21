@@ -533,7 +533,8 @@ function markUnresolved(path) {
 }
 function refreshResolvedUI() {
   const r = loadResolved();
-  const showResolved = document.getElementById('show-resolved') && document.getElementById('show-resolved').checked;
+  const cb = document.getElementById('show-resolved-global');
+  const showResolved = cb && cb.checked;
   document.querySelectorAll('tr.row[data-path]').forEach(function(row) {
     const p = row.dataset.path;
     if (r[p]) {
@@ -569,7 +570,7 @@ function applyFilters(tabId) {
   var fLevel    = panel.querySelector('.f-level-sel');
   var fFindings = panel.querySelector('.f-findings');
   var fSearch   = panel.querySelector('.f-search');
-  var showRes   = document.getElementById('show-resolved');
+  var showRes   = document.getElementById('show-resolved-global');
 
   var status  = fStatus   ? fStatus.value.trim()   : '';
   var type    = fType     ? fType.value.trim()      : '';
@@ -805,8 +806,8 @@ document.addEventListener('DOMContentLoaded', function() {
     panel.querySelectorAll('.f-status, .f-type, .f-level-sel, .f-findings, .f-search').forEach(function(el) {
       el.addEventListener('input', function() { applyFilters(tabId); });
     });
-    var showRes = document.getElementById('show-resolved');
-    if (showRes) showRes.addEventListener('change', function() { applyFilters(tabId); });
+    var showRes = document.getElementById('show-resolved-global');
+    if (showRes) showRes.addEventListener('change', function() { refreshResolvedUI(); applyFilters(tabId); });
     // Sort headers
     panel.querySelectorAll('th[data-sort]').forEach(function(th) {
       th.addEventListener('click', function() { sortTable(tabId, th.dataset.sort); });
@@ -836,7 +837,6 @@ function filterBarHtml(tabId, includeStateFilter = false) {
     <label>Search <input type="text" class="f-search" placeholder="title, char, tag…"></label>
     <span class="filter-count"></span>
     <div class="filter-actions">
-      <label style="font-size:0.72rem">Show resolved <input type="checkbox" id="show-resolved"></label>
       <button class="export-btn">Copy as markdown</button>
     </div>
   </div>`;
@@ -934,7 +934,6 @@ const html = `<!DOCTYPE html>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="robots" content="noindex,nofollow,noarchive,nosnippet">
 <title>角落書屋 Admin</title>
-<link rel="stylesheet" href="../../style.css">
 <style>${CSS}</style>
 <script>
 // Passphrase gate. Failure closes silently (redirects home). Success persists in
@@ -990,6 +989,9 @@ var _reveal = setInterval(function () {
       <div class="meta">findings generated ${esc(genTime)} · ${summary.errors || 0} errors · ${summary.warnings || 0} warnings · ${summary.info || 0} info</div>
     </div>
     <div class="adm-header-right">
+      <label style="font-size:0.72rem;font-family:var(--adm-mono);color:var(--adm-ink3);display:block;margin-bottom:0.4rem">
+        <input type="checkbox" id="show-resolved-global"> show resolved
+      </label>
       <div class="adm-lock-out" onclick="lockOut()">lock out</div>
     </div>
   </header>
