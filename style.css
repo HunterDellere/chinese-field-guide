@@ -1818,7 +1818,7 @@ a.pf-btn-share:focus-visible, button.pf-btn-share:focus-visible {
   .topnav, .reading-progress, .toc-toggle, .sidebar,
   .back-to-top, .audio-btn, .stroke-order, .prev-next,
   .related, .footer-back, .skip-link,
-  .filter-bar, .hsk-chips, .filter-suggest, .no-results,
+  .filter-bar, .filter-suggest, .no-results,
   .start-here-section, .recent-section, .legend-section, .colophon,
   .hero-ctas, .index-stats {
     display: none !important;

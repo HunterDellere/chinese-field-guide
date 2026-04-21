@@ -395,27 +395,6 @@
       }
     }
 
-    // ── category jump-strip (replaces the removed overview section) ──────────
-    // Compact pill-strip at the top of Browse: one chip per category with glyph,
-    // name, and count. Scrolls the category into view and expands it on click.
-    (function renderJumpstrip() {
-      const strip = document.getElementById("cat-jumpstrip");
-      if (!strip) return;
-      const frag = document.createDocumentFragment();
-      CAT_ORDER.forEach(key => {
-        const count = groups[key] ? groups[key].length : 0;
-        if (!count) return;
-        const meta = CATEGORY_META[key];
-        const chip = document.createElement("a");
-        chip.href = "#cat-" + key;
-        chip.className = "jumpstrip-chip";
-        chip.dataset.category = key;
-        chip.innerHTML = `<span class="js-glyph">${meta.cn}</span><span class="js-name">${meta.en}</span><span class="js-count">${count}</span>`;
-        frag.appendChild(chip);
-      });
-      strip.appendChild(frag);
-    })();
-
     // ── recent grid ────────────────────────────────────────────────────────────
     // Uses data/recent.json (sorted by updated desc at build time) so the order
     // is stable and meaningful — not re-derived from the full entry list.
@@ -864,70 +843,5 @@
     } catch {}
 
     applySearch();
-
-    // ── Browse HSK filter (independent — only collapses/expands category groups) ─
-    const hskChipsEl = document.getElementById("hsk-chips");
-    if (hskChipsEl) {
-      const counts = { 1:0, 2:0, 3:0, 4:0, 5:0, 6:0 };
-      for (const e of allEntries) {
-        if (typeof e.hsk === 'number' && counts[e.hsk] !== undefined) counts[e.hsk]++;
-        else if (e.hsk && typeof e.hsk === 'object' && e.hsk.from) {
-          for (let n = e.hsk.from; n <= e.hsk.to; n++) {
-            if (counts[n] !== undefined) counts[n]++;
-          }
-        }
-      }
-      const activeLevels = [1,2,3,4,5,6].filter(n => counts[n] > 0);
-      if (activeLevels.length === 0) {
-        hskChipsEl.style.display = "none";
-      } else {
-        hskChipsEl.innerHTML =
-          `<span class="hsk-chips-label">HSK</span>` +
-          activeLevels.map(n =>
-            `<button class="hsk-chip" data-hsk="${n}" type="button" aria-pressed="false" title="${counts[n]} ${counts[n] === 1 ? 'entry' : 'entries'}">${n} <span class="hsk-count">${counts[n]}</span></button>`
-          ).join("") +
-          `<button class="hsk-chip hsk-chip-clear" data-hsk="" type="button">Clear</button>`;
-
-        let activeHsk = null;
-        hskChipsEl.addEventListener("click", e => {
-          const btn = e.target.closest(".hsk-chip");
-          if (!btn) return;
-          const level = btn.dataset.hsk ? parseInt(btn.dataset.hsk, 10) : null;
-          const wasActive = activeHsk === level;
-          hskChipsEl.querySelectorAll(".hsk-chip").forEach(b => {
-            b.classList.remove("active");
-            b.setAttribute("aria-pressed", "false");
-          });
-          activeHsk = (!wasActive && level) ? level : null;
-          if (activeHsk) {
-            btn.classList.add("active");
-            btn.setAttribute("aria-pressed", "true");
-          }
-          // Show only category groups containing entries at this HSK level.
-          Object.keys(catGroupMap).forEach(key => {
-            const g = catGroupMap[key];
-            if (!activeHsk) {
-              g.groupEl.classList.remove("hidden");
-            } else {
-              const hasMatch = g.entries.some(entry => {
-                if (typeof entry.hsk === 'number') return entry.hsk === activeHsk;
-                if (entry.hsk && typeof entry.hsk === 'object') return entry.hsk.from <= activeHsk && activeHsk <= entry.hsk.to;
-                return false;
-              });
-              g.groupEl.classList.toggle("hidden", !hasMatch);
-            }
-          });
-          container.querySelectorAll('.cat-family').forEach(familyEl => {
-            let node = familyEl.nextElementSibling;
-            let anyVisible = false;
-            while (node && !node.classList.contains('cat-family')) {
-              if (node.classList.contains('cat-group') && !node.classList.contains('hidden')) { anyVisible = true; break; }
-              node = node.nextElementSibling;
-            }
-            familyEl.classList.toggle('hidden', !anyVisible);
-          });
-        });
-      }
-    }
   } // end boot()
 })();
