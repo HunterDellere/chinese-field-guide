@@ -1,5 +1,24 @@
 [
   {
+    "path": "pages/characters/lai2_来.html",
+    "type": "character",
+    "category": "characters",
+    "title": "来 · to come, to arrive, toward the speaker",
+    "desc": "Oracle bone wheat plant turned direction-word — 来 pulls everything toward the speaker, including time itself.",
+    "tags": [
+      "direction",
+      "motion",
+      "grammar"
+    ],
+    "status": "complete",
+    "char": "来",
+    "pinyin": "lái",
+    "tone": 2,
+    "hsk": 1,
+    "radical": "木",
+    "updated": "2026-04-22"
+  },
+  {
     "path": "pages/characters/qi2_其.html",
     "type": "character",
     "category": "characters",
@@ -19,6 +38,114 @@
     "hsk": 4,
     "radical": "八",
     "updated": "2026-04-22"
+  },
+  {
+    "path": "pages/characters/qu4_去.html",
+    "type": "character",
+    "category": "characters",
+    "title": "去 · to go, to leave, to depart, to remove",
+    "desc": "The character that marks every departure — from leaving the house to the euphemism for death, 去 is the verb of things moving away.",
+    "tags": [
+      "direction",
+      "motion",
+      "grammar"
+    ],
+    "status": "complete",
+    "char": "去",
+    "pinyin": "qù",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "厶",
+    "updated": "2026-04-22"
+  },
+  {
+    "path": "pages/characters/shang4_上.html",
+    "type": "character",
+    "category": "characters",
+    "title": "上 · above, up, to go up, to mount",
+    "desc": "The most productive spatial primitive in Chinese — 上 starts as a notch above a line and ends up meaning everything from logging on to getting addicted.",
+    "tags": [
+      "direction",
+      "grammar",
+      "motion"
+    ],
+    "status": "complete",
+    "char": "上",
+    "pinyin": "shàng",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "一",
+    "updated": "2026-04-22"
+  },
+  {
+    "path": "pages/characters/xia4_下.html",
+    "type": "character",
+    "category": "characters",
+    "title": "下 · below, down, to descend, to issue",
+    "desc": "The mirror image of 上 — a notch below the line that governs everything from going downstairs to issuing imperial decrees.",
+    "tags": [
+      "direction",
+      "grammar",
+      "motion"
+    ],
+    "status": "complete",
+    "char": "下",
+    "pinyin": "xià",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "一",
+    "updated": "2026-04-22"
+  },
+  {
+    "path": "pages/grammar/zhe_着.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "着 · the continuous aspect marker",
+    "desc": "Three distinct jobs: holding a state, linking two actions, and commanding attention — all from a single particle that beginners collapse into one.",
+    "tags": [
+      "aspect",
+      "particle",
+      "grammar",
+      "syntax"
+    ],
+    "status": "complete",
+    "pinyin": "zhe",
+    "updated": "2026-04-22"
+  },
+  {
+    "path": "pages/hubs/wenxue.html",
+    "type": "hub",
+    "category": "hubs",
+    "title": "文学路径 · Literary China — A Reading Path",
+    "desc": "Chinese literature is not a sequence of styles that replaced each other. It is an accumulation. This path follows the layering forward in time.",
+    "tags": [
+      "literature",
+      "arts",
+      "poetry",
+      "hub"
+    ],
+    "status": "complete",
+    "pinyin": "wénxué lùjìng",
+    "updated": "2026-04-22",
+    "memberCount": 12
+  },
+  {
+    "path": "pages/hubs/zongjiao.html",
+    "type": "hub",
+    "category": "hubs",
+    "title": "宗教地图 · The Religious Map — A Reading Path",
+    "desc": "Chinese religiosity doesn't fit Western categories. Most people practice elements of Confucianism, Daoism, Buddhism, folk religion, and ancestor veneration simultaneously — a map of how these traditions relate.",
+    "tags": [
+      "religion",
+      "buddhism",
+      "daoism",
+      "confucianism",
+      "hub"
+    ],
+    "status": "complete",
+    "pinyin": "zōngjiào dìtú",
+    "updated": "2026-04-22",
+    "memberCount": 11
   },
   {
     "path": "pages/characters/chan3_产.html",
@@ -227,129 +354,5 @@
     ],
     "status": "complete",
     "updated": "2026-04-20"
-  },
-  {
-    "path": "pages/arts/topic_chuci.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "楚辞 · Songs of Chu",
-    "desc": "The shamanistic southern voice that gave Chinese literature its second pole — visionary, romantic, and inconsolably exiled.",
-    "tags": [
-      "poetry",
-      "literature",
-      "classical",
-      "history",
-      "culture"
-    ],
-    "status": "complete",
-    "pinyin": "chǔcí",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/arts/topic_kunqu.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "昆曲 · Kun Opera",
-    "desc": "The oldest surviving form of Chinese opera — refined to such perfection over four centuries that it nearly disappeared from its own beauty.",
-    "tags": [
-      "opera",
-      "theatre",
-      "performance",
-      "culture",
-      "history",
-      "classical",
-      "literature"
-    ],
-    "status": "complete",
-    "pinyin": "kūnqǔ",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/arts/topic_luxun.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "鲁迅 · Lu Xun",
-    "desc": "The writer who looked at traditional Chinese society and saw cannibalism — and the complicated, unresolvable legacy he left behind.",
-    "tags": [
-      "literature",
-      "history",
-      "culture",
-      "writing",
-      "classical"
-    ],
-    "status": "complete",
-    "pinyin": "lǔxùn",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/arts/topic_shijing.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "诗经 · Book of Songs",
-    "desc": "China oldest poetry anthology — three hundred poems that Confucius said no educated person could afford to ignore.",
-    "tags": [
-      "poetry",
-      "literature",
-      "classical",
-      "history",
-      "culture"
-    ],
-    "status": "complete",
-    "pinyin": "shījīng",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/arts/topic_shuimohua.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "水墨画 · Ink-Wash Painting",
-    "desc": "Where the brush meets philosophy — five tones of ink, the art of leaving space, and landscapes that are not about landscape at all.",
-    "tags": [
-      "art",
-      "brush",
-      "calligraphy",
-      "culture",
-      "history",
-      "classical"
-    ],
-    "status": "complete",
-    "pinyin": "shuǐmòhuà",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/arts/topic_songci.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "宋词 · Song Dynasty Lyric",
-    "desc": "The poem that sings — fixed tune patterns, named meters, and three masters who defined what the Chinese lyric could feel.",
-    "tags": [
-      "poetry",
-      "literature",
-      "classical",
-      "song",
-      "history",
-      "culture"
-    ],
-    "status": "complete",
-    "pinyin": "sòngcí",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/arts/topic_wenfangsibao.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "文房四宝 · Four Treasures of the Study",
-    "desc": "Brush, ink, inkstone, and paper — the four instruments through which a scholar thought, wrote, painted, and demonstrated who he was.",
-    "tags": [
-      "calligraphy",
-      "art",
-      "brush",
-      "culture",
-      "history",
-      "classical"
-    ],
-    "status": "complete",
-    "pinyin": "wénfáng sìbǎo",
-    "updated": "2026-04-19"
   }
 ]

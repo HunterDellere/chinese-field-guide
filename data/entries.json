@@ -1,5 +1,24 @@
 [
   {
+    "path": "pages/characters/lai2_来.html",
+    "type": "character",
+    "category": "characters",
+    "title": "来 · to come, to arrive, toward the speaker",
+    "desc": "Oracle bone wheat plant turned direction-word — 来 pulls everything toward the speaker, including time itself.",
+    "tags": [
+      "direction",
+      "motion",
+      "grammar"
+    ],
+    "status": "complete",
+    "char": "来",
+    "pinyin": "lái",
+    "tone": 2,
+    "hsk": 1,
+    "radical": "木",
+    "updated": "2026-04-22"
+  },
+  {
     "path": "pages/characters/qi2_其.html",
     "type": "character",
     "category": "characters",
@@ -19,6 +38,114 @@
     "hsk": 4,
     "radical": "八",
     "updated": "2026-04-22"
+  },
+  {
+    "path": "pages/characters/qu4_去.html",
+    "type": "character",
+    "category": "characters",
+    "title": "去 · to go, to leave, to depart, to remove",
+    "desc": "The character that marks every departure — from leaving the house to the euphemism for death, 去 is the verb of things moving away.",
+    "tags": [
+      "direction",
+      "motion",
+      "grammar"
+    ],
+    "status": "complete",
+    "char": "去",
+    "pinyin": "qù",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "厶",
+    "updated": "2026-04-22"
+  },
+  {
+    "path": "pages/characters/shang4_上.html",
+    "type": "character",
+    "category": "characters",
+    "title": "上 · above, up, to go up, to mount",
+    "desc": "The most productive spatial primitive in Chinese — 上 starts as a notch above a line and ends up meaning everything from logging on to getting addicted.",
+    "tags": [
+      "direction",
+      "grammar",
+      "motion"
+    ],
+    "status": "complete",
+    "char": "上",
+    "pinyin": "shàng",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "一",
+    "updated": "2026-04-22"
+  },
+  {
+    "path": "pages/characters/xia4_下.html",
+    "type": "character",
+    "category": "characters",
+    "title": "下 · below, down, to descend, to issue",
+    "desc": "The mirror image of 上 — a notch below the line that governs everything from going downstairs to issuing imperial decrees.",
+    "tags": [
+      "direction",
+      "grammar",
+      "motion"
+    ],
+    "status": "complete",
+    "char": "下",
+    "pinyin": "xià",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "一",
+    "updated": "2026-04-22"
+  },
+  {
+    "path": "pages/grammar/zhe_着.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "着 · the continuous aspect marker",
+    "desc": "Three distinct jobs: holding a state, linking two actions, and commanding attention — all from a single particle that beginners collapse into one.",
+    "tags": [
+      "aspect",
+      "particle",
+      "grammar",
+      "syntax"
+    ],
+    "status": "complete",
+    "pinyin": "zhe",
+    "updated": "2026-04-22"
+  },
+  {
+    "path": "pages/hubs/wenxue.html",
+    "type": "hub",
+    "category": "hubs",
+    "title": "文学路径 · Literary China — A Reading Path",
+    "desc": "Chinese literature is not a sequence of styles that replaced each other. It is an accumulation. This path follows the layering forward in time.",
+    "tags": [
+      "literature",
+      "arts",
+      "poetry",
+      "hub"
+    ],
+    "status": "complete",
+    "pinyin": "wénxué lùjìng",
+    "updated": "2026-04-22",
+    "memberCount": 12
+  },
+  {
+    "path": "pages/hubs/zongjiao.html",
+    "type": "hub",
+    "category": "hubs",
+    "title": "宗教地图 · The Religious Map — A Reading Path",
+    "desc": "Chinese religiosity doesn't fit Western categories. Most people practice elements of Confucianism, Daoism, Buddhism, folk religion, and ancestor veneration simultaneously — a map of how these traditions relate.",
+    "tags": [
+      "religion",
+      "buddhism",
+      "daoism",
+      "confucianism",
+      "hub"
+    ],
+    "status": "complete",
+    "pinyin": "zōngjiào dìtú",
+    "updated": "2026-04-22",
+    "memberCount": 11
   },
   {
     "path": "pages/characters/chan3_产.html",
