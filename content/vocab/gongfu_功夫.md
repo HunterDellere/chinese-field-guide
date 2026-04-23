@@ -3,7 +3,7 @@ type: 'vocab'
 category: 'vocab'
 status: 'complete'
 title: '功夫 · effort, skill over time'
-desc: 'Not just martial arts — the original meaning is mastery earned through time.'
+desc: 'Mastery earned through time — martial arts is the paradigm case, but the word covers any deeply cultivated skill.'
 metaDesc: "功夫 gōngfu: effort, time, skill, and the martial arts — the word that encodes China's deepest theory of mastery through sustained practice."
 pageTitle: '功夫 gōngfu'
 tags:
