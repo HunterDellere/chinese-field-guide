@@ -87,9 +87,9 @@ content_sources:
 
     <div class="scholar" data-glyph="缘">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>缘 yuán</strong> (edge; fringe; cause; karmic connection — silk 糸 + a character depicting a person climbing a tree along its edge 彖: clinging to the periphery, holding the thread) <strong>+ 分 fèn</strong> (portion; share; lot in life — from 八 to divide + 刀 knife: something cut and portioned out). The compound: the karmic portion that has been cut and assigned to you — the connections that were fated to occur.</p>
-      <p>缘 in Chinese Buddhism translates the Sanskrit term <em>pratyaya</em> (condition; cause; dependent arising) — the principle that every phenomenon arises due to causes and conditions that were set in motion previously. Nothing meets by pure chance; everything is the result of earlier seeds. 分 fèn is your allotted share — what fate has portioned to you, the way a meal is divided among guests.</p>
-      <p>Together: your allotted karmic connections — the specific people and encounters that were always going to be yours, because the causes were already in place. Originally a technical Buddhist term, 缘分 has been fully absorbed into everyday Chinese. You don't need to be Buddhist to use it. It has become the Chinese language's way of saying: some things that happen to us feel more than random, and that feeling deserves a word.</p>
+      <p><strong>缘 yuán</strong> (edge; fringe; cause; karmic connection; silk 糸 combined with a character depicting a person climbing a tree along its edge 彖, clinging to the periphery, holding the thread) <strong>+ 分 fèn</strong> (portion; share; lot in life; from 八 to divide + 刀 knife: something cut and portioned out). The compound: the karmic portion that has been cut and assigned to you, the connections that were fated to occur.</p>
+      <p>缘 in Chinese Buddhism translates the Sanskrit term <em>pratyaya</em> (condition; cause; dependent arising): the principle that every phenomenon arises due to causes and conditions set in motion previously. Nothing meets by pure chance; everything is the result of earlier seeds. 分 fèn is your allotted share, what fate has portioned to you, the way a meal is divided among guests.</p>
+      <p>Together: your allotted karmic connections, the specific people and encounters that were always going to be yours, because the causes were already in place. Originally a technical Buddhist term, 缘分 has been fully absorbed into everyday Chinese. You don't need to be Buddhist to use it. It has become the language's way of saying: some things that happen to us feel more than random, and that feeling deserves a word.</p>
     </div>
 
     <!-- ── DESTINED CONNECTION ── -->
@@ -207,9 +207,9 @@ content_sources:
 
     <div class="scholar" data-glyph="佛">
       <div class="scholar-label">佛教洞见 fójiào dòngjiàn · Buddhist Note</div>
-      <p>In Buddhist thought, 缘 (Sanskrit: <em>pratyaya</em> — condition; contributing cause) is a core concept in the doctrine of 缘起 yuánqǐ (dependent co-arising; pratītyasamutpāda): all phenomena arise dependent on prior causes and conditions. Nothing exists independently; nothing meets by pure chance. Every encounter is the ripening of seeds planted long ago — across this lifetime and previous ones.</p>
-      <p>The popular saying that captures this most vividly: <strong>五百年修得同船渡，千年修得共枕眠</strong> — "Five hundred years of cultivation to cross a river on the same boat; a thousand years to share a pillow." Even the briefest contact — a stranger on a ferry — required five centuries of karmic preparation. A lifetime partnership required a thousand years.</p>
-      <p>This framework makes every meaningful encounter precious. It also makes parting bittersweet rather than meaningless — if 缘分 brought you together, the parting is simply 缘分已尽 (the connection has run its course), not an accident or abandonment. Buddhist temporal scale transforms the emotional texture of every relationship.</p>
+      <p>In Buddhist thought, 缘 (Sanskrit: <em>pratyaya</em>, condition; contributing cause) is a core concept in the doctrine of 缘起 yuánqǐ (dependent co-arising; pratītyasamutpāda): all phenomena arise dependent on prior causes and conditions. Nothing exists independently; nothing meets by pure chance. Every encounter is the ripening of seeds planted long ago, across this lifetime and previous ones.</p>
+      <p>The popular saying that captures this most vividly: <strong>五百年修得同船渡，千年修得共枕眠</strong> — "Five hundred years of cultivation to cross a river on the same boat; a thousand years to share a pillow." Even the briefest contact with a stranger on a ferry required five centuries of karmic preparation. A lifetime partnership required a thousand years.</p>
+      <p>This framework makes every meaningful encounter precious. It also makes parting bittersweet rather than meaningless: if 缘分 brought you together, the parting is simply 缘分已尽 (the connection has run its course), not an accident or abandonment. Buddhist temporal scale transforms the emotional texture of every relationship.</p>
     </div>
 
     <div class="cards">
@@ -375,8 +375,8 @@ content_sources:
 
     <div class="scholar" data-glyph="月">
       <div class="scholar-label">神话洞见 shénhuà dòngjiàn · Mythological Note</div>
-      <p>The Chinese equivalent of the Western "red string of fate" begins with <strong>月老 Yuèlǎo</strong> — the Old Man Under the Moon, the deity of marriage and romantic fate. According to legend, Yuèlǎo ties couples together with a red thread (红线 hóngxiàn) at the moment of their birth — regardless of the distance between them, their social class, or their circumstances. The thread is invisible but indestructible; it will slowly draw them together.</p>
-      <p>This is not simply romantic mythology. It expresses the deeper logic of 缘分 in its most vivid form: the connection exists before the meeting. 有缘 people will find each other. 无缘 people will pass without recognition even face to face. The thread was there before either person arrived. When it is finally pulled taut and the meeting occurs, it is not coincidence — it is the thread becoming visible.</p>
+      <p>The Chinese equivalent of the Western "red string of fate" begins with <strong>月老 Yuèlǎo</strong>, the Old Man Under the Moon, the deity of marriage and romantic fate. According to legend, Yuèlǎo ties couples together with a red thread (红线 hóngxiàn) at the moment of their birth, regardless of the distance between them, their social class, or their circumstances. The thread is invisible but indestructible; it will slowly draw them together.</p>
+      <p>This expresses the deeper logic of 缘分 in its most vivid form: the connection exists before the meeting. 有缘 people will find each other. 无缘 people will pass without recognition even face to face. The thread was there before either person arrived. When it is finally pulled taut and the meeting occurs, it is the thread becoming visible, not coincidence.</p>
       <p>月老 remains an active figure in popular religion. Temples dedicated to Yuèlǎo receive worshippers who tie red threads around a stone or statue and pray for a destined partner to appear. The practice bridges ancient mythology and living contemporary devotion.</p>
     </div>
 
@@ -457,9 +457,9 @@ content_sources:
 
     <div class="scholar" data-glyph="随">
       <div class="scholar-label">哲学洞见 zhéxué dòngjiàn · Philosophical Note</div>
-      <p>随缘 suí yuán (follow the karmic current; go with the flow of fate) sits at the intersection of Buddhist and Daoist thought. From Buddhism: accept conditions as they arise, without forcing outcomes through ego-driven will. From Daoism: follow the natural flow of things (道法自然 dào fǎ zìrán — the Dao follows the natural), yielding to what is rather than insisting on what one wants.</p>
-      <p>In contemporary Chinese life, 随缘 functions as both a genuine philosophical attitude and a practical conversational move — a way to signal equanimity in the face of uncertainty, disappointment, or uncontrollable outcomes. When someone says 随缘吧 after a failed job application or a relationship that didn't work out, they are invoking the full weight of this tradition: it wasn't mine to force; if the conditions align, it will come; if not, there is wisdom in acceptance.</p>
-      <p>The related phrase 强求不来 qiǎngqiú bù lái — "forcing it won't make it come" — expresses the same insight from the negative direction. 缘分 that has to be forced is not 缘分; it is manufacture. The genuine article arrives when the conditions are right.</p>
+      <p>随缘 suí yuán (follow the karmic current; go with the flow of fate) sits at the intersection of Buddhist and Daoist thought. From Buddhism: accept conditions as they arise, without forcing outcomes through ego-driven will. From Daoism: follow the natural flow of things (道法自然 dào fǎ zìrán, the Dao follows the natural), yielding to what is rather than insisting on what one wants.</p>
+      <p>In contemporary Chinese life, 随缘 functions as both a genuine philosophical attitude and a practical conversational move, a way to signal equanimity in the face of uncertainty, disappointment, or uncontrollable outcomes. When someone says 随缘吧 after a failed job application or a relationship that didn't work out, they are invoking the full weight of this tradition: it wasn't mine to force; if the conditions align, it will come; if not, there is wisdom in acceptance.</p>
+      <p>The related phrase 强求不来 qiǎngqiú bù lái ("forcing it won't make it come") expresses the same insight from the negative direction. 缘分 that has to be forced is not 缘分; it is manufacture. The genuine article arrives when the conditions are right.</p>
     </div>
 
     <div class="cards">
@@ -587,9 +587,9 @@ content_sources:
     <!-- RETENTION SCHOLAR BOX -->
     <div class="scholar" data-glyph="缘" style="margin-top:2.5rem;">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>Silk thread clinging to a tree's edge — that is 缘, holding on at the fringe, the thread of connection running through everything. Buddhism taught that every meeting is the result of causes accumulated across lifetimes. 缘分 took that doctrine and gave it to ordinary people as a living word: your friends, your loves, your chance encounters on trains and in waiting rooms — none of it is random. The thread was there before you arrived.</p>
-      <p>When a Chinese person says 这是缘分, they are not being superstitious — they are expressing a philosophy of relationship: that the meaningful ones were always coming, that the conditions were in place long before the meeting, and that the ones which don't work out simply 缘分已尽 — the thread has run its natural length. There is grief in that, but no blame and no bitterness.</p>
-      <p>And 随缘 — follow the thread, don't force it — is not passivity. It is the wisdom of knowing which connections are yours and which ones you are trying to manufacture by sheer will. The thread will pull when the time comes. Until then, 随缘.</p>
+      <p>Silk thread clinging to a tree's edge: that is 缘, holding on at the fringe, the thread of connection running through everything. Buddhism taught that every meeting is the result of causes accumulated across lifetimes. 缘分 took that doctrine and gave it to ordinary people as a living word: your friends, your loves, your chance encounters on trains and in waiting rooms, none of it is random. The thread was there before you arrived.</p>
+      <p>When a Chinese person says 这是缘分, they are expressing a philosophy of relationship: that the meaningful connections were always coming, that the conditions were in place long before the meeting, and that the ones which don't work out simply reach 缘分已尽, the thread running its natural length. There is grief in that, but no blame and no bitterness.</p>
+      <p>随缘, follow the thread without forcing it, is not passivity. It is the wisdom of knowing which connections are yours and which ones you are trying to manufacture by sheer will. The thread will pull when the time comes. Until then, 随缘.</p>
     </div>
 
     
