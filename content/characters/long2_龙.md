@@ -3,8 +3,8 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '龙 · dragon, the imperial symbol'
-desc: 'China''s most powerful mythic creature — benevolent, not fearsome; the emperor''s emblem and the Chinese people''s self-described totem.'
-metaDesc: "龙 lóng: dragon, the supreme mythic creature of China. Benevolent, water-commanding, imperial — nothing like the fire-breathing monster of European legend."
+desc: 'China''s most powerful mythic creature: benevolent, not fearsome; the emperor''s emblem and the Chinese people''s self-described totem.'
+metaDesc: "龙 lóng: dragon, the supreme mythic creature of China. Benevolent, water-commanding, imperial, and nothing like the fire-breathing monster of European legend."
 pageTitle: '龙 lóng'
 tags:
   - 'culture'
@@ -107,9 +107,9 @@ content_sources:
 
     <div class="scholar" data-glyph="龙">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p>龙 is a <strong>pictograph</strong> — among the oldest in the writing system. The oracle-bone form shows a creature with a large open mouth, a serpentine body, and clawed limbs; some versions add horns and scales. The image was never intended to document a biological species. It was drawn to invoke a cosmic presence: the bringer of rain, the lord of water, the force that determines whether harvests succeed or fail. Oracle-bone inscriptions from the Shang dynasty (c. 1600–1046 BCE) show 龙 used in ritual contexts — asking the dragon to send rain, to calm floods, to bless the season.</p>
-      <p>What actual creature, if any, inspired the original image is genuinely unresolved. Proposed candidates include the Chinese alligator (扬子鳄 Yángzǐ è, native to the Yangtze basin and a formidable animal to Neolithic communities), large pythons, composite ritual masks combining multiple animals, or storm phenomena — waterspouts, lightning, the churning of flood waters. The most defensible reading is that 龙 was always composite: a creature assembled from the most powerful natural forces rather than transcribed from a single observed animal.</p>
-      <p>The traditional form 龍 is elaborate — 16 strokes. Modern scholars parse it as containing elements suggesting a standing creature (立 on top) with a flesh-and-scales body below, though the decomposition has been debated across dynasties. The 1956 simplification reduced it to 龙 in 5 strokes, one of the most dramatic compressions in the entire reform. Both forms are immediately readable as the same creature — the silhouette survived the reduction intact.</p>
+      <p>龙 is a <strong>pictograph</strong>, among the oldest in the writing system. The oracle-bone form shows a creature with a large open mouth, a serpentine body, and clawed limbs; some versions add horns and scales. The image was never intended to document a biological species. It was drawn to invoke a cosmic presence: the bringer of rain, the lord of water, the force that determines whether harvests succeed or fail. Oracle-bone inscriptions from the Shang dynasty (c. 1600–1046 BCE) show 龙 used in ritual contexts, asking the dragon to send rain, to calm floods, to bless the season.</p>
+      <p>What actual creature, if any, inspired the original image is genuinely unresolved. Proposed candidates include the Chinese alligator (扬子鳄 Yángzǐ è, native to the Yangtze basin and a formidable animal to Neolithic communities), large pythons, composite ritual masks combining multiple animals, or storm phenomena: waterspouts, lightning, the churning of flood waters. The most defensible reading is that 龙 was always composite: a creature assembled from the most powerful natural forces rather than transcribed from a single observed animal.</p>
+      <p>The traditional form 龍 is elaborate, at 16 strokes. Modern scholars parse it as containing elements suggesting a standing creature (立 on top) with a flesh-and-scales body below, though the decomposition has been debated across dynasties. The 1956 simplification reduced it to 龙 in 5 strokes, one of the most dramatic compressions in the entire reform. Both forms are immediately readable as the same creature; the silhouette survived the reduction intact.</p>
       <p>In Japanese, 龍/竜 <em>ryū</em> carries largely the same cultural freight as in Chinese: a water deity, a royal symbol, a name given to the most formidable entities. 龍 appears in Japanese temple names, sword names, and imperial imagery with the same register of awe. The shared Sinographic heritage means that learning 龙 in Chinese is a direct investment in Japanese literacy.</p>
     </div>
 
@@ -124,9 +124,9 @@ content_sources:
 
     <div class="scholar" data-glyph="龙">
       <div class="scholar-label">文化洞见 wénhuà dòngjiàn · The Dragon Misreading</div>
-      <p>The Chinese 龙 and the European dragon share almost nothing beyond the label that translators chose. The European dragon breathes fire, hoards treasure, terrorizes villages, and is slain by a knight — a monster whose death is the hero's achievement. The Chinese 龙 breathes clouds, controls rain and water, rises from rivers to bring the agricultural blessings on which civilization depends, and serves the cosmos. No Chinese hero slays a dragon. The dragon is the hero, the ruler, the divine force. Killing one would be catastrophic, not glorious.</p>
-      <p>Dragon kings 龙王 lóng wáng govern each of the four seas and the major rivers. When a region suffered drought, the local magistrate petitioned the dragon king; when floods threatened, it was the dragon king's domain. This is a deity with a job — a specific, practical relationship with the human world. The Western dragon destroys farms. The Chinese dragon makes them possible.</p>
-      <p>The classical description of the dragon's body is a composite of nine animals: a camel's head, deer's horns, rabbit's eyes, cow's ears, snake's neck, frog's belly, carp's scales, eagle's claws, and tiger's paws. Each element was read symbolically. The composite form reflects the dragon's role as a synthesis of all natural power — the generative forces of water, mountain, sky, and earth unified in a single creature. This is why 龙 is auspicious and why Chinese people call themselves 龙的传人 (descendants of the dragon): they are claiming kinship with the integrative creative force of the natural world, not descent from a predator.</p>
+      <p>The Chinese 龙 and the European dragon share almost nothing beyond the label that translators chose. The European dragon breathes fire, hoards treasure, terrorizes villages, and is slain by a knight, a monster whose death is the hero's achievement. The Chinese 龙 breathes clouds, controls rain and water, rises from rivers to bring the agricultural blessings on which civilization depends, and serves the cosmos. No Chinese hero slays a dragon. The dragon is the hero, the ruler, the divine force. Killing one would be catastrophic, not glorious.</p>
+      <p>Dragon kings 龙王 lóng wáng govern each of the four seas and the major rivers. When a region suffered drought, the local magistrate petitioned the dragon king; when floods threatened, it was the dragon king's domain. This is a deity with a specific, practical relationship with the human world: a job description, not a myth. The Western dragon destroys farms. The Chinese dragon makes them possible.</p>
+      <p>The classical description of the dragon's body is a composite of nine animals: a camel's head, deer's horns, rabbit's eyes, cow's ears, snake's neck, frog's belly, carp's scales, eagle's claws, and tiger's paws. Each element was read symbolically. The composite form reflects the dragon's role as a synthesis of all natural power, the generative forces of water, mountain, sky, and earth unified in a single creature. When Chinese people call themselves 龙的传人 (descendants of the dragon), they are claiming kinship with that integrative creative force of the natural world, not descent from a predator.</p>
     </div>
 
     <!-- ── IMPERIAL AND CULTURAL COMPOUNDS ── -->
@@ -149,7 +149,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          龙 lóng + 年 nián (year). The Dragon is the fifth sign of the twelve-year zodiac cycle 生肖 shēngxiào and the only mythic creature among the twelve. Dragon years (most recently 2024, next 2036) consistently produce measurable spikes in birth rates across Chinese-speaking societies — widely held to be the most auspicious year to be born. A child born in a Dragon year is expected to carry the creature's qualities: strength, authority, and exceptional fortune.
+          龙 lóng + 年 nián (year). The Dragon is the fifth sign of the twelve-year zodiac cycle 生肖 shēngxiào and the only mythic creature among the twelve. Dragon years (most recently 2024, next 2036) consistently produce measurable spikes in birth rates across Chinese-speaking societies, widely regarded as the most auspicious year to be born. A child born in a Dragon year is expected to carry the creature's qualities: strength, authority, and exceptional fortune.
         </div>
         <div class="examples">
           <div class="example">
@@ -183,7 +183,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          龙 lóng + 的 de (possessive marker) + 传人 chuánrén (one to whom something is transmitted; inheritor). The phrase reached mass consciousness through the 1978 song 龙的传人 by Taiwanese songwriter Hou Dejian 侯德健, recorded in 1980 and covered countless times since. The song frames Chinese identity as an inheritance — not of blood but of civilization, of a way of being in the world passed down from a mythic ancestor.
+          龙 lóng + 的 de (possessive marker) + 传人 chuánrén (one to whom something is transmitted; inheritor). The phrase reached mass consciousness through the 1978 song 龙的传人 by Taiwanese songwriter Hou Dejian 侯德健, recorded in 1980 and covered countless times since. The song frames Chinese identity as an inheritance of civilization, a way of being in the world passed down from a mythic ancestor, rather than a claim of blood descent.
         </div>
         <div class="examples">
           <div class="example">
@@ -217,7 +217,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          龙 lóng + 椅 yǐ (chair; seat). The emperor's throne, elaborately carved with five-clawed dragons, in the Hall of Supreme Harmony 太和殿 of the Forbidden City in Beijing. The five claws were the exclusive marker of the emperor's own dragon imagery — princes received four-clawed designs, high ministers three. Using a five-clawed dragon without imperial sanction was a capital offense under Ming and Qing law.
+          龙 lóng + 椅 yǐ (chair; seat). The emperor's throne, elaborately carved with five-clawed dragons, in the Hall of Supreme Harmony 太和殿 of the Forbidden City in Beijing. The five claws were the exclusive marker of the emperor's own dragon imagery; princes received four-clawed designs, high ministers three. Using a five-clawed dragon without imperial sanction was a capital offense under Ming and Qing law.
         </div>
         <div class="examples">
           <div class="example">
@@ -247,7 +247,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          龙 lóng + 袍 páo (long robe). The emperor's official ceremonial dress, embroidered with nine five-clawed dragons on a yellow ground — yellow being the imperial color, reserved exclusively for the Son of Heaven. The nine dragons were distributed across the robe following strict cosmological rules: front, back, shoulders, and so on. In popular contemporary usage, 龙袍 also refers to elaborately embroidered traditional-style long robes worn in costume dramas and cultural performances.
+          龙 lóng + 袍 páo (long robe). The emperor's official ceremonial dress, embroidered with nine five-clawed dragons on a yellow ground (yellow being the imperial color, reserved exclusively for the Son of Heaven). The nine dragons were distributed across the robe following strict cosmological rules: front, back, shoulders, and so on. In popular contemporary usage, 龙袍 also refers to elaborately embroidered traditional-style long robes worn in costume dramas and cultural performances.
         </div>
         <div class="examples">
           <div class="example">
@@ -294,7 +294,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          龙 lóng + 脉 mài (vein; pulse; channel). In feng shui 风水 theory, mountains are the visible backs of buried dragons — the ridgelines and peaks are the spine of a living creature moving through the earth. The 龙脉 are the underground channels through which this vital energy flows. A site positioned at the head of a 龙脉 — a palace, a tomb, a city — draws that energy and becomes powerful. Imperial tomb placement was an exercise in locating the strongest available 龙脉.
+          龙 lóng + 脉 mài (vein; pulse; channel). In feng shui 风水 theory, mountains are the visible backs of buried dragons; the ridgelines and peaks are the spine of a living creature moving through the earth. The 龙脉 are the underground channels through which this vital energy flows. A site positioned at the head of a 龙脉 (a palace, a tomb, a city) draws that energy and becomes powerful. Imperial tomb placement was an exercise in locating the strongest available 龙脉.
         </div>
         <div class="examples">
           <div class="example">
@@ -315,7 +315,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">文化 wénhuà · Mountains as Dragons</span>
-          This is not merely metaphor within feng shui — it is a geological cosmology. The mountain range's undulation is the sleeping dragon's spine. The valley is its belly, and the river running through it is its breath. Choosing where to build by reading the landscape as a living body is the central activity of classical site selection.
+          Within feng shui this is not metaphor but geological cosmology. The mountain range's undulation is the sleeping dragon's spine. The valley is its belly, and the river running through it is its breath. Choosing where to build by reading the landscape as a living body is the central activity of classical site selection.
         </div>
       </div>
 
@@ -349,7 +349,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">成语 chéngyǔ · 鱼跃龙门</span>
-          The carp-to-dragon legend was the classical metaphor for passing the imperial examination 科举 kējǔ — the most socially transformative event in a scholar's life. Today it maps directly onto the gaokao 高考: the exam that opens the gate. See also the chengyu section below.
+          The carp-to-dragon legend was the classical metaphor for passing the imperial examination 科举 kējǔ, the most socially transformative event in a scholar's life. Today it maps directly onto the gaokao 高考: the exam that opens the gate. See also the chengyu section below.
         </div>
       </div>
 
@@ -384,7 +384,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          龙 lóng + 头 tóu (head). Three active meanings in modern Chinese: (1) the dragon's literal head, (2) the leader or dominant player in an industry or organization — 龙头企业 is the standard term for a market-leading company, and (3) a water faucet or tap, because classical bronze spigots were cast as a dragon's open mouth with water flowing out. Context resolves the meaning immediately.
+          龙 lóng + 头 tóu (head). Three active meanings in modern Chinese: (1) the dragon's literal head, (2) the leader or dominant player in an industry or organization (龙头企业 is the standard term for a market-leading company), and (3) a water faucet or tap, because classical bronze spigots were cast as a dragon's open mouth with water flowing out. Context resolves the meaning immediately.
         </div>
         <div class="examples">
           <div class="example">
@@ -414,7 +414,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          龙 lóng + 舟 zhōu (boat; vessel — classical and literary). Long narrow racing boats carved with a dragon head at the prow and a dragon tail at the stern, rowed by a team of paddlers to the beat of a drum. The boats are raced during 端午节 Duānwǔ Jié (Dragon Boat Festival), observed on the 5th day of the 5th lunar month. The festival traditionally commemorates the poet-statesman Qu Yuan 屈原, who drowned in the Miluo River 汨罗江 in 278 BCE after his kingdom fell. Dragon boat racing has spread globally and became an official international sport.
+          龙 lóng + 舟 zhōu (boat; vessel; classical and literary term). Long narrow racing boats carved with a dragon head at the prow and a dragon tail at the stern, rowed by a team of paddlers to the beat of a drum. The boats are raced during 端午节 Duānwǔ Jié (Dragon Boat Festival), observed on the 5th day of the 5th lunar month. The festival traditionally commemorates the poet-statesman Qu Yuan 屈原, who drowned in the Miluo River 汨罗江 in 278 BCE after his kingdom fell. Dragon boat racing has spread globally and became an official international sport.
         </div>
         <div class="examples">
           <div class="example">
@@ -448,7 +448,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          龙 lóng + 凤 fèng (phoenix — the 凤凰 fènghuáng). In classical Chinese cosmology, the dragon and phoenix are complementary opposites: 龙 is yang, male, the emperor, authority, and the power of water; 凤 is yin, female, the empress, grace, and the power of fire. Together they represent the harmonious ordering of Heaven and Earth through the royal couple. The pairing appears on imperial architecture, wedding decorations, and auspicious gifts. 龙凤呈祥 — "dragon and phoenix together signify good fortune" — is one of the oldest blessing phrases in the language.
+          龙 lóng + 凤 fèng (phoenix; 凤凰 fènghuáng). In classical Chinese cosmology, the dragon and phoenix are complementary opposites: 龙 is yang, male, the emperor, authority, and the power of water; 凤 is yin, female, the empress, grace, and the power of fire. Together they represent the harmonious ordering of Heaven and Earth through the royal couple. The pairing appears on imperial architecture, wedding decorations, and auspicious gifts. 龙凤呈祥 — "dragon and phoenix together signify good fortune" — is one of the oldest blessing phrases in the language.
         </div>
         <div class="examples">
           <div class="example">
@@ -532,9 +532,9 @@ content_sources:
     <!-- RETENTION IMAGE -->
     <div class="scholar" data-glyph="龙">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>Picture a Yangtze alligator emerging from a river in flood season — enormous, prehistoric, armored, moving through water the way nothing else does. Now add the memory of seeing lightning split a sky above that river, and the understanding that in three days the drought that was killing the crops would break. The people watching from the bank did not see a monster. They saw an announcement. That is 龙: not the creature of the water but the intelligence of the water, making itself visible.</p>
-      <p>The five strokes of 龙 (simplified from a 16-stroke creature) carry that compression into the character itself. The simplification was radical — but what survived is the silhouette of a serpentine body in motion. You are not looking at a label for an animal. You are looking at a residue of the oldest awe in Chinese civilization: the awe of a creature that commands rain.</p>
-      <p>Once you hold that image, the compounds arrange themselves logically. 龙头 (dragon head) is the leader because the dragon leads with its head — the most powerful part faces forward. 龙脉 (dragon vein) is the underground channel because mountains are dragons' backs, and their veins run beneath the surface. 鱼跃龙门 (fish leaping Dragon Gate) is total transformation because the carp that clears the waterfall does not just succeed — it changes species. And 龙的传人 (descendants of the dragon) is the most ambitious possible claim of identity: not just a people, but the heirs of the creature that brings rain.</p>
+      <p>Picture a Yangtze alligator emerging from a river in flood season: enormous, prehistoric, armored, moving through water the way nothing else does. Now add the memory of seeing lightning split a sky above that river, and the understanding that in three days the drought that was killing the crops would break. The people watching from the bank did not see a monster. They saw an announcement. That is 龙: the intelligence of the water, making itself visible.</p>
+      <p>The five strokes of 龙 (simplified from a 16-stroke creature) carry that compression into the character itself. The simplification was radical, but what survived is the silhouette of a serpentine body in motion. You are not looking at a label for an animal. You are looking at a residue of the oldest awe in Chinese civilization: the awe of a creature that commands rain.</p>
+      <p>Once you hold that image, the compounds arrange themselves logically. 龙头 (dragon head) is the leader because the dragon leads with its head, the most powerful part facing forward. 龙脉 (dragon vein) is the underground channel because mountains are dragons' backs, and their veins run beneath the surface. 鱼跃龙门 (fish leaping Dragon Gate) is total transformation because the carp that clears the waterfall does not just succeed; it changes species. And 龙的传人 (descendants of the dragon) is the most ambitious possible claim of identity: not just a people, but the heirs of the creature that brings rain.</p>
     </div>
 
     <footer class="page-footer">
