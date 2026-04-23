@@ -77,9 +77,9 @@ pinyin: 'suīrán dànshì'
 
     <div class="scholar" data-glyph="虽">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>虽 suī</strong> is an ancient concessive particle. Its original form showed a type of insect — an animal that buzzes and distracts, something small that nonetheless demands attention. In classical Chinese, 虽 alone carried the full meaning: "even though; even if." It pairs with 然 rán (thus; so) to form 虽然 suīrán — "even though it is thus." 然 is a pointing word: <em>that being so, acknowledging this to be so.</em></p>
-      <p><strong>但 dàn</strong> originally meant "only; merely; just." Its classical sense was restrictive. In modern Mandarin, it pivots to mean "but; however; yet" — the word that changes direction. Paired with 是 shì as 但是, it becomes the standard formal "but."</p>
-      <p>The full construction 虽然…但是 is a complete logical unit: acknowledge the conceded premise (虽然), then assert the overriding conclusion (但是). The rhetorical power is in the pivot — Chinese discourse typically grants what cannot be denied before making its real point.</p>
+      <p><strong>虽 suī</strong> is an ancient concessive particle. Its original form showed a type of insect, an animal that buzzes and distracts, something small that nonetheless demands attention. In classical Chinese, 虽 alone carried the full meaning: "even though; even if." It pairs with 然 rán (thus; so) to form 虽然 suīrán, "even though it is thus." 然 is a pointing word: <em>that being so, acknowledging this to be so.</em></p>
+      <p><strong>但 dàn</strong> originally meant "only; merely; just." Its classical sense was restrictive. In modern Mandarin, it pivots to mean "but; however; yet," the word that changes direction. Paired with 是 shì as 但是, it becomes the standard formal "but."</p>
+      <p>The full construction 虽然…但是 is a complete logical unit: acknowledge the conceded premise (虽然), then assert the overriding conclusion (但是). The rhetorical power is in the pivot. Chinese discourse typically grants what cannot be denied before making its real point.</p>
     </div>
 
     <!-- ── STRUCTURE ── -->
@@ -171,7 +171,7 @@ pinyin: 'suīrán dànshì'
         </div>
         <div class="tags"><span class="tag tag-v">Conj 连词 liáncí</span></div>
         <div class="card-def">
-          尽管 jǐnguǎn (despite; even though) + 还是/仍然 (still/nevertheless). Similar to 虽然…但是 but with a stronger sense of "despite all that" — the conceded circumstance is more emphatic, the result more surprising.
+          尽管 jǐnguǎn (despite; even though) + 还是/仍然 (still/nevertheless). Similar to 虽然…但是 but with a stronger sense of "despite all that." The conceded circumstance is more emphatic, the result more surprising.
         </div>
         <div class="examples">
           <div class="example">
@@ -190,7 +190,7 @@ pinyin: 'suīrán dànshì'
         </div>
         <div class="tags"><span class="tag tag-v">Conj 连词 liáncí</span></div>
         <div class="card-def">
-          即使 jíshǐ (even if; even supposing) + 也 yě (also; still). A hypothetical concession — "even if X were true, Y would still follow." Unlike 虽然 (which grants something actually true), 即使 can refer to a hypothetical or extreme case.
+          即使 jíshǐ (even if; even supposing) + 也 yě (also; still). A hypothetical concession: "even if X were true, Y would still follow." Unlike 虽然 (which grants something actually true), 即使 can refer to a hypothetical or extreme case.
         </div>
         <div class="examples">
           <div class="example">
