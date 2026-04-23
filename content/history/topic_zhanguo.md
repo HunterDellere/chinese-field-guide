@@ -1,0 +1,305 @@
+---
+type: 'topic'
+category: 'history'
+status: 'complete'
+content_review: 'pending'
+title: '战国时期 · Warring States Period'
+desc: 'The most chaotic political era in Chinese history was also the condition that produced every major Chinese philosophical tradition — that is not a coincidence.'
+metaDesc: "战国时期 zhànguó shíqī: the seven states, Shang Yang's Legalist reforms, the Hundred Schools 百家争鸣, alliance strategies 合纵连横, and why Qin won."
+pageTitle: '战国时期 zhànguó shíqī'
+tags:
+  - 'ancient'
+  - 'dynasty'
+  - 'history'
+  - 'philosophy'
+  - 'legalism'
+  - 'statecraft'
+  - 'politics'
+  - 'classics'
+updated: '2026-04-22'
+pinyin: 'zhànguó shíqī'
+---
+
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+    <button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+    <span class="toc-topic">战国时期</span>
+    <span class="toc-topic-en">Warring States Period</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#structure">
+        <span class="toc-cn">七雄与战争形态</span>
+        <span class="toc-sub">Seven States and Total War</span>
+      </a></li>
+      <li><a href="#pluralism">
+        <span class="toc-cn">竞争产生思想</span>
+        <span class="toc-sub">Competition Produces Ideas</span>
+      </a></li>
+      <li><a href="#schools">
+        <span class="toc-cn">百家争鸣</span>
+        <span class="toc-sub">The Hundred Schools of Thought</span>
+      </a></li>
+      <li><a href="#qin">
+        <span class="toc-cn">秦为何胜出</span>
+        <span class="toc-sub">Why Qin Won</span>
+      </a></li>
+      <li><a href="#alliances">
+        <span class="toc-cn">合纵连横</span>
+        <span class="toc-sub">Alliance Strategies</span>
+      </a></li>
+      <li><a href="#chengyu">
+        <span class="toc-cn">成语</span>
+        <span class="toc-sub">Idioms &amp; Key Phrases</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">History · 历史 lìshǐ</span>
+      <h1 class="topic-hero-title">战国时期</h1>
+      <span class="topic-hero-title-py">zhànguó shíqī</span>
+      <p class="topic-hero-desc">The most chaotic political era in Chinese history was also the condition that produced every major Chinese philosophical tradition — that is not a coincidence.</p>
+    </header>
+
+    <!-- ── SEVEN STATES AND TOTAL WAR ── -->
+    <span class="section-anchor" id="structure"></span>
+    <div class="section-head">
+      <span class="sh-cn">七雄与战争形态</span>
+      <span class="sh-py">Qī Xióng yǔ Zhànzhēng Xíngtài</span>
+      <span class="sh-en">The Seven States and the Shape of War</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="战">
+      <div class="scholar-label">历史洞见 lìshǐ dòngjiàn · Historical Insight</div>
+      <p>The Warring States period (战国时代 zhànguó shídài, 475–221 BCE) opens with a constitutional rupture. The powerful state of Jin had dominated the Spring and Autumn inter-state system for much of the preceding three centuries. In 453 BCE its three principal aristocratic families destroyed the ruling house and divided Jin among themselves. The Zhou king formally recognized the three successor states — <strong>韩 Hán, 魏 Wèi, 赵 Zhào</strong> — as independent lords in 403 BCE. This act acknowledged what everyone already knew: the old aristocratic order that had governed since Western Zhou was gone. What replaced it was the <strong>战国七雄 zhànguó qī xióng</strong>, the Seven Warring States: Qin (秦), Chu (楚), Yan (燕), Zhao (赵), Wei (魏), Han (韩), and Qi (齐).</p>
+      <p>The period is named after the <em>Zhanguo Ce</em> 战国策 (<em>Stratagems of the Warring States</em>), a Han dynasty compilation of political speeches and diplomatic maneuvers attributed to the great advisors of the period. The name stuck to the era just as <em>Chūnqiū</em> stuck to the preceding one.</p>
+      <p>The transformation of warfare was total. Spring and Autumn chariot armies gave way to mass infantry forces measured in hundreds of thousands. The decisive Battle of Changping (长平之战, 260 BCE) between Qin and Zhao involved armies estimated at over a million combined, with Qin forces reportedly burying alive or massacring some 400,000 Zhao soldiers after their surrender. Whether the number is exact or not, the scale had no precedent. Military theorists proliferated alongside the armies: the <strong>孙子兵法 Sūnzǐ Bīngfǎ</strong> (<em>Art of War</em>), attributed to <strong>孙武 Sūn Wǔ</strong>, dates from the late Spring and Autumn / early Warring States transition and became the most influential military text in Chinese history.</p>
+      <p>States restructured themselves root and branch to survive. Universal male conscription replaced aristocratic warrior classes. Bureaucratic administration replaced hereditary fiefdom. Tax reform funded armies that aristocratic tribute could not. The old <strong>士 shì</strong> (knight-scholars) found their old role obsolete and began selling their expertise — military, administrative, diplomatic, philosophical — to whichever state would employ them. This mobility of educated men across state borders was the structural condition that made the Hundred Schools possible. For the Spring and Autumn context that preceded this period, see <a href="../../pages/history/topic_chunqiu.html">春秋时期</a>.</p>
+    </div>
+
+    <div class="pattern">
+      <span class="label">七雄 qī xióng · The Seven Warring States</span>
+      <strong>秦 Qín</strong> — northwest (modern Shaanxi); winner of the period<br>
+      <strong>楚 Chǔ</strong> — south (modern Hunan, Hubei, parts of Jiangsu); largest by territory<br>
+      <strong>燕 Yān</strong> — northeast (modern Beijing area)<br>
+      <strong>赵 Zhào</strong> — north-central (modern Shanxi, Hebei); rival to Qin late in the period<br>
+      <strong>魏 Wèi</strong> — central (modern Henan, Shanxi); initially dominant, later weakened<br>
+      <strong>韩 Hán</strong> — central (modern Henan); smallest of the seven; first conquered by Qin (230 BCE)<br>
+      <strong>齐 Qí</strong> — east (modern Shandong); commercial and intellectual center; last conquered (221 BCE)
+    </div>
+
+    <!-- ── COMPETITION PRODUCES IDEAS ── -->
+    <span class="section-anchor" id="pluralism"></span>
+    <div class="section-head">
+      <span class="sh-cn">竞争产生思想</span>
+      <span class="sh-py">Jìngzhēng Chǎnshēng Sīxiǎng</span>
+      <span class="sh-en">Competition Produces Ideas</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="鸣">
+      <div class="scholar-label">思想洞见 sīxiǎng dòngjiàn · Intellectual Insight</div>
+      <p>Every major tradition in Chinese intellectual history emerged during the Warring States period: Confucianism, Daoism, Legalism, Mohism, the School of Names, Yin-Yang cosmology. This is not a selection bias artifact. It reflects a structural reality: political fragmentation is an enabling condition for intellectual diversity.</p>
+      <p>A unified state with a single orthodoxy and a single court enforces conformity. The Han dynasty eventually established Confucianism as the state orthodoxy and appointed no Legalists to high office; the Qin dynasty burned books. The Warring States had none of that capacity. Scholars could (and did) move from state to state when their patron was defeated, their advice was rejected, or their ideas went out of fashion. Xunzi served at the court of Qi, then Chu, then Qin, advising different rulers with different ideas. Shang Yang moved from Wei to Qin when Wei failed to appreciate his reforms. The mobile intellectual market created genuine competition in ideas because losers could simply relocate.</p>
+      <p>States recruited talent aggressively because survival depended on it. The famous <strong>稷下学宫 Jìxià Xuégōng</strong> (Jixia Academy) in the state of Qi housed hundreds of scholars from every school simultaneously, supported by the Qi state, debating and teaching for roughly a century (c. 330–221 BCE). Academics were given housing, salaries, and the title of 大夫 dàfū (senior officer) without administrative duties — pure institutional patronage for intellectual activity. No single unified empire could have created this, because no emperor would fund his critics.</p>
+      <p>The result was China's axial age, roughly contemporaneous with classical Greece, the Hebrew prophets, and the Upanishads in India. The parallel has been noted since Karl Jaspers coined "axial age" in 1949; the deeper question is why. One answer: the organizational precondition for an axial age is precisely this kind of fragmented political landscape, where intellectual talent can be mobile, states compete for it, and no orthodoxy can be enforced across the whole.</p>
+    </div>
+
+    <!-- ── HUNDRED SCHOOLS ── -->
+    <span class="section-anchor" id="schools"></span>
+    <div class="section-head">
+      <span class="sh-cn">百家争鸣</span>
+      <span class="sh-py">Bǎijiā Zhēngmíng</span>
+      <span class="sh-en">The Hundred Schools of Thought</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="百">
+      <div class="scholar-label">思想洞见 sīxiǎng dòngjiàn · Intellectual Insight</div>
+      <p><strong>百家争鸣</strong> (bǎijiā zhēngmíng, "a hundred schools contend") is the standard Chinese phrase for the Warring States philosophical explosion. The schools argued with each other, not around each other. Mohists attacked Confucian funeral rites as wasteful; Confucians attacked Mohist universal love as impossible to practice; Legalists dismissed both as irrelevant to the actual problem of state survival. The <em>Zhuangzi</em> satirizes Confucian moral earnestness; Xunzi wrote extended refutations of the Mohists, the School of Names, and Zhuangzi; Han Feizi synthesized elements of Confucian thought into a Legalist framework while rejecting Confucian political conclusions entirely.</p>
+      <p>The major schools in brief. <strong>儒家 Rújiā</strong> (Confucianism): the school of <a href="../../pages/philosophy/topic_kongzi.html">孔子</a>, developed by <a href="../../pages/philosophy/topic_mengzi.html">孟子</a> (Mencius, human nature is good) and <a href="../../pages/philosophy/topic_xunzi.html">荀子</a> (Xunzi, human nature must be shaped by ritual education). Central concern: how to restore moral governance through ritual, benevolence, and virtuous cultivation. <strong>道家 Dàojiā</strong> (Daoism): <a href="../../pages/philosophy/topic_laozi.html">老子</a> and <a href="../../pages/philosophy/topic_zhuangzi.html">庄子</a>. Central concern: alignment with the natural order (道 Dào) through non-action (无为 wú wéi), critique of Confucian moral activism as interference. <strong>法家 Fǎjiā</strong> (Legalism): <a href="../../pages/philosophy/topic_fajia.html">韩非子</a> and Shang Yang. Central concern: state power through law, administrative technique, and rational incentive design. Human nature is neither good nor bad; it responds to incentives — design them correctly. <strong>墨家 Mòjiā</strong> (Mohism): <a href="../../pages/philosophy/topic_mojia.html">墨子</a>. Central concern: universal impartial love (兼爱 jiān'ài), opposition to aggressive war, utilitarian ethics, proto-scientific methodology. The Mohists were China's earliest systematic logicians and engineers, and they largely disappeared after the Qin unification — their egalitarianism was structurally incompatible with imperial hierarchy.</p>
+      <p>The Yin-Yang school (<a href="../../pages/philosophy/topic_yinyang_wuxing.html">阴阳家</a>) developed the cosmological framework of 阴阳 yīnyáng and 五行 wǔxíng (five phases) that would become the common substrate of Chinese medicine, geomancy, and cosmological thought. The School of Names (名家 míngjiā) investigated logic and language. The Diplomatic Strategists (纵横家 zònghéngjiā) are discussed below.</p>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">稷下学宫</span>
+          <span class="card-py">Jìxià Xuégōng</span>
+          <span class="card-en">Jixia Academy — the Warring States research university</span>
+        </div>
+        <div class="card-def">
+          Established by the state of Qi near its capital Linzi (临淄 Líncí) in the early 4th century BCE, operating for about a century. Scholars from all schools received state stipends and official titles without bureaucratic duties. Thinkers including Mencius, Xunzi (who served three times as its director), and scholars of the Yin-Yang school worked here simultaneously. The Academy is the earliest documented example of institutionalized state patronage of open intellectual debate. Its closure coincided with Qin's conquest of Qi in 221 BCE.
+        </div>
+        <div class="note">
+          <span class="note-label">荀子三次任祭酒 Xúnzǐ sān cì rèn jìjiǔ</span>
+          Xunzi served as the Academy's director (祭酒 jìjiǔ, lit. "sacrificial wine-pourer," the title for the senior scholar) three separate times, making him arguably the most institutionally central figure of the Hundred Schools era. His students included <strong>韩非子 Hán Fēizǐ</strong> (the Legalist) and <strong>李斯 Lǐ Sī</strong> (the Qin minister who designed the book-burning) — a Confucian teacher whose two most distinguished students became the architects of Confucianism's suppression.
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">孙子兵法</span>
+          <span class="card-py">Sūnzǐ Bīngfǎ</span>
+          <span class="card-en">The Art of War — the foundational Chinese military text</span>
+        </div>
+        <div class="card-def">
+          Attributed to 孙武 Sūn Wǔ of the state of Wu (late Spring and Autumn / early Warring States). Thirteen chapters on strategy, deception, terrain, and the nature of victory. The core argument: winning without fighting is the supreme achievement; depleting the enemy through intelligence, positioning, and deception is superior to direct engagement. The text was so valued that copies were buried in tombs; the 1972 discovery at Yinqueshan of a second text, <strong>孙膑兵法 Sūn Bìn Bīngfǎ</strong>, by the general's descendant, confirmed the tradition of two distinct Sun texts. Now the most translated and cited Chinese text in global business literature.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">知彼知己，百战不殆。</div>
+            <div class="ex-py">Zhī bǐ zhī jǐ, bǎi zhàn bú dài.</div>
+            <div class="ex-en">"Know the enemy and know yourself; in a hundred battles you will never be in danger." — Art of War, Chapter 3.</div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- ── WHY QIN WON ── -->
+    <span class="section-anchor" id="qin"></span>
+    <div class="section-head">
+      <span class="sh-cn">秦为何胜出</span>
+      <span class="sh-py">Qín Wèi Hé Shèngchū</span>
+      <span class="sh-en">Why Qin Won</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="秦">
+      <div class="scholar-label">历史洞见 lìshǐ dòngjiàn · Historical Insight</div>
+      <p>Qin was not the strongest state in the early Warring States period. Wei was dominant in the 4th century BCE, Qi was commercially the wealthiest, Chu was the largest by territory. Qin won because of a series of Legalist administrative reforms implemented by <strong>商鞅 Shāng Yāng</strong> starting in 356 BCE — reforms so thorough that they transformed Qin from a mid-tier state into the most effectively organized military machine the Warring States had produced.</p>
+      <p>Shang Yang's reforms had two interlocking components. The first was the dismantling of the old hereditary aristocracy. Rank and reward were now tied exclusively to military achievement: soldiers were promoted by the number of enemy heads taken in battle, with a precise table linking heads to titles, land grants, and monetary rewards. A man of noble birth who performed poorly earned nothing; a commoner who fought brilliantly rose in rank. This created a lethal meritocracy of violence in which every soldier in the Qin army had a personal financial stake in killing.</p>
+      <p>The second component was administrative centralization. Shang Yang extended the <strong>郡县制 jùnxiàn zhì</strong> (commandery-county system) across Qin, replacing hereditary lords with appointed officials accountable to the center. He standardized weights, measures, and land units; implemented a household registration system; made the mutual-guarantee group (<strong>连坐 liánzuò</strong>) liable for each other's law violations, creating a network of social surveillance that extended state control to the village level. Agriculture and military service were the two productive activities; merchants and wandering scholars were viewed with suspicion as parasitic on the productive order.</p>
+      <p>Shang Yang himself was executed by Qin's new king shortly after his patron died — torn apart by chariots on a charge of rebellion. The reforms outlasted him. By the time <strong>嬴政 Yíng Zhèng</strong> became king in 246 BCE, Qin had been running on this system for a century. Its administrative machinery, army, and resource base were categorically superior to those of the remaining six states. The conquest of the six states (230–221 BCE) was less a military achievement than the completion of a century-long institutional project. For the unification itself, see <a href="../../pages/history/topic_qin_shihuang.html">秦始皇</a>.</p>
+      <p>The intellectual cost of Qin's victory was the suppression of the pluralism that had just produced the greatest intellectual era in Chinese history. The <strong>焚书坑儒 fén shū kēng rú</strong> (burning of books, burying of scholars) in 213–212 BCE was the Qin's attempt to end the Hundred Schools permanently. It largely succeeded in the short term. The Mohists, the School of Names, and several other schools did not survive the Qin as living intellectual traditions. Confucianism survived because it was irrepressible — too many texts, too many transmission chains — and because the Han dynasty actively restored it. The story of the burning is told in full at <a href="../../pages/history/topic_qin_shihuang.html">秦始皇</a>.</p>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">商鞅变法</span>
+          <span class="card-py">Shāng Yāng biànfǎ</span>
+          <span class="card-en">Shang Yang's reforms — the Legalist transformation of Qin</span>
+        </div>
+        <div class="card-def">
+          商鞅 Shāng Yāng (c. 390–338 BCE), born in Wei, served as the chief minister of Qin under Duke Xiao from 356 BCE. His two rounds of reform (356 and 350 BCE) covered: abolishing the well-field system and establishing private land ownership; creating a twenty-rank military nobility tied to battlefield merit; reorganizing the population into mutual-guarantee units of five and ten households; establishing a uniform system of weights, measures, and characters; moving the capital to Xianyang. The reforms made Qin the most efficiently organized state in the Warring States. Shang Yang was subsequently executed by the next king — but Qin kept his system running for another century.
+        </div>
+        <div class="note">
+          <span class="note-label">徙木立信 xǐ mù lì xìn</span>
+          Before implementing his reforms, Shang Yang placed a wooden post at the south gate of the market and announced that whoever moved it to the north gate would receive ten gold pieces. No one believed it. He raised the reward to fifty gold. One man moved the post; Shang Yang paid him fifty gold. The point: the government means what it says. Establishing credibility for state commitments before demanding compliance from the population. Still quoted in Chinese management and governance discussions.
+        </div>
+      </div>
+
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">长平之战</span>
+          <span class="card-py">Cháng Píng zhī Zhàn</span>
+          <span class="card-en">Battle of Changping (260 BCE) — the decisive blow against Zhao</span>
+        </div>
+        <div class="card-def">
+          The largest and most catastrophic battle of the Warring States period. Qin and Zhao forces fought for three years in the Shangdang region (modern Shanxi) before Zhao replaced its cautious commander <strong>廉颇 Lián Pō</strong> with the aggressive <strong>赵括 Zhào Kuò</strong>, a general who knew military theory but had never commanded in battle. Qin secretly replaced its own general with the brilliant <strong>白起 Bái Qǐ</strong> and trapped the Zhao army. After surrender, some 400,000 Zhao soldiers were reportedly buried alive or executed. The state of Zhao never recovered. The idiom <strong>纸上谈兵 zhǐ shàng tán bīng</strong> ("armchair strategist," lit. "strategize on paper") derives from this battle, from Zhao Kuo's theoretical competence and practical catastrophe.
+        </div>
+      </div>
+
+    </div>
+
+    <!-- ── ALLIANCE STRATEGIES ── -->
+    <span class="section-anchor" id="alliances"></span>
+    <div class="section-head">
+      <span class="sh-cn">合纵连横</span>
+      <span class="sh-py">Hézòng Liánhéng</span>
+      <span class="sh-en">Vertical and Horizontal Alliances</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="纵">
+      <div class="scholar-label">外交洞见 wàijiāo dòngjiàn · Diplomatic Insight</div>
+      <p>As Qin's power grew, the remaining six states faced a strategic choice that generated one of the most sophisticated debates in Chinese diplomatic history. <strong>合纵 hézòng</strong> ("vertical alliance," literally "joining vertically") was the strategy of the six eastern states uniting against Qin along a north-south axis. <strong>连横 liánhéng</strong> ("horizontal linkage," east-west) was the strategy of individual states making separate accommodations with Qin, accepting Qin's dominance in exchange for their own survival at their neighbors' expense.</p>
+      <p>The advocates of these strategies were the <strong>纵横家 zònghéngjiā</strong> (Diplomatic Strategists or "School of Vertical and Horizontal"). The two most famous were <strong>苏秦 Sū Qín</strong>, who argued for hézòng (the six-state anti-Qin coalition) and reportedly held the seals of six states simultaneously, and <strong>张仪 Zhāng Yí</strong>, who argued for liánhéng (alignment with Qin) and served Qin's interest as a roving diplomat. Sima Qian's <em>Shiji</em> presents them as rivals who studied under the same master; the later compilation of the <em>Zhanguo Ce</em> is largely their speeches and maneuvers.</p>
+      <p>The hézòng coalitions repeatedly formed and just as repeatedly collapsed. Individual states defected from the coalition when Qin offered them favorable terms or threatened them credibly. The fundamental problem was that the coalition's collective interest (survival of all six) conflicted with each state's individual interest (survival of itself at the expense of neighbors). Qin systematically exploited this: offer terms to the state most likely to defect, use that defection to isolate the next, repeat. The strategy worked perfectly across the final campaigns of 230–221 BCE.</p>
+      <p>合纵连横 is still a living phrase in Chinese political and business language, describing any situation where multiple parties must choose between coalition against a dominant player or accommodation with it. The analysis of why coalitions fall apart despite their members' collective interest in maintaining them has not become outdated.</p>
+    </div>
+
+    <!-- ── CHENGYU ── -->
+    <span class="section-anchor" id="chengyu"></span>
+    <div class="section-head">
+      <span class="sh-cn">成语与关键词</span>
+      <span class="sh-py">Chéngyǔ yǔ Guānjiàn Cí</span>
+      <span class="sh-en">Idioms &amp; Key Phrases</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="chengyu-grid">
+
+      <div class="cy">
+        <span class="cy-cn">百家争鸣</span>
+        <span class="cy-py">bǎijiā zhēngmíng</span>
+        <span class="cy-en">a hundred schools contend — free intellectual debate; a golden age of ideas</span>
+        <span class="cy-note">Lit. "hundred schools contend and cry out." The standard Chinese phrase for the Warring States philosophical explosion. Still used today for any period of open intellectual competition. Mao Zedong borrowed it in 1956 with 百花齐放，百家争鸣 "let a hundred flowers bloom, let a hundred schools contend" — then quickly reversed course when the resulting criticism of the Party proved inconvenient. The classical phrase became an ironic frame for state censorship.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">纸上谈兵</span>
+        <span class="cy-py">zhǐ shàng tán bīng</span>
+        <span class="cy-en">strategize on paper — armchair theorizing without practical ability</span>
+        <span class="cy-note">From the Battle of Changping (260 BCE): Zhao Kuo (赵括) could discuss military theory fluently but had no battlefield experience. His appointment as Zhao's commander, reversing the caution of the veteran Lian Po, led to the encirclement and massacre of 400,000 Zhao troops. The idiom now applies to anyone whose theoretical competence far exceeds their practical grasp — common in engineering, management, and military contexts. Zhao Kuo became the permanent archetype of the dangerous amateur expert.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">合纵连横</span>
+        <span class="cy-py">hézòng liánhéng</span>
+        <span class="cy-en">vertical alliance and horizontal linkage — coalition against a dominant power, or accommodation with it</span>
+        <span class="cy-note">The two grand strategic options of the Warring States endgame. Used today in geopolitics, business competition, and organizational dynamics to describe the choice between forming a coalition against a dominant player and making separate deals with it. The Chinese debate about how to respond to US-China competition frequently uses this frame explicitly.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">徙木立信</span>
+        <span class="cy-py">xǐ mù lì xìn</span>
+        <span class="cy-en">move the post, establish credibility — demonstrate that stated commitments will be honored</span>
+        <span class="cy-note">Shang Yang's wooden post demonstration before his Qin reforms: post a reward, honor it fully, establish that the state means what it says. Used in modern Chinese management and governance as the archetype for the importance of follow-through on stated commitments — particularly relevant when launching reforms that require public cooperation before results are visible.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">朝秦暮楚</span>
+        <span class="cy-py">zhāo Qín mù Chǔ</span>
+        <span class="cy-en">Qin in the morning, Chu at night — serving different masters; inconsistency and opportunism</span>
+        <span class="cy-note">From the reality of Warring States advisors who moved between states as circumstances changed. The phrase originally described border regions whose allegiance shifted with the military tide. Now a common idiom for fickleness, opportunism, or having no fixed loyalties. The Warring States' mobile intellectual market — which was the structural condition for the Hundred Schools — produced exactly this pattern of allegiance-shifting that the idiom now captures as a vice.</span>
+      </div>
+
+    </div>
+
+    <div class="adj-wrap">
+      <span class="adj-label">Related entries</span>
+      <a class="adj" href="../../pages/history/topic_chunqiu.html">春秋 — what preceded</a>
+      <a class="adj" href="../../pages/history/topic_xia_shang_zhou.html">夏商周 — Three Dynasties context</a>
+      <a class="adj" href="../../pages/history/topic_qin_shihuang.html">秦始皇 — the conclusion</a>
+      <a class="adj" href="../../pages/philosophy/topic_kongzi.html">孔子</a>
+      <a class="adj" href="../../pages/philosophy/topic_laozi.html">老子</a>
+      <a class="adj" href="../../pages/philosophy/topic_mengzi.html">孟子</a>
+      <a class="adj" href="../../pages/philosophy/topic_xunzi.html">荀子</a>
+      <a class="adj" href="../../pages/philosophy/topic_zhuangzi.html">庄子</a>
+      <a class="adj" href="../../pages/philosophy/topic_mojia.html">墨家</a>
+      <a class="adj" href="../../pages/philosophy/topic_fajia.html">法家</a>
+    </div>
+
+    <footer class="page-footer">
+      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>战国时期 zhànguó shíqī</span> · topic_zhanguo.html</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>
