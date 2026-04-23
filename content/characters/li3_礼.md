@@ -3,8 +3,8 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '礼 · rites, ceremony, propriety'
-desc: 'The character that encodes Confucian social order — the ceremonial forms that bind family, society, and cosmos into one coherent whole.'
-metaDesc: "礼 lǐ: rites, ceremony, ritual propriety. The Confucian concept of the social forms that sustain civilization — and the radical 礻 that marks all things sacred and ceremonial."
+desc: 'The character that encodes Confucian social order: the ceremonial forms that bind family, society, and cosmos into one coherent whole.'
+metaDesc: "礼 lǐ: rites, ceremony, ritual propriety. The Confucian concept of the social forms that sustain civilization, and the radical 礻 that marks all things sacred and ceremonial."
 pageTitle: '礼 lǐ'
 tags:
   - 'confucianism'
@@ -109,9 +109,9 @@ content_sources:
     <div class="scholar" data-glyph="礼">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
       <p>The traditional form <strong>禮</strong> is one of the most semantically dense characters in the written language. On the left: <strong>示 shì</strong> — a T-shaped altar with drops of sacrificial offering dripping downward, the original image of a ritual display made visible to the spirits. This is the spirit radical, which compresses to <strong>礻</strong> in simplified characters. On the right: <strong>豊</strong> — a pictograph of a tall ritual food vessel (related to 豆 dòu, the stemmed offering bowl) filled with jade and cowrie shells and placed before the altar in ceremony.</p>
-      <p>Put the two halves together and the meaning is exact: <em>precious offerings arranged in the prescribed manner before the spirit altar.</em> 礼 is not about politeness. It was never about politeness. It is about the correct forms through which human beings make contact with what is sacred — and by extension, with one another, since Confucius extended the logic of temple ritual to every human relationship.</p>
+      <p>Put the two halves together and the meaning is exact: <em>precious offerings arranged in the prescribed manner before the spirit altar.</em> 礼 is not about politeness. It was never about politeness. It is about the correct forms through which human beings make contact with what is sacred, and by extension with one another, since Confucius extended the logic of temple ritual to every human relationship.</p>
       <p>The simplified 礼 retains 礻 (the altar) but replaces 豊 with a simplified right component, losing the visual of the laden vessel. The traditional form carries more of the original picture: you can still see the altar and the offering, still feel the weight of what is being placed before what. Both forms carry the same meaning; the traditional form carries more of the story.</p>
-      <p>This etymology matters for a precise reason: it explains why the same character covers such apparently different things. Cosmic rites between Heaven and Earth, the tea you serve a guest, the gift you carry to a wedding, the bow you make to a senior, the mourning garments at a funeral — all are the same act at different scales. All are <em>precious offerings arranged in the correct form before the right relationship.</em> The character does not merely name a concept; it encodes a complete theory of social life.</p>
+      <p>This etymology explains why the same character covers such apparently different things. Cosmic rites between Heaven and Earth, the tea you serve a guest, the gift you carry to a wedding, the bow you make to a senior, the mourning garments at a funeral: all are the same act at different scales. All are <em>precious offerings arranged in the correct form before the right relationship.</em> The character does not merely name a concept; it encodes a complete theory of social life.</p>
     </div>
 
     <!-- ── RADICAL ── -->
@@ -137,8 +137,8 @@ content_sources:
       <strong>禁 jìn</strong> — forbidden; taboo — what the sacred prohibits; the boundary the ritual defines.<br>
       <strong>祈 qí</strong> — to pray; to petition the spirits — the verbal act of making contact with the sacred.<br>
       <strong>祝 zhù</strong> — to bless; to wish well — the extension of sacred goodwill into human speech.</p>
-      <p>The pattern is consistent: every 礻 character involves a relationship between the human and something beyond the ordinary — a spirit, a power, a constraint, a blessing, a form. The radical is the address. When you learn to recognize 礻, you gain immediate orientation in a large and important part of the written lexicon.</p>
-      <p>Note that 视 shì (to look; to regard) shares the same phonetic and was historically conflated with 示 in some forms, but its modern meaning has drifted far from the sacred domain — a useful reminder that radicals predict, but do not guarantee, semantic territory.</p>
+      <p>The pattern is consistent: every 礻 character involves a relationship between the human and something beyond the ordinary (a spirit, a power, a constraint, a blessing, a form). The radical is the address. When you learn to recognize 礻, you gain immediate orientation in a large and important part of the written lexicon.</p>
+      <p>Note that 视 shì (to look; to regard) shares the same phonetic and was historically conflated with 示 in some forms, but its modern meaning has drifted far from the sacred domain. A useful reminder that radicals predict, but do not guarantee, semantic territory.</p>
     </div>
 
     <!-- ── RITUAL AND CEREMONY ── -->
@@ -161,7 +161,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N/Adj 名形词</span></div>
         <div class="card-def">
-          礼 lǐ (propriety; rites) + 貌 mào (appearance; countenance — the face a person presents to the world). <em>Lit. "the visible face of 礼."</em> The most common everyday word for courtesy and good manners. 有礼貌 yǒu lǐmào = polite; 没礼貌 méi lǐmào = rude. Note the semantic architecture: politeness is understood not as an internal state but as an outward form — the social surface through which 礼 becomes visible. The same logic that makes temple ritual legible also makes a polite greeting legible.
+          礼 lǐ (propriety; rites) + 貌 mào (appearance; countenance — the face a person presents to the world). <em>Lit. "the visible face of 礼."</em> The most common everyday word for courtesy and good manners. 有礼貌 yǒu lǐmào = polite; 没礼貌 méi lǐmào = rude. Note the semantic architecture: politeness is understood not as an internal state but as an outward form, the social surface through which 礼 becomes visible. The same logic that makes temple ritual legible also makes a polite greeting legible.
         </div>
         <div class="examples">
           <div class="example">
@@ -195,7 +195,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          礼 lǐ (ritual offering) + 物 wù (thing; object; matter). <em>Lit. "a ritual-offering made material."</em> A gift in Chinese culture is always, at some level, a ritual object — it carries social meaning that exceeds its material value. The character encodes this directly: the gift is not merely a thing but a 礼, a proper offering placed before a relationship. 送礼 sòng lǐ = to give a gift (and, in certain contexts, to offer a bribe — the same word because the logic is the same: a material offering placed before a relationship to maintain or improve it).
+          礼 lǐ (ritual offering) + 物 wù (thing; object; matter). <em>Lit. "a ritual-offering made material."</em> A gift in Chinese culture is always, at some level, a ritual object that carries social meaning exceeding its material value. The character encodes this directly: the gift is not merely a thing but a 礼, a proper offering placed before a relationship. 送礼 sòng lǐ = to give a gift (and, in certain contexts, to offer a bribe; the same word because the logic is the same: a material offering placed before a relationship to maintain or improve it).
         </div>
         <div class="examples">
           <div class="example">
@@ -259,7 +259,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          葬 zàng (to bury; burial — the character shows plants 艹 and 死 death: vegetation covering the dead, returning them to the earth) + 礼 lǐ (rite; ceremony). The rite of burial — one of the forms of 礼 that Confucius considered most important, because the treatment of the dead is one of the clearest expressions of a person's 仁 (humaneness) and filial character. 礼记 Lǐjì, the Record of Rites, devotes extensive chapters to the precise protocols of mourning and burial.
+          葬 zàng (to bury; burial — the character shows plants 艹 and 死 death: vegetation covering the dead, returning them to the earth) + 礼 lǐ (rite; ceremony). The rite of burial was among the forms of 礼 Confucius considered most important, because the treatment of the dead is one of the clearest expressions of a person's 仁 (humaneness) and filial character. 礼记 Lǐjì, the Record of Rites, devotes extensive chapters to the precise protocols of mourning and burial.
         </div>
         <div class="examples">
           <div class="example">
@@ -294,10 +294,10 @@ content_sources:
     <div class="scholar" data-glyph="礼">
       <div class="scholar-label">哲学洞见 zhéxué dòngjiàn · Philosophical Insight</div>
       <p>Confucius's most concentrated statement on 礼 appears in the <em>Analects</em>: <strong>克己复礼为仁</strong> kè jǐ fù lǐ wéi rén — "To overcome the self and return to rites is to achieve 仁 (humaneness)." Four words of instruction, one of the most debated sentences in two thousand years of Chinese philosophy. What does it mean?</p>
-      <p>The self being overcome (克己 kè jǐ) is not the genuine self — it is the impulsive, appetite-driven, socially disruptive self that pushes in front of others, ignores its obligations, and acts as though it were the only person in the room. The self that emerges through 礼 is the 仁 self: attentive, responsive, capable of genuine relationship. Confucius saw no tension between self-cultivation and social form. Form was the instrument of cultivation. The repeated practice of the correct gesture — the bow, the yielding of the road, the correct seating at a feast — gradually reshapes the character of the person performing it.</p>
-      <p>This is the Confucian insight that distinguishes 礼 from mere rule-following: <strong>仁 (inner humaneness) and 礼 (external form) are inseparable.</strong> Without 礼, 仁 has no channel through which to act. Without 仁, 礼 becomes empty performance — the correct motions with nobody home inside them. Confucius was sharply critical of this failure: 人而不仁，如礼何？— "A person who lacks 仁, what use is 礼 to them?"</p>
+      <p>The self being overcome (克己 kè jǐ) is the impulsive, appetite-driven, socially disruptive self that pushes in front of others, ignores its obligations, and acts as though it were the only person in the room. The self that emerges through 礼 is the 仁 self: attentive, responsive, capable of genuine relationship. Confucius saw no tension between self-cultivation and social form. Form was the instrument of cultivation. The repeated practice of the correct gesture (the bow, the yielding of the road, the correct seating at a feast) gradually reshapes the character of the person performing it.</p>
+      <p>The Confucian insight that distinguishes 礼 from mere rule-following: <strong>仁 (inner humaneness) and 礼 (external form) are inseparable.</strong> Without 礼, 仁 has no channel through which to act. Without 仁, 礼 becomes empty performance, the correct motions with nobody home inside them. Confucius was sharply critical of this failure: 人而不仁，如礼何？— "A person who lacks 仁, what use is 礼 to them?"</p>
       <p>The philosopher Xunzi 荀子, writing a century later, approached 礼 from a different angle: not as the expression of innate virtue but as the necessary correction of human nature. Where Mencius held that human nature is good and 礼 allows it to express itself, Xunzi held that human nature tends toward conflict and 礼 is the civilizational technology that redirects it. Both arguments arrive at the same conclusion: without 礼, there is 争 zhēng — contention, scrambling, the disintegration of social bonds. The disagreement is about why 礼 works; neither doubts that it does.</p>
-      <p>The contemporary relevance: a society that dismantles its forms of 礼 in the name of authenticity or spontaneity does not thereby become more genuine. It becomes less equipped to translate inner feeling into recognizable social action. 礼 is not the cage of the authentic self — it is the grammar that makes social authenticity legible.</p>
+      <p>A society that dismantles its forms of 礼 in the name of authenticity or spontaneity does not thereby become more genuine. It becomes less equipped to translate inner feeling into recognizable social action. 礼 is the grammar that makes social authenticity legible.</p>
     </div>
 
     <!-- ── COMPOUND FAMILY ── -->
@@ -321,7 +321,7 @@ content_sources:
       <strong>敬礼 jìnglǐ</strong> — to salute; to make a formal bow (lit. "reverence-rite")<br>
       <strong>行礼 xínglǐ</strong> — to perform a rite; to bow; to carry out the ceremony (lit. "to carry out 礼")<br>
       <strong>施礼 shīlǐ</strong> — to perform a ritual gesture; to pay one's respects (classical/formal register)<br>
-      The compound family spans daily courtesy, formal protocol, ceremonial dress, and the physical performance of the bow — from the smallest social gesture to the full ritual occasion.
+      The compound family spans daily courtesy, formal protocol, ceremonial dress, and the physical performance of the bow, from the smallest social gesture to the full ritual occasion.
     </div>
 
     <!-- ── CHENGYU ── -->
@@ -353,7 +353,7 @@ content_sources:
         <span class="cy-cn">知书达礼</span>
         <span class="cy-py">zhī shū dá lǐ</span>
         <span class="cy-en">to know books and understand rites — educated and well-mannered; the Confucian ideal</span>
-        <span class="cy-note">知书 zhī shū = to know books; to be literate and learned. 达礼 dá lǐ = to have arrived at an understanding of 礼; to know and practice proper conduct. Together: the classical ideal of the cultivated person — not merely academically educated, but socially formed. Used as a compliment (他真是个知书达礼的人) or as a standard against which a person's behavior is measured.</span>
+        <span class="cy-note">知书 zhī shū = to know books; to be literate and learned. 达礼 dá lǐ = to have arrived at an understanding of 礼; to know and practice proper conduct. Together: the classical ideal of the cultivated person, academically educated and socially formed. Used as a compliment (他真是个知书达礼的人) or as a standard against which a person's behavior is measured.</span>
       </div>
 
     </div>
@@ -385,10 +385,10 @@ content_sources:
     <!-- RETENTION IMAGE -->
     <div class="scholar" data-glyph="礼">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>Five brushstrokes — the simplest form of a very ancient idea. But look at what those five strokes compress: an altar, a vessel laden with jade and shells, and the entire theory of human social life. The traditional form 禮 is a more honest picture: you can still see the altar receiving the offering. The simplified 礼 has traded the vessel for economy of stroke, but the altar is still there — 礻 on the left, always the same, always marking the sacred.</p>
+      <p>Five brushstrokes, the simplest form of a very ancient idea. But look at what those five strokes compress: an altar, a vessel laden with jade and shells, and the entire theory of human social life. The traditional form 禮 is a more honest picture: you can still see the altar receiving the offering. The simplified 礼 has traded the vessel for economy of stroke, but the altar is still there. 礻 on the left, always the same, always marking the sacred.</p>
       <p>The retention key for 礼 is the original picture and its extension. Start with the altar: the T-shaped table where drips of offering fall downward toward the earth and upward toward the spirits, the original site of contact between worlds. Now place beside it the laden vessel: jade, cowrie shells, precious things arranged with care. The correct offering, in the correct form, before the correct presence. That is 礼.</p>
-      <p>Confucius's move was to say: every human relationship is an altar. The bow to a parent, the yielding of a seat to an elder, the proper mourning garment, the gift carried to a dinner — all are offerings placed before relationships that are sacred in their own right. When you 失礼 (lose 礼), you have not merely been impolite. You have left the altar unattended. When you 克己复礼 (overcome the self and return to rites), you have not repressed yourself. You have found the form through which the self can act with full humaneness.</p>
-      <p>Once you hold this image — the laden vessel before the altar — you will not confuse 礼 with any other character, and you will not mistake it for mere politeness again.</p>
+      <p>Confucius's move was to say: every human relationship is an altar. The bow to a parent, the yielding of a seat to an elder, the proper mourning garment, the gift carried to a dinner: all are offerings placed before relationships that are sacred in their own right. When you 失礼 (lose 礼), you have not merely been impolite. You have left the altar unattended. When you 克己复礼 (overcome the self and return to rites), you have not repressed yourself. You have found the form through which the self can act with full humaneness.</p>
+      <p>Once you hold this image (the laden vessel before the altar), you will not confuse 礼 with any other character, and you will not mistake it for mere politeness again.</p>
     </div>
 
     <footer class="page-footer">
