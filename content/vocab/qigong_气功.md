@@ -72,9 +72,9 @@ content_sources:
 
     <div class="scholar" data-glyph="气">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>气 qì</strong> (breath; vital energy; air; qi) + <strong>功 gōng</strong> (skill; achievement; work — the same 功 as in 功夫 gōngfu "skill through time"). 气功 = "the cultivation of qi through disciplined practice."</p>
-      <p>The character 气 originally showed steam or breath rising — three curving lines above the ground, representing vapor. Later unified with 氣 (which showed rice 米 being cooked and emitting steam 气 — the nourishment that produces vital energy). Both forms converge on the same idea: qi as the vital animating substance, as invisible and pervasive as breath.</p>
-      <p>气 is one of the most fundamental concepts in Chinese thought, spanning natural philosophy (天气 weather), traditional medicine (气血 qi and blood), cosmology (元气 primal qi), and ethics (正气 righteous qi — Wen Tianxiang's poem 正气歌 "Song of Righteous Qi"). All share the root sense: the animating force or substance of a phenomenon.</p>
+      <p><strong>气 qì</strong> (breath; vital energy; air; qi) + <strong>功 gōng</strong> (skill; achievement; work, the same 功 as in 功夫 gōngfu "skill through time"). 气功 = "the cultivation of qi through disciplined practice."</p>
+      <p>The character 气 originally showed steam or breath rising: three curving lines above the ground, representing vapor. It was later unified with 氣, which showed rice 米 being cooked and emitting steam, the nourishment that produces vital energy. Both forms converge on the same idea: qi as the vital animating substance, as invisible and pervasive as breath.</p>
+      <p>气 is one of the most fundamental concepts in Chinese thought, spanning natural philosophy (天气 weather), traditional medicine (气血 qi and blood), cosmology (元气 primal qi), and ethics (正气 righteous qi, as in Wen Tianxiang's 正气歌 "Song of Righteous Qi"). All share the root sense: the animating force or substance of a phenomenon.</p>
     </div>
 
     <span class="section-anchor" id="theory"></span>
@@ -87,9 +87,9 @@ content_sources:
 
     <div class="scholar" data-glyph="气">
       <div class="scholar-label">气的理论 qì de lǐlùn · What Qi Is</div>
-      <p>In traditional Chinese medicine and classical philosophy, <strong>气 qì</strong> is the fundamental substance of the universe — both matter and energy, both noun and verb. Everything that exists is a specific configuration of qi: dense, slow-moving qi is matter; subtle, fast-moving qi is energy and consciousness. Health is the harmonious flow of qi; illness is blockage, deficiency, or excess.</p>
-      <p>The body contains several key types of qi: <strong>元气 yuánqì</strong> (primordial qi — inherited from parents, stored in the kidneys; finite), <strong>宗气 zōngqì</strong> (chest qi — drives respiration and circulation), <strong>营气 yíngqì</strong> (nutritive qi — derived from food), <strong>卫气 wèiqì</strong> (defensive qi — protects the body surface).</p>
-      <p>Qi flows through channels called <strong>经络 jīngluò</strong> (meridians) — the same system used in acupuncture. The 12 primary meridians and 8 extraordinary vessels form a network through which qi moves in a 24-hour daily cycle, concentrating in different organs at different times. Qigong practice is designed to support and regulate this flow.</p>
+      <p>In traditional Chinese medicine and classical philosophy, <strong>气 qì</strong> is the fundamental substance of the universe: matter and energy, noun and verb at once. Everything that exists is a specific configuration of qi: dense, slow-moving qi is matter; subtle, fast-moving qi is energy and consciousness. Health is the harmonious flow of qi; illness is blockage, deficiency, or excess.</p>
+      <p>The body contains several key types of qi: <strong>元气 yuánqì</strong> (primordial qi, inherited from parents, stored in the kidneys; finite), <strong>宗气 zōngqì</strong> (chest qi that drives respiration and circulation), <strong>营气 yíngqì</strong> (nutritive qi derived from food), and <strong>卫气 wèiqì</strong> (defensive qi that protects the body surface).</p>
+      <p>Qi flows through channels called <strong>经络 jīngluò</strong> (meridians), the same system used in acupuncture. The 12 primary meridians and 8 extraordinary vessels form a network through which qi moves in a 24-hour daily cycle, concentrating in different organs at different times. Qigong practice is designed to support and regulate this flow.</p>
     </div>
 
     <span class="section-anchor" id="practice"></span>
@@ -118,7 +118,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          静 jìng (still; quiet) + 功 gōng (practice). Qigong performed without external movement — seated meditation, standing post (站桩 zhàn zhuāng), or lying-down practices. The body is still while breath and attention cultivate interior movement of qi.
+          静 jìng (still; quiet) + 功 gōng (practice). Qigong performed without external movement: seated meditation, standing post (站桩 zhàn zhuāng), or lying-down practices. The body is still while breath and attention cultivate interior movement of qi.
         </div>
         <div class="examples">
           <div class="example">
@@ -137,7 +137,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          动 dòng (moving; active) + 功 gōng (practice). Qigong with movement — from slow, gentle forms like 八段锦 Bāduànjǐn (Eight Brocades) and 五禽戏 Wǔqínxì (Five Animals) to more vigorous practices. Movement is synchronized with breath and guided by awareness.
+          动 dòng (moving; active) + 功 gōng (practice). Qigong with movement, from slow and gentle forms like 八段锦 Bāduànjǐn (Eight Brocades) and 五禽戏 Wǔqínxì (Five Animals) to more vigorous practices. Movement is synchronized with breath and guided by awareness.
         </div>
         <div class="examples">
           <div class="example">
@@ -160,8 +160,8 @@ content_sources:
 
     <div class="scholar" data-glyph="气">
       <div class="scholar-label">三大流派 sān dà liúpài · Three Major Traditions</div>
-      <p><strong>道家气功</strong> Daojiā qìgōng (Daoist qigong): The oldest tradition — practices aimed at achieving 长生 cháng shēng (longevity) or 成仙 chéng xiān (immortality) through refining qi into increasingly subtle forms. The inner alchemy tradition (内丹 nèidān) visualizes the body as a laboratory for transforming essence (精 jīng) → qi → spirit (神 shén).</p>
-      <p><strong>佛家气功</strong> Fójiā qìgōng (Buddhist qigong): Practices focused on cultivating samadhi (定 dìng) and wisdom (慧 huì) — the meditative foundation of Chan Buddhism. The Shaolin tradition blended Buddhist meditation with physical conditioning, producing both the monk's stillness and the warrior's power.</p>
+      <p><strong>道家气功</strong> Daojiā qìgōng (Daoist qigong): The oldest tradition, with practices aimed at achieving 长生 cháng shēng (longevity) or 成仙 chéng xiān (immortality) through refining qi into increasingly subtle forms. The inner alchemy tradition (内丹 nèidān) visualizes the body as a laboratory for transforming essence (精 jīng) → qi → spirit (神 shén).</p>
+      <p><strong>佛家气功</strong> Fójiā qìgōng (Buddhist qigong): Practices focused on cultivating samadhi (定 dìng) and wisdom (慧 huì), the meditative foundation of Chan Buddhism. The Shaolin tradition blended Buddhist meditation with physical conditioning, producing both the monk's stillness and the warrior's power.</p>
       <p><strong>医家气功</strong> Yījiā qìgōng (Medical qigong): Practices derived from traditional Chinese medicine, designed for health maintenance, prevention, and therapeutic treatment. The most evidence-based tradition; used in hospitals and clinical settings in China. 八段锦 and 五禽戏 belong to this category.</p>
     </div>
 
@@ -183,7 +183,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          丹 dān (cinnabar; red; elixir) + 田 tián (field). The "elixir field" — the body's primary energy reservoir. Three locations: 下丹田 xià dāntián (lower, 3 inches below the navel — the primary center; focus of most practice) · 中丹田 zhōng dāntián (middle, the chest) · 上丹田 shàng dāntián (upper, the head). "Breathe into the dantian" is one of the most common instructions in qigong and internal martial arts.
+          丹 dān (cinnabar; red; elixir) + 田 tián (field). The "elixir field," the body's primary energy reservoir. Three locations: 下丹田 xià dāntián (lower, 3 inches below the navel, the primary center and focus of most practice) · 中丹田 zhōng dāntián (middle, the chest) · 上丹田 shàng dāntián (upper, the head). "Breathe into the dantian" is one of the most common instructions in qigong and internal martial arts.
         </div>
         <div class="examples">
           <div class="example">
