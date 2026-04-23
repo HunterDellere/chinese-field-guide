@@ -72,8 +72,8 @@ content_sources:
 
     <div class="scholar" data-glyph="字">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · The Nature of the Script</div>
-      <p><strong>汉字 hànzì</strong> — 汉 Hàn (Han Chinese — the majority ethnic group, whose dynasty gave its name to the language) + 字 zì (written character; word). Literally: "Han characters." The script has approximately 3,500 years of documented history, making it the world's oldest writing system in continuous use.</p>
-      <p>Chinese characters are logographic, not alphabetic — each character represents a syllable that carries meaning, not a sound unit without inherent meaning (like a letter). A character combines a sound (pronunciation) with a meaning (semantic content). Most characters contain a semantic component (the radical) that hints at meaning, and a phonetic component that suggests pronunciation. Neither component is a perfect guide, but together they provide patterns that readers use to decode unfamiliar characters.</p>
+      <p><strong>汉字 hànzì</strong>: 汉 Hàn (Han Chinese, the majority ethnic group, whose dynasty gave its name to the language) + 字 zì (written character; word). Literally "Han characters." The script has approximately 3,500 years of documented history, making it the world's oldest writing system in continuous use.</p>
+      <p>Chinese characters are logographic, not alphabetic. Each character represents a syllable that carries meaning, not a sound unit without inherent meaning (like a letter). A character combines a sound (pronunciation) with a meaning (semantic content). Most characters contain a semantic component (the radical) that hints at meaning, and a phonetic component that suggests pronunciation. Neither component is a perfect guide, but together they provide patterns that readers use to decode unfamiliar characters.</p>
       <p>How many characters exist? The 康熙字典 Kāngxī Zìdiǎn (Kangxi Dictionary, 1716) recorded 47,035 characters. Modern usage is far smaller: a well-educated adult Chinese person knows approximately 8,000 characters; basic literacy requires about 2,500; to read a newspaper fluently requires 3,500–4,000. The HSK standard tests approximately 2,600 characters at its highest level.</p>
     </div>
 
@@ -89,10 +89,10 @@ content_sources:
       <div class="scholar-label">六书 liùshū · The Classical Classification</div>
       <p>The 六书 liùshū (Six Writings) is the classical taxonomy of Chinese character formation, codified in the Han dynasty Shuowen Jiezi (说文解字, 100 CE). Understanding these categories transforms characters from arbitrary marks into readable structures:</p>
       <p><strong>象形 xiàngxíng</strong> (Pictographs): Characters that directly depict objects. 日 (sun), 月 (moon), 山 (mountain), 水 (water), 人 (person), 口 (mouth). The original drawings, stylized over millennia.</p>
-      <p><strong>指事 zhǐshì</strong> (Indicatives): Abstract concepts marked by position or addition. 上 shàng (above — a mark above a baseline), 下 xià (below), 本 běn (root/origin — a mark at the base of a tree 木).</p>
+      <p><strong>指事 zhǐshì</strong> (Indicatives): Abstract concepts marked by position or addition. 上 shàng (above: a mark above a baseline), 下 xià (below), 本 běn (root/origin: a mark at the base of a tree 木).</p>
       <p><strong>会意 huìyì</strong> (Logical aggregates): Characters that combine two or more elements to suggest meaning. 明 míng (bright = 日 sun + 月 moon), 森 sēn (forest = three 木 trees), 好 hǎo (good = 女 woman + 子 child), 休 xiū (rest = 人 person leaning against 木 tree).</p>
-      <p><strong>形声 xíngshēng</strong> (Phonosemantic compounds): The largest category — approximately 90% of all characters. One component suggests meaning (semantic/radical); another suggests pronunciation (phonetic). 请 qǐng (to invite/please) has 言 speech radical (semantic) + 青 qīng as phonetic. 清 qīng (clear), 情 qíng (feeling), 晴 qíng (clear weather), 静 jìng (quiet) all share the phonetic 青 and approximate its sound.</p>
-      <p><strong>转注 zhuǎnzhù</strong> and <strong>假借 jiǎjiè</strong> (Derivative cognates and phonetic loans): The two less common and more contested categories — characters borrowed for their sound to represent words in other categories.</p>
+      <p><strong>形声 xíngshēng</strong> (Phonosemantic compounds): The largest category, approximately 90% of all characters. One component suggests meaning (semantic/radical); another suggests pronunciation (phonetic). 请 qǐng (to invite/please) has 言 speech radical (semantic) + 青 qīng as phonetic. 清 qīng (clear), 情 qíng (feeling), 晴 qíng (clear weather), 静 jìng (quiet) all share the phonetic 青 and approximate its sound.</p>
+      <p><strong>转注 zhuǎnzhù</strong> and <strong>假借 jiǎjiè</strong> (Derivative cognates and phonetic loans): The two less common and more contested categories, covering characters borrowed for their sound to represent words in other categories.</p>
     </div>
 
     <span class="section-anchor" id="simpTrad"></span>
@@ -106,8 +106,8 @@ content_sources:
     <div class="scholar" data-glyph="字">
       <div class="scholar-label">文字改革 wénzì gǎigé · Simplification</div>
       <p><strong>简体字 jiǎntǐzì</strong> (Simplified characters) were standardized by the People's Republic of China in 1956 and 1964, reducing stroke counts in approximately 2,000 of the most common characters. The motivations: increase literacy rates, speed up writing, modernize. Used in: mainland China, Singapore, Malaysia.</p>
-      <p><strong>繁体字 fántǐzì</strong> (Traditional characters) retain the full historical forms. Used in: Taiwan, Hong Kong, Macau, and overseas diaspora communities. Traditional characters are considered by many to be more etymologically legible — the components of complex characters more clearly show their original structure and meaning.</p>
-      <p>The relationship between simplified and traditional is not always simple reduction: some simplified characters use entirely different graphic forms. 爱 ài (love, simplified) loses the 心 heart component from traditional 愛 — a fact often noted as symbolically unfortunate. 龙 lóng (dragon, simplified, 5 strokes) vs. 龍 (traditional, 16 strokes) — one of the most dramatic simplifications.</p>
+      <p><strong>繁体字 fántǐzì</strong> (Traditional characters) retain the full historical forms. Used in Taiwan, Hong Kong, Macau, and overseas diaspora communities. Traditional characters are considered by many to be more etymologically legible, with the components of complex characters more clearly showing their original structure and meaning.</p>
+      <p>The relationship between simplified and traditional is not always simple reduction; some simplified characters use entirely different graphic forms. 爱 ài (love, simplified) loses the 心 heart component from traditional 愛, a fact often noted as symbolically unfortunate. 龙 lóng (dragon, simplified, 5 strokes) versus 龍 (traditional, 16 strokes) is one of the most dramatic simplifications.</p>
     </div>
 
     <span class="section-anchor" id="radicals"></span>
