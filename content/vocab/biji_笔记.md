@@ -75,9 +75,9 @@ content_sources:
 
     <div class="scholar" data-glyph="笔">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>笔 bǐ</strong> (simplified from 筆) = 竹 zhú (bamboo) + 毛 máo (hair; fur — the animal-hair tip of the brush). The simplified form makes the brush's anatomy explicit: bamboo handle above, hair bristles below. The traditional form 筆 used 竹 + 聿 yù (a hand holding a brush) — more abstract, preserving the older graph of the brush-as-tool rather than naming its parts. Either way, 笔 is the word for pen/brush/pencil in modern Chinese: 钢笔 gāngbǐ (fountain pen), 铅笔 qiānbǐ (pencil), 毛笔 máobǐ (calligraphy brush — literally "hair-brush," a compound that echoes the logic of the simplified character itself).</p>
-      <p><strong>记 jì</strong> = 讠(speech radical) + 己 jǐ (oneself; the self). To record for oneself — to mark down through language what the mind has received. 记 covers memory (记住 jìzhù = to remember) and recording (记录 jìlù = to record; 日记 rìjì = diary).</p>
-      <p>Together, 笔记 bǐjì is "what the brush records" — notes jotted down, observations captured. This seemingly simple compound carries the weight of a 1,500-year literary tradition.</p>
+      <p><strong>笔 bǐ</strong> (simplified from 筆) = 竹 zhú (bamboo) + 毛 máo (hair; fur, the animal-hair tip of the brush). The simplified form makes the brush's anatomy explicit: bamboo handle above, hair bristles below. The traditional form 筆 used 竹 + 聿 yù (a hand holding a brush), more abstract, preserving the older graph of the brush-as-tool rather than naming its parts. Either way, 笔 is the word for pen/brush/pencil in modern Chinese: 钢笔 gāngbǐ (fountain pen), 铅笔 qiānbǐ (pencil), 毛笔 máobǐ (calligraphy brush, literally "hair-brush," a compound that echoes the logic of the simplified character itself).</p>
+      <p><strong>记 jì</strong> = 讠(speech radical) + 己 jǐ (oneself; the self). To record for oneself, to mark down through language what the mind has received. 记 covers memory (记住 jìzhù = to remember) and recording (记录 jìlù = to record; 日记 rìjì = diary).</p>
+      <p>Together, 笔记 bǐjì is "what the brush records": notes jotted down, observations captured. This seemingly simple compound carries the weight of a 1,500-year literary tradition.</p>
     </div>
 
     <!-- ── LITERARY GENRE ── -->
@@ -91,9 +91,9 @@ content_sources:
 
     <div class="scholar" data-glyph="记">
       <div class="scholar-label">文学洞见 wénxué dòngjiàn · Literary Insight</div>
-      <p>笔记 bǐjì is one of Chinese literature's richest and most underappreciated genres — a form somewhere between the essay, the notebook, the anecdote collection, and the encyclopedia. A scholar would jot down observations, overheard conversations, folk stories, historical curiosities, natural phenomena, and philosophical reflections — all in short, discrete entries without rigid organizational principle.</p>
-      <p>The greatest examples: <strong>梦溪笔谈 Mèngxī Bǐtán</strong> (Dream Pool Essays, 1088) by Shen Kuo 沈括 — 609 entries ranging from astronomy to painting to military strategy, sometimes called China's first scientific notebook. <strong>聊斋志异 Liáozhāi Zhìyì</strong> (Strange Tales from a Chinese Studio) by Pu Songling 蒲松龄 grew from the 笔记 tradition. <strong>容斋随笔 Róngzhāi Suíbǐ</strong> by Hong Mai 洪迈 is 74 volumes of Song-dynasty 笔记 commentary on everything.</p>
-      <p>The 笔记 tradition values the marginal, the incidental, the not-quite-categorizable. It is the literary equivalent of the corner (角落) — where interesting things accumulate away from the main text.</p>
+      <p>笔记 bǐjì is one of Chinese literature's richest and most underappreciated genres: a form somewhere between the essay, the notebook, the anecdote collection, and the encyclopedia. A scholar would jot down observations, overheard conversations, folk stories, historical curiosities, natural phenomena, and philosophical reflections, all in short, discrete entries without rigid organizational principle.</p>
+      <p>The greatest examples: <strong>梦溪笔谈 Mèngxī Bǐtán</strong> (Dream Pool Essays, 1088) by Shen Kuo 沈括, 609 entries ranging from astronomy to painting to military strategy, sometimes called China's first scientific notebook. <strong>聊斋志异 Liáozhāi Zhìyì</strong> (Strange Tales from a Chinese Studio) by Pu Songling 蒲松龄 grew from the 笔记 tradition. <strong>容斋随笔 Róngzhāi Suíbǐ</strong> by Hong Mai 洪迈 is 74 volumes of Song-dynasty 笔记 commentary on everything.</p>
+      <p>The 笔记 tradition values the marginal, the incidental, the not-quite-categorizable. It is the literary equivalent of the corner (角落): where interesting things accumulate away from the main text.</p>
     </div>
 
     <!-- ── MODERN USES ── -->
