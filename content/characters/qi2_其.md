@@ -94,9 +94,9 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="其">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p>The oracle-bone form of 其 shows a flat-bottomed woven basket — a winnowing tray used to separate grain from chaff by tossing the contents into the wind. The tray's woven pattern is visible in the earliest inscriptions: a rectangular grid with splayed feet. The modern character has compressed into abstraction — 一 across the top, 甘 (sweet; mouth) at center, 八 spreading at the bottom — but the basket shape explains why 箕 jī (a dust-pan-style basket) uses 其 as its phonetic component. The two characters share origin; one kept the basket meaning, the other was recruited for grammar.</p>
-      <p>By the Shang dynasty, 其 had already been commandeered as a third-person pronoun and demonstrative, leaving the basket sense to the bamboo-radical variant 箕. This kind of phonetic borrowing — a concrete noun pressed into service as an abstract function word — is one of the mechanisms by which Classical Chinese built its grammatical toolkit without creating new characters from scratch.</p>
-      <p>In Classical Chinese (文言文 wényánwén), 其 carries considerable weight: it is the standard third-person possessive and attributive pronoun (his, her, its, their), a demonstrative (that, such), and — depending on context — a modal particle marking uncertainty or exhortation. The Analects alone uses 其 hundreds of times. Modern Mandarin has largely handed its conversational pronoun roles to 他的/她的/它的, but 其 remains essential in formal written Chinese, legal documents, classical quotation, and set phrases.</p>
+      <p>The oracle-bone form of 其 shows a flat-bottomed woven basket, a winnowing tray used to separate grain from chaff by tossing the contents into the wind. The tray's woven pattern is visible in the earliest inscriptions: a rectangular grid with splayed feet. The modern character has compressed into abstraction, with 一 across the top, 甘 (sweet; mouth) at center, and 八 spreading at the bottom, but the basket shape explains why 箕 jī (a dust-pan-style basket) uses 其 as its phonetic component. The two characters share origin; one kept the basket meaning, the other was recruited for grammar.</p>
+      <p>By the Shang dynasty, 其 had already been commandeered as a third-person pronoun and demonstrative, leaving the basket sense to the bamboo-radical variant 箕. This kind of phonetic borrowing (a concrete noun pressed into service as an abstract function word) is one of the mechanisms by which Classical Chinese built its grammatical toolkit without creating new characters from scratch.</p>
+      <p>In Classical Chinese (文言文 wényánwén), 其 carries considerable weight: it is the standard third-person possessive and attributive pronoun (his, her, its, their), a demonstrative (that, such), and, depending on context, a modal particle marking uncertainty or exhortation. The Analects alone uses 其 hundreds of times. Modern Mandarin has largely handed its conversational pronoun roles to 他的/她的/它的, but 其 remains essential in formal written Chinese, legal documents, classical quotation, and set phrases.</p>
     </div>
 
     <!-- ── PRONOUN USE ── -->
@@ -114,7 +114,7 @@ content_review: 'pending'
       <strong>其人</strong> qí rén — that person; the person in question<br>
       <strong>其实</strong> qíshí — its reality; in fact; actually<br>
       <strong>其中</strong> qízhōng — among them; within it; therein<br>
-      In classical syntax, 其 functions exactly where English would use "its" or "that [noun]'s" — attributing a property or possession to a previously identified subject without repeating the noun.
+      In classical syntax, 其 functions exactly where English would use "its" or "that [noun]'s," attributing a property or possession to a previously identified subject without repeating the noun.
     </div>
 
     <div class="cards">
@@ -213,7 +213,7 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="其">
       <div class="scholar-label">用法洞见 yòngfǎ dòngjiàn · Usage Insight</div>
-      <p>A handful of 其 compounds function less as vocabulary items and more as structural joints in formal Chinese prose. 尤其 yóuqí (especially; in particular), 极其 jíqí (extremely), 与其 yǔqí (rather than), and 任其 rèn qí (to let it; to leave things as they are) each use 其 to refer anaphorically to something already in view — "that," "its," the thing we are discussing. Mastering these is the difference between reading formal Chinese as a string of words and reading it as structured argument.</p>
+      <p>A handful of 其 compounds function less as vocabulary items and more as structural joints in formal Chinese prose. 尤其 yóuqí (especially; in particular), 极其 jíqí (extremely), 与其 yǔqí (rather than), and 任其 rèn qí (to let it; to leave things as they are) each use 其 to refer anaphorically to something already in view: "that," "its," the thing we are discussing. Mastering these is the difference between reading formal Chinese as a string of words and reading it as structured argument.</p>
     </div>
 
     <div class="cards">
@@ -290,7 +290,7 @@ content_review: 'pending'
         </div>
         <div class="note">
           <span class="note-label">语法 yǔfǎ · Grammar</span>
-          与其…不如… is one of Chinese's most elegant preference structures. It frames a choice by first staging the less-preferred option (与其), then delivering the preferred action (不如). The construction reads as a single sweeping arc — a rhetorical unit, not two separate clauses.
+          与其…不如… is one of Chinese's most elegant preference structures. It frames a choice by first staging the less-preferred option (与其), then delivering the preferred action (不如). The construction reads as a single sweeping arc, a rhetorical unit rather than two separate clauses.
         </div>
       </div>
 
@@ -311,7 +311,7 @@ content_review: 'pending'
       <strong>其余</strong> qíyú — that which remains → the rest; the remainder<br>
       <strong>其间</strong> qíjiān — within that interval → in between; during that time<br>
       <strong>其貌不扬</strong> qí mào bù yáng — its appearance not distinguished → plain-looking; unprepossessing (idiom)<br>
-      The 其 in all of these refers anaphorically to something already in context — a previous noun, a previously described situation, a set already mentioned.
+      The 其 in all of these refers anaphorically to something already in context: a previous noun, a previously described situation, a set already mentioned.
     </div>
 
     <div class="cards">
@@ -393,7 +393,7 @@ content_review: 'pending'
         </div>
         <div class="note">
           <span class="note-label">文化 wénhuà · Note</span>
-          各得其所 appears in the 易经 Yìjīng (Book of Changes) and remains a living phrase in modern Mandarin. It captures the Confucian ideal of a social order where every person and thing occupies a fitting station — hierarchical harmony rather than equality.
+          各得其所 appears in the 易经 Yìjīng (Book of Changes) and remains a living phrase in modern Mandarin. It captures the Confucian ideal of a social order where every person and thing occupies a fitting station: hierarchical harmony, not egalitarian leveling.
         </div>
       </div>
 
@@ -476,9 +476,9 @@ content_review: 'pending'
     <!-- RETENTION IMAGE -->
     <div class="scholar" data-glyph="其">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>A farmer stands in the threshing yard at dusk, tossing grain skyward with a flat woven tray. The chaff lifts away on the wind; the heavy grain falls back. The tray — 其 — does not hold what matters. It only separates. This is 其 as a grammatical tool: it points, attributes, refers, connects — but the meaning lives in the noun it precedes, the context it links back to.</p>
-      <p>When Confucius wrote 知之者不如好之者，好之者不如乐之者 — "Those who know it are not as good as those who love it; those who love it are not as good as those who take joy in it" — the 之 in each clause does what 其 does: it holds the place of "it," that unstated thing you are learning or doing. 其 and 之 are the grammatical scaffolding that let classical Chinese prose build complex, referential argument without repeating nouns. Fluency in classical reading depends on tracking them.</p>
-      <p>The compound pattern follows the image: 其中 (within the tray), 其余 (what the tray doesn't catch), 其实 (what it actually weighs out to). Every compound lets 其 do its pointing work — "that thing over there" — while the second character names what matters.</p>
+      <p>A farmer stands in the threshing yard at dusk, tossing grain skyward with a flat woven tray. The chaff lifts away on the wind; the heavy grain falls back. The tray (其) does not hold what matters. It only separates. 其 as a grammatical tool works the same way: it points, attributes, and refers, but the meaning lives in the noun it precedes, the context it links back to.</p>
+      <p>When Confucius wrote 知之者不如好之者，好之者不如乐之者 ("Those who know it are not as good as those who love it; those who love it are not as good as those who take joy in it"), the 之 in each clause does what 其 does: it holds the place of "it," that unstated thing you are learning or doing. 其 and 之 are the grammatical scaffolding that let classical Chinese prose build complex, referential argument without repeating nouns. Fluency in classical reading depends on tracking them.</p>
+      <p>The compound pattern follows the image: 其中 (within the tray), 其余 (what the tray doesn't catch), 其实 (what it actually weighs out to). The second character names what matters; 其 only points.</p>
     </div>
 
     <footer class="page-footer">
