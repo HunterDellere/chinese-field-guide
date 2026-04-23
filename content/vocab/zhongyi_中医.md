@@ -68,8 +68,8 @@ content_sources:
 
     <div class="scholar" data-glyph="医">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · What 中医 Means</div>
-      <p><strong>中 zhōng</strong> (Chinese; middle) + <strong>医 yī</strong> (medicine; doctor — the character shows a medical chest with instruments). 中医 = Chinese medicine, as opposed to 西医 xīyī (Western medicine). The distinction is used throughout Chinese healthcare: hospitals often have separate 中医科 and 西医科 departments; patients routinely consult both systems.</p>
-      <p>The theoretical foundation of 中医 rests on three interconnected concepts. <strong>气 qì</strong> (vital energy) flows through the body's meridian system (经络 jīngluò) and maintains health when flowing freely; illness results from blockage, deficiency, or excess. <strong>阴阳 yīnyáng</strong> — the dual nature of all phenomena — must be balanced within the body: excess yin (寒 hán, cold) or excess yang (热 rè, heat) produces characteristic patterns of illness. The <strong>五行 wǔxíng</strong> (Five Elements — Wood, Fire, Earth, Metal, Water) map onto organ systems, seasons, tastes, emotions, and therapeutic interventions.</p>
+      <p><strong>中 zhōng</strong> (Chinese; middle) + <strong>医 yī</strong> (medicine; doctor — the character shows a medical chest with instruments). 中医 = Chinese medicine, as opposed to 西医 xīyī (Western medicine). The distinction runs throughout Chinese healthcare: hospitals often have separate 中医科 and 西医科 departments, and patients routinely consult both systems.</p>
+      <p>The theoretical foundation of 中医 rests on three interconnected concepts. <strong>气 qì</strong> (vital energy) flows through the body's meridian system (经络 jīngluò) and maintains health when flowing freely; illness results from blockage, deficiency, or excess. <strong>阴阳 yīnyáng</strong>, the dual nature of all phenomena, must be balanced within the body: excess yin (寒 hán, cold) or excess yang (热 rè, heat) produces characteristic patterns of illness. The <strong>五行 wǔxíng</strong> (Five Elements: Wood, Fire, Earth, Metal, Water) map onto organ systems, seasons, tastes, emotions, and therapeutic interventions.</p>
       <p>Unlike Western medicine's disease-centered model (identify the pathogen, target the pathogen), TCM is person-centered: the same symptom in two patients may receive different treatments if the underlying 证 zhèng (pattern of disharmony) differs. The goal is not to eliminate a disease but to restore the patient's system to harmonious balance.</p>
     </div>
 
@@ -113,7 +113,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          针 zhēn (needle) + 灸 jiǔ (moxibustion — burning dried mugwort at acupoints to warm qi). The compound covers both therapies, which are always taught together. Acupuncture inserts fine needles at specific points (穴位 xuéwèi — acupoints) along the meridians to regulate the flow of qi. There are 361 classical acupoints on the 14 main meridians. WHO recognizes acupuncture for 28 conditions with proven effectiveness.
+          针 zhēn (needle) + 灸 jiǔ (moxibustion, burning dried mugwort at acupoints to warm qi). The compound covers both therapies, which are always taught together. Acupuncture inserts fine needles at specific points (穴位 xuéwèi, acupoints) along the meridians to regulate the flow of qi. There are 361 classical acupoints on the 14 main meridians. WHO recognizes acupuncture for 28 conditions with proven effectiveness.
         </div>
         <div class="examples">
           <div class="example">
