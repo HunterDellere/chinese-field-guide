@@ -70,7 +70,7 @@ content_sources:
       <span class="topic-hero-eyebrow">Vocabulary · 词汇 cíhuì</span>
       <h1 class="topic-hero-title">仁</h1>
       <span class="topic-hero-title-py">rén</span>
-      <p class="topic-hero-desc">The supreme Confucian virtue — the quality of genuine care for other people that holds civilization together. Not a feeling but a practice; not a private state but a relational achievement.</p>
+      <p class="topic-hero-desc">The supreme Confucian virtue — the quality of genuine care for other people that holds civilization together. A practice, not a feeling; something that only exists in the space between people, never in isolation.</p>
     </header>
 
     <!-- ── ETYMOLOGY ── -->
