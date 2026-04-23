@@ -73,8 +73,8 @@ pinyin: 'ba'
 
     <div class="scholar" data-glyph="吧">
       <div class="scholar-label">语法洞见 yǔfǎ dòngjiàn · Grammar Insight</div>
-      <p><strong>吧 ba</strong> is a <em>sentence-final modal particle</em> — one of a class of words (also including 啊 a, 呢 ne, 嘛 ma, 嗯 en) that appear at the end of a sentence to modify its pragmatic force without changing its basic meaning. 吧 is pronounced in the <strong>neutral tone</strong> (轻声 qīngshēng) — light and unstressed.</p>
-      <p>吧 has four core functions: (1) <strong>suggestion</strong> — proposing an action (let's do X); (2) <strong>confirmation-seeking</strong> — checking a shared assumption (X is true, right?); (3) <strong>hedged assertion</strong> — expressing an uncertain guess (probably X); (4) <strong>command-softening</strong> — making an order sound like a polite request. All four uses share a common thread: <em>吧 signals that the speaker is reaching toward the listener's perspective,</em> not simply declaring from their own.</p>
+      <p><strong>吧 ba</strong> is a <em>sentence-final modal particle</em>, one of a class of words (also including 啊 a, 呢 ne, 嘛 ma, 嗯 en) that appear at the end of a sentence to modify its pragmatic force without changing its basic meaning. 吧 is pronounced in the <strong>neutral tone</strong> (轻声 qīngshēng), light and unstressed.</p>
+      <p>吧 has four core functions: (1) <strong>suggestion</strong> — proposing an action (let's do X); (2) <strong>confirmation-seeking</strong> — checking a shared assumption (X is true, right?); (3) <strong>hedged assertion</strong> — expressing an uncertain guess (probably X); (4) <strong>command-softening</strong> — making an order sound like a polite request. In all four uses, 吧 signals that the speaker is reaching toward the listener's perspective rather than simply declaring from their own.</p>
     </div>
 
     <span class="section-anchor" id="suggestion"></span>
@@ -101,7 +101,7 @@ pinyin: 'ba'
         </div>
         <div class="tags"><span class="tag tag-v">Particle 语气词</span></div>
         <div class="card-def">
-          Attached to a verb phrase to propose a course of action. Softer than a direct imperative — it invites rather than commands. The listener is implicitly asked to agree. Very common in casual speech.
+          Attached to a verb phrase to propose a course of action. Softer than a direct imperative: it invites rather than commands. The listener is implicitly asked to agree. Very common in casual speech.
         </div>
         <div class="examples">
           <div class="example">
@@ -152,7 +152,7 @@ pinyin: 'ba'
         </div>
         <div class="tags"><span class="tag tag-v">Particle 语气词</span></div>
         <div class="card-def">
-          The speaker states something they believe is true and uses 吧 to invite the listener to confirm. Different from 吗 ma (which asks a true yes/no question with genuine uncertainty) — 吧 signals the speaker already has a belief and is checking it. Used when you're fairly sure but not completely certain.
+          The speaker states something they believe is true and uses 吧 to invite the listener to confirm. Different from 吗 ma (which asks a true yes/no question with genuine uncertainty): 吧 signals the speaker already has a belief and is checking it. Used when you're fairly sure but not completely certain.
         </div>
         <div class="examples">
           <div class="example">
@@ -240,7 +240,7 @@ pinyin: 'ba'
         </div>
         <div class="tags"><span class="tag tag-v">Particle 语气词</span></div>
         <div class="card-def">
-          Appended to an imperative, 吧 softens the command into a gentle invitation. Without 吧: 坐 "Sit." (abrupt). With 吧: 坐吧 "Please have a seat." / "Go ahead and sit." The particle invites rather than orders — an important register shift in Chinese politeness.
+          Appended to an imperative, 吧 softens the command into a gentle invitation. Without 吧: 坐 "Sit." (abrupt). With 吧: 坐吧 "Please have a seat." / "Go ahead and sit." The particle invites rather than orders, an important register shift in Chinese politeness.
         </div>
         <div class="examples">
           <div class="example">
@@ -286,7 +286,7 @@ pinyin: 'ba'
       <strong>你去啊！</strong> = You're going?! / Go! (emotional — surprised, urging)<br>
       <strong>你去呢？</strong> = You're going? (mild, casual curiosity — "oh, you're going?")<br>
       <strong>你去嘛。</strong> = Obviously you should go. (you-already-know-this tone)</p>
-      <p>None of these change the propositional content (the fact of going). They only change the <em>social and emotional stance</em> the speaker is taking. This is what modal particles do — they are the most compressed pragmatic tools in the language.</p>
+      <p>None of these change the propositional content (the fact of going). They change only the <em>social and emotional stance</em> the speaker is taking. Modal particles are the most compressed pragmatic tools in the language.</p>
     </div>
 
     <footer class="page-footer">
