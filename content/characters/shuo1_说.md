@@ -109,7 +109,7 @@ content_sources:
 
     <div class="scholar" data-glyph="說">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p>Traditional form: <strong>說 = 言 yán</strong> (speech radical — a mouth with a horizontal line above, representing words emanating) <strong>+ 兑 duì</strong> (phonetic and semantic: to exchange, to convert; a mouth open with joy). The composition suggests: speech that converts or pleases — <em>words that land, that persuade, that bring delight.</em></p>
+      <p>Traditional form: <strong>說 = 言 yán</strong> (speech radical, a mouth with a horizontal line above representing words emanating) <strong>+ 兑 duì</strong> (phonetic and semantic: to exchange, to convert; a mouth open with joy). The composition suggests speech that converts or pleases: <em>words that land, that persuade, that bring delight.</em></p>
       <p>The simplified form replaces 言 with the abbreviated speech radical 讠, but 兑 remains. The 言 radical appears across the speech-and-thought character family: 话 huà (spoken words), 语 yǔ (language), 谢 xiè (to thank), 请 qǐng (to invite/request), 读 dú (to read aloud).</p>
       <p>说 covers an unusually wide semantic range: to say (我说 I say), to speak a language (说中文), to explain (说清楚 explain clearly), to scold (被妈妈说了一顿 was scolded by mom), and in its classical readings, to persuade (游说 shuì) and to be pleased (悦 yuè). One character, five conceptual domains.</p>
     </div>
@@ -154,7 +154,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          说 shuō + 话 huà (spoken words; speech). The act of speaking in general — not the content but the activity. 会说话 = can speak / is good with words. 说话算数 = one's word is reliable (lit. speech-counts).
+          说 shuō + 话 huà (spoken words; speech). The act of speaking in general, not the content but the activity. 会说话 = can speak / is good with words. 说话算数 = one's word is reliable (lit. speech-counts).
         </div>
         <div class="examples">
           <div class="example">
@@ -178,7 +178,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          听 tīng (to hear) + 说 shuō (speech). "I heard it said that…" — introduces hearsay or reported information. Softens a claim by flagging it as secondhand. Extremely common in conversation.
+          听 tīng (to hear) + 说 shuō (speech). The construction "I heard it said that…" introduces hearsay or reported information. It softens a claim by flagging it as secondhand. Extremely common in conversation.
         </div>
         <div class="examples">
           <div class="example">
@@ -248,7 +248,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">Expr 表达 biǎodá</span></div>
         <div class="card-def">
-          说 shuō + 不定 (cannot be fixed/determined). "Cannot be stated with certainty" — maybe, possibly. One of the most natural hedges in spoken Mandarin. More casual and spoken than 也许 yěxǔ or 可能 kěnéng.
+          说 shuō + 不定 (cannot be fixed/determined). Means "cannot be stated with certainty," i.e., maybe, possibly. One of the most natural hedges in spoken Mandarin. More casual and spoken than 也许 yěxǔ or 可能 kěnéng.
         </div>
         <div class="examples">
           <div class="example">
