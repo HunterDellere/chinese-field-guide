@@ -316,6 +316,46 @@
     "updated": "2026-04-22"
   },
   {
+    "path": "pages/history/topic_chunqiu.html",
+    "type": "topic",
+    "category": "history",
+    "title": "春秋时期 · Spring and Autumn Period",
+    "desc": "The age when China named itself through the text that documented it, and a philosopher who failed every audience built the tradition that outlasted every state.",
+    "tags": [
+      "ancient",
+      "dynasty",
+      "history",
+      "philosophy",
+      "confucius",
+      "ritual",
+      "classics",
+      "politics"
+    ],
+    "status": "complete",
+    "pinyin": "chūnqiū shíqī",
+    "updated": "2026-04-22"
+  },
+  {
+    "path": "pages/history/topic_zhanguo.html",
+    "type": "topic",
+    "category": "history",
+    "title": "战国时期 · Warring States Period",
+    "desc": "The most chaotic political era in Chinese history was also the condition that produced every major Chinese philosophical tradition — that is not a coincidence.",
+    "tags": [
+      "ancient",
+      "dynasty",
+      "history",
+      "philosophy",
+      "legalism",
+      "statecraft",
+      "politics",
+      "classics"
+    ],
+    "status": "complete",
+    "pinyin": "zhànguó shíqī",
+    "updated": "2026-04-22"
+  },
+  {
     "path": "pages/hubs/daode.html",
     "type": "hub",
     "category": "hubs",
@@ -331,39 +371,5 @@
     "pinyin": "dàodé yǔ lúnlǐ",
     "updated": "2026-04-22",
     "memberCount": 18
-  },
-  {
-    "path": "pages/hubs/dili.html",
-    "type": "hub",
-    "category": "hubs",
-    "title": "地理与语言 · Geography and Language — A Reading Path",
-    "desc": "The rivers shaped the civilization; geography fractured the language; one writing system held it together.",
-    "tags": [
-      "geography",
-      "language",
-      "dialect",
-      "hub"
-    ],
-    "status": "complete",
-    "pinyin": "dìlǐ yǔ yǔyán",
-    "updated": "2026-04-22",
-    "memberCount": 12
-  },
-  {
-    "path": "pages/hubs/faming.html",
-    "type": "hub",
-    "category": "hubs",
-    "title": "四大发明与技术 · Invention and Technology — A Reading Path",
-    "desc": "Chinese technological innovation was not a story of lone inventors. It was systematic accumulation within state institutions and artisan guilds over centuries, carried by people whose names the record does not preserve.",
-    "tags": [
-      "science",
-      "history",
-      "invention",
-      "hub"
-    ],
-    "status": "complete",
-    "pinyin": "fāmíng yǔ jìshù",
-    "updated": "2026-04-22",
-    "memberCount": 12
   }
 ]

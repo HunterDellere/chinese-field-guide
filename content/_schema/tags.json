@@ -274,5 +274,6 @@
   {"slug": "phonology",         "label": "Phonology"},
   {"slug": "production",        "label": "Production"},
   {"slug": "birth",             "label": "Birth"},
-  {"slug": "industry",          "label": "Industry"}
+  {"slug": "industry",          "label": "Industry"},
+  {"slug": "learning",          "label": "Learning"}
 ]

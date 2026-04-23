@@ -6,7 +6,7 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>Notes on Chinese language and civilisation — characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Apr 2026 01:44:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 02:07:28 GMT</lastBuildDate>
     <item>
       <title>风 · wind; style; custom</title>
       <link>https://jiaoshoo.com/pages/characters/feng1_风.html</link>
@@ -144,6 +144,22 @@
       <category>grammar</category>
     </item>
     <item>
+      <title>春秋时期 · Spring and Autumn Period</title>
+      <link>https://jiaoshoo.com/pages/history/topic_chunqiu.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/history/topic_chunqiu.html</guid>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+      <description>The age when China named itself through the text that documented it, and a philosopher who failed every audience built the tradition that outlasted every state.</description>
+      <category>history</category>
+    </item>
+    <item>
+      <title>战国时期 · Warring States Period</title>
+      <link>https://jiaoshoo.com/pages/history/topic_zhanguo.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/history/topic_zhanguo.html</guid>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+      <description>The most chaotic political era in Chinese history was also the condition that produced every major Chinese philosophical tradition — that is not a coincidence.</description>
+      <category>history</category>
+    </item>
+    <item>
       <title>道德与伦理 · Morality and Ethics — A Reading Path</title>
       <link>https://jiaoshoo.com/pages/hubs/daode.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/hubs/daode.html</guid>
@@ -165,6 +181,14 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/hubs/faming.html</guid>
       <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
       <description>Chinese technological innovation was not a story of lone inventors. It was systematic accumulation within state institutions and artisan guilds over centuries, carried by people whose names the record does not preserve.</description>
+      <category>hubs</category>
+    </item>
+    <item>
+      <title>汉语学习路 · Learning Chinese — A Reading Path</title>
+      <link>https://jiaoshoo.com/pages/hubs/hanyu.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/hubs/hanyu.html</guid>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+      <description>A staged reading path from tones and sounds through characters, grammar, and a first encounter with classical Chinese.</description>
       <category>hubs</category>
     </item>
     <item>
@@ -222,30 +246,6 @@
       <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
       <description>Three mouths stacked: a character about multiplicity, evaluation, and the discerning assessment of quality — from product grades to moral character.</description>
       <category>characters</category>
-    </item>
-    <item>
-      <title>图 · map, diagram, to plan, to seek</title>
-      <link>https://jiaoshoo.com/pages/characters/tu2_图.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/tu2_图.html</guid>
-      <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
-      <description>A character for diagrams, maps, intentions, and plots — anything that represents the world at one remove, or seeks to reshape it.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>之 · of, going, this — the classical connective</title>
-      <link>https://jiaoshoo.com/pages/characters/zhi1_之.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/zhi1_之.html</guid>
-      <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
-      <description>The most-written character in classical Chinese — a possessive particle, pronoun, and verb fossilized into pure grammar.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>笔画 · strokes — the building blocks of Chinese characters</title>
-      <link>https://jiaoshoo.com/pages/vocab/bihua_笔画.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/bihua_笔画.html</guid>
-      <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Every Chinese character is built from a small set of standard strokes written in a prescribed order. Stroke count determines dictionary order; stroke order determines how a character looks when written by hand.</description>
-      <category>vocab</category>
     </item>
   </channel>
 </rss>
