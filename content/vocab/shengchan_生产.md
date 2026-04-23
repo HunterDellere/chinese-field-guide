@@ -53,9 +53,9 @@ content_sources:
 
     <div class="scholar" data-glyph="生">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>生 shēng</strong> (to be born; life; to give birth; to grow — the oracle-bone form shows a plant sprouting from the earth) + <strong>产 chǎn</strong> (to produce, to yield, property — traced to the image of something being brought forth). Both components share the same primal image: something emerging, coming into being from prior conditions.</p>
-      <p>The compound 生产 thus enacts what it means twice over: life (生) gives rise to production (产), and production sustains life. This is not metaphorical — in the Marxist framework that shaped modern Chinese political vocabulary, 生产 is literally the act through which human beings transform nature into use-value and thereby reproduce their own existence. The word carries this philosophical weight even in everyday commercial usage.</p>
-      <p>A secondary sense of 生产 is "to give birth" (医学上的生产, medical delivery/birth). This sense makes the biological root explicit — the verb applies to human reproduction as well as industrial output, collapsing the two senses that English splits between "to produce" and "to give birth."</p>
+      <p><strong>生 shēng</strong> (to be born; life; to give birth; to grow, the oracle-bone form shows a plant sprouting from the earth) + <strong>产 chǎn</strong> (to produce, to yield, property, traced to the image of something being brought forth). Both components share the same primal image: something emerging, coming into being from prior conditions.</p>
+      <p>The compound 生产 thus enacts what it means twice over: life (生) gives rise to production (产), and production sustains life. In the Marxist framework that shaped modern Chinese political vocabulary, 生产 is literally the act through which human beings transform nature into use-value and thereby reproduce their own existence. The word carries this philosophical weight even in everyday commercial usage.</p>
+      <p>A secondary sense of 生产 is "to give birth" (医学上的生产, medical delivery/birth). This sense makes the biological root explicit: the verb applies to human reproduction as well as industrial output, collapsing the two senses that English splits between "to produce" and "to give birth."</p>
     </div>
 
     <span class="section-anchor" id="core"></span>
@@ -128,7 +128,7 @@ content_sources:
     <div class="scholar" data-glyph="生">
       <div class="scholar-label">政治词汇 zhèngzhì cíhuì · Political Vocabulary</div>
       <p>In Marxist political economy — the intellectual tradition that shaped the Chinese Communist Party's ideology and remains official state doctrine — 生产 is the foundational category. 生产方式 (shēngchǎn fāngshì, mode of production) determines the structure of society; 生产关系 (shēngchǎn guānxi, relations of production) determine class structure; 生产力 (shēngchǎnlì, productive forces) determine what is materially possible in a given historical period.</p>
-      <p>These terms are not merely academic — they appear in official CCP documents, government work reports, and school textbooks throughout China. Understanding 生产力, 生产关系, and 生产方式 is necessary for reading Chinese political discourse at any serious level.</p>
+      <p>These terms are not merely academic; they appear in official CCP documents, government work reports, and school textbooks throughout China. Understanding 生产力, 生产关系, and 生产方式 is necessary for reading Chinese political discourse at any serious level.</p>
       <p>The key political claim associated with 生产 in contemporary China: 解放生产力 (jiěfàng shēngchǎnlì, liberate productive forces). This phrase, central to Deng Xiaoping's reform rhetoric, argued that the market reforms were not a betrayal of socialism but a release of productive forces that socialism required. It remains one of the most consequential political applications of economic vocabulary in modern Chinese history.</p>
     </div>
 
@@ -260,8 +260,8 @@ content_sources:
 
     <div class="scholar" data-glyph="生" style="margin-top:2.5rem;">
       <div class="scholar-label">记忆法 jìyìfǎ · Retention</div>
-      <p>生 is life sprouting from the earth; 产 is something being brought forth. Together: life gives rise to production, and production gives rise to life. This is the circle that 生产 names — not a factory abstraction but the biological and social act of creating what sustains existence.</p>
-      <p>When you hear 生产力 in a political speech, remember: the speaker is invoking this primal image — the capacity of a society to produce what it needs to survive — and arguing that their policy will increase it. The word has done enormous historical work in China.</p>
+      <p>生 is life sprouting from the earth; 产 is something being brought forth. Together: life gives rise to production, and production gives rise to life. This is the circle that 生产 names, not a factory abstraction but the biological and social act of creating what sustains existence.</p>
+      <p>When you hear 生产力 in a political speech, the speaker is invoking this primal image, the capacity of a society to produce what it needs to survive, and arguing that their policy will increase it. Deng Xiaoping's phrase 解放生产力 worked because every Chinese listener heard both registers: the Marxist theory and the sprouting plant.</p>
     </div>
 
     <footer class="page-footer">
