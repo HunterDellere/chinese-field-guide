@@ -84,9 +84,9 @@ content_sources:
 
     <div class="scholar" data-glyph="天">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>天 tiān</strong> (heaven; sky — in oracle bone script: a person with a line above their head, marking what is above all humans; the sky, the divine, the overarching order) <strong>+ 下 xià</strong> (below; under — a line below a horizontal mark, indicating the lower position). "All that is under heaven" — the world as governed and ordered by heaven's mandate.</p>
-      <p>天下 is not merely a geographic term, though it is that. It is simultaneously a political concept (the realm under legitimate rule), a moral concept (the community under heaven's moral order), and a test of legitimacy (does your governance merit the stewardship of 天下?). When Mencius wrote <strong>天下为公</strong> (all-under-heaven belongs to all), he was articulating a universal moral claim that transcended any particular ruler or dynasty: the world belongs to everyone under heaven, not to any one person or family.</p>
-      <p>The concept is China-centric in origin but not narrow: 天下 is the whole world, and the Chinese emperor was (in theory) the sovereign of all people. The tribute system that organized China's relations with neighboring states was not colonial — it was cosmological: all rulers acknowledged the center because all were under the same heaven. This framework shaped Chinese political thought for 3,000 years and still echoes in how China understands its place in the world.</p>
+      <p><strong>天 tiān</strong> (heaven; sky; in oracle bone script, a person with a line above their head marking what is above all humans) <strong>+ 下 xià</strong> (below; under; a line below a horizontal mark). "All that is under heaven" — the world as governed and ordered by heaven's mandate.</p>
+      <p>天下 is simultaneously a geographic term (the known world), a political concept (the realm under legitimate rule), a moral concept (the community under heaven's moral order), and a test of legitimacy (does your governance merit the stewardship of 天下?). When Mencius wrote <strong>天下为公</strong> (all-under-heaven belongs to all), he was articulating a universal moral claim that transcended any particular ruler or dynasty: the world belongs to everyone under heaven, not to any one person or family.</p>
+      <p>The concept is China-centric in origin but not narrow: 天下 is the whole world, and the Chinese emperor was (in theory) the sovereign of all people. The tribute system that organized China's relations with neighboring states was cosmological rather than colonial — all rulers acknowledged the center because all were under the same heaven. This framework shaped Chinese political thought for 3,000 years and still echoes in how China understands its place in the world.</p>
     </div>
 
     <!-- ── THE WORLD-CONCEPT ── -->
@@ -100,8 +100,8 @@ content_sources:
 
     <div class="scholar" data-glyph="下">
       <div class="scholar-label">学者洞见 xuézhě dòngjiàn · Scholar Note</div>
-      <p>天下 operates simultaneously as: (1) geography — the known world, China and its tributaries; (2) political realm — the territory under legitimate rule, the domain of the 天子 (Son of Heaven); (3) moral community — everyone under heaven's moral order, the subjects of Confucian civilization; (4) a test of legitimacy — does your governance deserve the stewardship of 天下?</p>
-      <p>The famous opening principle of the 三国演义 (Romance of the Three Kingdoms): <strong>天下大势，分久必合，合久必分</strong> (The great tendency of all-under-heaven: long divided, must unite; long united, must divide). This is not merely a political observation — it is a cosmological law, as inevitable as the turning of seasons. Every Chinese dynasty that ever claimed legitimacy claimed it in the name of 天下.</p>
+      <p>天下 operates simultaneously as: (1) geography, the known world, China and its tributaries; (2) political realm, the territory under legitimate rule, the domain of the 天子 (Son of Heaven); (3) moral community, everyone under heaven's moral order, the subjects of Confucian civilization; (4) a test of legitimacy: does your governance deserve the stewardship of 天下?</p>
+      <p>The famous opening principle of the 三国演义 (Romance of the Three Kingdoms): <strong>天下大势，分久必合，合久必分</strong> (The great tendency of all-under-heaven: long divided, must unite; long united, must divide). This is a cosmological law as much as a political one, as inevitable as the turning of seasons. Every Chinese dynasty that ever claimed legitimacy claimed it in the name of 天下.</p>
     </div>
 
     <div class="cards">
@@ -196,8 +196,8 @@ content_sources:
 
     <div class="scholar" data-glyph="命">
       <div class="scholar-label">学者洞见 xuézhě dòngjiàn · Scholar Note</div>
-      <p><strong>天命 tiānmìng</strong> (Mandate of Heaven — heaven's decree, heaven's appointment) is the foundational concept of Chinese political legitimacy. Developed by the Zhou dynasty (ca. 1046 BCE) to justify overthrowing the Shang: Heaven (天) had grown displeased with the Shang's misrule and transferred its mandate (命 — a word meaning both "order/command" and "fate/destiny") to the Zhou. This set a template that every Chinese dynasty followed.</p>
-      <p>The logic is precise and consequential: dynasties rise and fall not by military strength alone but by whether they retain 天命. Signs of losing 天命: natural disasters, peasant rebellions, military defeats, widespread suffering. These are not merely political events — they are heaven's commentary on the ruler's virtue. The concept made rebellion against a tyrannical ruler theoretically legitimate: if you succeed, Heaven clearly approved. Every Chinese dynasty from Zhou through Qing claimed 天命 at its founding. The Communist Party, though not using the vocabulary, implicitly operates within a similar logic of popular mandate and civilizational legitimacy.</p>
+      <p><strong>天命 tiānmìng</strong> (Mandate of Heaven, heaven's decree) is the foundational concept of Chinese political legitimacy. Developed by the Zhou dynasty (ca. 1046 BCE) to justify overthrowing the Shang: Heaven (天) had grown displeased with the Shang's misrule and transferred its mandate (命, a word meaning both "order/command" and "fate/destiny") to the Zhou. This set a template that every Chinese dynasty followed.</p>
+      <p>Dynasties rise and fall not by military strength alone but by whether they retain 天命. Natural disasters, peasant rebellions, military defeats, widespread suffering: these are heaven's commentary on the ruler's virtue. The concept made rebellion against a tyrannical ruler theoretically legitimate: if you succeed, Heaven clearly approved. Every Chinese dynasty from Zhou through Qing claimed 天命 at its founding. The Communist Party, though not using the vocabulary, implicitly operates within a similar logic of popular mandate and civilizational legitimacy.</p>
     </div>
 
     <div class="cards">
@@ -568,8 +568,8 @@ content_sources:
     <!-- RETENTION SCHOLAR BOX -->
     <div class="scholar" data-glyph="天">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>All that is under heaven. The concept is so old and so central that it required only two characters to name the entire world and the entire political order. 天下 is China's way of saying "civilization" — not a geography but a moral order, and the emperor's legitimacy rested on how well he stewarded it. When Gu Yanwu wrote that every common man bears responsibility for the rise and fall of 天下, he was making it a civic concept, not just an imperial one.</p>
-      <p>Today 天下 lives as idiom, as literary allusion, as the hidden grammar behind China's understanding of its own place in the world — the sense that China's role is not merely national but civilizational. The heaven above everyone is still there.</p>
+      <p>All that is under heaven. The concept is so old and so central that it required only two characters to name the entire world and the entire political order. 天下 is China's way of saying "civilization": a moral order, not merely a geography, and the emperor's legitimacy rested on how well he stewarded it. When Gu Yanwu wrote that every common man bears responsibility for the rise and fall of 天下, he was making it a civic concept, not just an imperial one.</p>
+      <p>Today 天下 lives as idiom, as literary allusion, as the hidden grammar behind China's sense of its own place in the world. The heaven above everyone is still there.</p>
     </div>
 
     
