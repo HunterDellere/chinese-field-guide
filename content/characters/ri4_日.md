@@ -100,9 +100,9 @@ content_sources:
 
     <div class="scholar" data-glyph="日">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>日 rì</strong> is one of the most ancient and recognizable pictographs in the Chinese writing system. The oracle-bone form is a circle with a dot or short horizontal line in the center — the circle is the sun's disk; the inner mark distinguishes it from the empty circle that represented the moon 月. Over millennia of stylization, the circle squared to a rectangle and the inner dot became a horizontal stroke — the familiar 日 of modern script.</p>
-      <p>日 is simultaneously a pictograph (picture of the sun), a time word (day — a day is defined by the sun's passage), and a cultural shorthand (Japan: 日本 Rìběn "sun-origin"). Its radical productivity is exceptional: as 日 radical, it appears in characters for time (早 morning, 晚 evening, 晴 clear weather, 暖 warm, 暗 dark), celestial phenomena (晨 dawn, 昏 dusk, 曙 daybreak), and qualities of light (明 bright = 日 + 月, 昭 manifest).</p>
-      <p>The pairing 日月 rì yuè (sun and moon) is the classical compound for "time itself" — the celestial cycle that defines temporal existence. 日 appears in 明 míng (bright), which combines sun + moon, and in 星期 xīngqī (week — literally "star period"), though its deeper role is in the vocabulary of daily life and time measurement that governs all social coordination.</p>
+      <p><strong>日 rì</strong> is one of the most ancient and recognizable pictographs in the Chinese writing system. The oracle-bone form is a circle with a dot or short horizontal line in the center: the circle is the sun's disk; the inner mark distinguishes it from the empty circle that represented the moon 月. Over millennia of stylization, the circle squared to a rectangle and the inner dot became a horizontal stroke, producing the familiar 日 of modern script.</p>
+      <p>日 is simultaneously a pictograph (picture of the sun), a time word (day, since a day is defined by the sun's passage), and a cultural shorthand (Japan: 日本 Rìběn "sun-origin"). Its radical productivity is exceptional: as 日 radical, it appears in characters for time (早 morning, 晚 evening, 晴 clear weather, 暖 warm, 暗 dark), celestial phenomena (晨 dawn, 昏 dusk, 曙 daybreak), and qualities of light (明 bright = 日 + 月, 昭 manifest).</p>
+      <p>The pairing 日月 rì yuè (sun and moon) is the classical compound for "time itself," the celestial cycle that defines temporal existence. 日 appears in 明 míng (bright), which combines sun + moon, and in 星期 xīngqī (week, literally "star period"), though its deeper role is in the vocabulary of daily life and time measurement that governs all social coordination.</p>
     </div>
 
     <span class="section-anchor" id="time"></span>
@@ -191,8 +191,8 @@ content_sources:
 
     <div class="scholar" data-glyph="日">
       <div class="scholar-label">地名 dìmíng · The Name of Japan</div>
-      <p><strong>日本 Rìběn</strong> = "sun-origin" — Japan is "the country at the origin of the sun," i.e., the land to the east where the sun rises. This is the same concept as the Japanese name Nihon/Nippon (日本 in Japanese). The name reflects the geographic perspective of the Chinese heartland: looking east, Japan is where the sun emerges. Japan's flag — the red disk on white — is the direct visual expression of this name.</p>
-      <p>日 in geographic names signals Japanese identity: 日语 Rìyǔ (Japanese language), 日本人 Rìběnrén (Japanese person), 日本料理 Rìběn liàolǐ (Japanese cuisine), 中日 Zhōng-Rì (Sino-Japanese — e.g., 中日关系 Sino-Japanese relations). 日 is frequently used as shorthand for Japan in compound words: 日货 Rìhuò (Japanese goods), 日元 Rìyuán (Japanese yen).</p>
+      <p><strong>日本 Rìběn</strong> = "sun-origin," the country at the origin of the sun, the land to the east where the sun rises. This is the same concept as the Japanese name Nihon/Nippon (日本 in Japanese). The name reflects the geographic perspective of the Chinese heartland: looking east, Japan is where the sun emerges. Japan's flag, the red disk on white, is the direct visual expression of this name.</p>
+      <p>日 in geographic names signals Japanese identity: 日语 Rìyǔ (Japanese language), 日本人 Rìběnrén (Japanese person), 日本料理 Rìběn liàolǐ (Japanese cuisine), 中日 Zhōng-Rì (Sino-Japanese, e.g., 中日关系 Sino-Japanese relations). 日 is frequently used as shorthand for Japan in compound words: 日货 Rìhuò (Japanese goods), 日元 Rìyuán (Japanese yen).</p>
     </div>
 
     <span class="section-anchor" id="radical"></span>
