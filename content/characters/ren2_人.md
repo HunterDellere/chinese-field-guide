@@ -121,8 +121,8 @@ content_sources:
     <div class="scholar" data-glyph="人">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
       <p>人 rén is the most elemental pictograph in the Chinese writing system. The oracle-bone script (甲骨文 jiǎgǔwén, c. 1200 BCE) shows a person in strict profile: one stroke leaning forward for the torso, one stroke descending for the leg. Two strokes. A human being. No face, no hands — just the silhouette of upright posture that separates humans from all other creatures. The character has barely changed in three thousand years.</p>
-      <p>人 is also a key building block for more complex characters. When two 人 stand side by side, you get <strong>从 cóng</strong> (to follow — one person walking behind another). When three people cluster together, you get <strong>众 zhòng</strong> (crowd, multitude). The social emerges from the individual by simple addition — a fact already embedded in the script.</p>
-      <p>The most philosophically charged combination is <strong>仁 rén</strong> (benevolence; humaneness) = 人 + 二 (two). This is the character Confucius placed at the absolute center of his ethical system. 仁 is not an inner quality — it is <em>what happens between two people.</em> The Analects return to it obsessively: 仁者爱人 "the benevolent person loves others." You cannot be 仁 alone. The two-stroke pictograph of a single human being already implies, for Confucius, that full humanity is only realized in relation. One character — two strokes — an entire civilization's deepest ethical conviction.</p>
+      <p>人 is also a key building block for more complex characters. When two 人 stand side by side, you get <strong>从 cóng</strong> (to follow, one person walking behind another). When three people cluster together, you get <strong>众 zhòng</strong> (crowd, multitude). The social world is already embedded in the script.</p>
+      <p>The most philosophically charged combination is <strong>仁 rén</strong> (benevolence; humaneness) = 人 + 二 (two). This is the character Confucius placed at the absolute center of his ethical system. 仁 is what happens between two people, not an inner quality a person possesses alone. The Analects return to it obsessively: 仁者爱人 "the benevolent person loves others." The two-stroke pictograph of a single human being already implies, for Confucius, that full humanity is only realized in relation.</p>
     </div>
 
     <!-- ── WORD-FORMATION ── -->
@@ -152,9 +152,9 @@ content_sources:
 
     <div class="scholar" data-glyph="亻">
       <div class="scholar-label">部首洞见 bùshǒu dòngjiàn · Radical Insight</div>
-      <p>When 人 appears as the left-hand component of a character, it takes a compressed form: <strong>亻</strong> (the "standing person" radical) — a two-stroke figure pressed against the left side, narrow enough to make room for the main element. The presence of 亻 is a reliable signal: <em>this character concerns a person, a human action, or a human quality.</em></p>
-      <p>Core characters built on 亻: <strong>他 tā</strong> (he/him — the other person), <strong>你 nǐ</strong> (you — the person before me), <strong>们 men</strong> (plural suffix for people: 我们, 你们, 他们), <strong>休 xiū</strong> (to rest — a person 亻 leaning against a tree 木), <strong>住 zhù</strong> (to reside; to stop), <strong>信 xìn</strong> (letter; trust — a person 亻 standing by their word 言), <strong>保 bǎo</strong> (to protect; to guarantee), <strong>传 chuán</strong> (to transmit; to pass down), <strong>作 zuò</strong> (to make; to compose), <strong>做 zuò</strong> (to do; to act as).</p>
-      <p>These 亻-characters cover the full arc of human existence: identity, rest, shelter, speech, trust, protection, transmission, action. Every character that carries this radical answers, implicitly, the question: <em>what is a person for?</em> The radical appears in over 500 characters in the standard script — the richest single index of what the Chinese writing system considers "human."</p>
+      <p>When 人 appears as the left-hand component of a character, it takes a compressed form: <strong>亻</strong> (the "standing person" radical), a two-stroke figure pressed against the left side, narrow enough to make room for the main element. The presence of 亻 is a reliable signal: <em>this character concerns a person, a human action, or a human quality.</em></p>
+      <p>Core characters built on 亻: <strong>他 tā</strong> (he/him, the other person), <strong>你 nǐ</strong> (you, the person before me), <strong>们 men</strong> (plural suffix for people: 我们, 你们, 他们), <strong>休 xiū</strong> (to rest, a person 亻 leaning against a tree 木), <strong>住 zhù</strong> (to reside; to stop), <strong>信 xìn</strong> (letter; trust, a person 亻 standing by their word 言), <strong>保 bǎo</strong> (to protect; to guarantee), <strong>传 chuán</strong> (to transmit; to pass down), <strong>作 zuò</strong> (to make; to compose), <strong>做 zuò</strong> (to do; to act as).</p>
+      <p>These 亻-characters cover the full arc of human existence: identity, rest, shelter, speech, trust, protection, transmission, action. Every character that carries this radical answers, implicitly, the question: <em>what is a person for?</em> The radical appears in over 500 characters in the standard script, the richest single index of what the Chinese writing system considers "human."</p>
     </div>
 
     <!-- ── COLLECTIVE SPECTRUM ── -->
@@ -198,7 +198,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">语法 yǔfǎ · Grammar</span>
-          Measure word: 一个人 (one person). As a generic noun, no measure word is needed: 人不能没有朋友 "a person cannot be without friends." The character also functions as a suffix across hundreds of compounds — see the X + 人 table below.
+          Measure word: 一个人 (one person). As a generic noun, no measure word is needed: 人不能没有朋友 "a person cannot be without friends." The character also functions as a suffix across hundreds of compounds; see the X + 人 table below.
         </div>
       </div>
 
@@ -211,7 +211,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          人 rén + 们 men (plural suffix for animate nouns). A general, indefinite plural — "people" in the broad social sense: "one finds that people…" or "people say…" Not a specific group. 们 cannot be combined with numbers — you cannot say ＊三人们. This plural is for social generality, not counting.
+          人 rén + 们 men (plural suffix for animate nouns). A general, indefinite plural: "people" in the broad social sense, as in "one finds that people…" or "people say…" 们 cannot be combined with numbers; you cannot say ＊三人们. This plural is for social generality, not counting.
         </div>
         <div class="examples">
           <div class="example">
@@ -240,7 +240,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          人 rén + 类 lèi (species; category; kind). Refers to humanity as a biological and civilizational category — the human species in its entirety, across all time. Used in philosophical, scientific, and grand-historical registers. Much larger in scope than 人们, and without political coloring.
+          人 rén + 类 lèi (species; category; kind). Refers to humanity as a biological and civilizational category, the human species in its entirety across all time. Used in philosophical, scientific, and grand-historical registers. Much larger in scope than 人们, and without political coloring.
         </div>
         <div class="examples">
           <div class="example">
@@ -265,7 +265,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          人 rén + 民 mín (common people; subjects; citizens). A politically weighted term. In the PRC context, it carries strong ideological resonance: the people as a collective subject and political actor — not merely a demographic. Appears in major institutional names and slogans.
+          人 rén + 民 mín (common people; subjects; citizens). A politically weighted term. In the PRC context, it carries strong ideological resonance: the people as a collective subject and political actor, not merely a demographic count. Appears in major institutional names and slogans.
         </div>
         <div class="examples">
           <div class="example">
@@ -294,7 +294,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          大 dà (big) + 家 jiā (family; home). Literally "the big family" — used for "everyone present" or "all of us." Much warmer and more conversational than 人们. The go-to word for addressing or including a present group: 大家好！(Hello everyone!). Implies shared membership, warmth, and inclusion — you are speaking to people you feel connected to.
+          大 dà (big) + 家 jiā (family; home). Literally "the big family," used for "everyone present" or "all of us." Much warmer and more conversational than 人们. The go-to word for addressing or including a present group: 大家好！(Hello everyone!). It implies shared membership and inclusion; you are speaking to people you feel connected to.
         </div>
         <div class="examples">
           <div class="example">
@@ -332,7 +332,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          别 bié (other; different; another) + 人 rén. The default, everyday word for "other people" in spoken Mandarin. Neutral register, very high frequency. Used in advice, comparisons, complaints, and social commentary — the most natural choice whenever you mean "other people" in conversation.
+          别 bié (other; different; another) + 人 rén. The default, everyday word for "other people" in spoken Mandarin. Neutral register, very high frequency. Used in advice, comparisons, complaints, and social commentary; the most natural choice whenever you mean "other people" in conversation.
         </div>
         <div class="examples">
           <div class="example">
@@ -362,7 +362,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          他 tā (he; other) + 人 rén. The formal and written equivalent of 别人. Appears in legal texts, philosophical writing, ethical discussions, and formal prose. In classical Chinese, 他 itself meant "other" before it was narrowed to the third-person pronoun — making 他人 doubly "other."
+          他 tā (he; other) + 人 rén. The formal and written equivalent of 别人. Appears in legal texts, philosophical writing, ethical discussions, and formal prose. In classical Chinese, 他 itself meant "other" before it was narrowed to the third-person pronoun, making 他人 doubly "other."
         </div>
         <div class="examples">
           <div class="example">
@@ -391,7 +391,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          旁 páng (side; beside) + 人 rén. Literally "people at the side" — observers, onlookers, those not directly involved in a situation. The word carries a slightly theatrical quality: you, the protagonist, and 旁人 who watch. More literary than 别人. Common in classical and modern literary prose.
+          旁 páng (side; beside) + 人 rén. Literally "people at the side": observers, onlookers, those not directly involved in a situation. The word carries a slightly theatrical quality: you, the protagonist, and 旁人 who watch. More literary than 别人. Common in classical and modern literary prose.
         </div>
         <div class="examples">
           <div class="example">
@@ -416,7 +416,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          自己 zìjǐ (oneself) + 人 rén. Someone who belongs to your group — your team, your family, your circle of trust. The implied contrast is always 外人 wàirén (outsider). 都是自己人，不用客气 "We're all family here, no need for formality" is an expression of warmth that lowers the social register instantly.
+          自己 zìjǐ (oneself) + 人 rén. Someone who belongs to your group: your team, your family, your circle of trust. The implied contrast is always 外人 wàirén (outsider). 都是自己人，不用客气 "We're all family here, no need for formality" is an expression of warmth that lowers the social register instantly.
         </div>
         <div class="examples">
           <div class="example">
@@ -458,7 +458,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          人 rén + 品 pǐn (quality; grade; character — three 口 mouths stacked, suggesting the spoken judgments of a community). The overall moral quality of a person as assessed by those around them. Not talent, intelligence, or skill — moral trustworthiness and reliability in relationships. For Confucians, the fundamental criterion of personhood.
+          人 rén + 品 pǐn (quality; grade; character, three 口 mouths stacked, suggesting the spoken judgments of a community). The overall moral quality of a person as assessed by those around them: moral trustworthiness and reliability in relationships, not talent or intelligence. For Confucians, the fundamental criterion of personhood.
         </div>
         <div class="examples">
           <div class="example">
@@ -483,7 +483,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          人 rén + 情 qíng (feeling; sentiment; connection). Operates on two levels simultaneously: (1) basic human warmth and empathy — 人之常情 "common human feeling"; (2) the social fabric of reciprocal favors, gifts, and obligations that structures Chinese social life. 做人情 = to do someone a favor that creates a reciprocal debt.
+          人 rén + 情 qíng (feeling; sentiment; connection). Operates on two levels: (1) basic human warmth and empathy, as in 人之常情 "common human feeling"; (2) the social fabric of reciprocal favors, gifts, and obligations that structures Chinese social life. 做人情 = to do someone a favor that creates a reciprocal debt.
         </div>
         <div class="examples">
           <div class="example">
@@ -512,7 +512,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          人 rén + 缘 yuán (fate; karmic bond — a Buddhist term for the predestined connections between people). Literally: one's karmic bond with people. In practice: whether others naturally warm to you. 人缘好 (good people-affinity) is a high social compliment; 人缘差 (poor people-affinity) is a serious social warning.
+          人 rén + 缘 yuán (fate; karmic bond, a Buddhist term for the predestined connections between people). Literally: one's karmic bond with people. In practice: whether others naturally warm to you. 人缘好 (good people-affinity) is a high social compliment; 人缘差 (poor people-affinity) is a serious social warning.
         </div>
         <div class="examples">
           <div class="example">
@@ -532,7 +532,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          人 rén + 脉 mài (vein; pulse; artery — the channels through which blood flows). Your social and professional network, imagined as a circulatory system. 脉 is the same character used in 经脉 jīngmài (meridians) in TCM. The metaphor is exact: just as qi flows through meridians to sustain the body, favors, information, and opportunity flow through 人脉 to sustain social life.
+          人 rén + 脉 mài (vein; pulse; artery, the channels through which blood flows). Your social and professional network, imagined as a circulatory system. 脉 is the same character used in 经脉 jīngmài (meridians) in TCM. The metaphor is exact: just as qi flows through meridians to sustain the body, favors, information, and opportunity flow through 人脉 to sustain social life.
         </div>
         <div class="examples">
           <div class="example">
@@ -561,9 +561,9 @@ content_sources:
 
     <div class="scholar" data-glyph="做">
       <div class="scholar-label">文化洞见 wénhuà dòngjiàn · Cultural Insight</div>
-      <p><strong>做人 zuòrén</strong> — literally "to do/act as a person" — is one of the most philosophically dense phrases in everyday Mandarin. It refers not to the biological fact of being human but to the <em>practice</em> of being a good person: how you conduct yourself, treat others, maintain relationships, and handle setbacks with dignity. 做人 is a lifelong project, not a given state.</p>
-      <p>The phrase <strong>做人做事</strong> (zuòrén zuòshì — "being a person / doing things") pairs the ethical dimension of identity with the practical dimension of action. For Confucius, these were inseparable: moral character is not an inner quality hidden from the world but is expressed entirely in how you act toward others. To work carelessly is a moral failing; to treat people badly while performing competently is worse still.</p>
-      <p><strong>重新做人 chóngxīn zuòrén</strong> — "to redo being a person" — is the Chinese idiom for turning over a new leaf, for genuine moral reform. It appears in contexts of release from prison, recovery from addiction, or personal transformation after disgrace. The phrase contains an extraordinary implicit claim: that being a person is something you can fail at — and also something you can attempt again.</p>
+      <p><strong>做人 zuòrén</strong> (literally "to do/act as a person") is one of the most philosophically dense phrases in everyday Mandarin. It refers to the <em>practice</em> of being a good person: how you conduct yourself, treat others, maintain relationships, and handle setbacks with dignity. 做人 is a lifelong project, not a biological given.</p>
+      <p>The phrase <strong>做人做事</strong> (zuòrén zuòshì, "being a person / doing things") pairs the ethical dimension of identity with the practical dimension of action. For Confucius these were inseparable: moral character is expressed entirely in how you act toward others, not stored somewhere inside. To work carelessly is a moral failing; to treat people badly while performing competently is worse still.</p>
+      <p><strong>重新做人 chóngxīn zuòrén</strong> ("to redo being a person") is the Chinese idiom for turning over a new leaf, for genuine moral reform. It appears in contexts of release from prison, recovery from addiction, or personal transformation after disgrace. The phrase contains an extraordinary implicit claim: that being a person is something you can fail at, and something you can attempt again.</p>
     </div>
 
     <div class="cards">
@@ -575,7 +575,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          做 zuò (to do; to act as; to make) + 人 rén. The verb that captures the Confucian view that being human is an achievement, not a given. 做人 is learned — how to navigate relationships, honor obligations, maintain dignity, and treat others with genuine consideration. A person who doesn't know how to 做人 fails socially regardless of other talents.
+          做 zuò (to do; to act as; to make) + 人 rén. The verb that captures the Confucian view that being human is an achievement, not a given. 做人 is learned: how to navigate relationships, honor obligations, maintain dignity, and treat others with genuine consideration. A person who doesn't know how to 做人 fails socially regardless of other talents.
         </div>
         <div class="examples">
           <div class="example">
@@ -612,7 +612,7 @@ content_sources:
 
     <div class="pattern">
       <span class="label">构词规律 · X + 人 creates social roles and identity categories</span>
-      Any noun or adjective placed before 人 creates a person defined by that quality, occupation, role, or identity. This is one of the most productive patterns in Chinese — once internalized, hundreds of compounds become immediately readable and generatable.
+      Any noun or adjective placed before 人 creates a person defined by that quality, occupation, role, or identity. This is one of the most productive patterns in Chinese; once internalized, hundreds of compounds become immediately readable and generatable.
     </div>
 
     <div class="table-wrap">
@@ -705,14 +705,14 @@ content_sources:
         <span class="cy-cn">以人为本</span>
         <span class="cy-py">yǐ rén wéi běn</span>
         <span class="cy-en">to put people first; human-centered governance</span>
-        <span class="cy-note">Lit: use-person-as-root. A classical Confucian governance principle revived as modern policy language. 本 běn (root; foundation) is the underground portion of a tree — the foundation that everything else rests on. The person, not the state or ideology, is the root of all legitimate policy. Central slogan of the 科学发展观 (Scientific Development Concept) in early 21st-century PRC.</span>
+        <span class="cy-note">Lit: use-person-as-root. A classical Confucian governance principle revived as modern policy language. 本 běn (root; foundation) is the underground portion of a tree, the part everything else rests on. The person, not the state or ideology, is the root of all legitimate policy. Central slogan of the 科学发展观 (Scientific Development Concept) in early 21st-century PRC.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">人山人海</span>
         <span class="cy-py">rén shān rén hǎi</span>
         <span class="cy-en">a mountain of people, a sea of people — an enormous crowd</span>
-        <span class="cy-note">Lit: person-mountain-person-sea. The go-to phrase for describing massive crowds: national holidays, concerts, train stations during Spring Festival rush. The pairing of 山 (mountain) and 海 (sea) — the two largest natural forms — captures the sense of scale without irony. 那天广场上人山人海 "The square was packed beyond measure that day."</span>
+        <span class="cy-note">Lit: person-mountain-person-sea. The go-to phrase for describing massive crowds: national holidays, concerts, train stations during Spring Festival rush. Pairing 山 (mountain) with 海 (sea), the two largest natural forms, captures the sense of scale without irony. 那天广场上人山人海 "The square was packed beyond measure that day."</span>
       </div>
 
       <div class="cy">
@@ -726,7 +726,7 @@ content_sources:
         <span class="cy-cn">人尽其才</span>
         <span class="cy-py">rén jìn qí cái</span>
         <span class="cy-en">every person fully uses their talents; no talent is wasted</span>
-        <span class="cy-note">Lit: person-exhaust-their-talent. A governance and organizational ideal — the right people in the right roles, fully realizing their abilities. Often paired with 物尽其用 wù jìn qí yòng (every object fully utilized). Together they form a Confucian vision of a well-ordered society: nothing wasted, everyone flourishing in their proper capacity.</span>
+        <span class="cy-note">Lit: person-exhaust-their-talent. A governance and organizational ideal: the right people in the right roles, fully realizing their abilities. Often paired with 物尽其用 wù jìn qí yòng (every object fully utilized). Together they form a Confucian vision of a well-ordered society: nothing wasted, everyone flourishing in their proper capacity.</span>
       </div>
 
     </div>
@@ -758,8 +758,8 @@ content_sources:
     <!-- RETENTION IMAGE -->
     <div class="scholar" data-glyph="人">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>Two strokes. That is all it takes to write a person. One stroke leans forward — ambition, action, the thrust of life into the world. The other descends — roots, gravity, the earth beneath. Together they barely touch at the apex, yet they hold. Without either stroke, there is no character and no person.</p>
-      <p>Confucius saw in that fragile balance the entire moral universe: 仁 — two people, one relationship, one character added to the right. Add a second 人 beside the first and you have 从 cóng (to follow). Add a third and you have 众 zhòng (the multitude). The social world emerges from the individual person by simple, inevitable addition. Everything else — 人品, 人情, 做人, 仁 — is commentary on those two strokes.</p>
+      <p>Two strokes. That is all it takes to write a person. One stroke leans forward: ambition, action, the thrust of life into the world. The other descends: roots, gravity, the earth beneath. Together they barely touch at the apex, yet they hold. Without either stroke, there is no character and no person.</p>
+      <p>Confucius saw in that fragile balance the entire moral universe. Add 二 to the right and you have 仁, two people, one relationship. Add a second 人 beside the first and you have 从 cóng (to follow). Add a third and you have 众 zhòng (the multitude). 人品, 人情, 做人, 仁 — all of it is commentary on those two strokes.</p>
     </div>
 
     
