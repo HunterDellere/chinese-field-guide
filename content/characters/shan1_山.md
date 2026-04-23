@@ -97,8 +97,8 @@ content_sources:
     <div class="scholar" data-glyph="山">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
       <p><strong>山 shān</strong> is one of the purest pictographs in Chinese writing — three peaks rising from the earth, with the central peak tallest. The oracle-bone and bronze script forms are almost identical to the modern character: three vertical strokes, the middle slightly taller. You are looking at a silhouette of a mountain range as seen from a distance.</p>
-      <p>Mountain is also among the most productive radicals in Chinese: 岛 dǎo (island — mountain in water), 岩 yán (cliff; rock), 峰 fēng (peak; summit), 峡 xiá (gorge; strait), 崇 chóng (to revere; lofty — originally: a tall mountain with an ancestor tablet), 崩 bēng (to collapse — a mountain falling). The radical appears in hundreds of characters relating to height, terrain, and reverence.</p>
-      <p>In classical Chinese geography, mountains were not obstacles but <em>axes.</em> They were where Heaven and Earth met, where the emperor offered sacrifices, and where hermits and monks went to cultivate wisdom. The mountain is the vertical dimension of Chinese civilization.</p>
+      <p>Mountain is also among the most productive radicals in Chinese: 岛 dǎo (island, a mountain in water), 岩 yán (cliff; rock), 峰 fēng (peak; summit), 峡 xiá (gorge; strait), 崇 chóng (to revere; lofty; originally a tall mountain with an ancestor tablet), 崩 bēng (to collapse, a mountain falling). The radical appears in hundreds of characters relating to height, terrain, and reverence.</p>
+      <p>In classical Chinese geography, mountains were <em>axes.</em> They were where Heaven and Earth met, where the emperor offered sacrifices, and where hermits and monks went to cultivate wisdom.</p>
     </div>
 
     <span class="section-anchor" id="sacred"></span>
@@ -111,7 +111,7 @@ content_sources:
 
     <div class="scholar" data-glyph="山">
       <div class="scholar-label">文化洞见 wénhuà dòngjiàn · Cultural Note</div>
-      <p>The <strong>五岳 Wǔ Yuè</strong> (Five Sacred Peaks) define the ritual geography of China — each peak guards one of the five cardinal directions (including center). Emperors sent offerings or climbed them personally to legitimate their rule:</p>
+      <p>The <strong>五岳 Wǔ Yuè</strong> (Five Sacred Peaks) define the ritual geography of China, each guarding one of the five cardinal directions (including center). Emperors sent offerings or climbed them personally to legitimate their rule:</p>
       <p><strong>东岳</strong> Dōng Yuè — 泰山 Tài Shān (Mount Tai, Shandong) · The most sacred of all, site of the 封禅 fēngshàn sacrificial rite. Saying 稳如泰山 "stable as Mount Tai" is the highest praise for steadiness.<br>
       <strong>西岳</strong> Xī Yuè — 华山 Huà Shān (Mount Hua, Shaanxi) · Famous for vertical cliffs and Daoist temples; pilgrimage continues today.<br>
       <strong>南岳</strong> Nán Yuè — 衡山 Héng Shān (Mount Heng, Hunan) · Associated with 寿 longevity; Buddhist and Daoist monasteries.<br>
@@ -137,7 +137,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          山 shān + 水 shuǐ (water). The paired opposites that define Chinese landscape aesthetics: mountain (vertical, permanent, yang) and water (horizontal, flowing, yin). Together they constitute the landscape — 山水画 shānshuǐ huà is the canonical genre of Chinese landscape ink painting.
+          山 shān + 水 shuǐ (water). The paired opposites that define Chinese landscape aesthetics: mountain (vertical, permanent, yang) and water (horizontal, flowing, yin). Together they constitute the landscape. 山水画 shānshuǐ huà is the canonical genre of Chinese landscape ink painting.
         </div>
         <div class="examples">
           <div class="example">
@@ -194,7 +194,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          山 shān + 脉 mài (vein; pulse; connected system — the word for pulse in traditional Chinese medicine). A mountain range as a <em>vein of the earth</em>, all peaks connected underground. Same logic as 水脉 (water vein) and 血脉 (bloodline). 秦岭山脉 the Qinling Mountains.
+          山 shān + 脉 mài (vein; pulse; connected system, the word for pulse in traditional Chinese medicine). A mountain range as a <em>vein of the earth</em>, all peaks connected underground. Same logic as 水脉 (water vein) and 血脉 (bloodline). 秦岭山脉 the Qinling Mountains.
         </div>
         <div class="examples">
           <div class="example">
@@ -268,7 +268,7 @@ content_sources:
 
     <div class="scholar" data-glyph="山" style="margin-top:2.5rem;">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>Three strokes, three peaks. That is all 山 is — and it has looked like three peaks for over three thousand years. Once you see the mountain in those strokes, you will never misread it. Then notice how it appears as a radical inside: 岛 (island = mountain in the sea), 崇 (to revere = a lofty mountain worshipped), 峰 (summit = the mountain's highest tip). The mountain is everywhere in Chinese writing because it was everywhere in Chinese life.</p>
+      <p>Three strokes, three peaks. That is all 山 is, and it has looked like three peaks for over three thousand years. Once you see the mountain in those strokes, you will never misread it. Then notice how it appears as a radical inside: 岛 (island = mountain in the sea), 崇 (to revere = a lofty mountain worshipped), 峰 (summit = the mountain's highest tip).</p>
     </div>
 
     <footer class="page-footer">
