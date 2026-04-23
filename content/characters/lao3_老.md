@@ -101,9 +101,9 @@ content_sources:
 
     <div class="scholar" data-glyph="老">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>老 lǎo</strong> is one of the most vivid pictographs in the script. The oracle-bone and bronze forms show a person with disheveled or long hair, bent over or stooped, often holding a staff. The composition: a person (人) with long hair (毛) above, the body bent — the classical image of an elder who has accumulated so much experience that even the body bows under its weight.</p>
-      <p>老 serves as a radical (部首) in characters related to age and ancestral authority: 考 kǎo (deceased father; to examine), 者 zhě (one who; a person of), 孝 xiào (filial piety — 老 + 子 child, the elder supported by a child's hands). The root idea is consistently: long existence creates both physical change and social elevation.</p>
-      <p>In modern usage, 老 has expanded far beyond literal age. It is a prefix of familiarity (老王 Lǎo Wáng = "Old Wang," used among colleagues of any age), an intensifier meaning "always/constantly" (他老是迟到 "he's always late"), and a marker of mastery (老手 lǎoshǒu = "old hand; expert"). The concept of oldness in Chinese culture is inseparable from authority — both of the elder and of the well-tested.</p>
+      <p><strong>老 lǎo</strong> is one of the most vivid pictographs in the script. The oracle-bone and bronze forms show a person with disheveled or long hair, bent over or stooped, often holding a staff. The composition: a person (人) with long hair (毛) above, the body bent. The image is an elder who has accumulated so much experience that even the body bows under its weight.</p>
+      <p>老 serves as a radical (部首) in characters related to age and ancestral authority: 考 kǎo (deceased father; to examine), 者 zhě (one who; a person of), 孝 xiào (filial piety, 老 + 子 child, the elder supported by a child's hands). Long existence creates both physical change and social elevation.</p>
+      <p>In modern usage, 老 has expanded far beyond literal age. It is a prefix of familiarity (老王 Lǎo Wáng = "Old Wang," used among colleagues of any age), an intensifier meaning "always/constantly" (他老是迟到 "he's always late"), and a marker of mastery (老手 lǎoshǒu = "old hand; expert"). The concept of oldness in Chinese culture is inseparable from authority, of the elder and of the well-tested alike.</p>
     </div>
 
     <span class="section-anchor" id="respect"></span>
@@ -118,7 +118,7 @@ content_sources:
       <div class="scholar-label">文化洞见 wénhuà dòngjiàn · Age and Authority</div>
       <p>In the Confucian moral order, age is not just a biological fact but a social category conferring authority. The principle 尊老爱幼 zūn lǎo ài yòu — "respect the old, cherish the young" — is one of the most widely repeated moral formulas in Chinese culture. It is not merely a platitude: it is encoded in language (senior family members have specific honorific terms), social behavior (seating order at meals, who serves whom, who speaks first), and law (China's Elder Law 老年人权益保障法 mandates filial support).</p>
       <p>The flip side: 倚老卖老 yǐ lǎo mài lǎo — "leaning on old age to sell old age" — is the critical idiom for elders who exploit their seniority unfairly, demanding deference without earning it. The Confucian ethic respects age for what it represents (accumulated wisdom, sacrifice, experience), not for its own sake. Age without virtue does not command respect — it merely demands it.</p>
-      <p>老人 lǎorén (elderly person) is the standard respectful term. 老人家 lǎorénjiā adds further warmth — a term of address that can be used to any elderly stranger, conveying both respect and affection. 长辈 zhǎngbèi (senior generation) and 晚辈 wǎnbèi (junior generation) structure every family and social interaction.</p>
+      <p>老人 lǎorén (elderly person) is the standard respectful term. 老人家 lǎorénjiā adds further warmth, and can be used to address any elderly stranger, conveying both respect and affection. 长辈 zhǎngbèi (senior generation) and 晚辈 wǎnbèi (junior generation) structure every family and social interaction.</p>
     </div>
 
     <span class="section-anchor" id="compounds"></span>
@@ -139,7 +139,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          老 lǎo (venerable) + 师 shī (master; teacher; expert). The standard term for teacher at all levels — elementary through university. Used as a title of address (王老师 "Teacher Wang") and as a term of respect for anyone with expertise to transmit. The concept of 师 is culturally weighty: 一日为师，终身为父 "a teacher for a day is a father for life."
+          老 lǎo (venerable) + 师 shī (master; teacher; expert). The standard term for teacher at all levels, from elementary school through university. Used as a title of address (王老师 "Teacher Wang") and as a term of respect for anyone with expertise to transmit. The concept of 师 is culturally weighty: 一日为师，终身为父 "a teacher for a day is a father for life."
         </div>
         <div class="examples">
           <div class="example">
@@ -158,7 +158,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          老 lǎo + 板 bǎn (plank; board — by extension, the main person). The everyday term for boss, owner, or the person in charge of a business. In restaurants, calling out 老板！is the standard way to get the owner's attention. Used more broadly as a respectful address to any business owner, regardless of actual age.
+          老 lǎo + 板 bǎn (plank; board, extended to the person in charge). The everyday term for boss, owner, or the person in charge of a business. In restaurants, calling out 老板！is the standard way to get the owner's attention. Used more broadly as a respectful address to any business owner, regardless of actual age.
         </div>
         <div class="examples">
           <div class="example">
@@ -219,9 +219,9 @@ content_sources:
 
     <div class="scholar" data-glyph="老">
       <div class="scholar-label">道家 dàojiā · The Daoist Sage</div>
-      <p><strong>老子 Lǎo Zǐ</strong> literally means "Old Master" — the semi-legendary philosopher who authored the 道德经 Dào Dé Jīng (Tao Te Ching), the founding text of Daoism. According to tradition, he was a keeper of archives in the Zhou court who, despairing of the corruption of civilization, rode a water buffalo west to the frontier. The border guard begged him to write down his wisdom before departing. He wrote 5,000 characters — the Tao Te Ching — and was never seen again.</p>
-      <p>The name 老子 is itself a clue to the philosophy: the old (老) — what has been tested by time, what is fundamental and unchanging — is the master. Daoism begins with reverence for the ancient, the natural, and the prior. The 道 Tao that 老子 describes is 老 in the deepest sense: older than Heaven and Earth, the source from which all things emerge.</p>
-      <p>In colloquial modern Mandarin, 老子 (with different connotation) is also used as an arrogant first-person pronoun — "I, your father" — in heated or comic contexts. The same characters, radically different register. Context is everything.</p>
+      <p><strong>老子 Lǎo Zǐ</strong> literally means "Old Master," the semi-legendary philosopher who authored the 道德经 Dào Dé Jīng (Tao Te Ching), the founding text of Daoism. According to tradition, he was a keeper of archives in the Zhou court who, despairing of the corruption of civilization, rode a water buffalo west to the frontier. The border guard begged him to write down his wisdom before departing. He wrote 5,000 characters — the Tao Te Ching — and was never seen again.</p>
+      <p>The name 老子 is itself a clue to the philosophy: the old (老), what has been tested by time and is fundamental and unchanging, is the master. Daoism begins with reverence for the ancient, the natural, and the prior. The 道 Tao that 老子 describes is 老 in the deepest sense: older than Heaven and Earth, the source from which all things emerge.</p>
+      <p>In colloquial modern Mandarin, 老子 (with a different connotation) is also used as an arrogant first-person pronoun, "I, your father," in heated or comic contexts. The same characters, radically different register.</p>
     </div>
 
     <span class="section-anchor" id="chengyu"></span>
@@ -238,7 +238,7 @@ content_sources:
         <span class="cy-cn">老当益壮</span>
         <span class="cy-py">lǎo dāng yì zhuàng</span>
         <span class="cy-en">old but growing ever stronger — vigorous in old age</span>
-        <span class="cy-note">Lit: old-yet-increasingly-vigorous. From the Book of the Later Han — the general Ma Yuan said: "A man of ambition grows more vigorous as he grows old; a hero grows stronger with age." Used to praise an older person who retains energy, capability, and drive. A compliment, never ironic.</span>
+        <span class="cy-note">Lit: old-yet-increasingly-vigorous. From the Book of the Later Han: the general Ma Yuan said, "A man of ambition grows more vigorous as he grows old; a hero grows stronger with age." Used to praise an older person who retains energy, capability, and drive. A compliment, never ironic.</span>
       </div>
 
       <div class="cy">
@@ -252,7 +252,7 @@ content_sources:
         <span class="cy-cn">倚老卖老</span>
         <span class="cy-py">yǐ lǎo mài lǎo</span>
         <span class="cy-en">leaning on age to trade on age — exploiting seniority</span>
-        <span class="cy-note">Lit: lean-on-old-sell-old. The critical idiom for elders who demand deference they have not earned — throwing their age around as a trump card to win arguments or avoid accountability. The Confucian tradition respects genuine seniority; it has no patience for the performance of seniority without substance.</span>
+        <span class="cy-note">Lit: lean-on-old-sell-old. The critical idiom for elders who demand deference they have not earned, throwing their age around as a trump card to win arguments or avoid accountability. The Confucian tradition respects genuine seniority; it has no patience for the performance of seniority without substance.</span>
       </div>
 
     </div>
