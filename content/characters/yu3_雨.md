@@ -97,8 +97,8 @@ content_review: 'pending'
     <div class="scholar" data-glyph="雨">
       <div class="scholar-label">a horizontal sky, a cloud, four drops of rain</div>
       <p>The oracle bone form of 雨, inscribed around 1200 BCE, shows a horizontal line (the sky) with a curved shape below it (a cloud) and four dots hanging from the bottom (raindrops falling). The structure is nearly identical to the character you use today, more than three thousand years later. 雨 changed less through the bronzes, seals, and clerical scripts than almost any other pictograph in the Chinese writing system. The image was too clear to require improvement.</p>
-      <p>What scribes preserved in the character's visual stability, they also encoded structurally: 雨 became the radical that organizes all weather-related phenomena. Snow (雪 xuě) is 雨 on top of 彐. Thunder (雷 léi) is 雨 over 田 (fields) — rain and thunder together. Lightning (电 diàn) in simplified script loses the 雨, but the traditional form 電 preserves it clearly. Frost (霜 shuāng) is 雨 over 相. Dew (露 lù) is 雨 over 路. The weather system of the sky is systematically built out of this one pictograph.</p>
-      <p>A practical learner note: 雨 yǔ and 语 yǔ (language, speech) are exact homophones — both third tone, same romanization. They share nothing etymologically and no visual similarity, but learners and native speakers alike produce the error in typed Chinese: substituting 雨天 (rainy day) for 语言 contexts and vice versa. The confusion is entirely tonal and phonetic, a product of the pinyin input system. Context almost always resolves it, but it is common enough to be aware of.</p>
+      <p>What scribes preserved in the character's visual stability, they also encoded structurally: 雨 became the radical that organizes all weather-related phenomena. Snow (雪 xuě) is 雨 on top of 彐. Thunder (雷 léi) is 雨 over 田 (fields), rain and thunder together. Lightning (电 diàn) in simplified script loses the 雨, but the traditional form 電 preserves it clearly. Frost (霜 shuāng) is 雨 over 相. Dew (露 lù) is 雨 over 路. The weather system of the sky is systematically built out of this one pictograph.</p>
+      <p>A practical learner note: 雨 yǔ and 语 yǔ (language, speech) are exact homophones, both third tone, same romanization. They share nothing etymologically and no visual similarity, but learners and native speakers alike produce the error in typed Chinese, substituting 雨天 (rainy day) for 语言 contexts and vice versa. The confusion is entirely tonal and phonetic, a product of the pinyin input system. Context almost always resolves it.</p>
     </div>
 
     <span class="section-anchor" id="radical"></span>
@@ -111,7 +111,7 @@ content_review: 'pending'
 
     <div class="pattern">
       <span class="label">雨 + component → weather phenomenon</span>
-      <p>When 雨 sits at the top of a character, it signals precipitation, atmospheric moisture, or a weather event. The radical behaves consistently across the entire weather vocabulary: the bottom component typically adds either phonetic information (a sound hint) or semantic precision (which kind of atmospheric event). This makes the radical family among the most learnable in the script — seeing 雨 at the top, a reader already knows they're in weather territory.</p>
+      <p>When 雨 sits at the top of a character, it signals precipitation, atmospheric moisture, or a weather event. The radical behaves consistently across the entire weather vocabulary: the bottom component typically adds either phonetic information (a sound hint) or semantic precision (which kind of atmospheric event). Seeing 雨 at the top, a reader already knows they're in weather territory.</p>
     </div>
 
     <div class="cards">
