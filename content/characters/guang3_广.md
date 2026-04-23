@@ -74,9 +74,9 @@ content_sources:
 
     <div class="scholar" data-glyph="廣">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p>The oracle-bone and bronze-script form of <strong>广</strong> depicts a simple lean-to shelter: a slanted roof line hanging off a cliff face, open on the sides — not a closed room but a broad overhang. The core image is space that extends horizontally outward from a fixed point, sheltered but unenclosed. Wideness, not depth.</p>
-      <p>The traditional form <strong>廣</strong> elaborates this: inside the 广 shelter sits <strong>黄 huáng</strong> (yellow/brightness) as a phonetic hint, plus additional strokes suggesting the interior expanse. The simplified character strips all of that back to three strokes — the original cliff-overhang in its purest form.</p>
-      <p>From "wide open shelter" the meaning generalized to width, broadness, and extension in all directions — then, in the modern era, to broadcasting: 广播 (guǎngbō), literally "wide casting," the Chinese word for radio and television transmission.</p>
+      <p>The oracle-bone and bronze-script form of <strong>广</strong> depicts a simple lean-to shelter: a slanted roof line hanging off a cliff face, open on the sides. A broad overhang, not a closed room. The core image is space that extends horizontally outward from a fixed point, sheltered but unenclosed. Wideness, not depth.</p>
+      <p>The traditional form <strong>廣</strong> elaborates this: inside the 广 shelter sits <strong>黄 huáng</strong> (yellow/brightness) as a phonetic hint, plus additional strokes suggesting the interior expanse. The simplified character strips all of that back to three strokes, the original cliff-overhang in its purest form.</p>
+      <p>From "wide open shelter" the meaning generalized to width, broadness, and extension in all directions. In the modern era it extended further to broadcasting: 广播 (guǎngbō), literally "wide casting," the Chinese word for radio and television transmission.</p>
     </div>
 
     <span class="section-anchor" id="radical"></span>
