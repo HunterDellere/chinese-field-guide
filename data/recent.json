@@ -216,6 +216,54 @@
     "updated": "2026-04-22"
   },
   {
+    "path": "pages/chengyu/qingchulanlan_青出于蓝.html",
+    "type": "vocab",
+    "category": "chengyu",
+    "title": "青出于蓝 · The Student Surpasses the Teacher",
+    "desc": "Indigo is made from the indigo plant, yet it is bluer than the plant itself. Xunzi's image for the student who surpasses the teacher through sustained effort.",
+    "tags": [
+      "idioms",
+      "classical",
+      "philosophy",
+      "confucianism"
+    ],
+    "status": "complete",
+    "pinyin": "qīng chū yú lán",
+    "updated": "2026-04-22"
+  },
+  {
+    "path": "pages/chengyu/renshanshuixiu_山清水秀.html",
+    "type": "vocab",
+    "category": "chengyu",
+    "title": "山清水秀 · Mountains Clear, Waters Lovely",
+    "desc": "Clear mountains, lovely waters. The standard Chinese phrase for a picturesque landscape — four characters that compress the whole aesthetic vocabulary of natural beauty.",
+    "tags": [
+      "idioms",
+      "classical",
+      "nature",
+      "geography"
+    ],
+    "status": "complete",
+    "pinyin": "shān qīng shuǐ xiù",
+    "updated": "2026-04-22"
+  },
+  {
+    "path": "pages/chengyu/yimaobuba_一毛不拔.html",
+    "type": "vocab",
+    "category": "chengyu",
+    "title": "一毛不拔 · Not Give Even a Hair",
+    "desc": "Refuse to give even a single hair from your body. Mencius's phrase for the Yangist philosophy of radical self-preservation — and the word for a miser that it became.",
+    "tags": [
+      "idioms",
+      "classical",
+      "philosophy",
+      "confucianism"
+    ],
+    "status": "complete",
+    "pinyin": "yī máo bù bá",
+    "updated": "2026-04-22"
+  },
+  {
     "path": "pages/daily/topic_jiating.html",
     "type": "topic",
     "category": "daily",
@@ -302,74 +350,20 @@
     "memberCount": 12
   },
   {
-    "path": "pages/hubs/wenxue.html",
+    "path": "pages/hubs/faming.html",
     "type": "hub",
     "category": "hubs",
-    "title": "文学路径 · Literary China — A Reading Path",
-    "desc": "Chinese literature is not a sequence of styles that replaced each other. It is an accumulation. This path follows the layering forward in time.",
+    "title": "四大发明与技术 · Invention and Technology — A Reading Path",
+    "desc": "Chinese technological innovation was not a story of lone inventors. It was systematic accumulation within state institutions and artisan guilds over centuries, carried by people whose names the record does not preserve.",
     "tags": [
-      "literature",
-      "arts",
-      "poetry",
+      "science",
+      "history",
+      "invention",
       "hub"
     ],
     "status": "complete",
-    "pinyin": "wénxué lùjìng",
+    "pinyin": "fāmíng yǔ jìshù",
     "updated": "2026-04-22",
     "memberCount": 12
-  },
-  {
-    "path": "pages/hubs/zongjiao.html",
-    "type": "hub",
-    "category": "hubs",
-    "title": "宗教地图 · The Religious Map — A Reading Path",
-    "desc": "Chinese religiosity doesn't fit Western categories. Most people practice elements of Confucianism, Daoism, Buddhism, folk religion, and ancestor veneration simultaneously — a map of how these traditions relate.",
-    "tags": [
-      "religion",
-      "buddhism",
-      "daoism",
-      "confucianism",
-      "hub"
-    ],
-    "status": "complete",
-    "pinyin": "zōngjiào dìtú",
-    "updated": "2026-04-22",
-    "memberCount": 11
-  },
-  {
-    "path": "pages/vocab/ziran_自然.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "自然 · nature; natural; of course",
-    "desc": "Laozi placed 自然 at the center of his cosmology: the Way models itself on what is so of itself — no outside force required.",
-    "tags": [
-      "nature",
-      "daoism",
-      "philosophy",
-      "cosmology"
-    ],
-    "status": "complete",
-    "pinyin": "zìrán",
-    "updated": "2026-04-22"
-  },
-  {
-    "path": "pages/characters/chan3_产.html",
-    "type": "character",
-    "category": "characters",
-    "title": "产 · to produce, give birth, property, output",
-    "desc": "From birth to bounty: a character that spans biological generation and industrial output, linking the miracle of birth to the logic of production and wealth.",
-    "tags": [
-      "economy",
-      "commerce",
-      "production",
-      "birth"
-    ],
-    "status": "complete",
-    "char": "产",
-    "pinyin": "chǎn",
-    "tone": 3,
-    "hsk": 3,
-    "radical": "亠",
-    "updated": "2026-04-20"
   }
 ]

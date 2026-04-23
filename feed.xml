@@ -6,7 +6,7 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>Notes on Chinese language and civilisation — characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Apr 2026 01:36:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 01:44:36 GMT</lastBuildDate>
     <item>
       <title>风 · wind; style; custom</title>
       <link>https://jiaoshoo.com/pages/characters/feng1_风.html</link>
@@ -96,6 +96,30 @@
       <category>characters</category>
     </item>
     <item>
+      <title>青出于蓝 · The Student Surpasses the Teacher</title>
+      <link>https://jiaoshoo.com/pages/chengyu/qingchulanlan_青出于蓝.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/chengyu/qingchulanlan_青出于蓝.html</guid>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Indigo is made from the indigo plant, yet it is bluer than the plant itself. Xunzi&apos;s image for the student who surpasses the teacher through sustained effort.</description>
+      <category>chengyu</category>
+    </item>
+    <item>
+      <title>山清水秀 · Mountains Clear, Waters Lovely</title>
+      <link>https://jiaoshoo.com/pages/chengyu/renshanshuixiu_山清水秀.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/chengyu/renshanshuixiu_山清水秀.html</guid>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Clear mountains, lovely waters. The standard Chinese phrase for a picturesque landscape — four characters that compress the whole aesthetic vocabulary of natural beauty.</description>
+      <category>chengyu</category>
+    </item>
+    <item>
+      <title>一毛不拔 · Not Give Even a Hair</title>
+      <link>https://jiaoshoo.com/pages/chengyu/yimaobuba_一毛不拔.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/chengyu/yimaobuba_一毛不拔.html</guid>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Refuse to give even a single hair from your body. Mencius&apos;s phrase for the Yangist philosophy of radical self-preservation — and the word for a miser that it became.</description>
+      <category>chengyu</category>
+    </item>
+    <item>
       <title>家庭 · Family Structure</title>
       <link>https://jiaoshoo.com/pages/daily/topic_jiating.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/daily/topic_jiating.html</guid>
@@ -133,6 +157,14 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/hubs/dili.html</guid>
       <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
       <description>The rivers shaped the civilization; geography fractured the language; one writing system held it together.</description>
+      <category>hubs</category>
+    </item>
+    <item>
+      <title>四大发明与技术 · Invention and Technology — A Reading Path</title>
+      <link>https://jiaoshoo.com/pages/hubs/faming.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/hubs/faming.html</guid>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Chinese technological innovation was not a story of lone inventors. It was systematic accumulation within state institutions and artisan guilds over centuries, carried by people whose names the record does not preserve.</description>
       <category>hubs</category>
     </item>
     <item>
@@ -213,38 +245,6 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/bihua_笔画.html</guid>
       <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
       <description>Every Chinese character is built from a small set of standard strokes written in a prescribed order. Stroke count determines dictionary order; stroke order determines how a character looks when written by hand.</description>
-      <category>vocab</category>
-    </item>
-    <item>
-      <title>部首 · radicals — the indexing keys of Chinese characters</title>
-      <link>https://jiaoshoo.com/pages/vocab/bushou_部首.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/bushou_部首.html</guid>
-      <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Every Chinese character belongs to a radical family. Radicals are the organizing principle of dictionaries, the structural DNA of characters, and the fastest shortcut to guessing what an unfamiliar word means.</description>
-      <category>vocab</category>
-    </item>
-    <item>
-      <title>产品 · product, manufactured good</title>
-      <link>https://jiaoshoo.com/pages/vocab/chanpin_产品.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/chanpin_产品.html</guid>
-      <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
-      <description>The standard Chinese word for product — what production yields and commerce moves. From factory floor to digital marketplace, 产品 names the output of organized human effort.</description>
-      <category>vocab</category>
-    </item>
-    <item>
-      <title>拼音 · the romanization system for Mandarin</title>
-      <link>https://jiaoshoo.com/pages/vocab/pinyin_拼音.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/pinyin_拼音.html</guid>
-      <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Pinyin is the official romanization of Mandarin — the system that maps Chinese sounds to the Latin alphabet. It is a pronunciation guide, not a writing system, and it does not replace characters.</description>
-      <category>vocab</category>
-    </item>
-    <item>
-      <title>生产 · to produce, production, manufacturing</title>
-      <link>https://jiaoshoo.com/pages/vocab/shengchan_生产.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/shengchan_生产.html</guid>
-      <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
-      <description>The foundational act of economic life — and, in China&apos;s Marxist political vocabulary, the act from which all social relations flow. Life gives rise to production; production sustains life.</description>
       <category>vocab</category>
     </item>
   </channel>

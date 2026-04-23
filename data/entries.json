@@ -216,6 +216,54 @@
     "updated": "2026-04-22"
   },
   {
+    "path": "pages/chengyu/qingchulanlan_青出于蓝.html",
+    "type": "vocab",
+    "category": "chengyu",
+    "title": "青出于蓝 · The Student Surpasses the Teacher",
+    "desc": "Indigo is made from the indigo plant, yet it is bluer than the plant itself. Xunzi's image for the student who surpasses the teacher through sustained effort.",
+    "tags": [
+      "idioms",
+      "classical",
+      "philosophy",
+      "confucianism"
+    ],
+    "status": "complete",
+    "pinyin": "qīng chū yú lán",
+    "updated": "2026-04-22"
+  },
+  {
+    "path": "pages/chengyu/renshanshuixiu_山清水秀.html",
+    "type": "vocab",
+    "category": "chengyu",
+    "title": "山清水秀 · Mountains Clear, Waters Lovely",
+    "desc": "Clear mountains, lovely waters. The standard Chinese phrase for a picturesque landscape — four characters that compress the whole aesthetic vocabulary of natural beauty.",
+    "tags": [
+      "idioms",
+      "classical",
+      "nature",
+      "geography"
+    ],
+    "status": "complete",
+    "pinyin": "shān qīng shuǐ xiù",
+    "updated": "2026-04-22"
+  },
+  {
+    "path": "pages/chengyu/yimaobuba_一毛不拔.html",
+    "type": "vocab",
+    "category": "chengyu",
+    "title": "一毛不拔 · Not Give Even a Hair",
+    "desc": "Refuse to give even a single hair from your body. Mencius's phrase for the Yangist philosophy of radical self-preservation — and the word for a miser that it became.",
+    "tags": [
+      "idioms",
+      "classical",
+      "philosophy",
+      "confucianism"
+    ],
+    "status": "complete",
+    "pinyin": "yī máo bù bá",
+    "updated": "2026-04-22"
+  },
+  {
     "path": "pages/daily/topic_jiating.html",
     "type": "topic",
     "category": "daily",
@@ -298,6 +346,23 @@
     ],
     "status": "complete",
     "pinyin": "dìlǐ yǔ yǔyán",
+    "updated": "2026-04-22",
+    "memberCount": 12
+  },
+  {
+    "path": "pages/hubs/faming.html",
+    "type": "hub",
+    "category": "hubs",
+    "title": "四大发明与技术 · Invention and Technology — A Reading Path",
+    "desc": "Chinese technological innovation was not a story of lone inventors. It was systematic accumulation within state institutions and artisan guilds over centuries, carried by people whose names the record does not preserve.",
+    "tags": [
+      "science",
+      "history",
+      "invention",
+      "hub"
+    ],
+    "status": "complete",
+    "pinyin": "fāmíng yǔ jìshù",
     "updated": "2026-04-22",
     "memberCount": 12
   },
