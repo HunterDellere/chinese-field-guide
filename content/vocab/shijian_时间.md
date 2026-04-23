@@ -49,8 +49,8 @@ content_sources:
 
     <div class="scholar" data-glyph="时">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>时 shí</strong> (simplified from 時) = 日 rì (sun) + 寸 cùn (a shape-based replacement introduced in simplification). The traditional 時 = 日 + 寺 sì — where 寺 served as the phonetic (a place of regularity, a temple, an official bureau) and anchored time to the sun as regulated by institutional rhythms. The simplified 时 preserves the 日 but replaces 寺 with the shorter 寸; the etymological weight lives in the traditional form. Originally the character meant "the right season, the right moment." In classical Chinese, 时 carries the sense of <em>timeliness</em> — the right action at the right moment. Confucius' virtue 时中 (timely balance) meant knowing not just what to do but <em>when</em>.</p>
-      <p><strong>间 jiān/jiàn</strong> = 门 mén (gate) + 日 rì (sun). Sunlight coming through a gate — the gap, the interval, the space between. As jiān: space between, room, interval. As jiàn: to separate, to interpose. 时间 together: the intervals between suns — the measured gaps that constitute time.</p>
+      <p><strong>时 shí</strong> (simplified from 時) = 日 rì (sun) + 寸 cùn (a shape-based replacement introduced in simplification). The traditional 時 = 日 + 寺 sì, where 寺 served as the phonetic (a place of regularity, a temple, an official bureau) and anchored time to the sun as regulated by institutional rhythms. The simplified 时 preserves 日 but replaces 寺 with the shorter 寸; the etymological weight lives in the traditional form. Originally the character meant "the right season, the right moment." In classical Chinese, 时 carries the sense of <em>timeliness</em>, the right action at the right moment. Confucius' virtue 时中 (timely balance) meant knowing not just what to do but <em>when</em>.</p>
+      <p><strong>间 jiān/jiàn</strong> = 门 mén (gate) + 日 rì (sun). Sunlight coming through a gate: the gap, the interval, the space between. As jiān: space between, room, interval. As jiàn: to separate, to interpose. 时间 together: the intervals between suns, the measured gaps that constitute time.</p>
     </div>
 
     <span class="section-anchor" id="shijian"></span>
@@ -58,7 +58,7 @@ content_sources:
 
     <div class="scholar" data-glyph="时">
       <div class="scholar-label">文化洞见 wénhuà dòngjiàn · Cultural Insight</div>
-      <p>Classical Chinese time is fundamentally <strong>cyclical</strong>. The calendar is built on cycles: the 60-year stem-branch cycle (干支 gānzhī), the 12-year zodiac (十二生肖), the 24 solar terms (二十四节气 èrshísì jiéqì). Time turns like a wheel — dynasties rise and fall, seasons return, the Dao moves in circles. This is why Chinese historical writing often uses cyclical frameworks: history rhymes rather than progresses.</p>
+      <p>Classical Chinese time is fundamentally <strong>cyclical</strong>. The calendar is built on cycles: the 60-year stem-branch cycle (干支 gānzhī), the 12-year zodiac (十二生肖), the 24 solar terms (二十四节气 èrshísì jiéqì). Time turns like a wheel. Dynasties rise and fall, seasons return, the Dao moves in circles. This is why Chinese historical writing often uses cyclical frameworks: history rhymes rather than progresses.</p>
       <p>Linear time as a concept existed (Buddhism introduced it more sharply, and modernization accelerated it), but the cultural default is still cyclical. 时节 shíjié (season/occasion), 节气 jiéqì (solar term), and 时辰 shíchen (two-hour period in the traditional day-division) all encode time as a returning wheel rather than an arrow.</p>
     </div>
 
