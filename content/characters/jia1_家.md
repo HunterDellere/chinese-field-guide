@@ -116,9 +116,9 @@ content_sources:
 
     <div class="scholar" data-glyph="家">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>家 jiā = 宀 mián</strong> (a roof — the "crown" radical representing shelter) <strong>+ 豕 shǐ</strong> (a pig). A roof with a pig under it: a home. In ancient China, pigs were kept under the same roof as the family. The pig was the domestic animal par excellence — the sign of a self-sustaining household. 家 thus encodes: shelter + livestock = the self-sufficient family unit. This is not metaphor; it is archaeology.</p>
-      <p>The critical cultural expansion: 家 scales fractally. The household becomes the model for the state. Confucius taught: <strong>修身、齐家、治国、平天下</strong> — cultivate yourself → order your family → govern the state → bring peace to all under heaven. 家 is not merely a home; it is the original cell of social organization. <strong>国家 guójiā</strong> (nation-state) = "country-family." In Chinese, the nation is literally the family scaled up. This is not merely linguistic — it structured centuries of governance, moral philosophy, and political expectation.</p>
-      <p>In Japanese: 家 is read <em>ka / ie / ya</em> — 家族 <em>kazoku</em> (family), 家 <em>ie</em> (house/home), 作家 <em>sakka</em> (writer — the same X+家 pattern as Chinese). The roof over the pig traveled intact across the sea, carrying its entire conceptual freight.</p>
+      <p><strong>家 jiā = 宀 mián</strong> (the "crown" radical, representing shelter) <strong>+ 豕 shǐ</strong> (a pig). A roof with a pig under it: a home. In ancient China, pigs were kept under the same roof as the family. The pig was the domestic animal par excellence, the sign of a self-sustaining household. 家 thus encodes: shelter + livestock = the self-sufficient family unit. This is not metaphor; it is archaeology.</p>
+      <p>家 scales fractally. The household becomes the model for the state. Confucius taught: <strong>修身、齐家、治国、平天下</strong> — cultivate yourself → order your family → govern the state → bring peace to all under heaven. <strong>国家 guójiā</strong> (nation-state) = "country-family." In Chinese, the nation is literally the family scaled up. The compound structured centuries of governance, moral philosophy, and political expectation.</p>
+      <p>In Japanese: 家 is read <em>ka / ie / ya</em> — 家族 <em>kazoku</em> (family), 家 <em>ie</em> (house/home), 作家 <em>sakka</em> (writer, the same X+家 pattern as Chinese). The roof over the pig traveled intact across the sea, carrying its entire conceptual freight.</p>
     </div>
 
     <!-- ── FAMILY UNIT ── -->
@@ -149,7 +149,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          The base word. Can mean the physical house or the family that inhabits it — often both at once. One of the first words any learner acquires, and one of the deepest in the entire language. The semantic compression of 家 is intentional: shelter and the people it shelters are not separate things.
+          The base word. Can mean the physical house or the family that inhabits it, often both at once. One of the first words any learner acquires, and one of the deepest in the entire language. The semantic compression of 家 is intentional: shelter and the people it shelters are not separate things.
         </div>
         <div class="examples">
           <div class="example">
@@ -183,7 +183,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          家 jiā + 人 rén (person/people). The people of the home. More intimate and emotionally warm than the formal compound 家庭成员 (family members, bureaucratic). 家人 feels like "my people" — those who share your roof and your life.
+          家 jiā + 人 rén (person/people). The people of the home. More intimate and emotionally warm than the formal compound 家庭成员 (family members, bureaucratic). 家人 feels like "my people": those who share your roof and your life.
         </div>
         <div class="examples">
           <div class="example">
@@ -217,7 +217,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          家 jiā + 庭 tíng (courtyard — the shared space of a household compound). More formal and institutional than bare 家. 家庭 treats the family as a social unit with structure and function. Appears in legal, sociological, and bureaucratic contexts. The courtyard (庭) is the communal space — where the family gathers, not where they sleep.
+          家 jiā + 庭 tíng (courtyard, the shared space of a household compound). More formal and institutional than bare 家. 家庭 treats the family as a social unit with structure and function. Appears in legal, sociological, and bureaucratic contexts. The courtyard (庭) is the communal space where the family gathers, not where they sleep.
         </div>
         <div class="examples">
           <div class="example">
@@ -251,7 +251,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          家 jiā + 乡 xiāng (countryside; native place — the rural origin point). The place where 家 was first made. Not merely an address but a place of origin: family roots, ancestral connections, formative landscape. Central to Chinese identity, deeply tied to concepts of belonging and longing. The emotion of 思念家乡 (missing one's hometown) is one of the defining themes of classical poetry.
+          家 jiā + 乡 xiāng (countryside; native place, the rural origin point). The place where 家 was first made. A place of origin rather than merely an address: family roots, ancestral connections, formative landscape. Central to Chinese identity, deeply tied to belonging and longing. The emotion of 思念家乡 (missing one's hometown) is one of the defining themes of classical poetry.
         </div>
         <div class="examples">
           <div class="example">
@@ -285,7 +285,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          回 huí (to return) + 家 jiā (home). One of the most common V+location phrases in the language. The directional verb 回 indicates movement back toward an origin point — home as the natural destination of return, not merely a place you happen to go.
+          回 huí (to return) + 家 jiā (home). One of the most common V+location phrases in the language. The directional verb 回 indicates movement back toward an origin point: home as the natural destination of return, not merely a place you happen to go.
         </div>
         <div class="examples">
           <div class="example">
@@ -323,8 +323,8 @@ content_sources:
 
     <div class="scholar" data-glyph="家">
       <div class="scholar-label">文化洞见 wénhuà dòngjiàn · Cultural Insight</div>
-      <p>The Confucian insight that the family and the state share the same logic — and the same character — is encoded directly in Chinese vocabulary. <strong>国家</strong> is one of the most revealing compound words in the language: the nation IS the family, scaled up. This is not merely linguistic — it structured centuries of Chinese governance and moral philosophy.</p>
-      <p>The progression: 家 (household) → 国家 (nation-state) → 天下 (all under heaven). At every scale, the same moral logic applies: cultivate virtue, maintain proper relationships, and the larger body will be ordered. A corrupt official was not just breaking a law — he was failing his family's obligations, scaled to the level of the state-family.</p>
+      <p>The Confucian insight that the family and the state share the same logic (and the same character) is encoded directly in Chinese vocabulary. <strong>国家</strong> is one of the most revealing compound words in the language: the nation IS the family, scaled up. The compound structured centuries of Chinese governance and moral philosophy.</p>
+      <p>The progression: 家 (household) → 国家 (nation-state) → 天下 (all under heaven). At every scale, the same moral logic applies: cultivate virtue, maintain proper relationships, and the larger body will be ordered. A corrupt official was not just breaking a law; he was failing his family's obligations, scaled to the level of the state-family.</p>
     </div>
 
     <div class="cards">
@@ -338,7 +338,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          国 guó (country; kingdom) + 家 jiā (family; home). Literally: "country-family." The family logic applied to the largest political unit. The compound is inseparable — you cannot use 国 or 家 alone to mean "nation." The inseparability of the compound mirrors the inseparability of the nation from its family logic in classical Chinese thought.
+          国 guó (country; kingdom) + 家 jiā (family; home). Literally: "country-family." The family logic applied to the largest political unit. The compound is inseparable: you cannot use 国 or 家 alone to mean "nation." The inseparability of the compound mirrors the inseparability of the nation from its family logic in classical Chinese thought.
         </div>
         <div class="examples">
           <div class="example">
@@ -372,7 +372,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          大 dà (big; great) + 家 jiā (family). Literally: "big family." The warmth of addressing a group as "all of us — the big family." Extremely high frequency in speeches, classrooms, team settings, and any collective address. The warmth of 大家 over the clinical 所有人 (everyone, formal) is the difference between addressing family and addressing strangers.
+          大 dà (big; great) + 家 jiā (family). Literally: "big family." The warmth of addressing a group as "all of us, the big family." Extremely high frequency in speeches, classrooms, team settings, and any collective address. The warmth of 大家 over the clinical 所有人 (everyone, formal) is the difference between addressing family and addressing strangers.
         </div>
         <div class="examples">
           <div class="example">
@@ -456,7 +456,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">语法 yǔfǎ · Grammar</span>
-          The three uses of 人家 are context-dependent. Use 3 (1st person) is distinctly colloquial and typically female — avoid in formal writing. It conveys a coy or plaintive self-reference not available with standard 我.
+          The three uses of 人家 are context-dependent. Use 3 (1st person) is distinctly colloquial and typically female; avoid in formal writing. It conveys a coy or plaintive self-reference not available with standard 我.
         </div>
       </div>
 
@@ -474,7 +474,7 @@ content_sources:
     <div class="pattern">
       <span class="label">构词规律 gòucí guīlǜ · Pattern</span>
       <strong>X + 家 = person who has made discipline X their "home"</strong><br>
-      This pattern creates professions, artists, scholars, and experts. The 家 suffix implies deep, sustained mastery — not just a job title but a calling. This exact pattern exists in Japanese: 作家 <em>sakka</em> (writer), 音楽家 <em>ongakuka</em> (musician), 科学者 → 科学家 — borrowed directly from Chinese and still functioning identically.
+      This pattern creates professions, artists, scholars, and experts. The 家 suffix implies deep, sustained mastery: a calling, not just a job title. This exact pattern exists in Japanese: 作家 <em>sakka</em> (writer), 音楽家 <em>ongakuka</em> (musician), 科学者 → 科学家, borrowed directly from Chinese and still functioning identically.
     </div>
 
     <div class="cards">
@@ -488,7 +488,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          画 huà (to paint; to draw; a painting) + 家 jiā. One who has made painting their home. The 家 suffix elevates the painter from a craftsperson to a master — implying sustained creative commitment and a body of work, not merely technical skill.
+          画 huà (to paint; to draw; a painting) + 家 jiā. One who has made painting their home. The 家 suffix elevates the painter from a craftsperson to a master, implying sustained creative commitment and a body of work rather than mere technical skill.
         </div>
         <div class="examples">
           <div class="example">
@@ -513,7 +513,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          作 zuò (to create; to make; to compose) + 家 jiā. Not just anyone who writes — implies literary seriousness and sustained creative output. The 家 suffix distinguishes this from 记者 jìzhě (journalist) or 编辑 biānjí (editor), which are professional roles without the mastercraft implication.
+          作 zuò (to create; to make; to compose) + 家 jiā. The term implies literary seriousness and sustained creative output, not just anyone who writes. The 家 suffix distinguishes this from 记者 jìzhě (journalist) or 编辑 biānjí (editor), which are professional roles without the mastercraft implication.
         </div>
         <div class="examples">
           <div class="example">
@@ -542,7 +542,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          音乐 yīnyuè (music) + 家 jiā. Implies serious, dedicated musical mastery — a composer, a concert performer, a conductor. Not a casual musician. Distinguished from 歌手 gēshǒu (singer/pop artist) by the 家 suffix implying depth, discipline, and classical standing.
+          音乐 yīnyuè (music) + 家 jiā. Implies serious, dedicated musical mastery: a composer, a concert performer, a conductor rather than a casual musician. Distinguished from 歌手 gēshǒu (singer/pop artist) by the 家 suffix, which implies depth, discipline, and classical standing.
         </div>
         <div class="examples">
           <div class="example">
@@ -567,7 +567,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          科学 kēxué (science — lit. "the study of branches/categories") + 家 jiā. One who has made science their home. One of the highest-prestige 家 compounds in modern Chinese — the scientist occupying the role that the Confucian scholar-official held in the imperial era: the person who has devoted a life to a domain of knowledge.
+          科学 kēxué (science, lit. "the study of branches/categories") + 家 jiā. One who has made science their home. One of the highest-prestige 家 compounds in modern Chinese, the scientist occupying the role that the Confucian scholar-official held in the imperial era: the person who has devoted a life to a domain of knowledge.
         </div>
         <div class="examples">
           <div class="example">
@@ -592,7 +592,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          政治 zhèngzhì (politics) + 家 jiā. More elevated than 政客 zhèngkè (politician — often pejorative, implying opportunism and maneuvering). 政治家 implies vision, skill, and genuine mastery of governance — a statesman rather than a mere political operator. The 家 suffix confers dignity.
+          政治 zhèngzhì (politics) + 家 jiā. More elevated than 政客 zhèngkè (politician, often pejorative, implying opportunism and maneuvering). 政治家 implies vision, skill, and genuine mastery of governance: a statesman rather than a mere political operator. The 家 suffix confers dignity.
         </div>
         <div class="examples">
           <div class="example">
@@ -625,7 +625,7 @@ content_sources:
 
     <div class="scholar" data-glyph="家">
       <div class="scholar-label">学者洞见 xuézhě dòngjiàn · Scholar Note</div>
-      <p>The 家 suffix applied to intellectual traditions creates the vocabulary of classical Chinese philosophy. These are not "schools" in the institutional sense — no campuses, no enrollment. They are lineages of thought: transmitted ways of approaching the world, each making a core insight its 家, its home. The Warring States period (475–221 BC) produced the <strong>百家争鸣 bǎijiā zhēngmíng</strong> — the "Hundred Schools Contending," a period of philosophical pluralism without parallel in Chinese history.</p>
+      <p>The 家 suffix applied to intellectual traditions creates the vocabulary of classical Chinese philosophy. These are not "schools" in the institutional sense (no campuses, no enrollment). They are lineages of thought: transmitted ways of approaching the world, each making a core insight its 家, its home. The Warring States period (475–221 BC) produced the <strong>百家争鸣 bǎijiā zhēngmíng</strong>, the "Hundred Schools Contending," a period of philosophical pluralism without parallel in Chinese history.</p>
       <p>The pattern: founding figure or core concept + 家 = the tradition that makes that insight its home. 儒家 made humaneness its home. 道家 made the Way its home. 法家 made law and statecraft its home.</p>
     </div>
 
@@ -712,7 +712,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          家 jiā (home) + 常 cháng (ordinary; often; constant). The routine of domestic life — meals, small talk, everyday rhythms. A warmly neutral word that positions the homely and ordinary as valuable rather than inferior. The 常 element connects to Buddhist 无常 (impermanence) — 家常 is precisely what impermanence threatens: the steady, repeated, daily.
+          家 jiā (home) + 常 cháng (ordinary; often; constant). The routine of domestic life: meals, small talk, everyday rhythms. A warmly neutral word that positions the homely and ordinary as valuable rather than inferior. The 常 element connects to Buddhist 无常 (impermanence); 家常 is precisely what impermanence threatens: the steady, repeated, daily.
         </div>
         <div class="examples">
           <div class="example">
@@ -746,7 +746,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          家 jiā (family) + 风 fēng (wind; custom; style; ethos). The invisible ethos that blows through a family across generations — the unspoken values, behavioral norms, and character traits transmitted from parents to children. 风 as "style" or "ethos" appears in many cultural compounds: 民风 mínfēng (folk customs), 学风 xuéfēng (academic ethos), 作风 zuòfēng (work style).
+          家 jiā (family) + 风 fēng (wind; custom; style; ethos). The invisible ethos that blows through a family across generations: the unspoken values, behavioral norms, and character traits transmitted from parents to children. 风 as "style" or "ethos" appears in many cultural compounds: 民风 mínfēng (folk customs), 学风 xuéfēng (academic ethos), 作风 zuòfēng (work style).
         </div>
         <div class="examples">
           <div class="example">
@@ -762,7 +762,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">文化 wénhuà · Culture</span>
-          家风 encodes the Confucian idea that the family is the primary unit of moral education. The state cannot function if families do not transmit virtue. This is why 修身齐家治国平天下 — personal cultivation and family ordering precede state governance. In contemporary China, 家风建设 (family tradition building) is a recurring theme in official discourse.
+          家风 encodes the Confucian idea that the family is the primary unit of moral education. The state cannot function if families do not transmit virtue. 修身齐家治国平天下: personal cultivation and family ordering precede state governance. In contemporary China, 家风建设 (family tradition building) is a recurring theme in official discourse.
         </div>
       </div>
 
@@ -775,7 +775,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          家 jiā (family) + 规 guī (rules; regulations; norms). The explicit code of conduct of a household — the spoken version of what 家风 transmits implicitly. Distinguished families in imperial China often had written 家规 codifying expectations for children's conduct, study, and marriage. 规矩 guīju (rules; propriety) is a closely related compound.
+          家 jiā (family) + 规 guī (rules; regulations; norms). The explicit code of conduct of a household, the spoken version of what 家风 transmits implicitly. Distinguished families in imperial China often had written 家规 codifying expectations for children's conduct, study, and marriage. 规矩 guīju (rules; propriety) is a closely related compound.
         </div>
         <div class="examples">
           <div class="example">
@@ -800,7 +800,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          成 chéng (to become; to accomplish; to complete) + 家 jiā. The moment a household comes into being — through marriage, through setting up a home together. One of the defining life-stage transitions in Chinese culture, paired with 立业 (establish a career) in the famous set phrase 成家立业.
+          成 chéng (to become; to accomplish; to complete) + 家 jiā. The moment a household comes into being, through marriage and setting up a home together. One of the defining life-stage transitions in Chinese culture, paired with 立业 (establish a career) in the famous set phrase 成家立业.
         </div>
         <div class="examples">
           <div class="example">
@@ -838,7 +838,7 @@ content_sources:
 
     <div class="pattern">
       <span class="label">量词 liàngcí · Measure Word Pattern</span>
-      <strong>一家 counts bounded, self-contained establishments</strong> — just as the original 家 was a bounded domestic space with a roof and a pig under it. The pattern applies to businesses, institutions, and families as units. One roof = one 家.
+      <strong>一家 counts bounded, self-contained establishments</strong>, just as the original 家 was a bounded domestic space with a roof and a pig under it. The pattern applies to businesses, institutions, and families as units. One roof = one 家.
     </div>
 
     <div class="table-wrap">
@@ -961,9 +961,9 @@ content_sources:
     <!-- RETENTION IMAGE -->
     <div class="scholar" data-glyph="家">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>A roof over a pig. That is civilization's first agreement: I will shelter you; you will feed me. From that deal, everything scales: the household becomes the village, the village the kingdom, the kingdom the world. When Confucius laid out the path of self-cultivation — <strong>修身、齐家、治国、平天下</strong> — he was not being metaphorical. The same moral logic that orders a household orders a nation. In Chinese, the nation is literally the family: <strong>国家</strong>.</p>
-      <p>Every 家 compound you encounter carries this fractal logic. The <strong>画家</strong> (painter) has made painting their home. The <strong>道家</strong> (Daoist) has made the Way their home. The <strong>国家</strong> is the household of all under heaven. When a Chinese person says <strong>回家</strong>, they are not just going to an address — they are returning to the foundational cell of the moral universe.</p>
-      <p>In Japanese: 家族 <em>kazoku</em> (family), 作家 <em>sakka</em> (writer) — the same roof, the same pig, the same fractal logic, intact across the sea.</p>
+      <p>A roof over a pig. That is civilization's first agreement: I will shelter you; you will feed me. From that deal, everything scales: the household becomes the village, the village the kingdom, the kingdom the world. When Confucius laid out the path of self-cultivation (<strong>修身、齐家、治国、平天下</strong>), he was not being metaphorical. The same moral logic that orders a household orders a nation. In Chinese, the nation is literally the family: <strong>国家</strong>.</p>
+      <p>Every 家 compound you encounter carries this fractal logic. The <strong>画家</strong> (painter) has made painting their home. The <strong>道家</strong> (Daoist) has made the Way their home. The <strong>国家</strong> is the household of all under heaven. When a Chinese person says <strong>回家</strong>, they are going to an address, yes, but also returning to the foundational cell of the moral universe.</p>
+      <p>In Japanese: 家族 <em>kazoku</em> (family), 作家 <em>sakka</em> (writer). The same roof, the same pig, the same fractal logic, intact across the sea.</p>
     </div>
 
     
