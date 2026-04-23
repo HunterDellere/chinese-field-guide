@@ -99,9 +99,9 @@ content_sources:
 
     <div class="scholar" data-glyph="口">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>口 kǒu</strong> is one of the simplest and most ancient pictographs in Chinese — a rectangle representing an open mouth. The oracle-bone form is nearly identical to the modern character: a simple square or rectangle standing alone. Three strokes, 3,000 years of use. Its simplicity made it one of the most widely deployed radicals in the script.</p>
-      <p>口 carries two primary semantic tracks. First: the mouth as the organ of speech, eating, and taste — characters with 口 radical are overwhelmingly associated with oral actions. Second: any opening, aperture, or entrance — 出口 chūkǒu (exit — lit. "go-out mouth"), 入口 rùkǒu (entrance — lit. "enter mouth"), 窗口 chuāngkǒu (window — lit. "window mouth"), 港口 gǎngkǒu (harbor — lit. "harbor mouth").</p>
-      <p>As a measure word, 口 counts people in a household (一口人 yī kǒu rén — one person in a family) and bites of food (吃一口 chī yī kǒu — take a bite). 人口 rénkǒu (population — lit. "people-mouths") — the mouth as the unit of human presence, the thing that needs to be fed.</p>
+      <p><strong>口 kǒu</strong> is one of the simplest and most ancient pictographs in Chinese, a rectangle representing an open mouth. The oracle-bone form is nearly identical to the modern character: a simple square or rectangle standing alone. Three strokes, 3,000 years of use. Its simplicity made it one of the most widely deployed radicals in the script.</p>
+      <p>口 carries two primary semantic tracks. First: the mouth as the organ of speech, eating, and taste, with characters in the 口 radical overwhelmingly associated with oral actions. Second: any opening, aperture, or entrance. 出口 chūkǒu (exit, lit. "go-out mouth"), 入口 rùkǒu (entrance, lit. "enter mouth"), 窗口 chuāngkǒu (window, lit. "window mouth"), 港口 gǎngkǒu (harbor, lit. "harbor mouth").</p>
+      <p>As a measure word, 口 counts people in a household (一口人 yī kǒu rén, one person in a family) and bites of food (吃一口 chī yī kǒu, take a bite). 人口 rénkǒu (population, lit. "people-mouths") turns the mouth into the unit of human presence, the thing that needs to be fed.</p>
     </div>
 
     <span class="section-anchor" id="radical"></span>
