@@ -96,9 +96,9 @@ content_sources:
 
     <div class="scholar" data-glyph="国">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>国 guó</strong> is a pictographic enclosure — the outer square 囗 wéi represents a walled city or territory. Inside, the simplified form contains 玉 yù (jade), while the traditional 國 contains 或 huò (a soldier with a weapon guarding a boundary). Both images encode the same concept: a <em>bounded domain defended by its people.</em></p>
-      <p>The traditional form 國 is a masterpiece of political philosophy compressed into a glyph: a mouth 口 (the population), a spear 戈 (military defense), and the outer wall 囗 (territorial boundary). Nation = people + military + territory. This is not metaphor — it is the classical Chinese theory of the state, written in strokes.</p>
-      <p>The simplified 国 replaces the armored interior with jade 玉 — a gem of highest value — surrounded by a wall. One could read this as civilization's treasures enclosed and protected. Both readings work. Both are true.</p>
+      <p><strong>国 guó</strong> is a pictographic enclosure. The outer square 囗 wéi represents a walled city or territory. Inside, the simplified form contains 玉 yù (jade), while the traditional 國 contains 或 huò (a soldier with a weapon guarding a boundary). Both images encode the same concept: a <em>bounded domain defended by its people.</em></p>
+      <p>The traditional form 國 compresses a political theory into a glyph: a mouth 口 (the population), a spear 戈 (military defense), and the outer wall 囗 (territorial boundary). Nation = people + military + territory. This is the classical Chinese theory of the state, written in strokes.</p>
+      <p>The simplified 国 replaces the armored interior with jade 玉, a gem of highest value, surrounded by a wall. One could read this as civilization's treasures enclosed and protected. Both readings work. Both are true.</p>
     </div>
 
     <span class="section-anchor" id="names"></span>
@@ -124,7 +124,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 专有名词 proper noun</span></div>
         <div class="card-def">
-          中 zhōng (middle; central) + 国 guó (kingdom; state). The classical conception of China as the cultural and political center around which the world oriented. The name dates to Zhou dynasty usage (c. 1000 BCE). The full official name is 中华人民共和国 Zhōnghuá Rénmín Gònghéguó — People's Republic of China.
+          中 zhōng (middle; central) + 国 guó (kingdom; state). The classical conception of China as the cultural and political center around which the world oriented. The name dates to Zhou dynasty usage (c. 1000 BCE). The full official name is 中华人民共和国 Zhōnghuá Rénmín Gònghéguó (People's Republic of China).
         </div>
         <div class="examples">
           <div class="example">
@@ -143,7 +143,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 专有名词 proper noun</span></div>
         <div class="card-def">
-          美 měi (beautiful) + 国 guó. From the phonetic transcription of "America" — 亚美利加 Yà-Měi-lì-jiā — with 美 selected as both sound-match and flattering character. A lucky phonetic fit.
+          美 měi (beautiful) + 国 guó. From the phonetic transcription of "America" (亚美利加 Yà-Měi-lì-jiā), with 美 selected as both sound-match and flattering character. A lucky phonetic fit.
         </div>
         <div class="examples">
           <div class="example">
@@ -174,7 +174,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-adj">Adj 形容词 xíngróngcí</span></div>
         <div class="card-def">
-          国 guó + 际 jì (boundary; border; between). "Between countries." The standard word for anything international — 国际机场 international airport · 国际关系 international relations · 国际化 internationalization.
+          国 guó + 际 jì (boundary; border; between). "Between countries." The standard word for anything international: 国际机场 international airport · 国际关系 international relations · 国际化 internationalization.
         </div>
         <div class="examples">
           <div class="example">
