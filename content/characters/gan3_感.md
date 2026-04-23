@@ -121,9 +121,9 @@ content_sources:
 
     <div class="scholar" data-glyph="感">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>感 gǎn = 咸 xián</strong> (all; universal; reaching everywhere) <strong>+ 心 xīn</strong> (heart). The oracle-bone form of 咸 depicts a battle-axe striking a mouth — a sound that reaches all ears. Placed above 心, the compound becomes: <em>that which the heart universally resonates with.</em> This is why 感 covers such vast emotional terrain: sensation, gratitude, inspiration, contagion — all are versions of the heart being struck and vibrating.</p>
-      <p>In Japanese, the same character is read <em>kan</em> — 感じる <em>kanjiru</em> "to feel," 感謝 <em>kansha</em> "gratitude," 感動 <em>kandō</em> "being moved." The semantic field maps with near-perfect fidelity, making 感 one of the most powerful Sino-Japanese anchors for learners of both languages.</p>
-      <p>The cosmological logic runs deeper still: in classical Chinese thought, the universe operates through <strong>感应 gǎnyìng</strong> — sympathetic resonance. Heaven <em>feels</em> human affairs and responds; humans <em>feel</em> Heaven's movements. Every 感-word is a different shape that resonance takes.</p>
+      <p><strong>感 gǎn = 咸 xián</strong> (all; universal; reaching everywhere) <strong>+ 心 xīn</strong> (heart). The oracle-bone form of 咸 depicts a battle-axe striking a mouth, a sound that reaches all ears. Placed above 心, the compound becomes: <em>that which the heart universally resonates with.</em> Sensation, gratitude, inspiration, contagion: every 感-word is a version of the heart being struck and vibrating.</p>
+      <p>In Japanese, the same character is read <em>kan</em>: 感じる <em>kanjiru</em> "to feel," 感謝 <em>kansha</em> "gratitude," 感動 <em>kandō</em> "being moved." The semantic field maps with near-perfect fidelity, making 感 one of the most powerful Sino-Japanese anchors for learners of both languages.</p>
+      <p>In classical Chinese thought, the universe operates through <strong>感应 gǎnyìng</strong>, sympathetic resonance. Heaven <em>feels</em> human affairs and responds; humans <em>feel</em> Heaven's movements.</p>
     </div>
 
     <!-- ── WORD-FORMATION ── -->
@@ -162,7 +162,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          感 gǎn (feel) + 到 dào (arrive at · result marker). The 到 is a <strong>resultative complement</strong> — it signals the feeling has <em>landed</em>, been registered as a completed state. The most neutral, all-purpose feeling verb. Almost always takes an adjectival or clausal complement.
+          感 gǎn (feel) + 到 dào (arrive at · result marker). The 到 is a <strong>resultative complement</strong> signaling that the feeling has <em>landed</em>, been registered as a completed state. The most neutral, all-purpose feeling verb. Almost always takes an adjectival or clausal complement.
         </div>
         <div class="examples">
           <div class="example">
@@ -183,7 +183,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">语法 yǔfǎ · Grammar</span>
-          Pattern: <code>感到 + adj / noun phrase / clause</code>. Examples: 感到骄傲 proud · 感到难受 unwell · 感到惊讶 surprised. Register: neutral — works in speech and writing equally. More <em>objective</em> in flavor than 感觉.
+          Pattern: <code>感到 + adj / noun phrase / clause</code>. Examples: 感到骄傲 proud · 感到难受 unwell · 感到惊讶 surprised. Register: neutral, works in speech and writing equally. More <em>objective</em> in flavor than 感觉.
         </div>
       </div>
 
@@ -196,7 +196,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-vn">V/N 动名词</span></div>
         <div class="card-def">
-          感 gǎn + 觉 jué (to awaken; become aware — originally: waking from sleep, the first moment of consciousness). <strong>Dual-category word</strong> — functions as both verb and noun. The most flexible word in the 感 family. Covers gut feeling, subjective impression, intuition.
+          感 gǎn + 觉 jué (to awaken; become aware; originally: waking from sleep, the first moment of consciousness). A <strong>dual-category word</strong> that functions as both verb and noun. The most flexible word in the 感 family. Covers gut feeling, subjective impression, intuition.
         </div>
         <div class="examples">
           <div class="example">
@@ -217,7 +217,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">辨析 biànxī · Comparison of the Four</span>
-          <strong>感觉</strong> = subjective impression, includes gut feeling. <strong>感到</strong> = registering a more objective state (resultative). <strong>感受</strong> gǎnshòu (feel + 受 receive) = deeper, embodied, reflective experience — art, travel, introspection. <strong>感知</strong> gǎnzhī (feel + 知 know) = perceptual cognition, academic register.
+          <strong>感觉</strong> = subjective impression, includes gut feeling. <strong>感到</strong> = registering a more objective state (resultative). <strong>感受</strong> gǎnshòu (feel + 受 receive) = deeper, embodied, reflective experience (art, travel, introspection). <strong>感知</strong> gǎnzhī (feel + 知 know) = perceptual cognition, academic register.
         </div>
       </div>
 
@@ -230,7 +230,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-vn">V/N 动名词</span></div>
         <div class="card-def">
-          感 gǎn + 受 shòu (to receive; to undergo; to be a recipient). Something comes <em>to you</em> and is taken in. Emphasizes the experiential <em>process</em>, not just the end-state — richer and more embodied than 感觉. Common in art criticism, travel writing, and introspective prose.
+          感 gǎn + 受 shòu (to receive; to undergo; to be a recipient). Something comes <em>to you</em> and is taken in. Emphasizes the experiential <em>process</em> rather than the end-state, richer and more embodied than 感觉. Common in art criticism, travel writing, and introspective prose.
         </div>
         <div class="examples">
           <div class="example">
@@ -255,7 +255,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-vn">V/N 动名词</span></div>
         <div class="card-def">
-          感 gǎn + 知 zhī (to know; cognition). Perception as an act of knowing — the full cycle from sensation to understanding. The most formal and academic of the four.
+          感 gǎn + 知 zhī (to know; cognition). Perception as an act of knowing: the full cycle from sensation to understanding. The most formal and academic of the four.
         </div>
         <div class="examples">
           <div class="example">
@@ -288,7 +288,7 @@ content_sources:
 
     <div class="pattern">
       <span class="label">谢谢 → 感谢 → 感激 → 感恩 · The Gratitude Gradient</span>
-      <strong>谢谢</strong> xièxie (casual, spoken) → <strong>感谢</strong> gǎnxiè (sincere, formal) → <strong>感激</strong> gǎnjī (deep, emotionally indebted) → <strong>感恩</strong> gǎn'ēn (Confucian virtue — honoring all grace received)
+      <strong>谢谢</strong> xièxie (casual, spoken) → <strong>感谢</strong> gǎnxiè (sincere, formal) → <strong>感激</strong> gǎnjī (deep, emotionally indebted) → <strong>感恩</strong> gǎn'ēn (Confucian virtue: honoring all grace received)
     </div>
 
     <div class="cards">
@@ -302,7 +302,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-vn">V/N 动名词</span></div>
         <div class="card-def">
-          感 gǎn + 谢 xiè (to thank; originally: water overflowing — <em>pouring out</em> one's feelings). Warmer and more sincere than 谢谢. Standard in writing, speeches, and formal situations. Also functions as a noun in 表示感谢.
+          感 gǎn + 谢 xiè (to thank; originally: water overflowing, <em>pouring out</em> one's feelings). Warmer and more sincere than 谢谢. Standard in writing, speeches, and formal situations. Also functions as a noun in 表示感谢.
         </div>
         <div class="examples">
           <div class="example">
@@ -336,7 +336,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          感 gǎn + 激 jī (to stir; to agitate; rapids — turbulent water). The heart <em>stirred up</em> by a significant kindness. Implies emotional debt that moves you. Stronger than 感谢; use for meaningful help, not everyday thanks.
+          感 gǎn + 激 jī (to stir; to agitate; rapids, turbulent water). The heart <em>stirred up</em> by a significant kindness. Implies emotional debt that moves you. Stronger than 感谢; use for meaningful help, not everyday thanks.
         </div>
         <div class="examples">
           <div class="example">
@@ -360,7 +360,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          感 gǎn + 恩 ēn (grace; benevolence — the kindness of parents, teachers, heaven). A <strong>Confucian virtue</strong>, not merely an emotion. Recognizing and honoring all goodness received throughout one's life. The deepest gratitude word.
+          感 gǎn + 恩 ēn (grace; benevolence: the kindness of parents, teachers, heaven). A <strong>Confucian virtue</strong>, the act of recognizing and honoring all goodness received throughout one's life. The deepest gratitude word.
         </div>
         <div class="examples">
           <div class="example">
@@ -397,7 +397,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          感 gǎn + 动 dòng (to move). The heart <em>set in motion</em> by something beautiful, kind, or touching. One of the most emotionally central verbs in Chinese — high frequency in literature, film, and daily speech.
+          感 gǎn + 动 dòng (to move). The heart <em>set in motion</em> by something beautiful, kind, or touching. One of the most emotionally central verbs in Chinese, high frequency in literature, film, and daily speech.
         </div>
         <div class="examples">
           <div class="example">
@@ -413,7 +413,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">语法 yǔfǎ · Grammar</span>
-          Intransitive: 我感动了. Transitive: 他感动了我. Causative 让/使 pattern very common. Related adjective: <strong>感人</strong> gǎnrén (touching, moving — used attributively: 感人的故事 a touching story).
+          Intransitive: 我感动了. Transitive: 他感动了我. Causative 让/使 pattern very common. Related adjective: <strong>感人</strong> gǎnrén (touching, moving; used attributively: 感人的故事 a touching story).
         </div>
       </div>
 
@@ -426,7 +426,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-vn">V/N 动名词</span></div>
         <div class="card-def">
-          感 gǎn + 慨 kǎi (to sigh; to lament — a person exhaling with grief). The bittersweet wave felt when contemplating time, change, and transience. Not sadness, not joy — the specific ache of <em>things passing.</em> Quintessentially literary. Common in memoirs, essays, and poetry.
+          感 gǎn + 慨 kǎi (to sigh; to lament; a person exhaling with grief). The bittersweet wave felt when contemplating time, change, and transience: the specific ache of <em>things passing.</em> Quintessentially literary. Common in memoirs, essays, and poetry.
         </div>
         <div class="examples">
           <div class="example">
@@ -503,7 +503,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          感 gǎn + 染 rǎn (to dye; to stain; to spread — dye spreading through cloth). The <strong>same word</strong> covers pathogen transmission and emotional contagion. Both are resonance spreading from one body to another — rooted in the classical cosmology of <em>qì</em> 气.
+          感 gǎn + 染 rǎn (to dye; to stain; to spread, as dye spreads through cloth). The <strong>same word</strong> covers pathogen transmission and emotional contagion, both understood as resonance spreading from one body to another, rooted in the classical cosmology of <em>qì</em> 气.
         </div>
         <div class="examples">
           <div class="example">
@@ -519,7 +519,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">学者洞见 xuézhě dòngjiàn · Scholar Note</span>
-          The semantic overlap between disease and emotional spread is not metaphor — both are instances of <em>gǎnyìng</em> 感应 resonance in classical Chinese natural philosophy. The human body and the social body obey the same laws.
+          The semantic overlap between disease and emotional spread is not metaphor. Both are instances of <em>gǎnyìng</em> 感应 resonance in classical Chinese natural philosophy, where the human body and the social body obey the same laws.
         </div>
       </div>
 
@@ -532,7 +532,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          感 gǎn + 化 huà (to transform; to convert). To touch someone's heart so deeply they are <em>morally transformed.</em> A key Confucian concept: the ideal ruler governs not by force but by exemplary virtue — his presence alone 感化s those around him.
+          感 gǎn + 化 huà (to transform; to convert). To touch someone's heart so deeply they are <em>morally transformed.</em> A key Confucian concept: the ideal ruler governs by exemplary virtue; his presence alone 感化s those around him.
         </div>
         <div class="examples">
           <div class="example">
@@ -552,7 +552,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-vn">V/N 动名词</span></div>
         <div class="card-def">
-          感 gǎn + 应 yìng (to respond; to echo). Used in both physics (<strong>电磁感应</strong> diàncí gǎnyìng — electromagnetic induction) and classical cosmology. The doctrine of <strong>天人感应</strong> tiān rén gǎnyìng — Heaven and humanity in constant resonant dialogue — is a pillar of Han Confucian thought.
+          感 gǎn + 应 yìng (to respond; to echo). Used in both physics (<strong>电磁感应</strong> diàncí gǎnyìng, electromagnetic induction) and classical cosmology. The doctrine of <strong>天人感应</strong> tiān rén gǎnyìng, Heaven and humanity in constant resonant dialogue, is a pillar of Han Confucian thought.
         </div>
         <div class="examples">
           <div class="example">
@@ -576,7 +576,7 @@ content_sources:
 
     <div class="scholar" data-glyph="感">
       <div class="scholar-label">构词洞见 gòucí dòngjiàn · Pattern Insight</div>
-      <p>Attaching 感 gǎn to the end of any noun or adjective creates an abstract noun meaning <em>"the subjective, felt sense of X."</em> Once internalized, you can decode and generate dozens of sophisticated psychological terms instantly. Japanese uses the <strong>identical pattern</strong>: 安全感 = 安全感 <em>anzenkan</em>, 使命感 = <em>shimmeikan</em> — another powerful cross-linguistic anchor.</p>
+      <p>Attaching 感 gǎn to the end of any noun or adjective creates an abstract noun meaning <em>"the subjective, felt sense of X."</em> Once internalized, you can decode and generate dozens of sophisticated psychological terms instantly. Japanese uses the <strong>identical pattern</strong>: 安全感 = 安全感 <em>anzenkan</em>, 使命感 = <em>shimmeikan</em>, a powerful cross-linguistic anchor.</p>
     </div>
 
     <div class="table-wrap">
@@ -704,7 +704,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          感 gǎn + 情 qíng (emotion; sentiment; romantic feeling). The <em>substance</em> of a relationship — accumulated warmth and emotional history between people. Bigger than a single feeling — the whole texture of a bond.
+          感 gǎn + 情 qíng (emotion; sentiment; romantic feeling). The <em>substance</em> of a relationship: accumulated warmth and emotional history between people, the whole texture of a bond.
         </div>
         <div class="examples">
           <div class="example">
@@ -739,7 +739,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">俚语 lǐyǔ · Colloquial Slang</span>
-          <strong>对…不感冒</strong> duì… bù gǎnmào = "not into / not interested in." 我对这种音乐不感冒 = "I'm not into this kind of music." A vivid metaphorical extension — worth memorizing.
+          <strong>对…不感冒</strong> duì… bù gǎnmào = "not into / not interested in." 我对这种音乐不感冒 = "I'm not into this kind of music." A vivid metaphorical extension worth memorizing.
         </div>
       </div>
 
@@ -752,7 +752,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-vn">V/N 动名词</span></div>
         <div class="card-def">
-          感 gǎn + 悟 wù (to awaken; enlightenment — the word for Buddhist <em>satori</em>). Insight that comes not from reasoning alone but from <em>experience touching the heart.</em> Deeper than knowledge.
+          感 gǎn + 悟 wù (to awaken; enlightenment; the word for Buddhist <em>satori</em>). Insight that comes from <em>experience touching the heart.</em> Deeper than knowledge.
         </div>
         <div class="examples">
           <div class="example">
@@ -860,8 +860,8 @@ content_sources:
     <!-- RETENTION IMAGE -->
     <div class="scholar" data-glyph="感" style="margin-top:2.5rem;">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>Imagine 感 gǎn as a <strong>tuning fork pressed against the heart.</strong> When something real strikes it — a kindness, a piece of music, a pathogen, a homecoming — the fork vibrates and the heart resonates. The upper element 咸 (universal, reaching all) tells you the vibration can travel anywhere: upward into gratitude 感恩, outward into others 感染, inward into insight 感悟, dissolving into bittersweet sighs 感慨. Every 感-word is a different shape that resonance takes.</p>
-      <p>In Japanese: 感じる <em>kanjiru</em> — the same tuning fork, the same heart.</p>
+      <p>Imagine 感 gǎn as a <strong>tuning fork pressed against the heart.</strong> When something real strikes it — a kindness, a piece of music, a pathogen, a homecoming — the fork vibrates and the heart resonates. The upper element 咸 (universal, reaching all) tells you the vibration can travel anywhere: upward into gratitude 感恩, outward into others 感染, inward into insight 感悟, dissolving into bittersweet sighs 感慨.</p>
+      <p>In Japanese: 感じる <em>kanjiru</em>. The same tuning fork, the same heart.</p>
     </div>
 
     
