@@ -70,7 +70,7 @@ content_sources:
       <span class="topic-hero-eyebrow">Vocabulary · 词汇 cíhuì</span>
       <h1 class="topic-hero-title">江山</h1>
       <span class="topic-hero-title-py">jiāng shān</span>
-      <p class="topic-hero-desc">Rivers and mountains — the classical Chinese word for the nation. Not a territory defined by law, but a landscape defined by water and stone; not a bureaucratic state, but a living geography that dynasties were born, bled, and spent to possess.</p>
+      <p class="topic-hero-desc">Rivers and mountains — the classical Chinese word for the nation, defined by water and stone rather than law, and by the living geography that dynasties were born, bled, and spent to possess.</p>
     </header>
 
     <!-- ── ETYMOLOGY ── -->
