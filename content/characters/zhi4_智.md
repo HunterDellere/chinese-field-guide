@@ -3,8 +3,8 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '智 · wisdom, moral intelligence'
-desc: 'The Confucian virtue of knowing what is right to do — and, separately, the Buddhist prajñā that sees through the nature of things altogether.'
-metaDesc: "智 zhì: wisdom, moral intelligence, discernment. One of the Five Confucian Constants, formed from 知 (to know) + 日 (sun/day) — knowledge made bright, tested by time."
+desc: 'The Confucian virtue of knowing what is right to do; separately, the Buddhist prajñā that sees through the nature of things altogether.'
+metaDesc: "智 zhì: wisdom, moral intelligence, discernment. One of the Five Confucian Constants, formed from 知 (to know) + 日 (sun/day): knowledge made bright, tested by time."
 pageTitle: '智 zhì'
 tags:
   - 'confucianism'
@@ -94,10 +94,10 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="智">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p>智 is composed of <strong>知 zhī</strong> (to know; knowledge — itself composed of 矢 shǐ, arrow, + 口 kǒu, mouth: the arrow-fast utterance, knowledge that arrives directly and precisely) over <strong>日 rì</strong> (sun; day). The standard analysis: knowledge (知) illuminated by the sun (日). The alternative reading: knowledge that has been tested by days, that has proved itself over time. Both readings converge on the same quality — not the quick flash of recognition but the sustained brightness of understanding that holds up in daylight.</p>
+      <p>智 is composed of <strong>知 zhī</strong> (to know; knowledge, itself 矢 shǐ arrow + 口 kǒu mouth: the arrow-fast utterance, knowledge that arrives directly and precisely) over <strong>日 rì</strong> (sun; day). The standard analysis: knowledge (知) illuminated by the sun (日). The alternative reading: knowledge that has been tested by days, that has proved itself over time. Both readings converge on the same quality: the sustained brightness of understanding that holds up in daylight, not the quick flash of recognition.</p>
       <p>The 知 component deserves attention on its own. An arrow (矢) released from a mouth (口): the oracle-bone interpretation is that 知 depicts the spoken knowledge that flies like an arrow — fast, direct, impossible to call back once spoken. To know something, in this visual logic, is to have it arrive with the force and precision of an arrow. 智 takes that arrow-knowledge and places it under the sun: wisdom is what knowing looks like when it is fully illuminated, when its accuracy can be confirmed in full light.</p>
-      <p>In everyday speech, 智 alone is formal and somewhat classical. The ordinary word for wisdom is <strong>智慧 zhìhuì</strong> (knowledge + benefit; the light of knowing that helps). 智 appears prolifically in compounds — 智力 (intellectual power), 智商 (IQ), 人工智能 (artificial intelligence) — but rarely stands alone in conversation. This is a clue to its register: 智 belongs to the elevated, reflective domain, not the conversational one.</p>
-      <p>One important contrast that the character itself does not make explicit: the Confucian 智 is moral discernment — the capacity to know what is right in a given situation. The Buddhist 般若 (bōrě, Sanskrit prajñā) is a different kind of knowing: not knowing what to do but seeing through the constructed nature of phenomena itself — the wisdom that perceives emptiness (空 kōng). Both traditions value wisdom as the highest cognitive virtue; neither would confuse the other's version with their own.</p>
+      <p>In everyday speech, 智 alone is formal and somewhat classical. The ordinary word for wisdom is <strong>智慧 zhìhuì</strong> (knowledge + benefit; the light of knowing that helps). 智 appears prolifically in compounds: 智力 (intellectual power), 智商 (IQ), 人工智能 (artificial intelligence). It rarely stands alone in conversation, which signals its register: elevated, reflective, examined rather than casual.</p>
+      <p>One important contrast that the character itself does not make explicit: the Confucian 智 is moral discernment, the capacity to know what is right in a given situation. The Buddhist 般若 (bōrě, Sanskrit prajñā) is a different kind of knowing: seeing through the constructed nature of phenomena itself, the wisdom that perceives emptiness (空 kōng) rather than knowing what to do within the world. Both traditions call this wisdom; neither would confuse the other's version with their own.</p>
     </div>
 
     <!-- ── WISDOM CLUSTER ── -->
@@ -154,7 +154,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          才 cái (talent; natural ability — the character shows a seedling breaking through the earth, raw capacity before cultivation) + 智 zhì (wisdom; discernment). The pairing of natural gift with cultivated understanding. 才智过人 cáizhì guòrén = talent and wisdom surpassing others. 施展才智 shīzhǎn cáizhì = to deploy one's abilities and wisdom. The compound appears frequently in classical and literary contexts as praise — not just bright but also wise with it.
+          才 cái (talent; natural ability — the character shows a seedling breaking through the earth, raw capacity before cultivation) + 智 zhì (wisdom; discernment). The pairing of natural gift with cultivated understanding. 才智过人 cáizhì guòrén = talent and wisdom surpassing others. 施展才智 shīzhǎn cáizhì = to deploy one's abilities and wisdom. The compound appears frequently in classical and literary contexts as praise for someone bright and wise together.
         </div>
         <div class="examples">
           <div class="example">
@@ -184,7 +184,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-adj">Adj 形容词 xíngróngcí</span></div>
         <div class="card-def">
-          机 jī (opportunity; mechanism; key moment — originally a trigger mechanism on a crossbow, the precisely timed release point) + 智 zhì (intelligence; discernment). Wisdom that activates at the right moment: the quick intelligence that reads a situation instantly and responds with precision. The compound names a more dynamic quality than 智慧 — not the accumulated wisdom of long reflection but the sharp situational intelligence of the person who knows exactly what to do right now.
+          机 jī (opportunity; mechanism; key moment — originally a trigger mechanism on a crossbow, the precisely timed release point) + 智 zhì (intelligence; discernment). Wisdom that activates at the right moment: the quick intelligence that reads a situation instantly and responds with precision. The compound names a more dynamic quality than 智慧: the sharp situational intelligence of the person who knows exactly what to do right now, rather than the accumulated wisdom of long reflection.
         </div>
         <div class="examples">
           <div class="example">
@@ -227,7 +227,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          智 zhì (wisdom; intellect) + 力 lì (power; force; strength). Intelligence as a measurable force — the mental capacity that can be applied, trained, and compared. 智力测试 zhìlì cèshì = intelligence test. 智力开发 zhìlì kāifā = intellectual development (especially of children). 体力 tǐlì (physical strength) and 智力 zhìlì (mental strength) are explicitly parallel compounds, framing mind and body as two kinds of force. The compound is more clinical and quantifiable in feel than 智慧.
+          智 zhì (wisdom; intellect) + 力 lì (power; force; strength). Intelligence framed as a measurable force: the mental capacity that can be applied, trained, and compared. 智力测试 zhìlì cèshì = intelligence test. 智力开发 zhìlì kāifā = intellectual development (especially of children). 体力 tǐlì (physical strength) and 智力 zhìlì (mental strength) are explicitly parallel compounds, framing mind and body as two kinds of force. The compound is more clinical and quantifiable in feel than 智慧.
         </div>
         <div class="examples">
           <div class="example">
@@ -257,7 +257,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          智 zhì (intelligence) + 商 shāng (quotient — in mathematics, the result of division; also: commerce, suggesting calculation). The Chinese translation of "intelligence quotient," literally the "wisdom quotient." In casual modern speech, 智商 has expanded well beyond the psychometric original: 智商高 (high IQ) = smart; 智商税 zhìshāng shuì (literally "IQ tax") = the money spent on things only gullible people buy — a sharp slang term for being fooled by marketing. Also used humorously: 这操作智商欠费 (this move shows your IQ is overdue for payment — i.e., that was dumb).
+          智 zhì (intelligence) + 商 shāng (quotient — in mathematics, the result of division; also: commerce, suggesting calculation). The Chinese translation of "intelligence quotient," literally the "wisdom quotient." In casual modern speech, 智商 has expanded well beyond the psychometric original: 智商高 (high IQ) = smart; 智商税 zhìshāng shuì (literally "IQ tax") = the money spent on things only gullible people buy (a sharp slang term for being fooled by marketing). Also used humorously: 这操作智商欠费 (this move shows your IQ is overdue for payment; i.e., that was dumb).
         </div>
         <div class="examples">
           <div class="example">
@@ -321,9 +321,9 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="智">
       <div class="scholar-label">哲学洞见 zhéxué dòngjiàn · Philosophical Insight</div>
-      <p>The Five Constants (五常 wǔcháng) are: <strong><a href="../vocab/ren2_仁.html">仁 rén</a></strong> (humaneness), <strong><a href="yi4_义.html">义 yì</a></strong> (righteousness), <strong><a href="li3_礼.html">礼 lǐ</a></strong> (ritual propriety), <strong>智 zhì</strong> (wisdom), <strong><a href="xin4_信.html">信 xìn</a></strong> (trustworthiness). In the Confucian system, 智 is moral intelligence: the capacity to discern what is right in a specific situation. It is not abstract reasoning but practical wisdom — what Aristotle called phronesis, and what Confucius expected of the 君子 who must navigate real circumstances rather than apply rules mechanically.</p>
-      <p>Mencius (孟子) identified 智 as rooted in the capacity for shame: 羞恶之心，义之端也 (the sense of shame and aversion to evil is the beginning of 义), and separately, 是非之心，智之端也 (the sense of right and wrong is the beginning of 智). The moral capacity to recognize that something is wrong — to feel the pull of 是非 — is not merely intellectual. It has its roots in the same affective moral nature as 仁. Without 智, the other virtues are blind: a person may feel genuine 仁 (care) and genuine 义 (desire to do right), but without the discernment that 智 provides, they may act wrongly regardless.</p>
-      <p>The Buddhist contrast is worth noting. 智 in the Confucian sense is about discernment within the social-moral world: knowing what to do, how to respond, what a situation requires. Buddhist prajñā (般若 bōrě) aims at something more radical: the perception that no fixed self is doing the knowing, that phenomena lack intrinsic existence. Confucian 智 makes you a better moral agent within the world; prajñā, in the Buddhist understanding, liberates you from the very structures that make moral agency seem necessary. These are not competing definitions of the same thing — they are two different conceptions of what wisdom is for.</p>
+      <p>The Five Constants (五常 wǔcháng) are: <strong><a href="../vocab/ren2_仁.html">仁 rén</a></strong> (humaneness), <strong><a href="yi4_义.html">义 yì</a></strong> (righteousness), <strong><a href="li3_礼.html">礼 lǐ</a></strong> (ritual propriety), <strong>智 zhì</strong> (wisdom), <strong><a href="xin4_信.html">信 xìn</a></strong> (trustworthiness). In the Confucian system, 智 is moral intelligence: the capacity to discern what is right in a specific situation. This is practical wisdom (what Aristotle called phronesis), the kind Confucius expected of the 君子 who must navigate real circumstances rather than apply rules mechanically.</p>
+      <p>Mencius (孟子) identified 智 as rooted in the capacity for shame: 羞恶之心，义之端也 (the sense of shame and aversion to evil is the beginning of 义), and separately, 是非之心，智之端也 (the sense of right and wrong is the beginning of 智). The moral capacity to recognize that something is wrong, to feel the pull of 是非, is not merely intellectual. It has its roots in the same affective moral nature as 仁. Without 智, the other virtues are blind: a person may feel genuine 仁 (care) and genuine 义 (desire to do right), but without the discernment that 智 provides, they may act wrongly regardless.</p>
+      <p>The Buddhist contrast is worth noting. 智 in the Confucian sense is about discernment within the social-moral world: knowing what to do, how to respond, what a situation requires. Buddhist prajñā (般若 bōrě) aims at something more radical: the perception that no fixed self is doing the knowing, that phenomena lack intrinsic existence. Confucian 智 makes you a better moral agent within the world; prajñā, in the Buddhist understanding, liberates you from the very structures that make moral agency seem necessary. They are two different conceptions of what wisdom is for, and neither is a diluted version of the other.</p>
     </div>
 
     <div class="pattern">
@@ -351,21 +351,21 @@ content_review: 'pending'
         <span class="cy-cn">足智多谋</span>
         <span class="cy-py">zú zhì duō móu</span>
         <span class="cy-en">full of wisdom and many stratagems — highly resourceful and clever</span>
-        <span class="cy-note">足 zú (sufficient; full of) + 智 zhì (wisdom; intelligence) + 多 duō (many; much) + 谋 móu (stratagem; scheme; counsel — 谋 contains 言, speech, over 某, a certain person, suggesting deliberate planning). The ideal military or political advisor: not just smart but strategically inventive — always with another plan. Appears frequently in descriptions of historical and fictional military figures (Zhuge Liang 诸葛亮, Sun Bin 孙膑). Used in modern contexts to praise anyone who navigates a complex situation with creative solutions.</span>
+        <span class="cy-note">足 zú (sufficient; full of) + 智 zhì (wisdom; intelligence) + 多 duō (many; much) + 谋 móu (stratagem; scheme; counsel; 谋 contains 言, speech, over 某, a certain person, suggesting deliberate planning). The ideal military or political advisor: smart and strategically inventive, always with another plan. Appears frequently in descriptions of historical and fictional military figures (Zhuge Liang 诸葛亮, Sun Bin 孙膑). Used in modern contexts to praise anyone who navigates a complex situation with creative solutions.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">智者千虑，必有一失</span>
         <span class="cy-py">zhì zhě qiān lǜ, bì yǒu yī shī</span>
         <span class="cy-en">even a wise person's thousand deliberations will have one mistake</span>
-        <span class="cy-note">From the Shiji (史记, Records of the Grand Historian), the strategist Li Zuoche (李左车) speaking to Han Xin: "The wise person's thousand deliberations will have one mistake; the fool's thousand deliberations will have one success." Often quoted in its truncated form 智者千虑，必有一失 as a reminder that no one is infallible — especially those who are usually very right. The companion phrase 愚者千虑，必有一得 (the fool's thousand considerations, at least one will hit) frames it as a balanced observation rather than mere humility.</span>
+        <span class="cy-note">From the Shiji (史记, Records of the Grand Historian), the strategist Li Zuoche (李左车) speaking to Han Xin: "The wise person's thousand deliberations will have one mistake; the fool's thousand deliberations will have one success." Often quoted in its truncated form 智者千虑，必有一失 as a reminder that no one is infallible, and that this applies above all to those who are usually very right. The companion phrase 愚者千虑，必有一得 (the fool's thousand considerations, at least one will hit) frames it as a balanced observation rather than mere humility.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">急中生智</span>
         <span class="cy-py">jí zhōng shēng zhì</span>
         <span class="cy-en">wisdom born from urgency — a bright idea in a crisis; thinking fast under pressure</span>
-        <span class="cy-note">急 jí (urgent; pressed; crisis) + 中 zhōng (within; in the midst of) + 生 shēng (to be born; to arise) + 智 zhì (wisdom; clever idea). The intelligence that surfaces specifically when there is no time to think — the flash of insight that saves a situation. The phrase does not valorize panic; it names a real cognitive phenomenon: that pressure can crystallize clarity. Used to praise someone who found a way out of a tight spot with a sudden clever move.</span>
+        <span class="cy-note">急 jí (urgent; pressed; crisis) + 中 zhōng (within; in the midst of) + 生 shēng (to be born; to arise) + 智 zhì (wisdom; clever idea). The intelligence that surfaces specifically when there is no time to think: the flash of insight that saves a situation. The phrase does not valorize panic; it names a real cognitive phenomenon, that pressure can crystallize clarity. Used to praise someone who found a way out of a tight spot with a sudden clever move.</span>
       </div>
 
     </div>
@@ -397,9 +397,9 @@ content_review: 'pending'
     <!-- RETENTION IMAGE -->
     <div class="scholar" data-glyph="智">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>An arrow released from a mouth, and above it: the sun. The bottom half of 智 is 知 — the arrow of knowing, knowledge that arrives precisely and cannot be called back. The sun placed above it is not decoration. It is the test: does the knowledge hold up in full light? Wisdom is not the quick arrow alone. It is the arrow that still hits its mark at noon, when nothing is hidden.</p>
+      <p>An arrow released from a mouth, and above it: the sun. The bottom half of 智 is 知, the arrow of knowing, knowledge that arrives precisely and cannot be called back. The sun placed above it is not decoration. It is the test: does the knowledge hold up in full light? Wisdom is not the quick arrow alone. It is the arrow that still hits its mark at noon, when nothing is hidden.</p>
       <p>The Confucian 智 and the Buddhist 般若 are two different suns. The Confucian sun illuminates the social-moral world: the complexity of a situation, the right response to a human being, the distinction between what is correct and what merely seems so. The Buddhist sun reveals something more unsettling: that the archer, the arrow, and the target all lack the fixed existence the ordinary mind takes for granted. Both kinds of illumination deserve the word "wisdom." Neither is a substitute for the other.</p>
-      <p>For the learner: 智慧 in daily speech, 智 in compounds — 智力 (intellectual force), 智商 (the quotient of intelligence), 人工智能 (the intelligence that humans have made). The sun over the arrow tells you the register: elevated, reflective, examined in the light. When 智 appears, something is being evaluated seriously, not just described.</p>
+      <p>For the learner: 智慧 in daily speech, 智 in compounds (智力, intellectual force; 智商, the quotient of intelligence; 人工智能, the intelligence that humans have made). The sun over the arrow tells you the register: elevated, reflective, examined in the light. When 智 appears, something is being evaluated seriously, not just described.</p>
     </div>
 
     <footer class="page-footer">
