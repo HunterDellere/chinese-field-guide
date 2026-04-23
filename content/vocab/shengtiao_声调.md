@@ -50,7 +50,7 @@ content_sources:
     <div class="scholar" data-glyph="声">
       <div class="scholar-label">语音学 yǔyīnxué · Phonology</div>
       <p>In English, pitch conveys emotion or sentence structure: a rising pitch at the end of a sentence signals a question. The pitch carries attitude, not meaning. Change the pitch of "cat" and it's still a cat, just said with surprise or boredom.</p>
-      <p>In Mandarin, pitch is <em>lexical</em> — it distinguishes words. The syllable <strong>mā</strong> (high level pitch) means mother. The same syllable <strong>mǎ</strong> (dipping pitch) means horse. Nothing about the consonant or vowel changes; only the contour of pitch. This is a tone language: tone is part of the word, not an overlay on it.</p>
+      <p>In Mandarin, pitch is <em>lexical</em>: it distinguishes words. The syllable <strong>mā</strong> (high level pitch) means mother. The same syllable <strong>mǎ</strong> (dipping pitch) means horse. Nothing about the consonant or vowel changes; only the contour of pitch. This is a tone language: tone is part of the word, not an overlay on it.</p>
       <p>Mandarin has four primary tones plus a neutral tone. Every syllable in Mandarin has an assigned tone, and that tone is part of its pronunciation. In writing, tones are marked in pinyin with diacritic marks above vowels. On this site, tone numbers (1–4) appear after pinyin in headers: dào = dào (4th tone).</p>
     </div>
 
@@ -77,7 +77,7 @@ content_sources:
         <div class="card-hanzi">第三声 ˇ</div>
         <div class="card-pinyin">dì sān shēng · Tone 3</div>
         <div class="card-en">Dipping — falls low, then rises (in isolation); falls and stays low (in speech)</div>
-        <div class="card-note">The "full" third tone dips and rises like a valley. In connected speech before most syllables, it only falls — the rise is swallowed. Marked ǎ ě ǐ ǒ ǔ. Example: 马 mǎ (horse), 好 hǎo (good), 水 shuǐ (water).</div>
+        <div class="card-note">The "full" third tone dips and rises like a valley. In connected speech before most syllables, it only falls; the rise is swallowed. Marked ǎ ě ǐ ǒ ǔ. Example: 马 mǎ (horse), 好 hǎo (good), 水 shuǐ (water).</div>
       </div>
 
       <div class="card c-red">
@@ -93,7 +93,7 @@ content_sources:
       <div class="scholar-label">声调对比 shēngdiào duìbǐ · Classic Minimal Set</div>
       <p>The syllable <strong>ma</strong> across all four tones demonstrates how a single pronunciation diverges into four separate words:</p>
       <p><strong>妈 mā</strong> (tone 1) — mother · <strong>麻 má</strong> (tone 2) — hemp; numb; surname · <strong>马 mǎ</strong> (tone 3) — horse · <strong>骂 mà</strong> (tone 4) — to scold, curse</p>
-      <p>The classic learning verse uses this set: 妈麻马骂 — "Mother scolds the horse for being numb." Every Mandarin learner encounters this sentence within their first week.</p>
+      <p>The classic learning verse uses this set: 妈麻马骂, loosely "Mother scolds the horse for being numb." Every Mandarin learner encounters this sentence within their first week.</p>
     </div>
 
     <span class="section-anchor" id="neutral"></span>
@@ -101,9 +101,9 @@ content_sources:
 
     <div class="scholar" data-glyph="轻">
       <div class="scholar-label">轻声 qīng shēng · Neutral / Unstressed Tone</div>
-      <p>Mandarin has a fifth tonal category called the <strong>neutral tone</strong> (轻声 qīng shēng, "light tone") or <strong>zeroth tone</strong>. Neutral-tone syllables are short, unstressed, and their pitch is determined by the preceding syllable rather than by any inherent contour. They carry no diacritic in pinyin — the vowel is unmarked.</p>
+      <p>Mandarin has a fifth tonal category called the <strong>neutral tone</strong> (轻声 qīng shēng, "light tone") or <strong>zeroth tone</strong>. Neutral-tone syllables are short, unstressed, and their pitch is determined by the preceding syllable rather than by any inherent contour. They carry no diacritic in pinyin; the vowel is unmarked.</p>
       <p>The neutral tone appears in: grammatical particles (吗 ma, 呢 ne, 吧 ba, 啊 a), repeated syllables in nouns (妈妈 māma, 爸爸 bàba), and certain suffixes (们 men, 子 zi, 头 tou). The second syllable loses its full tone and becomes a brief, colorless sound.</p>
-      <p>Not all speakers neutralize the same syllables. Southern Mandarin varieties often preserve the full tone where Beijing Mandarin would neutralize it — this is one of the clearest regional markers in Mandarin speech.</p>
+      <p>Not all speakers neutralize the same syllables. Southern Mandarin varieties often preserve the full tone where Beijing Mandarin would neutralize it, and this is one of the clearest regional markers in Mandarin speech.</p>
     </div>
 
     <span class="section-anchor" id="sandhi"></span>
@@ -165,7 +165,7 @@ content_sources:
         <div class="card-hanzi">四声</div>
         <div class="card-pinyin">sì shēng</div>
         <div class="card-en">the four tones</div>
-        <div class="card-note">The collective term. Classical Chinese also had a 四声 system but with different categories (平上去入) — not identical to modern Mandarin tones.</div>
+        <div class="card-note">The collective term. Classical Chinese also had a 四声 system but with different categories (平上去入), not identical to modern Mandarin tones.</div>
       </div>
 
       <div class="card c-teal">
@@ -193,7 +193,7 @@ content_sources:
         <div class="card-hanzi">阳平</div>
         <div class="card-pinyin">yáng píng</div>
         <div class="card-en">second tone (classical name)</div>
-        <div class="card-note">Traditional name for tone 2. 阴平/阳平 (yin/yang level tones), 上声 (rising), 去声 (departing) — the four tones by classical names.</div>
+        <div class="card-note">Traditional name for tone 2. 阴平/阳平 (yin/yang level tones), 上声 (rising), 去声 (departing): the four tones by classical names.</div>
       </div>
 
     </div>
