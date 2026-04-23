@@ -104,9 +104,9 @@ content_sources:
 
     <div class="scholar" data-glyph="时">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p>时 is a <strong>phono-semantic compound</strong>: 日 rì (sun — the semantic component: the sun moves, time passes) combined with 寺 sì (phonetic approximation of the original Old Chinese pronunciation; 寺 also carries associations of regular, measured, institutionally governed activity — temples mark time with bells). The traditional form 時 preserves this structure identically, with 日 on top and 寺 below. The simplification to 时 compresses 寺 to 寸 cùn (inch; a small measure), which makes the etymology even more legible: sun + small measure = time as something parceled out by the sun's movement.</p>
-      <p>The semantic logic is direct: the sun is the original clock. Its arc across the sky divides the day into measurable intervals. 时 is not raw duration or formless eternity — it is time that has been divided, sequenced, and can be reckoned. This distinguishes 时 clearly from 天 tiān (sky, heaven, undifferentiated day), which gestures toward the whole canopy of existence. 时 is specific: a slot, a period, a turn.</p>
-      <p>In the classical texts, 时 carries moral weight that modern usage has partially lost. Confucius opened the Analects with 时: 学而时习之，不亦说乎 — "To learn and to practice it at the right times, is that not a pleasure?" The word 时 here means not just "sometimes" but "at the fitting moment" — which is its deepest classical meaning. The person who acts in accordance with the right time is, in Confucian ethics, a person of judgment. 时 is also one of the defining virtues attributed to Confucius in Mencius: 圣之时者也 — "the sage of timeliness." To be 时 — to be responsive to the moment — is the highest form of wisdom.</p>
+      <p>时 is a <strong>phono-semantic compound</strong>: 日 rì (sun, the semantic component: the sun moves, time passes) combined with 寺 sì (phonetic approximation of the original Old Chinese pronunciation; 寺 also carries associations of regular, measured, institutionally governed activity, as temples mark time with bells). The traditional form 時 preserves this structure identically, with 日 on top and 寺 below. The simplification to 时 compresses 寺 to 寸 cùn (inch; a small measure), which makes the etymology even more legible: sun + small measure = time as something parceled out by the sun's movement.</p>
+      <p>The semantic logic is direct: the sun is the original clock. Its arc across the sky divides the day into measurable intervals. 时 is time that has been divided, sequenced, and reckoned, which distinguishes it from 天 tiān (sky, heaven, undifferentiated day), which gestures toward the whole canopy of existence. 时 is specific: a slot, a period, a turn.</p>
+      <p>In the classical texts, 时 carries moral weight that modern usage has partially lost. Confucius opened the Analects with 时: 学而时习之，不亦说乎 ("To learn and to practice it at the right times, is that not a pleasure?"). The word 时 here means "at the fitting moment," its deepest classical meaning. The person who acts in accordance with the right time is, in Confucian ethics, a person of judgment. Mencius counts 时 among the defining virtues of Confucius himself: 圣之时者也 ("the sage of timeliness"). Being 时, responsive to the moment, is the highest form of wisdom.</p>
     </div>
 
     <!-- ── THREE REGISTERS ── -->
@@ -129,7 +129,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          This is the distinction that trips learners earliest. <strong>时间 shíjiān</strong> (时 time + 间 interval, between) is time as an abstract dimension or measurable span — the stuff of which there is never enough. <strong>时候 shíhòu</strong> (时 time + 候 a season, a period of waiting) is a point or period of time anchored to a particular event or condition — it answers the question "when?" and typically follows 的 or a subordinate clause.
+          This is the distinction that trips learners earliest. <strong>时间 shíjiān</strong> (时 time + 间 interval, between) is time as an abstract dimension or measurable span, the stuff of which there is never enough. <strong>时候 shíhòu</strong> (时 time + 候 a season, a period of waiting) is a point or period of time anchored to a particular event or condition; it answers the question "when?" and typically follows 的 or a subordinate clause.
         </div>
         <div class="examples">
           <div class="example">
@@ -163,7 +163,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          时 shí (time) + 代 dài (generation; to substitute; a dynasty). Time organized into named historical chapters — each 时代 has a distinct character that shaped the people who lived through it. Used both in academic history (汉朝时代, the Han era) and in broader cultural comment (网络时代, the internet age). The word carries a sense of collective belonging: you are marked by your 时代 in ways you cannot fully choose.
+          时 shí (time) + 代 dài (generation; to substitute; a dynasty). Time organized into named historical chapters, each 时代 with a distinct character that shaped the people who lived through it. Used both in academic history (汉朝时代, the Han era) and in broader cultural comment (网络时代, the internet age). The word carries a sense of collective belonging: you are marked by your 时代 in ways you cannot fully choose.
         </div>
         <div class="examples">
           <div class="example">
@@ -197,7 +197,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          时 shí (time) + 机 jī (machine; pivot; crucial moment; opportunity). This is the Confucian classical meaning of 时 made into a compound: not just any moment, but the moment that is ripe, when conditions align. 时机 is strategic time — the narrowing window before it closes. The word belongs to the vocabulary of decisions, investment, military thinking, and competitive planning.
+          时 shí (time) + 机 jī (machine; pivot; crucial moment; opportunity). 时机 is the Confucian classical meaning of 时 made into a compound: the moment that is ripe, when conditions align. It is strategic time, the narrowing window before it closes. The word belongs to the vocabulary of decisions, investment, military thinking, and competitive planning.
         </div>
         <div class="examples">
           <div class="example">
@@ -218,7 +218,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">辨析 biànxī · 时机 vs 机会</span>
-          机会 jīhuì (opportunity) is broader — any opening. 时机 is specifically about timing — the same opportunity exists, but only 时机 asks whether this is the right moment to act. You might have the 机会 to invest for years; the question is whether the 时机 is correct today.
+          机会 jīhuì (opportunity) is broader, meaning any opening. 时机 is specifically about timing: the same opportunity exists, but only 时机 asks whether this is the right moment to act. You might have the 机会 to invest for years; the question is whether the 时机 is correct today.
         </div>
       </div>
 
@@ -278,7 +278,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          Chinese divides the day into named bands anchored to 午 wǔ (noon, the moment of solar culmination — itself a 日-radical character). Everything before 午 is 上午 (above noon); everything after is 下午 (below noon). 早上 zǎoshang (early morning, roughly wake-up through 9am) and 晚上 wǎnshang (evening) are the bookends. 中午 zhōngwǔ is midday itself. 凌晨 língchén is the small hours before dawn.
+          Chinese divides the day into named bands anchored to 午 wǔ (noon, the moment of solar culmination, itself a 日-radical character). Everything before 午 is 上午 (above noon); everything after is 下午 (below noon). 早上 zǎoshang (early morning, roughly wake-up through 9am) and 晚上 wǎnshang (evening) are the bookends. 中午 zhōngwǔ is midday itself. 凌晨 língchén is the small hours before dawn.
         </div>
         <div class="examples">
           <div class="example">
@@ -299,7 +299,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">辨析 biànxī · 早上 vs 上午</span>
-          早上 = the early morning (waking through roughly 9am) — casual, sensory, tied to rising and breakfast. 上午 = the full forenoon (roughly 9am–noon) — scheduling language, more neutral. In greetings, 早上好 is early; after about 9am, switch to 上午好 in formal contexts or just say 你好.
+          早上 = the early morning (waking through roughly 9am), casual and sensory, tied to rising and breakfast. 上午 = the full forenoon (roughly 9am–noon), scheduling language and more neutral. In greetings, 早上好 is early; after about 9am, switch to 上午好 in formal contexts or just say 你好.
         </div>
       </div>
 
@@ -312,7 +312,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          小 xiǎo (small) + 时 shí (time). An hour is literally "a small unit of time" — 时 here carries its classical meaning of a defined interval. The character 时 once referred to the twelve two-hour 时辰 shíchen of the traditional day; when the Western sixty-minute hour was adopted, it became 小时 ("a small 时") to distinguish it from the older, larger divisions. 小时 is the standard modern word for a clock hour as duration. Do not confuse with 时间 (time as a resource) or 钟头 zhōngtóu (hour — colloquial synonym for 小时).
+          小 xiǎo (small) + 时 shí (time). An hour is literally "a small unit of time"; 时 here carries its classical meaning of a defined interval. The character 时 once referred to the twelve two-hour 时辰 shíchen of the traditional day; when the Western sixty-minute hour was adopted, it became 小时 ("a small 时") to distinguish it from the older, larger divisions. 小时 is the standard modern word for a clock hour as duration. Do not confuse with 时间 (time as a resource) or 钟头 zhōngtóu (hour, colloquial synonym for 小时).
         </div>
         <div class="examples">
           <div class="example">
@@ -422,9 +422,9 @@ content_sources:
     <!-- RETENTION -->
     <div class="scholar" data-glyph="时">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>Six brushstrokes — a sun over a measured space. The simplest possible account of what time is: the sun moving across a regulated interval. 时 does not mean the infinite river of time; it means time as it is actually experienced by human beings — cut into portions, made legible, made usable.</p>
-      <p>The classical weight of 时 is inseparable from the Chinese vocabulary of right action. Mencius called Confucius 圣之时者 — the sage of timeliness — which is a stranger compliment than it appears in translation. It means that Confucius could read the situation and act when the moment required action, stop when it required silence, and leave when it required departure. 时 is not just clock-time or historical time; it is the perceptual skill of registering where you are in the flow of events and responding correctly. This is why 时机 (the right moment) and 及时 (getting there in time) carry urgency, and why 临时 (temporary) and 有时 (sometimes) carry impermanence — 时 is always the moment relative to the person who must act in it.</p>
-      <p>时 is also the first temporal character most learners encounter at the deepest level of confusion: 时间 or 时候? The answer the grammar books give is true but incomplete. 时间 is time as stuff — quantifiable, expendable, something you have or don't have. 时候 is time as occasion — a moment anchored to an event, inseparable from what happens in it. The distinction matters because the Chinese conception of time runs through both channels: time as resource (always scarce) and time as season (always specific). 时 holds both.</p>
+      <p>Six brushstrokes: a sun over a measured space. 时 is time as it is actually experienced by human beings, cut into portions, made legible, made usable. The infinite river of time belongs to other words; 时 is the portion you must act within.</p>
+      <p>Mencius called Confucius 圣之时者 ("the sage of timeliness"), a stranger compliment than it appears in translation. It means that Confucius could read the situation and act when the moment required action, stop when it required silence, and leave when it required departure. 时 is the perceptual skill of registering where you are in the flow of events and responding correctly. This is why 时机 (the right moment) and 及时 (getting there in time) carry urgency, and why 临时 (temporary) and 有时 (sometimes) carry impermanence: 时 is always the moment relative to the person who must act in it.</p>
+      <p>时 is also the first temporal character most learners encounter at the deepest level of confusion: 时间 or 时候? The grammar books' answer is true but incomplete. 时间 is time as stuff, quantifiable and expendable, something you have or don't have. 时候 is time as occasion, a moment anchored to an event, inseparable from what happens in it. The Chinese conception of time runs through both channels: time as resource (always scarce) and time as season (always specific). 时 holds both.</p>
     </div>
 
   </main>
