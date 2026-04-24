@@ -4,7 +4,7 @@ category: 'daily'
 status: 'complete'
 content_review: 'pending'
 title: '敬酒 · Toasting Culture'
-desc: 'The Chinese toast is not a punctuation mark at the end of a speech — it is a social instrument with its own grammar, hierarchy, and rules of engagement.'
+desc: 'The Chinese toast is a social instrument with its own grammar, hierarchy, and rules of engagement — not a punctuation mark at the end of a speech.'
 metaDesc: "敬酒 jìngjiǔ: toasting culture in China — the structure of a formal toast, holding your cup lower than your superior, the pressure to drink, how to decline without losing face, and regional variation."
 pageTitle: '敬酒 Toasting Culture'
 tags:
@@ -60,7 +60,7 @@ pinyin: 'jìngjiǔ'
       <span class="topic-hero-eyebrow">Everyday Life · 日常 rìcháng</span>
       <h1 class="topic-hero-title">敬酒</h1>
       <span class="topic-hero-title-py">jìngjiǔ</span>
-      <p class="topic-hero-desc">The Chinese toast is not a punctuation mark at the end of a speech — it is a social instrument with its own grammar, hierarchy, and rules of engagement.</p>
+      <p class="topic-hero-desc">The Chinese toast is a social instrument with its own grammar, hierarchy, and rules of engagement — not a punctuation mark at the end of a speech.</p>
     </header>
 
     <span class="section-anchor" id="structure"></span>
