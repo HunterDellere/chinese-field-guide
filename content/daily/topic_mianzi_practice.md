@@ -4,7 +4,7 @@ category: 'daily'
 status: 'complete'
 content_review: 'pending'
 title: '面子实践 · Face in Practice'
-desc: 'Face in Chinese social life is not an attitude — it is a recurring set of transactions with specific mechanics: how face is given, taken, lost, and preserved in concrete situations.'
+desc: 'Face in Chinese social life is a recurring set of transactions with specific mechanics: how face is given, taken, lost, and preserved in concrete situations.'
 metaDesc: "面子实践 miànzi shíjiàn: face in practice — giving face, losing face, saving face, the 里子 vs 面子 split, and the specific moments where Western directness costs someone face."
 pageTitle: '面子实践 Face in Practice'
 tags:
@@ -64,7 +64,7 @@ pinyin: 'miànzi shíjiàn'
       <span class="topic-hero-eyebrow">Everyday Life · 日常 rìcháng</span>
       <h1 class="topic-hero-title">面子实践</h1>
       <span class="topic-hero-title-py">miànzi shíjiàn</span>
-      <p class="topic-hero-desc">Face in Chinese social life is not an attitude — it is a recurring set of transactions with specific mechanics: how face is given, taken, lost, and preserved in concrete situations.</p>
+      <p class="topic-hero-desc">Face in Chinese social life is a recurring set of transactions with specific mechanics: how face is given, taken, lost, and preserved in concrete situations.</p>
     </header>
 
     <div class="scholar" data-glyph="面">
