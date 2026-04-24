@@ -88,7 +88,7 @@ pinyin: 'xìngmíng'
       <h2 class="section-head">Given Names · 名字 míngzi</h2>
       <div class="scholar" data-glyph="字">
         <div class="scholar-label">意义 yìyì · Meaning and Aspiration</div>
-        <p>Chinese given names are chosen for their meaning, their sound, and their visual appearance as characters. The choice is not casual — parents often consult family elders, classical texts, almanacs, or professional name-givers (<strong>起名师</strong> qǐmíng shī) who assess the name's tonal balance, the stroke count of its characters, and its compatibility with the child's birth date according to the Five Phases theory.</p>
+        <p>Chinese given names are chosen for their meaning, their sound, and their visual appearance as characters. Parents often consult family elders, classical texts, almanacs, or professional name-givers (<strong>起名师</strong> qǐmíng shī) who assess the name's tonal balance, the stroke count of its characters, and its compatibility with the child's birth date according to the Five Phases theory.</p>
         <p>Common semantic fields for given names: virtue (德 dé, 仁 rén, 义 yì), nature (山 shān, 海 hǎi, 云 yún), aspiration (志 zhì, 强 qiáng), beauty (美 měi, 丽 lì, 华 huá). Generational fashions are legible: names with 红 (hóng, red) or 国 (guó, nation) cluster in the 1950s–70s Maoist generation; names with 伟 (wěi, great) peak around 1967 (the Cultural Revolution); names with 欣 (xīn, joyful) or 涵 (hán, encompassing) are 2000s births.</p>
         <p>The same character can read very differently depending on pairing: 明 (míng, bright) combined with 亮 (liàng, light) makes 明亮 (bright), while 明 combined with 智 (zhì, wisdom) reads as "bright wisdom." Parents assemble the name as a small poem.</p>
       </div>
