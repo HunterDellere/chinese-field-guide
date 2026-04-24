@@ -60,7 +60,7 @@ content_sources:
         <div class="scholar-label">刘向 Liú Xiàng · 1st century BCE</div>
         <p>Lord Ye (叶公, Yègōng) was a nobleman who was utterly devoted to dragons. His halls were painted with dragon murals. His clothing was embroidered with dragons. Dragon carvings decorated every beam and pillar. He spoke about dragons constantly and was known throughout the region as the man who loved dragons above all things.</p>
         <p>The Heaven Dragon heard of Lord Ye's devotion and was moved to visit him in person. The dragon descended from the clouds and thrust its head through the window, its tail coiling through the doorway. At the sight of the real dragon, Lord Ye turned white with terror and fled, trembling, unable to stop shaking.</p>
-        <p>The story appears in <strong>刘向</strong> (Liú Xiàng)'s <em>新序</em> (Xīn Xù, "New Arrangements"), a Han dynasty collection of moral anecdotes. Its point is precise: Lord Ye's love was for the idea of dragons — their beauty, their power, their symbolic meaning — not for actual dragons in their living, terrifying reality. What he loved was the representation, and he was unprepared for the thing itself.</p>
+        <p>The story appears in <strong>刘向</strong> (Liú Xiàng)'s <em>新序</em> (Xīn Xù, "New Arrangements"), a Han dynasty collection of moral anecdotes. Its point is precise: Lord Ye's love was for the idea of dragons (their beauty, their power, their symbolic meaning), not for actual dragons in their living, terrifying reality. What he loved was the representation, and he was unprepared for the thing itself.</p>
       </div>
 
 
@@ -69,7 +69,7 @@ content_sources:
       <div class="cards">
         <div class="card c-red">
           <div class="card-head">Loving what you fear in reality</div>
-          <p>The idiom describes someone who professes enthusiasm for something but reveals, when faced with the real thing, that they never wanted actual contact with it. It is a mild insult — pointed, but not vicious. The implication is self-deception rather than dishonesty: Lord Ye probably believed he loved dragons.</p>
+          <p>The idiom describes someone who professes enthusiasm for something but reveals, when faced with the real thing, that they never wanted actual contact with it. It is a mild insult, pointed but not vicious. The implication is self-deception rather than dishonesty: Lord Ye probably believed he loved dragons.</p>
         </div>
         <div class="card c-ochre">
           <div class="card-head">Applied examples</div>
@@ -87,19 +87,19 @@ content_sources:
       <div class="cards">
         <div class="card c-ochre">
           <div class="card-head">叶 Yè</div>
-          <p>Here a surname (Lord Ye), but the character normally means "leaf" — the leaf of a tree. The name Ye is read with a falling tone (fourth) as a surname; as "leaf" it is usually second tone. The semantic disconnect — a leaf-named lord who loves dragons — has its own quiet irony.</p>
+          <p>Here a surname (Lord Ye), but the character normally means "leaf," the leaf of a tree. The name Ye is read with a falling tone (fourth) as a surname; as "leaf" it is usually second tone. A leaf-named lord who loves dragons: the semantic disconnect has its own quiet irony.</p>
         </div>
         <div class="card c-ochre">
           <div class="card-head">公 gōng</div>
-          <p>Duke, lord, honorific for older men. 叶公 is "Lord Ye," a title indicating nobility. The same character appears in 公司 (company), 公共 (public), 先生 (older: 公). The aristocratic frame makes the cowardice more pointed — he's not some common man, but a lord.</p>
+          <p>Duke, lord, honorific for older men. 叶公 is "Lord Ye," a title indicating nobility. The same character appears in 公司 (company), 公共 (public), 先生 (older: 公). The aristocratic frame sharpens the cowardice: this is a lord, not some common man.</p>
         </div>
         <div class="card c-teal">
           <div class="card-head">好 hào</div>
-          <p>To love, to be fond of — the fourth-tone reading of 好, distinct from the third-tone reading (hǎo, "good"). 好学 (hào xué, to love learning) vs. 好 (hǎo, good). The fourth-tone reading marks an active preference or passion, not just a positive judgment.</p>
+          <p>To love, to be fond of. The fourth-tone reading of 好, distinct from the third-tone reading (hǎo, "good"): 好学 (hào xué, to love learning) vs. 好 (hǎo, good). The fourth-tone reading marks an active preference or passion, not just a positive judgment.</p>
         </div>
         <div class="card c-teal">
           <div class="card-head">龙 lóng</div>
-          <p>Dragon — the Chinese dragon, quite different from its Western counterpart. The Chinese dragon (龙) is a benevolent, water-controlling celestial creature associated with imperial power, rain, and good fortune. Lord Ye's dragon obsession is therefore not a Gothic eccentricity but a prestigious passion — all the more ironic when the real thing arrives.</p>
+          <p>Dragon. The Chinese dragon (龙) is a benevolent, water-controlling celestial creature associated with imperial power, rain, and good fortune, quite different from its Western counterpart. Lord Ye's dragon obsession was therefore a prestigious passion, all the more ironic when the real thing arrived.</p>
         </div>
       </div>
 
