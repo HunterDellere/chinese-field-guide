@@ -4,7 +4,7 @@ category: 'daily'
 status: 'complete'
 content_review: 'pending'
 title: '红白喜事 · Weddings & Funerals'
-desc: 'The phrase itself tells the story: red and white, marriage and death, both require the same thing — the whole community showing up.'
+desc: 'The phrase tells the story: red and white, marriage and death, both require the whole community to show up.'
 metaDesc: "红白喜事 hóngbái xǐshì: weddings and funerals in Chinese culture — the six rites, the red sedan chair, betrothal gifts, mourning customs, ghost money, and why both occasions are called joyful events."
 pageTitle: '红白喜事 Weddings & Funerals'
 tags:
@@ -61,7 +61,7 @@ pinyin: 'hóngbái xǐshì'
       <span class="topic-hero-eyebrow">Everyday Life · 日常 rìcháng</span>
       <h1 class="topic-hero-title">红白喜事</h1>
       <span class="topic-hero-title-py">hóngbái xǐshì</span>
-      <p class="topic-hero-desc">The phrase itself tells the story: red and white, marriage and death, both require the same thing — the whole community showing up.</p>
+      <p class="topic-hero-desc">The phrase tells the story: red and white, marriage and death, both require the whole community to show up.</p>
     </header>
 
     <span class="section-anchor" id="phrase"></span>
