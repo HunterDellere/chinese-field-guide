@@ -4,7 +4,7 @@ category: 'culinary'
 status: 'complete'
 content_review: 'pending'
 title: '黄茶 · Yellow Tea'
-desc: 'The rarest of the six categories — like green tea but mellowed by a slow smothering step that removes the raw edge and creates a silky, sweet cup.'
+desc: 'The rarest of the six categories: like green tea, but mellowed by a slow smothering step that removes the raw edge and creates a silky, sweet cup.'
 metaDesc: "黄茶 huángchá: Chinese yellow tea — the men huang smothering process, Junshan Yinzhen, Mengding Huangya, Huoshan Huangya, and why this category is vanishing."
 pageTitle: '黄茶 · Yellow Tea'
 tags:
@@ -56,7 +56,7 @@ related:
       <span class="topic-hero-eyebrow">Culinary · 饮食 yǐnshí</span>
       <h1 class="topic-hero-title">黄茶</h1>
       <span class="topic-hero-title-py">huáng chá</span>
-      <p class="topic-hero-desc">The rarest of the six categories — like green tea but mellowed by a slow smothering step that removes the raw edge and creates a silky, sweet cup.</p>
+      <p class="topic-hero-desc">The rarest of the six categories: like green tea, but mellowed by a slow smothering step that removes the raw edge and creates a silky, sweet cup.</p>
     </header>
 
     <span class="section-anchor" id="processing"></span>
@@ -109,7 +109,7 @@ related:
       <div class="scholar-label">濒危工艺 · An Endangered Craft</div>
       <p>Yellow tea is, by every market measure, the least-consumed and least-known of the six categories — a position that creates a vicious cycle. Because there is little consumer demand, producers who might otherwise make yellow tea instead make green tea from the same leaves, which is faster, easier, better understood by buyers, and equally or more profitable. Because less yellow tea is produced, fewer people encounter it, consumer knowledge does not develop, and demand remains low. This dynamic has been accelerating since the mid-twentieth century.</p>
       <p>The deeper problem is the 闷黄 step itself. Unlike the other five tea categories, where a skilled but inexperienced processor can follow a clear procedure (fire the leaf for X minutes at Y temperature; wither for Z hours), yellow tea's defining step resists codification. The knowledge of when the 闷黄 is complete lives in the nose and fingers of experienced masters, and it is not being transmitted at scale. Several production areas that were once known for yellow tea — parts of Anhui and Zhejiang — have effectively ceased producing it. What is sold as "yellow tea" in some markets is, on inspection, simply lightly processed green tea.</p>
-      <p>The teas that remain are worth seeking. Genuine Junshan Yinzhen, Mengding Huangya, and Huoshan Huangya represent a flavor profile that no other category reproduces: the mellow, rounded sweetness of a tea that has passed through heat and time without acquiring any bitterness or astringency. For a tea master, yellow tea is a reminder that quality is often inversely proportional to visibility.</p>
+      <p>The teas that remain are worth seeking. Genuine Junshan Yinzhen, Mengding Huangya, and Huoshan Huangya represent a flavor profile that no other category reproduces: the mellow, rounded sweetness of a tea that has passed through heat and time without acquiring any bitterness or astringency. Pick up a glass of Junshan Yinzhen, watch the needles stand, sink, and rise again, and it is immediately clear what the world is losing.</p>
     </div>
 
     <span class="section-anchor" id="vocab"></span>
