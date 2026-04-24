@@ -140,16 +140,16 @@ stages:
       <span class="topic-hero-eyebrow">Hubs · 门户 ménhù</span>
       <h1 class="topic-hero-title">六大茶类</h1>
       <span class="topic-hero-title-py">liù dà chá lèi</span>
-      <p class="topic-hero-desc">Chinese tea is a single leaf — <em>Camellia sinensis</em> — transformed six different ways by oxidation and processing. This path walks the full spectrum, from fresh-green to aged-dark, then turns to ceremony and craft.</p>
+      <p class="topic-hero-desc">Chinese tea is a single leaf, <em>Camellia sinensis</em>, transformed six different ways by oxidation and processing. This path walks the full spectrum, from fresh-green to aged-dark, then turns to ceremony and craft.</p>
     </header>
 
     <span class="section-anchor" id="overview"></span>
     <div class="section-head"><h2>The Six Classes</h2></div>
     <div class="scholar" data-glyph="茶">
       <div class="scholar-label">六大茶类 · liù dà chá lèi</div>
-      <p>China's tea taxonomy is built on one variable: how much oxygen the leaf is allowed to touch before heat stops the process. At one pole sits green tea (no oxidation); at the other, fully-oxidised black tea. In between come white, yellow, oolong, and dark teas. Post-fermented dark teas — including 普洱 Pǔ'ěr — form a class of their own, aged rather than simply dried.</p>
+      <p>China's tea taxonomy is built on one variable: how much oxygen the leaf is allowed to touch before heat stops the process. At one pole sits green tea (no oxidation); at the other, fully-oxidised black tea. In between come white, yellow, oolong, and dark teas. Post-fermented dark teas (including 普洱 Pǔ'ěr) form a class of their own, aged rather than simply dried.</p>
       <p>Herbal tisanes (花草茶 huācǎo chá) fall outside the six-class system entirely: they use no tea leaf, so they carry no caffeine and no place on the oxidation ladder.</p>
-      <p>The character 茶 itself arrived late in the written record. Before the Tang dynasty standardised the single graph and the single reading, tea was written 荼 (tú) — the same character used for a bitter herb. The Tang poet Lu Yu's <em>Chajing</em> (茶经, Classic of Tea) fixed both the character and the culture around 760 CE, and the Tang court's adoption of tea as a taxable commodity of state turned a regional drink into a civilisational institution. Tea moved from medicine to elite beverage to ceremony to export commodity in roughly that order, each phase leaving vocabulary and practice the next phase built on.</p>
+      <p>The character 茶 itself arrived late in the written record. Before the Tang dynasty standardised the single graph and the single reading, tea was written 荼 (tú), the same character used for a bitter herb. The Tang poet Lu Yu's <em>Chajing</em> (茶经, Classic of Tea) fixed both the character and the culture around 760 CE, and the Tang court's adoption of tea as a taxable commodity of state turned a regional drink into a civilisational institution. Tea moved from medicine to elite beverage to ceremony to export commodity in roughly that order, each phase leaving vocabulary and practice the next phase built on.</p>
     </div>
 
     <span class="section-anchor" id="path"></span>
@@ -158,10 +158,10 @@ stages:
     <div class="section-head"><h2>How to Use This in Daily Life</h2></div>
     <div class="pattern">
       <span class="label">日常应用 · rìcháng yìngyòng — practical takeaways</span>
-      <p><strong>Ordering tea in Chinese.</strong> The six-class taxonomy is the vocabulary of any tea menu or shop. Green (绿 lǜ), white (白 bái), yellow (黄 huáng), oolong (乌龙 wūlóng), black/red (红 hóng), dark (黑 hēi) — knowing these six words means you can navigate any tea shop in China without guessing.</p>
-      <p><strong>Understanding the temperature logic.</strong> Each class has a different optimal water temperature: green and white teas are easily scalded (70–80°C); oolongs and blacks prefer near-boiling water; aged dark teas need full-boiling water to open up. This is not ceremony for its own sake — it is the plant's chemistry expressing itself.</p>
+      <p><strong>Ordering tea in Chinese.</strong> The six-class taxonomy is the vocabulary of any tea menu or shop. Green (绿 lǜ), white (白 bái), yellow (黄 huáng), oolong (乌龙 wūlóng), black/red (红 hóng), dark (黑 hēi): knowing these six words means you can navigate any tea shop in China without guessing.</p>
+      <p><strong>Understanding the temperature logic.</strong> Each class has a different optimal water temperature: green and white teas are easily scalded (70–80°C); oolongs and blacks prefer near-boiling water; aged dark teas need full-boiling water to open up. This is not ceremony for its own sake; it is the plant's chemistry expressing itself.</p>
       <p><strong>What 工夫 means.</strong> 工夫茶 (gōngfu chá) is often romanised as "gongfu tea" and confused with martial arts (功夫 gōngfu). The characters are different: 工夫 means time, effort, and craft applied to a task. Gongfu tea is simply tea made with enough attention that preparation itself becomes the practice.</p>
-      <p><strong>Pu-erh as a long game.</strong> 普洱 Pǔ'ěr cakes are among the few foods that improve with age in the way fine wine does — and for similar reasons: controlled oxidation over time. A well-stored cake from the 1990s is a different drink from a young cake. This makes Pu-erh a collectible as much as a beverage, with corresponding market dynamics.</p>
+      <p><strong>Pu-erh as a long game.</strong> 普洱 Pǔ'ěr cakes are among the few foods that improve with age the way fine wine does, and for similar reasons: controlled oxidation over time. A well-stored cake from the 1990s is a different drink from a young cake. This makes Pu-erh a collectible as much as a beverage, with corresponding market dynamics.</p>
     </div>
 
     <span class="section-anchor" id="also"></span>
@@ -169,7 +169,7 @@ stages:
     <div class="scholar" data-glyph="茶">
       <div class="scholar-label">延伸阅读 · yánshēn yuèdú — companion hubs &amp; references</div>
       <p><strong>Companion hubs on this site:</strong> The <a href="zhexue.html">哲学 — Philosophy hub</a> provides the Daoist undercurrent in tea culture: the concept of 道 in 茶道 is the same 道 that Laozi put at the centre of his cosmology. The <a href="zhongyi.html">中医 — Medicine hub</a> explains why many teas are classified by temperature and flavour properties: the classification system is identical to the one used for medicinal herbs.</p>
-      <p><strong>Primary texts:</strong> Lu Yu's <em>Chajing</em> (茶经, Classic of Tea, c. 760 CE) is the founding text of Chinese tea culture — available in Francis Ross Carpenter's English translation. For contemporary context, James Norwood Pratt's <em>New Tea Lover's Treasury</em> remains a useful bridge between the Chinese taxonomy and Western consumption habits.</p>
+      <p><strong>Primary texts:</strong> Lu Yu's <em>Chajing</em> (茶经, Classic of Tea, c. 760 CE) is the founding text of Chinese tea culture, available in Francis Ross Carpenter's English translation. For contemporary context, James Norwood Pratt's <em>New Tea Lover's Treasury</em> remains a useful bridge between the Chinese taxonomy and Western consumption habits.</p>
       <p><strong>Practical reference:</strong> The Tea Guardian (teaguardian.com) has the most rigorous English-language reference material on the six-class taxonomy, processing methods, and regional variations, grounded in Chinese-language sources.</p>
     </div>
 
