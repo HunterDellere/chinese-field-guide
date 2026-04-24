@@ -95,7 +95,7 @@ pinyin: 'rújiā'
 
     <div class="scholar" data-glyph="仁">
       <div class="scholar-label">概念洞见 gàiniàn dòngjiàn · Conceptual Insight</div>
-      <p>The Five Constants 五常 wǔcháng are the five virtues that Confucian thinkers, codified most fully by Dong Zhongshu in the Han, identified as the fundamental moral dispositions that a fully cultivated human being should embody. They are not commandments from above but descriptions of what proper human nature, when developed rather than obstructed, naturally tends toward. Mencius (372–289 BCE) argued that the seeds of all five are innate — we are born with the capacity for them; education and ritual practice draw them out.</p>
+      <p>The Five Constants 五常 wǔcháng are the five virtues that Confucian thinkers, codified most fully by Dong Zhongshu in the Han, identified as the fundamental moral dispositions of a fully cultivated human being. They describe what proper human nature naturally tends toward when developed rather than obstructed. Mencius (372–289 BCE) argued that the seeds of all five are innate — we are born with the capacity for them; education and ritual practice draw them out.</p>
       <p>The sequence 仁义礼智信 is standard. 仁 rén is primary — Confucius used it over 100 times in the Analects and never gave a single definition, because it is the master virtue from which all others flow. The five together constitute what it means to be a 君子 jūnzǐ — a person of moral excellence, often translated "gentleman" but more precisely "exemplary person."</p>
     </div>
 
