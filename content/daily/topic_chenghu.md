@@ -60,7 +60,7 @@ pinyin: 'chēnghu'
       <span class="topic-hero-eyebrow">Everyday Life · 日常 rìcháng</span>
       <h1 class="topic-hero-title">称呼</h1>
       <span class="topic-hero-title-py">chēnghu</span>
-      <p class="topic-hero-desc">In Chinese, how you address someone is not a formality — it is a precise statement of how you understand the relationship between you.</p>
+      <p class="topic-hero-desc">In Chinese, how you address someone is a precise statement of how you understand the relationship between you.</p>
     </header>
 
     <span class="section-anchor" id="family"></span>
