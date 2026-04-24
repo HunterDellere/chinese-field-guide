@@ -67,7 +67,7 @@ pinyin: 'mínjiān xìnyǎng'
       <span class="topic-hero-eyebrow">Religion · 宗教 zōngjiào</span>
       <h1 class="topic-hero-title">民间信仰</h1>
       <span class="topic-hero-title-py">mínjiān xìnyǎng</span>
-      <p class="topic-hero-desc">Chinese folk religion is not a single institution but a living, diffuse practice woven from Confucian ethics, Daoist cosmology, Buddhist karma, and ancient animism — the spiritual air that most Chinese people breathe without calling it a religion at all.</p>
+      <p class="topic-hero-desc">Chinese folk religion is not a single institution but a living, diffuse practice woven from Confucian ethics, Daoist cosmology, Buddhist karma, and ancient animism: the spiritual air that most Chinese people breathe without calling it a religion at all.</p>
     </header>
 
     <!-- ── OVERVIEW ── -->
@@ -81,8 +81,8 @@ pinyin: 'mínjiān xìnyǎng'
 
     <div class="scholar" data-glyph="民">
       <div class="scholar-label">学者洞见 xuézhě dòngjiàn · Scholarly Insight</div>
-      <p>The sociologist C.K. Yang (杨庆堃), writing in the 1960s, made a foundational distinction between <strong>institutional religion</strong> (机构性宗教 jīgòuxìng zōngjiào) — organized systems with clergy, theology, and exclusive membership — and <strong>diffuse religion</strong> (分散性宗教 fēnsànxìng zōngjiào), which is embedded in everyday social life, not separated from it. Buddhism and Christianity are institutional; Chinese folk religion is quintessentially diffuse.</p>
-      <p>This explains why most Chinese people, when asked their religion, say <strong>没有信仰</strong> méiyǒu xìnyǎng (no religion) — and yet burn incense at a temple on the first of every lunar month, hang a door god before the new year, avoid the number four, and set out food for their ancestors at Qingming. These are not contradictions. They are diffuse religion: belief woven so completely into the fabric of family, community, and calendar that it is experienced simply as <em>life</em>, not religion.</p>
+      <p>The sociologist C.K. Yang (杨庆堃), writing in the 1960s, made a foundational distinction between <strong>institutional religion</strong> (机构性宗教 jīgòuxìng zōngjiào, organized systems with clergy, theology, and exclusive membership) and <strong>diffuse religion</strong> (分散性宗教 fēnsànxìng zōngjiào), which is embedded in everyday social life, not separated from it. Buddhism and Christianity are institutional; Chinese folk religion is quintessentially diffuse.</p>
+      <p>This explains why most Chinese people, when asked their religion, say <strong>没有信仰</strong> méiyǒu xìnyǎng (no religion), and yet burn incense at a temple on the first of every lunar month, hang a door god before the new year, avoid the number four, and set out food for their ancestors at Qingming. These are not contradictions. They are diffuse religion: belief woven so completely into the fabric of family, community, and calendar that it is experienced simply as <em>life</em>, not religion.</p>
       <p>Folk religion (民间信仰 or 民间宗教 mínjiān zōngjiào) draws simultaneously from <strong>Confucianism</strong> (moral obligations between family members, living and dead), <strong>Daoism</strong> (cosmological forces, auspicious timing, the pantheon of immortals), <strong>Buddhism</strong> (karma, reincarnation, merit accumulation), and pre-literate <strong>animism</strong> (spirits inhabiting mountains, rivers, and local places). The result is a layered, pragmatic, and highly localized religious ecology with no founding text, no universal creed, and no central authority.</p>
     </div>
 
@@ -97,8 +97,8 @@ pinyin: 'mínjiān xìnyǎng'
 
     <div class="scholar" data-glyph="神">
       <div class="scholar-label">学者洞见 xuézhě dòngjiàn · Bureaucratic Heaven</div>
-      <p>One of the most distinctive features of Chinese folk religion is that the spirit world mirrors the <strong>imperial bureaucracy</strong>. Gods hold <em>ranks</em> (品级 pǐnjí), receive annual performance reports (奏折 zòuzhé), and can be <strong>promoted or demoted</strong> by the Jade Emperor based on their performance. If a local earth god fails to prevent floods in his territory, worshippers may literally reprimand his statue or turn it face-to-the-wall — a divine demotion.</p>
-      <p>This bureaucratic logic shaped how people interacted with the divine: through petition, offering, and reciprocal obligation. You burn incense and present gifts; the god is obligated to help. The transaction is explicit. As the anthropologist Arthur Wolf noted, the Chinese relate to gods much as to officials — through gifts, flattery, and strategic appeals, not prostrate submission.</p>
+      <p>One of the most distinctive features of Chinese folk religion is that the spirit world mirrors the <strong>imperial bureaucracy</strong>. Gods hold <em>ranks</em> (品级 pǐnjí), receive annual performance reports (奏折 zòuzhé), and can be <strong>promoted or demoted</strong> by the Jade Emperor based on their performance. If a local earth god fails to prevent floods in his territory, worshippers may literally reprimand his statue or turn it face-to-the-wall, a form of divine demotion.</p>
+      <p>This bureaucratic logic shaped how people interacted with the divine: through petition, offering, and reciprocal obligation. You burn incense and present gifts; the god is obligated to help. The transaction is explicit. As the anthropologist Arthur Wolf noted, the Chinese relate to gods much as to officials: through gifts, flattery, and strategic appeals, not prostrate submission.</p>
       <p>The pantheon is vast and regionally variable. Below the Jade Emperor stretch layers of celestial officials, regional deities, and the hyper-local gods of individual households. Every kitchen has a 灶神, every village a 土地公, every city a 城隍. This nested hierarchy of divine jurisdiction allowed ordinary people to navigate spiritual bureaucracy through the same channels they used for earthly bureaucracy.</p>
     </div>
 
@@ -111,7 +111,7 @@ pinyin: 'mínjiān xìnyǎng'
           <span class="card-en">the Jade Emperor — supreme deity of the folk pantheon</span>
         </div>
         <div class="card-def">
-          The Jade Emperor is the supreme ruler of Heaven in Chinese folk religion, governing both the divine and human realms from his celestial palace. His court mirrors a full imperial bureaucracy: he has ministers, generals, and a vast apparatus of supernatural governance. His birthday falls on the ninth day of the first lunar month — a major day of celebration, especially in southern China and Taiwan.
+          The Jade Emperor is the supreme ruler of Heaven in Chinese folk religion, governing both the divine and human realms from his celestial palace. His court mirrors a full imperial bureaucracy: he has ministers, generals, and a vast apparatus of supernatural governance. His birthday falls on the ninth day of the first lunar month, a major day of celebration especially in southern China and Taiwan.
         </div>
         <div class="examples">
           <div class="example">
@@ -122,7 +122,7 @@ pinyin: 'mínjiān xìnyǎng'
         </div>
         <div class="note">
           <span class="note-label">文化 wénhuà · Culture</span>
-          In popular fiction — Journey to the West (西游记 Xīyóujì) chief among them — the Jade Emperor is famously depicted as an ineffectual bureaucrat, more interested in propriety than power, easily fooled by the Monkey King. This irreverent portrayal reflects a folk tradition of ambivalence toward divine authority.
+          In popular fiction, Journey to the West (西游记 Xīyóujì) chief among it, the Jade Emperor is famously depicted as an ineffectual bureaucrat, more interested in propriety than power, easily fooled by the Monkey King. This irreverent portrayal reflects a folk tradition of ambivalence toward divine authority.
         </div>
       </div>
 
@@ -133,7 +133,7 @@ pinyin: 'mínjiān xìnyǎng'
           <span class="card-en">the Earth God — most local, most beloved deity</span>
         </div>
         <div class="card-def">
-          土地公 (also 土地神 Tǔdìshén, formally 福德正神 Fúdé Zhèngshén) is the deity of a specific patch of ground — a village, a neighborhood, a field, a shop. He is the lowest-ranking god in the celestial hierarchy and the most ubiquitous. His shrines are small, often just a stone slab or a red-roofed box at a road corner. In Taiwan he is found everywhere — in shops, under trees, beside bridges.
+          土地公 (also 土地神 Tǔdìshén, formally 福德正神 Fúdé Zhèngshén) is the deity of a specific patch of ground: a village, a neighborhood, a field, a shop. He is the lowest-ranking god in the celestial hierarchy and the most ubiquitous. His shrines are small, often just a stone slab or a red-roofed box at a road corner, found in Taiwan in shops, under trees, and beside bridges.
         </div>
         <div class="examples">
           <div class="example">
@@ -144,7 +144,7 @@ pinyin: 'mínjiān xìnyǎng'
         </div>
         <div class="note">
           <span class="note-label">学者洞见 xuézhě dòngjiàn</span>
-          The anthropologist Emily Martin Ahern described the Earth God as a divine neighborhood head (里长 lǐzhǎng). He reports on local affairs upward to the City God, who reports to higher celestial authorities — a complete divine chain of command paralleling the earthly administrative hierarchy.
+          The anthropologist Emily Martin Ahern described the Earth God as a divine neighborhood head (里长 lǐzhǎng). He reports on local affairs upward to the City God, who reports to higher celestial authorities, a complete divine chain of command paralleling the earthly administrative hierarchy.
         </div>
       </div>
 
@@ -155,7 +155,7 @@ pinyin: 'mínjiān xìnyǎng'
           <span class="card-en">the Kitchen God — divine household reporter</span>
         </div>
         <div class="card-def">
-          The Kitchen God (also 灶王 Zàowáng or 灶君 Zàojūn) resides in the kitchen and observes the family's behavior throughout the year. On the 23rd of the 12th lunar month — one week before the new year — he ascends to Heaven to make his annual report to the Jade Emperor. Families smear his paper portrait with sweet sticky maltose to sweeten his words, then burn the portrait to send him upward. On New Year's Eve, a new portrait is installed.
+          The Kitchen God (also 灶王 Zàowáng or 灶君 Zàojūn) resides in the kitchen and observes the family's behavior throughout the year. On the 23rd of the 12th lunar month (one week before the new year) he ascends to Heaven to make his annual report to the Jade Emperor. Families smear his paper portrait with sweet sticky maltose to sweeten his words, then burn the portrait to send him upward. On New Year's Eve, a new portrait is installed.
         </div>
         <div class="examples">
           <div class="example">
@@ -166,7 +166,7 @@ pinyin: 'mínjiān xìnyǎng'
         </div>
         <div class="note">
           <span class="note-label">词汇 cíhuì · Vocabulary</span>
-          The act of sending him off is 送灶 sòng zào. The "small new year" (小年 xiǎonián) refers to this day in northern China — a domestic new year festival preceding 春节 Chūnjié.
+          The act of sending him off is 送灶 sòng zào. The "small new year" (小年 xiǎonián) refers to this day in northern China, a domestic new year festival preceding 春节 Chūnjié.
         </div>
       </div>
 
@@ -177,7 +177,7 @@ pinyin: 'mínjiān xìnyǎng'
           <span class="card-en">the City God — divine magistrate of the underworld</span>
         </div>
         <div class="card-def">
-          城隍 (lit. "city wall and moat") is the divine magistrate of a city or county, presiding over both the living city and its deceased residents in the underworld. He holds court in his temple (城隍庙 Chénghuáng miào), trying the souls of the recently dead to assign their afterlife fate. Major Chinese cities — Shanghai, Beijing, Hangzhou — have famous City God Temples that remain active places of worship.
+          城隍 (lit. "city wall and moat") is the divine magistrate of a city or county, presiding over both the living city and its deceased residents in the underworld. He holds court in his temple (城隍庙 Chénghuáng miào), trying the souls of the recently dead to assign their afterlife fate. Major Chinese cities, including Shanghai, Beijing, and Hangzhou, have famous City God Temples that remain active places of worship.
         </div>
         <div class="examples">
           <div class="example">
@@ -195,7 +195,7 @@ pinyin: 'mínjiān xìnyǎng'
           <span class="card-en">the Wealth God — most actively invoked deity in commercial life</span>
         </div>
         <div class="card-def">
-          Cáishén is not one deity but a cluster of wealth-associated gods, the most popular being 赵公明 Zhào Gōngmíng (a dark-faced general riding a black tiger) and the Five Roads Gods (五路财神 Wǔlù Cáishén). His image greets visitors at the entrances of shops, restaurants, and banks across China. The fifth day of the new year is 财神节 — businesses reopen and set off firecrackers to welcome the Wealth God into their premises.
+          Cáishén is not one deity but a cluster of wealth-associated gods, the most popular being 赵公明 Zhào Gōngmíng (a dark-faced general riding a black tiger) and the Five Roads Gods (五路财神 Wǔlù Cáishén). His image greets visitors at the entrances of shops, restaurants, and banks across China. The fifth day of the new year is 财神节: businesses reopen and set off firecrackers to welcome the Wealth God into their premises.
         </div>
         <div class="examples">
           <div class="example">
@@ -206,7 +206,7 @@ pinyin: 'mínjiān xìnyǎng'
         </div>
         <div class="note">
           <span class="note-label">语言 yǔyán · Language</span>
-          恭喜发财 Gōngxǐ fācái ("May you prosper") is the standard lunar new year greeting — itself a miniature prayer to the Wealth God. The phrase 财源广进 cáiyuán guǎng jìn (fortune flows in from all directions) appears on new year couplets 春联 hung on doors.
+          恭喜发财 Gōngxǐ fācái ("May you prosper") is the standard lunar new year greeting, itself a miniature prayer to the Wealth God. The phrase 财源广进 cáiyuán guǎng jìn (fortune flows in from all directions) appears on new year couplets 春联 hung on doors.
         </div>
       </div>
 
@@ -253,7 +253,7 @@ pinyin: 'mínjiān xìnyǎng'
           <span class="card-en">Qingming — Tomb Sweeping</span>
         </div>
         <div class="card-def">
-          清明节 (Clear and Bright Festival), falling around April 4–6 of the solar calendar, is the annual day of tomb sweeping (扫墓 sǎomù). Families travel to ancestral graves, clear away weeds, pour libations, burn paper offerings, and share a meal at the grave site. It is a public holiday in mainland China, Taiwan, and Hong Kong. The act affirms the continuity of the family across death — you are responsible for your dead, and they in turn watch over you.
+          清明节 (Clear and Bright Festival), falling around April 4–6 of the solar calendar, is the annual day of tomb sweeping (扫墓 sǎomù). Families travel to ancestral graves, clear away weeds, pour libations, burn paper offerings, and share a meal at the grave site. It is a public holiday in mainland China, Taiwan, and Hong Kong. The act affirms the continuity of the family across death: you are responsible for your dead, and they in turn watch over you.
         </div>
         <div class="examples">
           <div class="example">
@@ -271,7 +271,7 @@ pinyin: 'mínjiān xìnyǎng'
           <span class="card-en">Ghost Festival — the Hungry Ghosts</span>
         </div>
         <div class="card-def">
-          中元节 falls on the 15th day of the 7th lunar month, the midpoint of 鬼月 (Ghost Month). According to folk belief, the gates of the underworld open on the 1st of the 7th month, releasing hungry ghosts (饿鬼 è guǐ) — souls with no family to care for them — into the world of the living. Families burn paper offerings, present food on street altars, and light incense to placate wandering spirits. Buddhist 盂兰盆节 Yúlánpén Jié traditions (derived from the Mulian story of filial rescue from hell) overlap with this festival.
+          中元节 falls on the 15th day of the 7th lunar month, the midpoint of 鬼月 (Ghost Month). According to folk belief, the gates of the underworld open on the 1st of the 7th month, releasing hungry ghosts (饿鬼 è guǐ, souls with no family to care for them) into the world of the living. Families burn paper offerings, present food on street altars, and light incense to placate wandering spirits. Buddhist 盂兰盆节 Yúlánpén Jié traditions (derived from the Mulian story of filial rescue from hell) overlap with this festival.
         </div>
         <div class="examples">
           <div class="example">
@@ -313,9 +313,9 @@ pinyin: 'mínjiān xìnyǎng'
 
     <div class="scholar" data-glyph="庙">
       <div class="scholar-label">学者洞见 xuézhě dòngjiàn · Three Kinds of Sacred Space</div>
-      <p>Chinese religious architecture distinguishes sharply between the three dominant traditions. A <strong>庙 miào</strong> (folk temple) houses the gods of folk religion — earth gods, city gods, Mazu, the goddess of mercy — and is the space of popular worship. A <strong>寺 sì</strong> (Buddhist temple) houses the Buddha and bodhisattvas and is typically staffed by monks. A <strong>观 guān</strong> (Daoist temple) is the domain of Daoist priests (道士 dàoshi) and the Daoist immortal pantheon.</p>
-      <p>In practice, the boundaries between these are often blurred. The same worshipper may kneel before Guanyin in a Buddhist temple one day and burn incense to Mazu in a folk temple the next. The Goddess of Mercy (观音菩萨 Guānyīn Púsà), technically a Buddhist bodhisattva, is the most widely worshipped deity across all three systems — her compassion transcends institutional boundaries.</p>
-      <p>The folk temple (庙) operates as a community center as much as a sacred space. Temple fairs (庙会 miàohuì) — held on a deity's birthday or major festival days — are occasions for markets, opera performances, processions, and feasting. The temple is where the divine community and the human community formally meet.</p>
+      <p>Chinese religious architecture distinguishes sharply between the three dominant traditions. A <strong>庙 miào</strong> (folk temple) houses the gods of folk religion (earth gods, city gods, Mazu, the goddess of mercy) and is the space of popular worship. A <strong>寺 sì</strong> (Buddhist temple) houses the Buddha and bodhisattvas and is typically staffed by monks. A <strong>观 guān</strong> (Daoist temple) is the domain of Daoist priests (道士 dàoshi) and the Daoist immortal pantheon.</p>
+      <p>In practice, the boundaries between these are often blurred. The same worshipper may kneel before Guanyin in a Buddhist temple one day and burn incense to Mazu in a folk temple the next. The Goddess of Mercy (观音菩萨 Guānyīn Púsà), technically a Buddhist bodhisattva, is the most widely worshipped deity across all three systems, her compassion transcending institutional boundaries.</p>
+      <p>The folk temple (庙) operates as a community center as much as a sacred space. Temple fairs (庙会 miàohuì), held on a deity's birthday or major festival days, are occasions for markets, opera performances, processions, and feasting. The temple is where the divine community and the human community formally meet.</p>
     </div>
 
     <div class="pattern">
@@ -350,7 +350,7 @@ pinyin: 'mínjiān xìnyǎng'
           <span class="card-en">temple fair — festival of community and gods</span>
         </div>
         <div class="card-def">
-          庙会 (temple fair, lit. "temple gathering") are among the oldest continuing community events in Chinese civilization. Major ones — like the Mazu pilgrimage in Dajia, Taiwan, or the Tianjin Tianhou Palace fair — attract tens or hundreds of thousands of participants. The fair combines sacred and secular: ritual procession, theater, commercial market, and communal feasting. The god's statue is often carried through the streets in a palanquin, blessing the territory.
+          庙会 (temple fair, lit. "temple gathering") are among the oldest continuing community events in Chinese civilization. Major ones, like the Mazu pilgrimage in Dajia, Taiwan, or the Tianjin Tianhou Palace fair, attract tens or hundreds of thousands of participants. The fair combines sacred and secular: ritual procession, theater, commercial market, and communal feasting. The god's statue is often carried through the streets in a palanquin, blessing the territory.
         </div>
         <div class="examples">
           <div class="example">
@@ -374,8 +374,8 @@ pinyin: 'mínjiān xìnyǎng'
 
     <div class="scholar" data-glyph="忌">
       <div class="scholar-label">学者洞见 xuézhě dòngjiàn · The Logic of Homophony</div>
-      <p>Much of Chinese folk symbolism operates through <strong>sound resemblance</strong> (谐音 xiéyīn — homophony). A thing is auspicious or inauspicious not because of intrinsic properties but because its name sounds like something good or bad. This produces a vast and internally consistent system of symbolic associations.</p>
-      <p>Four (四 sì) sounds like death (死 sǐ) — avoided in building floor numbers, hospital room assignments, license plates, and phone numbers. Eight (八 bā) sounds like 发 fā (to prosper, to get rich) — enormously auspicious; the Beijing Olympics opened on 08/08/2008 at 8:08 PM. Fish (鱼 yú) sounds like surplus (余 yú) — mandatory at New Year tables. Bats (蝠 fú) sound like fortune (福 fú) — auspicious symbols in art and decoration. The character 福 itself is often hung <em>upside down</em> on doors because "upside down" (倒 dào) sounds like "arrived" (到 dào) — Fortune Has Arrived.</p>
+      <p>Much of Chinese folk symbolism operates through <strong>sound resemblance</strong> (谐音 xiéyīn, homophony). A thing is auspicious or inauspicious not because of intrinsic properties but because its name sounds like something good or bad. This produces a vast and internally consistent system of symbolic associations.</p>
+      <p>Four (四 sì) sounds like death (死 sǐ), avoided in building floor numbers, hospital room assignments, license plates, and phone numbers. Eight (八 bā) sounds like 发 fā (to prosper, to get rich), enormously auspicious; the Beijing Olympics opened on 08/08/2008 at 8:08 PM. Fish (鱼 yú) sounds like surplus (余 yú), mandatory at New Year tables. Bats (蝠 fú) sound like fortune (福 fú), making them auspicious symbols in art and decoration. The character 福 itself is often hung <em>upside down</em> on doors because "upside down" (倒 dào) sounds like "arrived" (到 dào): Fortune Has Arrived.</p>
     </div>
 
     <div class="cards">
@@ -405,7 +405,7 @@ pinyin: 'mínjiān xìnyǎng'
           <span class="card-en">Color Symbolism</span>
         </div>
         <div class="card-def">
-          <strong>红 hóng (red)</strong> — the color of luck, celebration, life force. Worn at weddings, hung at new year, placed in red envelopes (红包 hóngbāo). <strong>白 bái (white)</strong> — the color of mourning; worn at funerals, avoided at celebrations. Note: this is the inverse of Western convention — Western white wedding dresses are jarring in traditional contexts. <strong>黑 hēi (black)</strong> — also mourning-associated. <strong>黄 huáng (yellow)</strong> — imperial, celestial. <strong>绿 lǜ (green)</strong> — generally positive; exception: a green hat (绿帽子 lǜ màozi) signals a cuckolded husband — never to be gifted.
+          <strong>红 hóng (red)</strong> — the color of luck, celebration, life force. Worn at weddings, hung at new year, placed in red envelopes (红包 hóngbāo). <strong>白 bái (white)</strong> — the color of mourning; worn at funerals, avoided at celebrations. Note: this is the inverse of Western convention; Western white wedding dresses are jarring in traditional contexts. <strong>黑 hēi (black)</strong> — also mourning-associated. <strong>黄 huáng (yellow)</strong> — imperial, celestial. <strong>绿 lǜ (green)</strong> — generally positive; exception: a green hat (绿帽子 lǜ màozi) signals a cuckolded husband, never to be gifted.
         </div>
         <div class="examples">
           <div class="example">
@@ -441,7 +441,7 @@ pinyin: 'mínjiān xìnyǎng'
           <span class="card-en">Directional Taboos — feng shui and orientation</span>
         </div>
         <div class="card-def">
-          Spatial orientation is governed by <strong>风水 fēngshuǐ</strong> (feng shui, lit. "wind-water") — the art of placing buildings, graves, and furniture to harmonize with the flow of qi 气. The main door of a house should not directly face a staircase, a toilet, or a knife-like corner of another building. The head of the bed should not point toward the door (corpse position). A desk facing a blank wall traps career advancement. Mirrors reflecting the bed disturb sleep qi. These orientations are taken seriously across class levels in contemporary China, Taiwan, and overseas communities.
+          Spatial orientation is governed by <strong>风水 fēngshuǐ</strong> (feng shui, lit. "wind-water"), the art of placing buildings, graves, and furniture to harmonize with the flow of qi 气. The main door of a house should not directly face a staircase, a toilet, or a knife-like corner of another building. The head of the bed should not point toward the door (corpse position). A desk facing a blank wall traps career advancement. Mirrors reflecting the bed disturb sleep qi. These orientations are taken seriously across class levels in contemporary China, Taiwan, and overseas communities.
         </div>
         <div class="examples">
           <div class="example">
@@ -465,9 +465,9 @@ pinyin: 'mínjiān xìnyǎng'
 
     <div class="scholar" data-glyph="信">
       <div class="scholar-label">当代视角 dāngdài shìjiǎo · Contemporary Perspective</div>
-      <p>The Cultural Revolution (文化大革命 Wénhuà Dàgémìng, 1966–1976) declared war on folk religion. Temples were destroyed, religious objects smashed, practitioners persecuted. The official designation <strong>封建迷信</strong> fēngjiàn míxìn (feudal superstition) was applied to virtually all traditional practice. Yet folk religion was never eradicated — it persisted in households, in the rhythm of the lunar calendar, in the habits of older generations.</p>
-      <p>Since the 1980s, with economic reform and relaxing of religious controls, there has been a <strong>remarkable revival</strong>. New temples have been built across China — hundreds of thousands by some estimates. The 土地公 shrine in the corner shop, the 灶神 portrait in the kitchen, the red envelope, the Qingming grave visit — all continue as before, or more openly than before.</p>
-      <p>Regional variation is enormous. <strong>Taiwan</strong> preserved folk religion through the 20th century in a way mainland China could not; its tradition is the richest surviving expression of Hokkien (Minnan 闽南) folk practice. <strong>Fujian</strong> and the coastal southeast — the homeland of most overseas Chinese — has experienced major religious revival. <strong>Southeast Asia</strong> (Malaysia, Singapore, Vietnam) hosts overseas Chinese communities whose folk religion has evolved in dialogue with local traditions for four centuries. <strong>Beijing and northern China</strong> have a somewhat different tradition, heavier with imperial-era associations.</p>
+      <p>The Cultural Revolution (文化大革命 Wénhuà Dàgémìng, 1966–1976) declared war on folk religion. Temples were destroyed, religious objects smashed, practitioners persecuted. The official designation <strong>封建迷信</strong> fēngjiàn míxìn (feudal superstition) was applied to virtually all traditional practice. Yet folk religion was never eradicated; it persisted in households, in the rhythm of the lunar calendar, in the habits of older generations.</p>
+      <p>Since the 1980s, with economic reform and relaxing of religious controls, there has been a <strong>remarkable revival</strong>. New temples have been built across China, hundreds of thousands by some estimates. The 土地公 shrine in the corner shop, the 灶神 portrait in the kitchen, the red envelope, the Qingming grave visit: all continue as before, or more openly than before.</p>
+      <p>Regional variation is enormous. <strong>Taiwan</strong> preserved folk religion through the 20th century in a way mainland China could not; its tradition is the richest surviving expression of Hokkien (Minnan 闽南) folk practice. <strong>Fujian</strong> and the coastal southeast, the homeland of most overseas Chinese, has experienced major religious revival. <strong>Southeast Asia</strong> (Malaysia, Singapore, Vietnam) hosts overseas Chinese communities whose folk religion has evolved in dialogue with local traditions for four centuries. <strong>Beijing and northern China</strong> have a somewhat different tradition, heavier with imperial-era associations.</p>
     </div>
 
     <div class="table-wrap">
