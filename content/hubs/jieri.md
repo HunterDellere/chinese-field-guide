@@ -117,9 +117,9 @@ stages:
     <div class="section-head"><h2>The Double Calendar</h2></div>
     <div class="scholar" data-glyph="节">
       <div class="scholar-label">双历 · shuāng lì · the two-track year</div>
-      <p>The Chinese calendar is a double helix: the lunar calendar (阴历 yīnlì) governs festivals and traditional life; the solar calendar (节气 jiéqì) tracks the 24 solar terms that govern farming, food, and the rhythms of the natural year. These two systems interweave through the year, producing a calendar dense with meaning — not just dates but obligations, foods, rituals, and stories.</p>
+      <p>The Chinese calendar is a double helix: the lunar calendar (阴历 yīnlì) governs festivals and traditional life; the solar calendar (节气 jiéqì) tracks the 24 solar terms that govern farming, food, and the rhythms of the natural year. These two systems interweave through the year, producing a calendar dense with meaning: dates, obligations, foods, rituals, and stories layered together.</p>
       <p>Every festival is a node where cosmology, family life, and history converge. The New Year brings the zodiac animal and the reunion dinner; Qingming brings the obligation of remembrance; Mid-Autumn brings the full moon and the mooncake. Underneath all of it, the 24 solar terms mark the body of the agricultural year with a precision that satellites have since confirmed but never displaced.</p>
-      <p>The lunar and solar systems interlock in a specific way: festivals like Spring Festival and Mid-Autumn are anchored to the lunar calendar and therefore shift relative to the Gregorian year by up to six weeks. Qingming is the exception — it falls on the 15th day after the spring equinox, a solar reckoning, which is why it always lands within a day or two of April 4–6. Understanding which festivals are lunar and which are solar is the first key to navigating the calendar without being caught off-guard by a date that moves every year.</p>
+      <p>The lunar and solar systems interlock in a specific way: festivals like Spring Festival and Mid-Autumn are anchored to the lunar calendar and therefore shift relative to the Gregorian year by up to six weeks. Qingming is the exception. It falls on the 15th day after the spring equinox, a solar reckoning, which is why it always lands within a day or two of April 4–6. Understanding which festivals are lunar and which are solar is the first key to navigating the calendar without being caught off-guard by a date that moves every year.</p>
     </div>
 
     <span class="section-anchor" id="path"></span>
@@ -129,16 +129,16 @@ stages:
     <div class="pattern">
       <span class="label">日常应用 · rìcháng yìngyòng — practical takeaways</span>
       <p><strong>Knowing what to say at each festival.</strong> Chinese festival greetings are highly specific and change with each occasion. 新年快乐 (xīn nián kuàilè, Happy New Year) is correct at Spring Festival but unusual at Mid-Autumn. The vocabulary entry for 春节 covers the full register of New Year greetings; each festival entry covers its own set.</p>
-      <p><strong>Understanding the gift logic.</strong> Red envelopes (红包 hóngbāo) at Spring Festival, mooncakes at Mid-Autumn, zongzi at Dragon Boat Festival — each festival has its canonical food and gift. These are not arbitrary: each item carries a story and an obligation that make the gift meaningful rather than merely commercial.</p>
-      <p><strong>Reading the zodiac year.</strong> The animal of the year is not just a decorative motif — it shapes the feng shui advice, the lucky colours, and the fortune predictions that saturate Chinese media from mid-January onward. Knowing the 12-animal cycle and its associated elements lets you decode what people mean when they say a year is 'auspicious' or 'difficult.'</p>
-      <p><strong>What to expect at 红白喜事.</strong> Weddings and funerals in China operate by specific protocols: dress codes, envelope amounts, arrival timing, and behaviour expectations all differ from Western norms. The 红白喜事 entry covers the obligations on both sides — host and guest.</p>
+      <p><strong>Understanding the gift logic.</strong> Red envelopes (红包 hóngbāo) at Spring Festival, mooncakes at Mid-Autumn, zongzi at Dragon Boat Festival: each festival has its canonical food and gift. Each item carries a story and an obligation that make the gift meaningful rather than merely commercial.</p>
+      <p><strong>Reading the zodiac year.</strong> The animal of the year shapes the feng shui advice, the lucky colours, and the fortune predictions that saturate Chinese media from mid-January onward. Knowing the 12-animal cycle and its associated elements lets you decode what people mean when they say a year is 'auspicious' or 'difficult.'</p>
+      <p><strong>What to expect at 红白喜事.</strong> Weddings and funerals in China operate by specific protocols: dress codes, envelope amounts, arrival timing, and behaviour expectations all differ from Western norms. The 红白喜事 entry covers the obligations on both sides, host and guest.</p>
     </div>
 
     <span class="section-anchor" id="also"></span>
     <div class="section-head"><h2>Further Reading</h2></div>
     <div class="scholar" data-glyph="年">
       <div class="scholar-label">延伸阅读 · yánshēn yuèdú — companion hubs &amp; references</div>
-      <p><strong>Companion hubs on this site:</strong> The <a href="zhexue.html">哲学 — Philosophy hub</a> provides the cosmological substrate of the calendar: yin-yang theory, the five phases, and 命运 as philosophical concepts rather than folk belief. The <a href="zhongyi.html">中医 — Medicine hub</a> shows how the 24 solar terms structure not just farming but also diet and health — eating with the seasons is a TCM principle as much as a culinary one.</p>
+      <p><strong>Companion hubs on this site:</strong> The <a href="zhexue.html">哲学 — Philosophy hub</a> provides the cosmological substrate of the calendar: yin-yang theory, the five phases, and 命运 as philosophical concepts rather than folk belief. The <a href="zhongyi.html">中医 — Medicine hub</a> shows how the 24 solar terms structure farming, diet, and health alike; eating with the seasons is a TCM principle as much as a culinary one.</p>
       <p><strong>Key references:</strong> Kenneth Dean and Thomas Lamarre's <em>Ritual and Its Consequences</em> (2008) covers the social theory of Chinese ritual. For the practical calendar, the China Heritage website (chinaheritage.net) run by Geremie Barmé provides the best English-language contextual commentary on festivals as they occur each year.</p>
     </div>
 
