@@ -76,8 +76,8 @@ related:
 
     <div class="scholar" data-glyph="绿">
       <div class="scholar-label">杀青 shāqīng · Fixing the Leaf</div>
-      <p>Green tea is defined by a single principle: the immediate halting of oxidation after the leaf is picked. This step is called <strong>杀青</strong> (shāqīng, literally "killing the green") — a reference to the fact that heat is applied to the fresh leaf before any enzymatic browning can occur. The process preserves the leaf's chlorophyll (keeping it green), its catechins and antioxidants (keeping it astringent and health-active), and its volatile aromatic compounds (keeping its flavor fresh and vegetal). Every decision in green tea processing flows from this principle.</p>
-      <p>There are two main methods of killing the green. <strong>炒青</strong> (chǎoqīng, "stir-frying the green") uses a dry wok or rotating drum at high heat — the leaves are tossed continuously to prevent burning, losing moisture rapidly in the process. This is the dominant method in China and produces the grassy, slightly toasty character of teas like Longjing and Biluochun. <strong>蒸青</strong> (zhēngqīng, "steaming the green") uses steam — a gentler, more uniform heat that produces a more purely vegetal, seaweed-like note; it was the dominant method through the Tang and Song dynasties and remains important in Japan (where it underlies the character of sencha and gyokuro).</p>
+      <p>Green tea is defined by a single principle: the immediate halting of oxidation after the leaf is picked. This step is called <strong>杀青</strong> (shāqīng, literally "killing the green"), meaning heat is applied to the fresh leaf before any enzymatic browning can occur. The process preserves the leaf's chlorophyll (keeping it green), its catechins and antioxidants (keeping it astringent and health-active), and its volatile aromatic compounds (keeping its flavor fresh and vegetal). Every decision in green tea processing flows from this principle.</p>
+      <p>There are two main methods of killing the green. <strong>炒青</strong> (chǎoqīng, "stir-frying the green") uses a dry wok or rotating drum at high heat, with the leaves tossed continuously to prevent burning as they lose moisture rapidly. This is the dominant method in China and produces the grassy, slightly toasty character of teas like Longjing and Biluochun. <strong>蒸青</strong> (zhēngqīng, "steaming the green") uses steam, a gentler and more uniform heat that produces a more purely vegetal, seaweed-like note; it was the dominant method through the Tang and Song dynasties and remains important in Japan (where it underlies the character of sencha and gyokuro).</p>
       <p>After fixing, the leaf is shaped. Green teas come in dozens of pressed, rolled, twisted, and flat-dried forms: the flat, sword-like leaves of Longjing; the tight, snail-coiled pellets of Biluochun; the long, needle-straight leaves of Xinyang Maojian; the loose, crinkled leaves of Huangshan Maofeng. The shape affects how the leaf unfurls during brewing, controlling the rate of extraction and the visual spectacle in a glass.</p>
     </div>
 
@@ -96,19 +96,19 @@ related:
       </div>
       <div class="card c-teal">
         <div class="card-head">碧螺春 Bìluóchūn · Green Snail Spring</div>
-        <p>A tightly coiled, downy green from the Dongting hills of Suzhou, Jiangsu, grown interplanted with fruit trees (apricot, peach, citrus) whose fragrance the tea is said to absorb. The name means "green snail of spring" — the rolled pellets resemble snail shells, and they are harvested in early spring. Flavor is intensely floral, sweet, and slightly fruity; the fine white down on each leaf dissolves into the brew as a milky cloudiness. One of the Ten Famous Teas of China (十大名茶).</p>
+        <p>A tightly coiled, downy green from the Dongting hills of Suzhou, Jiangsu, grown interplanted with fruit trees (apricot, peach, citrus) whose fragrance the tea is said to absorb. The name means "green snail of spring": the rolled pellets resemble snail shells, and they are harvested in early spring. Flavor is intensely floral, sweet, and slightly fruity; the fine white down on each leaf dissolves into the brew as a milky cloudiness. One of the Ten Famous Teas of China (十大名茶).</p>
       </div>
       <div class="card c-teal">
         <div class="card-head">信阳毛尖 Xìnyáng Máojiān · Xinyang Hairy Tips</div>
-        <p>The great green tea of Henan province, unusual in growing further north than most Chinese tea regions. Long, needle-shaped leaves with a distinctive white down. Flavor is rich, slightly roasted, with a lingering sweet aftertaste (回甘 huígān). A tea with a powerful reputation for sustained quality — it has featured in Ten Famous Teas lists since the Qing dynasty. The harsh winter of the Xinyang mountains is held to concentrate the character of the tea.</p>
+        <p>The great green tea of Henan province, unusual in growing further north than most Chinese tea regions. Long, needle-shaped leaves with a distinctive white down. Flavor is rich, slightly roasted, with a lingering sweet aftertaste (回甘 huígān). It has featured in Ten Famous Teas lists since the Qing dynasty. The harsh winter of the Xinyang mountains is held to concentrate the character of the tea.</p>
       </div>
       <div class="card c-teal">
         <div class="card-head">黄山毛峰 Huángshān Máofēng · Yellow Mountain Downy Peak</div>
-        <p>Grown on the slopes of the famous Yellow Mountain (黄山) in Anhui, one of China's most storied landscapes. Open, slightly furled leaves with a golden bud tip. Flavor is clean, sweet, and orchid-like; the brewing water turns pale gold. Among the most approachable of the great Chinese greens — less grassy than Longjing, less intensely aromatic than Biluochun, but with a refined elegance that made it a classic scholar's tea.</p>
+        <p>Grown on the slopes of the famous Yellow Mountain (黄山) in Anhui, one of China's most storied landscapes. Open, slightly furled leaves with a golden bud tip. Flavor is clean, sweet, and orchid-like; the brewing water turns pale gold. Among the most approachable of the great Chinese greens: less grassy than Longjing, less intensely aromatic than Biluochun, with a refined elegance that made it a classic scholar's tea.</p>
       </div>
       <div class="card c-teal">
         <div class="card-head">六安瓜片 Liù'ān Guāpiàn · Liu'an Melon Seed</div>
-        <p>A distinctive green from western Anhui, notable for being the only Chinese tea made entirely from de-stemmed, single-leaf material — no buds, no stems, only the open leaves shaped into flat, seed-like pieces. Flavor is clean, slightly smoky, and intensely vegetal; the process involves multiple rounds of pan-firing, including a high-heat final firing that gives the tea a characteristic depth absent in most greens. Historically a tribute tea of the Qing court and a personal favorite of the Empress Dowager Cixi.</p>
+        <p>A distinctive green from western Anhui, notable for being the only Chinese tea made entirely from de-stemmed, single-leaf material: no buds, no stems, only the open leaves shaped into flat, seed-like pieces. Flavor is clean, slightly smoky, and intensely vegetal; the process involves multiple rounds of pan-firing, including a high-heat final firing that gives the tea a characteristic depth absent in most greens. Historically a tribute tea of the Qing court and a personal favorite of the Empress Dowager Cixi.</p>
       </div>
     </div>
 
@@ -122,9 +122,9 @@ related:
 
     <div class="scholar" data-glyph="水">
       <div class="scholar-label">低温慢泡 · Low and Slow</div>
-      <p>Green tea is the most temperature-sensitive of the six categories. Because the fixing process preserves the leaf's reactive compounds without the buffering that oxidation provides, boiling water causes immediate over-extraction — releasing harsh tannins and breaking down the delicate aromatics that distinguish a fine green tea. The standard recommendation is <strong>70–80°C</strong> for most green teas; delicate early-harvest teas (明前 míngqián grades) brew best at 70°C or below.</p>
-      <p>The vessel is as important as the temperature. A glass (玻璃杯 bōlí bēi) is the traditional choice for fine greens — the visual spectacle of the leaves unfurling is considered part of the experience, and glass neither absorbs nor imparts flavor. A lidded bowl (盖碗 gàiwǎn) with the lid resting ajar also works well. Avoid Yixing clay teapots for green tea: the clay absorbs flavor oils and retains heat too aggressively.</p>
-      <p>Steep time is brief — 1 to 2 minutes for a first infusion. Green teas generally yield two to three steeps of quality; the first is the brightest and freshest, the second often the sweetest and most rounded as the leaf opens fully. Do not let it sit: remove the leaves or drink immediately after steeping to prevent the brew turning bitter.</p>
+      <p>Green tea is the most temperature-sensitive of the six categories. Because the fixing process preserves the leaf's reactive compounds without the buffering that oxidation provides, boiling water causes immediate over-extraction, releasing harsh tannins and breaking down the delicate aromatics that distinguish a fine green tea. The standard recommendation is <strong>70–80°C</strong> for most green teas; delicate early-harvest teas (明前 míngqián grades) brew best at 70°C or below.</p>
+      <p>The vessel is as important as the temperature. A glass (玻璃杯 bōlí bēi) is the traditional choice for fine greens: the visual spectacle of the leaves unfurling is considered part of the experience, and glass neither absorbs nor imparts flavor. A lidded bowl (盖碗 gàiwǎn) with the lid resting ajar also works well. Avoid Yixing clay teapots for green tea: the clay absorbs flavor oils and retains heat too aggressively.</p>
+      <p>Steep time is brief: 1 to 2 minutes for a first infusion. Green teas generally yield two to three steeps of quality; the first is the brightest and freshest, the second often the sweetest and most rounded as the leaf opens fully. Do not let it sit: remove the leaves or drink immediately after steeping to prevent the brew turning bitter.</p>
     </div>
 
     <div class="pattern">
@@ -146,8 +146,8 @@ related:
 
     <div class="scholar" data-glyph="史">
       <div class="scholar-label">从唐至今 · From Tang to Now</div>
-      <p>Green tea is not only the oldest surviving tea category but was, for most of Chinese history, the only one that mattered. The Tang dynasty form of tea — as documented by Lù Yǔ in the 《茶经》 — was pressed green tea cake (团茶 tuán chá), which was broken off, roasted to revive it, ground into powder, and boiled in water with salt. The Song dynasty refined this into the whisked powdered tea practice (点茶 diǎnchá), which was transmitted to Japan and became the basis of the Japanese tea ceremony (茶道 sadō, same characters as chádào) and matcha. The tea being whisked in Song and Japanese tea ceremonies is, in its fundamental character, a green tea — unoxidized leaf, immediately fixed.</p>
-      <p>The shift to loose-leaf steeping in the Ming dynasty (1368–1644) did not displace green tea — it simply changed its form. The Ming emperor Zhu Yuanzhang's famous 1391 edict abolishing tribute tea in pressed-cake form and mandating loose-leaf tea was largely a practical labor reform, but its cultural effect was to make the individual leaf legible as an object of beauty and the glass or bowl the appropriate vessel for admiring it. This is the moment when the visual aesthetics of watching green tea leaves unfurl became a distinct pleasure.</p>
+      <p>Green tea is not only the oldest surviving tea category but was, for most of Chinese history, the only one that mattered. The Tang dynasty form of tea, as documented by Lù Yǔ in the 《茶经》, was pressed green tea cake (团茶 tuán chá), which was broken off, roasted to revive it, ground into powder, and boiled in water with salt. The Song dynasty refined this into the whisked powdered tea practice (点茶 diǎnchá), which was transmitted to Japan and became the basis of the Japanese tea ceremony (茶道 sadō, same characters as chádào) and matcha. The tea being whisked in Song and Japanese tea ceremonies is, in its fundamental character, a green tea: unoxidized leaf, immediately fixed.</p>
+      <p>The shift to loose-leaf steeping in the Ming dynasty (1368–1644) did not displace green tea. It simply changed its form. The Ming emperor Zhu Yuanzhang's famous 1391 edict abolishing tribute tea in pressed-cake form and mandating loose-leaf tea was largely a practical labor reform, but its cultural effect was to make the individual leaf legible as an object of beauty and the glass or bowl the appropriate vessel for admiring it. This is the moment when the visual aesthetics of watching green tea leaves unfurl became a distinct pleasure.</p>
     </div>
 
     <span class="section-anchor" id="vocab"></span>
@@ -178,14 +178,14 @@ related:
         <span class="card-py">huígān</span>
         <span class="card-en">returning sweetness — the lingering aftertaste</span>
         <span class="tag-n">n.</span>
-        <p>The sweet, lingering sensation that follows the initial astringency in a fine green (or any quality tea). Literally "returning sweetness" — the sweetness was always present in the tea's amino acids but is perceived more intensely after the astringency fades. A key marker of quality.</p>
+        <p>The sweet, lingering sensation that follows the initial astringency in a fine green (or any quality tea). Literally "returning sweetness": the sweetness was always present in the tea's amino acids but is perceived more intensely after the astringency fades. A key marker of quality.</p>
       </div>
       <div class="card c-ochre">
         <span class="card-cn">茶毫</span>
         <span class="card-py">cháháo</span>
         <span class="card-en">tea down — fine white hairs on young leaves</span>
         <span class="tag-n">n.</span>
-        <p>The fine silvery-white down on young tea buds and first leaves. A visible indicator of early harvest and quality — the younger the leaf, the more down. In teas like Biluochun and Silver Needle, the down is a primary aesthetic feature, dissolving slightly into the liquor.</p>
+        <p>The fine silvery-white down on young tea buds and first leaves. A visible indicator of early harvest and quality: the younger the leaf, the more down. In teas like Biluochun and Silver Needle, the down is a primary aesthetic feature, dissolving slightly into the liquor.</p>
       </div>
     </div>
 

@@ -71,9 +71,9 @@ pinyin: 'chuāncài'
 
     <div class="scholar" data-glyph="川">
       <div class="scholar-label">四川盆地 sìchuān péndì · The Sichuan Basin</div>
-      <p>Sichuan's name — 四川 (Sìchuān, "Four Rivers") — refers to the four major waterways that drain the province's central basin: the Min 岷江, Tuo 沱江, Jialing 嘉陵江, and Wu 乌江 rivers. These rivers made the Chengdu Plain one of the most agriculturally productive regions in pre-modern China. The Han dynasty irrigated it with the Dujiangyan system 都江堰, an engineering project still partially functional today, and the result was a landscape of extraordinary fertility: rice, wheat, soybeans, ginger, garlic, and an abundance of vegetables year-round.</p>
-      <p>But fertility coexists with enclosure. The Sichuan Basin is surrounded on three sides by mountains — the Qinling range to the north, the Qinghai-Tibet Plateau to the west, and heavily forested ranges to the south and east. Before modern transport, Sichuan was famously difficult to enter and exit. The Tang poet Li Bai opened his poem "Hard Roads to Shu" (蜀道难 Shǔ dào nán) with the exclamation: "Hard roads to Shu! Harder than climbing to Heaven!" This geographical isolation meant Sichuan developed culturally, linguistically, and culinarily in relative independence — a self-contained world with its own distinct character.</p>
-      <p>The climate of the basin is humid and rarely cold in the coastal way. Winters are grey, damp, and penetrating — the sun is famously rare, giving rise to the saying that Sichuan dogs bark at the sun when it appears (蜀犬吠日 Shǔ quǎn fèi rì). This persistent humidity is the environmental logic behind Sichuan's embrace of warming, circulation-stimulating spices. Chili peppers arrived from the Americas via maritime trade in the sixteenth century — surprisingly recently given how central they feel to Sichuan cooking. Before chilies, Sichuan pepper (花椒 huājiāo) was the dominant warming spice and remains irreplaceable. Together they created mala, one of the defining flavor combinations in world cooking.</p>
+      <p>Sichuan's name, 四川 (Sìchuān, "Four Rivers"), refers to the four major waterways that drain the province's central basin: the Min 岷江, Tuo 沱江, Jialing 嘉陵江, and Wu 乌江 rivers. These rivers made the Chengdu Plain one of the most agriculturally productive regions in pre-modern China. The Han dynasty irrigated it with the Dujiangyan system 都江堰, an engineering project still partially functional today, and the result was a landscape of extraordinary fertility: rice, wheat, soybeans, ginger, garlic, and an abundance of vegetables year-round.</p>
+      <p>But fertility coexists with enclosure. The Sichuan Basin is surrounded on three sides by mountains: the Qinling range to the north, the Qinghai-Tibet Plateau to the west, and heavily forested ranges to the south and east. Before modern transport, Sichuan was famously difficult to enter and exit. The Tang poet Li Bai opened his poem "Hard Roads to Shu" (蜀道难 Shǔ dào nán) with the exclamation: "Hard roads to Shu! Harder than climbing to Heaven!" This geographical isolation meant Sichuan developed culturally, linguistically, and culinarily in relative independence. It became a self-contained world with its own distinct character.</p>
+      <p>The climate of the basin is humid and rarely cold in the coastal way. Winters are grey, damp, and penetrating; the sun is famously rare, giving rise to the saying that Sichuan dogs bark at the sun when it appears (蜀犬吠日 Shǔ quǎn fèi rì). This persistent humidity is the environmental logic behind Sichuan's embrace of warming, circulation-stimulating spices. Chili peppers arrived from the Americas via maritime trade in the sixteenth century, surprisingly recently given how central they feel to Sichuan cooking. Before chilies, Sichuan pepper (花椒 huājiāo) was the dominant warming spice and remains irreplaceable. Together they created mala, one of the defining flavor combinations in world cooking.</p>
     </div>
 
     <span class="section-anchor" id="mala"></span>
@@ -86,8 +86,8 @@ pinyin: 'chuāncài'
 
     <div class="scholar" data-glyph="辣">
       <div class="scholar-label">麻与辣 má yǔ là · Numbness and Heat</div>
-      <p>麻辣 (málà) translates as "numbing-hot" — 麻 (má) is the tingling, electric numbness produced by Sichuan pepper (花椒 huājiāo), and 辣 (là) is the heat of chili. They are physiologically distinct experiences. Capsaicin in chili activates the TRPV1 pain receptor, producing burning heat. Hydroxy-alpha-sanshool in Sichuan pepper activates touch-sensitive neurons (specifically the Meissner corpuscles), producing the carbonation-like tingling that Chinese speakers describe as 麻 — the same word used for anesthesia and pins-and-needles. The combination is not simply "very spicy." It is a specific two-channel sensory experience that no other cuisine has systematized as deliberately.</p>
-      <p>花椒 deserves to be understood on its own terms before being discussed only as an accomplice to chili. It is the dried berry of the prickly ash tree (Zanthoxylum bungeanum), and it has a flavor that is simultaneously citrusy, piney, floral, and numbing. The oils responsible for its numbing effect are volatile and lost to prolonged heat, which is why Sichuan cooks often add toasted ground Sichuan pepper at the end of cooking or as a finishing spice. A good Sichuan pepper harvested from the mountains around Hanyuan county 汉源县 — the most prized growing region — has an intensity that can make your lips and tongue feel pleasantly anesthetized for several minutes.</p>
+      <p>麻辣 (málà) translates as "numbing-hot": 麻 (má) is the tingling, electric numbness produced by Sichuan pepper (花椒 huājiāo), and 辣 (là) is the heat of chili. They are physiologically distinct experiences. Capsaicin in chili activates the TRPV1 pain receptor, producing burning heat. Hydroxy-alpha-sanshool in Sichuan pepper activates touch-sensitive neurons (specifically the Meissner corpuscles), producing the carbonation-like tingling that Chinese speakers describe as 麻, the same word used for anesthesia and pins-and-needles. The combination is a specific two-channel sensory experience that no other cuisine has systematized as deliberately.</p>
+      <p>花椒 deserves to be understood on its own terms before being discussed only as an accomplice to chili. It is the dried berry of the prickly ash tree (Zanthoxylum bungeanum), with a flavor that is simultaneously citrusy, piney, floral, and numbing. The oils responsible for its numbing effect are volatile and lost to prolonged heat, which is why Sichuan cooks often add toasted ground Sichuan pepper at the end of cooking or as a finishing spice. A good Sichuan pepper harvested from the mountains around Hanyuan county 汉源县, the most prized growing region, has an intensity that can make your lips and tongue feel pleasantly anesthetized for several minutes.</p>
       <p>The architectural element behind both mala and the broader range of Sichuan flavors is 豆瓣酱 (dòubànjiàng, "broad bean paste"), made from fermented broad beans and dried chilies, produced primarily in Pixian 郫县 (now a district of Chengdu). A properly aged Pixian doubanjiang is deep reddish-brown, complex with fermentation aromatics, and irreplaceable — Sichuanese cooks who move abroad often ship it internationally because no substitute performs the same function. It is stir-fried in oil at the start of countless dishes to bloom its flavors, creating a fragrant red oil base that becomes the backbone of the finished dish.</p>
     </div>
 
@@ -113,8 +113,8 @@ pinyin: 'chuāncài'
 
     <div class="scholar" data-glyph="味">
       <div class="scholar-label">鱼香的悖论 yúxiāng de bèilùn · The Paradox of Fish-Fragrant</div>
-      <p>鱼香 (yúxiāng, "fish-fragrant") is among the most instructive of Sichuan's flavor categories, and the most frequently misunderstood outside the cuisine. 鱼香茄子 (yúxiāng qiézi, fish-fragrant eggplant) contains no fish. The name refers to the combination of seasoning — minced pickled chili (泡椒 pàojiāo), ginger, garlic, scallion, soy sauce, vinegar, and a touch of sugar — that was historically used to cook freshwater fish. Applied to eggplant, pork, or other ingredients, it produces a flavor that Sichuanese cooking identifies as characteristically "fish-flavored" without the fish being present. The name is a record of technique history, not an ingredient list.</p>
-      <p>This is consistent with the broader Sichuan approach to flavor as a constructed, transferable thing — a vocabulary of tastes that can be applied across ingredients rather than a collection of ingredient-specific preparations. The same doubanjiang base becomes the foundation of mapo tofu, twice-cooked pork, and numerous other dishes. The flavor profile leads; the ingredient follows. This is partly what allows Sichuan cooking to scale so dramatically: once you have internalized the flavor vocabulary, you can improvise widely.</p>
+      <p>鱼香 (yúxiāng, "fish-fragrant") is among the most instructive of Sichuan's flavor categories, and the most frequently misunderstood outside the cuisine. 鱼香茄子 (yúxiāng qiézi, fish-fragrant eggplant) contains no fish. The name refers to the combination of seasonings, minced pickled chili (泡椒 pàojiāo), ginger, garlic, scallion, soy sauce, vinegar, and a touch of sugar, that were historically used to cook freshwater fish. Applied to eggplant, pork, or other ingredients, they produce a flavor that Sichuanese cooking identifies as characteristically "fish-flavored" without the fish being present. The name is a record of technique history, not an ingredient list.</p>
+      <p>This is consistent with the broader Sichuan approach to flavor as a constructed, transferable vocabulary of tastes that can be applied across ingredients rather than a collection of ingredient-specific preparations. The same doubanjiang base becomes the foundation of mapo tofu, twice-cooked pork, and numerous other dishes. The flavor profile leads; the ingredient follows. Once you have internalized the flavor vocabulary, you can improvise widely.</p>
     </div>
 
     <span class="section-anchor" id="dishes"></span>
@@ -131,14 +131,14 @@ pinyin: 'chuāncài'
         <span class="card-py">mápó dòufu</span>
         <span class="card-en">Mapo Tofu</span>
         <span class="tag-n">n.</span>
-        <p>The name means "pockmarked old woman's tofu" — 麻 (pockmarked) + 婆 (old woman) — after the grandmother-figure credited with its invention in Qing dynasty Chengdu. Silken tofu in a sauce of doubanjiang, fermented black beans, ground pork, Sichuan pepper, and chili oil. The canonical expression of the mala flavor profile.</p>
+        <p>The name means "pockmarked old woman's tofu" (麻, pockmarked; 婆, old woman), after the grandmother-figure credited with its invention in Qing dynasty Chengdu. Silken tofu in a sauce of doubanjiang, fermented black beans, ground pork, Sichuan pepper, and chili oil. The canonical expression of the mala flavor profile.</p>
       </div>
       <div class="card c-red">
         <span class="card-cn">宫保鸡丁</span>
         <span class="card-py">gōngbǎo jīdīng</span>
         <span class="card-en">Kung Pao Chicken</span>
         <span class="tag-n">n.</span>
-        <p>Named for Ding Baozhen 丁宝桢, a Qing official with the honorary title 宫保 (Palace Guardian), who reportedly loved a dish of stir-fried chicken with dried chilies and peanuts from his Sichuan posting. The dish is now inseparable from global "Chinese restaurant" culture — what it became abroad differs substantially from the original, which uses 荔枝味 (lychee-flavor) balance rather than just sweetness.</p>
+        <p>Named for Ding Baozhen 丁宝桢, a Qing official with the honorary title 宫保 (Palace Guardian), who reportedly loved a dish of stir-fried chicken with dried chilies and peanuts from his Sichuan posting. The dish is now inseparable from global "Chinese restaurant" culture, though what it became abroad differs substantially from the original, which uses 荔枝味 (lychee-flavor) balance rather than just sweetness.</p>
       </div>
       <div class="card c-ochre">
         <span class="card-cn">回锅肉</span>
@@ -159,7 +159,7 @@ pinyin: 'chuāncài'
         <span class="card-py">fūqī fèipiàn</span>
         <span class="card-en">Husband and Wife Beef Slices</span>
         <span class="tag-n">n.</span>
-        <p>Despite the alarming literal translation — 肺 means "lung" — this classic cold dish typically contains no lung at all: thinly sliced beef and offcuts (tendon, tripe) dressed with chili oil, Sichuan pepper, sesame, and aromatic spices. The name reportedly comes from a Chengdu couple who sold the dish from a basket in the 1930s. An excellent introduction to the red-oil flavor profile.</p>
+        <p>Despite the alarming literal translation (肺 means "lung"), this classic cold dish typically contains no lung at all: thinly sliced beef and offcuts (tendon, tripe) dressed with chili oil, Sichuan pepper, sesame, and aromatic spices. The name reportedly comes from a Chengdu couple who sold the dish from a basket in the 1930s. An excellent introduction to the red-oil flavor profile.</p>
       </div>
     </div>
 
@@ -184,7 +184,7 @@ pinyin: 'chuāncài'
         <span class="card-py">huājiāo</span>
         <span class="card-en">Sichuan pepper; prickly ash berry</span>
         <span class="tag-n">n.</span>
-        <p>The dried berry of the prickly ash tree, unrelated to black pepper or chili. Produces the characteristic numbing-tingling (麻 má) sensation through its hydroxy-alpha-sanshool content. 花 means "flower" — a reference to the split husk's shape. The finest comes from Hanyuan county. Loses its numbing oils quickly; best toasted and ground fresh.</p>
+        <p>The dried berry of the prickly ash tree, unrelated to black pepper or chili. Produces the characteristic numbing-tingling (麻 má) sensation through its hydroxy-alpha-sanshool content. 花 means "flower," a reference to the split husk's shape. The finest comes from Hanyuan county. Loses its numbing oils quickly; best toasted and ground fresh.</p>
       </div>
       <div class="card c-teal">
         <span class="card-cn">炒</span>
@@ -198,7 +198,7 @@ pinyin: 'chuāncài'
         <span class="card-py">huòqì</span>
         <span class="card-en">wok breath; the scorched aroma of high-heat cooking</span>
         <span class="tag-n">n.</span>
-        <p>The signature aroma of properly executed stir-fry — a slight char, a smokiness, a Maillard-reaction complexity that can only be achieved at temperatures most home stoves cannot reach. Considered the mark of a skilled wok cook. Impossible to achieve by sautéing slowly. In Cantonese (鑊氣 wok hei) this concept is perhaps even more central to the cuisine's identity.</p>
+        <p>The signature aroma of properly executed stir-fry: a slight char, a smokiness, a Maillard-reaction complexity that can only be achieved at temperatures most home stoves cannot reach. Considered the mark of a skilled wok cook. Impossible to achieve by sautéing slowly. In Cantonese (鑊氣 wok hei) this concept is perhaps even more central to the cuisine's identity.</p>
       </div>
     </div>
 

@@ -65,8 +65,8 @@ pinyin: 'chá'
       <div class="scholar" data-glyph="茶">
         <div class="scholar-label">神农 shénnóng · Shennong</div>
         <p>The mythological origin of tea attributes its discovery to <strong>神农</strong> (Shénnóng, the Divine Farmer), a culture hero said to have tasted hundreds of herbs to determine their medicinal properties. According to the legend, leaves from a wild tea tree fell into his boiling water around 2737 BCE. He tasted it and found it reviving.</p>
-        <p>The historical record is clearer from the Han dynasty onward: tea was cultivated in Sichuan and Yunnan, consumed as a medicinal preparation, and gradually became a beverage. By the Tang dynasty it had become the national drink, documented in <strong>陆羽</strong> (Lù Yǔ)'s <em>茶经</em> (Chájīng, "The Classic of Tea"), written around 760 CE — the first comprehensive treatise on tea cultivation, processing, and ceremony in any language.</p>
-        <p>The wild tea trees of Yunnan province are now thought to be among the oldest living tea plants — some specimens estimated at over a thousand years old. Yunnan remains a center of pu-erh production and the source of China's most extraordinary aged teas.</p>
+        <p>The historical record is clearer from the Han dynasty onward: tea was cultivated in Sichuan and Yunnan, consumed as a medicinal preparation, and gradually became a beverage. By the Tang dynasty it had become the national drink, documented in <strong>陆羽</strong> (Lù Yǔ)'s <em>茶经</em> (Chájīng, "The Classic of Tea"), written around 760 CE, the first comprehensive treatise on tea cultivation, processing, and ceremony in any language.</p>
+        <p>The wild tea trees of Yunnan province are now thought to be among the oldest living tea plants, with some specimens estimated at over a thousand years old. Yunnan remains a center of pu-erh production and the source of China's most extraordinary aged teas.</p>
       </div>
 
 
@@ -104,9 +104,9 @@ pinyin: 'chá'
       <h2 class="section-head">Gongfu Tea · 工夫茶 gōngfū chá</h2>
       <div class="scholar" data-glyph="功">
         <div class="scholar-label">茶道 chádào · the Way of Tea</div>
-        <p><strong>工夫茶</strong> (gōngfū chá, "skill tea" or "effort tea") is the Southern Chinese brewing practice — particularly associated with Chaozhou, Fujian, and Taiwan — of using a small clay teapot (紫砂壶 zǐshā hú, "purple clay pot"), tiny cups, and multiple short steeps from a high leaf-to-water ratio.</p>
-        <p>The first steep is typically discarded — it rinses the leaves and warms the pot. Subsequent steeps last fifteen to thirty seconds, with the steeping time increasing as the leaf opens. A good oolong or pu-erh can yield eight to fifteen steeps from the same leaves, each subtly different from the last.</p>
-        <p>The ritual pays attention to water temperature (different teas require different temperatures — green teas 70–80°C, oolongs 90–95°C, pu-erh 100°C), the shape of the pour, the warming of the cups. It is a practice of slowness and attention — the Chinese equivalent of a Japanese tea ceremony, but domestic and daily rather than ceremonial and formal.</p>
+        <p><strong>工夫茶</strong> (gōngfū chá, "skill tea" or "effort tea") is the Southern Chinese brewing practice, particularly associated with Chaozhou, Fujian, and Taiwan, of using a small clay teapot (紫砂壶 zǐshā hú, "purple clay pot"), tiny cups, and multiple short steeps from a high leaf-to-water ratio.</p>
+        <p>The first steep is typically discarded; it rinses the leaves and warms the pot. Subsequent steeps last fifteen to thirty seconds, with the steeping time increasing as the leaf opens. A good oolong or pu-erh can yield eight to fifteen steeps from the same leaves, each subtly different from the last.</p>
+        <p>The ritual pays attention to water temperature (green teas 70–80°C, oolongs 90–95°C, pu-erh 100°C), the shape of the pour, the warming of the cups. It is a practice of slowness and attention, the Chinese equivalent of a Japanese tea ceremony but domestic and daily rather than ceremonial and formal.</p>
       </div>
 
 
@@ -115,8 +115,8 @@ pinyin: 'chá'
       <div class="scholar" data-glyph="路">
         <div class="scholar-label">全球传播 · Global Spread</div>
         <p>The word "tea" itself is the clearest evidence of China's role in spreading the drink: languages that borrowed tea by sea (Dutch, English, Malay) use forms of the Hokkien <em>tê</em>; languages that borrowed it overland (Russian, Turkish, Persian, Hindi) use forms of the Mandarin <em>chá</em>. The word fractures neatly along the Silk Road and the maritime trade routes.</p>
-        <p>The <strong>茶马古道</strong> (Chámǎ Gǔdào, "Ancient Tea-Horse Road") ran from Yunnan through Tibet to South Asia, exchanging compressed tea bricks for Tibetan horses — a trade that lasted from the Tang dynasty into the twentieth century. Brick tea was currency, ration, and social gift along these routes.</p>
-        <p>Britain's addiction to Indian and Ceylon tea is a direct product of its failure to break China's tea monopoly. The Opium Wars were, among other things, about the trade deficit created by British demand for Chinese tea — China had no comparable desire for British goods, so silver flowed one way until Britain found opium as a counter-commodity.</p>
+        <p>The <strong>茶马古道</strong> (Chámǎ Gǔdào, "Ancient Tea-Horse Road") ran from Yunnan through Tibet to South Asia, exchanging compressed tea bricks for Tibetan horses, a trade that lasted from the Tang dynasty into the twentieth century. Brick tea was currency, ration, and social gift along these routes.</p>
+        <p>Britain's addiction to Indian and Ceylon tea is a direct product of its failure to break China's tea monopoly. The Opium Wars were, among other things, about the trade deficit created by British demand for Chinese tea. China had no comparable desire for British goods, so silver flowed one way until Britain found opium as a counter-commodity.</p>
       </div>
 
 
