@@ -64,7 +64,7 @@ content_sources:
         <div class="scholar-label">韩非子 Hánfēizǐ · 3rd century BCE</div>
         <p>A weapons merchant in the state of Chu was selling spears and shields. He called out to the crowd: "My shields are so strong, nothing can pierce them!" Then he called out: "My spears are so sharp, they can pierce anything!" A bystander asked: "What happens if you thrust your spear at your shield?" The merchant had no answer.</p>
         <p>This story appears in the <strong>韩非子</strong> (Hánfēizǐ), the Legalist masterwork of the third century BCE. The merchant's paralysis in the face of the question is the original meaning: a logical impossibility, a self-defeating claim, a position that destroys itself by being pressed to its conclusion.</p>
-        <p>The two characters tell the story in their visual forms: <strong>矛</strong> (máo) is a spear — a character that shows a lance with its blade; <strong>盾</strong> (dùn) is a shield — a character depicting a rounded defensive object. Together they name the logical situation where one claim negates another.</p>
+        <p>The two characters tell the story in their visual forms. <strong>矛</strong> (máo) is a spear, a character that shows a lance with its blade; <strong>盾</strong> (dùn) is a shield, depicting a rounded defensive object. Together they name the logical situation where one claim negates another.</p>
         <p>The word has become so thoroughly absorbed into everyday Chinese that most speakers use it without thinking of the spear-and-shield parable. But the story is the reason the word exists, and knowing it makes the word feel earned rather than arbitrary.</p>
       </div>
 
@@ -84,7 +84,7 @@ content_sources:
         </div>
         <div class="card c-sienna">
           <div class="card-head">adj. 矛盾的 máodùn de · contradictory</div>
-          <p>她的心情很矛盾。(Tā de xīnqíng hěn máodùn.) — Her feelings are conflicted / She has mixed feelings. The word is also used for internal emotional conflict — being torn between two desires or obligations.</p>
+          <p>她的心情很矛盾。(Tā de xīnqíng hěn máodùn.) — Her feelings are conflicted / She has mixed feelings. The word also covers internal emotional conflict, being torn between two desires or obligations.</p>
         </div>
       </div>
 
