@@ -19,5 +19,5 @@
   <text x="1120" y="100" font-family="Inconsolata, monospace" font-size="22" letter-spacing="3" fill="#6b5535" text-anchor="end">characters</text>
   <text x="600" y="275" font-family="Noto Serif SC, serif" font-size="300" font-weight="700" fill="#8b1a1a" text-anchor="middle" dominant-baseline="middle">口</text>
   <text x="600" y="460" font-family="Inconsolata, monospace" font-size="40" letter-spacing="4" fill="#a06428" text-anchor="middle" dominant-baseline="middle">kǒu</text>
-  <text x="600" y="525" font-family="Cormorant Garamond, Georgia, serif" font-style="italic" font-size="30" fill="#2e2010" text-anchor="middle" dominant-baseline="middle">mouth, opening, entrance</text>
+  <text x="600" y="525" font-family="EB Garamond, Georgia, serif" font-style="italic" font-size="30" fill="#2e2010" text-anchor="middle" dominant-baseline="middle">mouth, opening, entrance</text>
 </svg>

@@ -101,7 +101,7 @@
     "type": "character",
     "category": "characters",
     "title": "下 · below, down, to descend, to issue",
-    "desc": "The mirror image of 上 — a notch below the line that governs everything from going downstairs to issuing imperial decrees.",
+    "desc": "The mirror image of 上: a notch below the line that governs everything from going downstairs to issuing imperial decrees.",
     "tags": [
       "direction",
       "grammar",
@@ -286,7 +286,7 @@
     "type": "topic",
     "category": "daily",
     "title": "面子实践 · Face in Practice",
-    "desc": "Face in Chinese social life is not an attitude — it is a recurring set of transactions with specific mechanics: how face is given, taken, lost, and preserved in concrete situations.",
+    "desc": "Face in Chinese social life is a recurring set of transactions with specific mechanics: how face is given, taken, lost, and preserved in concrete situations.",
     "tags": [
       "social",
       "culture",
@@ -340,7 +340,7 @@
     "type": "topic",
     "category": "history",
     "title": "战国时期 · Warring States Period",
-    "desc": "The most chaotic political era in Chinese history was also the condition that produced every major Chinese philosophical tradition — that is not a coincidence.",
+    "desc": "The most chaotic political era in Chinese history was also the condition that produced every major Chinese philosophical tradition. Political fragmentation and intellectual diversity are not separate stories.",
     "tags": [
       "ancient",
       "dynasty",
@@ -794,7 +794,7 @@
     "type": "topic",
     "category": "arts",
     "title": "文房四宝 · Four Treasures of the Study",
-    "desc": "Brush, ink, inkstone, and paper — the four instruments through which a scholar thought, wrote, painted, and demonstrated who he was.",
+    "desc": "The four instruments through which a scholar thought, wrote, painted, and demonstrated who he was: brush, ink, inkstone, and paper.",
     "tags": [
       "calligraphy",
       "art",
@@ -867,7 +867,7 @@
     "type": "character",
     "category": "characters",
     "title": "不 · no, not, negation",
-    "desc": "The great negator — the most used character in Mandarin and the foundation of all denial.",
+    "desc": "The most used character in Mandarin, and the foundation of every denial, refusal, and negation.",
     "tags": [
       "grammar",
       "negation",
@@ -1229,7 +1229,7 @@
     "type": "character",
     "category": "characters",
     "title": "龙 · dragon, the imperial symbol",
-    "desc": "China's most powerful mythic creature — benevolent, not fearsome; the emperor's emblem and the Chinese people's self-described totem.",
+    "desc": "China's most powerful mythic creature: benevolent, not fearsome; the emperor's emblem and the Chinese people's self-described totem.",
     "tags": [
       "culture",
       "history"
@@ -1558,7 +1558,7 @@
     "type": "character",
     "category": "characters",
     "title": "思 · to think, to miss, thought",
-    "desc": "The field of the mind above the heart — thinking as cultivation, longing as thought turned inward.",
+    "desc": "The field of the mind above the heart: thinking as cultivation, longing as thought turned inward.",
     "tags": [
       "mind",
       "emotion"
@@ -1751,7 +1751,7 @@
     "type": "character",
     "category": "characters",
     "title": "再 · again, then, further",
-    "desc": "Again, one more time, and the subtle art of \"and then\" — the character that sequences and repeats.",
+    "desc": "The adverb that sequences and repeats: again, one more time, and the subtle art of \"and then.\"",
     "tags": [
       "grammar",
       "time"
@@ -1769,7 +1769,7 @@
     "type": "character",
     "category": "characters",
     "title": "在 · to be at, located, in progress",
-    "desc": "Location, existence, and the progressive aspect — the character that puts things in place and actions in motion.",
+    "desc": "The character that locates: a seedling rooted in earth, expanded into location, preposition, and progressive aspect.",
     "tags": [
       "grammar",
       "space",
@@ -1933,7 +1933,7 @@
     "type": "topic",
     "category": "culinary",
     "title": "白茶 · White Tea",
-    "desc": "The most minimal of all tea categories — plucked, withered, and dried, with no firing and no rolling, yielding a tea of extraordinary delicacy.",
+    "desc": "The most minimal of all tea categories: plucked, withered, and dried, with no firing and no rolling, yielding a tea of extraordinary delicacy.",
     "tags": [
       "tea",
       "white-tea",
@@ -2033,7 +2033,7 @@
     "type": "topic",
     "category": "culinary",
     "title": "黄茶 · Yellow Tea",
-    "desc": "The rarest of the six categories — like green tea but mellowed by a slow smothering step that removes the raw edge and creates a silky, sweet cup.",
+    "desc": "The rarest of the six categories: like green tea, but mellowed by a slow smothering step that removes the raw edge and creates a silky, sweet cup.",
     "tags": [
       "tea",
       "yellow-tea",
@@ -2167,7 +2167,7 @@
     "type": "topic",
     "category": "culture",
     "title": "茶文化 · Tea Culture",
-    "desc": "Tea as civilization — the way a leaf became a philosophical practice, a diplomatic currency, and the shape of daily life across two millennia.",
+    "desc": "Tea as civilization: the way a leaf became a philosophical practice, a diplomatic currency, and the shape of daily life across two millennia.",
     "tags": [
       "tea",
       "culture",
@@ -2184,7 +2184,7 @@
     "type": "topic",
     "category": "culture",
     "title": "汉服 · Traditional Han Dress",
-    "desc": "Ancient silhouettes worn in modern streets — the revival of Han dynasty clothing and the identity politics it carries.",
+    "desc": "Ancient silhouettes worn in modern streets: the revival of Han dynasty clothing and the identity politics it carries.",
     "tags": [
       "culture",
       "history",
@@ -2201,7 +2201,7 @@
     "type": "topic",
     "category": "culture",
     "title": "红包 · Red Envelopes",
-    "desc": "Money wrapped in red — the gift that is never just money, and the ritual that binds generations, occasions, and now hundreds of millions of WeChat users.",
+    "desc": "Money wrapped in red: the gift that is never just money, and the ritual that binds generations, occasions, and now hundreds of millions of WeChat users.",
     "tags": [
       "culture",
       "gift",
@@ -2219,7 +2219,7 @@
     "type": "topic",
     "category": "culture",
     "title": "清明节 · Tomb-Sweeping Day",
-    "desc": "The day the living visit the dead — a spring festival of grief, gratitude, and continuity across generations.",
+    "desc": "The day the living visit the dead: a spring festival of grief, gratitude, and continuity across generations.",
     "tags": [
       "festival",
       "ancestors",
@@ -2236,7 +2236,7 @@
     "type": "topic",
     "category": "culture",
     "title": "太极 · Tai Chi",
-    "desc": "The slow-motion practice in the park at dawn — its philosophy is older than the movements, and the movements carry the whole philosophy.",
+    "desc": "The slow-motion practice in the park at dawn. Its philosophy is older than the movements, and the movements carry the whole philosophy.",
     "tags": [
       "martial-arts",
       "philosophy",
@@ -2253,7 +2253,7 @@
     "type": "topic",
     "category": "culture",
     "title": "中秋节 · Mid-Autumn Festival",
-    "desc": "The moon at its fullest, the family reunited — the festival that turns a celestial event into a meditation on longing and belonging.",
+    "desc": "The moon at its fullest, the family reunited: the festival that turns a celestial event into a meditation on longing and belonging.",
     "tags": [
       "festival",
       "culture",
@@ -2287,7 +2287,7 @@
     "type": "topic",
     "category": "daily",
     "title": "红白喜事 · Weddings & Funerals",
-    "desc": "The phrase itself tells the story: red and white, marriage and death, both require the same thing — the whole community showing up.",
+    "desc": "The phrase tells the story: red and white, marriage and death, both require the whole community to show up.",
     "tags": [
       "ritual",
       "social",
@@ -2306,7 +2306,7 @@
     "type": "topic",
     "category": "daily",
     "title": "敬酒 · Toasting Culture",
-    "desc": "The Chinese toast is not a punctuation mark at the end of a speech — it is a social instrument with its own grammar, hierarchy, and rules of engagement.",
+    "desc": "The Chinese toast is a social instrument with its own grammar, hierarchy, and rules of engagement — not a punctuation mark at the end of a speech.",
     "tags": [
       "social",
       "culture",
@@ -2324,7 +2324,7 @@
     "type": "topic",
     "category": "daily",
     "title": "迷信 · Superstitions",
-    "desc": "Superstition in China is not a holdover from ignorance — it is a living system that coexists comfortably with education, modernity, and pragmatism.",
+    "desc": "Superstition in China is a living system that coexists comfortably with education, modernity, and pragmatism — not a holdover from ignorance.",
     "tags": [
       "folk-religion",
       "symbolism",
@@ -2342,7 +2342,7 @@
     "type": "topic",
     "category": "daily",
     "title": "请客吃饭 · Treating to a Meal",
-    "desc": "The Chinese banquet is not a meal with social dimensions — it is a social institution that happens to involve food.",
+    "desc": "The Chinese banquet is a social institution that happens to involve food.",
     "tags": [
       "food",
       "social",
@@ -2360,7 +2360,7 @@
     "type": "topic",
     "category": "daily",
     "title": "数字 · Lucky & Unlucky Numbers",
-    "desc": "In China, numbers are not neutral — they carry sound, and sound carries meaning, and meaning can determine whether you close the deal or jinx the wedding.",
+    "desc": "In China, numbers carry sound, sound carries meaning, and meaning can determine whether you close the deal or jinx the wedding.",
     "tags": [
       "symbolism",
       "culture",
@@ -2508,7 +2508,7 @@
     "type": "topic",
     "category": "geography",
     "title": "西藏 · Tibet",
-    "desc": "The Roof of the World — a plateau so high it generates its own weather, a civilization shaped by altitude, and a Buddhism that grew from the landscape as much as from doctrine.",
+    "desc": "The Roof of the World: a plateau so high it generates its own weather, a civilization shaped by altitude, and a Buddhism that grew from the landscape as much as from doctrine.",
     "tags": [
       "geography",
       "buddhism",
@@ -2822,7 +2822,7 @@
     "updated": "2026-04-19"
   },
   {
-    "path": "pages/grammar/yuqi_bufu_与其不如.html",
+    "path": "pages/grammar/yuqi_buru_与其不如.html",
     "type": "grammar",
     "category": "grammar",
     "title": "与其…不如 · rather than … it would be better to",
@@ -3328,7 +3328,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "春节 · Spring Festival",
-    "desc": "The world's largest annual human celebration — the Chinese New Year explained: customs, foods, taboos, the reunion dinner, and the cultural weight of the most important holiday in Chinese life.",
+    "desc": "The most important holiday in the Chinese calendar: customs, foods, taboos, the reunion dinner, and the cultural weight of the Spring Festival.",
     "tags": [
       "culture",
       "history",
@@ -3374,7 +3374,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "工夫茶 · Gongfu Tea",
-    "desc": "The art of tea prepared with skill and time — the Southern Chinese brewing method that defines serious tea culture: small vessels, multiple short steeps, total attention.",
+    "desc": "Tea prepared with skill and time: the Southern Chinese brewing method that defines serious tea culture, built on small vessels, multiple short steeps, and total attention.",
     "tags": [
       "tea",
       "ceremony",
@@ -3453,7 +3453,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "京剧 · Peking Opera",
-    "desc": "The national theater of China — a total art form synthesizing song, speech, acrobatics, combat, and painted faces into a performance tradition that encodes Chinese history, morality, and aesthetics.",
+    "desc": "China's preeminent performing art: a total synthesis of song, stylized speech, acrobatic movement, and martial performance that evolved in Beijing during the Qing dynasty.",
     "tags": [
       "culture",
       "arts",
@@ -3515,7 +3515,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "普通话 · Mandarin Chinese",
-    "desc": "The common speech — how China standardized its national language, what Mandarin actually is, and how it relates to Cantonese, Shanghainese, and the Chinese dialects.",
+    "desc": "The common speech: how China standardized its national language, what Mandarin actually is, and how it relates to Cantonese, Shanghainese, and the Chinese dialects.",
     "tags": [
       "culture",
       "history",
@@ -3576,7 +3576,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "诗词 · Chinese poetry",
-    "desc": "The compressed art at the center of Chinese civilization — poetry as memory, moral education, social currency, and the highest expression of the self in the literary tradition.",
+    "desc": "Poetry stood at the center of Chinese civilization for two thousand years: the primary medium for expressing emotion, demonstrating education, and participating in the social life of the literati class.",
     "tags": [
       "culture",
       "history",
@@ -3669,7 +3669,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "中国画 · Chinese painting",
-    "desc": "Brush and ink as philosophy — Chinese painting is less about representing what the eye sees than about capturing the spirit of a subject and expressing the inner cultivation of the painter.",
+    "desc": "Brush and ink as philosophy: Chinese painting aims to capture the spirit of a subject and express the painter's inner cultivation rather than represent what the eye sees.",
     "tags": [
       "culture",
       "arts",
@@ -4014,7 +4014,7 @@
     "type": "topic",
     "category": "culinary",
     "title": "饺子 · Dumplings",
-    "desc": "Folded, boiled, and shared — the dumpling as ritual food, family labor, and cultural marker.",
+    "desc": "Folded, boiled, and shared: the dumpling as ritual food, family labor, and cultural marker.",
     "tags": [
       "food",
       "new-year",
@@ -4044,7 +4044,7 @@
     "type": "topic",
     "category": "culture",
     "title": "京剧 · Peking Opera",
-    "desc": "China's national theatrical art — acrobatics, painted faces, falsetto voices, and two centuries of stylized storytelling.",
+    "desc": "China's national theatrical art: acrobatics, painted faces, falsetto voices, and two centuries of stylized storytelling.",
     "tags": [
       "opera",
       "theatre",
@@ -4119,7 +4119,7 @@
     "type": "topic",
     "category": "geography",
     "title": "北京 · Beijing",
-    "desc": "Capital geography — the hutong grid, the Forbidden City, and the northern axis that has organized Chinese power for seven centuries.",
+    "desc": "Capital geography: the hutong grid, the Forbidden City, and the northern axis that has organized Chinese power for seven centuries.",
     "tags": [
       "beijing",
       "geography",
@@ -4134,7 +4134,7 @@
     "type": "topic",
     "category": "geography",
     "title": "长江 · The Yangtze River",
-    "desc": "The longest river in Asia — the southern spine of Chinese civilization, the Three Gorges, and the river that divides north from south.",
+    "desc": "The longest river in Asia: the southern spine of Chinese civilization, the Three Gorges, and the river that divides north from south.",
     "tags": [
       "river",
       "geography",
@@ -4659,7 +4659,7 @@
     "type": "topic",
     "category": "religion",
     "title": "净土宗 · Pure Land",
-    "desc": "The most widely practiced Buddhism in China — faith, Amitabha, and the Western Paradise.",
+    "desc": "Faith, Amitabha, and the Western Paradise: the most widely practiced Buddhism in China.",
     "tags": [
       "pure-land",
       "amitabha",
@@ -4749,7 +4749,7 @@
     "type": "topic",
     "category": "religion",
     "title": "祖先崇拜 · Ancestor Veneration",
-    "desc": "The deep continuity — tablets, offerings, and the living debt to the dead.",
+    "desc": "Tablets, offerings, and the living debt to the dead: the deep continuity of Chinese ancestor veneration.",
     "tags": [
       "ancestors",
       "ritual",
@@ -4839,7 +4839,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "功夫 · effort, skill over time",
-    "desc": "Not just martial arts — the original meaning is mastery earned through time.",
+    "desc": "Mastery earned through time — martial arts is the paradigm case, but the word covers any deeply cultivated skill.",
     "tags": [
       "mastery",
       "time",

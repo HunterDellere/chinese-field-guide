@@ -34,10 +34,11 @@
   --rule-2:     rgba(60,40,20,0.10);
   --shadow:     rgba(30,20,10,0.12);
 
-  --font-body:  'Cormorant Garamond', 'Noto Serif SC', 'PingFang SC', 'Songti SC', 'Hiragino Sans GB', 'Microsoft YaHei', Georgia, serif;
-  --font-cn:    'Noto Serif SC', 'PingFang SC', 'Songti SC', 'Hiragino Sans GB', 'Microsoft YaHei', serif;
-  --font-mono:  'Noto Sans Mono', ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace;
-  --font-ui:    system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'PingFang SC', 'Noto Sans CJK SC', sans-serif;
+  --font-body:    'EB Garamond', 'Noto Serif SC', 'PingFang SC', 'Songti SC', 'Hiragino Sans GB', 'Microsoft YaHei', Georgia, serif;
+  --font-cn:      'Noto Serif SC', 'PingFang SC', 'Songti SC', 'Hiragino Sans GB', 'Microsoft YaHei', serif;
+  --font-cn-display: 'LXGW WenKai TC', 'Noto Serif SC', 'Kaiti SC', 'STKaiti', 'Kaiti TC', 'BiauKai', 'PingFang SC', serif;
+  --font-mono:    'JetBrains Mono', ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace;
+  --font-ui:      system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'PingFang SC', 'Noto Sans CJK SC', sans-serif;
 
   --sidebar-w:  220px;
   --radius:     5px;
@@ -326,7 +327,7 @@ body {
 
 /* sidebar character hero (char entries) */
 .toc-glyph {
-  font-family: var(--font-cn);
+  font-family: var(--font-cn-display);
   font-size: 3.5rem;
   font-weight: 700;
   color: var(--red);
@@ -461,7 +462,7 @@ body {
   flex-shrink: 0;
 }
 .hero-glyph {
-  font-family: var(--font-cn);
+  font-family: var(--font-cn-display);
   font-size: 7.5rem;
   font-weight: 700;
   color: var(--red);
@@ -519,7 +520,7 @@ body {
   font-weight: 500;
 }
 .topic-hero-title {
-  font-family: var(--font-cn);
+  font-family: var(--font-cn-display);
   font-size: 2.8rem;
   font-weight: 700;
   color: var(--red);
@@ -1162,7 +1163,7 @@ tbody tr:hover td { background: var(--papyrus-2); }
   gap: 0.2rem;
 }
 .cy-cn {
-  font-family: var(--font-cn); font-size: 1.3rem; font-weight: 700;
+  font-family: var(--font-cn-display); font-size: 1.3rem; font-weight: 700;
   color: var(--red); letter-spacing: 0.08em; line-height: 1.2;
   margin-bottom: 0.15rem;
 }

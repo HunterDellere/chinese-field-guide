@@ -101,7 +101,7 @@
     "type": "character",
     "category": "characters",
     "title": "下 · below, down, to descend, to issue",
-    "desc": "The mirror image of 上 — a notch below the line that governs everything from going downstairs to issuing imperial decrees.",
+    "desc": "The mirror image of 上: a notch below the line that governs everything from going downstairs to issuing imperial decrees.",
     "tags": [
       "direction",
       "grammar",
@@ -286,7 +286,7 @@
     "type": "topic",
     "category": "daily",
     "title": "面子实践 · Face in Practice",
-    "desc": "Face in Chinese social life is not an attitude — it is a recurring set of transactions with specific mechanics: how face is given, taken, lost, and preserved in concrete situations.",
+    "desc": "Face in Chinese social life is a recurring set of transactions with specific mechanics: how face is given, taken, lost, and preserved in concrete situations.",
     "tags": [
       "social",
       "culture",
@@ -340,7 +340,7 @@
     "type": "topic",
     "category": "history",
     "title": "战国时期 · Warring States Period",
-    "desc": "The most chaotic political era in Chinese history was also the condition that produced every major Chinese philosophical tradition — that is not a coincidence.",
+    "desc": "The most chaotic political era in Chinese history was also the condition that produced every major Chinese philosophical tradition. Political fragmentation and intellectual diversity are not separate stories.",
     "tags": [
       "ancient",
       "dynasty",

@@ -226,7 +226,7 @@ The TOC link must point to `#etymology`. The IntersectionObserver in `toc-scroll
 - `lang="zh-Hans"` on `<html>`
 - `<meta name="description" content="...">` after `<title>`
 - SVG favicon: `<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>字</text></svg>">`
-- Google Fonts: Cormorant Garamond + Noto Serif SC + Inconsolata
+- Google Fonts: EB Garamond + Noto Serif SC + LXGW WenKai TC + JetBrains Mono
 - `<link rel="stylesheet" href="../../style.css">`
 - `<nav class="topnav">` with both brand and back link → `../../index.html`
 - `<button class="toc-toggle">` for mobile sidebar (place before `.shell`)
@@ -265,7 +265,7 @@ The TOC link must point to `#etymology`. The IntersectionObserver in `toc-scroll
 <meta name="description" content="禅宗 Chán Buddhism — stub entry.">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>字</text></svg>">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600&family=Noto+Serif+SC:wght@300;400;600;700&family=Inconsolata:wght@300;400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Noto+Serif+SC:wght@400;600;700&family=LXGW+WenKai+TC&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="../../style.css">
 </head>
 <body>

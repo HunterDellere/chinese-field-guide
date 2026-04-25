@@ -74,7 +74,7 @@ export function renderOgSvg(entry) {
   <text x="1120" y="100" font-family="Inconsolata, monospace" font-size="22" letter-spacing="3" fill="#6b5535" text-anchor="end">${escXml(entry.category)}</text>
   <text x="600" y="${glyphY}" font-family="Noto Serif SC, serif" font-size="${glyphSize}" font-weight="700" fill="${cat.color}" text-anchor="middle" dominant-baseline="middle">${escXml(glyph)}</text>
   ${pinyin ? `<text x="600" y="${pinyinY}" font-family="Inconsolata, monospace" font-size="40" letter-spacing="4" fill="#a06428" text-anchor="middle" dominant-baseline="middle">${escXml(pinyin)}</text>` : ''}
-  ${titleEn ? `<text x="600" y="${titleY}" font-family="Cormorant Garamond, Georgia, serif" font-style="italic" font-size="30" fill="#2e2010" text-anchor="middle" dominant-baseline="middle">${escXml(titleEn)}</text>` : ''}
+  ${titleEn ? `<text x="600" y="${titleY}" font-family="EB Garamond, Georgia, serif" font-style="italic" font-size="30" fill="#2e2010" text-anchor="middle" dominant-baseline="middle">${escXml(titleEn)}</text>` : ''}
 </svg>`;
 }
 

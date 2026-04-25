@@ -373,8 +373,8 @@ const CSS = `
     --adm-red:   #922e20;
     --adm-amber: #a07a28;
     --adm-green: #2e6e40;
-    --adm-mono:  'Noto Sans Mono', 'Inconsolata', ui-monospace, monospace;
-    --adm-serif: 'Cormorant Garamond', 'Georgia', serif;
+    --adm-mono:  'JetBrains Mono', 'Noto Sans Mono', ui-monospace, monospace;
+    --adm-serif: 'EB Garamond', 'Georgia', serif;
   }
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
   body { font-family: system-ui, -apple-system, sans-serif; background: var(--adm-bg); color: var(--adm-ink); font-size: 13.5px; line-height: 1.55; }
