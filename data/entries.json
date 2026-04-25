@@ -1,5 +1,57 @@
 [
   {
+    "path": "pages/families/collections.html",
+    "type": "topic",
+    "category": "families",
+    "title": "集锦 · Collections",
+    "desc": "Idioms, curated reading paths, and reference lists — entries grouped to be read together.",
+    "tags": [
+      "meta"
+    ],
+    "status": "complete",
+    "pinyin": "jíjǐn",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/families/explore.html",
+    "type": "topic",
+    "category": "families",
+    "title": "探 · Explore",
+    "desc": "The master entry point. Three families of entries, every category browsable from one place.",
+    "tags": [
+      "meta"
+    ],
+    "status": "complete",
+    "pinyin": "tàn",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/families/language.html",
+    "type": "topic",
+    "category": "families",
+    "title": "语言 · The Language",
+    "desc": "Characters, vocabulary, grammar — the building blocks of written and spoken Chinese.",
+    "tags": [
+      "meta"
+    ],
+    "status": "complete",
+    "pinyin": "yǔyán",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/families/topics.html",
+    "type": "topic",
+    "category": "families",
+    "title": "话题 · Topics",
+    "desc": "Thought, place, time, lived life — what the Chinese language is used to say.",
+    "tags": [
+      "meta"
+    ],
+    "status": "complete",
+    "pinyin": "huàtí",
+    "updated": "2026-04-25"
+  },
+  {
     "path": "pages/characters/feng1_风.html",
     "type": "character",
     "category": "characters",

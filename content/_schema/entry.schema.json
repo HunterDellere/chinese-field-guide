@@ -12,7 +12,7 @@
     },
     "category": {
       "type": "string",
-      "enum": ["characters", "vocab", "grammar", "chengyu", "religion", "philosophy", "history", "geography", "culture", "culinary", "arts", "science", "daily", "hsk", "hubs"]
+      "enum": ["characters", "vocab", "grammar", "chengyu", "religion", "philosophy", "history", "geography", "culture", "culinary", "arts", "science", "daily", "hsk", "hubs", "families"]
     },
     "status": {
       "type": "string",
@@ -104,6 +104,11 @@
       "type": "array",
       "items": { "type": "string", "minLength": 1 },
       "description": "Optional explicit related entry slugs (e.g. 'characters/gan3_感') that are merged at the front of the auto-computed related list"
+    },
+    "family": {
+      "type": "string",
+      "enum": ["explore", "language", "topics", "collections"],
+      "description": "Family-index pages only (category: 'families'). Tells the build which entry-grids to inject into the page body marker. 'explore' is the master hub showing all three family cards."
     },
     "stages": {
       "type": "array",

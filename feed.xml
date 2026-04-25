@@ -6,7 +6,39 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>Notes on Chinese language and civilisation — characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Apr 2026 05:02:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 05:14:45 GMT</lastBuildDate>
+    <item>
+      <title>集锦 · Collections</title>
+      <link>https://jiaoshoo.com/pages/families/collections.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/families/collections.html</guid>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Idioms, curated reading paths, and reference lists — entries grouped to be read together.</description>
+      <category>families</category>
+    </item>
+    <item>
+      <title>探 · Explore</title>
+      <link>https://jiaoshoo.com/pages/families/explore.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/families/explore.html</guid>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
+      <description>The master entry point. Three families of entries, every category browsable from one place.</description>
+      <category>families</category>
+    </item>
+    <item>
+      <title>语言 · The Language</title>
+      <link>https://jiaoshoo.com/pages/families/language.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/families/language.html</guid>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Characters, vocabulary, grammar — the building blocks of written and spoken Chinese.</description>
+      <category>families</category>
+    </item>
+    <item>
+      <title>话题 · Topics</title>
+      <link>https://jiaoshoo.com/pages/families/topics.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/families/topics.html</guid>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Thought, place, time, lived life — what the Chinese language is used to say.</description>
+      <category>families</category>
+    </item>
     <item>
       <title>风 · wind; style; custom</title>
       <link>https://jiaoshoo.com/pages/characters/feng1_风.html</link>
@@ -214,38 +246,6 @@
       <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
       <description>Laozi placed 自然 at the center of his cosmology: the Way models itself on what is so of itself — no outside force required.</description>
       <category>vocab</category>
-    </item>
-    <item>
-      <title>产 · to produce, give birth, property, output</title>
-      <link>https://jiaoshoo.com/pages/characters/chan3_产.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/chan3_产.html</guid>
-      <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
-      <description>From birth to bounty: a character that spans biological generation and industrial output, linking the miracle of birth to the logic of production and wealth.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>告 · to tell, to announce, to report</title>
-      <link>https://jiaoshoo.com/pages/characters/gao4_告.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/gao4_告.html</guid>
-      <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
-      <description>A mouth aimed upward: the character for delivering words to authority — and the root of advertising, accusations, and warnings.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>广 · wide, broad, to spread</title>
-      <link>https://jiaoshoo.com/pages/characters/guang3_广.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/guang3_广.html</guid>
-      <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
-      <description>A radical and a word: the cliff-shelter that became the prefix for everything expansive — from Guangzhou to Guangdong to radio broadcasts.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>品 · article, grade, character, to taste</title>
-      <link>https://jiaoshoo.com/pages/characters/pin3_品.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/pin3_品.html</guid>
-      <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Three mouths stacked: a character about multiplicity, evaluation, and the discerning assessment of quality — from product grades to moral character.</description>
-      <category>characters</category>
     </item>
   </channel>
 </rss>

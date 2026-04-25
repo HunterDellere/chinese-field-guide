@@ -1,5 +1,57 @@
 [
   {
+    "path": "pages/families/collections.html",
+    "type": "topic",
+    "category": "families",
+    "title": "集锦 · Collections",
+    "desc": "Idioms, curated reading paths, and reference lists — entries grouped to be read together.",
+    "tags": [
+      "meta"
+    ],
+    "status": "complete",
+    "pinyin": "jíjǐn",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/families/explore.html",
+    "type": "topic",
+    "category": "families",
+    "title": "探 · Explore",
+    "desc": "The master entry point. Three families of entries, every category browsable from one place.",
+    "tags": [
+      "meta"
+    ],
+    "status": "complete",
+    "pinyin": "tàn",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/families/language.html",
+    "type": "topic",
+    "category": "families",
+    "title": "语言 · The Language",
+    "desc": "Characters, vocabulary, grammar — the building blocks of written and spoken Chinese.",
+    "tags": [
+      "meta"
+    ],
+    "status": "complete",
+    "pinyin": "yǔyán",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/families/topics.html",
+    "type": "topic",
+    "category": "families",
+    "title": "话题 · Topics",
+    "desc": "Thought, place, time, lived life — what the Chinese language is used to say.",
+    "tags": [
+      "meta"
+    ],
+    "status": "complete",
+    "pinyin": "huàtí",
+    "updated": "2026-04-25"
+  },
+  {
     "path": "pages/characters/feng1_风.html",
     "type": "character",
     "category": "characters",
@@ -298,78 +350,5 @@
     "status": "complete",
     "pinyin": "miànzi shíjiàn",
     "updated": "2026-04-22"
-  },
-  {
-    "path": "pages/grammar/zhe_着.html",
-    "type": "grammar",
-    "category": "grammar",
-    "title": "着 · the continuous aspect marker",
-    "desc": "Three distinct jobs: holding a state, linking two actions, and commanding attention — all from a single particle that beginners collapse into one.",
-    "tags": [
-      "aspect",
-      "particle",
-      "grammar",
-      "syntax"
-    ],
-    "status": "complete",
-    "pinyin": "zhe",
-    "updated": "2026-04-22"
-  },
-  {
-    "path": "pages/history/topic_chunqiu.html",
-    "type": "topic",
-    "category": "history",
-    "title": "春秋时期 · Spring and Autumn Period",
-    "desc": "The age when China named itself through the text that documented it, and a philosopher who failed every audience built the tradition that outlasted every state.",
-    "tags": [
-      "ancient",
-      "dynasty",
-      "history",
-      "philosophy",
-      "confucius",
-      "ritual",
-      "classics",
-      "politics"
-    ],
-    "status": "complete",
-    "pinyin": "chūnqiū shíqī",
-    "updated": "2026-04-22"
-  },
-  {
-    "path": "pages/history/topic_zhanguo.html",
-    "type": "topic",
-    "category": "history",
-    "title": "战国时期 · Warring States Period",
-    "desc": "The most chaotic political era in Chinese history was also the condition that produced every major Chinese philosophical tradition. Political fragmentation and intellectual diversity are not separate stories.",
-    "tags": [
-      "ancient",
-      "dynasty",
-      "history",
-      "philosophy",
-      "legalism",
-      "statecraft",
-      "politics",
-      "classics"
-    ],
-    "status": "complete",
-    "pinyin": "zhànguó shíqī",
-    "updated": "2026-04-22"
-  },
-  {
-    "path": "pages/hubs/daode.html",
-    "type": "hub",
-    "category": "hubs",
-    "title": "道德与伦理 · Morality and Ethics — A Reading Path",
-    "desc": "Chinese ethics is not a checklist of personal virtues. It is a description of how one should relate to specific others — and what happens when those relationships are tested.",
-    "tags": [
-      "ethics",
-      "confucianism",
-      "society",
-      "hub"
-    ],
-    "status": "complete",
-    "pinyin": "dàodé yǔ lúnlǐ",
-    "updated": "2026-04-22",
-    "memberCount": 18
   }
 ]
