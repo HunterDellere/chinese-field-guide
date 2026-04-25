@@ -137,39 +137,41 @@ function collectionsHeroSvg(p) {
 }
 
 function exploreHeroSvg(p) {
-  // Central 探 with three orbiting family glyphs.
+  // Calmer than the orbiting-glyphs draft: a single centered medallion
+  // with the watermark behind. The three families are introduced visually
+  // by the cards immediately below the hero, so the hero doesn't need to
+  // re-state them.
   return `<svg class="family-hero-svg" viewBox="0 0 800 280" preserveAspectRatio="xMidYMid slice"
               xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Explore master illustration">
-    <g transform="translate(180, 140)">
-      <!-- orbits -->
-      <ellipse cx="0" cy="0" rx="120" ry="60" fill="none" stroke="${p.primary}" stroke-width="0.9" opacity="0.35" transform="rotate(-12)"/>
-      <ellipse cx="0" cy="0" rx="135" ry="68" fill="none" stroke="${p.accent}" stroke-width="0.6" opacity="0.22" transform="rotate(-22)"/>
-      <!-- center glyph 探 -->
-      <circle r="42" fill="var(--papyrus-2)" opacity="0.7"/>
-      <circle r="42" fill="none" stroke="${p.accent}" stroke-width="1.8" opacity="0.78"/>
-      <text x="0" y="14" text-anchor="middle" font-family="LXGW WenKai TC, serif" font-size="50" font-weight="700" fill="${p.accent}">探</text>
-      <!-- orbiting family glyphs -->
-      <g transform="translate(-110, -8)">
-        <circle r="22" fill="var(--papyrus-2)" opacity="0.7"/>
-        <circle r="22" fill="none" stroke="var(--cat-grammar)" stroke-width="1.4" opacity="0.62"/>
-        <text x="0" y="8" text-anchor="middle" font-family="LXGW WenKai TC, serif" font-size="26" font-weight="700" fill="var(--cat-grammar)">语</text>
-      </g>
-      <g transform="translate(108, -42)">
-        <circle r="22" fill="var(--papyrus-2)" opacity="0.7"/>
-        <circle r="22" fill="none" stroke="var(--cat-philosophy)" stroke-width="1.4" opacity="0.62"/>
-        <text x="0" y="8" text-anchor="middle" font-family="LXGW WenKai TC, serif" font-size="26" font-weight="700" fill="var(--cat-philosophy)">话</text>
-      </g>
-      <g transform="translate(102, 48)">
-        <circle r="22" fill="var(--papyrus-2)" opacity="0.7"/>
-        <circle r="22" fill="none" stroke="var(--cat-chengyu)" stroke-width="1.4" opacity="0.62"/>
-        <text x="0" y="8" text-anchor="middle" font-family="LXGW WenKai TC, serif" font-size="26" font-weight="700" fill="var(--cat-chengyu)">集</text>
-      </g>
-    </g>
     ${watermarkGlyph(p, p.glyph)}
+    <g transform="translate(200, 140)">
+      <circle r="60" fill="var(--papyrus)" opacity="0.6"/>
+      <circle r="60" fill="none" stroke="${p.accent}" stroke-width="1.5" opacity="0.6"/>
+      <circle r="72" fill="none" stroke="${p.primary}" stroke-width="0.6" opacity="0.35"/>
+      <text x="0" y="0" text-anchor="middle" dominant-baseline="central"
+            font-family="LXGW WenKai TC, Noto Serif SC, serif"
+            font-size="68" font-weight="700" fill="${p.accent}">探</text>
+    </g>
   </svg>`;
 }
 
 // ── compact card art (used on family-cards, homepage hub, crosslinks) ──────
+
+/**
+ * Render a centered CJK glyph at the geometric center of a 200×200 viewBox.
+ * `dominant-baseline="central"` + y at the visual midpoint compensates for
+ * the way LXGW WenKai's typographic baseline sits below the visual center;
+ * combined with `text-anchor="middle"` and x at the midpoint, the glyph
+ * lands true center regardless of font metrics.
+ */
+function centeredGlyph(glyph, fontSize, fill) {
+  // y nudged slightly below 50% because CJK glyphs visually balance a hair
+  // above their bounding-box center; this tiny offset gives the most
+  // optically-centered result across LXGW WenKai TC and the fallback stack.
+  return `<text x="100" y="108" text-anchor="middle" dominant-baseline="central"
+       font-family="LXGW WenKai TC, Noto Serif SC, serif"
+       font-size="${fontSize}" font-weight="700" fill="${fill}">${glyph}</text>`;
+}
 
 export function familyCardArt(family) {
   const p = PALETTES[family];
@@ -180,13 +182,13 @@ export function familyCardArt(family) {
     case 'language':
       return `<svg viewBox="0 0 200 200" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
         <rect x="36" y="36" width="128" height="128" fill="none" stroke="${p.accent}" stroke-width="2" opacity="0.5" rx="4"/>
-        <text x="100" y="118" text-anchor="middle" font-family="LXGW WenKai TC, serif" font-size="110" font-weight="700" fill="${p.primary}">${p.glyph}</text>
+        ${centeredGlyph(p.glyph, 110, p.primary)}
       </svg>`;
     case 'topics':
       return `<svg viewBox="0 0 200 200" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
         <circle cx="100" cy="100" r="78" fill="none" stroke="${p.primary}" stroke-width="1.4" opacity="0.45"/>
         <circle cx="100" cy="100" r="58" fill="none" stroke="${p.accent}" stroke-width="0.8" opacity="0.4"/>
-        <text x="100" y="118" text-anchor="middle" font-family="LXGW WenKai TC, serif" font-size="100" font-weight="700" fill="${p.primary}">${p.glyph}</text>
+        ${centeredGlyph(p.glyph, 100, p.primary)}
       </svg>`;
     case 'collections':
       return `<svg viewBox="0 0 200 200" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
@@ -194,13 +196,13 @@ export function familyCardArt(family) {
         <rect x="105" y="40" width="55" height="55" fill="none" stroke="${p.accent}" stroke-width="1.4" opacity="0.55" rx="3"/>
         <rect x="40" y="105" width="55" height="55" fill="none" stroke="${p.accent}" stroke-width="1.4" opacity="0.55" rx="3"/>
         <rect x="105" y="105" width="55" height="55" fill="none" stroke="${p.accent}" stroke-width="1.4" opacity="0.55" rx="3"/>
-        <text x="100" y="120" text-anchor="middle" font-family="LXGW WenKai TC, serif" font-size="92" font-weight="700" fill="${p.primary}">${p.glyph}</text>
+        ${centeredGlyph(p.glyph, 92, p.primary)}
       </svg>`;
     case 'explore':
       return `<svg viewBox="0 0 200 200" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
         <ellipse cx="100" cy="100" rx="78" ry="42" fill="none" stroke="${p.primary}" stroke-width="0.9" opacity="0.35" transform="rotate(-12 100 100)"/>
         <ellipse cx="100" cy="100" rx="78" ry="42" fill="none" stroke="${p.accent}" stroke-width="0.7" opacity="0.3" transform="rotate(35 100 100)"/>
-        <text x="100" y="120" text-anchor="middle" font-family="LXGW WenKai TC, serif" font-size="100" font-weight="700" fill="${p.accent}">${p.glyph}</text>
+        ${centeredGlyph(p.glyph, 100, p.accent)}
       </svg>`;
     default:
       return '';

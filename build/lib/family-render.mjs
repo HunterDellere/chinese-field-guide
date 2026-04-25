@@ -206,24 +206,35 @@ function renderExploreContent(entries) {
       </a>`;
   }).join('\n      ');
 
-  // Flat all-categories list (reference-style: glyph + name + count).
-  // Only categories that belong to a family are listed — HSK and other
-  // standalone destinations have their own surfaces elsewhere.
-  const allCats = Object.keys(CATEGORY_META).filter(k => {
-    if (!totalsByCategory.has(k)) return false;
-    return Object.values(FAMILY_MEMBERS).some(ks => ks.includes(k));
-  });
-  const catLinks = allCats.map(k => {
-    const m = CATEGORY_META[k];
-    const family = Object.entries(FAMILY_MEMBERS).find(([, ks]) => ks.includes(k))?.[0];
-    const familyHref = `${family}.html#cat-${k}`;
-    const count = totalsByCategory.get(k) || 0;
-    return `<a class="all-cat-link" href="${familyHref}" data-category="${k}">
-          <span class="acl-cn" style="color: var(--cat-${k})">${escapeHtml(m.cn)}</span>
-          <span class="acl-en">${escapeHtml(m.en)}</span>
-          <span class="acl-count">${count}</span>
-        </a>`;
-  }).join('\n        ');
+  // Per-family category clusters (reference-style: glyph + name + count).
+  // Grouped by family so the relationship is visible at a glance and the
+  // section reads as a quieter sub-navigation under the three big cards.
+  // HSK and other family-less categories aren't surfaced here — they have
+  // their own destinations elsewhere on the site.
+  const familyClusters = families.map(f => {
+    const fmeta = FAMILY_META[f];
+    const memberKeys = FAMILY_MEMBERS[f].filter(k => totalsByCategory.has(k));
+    if (memberKeys.length === 0) return '';
+    const catLinks = memberKeys.map(k => {
+      const m = CATEGORY_META[k];
+      const count = totalsByCategory.get(k) || 0;
+      return `<a class="all-cat-link" href="${f}.html#cat-${k}" data-category="${k}">
+              <span class="acl-cn" style="color: var(--cat-${k})">${escapeHtml(m.cn)}</span>
+              <span class="acl-en">${escapeHtml(m.en)}</span>
+              <span class="acl-count">${count}</span>
+            </a>`;
+    }).join('\n            ');
+    return `
+        <div class="all-cats-family">
+          <a class="all-cats-family-head" href="${f}.html">
+            <span class="acfh-cn">${escapeHtml(fmeta.cn)}</span>
+            <span class="acfh-en">${escapeHtml(fmeta.en)}</span>
+          </a>
+          <div class="all-cats-family-list">
+            ${catLinks}
+          </div>
+        </div>`;
+  }).filter(Boolean).join('\n');
 
   return `
     <div class="families-grid">
@@ -231,63 +242,23 @@ function renderExploreContent(entries) {
     </div>
 
     <span class="section-anchor" id="all-categories"></span>
-    <div class="section-head">
-      <span class="sh-cn">分类</span>
-      <span class="sh-py">fēnlèi</span>
-      <span class="sh-en">All categories</span>
-      <span class="sh-rule"></span>
-    </div>
-
-    <div class="all-cats-grid">
-        ${catLinks}
+    <div class="all-cats-clusters">
+      ${familyClusters}
     </div>`;
 }
 
 // ── crosslinks (bottom-of-page navigation between families) ────────────────
 
 /**
- * The "Continue exploring" strip at the bottom of each non-explore family
- * page. Surfaces the other two families + a master Explore card.
+ * Bottom-of-page family crosslinks intentionally omitted — every family
+ * page's sidebar already lists the other families ("Other families")
+ * plus the master Explore link, so a duplicate footer card row would
+ * just be visual noise. The function is preserved as a no-op so the
+ * build pipeline doesn't need to special-case the marker; the
+ * <!--FAMILY_CROSSLINKS--> marker simply gets replaced with empty.
  */
 export function renderFamilyCrosslinks(family) {
-  if (family === 'explore') return '';
-  const others = ['language', 'topics', 'collections'].filter(f => f !== family);
-  const cards = others.map(f => {
-    const meta = FAMILY_META[f];
-    const memberLabels = FAMILY_MEMBERS[f].map(k => CATEGORY_META[k]?.en).filter(Boolean).join(' · ');
-    return `<a class="family-card family-card-sm" href="${f}.html" data-family="${f}">
-        <div class="family-card-art" aria-hidden="true">${familyCardArt(f)}</div>
-        <div class="family-card-meta">
-          <span class="family-card-eyebrow">${escapeHtml(meta.cn)} ${escapeHtml(meta.py)}</span>
-          <h3 class="family-card-title">${escapeHtml(meta.en)}</h3>
-          <span class="family-card-members">${escapeHtml(memberLabels)}</span>
-        </div>
-      </a>`;
-  }).join('\n      ');
-
-  // Plus the master Explore card
-  const exploreMeta = FAMILY_META.explore;
-  const exploreCard = `<a class="family-card family-card-sm family-card-explore" href="explore.html" data-family="explore">
-        <div class="family-card-art" aria-hidden="true">${familyCardArt('explore')}</div>
-        <div class="family-card-meta">
-          <span class="family-card-eyebrow">${escapeHtml(exploreMeta.cn)} ${escapeHtml(exploreMeta.py)}</span>
-          <h3 class="family-card-title">${escapeHtml(exploreMeta.en)}</h3>
-          <span class="family-card-members">All families · all categories</span>
-        </div>
-      </a>`;
-
-  return `
-    <span class="section-anchor" id="continue"></span>
-    <div class="section-head">
-      <span class="sh-cn">继续</span>
-      <span class="sh-py">jìxù</span>
-      <span class="sh-en">Continue exploring</span>
-      <span class="sh-rule"></span>
-    </div>
-    <div class="family-crosslinks">
-      ${cards}
-      ${exploreCard}
-    </div>`;
+  return '';
 }
 
 // ── re-exports & art accessors ─────────────────────────────────────────────

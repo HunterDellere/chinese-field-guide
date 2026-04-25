@@ -1980,28 +1980,45 @@ a.pf-btn-share:focus-visible, button.pf-btn-share:focus-visible {
   margin-bottom: 2rem;
 }
 
-/* ── All-categories reference grid (Explore page bottom) ─────────────── */
-.all-cats-grid {
+/* ── All-categories reference (Explore page bottom) ──────────────────── */
+/* Grouped by family into three quiet clusters — sub-navigation under the
+   three big cards above, deliberately understated so the cards lead. */
+.all-cats-clusters {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
-  gap: 0.55rem;
-  margin-top: 1rem;
-  margin-bottom: 2.5rem;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1.5rem;
+  margin: 1.4rem 0 2.5rem;
 }
+.all-cats-family { display: flex; flex-direction: column; gap: 0.35rem; }
+.all-cats-family-head {
+  display: inline-flex; align-items: baseline; gap: 0.45rem;
+  text-decoration: none;
+  padding: 0 0 0.4rem;
+  margin-bottom: 0.2rem;
+  border-bottom: 1px solid var(--rule);
+}
+.all-cats-family-head:hover { border-bottom-color: var(--rule-2); }
+.all-cats-family-head:hover .acfh-en { color: var(--ink-2); }
+.all-cats-family-head:focus-visible { outline: none; box-shadow: 0 0 0 2px rgba(160,100,40,0.25); border-radius: 2px; }
+.acfh-cn { font-family: var(--font-cn-display); font-weight: 700; font-size: 1.05rem; color: var(--ink-2); }
+.acfh-en {
+  font-family: var(--font-mono); font-size: 0.62rem; letter-spacing: 0.2em;
+  text-transform: uppercase; color: var(--ink-5);
+  transition: color 0.12s;
+}
+.all-cats-family-list { display: flex; flex-direction: column; gap: 0.15rem; }
 .all-cat-link {
-  display: flex; align-items: center; gap: 0.55rem;
-  padding: 0.55rem 0.75rem;
-  background: var(--papyrus-2);
-  border: 1px solid var(--rule);
-  border-radius: var(--radius);
+  display: flex; align-items: center; gap: 0.5rem;
+  padding: 0.35rem 0.5rem;
   text-decoration: none; color: var(--ink-3);
-  transition: background 0.12s, border-color 0.12s, transform 0.12s;
+  border-radius: var(--radius);
+  transition: background 0.12s, transform 0.12s;
 }
-.all-cat-link:hover { background: var(--papyrus-3); border-color: var(--rule-2); transform: translateX(2px); }
-.all-cat-link:focus-visible { outline: none; border-color: var(--ochre); box-shadow: 0 0 0 2px rgba(160,100,40,0.25); }
-.acl-cn { font-family: var(--font-cn-display); font-weight: 700; font-size: 1.15rem; line-height: 1; }
-.acl-en { font-size: 0.82rem; flex: 1; color: var(--ink-3); }
-.acl-count { font-family: var(--font-mono); font-size: 0.7rem; color: var(--ink-5); }
+.all-cat-link:hover { background: var(--papyrus-3); transform: translateX(2px); }
+.all-cat-link:focus-visible { outline: none; box-shadow: 0 0 0 2px rgba(160,100,40,0.25); }
+.acl-cn { font-family: var(--font-cn-display); font-weight: 700; font-size: 1.05rem; line-height: 1; min-width: 2.2rem; }
+.acl-en { font-size: 0.85rem; flex: 1; color: var(--ink-3); }
+.acl-count { font-family: var(--font-mono); font-size: 0.66rem; color: var(--ink-5); }
 
 @media (max-width: 720px) {
   .family-hero { padding: 1.6rem 1.2rem 1.4rem; }
