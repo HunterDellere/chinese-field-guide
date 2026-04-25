@@ -40,9 +40,10 @@ Edit `content/_schema/entry.schema.json` or `content/_schema/tags.json`, then ru
 ### Adding a new category
 1. Add a folder in `content/<newcategory>/`
 2. Add the category slug to `entry.schema.json` → `category.enum`
-3. Add `CATEGORY_META` entry in `scripts/homepage.js` AND `build/lib/family-render.mjs` (kept in sync — single-source-of-truth refactor is a future task)
-4. Add the new category key to the appropriate family member array in `build/lib/family-render.mjs` → `FAMILY_MEMBERS` so it appears on the family-index page
-5. New pages follow the topic page structure in `content/<category>/<slug>.md` — no new template needed
+3. Add the entry to `data/category-meta.json` (the single source of truth — both `scripts/homepage.js` and `build/lib/family-render.mjs` read from this file)
+4. Add a `--cat-<newcategory>` CSS variable in `style.css` for the category color
+5. Add the new category key to the appropriate family member array in `build/lib/family-render.mjs` → `FAMILY_MEMBERS` so it appears on the family-index page
+6. New pages follow the topic page structure in `content/<category>/<slug>.md` — no new template needed
 
 ### Adding a new family
 1. Create `content/families/<key>.md` mirroring the existing four (language/topics/collections/explore) — same frontmatter shape with `category: families` and `family: <key>`
@@ -279,7 +280,7 @@ Source files live at `content/families/<key>.md` with `category: families` and `
 - `<!--FAMILY_CONTENT-->` → per-category sections with entry-card grids (or, on Explore, the three family cards + all-categories reference grid)
 - `<!--FAMILY_CROSSLINKS-->` → bottom-of-page strip linking to the other families + Explore
 
-Renderer: `build/lib/family-render.mjs` (`renderFamilyContent`, `renderFamilyCrosslinks`, `renderFamilyHeroArt`). Member configuration: `FAMILY_MEMBERS` and `FAMILY_META` constants at the top of the same file. Per-category metadata duplicates `scripts/homepage.js` `CATEGORY_META`; if you change one, change the other (single-source-of-truth refactor is a future task).
+Renderer: `build/lib/family-render.mjs` (`renderFamilyContent`, `renderFamilyCrosslinks`, `renderFamilyHeroArt`). Member configuration: `FAMILY_MEMBERS` and `FAMILY_META` constants at the top of the same file. Per-category metadata lives in `data/category-meta.json` and is read by both `scripts/homepage.js` (at runtime via fetch) and `build/lib/family-render.mjs` (at build time via readFileSync) — single source of truth.
 
 The legacy `#browse` URL hash on the homepage now redirects to `pages/families/collections.html` via an inline pre-paint script in `index.html`.
 
