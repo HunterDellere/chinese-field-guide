@@ -6,7 +6,7 @@ status: complete
 title: "语言 · The Language"
 pageTitle: "Language"
 pinyin: "yǔyán"
-desc: "Characters, vocabulary, grammar — the building blocks of written and spoken Chinese."
+desc: "Characters, vocabulary, grammar. The building blocks of written and spoken Chinese."
 metaDesc: "All character entries, vocabulary entries, and grammar entries on Jiǎoluò Shūwū. Browse by category, scan for what you need."
 tags: ["meta"]
 content_review: pending
@@ -41,7 +41,7 @@ updated: "2026-04-25"
       <div class="family-hero-meta">
         <span class="topic-hero-eyebrow">语言 yǔyán · Family</span>
         <h1 class="topic-hero-title">The Language</h1>
-        <p class="topic-hero-desc">Characters, vocabulary, grammar — the building blocks of written and spoken Chinese. Read in any order; each entry stands on its own.</p>
+        <p class="topic-hero-desc">Characters, vocabulary, grammar. The building blocks of written and spoken Chinese. Read in any order; each entry stands on its own.</p>
       </div>
     </header>
 

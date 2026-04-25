@@ -46,10 +46,10 @@ export const FAMILY_MEMBERS = {
 };
 
 export const FAMILY_META = {
-  explore:     { cn: '探',   py: 'tàn',     en: 'Explore',     desc: 'The master entry point — three families, every category.' },
-  language:    { cn: '语言', py: 'yǔyán',   en: 'Language',    desc: 'Characters, vocabulary, grammar — the building blocks.' },
-  topics:      { cn: '话题', py: 'huàtí',   en: 'Topics',      desc: 'Thought, place, time, lived life — what the language is used to say.' },
-  collections: { cn: '集锦', py: 'jíjǐn',   en: 'Collections', desc: 'Idioms and curated reading paths — entries grouped to be read together.' },
+  explore:     { cn: '探',   py: 'tàn',     en: 'Explore',     desc: 'The master entry point. Three families, every category.' },
+  language:    { cn: '语言', py: 'yǔyán',   en: 'Language',    desc: 'Characters, vocabulary, grammar. The building blocks.' },
+  topics:      { cn: '话题', py: 'huàtí',   en: 'Topics',      desc: 'Thought, place, time, lived life. What the language is used to say.' },
+  collections: { cn: '集锦', py: 'jíjǐn',   en: 'Collections', desc: 'Idioms and curated reading paths. Entries grouped to be read together.' },
 };
 
 // Single source of truth: data/category-meta.json (also fetched by

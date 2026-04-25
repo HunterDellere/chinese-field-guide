@@ -6,7 +6,7 @@ status: complete
 title: "集锦 · Collections"
 pageTitle: "Collections"
 pinyin: "jíjǐn"
-desc: "Idioms, curated reading paths, and reference lists — entries grouped to be read together."
+desc: "Idioms, curated reading paths, and reference lists. Entries grouped to be read together."
 metaDesc: "Collected groups of entries on Jiǎoluò Shūwū: chengyu (four-character idioms) and reading paths (themed walks through philosophy, tea, dynasties, and more)."
 tags: ["meta"]
 content_review: pending

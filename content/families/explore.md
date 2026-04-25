@@ -7,7 +7,7 @@ title: "探 · Explore"
 pageTitle: "Explore"
 pinyin: "tàn"
 desc: "The master entry point. Three families of entries, every category browsable from one place."
-metaDesc: "Browse all entries on Jiǎoluò Shūwū. Three families — Language, Topics, Collections — group every category for guided exploration."
+metaDesc: "Browse all entries on Jiǎoluò Shūwū. Three families (Language, Topics, Collections) group every category for guided exploration."
 tags: ["meta"]
 content_review: pending
 content_sources: []

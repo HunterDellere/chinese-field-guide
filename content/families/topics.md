@@ -6,7 +6,7 @@ status: complete
 title: "话题 · Topics"
 pageTitle: "Topics"
 pinyin: "huàtí"
-desc: "Thought, place, time, lived life — what the Chinese language is used to say."
+desc: "Thought, place, time, lived life. What the Chinese language is used to say."
 metaDesc: "Topic-essay entries on Jiǎoluò Shūwū: philosophy, religion, history, geography, culture, daily life, food and drink, arts and literature, science and medicine."
 tags: ["meta"]
 content_review: pending
