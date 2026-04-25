@@ -265,6 +265,16 @@ function renderExploreContent(entries) {
       ${familyCards}
     </div>
 
+    <span class="section-anchor" id="maps"></span>
+    <div class="section-head">
+      <span class="sh-cn">地图</span>
+      <span class="sh-en">Interactive Maps</span>
+    </div>
+    <div class="scholar" data-glyph="图">
+      <div class="scholar-label">中国地图 · Zhōngguó Dìtú</div>
+      <p>An interactive map of China with togglable layers — modern provinces, dynastic territorial extents, major rivers, dialect zones, and cultural sites. Every marker links to a Shūwū entry. <a href="../maps/china.html">Open the map →</a></p>
+    </div>
+
     <span class="section-anchor" id="all-categories"></span>
     <div class="all-cats-clusters">
       ${familyClusters}

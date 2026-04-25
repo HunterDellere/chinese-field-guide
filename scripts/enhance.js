@@ -19,26 +19,108 @@ else { window.__enhanceInit = true; (function () {
     });
   }
 
-  // ── Pinyin audio via SpeechSynthesis ──────────────────────────────────────
-  const synth = 'speechSynthesis' in window ? window.speechSynthesis : null;
-  let zhVoice = null;
-  function pickVoice() {
-    if (!synth) return;
-    const voices = synth.getVoices();
-    zhVoice = voices.find(v => /zh[-_]?CN/i.test(v.lang)) ||
-              voices.find(v => /^zh/i.test(v.lang)) || null;
+  // ── Pinyin audio: cached Azure Neural TTS, with SpeechSynthesis fallback ──
+  // Single button, click cycles voice (女 zh-CN-XiaoxiaoNeural / 男 zh-CN-YunxiNeural).
+  // Voice preference persisted in localStorage. First click after load just
+  // plays the persisted voice; subsequent clicks advance to the next voice.
+  const VOICES = [
+    { id: 'xiaoxiao', label: '女', synthName: /Xiaoxiao|zh.*female/i },
+    { id: 'yunxi',    label: '男', synthName: /Yunxi|zh.*male/i },
+  ];
+  const VOICE_KEY = 'shuwo-voice';
+
+  function getStoredVoiceId() {
+    try {
+      const v = localStorage.getItem(VOICE_KEY);
+      return VOICES.some(x => x.id === v) ? v : VOICES[0].id;
+    } catch (_) { return VOICES[0].id; }
   }
-  if (synth) {
-    pickVoice();
-    if (synth.onvoiceschanged !== undefined) synth.onvoiceschanged = pickVoice;
+  function storeVoiceId(id) {
+    try { localStorage.setItem(VOICE_KEY, id); } catch (_) {}
   }
 
-  document.addEventListener('click', function (e) {
-    const btn = e.target.closest('.audio-btn');
-    if (!btn) return;
-    e.preventDefault();
-    const text = btn.dataset.audio;
-    if (!text) return;
+  // Sync every audio button's visible voice indicator to the persisted choice.
+  function syncVoiceIndicators() {
+    const id = getStoredVoiceId();
+    const v = VOICES.find(x => x.id === id) || VOICES[0];
+    document.querySelectorAll('.audio-btn .audio-btn-voice').forEach(function (el) {
+      el.dataset.voice = v.id;
+      el.textContent = v.label;
+    });
+  }
+  syncVoiceIndicators();
+
+  // ── Manifest (cached MP3 catalog) ────────────────────────────────────────
+  let manifestPromise = null;
+  function loadManifest() {
+    if (manifestPromise) return manifestPromise;
+    const base = location.pathname.includes('/pages/') ? '../../' : './';
+    manifestPromise = fetch(base + 'data/audio-manifest.json', { cache: 'force-cache' })
+      .then(function (r) { return r.ok ? r.json() : null; })
+      .catch(function () { return null; });
+    return manifestPromise;
+  }
+
+  function entryPathForBtn(btn) {
+    // Resolve canonical "pages/<cat>/<slug>.html" for the current page.
+    const idx = location.pathname.indexOf('/pages/');
+    if (idx === -1) return null;
+    return location.pathname.slice(idx + 1);
+  }
+  function isInline(btn) { return btn.classList.contains('audio-btn--inline'); }
+
+  function audioUrlForBtn(btn, voiceId) {
+    return manifestPromise.then(function (m) {
+      if (!m) return null;
+      const base = location.pathname.includes('/pages/') ? '../../' : './';
+
+      if (isInline(btn)) {
+        // Look up by (text, pinyin) → inline.<id>.voices[voiceId]
+        const text = btn.dataset.audio || '';
+        const pinyin = btn.dataset.pinyin || '';
+        if (!m.inline) return null;
+        // Find the inline record matching this text+pinyin pair.
+        const key = Object.keys(m.inline).find(function (k) {
+          const r = m.inline[k];
+          return r && r.text === text && r.pinyin === pinyin;
+        });
+        if (!key) return null;
+        const v = m.inline[key].voices && m.inline[key].voices[voiceId];
+        return v && v.path ? base + v.path : null;
+      }
+
+      const entryPath = entryPathForBtn(btn);
+      if (!entryPath || !m.entries || !m.entries[entryPath]) return null;
+      const v = m.entries[entryPath].voices && m.entries[entryPath].voices[voiceId];
+      return v && v.path ? base + v.path : null;
+    });
+  }
+
+  // Browser SpeechSynthesis fallback ──────────────────────────────────────
+  const synth = 'speechSynthesis' in window ? window.speechSynthesis : null;
+  let synthVoices = [];
+  function refreshSynthVoices() {
+    if (!synth) return;
+    synthVoices = synth.getVoices();
+  }
+  if (synth) {
+    refreshSynthVoices();
+    if (synth.onvoiceschanged !== undefined) synth.onvoiceschanged = refreshSynthVoices;
+  }
+  function pickSynthVoice(voiceId) {
+    if (!synthVoices.length) return null;
+    const target = VOICES.find(x => x.id === voiceId);
+    if (target) {
+      const matched = synthVoices.find(function (v) {
+        return /zh[-_]?CN/i.test(v.lang) && target.synthName.test(v.name);
+      });
+      if (matched) return matched;
+    }
+    return synthVoices.find(function (v) { return /zh[-_]?CN/i.test(v.lang); }) ||
+           synthVoices.find(function (v) { return /^zh/i.test(v.lang); }) || null;
+  }
+
+  function speakWithSynth(text, voiceId, btn) {
     if (!synth) {
       btn.title = 'Audio not supported in this browser';
       return;
@@ -47,10 +129,120 @@ else { window.__enhanceInit = true; (function () {
     const u = new SpeechSynthesisUtterance(text);
     u.lang = 'zh-CN';
     u.rate = 0.85;
-    if (zhVoice) u.voice = zhVoice;
+    const v = pickSynthVoice(voiceId);
+    if (v) u.voice = v;
     btn.classList.add('playing');
     u.onend = u.onerror = function () { btn.classList.remove('playing'); };
     synth.speak(u);
+  }
+
+  // Main click handler ────────────────────────────────────────────────────
+  // First click after load = play current voice. Subsequent clicks within
+  // the same page session = cycle to the next voice and play it.
+  let hasPlayedThisSession = false;
+  let currentAudio = null;
+
+  function stopCurrent() {
+    if (currentAudio) {
+      try { currentAudio.pause(); currentAudio.currentTime = 0; } catch (_) {}
+      currentAudio = null;
+    }
+    if (synth) try { synth.cancel(); } catch (_) {}
+    document.querySelectorAll('.audio-btn.playing').forEach(function (b) {
+      b.classList.remove('playing');
+    });
+  }
+
+  function advanceVoice() {
+    const cur = getStoredVoiceId();
+    const i = VOICES.findIndex(x => x.id === cur);
+    const next = VOICES[(i + 1) % VOICES.length];
+    storeVoiceId(next.id);
+    syncVoiceIndicators();
+    return next.id;
+  }
+
+  function playButton(btn, opts) {
+    const text = btn.dataset.audio;
+    if (!text) return;
+    const advance = opts && opts.advance;
+
+    let voiceId = getStoredVoiceId();
+    if (advance) voiceId = advanceVoice();
+
+    stopCurrent();
+    btn.classList.add('playing');
+
+    loadManifest().then(function () {
+      audioUrlForBtn(btn, voiceId).then(function (url) {
+        if (!url) {
+          btn.classList.remove('playing');
+          speakWithSynth(text, voiceId, btn);
+          return;
+        }
+        const audio = new Audio(url);
+        audio.preload = 'auto';
+        currentAudio = audio;
+        audio.addEventListener('ended', function () {
+          btn.classList.remove('playing');
+          if (currentAudio === audio) currentAudio = null;
+        });
+        audio.addEventListener('error', function () {
+          btn.classList.remove('playing');
+          if (currentAudio === audio) currentAudio = null;
+          speakWithSynth(text, voiceId, btn);
+        });
+        audio.play().catch(function () {
+          btn.classList.remove('playing');
+          speakWithSynth(text, voiceId, btn);
+        });
+      });
+    });
+  }
+
+  document.addEventListener('click', function (e) {
+    const btn = e.target.closest('.audio-btn');
+    if (!btn) return;
+    e.preventDefault();
+    const advance = hasPlayedThisSession;
+    hasPlayedThisSession = true;
+    playButton(btn, { advance: advance });
+  });
+
+  // Preload on hover/focus so click→sound feels instant.
+  document.addEventListener('mouseenter', function (e) {
+    const btn = e.target.closest && e.target.closest('.audio-btn');
+    if (!btn || btn.dataset.preloaded) return;
+    btn.dataset.preloaded = '1';
+    loadManifest().then(function () {
+      audioUrlForBtn(btn, getStoredVoiceId()).then(function (url) {
+        if (!url) return;
+        const link = document.createElement('link');
+        link.rel = 'preload';
+        link.as = 'audio';
+        link.href = url;
+        document.head.appendChild(link);
+      });
+    });
+  }, true);
+
+  // Keyboard: `p` plays the page's primary audio button; Shift+P cycles voice
+  // without playing.
+  document.addEventListener('keydown', function (e) {
+    if (e.target && /^(INPUT|TEXTAREA|SELECT)$/.test(e.target.tagName)) return;
+    if (e.metaKey || e.ctrlKey || e.altKey) return;
+    if (e.key === 'p' || e.key === 'P') {
+      const primary = document.querySelector('.hero .audio-btn, .topic-hero .audio-btn, .audio-btn');
+      if (!primary) return;
+      e.preventDefault();
+      if (e.shiftKey) {
+        advanceVoice(); // cycle silently
+      } else {
+        const advance = hasPlayedThisSession;
+        hasPlayedThisSession = true;
+        playButton(primary, { advance: advance });
+      }
+    }
   });
 
   // ── Hanzi Writer loader (shared between stroke-order panel and hero animate) ──

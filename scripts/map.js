@@ -3,8 +3,8 @@
   'use strict';
 
   const BASE = (() => {
-    const s = document.querySelector('script[data-entries-base]');
-    return s ? s.dataset.entriesBase : '../../';
+    const s = document.querySelector('script[data-map-base]');
+    return s ? s.dataset.mapBase : '../../';
   })();
 
   const SVG_W = 800;

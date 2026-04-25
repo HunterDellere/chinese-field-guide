@@ -280,30 +280,119 @@ export function autoLinkBody(body, linkMap, currentEntry) {
 /**
  * Wrap pinyin spans with a clickable audio trigger.
  *
- * Character pages only — single-character entries with a single, unambiguous
- * pronunciation. Topic / vocab / grammar / chengyu pages are skipped because
- * many have multi-character titles or list multiple readings (会能可以,
- * 来去, 的得地, etc.) which TTS handles poorly: the engine speaks only the
- * first word, giving a misleading impression of the page.
+ * - Character pages: button injected inside <div class="hero-pinyin">.
+ * - Vocab pages: button injected after <span class="topic-hero-title-py">.
+ *
+ * Topic / grammar / hub / family pages skipped — their titles aren't always
+ * pronounceable Chinese phrases (English topic names, particles with multiple
+ * readings, etc.).
+ *
+ * Markup emitted:
+ *   <button type="button" class="audio-btn" data-audio="感" data-pinyin="gǎn"
+ *           aria-label="Play pronunciation">
+ *     <svg class="audio-btn-ico" …></svg>
+ *     <span class="audio-btn-voice" data-voice="xiaoxiao">女</span>
+ *   </button>
+ *
+ * The voice indicator text is updated client-side to reflect the user's
+ * cycled choice (女 / 男). Default is 女 (zh-CN-XiaoxiaoNeural).
  */
 export function addPinyinAudio(body, fm) {
-  if (fm.type !== 'character' || !fm.char) return body;
-  // Hero pinyin (character pages): <div class="hero-pinyin">gǎn</div>
-  // Inner content may include nested tags (e.g. <span class="tone-num">²</span>),
-  // so match non-greedily rather than requiring plain text.
+  if (fm.type === 'character' && fm.char) {
+    return addCharacterAudio(body, fm);
+  }
+  if (fm.type === 'vocab') {
+    return addVocabAudio(body, fm);
+  }
+  return body;
+}
+
+function addCharacterAudio(body, fm) {
   const before = body;
   body = body.replace(
     /<div class="hero-pinyin">([\s\S]*?)<\/div>/,
-    (m, py) => {
-      return `<div class="hero-pinyin">${py}` +
-             `<button type="button" class="audio-btn" data-audio="${escapeAttr(fm.char)}" aria-label="Play pronunciation">🔊</button>` +
-             `</div>`;
-    }
+    (m, py) => `<div class="hero-pinyin">${py}${buildAudioButton(fm.char, fm.pinyin)}</div>`,
   );
   if (body === before) {
     throw new Error(`addPinyinAudio: no <div class="hero-pinyin">…</div> found for character "${fm.char}" — the audio button cannot be attached.`);
   }
   return body;
+}
+
+function addVocabAudio(body, fm) {
+  // Vocab text is the CN portion of the title ("茶道 · the way of tea" → "茶道").
+  const cn = fm.title ? fm.title.split('·')[0].trim() : '';
+  if (!cn || !/[一-鿿]/.test(cn) || !fm.pinyin) return body;
+
+  // Insert immediately after the closing </span> of topic-hero-title-py.
+  const before = body;
+  body = body.replace(
+    /(<span class="topic-hero-title-py">[\s\S]*?<\/span>)/,
+    (m) => `${m}${buildAudioButton(cn, fm.pinyin)}`,
+  );
+  // Silently no-op if the page has no topic-hero-title-py (e.g. an unusual
+  // hand-authored vocab hero) — don't fail the build.
+  return body === before ? body : body;
+}
+
+function buildAudioButton(text, pinyin, opts) {
+  const inline = opts && opts.inline;
+  const cls = inline ? 'audio-btn audio-btn--inline' : 'audio-btn';
+  return (
+    `<button type="button" class="${cls}" ` +
+      `data-audio="${escapeAttr(text)}" ` +
+      `data-pinyin="${escapeAttr(pinyin || '')}" ` +
+      `aria-label="Play pronunciation (click to cycle voice)">` +
+      `<svg class="audio-btn-ico" width="14" height="14" viewBox="0 0 24 24" ` +
+        `fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" ` +
+        `stroke-linejoin="round" aria-hidden="true" focusable="false">` +
+        `<path d="M11 5 6 9H2v6h4l5 4V5z"/>` +
+        `<path class="audio-btn-wave" d="M15.54 8.46a5 5 0 0 1 0 7.07"/>` +
+        `<path class="audio-btn-wave audio-btn-wave--far" d="M19.07 4.93a10 10 0 0 1 0 14.14"/>` +
+      `</svg>` +
+      `<span class="audio-btn-voice" data-voice="xiaoxiao">女</span>` +
+    `</button>`
+  );
+}
+
+/**
+ * Inject inline audio buttons next to <span class="cy-py"> (chengyu cards)
+ * and <span class="card-py"> (vocab compound cards) wherever the preceding
+ * sibling has a matching cn span. Each button references the same (text, pinyin)
+ * pair the audio build module hashed for inline clips, so clicks resolve
+ * cleanly through the manifest's `inline` section.
+ *
+ * Skip if a button already exists for that py span (idempotent re-run).
+ */
+export function injectInlineAudio(body) {
+  // Chengyu pairs
+  body = body.replace(
+    /<span class="cy-cn">([\s\S]*?)<\/span>(\s*)<span class="cy-py">([\s\S]*?)<\/span>/g,
+    (m, cnInner, ws, pyInner) => {
+      const text   = stripTags(cnInner).trim();
+      const pinyin = stripTags(pyInner).trim();
+      if (!text || !pinyin || !/[一-鿿]/.test(text)) return m;
+      // If a button already follows, skip
+      return `<span class="cy-cn">${cnInner}</span>${ws}<span class="cy-py">${pyInner}</span>${buildAudioButton(text, pinyin, { inline: true })}`;
+    },
+  );
+
+  // Vocab-compound card pairs
+  body = body.replace(
+    /<span class="card-cn">([\s\S]*?)<\/span>(\s*)<span class="card-py">([\s\S]*?)<\/span>/g,
+    (m, cnInner, ws, pyInner) => {
+      const text   = stripTags(cnInner).trim();
+      const pinyin = stripTags(pyInner).trim();
+      if (!text || !pinyin || !/[一-鿿]/.test(text)) return m;
+      return `<span class="card-cn">${cnInner}</span>${ws}<span class="card-py">${pyInner}</span>${buildAudioButton(text, pinyin, { inline: true })}`;
+    },
+  );
+
+  return body;
+}
+
+function stripTags(s) {
+  return String(s || '').replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
 }
 
 // ── helpers ────────────────────────────────────────────────────────────────

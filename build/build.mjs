@@ -17,7 +17,7 @@ import { validateEntry } from './lib/validate.mjs';
 import { buildSearchIndex } from './lib/search-index.mjs';
 import { buildRelations, buildAdjacency, renderRelatedHtml, renderAdjacencyHtml } from './lib/relations.mjs';
 import { renderHskBody } from './lib/hsk.mjs';
-import { injectStrokeOrder, buildLinkMap, autoLinkBody, addPinyinAudio, buildPageFooter, renderSourcesHtml, ensureMainContentId, buildChipLinkMap, linkifyAdjChips } from './lib/augment.mjs';
+import { injectStrokeOrder, buildLinkMap, autoLinkBody, addPinyinAudio, injectInlineAudio, buildPageFooter, renderSourcesHtml, ensureMainContentId, buildChipLinkMap, linkifyAdjChips } from './lib/augment.mjs';
 import { buildAdjIndex } from './lib/adj-index.mjs';
 import { renderFamilyContent, renderFamilyCrosslinks } from './lib/family-render.mjs';
 import { renderOgSvg, categoryFaviconDataUri } from './lib/og.mjs';
@@ -550,8 +550,11 @@ for (const { fm, body, slug, category, outDir, entry } of pending) {
       // 1. Stroke order on character pages
       augmentedBody = injectStrokeOrder(augmentedBody, fm);
 
-      // 2. Pinyin audio buttons in heroes
+      // 2. Pinyin audio buttons in heroes (character + vocab/chengyu)
       augmentedBody = addPinyinAudio(augmentedBody, fm);
+
+      // 2b. Inline audio buttons on chengyu cards & vocab compound cards
+      augmentedBody = injectInlineAudio(augmentedBody);
 
       // 3a. Linkify Adjacent-Vocabulary chips first (Tier 1): if a chip's
       //     .a-cn matches an existing page, wrap the entire chip in <a> with

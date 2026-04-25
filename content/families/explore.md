@@ -30,6 +30,7 @@ updated: "2026-04-25"
     <span class="toc-label">On this page</span>
     <ul class="toc-list">
       <li><a href="#families">Pick a family</a></li>
+      <li><a href="#maps"><span class="toc-cn">地图</span> Interactive Map</a></li>
       <li><a href="#all-categories">Or pick a category</a></li>
     </ul>
   </aside>
