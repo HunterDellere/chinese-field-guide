@@ -388,27 +388,32 @@ document.addEventListener('click', function (e) {
 (function () {
   var svg = document.querySelector('.colophon-ornament');
   if (!svg) return;
-  // Inject a transparent hit-rect covering the whole ornament so taps land
-  // reliably even on the whitespace between the painted strokes.
+  // Inject a transparent hit-rect that fully covers the ornament — including
+  // the whitespace between the painted strokes. Over-sizing slightly (beyond
+  // the viewBox) provides a forgiving tap target on small screens.
   var NS = 'http://www.w3.org/2000/svg';
   var hit = document.createElementNS(NS, 'rect');
-  hit.setAttribute('x', '0');
-  hit.setAttribute('y', '0');
-  hit.setAttribute('width', '200');
-  hit.setAttribute('height', '24');
+  hit.setAttribute('x', '-20');
+  hit.setAttribute('y', '-6');
+  hit.setAttribute('width', '240');
+  hit.setAttribute('height', '36');
   hit.setAttribute('fill', 'transparent');
   hit.setAttribute('pointer-events', 'all');
   svg.appendChild(hit);
-  svg.style.cursor = 'default'; // no affordance change
+  svg.style.cursor = 'default';        // no affordance change
+  svg.style.touchAction = 'manipulation'; // kill 300ms delay on touch
   var taps = [];
-  function onTap() {
+  var fired = false;
+  function onTap(e) {
+    if (fired) return;
     var now = Date.now();
     // Keep only taps in the last 1.5 seconds.
     taps = taps.filter(function (t) { return now - t < 1500; });
     taps.push(now);
     if (taps.length >= 5) {
+      fired = true;
       taps = [];
-      // Small fade, then navigate. No alert, no indicator.
+      if (e) { e.preventDefault(); e.stopPropagation(); }
       svg.style.transition = 'opacity 180ms ease-out';
       svg.style.opacity = '0';
       setTimeout(function () {
@@ -416,8 +421,13 @@ document.addEventListener('click', function (e) {
       }, 180);
     }
   }
-  // Click covers both mouse clicks and synthesized touch-clicks on modern browsers.
-  svg.addEventListener('click', onTap);
+  // pointerdown fires immediately on touch (no 300ms click-delay) and also
+  // covers mouse. Fall back to click for older pointer-less browsers.
+  if ('onpointerdown' in svg) {
+    svg.addEventListener('pointerdown', onTap);
+  } else {
+    svg.addEventListener('click', onTap);
+  }
 })();
 </script>
 </body>
