@@ -293,32 +293,77 @@ function reasonChipHtml(reason) {
   return `<span class="rl-reason rl-reason-${reason.kind}">${escapeHtml(text)}</span>`;
 }
 
-export function renderRelatedHtml(related, fromPath) {
-  if (!related || related.length === 0) return '';
-  const items = related.map(r => {
-    // Accept both the old {entry} and new {entry, reason} shapes
+/**
+ * Build a one-line "detail" for a Related card: a short, useful gloss that
+ * isn't already covered by the english title. Falls back to '' if nothing
+ * stronger than the english title is available.
+ */
+function cardDetail(e) {
+  const candidates = [];
+  if (e.desc) candidates.push(e.desc);
+  if (e.metaDesc && e.metaDesc !== e.desc) candidates.push(e.metaDesc);
+  for (const c of candidates) {
+    // Strip any leading "X is/means" boilerplate that just restates the title
+    const trimmed = c.trim();
+    if (trimmed) return trimmed;
+  }
+  return '';
+}
+
+/**
+ * Render the new Related section: a card gallery with category color-coding,
+ * one TOC-discoverable section. Cards carry hanzi + pinyin + english + a
+ * one-line detail + the reason chip. The chips tier (legacy `.adj-wrap`) is
+ * hoisted in by build.mjs from the content body if present.
+ *
+ * Returns a `<section class="section-anchor" id="related">` so toc-scroll.js
+ * picks it up automatically. The section is empty/omitted only when there's
+ * nothing to show (no related, no chips).
+ */
+export function renderRelatedHtml(related, fromPath, opts = {}) {
+  const hasCards = related && related.length > 0;
+  if (!hasCards && !opts.hasChips) return '';
+
+  const cards = (related || []).map(r => {
     const e = r.entry || r;
     const reason = r.reason || null;
     const href = relativePath(fromPath, e.path);
     const cn = e.char || (e.title ? e.title.split('·')[0].trim() : '');
     const py = e.pinyin || '';
     const titleEn = e.title ? e.title.split('·').slice(1).join('·').trim() || e.title : '';
+    const detail = cardDetail(e);
     const sizeClass = cn.length >= 4 ? ' rl-multi' : '';
-    return `<a class="related-link${sizeClass}" href="${escapeHtml(href)}">` +
-           (cn ? `<span class="rl-cn">${escapeHtml(cn)}</span>` : '') +
-           (py ? `<span class="rl-py">${escapeHtml(py)}</span>` : '') +
-           `<span class="rl-en">${escapeHtml(titleEn)}</span>` +
-           reasonChipHtml(reason) +
+    const cat = e.category || '';
+    return `<a class="related-card${sizeClass}" href="${escapeHtml(href)}" data-category="${escapeHtml(cat)}">` +
+             `<span class="rc-head">` +
+               (cn ? `<span class="rc-cn">${escapeHtml(cn)}</span>` : '') +
+               (py ? `<span class="rc-py">${escapeHtml(py)}</span>` : '') +
+             `</span>` +
+             `<span class="rc-en">${escapeHtml(titleEn)}</span>` +
+             (detail ? `<span class="rc-detail">${escapeHtml(detail)}</span>` : '') +
+             reasonChipHtml(reason) +
            `</a>`;
-  }).join('\n      ');
+  }).join('\n        ');
+
+  const cardsBlock = hasCards
+    ? `\n      <div class="related-cards">\n        ${cards}\n      </div>`
+    : '';
+
+  // Chips placeholder — build.mjs replaces this with the hoisted .adj-wrap
+  // block, including a `.related-chips-head` subhead, when the page has chips.
+  const chipsSlot = opts.hasChips ? `\n      <!--RELATED_CHIPS_SLOT-->` : '';
 
   return `
-    <aside class="related" aria-labelledby="related-label">
-      <span class="related-label" id="related-label">Related entries · neighbours of this one</span>
-      <div class="related-list">
-      ${items}
-      </div>
-    </aside>`;
+    <span class="section-anchor" id="related"></span>
+    <div class="section-head">
+      <span class="sh-cn">相关</span>
+      <span class="sh-py">xiāngguān</span>
+      <span class="sh-en">Related</span>
+      <span class="sh-rule"></span>
+    </div>
+    <section class="related" aria-labelledby="related-label">
+      <span class="related-label sr-only" id="related-label">Related entries — pages and vocabulary in the neighbourhood of this one</span>${cardsBlock}${chipsSlot}
+    </section>`;
 }
 
 export function renderAdjacencyHtml(adj, fromPath) {

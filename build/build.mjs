@@ -537,15 +537,66 @@ for (const { fm, body, slug, category, outDir, entry } of pending) {
       augmentedBody = autoLinkBody(augmentedBody, linkMap, entry);
       if (augmentedBody.length !== beforeLen) autoLinkCount++;
 
-      // 4. Sources + related entries + prev/next at the bottom (inject before footer)
+      // 4. Hoist legacy "Adjacent Vocabulary" block into the new Related section.
+      //    Capture the existing .adj-wrap (if any) and the section-head wrapping
+      //    it, so we can move the chips into the Related section's chips slot
+      //    and remove the standalone "#adjacent" anchor + section-head from body.
+      let hoistedChipsHtml = '';
+      const adjacentBlockRe = /<span class="section-anchor" id="adjacent"><\/span>\s*<div class="section-head">[\s\S]*?<\/div>\s*(<div class="adj-wrap">[\s\S]*?<\/div>)/;
+      const adjMatch = augmentedBody.match(adjacentBlockRe);
+      if (adjMatch) {
+        hoistedChipsHtml = adjMatch[1];
+        augmentedBody = augmentedBody.replace(adjacentBlockRe, '');
+      } else {
+        // Fallback: a bare .adj-wrap without the standard wrapper (rare).
+        const bareWrapRe = /(<div class="adj-wrap">[\s\S]*?<\/div>)/;
+        const bareMatch = augmentedBody.match(bareWrapRe);
+        if (bareMatch) {
+          hoistedChipsHtml = bareMatch[1];
+          augmentedBody = augmentedBody.replace(bareWrapRe, '');
+        }
+      }
+
+      // Rewrite any sidebar TOC link that pointed at the retired #adjacent
+      // anchor → point at the new #related anchor with updated label.
+      // Use a permissive match: any <li><a href="#adjacent">...</a></li>,
+      // since some pages use varied toc-cn / toc-sub text ("Adjacent Vocab",
+      // "related structures", etc.).
+      augmentedBody = augmentedBody.replace(
+        /<li><a href="#adjacent">[\s\S]*?<\/a><\/li>/g,
+        `<li><a href="#related">\n        <span class="toc-cn">相关</span> Related\n        <span class="toc-sub">xiāngguān · pages &amp; vocab</span>\n      </a></li>`
+      );
+
+      // 5. Sources + related (cards + hoisted chips) + prev/next, injected before footer
       const sourcesHtml = renderSourcesHtml(fm);
-      const relatedHtml = renderRelatedHtml(relations.get(entry.path) || [], entry.path);
+      const relatedHtml = renderRelatedHtml(
+        relations.get(entry.path) || [],
+        entry.path,
+        { hasChips: Boolean(hoistedChipsHtml) }
+      );
+      const chipsTier = hoistedChipsHtml
+        ? `<div class="related-chips-tier">\n        <span class="related-chips-head"><span class="rch-cn">词族</span> <span class="rch-py">cízú</span> <span class="rch-en">Vocabulary in this field</span></span>\n        ${hoistedChipsHtml}\n      </div>`
+        : '';
+      const relatedHtmlFilled = relatedHtml.replace('<!--RELATED_CHIPS_SLOT-->', chipsTier);
       const adjacencyHtml = renderAdjacencyHtml(adjacency.get(entry.path), entry.path);
-      const injection = `${sourcesHtml}${relatedHtml}${adjacencyHtml}`;
+      const injection = `${sourcesHtml}${relatedHtmlFilled}${adjacencyHtml}`;
       if (injection && augmentedBody.includes('</main>')) {
         augmentedBody = augmentedBody.replace('</main>', `${injection}\n  </main>`);
       }
 
+      // If the page had no #adjacent TOC link AND we have anything to show in
+      // Related, inject a TOC entry at the end of the toc-list so the new
+      // section is discoverable from the sidebar.
+      if (relatedHtmlFilled && !/href="#related"/.test(augmentedBody.split('</aside>')[0] || '')) {
+        augmentedBody = augmentedBody.replace(
+          /(<ul class="toc-list">[\s\S]*?)(<\/ul>)/,
+          (m, listOpen, listClose) => {
+            // Avoid double-injection if the regex above already added one.
+            if (/href="#related"/.test(listOpen)) return m;
+            return `${listOpen}      <li><a href="#related">\n        <span class="toc-cn">相关</span> Related\n        <span class="toc-sub">xiāngguān · pages &amp; vocab</span>\n      </a></li>\n    ${listClose}`;
+          }
+        );
+      }
     }
 
     // Inject unified footer on all pages (strips authored stub if present)

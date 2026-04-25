@@ -1213,60 +1213,143 @@ tbody tr:hover td { background: var(--papyrus-2); }
   font-style: normal;
 }
 
-/* ── RELATED ENTRIES (cross-linking) ─────────────────────── */
+/* ── RELATED SECTION (cards + chips, two-tier) ───────────── */
+/* Visually-hidden helper (used for the section's aria label). */
+.sr-only {
+  position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px;
+  overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border: 0;
+}
+
 .related {
-  margin-top: 2.5rem;
-  padding: 1.2rem 1.4rem;
+  margin-top: 0.4rem;
+}
+
+/* Card gallery — auto-fitting grid, similar feel to .recent / .start-here. */
+.related-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 0.7rem;
+}
+.related-card {
+  display: flex; flex-direction: column; gap: 0.3rem;
+  padding: 0.85rem 0.95rem 0.95rem;
   background: var(--papyrus-2);
   border: 1px solid var(--rule);
-  border-radius: var(--radius-lg);
-}
-.related-label {
-  font-family: var(--font-mono);
-  font-size: 0.6rem;
-  letter-spacing: 0.2em;
-  text-transform: uppercase;
-  color: var(--ink-5);
-  display: block;
-  margin-bottom: 0.7rem;
-}
-.related-list {
-  display: flex; flex-wrap: wrap; gap: 0.45rem;
-}
-.related-link {
-  display: inline-flex; align-items: baseline; gap: 0.4rem;
-  background: var(--papyrus);
-  border: 1px solid var(--rule-2);
-  border-radius: 20px;
-  padding: 0.3rem 0.85rem;
+  border-top: 2px solid var(--rule-2);
+  border-radius: var(--radius);
   text-decoration: none;
   color: var(--ink-3);
-  font-size: 0.82rem;
-  transition: border-color 0.15s, background 0.15s, color 0.15s;
+  transition: background 0.15s, border-color 0.15s, transform 0.15s, box-shadow 0.15s;
+  min-height: 88px;
 }
-.related-link:hover { border-color: var(--red); background: var(--papyrus-3); color: var(--ink); }
-.related-link .rl-cn { font-family: var(--font-cn); font-weight: 700; color: var(--red); font-size: 0.95rem; letter-spacing: 0.02em; }
-.related-link.rl-multi .rl-cn { font-size: 0.85rem; letter-spacing: 0.03em; }
-.related-link .rl-py { font-family: var(--font-mono); font-size: 0.7rem; color: var(--ochre); }
-.related-link .rl-en { font-style: italic; color: var(--ink-4); font-size: 0.78rem; }
-.related-link:hover .rl-en { color: var(--ink-2); }
-.related-link .rl-reason {
+.related-card:hover {
+  background: var(--papyrus-3);
+  border-color: var(--rule-2);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(28,18,8,0.06);
+}
+.related-card:focus-visible { outline: none; border-color: var(--ochre); box-shadow: 0 0 0 2px rgba(160,100,40,0.25); }
+.related-card .rc-head { display: flex; align-items: baseline; gap: 0.45rem; flex-wrap: wrap; }
+.related-card .rc-cn { font-family: var(--font-cn-display); font-weight: 700; font-size: 1.4rem; line-height: 1.05; color: var(--red); letter-spacing: 0.02em; }
+.related-card.rl-multi .rc-cn { font-size: 1.1rem; letter-spacing: 0.03em; }
+.related-card .rc-py { font-family: var(--font-mono); font-size: 0.72rem; color: var(--ochre); letter-spacing: 0.04em; }
+.related-card .rc-en { font-style: italic; color: var(--ink-3); font-size: 0.86rem; line-height: 1.3; }
+.related-card .rc-detail {
+  font-size: 0.74rem;
+  color: var(--ink-5);
+  line-height: 1.4;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.related-card:hover .rc-en { color: var(--ink-2); }
+.related-card:hover .rc-detail { color: var(--ink-4); }
+
+/* Reason chip (radical / contains / tag / hsk / category). */
+.related-card .rl-reason {
+  align-self: flex-start;
+  margin-top: 0.15rem;
   font-family: var(--font-mono);
-  font-size: 0.58rem;
-  letter-spacing: 0.08em;
+  font-size: 0.56rem;
+  letter-spacing: 0.1em;
   text-transform: uppercase;
   color: var(--ink-5);
   padding: 0.1rem 0.45rem;
   border-radius: 10px;
-  background: var(--papyrus-3);
+  background: var(--papyrus);
   border: 1px solid var(--rule);
   white-space: nowrap;
+  max-width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
-.related-link:hover .rl-reason { color: var(--ink-3); border-color: var(--rule-2); }
-.related-link .rl-reason-radical  { color: var(--red);      background: rgba(139,26,26,0.06); }
-.related-link .rl-reason-contains { color: var(--ochre-2);  background: rgba(160,100,40,0.08); }
-.related-link .rl-reason-tag      { color: var(--teal-ink); background: rgba(30,90,95,0.07); }
-.related-link .rl-reason-hsk      { color: var(--violet-ink); background: rgba(85,50,110,0.07); }
+.related-card:hover .rl-reason { color: var(--ink-3); border-color: var(--rule-2); }
+.related-card .rl-reason-radical  { color: var(--red);        background: rgba(139,26,26,0.06); }
+.related-card .rl-reason-contains { color: var(--ochre-2);    background: rgba(160,100,40,0.08); }
+.related-card .rl-reason-tag      { color: var(--teal-ink);   background: rgba(30,90,95,0.07); }
+.related-card .rl-reason-hsk      { color: var(--violet-ink); background: rgba(85,50,110,0.07); }
+.related-card .rl-reason-category { color: var(--ink-4);      background: var(--papyrus-3); }
+
+/* Per-target-category color signature (top border + cn color), mirrors the
+   design system used by .start-here-item on the homepage. */
+.related-card[data-category="characters"]  { border-top-color: var(--cat-characters); }
+.related-card[data-category="vocab"]       { border-top-color: var(--cat-vocab); }
+.related-card[data-category="grammar"]     { border-top-color: var(--cat-grammar); }
+.related-card[data-category="chengyu"]     { border-top-color: var(--cat-chengyu); }
+.related-card[data-category="religion"]    { border-top-color: var(--cat-religion); }
+.related-card[data-category="philosophy"]  { border-top-color: var(--cat-philosophy); }
+.related-card[data-category="history"]     { border-top-color: var(--cat-history); }
+.related-card[data-category="geography"]   { border-top-color: var(--cat-geography); }
+.related-card[data-category="culture"]     { border-top-color: var(--cat-culture); }
+.related-card[data-category="culinary"]    { border-top-color: var(--cat-culinary); }
+.related-card[data-category="arts"]        { border-top-color: var(--cat-arts); }
+.related-card[data-category="science"]     { border-top-color: var(--cat-science); }
+.related-card[data-category="daily"]       { border-top-color: var(--cat-daily); }
+.related-card[data-category="hubs"]        { border-top-color: var(--cat-hubs); }
+
+.related-card[data-category="characters"]  .rc-cn { color: var(--cat-characters); }
+.related-card[data-category="vocab"]       .rc-cn { color: var(--cat-vocab); }
+.related-card[data-category="grammar"]     .rc-cn { color: var(--cat-grammar); }
+.related-card[data-category="chengyu"]     .rc-cn { color: var(--cat-chengyu); }
+.related-card[data-category="religion"]    .rc-cn { color: var(--cat-religion); }
+.related-card[data-category="philosophy"]  .rc-cn { color: var(--cat-philosophy); }
+.related-card[data-category="history"]     .rc-cn { color: var(--cat-history); }
+.related-card[data-category="geography"]   .rc-cn { color: var(--cat-geography); }
+.related-card[data-category="culture"]     .rc-cn { color: var(--cat-culture); }
+.related-card[data-category="culinary"]    .rc-cn { color: var(--cat-culinary); }
+.related-card[data-category="arts"]        .rc-cn { color: var(--cat-arts); }
+.related-card[data-category="science"]     .rc-cn { color: var(--cat-science); }
+.related-card[data-category="daily"]       .rc-cn { color: var(--cat-daily); }
+.related-card[data-category="hubs"]        .rc-cn { color: var(--cat-hubs); }
+
+/* Chips tier (legacy "adjacent vocabulary", hoisted into the Related section
+   as a second tier). The chips themselves keep the .adj / .adj-wrap styles
+   defined further below — only the wrapper and subhead are added here. */
+.related-chips-tier {
+  margin-top: 1.5rem;
+  padding-top: 1.1rem;
+  border-top: 1px dashed var(--rule);
+}
+.related-chips-head {
+  display: inline-flex; align-items: baseline; gap: 0.4rem;
+  margin-bottom: 0.55rem;
+}
+.related-chips-head .rch-cn { font-family: var(--font-cn); font-weight: 600; color: var(--ink-2); font-size: 0.95rem; }
+.related-chips-head .rch-py { font-family: var(--font-mono); font-size: 0.66rem; color: var(--ochre); letter-spacing: 0.04em; }
+.related-chips-head .rch-en {
+  font-family: var(--font-mono); font-size: 0.58rem; letter-spacing: 0.18em;
+  text-transform: uppercase; color: var(--ink-5);
+}
+
+@media (max-width: 600px) {
+  .related-cards { grid-template-columns: 1fr 1fr; gap: 0.55rem; }
+  .related-card { min-height: 78px; padding: 0.7rem 0.75rem 0.8rem; }
+  .related-card .rc-cn { font-size: 1.2rem; }
+  .related-card.rl-multi .rc-cn { font-size: 0.95rem; }
+  .related-card .rc-en { font-size: 0.8rem; }
+  .related-card .rc-detail { font-size: 0.7rem; -webkit-line-clamp: 2; }
+}
 
 /* ── PREV / NEXT (within category) ───────────────────────── */
 .prev-next {

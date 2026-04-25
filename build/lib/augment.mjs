@@ -333,7 +333,7 @@ function splitProtected(body) {
     `<(${protectedTags.join('|')})\\b[^>]*>[\\s\\S]*?<\\/\\1>|` + // protected element trees
     `<header class="hero">[\\s\\S]*?<\\/header>|` +                // hero
     `<header class="topic-hero">[\\s\\S]*?<\\/header>|` +
-    `<aside class="related">[\\s\\S]*?<\\/aside>|` +
+    `<section class="related"[^>]*>[\\s\\S]*?<\\/section>|` +
     `<nav class="prev-next">[\\s\\S]*?<\\/nav>|` +
     `<section class="stroke-order">[\\s\\S]*?<\\/section>|` +
     `<aside class="sidebar"[^>]*>[\\s\\S]*?<\\/aside>|` +          // sidebar TOC
