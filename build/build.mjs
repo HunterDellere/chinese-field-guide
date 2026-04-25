@@ -17,7 +17,7 @@ import { validateEntry } from './lib/validate.mjs';
 import { buildSearchIndex } from './lib/search-index.mjs';
 import { buildRelations, buildAdjacency, renderRelatedHtml, renderAdjacencyHtml } from './lib/relations.mjs';
 import { renderHskBody } from './lib/hsk.mjs';
-import { injectStrokeOrder, buildLinkMap, autoLinkBody, addPinyinAudio, buildPageFooter, renderSourcesHtml, ensureMainContentId } from './lib/augment.mjs';
+import { injectStrokeOrder, buildLinkMap, autoLinkBody, addPinyinAudio, buildPageFooter, renderSourcesHtml, ensureMainContentId, buildChipLinkMap, linkifyAdjChips } from './lib/augment.mjs';
 import { renderOgSvg, categoryFaviconDataUri } from './lib/og.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
@@ -531,7 +531,16 @@ for (const { fm, body, slug, category, outDir, entry } of pending) {
       // 2. Pinyin audio buttons in heroes
       augmentedBody = addPinyinAudio(augmentedBody, fm);
 
-      // 3. Auto-link other entries (one link per target per page)
+      // 3a. Linkify Adjacent-Vocabulary chips first (Tier 1): if a chip's
+      //     .a-cn matches an existing page, wrap the entire chip in <a> with
+      //     a data-category attr for color signaling. Running this before
+      //     autoLinkBody means the resulting <a class="adj"> is already an
+      //     anchor by the time autolink runs — autolink's protect-list skips
+      //     all <a> trees, so chips can't be double-wrapped.
+      const chipMap = buildChipLinkMap(entries, entry);
+      augmentedBody = linkifyAdjChips(augmentedBody, chipMap, entry.path);
+
+      // 3b. Auto-link other entries (one link per target per page)
       const linkMap = buildLinkMap(entries, entry);
       const beforeLen = augmentedBody.length;
       augmentedBody = autoLinkBody(augmentedBody, linkMap, entry);
@@ -578,6 +587,7 @@ for (const { fm, body, slug, category, outDir, entry } of pending) {
         ? `<div class="related-chips-tier">\n        <span class="related-chips-head"><span class="rch-cn">词族</span> <span class="rch-py">cízú</span> <span class="rch-en">Vocabulary in this field</span></span>\n        ${hoistedChipsHtml}\n      </div>`
         : '';
       const relatedHtmlFilled = relatedHtml.replace('<!--RELATED_CHIPS_SLOT-->', chipsTier);
+
       const adjacencyHtml = renderAdjacencyHtml(adjacency.get(entry.path), entry.path);
       const injection = `${sourcesHtml}${relatedHtmlFilled}${adjacencyHtml}`;
       if (injection && augmentedBody.includes('</main>')) {

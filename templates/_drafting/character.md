@@ -140,15 +140,34 @@ After the frontmatter, output the full HTML body. Follow this exact structure:
       </div>
     </div>
 
-    <!-- SECTION: Adjacent Vocab (required) -->
-    <span class="section-anchor" id="adjacent"></span>
-    <div class="section-head">
-      <span class="sh-cn">相邻词汇</span>
-      <span class="sh-py">xiānglín cíhuì</span>
-      <span class="sh-en">Adjacent Vocabulary</span>
-      <span class="sh-rule"></span>
-    </div>
+    <!-- SECTION: Vocabulary in this field (required) -->
+    <!-- Author this as an .adj-wrap block. At build time it is hoisted into
+         the page's "Related" section as the chips tier under the cards.
+         Do NOT add a #adjacent section-anchor or section-head — the build
+         strips them automatically. Just emit the .adj-wrap.
 
+         Chip schema:
+           <span class="adj"
+                 data-relation="synonym|antonym|collocation|derived|contrast"  (optional)
+                 data-distinct="one-line distinction vs the page subject"      (optional)
+           >
+             <span class="a-cn">CN</span>
+             <span class="a-py">pinyin</span>
+             <span class="a-en">english gloss</span>
+           </span>
+
+         Notes on the optional slots:
+         - data-relation tags the semantic relationship; future styling will
+           visually group chips by relation. Backwards-compatible: chips
+           without it render normally.
+         - data-distinct is the high-value disambiguation slot ("情绪 is more
+           clinical/state-like than 心情"). Fill in opportunistically when
+           the distinction is non-obvious; leave off when chip is just a
+           neighbor without a sharp contrast worth calling out.
+
+         Chips whose .a-cn matches an existing page on the site are
+         auto-upgraded to clickable links with the target's category color.
+         You don't need to author <a> wrappers — let the build do it. -->
     <div class="adj-wrap">
       <!-- 8-15 chips -->
       <span class="adj"><span class="a-cn"><!-- cn --></span><span class="a-py"><!-- py --></span><span class="a-en"><!-- en --></span></span>

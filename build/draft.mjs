@@ -76,10 +76,7 @@ radical: ''
         <span class="toc-cn">成语</span> Idioms
         <span class="toc-sub">chéngyǔ · set phrases</span>
       </a></li>
-      <li><a href="#adjacent">
-        <span class="toc-cn">相邻</span> Adjacent Vocab
-        <span class="toc-sub">xiānglín cíhuì</span>
-      </a></li>
+      <!-- The "Related" TOC link is auto-injected at build time; do not author it here. -->
     </ul>
   </aside>
 
@@ -137,15 +134,13 @@ radical: ''
       </div>
     </div>
 
-    <!-- ADJACENT VOCAB -->
-    <span class="section-anchor" id="adjacent"></span>
-    <div class="section-head">
-      <span class="sh-cn">相邻词汇</span>
-      <span class="sh-py">xiānglín cíhuì</span>
-      <span class="sh-en">Adjacent Vocabulary</span>
-      <span class="sh-rule"></span>
-    </div>
-
+    <!-- VOCABULARY IN THIS FIELD (chips tier of the auto-generated Related section)
+         The build hoists this .adj-wrap into the Related section under the
+         cards. Do NOT author a section-anchor or section-head; the build
+         strips them. Optional chip slots:
+           data-relation="synonym|antonym|collocation|derived|contrast"
+           data-distinct="one-line distinction vs the page subject"
+         Chips matching an existing page are auto-linked at build time. -->
     <div class="adj-wrap">
       <span class="adj"><span class="a-cn"><!-- cn --></span><span class="a-py"><!-- py --></span><span class="a-en"><!-- en --></span></span>
     </div>

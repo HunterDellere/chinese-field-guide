@@ -359,3 +359,50 @@ function relativePath(fromPath, toPath) {
   const downs = toParts.slice(common);
   return ('../'.repeat(ups) + downs.join('/')) || './';
 }
+
+/**
+ * Build a chip lookup: Chinese phrase → { path, category }. Used by
+ * linkifyAdjChips to upgrade adj chips matching an existing page into
+ * clickable, color-coded links.
+ */
+export function buildChipLinkMap(entries, currentEntry) {
+  const map = new Map();
+  for (const e of entries) {
+    if (e.status !== 'complete') continue;
+    if (e.path === currentEntry.path) continue;
+    const phrases = new Set();
+    if (e.char) phrases.add(e.char);
+    if (e.title) {
+      const cn = e.title.split('·')[0].trim();
+      if (cn && HZ_RE.test(cn)) phrases.add(cn);
+    }
+    for (const p of phrases) {
+      // First entry wins: characters are added before topics in entries.json,
+      // so a chip like 道 prefers the character page over a topic page.
+      if (!map.has(p)) map.set(p, { path: e.path, category: e.category || '' });
+    }
+  }
+  return map;
+}
+
+/**
+ * Upgrade <span class="adj"> chips into <a class="adj"> when their .a-cn
+ * text matches a built page. Adds a `data-category` attr for color signaling.
+ * Preserves any existing data-* attributes (e.g. data-relation, data-distinct).
+ * Idempotent: chips already wrapped in <a> are left alone.
+ */
+export function linkifyAdjChips(body, chipMap, fromPath) {
+  if (!chipMap || chipMap.size === 0) return body;
+  // Match the canonical chip shape:
+  //   <span class="adj"[attrs]><span class="a-cn">PHRASE</span><span class="a-py">…</span><span class="a-en">…</span></span>
+  // Tight, ordered match avoids the nested-</span> ambiguity.
+  const chipRe = /<span\s+class="adj"([^>]*)>(<span class="a-cn">([^<]+)<\/span><span class="a-py">[^<]*<\/span><span class="a-en">[^<]*<\/span>)<\/span>/g;
+  return body.replace(chipRe, (full, restAttrs, inner, phraseRaw) => {
+    const phrase = phraseRaw.trim();
+    const target = chipMap.get(phrase);
+    if (!target) return full;
+    const href = relativePath(fromPath, target.path);
+    const cat = target.category;
+    return `<a class="adj"${restAttrs} href="${href}" data-category="${cat}">${inner}</a>`;
+  });
+}

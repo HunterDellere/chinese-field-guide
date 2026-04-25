@@ -72,6 +72,15 @@ Tags must come from the controlled vocabulary in `content/_schema/tags.json`.
     <!-- Use .pattern for structural/grammatical patterns (grammar type) -->
     <!-- Use .cards for vocabulary groups -->
     <!-- Use .chengyu-grid for idioms (when applicable) -->
+    <!-- Use .adj-wrap for "vocabulary in this field" chips. The build hoists
+         this block into the page's Related section as the chips tier; do not
+         author a #adjacent section-anchor or section-head. Each chip:
+           <span class="adj"
+                 data-relation="synonym|antonym|collocation|derived|contrast"  (optional)
+                 data-distinct="one-line distinction vs the page subject"      (optional)
+           ><span class="a-cn">CN</span><span class="a-py">py</span><span class="a-en">en</span></span>
+         Chips whose .a-cn matches an existing page are auto-linked at build
+         time with category-color signaling. -->
     <!-- Use .adj-wrap for adjacent vocabulary chips -->
 
     <footer class="page-footer">

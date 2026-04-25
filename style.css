@@ -1422,6 +1422,39 @@ a.adj:focus-visible { outline: none; border-color: var(--ochre); box-shadow: 0 0
 .a-py { font-family: var(--font-mono); font-size: 0.68rem; color: var(--ochre); margin: 0 0.2rem; }
 .a-en { font-style: italic; color: var(--ink-5); font-size: 0.78rem; }
 
+/* Linked chips (chip phrase resolves to an existing page): subtle category
+   color on the cn glyph + a small left border in the category color. The
+   chip remains visually a chip, but the color signals "click for more". */
+a.adj[data-category]                         { border-left: 3px solid var(--rule-2); padding-left: 0.7rem; }
+a.adj[data-category="characters"]            { border-left-color: var(--cat-characters); }
+a.adj[data-category="vocab"]                 { border-left-color: var(--cat-vocab); }
+a.adj[data-category="grammar"]               { border-left-color: var(--cat-grammar); }
+a.adj[data-category="chengyu"]               { border-left-color: var(--cat-chengyu); }
+a.adj[data-category="religion"]              { border-left-color: var(--cat-religion); }
+a.adj[data-category="philosophy"]            { border-left-color: var(--cat-philosophy); }
+a.adj[data-category="history"]               { border-left-color: var(--cat-history); }
+a.adj[data-category="geography"]             { border-left-color: var(--cat-geography); }
+a.adj[data-category="culture"]               { border-left-color: var(--cat-culture); }
+a.adj[data-category="culinary"]              { border-left-color: var(--cat-culinary); }
+a.adj[data-category="arts"]                  { border-left-color: var(--cat-arts); }
+a.adj[data-category="science"]               { border-left-color: var(--cat-science); }
+a.adj[data-category="daily"]                 { border-left-color: var(--cat-daily); }
+a.adj[data-category="hubs"]                  { border-left-color: var(--cat-hubs); }
+a.adj[data-category="characters"] .a-cn      { color: var(--cat-characters); }
+a.adj[data-category="vocab"]      .a-cn      { color: var(--cat-vocab); }
+a.adj[data-category="grammar"]    .a-cn      { color: var(--cat-grammar); }
+a.adj[data-category="chengyu"]    .a-cn      { color: var(--cat-chengyu); }
+a.adj[data-category="religion"]   .a-cn      { color: var(--cat-religion); }
+a.adj[data-category="philosophy"] .a-cn      { color: var(--cat-philosophy); }
+a.adj[data-category="history"]    .a-cn      { color: var(--cat-history); }
+a.adj[data-category="geography"]  .a-cn      { color: var(--cat-geography); }
+a.adj[data-category="culture"]    .a-cn      { color: var(--cat-culture); }
+a.adj[data-category="culinary"]   .a-cn      { color: var(--cat-culinary); }
+a.adj[data-category="arts"]       .a-cn      { color: var(--cat-arts); }
+a.adj[data-category="science"]    .a-cn      { color: var(--cat-science); }
+a.adj[data-category="daily"]      .a-cn      { color: var(--cat-daily); }
+a.adj[data-category="hubs"]       .a-cn      { color: var(--cat-hubs); }
+
 /* ── PAGE FOOTER ─────────────────────────────────────────── */
 .page-footer {
   margin-top: 4rem;
