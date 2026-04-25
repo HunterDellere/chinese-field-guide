@@ -1,9 +1,9 @@
 {
-  "generated": "2026-04-25T04:52:36.972Z",
+  "generated": "2026-04-25T04:55:26.660Z",
   "summary": {
     "errors": 0,
     "warnings": 8,
-    "info": 233
+    "info": 258
   },
   "findings": [
     {
@@ -17,19 +17,39 @@
       "level": "INFO",
       "category": "tags",
       "file": "content/_schema/tags.json",
-      "msg": "tag inventory — 269 tags in use across 269 entries. Top 30: culture(89), history(61), philosophy(34), grammar(29), daily-life(22), classical(21), cosmology(20), geography(19), confucianism(17), syntax(17), social(16), tea(14), food(13), radical(12), literature(11), family(11), idioms(10), tcm(10), ritual(10), economy(9), language(9), vocabulary(9), calligraphy(8), culinary(8), writing(7), politics(7), nature(7), identity(7), spoken(7), hsk(7)"
+      "msg": "tag inventory — 271 tags in use across 295 entries. Top 30: culture(92), history(64), philosophy(42), grammar(36), classical(26), confucianism(25), cosmology(24), daily-life(24), geography(21), social(18), syntax(18), tea(14), radical(13), idioms(13), food(13), nature(12), language(12), family(12), hub(12), literature(12), ritual(11), tcm(10), ethics(9), politics(9), economy(9), vocabulary(9), science(8), daoism(8), calligraphy(8), culinary(8)"
+    },
+    {
+      "level": "INFO",
+      "category": "relations",
+      "file": "data/adj-index.json",
+      "msg": "5 adj-chip vocab terms appear on 4+ pages without a built entry — strong candidates for promotion to vocab pages: 还 (hái, 4×) · 君子 (jūnzǐ, 4×) · 神 (shén, 4×) · 无 (wú, 4×) · 智慧 (zhìhuì, 4×)",
+      "fix": "For each, decide whether to author as content/vocab/<slug>.md or content/characters/<slug>.md. After publishing, the chips automatically become clickable links on every page that references them."
+    },
+    {
+      "level": "INFO",
+      "category": "relations",
+      "file": "data/adj-index.json",
+      "msg": "128 adj-chip vocab terms appear on 2-3 pages without a built entry (softer candidates): 必须(3), 都(3), 汉语(3), 回来(3), 空(3), 雷(3), 良心(3), 轮回(3), 乾坤(3), 善(3), 想(3), 孝顺(3), 玉(3), 只要…就(3), 中文(3), 爱好(2), 般若(2), 本领(2), 表达(2), 不错(2) … +108 more",
+      "fix": "Optional: promote to a page if the term is meaningful in its own right. Otherwise leave as chip-only vocabulary."
+    },
+    {
+      "level": "INFO",
+      "category": "relations",
+      "file": "data/adj-index.json",
+      "msg": "adj-chip inventory: 1146 unique chip terms across all pages, 122 (11%) currently auto-linked to existing entries"
     },
     {
       "level": "INFO",
       "category": "search",
       "file": "data/search-index.json",
-      "msg": "index stats: 269 pages, 33117 tokens, 1426.2 KB"
+      "msg": "index stats: 295 pages, 34446 tokens, 1516.3 KB"
     },
     {
       "level": "INFO",
       "category": "search",
       "file": "data/search-index.json",
-      "msg": "18527 singleton tokens (appear in exactly 1 entry). Sample: facing-the-opportunity-immediately-decide, great-achievement-announce-accomplished, thunder-lightning-together-intensify, illuminate-lineage-glorify-ancestors, for-tiger-act-as-ghost-of-the-slain, chili-and-sichuan-pepper-saturated, exceed-people-intention-anticipate, hundred-feelings-intersect-gather, family-understood-household-known, have-no-ability-to-act-with-force, human-spirit-mutually-communicate, recognize-ancestor-return-lineage, breath-breath-mutually-connected, day-accumulate-month-accumulate, heart-receive-spirit-comprehend, urgent-like-shooting-star-fire, bright-observe-autumn-hair-tip, learning-has-no-stopping-point, matters-located-in-human-doing, right-wrong-overturned-upended, have-preparation-lack-disaster, legislative-executive-judicial, old-yet-increasingly-vigorous, accumulate-wrong-become-right, great-merit-announce-complete, right-wrong-correct-incorrect, benevolence-and-righteousness, no-connection-tense-important, clay-bodhisattva-cross-river, work-half-achievement-double"
+      "msg": "19112 singleton tokens (appear in exactly 1 entry). Sample: facing-the-opportunity-immediately-decide, great-achievement-announce-accomplished, thunder-lightning-together-intensify, illuminate-lineage-glorify-ancestors, for-tiger-act-as-ghost-of-the-slain, chili-and-sichuan-pepper-saturated, exceed-people-intention-anticipate, hundred-feelings-intersect-gather, family-understood-household-known, have-no-ability-to-act-with-force, human-spirit-mutually-communicate, recognize-ancestor-return-lineage, breath-breath-mutually-connected, day-accumulate-month-accumulate, heart-receive-spirit-comprehend, urgent-like-shooting-star-fire, bright-observe-autumn-hair-tip, learning-has-no-stopping-point, matters-located-in-human-doing, right-wrong-overturned-upended, have-preparation-lack-disaster, legislative-executive-judicial, old-yet-increasingly-vigorous, accumulate-wrong-become-right, great-merit-announce-complete, right-wrong-correct-incorrect, benevolence-and-righteousness, no-connection-tense-important, clay-bodhisattva-cross-river, work-half-achievement-double"
     },
     {
       "level": "INFO",
@@ -279,6 +299,13 @@
     {
       "level": "INFO",
       "category": "formatting",
+      "file": "content/characters/lai2_来.md",
+      "msg": "9 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
       "file": "content/characters/lao3_老.md",
       "msg": "4 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
@@ -342,6 +369,13 @@
     {
       "level": "INFO",
       "category": "formatting",
+      "file": "content/characters/qi2_其.md",
+      "msg": "9 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
       "file": "content/characters/qi4_气.md",
       "msg": "17 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
@@ -351,6 +385,13 @@
       "category": "formatting",
       "file": "content/characters/qian2_钱.md",
       "msg": "3 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
+      "file": "content/characters/qu4_去.md",
+      "msg": "9 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
@@ -379,6 +420,13 @@
       "category": "formatting",
       "file": "content/characters/shan1_山.md",
       "msg": "4 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
+      "file": "content/characters/shang4_上.md",
+      "msg": "10 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
@@ -475,8 +523,22 @@
     {
       "level": "INFO",
       "category": "formatting",
+      "file": "content/characters/xia4_下.md",
+      "msg": "9 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
       "file": "content/characters/xin1_心.md",
       "msg": "14 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
+      "file": "content/characters/xin4_信.md",
+      "msg": "6 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
@@ -498,6 +560,13 @@
       "category": "formatting",
       "file": "content/characters/yao4_要.md",
       "msg": "7 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
+      "file": "content/characters/yi4_义.md",
+      "msg": "6 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
@@ -545,6 +614,13 @@
     {
       "level": "INFO",
       "category": "formatting",
+      "file": "content/characters/zhi4_智.md",
+      "msg": "6 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
       "file": "content/characters/zi4_字.md",
       "msg": "18 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
@@ -587,6 +663,20 @@
     {
       "level": "INFO",
       "category": "formatting",
+      "file": "content/chengyu/qingchulanlan_青出于蓝.md",
+      "msg": "4 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
+      "file": "content/chengyu/renshanshuixiu_山清水秀.md",
+      "msg": "4 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
       "file": "content/chengyu/saiwengshima_塞翁失马.md",
       "msg": "4 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
@@ -609,6 +699,13 @@
       "level": "INFO",
       "category": "formatting",
       "file": "content/chengyu/yeggonghalong_叶公好龙.md",
+      "msg": "4 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
+      "file": "content/chengyu/yimaobuba_一毛不拔.md",
       "msg": "4 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
@@ -734,6 +831,13 @@
     {
       "level": "INFO",
       "category": "formatting",
+      "file": "content/daily/topic_jiating.md",
+      "msg": "6 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
       "file": "content/daily/topic_jingjiu.md",
       "msg": "6 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
@@ -743,6 +847,13 @@
       "category": "formatting",
       "file": "content/daily/topic_kuaizi.md",
       "msg": "9 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
+      "file": "content/daily/topic_mianzi_practice.md",
+      "msg": "6 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
@@ -1063,8 +1174,15 @@
     {
       "level": "INFO",
       "category": "formatting",
-      "file": "content/grammar/yuqi_bufu_与其不如.md",
+      "file": "content/grammar/yuqi_buru_与其不如.md",
       "msg": "3 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
+      "file": "content/grammar/zhe_着.md",
+      "msg": "9 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
@@ -1072,6 +1190,13 @@
       "category": "formatting",
       "file": "content/grammar/zhiyou_cai_只有才.md",
       "msg": "1 vocab card contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
+      "file": "content/history/topic_chunqiu.md",
+      "msg": "5 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
@@ -1119,8 +1244,43 @@
     {
       "level": "INFO",
       "category": "formatting",
+      "file": "content/history/topic_zhanguo.md",
+      "msg": "4 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
+      "file": "content/hubs/daode.md",
+      "msg": "18 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
+      "file": "content/hubs/dili.md",
+      "msg": "12 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
       "file": "content/hubs/dynasties.md",
       "msg": "12 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
+      "file": "content/hubs/faming.md",
+      "msg": "12 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
+      "file": "content/hubs/hanyu.md",
+      "msg": "18 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
@@ -1147,6 +1307,13 @@
     {
       "level": "INFO",
       "category": "formatting",
+      "file": "content/hubs/wenxue.md",
+      "msg": "12 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
       "file": "content/hubs/zhexue.md",
       "msg": "13 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
@@ -1156,6 +1323,13 @@
       "category": "formatting",
       "file": "content/hubs/zhongyi.md",
       "msg": "10 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
+      "file": "content/hubs/zongjiao.md",
+      "msg": "11 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {

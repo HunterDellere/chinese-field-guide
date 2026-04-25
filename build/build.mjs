@@ -18,6 +18,7 @@ import { buildSearchIndex } from './lib/search-index.mjs';
 import { buildRelations, buildAdjacency, renderRelatedHtml, renderAdjacencyHtml } from './lib/relations.mjs';
 import { renderHskBody } from './lib/hsk.mjs';
 import { injectStrokeOrder, buildLinkMap, autoLinkBody, addPinyinAudio, buildPageFooter, renderSourcesHtml, ensureMainContentId, buildChipLinkMap, linkifyAdjChips } from './lib/augment.mjs';
+import { buildAdjIndex } from './lib/adj-index.mjs';
 import { renderOgSvg, categoryFaviconDataUri } from './lib/og.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
@@ -651,6 +652,13 @@ entries.sort((a, b) => {
 });
 
 writeFileSync(join(dataDir, 'entries.json'), JSON.stringify(entries, null, 2), 'utf8');
+
+// Reverse index for Adjacent Vocabulary chips: every chip-cn mapped to the
+// pages that mention it, with `hasPage` flagging whether the chip is already
+// auto-linked. Consumed by validate-adj-coverage.mjs to surface candidate
+// vocab entries (high-frequency chips that don't have a page yet).
+const adjIndex = buildAdjIndex(contentDir, entries);
+writeFileSync(join(dataDir, 'adj-index.json'), JSON.stringify(adjIndex, null, 2), 'utf8');
 
 // Build a path → plain-text body map for search indexing.
 // Strip HTML tags and collapse whitespace; drop content inside the sidebar
