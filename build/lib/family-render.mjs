@@ -22,7 +22,14 @@
  *   <!--FAMILY_CROSSLINKS--> → renderFamilyCrosslinks(family)
  */
 
+import { readFileSync } from 'node:fs';
+import { fileURLToPath } from 'node:url';
+import { dirname, join } from 'node:path';
+
 import { renderFamilyHeroArt } from './family-art.mjs';
+
+const __dirname = dirname(fileURLToPath(import.meta.url));
+const ROOT = join(__dirname, '..', '..');
 
 // ── family configuration ────────────────────────────────────────────────────
 
@@ -41,25 +48,12 @@ export const FAMILY_META = {
   collections: { cn: '集锦', py: 'jíjǐn',   en: 'Collections', desc: 'Idioms and curated reading paths — entries grouped to be read together.' },
 };
 
-// Per-category metadata (kept in sync with scripts/homepage.js CATEGORY_META).
-// Single source of truth would be ideal; for now we duplicate so the build
-// renderer doesn't need to parse JS. If you change one, change the other.
-const CATEGORY_META = {
-  characters: { cn: '字',   py: 'zì',       en: 'Characters',         desc: 'Single glyphs. Etymology, decomposition, daily use.' },
-  vocab:      { cn: '词',   py: 'cí',       en: 'Vocabulary',         desc: 'Words and concepts that carry cultural weight.' },
-  grammar:    { cn: '法',   py: 'fǎ',       en: 'Grammar',            desc: 'Particles, structures, and the joints of the language.' },
-  religion:   { cn: '宗教', py: 'zōngjiào', en: 'Religion',           desc: 'Buddhism, Daoism, folk practice, ancestor rites.' },
-  philosophy: { cn: '哲学', py: 'zhéxué',   en: 'Philosophy',         desc: 'The hundred schools and what they argued about.' },
-  history:    { cn: '历史', py: 'lìshǐ',    en: 'History',            desc: 'Dynasties, ruptures, and the long arc.' },
-  geography:  { cn: '地理', py: 'dìlǐ',     en: 'Geography',          desc: 'Places, dialects, and the shape of the land.' },
-  culture:    { cn: '文化', py: 'wénhuà',   en: 'Culture',            desc: 'What people make and how they live with it.' },
-  culinary:   { cn: '饮食', py: 'yǐnshí',   en: 'Culinary',           desc: 'What is cooked, drunk, and shared at the table.' },
-  arts:       { cn: '艺文', py: 'yìwén',    en: 'Arts & Literature',  desc: 'Poetry, painting, calligraphy, opera.' },
-  science:    { cn: '科技', py: 'kējì',     en: 'Science & Medicine', desc: 'Astronomy, medicine, and technology before modernity.' },
-  daily:      { cn: '日常', py: 'rìcháng',  en: 'Everyday Life',      desc: 'Names, numbers, gifts, gestures, taboos.' },
-  chengyu:    { cn: '成语', py: 'chéngyǔ',  en: 'Chengyu',            desc: 'Four-character idioms. Compressed wisdom from classical texts.' },
-  hubs:       { cn: '读径', py: 'dú jìng',  en: 'Reading Paths',      desc: 'Curated reading paths through thematic clusters.' },
-};
+// Single source of truth: data/category-meta.json (also fetched by
+// scripts/homepage.js at runtime). Read once at module load — the build
+// is single-pass, so a stale snapshot during a build is impossible.
+const CATEGORY_META = JSON.parse(
+  readFileSync(join(ROOT, 'data', 'category-meta.json'), 'utf8')
+);
 
 // ── helpers ─────────────────────────────────────────────────────────────────
 
@@ -213,11 +207,16 @@ function renderExploreContent(entries) {
   }).join('\n      ');
 
   // Flat all-categories list (reference-style: glyph + name + count).
-  const allCats = Object.keys(CATEGORY_META).filter(k => totalsByCategory.has(k));
+  // Only categories that belong to a family are listed — HSK and other
+  // standalone destinations have their own surfaces elsewhere.
+  const allCats = Object.keys(CATEGORY_META).filter(k => {
+    if (!totalsByCategory.has(k)) return false;
+    return Object.values(FAMILY_MEMBERS).some(ks => ks.includes(k));
+  });
   const catLinks = allCats.map(k => {
     const m = CATEGORY_META[k];
     const family = Object.entries(FAMILY_MEMBERS).find(([, ks]) => ks.includes(k))?.[0];
-    const familyHref = family ? `${family}.html#cat-${k}` : `${k}.html`;
+    const familyHref = `${family}.html#cat-${k}`;
     const count = totalsByCategory.get(k) || 0;
     return `<a class="all-cat-link" href="${familyHref}" data-category="${k}">
           <span class="acl-cn" style="color: var(--cat-${k})">${escapeHtml(m.cn)}</span>

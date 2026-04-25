@@ -1,0 +1,17 @@
+{
+  "characters": { "cn": "字",   "py": "zì",       "en": "Characters",         "desc": "Single glyphs. Etymology, decomposition, daily use." },
+  "vocab":      { "cn": "词",   "py": "cí",       "en": "Vocabulary",         "desc": "Words and concepts that carry cultural weight." },
+  "grammar":    { "cn": "法",   "py": "fǎ",       "en": "Grammar",            "desc": "Particles, structures, and the joints of the language." },
+  "religion":   { "cn": "宗教", "py": "zōngjiào", "en": "Religion",           "desc": "Buddhism, Daoism, folk practice, ancestor rites." },
+  "philosophy": { "cn": "哲学", "py": "zhéxué",   "en": "Philosophy",         "desc": "The hundred schools and what they argued about." },
+  "history":    { "cn": "历史", "py": "lìshǐ",    "en": "History",            "desc": "Dynasties, ruptures, and the long arc." },
+  "geography":  { "cn": "地理", "py": "dìlǐ",     "en": "Geography",          "desc": "Places, dialects, and the shape of the land." },
+  "culture":    { "cn": "文化", "py": "wénhuà",   "en": "Culture",            "desc": "What people make and how they live with it." },
+  "culinary":   { "cn": "饮食", "py": "yǐnshí",   "en": "Culinary",           "desc": "What is cooked, drunk, and shared at the table." },
+  "arts":       { "cn": "艺文", "py": "yìwén",    "en": "Arts & Literature",  "desc": "Poetry, painting, calligraphy, opera." },
+  "science":    { "cn": "科技", "py": "kējì",     "en": "Science & Medicine", "desc": "Astronomy, medicine, and technology before modernity." },
+  "daily":      { "cn": "日常", "py": "rìcháng",  "en": "Everyday Life",      "desc": "Names, numbers, gifts, gestures, taboos." },
+  "chengyu":    { "cn": "成语", "py": "chéngyǔ",  "en": "Chengyu",            "desc": "Four-character idioms. Compressed wisdom from classical texts." },
+  "hsk":        { "cn": "考试", "py": "kǎoshì",   "en": "HSK Lists",          "desc": "Characters, vocabulary, and grammar by official HSK level." },
+  "hubs":       { "cn": "读径", "py": "dú jìng",  "en": "Reading Paths",      "desc": "Curated reading paths through thematic clusters." }
+}

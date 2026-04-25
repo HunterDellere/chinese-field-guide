@@ -1,21 +1,16 @@
 (function () {
-  const CATEGORY_META = {
-    characters: { cn: "字",   py: "zì",       en: "Characters",         color: "var(--cat-characters)", desc: "Single glyphs. Etymology, decomposition, daily use." },
-    vocab:      { cn: "词",   py: "cí",       en: "Vocabulary",         color: "var(--cat-vocab)",      desc: "Words and concepts that carry cultural weight." },
-    grammar:    { cn: "法",   py: "fǎ",       en: "Grammar",            color: "var(--cat-grammar)",    desc: "Particles, structures, and the joints of the language." },
-    religion:   { cn: "宗教", py: "zōngjiào", en: "Religion",           color: "var(--cat-religion)",   desc: "Buddhism, Daoism, folk practice, ancestor rites." },
-    philosophy: { cn: "哲学", py: "zhéxué",   en: "Philosophy",         color: "var(--cat-philosophy)", desc: "The hundred schools and what they argued about." },
-    history:    { cn: "历史", py: "lìshǐ",    en: "History",            color: "var(--cat-history)",    desc: "Dynasties, ruptures, and the long arc." },
-    geography:  { cn: "地理", py: "dìlǐ",     en: "Geography",          color: "var(--cat-geography)",  desc: "Places, dialects, and the shape of the land." },
-    culture:    { cn: "文化", py: "wénhuà",   en: "Culture",            color: "var(--cat-culture)",    desc: "What people make and how they live with it." },
-    culinary:   { cn: "饮食", py: "yǐnshí",   en: "Culinary",           color: "var(--cat-culinary)",   desc: "What is cooked, drunk, and shared at the table." },
-    arts:       { cn: "艺文", py: "yìwén",    en: "Arts & Literature",  color: "var(--cat-arts)",       desc: "Poetry, painting, calligraphy, opera." },
-    science:    { cn: "科技", py: "kējì",     en: "Science & Medicine", color: "var(--cat-science)",    desc: "Astronomy, medicine, and technology before modernity." },
-    daily:      { cn: "日常", py: "rìcháng",  en: "Everyday Life",      color: "var(--cat-daily)",      desc: "Names, numbers, gifts, gestures, taboos." },
-    chengyu:    { cn: "成语", py: "chéngyǔ",  en: "Chengyu",            color: "var(--cat-chengyu)",    desc: "Four-character idioms. Compressed wisdom from classical texts." },
-    hsk:        { cn: "考试", py: "kǎoshì",   en: "HSK Lists",           color: "var(--cat-hsk)",        desc: "Characters, vocabulary, and grammar by official HSK level." },
-    hubs:       { cn: "读径", py: "dú jìng",  en: "Reading Paths",       color: "var(--cat-hubs)",       desc: "Curated reading paths through thematic clusters." }
-  };
+  // Per-category metadata. Single source of truth: data/category-meta.json
+  // (also imported by build/lib/family-render.mjs at build time). Loaded
+  // inside boot() once the fetch resolves; the `color` field is derived
+  // from the key, since every category uses var(--cat-<key>).
+  let CATEGORY_META = {};
+  function deriveCategoryMeta(raw) {
+    const out = {};
+    for (const [key, meta] of Object.entries(raw)) {
+      out[key] = { ...meta, color: `var(--cat-${key})` };
+    }
+    return out;
+  }
 
   // Three families: Collections → Topics → Language.
   // Topics are clustered thematically: thought → place/time → lived → making.
@@ -264,9 +259,11 @@
     fetch('data/entries.json').then(r => r.json()),
     fetch('data/search-index.json').then(r => r.json()),
     fetch('data/recent.json').then(r => r.json()).catch(() => []),
-    fetch('data/featured.json').then(r => r.json()).catch(() => [])
-  ]).then(([allEntriesRaw, searchIndex, recentEntries, featured]) => {
+    fetch('data/featured.json').then(r => r.json()).catch(() => []),
+    fetch('data/category-meta.json').then(r => r.json())
+  ]).then(([allEntriesRaw, searchIndex, recentEntries, featured, catMetaRaw]) => {
     const allEntries = allEntriesRaw.filter(e => e.status === "complete");
+    CATEGORY_META = deriveCategoryMeta(catMetaRaw);
     boot(allEntries, searchIndex, recentEntries, featured);
   }).catch(err => {
     console.error('Failed to load entries data:', err);
