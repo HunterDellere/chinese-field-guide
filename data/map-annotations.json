@@ -1,0 +1,264 @@
+{
+  "annotations": [
+    {
+      "id": "beijing",
+      "label_cn": "北京",
+      "label_py": "Běijīng",
+      "label_en": "Beijing",
+      "x": 62.8,
+      "y": 20.5,
+      "entry": "geography/topic_beijing",
+      "layers": ["sites", "modern"],
+      "category": "geography",
+      "type": "city"
+    },
+    {
+      "id": "shanghai",
+      "label_cn": "上海",
+      "label_py": "Shànghǎi",
+      "label_en": "Shanghai",
+      "x": 68.8,
+      "y": 36.5,
+      "entry": "geography/topic_shanghai",
+      "layers": ["sites", "modern"],
+      "category": "geography",
+      "type": "city"
+    },
+    {
+      "id": "huanghe",
+      "label_cn": "黄河",
+      "label_py": "Huánghé",
+      "label_en": "Yellow River",
+      "x": 55.0,
+      "y": 28.0,
+      "entry": "geography/topic_huanghe",
+      "layers": ["rivers"],
+      "category": "geography",
+      "type": "river"
+    },
+    {
+      "id": "changjiang",
+      "label_cn": "长江",
+      "label_py": "Cháng Jiāng",
+      "label_en": "Yangtze River",
+      "x": 56.0,
+      "y": 38.5,
+      "entry": "geography/topic_changjiang",
+      "layers": ["rivers"],
+      "category": "geography",
+      "type": "river"
+    },
+    {
+      "id": "xinjiang",
+      "label_cn": "新疆",
+      "label_py": "Xīnjiāng",
+      "label_en": "Xinjiang",
+      "x": 22.0,
+      "y": 24.5,
+      "entry": "geography/topic_xinjiang",
+      "layers": ["sites", "modern"],
+      "category": "geography",
+      "type": "region"
+    },
+    {
+      "id": "xizang",
+      "label_cn": "西藏",
+      "label_py": "Xīzàng",
+      "label_en": "Tibet",
+      "x": 24.5,
+      "y": 42.5,
+      "entry": "geography/topic_xizang",
+      "layers": ["sites", "modern"],
+      "category": "geography",
+      "type": "region"
+    },
+    {
+      "id": "taiwan",
+      "label_cn": "台湾",
+      "label_py": "Táiwān",
+      "label_en": "Taiwan",
+      "x": 74.5,
+      "y": 47.5,
+      "entry": "geography/topic_taiwan",
+      "layers": ["sites", "modern"],
+      "category": "geography",
+      "type": "island"
+    },
+    {
+      "id": "xianggang",
+      "label_cn": "香港",
+      "label_py": "Xiānggǎng",
+      "label_en": "Hong Kong",
+      "x": 66.8,
+      "y": 56.0,
+      "entry": "geography/topic_xianggang",
+      "layers": ["sites", "modern"],
+      "category": "geography",
+      "type": "city"
+    },
+    {
+      "id": "tangchao",
+      "label_cn": "唐朝中心",
+      "label_py": "Táng Cháo",
+      "label_en": "Tang Dynasty Capital (Chang'an)",
+      "x": 52.5,
+      "y": 30.5,
+      "entry": "history/topic_tangchao",
+      "layers": ["dynasties"],
+      "category": "history",
+      "type": "dynasty-capital"
+    },
+    {
+      "id": "hanchao",
+      "label_cn": "汉朝中心",
+      "label_py": "Hàn Cháo",
+      "label_en": "Han Dynasty Capital (Chang'an)",
+      "x": 51.8,
+      "y": 30.8,
+      "entry": "history/topic_hanchao",
+      "layers": ["dynasties"],
+      "category": "history",
+      "type": "dynasty-capital"
+    },
+    {
+      "id": "mingchao",
+      "label_cn": "明朝",
+      "label_py": "Míng Cháo",
+      "label_en": "Ming Dynasty (Nanjing / Beijing)",
+      "x": 63.0,
+      "y": 36.0,
+      "entry": "history/topic_mingchao",
+      "layers": ["dynasties"],
+      "category": "history",
+      "type": "dynasty-capital"
+    },
+    {
+      "id": "songchao",
+      "label_cn": "宋朝",
+      "label_py": "Sòng Cháo",
+      "label_en": "Song Dynasty (Hangzhou)",
+      "x": 67.5,
+      "y": 38.0,
+      "entry": "history/topic_songchao",
+      "layers": ["dynasties"],
+      "category": "history",
+      "type": "dynasty-capital"
+    },
+    {
+      "id": "qingchao",
+      "label_cn": "清朝",
+      "label_py": "Qīng Cháo",
+      "label_en": "Qing Dynasty (Beijing)",
+      "x": 62.5,
+      "y": 20.0,
+      "entry": "history/topic_qingchao",
+      "layers": ["dynasties"],
+      "category": "history",
+      "type": "dynasty-capital"
+    },
+    {
+      "id": "yuanchao",
+      "label_cn": "元朝",
+      "label_py": "Yuán Cháo",
+      "label_en": "Yuan Dynasty (Khanbaliq)",
+      "x": 62.0,
+      "y": 19.5,
+      "entry": "history/topic_yuanchao",
+      "layers": ["dynasties"],
+      "category": "history",
+      "type": "dynasty-capital"
+    },
+    {
+      "id": "fangyan_yue",
+      "label_cn": "粤语区",
+      "label_py": "Yuèyǔ",
+      "label_en": "Cantonese-speaking region",
+      "x": 63.5,
+      "y": 55.5,
+      "entry": "geography/topic_fangyan",
+      "layers": ["dialects"],
+      "category": "geography",
+      "type": "dialect-zone"
+    },
+    {
+      "id": "fangyan_min",
+      "label_cn": "闽语区",
+      "label_py": "Mǐnyǔ",
+      "label_en": "Min dialect region",
+      "x": 71.0,
+      "y": 50.5,
+      "entry": "geography/topic_fangyan",
+      "layers": ["dialects"],
+      "category": "geography",
+      "type": "dialect-zone"
+    },
+    {
+      "id": "fangyan_wu",
+      "label_cn": "吴语区",
+      "label_py": "Wúyǔ",
+      "label_en": "Wu dialect region (Shanghainese)",
+      "x": 68.0,
+      "y": 37.5,
+      "entry": "geography/topic_fangyan",
+      "layers": ["dialects"],
+      "category": "geography",
+      "type": "dialect-zone"
+    },
+    {
+      "id": "cuisines",
+      "label_cn": "八大菜系",
+      "label_py": "Bādà Càixì",
+      "label_en": "Eight Regional Cuisines",
+      "x": 58.0,
+      "y": 45.0,
+      "entry": "geography/topic_caixi_geography",
+      "layers": ["sites"],
+      "category": "geography",
+      "type": "cultural"
+    },
+    {
+      "id": "tea",
+      "label_cn": "茶文化",
+      "label_py": "Chá Wénhuà",
+      "label_en": "Tea Culture",
+      "x": 61.5,
+      "y": 50.5,
+      "entry": "culture/topic_cha_wenhua",
+      "layers": ["sites"],
+      "category": "culture",
+      "type": "cultural"
+    }
+  ],
+  "layers": [
+    {
+      "id": "modern",
+      "label_cn": "现代",
+      "label_en": "Modern Boundaries",
+      "default": true
+    },
+    {
+      "id": "rivers",
+      "label_cn": "江河",
+      "label_en": "Rivers",
+      "default": false
+    },
+    {
+      "id": "dynasties",
+      "label_cn": "朝代",
+      "label_en": "Dynasties",
+      "default": false
+    },
+    {
+      "id": "dialects",
+      "label_cn": "方言",
+      "label_en": "Dialects",
+      "default": false
+    },
+    {
+      "id": "sites",
+      "label_cn": "文化地点",
+      "label_en": "Cultural Sites",
+      "default": false
+    }
+  ]
+}

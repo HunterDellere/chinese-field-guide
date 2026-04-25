@@ -6,7 +6,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>四大发明与技术 · Invention and Technology — Jiǎoluò Shūwū · 角落書屋</title>
 <meta name="description" content="Chinese technological innovation was not a story of lone inventors. It was systematic accumulation within state institutions and artisan guilds over centuries, carried by people whose names the record does not preserve.">
-<meta name="theme-color" content="#1c1208">
+<meta name="theme-color" content="#1c1208" id="meta-theme-color">
+<!-- Flash-of-wrong-theme prevention: read localStorage before first paint -->
+<script>(function(){try{var t=localStorage.getItem('shuwo-theme');if(t==='dark'||t==='light'){document.documentElement.setAttribute('data-theme',t);}else if(!t&&window.matchMedia('(prefers-color-scheme: dark)').matches){document.documentElement.setAttribute('data-theme','dark');}}catch(e){}})();</script>
 <meta name="apple-mobile-web-app-title" content="角落書屋">
 <meta name="application-name" content="角落書屋">
 <link rel="alternate" type="application/rss+xml" title="Jiǎoluò Shūwū · 角落書屋" href="../../feed.xml">
@@ -46,6 +48,10 @@
   <div class="topnav-right">
     <a href="#" class="topnav-random" data-random-entry data-entries-base="../../" aria-label="Open a random entry"><span aria-hidden="true">⟳</span> Random</a>
     <a href="../families/explore.html" class="topnav-back" aria-label="Explore all entries">Explore</a>
+    <button class="theme-toggle" type="button" aria-label="Toggle dark mode" id="theme-toggle">
+      <span class="tt-sun" aria-hidden="true">☀</span>
+      <span class="tt-moon" aria-hidden="true">☾</span>
+    </button>
   </div>
 </nav>
 
@@ -359,7 +365,7 @@
         <a class="related-card" href="../science/topic_lifa.html" data-category="science"><span class="rc-head"><span class="rc-cn">历法</span><span class="rc-py">lìfǎ</span></span><span class="rc-en">The Lunisolar Calendar</span><span class="rc-detail">Neither purely solar nor purely lunar, the Chinese calendar has kept farmers, physicians, and dynasties synchronized with the cosmos for three thousand years.</span><span class="rl-reason rl-reason-tag">theme · science</span></a>
         <a class="related-card" href="../characters/da4_大.html" data-category="characters"><span class="rc-head"><span class="rc-cn">大</span><span class="rc-py">dà</span></span><span class="rc-en">big, great, large</span><span class="rc-detail">Big, great, large — a person with arms wide open, the original measure of magnitude.</span><span class="rl-reason rl-reason-contains">in 大</span></a>
         <a class="related-card" href="../characters/ming2_明.html" data-category="characters"><span class="rc-head"><span class="rc-cn">明</span><span class="rc-py">míng</span></span><span class="rc-en">bright, clear, tomorrow</span><span class="rc-detail">Sun and moon combined — brightness, clarity, dawn, and understanding.</span><span class="rl-reason rl-reason-contains">in 明</span></a>
-        <a class="related-card rl-multi" href="../science/topic_bencao.html" data-category="science"><span class="rc-head"><span class="rc-cn">本草纲目</span><span class="rc-py">běncǎo gāngmù</span></span><span class="rc-en">The Great Pharmacopeia</span><span class="rc-detail">Li Shizhen spent 27 years cataloguing 1,892 drugs — and produced one of the greatest works of natural science in any civilization.</span><span class="rl-reason rl-reason-tag">theme · science</span></a>
+        <a class="related-card" href="../science/topic_fengshui_science.html" data-category="science"><span class="rc-head"><span class="rc-cn">风水</span><span class="rc-py">fēngshuǐ</span></span><span class="rc-en">Geomancy as Proto-Science</span><span class="rc-detail">Before the terms ecology, hydrology, and orientation science existed, the fengshui master was reading the same landscape — just with a different vocabulary.</span><span class="rl-reason rl-reason-tag">theme · science</span></a>
       </div>
     </section>
     <nav class="prev-next" aria-label="Within this section">

@@ -6,7 +6,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>老子 lǎozǐ — Laozi & the Daodejing — Jiǎoluò Shūwū · 角落書屋</title>
 <meta name="description" content="老子 Laozi: the historical problem, the Daodejing 道德经 text, the Dao as ineffable ground of being, 无为 non-action, 反 reversal, and water as philosophical metaphor.">
-<meta name="theme-color" content="#1c1208">
+<meta name="theme-color" content="#1c1208" id="meta-theme-color">
+<!-- Flash-of-wrong-theme prevention: read localStorage before first paint -->
+<script>(function(){try{var t=localStorage.getItem('shuwo-theme');if(t==='dark'||t==='light'){document.documentElement.setAttribute('data-theme',t);}else if(!t&&window.matchMedia('(prefers-color-scheme: dark)').matches){document.documentElement.setAttribute('data-theme','dark');}}catch(e){}})();</script>
 <meta name="apple-mobile-web-app-title" content="角落書屋">
 <meta name="application-name" content="角落書屋">
 <link rel="alternate" type="application/rss+xml" title="Jiǎoluò Shūwū · 角落書屋" href="../../feed.xml">
@@ -46,6 +48,10 @@
   <div class="topnav-right">
     <a href="#" class="topnav-random" data-random-entry data-entries-base="../../" aria-label="Open a random entry"><span aria-hidden="true">⟳</span> Random</a>
     <a href="../families/explore.html" class="topnav-back" aria-label="Explore all entries">Explore</a>
+    <button class="theme-toggle" type="button" aria-label="Toggle dark mode" id="theme-toggle">
+      <span class="tt-sun" aria-hidden="true">☀</span>
+      <span class="tt-moon" aria-hidden="true">☾</span>
+    </button>
   </div>
 </nav>
 
@@ -406,9 +412,9 @@
       <span class="related-label sr-only" id="related-label">Related entries — pages and vocabulary in the neighbourhood of this one</span>
       <div class="related-cards">
         <a class="related-card" href="../characters/lao3_老.html" data-category="characters"><span class="rc-head"><span class="rc-cn">老</span><span class="rc-py">lǎo</span></span><span class="rc-en">old, venerable, experienced</span><span class="rc-detail">A stooped elder with long hair — age as wisdom, seniority as moral authority, and the Daoist sage who wrote the Tao Te Ching.</span><span class="rl-reason rl-reason-contains">in 老</span></a>
+        <a class="related-card" href="../characters/wu2_无.html" data-category="characters"><span class="rc-head"><span class="rc-cn">无</span><span class="rc-py">wú</span></span><span class="rc-en">nothing, without, non-being</span><span class="rc-detail">A dancer with arms outstretched, holding nothing. The character behind every Chinese negation of having, every Daoist non-doing, and the philosophical pole that pairs with 有 to frame the whole cosmos.</span><span class="rl-reason rl-reason-tag">theme · wuwei</span></a>
         <a class="related-card" href="topic_kongzi.html" data-category="philosophy"><span class="rc-head"><span class="rc-cn">孔子</span><span class="rc-py">kǒngzǐ</span></span><span class="rc-en">Confucius</span><span class="rc-detail">His life, the Analects 论语, and the civilization he shaped.</span><span class="rl-reason rl-reason-category">same section · philosophy</span></a>
         <a class="related-card" href="topic_mengzi.html" data-category="philosophy"><span class="rc-head"><span class="rc-cn">孟子</span><span class="rc-py">mèngzǐ</span></span><span class="rc-en">Mencius</span><span class="rc-detail">Human nature as inherently good — the sprouts of virtue.</span><span class="rl-reason rl-reason-category">same section · philosophy</span></a>
-        <a class="related-card" href="topic_zhuangzi.html" data-category="philosophy"><span class="rc-head"><span class="rc-cn">庄子</span><span class="rc-py">zhuāngzǐ</span></span><span class="rc-en">Zhuangzi</span><span class="rc-detail">The butterfly dream, Cook Ding, and Daoist freedom from convention.</span><span class="rl-reason rl-reason-category">same section · philosophy</span></a>
       </div>
     </section>
     <nav class="prev-next" aria-label="Within this section">

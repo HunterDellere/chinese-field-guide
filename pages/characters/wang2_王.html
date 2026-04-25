@@ -6,7 +6,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>王 wáng — king — Jiǎoluò Shūwū · 角落書屋</title>
 <meta name="description" content="王 wáng: king, monarch. The character whose three horizontals were glossed by Dǒng Zhòngshū as heaven, earth, and humanity connected by the ruler. Covers etymology, the jade-radical double life, surname usage, and compounds.">
-<meta name="theme-color" content="#1c1208">
+<meta name="theme-color" content="#1c1208" id="meta-theme-color">
+<!-- Flash-of-wrong-theme prevention: read localStorage before first paint -->
+<script>(function(){try{var t=localStorage.getItem('shuwo-theme');if(t==='dark'||t==='light'){document.documentElement.setAttribute('data-theme',t);}else if(!t&&window.matchMedia('(prefers-color-scheme: dark)').matches){document.documentElement.setAttribute('data-theme','dark');}}catch(e){}})();</script>
 <meta name="apple-mobile-web-app-title" content="角落書屋">
 <meta name="application-name" content="角落書屋">
 <link rel="alternate" type="application/rss+xml" title="Jiǎoluò Shūwū · 角落書屋" href="../../feed.xml">
@@ -46,6 +48,10 @@
   <div class="topnav-right">
     <a href="#" class="topnav-random" data-random-entry data-entries-base="../../" aria-label="Open a random entry"><span aria-hidden="true">⟳</span> Random</a>
     <a href="../families/explore.html" class="topnav-back" aria-label="Explore all entries">Explore</a>
+    <button class="theme-toggle" type="button" aria-label="Toggle dark mode" id="theme-toggle">
+      <span class="tt-sun" aria-hidden="true">☀</span>
+      <span class="tt-moon" aria-hidden="true">☾</span>
+    </button>
   </div>
 </nav>
 
@@ -324,8 +330,8 @@
         <a class="related-card" href="../vocab/tianming_天命.html" data-category="vocab"><span class="rc-head"><span class="rc-cn">天命</span><span class="rc-py">tiānmìng</span></span><span class="rc-en">the Mandate of Heaven</span><span class="rc-detail">The political and cosmological concept that legitimized three thousand years of Chinese dynasty — heaven&#39;s appointment of the rightful ruler.</span><span class="rl-reason rl-reason-tag">theme · philosophy</span></a>
         <a class="related-card" href="bian4_变.html" data-category="characters"><span class="rc-head"><span class="rc-cn">变</span><span class="rc-py">biàn</span></span><span class="rc-en">to change, to transform</span><span class="rc-detail">The character at the heart of the I Ching, the dynastic cycle, and the modern vocabulary of reform — change as the one constant.</span><span class="rl-reason rl-reason-tag">theme · philosophy</span></a>
         <a class="related-card" href="mei3_美.html" data-category="characters"><span class="rc-head"><span class="rc-cn">美</span><span class="rc-py">měi</span></span><span class="rc-en">beautiful, USA, delicious</span><span class="rc-detail">A large sheep carrying horns — beauty as abundance, sacrifice, and the pleasure of the highest good.</span><span class="rl-reason rl-reason-tag">theme · philosophy</span></a>
-        <a class="related-card" href="lao3_老.html" data-category="characters"><span class="rc-head"><span class="rc-cn">老</span><span class="rc-py">lǎo</span></span><span class="rc-en">old, venerable, experienced</span><span class="rc-detail">A stooped elder with long hair — age as wisdom, seniority as moral authority, and the Daoist sage who wrote the Tao Te Ching.</span><span class="rl-reason rl-reason-tag">theme · philosophy</span></a>
         <a class="related-card" href="tu3_土.html" data-category="characters"><span class="rc-head"><span class="rc-cn">土</span><span class="rc-py">tǔ</span></span><span class="rc-en">earth, soil, local, native</span><span class="rc-detail">A mound of soil with a base — the earth phase of the Five Elements, and the root of hundreds of characters for land, construction, and cultural belonging.</span><span class="rl-reason rl-reason-tag">theme · history</span></a>
+        <a class="related-card" href="ri4_日.html" data-category="characters"><span class="rc-head"><span class="rc-cn">日</span><span class="rc-py">rì</span></span><span class="rc-en">sun, day, Japan</span><span class="rc-detail">The oldest pictograph in the script — a circle with a dot for the sun, now a radical in hundreds of characters related to time, light, and warmth.</span><span class="rl-reason rl-reason-tag">theme · history</span></a>
       </div>
       <div class="related-chips-tier">
         <span class="related-chips-head"><span class="rch-cn">词族</span> <span class="rch-py">cízú</span> <span class="rch-en">Vocabulary in this field</span></span>

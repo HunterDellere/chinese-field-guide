@@ -3,11 +3,12 @@
     "cn": "道",
     "py": "dào",
     "en": "the Way; path; principle",
-    "count": 9,
+    "count": 10,
     "appearsOn": [
       "pages/characters/bian4_变.html",
       "pages/characters/fo2_佛.html",
       "pages/characters/lu4_路.html",
+      "pages/characters/wu2_无.html",
       "pages/philosophy/topic_yijing.html",
       "pages/science/topic_wuxing.html",
       "pages/vocab/daode_道德.html",
@@ -66,6 +67,22 @@
     ],
     "hasPage": true
   },
+  "天": {
+    "cn": "天",
+    "py": "tiān",
+    "en": "heaven; sky; day",
+    "count": 7,
+    "appearsOn": [
+      "pages/characters/di4_地.html",
+      "pages/characters/kong1_空.html",
+      "pages/characters/long2_龙.html",
+      "pages/characters/ri4_日.html",
+      "pages/characters/shi2_时.html",
+      "pages/characters/yun2_云.html",
+      "pages/vocab/ziran_自然.html"
+    ],
+    "hasPage": true
+  },
   "风水": {
     "cn": "风水",
     "py": "fēngshuǐ",
@@ -81,6 +98,21 @@
     ],
     "hasPage": true
   },
+  "气": {
+    "cn": "气",
+    "py": "qì",
+    "en": "air; breath; qi",
+    "count": 6,
+    "appearsOn": [
+      "pages/characters/feng1_风.html",
+      "pages/characters/kong1_空.html",
+      "pages/religion/topic_daojiao.html",
+      "pages/science/topic_wuxing.html",
+      "pages/vocab/fengshui_风水.html",
+      "pages/vocab/yinyang_阴阳.html"
+    ],
+    "hasPage": true
+  },
   "上": {
     "cn": "上",
     "py": "shàng",
@@ -93,21 +125,6 @@
       "pages/characters/xia4_下.html",
       "pages/characters/zai4_在.html",
       "pages/grammar/ba_把.html"
-    ],
-    "hasPage": true
-  },
-  "天": {
-    "cn": "天",
-    "py": "tiān",
-    "en": "heaven; sky; day",
-    "count": 6,
-    "appearsOn": [
-      "pages/characters/di4_地.html",
-      "pages/characters/long2_龙.html",
-      "pages/characters/ri4_日.html",
-      "pages/characters/shi2_时.html",
-      "pages/characters/yun2_云.html",
-      "pages/vocab/ziran_自然.html"
     ],
     "hasPage": true
   },
@@ -184,20 +201,6 @@
     ],
     "hasPage": true
   },
-  "气": {
-    "cn": "气",
-    "py": "qì",
-    "en": "air; breath; qi",
-    "count": 5,
-    "appearsOn": [
-      "pages/characters/feng1_风.html",
-      "pages/religion/topic_daojiao.html",
-      "pages/science/topic_wuxing.html",
-      "pages/vocab/fengshui_风水.html",
-      "pages/vocab/yinyang_阴阳.html"
-    ],
-    "hasPage": true
-  },
   "去": {
     "cn": "去",
     "py": "qù",
@@ -237,6 +240,20 @@
       "pages/vocab/jiangshan_江山.html",
       "pages/vocab/tianming_天命.html",
       "pages/vocab/zhongguo_中国.html"
+    ],
+    "hasPage": true
+  },
+  "无": {
+    "cn": "无",
+    "py": "wú",
+    "en": "without; there is no (classical/formal)",
+    "count": 5,
+    "appearsOn": [
+      "pages/characters/bu4_不.html",
+      "pages/characters/dao4_道.html",
+      "pages/characters/kong1_空.html",
+      "pages/characters/you3_有.html",
+      "pages/religion/topic_chan.html"
     ],
     "hasPage": true
   },
@@ -322,6 +339,19 @@
     ],
     "hasPage": false
   },
+  "空": {
+    "cn": "空",
+    "py": "kōng",
+    "en": "empty; void (Buddhist)",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/se4_色.html",
+      "pages/characters/tian1_天.html",
+      "pages/characters/wu2_无.html",
+      "pages/religion/topic_fojiao.html"
+    ],
+    "hasPage": true
+  },
   "来": {
     "cn": "来",
     "py": "lái",
@@ -348,6 +378,19 @@
     ],
     "hasPage": true
   },
+  "没有": {
+    "cn": "没有",
+    "py": "méiyǒu",
+    "en": "don't have; didn't (past neg.)",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/bu4_不.html",
+      "pages/characters/wu2_无.html",
+      "pages/characters/you3_有.html",
+      "pages/grammar/le_了.html"
+    ],
+    "hasPage": true
+  },
   "神": {
     "cn": "神",
     "py": "shén",
@@ -358,19 +401,6 @@
       "pages/characters/qi4_气.html",
       "pages/characters/tian1_天.html",
       "pages/religion/topic_minjian.html"
-    ],
-    "hasPage": false
-  },
-  "无": {
-    "cn": "无",
-    "py": "wú",
-    "en": "without; there is no (classical/formal)",
-    "count": 4,
-    "appearsOn": [
-      "pages/characters/bu4_不.html",
-      "pages/characters/dao4_道.html",
-      "pages/characters/you3_有.html",
-      "pages/religion/topic_chan.html"
     ],
     "hasPage": false
   },
@@ -474,6 +504,18 @@
       "pages/characters/yao4_要.html",
       "pages/grammar/hui_neng_keyi_会能可以.html",
       "pages/grammar/zhiyou_cai_只有才.html"
+    ],
+    "hasPage": false
+  },
+  "禅": {
+    "cn": "禅",
+    "py": "chán",
+    "en": "Chan (Zen); meditative school",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/fo2_佛.html",
+      "pages/characters/kong1_空.html",
+      "pages/characters/li3_礼.html"
     ],
     "hasPage": false
   },
@@ -621,18 +663,6 @@
     ],
     "hasPage": false
   },
-  "空": {
-    "cn": "空",
-    "py": "kōng",
-    "en": "empty; void (Buddhist)",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/se4_色.html",
-      "pages/characters/tian1_天.html",
-      "pages/religion/topic_fojiao.html"
-    ],
-    "hasPage": false
-  },
   "雷": {
     "cn": "雷",
     "py": "léi",
@@ -668,18 +698,6 @@
       "pages/vocab/yuanfen_缘分.html"
     ],
     "hasPage": false
-  },
-  "没有": {
-    "cn": "没有",
-    "py": "méiyǒu",
-    "en": "don't have; didn't (past neg.)",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/bu4_不.html",
-      "pages/characters/you3_有.html",
-      "pages/grammar/le_了.html"
-    ],
-    "hasPage": true
   },
   "年": {
     "cn": "年",
@@ -728,6 +746,18 @@
       "pages/characters/yu3_语.html"
     ],
     "hasPage": true
+  },
+  "无为": {
+    "cn": "无为",
+    "py": "wúwéi",
+    "en": "non-action; the Daoist ideal",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/dao4_道.html",
+      "pages/characters/wu2_无.html",
+      "pages/vocab/ziran_自然.html"
+    ],
+    "hasPage": false
   },
   "想": {
     "cn": "想",
@@ -824,6 +854,18 @@
       "pages/vocab/putonghua_普通话.html"
     ],
     "hasPage": false
+  },
+  "自然": {
+    "cn": "自然",
+    "py": "zìrán",
+    "en": "nature; naturally; as-itself",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/dao4_道.html",
+      "pages/characters/tian1_天.html",
+      "pages/characters/wu2_无.html"
+    ],
+    "hasPage": true
   },
   "走": {
     "cn": "走",
@@ -977,17 +1019,6 @@
     "appearsOn": [
       "pages/grammar/guo_过.html",
       "pages/grammar/le_了.html"
-    ],
-    "hasPage": false
-  },
-  "禅": {
-    "cn": "禅",
-    "py": "chán",
-    "en": "Chan (Zen); meditative school",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/fo2_佛.html",
-      "pages/characters/li3_礼.html"
     ],
     "hasPage": false
   },
@@ -2190,17 +2221,6 @@
     ],
     "hasPage": false
   },
-  "无为": {
-    "cn": "无为",
-    "py": "wúwéi",
-    "en": "non-action; the Daoist ideal",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/dao4_道.html",
-      "pages/vocab/ziran_自然.html"
-    ],
-    "hasPage": false
-  },
   "下去": {
     "cn": "下去",
     "py": "xià qù",
@@ -2399,6 +2419,17 @@
     ],
     "hasPage": false
   },
+  "有": {
+    "cn": "有",
+    "py": "yǒu",
+    "en": "to have, being",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/wu2_无.html",
+      "pages/characters/zai4_在.html"
+    ],
+    "hasPage": true
+  },
   "又…又": {
     "cn": "又…又",
     "py": "yòu … yòu",
@@ -2530,17 +2561,6 @@
       "pages/vocab/yuanfen_缘分.html"
     ],
     "hasPage": false
-  },
-  "自然": {
-    "cn": "自然",
-    "py": "zìrán",
-    "en": "nature; naturally; as-itself",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/dao4_道.html",
-      "pages/characters/tian1_天.html"
-    ],
-    "hasPage": true
   },
   "祖先": {
     "cn": "祖先",
@@ -3052,6 +3072,16 @@
       "pages/grammar/de_的得地.html"
     ],
     "hasPage": false
+  },
+  "不": {
+    "cn": "不",
+    "py": "bù",
+    "en": "not (default negator)",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/wu2_无.html"
+    ],
+    "hasPage": true
   },
   "不但": {
     "cn": "不但",
@@ -5193,6 +5223,16 @@
     ],
     "hasPage": false
   },
+  "毫无": {
+    "cn": "毫无",
+    "py": "háowú",
+    "en": "utterly without",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/wu2_无.html"
+    ],
+    "hasPage": false
+  },
   "好不容易": {
     "cn": "好不容易",
     "py": "hǎo bù róngyì",
@@ -6452,6 +6492,56 @@
       "pages/vocab/li3_礼.html"
     ],
     "hasPage": true
+  },
+  "空白": {
+    "cn": "空白",
+    "py": "kòngbái",
+    "en": "blank space",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/kong1_空.html"
+    ],
+    "hasPage": false
+  },
+  "空话": {
+    "cn": "空话",
+    "py": "kōnghuà",
+    "en": "empty talk",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/kong1_空.html"
+    ],
+    "hasPage": false
+  },
+  "空间": {
+    "cn": "空间",
+    "py": "kōngjiān",
+    "en": "space (abstract)",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/kong1_空.html"
+    ],
+    "hasPage": false
+  },
+  "空气": {
+    "cn": "空气",
+    "py": "kōngqì",
+    "en": "air",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/kong1_空.html"
+    ],
+    "hasPage": false
+  },
+  "空想": {
+    "cn": "空想",
+    "py": "kōngxiǎng",
+    "en": "empty thought, fantasy",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/kong1_空.html"
+    ],
+    "hasPage": false
   },
   "口": {
     "cn": "口",
@@ -8313,6 +8403,16 @@
     ],
     "hasPage": false
   },
+  "色": {
+    "cn": "色",
+    "py": "sè",
+    "en": "form, color, appearance",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/kong1_空.html"
+    ],
+    "hasPage": true
+  },
   "色目人": {
     "cn": "色目人",
     "py": "Sèmùrén",
@@ -9403,6 +9503,16 @@
     ],
     "hasPage": false
   },
+  "天空": {
+    "cn": "天空",
+    "py": "tiānkōng",
+    "en": "sky",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/kong1_空.html"
+    ],
+    "hasPage": false
+  },
   "天人合一": {
     "cn": "天人合一",
     "py": "tiān rén hé yī",
@@ -9850,6 +9960,46 @@
     "count": 1,
     "appearsOn": [
       "pages/religion/topic_fojiao.html"
+    ],
+    "hasPage": false
+  },
+  "无聊": {
+    "cn": "无聊",
+    "py": "wúliáo",
+    "en": "bored, pointless",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/wu2_无.html"
+    ],
+    "hasPage": false
+  },
+  "无名": {
+    "cn": "无名",
+    "py": "wúmíng",
+    "en": "nameless, unknown",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/wu2_无.html"
+    ],
+    "hasPage": false
+  },
+  "无视": {
+    "cn": "无视",
+    "py": "wúshì",
+    "en": "to disregard",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/wu2_无.html"
+    ],
+    "hasPage": false
+  },
+  "无所谓": {
+    "cn": "无所谓",
+    "py": "wúsuǒwèi",
+    "en": "whatever, doesn't matter",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/wu2_无.html"
     ],
     "hasPage": false
   },
@@ -11283,15 +11433,15 @@
     ],
     "hasPage": false
   },
-  "有": {
-    "cn": "有",
-    "py": "yǒu",
-    "en": "there is/are (existential)",
+  "有空": {
+    "cn": "有空",
+    "py": "yǒu kòng",
+    "en": "to have free time",
     "count": 1,
     "appearsOn": [
-      "pages/characters/zai4_在.html"
+      "pages/characters/kong1_空.html"
     ],
-    "hasPage": true
+    "hasPage": false
   },
   "有钱": {
     "cn": "有钱",

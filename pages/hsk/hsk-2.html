@@ -6,7 +6,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>HSK 2 — Level 2 — Jiǎoluò Shūwū · 角落書屋</title>
 <meta name="description" content="HSK 2 (Chinese Proficiency Test Level 2) — full character list, vocabulary list, and grammar points, sourced from the 2021 国际中文教育中文水平等级标准.">
-<meta name="theme-color" content="#1c1208">
+<meta name="theme-color" content="#1c1208" id="meta-theme-color">
+<!-- Flash-of-wrong-theme prevention: read localStorage before first paint -->
+<script>(function(){try{var t=localStorage.getItem('shuwo-theme');if(t==='dark'||t==='light'){document.documentElement.setAttribute('data-theme',t);}else if(!t&&window.matchMedia('(prefers-color-scheme: dark)').matches){document.documentElement.setAttribute('data-theme','dark');}}catch(e){}})();</script>
 <meta name="apple-mobile-web-app-title" content="角落書屋">
 <meta name="application-name" content="角落書屋">
 <link rel="alternate" type="application/rss+xml" title="Jiǎoluò Shūwū · 角落書屋" href="../../feed.xml">
@@ -46,6 +48,10 @@
   <div class="topnav-right">
     <a href="#" class="topnav-random" data-random-entry data-entries-base="../../" aria-label="Open a random entry"><span aria-hidden="true">⟳</span> Random</a>
     <a href="../families/explore.html" class="topnav-back" aria-label="Explore all entries">Explore</a>
+    <button class="theme-toggle" type="button" aria-label="Toggle dark mode" id="theme-toggle">
+      <span class="tt-sun" aria-hidden="true">☀</span>
+      <span class="tt-moon" aria-hidden="true">☾</span>
+    </button>
   </div>
 </nav>
 
@@ -79,7 +85,7 @@
       <span class="topic-hero-en">Level 2</span>
       <p class="topic-hero-desc">The full vocabulary, character, and grammar list for HSK 2, sourced from the 2021 国际中文教育中文水平等级标准. Entries linked to a full Jiǎoluò Shūwū page when one exists.</p>
       <div class="hsk-stats">
-        <span class="hsk-stat"><strong>300</strong> characters · <em>15 linked</em></span>
+        <span class="hsk-stat"><strong>300</strong> characters · <em>16 linked</em></span>
         <span class="hsk-stat"><strong>772</strong> words · <em>18 linked</em></span>
         <span class="hsk-stat"><strong>85</strong> grammar points</span>
       </div>
@@ -207,7 +213,7 @@
         <li class="hsk-char-item"><span class="hsk-ch">可</span></li>
         <li class="hsk-char-item"><span class="hsk-ch">克</span></li>
         <li class="hsk-char-item"><span class="hsk-ch">刻</span></li>
-        <li class="hsk-char-item"><span class="hsk-ch">空</span></li>
+        <li class="hsk-char-item"><a class="hsk-ch hsk-ch-linked" href="../../pages/characters/kong1_空.html">空</a></li>
         <li class="hsk-char-item"><span class="hsk-ch">哭</span></li>
         <li class="hsk-char-item"><span class="hsk-ch">筷</span></li>
         <li class="hsk-char-item"><span class="hsk-ch">拉</span></li>

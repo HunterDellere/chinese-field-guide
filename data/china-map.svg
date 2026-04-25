@@ -1,0 +1,330 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 700" role="img" aria-label="Map of China">
+  <title>China — 中国地图</title>
+  <desc>Interactive map of China showing provinces, rivers, dynastic extents, and cultural sites.</desc>
+
+  <defs>
+    <!-- Parchment texture filter -->
+    <filter id="paper" x="0%" y="0%" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.65" numOctaves="3" stitchTiles="stitch" result="noise"/>
+      <feColorMatrix type="saturate" values="0" in="noise" result="grey"/>
+      <feBlend in="SourceGraphic" in2="grey" mode="multiply" result="blend"/>
+      <feComposite in="blend" in2="SourceGraphic" operator="in"/>
+    </filter>
+
+    <!-- River path style -->
+    <marker id="arrow-river" markerWidth="6" markerHeight="6" refX="3" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L6,3 z" fill="#2a5c6b" opacity="0.6"/>
+    </marker>
+
+    <!-- Clip for map area -->
+    <clipPath id="map-clip">
+      <rect x="0" y="0" width="800" height="700"/>
+    </clipPath>
+
+    <!-- Dynasty fill gradients -->
+    <linearGradient id="tang-grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#a06428" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#a06428" stop-opacity="0.05"/>
+    </linearGradient>
+    <linearGradient id="qing-grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#5c3d7a" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#5c3d7a" stop-opacity="0.05"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Ocean / background -->
+  <rect width="800" height="700" fill="#dde8ef" rx="4"/>
+
+  <!-- ═══════════════════════════════════════════════
+       LAYER: modern — Province fills + borders
+       These paths are a stylised approximation of
+       China's administrative divisions.
+  ════════════════════════════════════════════════ -->
+  <g class="map-layer layer-modern" data-layer="modern" clip-path="url(#map-clip)">
+
+    <!-- Mainland China outline (unified fill) -->
+    <path class="province-fill china-mainland" d="
+      M 192,90  L 220,72  L 258,58  L 300,48  L 340,44  L 378,42  L 415,38
+      L 455,36  L 492,34  L 520,38  L 545,42  L 560,50  L 575,55  L 590,60
+      L 610,68  L 628,78  L 645,90  L 658,100 L 668,112 L 672,125 L 668,138
+      L 660,148 L 650,155 L 648,168 L 652,180 L 658,192 L 660,205 L 655,215
+      L 645,222 L 638,232 L 635,245 L 640,258 L 648,268 L 652,280 L 648,292
+      L 638,302 L 628,310 L 618,320 L 610,332 L 605,345 L 600,358 L 598,370
+      L 595,382 L 590,392 L 582,400 L 572,408 L 560,415 L 548,420 L 535,425
+      L 522,430 L 510,438 L 500,448 L 492,460 L 488,472 L 485,485 L 482,500
+      L 478,512 L 470,522 L 458,528 L 445,530 L 432,528 L 420,522 L 410,515
+      L 402,508 L 395,498 L 388,488 L 380,478 L 370,468 L 358,460 L 345,455
+      L 332,452 L 318,452 L 305,455 L 292,460 L 280,465 L 270,462 L 262,455
+      L 255,445 L 248,435 L 240,422 L 232,410 L 225,400 L 218,390 L 212,378
+      L 208,365 L 205,352 L 202,338 L 198,325 L 194,312 L 188,300 L 182,288
+      L 178,275 L 176,262 L 175,248 L 176,235 L 178,222 L 180,208 L 182,195
+      L 185,182 L 188,168 L 190,155 L 192,142 L 192,128 L 192,115 Z
+    " fill="#e8dcc8" stroke="#b8a888" stroke-width="1"/>
+
+    <!-- Province dividers (simplified internal boundaries) -->
+    <!-- Xinjiang / Gansu -->
+    <path class="province-border" d="M 192,90 L 280,110 L 338,135 L 370,155" fill="none" stroke="#b8a888" stroke-width="0.7" stroke-dasharray="3,2"/>
+    <!-- Tibet / Sichuan -->
+    <path class="province-border" d="M 200,280 L 270,295 L 330,300 L 380,298 L 410,310" fill="none" stroke="#b8a888" stroke-width="0.7" stroke-dasharray="3,2"/>
+    <!-- North China / South -->
+    <path class="province-border" d="M 370,155 L 420,170 L 470,175 L 510,180 L 545,185 L 580,195" fill="none" stroke="#b8a888" stroke-width="0.7" stroke-dasharray="3,2"/>
+    <!-- Sichuan / Yunnan -->
+    <path class="province-border" d="M 330,300 L 345,345 L 348,395 L 345,430" fill="none" stroke="#b8a888" stroke-width="0.7" stroke-dasharray="3,2"/>
+    <!-- Central east dividers -->
+    <path class="province-border" d="M 470,175 L 480,220 L 490,265 L 495,310 L 492,355 L 488,395" fill="none" stroke="#b8a888" stroke-width="0.7" stroke-dasharray="3,2"/>
+    <!-- Northeast / North -->
+    <path class="province-border" d="M 545,42 L 558,85 L 562,125 L 560,165 L 555,200 L 548,235" fill="none" stroke="#b8a888" stroke-width="0.7" stroke-dasharray="3,2"/>
+
+    <!-- Province name labels (subtle) -->
+    <g class="province-labels" font-family="Noto Serif SC, serif" font-size="9" fill="#5a4428" opacity="0.65">
+      <text x="220" y="180" text-anchor="middle">新疆</text>
+      <text x="240" y="360" text-anchor="middle">西藏</text>
+      <text x="355" y="260" text-anchor="middle">青海</text>
+      <text x="370" y="340" text-anchor="middle">四川</text>
+      <text x="340" y="430" text-anchor="middle">云南</text>
+      <text x="400" y="215" text-anchor="middle">甘肃</text>
+      <text x="440" y="250" text-anchor="middle">陕西</text>
+      <text x="490" y="210" text-anchor="middle">山西</text>
+      <text x="535" y="190" text-anchor="middle">河北</text>
+      <text x="580" y="210" text-anchor="middle">辽宁</text>
+      <text x="608" y="165" text-anchor="middle">吉林</text>
+      <text x="628" y="130" text-anchor="middle">黑龙江</text>
+      <text x="490" y="300" text-anchor="middle">河南</text>
+      <text x="525" y="345" text-anchor="middle">安徽</text>
+      <text x="555" y="310" text-anchor="middle">江苏</text>
+      <text x="548" y="380" text-anchor="middle">浙江</text>
+      <text x="520" y="420" text-anchor="middle">福建</text>
+      <text x="480" y="375" text-anchor="middle">江西</text>
+      <text x="445" y="340" text-anchor="middle">湖南</text>
+      <text x="440" y="300" text-anchor="middle">湖北</text>
+      <text x="440" y="400" text-anchor="middle">广西</text>
+      <text x="495" y="445" text-anchor="middle">广东</text>
+    </g>
+
+    <!-- Taiwan island -->
+    <ellipse class="province-fill taiwan-island" cx="598" cy="395" rx="18" ry="28" fill="#e8dcc8" stroke="#b8a888" stroke-width="1" transform="rotate(-15, 598, 395)"/>
+    <text x="598" y="395" text-anchor="middle" font-family="Noto Serif SC, serif" font-size="8" fill="#5a4428" opacity="0.65">台湾</text>
+
+    <!-- Hainan island -->
+    <ellipse class="province-fill hainan-island" cx="475" cy="545" rx="22" ry="16" fill="#e8dcc8" stroke="#b8a888" stroke-width="1"/>
+    <text x="475" y="548" text-anchor="middle" font-family="Noto Serif SC, serif" font-size="8" fill="#5a4428" opacity="0.65">海南</text>
+
+    <!-- South China Sea indicator -->
+    <text x="600" y="540" text-anchor="middle" font-family="EB Garamond, serif" font-size="11" fill="#4a7090" opacity="0.55" font-style="italic">南海</text>
+    <text x="600" y="555" text-anchor="middle" font-family="EB Garamond, serif" font-size="9" fill="#4a7090" opacity="0.40" font-style="italic">South China Sea</text>
+
+    <!-- East China Sea -->
+    <text x="680" y="310" text-anchor="middle" font-family="EB Garamond, serif" font-size="10" fill="#4a7090" opacity="0.45" font-style="italic">East China Sea</text>
+
+    <!-- Yellow Sea -->
+    <text x="660" y="230" text-anchor="middle" font-family="EB Garamond, serif" font-size="10" fill="#4a7090" opacity="0.45" font-style="italic">Yellow Sea</text>
+
+    <!-- Mongolia (north, outside China, faint) -->
+    <text x="380" y="35" text-anchor="middle" font-family="EB Garamond, serif" font-size="10" fill="#8a7060" opacity="0.45" font-style="italic">Mongolia</text>
+
+    <!-- Compass rose -->
+    <g transform="translate(730,80)" opacity="0.55">
+      <circle r="20" fill="#e8dcc8" stroke="#b8a888" stroke-width="1"/>
+      <text x="0" y="-8" text-anchor="middle" font-family="EB Garamond, serif" font-size="10" fill="#5a4428">N</text>
+      <text x="0" y="15" text-anchor="middle" font-family="EB Garamond, serif" font-size="10" fill="#5a4428">S</text>
+      <text x="-14" y="4" text-anchor="middle" font-family="EB Garamond, serif" font-size="10" fill="#5a4428">W</text>
+      <text x="14" y="4" text-anchor="middle" font-family="EB Garamond, serif" font-size="10" fill="#5a4428">E</text>
+      <line x1="0" y1="-16" x2="0" y2="16" stroke="#8b1a1a" stroke-width="1"/>
+      <line x1="-16" y1="0" x2="16" y2="0" stroke="#8b1a1a" stroke-width="1"/>
+    </g>
+  </g>
+
+  <!-- ═══════════════════════════════════════════════
+       LAYER: rivers
+  ════════════════════════════════════════════════ -->
+  <g class="map-layer layer-rivers" data-layer="rivers" clip-path="url(#map-clip)">
+
+    <!-- Yellow River (黄河) — originates in Qinghai, loops through Gansu/Ningxia/Inner Mongolia, turns south, then east to Shandong -->
+    <path class="river yellow-river" d="
+      M 310,258  C 325,245 340,235 358,228
+                 C 375,220 385,212 395,205
+                 C 405,198 415,190 428,185
+                 C 440,180 452,178 462,176
+                 C 472,174 485,175 495,180
+                 C 505,185 510,195 515,205
+                 C 520,215 518,228 512,238
+                 C 505,248 492,255 480,260
+                 C 468,265 455,268 445,275
+                 C 435,282 430,295 432,308
+                 C 434,320 445,330 458,335
+                 C 470,340 485,340 498,338
+                 C 510,336 522,330 535,328
+                 C 548,326 560,328 570,335
+    "
+    fill="none" stroke="#c8a830" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.85"/>
+
+    <!-- Yellow River label -->
+    <text font-family="Noto Serif SC, serif" font-size="10" fill="#8b6a15" opacity="0.9">
+      <textPath href="#yellow-river-label-path" startOffset="15%">黄河 · Yellow River</textPath>
+    </text>
+    <path id="yellow-river-label-path" d="M 370,218 C 430,185 495,183 535,228" fill="none"/>
+
+    <!-- Yangtze River (长江) — originates in Tibet, flows east through Sichuan, Gorges, to Shanghai -->
+    <path class="river yangtze-river" d="
+      M 268,310  C 290,308 310,305 330,305
+                 C 350,305 365,310 378,318
+                 C 390,326 400,336 415,342
+                 C 428,348 442,350 455,348
+                 C 468,346 480,340 490,335
+                 C 500,330 508,328 518,330
+                 C 528,332 535,340 540,352
+                 C 545,364 545,378 540,390
+                 C 535,402 525,410 515,415
+                 C 505,420 492,422 480,420
+                 C 468,418 455,412 445,408
+                 C 435,404 425,402 415,404
+                 C 404,406 395,412 388,420
+                 C 380,428 375,438 372,448
+                 C 368,458 366,470 362,480
+                 C 358,490 350,498 340,500
+    "
+    fill="none" stroke="#2a7090" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity="0.80"/>
+
+    <!-- Yangtze label -->
+    <text font-family="Noto Serif SC, serif" font-size="10" fill="#1a5060" opacity="0.9">
+      <textPath href="#yangtze-label-path" startOffset="10%">长江 · Yangtze</textPath>
+    </text>
+    <path id="yangtze-label-path" d="M 310,325 C 390,325 470,345 540,390" fill="none"/>
+
+    <!-- Pearl River (珠江) -->
+    <path class="river pearl-river" d="
+      M 375,475  C 395,470 415,468 432,465
+                 C 448,462 460,460 472,462
+                 C 484,464 492,472 498,482
+    "
+    fill="none" stroke="#4a8050" stroke-width="1.8" stroke-linecap="round" opacity="0.70"/>
+    <text x="420" y="488" font-family="Noto Serif SC, serif" font-size="9" fill="#2a5030" opacity="0.75">珠江</text>
+
+    <!-- Grand Canal (大运河) — runs north-south along the east coast -->
+    <path class="river grand-canal" d="
+      M 535,190  C 538,215 540,240 540,265
+                 C 540,290 538,315 535,340
+                 C 532,365 528,390 525,415
+    "
+    fill="none" stroke="#7a5838" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="6,3" opacity="0.65"/>
+    <text x="545" y="280" font-family="Noto Serif SC, serif" font-size="9" fill="#5a3820" opacity="0.75" transform="rotate(88, 545, 280)">大运河 Grand Canal</text>
+
+    <!-- River annotations (clickable) — placed by the JS using map-annotations.json -->
+  </g>
+
+  <!-- ═══════════════════════════════════════════════
+       LAYER: dynasties — territorial extent overlays
+  ════════════════════════════════════════════════ -->
+  <g class="map-layer layer-dynasties" data-layer="dynasties" clip-path="url(#map-clip)">
+
+    <!-- Tang Dynasty extent (~618–907 CE) — greatest territorial reach -->
+    <path class="dynasty-extent dynasty-tang" data-dynasty="tang"
+      d="M 192,90 L 260,72 L 330,58 L 395,48 L 450,44 L 510,42 L 555,48
+         L 590,62 L 620,80 L 645,100 L 660,125 L 655,155 L 640,175
+         L 625,195 L 610,215 L 600,240 L 598,270 L 595,300
+         L 580,330 L 558,355 L 535,375 L 510,390 L 485,400 L 462,408
+         L 440,415 L 418,420 L 398,418 L 378,412 L 358,402 L 340,390
+         L 322,378 L 305,365 L 290,350 L 278,335 L 268,318 L 260,302
+         L 252,285 L 248,268 L 245,250 L 244,232 L 244,215 L 246,198
+         L 250,180 L 255,162 L 260,145 L 262,128 L 260,112 L 255,98
+         L 230,92 Z"
+      fill="url(#tang-grad)" stroke="#a06428" stroke-width="1.5" stroke-dasharray="5,3" opacity="0"/>
+
+    <!-- Qing Dynasty extent (~1644–1912 CE) — largest historical China -->
+    <path class="dynasty-extent dynasty-qing" data-dynasty="qing"
+      d="M 150,70 L 200,52 L 260,40 L 330,32 L 400,28 L 465,26 L 528,28
+         L 572,35 L 610,50 L 640,70 L 665,95 L 678,122 L 672,152
+         L 655,178 L 640,202 L 632,230 L 635,260 L 645,288 L 648,318
+         L 638,348 L 618,372 L 595,392 L 568,408 L 540,422 L 512,432
+         L 485,438 L 458,440 L 432,438 L 408,430 L 385,420 L 362,408
+         L 340,396 L 320,382 L 302,368 L 285,352 L 270,336 L 256,320
+         L 242,305 L 228,290 L 215,275 L 202,260 L 192,245 L 185,230
+         L 180,215 L 178,200 L 178,185 L 180,170 L 184,155 L 188,140
+         L 190,125 L 190,110 L 188,95 L 172,82 Z"
+      fill="url(#qing-grad)" stroke="#5c3d7a" stroke-width="1.5" stroke-dasharray="5,3" opacity="0"/>
+
+    <!-- Dynasty key -->
+    <g class="dynasty-key" transform="translate(30,580)">
+      <rect width="160" height="90" rx="4" fill="#f0e8d5" stroke="#b8a888" stroke-width="1" opacity="0.95"/>
+      <text x="10" y="18" font-family="Noto Serif SC, serif" font-size="10" font-weight="600" fill="#3d2e18">朝代 Dynasty Key</text>
+      <rect x="10" y="26" width="16" height="8" rx="1" fill="#a06428" opacity="0.35" stroke="#a06428" stroke-width="1" stroke-dasharray="3,2"/>
+      <text x="32" y="34" font-family="EB Garamond, serif" font-size="10" fill="#5a4428">Tang (618–907)</text>
+      <rect x="10" y="42" width="16" height="8" rx="1" fill="#5c3d7a" opacity="0.35" stroke="#5c3d7a" stroke-width="1" stroke-dasharray="3,2"/>
+      <text x="32" y="50" font-family="EB Garamond, serif" font-size="10" fill="#5a4428">Qing (1644–1912)</text>
+      <text x="10" y="70" font-family="EB Garamond, serif" font-size="9" fill="#8a7060" font-style="italic">Click a dynasty marker</text>
+      <text x="10" y="82" font-family="EB Garamond, serif" font-size="9" fill="#8a7060" font-style="italic">to highlight its extent.</text>
+    </g>
+  </g>
+
+  <!-- ═══════════════════════════════════════════════
+       LAYER: dialects — dialect zone fills
+  ════════════════════════════════════════════════ -->
+  <g class="map-layer layer-dialects" data-layer="dialects" clip-path="url(#map-clip)">
+
+    <!-- Mandarin zone (官话) — northern/central/southwestern -->
+    <path class="dialect-zone dialect-mandarin" d="
+      M 250,135 L 390,120 L 480,135 L 545,155 L 570,195 L 565,240
+      L 540,285 L 510,315 L 480,335 L 448,348 L 418,355 L 390,355
+      L 362,350 L 338,340 L 318,328 L 302,315 L 290,300 L 280,285
+      L 272,270 L 266,255 L 262,240 L 260,225 L 260,210 L 262,195
+      L 265,180 L 268,165 L 270,150 Z
+    " fill="#a06428" opacity="0.08" stroke="#a06428" stroke-width="0.8" stroke-dasharray="4,3"/>
+    <text x="390" y="235" text-anchor="middle" font-family="Noto Serif SC, serif" font-size="10" fill="#a06428" opacity="0.80">官话 Mandarin</text>
+
+    <!-- Wu zone (吴语) — Jiangsu/Zhejiang/Shanghai -->
+    <path class="dialect-zone dialect-wu" d="
+      M 528,302 L 558,295 L 580,305 L 595,325 L 598,348 L 590,368
+      L 575,382 L 555,388 L 535,385 L 518,372 L 510,355 L 510,338
+      L 515,322 Z
+    " fill="#1a5050" opacity="0.12" stroke="#1a5050" stroke-width="0.8" stroke-dasharray="4,3"/>
+    <text x="555" y="345" text-anchor="middle" font-family="Noto Serif SC, serif" font-size="9" fill="#1a5050" opacity="0.85">吴语</text>
+
+    <!-- Cantonese / Yue (粤语) — Guangdong/Guangxi east -->
+    <path class="dialect-zone dialect-yue" d="
+      M 420,435 L 468,428 L 510,432 L 540,445 L 555,462 L 548,480
+      L 530,492 L 508,498 L 485,498 L 462,492 L 442,480 L 430,465
+      L 422,450 Z
+    " fill="#8e4a6e" opacity="0.12" stroke="#8e4a6e" stroke-width="0.8" stroke-dasharray="4,3"/>
+    <text x="488" y="468" text-anchor="middle" font-family="Noto Serif SC, serif" font-size="9" fill="#8e4a6e" opacity="0.85">粤语 Cantonese</text>
+
+    <!-- Min zone (闽语) — Fujian/Taiwan -->
+    <path class="dialect-zone dialect-min" d="
+      M 555,388 L 580,385 L 598,392 L 610,408 L 608,428 L 595,442
+      L 578,448 L 560,445 L 545,432 L 540,415 L 542,400 Z
+    " fill="#4a2878" opacity="0.12" stroke="#4a2878" stroke-width="0.8" stroke-dasharray="4,3"/>
+    <text x="578" y="418" text-anchor="middle" font-family="Noto Serif SC, serif" font-size="9" fill="#4a2878" opacity="0.85">闽语 Min</text>
+
+    <!-- Hakka (客家) -->
+    <path class="dialect-zone dialect-hakka" d="
+      M 490,428 L 515,425 L 535,432 L 548,448 L 545,465 L 530,475
+      L 512,478 L 495,472 L 485,458 L 485,442 Z
+    " fill="#7a3a18" opacity="0.10" stroke="#7a3a18" stroke-width="0.8" stroke-dasharray="4,3"/>
+    <text x="515" y="452" text-anchor="middle" font-family="Noto Serif SC, serif" font-size="8" fill="#7a3a18" opacity="0.75">客家</text>
+
+    <!-- Dialect key -->
+    <g class="dialect-key" transform="translate(30,540)">
+      <rect width="145" height="38" rx="4" fill="#f0e8d5" stroke="#b8a888" stroke-width="1" opacity="0.95"/>
+      <text x="8" y="14" font-family="EB Garamond, serif" font-size="9" fill="#5a4428" font-style="italic">Shaded zones are approximate.</text>
+      <text x="8" y="28" font-family="EB Garamond, serif" font-size="9" fill="#5a4428" font-style="italic">See 方言 entry for full map.</text>
+    </g>
+  </g>
+
+  <!-- ═══════════════════════════════════════════════
+       LAYER: sites — annotation pins (rendered by JS)
+       This group is populated at runtime via map.js.
+  ════════════════════════════════════════════════ -->
+  <g class="map-layer layer-sites" data-layer="sites" id="map-pins-sites" clip-path="url(#map-clip)"/>
+
+  <!-- Dynasty pins (rendered by JS) -->
+  <g class="map-layer layer-dynasties" data-layer="dynasties" id="map-pins-dynasties" clip-path="url(#map-clip)"/>
+
+  <!-- River pins (rendered by JS) -->
+  <g class="map-layer layer-rivers" data-layer="rivers" id="map-pins-rivers" clip-path="url(#map-clip)"/>
+
+  <!-- Dialect pins (rendered by JS) -->
+  <g class="map-layer layer-dialects" data-layer="dialects" id="map-pins-dialects" clip-path="url(#map-clip)"/>
+
+  <!-- Modern city pins (rendered by JS) -->
+  <g class="map-layer layer-modern" data-layer="modern" id="map-pins-modern" clip-path="url(#map-clip)"/>
+
+</svg>

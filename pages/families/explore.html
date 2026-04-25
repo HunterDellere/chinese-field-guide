@@ -6,7 +6,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Explore — Explore — Jiǎoluò Shūwū · 角落書屋</title>
 <meta name="description" content="Browse all entries on Jiǎoluò Shūwū. Three families (Language, Topics, Collections) group every category for guided exploration.">
-<meta name="theme-color" content="#1c1208">
+<meta name="theme-color" content="#1c1208" id="meta-theme-color">
+<!-- Flash-of-wrong-theme prevention: read localStorage before first paint -->
+<script>(function(){try{var t=localStorage.getItem('shuwo-theme');if(t==='dark'||t==='light'){document.documentElement.setAttribute('data-theme',t);}else if(!t&&window.matchMedia('(prefers-color-scheme: dark)').matches){document.documentElement.setAttribute('data-theme','dark');}}catch(e){}})();</script>
 <meta name="apple-mobile-web-app-title" content="角落書屋">
 <meta name="application-name" content="角落書屋">
 <link rel="alternate" type="application/rss+xml" title="Jiǎoluò Shūwū · 角落書屋" href="../../feed.xml">
@@ -45,6 +47,10 @@
   </a>
   <div class="topnav-right">
     <a href="#" class="topnav-random" data-random-entry data-entries-base="../../" aria-label="Open a random entry"><span aria-hidden="true">⟳</span> Random</a>
+    <button class="theme-toggle" type="button" aria-label="Toggle dark mode" id="theme-toggle">
+      <span class="tt-sun" aria-hidden="true">☀</span>
+      <span class="tt-moon" aria-hidden="true">☾</span>
+    </button>
   </div>
 </nav>
 
@@ -152,7 +158,7 @@
             <a class="all-cat-link" href="language.html#cat-characters" data-category="characters">
               <span class="acl-cn" style="color: var(--cat-characters)">字</span>
               <span class="acl-en">Characters</span>
-              <span class="acl-count">85</span>
+              <span class="acl-count">87</span>
             </a>
             <a class="all-cat-link" href="language.html#cat-vocab" data-category="vocab">
               <span class="acl-cn" style="color: var(--cat-vocab)">词</span>

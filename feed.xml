@@ -6,7 +6,7 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>Notes on Chinese language and civilisation — characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Apr 2026 22:28:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 22:41:53 GMT</lastBuildDate>
     <item>
       <title>白 · white, clear, plain, in vain</title>
       <link>https://jiaoshoo.com/pages/characters/bai2_白.html</link>
@@ -40,6 +40,14 @@
       <category>characters</category>
     </item>
     <item>
+      <title>空 · empty, sky, void; in vain</title>
+      <link>https://jiaoshoo.com/pages/characters/kong1_空.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/kong1_空.html</guid>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
+      <description>A cave with the work of hollowing inside it. The character that names the open sky, the empty room, the wasted afternoon, and the Buddhist śūnyatā at the heart of Chan.</description>
+      <category>characters</category>
+    </item>
+    <item>
       <title>路 · road, path, route</title>
       <link>https://jiaoshoo.com/pages/characters/lu4_路.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/lu4_路.html</guid>
@@ -53,6 +61,14 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/si3_死.html</guid>
       <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
       <description>A figure kneeling beside a corpse. The character behind the strongest verb of finality in Chinese, the bedrock of every taboo, and the intensifier that turns 累 into 累死了.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>无 · nothing, without, non-being</title>
+      <link>https://jiaoshoo.com/pages/characters/wu2_无.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/wu2_无.html</guid>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
+      <description>A dancer with arms outstretched, holding nothing. The character behind every Chinese negation of having, every Daoist non-doing, and the philosophical pole that pairs with 有 to frame the whole cosmos.</description>
       <category>characters</category>
     </item>
     <item>
@@ -230,22 +246,6 @@
       <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
       <description>Face in Chinese social life is a recurring set of transactions with specific mechanics: how face is given, taken, lost, and preserved in concrete situations.</description>
       <category>daily</category>
-    </item>
-    <item>
-      <title>着 · the continuous aspect marker</title>
-      <link>https://jiaoshoo.com/pages/grammar/zhe_着.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/grammar/zhe_着.html</guid>
-      <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Three distinct jobs: holding a state, linking two actions, and commanding attention — all from a single particle that beginners collapse into one.</description>
-      <category>grammar</category>
-    </item>
-    <item>
-      <title>春秋时期 · Spring and Autumn Period</title>
-      <link>https://jiaoshoo.com/pages/history/topic_chunqiu.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/history/topic_chunqiu.html</guid>
-      <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
-      <description>The age when China named itself through the text that documented it, and a philosopher who failed every audience built the tradition that outlasted every state.</description>
-      <category>history</category>
     </item>
   </channel>
 </rss>

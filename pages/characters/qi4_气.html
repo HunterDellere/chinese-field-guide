@@ -6,7 +6,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>气 qì — breath, vital energy — Jiǎoluò Shūwū · 角落書屋</title>
 <meta name="description" content="气 qì: breath, air, vital energy, atmosphere. Etymology from steam pictograph to cosmological substrate, weather, anger, tone of voice, and the classical qi of Chinese natural philosophy.">
-<meta name="theme-color" content="#1c1208">
+<meta name="theme-color" content="#1c1208" id="meta-theme-color">
+<!-- Flash-of-wrong-theme prevention: read localStorage before first paint -->
+<script>(function(){try{var t=localStorage.getItem('shuwo-theme');if(t==='dark'||t==='light'){document.documentElement.setAttribute('data-theme',t);}else if(!t&&window.matchMedia('(prefers-color-scheme: dark)').matches){document.documentElement.setAttribute('data-theme','dark');}}catch(e){}})();</script>
 <meta name="apple-mobile-web-app-title" content="角落書屋">
 <meta name="application-name" content="角落書屋">
 <link rel="alternate" type="application/rss+xml" title="Jiǎoluò Shūwū · 角落書屋" href="../../feed.xml">
@@ -46,6 +48,10 @@
   <div class="topnav-right">
     <a href="#" class="topnav-random" data-random-entry data-entries-base="../../" aria-label="Open a random entry"><span aria-hidden="true">⟳</span> Random</a>
     <a href="../families/explore.html" class="topnav-back" aria-label="Explore all entries">Explore</a>
+    <button class="theme-toggle" type="button" aria-label="Toggle dark mode" id="theme-toggle">
+      <span class="tt-sun" aria-hidden="true">☀</span>
+      <span class="tt-moon" aria-hidden="true">☾</span>
+    </button>
   </div>
 </nav>
 
@@ -186,7 +192,7 @@
 
     <div class="pattern">
       <span class="label">构词规律 gòucí guīlǜ · Four Domains of 气</span>
-      <strong><a class="auto-link" href="tian1_天.html">天</a>/空 + 气</strong> → atmospheric: 天气 weather · 空气 air · 气候 climate · 气温 temperature<br>
+      <strong><a class="auto-link" href="tian1_天.html">天</a>/<a class="auto-link" href="kong1_空.html">空</a> + 气</strong> → atmospheric: 天气 weather · 空气 air · 气候 climate · 气温 temperature<br>
       <strong><a class="auto-link" href="sheng1_生.html">生</a>/怒/闷 + 气</strong> → emotional: 生气 angry · 闷气 suppressed frustration · 怨气 resentment<br>
       <strong><a class="auto-link" href="yu3_语.html">语</a>/<a class="auto-link" href="kou3_口.html">口</a> + 气</strong> → register/tone: 语气 grammatical mood; tone · 口气 manner of speaking<br>
       <strong>气 + quality</strong> → bearing &amp; presence: 气质 temperament · 气势 momentum · 气场 aura
@@ -242,7 +248,7 @@
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          空 kōng (empty; void; sky) + 气 qì. The physical substance of the atmosphere, what you breathe. Also used metaphorically for social atmosphere: 房间里的空气很紧张 "the air in the room was tense." The same word covers oxygen and social mood.
+          <a class="auto-link" href="kong1_空.html">空</a> kōng (empty; void; sky) + 气 qì. The physical substance of the atmosphere, what you breathe. Also used metaphorically for social atmosphere: 房间里的空气很紧张 "the air in the room was tense." The same word covers oxygen and social mood.
         </div>
         <div class="examples">
           <div class="example">

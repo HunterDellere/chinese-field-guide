@@ -6,7 +6,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>道 dào — way, path — Jiǎoluò Shūwū · 角落書屋</title>
 <meta name="description" content="道 dào: way, path, principle, and the Word that gave Daoism its name. From road to moral order to the measure word for light and rivers.">
-<meta name="theme-color" content="#1c1208">
+<meta name="theme-color" content="#1c1208" id="meta-theme-color">
+<!-- Flash-of-wrong-theme prevention: read localStorage before first paint -->
+<script>(function(){try{var t=localStorage.getItem('shuwo-theme');if(t==='dark'||t==='light'){document.documentElement.setAttribute('data-theme',t);}else if(!t&&window.matchMedia('(prefers-color-scheme: dark)').matches){document.documentElement.setAttribute('data-theme','dark');}}catch(e){}})();</script>
 <meta name="apple-mobile-web-app-title" content="角落書屋">
 <meta name="application-name" content="角落書屋">
 <link rel="alternate" type="application/rss+xml" title="Jiǎoluò Shūwū · 角落書屋" href="../../feed.xml">
@@ -46,6 +48,10 @@
   <div class="topnav-right">
     <a href="#" class="topnav-random" data-random-entry data-entries-base="../../" aria-label="Open a random entry"><span aria-hidden="true">⟳</span> Random</a>
     <a href="../families/explore.html" class="topnav-back" aria-label="Explore all entries">Explore</a>
+    <button class="theme-toggle" type="button" aria-label="Toggle dark mode" id="theme-toggle">
+      <span class="tt-sun" aria-hidden="true">☀</span>
+      <span class="tt-moon" aria-hidden="true">☾</span>
+    </button>
   </div>
 </nav>
 
@@ -701,7 +707,7 @@
         </div>
         <div class="tags"><span class="tag tag-adj">Adj 形容词 xíngróngcí</span></div>
         <div class="card-def">
-          无 wú (without; lacking) + 道 dào (Way; moral principle). Classical term for a ruler who has abandoned virtue and lost the mandate of heaven, whose governance has become purely arbitrary and cruel. Still used in historical and literary contexts, and occasionally in strong rhetorical condemnation.
+          <a class="auto-link" href="wu2_无.html">无</a> wú (without; lacking) + 道 dào (Way; moral principle). Classical term for a ruler who has abandoned virtue and lost the mandate of heaven, whose governance has become purely arbitrary and cruel. Still used in historical and literary contexts, and occasionally in strong rhetorical condemnation.
         </div>
         <div class="examples">
           <div class="example">
@@ -926,14 +932,14 @@
     <section class="related" aria-labelledby="related-label">
       <span class="related-label sr-only" id="related-label">Related entries — pages and vocabulary in the neighbourhood of this one</span>
       <div class="related-cards">
-        <a class="related-card" href="../hubs/zhexue.html" data-category="hubs"><span class="rc-head"><span class="rc-cn">哲学</span><span class="rc-py">zhéxué</span></span><span class="rc-en">Chinese Philosophy — A Reading Path</span><span class="rc-detail">A guided walk through the great schools of Chinese thought — from Confucius and Laozi to the Neo-Confucian synthesis and the living debate between order and spontaneity.</span><span class="rl-reason rl-reason-tag">theme · daoism</span></a>
         <a class="related-card" href="../religion/topic_daojiao.html" data-category="religion"><span class="rc-head"><span class="rc-cn">道教</span><span class="rc-py">dàojiào</span></span><span class="rc-en">Daoism</span><span class="rc-detail">Daoism as organized religion — distinct from Daoist philosophy.</span><span class="rl-reason rl-reason-contains">contains 道</span></a>
+        <a class="related-card" href="../hubs/zhexue.html" data-category="hubs"><span class="rc-head"><span class="rc-cn">哲学</span><span class="rc-py">zhéxué</span></span><span class="rc-en">Chinese Philosophy — A Reading Path</span><span class="rc-detail">A guided walk through the great schools of Chinese thought — from Confucius and Laozi to the Neo-Confucian synthesis and the living debate between order and spontaneity.</span><span class="rl-reason rl-reason-tag">theme · daoism</span></a>
+        <a class="related-card" href="wu2_无.html" data-category="characters"><span class="rc-head"><span class="rc-cn">无</span><span class="rc-py">wú</span></span><span class="rc-en">nothing, without, non-being</span><span class="rc-detail">A dancer with arms outstretched, holding nothing. The character behind every Chinese negation of having, every Daoist non-doing, and the philosophical pole that pairs with 有 to frame the whole cosmos.</span><span class="rl-reason rl-reason-tag">theme · daoism</span></a>
         <a class="related-card" href="lu4_路.html" data-category="characters"><span class="rc-head"><span class="rc-cn">路</span><span class="rc-py">lù</span></span><span class="rc-en">road, path, route</span><span class="rc-detail">The walked road, where 道 is the navigated way: 路 is the surface beneath the foot, the route the messenger takes, the journey of a life measured in distance.</span><span class="rl-reason rl-reason-tag">theme · path</span></a>
         <a class="related-card" href="../vocab/daode_道德.html" data-category="vocab"><span class="rc-head"><span class="rc-cn">道德</span><span class="rc-py">dàodé</span></span><span class="rc-en">morality, ethics, virtue</span><span class="rc-detail">The compound at the center of Chinese moral philosophy — the Way and its virtue, inseparable and mutually defining.</span><span class="rl-reason rl-reason-contains">contains 道</span></a>
         <a class="related-card" href="../vocab/chadao_茶道.html" data-category="vocab"><span class="rc-head"><span class="rc-cn">茶道</span><span class="rc-py">chádào</span></span><span class="rc-en">the way of tea</span><span class="rc-detail">From wild forest leaf to civilizational ritual — how tea became China&#39;s quintessential art of presence.</span><span class="rl-reason rl-reason-contains">contains 道</span></a>
         <a class="related-card rl-multi" href="../chengyu/saiwengshima_塞翁失马.html" data-category="chengyu"><span class="rc-head"><span class="rc-cn">塞翁失马</span><span class="rc-py">sài wēng shī mǎ</span></span><span class="rc-en">The Old Man at the Frontier Loses His Horse</span><span class="rc-detail">His horse ran off. His neighbours grieved. He shrugged. The Daoist parable that became China&#39;s word for the unknowability of fortune.</span><span class="rl-reason rl-reason-tag">theme · daoism</span></a>
         <a class="related-card" href="../vocab/ziran_自然.html" data-category="vocab"><span class="rc-head"><span class="rc-cn">自然</span><span class="rc-py">zìrán</span></span><span class="rc-en">nature; natural; of course</span><span class="rc-detail">Laozi placed 自然 at the center of his cosmology: the Way models itself on what is so of itself — no outside force required.</span><span class="rl-reason rl-reason-tag">theme · daoism</span></a>
-        <a class="related-card" href="shui3_水.html" data-category="characters"><span class="rc-head"><span class="rc-cn">水</span><span class="rc-py">shuǐ</span></span><span class="rc-en">water</span><span class="rc-detail">The first of the five elements, the radical that runs through hundreds of compounds, and the Daoist image of how to act in the world.</span><span class="rl-reason rl-reason-tag">theme · daoism</span></a>
       </div>
       <div class="related-chips-tier">
         <span class="related-chips-head"><span class="rch-cn">词族</span> <span class="rch-py">cízú</span> <span class="rch-en">Vocabulary in this field</span></span>
@@ -947,7 +953,7 @@
       <span class="adj"><span class="a-cn">法</span><span class="a-py">fǎ</span><span class="a-en">law; method; dharma</span></span>
       <span class="adj"><span class="a-cn">理</span><span class="a-py">lǐ</span><span class="a-en">principle; inherent pattern</span></span>
       <span class="adj"><span class="a-cn">德</span><span class="a-py">dé</span><span class="a-en">virtue; moral power</span></span>
-      <span class="adj"><span class="a-cn">无</span><span class="a-py">wú</span><span class="a-en">nothingness; nonbeing</span></span>
+      <a class="adj" href="wu2_无.html" data-category="characters"><span class="a-cn">无</span><span class="a-py">wú</span><span class="a-en">nothingness; nonbeing</span></a>
       <a class="adj" href="../vocab/ziran_自然.html" data-category="vocab"><span class="a-cn">自然</span><span class="a-py">zìrán</span><span class="a-en">nature; naturally; as-itself</span></a>
       <span class="adj"><span class="a-cn">无为</span><span class="a-py">wúwéi</span><span class="a-en">non-action; the Daoist ideal</span></span>
       <a class="adj" href="../vocab/tianming_天命.html" data-category="vocab"><span class="a-cn">天命</span><span class="a-py">tiānmìng</span><span class="a-en">mandate of heaven; fate</span></a>

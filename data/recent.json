@@ -78,6 +78,27 @@
     "updated": "2026-04-25"
   },
   {
+    "path": "pages/characters/kong1_空.html",
+    "type": "character",
+    "category": "characters",
+    "title": "空 · empty, sky, void; in vain",
+    "desc": "A cave with the work of hollowing inside it. The character that names the open sky, the empty room, the wasted afternoon, and the Buddhist śūnyatā at the heart of Chan.",
+    "tags": [
+      "buddhism",
+      "philosophy",
+      "cosmology",
+      "chan",
+      "meditation"
+    ],
+    "status": "complete",
+    "char": "空",
+    "pinyin": "kōng",
+    "tone": 1,
+    "hsk": 3,
+    "radical": "穴",
+    "updated": "2026-04-25"
+  },
+  {
     "path": "pages/characters/lu4_路.html",
     "type": "character",
     "category": "characters",
@@ -115,6 +136,27 @@
     "tone": 3,
     "hsk": 4,
     "radical": "歹",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/characters/wu2_无.html",
+    "type": "character",
+    "category": "characters",
+    "title": "无 · nothing, without, non-being",
+    "desc": "A dancer with arms outstretched, holding nothing. The character behind every Chinese negation of having, every Daoist non-doing, and the philosophical pole that pairs with 有 to frame the whole cosmos.",
+    "tags": [
+      "daoism",
+      "philosophy",
+      "negation",
+      "cosmology",
+      "wuwei"
+    ],
+    "status": "complete",
+    "char": "无",
+    "pinyin": "wú",
+    "tone": 2,
+    "hsk": 4,
+    "radical": "无",
     "updated": "2026-04-25"
   },
   {
@@ -342,43 +384,6 @@
     "tone": 2,
     "hsk": 4,
     "radical": "二",
-    "updated": "2026-04-22"
-  },
-  {
-    "path": "pages/characters/zhi4_智.html",
-    "type": "character",
-    "category": "characters",
-    "title": "智 · wisdom, moral intelligence",
-    "desc": "The Confucian virtue of knowing what is right to do; separately, the Buddhist prajñā that sees through the nature of things altogether.",
-    "tags": [
-      "confucianism",
-      "ethics",
-      "virtue",
-      "philosophy",
-      "buddhism"
-    ],
-    "status": "complete",
-    "char": "智",
-    "pinyin": "zhì",
-    "tone": 4,
-    "hsk": 4,
-    "radical": "日",
-    "updated": "2026-04-22"
-  },
-  {
-    "path": "pages/chengyu/qingchulanlan_青出于蓝.html",
-    "type": "vocab",
-    "category": "chengyu",
-    "title": "青出于蓝 · The Student Surpasses the Teacher",
-    "desc": "Indigo is made from the indigo plant, yet it is bluer than the plant itself. Xunzi's image for the student who surpasses the teacher through sustained effort.",
-    "tags": [
-      "idioms",
-      "classical",
-      "philosophy",
-      "confucianism"
-    ],
-    "status": "complete",
-    "pinyin": "qīng chū yú lán",
     "updated": "2026-04-22"
   }
 ]

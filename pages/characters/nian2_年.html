@@ -6,7 +6,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>年 nián — year — Jiǎoluò Shūwū · 角落書屋</title>
 <meta name="description" content="年 nián: year, age, New Year. Etymology, the Chinese New Year (春节), the nian monster legend, key time compounds, and the Chinese understanding of cyclical time.">
-<meta name="theme-color" content="#1c1208">
+<meta name="theme-color" content="#1c1208" id="meta-theme-color">
+<!-- Flash-of-wrong-theme prevention: read localStorage before first paint -->
+<script>(function(){try{var t=localStorage.getItem('shuwo-theme');if(t==='dark'||t==='light'){document.documentElement.setAttribute('data-theme',t);}else if(!t&&window.matchMedia('(prefers-color-scheme: dark)').matches){document.documentElement.setAttribute('data-theme','dark');}}catch(e){}})();</script>
 <meta name="apple-mobile-web-app-title" content="角落書屋">
 <meta name="application-name" content="角落書屋">
 <link rel="alternate" type="application/rss+xml" title="Jiǎoluò Shūwū · 角落書屋" href="../../feed.xml">
@@ -46,6 +48,10 @@
   <div class="topnav-right">
     <a href="#" class="topnav-random" data-random-entry data-entries-base="../../" aria-label="Open a random entry"><span aria-hidden="true">⟳</span> Random</a>
     <a href="../families/explore.html" class="topnav-back" aria-label="Explore all entries">Explore</a>
+    <button class="theme-toggle" type="button" aria-label="Toggle dark mode" id="theme-toggle">
+      <span class="tt-sun" aria-hidden="true">☀</span>
+      <span class="tt-moon" aria-hidden="true">☾</span>
+    </button>
   </div>
 </nav>
 
@@ -276,8 +282,8 @@
         <a class="related-card" href="ri4_日.html" data-category="characters"><span class="rc-head"><span class="rc-cn">日</span><span class="rc-py">rì</span></span><span class="rc-en">sun, day, Japan</span><span class="rc-detail">The oldest pictograph in the script — a circle with a dot for the sun, now a radical in hundreds of characters related to time, light, and warmth.</span><span class="rl-reason rl-reason-tag">theme · cosmology</span></a>
         <a class="related-card" href="tu3_土.html" data-category="characters"><span class="rc-head"><span class="rc-cn">土</span><span class="rc-py">tǔ</span></span><span class="rc-en">earth, soil, local, native</span><span class="rc-detail">A mound of soil with a base — the earth phase of the Five Elements, and the root of hundreds of characters for land, construction, and cultural belonging.</span><span class="rl-reason rl-reason-tag">theme · cosmology</span></a>
         <a class="related-card" href="gong1_工.html" data-category="characters"><span class="rc-head"><span class="rc-cn">工</span><span class="rc-py">gōng</span></span><span class="rc-en">work, craft, labor, worker</span><span class="rc-detail">Three strokes encoding heaven, earth, and the human craft connecting them — the root character for all labor, skill, and making in Chinese.</span><span class="rl-reason rl-reason-tag">theme · history</span></a>
-        <a class="related-card" href="../vocab/jieqi_节气.html" data-category="vocab"><span class="rc-head"><span class="rc-cn">节气</span><span class="rc-py">jiéqì</span></span><span class="rc-en">the 24 solar terms</span><span class="rc-detail">China&#39;s ancient agricultural calendar — 24 precise moments that mark the turning of the year, still shaping food, medicine, and daily life.</span><span class="rl-reason rl-reason-tag">theme · cosmology</span></a>
         <a class="related-card" href="long2_龙.html" data-category="characters"><span class="rc-head"><span class="rc-cn">龙</span><span class="rc-py">lóng</span></span><span class="rc-en">dragon, the imperial symbol</span><span class="rc-detail">China&#39;s most powerful mythic creature: benevolent, not fearsome; the emperor&#39;s emblem and the Chinese people&#39;s self-described totem.</span><span class="rl-reason rl-reason-tag">theme · history</span></a>
+        <a class="related-card" href="../vocab/jieqi_节气.html" data-category="vocab"><span class="rc-head"><span class="rc-cn">节气</span><span class="rc-py">jiéqì</span></span><span class="rc-en">the 24 solar terms</span><span class="rc-detail">China&#39;s ancient agricultural calendar — 24 precise moments that mark the turning of the year, still shaping food, medicine, and daily life.</span><span class="rl-reason rl-reason-tag">theme · cosmology</span></a>
         <a class="related-card" href="feng1_风.html" data-category="characters"><span class="rc-head"><span class="rc-cn">风</span><span class="rc-py">fēng</span></span><span class="rc-en">wind; style; custom</span><span class="rc-detail">The character that moves crops, carries seeds, and became the Chinese word for cultural character itself.</span><span class="rl-reason rl-reason-tag">theme · cosmology</span></a>
         <a class="related-card" href="../science/topic_xingxiu.html" data-category="science"><span class="rc-head"><span class="rc-cn">星宿</span><span class="rc-py">xīngxiù</span></span><span class="rc-en">Chinese Constellations</span><span class="rc-detail">China mapped the entire sky independently of Greece — 1,464 stars, 28 lunar mansions, and four mythological guardians that divided the cosmos long before Ptolemy.</span><span class="rl-reason rl-reason-tag">theme · cosmology</span></a>
         <a class="related-card" href="../vocab/zhongguo_中国.html" data-category="vocab"><span class="rc-head"><span class="rc-cn">中国</span><span class="rc-py">Zhōngguó</span></span><span class="rc-en">the Middle Kingdom; China</span><span class="rc-detail">Two characters older than the country they now name. 中 (center) and 国 (state) joined three thousand years ago to mean &quot;the central states&quot;; the modern country took the phrase for itself only in the 19th century.</span><span class="rl-reason rl-reason-tag">theme · cosmology</span></a>

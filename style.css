@@ -2534,3 +2534,841 @@ body[data-category="hubs"] .toc-list a:hover { color: var(--cat-hubs); border-le
 body[data-category="hubs"] .sh-cn { color: var(--cat-hubs); }
 body[data-category="hubs"] .reading-progress-bar { background: linear-gradient(90deg, var(--cat-hubs), #8a52b0); }
 body[data-category="hubs"] { --seal-color: var(--cat-hubs); }
+
+/* ════════════════════════════════════════════════════════════
+   INTERACTIVE MAP  ·  pages/maps/china.html
+   ════════════════════════════════════════════════════════════ */
+
+/* ── Map page layout ─────────────────────────────────────── */
+.map-page-hero {
+  padding: 2.2rem 0 1.6rem;
+  border-bottom: 1px solid var(--rule);
+  margin-bottom: 1.8rem;
+}
+.map-page-eyebrow {
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--ink-5);
+  display: block;
+  margin-bottom: 0.5rem;
+}
+.map-page-title {
+  font-family: var(--font-cn-display);
+  font-size: clamp(2rem, 5vw, 3rem);
+  color: #2a5c6b;
+  line-height: 1.1;
+  margin: 0 0 0.25rem;
+}
+.map-page-title-py {
+  font-family: var(--font-mono);
+  font-size: 1rem;
+  color: var(--ink-5);
+  letter-spacing: 0.04em;
+  display: block;
+  margin-bottom: 0.75rem;
+}
+.map-page-desc {
+  font-size: 1.05rem;
+  color: var(--ink-4);
+  line-height: 1.6;
+  max-width: 52ch;
+}
+
+/* ── Layer control bar ───────────────────────────────────── */
+.map-controls {
+  display: flex;
+  flex-direction: column;
+  gap: 1.1rem;
+  margin-bottom: 1.4rem;
+}
+.map-layers-label {
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--ink-5);
+  display: block;
+  margin-bottom: 0.4rem;
+}
+.map-layer-btns {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+.map-layer-btn {
+  font-family: var(--font-body);
+  font-size: 0.82rem;
+  padding: 0.3rem 0.75rem;
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  background: var(--papyrus-2);
+  color: var(--ink-4);
+  cursor: pointer;
+  transition: background 0.15s, border-color 0.15s, color 0.15s;
+  display: flex;
+  align-items: center;
+  gap: 0.35em;
+}
+.map-layer-btn .btn-cn {
+  font-family: var(--font-cn);
+  font-weight: 600;
+  font-size: 0.88rem;
+}
+.map-layer-btn:hover { background: var(--papyrus-3); color: var(--ink-2); border-color: var(--ochre); }
+.map-layer-btn.active { background: #2a5c6b; color: #e8f0f2; border-color: #2a5c6b; }
+.map-layer-btn:focus-visible { outline: none; box-shadow: var(--focus-ring); }
+
+/* ── Dynasty sub-controls ────────────────────────────────── */
+.map-dynasty-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+}
+.map-dynasty-row-label {
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--ink-5);
+}
+.dynasty-btn {
+  font-family: var(--font-body);
+  font-size: 0.78rem;
+  padding: 0.22rem 0.6rem;
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  background: var(--papyrus-2);
+  color: var(--ink-5);
+  cursor: pointer;
+  transition: all 0.15s;
+}
+.dynasty-btn:hover { background: var(--papyrus-3); color: var(--ink-2); border-color: var(--ochre); }
+.dynasty-btn.active { background: #6b4420; color: #f0e8d8; border-color: #6b4420; }
+.dynasty-btn:focus-visible { outline: none; box-shadow: var(--focus-ring); }
+
+/* ── Map container ───────────────────────────────────────── */
+#map-container {
+  position: relative;
+  width: 100%;
+  max-width: 800px;
+  background: var(--papyrus-2);
+  border: 1px solid var(--rule);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  box-shadow: 0 2px 12px var(--shadow), inset 0 0 0 1px rgba(60,40,20,0.06);
+  margin-bottom: 1.8rem;
+}
+#map-container svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/* ── SVG layer visibility (defaults: only modern shown) ──── */
+.map-layer { transition: opacity 0.3s ease; }
+
+/* ── Pin styles ──────────────────────────────────────────── */
+.map-pin {
+  cursor: pointer;
+  transition: transform 0.15s ease;
+  transform-origin: center;
+}
+.map-pin:hover, .map-pin:focus-visible {
+  transform: scale(1.35);
+  outline: none;
+}
+.map-pin .pin-ring { transition: r 0.15s ease, opacity 0.15s ease; }
+.map-pin:hover .pin-ring, .map-pin:focus-visible .pin-ring {
+  r: 14;
+  opacity: 0.22;
+}
+
+/* ── Tooltip ─────────────────────────────────────────────── */
+.map-tooltip {
+  position: absolute;
+  pointer-events: none;
+  background: var(--ink);
+  color: var(--papyrus);
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: var(--radius);
+  padding: 0.55rem 0.8rem 0.6rem;
+  min-width: 160px;
+  max-width: 220px;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.28);
+  z-index: 20;
+  display: flex;
+  flex-direction: column;
+  gap: 0.18rem;
+  font-size: 0.82rem;
+  line-height: 1.4;
+}
+.map-tooltip[hidden] { display: none; }
+.map-tt-cn {
+  font-family: var(--font-cn);
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: #f0e8d0;
+  line-height: 1.2;
+}
+.map-tt-py {
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  color: rgba(240,232,208,0.6);
+  letter-spacing: 0.04em;
+}
+.map-tt-title {
+  font-size: 0.82rem;
+  color: rgba(240,232,208,0.85);
+  font-style: italic;
+}
+.map-tt-desc {
+  font-size: 0.75rem;
+  color: rgba(240,232,208,0.62);
+  margin-top: 0.15rem;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+}
+.map-tt-cat {
+  display: inline-block;
+  margin-top: 0.22rem;
+  font-family: var(--font-mono);
+  font-size: 0.62rem;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  padding: 0.1rem 0.35rem;
+  border-radius: 2px;
+  background: rgba(255,255,255,0.08);
+  color: rgba(240,232,208,0.65);
+}
+.map-tt-cat[data-category="geography"] { background: rgba(42,92,107,0.35); color: #a0d0dc; }
+.map-tt-cat[data-category="history"]   { background: rgba(107,68,32,0.35);  color: #d8b882; }
+.map-tt-cat[data-category="culture"]   { background: rgba(142,74,110,0.35); color: #d8a0c0; }
+.map-tt-cat[data-category="religion"]  { background: rgba(92,61,122,0.35);  color: #c0a8dc; }
+.map-tt-cta {
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  color: #c07830;
+  margin-top: 0.25rem;
+  letter-spacing: 0.02em;
+}
+
+/* ── Map legend / key ────────────────────────────────────── */
+.map-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1.2rem;
+  padding: 0.8rem 1rem;
+  background: var(--papyrus-2);
+  border: 1px solid var(--rule);
+  border-radius: var(--radius);
+  margin-bottom: 1.6rem;
+  font-size: 0.8rem;
+}
+.map-legend-item {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  color: var(--ink-4);
+  font-family: var(--font-body);
+}
+.legend-swatch {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+/* ── Mobile adjustments ──────────────────────────────────── */
+@media (max-width: 600px) {
+  .map-layer-btns { gap: 0.3rem; }
+  .map-layer-btn { font-size: 0.76rem; padding: 0.25rem 0.55rem; }
+  .map-tooltip { max-width: 180px; font-size: 0.78rem; }
+  .map-page-title { font-size: 1.8rem; }
+}
+
+/* ══════════════════════════════════════════════════════════════════════
+   DARK MODE — 暗色模式
+   ─────────────────────────────────────────────────────────────────────
+   Palette concept: the scholar's lamp. Light mode = papyrus in afternoon
+   sun. Dark mode = the same desk under a single oil lamp at midnight.
+   Ground: deep lacquered walnut — warm, not cold grey-blue.
+   Text: aged ivory → warm ash. Not stark white.
+   Accents: cinnabar and amber glow more intensely against dark ground.
+   Rules and shadows are warm, never neutral.
+
+   Activation:
+   (a) OS preference  →  html without [data-theme="light"]
+   (b) User toggle    →  html[data-theme="dark"]
+   The JS toggle writes data-theme on <html> and persists to localStorage.
+   ══════════════════════════════════════════════════════════════════════ */
+
+/* ── Theme toggle button ─────────────────────────────────────
+   Placed inside .topnav-right. Two child elements .tt-sun / .tt-moon
+   swap visibility based on current theme.                         */
+.theme-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  background: transparent;
+  border: 1px solid rgba(160,100,40,0.3);
+  color: var(--papyrus-4);
+  cursor: pointer;
+  font-size: 0.9rem;
+  line-height: 1;
+  padding: 0;
+  transition: background 0.15s, border-color 0.15s, color 0.15s, transform 0.15s;
+  flex-shrink: 0;
+  -webkit-appearance: none;
+  appearance: none;
+}
+.theme-toggle:hover {
+  background: rgba(160,100,40,0.12);
+  border-color: var(--ochre-2);
+  color: var(--papyrus);
+  transform: scale(1.05);
+}
+.theme-toggle:focus-visible {
+  outline: none;
+  border-color: var(--ochre-2);
+  box-shadow: 0 0 0 2px rgba(160,100,40,0.3);
+}
+.theme-toggle .tt-sun  { display: inline; line-height: 1; }
+.theme-toggle .tt-moon { display: none;   line-height: 1; }
+
+/* ── Dark token overrides ─────────────────────────────────── */
+/* Shared variable block used by both activation paths below. */
+/* Path A: explicit data-theme="dark" */
+html[data-theme="dark"] {
+  color-scheme: dark;
+
+  /* Ground — warm lacquer family */
+  --papyrus:    #1a1510;
+  --papyrus-2:  #201a13;
+  --papyrus-3:  #271f16;
+  --papyrus-4:  #2f261b;
+  --papyrus-5:  #3a2f20;
+
+  /* Text — aged ivory → warm ash */
+  --ink:        #f0e6d0;
+  --ink-2:      #e8dcca;
+  --ink-3:      #cfc2a8;
+  --ink-4:      #b0a088;
+  --ink-5:      #8a7860;
+
+  /* Accents — lifted ~25 L* for legibility on dark ground */
+  --red:        #c43030;
+  --red-2:      #d94040;
+  --red-tint:   rgba(196,48,48,0.12);
+  --ochre:      #c8883a;
+  --ochre-2:    #e09848;
+  --sienna:     #b05a2a;
+  --teal-ink:   #4aaa9a;
+  --teal-2:     #5ab8a8;
+  --violet-ink: #9060d0;
+
+  /* Rules / shadows */
+  --rule:   rgba(240,200,140,0.12);
+  --rule-2: rgba(240,200,140,0.07);
+  --shadow: rgba(0,0,0,0.4);
+
+  /* Per-category accents — each ~25 L* lift vs. their light-mode values */
+  --cat-characters:  #d94040;
+  --cat-vocab:       #d49040;
+  --cat-grammar:     #b07840;
+  --cat-chengyu:     #c04060;
+  --cat-religion:    #a07ad0;
+  --cat-philosophy:  #60a060;
+  --cat-history:     #c08050;
+  --cat-geography:   #50a0b8;
+  --cat-culture:     #cc80a8;
+  --cat-culinary:    #d07830;
+  --cat-arts:        #8050c8;
+  --cat-science:     #4090b0;
+  --cat-daily:       #b09050;
+  --cat-hsk:         #50a870;
+  --cat-hubs:        #9060c8;
+
+  --focus-ring: 0 0 0 2px rgba(200,136,58,0.45);
+}
+
+/* Path B: OS prefers dark, user hasn't overridden */
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme="light"]) {
+    color-scheme: dark;
+
+    --papyrus:    #1a1510;
+    --papyrus-2:  #201a13;
+    --papyrus-3:  #271f16;
+    --papyrus-4:  #2f261b;
+    --papyrus-5:  #3a2f20;
+
+    --ink:        #f0e6d0;
+    --ink-2:      #e8dcca;
+    --ink-3:      #cfc2a8;
+    --ink-4:      #b0a088;
+    --ink-5:      #8a7860;
+
+    --red:        #c43030;
+    --red-2:      #d94040;
+    --red-tint:   rgba(196,48,48,0.12);
+    --ochre:      #c8883a;
+    --ochre-2:    #e09848;
+    --sienna:     #b05a2a;
+    --teal-ink:   #4aaa9a;
+    --teal-2:     #5ab8a8;
+    --violet-ink: #9060d0;
+
+    --rule:   rgba(240,200,140,0.12);
+    --rule-2: rgba(240,200,140,0.07);
+    --shadow: rgba(0,0,0,0.4);
+
+    --cat-characters:  #d94040;
+    --cat-vocab:       #d49040;
+    --cat-grammar:     #b07840;
+    --cat-chengyu:     #c04060;
+    --cat-religion:    #a07ad0;
+    --cat-philosophy:  #60a060;
+    --cat-history:     #c08050;
+    --cat-geography:   #50a0b8;
+    --cat-culture:     #cc80a8;
+    --cat-culinary:    #d07830;
+    --cat-arts:        #8050c8;
+    --cat-science:     #4090b0;
+    --cat-daily:       #b09050;
+    --cat-hsk:         #50a870;
+    --cat-hubs:        #9060c8;
+
+    --focus-ring: 0 0 0 2px rgba(200,136,58,0.45);
+  }
+}
+
+/* ── Non-variable surface overrides ──────────────────────────
+   These target surfaces whose dark appearance can't be driven
+   solely by token replacement (inline SVG textures, specific
+   gradients, hardcoded rgba values).                          */
+
+/* Utility: target both activation paths in one block */
+.dark-mode-surface :is(html[data-theme="dark"], html:not([data-theme="light"])) { }
+
+/* Body paper texture — swap noise opacity + subtle warm red radial */
+html[data-theme="dark"] body {
+  background-image:
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300'%3E%3Cfilter id='p'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='5' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='300' height='300' filter='url(%23p)' opacity='0.04'/%3E%3C/svg%3E"),
+    repeating-linear-gradient(
+      0deg,
+      transparent,
+      transparent 28px,
+      rgba(240,200,140,0.016) 28px,
+      rgba(240,200,140,0.016) 29px
+    ),
+    radial-gradient(ellipse 80% 60% at 50% 0%, rgba(196,48,48,0.05) 0%, transparent 70%);
+}
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme="light"]) body {
+    background-image:
+      url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300'%3E%3Cfilter id='p'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='5' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='300' height='300' filter='url(%23p)' opacity='0.04'/%3E%3C/svg%3E"),
+      repeating-linear-gradient(
+        0deg,
+        transparent,
+        transparent 28px,
+        rgba(240,200,140,0.016) 28px,
+        rgba(240,200,140,0.016) 29px
+      ),
+      radial-gradient(ellipse 80% 60% at 50% 0%, rgba(196,48,48,0.05) 0%, transparent 70%);
+  }
+}
+
+/* Topnav: deepen to near-black with warm cinnabar glow */
+html[data-theme="dark"] .topnav {
+  background: linear-gradient(180deg, #0e0b07 0%, #120e0a 100%);
+  border-bottom-color: rgba(196,48,48,0.45);
+  box-shadow: 0 2px 0 rgba(196,48,48,0.25), 0 1px 10px rgba(0,0,0,0.5);
+}
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme="light"]) .topnav {
+    background: linear-gradient(180deg, #0e0b07 0%, #120e0a 100%);
+    border-bottom-color: rgba(196,48,48,0.45);
+    box-shadow: 0 2px 0 rgba(196,48,48,0.25), 0 1px 10px rgba(0,0,0,0.5);
+  }
+}
+
+/* Mobile bottom topnav flips glow direction */
+@media (max-width: 768px) {
+  html[data-theme="dark"] .topnav {
+    border-top-color: rgba(196,48,48,0.45);
+    box-shadow: 0 -2px 0 rgba(196,48,48,0.25), 0 -1px 10px rgba(0,0,0,0.5);
+  }
+  html:not([data-theme="light"]) .topnav {
+    border-top-color: rgba(196,48,48,0.45);
+    box-shadow: 0 -2px 0 rgba(196,48,48,0.25), 0 -1px 10px rgba(0,0,0,0.5);
+  }
+}
+
+/* Sidebar noise texture */
+html[data-theme="dark"] .sidebar {
+  background-image:
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='p'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.7' numOctaves='4' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='200' height='200' filter='url(%23p)' opacity='0.035'/%3E%3C/svg%3E");
+}
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme="light"]) .sidebar {
+    background-image:
+      url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='p'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.7' numOctaves='4' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='200' height='200' filter='url(%23p)' opacity='0.035'/%3E%3C/svg%3E");
+  }
+}
+
+/* Mobile sidebar sheet */
+@media (max-width: 768px) {
+  html[data-theme="dark"] .sidebar {
+    box-shadow: 0 -8px 28px rgba(0,0,0,0.55);
+  }
+  html:not([data-theme="light"]) .sidebar {
+    box-shadow: 0 -8px 28px rgba(0,0,0,0.55);
+  }
+}
+
+/* Sidebar backdrop */
+html[data-theme="dark"] .sidebar-backdrop {
+  background: rgba(8,6,3,0.6);
+}
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme="light"]) .sidebar-backdrop {
+    background: rgba(8,6,3,0.6);
+  }
+}
+
+/* Text selection highlight */
+html[data-theme="dark"] ::selection {
+  background: rgba(196,48,48,0.28);
+  color: var(--ink);
+}
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme="light"]) ::selection {
+    background: rgba(196,48,48,0.28);
+    color: var(--ink);
+  }
+}
+
+/* TOC glyph: reduce halation on dark bg */
+html[data-theme="dark"] .toc-glyph {
+  text-shadow: 2px 2px 0 rgba(196,48,48,0.22);
+}
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme="light"]) .toc-glyph {
+    text-shadow: 2px 2px 0 rgba(196,48,48,0.22);
+  }
+}
+
+/* Hero glyph: cinnabar glow on dark ground */
+html[data-theme="dark"] .hero-glyph {
+  text-shadow: 3px 3px 0 rgba(196,48,48,0.28), 0 0 22px rgba(196,48,48,0.1);
+}
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme="light"]) .hero-glyph {
+    text-shadow: 3px 3px 0 rgba(196,48,48,0.28), 0 0 22px rgba(196,48,48,0.1);
+  }
+}
+
+/* Topic-hero title shadow */
+html[data-theme="dark"] .topic-hero-title {
+  text-shadow: none;
+}
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme="light"]) .topic-hero-title {
+    text-shadow: none;
+  }
+}
+
+/* Scholar box chop: slightly brighter on dark */
+html[data-theme="dark"] .scholar::after {
+  opacity: 0.9;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.5);
+}
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme="light"]) .scholar::after {
+    opacity: 0.9;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.5);
+  }
+}
+
+/* Hover tooltip: warm dark fill */
+html[data-theme="dark"] .al-tooltip {
+  background: var(--papyrus-3);
+  box-shadow: 0 4px 18px rgba(0,0,0,0.6);
+}
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme="light"]) .al-tooltip {
+    background: var(--papyrus-3);
+    box-shadow: 0 4px 18px rgba(0,0,0,0.6);
+  }
+}
+
+/* Back-to-top: stronger shadow */
+html[data-theme="dark"] .back-to-top {
+  box-shadow: 0 2px 12px rgba(0,0,0,0.5);
+}
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme="light"]) .back-to-top {
+    box-shadow: 0 2px 12px rgba(0,0,0,0.5);
+  }
+}
+
+/* Pattern box: warm teal tint on dark ground */
+html[data-theme="dark"] .pattern {
+  background: rgba(74,170,154,0.07);
+  border-color: rgba(74,170,154,0.17);
+}
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme="light"]) .pattern {
+    background: rgba(74,170,154,0.07);
+    border-color: rgba(74,170,154,0.17);
+  }
+}
+
+/* POS tags — darken tint layer behind border */
+html[data-theme="dark"] .tag-v   { background: rgba(196,48,48,0.14);   border-color: rgba(196,48,48,0.32); }
+html[data-theme="dark"] .tag-n   { background: rgba(74,170,154,0.1);   border-color: rgba(74,170,154,0.26); }
+html[data-theme="dark"] .tag-vn  { background: rgba(144,96,208,0.12);  border-color: rgba(144,96,208,0.28); }
+html[data-theme="dark"] .tag-adj { background: rgba(200,136,58,0.12);  border-color: rgba(200,136,58,0.3); }
+html[data-theme="dark"] .tag-conj{ background: rgba(176,90,42,0.12);   border-color: rgba(176,90,42,0.3); }
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme="light"]) .tag-v   { background: rgba(196,48,48,0.14);  border-color: rgba(196,48,48,0.32); }
+  html:not([data-theme="light"]) .tag-n   { background: rgba(74,170,154,0.1);  border-color: rgba(74,170,154,0.26); }
+  html:not([data-theme="light"]) .tag-vn  { background: rgba(144,96,208,0.12); border-color: rgba(144,96,208,0.28); }
+  html:not([data-theme="light"]) .tag-adj { background: rgba(200,136,58,0.12); border-color: rgba(200,136,58,0.3); }
+  html:not([data-theme="light"]) .tag-conj{ background: rgba(176,90,42,0.12);  border-color: rgba(176,90,42,0.3); }
+}
+
+/* Code spans */
+html[data-theme="dark"] .pattern code,
+html[data-theme="dark"] .note code { background: var(--papyrus-4); border-color: var(--rule); }
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme="light"]) .pattern code,
+  html:not([data-theme="light"]) .note code { background: var(--papyrus-4); border-color: var(--rule); }
+}
+
+/* Table header */
+html[data-theme="dark"] thead th { background: var(--papyrus-3); }
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme="light"]) thead th { background: var(--papyrus-3); }
+}
+
+/* Chip HSK + topic tints */
+html[data-theme="dark"] .chip-hsk  { background: rgba(196,48,48,0.14); }
+html[data-theme="dark"] .chip-topic{ background: rgba(74,170,154,0.1); }
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme="light"]) .chip-hsk  { background: rgba(196,48,48,0.14); }
+  html:not([data-theme="light"]) .chip-topic{ background: rgba(74,170,154,0.1); }
+}
+
+/* Related section reason chips */
+html[data-theme="dark"] .related-card .rl-reason          { background: var(--papyrus-3); }
+html[data-theme="dark"] .related-card .rl-reason-radical  { background: rgba(217,64,64,0.1); }
+html[data-theme="dark"] .related-card .rl-reason-contains { background: rgba(224,152,72,0.1); }
+html[data-theme="dark"] .related-card .rl-reason-tag      { background: rgba(74,170,154,0.1); }
+html[data-theme="dark"] .related-card .rl-reason-hsk      { background: rgba(144,96,208,0.1); }
+html[data-theme="dark"] .related-card .rl-reason-category { background: var(--papyrus-4); }
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme="light"]) .related-card .rl-reason          { background: var(--papyrus-3); }
+  html:not([data-theme="light"]) .related-card .rl-reason-radical  { background: rgba(217,64,64,0.1); }
+  html:not([data-theme="light"]) .related-card .rl-reason-contains { background: rgba(224,152,72,0.1); }
+  html:not([data-theme="light"]) .related-card .rl-reason-tag      { background: rgba(74,170,154,0.1); }
+  html:not([data-theme="light"]) .related-card .rl-reason-hsk      { background: rgba(144,96,208,0.1); }
+  html:not([data-theme="light"]) .related-card .rl-reason-category { background: var(--papyrus-4); }
+}
+
+/* Stage heads */
+html[data-theme="dark"] .stage-head.s-teal   { background: rgba(74,170,154,0.07); }
+html[data-theme="dark"] .stage-head.s-ochre  { background: rgba(200,136,58,0.07); }
+html[data-theme="dark"] .stage-head.s-sienna { background: rgba(176,90,42,0.07); }
+html[data-theme="dark"] .stage-head.s-violet { background: rgba(144,96,208,0.07); }
+html[data-theme="dark"] .stage-head.s-red    { background: rgba(196,48,48,0.07); }
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme="light"]) .stage-head.s-teal   { background: rgba(74,170,154,0.07); }
+  html:not([data-theme="light"]) .stage-head.s-ochre  { background: rgba(200,136,58,0.07); }
+  html:not([data-theme="light"]) .stage-head.s-sienna { background: rgba(176,90,42,0.07); }
+  html:not([data-theme="light"]) .stage-head.s-violet { background: rgba(144,96,208,0.07); }
+  html:not([data-theme="light"]) .stage-head.s-red    { background: rgba(196,48,48,0.07); }
+}
+
+/* Stroke-order panel background */
+html[data-theme="dark"] .so-stage { background: var(--papyrus-3); }
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme="light"]) .so-stage { background: var(--papyrus-3); }
+}
+
+/* Family card art band */
+html[data-theme="dark"] .family-card-art {
+  background: linear-gradient(180deg, var(--papyrus-2) 0%, var(--papyrus-3) 100%);
+}
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme="light"]) .family-card-art {
+    background: linear-gradient(180deg, var(--papyrus-2) 0%, var(--papyrus-3) 100%);
+  }
+}
+
+/* Fam-jump chip bar shadow */
+html[data-theme="dark"] .fam-jump { box-shadow: 0 2px 10px rgba(0,0,0,0.35); }
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme="light"]) .fam-jump { box-shadow: 0 2px 10px rgba(0,0,0,0.35); }
+}
+
+/* Category hover tints on TOC and category blocks */
+html[data-theme="dark"] body[data-category="characters"] .toc-list a.active,
+html[data-theme="dark"] body[data-category="characters"] .toc-list a:hover
+{ background: rgba(217,64,64,0.1); }
+html[data-theme="dark"] body[data-category="vocab"] .toc-list a.active,
+html[data-theme="dark"] body[data-category="vocab"] .toc-list a:hover
+{ background: rgba(212,144,64,0.1); }
+html[data-theme="dark"] body[data-category="grammar"] .toc-list a.active,
+html[data-theme="dark"] body[data-category="grammar"] .toc-list a:hover
+{ background: rgba(176,120,64,0.1); }
+html[data-theme="dark"] body[data-category="religion"] .toc-list a.active,
+html[data-theme="dark"] body[data-category="religion"] .toc-list a:hover
+{ background: rgba(160,122,208,0.1); }
+html[data-theme="dark"] body[data-category="philosophy"] .toc-list a.active,
+html[data-theme="dark"] body[data-category="philosophy"] .toc-list a:hover
+{ background: rgba(96,160,96,0.1); }
+html[data-theme="dark"] body[data-category="history"] .toc-list a.active,
+html[data-theme="dark"] body[data-category="history"] .toc-list a:hover
+{ background: rgba(192,128,80,0.1); }
+html[data-theme="dark"] body[data-category="geography"] .toc-list a.active,
+html[data-theme="dark"] body[data-category="geography"] .toc-list a:hover
+{ background: rgba(80,160,184,0.1); }
+html[data-theme="dark"] body[data-category="culture"] .toc-list a.active,
+html[data-theme="dark"] body[data-category="culture"] .toc-list a:hover
+{ background: rgba(204,128,168,0.1); }
+html[data-theme="dark"] body[data-category="culinary"] .toc-list a.active,
+html[data-theme="dark"] body[data-category="culinary"] .toc-list a:hover
+{ background: rgba(208,120,48,0.1); }
+html[data-theme="dark"] body[data-category="arts"] .toc-list a.active,
+html[data-theme="dark"] body[data-category="arts"] .toc-list a:hover
+{ background: rgba(128,80,200,0.1); }
+html[data-theme="dark"] body[data-category="science"] .toc-list a.active,
+html[data-theme="dark"] body[data-category="science"] .toc-list a:hover
+{ background: rgba(64,144,176,0.1); }
+html[data-theme="dark"] body[data-category="daily"] .toc-list a.active,
+html[data-theme="dark"] body[data-category="daily"] .toc-list a:hover
+{ background: rgba(176,144,80,0.1); }
+html[data-theme="dark"] body[data-category="chengyu"] .toc-list a.active,
+html[data-theme="dark"] body[data-category="chengyu"] .toc-list a:hover
+{ background: rgba(192,64,96,0.1); }
+html[data-theme="dark"] body[data-category="hsk"] .toc-list a.active,
+html[data-theme="dark"] body[data-category="hsk"] .toc-list a:hover
+{ background: rgba(80,168,112,0.1); }
+html[data-theme="dark"] body[data-category="hubs"] .toc-list a.active,
+html[data-theme="dark"] body[data-category="hubs"] .toc-list a:hover
+{ background: rgba(144,96,200,0.1); }
+
+/* Same for OS-preference dark */
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme="light"]) body[data-category="characters"] .toc-list a.active,
+  html:not([data-theme="light"]) body[data-category="characters"] .toc-list a:hover
+  { background: rgba(217,64,64,0.1); }
+  html:not([data-theme="light"]) body[data-category="vocab"] .toc-list a.active,
+  html:not([data-theme="light"]) body[data-category="vocab"] .toc-list a:hover
+  { background: rgba(212,144,64,0.1); }
+  html:not([data-theme="light"]) body[data-category="grammar"] .toc-list a.active,
+  html:not([data-theme="light"]) body[data-category="grammar"] .toc-list a:hover
+  { background: rgba(176,120,64,0.1); }
+  html:not([data-theme="light"]) body[data-category="religion"] .toc-list a.active,
+  html:not([data-theme="light"]) body[data-category="religion"] .toc-list a:hover
+  { background: rgba(160,122,208,0.1); }
+  html:not([data-theme="light"]) body[data-category="philosophy"] .toc-list a.active,
+  html:not([data-theme="light"]) body[data-category="philosophy"] .toc-list a:hover
+  { background: rgba(96,160,96,0.1); }
+  html:not([data-theme="light"]) body[data-category="history"] .toc-list a.active,
+  html:not([data-theme="light"]) body[data-category="history"] .toc-list a:hover
+  { background: rgba(192,128,80,0.1); }
+  html:not([data-theme="light"]) body[data-category="geography"] .toc-list a.active,
+  html:not([data-theme="light"]) body[data-category="geography"] .toc-list a:hover
+  { background: rgba(80,160,184,0.1); }
+  html:not([data-theme="light"]) body[data-category="culture"] .toc-list a.active,
+  html:not([data-theme="light"]) body[data-category="culture"] .toc-list a:hover
+  { background: rgba(204,128,168,0.1); }
+  html:not([data-theme="light"]) body[data-category="culinary"] .toc-list a.active,
+  html:not([data-theme="light"]) body[data-category="culinary"] .toc-list a:hover
+  { background: rgba(208,120,48,0.1); }
+  html:not([data-theme="light"]) body[data-category="arts"] .toc-list a.active,
+  html:not([data-theme="light"]) body[data-category="arts"] .toc-list a:hover
+  { background: rgba(128,80,200,0.1); }
+  html:not([data-theme="light"]) body[data-category="science"] .toc-list a.active,
+  html:not([data-theme="light"]) body[data-category="science"] .toc-list a:hover
+  { background: rgba(64,144,176,0.1); }
+  html:not([data-theme="light"]) body[data-category="daily"] .toc-list a.active,
+  html:not([data-theme="light"]) body[data-category="daily"] .toc-list a:hover
+  { background: rgba(176,144,80,0.1); }
+  html:not([data-theme="light"]) body[data-category="chengyu"] .toc-list a.active,
+  html:not([data-theme="light"]) body[data-category="chengyu"] .toc-list a:hover
+  { background: rgba(192,64,96,0.1); }
+  html:not([data-theme="light"]) body[data-category="hsk"] .toc-list a.active,
+  html:not([data-theme="light"]) body[data-category="hsk"] .toc-list a:hover
+  { background: rgba(80,168,112,0.1); }
+  html:not([data-theme="light"]) body[data-category="hubs"] .toc-list a.active,
+  html:not([data-theme="light"]) body[data-category="hubs"] .toc-list a:hover
+  { background: rgba(144,96,200,0.1); }
+}
+
+/* Theme toggle icon swap in dark */
+html[data-theme="dark"] .theme-toggle .tt-sun  { display: none; }
+html[data-theme="dark"] .theme-toggle .tt-moon { display: inline; }
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme="light"]) .theme-toggle .tt-sun  { display: none; }
+  html:not([data-theme="light"]) .theme-toggle .tt-moon { display: inline; }
+}
+
+/* HSK page items */
+html[data-theme="dark"] .hsk-char-item {
+  background: rgba(240,200,140,0.04);
+  border-color: rgba(240,200,140,0.09);
+}
+html[data-theme="dark"] .hsk-char-item .hsk-ch { color: var(--ink-3); }
+html[data-theme="dark"] .hsk-vocab-item {
+  background: rgba(240,200,140,0.03);
+  border-left-color: rgba(80,168,112,0.22);
+}
+html[data-theme="dark"] .hsk-vocab-hz  { color: var(--ink-2); }
+html[data-theme="dark"] .hsk-vocab-py  { color: var(--ink-4); }
+html[data-theme="dark"] .hsk-vocab-gloss { color: var(--ink-3); }
+html[data-theme="dark"] .hsk-grammar-item {
+  background: rgba(240,200,140,0.03);
+  border-left-color: rgba(80,168,112,0.18);
+  color: var(--ink-3);
+}
+html[data-theme="dark"] .hsk-stats { color: var(--ink-4); }
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme="light"]) .hsk-char-item {
+    background: rgba(240,200,140,0.04);
+    border-color: rgba(240,200,140,0.09);
+  }
+  html:not([data-theme="light"]) .hsk-char-item .hsk-ch { color: var(--ink-3); }
+  html:not([data-theme="light"]) .hsk-vocab-item {
+    background: rgba(240,200,140,0.03);
+    border-left-color: rgba(80,168,112,0.22);
+  }
+  html:not([data-theme="light"]) .hsk-vocab-hz  { color: var(--ink-2); }
+  html:not([data-theme="light"]) .hsk-vocab-py  { color: var(--ink-4); }
+  html:not([data-theme="light"]) .hsk-vocab-gloss { color: var(--ink-3); }
+  html:not([data-theme="light"]) .hsk-grammar-item {
+    background: rgba(240,200,140,0.03);
+    border-left-color: rgba(80,168,112,0.18);
+    color: var(--ink-3);
+  }
+  html:not([data-theme="light"]) .hsk-stats { color: var(--ink-4); }
+}
+
+/* Map page: SVG paths use fill/stroke inline — can't override with CSS
+   variables. Dark mode gets a subtle tint on the SVG wrapper. */
+html[data-theme="dark"] .map-wrapper { filter: brightness(0.92) saturate(0.9); }
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme="light"]) .map-wrapper { filter: brightness(0.92) saturate(0.9); }
+}
+
+/* meta[name=theme-color] updated by JS for mobile browser chrome */

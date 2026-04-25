@@ -6,7 +6,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>气功 qìgōng — qigong — Jiǎoluò Shūwū · 角落書屋</title>
 <meta name="description" content="气功 qìgōng: Chinese qigong. Etymology, the theory of qi and its cultivation, major schools of qigong, how it differs from tai chi and yoga, and key vocabulary.">
-<meta name="theme-color" content="#1c1208">
+<meta name="theme-color" content="#1c1208" id="meta-theme-color">
+<!-- Flash-of-wrong-theme prevention: read localStorage before first paint -->
+<script>(function(){try{var t=localStorage.getItem('shuwo-theme');if(t==='dark'||t==='light'){document.documentElement.setAttribute('data-theme',t);}else if(!t&&window.matchMedia('(prefers-color-scheme: dark)').matches){document.documentElement.setAttribute('data-theme','dark');}}catch(e){}})();</script>
 <meta name="apple-mobile-web-app-title" content="角落書屋">
 <meta name="application-name" content="角落書屋">
 <link rel="alternate" type="application/rss+xml" title="Jiǎoluò Shūwū · 角落書屋" href="../../feed.xml">
@@ -46,6 +48,10 @@
   <div class="topnav-right">
     <a href="#" class="topnav-random" data-random-entry data-entries-base="../../" aria-label="Open a random entry"><span aria-hidden="true">⟳</span> Random</a>
     <a href="../families/explore.html" class="topnav-back" aria-label="Explore all entries">Explore</a>
+    <button class="theme-toggle" type="button" aria-label="Toggle dark mode" id="theme-toggle">
+      <span class="tt-sun" aria-hidden="true">☀</span>
+      <span class="tt-moon" aria-hidden="true">☾</span>
+    </button>
   </div>
 </nav>
 
@@ -278,10 +284,10 @@
         <a class="related-card" href="../characters/qi4_气.html" data-category="characters"><span class="rc-head"><span class="rc-cn">气</span><span class="rc-py">qì</span></span><span class="rc-en">breath, vital energy</span><span class="rc-detail">From weather to anger to the cosmic force underlying TCM and martial arts.</span><span class="rl-reason rl-reason-contains">in 气</span></a>
         <a class="related-card" href="wushu_武术.html" data-category="vocab"><span class="rc-head"><span class="rc-cn">武术</span><span class="rc-py">wǔshù</span></span><span class="rc-en">martial arts</span><span class="rc-detail">The art of stopping weapons — how China systematized combat into a living philosophy of the body.</span><span class="rl-reason rl-reason-tag">theme · body</span></a>
         <a class="related-card" href="../science/topic_wuxing.html" data-category="science"><span class="rc-head"><span class="rc-cn">五行</span><span class="rc-py">wǔxíng</span></span><span class="rc-en">The Five Phases</span><span class="rc-detail">The five dynamic processes — wood, fire, earth, metal, water — that classical Chinese science used to map medicine, cosmology, music, politics, and time.</span><span class="rl-reason rl-reason-tag">theme · tcm</span></a>
+        <a class="related-card" href="../characters/kong1_空.html" data-category="characters"><span class="rc-head"><span class="rc-cn">空</span><span class="rc-py">kōng</span></span><span class="rc-en">empty, sky, void; in vain</span><span class="rc-detail">A cave with the work of hollowing inside it. The character that names the open sky, the empty room, the wasted afternoon, and the Buddhist śūnyatā at the heart of Chan.</span><span class="rl-reason rl-reason-tag">theme · meditation</span></a>
         <a class="related-card" href="jieqi_节气.html" data-category="vocab"><span class="rc-head"><span class="rc-cn">节气</span><span class="rc-py">jiéqì</span></span><span class="rc-en">the 24 solar terms</span><span class="rc-detail">China&#39;s ancient agricultural calendar — 24 precise moments that mark the turning of the year, still shaping food, medicine, and daily life.</span><span class="rl-reason rl-reason-tag">theme · tcm</span></a>
         <a class="related-card" href="../characters/kou3_口.html" data-category="characters"><span class="rc-head"><span class="rc-cn">口</span><span class="rc-py">kǒu</span></span><span class="rc-en">mouth, opening, entrance</span><span class="rc-detail">A simple rectangle for an open mouth — one of the most productive radicals in the script, present in hundreds of characters for speaking, eating, and openings.</span><span class="rl-reason rl-reason-tag">theme · body</span></a>
         <a class="related-card" href="../characters/shou3_手.html" data-category="characters"><span class="rc-head"><span class="rc-cn">手</span><span class="rc-py">shǒu</span></span><span class="rc-en">hand</span><span class="rc-detail">A five-fingered hand drawn from life — one of the most productive radicals in the script, present in hundreds of action characters.</span><span class="rl-reason rl-reason-tag">theme · body</span></a>
-        <a class="related-card" href="../characters/nu3_女.html" data-category="characters"><span class="rc-head"><span class="rc-cn">女</span><span class="rc-py">nǚ</span></span><span class="rc-en">woman, female</span><span class="rc-detail">A kneeling figure with crossed arms — one of the most productive radicals in the script, present in characters for family relationships, feelings, and cultural concepts.</span><span class="rl-reason rl-reason-tag">theme · body</span></a>
       </div>
     </section>
     <nav class="prev-next" aria-label="Within this section">

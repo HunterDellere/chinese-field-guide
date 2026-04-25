@@ -6,7 +6,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>天 tiān — sky, heaven, day — Jiǎoluò Shūwū · 角落書屋</title>
 <meta name="description" content="天 tiān: sky, heaven, day, and the supreme moral authority of Chinese civilization. Etymology, vocabulary compounds, the Mandate of Heaven, chengyu idioms, and usage notes.">
-<meta name="theme-color" content="#1c1208">
+<meta name="theme-color" content="#1c1208" id="meta-theme-color">
+<!-- Flash-of-wrong-theme prevention: read localStorage before first paint -->
+<script>(function(){try{var t=localStorage.getItem('shuwo-theme');if(t==='dark'||t==='light'){document.documentElement.setAttribute('data-theme',t);}else if(!t&&window.matchMedia('(prefers-color-scheme: dark)').matches){document.documentElement.setAttribute('data-theme','dark');}}catch(e){}})();</script>
 <meta name="apple-mobile-web-app-title" content="角落書屋">
 <meta name="application-name" content="角落書屋">
 <link rel="alternate" type="application/rss+xml" title="Jiǎoluò Shūwū · 角落書屋" href="../../feed.xml">
@@ -46,6 +48,10 @@
   <div class="topnav-right">
     <a href="#" class="topnav-random" data-random-entry data-entries-base="../../" aria-label="Open a random entry"><span aria-hidden="true">⟳</span> Random</a>
     <a href="../families/explore.html" class="topnav-back" aria-label="Explore all entries">Explore</a>
+    <button class="theme-toggle" type="button" aria-label="Toggle dark mode" id="theme-toggle">
+      <span class="tt-sun" aria-hidden="true">☀</span>
+      <span class="tt-moon" aria-hidden="true">☾</span>
+    </button>
   </div>
 </nav>
 
@@ -246,7 +252,7 @@
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          天 tiān (sky) + 空 kōng (empty; hollow; space). More poetic and specific than 天气: refers to the physical dome of sky above, not weather conditions. Used in literary contexts, poetry, and vivid description. 空 kōng also means "empty" — the sky is the great emptiness above.
+          天 tiān (sky) + <a class="auto-link" href="kong1_空.html">空</a> kōng (empty; hollow; space). More poetic and specific than 天气: refers to the physical dome of sky above, not weather conditions. Used in literary contexts, poetry, and vivid description. <a class="auto-link" href="kong1_空.html">空</a> kōng also means "empty" — the sky is the great emptiness above.
         </div>
         <div class="examples">
           <div class="example">
@@ -953,7 +959,7 @@
       <a class="adj" href="di4_地.html" data-category="characters"><span class="a-cn">地</span><span class="a-py">dì</span><span class="a-en">earth — the 天/地 pair</span></a>
       <span class="adj"><span class="a-cn">天地</span><span class="a-py">tiāndì</span><span class="a-en">heaven and earth</span></span>
       <a class="adj" href="shang4_上.html" data-category="characters"><span class="a-cn">上</span><span class="a-py">shàng</span><span class="a-en">above; up; to ascend</span></a>
-      <span class="adj"><span class="a-cn">空</span><span class="a-py">kōng</span><span class="a-en">sky; empty; void</span></span>
+      <a class="adj" href="kong1_空.html" data-category="characters"><span class="a-cn">空</span><span class="a-py">kōng</span><span class="a-en">sky; empty; void</span></a>
       <span class="adj"><span class="a-cn">宇宙</span><span class="a-py">yǔzhòu</span><span class="a-en">universe; cosmos</span></span>
       <a class="adj" href="../vocab/mingyun_命运.html" data-category="vocab"><span class="a-cn">命运</span><span class="a-py">mìngyùn</span><span class="a-en">fate; destiny</span></a>
       <a class="adj" href="../vocab/ziran_自然.html" data-category="vocab"><span class="a-cn">自然</span><span class="a-py">zìrán</span><span class="a-en">nature; natural; of course</span></a>

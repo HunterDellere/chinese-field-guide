@@ -6,7 +6,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>佛 fó — Buddha, the awakened — Jiǎoluò Shūwū · 角落書屋</title>
 <meta name="description" content="佛 fó: Buddha, awakening, and the Buddhist lexicon that reshaped classical Chinese — etymology, compounds, cultural reach.">
-<meta name="theme-color" content="#1c1208">
+<meta name="theme-color" content="#1c1208" id="meta-theme-color">
+<!-- Flash-of-wrong-theme prevention: read localStorage before first paint -->
+<script>(function(){try{var t=localStorage.getItem('shuwo-theme');if(t==='dark'||t==='light'){document.documentElement.setAttribute('data-theme',t);}else if(!t&&window.matchMedia('(prefers-color-scheme: dark)').matches){document.documentElement.setAttribute('data-theme','dark');}}catch(e){}})();</script>
 <meta name="apple-mobile-web-app-title" content="角落書屋">
 <meta name="application-name" content="角落書屋">
 <link rel="alternate" type="application/rss+xml" title="Jiǎoluò Shūwū · 角落書屋" href="../../feed.xml">
@@ -46,6 +48,10 @@
   <div class="topnav-right">
     <a href="#" class="topnav-random" data-random-entry data-entries-base="../../" aria-label="Open a random entry"><span aria-hidden="true">⟳</span> Random</a>
     <a href="../families/explore.html" class="topnav-back" aria-label="Explore all entries">Explore</a>
+    <button class="theme-toggle" type="button" aria-label="Toggle dark mode" id="theme-toggle">
+      <span class="tt-sun" aria-hidden="true">☀</span>
+      <span class="tt-moon" aria-hidden="true">☾</span>
+    </button>
   </div>
 </nav>
 
@@ -532,7 +538,7 @@
         <a class="related-card" href="../culinary/topic_doufu.html" data-category="culinary"><span class="rc-head"><span class="rc-cn">豆腐</span><span class="rc-py">dòufu</span></span><span class="rc-en">Tofu</span><span class="rc-detail">Two thousand years of soybeans and water: the food that fed a civilization without meat.</span><span class="rl-reason rl-reason-tag">theme · buddhism</span></a>
         <a class="related-card" href="xin4_信.html" data-category="characters"><span class="rc-head"><span class="rc-cn">信</span><span class="rc-py">xìn</span></span><span class="rc-en">trust, faith, credibility</span><span class="rc-detail">A person standing by their word — one of the most visually transparent characters in the language, and the virtue that holds every contract, conversation, and relationship together.</span><span class="rl-reason rl-reason-radical">shares radical · 亻</span></a>
         <a class="related-card" href="li3_礼.html" data-category="characters"><span class="rc-head"><span class="rc-cn">礼</span><span class="rc-py">lǐ</span></span><span class="rc-en">rites, ceremony, propriety</span><span class="rc-detail">The character that encodes Confucian social order: the ceremonial forms that bind family, society, and cosmos into one coherent whole.</span><span class="rl-reason rl-reason-tag">theme · culture</span></a>
-        <a class="related-card" href="../daily/topic_mixin.html" data-category="daily"><span class="rc-head"><span class="rc-cn">迷信</span><span class="rc-py">mìxìn</span></span><span class="rc-en">Superstitions</span><span class="rc-detail">Superstition in China is a living system that coexists comfortably with education, modernity, and pragmatism — not a holdover from ignorance.</span><span class="rl-reason rl-reason-tag">theme · religion</span></a>
+        <a class="related-card" href="kong1_空.html" data-category="characters"><span class="rc-head"><span class="rc-cn">空</span><span class="rc-py">kōng</span></span><span class="rc-en">empty, sky, void; in vain</span><span class="rc-detail">A cave with the work of hollowing inside it. The character that names the open sky, the empty room, the wasted afternoon, and the Buddhist śūnyatā at the heart of Chan.</span><span class="rl-reason rl-reason-tag">theme · buddhism</span></a>
       </div>
       <div class="related-chips-tier">
         <span class="related-chips-head"><span class="rch-cn">词族</span> <span class="rch-py">cízú</span> <span class="rch-en">Vocabulary in this field</span></span>

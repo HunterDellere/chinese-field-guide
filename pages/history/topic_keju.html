@@ -6,7 +6,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>科举 · The Imperial Examination System — Jiǎoluò Shūwū · 角落書屋</title>
 <meta name="description" content="科举 kējǔ: the imperial examination system that selected China's officials by merit for 1,300 years — founded under Sui (605 CE), abolished in 1905, and echoed today in the 高考 gaokao.">
-<meta name="theme-color" content="#1c1208">
+<meta name="theme-color" content="#1c1208" id="meta-theme-color">
+<!-- Flash-of-wrong-theme prevention: read localStorage before first paint -->
+<script>(function(){try{var t=localStorage.getItem('shuwo-theme');if(t==='dark'||t==='light'){document.documentElement.setAttribute('data-theme',t);}else if(!t&&window.matchMedia('(prefers-color-scheme: dark)').matches){document.documentElement.setAttribute('data-theme','dark');}}catch(e){}})();</script>
 <meta name="apple-mobile-web-app-title" content="角落書屋">
 <meta name="application-name" content="角落書屋">
 <link rel="alternate" type="application/rss+xml" title="Jiǎoluò Shūwū · 角落書屋" href="../../feed.xml">
@@ -46,6 +48,10 @@
   <div class="topnav-right">
     <a href="#" class="topnav-random" data-random-entry data-entries-base="../../" aria-label="Open a random entry"><span aria-hidden="true">⟳</span> Random</a>
     <a href="../families/explore.html" class="topnav-back" aria-label="Explore all entries">Explore</a>
+    <button class="theme-toggle" type="button" aria-label="Toggle dark mode" id="theme-toggle">
+      <span class="tt-sun" aria-hidden="true">☀</span>
+      <span class="tt-moon" aria-hidden="true">☾</span>
+    </button>
   </div>
 </nav>
 
@@ -429,8 +435,8 @@
         <a class="related-card rl-multi" href="topic_taiping.html" data-category="history"><span class="rc-head"><span class="rc-cn">太平天国</span><span class="rc-py">tàipíng tiānguó</span></span><span class="rc-en">The Taiping Heavenly Kingdom</span><span class="rc-detail">The millenarian rebellion that killed 20–30 million people and nearly toppled the Qing dynasty — the deadliest civil war in human history.</span><span class="rl-reason rl-reason-tag">theme · qing</span></a>
         <a class="related-card" href="topic_mingchao.html" data-category="history"><span class="rc-head"><span class="rc-cn">明朝</span><span class="rc-py">míngcháo</span></span><span class="rc-en">The Ming Dynasty</span><span class="rc-detail">The Great Wall rebuilt, Zheng He&#39;s voyages, and the inward turn.</span><span class="rl-reason rl-reason-tag">theme · ming</span></a>
         <a class="related-card" href="topic_songchao.html" data-category="history"><span class="rc-head"><span class="rc-cn">宋朝</span><span class="rc-py">sòngcháo</span></span><span class="rc-en">The Song Dynasty</span><span class="rc-detail">Economic revolution, printing, compass — the dynasty modernity missed.</span><span class="rl-reason rl-reason-tag">theme · song</span></a>
-        <a class="related-card" href="topic_qingchao.html" data-category="history"><span class="rc-head"><span class="rc-cn">清朝</span><span class="rc-py">qīngcháo</span></span><span class="rc-en">The Qing Dynasty</span><span class="rc-detail">Manchu rule, the long peace, and the slow unraveling before 1911.</span><span class="rl-reason rl-reason-tag">theme · qing</span></a>
         <a class="related-card" href="topic_tangchao.html" data-category="history"><span class="rc-head"><span class="rc-cn">唐朝</span><span class="rc-py">tángcháo</span></span><span class="rc-en">The Tang Dynasty</span><span class="rc-detail">The cosmopolitan golden age — poetry, Buddhism, and the Silk Road.</span><span class="rl-reason rl-reason-tag">theme · tang</span></a>
+        <a class="related-card" href="topic_qingchao.html" data-category="history"><span class="rc-head"><span class="rc-cn">清朝</span><span class="rc-py">qīngcháo</span></span><span class="rc-en">The Qing Dynasty</span><span class="rc-detail">Manchu rule, the long peace, and the slow unraveling before 1911.</span><span class="rl-reason rl-reason-tag">theme · qing</span></a>
         <a class="related-card" href="../arts/topic_songci.html" data-category="arts"><span class="rc-head"><span class="rc-cn">宋词</span><span class="rc-py">sòngcí</span></span><span class="rc-en">Song Dynasty Lyric</span><span class="rc-detail">The poem that sings — fixed tune patterns, named meters, and three masters who defined what the Chinese lyric could feel.</span><span class="rl-reason rl-reason-tag">theme · song</span></a>
       </div>
       <div class="related-chips-tier">

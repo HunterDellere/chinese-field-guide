@@ -78,6 +78,27 @@
     "updated": "2026-04-25"
   },
   {
+    "path": "pages/characters/kong1_空.html",
+    "type": "character",
+    "category": "characters",
+    "title": "空 · empty, sky, void; in vain",
+    "desc": "A cave with the work of hollowing inside it. The character that names the open sky, the empty room, the wasted afternoon, and the Buddhist śūnyatā at the heart of Chan.",
+    "tags": [
+      "buddhism",
+      "philosophy",
+      "cosmology",
+      "chan",
+      "meditation"
+    ],
+    "status": "complete",
+    "char": "空",
+    "pinyin": "kōng",
+    "tone": 1,
+    "hsk": 3,
+    "radical": "穴",
+    "updated": "2026-04-25"
+  },
+  {
     "path": "pages/characters/lu4_路.html",
     "type": "character",
     "category": "characters",
@@ -115,6 +136,27 @@
     "tone": 3,
     "hsk": 4,
     "radical": "歹",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/characters/wu2_无.html",
+    "type": "character",
+    "category": "characters",
+    "title": "无 · nothing, without, non-being",
+    "desc": "A dancer with arms outstretched, holding nothing. The character behind every Chinese negation of having, every Daoist non-doing, and the philosophical pole that pairs with 有 to frame the whole cosmos.",
+    "tags": [
+      "daoism",
+      "philosophy",
+      "negation",
+      "cosmology",
+      "wuwei"
+    ],
+    "status": "complete",
+    "char": "无",
+    "pinyin": "wú",
+    "tone": 2,
+    "hsk": 4,
+    "radical": "无",
     "updated": "2026-04-25"
   },
   {

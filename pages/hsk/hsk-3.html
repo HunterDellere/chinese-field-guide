@@ -6,7 +6,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>HSK 3 — Level 3 — Jiǎoluò Shūwū · 角落書屋</title>
 <meta name="description" content="HSK 3 (Chinese Proficiency Test Level 3) — full character list, vocabulary list, and grammar points, sourced from the 2021 国际中文教育中文水平等级标准.">
-<meta name="theme-color" content="#1c1208">
+<meta name="theme-color" content="#1c1208" id="meta-theme-color">
+<!-- Flash-of-wrong-theme prevention: read localStorage before first paint -->
+<script>(function(){try{var t=localStorage.getItem('shuwo-theme');if(t==='dark'||t==='light'){document.documentElement.setAttribute('data-theme',t);}else if(!t&&window.matchMedia('(prefers-color-scheme: dark)').matches){document.documentElement.setAttribute('data-theme','dark');}}catch(e){}})();</script>
 <meta name="apple-mobile-web-app-title" content="角落書屋">
 <meta name="application-name" content="角落書屋">
 <link rel="alternate" type="application/rss+xml" title="Jiǎoluò Shūwū · 角落書屋" href="../../feed.xml">
@@ -46,6 +48,10 @@
   <div class="topnav-right">
     <a href="#" class="topnav-random" data-random-entry data-entries-base="../../" aria-label="Open a random entry"><span aria-hidden="true">⟳</span> Random</a>
     <a href="../families/explore.html" class="topnav-back" aria-label="Explore all entries">Explore</a>
+    <button class="theme-toggle" type="button" aria-label="Toggle dark mode" id="theme-toggle">
+      <span class="tt-sun" aria-hidden="true">☀</span>
+      <span class="tt-moon" aria-hidden="true">☾</span>
+    </button>
   </div>
 </nav>
 
@@ -80,7 +86,7 @@
       <p class="topic-hero-desc">The full vocabulary, character, and grammar list for HSK 3, sourced from the 2021 国际中文教育中文水平等级标准. Entries linked to a full Jiǎoluò Shūwū page when one exists.</p>
       <div class="hsk-stats">
         <span class="hsk-stat"><strong>300</strong> characters · <em>12 linked</em></span>
-        <span class="hsk-stat"><strong>973</strong> words · <em>22 linked</em></span>
+        <span class="hsk-stat"><strong>973</strong> words · <em>23 linked</em></span>
         <span class="hsk-stat"><strong>81</strong> grammar points</span>
       </div>
     </header>
@@ -2489,7 +2495,7 @@
           <span class="hsk-vocab-gloss">course; academic program, CL:堂[tang2],節|节[jie2],門|门[men2]</span>
         </li>
         <li class="hsk-vocab-item">
-          <span class="hsk-vocab-hz"><span class="hsk-ch">空</span></span>
+          <span class="hsk-vocab-hz"><a class="hsk-ch hsk-ch-linked" href="../../pages/characters/kong1_空.html">空</a></span>
           <span class="hsk-vocab-meta"><span class="hsk-vocab-py">kōng</span><span class="hsk-vocab-pos">Adj/Adv</span></span>
           <span class="hsk-vocab-gloss">empty, air, sky</span>
         </li>

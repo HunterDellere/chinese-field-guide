@@ -6,7 +6,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Language — The Language — Jiǎoluò Shūwū · 角落書屋</title>
 <meta name="description" content="All character entries, vocabulary entries, and grammar entries on Jiǎoluò Shūwū. Browse by category, scan for what you need.">
-<meta name="theme-color" content="#1c1208">
+<meta name="theme-color" content="#1c1208" id="meta-theme-color">
+<!-- Flash-of-wrong-theme prevention: read localStorage before first paint -->
+<script>(function(){try{var t=localStorage.getItem('shuwo-theme');if(t==='dark'||t==='light'){document.documentElement.setAttribute('data-theme',t);}else if(!t&&window.matchMedia('(prefers-color-scheme: dark)').matches){document.documentElement.setAttribute('data-theme','dark');}}catch(e){}})();</script>
 <meta name="apple-mobile-web-app-title" content="角落書屋">
 <meta name="application-name" content="角落書屋">
 <link rel="alternate" type="application/rss+xml" title="Jiǎoluò Shūwū · 角落書屋" href="../../feed.xml">
@@ -46,6 +48,10 @@
   <div class="topnav-right">
     <a href="#" class="topnav-random" data-random-entry data-entries-base="../../" aria-label="Open a random entry"><span aria-hidden="true">⟳</span> Random</a>
     <a href="../families/explore.html" class="topnav-back" aria-label="Explore all entries">Explore</a>
+    <button class="theme-toggle" type="button" aria-label="Toggle dark mode" id="theme-toggle">
+      <span class="tt-sun" aria-hidden="true">☀</span>
+      <span class="tt-moon" aria-hidden="true">☾</span>
+    </button>
   </div>
 </nav>
 
@@ -86,14 +92,14 @@
 
     
     <div class="fam-intro">
-      <span class="fam-intro-stat">165 entries · 3 categories</span>
+      <span class="fam-intro-stat">167 entries · 3 categories</span>
       <p class="fam-intro-text">Characters, vocabulary, grammar. The building blocks.</p>
     </div>
     <nav class="fam-jump" aria-label="Jump to a category">
       <a class="fam-jump-chip" href="#cat-characters" data-category="characters">
           <span class="fjc-cn">字</span>
           <span class="fjc-en">Characters</span>
-          <span class="fjc-count">85</span>
+          <span class="fjc-count">87</span>
         </a>
       <a class="fam-jump-chip" href="#cat-vocab" data-category="vocab">
           <span class="fjc-cn">词</span>
@@ -112,7 +118,7 @@
         <span class="sh-py">zì</span>
         <span class="sh-en">Characters</span>
         <span class="sh-rule"></span>
-        <span class="cat-count">85 entries</span>
+        <span class="cat-count">87 entries</span>
       </div>
       <p class="fam-cat-desc">Single glyphs. Etymology, decomposition, daily use.</p>
       <div class="entry-grid">
@@ -161,6 +167,7 @@
         <a class="entry-card" href="../characters/shou3_手.html" data-category="characters"><span class="entry-glyph">手</span><span class="entry-pinyin">shǒu</span><span class="entry-title">hand</span><span class="entry-desc">A five-fingered hand drawn from life — one of the most productive radicals in the script, present in hundreds of action characters.</span></a>
         <a class="entry-card" href="../characters/da3_打.html" data-category="characters"><span class="entry-glyph">打</span><span class="entry-pinyin">dǎ</span><span class="entry-title">to hit, to strike; the most versatile verb in Mandarin</span><span class="entry-desc">To hit — and a hundred extensions: make a call, play a sport, pack a bag, get an injection. The most productive light verb in Chinese.</span></a>
         <a class="entry-card" href="../characters/wen2_文.html" data-category="characters"><span class="entry-glyph">文</span><span class="entry-pinyin">wén</span><span class="entry-title">writing, culture, civil</span><span class="entry-desc">A tattooed figure — writing as marks on the body, culture as the accumulated markings of civilization.</span></a>
+        <a class="entry-card" href="../characters/wu2_无.html" data-category="characters"><span class="entry-glyph">无</span><span class="entry-pinyin">wú</span><span class="entry-title">nothing, without, non-being</span><span class="entry-desc">A dancer with arms outstretched, holding nothing. The character behind every Chinese negation of having, every Daoist non-doing, and the philosophical pole that pairs with 有 to frame the whole cosmos.</span></a>
         <a class="entry-card" href="../characters/ri4_日.html" data-category="characters"><span class="entry-glyph">日</span><span class="entry-pinyin">rì</span><span class="entry-title">sun, day, Japan</span><span class="entry-desc">The oldest pictograph in the script — a circle with a dot for the sun, now a radical in hundreds of characters related to time, light, and warmth.</span></a>
         <a class="entry-card" href="../characters/shi2_时.html" data-category="characters"><span class="entry-glyph">时</span><span class="entry-pinyin">shí</span><span class="entry-title">time, hour, season</span><span class="entry-desc">The sun moving — time as something visible, measurable, and morally weighted.</span></a>
         <a class="entry-card" href="../characters/ming2_明.html" data-category="characters"><span class="entry-glyph">明</span><span class="entry-pinyin">míng</span><span class="entry-title">bright, clear, tomorrow</span><span class="entry-desc">Sun and moon combined — brightness, clarity, dawn, and understanding.</span></a>
@@ -181,6 +188,7 @@
         <a class="entry-card" href="../characters/bai2_白.html" data-category="characters"><span class="entry-glyph">白</span><span class="entry-pinyin">bái</span><span class="entry-title">white, clear, plain, in vain</span><span class="entry-desc">Sunlight on a single point. The character that names the color of mourning, the color of clarity, the empty plate, and the speech that hides nothing.</span></a>
         <a class="entry-card" href="../characters/li3_礼.html" data-category="characters"><span class="entry-glyph">礼</span><span class="entry-pinyin">lǐ</span><span class="entry-title">rites, ceremony, propriety</span><span class="entry-desc">The character that encodes Confucian social order: the ceremonial forms that bind family, society, and cosmos into one coherent whole.</span></a>
         <a class="entry-card" href="../characters/fu2_福.html" data-category="characters"><span class="entry-glyph">福</span><span class="entry-pinyin">fú</span><span class="entry-title">fortune, blessing, good luck</span><span class="entry-desc">The most recognized Chinese character in the world — fortune, blessing, and the art of the upside-down 福.</span></a>
+        <a class="entry-card" href="../characters/kong1_空.html" data-category="characters"><span class="entry-glyph">空</span><span class="entry-pinyin">kōng</span><span class="entry-title">empty, sky, void; in vain</span><span class="entry-desc">A cave with the work of hollowing inside it. The character that names the open sky, the empty room, the wasted afternoon, and the Buddhist śūnyatā at the heart of Chan.</span></a>
         <a class="entry-card" href="../characters/mei3_美.html" data-category="characters"><span class="entry-glyph">美</span><span class="entry-pinyin">měi</span><span class="entry-title">beautiful, USA, delicious</span><span class="entry-desc">A large sheep carrying horns — beauty as abundance, sacrifice, and the pleasure of the highest good.</span></a>
         <a class="entry-card" href="../characters/lao3_老.html" data-category="characters"><span class="entry-glyph">老</span><span class="entry-pinyin">lǎo</span><span class="entry-title">old, venerable, experienced</span><span class="entry-desc">A stooped elder with long hair — age as wisdom, seniority as moral authority, and the Daoist sage who wrote the Tao Te Ching.</span></a>
         <a class="entry-card" href="../characters/se4_色.html" data-category="characters"><span class="entry-glyph">色</span><span class="entry-pinyin">sè</span><span class="entry-title">color, appearance, desire</span><span class="entry-desc">A kneeling figure beneath a person — color as visible manifestation, and the character that links aesthetics to desire.</span></a>

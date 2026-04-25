@@ -265,8 +265,9 @@ for (const slug of contentSlugs) {
   }
 }
 for (const slug of pageSlugs) {
-  if (slug.startsWith('hsk/')) continue; // hsk pages are generated; content/hsk may not mirror
-  if (slug.startsWith('_')) continue;    // _admin/ etc — generated dashboards, not content-backed
+  if (slug.startsWith('hsk/')) continue;  // hsk pages are generated; content/hsk may not mirror
+  if (slug.startsWith('_')) continue;     // _admin/ etc — generated dashboards, not content-backed
+  if (slug.startsWith('maps/')) continue; // maps/ pages are hand-authored, not content-backed
   if (!contentSlugs.has(slug)) {
     fail(join(pagesDir, slug + '.html'), `orphan page: no corresponding content/${slug}.md`);
   }

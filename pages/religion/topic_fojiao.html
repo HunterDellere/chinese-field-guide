@@ -6,7 +6,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>佛教 fójiào · Buddhism in China — Jiǎoluò Shūwū · 角落書屋</title>
 <meta name="description" content="佛教 fójiào: Buddhism in China — the Silk Road transmission, Four Noble Truths, Chinese Buddhist schools (Chan, Pure Land, Tiantai, Huayan), key bodhisattvas, cultural legacy, and the great persecutions.">
-<meta name="theme-color" content="#1c1208">
+<meta name="theme-color" content="#1c1208" id="meta-theme-color">
+<!-- Flash-of-wrong-theme prevention: read localStorage before first paint -->
+<script>(function(){try{var t=localStorage.getItem('shuwo-theme');if(t==='dark'||t==='light'){document.documentElement.setAttribute('data-theme',t);}else if(!t&&window.matchMedia('(prefers-color-scheme: dark)').matches){document.documentElement.setAttribute('data-theme','dark');}}catch(e){}})();</script>
 <meta name="apple-mobile-web-app-title" content="角落書屋">
 <meta name="application-name" content="角落書屋">
 <link rel="alternate" type="application/rss+xml" title="Jiǎoluò Shūwū · 角落書屋" href="../../feed.xml">
@@ -46,6 +48,10 @@
   <div class="topnav-right">
     <a href="#" class="topnav-random" data-random-entry data-entries-base="../../" aria-label="Open a random entry"><span aria-hidden="true">⟳</span> Random</a>
     <a href="../families/explore.html" class="topnav-back" aria-label="Explore all entries">Explore</a>
+    <button class="theme-toggle" type="button" aria-label="Toggle dark mode" id="theme-toggle">
+      <span class="tt-sun" aria-hidden="true">☀</span>
+      <span class="tt-moon" aria-hidden="true">☾</span>
+    </button>
   </div>
 </nav>
 
@@ -443,7 +449,6 @@
         <a class="related-card" href="../culinary/topic_doufu.html" data-category="culinary"><span class="rc-head"><span class="rc-cn">豆腐</span><span class="rc-py">dòufu</span></span><span class="rc-en">Tofu</span><span class="rc-detail">Two thousand years of soybeans and water: the food that fed a civilization without meat.</span><span class="rl-reason rl-reason-tag">theme · buddhism</span></a>
         <a class="related-card" href="../geography/topic_xizang.html" data-category="geography"><span class="rc-head"><span class="rc-cn">西藏</span><span class="rc-py">Xīzàng</span></span><span class="rc-en">Tibet</span><span class="rc-detail">The Roof of the World: a plateau so high it generates its own weather, a civilization shaped by altitude, and a Buddhism that grew from the landscape as much as from doctrine.</span><span class="rl-reason rl-reason-tag">theme · buddhism</span></a>
         <a class="related-card" href="../vocab/yuanfen_缘分.html" data-category="vocab"><span class="rc-head"><span class="rc-cn">缘分</span><span class="rc-py">yuánfèn</span></span><span class="rc-en">karmic connection</span><span class="rc-detail">Buddhist-rooted fate that ties strangers, lovers, and old friends.</span><span class="rl-reason rl-reason-tag">theme · buddhism</span></a>
-        <a class="related-card rl-multi" href="../hubs/zongjiao.html" data-category="hubs"><span class="rc-head"><span class="rc-cn">宗教地图</span><span class="rc-py">zōngjiào dìtú</span></span><span class="rc-en">The Religious Map — A Reading Path</span><span class="rc-detail">Chinese religiosity doesn&#39;t fit Western categories. Most people practice elements of Confucianism, Daoism, Buddhism, folk religion, and ancestor veneration simultaneously — a map of how these traditions relate.</span><span class="rl-reason rl-reason-tag">theme · buddhism</span></a>
       </div>
       <div class="related-chips-tier">
         <span class="related-chips-head"><span class="rch-cn">词族</span> <span class="rch-py">cízú</span> <span class="rch-en">Vocabulary in this field</span></span>
@@ -453,7 +458,7 @@
       <span class="adj"><span class="a-cn">因果</span><span class="a-py">yīnguǒ</span><span class="a-en">karma; cause and effect</span></span>
       <span class="adj"><span class="a-cn">慈悲</span><span class="a-py">cíbēi</span><span class="a-en">compassion (Buddhist)</span></span>
       <span class="adj"><span class="a-cn">般若</span><span class="a-py">bōrě</span><span class="a-en">prajñā; wisdom</span></span>
-      <span class="adj"><span class="a-cn">空</span><span class="a-py">kōng</span><span class="a-en">śūnyatā; emptiness</span></span>
+      <a class="adj" href="../characters/kong1_空.html" data-category="characters"><span class="a-cn">空</span><span class="a-py">kōng</span><span class="a-en">śūnyatā; emptiness</span></a>
       <span class="adj"><span class="a-cn">无常</span><span class="a-py">wúcháng</span><span class="a-en">impermanence</span></span>
       <span class="adj"><span class="a-cn">众生</span><span class="a-py">zhòngshēng</span><span class="a-en">all sentient beings</span></span>
       <span class="adj"><span class="a-cn">功德</span><span class="a-py">gōngdé</span><span class="a-en">merit</span></span>

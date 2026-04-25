@@ -6,7 +6,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>道德 dàodé — morality, ethics, virtue — Jiǎoluò Shūwū · 角落書屋</title>
 <meta name="description" content="道德 dàodé: morality, ethics, virtue. Formed from 道 (the Way) and 德 (virtue, inner power) — the two concepts that define Chinese moral philosophy from Laozi to the present.">
-<meta name="theme-color" content="#1c1208">
+<meta name="theme-color" content="#1c1208" id="meta-theme-color">
+<!-- Flash-of-wrong-theme prevention: read localStorage before first paint -->
+<script>(function(){try{var t=localStorage.getItem('shuwo-theme');if(t==='dark'||t==='light'){document.documentElement.setAttribute('data-theme',t);}else if(!t&&window.matchMedia('(prefers-color-scheme: dark)').matches){document.documentElement.setAttribute('data-theme','dark');}}catch(e){}})();</script>
 <meta name="apple-mobile-web-app-title" content="角落書屋">
 <meta name="application-name" content="角落書屋">
 <link rel="alternate" type="application/rss+xml" title="Jiǎoluò Shūwū · 角落書屋" href="../../feed.xml">
@@ -46,6 +48,10 @@
   <div class="topnav-right">
     <a href="#" class="topnav-random" data-random-entry data-entries-base="../../" aria-label="Open a random entry"><span aria-hidden="true">⟳</span> Random</a>
     <a href="../families/explore.html" class="topnav-back" aria-label="Explore all entries">Explore</a>
+    <button class="theme-toggle" type="button" aria-label="Toggle dark mode" id="theme-toggle">
+      <span class="tt-sun" aria-hidden="true">☀</span>
+      <span class="tt-moon" aria-hidden="true">☾</span>
+    </button>
   </div>
 </nav>
 
@@ -490,7 +496,7 @@
         <a class="related-card" href="rensheng_人生.html" data-category="vocab"><span class="rc-head"><span class="rc-cn">人生</span><span class="rc-py">rénshēng</span></span><span class="rc-en">human life; one&#39;s life journey</span><span class="rc-detail">Human life — not biological existence, but the arc of a life lived: its meaning, its seasons, its reckoning.</span><span class="rl-reason rl-reason-tag">theme · confucianism</span></a>
         <a class="related-card rl-multi" href="../hubs/daode.html" data-category="hubs"><span class="rc-head"><span class="rc-cn">道德与伦理</span><span class="rc-py">dàodé yǔ lúnlǐ</span></span><span class="rc-en">Morality and Ethics — A Reading Path</span><span class="rc-detail">Chinese ethics is not a checklist of personal virtues. It is a description of how one should relate to specific others — and what happens when those relationships are tested.</span><span class="rl-reason rl-reason-tag">theme · ethics</span></a>
         <a class="related-card" href="../characters/xin4_信.html" data-category="characters"><span class="rc-head"><span class="rc-cn">信</span><span class="rc-py">xìn</span></span><span class="rc-en">trust, faith, credibility</span><span class="rc-detail">A person standing by their word — one of the most visually transparent characters in the language, and the virtue that holds every contract, conversation, and relationship together.</span><span class="rl-reason rl-reason-tag">theme · ethics</span></a>
-        <a class="related-card" href="xiao4_孝.html" data-category="vocab"><span class="rc-head"><span class="rc-cn">孝</span><span class="rc-py">xiào</span></span><span class="rc-en">filial piety</span><span class="rc-detail">An elder supported by a child&#39;s hands — the cardinal Confucian virtue that placed care for parents at the foundation of all moral life.</span><span class="rl-reason rl-reason-tag">theme · confucianism</span></a>
+        <a class="related-card rl-multi" href="../chengyu/yujiegoulong_欲速则不达.html" data-category="chengyu"><span class="rc-head"><span class="rc-cn">欲速则不达</span><span class="rc-py">yù sù zé bù dá</span></span><span class="rc-en">Haste Does Not Bring Success</span><span class="rc-detail">Speed desired, arrival missed — Confucius on why rushing produces the opposite of what you intend.</span><span class="rl-reason rl-reason-tag">theme · ethics</span></a>
       </div>
       <div class="related-chips-tier">
         <span class="related-chips-head"><span class="rch-cn">词族</span> <span class="rch-py">cízú</span> <span class="rch-en">Vocabulary in this field</span></span>

@@ -6,7 +6,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>节气 jiéqì — the 24 solar terms — Jiǎoluò Shūwū · 角落書屋</title>
 <meta name="description" content="节气 jiéqì: the 24 solar terms of the Chinese calendar. What they are, how they work, the most culturally important terms (清明, 冬至, 春分), and the vocabulary of seasonal Chinese life.">
-<meta name="theme-color" content="#1c1208">
+<meta name="theme-color" content="#1c1208" id="meta-theme-color">
+<!-- Flash-of-wrong-theme prevention: read localStorage before first paint -->
+<script>(function(){try{var t=localStorage.getItem('shuwo-theme');if(t==='dark'||t==='light'){document.documentElement.setAttribute('data-theme',t);}else if(!t&&window.matchMedia('(prefers-color-scheme: dark)').matches){document.documentElement.setAttribute('data-theme','dark');}}catch(e){}})();</script>
 <meta name="apple-mobile-web-app-title" content="角落書屋">
 <meta name="application-name" content="角落書屋">
 <link rel="alternate" type="application/rss+xml" title="Jiǎoluò Shūwū · 角落書屋" href="../../feed.xml">
@@ -46,6 +48,10 @@
   <div class="topnav-right">
     <a href="#" class="topnav-random" data-random-entry data-entries-base="../../" aria-label="Open a random entry"><span aria-hidden="true">⟳</span> Random</a>
     <a href="../families/explore.html" class="topnav-back" aria-label="Explore all entries">Explore</a>
+    <button class="theme-toggle" type="button" aria-label="Toggle dark mode" id="theme-toggle">
+      <span class="tt-sun" aria-hidden="true">☀</span>
+      <span class="tt-moon" aria-hidden="true">☾</span>
+    </button>
   </div>
 </nav>
 
@@ -264,8 +270,8 @@
         <a class="related-card" href="../characters/nian2_年.html" data-category="characters"><span class="rc-head"><span class="rc-cn">年</span><span class="rc-py">nián</span></span><span class="rc-en">year</span><span class="rc-detail">A person carrying a harvest of grain — year as the cycle of agricultural labor, and the heart of the Chinese New Year tradition.</span><span class="rl-reason rl-reason-tag">theme · cosmology</span></a>
         <a class="related-card" href="../characters/ri4_日.html" data-category="characters"><span class="rc-head"><span class="rc-cn">日</span><span class="rc-py">rì</span></span><span class="rc-en">sun, day, Japan</span><span class="rc-detail">The oldest pictograph in the script — a circle with a dot for the sun, now a radical in hundreds of characters related to time, light, and warmth.</span><span class="rl-reason rl-reason-tag">theme · cosmology</span></a>
         <a class="related-card" href="zhongguo_中国.html" data-category="vocab"><span class="rc-head"><span class="rc-cn">中国</span><span class="rc-py">Zhōngguó</span></span><span class="rc-en">the Middle Kingdom; China</span><span class="rc-detail">Two characters older than the country they now name. 中 (center) and 国 (state) joined three thousand years ago to mean &quot;the central states&quot;; the modern country took the phrase for itself only in the 19th century.</span><span class="rl-reason rl-reason-tag">theme · cosmology</span></a>
-        <a class="related-card" href="../science/topic_wuxing.html" data-category="science"><span class="rc-head"><span class="rc-cn">五行</span><span class="rc-py">wǔxíng</span></span><span class="rc-en">The Five Phases</span><span class="rc-detail">The five dynamic processes — wood, fire, earth, metal, water — that classical Chinese science used to map medicine, cosmology, music, politics, and time.</span><span class="rl-reason rl-reason-tag">theme · tcm</span></a>
         <a class="related-card" href="zhongyi_中医.html" data-category="vocab"><span class="rc-head"><span class="rc-cn">中医</span><span class="rc-py">zhōngyī</span></span><span class="rc-en">Traditional Chinese Medicine</span><span class="rc-detail">Two thousand years of systematic medical thought — qi, yin-yang, the Five Elements, acupuncture, and the living tradition that treats the person, not the disease.</span><span class="rl-reason rl-reason-tag">theme · tcm</span></a>
+        <a class="related-card" href="../science/topic_wuxing.html" data-category="science"><span class="rc-head"><span class="rc-cn">五行</span><span class="rc-py">wǔxíng</span></span><span class="rc-en">The Five Phases</span><span class="rc-detail">The five dynamic processes — wood, fire, earth, metal, water — that classical Chinese science used to map medicine, cosmology, music, politics, and time.</span><span class="rl-reason rl-reason-tag">theme · tcm</span></a>
       </div>
       <div class="related-chips-tier">
         <span class="related-chips-head"><span class="rch-cn">词族</span> <span class="rch-py">cízú</span> <span class="rch-en">Vocabulary in this field</span></span>

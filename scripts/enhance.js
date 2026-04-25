@@ -493,4 +493,34 @@ else { window.__enhanceInit = true; (function () {
     });
   }
 
+  // ── Theme toggle (dark / light mode) ─────────────────────────────────────
+  (function initThemeToggle() {
+    var btn = document.getElementById('theme-toggle');
+    if (!btn) return;
+
+    function isDark() {
+      return document.documentElement.getAttribute('data-theme') === 'dark';
+    }
+
+    function setTheme(dark) {
+      var theme = dark ? 'dark' : 'light';
+      document.documentElement.setAttribute('data-theme', theme);
+      try { localStorage.setItem('shuwo-theme', theme); } catch (e) {}
+      var meta = document.getElementById('meta-theme-color');
+      if (meta) meta.content = dark ? '#0e0b07' : '#1c1208';
+      btn.setAttribute('aria-label', dark ? 'Switch to light mode' : 'Switch to dark mode');
+    }
+
+    btn.addEventListener('click', function () { setTheme(!isDark()); });
+    btn.setAttribute('aria-label', isDark() ? 'Switch to light mode' : 'Switch to dark mode');
+
+    if (window.matchMedia) {
+      window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function (e) {
+        try {
+          if (!localStorage.getItem('shuwo-theme')) setTheme(e.matches);
+        } catch (er) { setTheme(e.matches); }
+      });
+    }
+  })();
+
 }()); }

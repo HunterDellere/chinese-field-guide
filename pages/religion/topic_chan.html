@@ -6,7 +6,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>禅宗 chán zōng · Chán Buddhism — Jiǎoluò Shūwū · 角落書屋</title>
 <meta name="description" content="禅宗 Chán Buddhism — Bodhidharma's founding legend, Huineng and sudden enlightenment, the Platform Sutra, kōans, Chan patriarchs, and the tradition's influence on poetry, painting, and Japanese Zen.">
-<meta name="theme-color" content="#1c1208">
+<meta name="theme-color" content="#1c1208" id="meta-theme-color">
+<!-- Flash-of-wrong-theme prevention: read localStorage before first paint -->
+<script>(function(){try{var t=localStorage.getItem('shuwo-theme');if(t==='dark'||t==='light'){document.documentElement.setAttribute('data-theme',t);}else if(!t&&window.matchMedia('(prefers-color-scheme: dark)').matches){document.documentElement.setAttribute('data-theme','dark');}}catch(e){}})();</script>
 <meta name="apple-mobile-web-app-title" content="角落書屋">
 <meta name="application-name" content="角落書屋">
 <link rel="alternate" type="application/rss+xml" title="Jiǎoluò Shūwū · 角落書屋" href="../../feed.xml">
@@ -46,6 +48,10 @@
   <div class="topnav-right">
     <a href="#" class="topnav-random" data-random-entry data-entries-base="../../" aria-label="Open a random entry"><span aria-hidden="true">⟳</span> Random</a>
     <a href="../families/explore.html" class="topnav-back" aria-label="Explore all entries">Explore</a>
+    <button class="theme-toggle" type="button" aria-label="Toggle dark mode" id="theme-toggle">
+      <span class="tt-sun" aria-hidden="true">☀</span>
+      <span class="tt-moon" aria-hidden="true">☾</span>
+    </button>
   </div>
 </nav>
 
@@ -224,7 +230,7 @@
       <div class="scholar-label"><a class="auto-link" href="../families/language.html">语言</a>洞见 yǔyán dòngjiàn · Language Insight</div>
       <p>Chan developed a distinctive literary and rhetorical style — sometimes called 禅语 chányǔ (Chan-speak) — characterized by indirection, paradox, non-sequitur, and the refusal to state things plainly. The indirection is principled: conceptual language always falsifies living experience. Words about the moon are not the moon; a map is not the territory; the finger pointing at Buddha is not Buddha.</p>
       <p>The exchange format called 机锋 jīfēng (literally "opportunity-blade" — a sharp, spontaneous exchange) was the master's tool for testing and triggering insight. A student asks: "What is Buddha?" The master replies: "Three pounds of flax." Or: "The cypress tree in the courtyard." These answers bypass the conceptual question and force the questioner to stop thinking and look directly. The tradition compiled vast collections of such exchanges — 语录 yǔlù (recorded sayings) — which became the training texts for future generations.</p>
-      <p>Among the most celebrated Chan exchanges: A monk asked Zhaozhou 赵州 whether a dog has Buddha nature. Zhaozhou replied: 无 wú — "no" or "nothing." This 赵州狗子 (Zhaozhou's dog) is the most famous kōan in the Chinese tradition, the gateway kōan in many lineages. Students meditate on 无 for months or years until its meaning is not conceptual but immediate.</p>
+      <p>Among the most celebrated Chan exchanges: A monk asked Zhaozhou 赵州 whether a dog has Buddha nature. Zhaozhou replied: <a class="auto-link" href="../characters/wu2_无.html">无</a> wú — "no" or "nothing." This 赵州狗子 (Zhaozhou's dog) is the most famous kōan in the Chinese tradition, the gateway kōan in many lineages. Students meditate on <a class="auto-link" href="../characters/wu2_无.html">无</a> for months or years until its meaning is not conceptual but immediate.</p>
     </div>
 
     <div class="cards">
@@ -394,10 +400,10 @@
     <section class="related" aria-labelledby="related-label">
       <span class="related-label sr-only" id="related-label">Related entries — pages and vocabulary in the neighbourhood of this one</span>
       <div class="related-cards">
+        <a class="related-card" href="../characters/kong1_空.html" data-category="characters"><span class="rc-head"><span class="rc-cn">空</span><span class="rc-py">kōng</span></span><span class="rc-en">empty, sky, void; in vain</span><span class="rc-detail">A cave with the work of hollowing inside it. The character that names the open sky, the empty room, the wasted afternoon, and the Buddhist śūnyatā at the heart of Chan.</span><span class="rl-reason rl-reason-tag">theme · chan</span></a>
         <a class="related-card" href="../vocab/qigong_气功.html" data-category="vocab"><span class="rc-head"><span class="rc-cn">气功</span><span class="rc-py">qìgōng</span></span><span class="rc-en">qigong</span><span class="rc-detail">Cultivating the vital breath — China&#39;s ancient practice of aligning body, breath, and mind.</span><span class="rl-reason rl-reason-tag">theme · meditation</span></a>
         <a class="related-card rl-multi" href="topic_yisilan.html" data-category="religion"><span class="rc-head"><span class="rc-cn">伊斯兰教</span><span class="rc-py">yīsīlán jiào</span></span><span class="rc-en">Islam in China</span><span class="rc-detail">Hui Muslims, Uyghur traditions, and 1400 years of Islamic presence.</span><span class="rl-reason rl-reason-category">same section · religion</span></a>
         <a class="related-card" href="topic_fojiao.html" data-category="religion"><span class="rc-head"><span class="rc-cn">佛教</span><span class="rc-py">fójiào</span></span><span class="rc-en">Buddhism in China</span><span class="rc-detail">Two thousand years of transmission, transformation, and sinicization.</span><span class="rl-reason rl-reason-category">same section · religion</span></a>
-        <a class="related-card" href="topic_rujia.html" data-category="religion"><span class="rc-head"><span class="rc-cn">儒家</span><span class="rc-py">rújiā</span></span><span class="rc-en">Confucianism</span><span class="rc-detail">The school of the ru — ritual, hierarchy, and moral cultivation as state religion.</span><span class="rl-reason rl-reason-category">same section · religion</span></a>
       </div>
       <div class="related-chips-tier">
         <span class="related-chips-head"><span class="rch-cn">词族</span> <span class="rch-py">cízú</span> <span class="rch-en">Vocabulary in this field</span></span>
@@ -407,7 +413,7 @@
       <span class="adj"><span class="a-cn">渐悟</span><span class="a-py">jiànwù</span><span class="a-en">gradual enlightenment</span></span>
       <span class="adj"><span class="a-cn">佛性</span><span class="a-py">fóxìng</span><span class="a-en">Buddha nature</span></span>
       <span class="adj"><span class="a-cn">本来面目</span><span class="a-py">běnlái miànmù</span><span class="a-en">original face</span></span>
-      <span class="adj"><span class="a-cn">无</span><span class="a-py">wú</span><span class="a-en">no; nothingness (the Zhaozhou kōan)</span></span>
+      <a class="adj" href="../characters/wu2_无.html" data-category="characters"><span class="a-cn">无</span><span class="a-py">wú</span><span class="a-en">no; nothingness (the Zhaozhou kōan)</span></a>
       <span class="adj"><span class="a-cn">寒山</span><span class="a-py">Hánshān</span><span class="a-en">Cold Mountain (Tang Chan poet)</span></span>
       <span class="adj"><span class="a-cn">语录</span><span class="a-py">yǔlù</span><span class="a-en">recorded sayings of Chan masters</span></span>
       <span class="adj"><span class="a-cn">衣钵</span><span class="a-py">yībō</span><span class="a-en">robe and bowl (transmission)</span></span>

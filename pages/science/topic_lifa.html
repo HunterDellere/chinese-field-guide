@@ -6,7 +6,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>历法 Lunisolar Calendar — The Lunisolar Calendar — Jiǎoluò Shūwū · 角落書屋</title>
 <meta name="description" content="历法 lìfǎ: the Chinese lunisolar calendar — intercalary months, the 60-year cycle of Heavenly Stems and Earthly Branches, agricultural and medical applications, and why it still governs festivals today.">
-<meta name="theme-color" content="#1c1208">
+<meta name="theme-color" content="#1c1208" id="meta-theme-color">
+<!-- Flash-of-wrong-theme prevention: read localStorage before first paint -->
+<script>(function(){try{var t=localStorage.getItem('shuwo-theme');if(t==='dark'||t==='light'){document.documentElement.setAttribute('data-theme',t);}else if(!t&&window.matchMedia('(prefers-color-scheme: dark)').matches){document.documentElement.setAttribute('data-theme','dark');}}catch(e){}})();</script>
 <meta name="apple-mobile-web-app-title" content="角落書屋">
 <meta name="application-name" content="角落書屋">
 <link rel="alternate" type="application/rss+xml" title="Jiǎoluò Shūwū · 角落書屋" href="../../feed.xml">
@@ -46,6 +48,10 @@
   <div class="topnav-right">
     <a href="#" class="topnav-random" data-random-entry data-entries-base="../../" aria-label="Open a random entry"><span aria-hidden="true">⟳</span> Random</a>
     <a href="../families/explore.html" class="topnav-back" aria-label="Explore all entries">Explore</a>
+    <button class="theme-toggle" type="button" aria-label="Toggle dark mode" id="theme-toggle">
+      <span class="tt-sun" aria-hidden="true">☀</span>
+      <span class="tt-moon" aria-hidden="true">☾</span>
+    </button>
   </div>
 </nav>
 
@@ -242,8 +248,8 @@
       <div class="related-cards">
         <a class="related-card" href="topic_suanpan.html" data-category="science"><span class="rc-head"><span class="rc-cn">算盘</span><span class="rc-py">suànpán</span></span><span class="rc-en">The Abacus</span><span class="rc-detail">Before the electronic calculator, a bead frame and trained fingers could outrun early computers on everyday arithmetic.</span><span class="rl-reason rl-reason-tag">theme · technology</span></a>
         <a class="related-card" href="topic_xingxiu.html" data-category="science"><span class="rc-head"><span class="rc-cn">星宿</span><span class="rc-py">xīngxiù</span></span><span class="rc-en">Chinese Constellations</span><span class="rc-detail">China mapped the entire sky independently of Greece — 1,464 stars, 28 lunar mansions, and four mythological guardians that divided the cosmos long before Ptolemy.</span><span class="rl-reason rl-reason-tag">theme · cosmology</span></a>
-        <a class="related-card rl-multi" href="topic_jieqi.html" data-category="science"><span class="rc-head"><span class="rc-cn">二十四节气</span><span class="rc-py">èrshísì jiéqì</span></span><span class="rc-en">24 Solar Terms</span><span class="rc-detail">The sun moves 15 degrees and the world changes — a precision agricultural calendar that doubled as a medical manual and is now UNESCO heritage.</span><span class="rl-reason rl-reason-tag">theme · cosmology</span></a>
         <a class="related-card rl-multi" href="topic_sidafaming.html" data-category="science"><span class="rc-head"><span class="rc-cn">四大发明</span><span class="rc-py">sì dà fāmíng</span></span><span class="rc-en">Four Great Inventions</span><span class="rc-detail">Compass, gunpowder, paper, and printing — the Chinese technologies that remade the medieval world.</span><span class="rl-reason rl-reason-tag">theme · technology</span></a>
+        <a class="related-card rl-multi" href="topic_jieqi.html" data-category="science"><span class="rc-head"><span class="rc-cn">二十四节气</span><span class="rc-py">èrshísì jiéqì</span></span><span class="rc-en">24 Solar Terms</span><span class="rc-detail">The sun moves 15 degrees and the world changes — a precision agricultural calendar that doubled as a medical manual and is now UNESCO heritage.</span><span class="rl-reason rl-reason-tag">theme · cosmology</span></a>
         <a class="related-card" href="../characters/tu3_土.html" data-category="characters"><span class="rc-head"><span class="rc-cn">土</span><span class="rc-py">tǔ</span></span><span class="rc-en">earth, soil, local, native</span><span class="rc-detail">A mound of soil with a base — the earth phase of the Five Elements, and the root of hundreds of characters for land, construction, and cultural belonging.</span><span class="rl-reason rl-reason-tag">theme · cosmology</span></a>
         <a class="related-card" href="../characters/nian2_年.html" data-category="characters"><span class="rc-head"><span class="rc-cn">年</span><span class="rc-py">nián</span></span><span class="rc-en">year</span><span class="rc-detail">A person carrying a harvest of grain — year as the cycle of agricultural labor, and the heart of the Chinese New Year tradition.</span><span class="rl-reason rl-reason-tag">theme · cosmology</span></a>
         <a class="related-card" href="../characters/ri4_日.html" data-category="characters"><span class="rc-head"><span class="rc-cn">日</span><span class="rc-py">rì</span></span><span class="rc-en">sun, day, Japan</span><span class="rc-detail">The oldest pictograph in the script — a circle with a dot for the sun, now a radical in hundreds of characters related to time, light, and warmth.</span><span class="rl-reason rl-reason-tag">theme · cosmology</span></a>
