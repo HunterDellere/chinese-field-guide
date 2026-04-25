@@ -715,8 +715,13 @@ for (const { body, entry } of pending) {
 const searchIndex = buildSearchIndex(entries, bodies);
 writeFileSync(join(dataDir, 'search-index.json'), JSON.stringify(searchIndex), 'utf8');
 
+// Recently added: real content entries only. Family-index pages and HSK
+// list pages are navigational surfaces, not content — they'd otherwise
+// dominate the Recently-added section every time the families/HSK build
+// touched its `updated` field.
+const NON_CONTENT_CATEGORIES = new Set(['families', 'hsk']);
 const recent = entries
-  .filter(e => e.status === 'complete' && e.updated)
+  .filter(e => e.status === 'complete' && e.updated && !NON_CONTENT_CATEGORIES.has(e.category))
   .sort((a, b) => b.updated.localeCompare(a.updated))
   .slice(0, 20);
 writeFileSync(join(dataDir, 'recent.json'), JSON.stringify(recent, null, 2), 'utf8');
