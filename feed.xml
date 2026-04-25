@@ -6,7 +6,7 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>Notes on Chinese language and civilisation — characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Apr 2026 22:17:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 22:28:52 GMT</lastBuildDate>
     <item>
       <title>白 · white, clear, plain, in vain</title>
       <link>https://jiaoshoo.com/pages/characters/bai2_白.html</link>
@@ -94,6 +94,14 @@
       <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
       <description>The particle that turns a finished sentence into an open conversation: softens questions, returns them to the asker, and lets a state hang in the air.</description>
       <category>grammar</category>
+    </item>
+    <item>
+      <title>中国 · the Middle Kingdom; China</title>
+      <link>https://jiaoshoo.com/pages/vocab/zhongguo_中国.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/zhongguo_中国.html</guid>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Two characters older than the country they now name. 中 (center) and 国 (state) joined three thousand years ago to mean &quot;the central states&quot;; the modern country took the phrase for itself only in the 19th century.</description>
+      <category>vocab</category>
     </item>
     <item>
       <title>风 · wind; style; custom</title>
@@ -237,14 +245,6 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/history/topic_chunqiu.html</guid>
       <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
       <description>The age when China named itself through the text that documented it, and a philosopher who failed every audience built the tradition that outlasted every state.</description>
-      <category>history</category>
-    </item>
-    <item>
-      <title>战国时期 · Warring States Period</title>
-      <link>https://jiaoshoo.com/pages/history/topic_zhanguo.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/history/topic_zhanguo.html</guid>
-      <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
-      <description>The most chaotic political era in Chinese history was also the condition that produced every major Chinese philosophical tradition. Political fragmentation and intellectual diversity are not separate stories.</description>
       <category>history</category>
     </item>
   </channel>

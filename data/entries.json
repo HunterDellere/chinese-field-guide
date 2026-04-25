@@ -185,6 +185,23 @@
     "updated": "2026-04-25"
   },
   {
+    "path": "pages/vocab/zhongguo_中国.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "中国 · the Middle Kingdom; China",
+    "desc": "Two characters older than the country they now name. 中 (center) and 国 (state) joined three thousand years ago to mean \"the central states\"; the modern country took the phrase for itself only in the 19th century.",
+    "tags": [
+      "history",
+      "geography",
+      "culture",
+      "politics",
+      "cosmology"
+    ],
+    "status": "complete",
+    "pinyin": "Zhōngguó",
+    "updated": "2026-04-25"
+  },
+  {
     "path": "pages/characters/feng1_风.html",
     "type": "character",
     "category": "characters",
