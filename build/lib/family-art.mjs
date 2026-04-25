@@ -165,10 +165,11 @@ function exploreHeroSvg(p) {
  * lands true center regardless of font metrics.
  */
 function centeredGlyph(glyph, fontSize, fill) {
-  // y nudged slightly below 50% because CJK glyphs visually balance a hair
-  // above their bounding-box center; this tiny offset gives the most
-  // optically-centered result across LXGW WenKai TC and the fallback stack.
-  return `<text x="100" y="108" text-anchor="middle" dominant-baseline="central"
+  // Combination of dominant-baseline="central" + y at the geometric viewBox
+  // center is the most reliable way to center a CJK glyph across the LXGW
+  // WenKai TC + Noto Serif SC fallback stack. Avoid offset nudges — they
+  // tend to push glyphs visibly low.
+  return `<text x="100" y="100" text-anchor="middle" dominant-baseline="central"
        font-family="LXGW WenKai TC, Noto Serif SC, serif"
        font-size="${fontSize}" font-weight="700" fill="${fill}">${glyph}</text>`;
 }

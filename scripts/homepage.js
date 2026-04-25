@@ -12,28 +12,6 @@
     return out;
   }
 
-  // Three families: Collections → Topics → Language.
-  // Topics are clustered thematically: thought → place/time → lived → making.
-  // Chengyu lives in Collections because it reads as a curated collection alongside tea.
-  const CAT_ORDER = [
-    "chengyu","hubs",
-    "philosophy","religion",
-    "history","geography",
-    "culture","daily","culinary",
-    "arts","science",
-    "characters","vocab","grammar",
-    "hsk"
-  ];
-
-  const LANGUAGE_KEYS = ["characters","vocab","grammar"];
-  const TOPICS_KEYS   = ["philosophy","religion","history","geography","culture","daily","culinary","arts","science"];
-  const HUBS_KEYS     = ["chengyu","hubs"];
-  const FAMILY_FOR    = new Map([
-    ...LANGUAGE_KEYS.map(k => [k, "language"]),
-    ...TOPICS_KEYS.map(k => [k, "topics"]),
-    ...HUBS_KEYS.map(k => [k, "hubs"]),
-  ]);
-
   const TODAY = new Date().toISOString().slice(0, 10);
 
   // Curated reading order: an opinionated tour that gives a first-time reader
@@ -270,9 +248,6 @@
   });
 
   function boot(allEntries, searchIndex, recentEntries, featured) {
-    const groups = {};
-    CAT_ORDER.forEach(k => groups[k] = []);
-    allEntries.forEach(e => { if (groups[e.category] !== undefined) groups[e.category].push(e); });
     // Tiny word-number helper for the subheader copy. Keeps prose tone while
     // staying honest about the actual count (fixes the "Twelve" / "Thirteen"
     // strings drifting out of sync with the data).
@@ -433,217 +408,22 @@
       if (el) el.textContent = lastUpdated;
     }
 
-    // ── category groups ────────────────────────────────────────────────────────
-    // Default UX: everything collapsed so the homepage reads as a tight index.
-    // The LS key is bumped to v3 so returning users also pick up the new default
-    // on their next visit, and their own collapse/expand choices are remembered
-    // from that point forward.
-    const LS_KEY = "cfg.collapsed.v3";
-    const DEFAULT_COLLAPSED = new Set(CAT_ORDER);
-    function loadCollapsed() {
-      const raw = localStorage.getItem(LS_KEY);
-      if (raw === null) return new Set(DEFAULT_COLLAPSED);
-      try {
-        const parsed = JSON.parse(raw);
-        return Array.isArray(parsed) ? new Set(parsed) : new Set(DEFAULT_COLLAPSED);
-      } catch { return new Set(DEFAULT_COLLAPSED); }
-    }
-    function saveCollapsed(set) {
-      try { localStorage.setItem(LS_KEY, JSON.stringify([...set])); } catch {}
-    }
-    let collapsedSet = loadCollapsed();
-
-    const container = document.getElementById("categories");
-    const catGroupMap = {};
-    // The Browse section was retired in favor of dedicated family-index pages
-    // (pages/families/*.html). When #categories is absent on the homepage,
-    // skip browse rendering and the expand/collapse controls. Search still
-    // works against the now-empty catGroupMap and emits flat results below.
-    const browseEnabled = Boolean(container);
-
-    // Three-family grouping: Language → Topics → Hubs.
-    // Divider inserted before the first rendered category of each family.
-    const GROUP_META = {
-      language: { cn: "语言", py: "yǔyán",  en: "The Language", desc: "Characters, words, grammar — the building blocks." },
-      topics:   { cn: "话题", py: "huàtí",  en: "Topics",       desc: "Thought, history, place, lived life — what the language is used to say." },
-      hubs:     { cn: "集锦", py: "jíjǐn",  en: "Collections",  desc: "Idioms, curated reading paths, and reference lists." }
-    };
-    const familiesInserted = new Set();
-
-    function insertGroupDivider(family) {
-      if (familiesInserted.has(family)) return;
-      const meta = GROUP_META[family];
-      if (!meta) return;
-      const div = document.createElement("div");
-      div.className = "cat-family cat-family-" + family;
-      div.innerHTML = `
-        <span class="cat-family-eyebrow">${meta.cn} ${meta.py}</span>
-        <h3 class="cat-family-heading">${meta.en}</h3>
-        <p class="cat-family-desc">${meta.desc}</p>
-      `;
-      container.appendChild(div);
-      familiesInserted.add(family);
-    }
-
-    if (browseEnabled) CAT_ORDER.forEach(key => {
-      const entries = groups[key];
-      if (!entries.length) return;
-      insertGroupDivider(FAMILY_FOR.get(key));
-      const meta = CATEGORY_META[key];
-
-      const group = document.createElement("section");
-      group.className = "cat-group" + (collapsedSet.has(key) ? " collapsed" : "");
-      group.id = "cat-" + key;
-      group.dataset.category = key;
-
-      const head = document.createElement("button");
-      head.className = "cat-head";
-      head.setAttribute("aria-expanded", collapsedSet.has(key) ? "false" : "true");
-      head.innerHTML = `
-        <span class="cat-caret">▾</span>
-        <span class="sh-cn" style="color:${meta.color}">${meta.cn}</span>
-        <span class="sh-py">${meta.py}</span>
-        <span class="sh-en">${meta.en}</span>
-        <span class="sh-rule"></span>
-        <span class="cat-count">${entries.length} ${entries.length === 1 ? "entry" : "entries"}</span>
-      `;
-      head.addEventListener("click", () => toggleCategory(key, group, head));
-
-      const grid = document.createElement("div");
-      grid.className = "entry-grid";
-
-      group.appendChild(head);
-      group.appendChild(grid);
-      container.appendChild(group);
-
-      const cardEls = [];
-      // matchState[i]: true = matched, false = hidden; undefined = not yet rendered
-      const matchState = [];
-
-      entries.forEach(e => {
-        const card = document.createElement("a");
-        card.href = e.path;
-        card.className = "entry-card";
-        if (e.category) card.dataset.category = e.category;
-        card.tabIndex = -1;
-        grid.appendChild(card);
-        cardEls.push(card);
-        matchState.push(undefined);
-      });
-
-      catGroupMap[key] = { groupEl: group, gridEl: grid, headEl: head, cardEls, entries, matchState };
-      // Initial render: all visible, no query
-      renderCardsForGroup(key, "", null);
-    });
-
-    // Render cards for a group. Reorders by score when a query is active.
-    // matchedPaths: Map<path, score> | null (null = no filter, all shown)
-    function renderCardsForGroup(key, queryRaw, matchedPaths) {
-      const g = catGroupMap[key];
-      if (!g) return;
-      const hasQuery = matchedPaths !== null;
-
-      const toHighlight = [];
-
-      g.cardEls.forEach((card, i) => {
-        const e = g.entries[i];
-        const nowMatched = !hasQuery || matchedPaths.has(e.path);
-        const stateChanged = g.matchState[i] !== nowMatched;
-
-        if (!nowMatched) {
-          if (stateChanged) {
-            card.classList.add("hidden");
-            g.matchState[i] = false;
-          }
-          return;
-        }
-
-        card.classList.remove("hidden");
-
-        if (stateChanged || queryRaw !== card.dataset.lastQuery) {
-          g.matchState[i] = true;
-          card.dataset.lastQuery = queryRaw;
-          toHighlight.push({ card, e, queryRaw });
-        }
-      });
-
-      // Reorder cards by score when a query is active; restore original order otherwise.
-      if (hasQuery) {
-        const ordered = g.cardEls
-          .map((card, i) => ({ card, e: g.entries[i], score: matchedPaths.get(g.entries[i].path) || 0 }))
-          .filter(x => matchedPaths.has(x.e.path))
-          .sort((a, b) => b.score - a.score);
-        if (ordered.length) {
-          const frag = document.createDocumentFragment();
-          for (const { card } of ordered) frag.appendChild(card);
-          for (const card of g.cardEls) {
-            if (card.classList.contains("hidden")) frag.appendChild(card);
-          }
-          g.gridEl.appendChild(frag);
-          g.reorderedOnce = true;
-        }
-      } else if (g.reorderedOnce) {
-        const frag = document.createDocumentFragment();
-        for (const card of g.cardEls) frag.appendChild(card);
-        g.gridEl.appendChild(frag);
-        g.reorderedOnce = false;
-      }
-
-      if (toHighlight.length) {
-        requestAnimationFrame(() => {
-          for (const { card, e, queryRaw: q } of toHighlight) {
-            const glyphChar = leadCn(e);
-            const len = glyphChar.length;
-            const sizeClass = len >= 4 ? " glyph-4" : len === 3 ? " glyph-3" : len === 2 ? " glyph-2" : "";
-            const titleNoCn = e.title && glyphChar
-              ? (e.title.split("·").slice(1).join("·").trim() || e.title)
-              : (e.title || "");
-            card.innerHTML = `
-              ${glyphChar ? `<span class="entry-glyph${sizeClass}">${highlight(glyphChar, q)}</span>` : ""}
-              <span class="entry-pinyin">${highlight(e.pinyin || "", q)}</span>
-              <span class="entry-title">${highlight(titleNoCn, q)}</span>
-              <span class="entry-desc">${highlight(e.desc || "", q)}</span>
-            `;
-          }
-        });
-      }
-    }
-
-    function toggleCategory(key, groupEl, headEl, forceExpand) {
-      const isCollapsed = groupEl.classList.contains("collapsed");
-      const shouldCollapse = forceExpand === undefined ? !isCollapsed : !forceExpand;
-      groupEl.classList.toggle("collapsed", shouldCollapse);
-      headEl.setAttribute("aria-expanded", shouldCollapse ? "false" : "true");
-      if (shouldCollapse) collapsedSet.add(key); else collapsedSet.delete(key);
-      saveCollapsed(collapsedSet);
-    }
-
-    // ── Anchor link UX ────────────────────────────────────────────────────────
-    // Whenever a same-page link points to #cat-XYZ (or any section), expand the
-    // matching category, then smooth-scroll to it with a brief warm flash so
-    // the reader's eye lands in the right place. Without this, clicking a
-    // "What's inside" cell jumped to a collapsed group with no visible context.
+    // ── In-page anchor UX ────────────────────────────────────────────────────
+    // Smooth-scroll any same-page link to its target with a brief warm flash
+    // so the reader's eye lands in the right place. (The Browse section that
+    // used to need expand-on-anchor logic was retired in favor of dedicated
+    // family-index pages.)
     function flashSection(el) {
       if (!el) return;
       el.classList.remove("anchor-flash");
-      // restart animation
       void el.offsetWidth;
       el.classList.add("anchor-flash");
       window.setTimeout(() => el.classList.remove("anchor-flash"), 1500);
     }
     function jumpToHash(hash) {
       if (!hash || hash.length < 2) return false;
-      const id = hash.slice(1);
-      const target = document.getElementById(id);
+      const target = document.getElementById(hash.slice(1));
       if (!target) return false;
-      // If it's a category group, make sure it is expanded
-      const catKey = id.startsWith("cat-") ? id.slice(4) : null;
-      if (catKey && catGroupMap[catKey]) {
-        const g = catGroupMap[catKey];
-        toggleCategory(catKey, g.groupEl, g.headEl, true);
-      }
-      // Use rAF so any newly-expanded grid has a chance to lay out before we
-      // measure scroll position.
       requestAnimationFrame(() => {
         target.scrollIntoView({ behavior: "smooth", block: "start" });
         flashSection(target);
@@ -655,7 +435,6 @@
       if (!a) return;
       const href = a.getAttribute("href");
       if (!href || href === "#") return;
-      // Only intercept in-page links
       if (a.origin && a.origin !== window.location.origin) return;
       if (a.pathname && a.pathname !== window.location.pathname) return;
       if (jumpToHash(href)) {
@@ -663,38 +442,9 @@
         try { history.replaceState(null, "", href); } catch (_) {}
       }
     });
-    // Honour an initial #hash on load (e.g. a deep link to a category)
     if (window.location.hash) {
       window.setTimeout(() => jumpToHash(window.location.hash), 60);
     }
-
-    // Expand/collapse and mobile-toggle controls only exist when the Browse
-    // section is rendered. Null-guard them so the homepage works whether the
-    // Browse section is present (legacy) or replaced by family cards (new).
-    const expandAllBtn = document.getElementById("expand-all");
-    const collapseAllBtn = document.getElementById("collapse-all");
-    const mobileToggleBtn = document.getElementById("mobile-toggle-all");
-    if (expandAllBtn) expandAllBtn.addEventListener("click", () => {
-      Object.keys(catGroupMap).forEach(key => {
-        const g = catGroupMap[key];
-        toggleCategory(key, g.groupEl, g.headEl, true);
-      });
-    });
-    if (collapseAllBtn) collapseAllBtn.addEventListener("click", () => {
-      Object.keys(catGroupMap).forEach(key => {
-        const g = catGroupMap[key];
-        toggleCategory(key, g.groupEl, g.headEl, false);
-      });
-    });
-    if (mobileToggleBtn) mobileToggleBtn.addEventListener("click", function () {
-      const anyExpanded = Object.values(catGroupMap).some(g => !g.groupEl.classList.contains("collapsed"));
-      Object.keys(catGroupMap).forEach(key => {
-        const g = catGroupMap[key];
-        toggleCategory(key, g.groupEl, g.headEl, !anyExpanded);
-      });
-      this.textContent = anyExpanded ? "Expand all ▸" : "Collapse all ▾";
-    });
-
     // ── Search (standalone — no connection to browse) ─────────────────────────
     let searchText = "";
     let searchDebounce = null;

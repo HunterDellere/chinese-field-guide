@@ -1797,6 +1797,10 @@ a.pf-btn-share:focus-visible, button.pf-btn-share:focus-visible {
 
 /* Per-category section on a family page (static, always expanded) */
 .fam-cat-group { margin-bottom: 2.75rem; scroll-margin-top: calc(var(--nav-h) + 1rem); }
+/* Last category section gets extra breathing room before the footer
+   (replaces the gap that the dropped Continue-exploring crosslinks used to fill). */
+.fam-cat-group:last-of-type { margin-bottom: 4rem; }
+.all-cats-clusters:last-child { margin-bottom: 4rem; }
 .fam-cat-head {
   display: flex; align-items: baseline; gap: 0.7rem;
   margin-bottom: 0.55rem;
@@ -1958,10 +1962,6 @@ a.pf-btn-share:focus-visible, button.pf-btn-share:focus-visible {
 .family-card[data-family="collections"] .family-card-title { color: var(--cat-chengyu); }
 .family-card[data-family="explore"]     .family-card-title { color: var(--ochre-2); }
 .family-card-desc { font-size: 0.88rem; color: var(--ink-3); line-height: 1.5; margin: 0.15rem 0 0; }
-.family-card-stat {
-  font-family: var(--font-mono); font-size: 0.66rem; letter-spacing: 0.12em;
-  color: var(--ochre); text-transform: uppercase; margin-top: 0.4rem;
-}
 .family-card-members {
   font-size: 0.78rem; color: var(--ink-5); font-style: italic; line-height: 1.45;
   margin-top: 0.15rem;
@@ -2023,11 +2023,16 @@ a.pf-btn-share:focus-visible, button.pf-btn-share:focus-visible {
 @media (max-width: 720px) {
   .family-hero { padding: 1.6rem 1.2rem 1.4rem; }
   .family-hero-meta { max-width: 100%; }
+  /* Fade the hero art on narrow viewports so the meta text wraps cleanly
+     across the full width without competing with the watermark glyph. */
+  .family-hero-art { opacity: 0.35; }
   .family-card { min-height: 200px; }
   .family-card-art { height: 110px; }
   .families-grid, .family-crosslinks { grid-template-columns: 1fr; }
   .fam-cat-group .entry-grid { grid-template-columns: 1fr 1fr; gap: 0.55rem; }
   .fam-cat-group[data-category="hubs"] .entry-grid { grid-template-columns: 1fr; }
+  /* All-cats clusters: collapse to single column on narrow screens for readability */
+  .all-cats-clusters { grid-template-columns: 1fr; gap: 1.2rem; }
 }
 
 /* ── RESPONSIVE ──────────────────────────────────────────── */

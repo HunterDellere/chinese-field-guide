@@ -189,18 +189,19 @@ function renderExploreContent(entries) {
     totalsByCategory.set(e.category, (totalsByCategory.get(e.category) || 0) + 1);
   }
 
+  // Family cards intentionally omit a numeric entries-count for visual
+  // consistency with the homepage hub (where the cards are hand-coded
+  // without counts because the counts would silently drift). The
+  // member-categories list below already conveys the family's scope.
   const familyCards = families.map(f => {
     const meta = FAMILY_META[f];
-    const memberKeys = FAMILY_MEMBERS[f];
-    const total = memberKeys.reduce((n, k) => n + (totalsByCategory.get(k) || 0), 0);
-    const memberLabels = memberKeys.map(k => CATEGORY_META[k]?.en).filter(Boolean).join(' · ');
+    const memberLabels = FAMILY_MEMBERS[f].map(k => CATEGORY_META[k]?.en).filter(Boolean).join(' · ');
     return `<a class="family-card" href="${f}.html" data-family="${f}">
         <div class="family-card-art" aria-hidden="true">${familyCardArt(f)}</div>
         <div class="family-card-meta">
           <span class="family-card-eyebrow">${escapeHtml(meta.cn)} ${escapeHtml(meta.py)}</span>
           <h3 class="family-card-title">${escapeHtml(meta.en)}</h3>
           <p class="family-card-desc">${escapeHtml(meta.desc)}</p>
-          <span class="family-card-stat">${total} entries · ${memberKeys.length} categories</span>
           <span class="family-card-members">${escapeHtml(memberLabels)}</span>
         </div>
       </a>`;

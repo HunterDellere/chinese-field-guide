@@ -351,29 +351,6 @@
     margin-top: 0.9rem;
   }
 
-  /* ── Browse section — one framed container so HSK chips,
-        family headings, and category lists all read as a single context.
-        (Legacy: only present if #browse markup is reintroduced. The current
-        homepage uses .families-section below instead.) */
-  .browse-section {
-    margin-bottom: 4rem;
-    padding: 2rem 2rem 1.75rem;
-    background: var(--papyrus-2);
-    border: 1px solid var(--rule);
-    border-radius: var(--radius-lg);
-    box-shadow: 0 1px 0 rgba(28,18,8,0.03), 0 8px 28px rgba(28,18,8,0.04);
-    position: relative;
-  }
-  .browse-panel {
-    padding: 0;
-    margin-bottom: 1.5rem;
-    background: transparent;
-    border: none;
-    box-shadow: none;
-  }
-  .browse-panel .section-eyebrow { margin-top: 0; }
-  .browse-panel .section-sub { margin-bottom: 1.4rem; }
-
   /* ── Families section — three-card hub on the homepage,
         the entry point into the dedicated family-index pages. */
   .families-section {
@@ -415,13 +392,6 @@
   .families-master-link:focus-visible { outline: none; box-shadow: 0 0 0 2px rgba(160,100,40,0.25); }
   .fml-cn { font-family: var(--font-cn-display); font-weight: 700; font-size: 1.15rem; color: var(--ochre-2); }
   .fml-en { color: inherit; }
-  /* Inner separator between the search chrome and the results below. */
-  .browse-panel + .no-results,
-  .browse-panel + #categories,
-  .browse-panel ~ .no-results {
-    padding-top: 0.25rem;
-  }
-  .browse-section #categories { margin-top: 0.5rem; }
 
   .filter-bar {
     display: flex; align-items: center; gap: 0.65rem;
@@ -468,23 +438,6 @@
     border: 1px solid var(--rule); border-radius: 3px;
     padding: 0.05rem 0.35rem; color: var(--ink-3); font-size: 0.72rem;
   }
-
-  .filter-bar-meta {
-    display: flex; justify-content: space-between; align-items: center;
-    margin-top: 1rem; padding-top: 0.9rem;
-    border-top: 1px solid var(--rule-2);
-    gap: 0.75rem; flex-wrap: wrap;
-  }
-  .filter-actions { display: flex; gap: 0.75rem; flex-shrink: 0; }
-  .filter-actions button {
-    background: none; border: none; cursor: pointer;
-    font-family: var(--font-ui); font-size: 0.82rem;
-    color: var(--ink-4); padding: 0.25rem 0;
-    border-bottom: 1px solid transparent;
-    transition: color 0.12s, border-color 0.12s;
-  }
-  .filter-actions button:hover { color: var(--red); border-bottom-color: var(--red); }
-  .filter-actions button.mobile-toggle { display: none; }
 
   .filter-result {
     font-family: var(--font-ui); font-size: 0.82rem; color: var(--ink-4);
@@ -541,59 +494,10 @@
   .no-results-msg code { font-family: var(--font-mono); color: var(--red); background: none; padding: 0; }
   .no-results-hint { font-size: 0.85rem; color: var(--ink-4); margin: 0 auto 0.9rem; max-width: 38rem; line-height: 1.5; }
 
-  /* Family headings — split the list into "The Language" and "The Civilisation"
-     so the entry type is clear at a glance. Hidden entirely when no category
-     under them has any matches, so an empty label doesn't float over nothing. */
-  .cat-family { margin: 1.75rem 0 1.25rem; }
-  .cat-family.hidden { display: none; }
-  .cat-family + .cat-group { margin-top: 0.25rem; }
-  .cat-family-eyebrow {
-    font-family: var(--font-mono); font-size: 0.64rem; letter-spacing: 0.22em;
-    text-transform: uppercase; color: var(--ochre); display: block;
-    border-left: 2px solid var(--ochre); padding-left: 0.55rem;
-    margin-bottom: 0.35rem;
-  }
-  .cat-family-heading {
-    font-family: var(--font-body); font-size: 1.2rem; font-weight: 600;
-    color: var(--ink); margin: 0 0 0.2rem; letter-spacing: -0.005em;
-  }
-  .cat-family-desc {
-    font-family: var(--font-ui); font-size: 0.88rem; color: var(--ink-4);
-    margin: 0; line-height: 1.45; max-width: 620px;
-  }
 
-  .cat-group { margin-bottom: 2.75rem; animation: fadeUp 0.5s ease both; scroll-margin-top: calc(var(--nav-h) + 1rem); }
-  .cat-group.hidden { display: none; }
-  .cat-group.collapsed .entry-grid { display: none; }
-
-  .cat-head {
-    display: flex; align-items: center; gap: 0.8rem;
-    margin: 0 0 1.2rem; padding-bottom: 0.7rem; border-bottom: 1px solid var(--rule);
-    background: none; border-top: none; border-left: none; border-right: none;
-    width: 100%; text-align: left; cursor: pointer;
-    transition: opacity 0.12s; font: inherit; color: inherit;
-  }
-  .cat-head:hover { opacity: 0.8; }
-  .cat-caret {
-    font-size: 0.65rem; color: var(--ink-5); transition: transform 0.2s; flex-shrink: 0;
-    font-family: var(--font-mono); display: inline-block;
-  }
-  .cat-group.collapsed .cat-caret { transform: rotate(-90deg); }
-  .cat-head .sh-cn { font-family: var(--font-cn); font-size: 1.55rem; font-weight: 700; color: var(--red); }
-  .cat-head .sh-py { font-family: var(--font-mono); font-size: 0.85rem; color: var(--ochre); }
-  .cat-head .sh-en { font-size: 0.9rem; color: var(--ink-5); font-style: italic; }
-  .cat-head .sh-rule { flex: 1; height: 1px; background: var(--rule-2); }
-  .cat-count { font-family: var(--font-mono); font-size: 0.64rem; color: var(--ink-5); letter-spacing: 0.1em; white-space: nowrap; }
-
-  /* Entry grid */
-  .entry-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 0.9rem; }
-  /* Hubs: single-column so long reading-path titles aren't squashed */
-  .cat-group[data-category="hubs"] .entry-grid { grid-template-columns: 1fr; gap: 0.6rem; }
-  .cat-group[data-category="hubs"] .entry-card { padding: 0.9rem 1.1rem; }
-  .cat-group[data-category="hubs"] .entry-glyph { font-size: 1.8rem; margin-bottom: 0.25rem; }
-  .cat-group[data-category="hubs"] .entry-glyph.glyph-2 { font-size: 1.5rem; }
-  .cat-group[data-category="hubs"] .entry-glyph.glyph-4 { font-size: 1.2rem; }
-
+  /* Entry-card styling — used by the homepage search-results renderer.
+     Family-index pages have their own scoped overrides in style.css under
+     .fam-cat-group .entry-card. */
   .entry-card {
     background: var(--papyrus-2); border: 1px solid var(--rule); border-radius: var(--radius-lg);
     padding: 1.15rem 1.25rem; text-decoration: none; display: block;
@@ -805,7 +709,7 @@
     .featured-glyph.glyph-3 { font-size: 1.3rem; }
     .featured-glyph.glyph-4 { font-size: 1.1rem; }
     .featured-title { font-size: 1.3rem; }
-    .browse-section { padding: 1.5rem 1.4rem 1.25rem; }
+    .families-section { padding: 1.5rem 1.4rem 1.25rem; }
   }
   @media (max-width: 600px) {
     .index-shell { padding: 2rem 1.25rem 4rem; }
@@ -815,11 +719,9 @@
 
     .start-here-list { grid-template-columns: repeat(2, 1fr); }
     .entry-grid, .recent-grid { grid-template-columns: repeat(auto-fill, minmax(175px, 1fr)); }
-    .browse-section { padding: 1.25rem 1.1rem 1rem; }
+    .families-section { padding: 1.25rem 1.1rem 1rem; }
     .filter-bar-hero .filter-search { font-size: 1rem; min-height: 44px; }
     .filter-shortcut-hint { display: none; }
-    .filter-actions button.desktop-only { display: none; }
-    .filter-actions button.mobile-toggle { display: inline-block; }
     .section-title { font-size: 1.35rem; }
     .featured-card::after { font-size: 7rem; }
   }
