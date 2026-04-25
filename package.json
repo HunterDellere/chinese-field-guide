@@ -10,6 +10,7 @@
     "validate:adj-coverage": "node build/validate-adj-coverage.mjs",
     "validate:all": "node build/validate.mjs --emit-findings && node build/validate-facts.mjs && node build/validate-content-health.mjs && node build/validate-relations.mjs && node build/validate-adj-coverage.mjs && node build/validate-search.mjs && node build/validate-formatting.mjs",
     "build:admin": "node build/build-admin.mjs",
+    "build:audio": "node build/build-audio.mjs",
     "test:admin": "node build/test-admin.mjs",
     "refresh:reference": "node scripts/refresh-reference.mjs",
     "check": "node build/check.mjs --emit-findings && node build/validate-facts.mjs && node build/test-admin.mjs",

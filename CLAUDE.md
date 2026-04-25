@@ -403,6 +403,32 @@ The raw upstream source files (makemeahanzi dictionary, OpenCC simp↔trad table
 
 ---
 
+## Audio Pronunciation
+
+Playback uses pre-rendered Azure Neural TTS clips committed to `audio/`. Two voices cycle on each click of the speaker button: 女 `zh-CN-XiaoxiaoNeural` and 男 `zh-CN-YunxiNeural`. Voice preference persists in `localStorage('shuwo-voice')`. Keyboard: `p` plays, `Shift+P` cycles voice silently.
+
+### What gets audio
+
+- **Character pages** (hero pinyin) — single hanzi, SSML `<phoneme alphabet="sapi">` forces the page's intended reading for polyphonic characters using frontmatter `pinyin`.
+- **Vocab + chengyu pages** (button injected after `topic-hero-title-py`) — uses the title's CN portion + frontmatter `pinyin`.
+- **Inline cards** — `.cy` chengyu cards and `.card` vocab compound cards within any page get a compact `.audio-btn--inline` button. These resolve through the manifest's `inline` section (content-hashed by text+pinyin so duplicate phrases across pages share one MP3).
+
+Topic / grammar / hub / family / hsk page heroes are skipped — the title isn't always a pronounceable Chinese phrase. Inline cards on those pages still get buttons.
+
+### Build pipeline
+
+1. `npm run build` — generates `data/entries.json` and the inline-audio button markup. Does **not** call Azure; safe to run offline.
+2. `npm run build:audio` — synthesizes any new/changed clips. Requires `AZURE_TTS_KEY` (and optional `AZURE_TTS_REGION`, default `eastus`). Idempotent: each clip is hashed against `(text|pinyin|voice|RENDER_VERSION)` in `data/audio-manifest.json` and skipped if unchanged. Use `--force` to re-synthesize everything.
+3. Commit the new `.mp3` files under `audio/` and the updated `data/audio-manifest.json`.
+
+If `AZURE_TTS_KEY` isn't set, `npm run build:audio` exits cleanly with a notice. The frontend falls back to browser `SpeechSynthesis` for any clip not yet in the manifest, so the site is never silent.
+
+### Bumping voice / rate
+
+Change `RENDER_VERSION` in `build/lib/audio.mjs` to invalidate the manifest cache and re-synthesize the corpus on the next `build:audio` run.
+
+---
+
 ## HSK Note
 `pages/hsk/` is reserved for a future session that will add HSK vocabulary and grammar lists. Character entries in `entries.js` have an `hsk` field for cross-linking. Do not create HSK pages in this session.
 
