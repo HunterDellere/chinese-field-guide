@@ -548,11 +548,12 @@ else { window.__enhanceInit = true; (function () {
           : '';
 
         // Surface a category chip so cards in the related grid (which already
-        // colour-code by category) explain themselves on hover.
+        // colour-code by category) explain themselves on hover. Use category
+        // (not type) so chengyu reads as "chengyu" rather than the underlying
+        // type: vocab.
         const catLabel = (function () {
           var c = e.category || '';
           if (!c) return '';
-          // Mirror the homepage label set, lowercased & short
           var map = {
             characters: 'character', vocab: 'vocab', grammar: 'grammar',
             chengyu: 'chengyu', religion: 'religion', philosophy: 'philosophy',
@@ -563,9 +564,20 @@ else { window.__enhanceInit = true; (function () {
           return map[c] || c;
         })();
 
-        // Character pages add a radical chip (the most useful at-a-glance fact
-        // beyond pinyin/HSK on hover). Vocab/grammar/topics fall back to type.
+        // Character pages add a radical chip (the most useful at-a-glance
+        // fact beyond pinyin/HSK on hover).
         const radicalChip = (e.type === 'character' && e.radical) ? `部 ${e.radical}` : '';
+
+        // Topic / vocab / grammar pages don't have HSK or radical, but they do
+        // have authored tags — surface up to 2 of the most informative ones
+        // so the tooltip earns its space. Skip generic structural tags.
+        const tagSkip = new Set([
+          'philosophy', 'history', 'culture', 'language',
+          'classical', 'modern', 'spoken', 'written',
+        ]);
+        const topicTags = (e.type !== 'character' && Array.isArray(e.tags))
+          ? e.tags.filter(t => !tagSkip.has(t)).slice(0, 2)
+          : [];
 
         // Adjacent-vocab chips can carry a `data-distinct` slot authored on the
         // chip — that's the highest-value content because it explains the
@@ -581,11 +593,12 @@ else { window.__enhanceInit = true; (function () {
             (py ? `<span class="al-tt-py">${escapeHtml(py)}</span>` : '') +
             (hskLabel ? `<span class="al-tt-hsk">${escapeHtml(hskLabel)}</span>` : '') +
           `</div>` +
-          (catLabel || radicalChip || relation
+          (catLabel || radicalChip || relation || topicTags.length
             ? `<div class="al-tt-meta">` +
                 (catLabel ? `<span class="al-tt-cat">${escapeHtml(catLabel)}</span>` : '') +
                 (radicalChip ? `<span class="al-tt-rad">${escapeHtml(radicalChip)}</span>` : '') +
                 (relation ? `<span class="al-tt-rel">${escapeHtml(relation)}</span>` : '') +
+                topicTags.map(t => `<span class="al-tt-tag">${escapeHtml(t)}</span>`).join('') +
               `</div>`
             : '') +
           (detailLine

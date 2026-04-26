@@ -271,6 +271,14 @@ body {
 }
 .al-tt-rad { color: #c8bda0; border-color: rgba(200,189,160,0.3); background: rgba(200,189,160,0.08); }
 .al-tt-rel { color: #aaa080; }
+.al-tt-tag {
+  background: rgba(120,140,170,0.10);
+  border: 1px solid rgba(120,140,170,0.28);
+  color: #a8b8d0;
+  border-radius: 3px;
+  padding: 0.1em 0.4em;
+  white-space: nowrap;
+}
 /* When the desc carries a chip-authored disambiguation, lift the contrast
  * slightly — it's the highest-value content in the tooltip. */
 .al-tt-desc--distinct { color: #d8c8a8; font-style: normal; }
