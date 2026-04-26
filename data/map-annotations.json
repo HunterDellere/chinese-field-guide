@@ -188,17 +188,6 @@
       "type": "dialect-zone"
     },
     {
-      "id": "cuisines",
-      "label_cn": "八大菜系",
-      "label_py": "Bādà Càixì",
-      "label_en": "Eight Regional Cuisines",
-      "lon": 104.07, "lat": 30.67,
-      "entry": "geography/topic_caixi_geography",
-      "layers": ["sites"],
-      "category": "geography",
-      "type": "cultural"
-    },
-    {
       "id": "tea",
       "label_cn": "茶文化",
       "label_py": "Chá Wénhuà",
@@ -208,6 +197,308 @@
       "layers": ["sites"],
       "category": "culture",
       "type": "cultural"
+    },
+
+    {
+      "id": "cuisine_lu",
+      "label_cn": "鲁菜",
+      "label_py": "Lǔcài",
+      "label_en": "Shandong Cuisine",
+      "lon": 117.0, "lat": 36.65,
+      "entry": "geography/topic_caixi_geography",
+      "layers": ["sites"],
+      "category": "culinary",
+      "type": "cuisine"
+    },
+    {
+      "id": "cuisine_chuan",
+      "label_cn": "川菜",
+      "label_py": "Chuāncài",
+      "label_en": "Sichuan Cuisine",
+      "lon": 104.07, "lat": 30.67,
+      "entry": "geography/topic_caixi_geography",
+      "layers": ["sites"],
+      "category": "culinary",
+      "type": "cuisine"
+    },
+    {
+      "id": "cuisine_yue",
+      "label_cn": "粤菜",
+      "label_py": "Yuècài",
+      "label_en": "Cantonese Cuisine",
+      "lon": 113.27, "lat": 23.13,
+      "entry": "geography/topic_caixi_geography",
+      "layers": ["sites"],
+      "category": "culinary",
+      "type": "cuisine"
+    },
+    {
+      "id": "cuisine_min",
+      "label_cn": "闽菜",
+      "label_py": "Mǐncài",
+      "label_en": "Fujian Cuisine",
+      "lon": 119.3, "lat": 26.07,
+      "entry": "geography/topic_caixi_geography",
+      "layers": ["sites"],
+      "category": "culinary",
+      "type": "cuisine"
+    },
+    {
+      "id": "cuisine_su",
+      "label_cn": "苏菜",
+      "label_py": "Sūcài",
+      "label_en": "Jiangsu Cuisine",
+      "lon": 118.78, "lat": 32.06,
+      "entry": "geography/topic_caixi_geography",
+      "layers": ["sites"],
+      "category": "culinary",
+      "type": "cuisine"
+    },
+    {
+      "id": "cuisine_zhe",
+      "label_cn": "浙菜",
+      "label_py": "Zhècài",
+      "label_en": "Zhejiang Cuisine",
+      "lon": 120.16, "lat": 30.27,
+      "entry": "geography/topic_caixi_geography",
+      "layers": ["sites"],
+      "category": "culinary",
+      "type": "cuisine"
+    },
+    {
+      "id": "cuisine_xiang",
+      "label_cn": "湘菜",
+      "label_py": "Xiāngcài",
+      "label_en": "Hunan Cuisine",
+      "lon": 112.94, "lat": 28.23,
+      "entry": "geography/topic_caixi_geography",
+      "layers": ["sites"],
+      "category": "culinary",
+      "type": "cuisine"
+    },
+    {
+      "id": "cuisine_hui",
+      "label_cn": "徽菜",
+      "label_py": "Huīcài",
+      "label_en": "Anhui Cuisine",
+      "lon": 117.28, "lat": 31.86,
+      "entry": "geography/topic_caixi_geography",
+      "layers": ["sites"],
+      "category": "culinary",
+      "type": "cuisine"
+    },
+
+    {
+      "id": "mt_taishan",
+      "label_cn": "泰山",
+      "label_py": "Tài Shān",
+      "label_en": "Tai Shan (East Sacred Mountain)",
+      "lon": 117.10, "lat": 36.27,
+      "entry": "religion/topic_shengshan",
+      "layers": ["sites"],
+      "category": "religion",
+      "type": "mountain"
+    },
+    {
+      "id": "mt_huashan",
+      "label_cn": "华山",
+      "label_py": "Huà Shān",
+      "label_en": "Hua Shan (West Sacred Mountain)",
+      "lon": 110.08, "lat": 34.48,
+      "entry": "religion/topic_shengshan",
+      "layers": ["sites"],
+      "category": "religion",
+      "type": "mountain"
+    },
+    {
+      "id": "mt_hengshan_s",
+      "label_cn": "南岳衡山",
+      "label_py": "Héng Shān (Nán)",
+      "label_en": "Heng Shan, South",
+      "lon": 112.74, "lat": 27.30,
+      "entry": "religion/topic_shengshan",
+      "layers": ["sites"],
+      "category": "religion",
+      "type": "mountain"
+    },
+    {
+      "id": "mt_hengshan_n",
+      "label_cn": "北岳恒山",
+      "label_py": "Héng Shān (Běi)",
+      "label_en": "Heng Shan, North",
+      "lon": 113.74, "lat": 39.69,
+      "entry": "religion/topic_shengshan",
+      "layers": ["sites"],
+      "category": "religion",
+      "type": "mountain"
+    },
+    {
+      "id": "mt_songshan",
+      "label_cn": "嵩山",
+      "label_py": "Sōng Shān",
+      "label_en": "Song Shan (Center Sacred Mountain)",
+      "lon": 113.04, "lat": 34.48,
+      "entry": "religion/topic_shengshan",
+      "layers": ["sites"],
+      "category": "religion",
+      "type": "mountain"
+    },
+    {
+      "id": "mt_wutai",
+      "label_cn": "五台山",
+      "label_py": "Wǔtái Shān",
+      "label_en": "Wutai Shan (Manjushri)",
+      "lon": 113.59, "lat": 39.04,
+      "entry": "religion/topic_shengshan",
+      "layers": ["sites"],
+      "category": "religion",
+      "type": "mountain"
+    },
+    {
+      "id": "mt_putuo",
+      "label_cn": "普陀山",
+      "label_py": "Pǔtuó Shān",
+      "label_en": "Putuo Shan (Guanyin)",
+      "lon": 122.39, "lat": 30.00,
+      "entry": "religion/topic_shengshan",
+      "layers": ["sites"],
+      "category": "religion",
+      "type": "mountain"
+    },
+    {
+      "id": "mt_emei",
+      "label_cn": "峨眉山",
+      "label_py": "Éméi Shān",
+      "label_en": "Emei Shan (Samantabhadra)",
+      "lon": 103.48, "lat": 29.52,
+      "entry": "religion/topic_shengshan",
+      "layers": ["sites"],
+      "category": "religion",
+      "type": "mountain"
+    },
+    {
+      "id": "mt_jiuhua",
+      "label_cn": "九华山",
+      "label_py": "Jiǔhuá Shān",
+      "label_en": "Jiuhua Shan (Ksitigarbha)",
+      "lon": 117.81, "lat": 30.46,
+      "entry": "religion/topic_shengshan",
+      "layers": ["sites"],
+      "category": "religion",
+      "type": "mountain"
+    },
+
+    {
+      "id": "phil_qufu",
+      "label_cn": "曲阜",
+      "label_py": "Qūfù",
+      "label_en": "Qufu (Confucius)",
+      "lon": 116.99, "lat": 35.59,
+      "entry": "philosophy/topic_kongzi",
+      "layers": ["sites"],
+      "category": "philosophy",
+      "type": "philosopher"
+    },
+    {
+      "id": "phil_luyi",
+      "label_cn": "鹿邑",
+      "label_py": "Lùyì",
+      "label_en": "Luyi (Laozi's birthplace)",
+      "lon": 115.49, "lat": 33.86,
+      "entry": "philosophy/topic_laozi",
+      "layers": ["sites"],
+      "category": "philosophy",
+      "type": "philosopher"
+    },
+    {
+      "id": "phil_zoucheng",
+      "label_cn": "邹城",
+      "label_py": "Zōuchéng",
+      "label_en": "Zoucheng (Mengzi's birthplace)",
+      "lon": 116.97, "lat": 35.40,
+      "entry": "philosophy/topic_mengzi",
+      "layers": ["sites"],
+      "category": "philosophy",
+      "type": "philosopher"
+    },
+    {
+      "id": "phil_mengcheng",
+      "label_cn": "蒙城",
+      "label_py": "Méngchéng",
+      "label_en": "Mengcheng (Zhuangzi's birthplace)",
+      "lon": 116.56, "lat": 33.27,
+      "entry": "philosophy/topic_zhuangzi",
+      "layers": ["sites"],
+      "category": "philosophy",
+      "type": "philosopher"
+    },
+
+    {
+      "id": "greatwall_jiayuguan",
+      "label_cn": "嘉峪关",
+      "label_py": "Jiāyùguān",
+      "label_en": "Jiayuguan (Great Wall west)",
+      "lon": 98.30, "lat": 39.80,
+      "entry": "history/topic_changcheng",
+      "layers": ["greatwall"],
+      "category": "history",
+      "type": "city"
+    },
+    {
+      "id": "greatwall_shanhaiguan",
+      "label_cn": "山海关",
+      "label_py": "Shānhǎiguān",
+      "label_en": "Shanhaiguan (Great Wall east)",
+      "lon": 119.80, "lat": 40.00,
+      "entry": "history/topic_changcheng",
+      "layers": ["greatwall"],
+      "category": "history",
+      "type": "city"
+    },
+
+    {
+      "id": "silk_changan",
+      "label_cn": "长安",
+      "label_py": "Cháng'ān",
+      "label_en": "Chang'an (Silk Road origin)",
+      "lon": 108.95, "lat": 34.27,
+      "entry": "history/topic_sichouzhilu",
+      "layers": ["silkroads"],
+      "category": "history",
+      "type": "city"
+    },
+    {
+      "id": "silk_dunhuang",
+      "label_cn": "敦煌",
+      "label_py": "Dūnhuáng",
+      "label_en": "Dunhuang (Silk Road junction)",
+      "lon": 94.65, "lat": 40.15,
+      "entry": "history/topic_sichouzhilu",
+      "layers": ["silkroads"],
+      "category": "history",
+      "type": "city"
+    },
+    {
+      "id": "silk_kashgar",
+      "label_cn": "喀什",
+      "label_py": "Kāshí",
+      "label_en": "Kashgar (Tarim convergence)",
+      "lon": 75.99, "lat": 39.47,
+      "entry": "history/topic_sichouzhilu",
+      "layers": ["silkroads"],
+      "category": "history",
+      "type": "city"
+    },
+    {
+      "id": "silk_quanzhou",
+      "label_cn": "泉州",
+      "label_py": "Quánzhōu",
+      "label_en": "Quanzhou (Maritime Silk Road)",
+      "lon": 118.68, "lat": 24.87,
+      "entry": "history/topic_sichouzhilu",
+      "layers": ["silkroads"],
+      "category": "history",
+      "type": "city"
     }
   ],
   "layers": [
@@ -239,6 +530,18 @@
       "id": "sites",
       "label_cn": "文化地点",
       "label_en": "Cultural Sites",
+      "default": false
+    },
+    {
+      "id": "greatwall",
+      "label_cn": "长城",
+      "label_en": "Great Wall",
+      "default": false
+    },
+    {
+      "id": "silkroads",
+      "label_cn": "丝绸之路",
+      "label_en": "Silk Roads",
       "default": false
     }
   ]

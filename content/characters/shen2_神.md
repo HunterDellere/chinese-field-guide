@@ -162,7 +162,7 @@ updated: '2026-04-25'
           <span class="card-py">shénlíng</span>
           <span class="card-en">divine spirits; supernatural beings</span>
         </div>
-        <p class="card-def">神 + 灵 (efficacious; spirit). The Chinese spirit world is densely populated: mountain spirits, river spirits, city gods (城隍 chénghuáng), kitchen gods (灶神 zàoshén), earth gods (土地公 tǔdìgōng), and ancestral spirits all fall under the umbrella of 神灵. The compound encompasses the full range from the cosmic to the local. See <a href="../characters/ling2_灵.html">灵 líng</a>.</p>
+        <p class="card-def">神 + 灵 (efficacious; spirit). The Chinese spirit world is densely populated: mountain spirits, river spirits, city gods (城隍 chénghuáng), kitchen gods (灶神 zàoshén), earth gods (土地公 tǔdìgōng), and ancestral spirits all fall under the umbrella of 神灵. The compound encompasses the full range from the cosmic to the local.</p>
       </div>
       <div class="card c-teal">
         <div class="tags"><span class="tag tag-n">n</span></div>
@@ -251,7 +251,7 @@ updated: '2026-04-25'
           <span class="card-py">jīngshén</span>
           <span class="card-en">spirit; vitality; morale; mental state</span>
         </div>
-        <p class="card-def">精 (refined essence) + 神. The most versatile compound: it spans the physical (精神好, "full of energy"), the psychological (精神压力, "mental pressure"), the collective (民族精神, "national spirit"), and the textual (文件的精神, "the spirit of the document"). The breadth is intentional and reflects a continuous philosophical tradition. See <a href="../characters/jing1_精.html">精 jīng</a>.</p>
+        <p class="card-def">精 (refined essence) + 神. The most versatile compound: it spans the physical (精神好, "full of energy"), the psychological (精神压力, "mental pressure"), the collective (民族精神, "national spirit"), and the textual (文件的精神, "the spirit of the document"). The breadth is intentional and reflects a continuous philosophical tradition.</p>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">她今天精神很好，笑个不停。</div>

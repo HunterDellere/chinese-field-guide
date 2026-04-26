@@ -182,21 +182,28 @@
 
   /* ── Pin rendering ──────────────────────────────────────── */
   const ICONS = {
-    city:           'M0,-8 L5,0 L8,6 L0,10 L-8,6 L-5,0 Z',  // diamond
-    region:         null,   // circle
-    island:         null,   // circle
-    river:          'M-6,0 Q0,-8 6,0 Q0,8 -6,0 Z',           // oval
+    city:              'M0,-8 L5,0 L8,6 L0,10 L-8,6 L-5,0 Z',  // diamond
+    region:            null,                                    // circle
+    island:            null,                                    // circle
+    river:             'M-6,0 Q0,-8 6,0 Q0,8 -6,0 Z',          // oval
     'dynasty-capital': 'M0,-9 L2,-3 L9,-3 L3,1 L5,8 L0,4 L-5,8 L-3,1 L-9,-3 L-2,-3 Z', // star
-    'dialect-zone': null,   // circle
-    cultural:       'M0,-7 L7,7 L-7,7 Z',                    // triangle
+    'dialect-zone':    null,                                    // circle
+    cultural:          'M0,-7 L7,7 L-7,7 Z',                    // triangle
+    // New types for Phase 2.3–2.5
+    mountain:          'M-9,7 L-3,-3 L0,1 L4,-7 L9,7 Z',        // mountain peak silhouette
+    cuisine:           'M-7,-1 L7,-1 A 7 7 0 0 1 -7 -1 Z M-2,-4 L-2,-1 M2,-4 L2,-1', // rice bowl with chopsticks
+    philosopher:       'M-6,-7 L6,-7 L6,7 L-6,7 Z M-3,-4 L3,-4 M-3,-1 L3,-1 M-3,2 L1,2', // scroll
+    temple:            'M0,-9 L8,-3 L8,7 L-8,7 L-8,-3 Z M-3,7 L-3,1 L3,1 L3,7', // temple with door
   };
 
   const CATEGORY_COLORS = {
-    geography: '#2a5c6b',
-    history:   '#6b4420',
-    culture:   '#8e4a6e',
-    religion:  '#5c3d7a',
-    default:   '#8b1a1a',
+    geography:  '#2a5c6b',
+    history:    '#6b4420',
+    culture:    '#8e4a6e',
+    religion:   '#5c3d7a',
+    philosophy: '#7a5828',
+    culinary:   '#a04030',
+    default:    '#8b1a1a',
   };
 
   function pinColor(anno) {

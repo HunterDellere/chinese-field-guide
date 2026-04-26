@@ -276,5 +276,8 @@
   {"slug": "birth",             "label": "Birth"},
   {"slug": "industry",          "label": "Industry"},
   {"slug": "learning",          "label": "Learning"},
-  {"slug": "compassion",        "label": "Compassion"}
+  {"slug": "compassion",        "label": "Compassion"},
+  {"slug": "fortification",     "label": "Fortification"},
+  {"slug": "border",            "label": "Border"},
+  {"slug": "pilgrimage",        "label": "Pilgrimage"}
 ]
