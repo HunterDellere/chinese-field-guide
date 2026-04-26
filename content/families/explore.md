@@ -31,7 +31,7 @@ updated: "2026-04-25"
     <ul class="toc-list">
       <li><a href="#families">Pick a family</a></li>
       <li><a href="#all-categories">Or pick a category</a></li>
-      <li><a href="#maps"><span class="toc-cn">地图</span> Interactive Map</a></li>
+      <li class="admin-only"><a href="#maps"><span class="toc-cn">地图</span> Interactive Map</a></li>
     </ul>
   </aside>
 

@@ -118,7 +118,7 @@ function renderEntryCard(entry) {
  */
 const CAT_CALLOUTS = {
   geography: `
-      <a class="map-callout" href="../maps/china.html" aria-label="Open the Interactive Map of China">
+      <a class="map-callout admin-only" href="../maps/china.html" aria-label="Open the Interactive Map of China">
         <svg class="map-callout-icon" viewBox="0 0 100 90" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
           <rect width="100" height="90" fill="#dde8ef" rx="4"/>
           <path d="M24,11 L31,9 L40,7 L52,6 L63,5 L72,5 L81,7 L88,12 L92,18 L90,25 L85,30 L82,36 L82,44 L79,52 L74,58 L67,62 L60,65 L53,67 L46,67 L39,65 L33,62 L27,57 L22,51 L18,44 L16,37 L17,29 L19,22 Z" fill="#e8dcc8" stroke="#b8a888" stroke-width="1.5"/>
@@ -291,12 +291,12 @@ function renderExploreContent(entries) {
       ${familyClusters}
     </div>
 
-    <span class="section-anchor" id="maps"></span>
-    <div class="section-head">
+    <span class="section-anchor admin-only" id="maps"></span>
+    <div class="section-head admin-only">
       <span class="sh-cn">地图</span>
       <span class="sh-en">Interactive Maps</span>
     </div>
-    <a class="map-callout" href="../maps/china.html" aria-label="Open the Interactive Map of China">
+    <a class="map-callout admin-only" href="../maps/china.html" aria-label="Open the Interactive Map of China">
       <svg class="map-callout-icon" viewBox="0 0 100 90" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
         <rect width="100" height="90" fill="#dde8ef" rx="4"/>
         <path d="M24,11 L31,9 L40,7 L52,6 L63,5 L72,5 L81,7 L88,12 L92,18 L90,25 L85,30 L82,36 L82,44 L79,52 L74,58 L67,62 L60,65 L53,67 L46,67 L39,65 L33,62 L27,57 L22,51 L18,44 L16,37 L17,29 L19,22 Z" fill="#e8dcc8" stroke="#b8a888" stroke-width="1.5"/>
