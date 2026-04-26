@@ -61,9 +61,10 @@
             "to":   { "type": "integer", "minimum": 1, "maximum": 9 }
           },
           "additionalProperties": false
-        }
+        },
+        { "type": "null" }
       ],
-      "description": "HSK level (integer) or range (object with from/to)"
+      "description": "HSK level (integer), range (object with from/to), or null for characters outside the HSK corpus"
     },
     "radical": {
       "type": "string",

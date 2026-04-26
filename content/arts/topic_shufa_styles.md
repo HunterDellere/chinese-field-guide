@@ -1,0 +1,251 @@
+---
+type: 'topic'
+category: 'arts'
+status: 'complete'
+content_review: 'pending'
+title: '书法风格 · The Five Scripts of Chinese Calligraphy'
+desc: "Five script styles chart two thousand years of Chinese writing — from the solemn bronze inscriptions of the Zhou to the explosive cursive of the Tang masters."
+metaDesc: "The five scripts of Chinese calligraphy: seal script, clerical, standard, running, and cursive. Each style, its historical origins, aesthetic ideal, and key masters."
+pageTitle: '书法风格 shūfǎ fēnggé'
+pinyin: 'shūfǎ fēnggé'
+tags:
+  - 'calligraphy'
+  - 'arts'
+  - 'writing'
+  - 'classical'
+  - 'history'
+  - 'aesthetics'
+  - 'culture'
+updated: '2026-04-26'
+---
+
+<!DOCTYPE html>
+<!-- {"type":"topic","category":"arts","status":"complete","title":"书法风格 · The Five Scripts of Chinese Calligraphy"} -->
+<html lang="zh-Hans">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>书法风格 · Chinese Calligraphy Scripts — Jiǎoluò Shūwū · 角落書屋</title>
+<meta name="description" content="The five scripts of Chinese calligraphy: seal script, clerical, standard, running, and cursive. Each style, its historical origins, aesthetic ideal, and key masters.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>字</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Noto+Serif+SC:wght@400;600;700&family=LXGW+WenKai+TC&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../../style.css">
+</head>
+<body>
+<nav class="topnav">
+  <a href="../../index.html" class="topnav-brand" aria-label="Jiǎoluò Shūwū — home"><span class="topnav-brand-cn">書屋</span><span class="topnav-brand-sep"> · </span><span class="topnav-brand-en">Shūwū</span></a>
+  <a href="../../index.html" class="topnav-back">← All Entries</a>
+</nav>
+<button class="toc-toggle">目录 Contents ▾</button>
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+    <span class="toc-topic">书法风格</span>
+    <span class="toc-topic-en">The Five Scripts</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#five-scripts">
+        <span class="toc-cn">五体</span> The Five Scripts
+        <span class="toc-sub">wǔtǐ · an overview</span>
+      </a></li>
+      <li><a href="#seal">
+        <span class="toc-cn">篆书</span> Seal Script
+        <span class="toc-sub">zhuànshū · Zhou to Qin</span>
+      </a></li>
+      <li><a href="#clerical">
+        <span class="toc-cn">隶书</span> Clerical Script
+        <span class="toc-sub">lìshū · Han dynasty</span>
+      </a></li>
+      <li><a href="#standard">
+        <span class="toc-cn">楷书</span> Standard Script
+        <span class="toc-sub">kǎishū · the Tang masters</span>
+      </a></li>
+      <li><a href="#running">
+        <span class="toc-cn">行书</span> Running Script
+        <span class="toc-sub">xíngshū · Wang Xizhi</span>
+      </a></li>
+      <li><a href="#cursive">
+        <span class="toc-cn">草书</span> Cursive Script
+        <span class="toc-sub">cǎoshū · wild cursive</span>
+      </a></li>
+      <li><a href="#aesthetic">
+        <span class="toc-cn">美学</span> Calligraphic Virtues
+        <span class="toc-sub">měixué · 力气韵意</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">Arts · 艺术 yìshù</span>
+      <h1 class="topic-hero-title">书法风格</h1>
+      <span class="topic-hero-title-py">shūfǎ fēnggé</span>
+      <p class="topic-hero-desc">Five script styles chart two thousand years of Chinese writing — from the solemn bronze inscriptions of the Zhou to the explosive cursive of the Tang masters. The choice of script is itself an expressive act.</p>
+    </header>
+
+    <span class="section-anchor" id="five-scripts"></span>
+    <div class="section-head">
+      <h2>五体 — the five scripts</h2>
+    </div>
+    <div class="scholar" data-glyph="书">
+      <div class="scholar-label">书体 shūtǐ · script styles</div>
+      <p>Chinese calligraphy recognizes five canonical script styles, called 书体 (shūtǐ) or 字体 (zìtǐ). They are not merely historical curiosities — all five are actively practiced today, and a serious calligrapher is expected to have at minimum a working knowledge of all of them. The five are: 篆书 (zhuànshū, seal script), 隶书 (lìshū, clerical script), 楷书 (kǎishū, standard/regular script), 行书 (xíngshū, running script), and 草书 (cǎoshū, cursive script).</p>
+      <p>These styles emerged in roughly that historical order, from the Zhou dynasty through the Tang, but the relationship between them is not strictly one of replacement. Later scripts simplified and accelerated writing; earlier scripts retained prestige for ceremonial, artistic, and philosophical reasons. A birthday greeting brushed in 篆书 carries completely different weight than the same characters in 行书 — the archaic script signals deliberateness, gravity, connection to deep time. Choosing a script is choosing a register.</p>
+    </div>
+
+    <div class="cards">
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">篆书</span>
+          <span class="card-py">zhuànshū</span>
+          <span class="tag-n">Seal Script</span>
+        </div>
+        <p>Western Zhou to Qin dynasty. Rounded, uniform strokes; highly symmetrical. Pictographic origins clearest here. Still used for seals and artistic carving.</p>
+      </div>
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">隶书</span>
+          <span class="card-py">lìshū</span>
+          <span class="tag-n">Clerical Script</span>
+        </div>
+        <p>Qin through Han dynasty. Angular, with the signature silkworm-head swallow-tail horizontal stroke. The great democratizing script — faster, more legible.</p>
+      </div>
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">楷书</span>
+          <span class="card-py">kǎishū</span>
+          <span class="tag-n">Standard Script</span>
+        </div>
+        <p>Wei-Jin to Tang dynasty. Each stroke distinct and complete. The foundation script most calligraphers learn first. Perfected by the four great Tang masters.</p>
+      </div>
+      <div class="card c-sienna">
+        <div class="card-head">
+          <span class="card-cn">行书</span>
+          <span class="card-py">xíngshū</span>
+          <span class="tag-n">Running Script</span>
+        </div>
+        <p>Wei-Jin, supreme in the Eastern Jin. Strokes slightly connected, some simplified. The dominant script of informal correspondence throughout Chinese history.</p>
+      </div>
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">草书</span>
+          <span class="card-py">cǎoshū</span>
+          <span class="tag-n">Cursive Script</span>
+        </div>
+        <p>Han through Tang. Strokes heavily abbreviated and linked, often across characters. Wild cursive (狂草) is the most expressive — and least legible — of all five.</p>
+      </div>
+    </div>
+
+    <span class="section-anchor" id="seal"></span>
+    <div class="section-head">
+      <h2>篆书 — Seal Script</h2>
+    </div>
+    <div class="scholar" data-glyph="篆">
+      <div class="scholar-label">大篆 / 小篆 · Western Zhou to Qin unification, 221 BCE</div>
+      <p>Seal script is the oldest of the five styles in continuous calligraphic practice. It divides into two periods: 大篆 (dàzhuàn, Greater Seal), which encompasses the bronze inscriptions and oracle bone script of the Shang and Western Zhou, and 小篆 (xiǎozhuàn, Lesser Seal), the unified form standardized by the Qin dynasty when the First Emperor reorganized the writing system across the newly conquered territories around 221 BCE.</p>
+      <p>The minister 李斯 (Lǐ Sī), the man most responsible for implementing the Qin legal and administrative apparatus, is credited with systematizing 小篆. What the Qin understood — and what every subsequent Chinese government has understood — is that a common script is a form of political coherence. The writing system creates the empire as much as the armies do. 小篆 was the written instrument of that unification.</p>
+      <p>The strokes of 篆书 are uniform in width throughout their length: no tapering, no flicking, no variation in pressure. The brush moves at a consistent speed and lifts cleanly. Characters are highly symmetrical, fitting within a notional square. And in 篆书 more than in any later script, the pictographic origins of characters are visible. The character for mountain (山) still looks like three peaks. The character for sun (日) still looks like a disk. A scholar reading 篆书 is reading at the edge of the pictorial and the phonetic — at the moment when Chinese writing was still partly transparent to the things it named.</p>
+      <p>For these reasons 篆书 carries an aesthetic of archaic solemnity. It appears on stone stele inscriptions at imperial tombs, on the cartouches of official seals (印章 yìnzhāng), on the carved name seals that artists stamp on their paintings and calligraphy, and in the decorative script of temple plaques. The Qing dynasty saw a major revival of 篆书 scholarship, led by the master 邓石如 (Dèng Shírú, 1743–1805), who brought a new personal expressiveness to the traditionally rigid form — varying spacing and rhythm in ways that classical 小篆 had suppressed.</p>
+    </div>
+
+    <span class="section-anchor" id="clerical"></span>
+    <div class="section-head">
+      <h2>隶书 — Clerical Script</h2>
+    </div>
+    <div class="scholar" data-glyph="隶">
+      <div class="scholar-label">秦汉 · Qin through Han dynasty, 3rd century BCE to 3rd century CE</div>
+      <p>By the late Qin, scribes and clerks working under enormous administrative pressure had begun simplifying 篆书 strokes for speed. What emerged gradually through the early Han was a new script adapted to the realities of government documentation: 隶书 (lìshū), clerical or official script. The name likely refers to the 隶 — the lower officials and copyists who used it most.</p>
+      <p>The transformation from 篆书 to 隶书 is among the most significant in the history of Chinese writing. Curved, rounded strokes become angular. Uniform-width lines develop variation — thickening and thinning as the brush moves. And 隶书 introduces the signature gesture that makes it immediately recognizable across two thousand years of calligraphy: the 蚕头燕尾 (cántóu yànwěi, silkworm head, swallow tail). The long horizontal stroke begins with a rounded, slightly heavy head, travels across with varying pressure, and ends in a pronounced flick upward to the right — a lifted, spreading flourish. Once seen, it cannot be unseen.</p>
+      <p>Han dynasty stele inscriptions in 隶书 are among the most studied monuments in the entire calligraphic tradition. The 曹全碑 (Cáo Quán Bēi, 185 CE) is prized for its fluidity and elegance — characters that feel almost relaxed, with long graceful horizontals. The 张迁碑 (Zhāng Qiān Bēi, 186 CE) is its counterpart in directness and structural weight, characters squarish and assertive, with a roughness that later calligraphers found deeply appealing. The two steles define opposite ends of what 隶书 can do: the refined and the vigorous.</p>
+      <p>Later calligraphers returned to Han 隶书 steles the way painters return to old masters — to understand a quality of dignified stability and contained energy that later scripts traded away for speed.</p>
+    </div>
+
+    <span class="section-anchor" id="standard"></span>
+    <div class="section-head">
+      <h2>楷书 — Standard Script</h2>
+    </div>
+    <div class="scholar" data-glyph="楷">
+      <div class="scholar-label">魏晋唐 · Wei-Jin through Tang dynasty, 3rd–8th century CE</div>
+      <p>楷书 (kǎishū) is the standard script — the one printed in textbooks, displayed on street signs, and taught to every schoolchild. It developed from 隶书 during the Wei-Jin period (3rd–4th century CE) and reached full maturity in the Tang. The word 楷 itself means model or exemplar. This is the script that serves as the structural foundation for everything else.</p>
+      <p>In 楷书, every stroke is distinct. The brush completes each stroke before beginning the next; the lifting and placing of the brush is explicit and intentional. The eight basic strokes of 永字八法 (yǒng zì bā fǎ, the eight methods of the character 永) are the classic formulation: the character 永 (yǒng, eternal) contains all eight fundamental stroke types, and learning to write it correctly has been the starting point for calligraphic instruction since at least the Tang dynasty.</p>
+      <p>The Tang dynasty produced the four masters who define the aesthetic range of 楷书. 欧阳询 (Ōuyáng Xún, 557–641) is known for structural precision: his characters are architectural, each stroke placed with deliberate attention to the load-bearing logic of the form, often with a slight backward lean that gives the whole composition a sense of contained tension. 颜真卿 (Yán Zhēnqīng, 709–785) represents the opposite pole — his 楷书 is expansive and powerful, strokes broad and open, the characters exuding a confidence shaped in part by Buddhist gravitas and a life of political upheaval. His 多宝塔碑 (Duōbǎo Tǎ Bēi) and 祭侄文稿 (Jì Zhí Wén Gǎo) stand among the great works of the tradition. 柳公权 (Liǔ Gōngquán, 778–865) brought 楷书 to an upright precision between Ouyang and Yan — spare, structured, without ornament. The pre-Tang master 褚遂良 (Chǔ Suìliáng, 596–658) is prized for a quality none of the others quite achieve: a sense of floating lightness, strokes that seem to rest on the page without pressing into it.</p>
+      <p>Most calligraphers begin their study with 楷书. The logic is that standard script teaches the fundamental vocabulary of strokes and their structural relationships within a character. Only after internalizing that vocabulary can a calligrapher begin to abbreviate and connect strokes in 行书 without losing coherence. Cursive written by someone who never mastered standard script tends to be legible only to themselves.</p>
+    </div>
+
+    <span class="section-anchor" id="running"></span>
+    <div class="section-head">
+      <h2>行书 — Running Script</h2>
+    </div>
+    <div class="scholar" data-glyph="行">
+      <div class="scholar-label">东晋 · Eastern Jin dynasty, 317–420 CE</div>
+      <p>行书 (xíngshū, running script) is exactly what the name suggests: calligraphy in motion. Where 楷书 places each stroke deliberately and lifts the brush between them, 行书 allows strokes to flow into one another, leaving subtle ink connections visible between elements. Some strokes are simplified; some are omitted. The brush does not always leave the page between characters. The result is a script that retains the structural intelligibility of standard script while moving at the pace of thought.</p>
+      <p>行书 became the dominant script for private correspondence, literary drafts, colophons on paintings, and inscriptions through nearly all of Chinese history — not because it was considered the highest aesthetic form, but because it was the most natural for educated people to write and read. When a scholar wrote a letter or a poem in a moment of genuine feeling, it came out in 行书.</p>
+      <p>The supreme master of 行书 — indeed, the figure most often called 书圣 (shūshèng, Sage of Calligraphy) — is 王羲之 (Wáng Xīzhī, 303–361 CE). His defining work is the 兰亭序 (Lántíng Xù, Preface to the Orchid Pavilion), written in 353 CE at a gathering of poets and scholars in Shaoxing. The calligraphy was produced in a moment of relaxed creativity — wine had been consumed, the occasion was festive, and Wang Xizhi was working in a state he could never reproduce. He reportedly attempted to write it again sober and found every version inferior. The original was, by legend, entombed with Tang Emperor Taizong, who collected it obsessively. What survives are Tang-era rubbings and copies, of which the Feng Chengsu copy held in Beijing is considered the finest.</p>
+      <p>What the 兰亭序 represents is the quality calligraphers call 自然 (zìrán, naturalness) at its highest pitch: writing produced without self-consciousness, in which the brushwork expresses the mind of the writer so completely that craft disappears. Wang Xizhi wrote the character 之 (zhī) twenty-one times in the text, and each instance is different from the last. That variation is not inconsistency; it is responsiveness to the flow of the composition moment to moment. His son 王献之 (Wáng Xiànzhī) extended this approach further toward cursive, and together the two Wang established the lineage that all subsequent 行书 either follows or consciously departs from.</p>
+    </div>
+
+    <span class="section-anchor" id="cursive"></span>
+    <div class="section-head">
+      <h2>草书 — Cursive Script</h2>
+    </div>
+    <div class="scholar" data-glyph="草">
+      <div class="scholar-label">汉唐 · Han through Tang dynasty</div>
+      <p>草书 (cǎoshū, cursive script) is the most abbreviated and the most expressive of the five styles. Strokes are condensed to the minimum necessary to convey the character's identity; multiple strokes merge into single gestures; some characters link to the next in one continuous flow of ink. In its wildest form, some characters no longer resemble their standard-script equivalents at all — they have become abstract calligraphic signs whose meaning is accessible only to someone who has already memorized them.</p>
+      <p>草书 divides into two major types. 章草 (zhāngcǎo, chapter cursive) is the earlier form, developed during the Han dynasty from 隶书. It retains some of the clerical script's characteristic stroke endings — the silkworm-head swallow-tail flick sometimes still appears — and characters remain relatively independent of one another. The later 今草 (jīncǎo, modern cursive), which developed through the Wei-Jin period, abandons those clerical traces entirely. And beyond 今草 lies the Tang invention: 狂草 (kuángcǎo, wild cursive), in which a single brushstroke might pass through several characters without stopping, and the overall composition resembles something between text and abstract painting.</p>
+      <p>The two great masters of wild cursive are both Tang dynasty figures. 张旭 (Zhāng Xù, fl. early 8th century) earned the nickname 草圣 (cǎo shèng, Sage of Cursive). Historical accounts record that he composed his best work after drinking, working in a state of ecstatic concentration. He is said to have dipped his hair in ink and used it as a brush. Whether literal or legendary, the story captures something true about the aesthetic: 狂草 aspires to a release from deliberation, to writing that emerges from the body rather than the calculating mind. 怀素 (Huáisù, 737–799), a Buddhist monk from Hunan, is the other peak. His 自叙帖 (Zìxù Tiě, Autobiographical Essay) is one of the summits of the entire calligraphic tradition — columns of characters that accelerate and compress, some barely recognizable, the whole composition surging with forward momentum.</p>
+      <p>The boundary question that 草书 poses has never been conclusively answered: at what point does calligraphy become abstract painting? The wild cursive masters would likely say the question misses the point. The mark of the brush always carries meaning — in the sense of the characters it traces, in the quality of the brushwork, in the breath and force of the person who made it. That the reader cannot decode the individual characters does not make the meaning inaccessible; it relocates meaning from the lexical to the kinetic.</p>
+    </div>
+
+    <span class="section-anchor" id="aesthetic"></span>
+    <div class="section-head">
+      <h2>美学 — the calligraphic virtues</h2>
+    </div>
+    <div class="scholar" data-glyph="意">
+      <div class="scholar-label">力 · 气 · 韵 · 意</div>
+      <p>Calligraphic criticism across dynasties returned repeatedly to four concepts as the evaluative vocabulary for brushwork. They are not independent criteria so much as different angles on a single quality — what Chinese critics meant when they said a work was alive.</p>
+      <p>力 (lì, force or power) refers to the felt pressure of the brush into the paper, the sense that the stroke has substance behind it. A stroke with 力 feels grounded; a stroke without it feels decorative. This is partly physical — the brush must engage the paper with intentional pressure — and partly conceptual: the calligrapher must put something into the stroke. Critics spoke of 骨力 (gǔlì, bone-force): the structural strength visible in how a stroke holds its shape.</p>
+      <p>气 (qì, breath or energy) is the continuous animating flow through a work. 气 exists between strokes as much as within them — in the interval between lifting the brush and setting it down again, in the progression from character to character down a column, in the overall rhythm of a composition. A work with strong 气 feels sustained, unbroken, even where the brush leaves the page. This is why 草书, where strokes connect visibly, makes 气 legible in a way that 楷书 can only imply.</p>
+      <p>韵 (yùn, resonance) is the quality that remains after the eye has moved on. A character with 韵 continues to vibrate in the imagination; it has harmonic richness beyond its literal form. This is the most ineffable of the four. Critics who called a work 有韵味 (yǒu yùnwèi, with resonance and flavor) were pointing to something they could not fully specify — a quality of lingering presence. 韵 was considered the highest mark of achievement in both calligraphy and poetry.</p>
+      <p>意 (yì, intention or mind) is the calligrapher visible in the work. 意 is the reason no two masters produce the same brushwork even when copying the same model. 王羲之 said his 兰亭序 could not be reproduced because the state of mind that produced it was unrepeatable. That unrepeatable quality — the specific quality of a person's consciousness imprinted in ink — is what 意 names. The later literati tradition made this the supreme criterion: a work that reveals the writer's inner world is worth more than a technically perfect imitation.</p>
+      <p>Each of the five scripts expresses these virtues differently. 篆书 holds its 力 internal and still, compressed within uniform strokes. 隶书 releases 力 outward in the swallow-tail flick. 楷书 makes 意 legible in the deliberateness of each individual stroke decision. 行书 makes 气 continuous and natural. And wild 草书 — at its best — fuses all four into a single unbroken act.</p>
+    </div>
+
+    <div class="adj-wrap">
+      <span class="adj" data-relation="collocation"><span class="a-cn">书法</span><span class="a-py">shūfǎ</span><span class="a-en">calligraphy</span></span>
+      <span class="adj" data-relation="derived"><span class="a-cn">篆书</span><span class="a-py">zhuànshū</span><span class="a-en">seal script</span></span>
+      <span class="adj" data-relation="derived"><span class="a-cn">隶书</span><span class="a-py">lìshū</span><span class="a-en">clerical script</span></span>
+      <span class="adj" data-relation="derived"><span class="a-cn">楷书</span><span class="a-py">kǎishū</span><span class="a-en">standard script</span></span>
+      <span class="adj" data-relation="derived"><span class="a-cn">行书</span><span class="a-py">xíngshū</span><span class="a-en">running script</span></span>
+      <span class="adj" data-relation="derived"><span class="a-cn">草书</span><span class="a-py">cǎoshū</span><span class="a-en">cursive script</span></span>
+      <span class="adj" data-relation="collocation"><span class="a-cn">王羲之</span><span class="a-py">Wáng Xīzhī</span><span class="a-en">Wang Xizhi — Sage of Calligraphy</span></span>
+      <span class="adj" data-relation="collocation"><span class="a-cn">兰亭序</span><span class="a-py">Lántíng Xù</span><span class="a-en">Preface to the Orchid Pavilion</span></span>
+      <span class="adj" data-relation="collocation"><span class="a-cn">颜真卿</span><span class="a-py">Yán Zhēnqīng</span><span class="a-en">Yan Zhenqing — Tang 楷书 master</span></span>
+      <span class="adj" data-relation="collocation"><span class="a-cn">张旭</span><span class="a-py">Zhāng Xù</span><span class="a-en">Zhang Xu — Sage of Cursive</span></span>
+      <span class="adj" data-relation="collocation"><span class="a-cn">怀素</span><span class="a-py">Huáisù</span><span class="a-en">Huaisu — wild cursive monk</span></span>
+      <span class="adj" data-relation="derived"><span class="a-cn">印章</span><span class="a-py">yìnzhāng</span><span class="a-en">name seal; personal stamp</span></span>
+      <span class="adj" data-relation="derived"><span class="a-cn">笔法</span><span class="a-py">bǐfǎ</span><span class="a-en">brush method; stroke technique</span></span>
+      <span class="adj" data-relation="derived"><span class="a-cn">笔墨</span><span class="a-py">bǐmò</span><span class="a-en">brush and ink; brushwork quality</span></span>
+      <span class="adj" data-relation="derived" data-distinct="墨 is ink as a material and as a concept; 笔 is the brush — together 笔墨 names the brushwork itself as an aesthetic object"><span class="a-cn">墨</span><span class="a-py">mò</span><span class="a-en">ink</span></span>
+      <span class="adj" data-relation="derived"><span class="a-cn">文</span><span class="a-py">wén</span><span class="a-en">writing; civilization; culture</span></span>
+      <span class="adj" data-relation="derived"><span class="a-cn">书</span><span class="a-py">shū</span><span class="a-en">to write; book; calligraphy</span></span>
+      <span class="adj" data-relation="derived"><span class="a-cn">气韵</span><span class="a-py">qìyùn</span><span class="a-en">spirit resonance — the animating force of brushwork</span></span>
+      <span class="adj" data-relation="derived"><span class="a-cn">骨力</span><span class="a-py">gǔlì</span><span class="a-en">bone-force; structural strength in a stroke</span></span>
+    </div>
+
+    <footer class="page-footer">
+      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>书法风格 shūfǎ fēnggé</span> · topic_shufa_styles.html</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>
+<script src="../../scripts/toc-scroll.js"></script>
+</body>
+</html>

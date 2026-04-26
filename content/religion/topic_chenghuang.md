@@ -1,0 +1,338 @@
+---
+type: 'topic'
+category: 'religion'
+status: 'complete'
+content_review: 'pending'
+title: '城隍 · The City God'
+desc: "Every Chinese city had a City God who served as its divine magistrate, managing the dead and the living with the same bureaucratic precision as any imperial official."
+metaDesc: "城隍 chénghuáng: the City God of Chinese folk religion. A divine magistrate who governs the city in the underworld mirror of imperial bureaucracy, adjudicating the dead and protecting the living."
+pageTitle: '城隍 chénghuáng'
+pinyin: 'chénghuáng'
+tags:
+  - 'folk-religion'
+  - 'religion'
+  - 'gods'
+  - 'culture'
+  - 'history'
+  - 'ritual'
+  - 'ancestors'
+updated: '2026-04-26'
+---
+
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+
+    <span class="toc-topic">城隍</span>
+    <span class="toc-topic-en">The City God</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#etymology">
+        <span class="toc-cn">名称来源</span> The Name
+        <span class="toc-sub">wall and moat</span>
+      </a></li>
+      <li><a href="#bureaucracy">
+        <span class="toc-cn">神明官制</span> Divine Bureaucracy
+        <span class="toc-sub">mirror of empire</span>
+      </a></li>
+      <li><a href="#historical">
+        <span class="toc-cn">历史人物封神</span> Officials Deified
+        <span class="toc-sub">magistrates who became gods</span>
+      </a></li>
+      <li><a href="#temple">
+        <span class="toc-cn">城隍庙</span> The Temple Complex
+        <span class="toc-sub">chénghúangmiào</span>
+      </a></li>
+      <li><a href="#ritual">
+        <span class="toc-cn">年度报告</span> Ritual Calendar
+        <span class="toc-sub">New Year reporting</span>
+      </a></li>
+      <li><a href="#today">
+        <span class="toc-cn">当代城隍</span> City Gods Today
+        <span class="toc-sub">Taiwan and beyond</span>
+      </a></li>
+      <li><a href="#vocab">
+        <span class="toc-cn">核心词汇</span> Key Vocabulary
+        <span class="toc-sub">héxīn cíhuì</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- HERO -->
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">Folk Religion · 民间信仰 mínjiān xìnyǎng</span>
+      <h1 class="topic-hero-title">城隍</h1>
+      <span class="topic-hero-title-py">chénghuáng</span>
+      <p class="topic-hero-desc">The divine magistrate of each Chinese city: a bureaucrat of the supernatural who kept records on the living, adjudicated the dead, and reported upward to the Jade Emperor with the same diligence expected of any imperial official managing a prefecture.</p>
+    </header>
+
+    <!-- ── ETYMOLOGY ── -->
+    <span class="section-anchor" id="etymology"></span>
+    <div class="section-head">
+      <span class="sh-cn">名称来源</span>
+      <span class="sh-py">míngchēng láiyuán</span>
+      <span class="sh-en">The Name — Wall and Moat</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="隍">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · From Boundary Spirit to City Governor</div>
+      <p>The name contains a precise description of the classical Chinese city's physical form. <strong>城 chéng</strong> is the city wall: rammed earth or brick, the defining line between the organized settlement and the world outside. <strong>隍 huáng</strong> is the moat: the dry or water-filled ditch that ran along the wall's outer face, the last line of defensive separation. Together, 城隍 named the walls-and-moat as a physical pair, and the spirit associated with them was originally a boundary deity, a protector of the defined perimeter.</p>
+      <p>Textual references to 城隍 as a protective spirit appear in Chinese sources at least as early as the <strong>Northern Qi dynasty</strong> (550–577 CE), where court rituals included offerings to the walls-and-moat deity. By the <strong>Tang dynasty</strong> (618–907 CE), the role had transformed substantially. The City God was no longer simply a spirit of the physical boundary; he had become the governing authority of the entire city's supernatural jurisdiction. He held a specific territory, administered it in the name of higher divine powers, and bore responsibility for everything within his walls.</p>
+      <p>The logic of this expansion mirrors the role of the city wall itself in imperial China. The wall did not merely defend; it demarcated a zone of governance, taxation, registered population, and moral accountability. The City God governed exactly what the wall enclosed. His jurisdiction was geometrically congruent with the magistrate's administrative territory, and as we will see, that parallel was not incidental.</p>
+    </div>
+
+    <!-- ── DIVINE BUREAUCRACY ── -->
+    <span class="section-anchor" id="bureaucracy"></span>
+    <div class="section-head">
+      <span class="sh-cn">神明官制</span>
+      <span class="sh-py">shénmíng guānzhì</span>
+      <span class="sh-en">The Divine Bureaucracy — A Mirror of Empire</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="城">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · The Celestial Administrative Structure</div>
+      <p>Chinese folk religion, as it matured through the Tang, Song, and into the Ming and Qing dynasties, organized the supernatural world as a precise administrative hierarchy. The logic was not metaphorical. People understood heaven to function as a government, with ranks, offices, annual audits, promotions, demotions, and paperwork. At the summit sat the <strong>玉皇大帝 Yùhuáng Dàdì</strong> (Jade Emperor), the celestial Son of Heaven, holding court in a heavenly palace staffed by divine officials responsible for rain, thunder, the sea, the kitchen, and every locality on earth.</p>
+      <p>The City God occupied a defined position in this hierarchy. He was subordinate to regional earth deities and ultimately to the Jade Emperor's court, but superior to neighborhood-level spirits. The most immediate of his subordinates was the <strong>土地公 Tǔdìgōng</strong>, the local earth god, who governed individual villages and neighborhoods the way a village headman reports to a county magistrate. The City God reported upward to the underworld administration of <strong>阎王 Yánwáng</strong>, King Yama, the judge of the dead, and through Yama's courts to the Jade Emperor's celestial bureaucracy.</p>
+      <p>The City God's specific duties ran in two directions simultaneously. Toward the living: he recorded the moral conduct of every resident in his jurisdiction, protected the city from supernatural threats, and could be petitioned through the temple when human courts failed or when matters lay beyond human jurisdiction. Toward the dead: every soul that died within his city came first to his court for an initial moral review before being forwarded to Yama's ten underworld tribunals for fuller judgment. The City God was the intake clerk of death, the first official the deceased would encounter.</p>
+      <p>Imperial China formalized this structure in striking ways. The Ming dynasty court designated City Gods for every prefecture, subprefecture, and county, assigning each a divine rank corresponding to the city's administrative grade. A provincial capital's City God held a higher divine rank than a county seat's City God, precisely as a governor outranked a county magistrate. The imperial court could formally promote or demote a City God by edict, issuing documents that were ceremonially burned so they would reach the supernatural recipient. When a city was reorganized administratively, its City God's divine rank changed accordingly.</p>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">玉皇大帝</span>
+          <span class="card-py">Yùhuáng Dàdì</span>
+          <span class="card-en">Jade Emperor — supreme sovereign of heaven and earth</span>
+        </div>
+        <div class="card-def">
+          The celestial equivalent of the Son of Heaven. Governs all divine officials, natural phenomena, and human affairs from his heavenly palace. The City God reported to his administration annually and received his official mandate from this authority. Imperial edicts promoting or demoting City Gods were addressed to the Jade Emperor's court as well as to the deity directly.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">玉皇大帝是天庭的最高主宰，城隍爷奉其命令管理一方城池。</div>
+            <div class="ex-py">Yùhuáng Dàdì shì tiāntíng de zuìgāo zhǔzǎi, Chénghuángyé fèng qí mìnglìng guǎnlǐ yīfāng chéngchí.</div>
+            <div class="ex-en">The Jade Emperor is the supreme ruler of the celestial court; the City God carries out his orders to administer the city.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">阎王</span>
+          <span class="card-py">Yánwáng</span>
+          <span class="card-en">King Yama — judge of the underworld</span>
+        </div>
+        <div class="card-def">
+          The ruler of the underworld and its ten courts of judgment, borrowed from Buddhist cosmology and fully integrated into Chinese folk religion by the Tang dynasty. Every soul that died passed through Yama's courts for a comprehensive moral accounting. The City God acted as a feeder to this system: he conducted the initial intake of souls from his jurisdiction before forwarding them to Yama's fuller tribunal. The relationship was vertical and bureaucratic, not theological.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">人死之后，魂魄先到城隍府，再由城隍移交阎王府审判。</div>
+            <div class="ex-py">Rén sǐ zhīhòu, húnpò xiān dào Chénghuáng Fǔ, zài yóu Chénghuáng yíjiāo Yánwáng Fǔ shěnpàn.</div>
+            <div class="ex-en">After death, the soul first arrives at the City God's office, then the City God transfers it to King Yama's court for judgment.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-sienna">
+        <div class="card-head">
+          <span class="card-cn">土地公</span>
+          <span class="card-py">Tǔdìgōng</span>
+          <span class="card-en">Earth God — the neighborhood-level official</span>
+        </div>
+        <div class="card-def">
+          The local earth god governs a single village, neighborhood block, or even a specific building. He is the lowest-ranking official in the divine hierarchy, corresponding to a village headman or neighborhood captain. His small red shrines appear at nearly every intersection and doorstep in Taiwan and traditional Chinese communities. He reports upward to the City God, who in turn reports to higher divine authorities. In older times, his annual journey to report to the City God was marked by community ritual.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">土地公负责管理最基层的地方，是城隍爷辖区内的基层官员。</div>
+            <div class="ex-py">Tǔdìgōng fùzé guǎnlǐ zuì jīcéng de dìfāng, shì Chénghuángyé xiáqū nèi de jīcéng guānyuán.</div>
+            <div class="ex-en">The Earth God administers at the most local level, serving as the grassroots official within the City God's jurisdiction.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards bureaucracy -->
+
+    <!-- ── HISTORICAL OFFICIALS DEIFIED ── -->
+    <span class="section-anchor" id="historical"></span>
+    <div class="section-head">
+      <span class="sh-cn">历史人物封神</span>
+      <span class="sh-py">lìshǐ rénwù fēng shén</span>
+      <span class="sh-en">Officials Deified — From Magistrate to God</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="官">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · The Logic of Administrative Deification</div>
+      <p>Many of the most deeply venerated City Gods were historical figures: actual officials, generals, or scholars who had served their communities with exceptional integrity and were elevated to divine office after death. The governing principle is direct: a good official who served his people well in life continues to serve them in death. The transition from mortal magistrate to City God is understood not as a break but as a continuation, an administrative promotion rather than an ending.</p>
+      <p>This pattern made the City God cult theologically coherent for a Confucian civilization. Deification of virtuous officials validated the entire civil service ideal. The best officials became gods; gods governed like the best officials. The celestial bureaucracy was not an alien structure imposed from outside but the perfected form of the human bureaucracy, staffed by its own best graduates. Worshipping the City God was also, in a sense, venerating the ideal of good governance.</p>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">秦裕伯</span>
+          <span class="card-py">Qín Yùbó</span>
+          <span class="card-en">City God of Shanghai — the official who refused a posting</span>
+        </div>
+        <div class="card-def">
+          <strong>秦裕伯 (1301–1373)</strong> was a Yuan-to-Ming transition official known for his integrity. When Zhu Yuanzhang, the founding Hongwu Emperor of the Ming dynasty, summoned him to court, Qin refused the appointment, pleading age and illness, and retired to Shanghai. After his death, the Hongwu Emperor appointed him by imperial decree as the City God of Shanghai, turning his refusal of a mortal posting into a divine appointment he could not decline. His image still presides in the 城隍庙 in Shanghai's old city district, one of the oldest continuously active temple complexes in eastern China.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">秦裕伯生前拒绝做官，死后却被朱元璋封为上海城隍，永守一方。</div>
+            <div class="ex-py">Qín Yùbó shēngqián jùjué zuòguān, sǐhòu què bèi Zhū Yuánzhāng fēng wéi Shànghǎi Chénghuáng, yǒng shǒu yīfāng.</div>
+            <div class="ex-en">Qin Yubo refused official service in life, but after death was appointed City God of Shanghai by Zhu Yuanzhang, to guard the city forever.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">岳飞</span>
+          <span class="card-py">Yuè Fēi</span>
+          <span class="card-en">City God of Hangzhou — the martyr general</span>
+        </div>
+        <div class="card-def">
+          <strong>岳飞 (1103–1142)</strong>, the Song dynasty general celebrated for his campaigns against the Jurchen Jin invaders, was executed on fabricated charges at the order of the chancellor Qin Hui. He became one of the most broadly venerated figures in Chinese folk religion, serving simultaneously as a war god (武神), a patron of martial arts, and the City God of Hangzhou, the Southern Song capital he fought to recover. The principle at work: justice denied in life becomes divine authority in death. Wrongful execution by corrupt officials created a powerful supernatural protector whose moral authority was unimpeachable precisely because it had been tested by injustice.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">岳飞忠义一生，死后被奉为杭州城隍，百姓以庙祭之，寄托对忠臣的崇敬。</div>
+            <div class="ex-py">Yuè Fēi zhōngyì yīshēng, sǐhòu bèi fèng wéi Hángzhōu Chénghuáng, bǎixìng yǐ miào jì zhī, jìtuō duì zhōngchén de chóngjìng.</div>
+            <div class="ex-en">Yue Fei lived a life of loyalty; after death he was honored as the City God of Hangzhou, worshipped by the people in temples as an expression of veneration for the loyal official.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards historical -->
+
+    <!-- ── TEMPLE COMPLEX ── -->
+    <span class="section-anchor" id="temple"></span>
+    <div class="section-head">
+      <span class="sh-cn">城隍庙建筑群</span>
+      <span class="sh-py">Chénghuángmiào jiànzhú qún</span>
+      <span class="sh-en">The Temple Complex — Official Seat and Market</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="庙">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · Architecture of Divine Administration</div>
+      <p>A 城隍庙 was not simply a place of worship. It was the official seat of a divine administrator, and its architecture reflected that function. The main hall (正殿 zhèngdiàn) was laid out as a formal reception hall: the City God enthroned at center, flanked by divine attendants, with side chapels for subordinate deities and dedicated spaces for the gods of the ten courts of the underworld. The visual and spatial grammar was identical to a yamen, the office of an imperial magistrate. Walking into a 城隍庙 in Ming or Qing China, you were entering an official audience chamber, not a sanctuary in the Western sense.</p>
+      <p>Petitioners could bring their cases here directly. If a grievance could not be resolved in the human courts, the aggrieved party might come to the City God's temple, burn a written petition, and present their case to the divine magistrate. The City God was expected to investigate, through dream, omen, or the mediation of spirit-possessed assistants, and to deliver judgment. This parallel jurisdiction ran alongside the formal court system throughout the imperial period.</p>
+      <p>Temple festivals, particularly on the City God's birthday, involved the divine magistrate being carried out of his hall in a sedan chair (神轿 shénjiào) to make a formal tour of the city. The procession was not ceremonial decoration but administrative function: the City God was physically reasserting his jurisdiction over every street in his territory, making his presence known to any spirits, demons, or wandering souls that might have accumulated since his last inspection. The city's population lined the streets to receive him, just as they would for an imperial inspection tour.</p>
+      <p>A distinctive feature of the most famous 城隍庙 complexes, including the one in Shanghai's old city, is the commercial district that grew up around them. Temples generate foot traffic, and foot traffic generates markets. The Shanghai 城隍庙 has been surrounded by bazaars and teahouses since the Ming dynasty. The surrounding 豫园商城 Yùyuán Shāngchéng (Yu Garden Bazaar) is the direct descendant of this temple-market ecology and remains one of the most visited sites in the city, its commercial vitality inseparable from the religious center at its core.</p>
+    </div>
+
+    <div class="pattern">
+      <span class="label">城隍庙标准空间布局 Standard Temple Layout</span>
+      <strong>山门</strong> shānmén — gateway, often with guardian generals (门神 ménshen) · <strong>前殿</strong> qiándiàn — front hall, with incense burners and fortune-telling alcoves · <strong>正殿</strong> zhèngdiàn — main hall: City God enthroned, flanked by attendants, facing south · <strong>十殿阎罗</strong> shí diàn Yánluó — side chapels for the ten courts of the underworld, with scenes of judgment · <strong>厢房</strong> xiāngfáng — side rooms for subordinate deities (土地公, 文昌帝君, etc.) · <strong>庙会场地</strong> — open space for festival gatherings and opera performances
+    </div>
+
+    <!-- ── RITUAL CALENDAR ── -->
+    <span class="section-anchor" id="ritual"></span>
+    <div class="section-head">
+      <span class="sh-cn">年度上报</span>
+      <span class="sh-py">niándù shàngbào</span>
+      <span class="sh-en">The Ritual Calendar — Annual Reporting to Heaven</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="报">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · The Cosmic Audit</div>
+      <p>The City God's most structurally significant annual moment came on the <strong>24th day of the 12th lunar month</strong>, when he was believed to ascend to the Jade Emperor's court in heaven to deliver his annual report on the city's moral condition. The report covered the accumulated merit and sin of all residents, the state of public order and social virtue, and any notable events requiring divine attention. Think of it as an annual performance review submitted to the celestial court above.</p>
+      <p>This date was coordinated with a parallel departure happening at exactly the same level down: on the same day, or sometimes the 23rd, the <strong>灶神 Zàoshén</strong> (Kitchen God) made his own annual journey from each household to the Jade Emperor, carrying a household-level report on the family's conduct over the year. The City God carried the city-level aggregate report; the Kitchen God carried household-level detail. Together, their simultaneous departures constituted a comprehensive moral census, from individual family to entire city, all submitted to heaven in a coordinated bureaucratic sweep.</p>
+      <p>Households marked the Kitchen God's departure with offerings of sweet foods to sweeten his report. Communities marked the City God's departure with ceremonies at the temple. Both gods returned on New Year's Day (or the day before), restored to their posts for another year of surveillance. The New Year was therefore not merely a secular calendar event but the beginning of a new administrative cycle in both the human and divine bureaucracies simultaneously.</p>
+      <p>Throughout the year, the City God also performed regular administrative duties tied to the lunar calendar. On the 1st and 15th of each lunar month, incense offerings at the temple marked the twice-monthly audience, the divine equivalent of a magistrate holding public court. The City God's birthday (which varies by city depending on the historical figure identified with the local deity) was celebrated with processions and opera performances that could last several days.</p>
+    </div>
+
+    <!-- ── TODAY ── -->
+    <span class="section-anchor" id="today"></span>
+    <div class="section-head">
+      <span class="sh-cn">当代城隍信仰</span>
+      <span class="sh-py">dāngdài chénghuáng xìnyǎng</span>
+      <span class="sh-en">City Gods Today — Taiwan, Mainland, and Online</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="神">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · A Living Cult in the Modern City</div>
+      <p>The City God cult survived the 20th century in sharply different ways across the Chinese world. On the mainland, temple networks were disrupted during the Cultural Revolution (1966–1976), with many 城隍庙 converted to other uses or demolished. Since the 1980s, restoration has proceeded steadily, and major complexes like the Shanghai 城隍庙 and Hangzhou 城隍庙 now function again as active religious sites as well as tourist landmarks. The dividing line between pilgrimage and tourism has never been sharp at these places, and it is not particularly sharp now.</p>
+      <p>In Taiwan, the City God cult never experienced the same rupture and remains vigorous. Dozens of active 城隍庙 operate across the island, organizing community festivals, providing fortune-telling and spirit-medium services, fielding volunteer parade teams for annual processions, and functioning as neighborhood institutions of the kind that anchor community identity. The 新竹城隍庙 Xīnzhú Chénghuángmiào (Hsinchu City God Temple), founded in 1748, is among the most active, with a reputation for particularly efficacious judgment on legal disputes and an annual festival that draws participants from across Taiwan.</p>
+      <p>The digital age has produced a genuinely new chapter. Several Taiwanese 城隍庙 now accept petitions online, allow worshippers to light virtual incense, and stream temple festivals live. The 新庄城隍庙 Xīnzhuāng Chénghuángmiào maintains an active social media presence with regular posts. None of this is seen as incongruous by the worshippers involved. The City God has always been an administrator adapting his tools to the needs of his jurisdiction. If the city has moved online, the divine magistrate's office follows.</p>
+      <p>The persistence of the City God cult points to what the cult actually provides. In a religious culture without a strong personal afterlife theology, the City God offers two things that remain in demand: accountability (your deeds are recorded by a local official you can physically visit and petition) and continuity (the deceased remain under the same administrative authority as the living, within the same city, subject to the same governance). The dead do not disappear to some other realm; they pass through a familiar official's hands before whatever comes next. For communities managing grief, this geographical and bureaucratic continuity is not nothing.</p>
+    </div>
+
+    <!-- ── KEY VOCABULARY ── -->
+    <span class="section-anchor" id="vocab"></span>
+    <div class="section-head">
+      <span class="sh-cn">核心词汇</span>
+      <span class="sh-py">héxīn cíhuì</span>
+      <span class="sh-en">Key Vocabulary</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="chengyu-grid">
+
+      <div class="cy">
+        <span class="cy-cn">城隍爷</span>
+        <span class="cy-py">Chénghuángyé</span>
+        <span class="cy-en">City God (respectful address)</span>
+        <span class="cy-note">The suffix 爷 yé is an honorific for senior male figures, divine and human: 土地爷, 老天爷. It conveys respectful familiarity rather than formal distance. Worshippers address the City God as 城隍爷 in prayer and casual speech; formal temple documents may use the full title with rank designation. Compare with the parallel 土地公 Tǔdìgōng for the lower-ranking earth god, where 公 carries similar honorific weight.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">香火</span>
+        <span class="cy-py">xiānghuo</span>
+        <span class="cy-en">incense smoke; the vitality of a temple's active veneration</span>
+        <span class="cy-note">Literally "incense fire" or "incense smoke," but 香火 carries meanings beyond the physical act of burning. A temple with 香火鼎盛 xiānghuo dǐngshèng (incense burning vigorously) is a temple with a healthy, active congregation, good reputation, and real spiritual efficacy. A neglected temple has 香火冷落 (cold incense). The term also describes the spiritual lineage linking a branch temple to its parent: Taiwan temples trace their 香火 to mainland ancestral temples, carrying actual ash from the source altar to consecrate the new one.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">神明</span>
+        <span class="cy-py">shénmíng</span>
+        <span class="cy-en">deities; divine beings (collective)</span>
+        <span class="cy-note">神 shén is divinity or spirit; 明 míng here carries the sense of "luminous, illustrious." Together 神明 is the standard collective term for the gods of the folk religion pantheon, used without the specific theological weight of Christian "God" or Buddhist "Buddha." You visit the 城隍庙 to consult the 神明; the temple's community is organized around 神明 veneration. The term encompasses City Gods, Earth Gods, Mazu, Guanyin when she appears in folk contexts, and hundreds of other figures.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">善恶有报</span>
+        <span class="cy-py">shàn è yǒu bào</span>
+        <span class="cy-en">good and evil are rewarded accordingly — karmic accounting</span>
+        <span class="cy-note">The foundational moral logic of the City God's record-keeping function. 善 shàn = virtue; 恶 è = evil; 有报 yǒu bào = has retribution/reward. The phrase asserts that no deed escapes accounting, even if human courts miss it, because the City God has the complete ledger. This connects Buddhist karma (业 yè) with the Confucian accountability structure of the divine bureaucracy: both systems converge on the same guarantee that moral consequences are real and final.</span>
+      </div>
+
+    </div>
+
+    <!-- ADJACENT VOCAB -->
+    <div class="adj-wrap">
+      <span class="adj" data-relation="subordinate"><span class="a-cn">土地公</span><span class="a-py">Tǔdìgōng</span><span class="a-en">local earth god</span></span>
+      <span class="adj" data-relation="superior"><span class="a-cn">玉皇大帝</span><span class="a-py">Yùhuáng Dàdì</span><span class="a-en">Jade Emperor</span></span>
+      <span class="adj" data-relation="related"><span class="a-cn">阎王</span><span class="a-py">Yánwáng</span><span class="a-en">King Yama</span></span>
+      <span class="adj" data-relation="related"><span class="a-cn">中元节</span><span class="a-py">Zhōngyuán Jié</span><span class="a-en">Ghost Festival</span></span>
+      <span class="adj" data-relation="related"><span class="a-cn">灶神</span><span class="a-py">Zàoshén</span><span class="a-en">Kitchen God</span></span>
+      <span class="adj" data-relation="category"><span class="a-cn">民间信仰</span><span class="a-py">mínjiān xìnyǎng</span><span class="a-en">folk religion</span></span>
+      <span class="adj" data-relation="related"><span class="a-cn">祖先</span><span class="a-py">zǔxiān</span><span class="a-en">ancestors</span></span>
+      <span class="adj" data-relation="place"><span class="a-cn">城隍庙</span><span class="a-py">Chénghuángmiào</span><span class="a-en">City God Temple</span></span>
+    </div>
+
+    <footer class="page-footer">
+      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>城隍 chénghuáng</span> · topic_chenghuang.html</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>
