@@ -42,6 +42,7 @@ const CHINA_NAME = 'China';
 // ── Load data ─────────────────────────────────────────────────────────────────
 const countriesPath = '/tmp/countries-50m.json';
 const provincesPath = '/tmp/ne_provinces.geojson';
+const riversPath    = '/tmp/ne_rivers.geojson';
 
 if (!existsSync(countriesPath)) {
   console.error('Missing /tmp/countries-50m.json — run the download step first.');
@@ -51,9 +52,14 @@ if (!existsSync(provincesPath)) {
   console.error('Missing /tmp/ne_provinces.geojson — run the download step first.');
   process.exit(1);
 }
+if (!existsSync(riversPath)) {
+  console.error('Missing /tmp/ne_rivers.geojson — run the download step first.');
+  process.exit(1);
+}
 
 const topo = JSON.parse(readFileSync(countriesPath, 'utf8'));
 const provincesGeo = JSON.parse(readFileSync(provincesPath, 'utf8'));
+const riversGeo    = JSON.parse(readFileSync(riversPath, 'utf8'));
 
 // ── Projection ────────────────────────────────────────────────────────────────
 const projection = geoMercator()
@@ -150,6 +156,100 @@ const provinceData = chinaProvinces.map(f => {
 // (we'll use them as separate paths for stroke-only rendering)
 const provincePaths = provinceData.map(p => p.d).join(' ');
 
+// ── Rivers ────────────────────────────────────────────────────────────────────
+// Natural Earth 10m rivers come as many disconnected segments; we group them
+// by `rivernum` (their FID for a continuous river system) so each major river
+// renders as one continuous styled path, plus we relabel only the principal
+// rivers in the Chinese cultural geography. Anything inside the China bbox
+// from a curated set of `rivernum` values gets included.
+//
+// Curated principal rivers, with display name, color tier, and label position
+// hint (lon/lat for label placement; resolved via `projection`).
+const RIVERS = [
+  // Tier 1 — name + label, prominent stroke
+  { ids: [1, 18],   nameCn: '长江', nameEn: 'Yangtze',         color: '#2a7090', width: 2.6, opacity: 0.92, tier: 1, labelLon: 110, labelLat: 30.4 },
+  { ids: [66, 95],  nameCn: '黄河', nameEn: 'Yellow River',    color: '#c8a830', width: 2.4, opacity: 0.95, tier: 1, labelLon: 109, labelLat: 38.4 },
+  { ids: [40, 46],  nameCn: '澜沧江', nameEn: 'Mekong',         color: '#3a8c70', width: 1.8, opacity: 0.85, tier: 1, labelLon: 99,  labelLat: 27 },
+  { ids: [42, 47, 51], nameCn: '雅鲁藏布江', nameEn: 'Yarlung Tsangpo', color: '#5a78a8', width: 1.8, opacity: 0.85, tier: 1, labelLon: 88, labelLat: 29.5 },
+  { ids: [134, 146, 153], nameCn: '怒江', nameEn: 'Salween',    color: '#3a8c70', width: 1.6, opacity: 0.80, tier: 1, labelLon: 98.5, labelLat: 30 },
+  { ids: [72, 84, 93], nameCn: '黑龙江', nameEn: 'Amur',        color: '#5a78a8', width: 2.0, opacity: 0.85, tier: 1, labelLon: 128, labelLat: 50 },
+  // Tier 2 — name + label, lighter stroke
+  { ids: [96],      nameCn: '西江',   nameEn: 'Pearl River',    color: '#4a8050', width: 1.8, opacity: 0.80, tier: 2, labelLon: 112, labelLat: 23.3 },
+  { ids: [349],     nameCn: '塔里木河', nameEn: 'Tarim',         color: '#a08858', width: 1.4, opacity: 0.72, tier: 2, labelLon: 84.5, labelLat: 41 },
+  { ids: [246, 360], nameCn: '辽河',   nameEn: 'Liao',          color: '#5a78a8', width: 1.4, opacity: 0.72, tier: 2, labelLon: 122, labelLat: 43 },
+  { ids: [366, 646, 967], nameCn: '松花江', nameEn: 'Songhua',  color: '#5a78a8', width: 1.4, opacity: 0.72, tier: 2, labelLon: 127, labelLat: 46.5 },
+  // Tier 3 — stroke only, no label (tributaries / smaller)
+  { ids: [873],     nameCn: '渭河',   nameEn: 'Wei',            color: '#c8a830', width: 1.0, opacity: 0.55, tier: 3 },
+  { ids: [457],     nameCn: '湘江',   nameEn: 'Xiang',          color: '#4a8050', width: 1.0, opacity: 0.55, tier: 3 },
+  { ids: [367],     nameCn: '岷江',   nameEn: 'Min',            color: '#2a7090', width: 1.0, opacity: 0.55, tier: 3 },
+  { ids: [270],     nameCn: '汉江',   nameEn: 'Han',            color: '#2a7090', width: 1.0, opacity: 0.55, tier: 3 },
+  { ids: [680],     nameCn: '鸭绿江', nameEn: 'Yalu',           color: '#5a78a8', width: 1.0, opacity: 0.55, tier: 3 },
+];
+
+// Index river features by rivernum so each curated entry can pull every
+// segment that shares an id and concatenate them into a single path.
+const riverFeaturesByNum = new Map();
+for (const f of riversGeo.features) {
+  const num = f.properties.rivernum;
+  if (num == null) continue;
+  if (!riverFeaturesByNum.has(num)) riverFeaturesByNum.set(num, []);
+  riverFeaturesByNum.get(num).push(f);
+}
+
+function projectFeatureToPath(feature) {
+  // Use d3-geo's path() — Mercator-projects the feature's coords into the
+  // same space as country/province paths, so rivers register exactly.
+  return path(feature) || '';
+}
+
+const riverData = RIVERS.map(r => {
+  const segs = [];
+  for (const id of r.ids) {
+    const fs = riverFeaturesByNum.get(id);
+    if (!fs) continue;
+    for (const f of fs) {
+      const d = projectFeatureToPath(f);
+      if (d) segs.push(d);
+    }
+  }
+  if (!segs.length) return null;
+  // Project label point if provided
+  let labelXY = null;
+  if (r.labelLon != null && r.labelLat != null) {
+    const p = projection([r.labelLon, r.labelLat]);
+    if (p) labelXY = { x: Math.round(p[0]), y: Math.round(p[1]) };
+  }
+  return { ...r, d: segs.join(' '), labelXY };
+}).filter(Boolean);
+
+// ── Grand Canal ──────────────────────────────────────────────────────────────
+// Natural Earth doesn't include the Grand Canal as a feature; we hand-trace
+// the historical route from documented endpoints (Hangzhou → Suzhou → Yangzhou
+// → Huai'an → Xuzhou → Linqing → Tianjin → Beijing) using their lon/lat.
+// It's a polyline, not a polygon, so this is the canonical path.
+const GRAND_CANAL_LONLAT = [
+  [120.16, 30.27], // Hangzhou
+  [120.21, 30.62], // outflow north
+  [120.62, 31.30], // Suzhou
+  [120.30, 31.86], // Wuxi
+  [119.94, 32.20], // Zhenjiang (Yangzi crossing)
+  [119.42, 32.39], // Yangzhou
+  [119.16, 33.00], // Huai'an
+  [117.60, 34.27], // Xuzhou
+  [116.34, 35.40], // Jining
+  [115.69, 36.51], // Linqing (Wei-Yu canal junction)
+  [115.99, 37.43], // Dezhou
+  [116.51, 38.32], // Cangzhou
+  [117.20, 39.13], // Tianjin
+  [116.69, 39.55], // Tongzhou (Beijing terminus)
+  [116.41, 39.91], // Beijing
+];
+const grandCanalPath = (() => {
+  const pts = GRAND_CANAL_LONLAT.map(([lon, lat]) => projection([lon, lat])).filter(Boolean);
+  if (!pts.length) return '';
+  return 'M' + pts.map(p => `${p[0].toFixed(2)},${p[1].toFixed(2)}`).join(' L');
+})();
+
 // ── Build province label list (only provinces whose centroid is on-screen) ───
 const provinceLabels = provinceData
   .filter(p => p.cx > 20 && p.cx < W - 20 && p.cy > 20 && p.cy < H - 40 && p.nameCn)
@@ -159,11 +259,17 @@ const provinceLabels = provinceData
 // ── Write reference JSON ──────────────────────────────────────────────────────
 const out = {
   generated: new Date().toISOString(),
-  source: 'Natural Earth 50m countries + 10m admin1 provinces',
+  source: 'Natural Earth 50m countries + 10m admin1 provinces + 10m rivers',
   chinaPath,
   taiwanPath,
   provincePaths,
   provinceLabels,
+  rivers: riverData.map(r => ({
+    nameCn: r.nameCn, nameEn: r.nameEn, tier: r.tier,
+    color: r.color, width: r.width, opacity: r.opacity,
+    d: r.d, label: r.labelXY,
+  })),
+  grandCanalPath,
   projection: PROJECTION_CONFIG,
 };
 const refPath = join(ROOT, 'data/_reference/map-paths.json');
@@ -217,6 +323,49 @@ ${provinceStrokePaths}
 ${provinceLabels}
           </g>`;
     html = html.slice(0, s) + block + '\n\n          ' + html.slice(e);
+  }
+}
+
+// ── Replace rivers layer ─────────────────────────────────────────────────────
+{
+  const s = findFirst(html, '<!-- ── LAYER: rivers ───────────────────────────────── -->');
+  const e = findFirst(html, '<!-- ── LAYER: dynasties');
+  if (s !== -1 && e !== -1) {
+    // Build river path SVG, sorted so larger tiers paint behind smaller (so
+    // labels and tier-1 strokes sit on top).
+    const sorted = [...riverData].sort((a, b) => b.tier - a.tier);
+    const riverSvg = sorted.map(r => {
+      const styled = `<path d="${r.d}" fill="none" stroke="${r.color}" stroke-width="${r.width}" stroke-linecap="round" stroke-linejoin="round" opacity="${r.opacity}"/>`;
+      if (r.tier <= 2 && r.labelXY) {
+        const labelFill =
+          r.color === '#c8a830' ? '#8b6a15' :
+          r.color === '#2a7090' ? '#1a5060' :
+          r.color === '#3a8c70' ? '#1d5a48' :
+          r.color === '#5a78a8' ? '#3a527a' :
+          r.color === '#4a8050' ? '#2a5030' :
+          r.color === '#a08858' ? '#604628' :
+          '#3a3020';
+        const labelSize = r.tier === 1 ? 10 : 9;
+        const cn = `<text x="${r.labelXY.x}" y="${r.labelXY.y}" font-family="Noto Serif SC, serif" font-size="${labelSize}" fill="${labelFill}" opacity="0.92">${r.nameCn}</text>`;
+        const en = `<text x="${r.labelXY.x}" y="${r.labelXY.y + labelSize + 1}" font-family="EB Garamond, serif" font-size="${labelSize - 1}" font-style="italic" fill="${labelFill}" opacity="0.78">${r.nameEn}</text>`;
+        return `          ${styled}\n          ${cn}\n          ${en}`;
+      }
+      return `          ${styled}`;
+    }).join('\n');
+
+    const canalSvg = grandCanalPath
+      ? `\n          <!-- Grand Canal (大运河) — historical hand-traced route -->\n          <path d="${grandCanalPath}" fill="none" stroke="#7a5838" stroke-width="1.6" stroke-dasharray="6,4" stroke-linecap="round" opacity="0.78"/>`
+      : '';
+
+    const block = `<!-- ── LAYER: rivers ───────────────────────────────── -->
+        <g class="map-layer layer-rivers" data-layer="rivers" style="display:none">
+          <!-- Rivers — Natural Earth 10m rivers_lake_centerlines, projected via Mercator (center 103,36 / scale 820) -->
+${riverSvg}
+${canalSvg}
+        </g>
+
+        `;
+    html = html.slice(0, s) + block + html.slice(e);
   }
 }
 
