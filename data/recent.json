@@ -1,5 +1,242 @@
 [
   {
+    "path": "pages/arts/topic_jingju_roles.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "生旦净末丑 · Role Types in Peking Opera",
+    "desc": "Five role categories, each a complete performance tradition -- voice, movement, makeup, and costume as a total semiotic system.",
+    "tags": [
+      "opera",
+      "theatre",
+      "performance",
+      "culture",
+      "arts",
+      "music"
+    ],
+    "status": "complete",
+    "pinyin": "shēng dàn jìng mò chǒu",
+    "updated": "2026-04-26"
+  },
+  {
+    "path": "pages/arts/topic_shufa_styles.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "书法风格 · The Five Scripts of Chinese Calligraphy",
+    "desc": "Five script styles chart two thousand years of Chinese writing — from the solemn bronze inscriptions of the Zhou to the explosive cursive of the Tang masters.",
+    "tags": [
+      "calligraphy",
+      "arts",
+      "writing",
+      "classical",
+      "history",
+      "aesthetics",
+      "culture"
+    ],
+    "status": "complete",
+    "pinyin": "shūfǎ fēnggé",
+    "updated": "2026-04-26"
+  },
+  {
+    "path": "pages/characters/gui3_鬼.html",
+    "type": "character",
+    "category": "characters",
+    "title": "鬼 · ghost, the wandering dead",
+    "desc": "A pictograph of a spirit with an oversized head — the disembodied soul of the unvenerated dead, a folk-religion category distinct from deity, demon, and ancestor.",
+    "tags": [
+      "folk-religion",
+      "religion",
+      "culture",
+      "classical",
+      "symbolism",
+      "ancestors"
+    ],
+    "status": "complete",
+    "char": "鬼",
+    "pinyin": "guǐ",
+    "tone": 3,
+    "hsk": 6,
+    "radical": "鬼",
+    "updated": "2026-04-26"
+  },
+  {
+    "path": "pages/characters/lei2_雷.html",
+    "type": "character",
+    "category": "characters",
+    "title": "雷 · thunder, the Arousing",
+    "desc": "Rain over fields struck by lightning — the ancient pictograph of thunder that became a deity, a Yijing trigram, and a metaphor for decisive force.",
+    "tags": [
+      "nature",
+      "cosmology",
+      "religion",
+      "gods",
+      "wuxing"
+    ],
+    "status": "complete",
+    "char": "雷",
+    "pinyin": "léi",
+    "tone": 2,
+    "hsk": 5,
+    "radical": "雨",
+    "updated": "2026-04-26"
+  },
+  {
+    "path": "pages/characters/yu4_玉.html",
+    "type": "character",
+    "category": "characters",
+    "title": "玉 · jade, precious",
+    "desc": "The material of kingship and moral cultivation — three jade discs on a cord, a glyph almost identical to king, the stone that Confucius said was virtue made visible.",
+    "tags": [
+      "nature",
+      "culture",
+      "virtue",
+      "confucianism",
+      "aesthetics",
+      "royalty",
+      "classical"
+    ],
+    "status": "complete",
+    "char": "玉",
+    "pinyin": "yù",
+    "tone": 4,
+    "radical": "玉",
+    "updated": "2026-04-26"
+  },
+  {
+    "path": "pages/daily/topic_chifan.html",
+    "type": "topic",
+    "category": "daily",
+    "title": "吃饭文化 · Chinese Food Culture",
+    "desc": "Eating in China is not primarily about food — it is the medium through which relationships are initiated, obligations are incurred, hierarchies are performed, and social bonds are maintained.",
+    "tags": [
+      "daily-life",
+      "food",
+      "culture",
+      "social",
+      "culinary",
+      "etiquette",
+      "colloquial"
+    ],
+    "status": "complete",
+    "pinyin": "chī fàn wén huà",
+    "updated": "2026-04-26"
+  },
+  {
+    "path": "pages/geography/topic_sichuanpen.html",
+    "type": "topic",
+    "category": "geography",
+    "title": "四川盆地 · The Sichuan Basin",
+    "desc": "An inland depression ringed by mountains on all four sides: the warm, humid, fog-wrapped basin that gave China its most distinctive regional cuisine, its Bronze Age mystery, and the world's longest-running irrigation system.",
+    "tags": [
+      "geography",
+      "culture",
+      "food",
+      "culinary",
+      "history",
+      "nature"
+    ],
+    "status": "complete",
+    "pinyin": "Sìchuān Péndì",
+    "updated": "2026-04-26"
+  },
+  {
+    "path": "pages/history/topic_handai.html",
+    "type": "topic",
+    "category": "history",
+    "title": "汉朝 · The Han Dynasty",
+    "desc": "The dynasty that named the Chinese people and script — 400 years of empire, the Silk Road, Confucian statecraft, and Sima Qian writing history from prison.",
+    "tags": [
+      "history",
+      "dynasty",
+      "han",
+      "golden-age",
+      "classical",
+      "silk",
+      "trade",
+      "confucianism",
+      "literature"
+    ],
+    "status": "complete",
+    "pinyin": "Hàn cháo",
+    "updated": "2026-04-26"
+  },
+  {
+    "path": "pages/religion/topic_chenghuang.html",
+    "type": "topic",
+    "category": "religion",
+    "title": "城隍 · The City God",
+    "desc": "Every Chinese city had a City God who served as its divine magistrate, managing the dead and the living with the same bureaucratic precision as any imperial official.",
+    "tags": [
+      "folk-religion",
+      "religion",
+      "gods",
+      "culture",
+      "history",
+      "ritual",
+      "ancestors"
+    ],
+    "status": "complete",
+    "pinyin": "chénghuáng",
+    "updated": "2026-04-26"
+  },
+  {
+    "path": "pages/vocab/shanshuihua_山水画.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "山水画 · Chinese Landscape Painting",
+    "desc": "Mountains and waters as a cosmological pair -- the genre that made ink the equal of philosophy.",
+    "tags": [
+      "art",
+      "culture",
+      "aesthetics",
+      "nature",
+      "classical",
+      "visual",
+      "literary"
+    ],
+    "status": "complete",
+    "pinyin": "shānshuǐhuà",
+    "updated": "2026-04-26"
+  },
+  {
+    "path": "pages/vocab/zhengzai_正在.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "正在 · currently doing, progressive aspect",
+    "desc": "The primary progressive marker in Mandarin -- placed before a verb to signal an action caught in mid-motion, exactly now, still in progress.",
+    "tags": [
+      "grammar",
+      "aspect",
+      "adverb",
+      "timing",
+      "vocabulary",
+      "daily-life",
+      "colloquial"
+    ],
+    "status": "complete",
+    "pinyin": "zhèngzài",
+    "updated": "2026-04-26"
+  },
+  {
+    "path": "pages/vocab/zhongguo_zhongwen_中文.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "中文 · Chinese Language and Writing",
+    "desc": "中文 names both the written script and the spoken language — the most common term among learners — but it sits alongside 汉语, 普通话, and 汉字 in a system of names that carries real distinctions.",
+    "tags": [
+      "language",
+      "writing",
+      "hanzi",
+      "characters",
+      "meta",
+      "vocabulary",
+      "daily-life",
+      "colloquial"
+    ],
+    "status": "complete",
+    "pinyin": "zhōngwén",
+    "updated": "2026-04-26"
+  },
+  {
     "path": "pages/arts/topic_guqin.html",
     "type": "topic",
     "category": "arts",
@@ -55,6 +292,25 @@
     "updated": "2026-04-25"
   },
   {
+    "path": "pages/characters/bai3_百.html",
+    "type": "character",
+    "category": "characters",
+    "title": "百 · hundred; all kinds of",
+    "desc": "百姓 — the hundred surnames — is classical Chinese for the common people, because the full range of ordinary family names stands in for everyone who is not nobility.",
+    "tags": [
+      "scale",
+      "language",
+      "history"
+    ],
+    "status": "complete",
+    "char": "百",
+    "pinyin": "bǎi",
+    "tone": 3,
+    "hsk": 1,
+    "radical": "白",
+    "updated": "2026-04-25"
+  },
+  {
     "path": "pages/characters/bei3_北.html",
     "type": "character",
     "category": "characters",
@@ -74,311 +330,63 @@
     "updated": "2026-04-25"
   },
   {
-    "path": "pages/characters/di1_低.html",
+    "path": "pages/characters/bi4_必.html",
     "type": "character",
     "category": "characters",
-    "title": "低 · low; to lower; to bow down",
-    "desc": "A person stooping: the phonetic 氐 gives the sound while the human radical supplies the posture, and together they built one of the most culturally loaded words in modern Chinese.",
+    "title": "必 · certainly; must; necessarily",
+    "desc": "A character rooted in the image of a blade that divides without exception — certainty as the sharpness that leaves no room for maybe.",
     "tags": [
-      "adjectives",
-      "daily-life",
-      "scale",
-      "degree"
-    ],
-    "status": "complete",
-    "char": "低",
-    "pinyin": "dī",
-    "tone": 1,
-    "hsk": 3,
-    "radical": "亻",
-    "updated": "2026-04-25"
-  },
-  {
-    "path": "pages/characters/dong1_东.html",
-    "type": "character",
-    "category": "characters",
-    "title": "东 · east; eastern",
-    "desc": "The sun rising behind a tree — and the direction that anchored China's cosmological, political, and poetic imagination.",
-    "tags": [
-      "directions",
-      "nature",
-      "cosmology"
-    ],
-    "status": "complete",
-    "char": "东",
-    "pinyin": "dōng",
-    "tone": 1,
-    "hsk": 1,
-    "radical": "一",
-    "updated": "2026-04-25"
-  },
-  {
-    "path": "pages/characters/duo1_多.html",
-    "type": "character",
-    "category": "characters",
-    "title": "多 · many; much; more; how",
-    "desc": "Two evenings stacked — the character that encodes abundance, comparison, and the most common question about quantity in Mandarin.",
-    "tags": [
-      "adjectives",
-      "scale",
-      "grammar"
-    ],
-    "status": "complete",
-    "char": "多",
-    "pinyin": "duō",
-    "tone": 1,
-    "hsk": 1,
-    "radical": "夕",
-    "updated": "2026-04-25"
-  },
-  {
-    "path": "pages/characters/er3_耳.html",
-    "type": "character",
-    "category": "characters",
-    "title": "耳 · ear; to hear; handle",
-    "desc": "The pictograph of an ear that anchors Chinese words for listening, fame, and the furred handles on bronze vessels.",
-    "tags": [
-      "body",
-      "perception",
-      "radical"
-    ],
-    "status": "complete",
-    "char": "耳",
-    "pinyin": "ěr",
-    "tone": 3,
-    "hsk": 4,
-    "radical": "耳",
-    "updated": "2026-04-25"
-  },
-  {
-    "path": "pages/characters/gao1_高.html",
-    "type": "character",
-    "category": "characters",
-    "title": "高 · tall; high; elevated; surname",
-    "desc": "A tall palace gate rising above the ground — and the character that anchors Chinese words for excellence, happiness, and examination pressure simultaneously.",
-    "tags": [
-      "adjectives",
-      "scale"
-    ],
-    "status": "complete",
-    "char": "高",
-    "pinyin": "gāo",
-    "tone": 1,
-    "hsk": 2,
-    "radical": "高",
-    "updated": "2026-04-25"
-  },
-  {
-    "path": "pages/characters/guan1_关.html",
-    "type": "character",
-    "category": "characters",
-    "title": "关 · to close, to concern, the frontier pass",
-    "desc": "The bolt that closes a gate, the mountain pass that controls a frontier, and the relation that ties two people together. One character holds all three.",
-    "tags": [
-      "change",
-      "connections",
-      "social"
-    ],
-    "status": "complete",
-    "char": "关",
-    "pinyin": "guān",
-    "tone": 1,
-    "hsk": 1,
-    "radical": "丷",
-    "updated": "2026-04-25"
-  },
-  {
-    "path": "pages/characters/jian4_见.html",
-    "type": "character",
-    "category": "characters",
-    "title": "见 · to see, to meet, to appear",
-    "desc": "An eye on legs. The character that built Chinese verbs of seeing, meeting, opinion, and the moment a thing first comes into view.",
-    "tags": [
-      "perception",
-      "knowing",
-      "daily-life"
-    ],
-    "status": "complete",
-    "char": "见",
-    "pinyin": "jiàn",
-    "tone": 4,
-    "hsk": 1,
-    "radical": "见",
-    "updated": "2026-04-25"
-  },
-  {
-    "path": "pages/characters/jin4_近.html",
-    "type": "character",
-    "category": "characters",
-    "title": "近 · near; close; recent",
-    "desc": "Walking toward something as close as a hatchet strike — and the character that covers both spatial proximity and the specific historical era Chinese scholars call the modern period.",
-    "tags": [
-      "direction",
-      "geography",
-      "daily-life",
-      "history"
-    ],
-    "status": "complete",
-    "char": "近",
-    "pinyin": "jìn",
-    "tone": 4,
-    "hsk": 3,
-    "radical": "辶",
-    "updated": "2026-04-25"
-  },
-  {
-    "path": "pages/characters/jiu4_旧.html",
-    "type": "character",
-    "category": "characters",
-    "title": "旧 · old; used; former; worn",
-    "desc": "The antonym of 新 — and much more than it: 旧 carries both the weight of cherished tradition and the stigma of backwardness, depending entirely on who is speaking.",
-    "tags": [
-      "history",
-      "change",
+      "grammar",
+      "modal",
+      "logic",
       "classical",
-      "daily-life"
+      "ethics",
+      "philosophy"
     ],
     "status": "complete",
-    "char": "旧",
-    "pinyin": "jiù",
+    "char": "必",
+    "pinyin": "bì",
     "tone": 4,
-    "hsk": 4,
-    "radical": "日",
+    "hsk": 3,
+    "radical": "心",
     "updated": "2026-04-25"
   },
   {
-    "path": "pages/characters/kai1_开.html",
+    "path": "pages/characters/chu1_出.html",
     "type": "character",
     "category": "characters",
-    "title": "开 · to open, to start, to operate",
-    "desc": "Two hands lifting the bar across a closed gate. From that single image flow most of modern life: opening a door, starting a meeting, driving a car, writing a check, blooming.",
+    "title": "出 · to exit, to emerge, to produce",
+    "desc": "出 is two plants growing upward out of the earth — emergence itself written as a glyph, from physical exits to publication to standing out from the crowd.",
     "tags": [
-      "change",
       "motion",
+      "direction",
       "daily-life"
     ],
     "status": "complete",
-    "char": "开",
-    "pinyin": "kāi",
+    "char": "出",
+    "pinyin": "chū",
     "tone": 1,
-    "hsk": 1,
-    "radical": "廾",
+    "hsk": 2,
+    "radical": "凵",
     "updated": "2026-04-25"
   },
   {
-    "path": "pages/characters/kong1_空.html",
+    "path": "pages/characters/dao4_到.html",
     "type": "character",
     "category": "characters",
-    "title": "空 · empty, sky, void; in vain",
-    "desc": "A cave with the work of hollowing inside it. The character that names the open sky, the empty room, the wasted afternoon, and the Buddhist śūnyatā at the heart of Chan.",
+    "title": "到 · to arrive, to reach; to",
+    "desc": "As a resultative complement suffix, 到 converts any action verb into a claim of completion — 听到 means not just hearing but hearing that arrived, perception proven by contact.",
     "tags": [
-      "buddhism",
-      "philosophy",
-      "cosmology",
-      "chan",
-      "meditation"
+      "motion",
+      "grammar",
+      "daily-life"
     ],
     "status": "complete",
-    "char": "空",
-    "pinyin": "kōng",
-    "tone": 1,
-    "hsk": 3,
-    "radical": "穴",
-    "updated": "2026-04-25"
-  },
-  {
-    "path": "pages/characters/kuai4_快.html",
-    "type": "character",
-    "category": "characters",
-    "title": "快 · fast, happy",
-    "desc": "One character carries two meanings that turn out to be the same thing: speed and joy both feel like the heart cutting loose.",
-    "tags": [
-      "emotion",
-      "daily-life",
-      "adjectives"
-    ],
-    "status": "complete",
-    "char": "快",
-    "pinyin": "kuài",
+    "char": "到",
+    "pinyin": "dào",
     "tone": 4,
     "hsk": 2,
-    "radical": "忄",
-    "updated": "2026-04-25"
-  },
-  {
-    "path": "pages/characters/lu4_路.html",
-    "type": "character",
-    "category": "characters",
-    "title": "路 · road, path, route",
-    "desc": "The walked road, where 道 is the navigated way: 路 is the surface beneath the foot, the route the messenger takes, the journey of a life measured in distance.",
-    "tags": [
-      "path",
-      "directions",
-      "movement"
-    ],
-    "status": "complete",
-    "char": "路",
-    "pinyin": "lù",
-    "tone": 4,
-    "hsk": 2,
-    "radical": "足",
-    "updated": "2026-04-25"
-  },
-  {
-    "path": "pages/characters/man4_慢.html",
-    "type": "character",
-    "category": "characters",
-    "title": "慢 · slow, unhurried",
-    "desc": "Pace becomes a moral register: 慢 màn carries the same heart radical as 快, and extends from physical slowness into social neglect and arrogance.",
-    "tags": [
-      "emotion",
-      "daily-life",
-      "adjectives"
-    ],
-    "status": "complete",
-    "char": "慢",
-    "pinyin": "màn",
-    "tone": 4,
-    "hsk": 3,
-    "radical": "忄",
-    "updated": "2026-04-25"
-  },
-  {
-    "path": "pages/characters/mu4_目.html",
-    "type": "character",
-    "category": "characters",
-    "title": "目 · eye; to look at; section heading",
-    "desc": "The pictograph of an eye that became the Chinese radical for everything seen, watched, and classified.",
-    "tags": [
-      "body",
-      "perception",
-      "radical"
-    ],
-    "status": "complete",
-    "char": "目",
-    "pinyin": "mù",
-    "tone": 4,
-    "hsk": 4,
-    "radical": "目",
-    "updated": "2026-04-25"
-  },
-  {
-    "path": "pages/characters/nan2_南.html",
-    "type": "character",
-    "category": "characters",
-    "title": "南 · south; southern",
-    "desc": "The direction that Chinese buildings face and emperors receive guests — warmth, productivity, and the seat of imperial ritual power.",
-    "tags": [
-      "directions",
-      "nature",
-      "cosmology"
-    ],
-    "status": "complete",
-    "char": "南",
-    "pinyin": "nán",
-    "tone": 2,
-    "hsk": 2,
-    "radical": "十",
+    "radical": "刀",
     "updated": "2026-04-25"
   }
 ]

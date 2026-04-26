@@ -2978,6 +2978,42 @@ body[data-category="hubs"] { --seal-color: var(--cat-hubs); }
   flex-shrink: 0;
 }
 
+/* Map attribution / sources block — small, scholarly, sits below the legend */
+.map-attribution {
+  margin: 0.4rem 0 2rem;
+  padding: 1rem 1.2rem;
+  background: var(--papyrus-2);
+  border-left: 3px solid var(--ochre);
+  border-radius: var(--radius-sm, 4px);
+  font-size: 0.78rem;
+  line-height: 1.55;
+  color: var(--ink-4);
+  font-family: var(--font-body);
+}
+.map-attribution p { margin: 0 0 0.5rem; text-wrap: pretty; }
+.map-attribution p:last-child { margin-bottom: 0; }
+.map-attribution strong {
+  font-family: var(--font-cn, 'Noto Serif SC', serif);
+  color: var(--ink-2);
+  font-weight: 600;
+  margin-right: 0.25rem;
+}
+.map-attribution em { font-style: italic; color: var(--ink-3); }
+.map-attribution code {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  padding: 0 0.25em;
+  background: rgba(160,100,40,0.08);
+  border-radius: 2px;
+  color: var(--ink-3);
+}
+.map-attribution a {
+  color: var(--ochre);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--ochre);
+}
+.map-attribution a:hover { color: var(--red); border-bottom-color: var(--red); }
+
 /* ── Map callout — used in topic/family pages to feature the map ── */
 .map-callout {
   display: flex;

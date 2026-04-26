@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-26T04:07:50.414Z",
+  "generated": "2026-04-26T13:48:43.213Z",
   "summary": {
     "errors": 0,
-    "warnings": 8,
+    "warnings": 11,
     "info": 258
   },
   "findings": [
@@ -1835,14 +1835,32 @@
     {
       "level": "WARN",
       "category": "factual",
+      "file": "content/characters/he2_和.md",
+      "msg": "radical '禾' differs from reference '口' for '和' (may be a system choice — verify)"
+    },
+    {
+      "level": "WARN",
+      "category": "factual",
       "file": "content/characters/shu1_书.md",
       "msg": "radical '乛' differs from reference '丨' for '书' (may be a system choice — verify)"
     },
     {
       "level": "WARN",
       "category": "factual",
+      "file": "content/characters/wei2_为.md",
+      "msg": "pinyin 'wéi' differs from reference [\"wèi\"] for '为' — confirm if secondary reading is intended"
+    },
+    {
+      "level": "WARN",
+      "category": "factual",
       "file": "content/characters/yao4_要.md",
       "msg": "radical '女' differs from reference '覀' for '要' (may be a system choice — verify)"
+    },
+    {
+      "level": "WARN",
+      "category": "factual",
+      "file": "content/characters/ye3_也.md",
+      "msg": "radical '乙' differs from reference '乚' for '也' (may be a system choice — verify)"
     },
     {
       "level": "WARN",
@@ -1854,7 +1872,7 @@
       "level": "WARN",
       "category": "factual",
       "file": "data/_reference/hanzi-facts.json",
-      "msg": "98 hanzi appear in content/ but have no reference entry: 桐梓隋韻仝谿珪説辕変喫剣聆彝诲翩冋丷闩楽謂辵萑臼暦廾樱竅夬竜牀刃厶澌気舛趙陕雹臓…. Claims about these characters cannot be mechanically verified. Run 'npm run refresh:reference' after updating upstream data."
+      "msg": "163 hanzi appear in content/ but have no reference entry: 桐梓谭鑫隋韻仝谿珪侄褚説辕弋変喫凵萃嘈剣聆彝诲亘翩冋丷闩魑魍魉幺楽謂辵萑臼暦廾樱…. Claims about these characters cannot be mechanically verified. Run 'npm run refresh:reference' after updating upstream data."
     }
   ]
 }

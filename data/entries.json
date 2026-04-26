@@ -1,5 +1,242 @@
 [
   {
+    "path": "pages/arts/topic_jingju_roles.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "生旦净末丑 · Role Types in Peking Opera",
+    "desc": "Five role categories, each a complete performance tradition -- voice, movement, makeup, and costume as a total semiotic system.",
+    "tags": [
+      "opera",
+      "theatre",
+      "performance",
+      "culture",
+      "arts",
+      "music"
+    ],
+    "status": "complete",
+    "pinyin": "shēng dàn jìng mò chǒu",
+    "updated": "2026-04-26"
+  },
+  {
+    "path": "pages/arts/topic_shufa_styles.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "书法风格 · The Five Scripts of Chinese Calligraphy",
+    "desc": "Five script styles chart two thousand years of Chinese writing — from the solemn bronze inscriptions of the Zhou to the explosive cursive of the Tang masters.",
+    "tags": [
+      "calligraphy",
+      "arts",
+      "writing",
+      "classical",
+      "history",
+      "aesthetics",
+      "culture"
+    ],
+    "status": "complete",
+    "pinyin": "shūfǎ fēnggé",
+    "updated": "2026-04-26"
+  },
+  {
+    "path": "pages/characters/gui3_鬼.html",
+    "type": "character",
+    "category": "characters",
+    "title": "鬼 · ghost, the wandering dead",
+    "desc": "A pictograph of a spirit with an oversized head — the disembodied soul of the unvenerated dead, a folk-religion category distinct from deity, demon, and ancestor.",
+    "tags": [
+      "folk-religion",
+      "religion",
+      "culture",
+      "classical",
+      "symbolism",
+      "ancestors"
+    ],
+    "status": "complete",
+    "char": "鬼",
+    "pinyin": "guǐ",
+    "tone": 3,
+    "hsk": 6,
+    "radical": "鬼",
+    "updated": "2026-04-26"
+  },
+  {
+    "path": "pages/characters/lei2_雷.html",
+    "type": "character",
+    "category": "characters",
+    "title": "雷 · thunder, the Arousing",
+    "desc": "Rain over fields struck by lightning — the ancient pictograph of thunder that became a deity, a Yijing trigram, and a metaphor for decisive force.",
+    "tags": [
+      "nature",
+      "cosmology",
+      "religion",
+      "gods",
+      "wuxing"
+    ],
+    "status": "complete",
+    "char": "雷",
+    "pinyin": "léi",
+    "tone": 2,
+    "hsk": 5,
+    "radical": "雨",
+    "updated": "2026-04-26"
+  },
+  {
+    "path": "pages/characters/yu4_玉.html",
+    "type": "character",
+    "category": "characters",
+    "title": "玉 · jade, precious",
+    "desc": "The material of kingship and moral cultivation — three jade discs on a cord, a glyph almost identical to king, the stone that Confucius said was virtue made visible.",
+    "tags": [
+      "nature",
+      "culture",
+      "virtue",
+      "confucianism",
+      "aesthetics",
+      "royalty",
+      "classical"
+    ],
+    "status": "complete",
+    "char": "玉",
+    "pinyin": "yù",
+    "tone": 4,
+    "radical": "玉",
+    "updated": "2026-04-26"
+  },
+  {
+    "path": "pages/daily/topic_chifan.html",
+    "type": "topic",
+    "category": "daily",
+    "title": "吃饭文化 · Chinese Food Culture",
+    "desc": "Eating in China is not primarily about food — it is the medium through which relationships are initiated, obligations are incurred, hierarchies are performed, and social bonds are maintained.",
+    "tags": [
+      "daily-life",
+      "food",
+      "culture",
+      "social",
+      "culinary",
+      "etiquette",
+      "colloquial"
+    ],
+    "status": "complete",
+    "pinyin": "chī fàn wén huà",
+    "updated": "2026-04-26"
+  },
+  {
+    "path": "pages/geography/topic_sichuanpen.html",
+    "type": "topic",
+    "category": "geography",
+    "title": "四川盆地 · The Sichuan Basin",
+    "desc": "An inland depression ringed by mountains on all four sides: the warm, humid, fog-wrapped basin that gave China its most distinctive regional cuisine, its Bronze Age mystery, and the world's longest-running irrigation system.",
+    "tags": [
+      "geography",
+      "culture",
+      "food",
+      "culinary",
+      "history",
+      "nature"
+    ],
+    "status": "complete",
+    "pinyin": "Sìchuān Péndì",
+    "updated": "2026-04-26"
+  },
+  {
+    "path": "pages/history/topic_handai.html",
+    "type": "topic",
+    "category": "history",
+    "title": "汉朝 · The Han Dynasty",
+    "desc": "The dynasty that named the Chinese people and script — 400 years of empire, the Silk Road, Confucian statecraft, and Sima Qian writing history from prison.",
+    "tags": [
+      "history",
+      "dynasty",
+      "han",
+      "golden-age",
+      "classical",
+      "silk",
+      "trade",
+      "confucianism",
+      "literature"
+    ],
+    "status": "complete",
+    "pinyin": "Hàn cháo",
+    "updated": "2026-04-26"
+  },
+  {
+    "path": "pages/religion/topic_chenghuang.html",
+    "type": "topic",
+    "category": "religion",
+    "title": "城隍 · The City God",
+    "desc": "Every Chinese city had a City God who served as its divine magistrate, managing the dead and the living with the same bureaucratic precision as any imperial official.",
+    "tags": [
+      "folk-religion",
+      "religion",
+      "gods",
+      "culture",
+      "history",
+      "ritual",
+      "ancestors"
+    ],
+    "status": "complete",
+    "pinyin": "chénghuáng",
+    "updated": "2026-04-26"
+  },
+  {
+    "path": "pages/vocab/shanshuihua_山水画.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "山水画 · Chinese Landscape Painting",
+    "desc": "Mountains and waters as a cosmological pair -- the genre that made ink the equal of philosophy.",
+    "tags": [
+      "art",
+      "culture",
+      "aesthetics",
+      "nature",
+      "classical",
+      "visual",
+      "literary"
+    ],
+    "status": "complete",
+    "pinyin": "shānshuǐhuà",
+    "updated": "2026-04-26"
+  },
+  {
+    "path": "pages/vocab/zhengzai_正在.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "正在 · currently doing, progressive aspect",
+    "desc": "The primary progressive marker in Mandarin -- placed before a verb to signal an action caught in mid-motion, exactly now, still in progress.",
+    "tags": [
+      "grammar",
+      "aspect",
+      "adverb",
+      "timing",
+      "vocabulary",
+      "daily-life",
+      "colloquial"
+    ],
+    "status": "complete",
+    "pinyin": "zhèngzài",
+    "updated": "2026-04-26"
+  },
+  {
+    "path": "pages/vocab/zhongguo_zhongwen_中文.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "中文 · Chinese Language and Writing",
+    "desc": "中文 names both the written script and the spoken language — the most common term among learners — but it sits alongside 汉语, 普通话, and 汉字 in a system of names that carries real distinctions.",
+    "tags": [
+      "language",
+      "writing",
+      "hanzi",
+      "characters",
+      "meta",
+      "vocabulary",
+      "daily-life",
+      "colloquial"
+    ],
+    "status": "complete",
+    "pinyin": "zhōngwén",
+    "updated": "2026-04-26"
+  },
+  {
     "path": "pages/arts/topic_guqin.html",
     "type": "topic",
     "category": "arts",
@@ -55,6 +292,25 @@
     "updated": "2026-04-25"
   },
   {
+    "path": "pages/characters/bai3_百.html",
+    "type": "character",
+    "category": "characters",
+    "title": "百 · hundred; all kinds of",
+    "desc": "百姓 — the hundred surnames — is classical Chinese for the common people, because the full range of ordinary family names stands in for everyone who is not nobility.",
+    "tags": [
+      "scale",
+      "language",
+      "history"
+    ],
+    "status": "complete",
+    "char": "百",
+    "pinyin": "bǎi",
+    "tone": 3,
+    "hsk": 1,
+    "radical": "白",
+    "updated": "2026-04-25"
+  },
+  {
     "path": "pages/characters/bei3_北.html",
     "type": "character",
     "category": "characters",
@@ -71,6 +327,66 @@
     "tone": 3,
     "hsk": 2,
     "radical": "匕",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/characters/bi4_必.html",
+    "type": "character",
+    "category": "characters",
+    "title": "必 · certainly; must; necessarily",
+    "desc": "A character rooted in the image of a blade that divides without exception — certainty as the sharpness that leaves no room for maybe.",
+    "tags": [
+      "grammar",
+      "modal",
+      "logic",
+      "classical",
+      "ethics",
+      "philosophy"
+    ],
+    "status": "complete",
+    "char": "必",
+    "pinyin": "bì",
+    "tone": 4,
+    "hsk": 3,
+    "radical": "心",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/characters/chu1_出.html",
+    "type": "character",
+    "category": "characters",
+    "title": "出 · to exit, to emerge, to produce",
+    "desc": "出 is two plants growing upward out of the earth — emergence itself written as a glyph, from physical exits to publication to standing out from the crowd.",
+    "tags": [
+      "motion",
+      "direction",
+      "daily-life"
+    ],
+    "status": "complete",
+    "char": "出",
+    "pinyin": "chū",
+    "tone": 1,
+    "hsk": 2,
+    "radical": "凵",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/characters/dao4_到.html",
+    "type": "character",
+    "category": "characters",
+    "title": "到 · to arrive, to reach; to",
+    "desc": "As a resultative complement suffix, 到 converts any action verb into a claim of completion — 听到 means not just hearing but hearing that arrived, perception proven by contact.",
+    "tags": [
+      "motion",
+      "grammar",
+      "daily-life"
+    ],
+    "status": "complete",
+    "char": "到",
+    "pinyin": "dào",
+    "tone": 4,
+    "hsk": 2,
+    "radical": "刀",
     "updated": "2026-04-25"
   },
   {
@@ -151,6 +467,28 @@
     "updated": "2026-04-25"
   },
   {
+    "path": "pages/characters/er4_二.html",
+    "type": "character",
+    "category": "characters",
+    "title": "二 · two; second",
+    "desc": "The number two encodes the foundational split that drives all of Chinese cosmology: yin and yang, the two forces from which everything else unfolds.",
+    "tags": [
+      "cosmology",
+      "philosophy",
+      "daoism",
+      "yin-yang",
+      "grammar",
+      "vocabulary"
+    ],
+    "status": "complete",
+    "char": "二",
+    "pinyin": "èr",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "二",
+    "updated": "2026-04-25"
+  },
+  {
     "path": "pages/characters/gao1_高.html",
     "type": "character",
     "category": "characters",
@@ -166,6 +504,28 @@
     "tone": 1,
     "hsk": 2,
     "radical": "高",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/characters/geng4_更.html",
+    "type": "character",
+    "category": "characters",
+    "title": "更 · even more; to change; night watch",
+    "desc": "A character that split across two readings: the comparative pulse of spoken Mandarin and the sonic clock of premodern China.",
+    "tags": [
+      "grammar",
+      "adverb",
+      "comparison",
+      "degree",
+      "timing",
+      "classical"
+    ],
+    "status": "complete",
+    "char": "更",
+    "pinyin": "gèng",
+    "tone": 4,
+    "hsk": 2,
+    "radical": "曰",
     "updated": "2026-04-25"
   },
   {
@@ -185,6 +545,46 @@
     "tone": 1,
     "hsk": 1,
     "radical": "丷",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/characters/he2_和.html",
+    "type": "character",
+    "category": "characters",
+    "title": "和 · harmony, and, with; peace",
+    "desc": "和 carries the same concept across grammar and philosophy: grain and mouth together, the harmony of shared food and speech, a character that serves as both everyday conjunction and the Confucian ideal of a well-ordered world.",
+    "tags": [
+      "confucianism",
+      "social",
+      "grammar",
+      "philosophy"
+    ],
+    "status": "complete",
+    "char": "和",
+    "pinyin": "hé",
+    "tone": 2,
+    "hsk": 1,
+    "radical": "禾",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/characters/hou4_后.html",
+    "type": "character",
+    "category": "characters",
+    "title": "后 · back, behind, after; empress",
+    "desc": "One simplified character collapsed two completely separate traditional forms — 後 (a trailing foot in motion) and 后 (a commanding mouth) — binding the spatial sense of behind with the imperial sense of empress in a single glyph.",
+    "tags": [
+      "direction",
+      "time",
+      "royalty",
+      "grammar"
+    ],
+    "status": "complete",
+    "char": "后",
+    "pinyin": "hòu",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "口",
     "updated": "2026-04-25"
   },
   {
@@ -266,6 +666,47 @@
     "updated": "2026-04-25"
   },
   {
+    "path": "pages/characters/kan4_看.html",
+    "type": "character",
+    "category": "characters",
+    "title": "看 · to look, to watch, to read, to visit",
+    "desc": "看 = hand above eye, shielding from the sun to see in the distance — visual attention with effort, encoded in a gesture everyone has made.",
+    "tags": [
+      "perception",
+      "daily-life",
+      "grammar"
+    ],
+    "status": "complete",
+    "char": "看",
+    "pinyin": "kàn",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "目",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/characters/ke3_可.html",
+    "type": "character",
+    "category": "characters",
+    "title": "可 · can; may; worth; quite",
+    "desc": "A two-stroke mouth character whose ancient sense of affirming breath became the pivot of permission, capability, and worth in classical and modern Chinese.",
+    "tags": [
+      "grammar",
+      "modal",
+      "ability",
+      "permission",
+      "classical",
+      "syntax"
+    ],
+    "status": "complete",
+    "char": "可",
+    "pinyin": "kě",
+    "tone": 3,
+    "hsk": 2,
+    "radical": "口",
+    "updated": "2026-04-25"
+  },
+  {
     "path": "pages/characters/kong1_空.html",
     "type": "character",
     "category": "characters",
@@ -303,6 +744,26 @@
     "tone": 4,
     "hsk": 2,
     "radical": "忄",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/characters/li3_里.html",
+    "type": "character",
+    "category": "characters",
+    "title": "里 · inside, within; Chinese mile",
+    "desc": "From field stacked on earth, 里 named the bounded cultivated interior of a settlement and became the unit of distance that measured the realm's interior reach.",
+    "tags": [
+      "direction",
+      "space",
+      "daily-life",
+      "geography"
+    ],
+    "status": "complete",
+    "char": "里",
+    "pinyin": "lǐ",
+    "tone": 3,
+    "hsk": 1,
+    "radical": "里",
     "updated": "2026-04-25"
   },
   {
@@ -344,6 +805,26 @@
     "updated": "2026-04-25"
   },
   {
+    "path": "pages/characters/ming2_名.html",
+    "type": "character",
+    "category": "characters",
+    "title": "名 · name, fame, reputation",
+    "desc": "名 is 夕 dusk plus 口 mouth: darkness falls, you cannot see who approaches, so you call out a name — identity asserted through speech.",
+    "tags": [
+      "confucianism",
+      "language",
+      "social",
+      "names"
+    ],
+    "status": "complete",
+    "char": "名",
+    "pinyin": "míng",
+    "tone": 2,
+    "hsk": 1,
+    "radical": "口",
+    "updated": "2026-04-25"
+  },
+  {
     "path": "pages/characters/mu4_目.html",
     "type": "character",
     "category": "characters",
@@ -382,6 +863,87 @@
     "updated": "2026-04-25"
   },
   {
+    "path": "pages/characters/ni3_你.html",
+    "type": "character",
+    "category": "characters",
+    "title": "你 · you",
+    "desc": "The everyday second-person pronoun whose formal twin 您 embeds 心 (heart) directly into the character — address with warmth.",
+    "tags": [
+      "grammar",
+      "social",
+      "courtesy"
+    ],
+    "status": "complete",
+    "char": "你",
+    "pinyin": "nǐ",
+    "tone": 3,
+    "hsk": 1,
+    "radical": "人",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/characters/qian2_前.html",
+    "type": "character",
+    "category": "characters",
+    "title": "前 · front, before, forward; former",
+    "desc": "Chinese places the past in front (前) and the future behind — the known faces you while the unknown approaches from behind, the inverse of the English spatial metaphor for time.",
+    "tags": [
+      "direction",
+      "time",
+      "philosophy",
+      "grammar"
+    ],
+    "status": "complete",
+    "char": "前",
+    "pinyin": "qián",
+    "tone": 2,
+    "hsk": 2,
+    "radical": "刀",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/characters/san1_三.html",
+    "type": "character",
+    "category": "characters",
+    "title": "三 · three; thrice; repeatedly",
+    "desc": "Three is the number of completion in Chinese cosmology — Heaven, Earth, Human — and the numeral that generates the ten thousand things in Daoist thought.",
+    "tags": [
+      "cosmology",
+      "philosophy",
+      "language"
+    ],
+    "status": "complete",
+    "char": "三",
+    "pinyin": "sān",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "一",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/characters/shan4_善.html",
+    "type": "character",
+    "category": "characters",
+    "title": "善 · goodness; virtue; skilled",
+    "desc": "The character at the heart of Mencius argument that human nature is originally good — the moral sprouts waiting to be cultivated.",
+    "tags": [
+      "ethics",
+      "virtue",
+      "confucianism",
+      "human-nature",
+      "philosophy",
+      "buddhism",
+      "taoism"
+    ],
+    "status": "complete",
+    "char": "善",
+    "pinyin": "shàn",
+    "tone": 4,
+    "hsk": 4,
+    "radical": "口",
+    "updated": "2026-04-25"
+  },
+  {
     "path": "pages/characters/shao3_少.html",
     "type": "character",
     "category": "characters",
@@ -398,6 +960,49 @@
     "tone": 3,
     "hsk": 1,
     "radical": "小",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/characters/shen2_神.html",
+    "type": "character",
+    "category": "characters",
+    "title": "神 · spirit; deity; divine",
+    "desc": "The character that names both the gods of Chinese folk religion and the focused attention of the human mind — because in Chinese thought they belong to the same category of phenomenon.",
+    "tags": [
+      "religion",
+      "folk-religion",
+      "gods",
+      "philosophy",
+      "taoism",
+      "cosmology",
+      "mind",
+      "energy"
+    ],
+    "status": "complete",
+    "char": "神",
+    "pinyin": "shén",
+    "tone": 2,
+    "hsk": 3,
+    "radical": "示",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/characters/shi2_十.html",
+    "type": "character",
+    "category": "characters",
+    "title": "十 · ten; complete; cross",
+    "desc": "十 is written as a cross — a vertical stroke cutting through a horizontal one — the point where all four cardinal directions meet, making ten the numeral of total completion.",
+    "tags": [
+      "language",
+      "cosmology",
+      "science"
+    ],
+    "status": "complete",
+    "char": "十",
+    "pinyin": "shí",
+    "tone": 2,
+    "hsk": 1,
+    "radical": "十",
     "updated": "2026-04-25"
   },
   {
@@ -419,6 +1024,106 @@
     "tone": 3,
     "hsk": 4,
     "radical": "歹",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/characters/ta1_他.html",
+    "type": "character",
+    "category": "characters",
+    "title": "他 · he, him; another",
+    "desc": "他 was gender-neutral for a millennium until 她 was coined in 1917 to solve a translation problem that Classical Chinese had never needed to solve.",
+    "tags": [
+      "grammar",
+      "humanity",
+      "social",
+      "modern"
+    ],
+    "status": "complete",
+    "char": "他",
+    "pinyin": "tā",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "人",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/characters/ting1_听.html",
+    "type": "character",
+    "category": "characters",
+    "title": "听 · to listen, to hear, to obey",
+    "desc": "The simplified 听 = mouth + axe, but the traditional 聽 encodes whole-body Confucian listening: ear, eye, heart, and upright virtue arrayed together in a single glyph.",
+    "tags": [
+      "perception",
+      "daily-life",
+      "confucianism"
+    ],
+    "status": "complete",
+    "char": "听",
+    "pinyin": "tīng",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "口",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/characters/wan4_万.html",
+    "type": "character",
+    "category": "characters",
+    "title": "万 · ten thousand; myriad; all",
+    "desc": "万 is the Chinese hyperbole unit — where English reaches for millions, Chinese reaches for 万 to express the immeasurable, because the written number 10,000 originally meant scorpion.",
+    "tags": [
+      "cosmology",
+      "scale",
+      "language"
+    ],
+    "status": "complete",
+    "char": "万",
+    "pinyin": "wàn",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "一",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/characters/wei2_为.html",
+    "type": "character",
+    "category": "characters",
+    "title": "为 · to do; to act; for; because of",
+    "desc": "In oracle bone script, a hand leading an elephant — to guide an immense force through skillful agency — and the character at the center of the Daoist concept of non-action.",
+    "tags": [
+      "grammar",
+      "classical",
+      "taoism",
+      "philosophy",
+      "daoism",
+      "wuwei",
+      "syntax"
+    ],
+    "status": "complete",
+    "char": "为",
+    "pinyin": "wéi",
+    "tone": 2,
+    "hsk": 2,
+    "radical": "丶",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/characters/wo3_我.html",
+    "type": "character",
+    "category": "characters",
+    "title": "我 · I, me, myself",
+    "desc": "The character for 'I' began as a toothed bronze halberd — the assertive grip of a weapon became the grammatical mark of a self.",
+    "tags": [
+      "grammar",
+      "humanity",
+      "social"
+    ],
+    "status": "complete",
+    "char": "我",
+    "pinyin": "wǒ",
+    "tone": 3,
+    "hsk": 1,
+    "radical": "戈",
     "updated": "2026-04-25"
   },
   {
@@ -463,6 +1168,64 @@
     "updated": "2026-04-25"
   },
   {
+    "path": "pages/characters/xiang3_想.html",
+    "type": "character",
+    "category": "characters",
+    "title": "想 · to think, to want, to miss",
+    "desc": "想 = 相 (mutual, facing) + 心 (heart) — the heart turned toward something, carrying the full range from thought to desire to longing in a single gesture.",
+    "tags": [
+      "mind",
+      "emotion",
+      "philosophy"
+    ],
+    "status": "complete",
+    "char": "想",
+    "pinyin": "xiǎng",
+    "tone": 3,
+    "hsk": 2,
+    "radical": "心",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/characters/xiao3_小.html",
+    "type": "character",
+    "category": "characters",
+    "title": "小 · small, little; humble",
+    "desc": "Three minimal strokes that became the Confucian axis of moral character: the 小人 (petty person) and the 君子 (exemplary person) are the two poles every learner of classical Chinese must know.",
+    "tags": [
+      "confucianism",
+      "daily-life",
+      "adjectives"
+    ],
+    "status": "complete",
+    "char": "小",
+    "pinyin": "xiǎo",
+    "tone": 3,
+    "hsk": 1,
+    "radical": "小",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/characters/xie3_写.html",
+    "type": "character",
+    "category": "characters",
+    "title": "写 · to write; to describe",
+    "desc": "写 simplified from 寫, which shows a magpie under a roof — the bird that mimics and transmits, giving its voice to the written mark.",
+    "tags": [
+      "writing",
+      "language",
+      "arts",
+      "calligraphy"
+    ],
+    "status": "complete",
+    "char": "写",
+    "pinyin": "xiě",
+    "tone": 3,
+    "hsk": 1,
+    "radical": "冖",
+    "updated": "2026-04-25"
+  },
+  {
     "path": "pages/characters/xin1_新.html",
     "type": "character",
     "category": "characters",
@@ -479,6 +1242,108 @@
     "tone": 1,
     "hsk": 2,
     "radical": "斤",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/characters/ye3_也.html",
+    "type": "character",
+    "category": "characters",
+    "title": "也 · also; too; classical particle",
+    "desc": "A pictograph that lost its original image entirely and became one of the most load-bearing particles in classical Chinese — the gavel at the end of every verdict.",
+    "tags": [
+      "grammar",
+      "particle",
+      "classical",
+      "syntax",
+      "adverb"
+    ],
+    "status": "complete",
+    "char": "也",
+    "pinyin": "yě",
+    "tone": 3,
+    "hsk": 1,
+    "radical": "乙",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/characters/yi1_一.html",
+    "type": "character",
+    "category": "characters",
+    "title": "一 · one; unified; as soon as",
+    "desc": "The simplest mark a brush can make carries the heaviest philosophical weight in Chinese civilization — 道生一，一生二，the Dao generates One, and One generates everything.",
+    "tags": [
+      "cosmology",
+      "philosophy",
+      "taoism",
+      "confucianism"
+    ],
+    "status": "complete",
+    "char": "一",
+    "pinyin": "yī",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "一",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/characters/yi3_以.html",
+    "type": "character",
+    "category": "characters",
+    "title": "以 · by means of; using; because; in order to",
+    "desc": "A classical Chinese preposition and conjunction so versatile that it anchors half the grammar of formal Chinese — the word that turns one thing into the means, standard, or cause of another.",
+    "tags": [
+      "grammar",
+      "classical",
+      "syntax",
+      "conjunction",
+      "particle",
+      "literary"
+    ],
+    "status": "complete",
+    "char": "以",
+    "pinyin": "yǐ",
+    "tone": 3,
+    "hsk": 2,
+    "radical": "人",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/characters/yong4_用.html",
+    "type": "character",
+    "category": "characters",
+    "title": "用 · to use; function; expense",
+    "desc": "用 began as a pictograph of a bucket or bell — a vessel put to work — and became the character that Zhuangzi inverted in his doctrine of 无用之用: the use of uselessness.",
+    "tags": [
+      "daoism",
+      "philosophy",
+      "daily-life",
+      "grammar"
+    ],
+    "status": "complete",
+    "char": "用",
+    "pinyin": "yòng",
+    "tone": 4,
+    "hsk": 2,
+    "radical": "用",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/characters/you4_右.html",
+    "type": "character",
+    "category": "characters",
+    "title": "右 · right; to assist; to favor",
+    "desc": "A right hand raised to a mouth — the hand that feeds and speaks, whose authority in Chinese extended to favoring, protecting, and placing the highest things to the right of the seat.",
+    "tags": [
+      "direction",
+      "space",
+      "daily-life"
+    ],
+    "status": "complete",
+    "char": "右",
+    "pinyin": "yòu",
+    "tone": 4,
+    "hsk": 2,
+    "radical": "口",
     "updated": "2026-04-25"
   },
   {
@@ -504,6 +1369,26 @@
     "updated": "2026-04-25"
   },
   {
+    "path": "pages/characters/zhi1_知.html",
+    "type": "character",
+    "category": "characters",
+    "title": "知 · to know; knowledge",
+    "desc": "知 = arrow + mouth: knowledge as the swift, target-hitting utterance — and in Wang Yangming, the act of knowing is inseparable from the act of doing.",
+    "tags": [
+      "knowing",
+      "philosophy",
+      "confucianism",
+      "education"
+    ],
+    "status": "complete",
+    "char": "知",
+    "pinyin": "zhī",
+    "tone": 1,
+    "hsk": 2,
+    "radical": "矢",
+    "updated": "2026-04-25"
+  },
+  {
     "path": "pages/characters/zu2_足.html",
     "type": "character",
     "category": "characters",
@@ -520,6 +1405,25 @@
     "tone": 2,
     "hsk": 4,
     "radical": "足",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/characters/zuo3_左.html",
+    "type": "character",
+    "category": "characters",
+    "title": "左 · left; unorthodox; to assist",
+    "desc": "A left hand holding a carpenter's square — the assisting hand at the ruler, and by extension the word for unorthodox, heterodox, and everything that deviates from the orthodox path.",
+    "tags": [
+      "direction",
+      "space",
+      "daily-life"
+    ],
+    "status": "complete",
+    "char": "左",
+    "pinyin": "zuǒ",
+    "tone": 3,
+    "hsk": 2,
+    "radical": "工",
     "updated": "2026-04-25"
   },
   {
@@ -557,6 +1461,87 @@
     "updated": "2026-04-25"
   },
   {
+    "path": "pages/chengyu/junzibugui_君子不器.html",
+    "type": "vocab",
+    "category": "chengyu",
+    "title": "君子不器 · the exemplary person is not a vessel",
+    "desc": "Confucius says the junzi is not a utensil — not defined by function, not limited to one use. The Analects' argument against reducing a person to their usefulness.",
+    "tags": [
+      "chengyu",
+      "classical",
+      "idioms",
+      "confucianism",
+      "confucius",
+      "analects",
+      "virtue",
+      "ethics",
+      "education",
+      "philosophy"
+    ],
+    "status": "complete",
+    "pinyin": "jūnzǐ bù qì",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/chengyu/sanyicheng_三人成虎.html",
+    "type": "vocab",
+    "category": "chengyu",
+    "title": "三人成虎 · three people make a tiger",
+    "desc": "A minister warns his king: if three people all claim there is a tiger in the marketplace, even the skeptical will believe it. The Zhanguo Ce parable of rumor that outlasts the warning against it.",
+    "tags": [
+      "chengyu",
+      "classical",
+      "idioms",
+      "logic",
+      "rhetoric",
+      "communication",
+      "media",
+      "society"
+    ],
+    "status": "complete",
+    "pinyin": "sān rén chéng hǔ",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/chengyu/shiyuansuowei_事与愿违.html",
+    "type": "vocab",
+    "category": "chengyu",
+    "title": "事与愿违 · things go contrary to ones wishes",
+    "desc": "Traced to Ruan Ji of the Seven Sages of the Bamboo Grove: a literary formulation of the gap between intention and outcome, resigned rather than accusatory, with no blame assigned.",
+    "tags": [
+      "chengyu",
+      "classical",
+      "idioms",
+      "philosophy",
+      "fate",
+      "daily-life",
+      "pragmatics",
+      "colloquial"
+    ],
+    "status": "complete",
+    "pinyin": "shì yǔ yuàn wéi",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/chengyu/wangyangbuao_亡羊补牢.html",
+    "type": "vocab",
+    "category": "chengyu",
+    "title": "亡羊补牢 · mend the sheep pen after the sheep is lost",
+    "desc": "From the Zhanguo Ce: a man loses sheep through a hole in his pen and is told he is too late to repair it. A neighbor corrects the fatalist — remediation after a loss is not too late, it is exactly right.",
+    "tags": [
+      "chengyu",
+      "classical",
+      "idioms",
+      "planning",
+      "ethics",
+      "colloquial",
+      "daily-life"
+    ],
+    "status": "complete",
+    "pinyin": "wáng yáng bǔ láo",
+    "updated": "2026-04-25"
+  },
+  {
     "path": "pages/chengyu/wanzhangaolou_万丈高楼.html",
     "type": "vocab",
     "category": "chengyu",
@@ -578,6 +1563,26 @@
     "updated": "2026-04-25"
   },
   {
+    "path": "pages/chengyu/yushijujin_与时俱进.html",
+    "type": "vocab",
+    "category": "chengyu",
+    "title": "与时俱进 · to advance together with the times",
+    "desc": "A classical phrase that became a political slogan in 2001, used to justify the Communist Party accommodating private enterprise — and criticized for justifying whatever the party currently does.",
+    "tags": [
+      "chengyu",
+      "classical",
+      "idioms",
+      "modern",
+      "culture",
+      "politics",
+      "change",
+      "philosophy"
+    ],
+    "status": "complete",
+    "pinyin": "yǔ shí jù jìn",
+    "updated": "2026-04-25"
+  },
+  {
     "path": "pages/culture/topic_duanwu.html",
     "type": "topic",
     "category": "culture",
@@ -592,6 +1597,27 @@
     ],
     "status": "complete",
     "pinyin": "Duānwǔ jié",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/culture/topic_zhongjiu.html",
+    "type": "topic",
+    "category": "culture",
+    "title": "重阳节 · Double Ninth Festival",
+    "desc": "The festival named for two nines produced one of the Tang dynasty most memorized poems — and a linguistic trick that lets urban dwellers eat a cake instead of climbing a mountain.",
+    "tags": [
+      "festival",
+      "culture",
+      "daily-life",
+      "history",
+      "confucianism",
+      "nature",
+      "ancestors",
+      "family",
+      "poetry"
+    ],
+    "status": "complete",
+    "pinyin": "Chóngyángjié",
     "updated": "2026-04-25"
   },
   {
@@ -848,6 +1874,50 @@
     "updated": "2026-04-25"
   },
   {
+    "path": "pages/philosophy/topic_mojia.html",
+    "type": "topic",
+    "category": "philosophy",
+    "title": "墨家 · Mohism",
+    "desc": "The one Chinese philosophical school that fielded an army of engineers and nearly matched Confucianism in institutional scale before vanishing for fifteen centuries.",
+    "tags": [
+      "mohism",
+      "universal-love",
+      "philosophy",
+      "history",
+      "classical",
+      "ethics",
+      "virtue",
+      "confucianism",
+      "statecraft",
+      "ancient"
+    ],
+    "status": "complete",
+    "pinyin": "Mòjiā",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/philosophy/topic_yangming.html",
+    "type": "topic",
+    "category": "philosophy",
+    "title": "王阳明 · Wang Yangming and the School of Mind",
+    "desc": "Wang Yangming broke Neo-Confucianism open: instead of investigating external things to reach moral truth, he turned inward and declared that the moral mind already knows — and that knowing and acting are one indivisible movement.",
+    "tags": [
+      "wang-yangming",
+      "neo-confucianism",
+      "confucianism",
+      "philosophy",
+      "ethics",
+      "human-nature",
+      "knowing",
+      "mind",
+      "history",
+      "ming"
+    ],
+    "status": "complete",
+    "pinyin": "Wáng Yángmíng",
+    "updated": "2026-04-25"
+  },
+  {
     "path": "pages/philosophy/topic_zhengming.html",
     "type": "topic",
     "category": "philosophy",
@@ -902,6 +1972,27 @@
     "updated": "2026-04-25"
   },
   {
+    "path": "pages/science/topic_wuxing.html",
+    "type": "topic",
+    "category": "science",
+    "title": "五行 · Five Phases",
+    "desc": "The Qin dynasty dressed its armies in black and flew black banners because its theorists believed they ruled under the Water phase — this is how consequentially the Five Phases shaped Chinese history.",
+    "tags": [
+      "wuxing",
+      "five-phases",
+      "cosmology",
+      "philosophy",
+      "tcm",
+      "nature",
+      "yin-yang",
+      "history",
+      "ancient"
+    ],
+    "status": "complete",
+    "pinyin": "wǔ xíng",
+    "updated": "2026-04-25"
+  },
+  {
     "path": "pages/vocab/changjian_长城.html",
     "type": "vocab",
     "category": "vocab",
@@ -936,6 +2027,25 @@
     "updated": "2026-04-25"
   },
   {
+    "path": "pages/vocab/cibi_慈悲.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "慈悲 · compassion; mercy",
+    "desc": "Two Sanskrit terms fused into one Chinese compound: the wish that beings be happy and the wish that they be free from suffering — both directions of the same opening movement.",
+    "tags": [
+      "buddhism",
+      "compassion",
+      "ethics",
+      "virtue",
+      "religion",
+      "philosophy",
+      "folk-religion"
+    ],
+    "status": "complete",
+    "pinyin": "cíbēi",
+    "updated": "2026-04-25"
+  },
+  {
     "path": "pages/vocab/guojia_国家.html",
     "type": "vocab",
     "category": "vocab",
@@ -949,6 +2059,130 @@
     ],
     "status": "complete",
     "pinyin": "guójiā",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/vocab/junzi_君子.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "君子 · the exemplary person",
+    "desc": "The Confucian moral ideal that replaced aristocratic birth with cultivated virtue as the basis of social authority — anyone who does the work of 仁义礼智信 qualifies.",
+    "tags": [
+      "confucianism",
+      "ethics",
+      "virtue",
+      "analects"
+    ],
+    "status": "complete",
+    "pinyin": "jūnzǐ",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/vocab/liangxin_良心.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "良心 · conscience; innate moral sense",
+    "desc": "The good heart-mind: the Chinese word for conscience carries a philosophical claim that moral knowledge is a natural endowment, not an acquired rule.",
+    "tags": [
+      "ethics",
+      "virtue",
+      "confucianism",
+      "human-nature",
+      "philosophy",
+      "mind",
+      "wang-yangming"
+    ],
+    "status": "complete",
+    "pinyin": "liángxīn",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/vocab/lishi_历史.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "历史 · history",
+    "desc": "The character for historian shows a hand holding a brush over a vessel — in ancient China, the scribe who held the brush held power.",
+    "tags": [
+      "history",
+      "culture",
+      "writing",
+      "literature",
+      "classical",
+      "learning"
+    ],
+    "status": "complete",
+    "pinyin": "lìshǐ",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/vocab/lunhui_轮回.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "轮回 · samsara; the cycle of rebirth",
+    "desc": "The Buddhist karmic wheel that turns through six realms of existence — the foundational concept that motivates all Buddhist practice as a path toward liberation.",
+    "tags": [
+      "buddhism",
+      "religion",
+      "philosophy",
+      "cosmology",
+      "classical",
+      "fate",
+      "life"
+    ],
+    "status": "complete",
+    "pinyin": "lúnhuí",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/vocab/pusa_菩萨.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "菩萨 · Bodhisattva",
+    "desc": "菩萨 is the being who stands at the threshold of complete enlightenment and turns back — choosing to remain within the cycle of existence until every sentient being can be liberated alongside them.",
+    "tags": [
+      "buddhism",
+      "religion",
+      "compassion",
+      "folk-religion"
+    ],
+    "status": "complete",
+    "pinyin": "púsà",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/vocab/qiankun_乾坤.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "乾坤 · heaven and earth; the two primary trigrams",
+    "desc": "The first two hexagrams of the Yijing encode the entire cosmos: Qian is pure creative yang, Kun is pure receptive yin, and between them all change unfolds.",
+    "tags": [
+      "cosmology",
+      "philosophy",
+      "yin-yang",
+      "binary",
+      "classical",
+      "taoism",
+      "literature",
+      "history"
+    ],
+    "status": "complete",
+    "pinyin": "qiánkūn",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/vocab/qianxu_谦虚.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "谦虚 · humility, modesty",
+    "desc": "谦虚 is both a Confucian virtue and a social practice — in Chinese interaction, it functions as a required performative register, not just an internal attitude.",
+    "tags": [
+      "confucianism",
+      "virtue",
+      "social",
+      "ethics"
+    ],
+    "status": "complete",
+    "pinyin": "qiānxū",
     "updated": "2026-04-25"
   },
   {
@@ -971,6 +2205,25 @@
     "updated": "2026-04-25"
   },
   {
+    "path": "pages/vocab/shehui_社会.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "社会 · society",
+    "desc": "The word for society that China borrowed from Japan, which had borrowed the characters from China — a compound forged at the altar of the earth.",
+    "tags": [
+      "society",
+      "social",
+      "connections",
+      "culture",
+      "confucianism",
+      "history",
+      "modern"
+    ],
+    "status": "complete",
+    "pinyin": "shèhuì",
+    "updated": "2026-04-25"
+  },
+  {
     "path": "pages/vocab/shenming_神明.html",
     "type": "vocab",
     "category": "vocab",
@@ -985,6 +2238,41 @@
     ],
     "status": "complete",
     "pinyin": "shénmíng",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/vocab/siluzhilu_丝绸之路.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "丝绸之路 · the Silk Road",
+    "desc": "The term Silk Road was coined by a German geographer in 1877 — the Chinese themselves had no single name for the trade network that defined their contact with the world for a millennium.",
+    "tags": [
+      "history",
+      "geography",
+      "silk",
+      "trade"
+    ],
+    "status": "complete",
+    "pinyin": "sīchóu zhī lù",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/vocab/tiandi_天地.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "天地 · heaven and earth; the cosmos",
+    "desc": "The foundational dyad of Chinese cosmology, pairing Heaven and Earth as the two poles of the created order within which all human life unfolds.",
+    "tags": [
+      "cosmology",
+      "taoism",
+      "philosophy",
+      "nature",
+      "heaven",
+      "classical",
+      "existence"
+    ],
+    "status": "complete",
+    "pinyin": "tiāndì",
     "updated": "2026-04-25"
   },
   {
@@ -1024,6 +2312,23 @@
     "updated": "2026-04-25"
   },
   {
+    "path": "pages/vocab/wuwei_无为.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "无为 · non-action; acting in accord with nature",
+    "desc": "无为 is the Daoist elimination of forced, ego-driven action — the master principle behind effortless effectiveness, sage governance, and Zhuangzi's cook whose knife stays forever sharp.",
+    "tags": [
+      "daoism",
+      "daodejing",
+      "laozi",
+      "wuwei",
+      "philosophy"
+    ],
+    "status": "complete",
+    "pinyin": "wúwéi",
+    "updated": "2026-04-25"
+  },
+  {
     "path": "pages/vocab/yi4_义.html",
     "type": "vocab",
     "category": "vocab",
@@ -1041,6 +2346,22 @@
     "updated": "2026-04-25"
   },
   {
+    "path": "pages/vocab/zhihui_智慧.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "智慧 · wisdom; prajna",
+    "desc": "智慧 brings together Confucian moral discernment and Buddhist prajna under one compound — two traditions, one word, different objects of knowing.",
+    "tags": [
+      "philosophy",
+      "buddhism",
+      "confucianism",
+      "knowing"
+    ],
+    "status": "complete",
+    "pinyin": "zhìhuì",
+    "updated": "2026-04-25"
+  },
+  {
     "path": "pages/vocab/zhongguo_中国.html",
     "type": "vocab",
     "category": "vocab",
@@ -1055,6 +2376,23 @@
     ],
     "status": "complete",
     "pinyin": "Zhōngguó",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/vocab/zuxian_祖先.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "祖先 · ancestors; forebears",
+    "desc": "祖先 sits at the center of Chinese religious life — ancestor veneration is a living practice through which families maintain active, reciprocal continuity with the dead.",
+    "tags": [
+      "ancestors",
+      "family",
+      "folk-religion",
+      "confucianism",
+      "ritual"
+    ],
+    "status": "complete",
+    "pinyin": "zǔxiān",
     "updated": "2026-04-25"
   },
   {
@@ -4249,22 +5587,6 @@
     "updated": "2026-04-19"
   },
   {
-    "path": "pages/science/topic_wuxing.html",
-    "type": "topic",
-    "category": "science",
-    "title": "五行 · The Five Phases",
-    "desc": "The five dynamic processes — wood, fire, earth, metal, water — that classical Chinese science used to map medicine, cosmology, music, politics, and time.",
-    "tags": [
-      "cosmology",
-      "wuxing",
-      "tcm",
-      "philosophy"
-    ],
-    "status": "complete",
-    "pinyin": "wǔxíng",
-    "updated": "2026-04-19"
-  },
-  {
     "path": "pages/science/topic_xingxiu.html",
     "type": "topic",
     "category": "science",
@@ -5573,21 +6895,6 @@
     "updated": "2026-04-18"
   },
   {
-    "path": "pages/philosophy/topic_mojia.html",
-    "type": "topic",
-    "category": "philosophy",
-    "title": "墨家 · Mohism",
-    "desc": "Universal love, anti-war, and the utilitarian logic China nearly chose.",
-    "tags": [
-      "mohism",
-      "universal-love",
-      "logic"
-    ],
-    "status": "complete",
-    "pinyin": "mòjiā",
-    "updated": "2026-04-18"
-  },
-  {
     "path": "pages/philosophy/topic_xinxue.html",
     "type": "topic",
     "category": "philosophy",
@@ -5991,5 +7298,48 @@
     "status": "complete",
     "pinyin": "yuánfèn",
     "updated": "2026-04-18"
+  },
+  {
+    "path": "pages/history/topic_changcheng.html",
+    "type": "topic",
+    "category": "history",
+    "title": "长城 · The Great Wall",
+    "desc": "Two millennia of walls, watchtowers, and beacon fires — what the Great Wall actually was, and why \"the wall\" is a translation that flattens a complicated history.",
+    "tags": [
+      "history",
+      "fortification",
+      "border"
+    ],
+    "status": "stub",
+    "pinyin": "cháng chéng"
+  },
+  {
+    "path": "pages/history/topic_sichouzhilu.html",
+    "type": "topic",
+    "category": "history",
+    "title": "丝绸之路 · The Silk Roads",
+    "desc": "Two thousand years of overland and maritime trade between Chang'an and the Mediterranean — the roads that carried silk, ideas, religions, and pandemics.",
+    "tags": [
+      "history",
+      "trade",
+      "culture"
+    ],
+    "status": "stub",
+    "pinyin": "sī chóu zhī lù"
+  },
+  {
+    "path": "pages/religion/topic_shengshan.html",
+    "type": "topic",
+    "category": "religion",
+    "title": "圣山 · Sacred Mountains",
+    "desc": "The Five Great Mountains of Daoism (五岳) and the Four Sacred Mountains of Buddhism (四大名山) — China's geography of pilgrimage.",
+    "tags": [
+      "religion",
+      "pilgrimage",
+      "geography",
+      "buddhism"
+    ],
+    "status": "stub",
+    "pinyin": "shèng shān"
   }
 ]
