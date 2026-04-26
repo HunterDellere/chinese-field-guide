@@ -286,6 +286,11 @@ function renderExploreContent(entries) {
       ${familyCards}
     </div>
 
+    <span class="section-anchor" id="all-categories"></span>
+    <div class="all-cats-clusters">
+      ${familyClusters}
+    </div>
+
     <span class="section-anchor" id="maps"></span>
     <div class="section-head">
       <span class="sh-cn">地图</span>
@@ -306,12 +311,7 @@ function renderExploreContent(entries) {
         <span class="map-callout-desc">Toggle layers: modern provinces, dynastic extents, major rivers, dialect zones, and cultural sites. Click any marker to open the linked entry.</span>
       </div>
       <span class="map-callout-cta" aria-hidden="true">Open the map →</span>
-    </a>
-
-    <span class="section-anchor" id="all-categories"></span>
-    <div class="all-cats-clusters">
-      ${familyClusters}
-    </div>`;
+    </a>`;
 }
 
 // ── crosslinks (bottom-of-page navigation between families) ────────────────
