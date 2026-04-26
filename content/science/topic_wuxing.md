@@ -3,17 +3,22 @@ type: 'topic'
 category: 'science'
 status: 'complete'
 content_review: 'pending'
-title: '五行 · The Five Phases'
-desc: 'The five dynamic processes — wood, fire, earth, metal, water — that classical Chinese science used to map medicine, cosmology, music, politics, and time.'
-metaDesc: '五行 wǔxíng: the Five Phases of classical Chinese thought — wood, fire, earth, metal, water — and the two cycles of generation and control that organized TCM, cosmology, music, statecraft, and the calendar.'
-pageTitle: '五行 · The Five Phases'
+title: '五行 · Five Phases'
+desc: 'The Qin dynasty dressed its armies in black and flew black banners because its theorists believed they ruled under the Water phase — this is how consequentially the Five Phases shaped Chinese history.'
+metaDesc: "Five Phases (wuxing) explained: the Chinese cosmological system of Water, Wood, Fire, Earth, and Metal as five modes of transformation, covering the generation and conquest cycles, traditional Chinese medicine applications, dynastic color symbolism, and key vocabulary."
+pageTitle: '五行 wǔxíng'
 tags:
-  - 'cosmology'
   - 'wuxing'
-  - 'tcm'
+  - 'five-phases'
+  - 'cosmology'
   - 'philosophy'
-updated: '2026-04-19'
-pinyin: 'wǔxíng'
+  - 'tcm'
+  - 'nature'
+  - 'yin-yang'
+  - 'history'
+  - 'ancient'
+updated: '2026-04-25'
+pinyin: 'wǔ xíng'
 ---
 
 
@@ -22,127 +27,71 @@ pinyin: 'wǔxíng'
   <!-- ═══ SIDEBAR ═══ -->
   <aside class="sidebar" id="sidebar">
     <span class="toc-topic">五行</span>
-    <span class="toc-topic-en">The Five Phases</span>
+    <span class="toc-topic-en">Five Phases</span>
 
     <div class="toc-divider"></div>
     <span class="toc-label">On this page</span>
 
     <ul class="toc-list">
-      <li><a href="#overview">
-        <span class="toc-cn">概论</span> Overview
-        <span class="toc-sub">gàilùn · phases, not elements</span>
+      <li><a href="#origins">
+        <span class="toc-cn">起源与误译</span> Origins
+        <span class="toc-sub">five processes, not five substances</span>
       </a></li>
       <li><a href="#phases">
-        <span class="toc-cn">五行</span> The Five Phases
-        <span class="toc-sub">wǔxíng · wood, fire, earth, metal, water</span>
+        <span class="toc-cn">五行详解</span> The Five Phases
+        <span class="toc-sub">water · wood · fire · earth · metal</span>
       </a></li>
       <li><a href="#cycles">
-        <span class="toc-cn">两大循环</span> The Two Cycles
-        <span class="toc-sub">xiāng shēng · xiāng kè</span>
+        <span class="toc-cn">相生相克</span> Generation &amp; Conquest
+        <span class="toc-sub">the two structural cycles</span>
       </a></li>
-      <li><a href="#tcm">
-        <span class="toc-cn">五行与中医</span> Five Phases in TCM
-        <span class="toc-sub">wǔzàng · wǔwèi · wǔsè</span>
+      <li><a href="#medicine">
+        <span class="toc-cn">中医应用</span> Chinese Medicine
+        <span class="toc-sub">organs · flavors · diagnosis</span>
       </a></li>
-      <li><a href="#beyond">
-        <span class="toc-cn">五行的广度</span> Beyond Medicine
-        <span class="toc-sub">calendar, music, statecraft</span>
+      <li><a href="#dynastic">
+        <span class="toc-cn">王朝更替</span> Dynastic Succession
+        <span class="toc-sub">Zou Yan · Qin black · Han yellow</span>
       </a></li>
-      <li><a href="#chengyu">
-        <span class="toc-cn">成语</span> Idioms
-        <span class="toc-sub">chéngyǔ · set phrases</span>
-      </a></li>
-      <li><a href="#adjacent">
-        <span class="toc-cn">相邻</span> Adjacent Vocab
-        <span class="toc-sub">xiānglín cíhuì</span>
+      <li><a href="#vocabulary">
+        <span class="toc-cn">五行词汇</span> Vocabulary
+        <span class="toc-sub">五行 · 相生 · 相克 · 五脏 · 五味</span>
       </a></li>
     </ul>
   </aside>
 
   <!-- ═══ MAIN ═══ -->
-  <main class="main">
+  <main class="main" id="main-content">
 
-    <!-- HERO -->
     <header class="topic-hero">
-      <span class="topic-hero-eyebrow">Science · 科学 kēxué</span>
+      <span class="topic-hero-eyebrow">Science &amp; Cosmology · 科学 kēxué</span>
       <h1 class="topic-hero-title">五行</h1>
-      <span class="topic-hero-title-py">wǔ xíng</span>
-      <p class="topic-hero-desc">Five phases, not five elements. The classical Chinese model of dynamic process that organized medicine, divination, statecraft, cuisine, music, and the calendar into one coherent system.</p>
+      <span class="topic-hero-title-py">wǔxíng</span>
+      <p class="topic-hero-desc">Five modes of transformation that map everything from organ function to dynastic legitimacy — and whose mistranslation as "Five Elements" has obscured the system for over a century.</p>
     </header>
 
-    <!-- ── OVERVIEW ── -->
-    <span class="section-anchor" id="overview"></span>
+    <!-- ── ORIGINS ── -->
+    <span class="section-anchor" id="origins"></span>
     <div class="section-head">
-      <span class="sh-cn">概论</span>
-      <span class="sh-py">gàilùn</span>
-      <span class="sh-en">Overview — Phases, Not Elements</span>
+      <span class="sh-cn">起源与误译</span>
+      <span class="sh-py">qǐyuán yǔ wùyì</span>
+      <span class="sh-en">Origins and the Mistranslation that Stuck</span>
       <span class="sh-rule"></span>
     </div>
 
     <div class="scholar" data-glyph="行">
-      <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>五 wǔ</strong> (five) <strong>+ 行 xíng</strong> (to walk; to move; to act; in its oracle bone form, the character shows a crossroads: two paths diverging, movement going outward in all directions). 行 is a phase of process, a mode of activity, a way of moving through the world. The standard English translation "Five Elements" misleads — "element" implies a material category where 行 names a quality of movement.</p>
-      <p>Each phase names a quality of motion. <strong>木 mù</strong> (Wood) is the quality of upward, expanding growth. <strong>火 huǒ</strong> (Fire) is the quality of ascending transformation. <strong>土 tǔ</strong> (Earth) is the quality of centering and stabilization. <strong>金 jīn</strong> (Metal) is the quality of condensation, contraction, and precision. <strong>水 shuǐ</strong> (Water) is the quality of flowing, descending, and storing.</p>
-      <p>The system is first fully articulated in the <strong>洪范 Hóng Fàn</strong> (Grand Norm) chapter of the <em>Book of Documents</em> (尚书 Shàngshū) and in the <strong>黄帝内经 Huángjì Nèijīng</strong> (Yellow Emperor's Classic of Internal Medicine, compiled ca. 2nd century BCE), which applies it comprehensively to medicine. By the Han dynasty, the cosmologist <strong>董仲舒 Dǒng Zhòngshū</strong> (179–104 BCE) had extended it into a universal theory of history and statecraft: every dynasty, every emperor, every season, every organ, every musical note occupied a position within the same interlocking map. The human body was a microcosm of the cosmos, and the cosmos behaved like a body.</p>
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · Conceptual Foundation</div>
+      <p>The character at the center of this system repays close attention. <strong>行 xíng</strong> means to walk, to move, to act, to proceed — its oracle bone form depicts a crossroads, a place defined entirely by movement and direction. The Five Phases are five modes of activity, five patterns of movement through the world. They are not five substances from which things are made. This is the error that 19th-century European sinologists introduced when they reached for the Greek term "elements": in Aristotelian thought, water is a substance; in the Chinese 行 framework, water is a process of flowing, sinking, and moistening. The difference is not cosmetic. Substance-thinking asks what things are made of; process-thinking asks what things do and where they are going.</p>
+      <p>The system crystallized during the Warring States period (475–221 BCE). The thinker most responsible for its systematic development was <strong>邹衍 Zōu Yǎn</strong> (c. 305–240 BCE), who applied it to dynastic succession — a political application whose consequences shaped Chinese imperial culture for two thousand years. The earliest systematic list appears in the <strong>洪范 Hóng Fàn</strong> (Great Plan) section of the <em>Shujing</em> (Classic of Documents): water, fire, wood, metal, earth — in that order, prioritized by perceived primacy, not by seasonal cycle. The seasonal ordering that most people know today (Wood as spring, Fire as summer, Metal as autumn, Water as winter, Earth as the center and the transitions) came through the Han dynasty synthesis.</p>
+      <p>What made the 五行 framework intellectually powerful was its scope. It offered a single grammar for describing correspondences across every domain simultaneously: seasons, directions, organ systems, planets, flavors, colors, emotions, musical notes, and dynasties all mapped onto the same five-part structure. When the physician listens to the patient's voice, the farmer reads the weather, and the court astronomer tracks Jupiter, they are reading different surfaces of the same underlying pattern.</p>
     </div>
 
     <!-- ── THE FIVE PHASES ── -->
     <span class="section-anchor" id="phases"></span>
     <div class="section-head">
       <span class="sh-cn">五行详解</span>
-      <span class="sh-py">wǔxíng xiángjiě</span>
+      <span class="sh-py">wǔxíng xiángjié</span>
       <span class="sh-en">The Five Phases in Detail</span>
-      <span class="sh-rule"></span>
-    </div>
-
-    <div class="scholar" data-glyph="木">
-      <div class="scholar-label">五行洞见 wǔxíng dòngjiàn · Phase Insight</div>
-      <p>Each phase carries a complete network of correspondences that spans the body, the cosmos, the seasons, and the senses. These correspondences are not arbitrary — they follow from the defining quality of each phase's motion. The phase that grows upward (Wood) corresponds to spring, to the east where the sun rises, to the liver which processes and moves outward, to the color of new growth, to the sour flavor that causes the mouth to contract and gather. The correspondences cohere because each is an expression of the same underlying quality.</p>
-      <p><strong>木 mù — Wood.</strong> Upward growth, flexibility, assertive expansion. Season: spring. Direction: east. Organ system: liver 肝 gān and gallbladder 胆 dǎn. Color: green 青 qīng. Musical note: jué 角. Planet: Jupiter 木星 Mùxīng. Flavor: sour 酸 suān. The Wood phase is active, rising, the first movement of yang energy out of winter's yin stillness. Excess Wood: irritability, headaches, tight tendons, rage. Deficient Wood: indecision, poor vision, brittle nails, inability to assert.</p>
-      <p><strong>火 huǒ — Fire.</strong> Ascending heat, transformation, illumination, joy. Season: summer. Direction: south. Organ system: heart 心 xīn and small intestine 小肠 xiǎocháng. Color: red 红 hóng. Musical note: zhǐ 徵. Planet: Mars 火星 Huǒxīng. Flavor: bitter 苦 kǔ. Fire is the phase of maximum yang, the apex of movement and transformation. Excess Fire: insomnia, palpitations, mouth sores, inappropriate laughter. Deficient Fire: cold extremities, low spirits, inability to concentrate or feel joy.</p>
-      <p><strong>土 tǔ — Earth.</strong> Centering, stabilization, nourishment, mediation. Season: late summer (the transitional period between summer and autumn, sometimes assigned to the last eighteen days of each season). Direction: center. Organ system: spleen 脾 pí and stomach 胃 wèi. Color: yellow 黄 huáng. Musical note: gōng 宫. Planet: Saturn 土星 Tǔxīng. Flavor: sweet 甘 gān. Earth is the pivot around which the other four phases turn — the mediating force that prevents any single phase from dominating. Excess Earth: dampness, heaviness, overthinking, digestive sluggishness. Deficient Earth: poor appetite, loose stools, inability to concentrate, weakness in the limbs.</p>
-      <p><strong>金 jīn — Metal.</strong> Contracting, condensing, clarifying, precision. Season: autumn. Direction: west. Organ system: lung 肺 fèi and large intestine 大肠 dàcháng. Color: white 白 bái. Musical note: shāng 商. Planet: Venus 金星 Jīnxīng. Flavor: pungent/spicy 辛 xīn. Metal is the inward movement of yin gathering — the harvest, the harvest's consolidation, the clarifying of what is essential from what is not. Excess Metal: grief, skin disorders, constipation, rigidity. Deficient Metal: weak immunity, shortness of breath, difficulty letting go.</p>
-      <p><strong>水 shuǐ — Water.</strong> Descending storage, stillness, depth, endurance. Season: winter. Direction: north. Organ system: kidney 肾 shèn and bladder 膀胱 pángguāng. Color: black 黑 hēi. Musical note: yǔ 羽. Planet: Mercury 水星 Shuǐxīng. Flavor: salty 咸 xián. Water is maximum yin — the deep reservoir from which the next cycle of Wood's rising will draw. The kidneys in TCM store the body's fundamental essence (精 jīng) and govern reproduction, development, and the reserves of vitality. Excess Water: fear, fluid retention, low back pain, cold deep in the bones. Deficient Water: premature aging, tinnitus, poor memory, anxiety.</p>
-    </div>
-
-    <!-- ── THE TWO CYCLES ── -->
-    <span class="section-anchor" id="cycles"></span>
-    <div class="section-head">
-      <span class="sh-cn">两大循环</span>
-      <span class="sh-py">liǎng dà xúnhuán</span>
-      <span class="sh-en">The Two Cycles — Generation and Control</span>
-      <span class="sh-rule"></span>
-    </div>
-
-    <div class="pattern">
-      <span class="label">相生相克 xiāng shēng xiāng kè · The Generative and Controlling Cycles</span>
-      <p>The five phases are not a static list. They operate through two foundational cycles that define how they relate to each other — and it is these cycles, not the individual phases, that give 五行 its diagnostic power.</p>
-
-      <p><strong>相生 xiāng shēng — the Generative Cycle</strong> (each phase nourishes and gives rise to the next):</p>
-      <p>木 generates 火 — wood feeds fire<br>
-      火 generates 土 — fire creates ash, returning to earth<br>
-      土 generates 金 — earth produces and contains metal<br>
-      金 generates 水 — metal surfaces collect condensation; metal yields to water<br>
-      水 generates 木 — water nourishes wood<br>
-      → back to wood</p>
-      <p>In the generative cycle, each phase is both child (受 shòu — receiving nourishment from the phase before it) and mother (生 shēng — nourishing the phase after it). A TCM practitioner who sees deficiency in the Heart/Fire may strengthen the Liver/Wood as the "mother" — nourishing the source rather than treating the symptom directly.</p>
-
-      <p><strong>相克 xiāng kè — the Controlling Cycle</strong> (each phase restrains and checks another, skipping one phase in the sequence):</p>
-      <p>木 controls 土 — roots break through and bind earth<br>
-      土 controls 水 — earth dams and contains water<br>
-      水 controls 火 — water extinguishes fire<br>
-      火 controls 金 — fire melts and transforms metal<br>
-      金 controls 木 — metal cuts and shapes wood<br>
-      → back to wood</p>
-      <p>The controlling cycle is the system's regulator: without it, any phase in excess could overwhelm the others unchecked. Healthy function requires that each phase be adequately generated by its mother and adequately restrained by its controller. Illness arises when this balance fails. <strong>相乘 xiāng chéng</strong> (over-acting): a phase becomes so strong it over-controls its target — Liver/Wood over-acting on Spleen/Earth produces digestive disorders triggered by stress. <strong>相侮 xiāng wǔ</strong> (counter-acting): a phase becomes so strong it actually reverses the controlling relationship and acts back against its controller — a clinical sign of serious imbalance.</p>
-    </div>
-
-    <!-- ── FIVE PHASES IN TCM ── -->
-    <span class="section-anchor" id="tcm"></span>
-    <div class="section-head">
-      <span class="sh-cn">五行与中医</span>
-      <span class="sh-py">wǔxíng yǔ zhōngyī</span>
-      <span class="sh-en">Five Phases in Traditional Chinese Medicine</span>
       <span class="sh-rule"></span>
     </div>
 
@@ -150,30 +99,224 @@ pinyin: 'wǔxíng'
 
       <div class="card c-teal">
         <div class="card-head">
-          <span class="card-cn">五脏</span>
-          <span class="card-py">wǔzàng</span>
-          <span class="card-en">the Five Viscera — the organ systems mapped to each phase</span>
+          <span class="card-cn">水 shuǐ · Water</span>
+          <span class="card-py">润下 rùn xià — moistening, flowing downward</span>
+          <span class="card-en">the phase of depth, stillness, and stored potential</span>
         </div>
-        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          In TCM, 五脏 does not refer to five anatomical organs but to five functional systems, each governed by one phase. <strong>肝 gān</strong> (Liver/Wood) governs the smooth flow of qi and blood, the tendons, and the emotions of anger and frustration. <strong>心 xīn</strong> (Heart/Fire) governs consciousness, spirit (神 shén), and the blood vessels. <strong>脾 pí</strong> (Spleen/Earth) governs digestion, transformation of food into qi, and the muscles. <strong>肺 fèi</strong> (Lung/Metal) governs respiration, the skin, and the body's defensive qi (卫气 wèiqì). <strong>肾 shèn</strong> (Kidney/Water) governs reproduction, development, and the body's fundamental essence.
+          Water does not push; it finds the lowest path and settles there. Direction: north. Season: winter. Color: black (黑 hēi). Organ system: kidney (肾 shèn) and bladder (膀胱 pángguāng). Flavor: salty (咸 xián). Emotion: fear (恐 kǒng). Planet: Mercury (水星 Shuǐxīng). The kidney in TCM stores the body's fundamental essence (精 jīng) — the deepest reserve of vitality. Fear contracts and descends, as water does. The Qin dynasty, whose theorists claimed to rule under Water, dressed their armies in black and flew black banners as a cosmological declaration.
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">木 mù · Wood</span>
+          <span class="card-py">曲直 qū zhí — bending and straightening</span>
+          <span class="card-en">the phase of upward growth, flexibility, and assertive expansion</span>
+        </div>
+        <div class="card-def">
+          Wood grows toward light, yields to wind, and returns upright. It is neither rigid nor without direction. Direction: east. Season: spring. Color: green-blue (青 qīng). Organ system: liver (肝 gān) and gallbladder (胆 dǎn). Flavor: sour (酸 suān). Emotion: anger (怒 nù). Planet: Jupiter (木星 Mùxīng). The sour flavor of unripe fruit, the irritability of the liver under prolonged stress, and the upward pressure of spring growth share a single character: directed, rising force meeting resistance and continuing anyway.
+        </div>
+      </div>
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">火 huǒ · Fire</span>
+          <span class="card-py">炎上 yán shàng — blazing, rising</span>
+          <span class="card-en">the phase of transformation, illumination, and maximum yang activity</span>
+        </div>
+        <div class="card-def">
+          Fire moves only upward; it spreads, clarifies, and transforms whatever it meets. Direction: south. Season: summer. Color: red (红 hóng). Organ system: heart (心 xīn) and small intestine (小肠 xiǎocháng). Flavor: bitter (苦 kǔ). Emotion: joy (喜 xǐ). Planet: Mars (火星 Huǒxīng). The heart's function of circulating and illuminating maps onto Fire's character: the phase of the afternoon, the midsummer, the apex of yang energy. Excess Fire produces insomnia, palpitations, and mouth sores; deficient Fire produces cold extremities and low spirits.
+        </div>
+      </div>
+
+      <div class="card c-sienna">
+        <div class="card-head">
+          <span class="card-cn">土 tǔ · Earth</span>
+          <span class="card-py">稼穑 jià sè — sowing and harvesting</span>
+          <span class="card-en">the phase of centering, mediation, and nourishment</span>
+        </div>
+        <div class="card-def">
+          Earth does not move dramatically in any direction; it receives, supports, and mediates. Direction: center — the only phase without a cardinal direction. Season: late summer, or the last eighteen days of each season (the transitional moments between phases). Color: yellow (黄 huáng). Organ system: spleen (脾 pí) and stomach (胃 wèi). Flavor: sweet (甘 gān). Emotion: contemplation, worry (思 sī). Planet: Saturn (土星 Tǔxīng). Earth is the pivot around which the other four phases rotate. Its centrality is why yellow became the imperial color — the emperor occupied the center, as Earth does.
+        </div>
+        <div class="note">
+          <span class="note-label">中央之位 · Central Position</span>
+          In some classical diagrams, Earth occupies the center of a square formed by the other four phases at north, south, east, and west. This arrangement makes visible what the textual description implies: Earth is not one of four; it is the fifth that holds the other four in relation.
+        </div>
+      </div>
+
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">金 jīn · Metal</span>
+          <span class="card-py">从革 cóng gé — following and changing form</span>
+          <span class="card-en">the phase of contraction, clarification, and precision</span>
+        </div>
+        <div class="card-def">
+          Metal yields to the hammer and takes a new form; it contracts, refines, and reveals what is essential by cutting away what is not. Direction: west. Season: autumn. Color: white (白 bái). Organ system: lung (肺 fèi) and large intestine (大肠 dàcháng). Flavor: pungent, spicy (辛 xīn). Emotion: grief (悲 bēi). Planet: Venus (金星 Jīnxīng). The lung's contracting action in breathing, the sharp quality of spice, and the grief of autumn's decline share the Metal character: inward movement, the harvest edge, the clarifying force that separates what endures from what does not.
+        </div>
+      </div>
+
+    </div><!-- /cards phases -->
+
+    <!-- ── GENERATION AND CONQUEST ── -->
+    <span class="section-anchor" id="cycles"></span>
+    <div class="section-head">
+      <span class="sh-cn">相生相克</span>
+      <span class="sh-py">xiāng shēng xiāng kè</span>
+      <span class="sh-en">The Generation and Conquest Cycles</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="克">
+      <div class="scholar-label">系统逻辑 xìtǒng luójí · System Logic</div>
+      <p>The five phases are not a list but a web. Their explanatory and diagnostic power comes from two structural cycles that describe how each phase relates to every other. These cycles are not sequential in time — they are simultaneous relational structures, describing the logic of what keeps any dynamic system in balance, and what happens when balance is lost.</p>
+
+      <div class="pattern">
+        <span class="label">相生 xiāng shēng · The Generation Cycle</span>
+        Wood feeds Fire — fuel enables combustion.<br>
+        Fire creates Earth — ash and char become soil.<br>
+        Earth bears Metal — ore forms within rock.<br>
+        Metal carries Water — condensation forms on metal surfaces; rivers carve through stone.<br>
+        Water nourishes Wood — moisture feeds roots and growth.<br>
+        <br>
+        <strong>木 → 火 → 土 → 金 → 水 → 木</strong><br>
+        <br>
+        Each phase generates the next, and the cycle returns to its origin. In medicine, this maps what strengthens what: a healthy Liver (Wood) supports a healthy Heart (Fire); when Wood is deficient, Fire weakens. The physician who sees heart palpitations looks upstream to the liver. In the political application, the generative cycle defined the natural order of dynastic phases and the controlling cycle defined which phase had the mandate to end a dynasty.
+      </div>
+
+      <div class="pattern">
+        <span class="label">相克 xiāng kè · The Conquest Cycle</span>
+        Wood controls Earth — roots bind and break through soil.<br>
+        Earth controls Water — dams and embankments contain floods.<br>
+        Water controls Fire — extinguishes combustion.<br>
+        Fire controls Metal — melts and transforms it.<br>
+        Metal controls Wood — axes and blades cut and shape it.<br>
+        <br>
+        <strong>木 → 土 → 水 → 火 → 金 → 木</strong><br>
+        <br>
+        Each phase checks and regulates another, skipping one phase in the generative sequence. The conquest cycle is not destruction — it is regulation. In a healthy system, every phase is checked by its controller. When a phase becomes excessive (实 shí, repletion), its controller fails to hold it; when deficient (虚 xū, vacuity), its controller may suppress it further. A single imbalance propagates in two directions at once, which is why five-phase diagnosis demands that the practitioner look for the upstream cause rather than treating the downstream symptom alone.
+      </div>
+
+      <p><strong>相乘 xiāng chéng</strong> (over-acting) and <strong>相侮 xiāng wǔ</strong> (counter-acting) are the two pathological variants of the conquest cycle. Over-acting: a phase becomes so strong it over-controls its target — Liver/Wood over-acting on Spleen/Earth produces digestive disruption triggered by emotional stress, a pattern recognizable in everyday life. Counter-acting: a phase becomes strong enough to reverse the controlling relationship and suppress its own controller — a clinical sign of serious imbalance, equivalent to a tributary overwhelming the river that was supposed to contain it.</p>
+    </div>
+
+    <!-- ── CHINESE MEDICINE ── -->
+    <span class="section-anchor" id="medicine"></span>
+    <div class="section-head">
+      <span class="sh-cn">中医应用</span>
+      <span class="sh-py">zhōngyī yìngyòng</span>
+      <span class="sh-en">Chinese Medicine — The Body as a Phase Network</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="医">
+      <div class="scholar-label">医学洞见 yīxué dòngjiàn · Medical Insight</div>
+      <p>Traditional Chinese medicine uses the Five Phases as its primary diagnostic map. Each of the five organ systems corresponds to a phase; each phase has a characteristic sound, color, smell, flavor, and emotion. A skilled practitioner reads the patient's phase-state through several channels before touching the pulse: the color around the eyes and face (Wood/Liver shows a greenish tinge; Metal/Lung shows pale white), the quality of the voice (Fire/Heart gives a laughing or agitated quality; Water/Kidney gives a groaning quality), the predominant emotion that has persisted for months or years.</p>
+      <p>The generation cycle governs treatment logic in a specific and practical way. A patient presents with heart palpitations, poor sleep, and anxiety — all Fire/Heart symptoms. The TCM physician asks: why is the Heart deficient? If the Liver (Wood) has been strained — through overwork, emotional suppression, or chronic anger — it can no longer adequately generate the Heart (Wood fails to feed Fire). Treating the Heart directly may bring temporary relief; tonifying the Liver addresses the source. The same symptom can have different upstream causes in different patients, which is why two patients with identical complaints might receive different herbal formulas.</p>
+      <p>The five flavors function as dietary therapy with the same logic. Sour flavor (Wood) enters and supports the Liver; bitter flavor (Fire) enters the Heart; sweet flavor (Earth) enters the Spleen; pungent, spicy flavor (Metal) enters the Lung; salty flavor (Water) enters the Kidney. Each flavor nourishes its corresponding organ system in moderate amounts — and in excess, taxes it. Too much salt injures the Kidney; too much sourness constrains the Liver. The 黄帝内经 (Yellow Emperor's Classic) gives the canonical formulation: <em>酸入肝，苦入心，甘入脾，辛入肺，咸入肾</em>.</p>
+      <p>The conquest cycle governs regulatory interventions. When the Liver (Wood) becomes hyperactive through chronic stress, it over-controls the Spleen (Wood over-conquers Earth), producing the pattern of digestive disruption, bloating, and irregular bowels alongside emotional irritability — a combination that TCM practitioners recognize immediately as 肝气犯脾 (Liver qi invading the Spleen). One treatment approach strengthens the Spleen so it can resist the excessive Wood, rather than suppressing the Liver directly. The two cycles are a system of interlocking levers; a skilled clinician uses both simultaneously.</p>
+    </div>
+
+    <!-- ── DYNASTIC SUCCESSION ── -->
+    <span class="section-anchor" id="dynastic"></span>
+    <div class="section-head">
+      <span class="sh-cn">王朝更替</span>
+      <span class="sh-py">wángcháo gēngtì</span>
+      <span class="sh-en">Dynastic Succession — The Political Engine of the Five Phases</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="朝">
+      <div class="scholar-label">历史洞见 lìshǐ dòngjiàn · Political and Historical Insight</div>
+      <p>Zou Yan's most consequential contribution was applying the conquest cycle to history. He argued that each dynasty ruled under a specific phase, and that dynastic succession followed that cycle: the new dynasty's phase conquers the previous dynasty's phase, demonstrating that Heaven has transferred the Mandate. This was not metaphor — it was policy with material consequences. Imperial governments chose ritual colors, court garments, and military banners to match their claimed ruling phase. The cosmological argument had to be made visible.</p>
+      <p>The Zhou dynasty, which preceded the Warring States period, was associated with Fire (red). The Qin, which unified China in 221 BCE, claimed to rule under Water — Water controls Fire. The evidence was literally worn: Qin soldiers dressed in black armor and carried black banners, because black is Water's color. The first emperor, Qin Shi Huang, decreed the official color of the Qin state to be black, the number six sacred (Water's number), and winter the governing season. These were not aesthetic preferences — they were cosmological declarations of legitimacy.</p>
+      <p>When the Han dynasty replaced the Qin after its rapid collapse, the phase-politics became more complicated. The Han initially claimed to continue under Water. Court scholars eventually argued for Earth (yellow), which controls Water — a claim that Earth supersedes Water, grounding the Han's legitimacy in the conquest cycle. The emperor's adoption of yellow as the imperial color, a convention that persisted through every subsequent Chinese dynasty and survives in the yellow-tiled roofs of the Forbidden City, descends directly from this Five Phases argument made in the early Han court.</p>
+      <p>The <strong>黄帝 Huángdì</strong> (Yellow Emperor), the legendary ancestor of the Chinese people and the attributed author of the <em>Huangdi Neijing</em>, became especially important to the Han partly because his color confirmed their dynastic phase-claim retroactively. A dynasty ruling under Earth (yellow) needed an Earth-phase founding ancestor at the mythological level. The Yellow Emperor provided one. The political logic of 五行 shaped which myths were elevated and which were downplayed for two millennia.</p>
+      <p>The four guardian spirits that color-code the cardinal directions — the Blue Dragon of the east (Wood/spring), the Red Bird of the south (Fire/summer), the White Tiger of the west (Metal/autumn), and the Black Tortoise of the north (Water/winter) — appear in Han dynasty tomb art, in palace architecture, in feng shui compasses, and in contemporary Chinese popular culture. The color-coding of the directions had become so embedded that it outlasted the political theory that generated it by centuries.</p>
+    </div>
+
+    <!-- ── VOCABULARY ── -->
+    <span class="section-anchor" id="vocabulary"></span>
+    <div class="section-head">
+      <span class="sh-cn">五行词汇</span>
+      <span class="sh-py">wǔxíng cíhuì</span>
+      <span class="sh-en">Key Vocabulary</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">五行</span>
+          <span class="card-py">wǔxíng</span>
+          <span class="card-en">the Five Phases; five modes of transformation</span>
+        </div>
+        <div class="card-def">
+          五 wǔ (five) + 行 xíng (to move, to act, to proceed; a crossroads in the oracle bone form). The compound names five modes of activity, not five kinds of matter. The mistranslation "Five Elements" projects Greek elemental ontology onto a Chinese process framework, producing the false impression that the Chinese were doing something similar to what Thales and Empedocles were doing. They were not. The Chinese system describes <em>what things do</em>, not <em>what things are composed of</em>.
         </div>
         <div class="examples">
           <div class="example">
-            <div class="ex-cn">中医认为，情绪过激会伤害对应的脏腑。</div>
-            <div class="ex-py">Zhōngyī rènwéi, qíngjù guòjī huì shānghài duìyìng de zàngfǔ.</div>
-            <div class="ex-en">TCM holds that excessive emotions damage their corresponding organ systems.</div>
+            <div class="ex-cn">金、木、水、火、土，五行相生相克，构成中国传统宇宙观的核心。</div>
+            <div class="ex-py">Jīn, mù, shuǐ, huǒ, tǔ — wǔxíng xiāng shēng xiāng kè, gòuchéng Zhōngguó chuántǒng yǔzhòuguān de héxīn.</div>
+            <div class="ex-en">Metal, Wood, Water, Fire, Earth — generating and conquering each other, the Five Phases form the core of traditional Chinese cosmology.</div>
           </div>
           <div class="example">
-            <div class="ex-cn">长期压力伤肝，肝气郁结会导致情绪失调。</div>
-            <div class="ex-py">Cháng qī yālì shāng gān, gān qì yù jié huì dǎozhì qíngjù shītiáo.</div>
-            <div class="ex-en">Prolonged stress damages the Liver; when Liver qi stagnates, emotional regulation breaks down.</div>
+            <div class="ex-cn">水曰润下，火曰炎上，木曰曲直，金曰从革，土爰稼穑。</div>
+            <div class="ex-py">Shuǐ yuē rùn xià, huǒ yuē yán shàng, mù yuē qū zhí, jīn yuē cóng gé, tǔ yuán jià sè.</div>
+            <div class="ex-en">Water: moistening and flowing downward. Fire: blazing and rising. Wood: bending and straightening. Metal: following and changing form. Earth: sowing and harvesting. (洪范, Classic of Documents)</div>
           </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">相生</span>
+          <span class="card-py">xiāng shēng</span>
+          <span class="card-en">mutual generation; the creative cycle</span>
+        </div>
+        <div class="card-def">
+          相 xiāng (mutual, reciprocal) + 生 shēng (to give birth, to generate, to produce). Each phase nourishes and gives rise to the next; each is simultaneously "mother" to the phase it generates and "child" to the phase that generates it. In TCM, the mother-child relationship governs supplementation: when one organ system is deficient, the physician may tonify its "mother phase" rather than treating the deficiency directly. The fixed compound 相生相克 xiāng shēng xiāng kè names both cycles together as the complete relational grammar of the system.
+        </div>
+      </div>
+
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">相克</span>
+          <span class="card-py">xiāng kè</span>
+          <span class="card-en">mutual conquest; the control cycle</span>
+        </div>
+        <div class="card-def">
+          相 xiāng (mutual) + 克 kè (to conquer, to regulate, to check). In the Five Phases context, 克 means disciplined control rather than destruction — the river bank that contains the flood, not the dam that annihilates the water. In modern Chinese, 克 appears in 克服 kèfú (to surmount, overcome) and 克制 kèzhì (to restrain, hold back), both preserving the sense of purposeful control over a force. The conquest cycle is the system's regulating mechanism; without it, any phase in excess would overwhelm the others unchecked.
+        </div>
+      </div>
+
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">五脏</span>
+          <span class="card-py">wǔzàng</span>
+          <span class="card-en">the five yin organ systems — heart, liver, spleen, lung, kidney</span>
+        </div>
+        <div class="card-def">
+          五 wǔ (five) + 脏 zàng (solid, yin, storing organ). In TCM, 五脏 refers to five functional systems, not five anatomical organs in the Western sense. Heart (心 xīn) — Fire; Liver (肝 gān) — Wood; Spleen (脾 pí) — Earth; Lung (肺 fèi) — Metal; Kidney (肾 shèn) — Water. Each zang is paired with a yang hollow organ (腑 fǔ) and governs a characteristic set of tissues, sense organs, emotions, and body substances. The five zang are the anchor points of phase-based diagnosis.
+        </div>
+        <div class="examples">
           <div class="example">
-            <div class="ex-cn">心藏神，神志清明则心健；心气虚则多梦失眠。</div>
-            <div class="ex-py">Xīn cáng shén, shénzhì qīngmíng zé xīn jiàn; xīnqì xū zé duō mèng shīmián.</div>
-            <div class="ex-en">The Heart houses the spirit — clarity of mind signals a healthy Heart; Heart qi deficiency leads to excessive dreaming and insomnia.</div>
+            <div class="ex-cn">心藏神，肝藏魂，脾藏意，肺藏魄，肾藏志。</div>
+            <div class="ex-py">Xīn cáng shén, gān cáng hún, pí cáng yì, fèi cáng pò, shèn cáng zhì.</div>
+            <div class="ex-en">The Heart stores the spirit; the Liver stores the ethereal soul; the Spleen stores intention; the Lung stores the corporeal soul; the Kidney stores the will. (黄帝内经)</div>
           </div>
+        </div>
+      </div>
+
+      <div class="card c-sienna">
+        <div class="card-head">
+          <span class="card-cn">五色</span>
+          <span class="card-py">wǔsè</span>
+          <span class="card-en">the five colors — green-blue, red, yellow, white, black</span>
+        </div>
+        <div class="card-def">
+          五 wǔ (five) + 色 sè (color, appearance). The five phase-colors: 青 qīng (green-blue, Wood), 红 hóng (red, Fire), 黄 huáng (yellow, Earth), 白 bái (white, Metal), 黑 hēi (black, Water). These are cosmological categories before they are aesthetic ones. The facial complexion (气色 qìsè) is one of the four diagnostic examinations in TCM: a greenish cast signals Wood/Liver disorder; a pale white tone signals Metal/Lung deficiency; a reddish flushed face signals Fire/Heart excess. Reading the face is reading a five-phase map.
         </div>
       </div>
 
@@ -181,138 +324,70 @@ pinyin: 'wǔxíng'
         <div class="card-head">
           <span class="card-cn">五味</span>
           <span class="card-py">wǔwèi</span>
-          <span class="card-en">the Five Flavors — each flavor enters and nourishes its corresponding organ</span>
+          <span class="card-en">the five flavors — sour, bitter, sweet, pungent, salty</span>
         </div>
-        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          Five flavors map to five phases and five organ systems: sour 酸 suān → Liver/Wood; bitter 苦 kǔ → Heart/Fire; sweet 甘 gān → Spleen/Earth; pungent/spicy 辛 xīn → Lung/Metal; salty 咸 xián → Kidney/Water. In TCM dietary therapy (食疗 shíliáo), foods are chosen not primarily by nutritional content but by their flavor-phase correspondence. Black sesame seeds (salty, dark) nourish the Kidney; sour plums nourish the Liver; bitter melon clears Heart fire. A balanced meal should include all five flavors — not for gustatory variety but to nourish all five organ systems equally.
+          五 wǔ (five) + 味 wèi (flavor, taste). Sour 酸 suān (Wood/Liver), bitter 苦 kǔ (Fire/Heart), sweet 甘 gān (Earth/Spleen), pungent/spicy 辛 xīn (Metal/Lung), salty 咸 xián (Water/Kidney). Each flavor enters and supports its corresponding organ system in moderate amounts; in excess, it taxes it. The phrase 五味俱全 (all five flavors present) describes a perfectly balanced, complete dish in classical culinary writing — balanced cosmologically, not just palatably.
         </div>
         <div class="examples">
           <div class="example">
-            <div class="ex-cn">酸入肝，多食酸味可养肝，但过则伤筋。</div>
-            <div class="ex-py">Suān rù gān, duō shí suānwèi kě yǎng gān, dàn guò zé shāng jīn.</div>
-            <div class="ex-en">Sour enters the Liver — eating sour foods nourishes the Liver, but excess damages the sinews.</div>
-          </div>
-          <div class="example">
-            <div class="ex-cn">咸入肾，黑芝麻、海带都是补肾的好食物。</div>
-            <div class="ex-py">Xián rù shèn, hēi zhīma, hǎidài dōu shì bǔ shèn de hǎo shíwù.</div>
-            <div class="ex-en">Salty enters the Kidney — black sesame and kelp are excellent foods for nourishing the Kidney.</div>
-          </div>
-          <div class="example">
-            <div class="ex-cn">五味调和，饮食均衡，五脏才能得到全面的滋养。</div>
-            <div class="ex-py">Wǔwèi tiáohé, yǐnshí jūnhéng, wǔzàng cái néng dédào quánmiàn de zīyǎng.</div>
-            <div class="ex-en">When the five flavors are balanced and the diet is varied, all five organ systems receive complete nourishment.</div>
+            <div class="ex-cn">酸入肝，苦入心，甘入脾，辛入肺，咸入肾。</div>
+            <div class="ex-py">Suān rù gān, kǔ rù xīn, gān rù pí, xīn rù fèi, xián rù shèn.</div>
+            <div class="ex-en">Sour enters the Liver; bitter enters the Heart; sweet enters the Spleen; pungent enters the Lung; salty enters the Kidney. (黄帝内经)</div>
           </div>
         </div>
       </div>
 
-      <div class="card c-red">
+      <div class="card c-teal">
         <div class="card-head">
-          <span class="card-cn">五色</span>
-          <span class="card-py">wǔsè</span>
-          <span class="card-en">the Five Colors — each associated with a phase and its organ system</span>
+          <span class="card-cn">阴阳五行</span>
+          <span class="card-py">yīnyáng wǔxíng</span>
+          <span class="card-en">yin-yang and the Five Phases — the paired cosmological framework</span>
         </div>
-        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          Green/blue 青 qīng → Liver/Wood; red 红 hóng → Heart/Fire; yellow 黄 huáng → Spleen/Earth; white 白 bái → Lung/Metal; black 黑 hēi → Kidney/Water. Color correspondences work in diagnosis (a greenish tinge to the face may indicate Liver imbalance; a pale white complexion, Lung weakness) and in food therapy (红色 red foods — red dates, wolfberries, red beans — nourish the Heart; 黑色 black foods — black sesame, black beans, dark mushrooms — nourish the Kidney). The practitioner reading the face is reading a map of five-phase imbalance written in color.
+          The two systems developed in parallel during the Warring States period and were synthesized into a unified framework by the Han dynasty, particularly in the <strong>黄帝内经</strong> (Yellow Emperor's Classic, compiled ca. 200 BCE–200 CE). Yin-yang provides the fundamental binary polarity; the Five Phases provide the five-part differentiation within that polarity. Yin-yang explains why things change; the Five Phases explain how they change — in which direction, through which sequence, with which interactions. Neither system is complete without the other. The compound 阴阳五行 names the integrated cosmological framework, not two parallel theories.
+        </div>
+      </div>
+
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">行</span>
+          <span class="card-py">xíng</span>
+          <span class="card-en">to move, to walk, to act; a mode of activity or process</span>
+        </div>
+        <div class="card-def">
+          The character depicts a crossroads — a place defined entirely by movement and direction. As a standalone word: to walk (行走 xíngzǒu); to carry out, to perform (行动 xíngdòng); to be acceptable or workable (行 as a conversational affirmative). In 五行, it names the fundamental nature of each phase: a mode of proceeding, an active tendency, a characteristic way of moving through the world. The crossroads etymology is precisely right — the Five Phases are defined by their directions and relationships, not by static composition.
         </div>
         <div class="examples">
           <div class="example">
-            <div class="ex-cn">面色发青，可能是肝气郁结的表现，需要疏肝理气。</div>
-            <div class="ex-py">Miànsè fā qīng, kěnéng shì gān qì yù jié de biǎoxiàn, xūyào shū gān lǐ qì.</div>
-            <div class="ex-en">A greenish facial complexion may indicate Liver qi stagnation — the treatment principle is to move and regulate Liver qi.</div>
+            <div class="ex-cn">这个方案行吗？</div>
+            <div class="ex-py">Zhège fāng'àn xíng ma?</div>
+            <div class="ex-en">Will this plan work? / Is this approach feasible? (conversational use)</div>
           </div>
           <div class="example">
-            <div class="ex-cn">红枣、枸杞都是红色食物，有补心养血的功效。</div>
-            <div class="ex-py">Hóng zǎo, gǒuqǐ dōu shì hóngsè shíwù, yǒu bǔ xīn yǎng xuè de gōngxiào.</div>
-            <div class="ex-en">Red dates and wolfberries are red-phase foods with the action of nourishing the Heart and supplementing the blood.</div>
-          </div>
-          <div class="example">
-            <div class="ex-cn">黑色入肾，冬季多吃黑豆、黑木耳以温补肾阳。</div>
-            <div class="ex-py">Hēisè rù shèn, dōngjì duō chī hēidòu, hēi mù'ěr yǐ wēn bǔ shèn yáng.</div>
-            <div class="ex-en">Black-phase foods enter the Kidney — in winter, eat more black beans and black wood ear mushrooms to warm and supplement Kidney yang.</div>
+            <div class="ex-cn">行云流水，比喻动作、文章等自然流畅。</div>
+            <div class="ex-py">Xíng yún liú shuǐ, bǐyù dòngzuò, wénzhāng děng zìrán liútàng.</div>
+            <div class="ex-en">Moving clouds and flowing water — a metaphor for action or writing that is natural and fluid. (a common four-character expression using 行)</div>
           </div>
         </div>
       </div>
 
-    </div><!-- /cards tcm -->
-
-    <!-- ── BEYOND MEDICINE ── -->
-    <span class="section-anchor" id="beyond"></span>
-    <div class="section-head">
-      <span class="sh-cn">五行的广度</span>
-      <span class="sh-py">wǔxíng de guǎngdù</span>
-      <span class="sh-en">Five Phases Beyond Medicine</span>
-      <span class="sh-rule"></span>
-    </div>
-
-    <div class="scholar" data-glyph="五">
-      <div class="scholar-label">文化洞见 wénhuà dòngjiàn · Cultural Insight</div>
-      <p>Medicine is one application of a system understood to describe reality at every level simultaneously. The human body, the political order, the calendar, music, cuisine, and the cosmos were all expressions of the same five-phase dynamics, and understanding one level gave insight into all the others.</p>
-      <p>In <strong>music</strong>, the classical Chinese pentatonic scale is the five-note scale built on the five phase-tones: gōng 宫 (Earth), shāng 商 (Metal), jué 角 (Wood), zhǐ 徵 (Fire), yǔ 羽 (Water). Each note carries the quality of its phase. The ancient music theorists held that music played in the wrong phase-mode could unbalance a ruler's qi and corrupt the state. The Han Confucian court took this seriously enough to legislate musical orthodoxy.</p>
-      <p>In <strong>statecraft</strong>, Dong Zhongshu applied the controlling cycle to dynastic succession: each dynasty ruled under one phase's mandate, and its successor conquered it by the phase that controls it. The Zhou dynasty (Wood) was succeeded by the Qin (Metal controls Wood); the Qin (Metal) by the Han (Fire melts Metal). Revolution was the system correcting itself, not a break from cosmic order.</p>
-      <p>In <strong>the calendar</strong>, 五行 structures time. Each season belongs to a phase; each day of a five-day period (候 hòu) belongs to a phase; the hours of the day cycle through the organ systems in sequence, which is why certain acupuncture points are considered more potent at specific hours. The 二十四节气 (Twenty-Four Solar Terms) that organize the agricultural year are understood in part through five-phase seasonal energetics.</p>
-      <p>In <strong>divination and fate calculation</strong>, the Four Pillars of Destiny (四柱命理 sìzhù mìnglǐ) assigns five-phase values to the year, month, day, and hour of a person's birth, then reads the balance and conflicts among them as the map of that person's life. 风水 fēngshui (geomancy) uses five-phase analysis to assess a site: whether the forms of the landscape express Wood's upward growth or Metal's contracting consolidation, and whether these align with the needs of the people who will live there. 面相 miànxiàng (physiognomy) reads the five-phase correspondences in the face: a broad, flat forehead (Earth), prominent cheekbones (Metal), a curved jaw (Water).</p>
-      <p>The physician diagnosing a patient, the astrologer calculating a fate, and the geomancer reading a mountain are all doing the same thing: reading the phase-balance of a particular configuration and determining what it requires to return to dynamic equilibrium.</p>
-    </div>
-
-    <!-- ── CHENGYU ── -->
-    <span class="section-anchor" id="chengyu"></span>
-    <div class="section-head">
-      <span class="sh-cn">成语</span>
-      <span class="sh-py">chéngyǔ</span>
-      <span class="sh-en">Idioms &amp; Set Phrases</span>
-      <span class="sh-rule"></span>
-    </div>
-
-    <div class="chengyu-grid">
-
-      <div class="cy">
-        <span class="cy-cn">五行相生</span>
-        <span class="cy-py">wǔxíng xiāng shēng</span>
-        <span class="cy-en">the five phases generate each other — the generative cycle; things that mutually sustain and nourish</span>
-        <span class="cy-note">The generative cycle as a set phrase: Wood generates Fire, Fire generates Earth, Earth generates Metal, Metal generates Water, Water generates Wood. Used idiomatically beyond medicine to describe relationships of genuine mutual nourishment — partnerships, collaborations, or systems where each element sustains the next. The implied contrast is 五行相克 (the controlling cycle) — relationships of necessary restraint rather than nourishment. A healthy system needs both: 相生 without 相克 produces excess; 相克 without 相生 produces exhaustion.</span>
-      </div>
-
-      <div class="cy">
-        <span class="cy-cn">金木水火土</span>
-        <span class="cy-py">jīn mù shuǐ huǒ tǔ</span>
-        <span class="cy-en">metal, wood, water, fire, earth — the canonical list of the five phases</span>
-        <span class="cy-note">The order in which the five phases are most commonly listed in everyday speech — not the generative order (木火土金水) and not the controlling order (木土水火金), but a distinct sequence that appears in the Han dynasty cosmological texts and became fixed in popular culture. Children learn this sequence as a mnemonic for five-phase theory; it appears in educational rhymes, in character names (parents sometimes choose names drawing on the phase their child needs for balance), and as the canonical sequence in popular astrology and feng shui. The mismatch between this order and the functional cycles is a persistent source of confusion for students of five-phase theory.</span>
-      </div>
-
-      <div class="cy">
-        <span class="cy-cn">以毒攻毒</span>
-        <span class="cy-py">yǐ dú gōng dú</span>
-        <span class="cy-en">use poison to attack poison — fight fire with fire; treat like with like</span>
-        <span class="cy-note">Literally: using what is toxic to attack what is toxic. The principle that the thing capable of causing harm can, in controlled application, be the very agent of healing. This emerges directly from five-phase logic: the controlling cycle means the phase that suppresses another can be used therapeutically — treat fire imbalance with water-phase therapy; treat wood excess with metal-phase intervention. In TCM herbal practice, certain toxic substances (arsenic compounds, aconite) are used in carefully prepared doses to treat conditions that milder herbs cannot reach. Extended colloquially to any situation where a problem is solved by deploying a version of its own cause: 用一个骗子来对付另一个骗子，以毒攻毒 (use one swindler against another — fight poison with poison).</span>
-      </div>
-
-    </div>
-
-    <!-- ── ADJACENT VOCAB ── -->
-    <span class="section-anchor" id="adjacent"></span>
-    <div class="section-head">
-      <span class="sh-cn">相邻词汇</span>
-      <span class="sh-py">xiānglín cíhuì</span>
-      <span class="sh-en">Adjacent Vocabulary</span>
-      <span class="sh-rule"></span>
-    </div>
+    </div><!-- /cards vocabulary -->
 
     <div class="adj-wrap">
-      <span class="adj"><span class="a-cn">阴阳</span><span class="a-py">yīnyáng</span><span class="a-en">yin and yang</span></span>
-      <span class="adj"><span class="a-cn">气</span><span class="a-py">qì</span><span class="a-en">vital force; breath; energy</span></span>
-      <span class="adj"><span class="a-cn">道</span><span class="a-py">dào</span><span class="a-en">the Way; the underlying order</span></span>
-      <span class="adj"><span class="a-cn">易经</span><span class="a-py">Yìjīng</span><span class="a-en">Book of Changes</span></span>
-      <span class="adj"><span class="a-cn">中医</span><span class="a-py">zhōngyī</span><span class="a-en">Traditional Chinese Medicine</span></span>
-      <span class="adj"><span class="a-cn">风水</span><span class="a-py">fēngshuǐ</span><span class="a-en">geomancy; feng shui</span></span>
-      <span class="adj"><span class="a-cn">五脏</span><span class="a-py">wǔzàng</span><span class="a-en">the Five Viscera</span></span>
-      <span class="adj"><span class="a-cn">针灸</span><span class="a-py">zhēnjiǔ</span><span class="a-en">acupuncture and moxibustion</span></span>
-      <span class="adj"><span class="a-cn">本草</span><span class="a-py">běncǎo</span><span class="a-en">materia medica; herbal medicine</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="yinyang is the binary polarity within which the Five Phases differentiate — the two systems are paired, not alternatives"><span class="a-cn">阴阳</span><span class="a-py">yīnyáng</span><span class="a-en">yin and yang</span></span>
+      <span class="adj" data-relation="collocation"><span class="a-cn">气</span><span class="a-py">qì</span><span class="a-en">vital breath; energy</span></span>
+      <span class="adj" data-relation="collocation"><span class="a-cn">道</span><span class="a-py">dào</span><span class="a-en">the Way</span></span>
+      <span class="adj" data-relation="collocation"><span class="a-cn">天地</span><span class="a-py">tiāndì</span><span class="a-en">heaven and earth</span></span>
+      <span class="adj" data-relation="collocation"><span class="a-cn">风水</span><span class="a-py">fēngshuǐ</span><span class="a-en">geomancy</span></span>
+      <span class="adj" data-relation="collocation"><span class="a-cn">中医</span><span class="a-py">zhōngyī</span><span class="a-en">Traditional Chinese Medicine</span></span>
+      <span class="adj" data-relation="collocation"><span class="a-cn">八卦</span><span class="a-py">bāguà</span><span class="a-en">eight trigrams</span></span>
+      <span class="adj" data-relation="collocation"><span class="a-cn">天命</span><span class="a-py">tiānmìng</span><span class="a-en">Mandate of Heaven</span></span>
+      <span class="adj" data-relation="collocation"><span class="a-cn">黄帝内经</span><span class="a-py">Huángdì Nèijīng</span><span class="a-en">Yellow Emperor's Classic of Internal Medicine</span></span>
     </div>
 
     <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>五行</span></span>
+      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>五行 wǔxíng</span> · topic_wuxing.html</span>
       <a href="../../index.html" class="footer-back">← All Entries</a>
     </footer>
 
