@@ -2786,20 +2786,43 @@ body[data-category="hubs"] { --seal-color: var(--cat-hubs); }
 /* ── SVG layer visibility (defaults: only modern shown) ──── */
 .map-layer { transition: opacity 0.3s ease; }
 
-/* ── Pin styles ──────────────────────────────────────────── */
-.map-pin {
-  cursor: pointer;
-  transition: transform 0.15s ease;
+/* ── Pin styles ──────────────────────────────────────────────
+ * The outer <g class="map-pin"> carries translate(cx,cy) and never animates
+ * (CSS scale on a translated SVG <g> would replace the translate and teleport
+ * the pin to origin). The inner <g class="map-pin-scale"> is what scales,
+ * and pin-ring opacity grows on hover for a subtle halo without resizing
+ * the hit target. */
+.map-pin { cursor: pointer; outline: none; }
+.map-pin .map-pin-scale {
+  transform-box: fill-box;
   transform-origin: center;
+  transition: transform 180ms cubic-bezier(0.2, 0.7, 0.2, 1);
 }
-.map-pin:hover, .map-pin:focus-visible {
-  transform: scale(1.35);
-  outline: none;
+.map-pin:hover .map-pin-scale,
+.map-pin.is-active .map-pin-scale,
+.map-pin:focus-visible .map-pin-scale {
+  transform: scale(1.25);
 }
-.map-pin .pin-ring { transition: r 0.15s ease, opacity 0.15s ease; }
-.map-pin:hover .pin-ring, .map-pin:focus-visible .pin-ring {
-  r: 14;
-  opacity: 0.22;
+.map-pin .pin-ring {
+  transition: opacity 180ms ease;
+}
+.map-pin:hover .pin-ring,
+.map-pin.is-active .pin-ring,
+.map-pin:focus-visible .pin-ring {
+  opacity: 0.32;
+}
+.map-pin .pin-body {
+  transition: filter 180ms ease;
+}
+.map-pin:hover .pin-body,
+.map-pin.is-active .pin-body,
+.map-pin:focus-visible .pin-body {
+  filter: drop-shadow(0 1px 2px rgba(0,0,0,0.35));
+}
+@media (prefers-reduced-motion: reduce) {
+  .map-pin .map-pin-scale,
+  .map-pin .pin-ring,
+  .map-pin .pin-body { transition: none; }
 }
 
 /* ── Tooltip ─────────────────────────────────────────────── */
@@ -2812,16 +2835,72 @@ body[data-category="hubs"] { --seal-color: var(--cat-hubs); }
   border-radius: var(--radius);
   padding: 0.55rem 0.8rem 0.6rem;
   min-width: 160px;
-  max-width: 220px;
-  box-shadow: 0 4px 16px rgba(0,0,0,0.5);
+  max-width: 240px;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.55);
   z-index: 20;
   display: flex;
   flex-direction: column;
   gap: 0.18rem;
   font-size: 0.82rem;
   line-height: 1.4;
+  /* Position pin → tooltip via top/left set in JS, then transform centers it
+   * above and adds a subtle entrance translate. left/top transition to slide
+   * smoothly between adjacent pins instead of flickering. */
+  left: 0; top: 0;
+  transform: translate(-50%, calc(-100% - 14px));
+  opacity: 0;
+  visibility: hidden;
+  transition:
+    opacity 160ms ease,
+    visibility 0s linear 160ms,
+    left 220ms cubic-bezier(0.2, 0.7, 0.2, 1),
+    top  220ms cubic-bezier(0.2, 0.7, 0.2, 1);
+}
+.map-tooltip.is-visible {
+  opacity: 1;
+  visibility: visible;
+  transition:
+    opacity 160ms ease,
+    visibility 0s,
+    left 220ms cubic-bezier(0.2, 0.7, 0.2, 1),
+    top  220ms cubic-bezier(0.2, 0.7, 0.2, 1);
+}
+/* Skip the position transition the very first time the tooltip appears so
+ * it doesn't slide in from the previous pin's position when first shown. */
+.map-tooltip.no-slide {
+  transition:
+    opacity 160ms ease,
+    visibility 0s,
+    left 0s, top 0s;
+}
+/* Caret pointing at the pin */
+.map-tooltip::after {
+  content: '';
+  position: absolute;
+  left: 50%;
+  bottom: -7px;
+  width: 12px; height: 12px;
+  background: #1e1810;
+  border-right: 1px solid rgba(160,100,40,0.3);
+  border-bottom: 1px solid rgba(160,100,40,0.3);
+  transform: translateX(-50%) rotate(45deg);
+  pointer-events: none;
+}
+/* Below-pin variant for tooltips that flip when pin is near top of map */
+.map-tooltip.map-tooltip--below {
+  transform: translate(-50%, 14px);
+}
+.map-tooltip.map-tooltip--below::after {
+  bottom: auto; top: -7px;
+  border-right: none; border-bottom: none;
+  border-top: 1px solid rgba(160,100,40,0.3);
+  border-left: 1px solid rgba(160,100,40,0.3);
 }
 .map-tooltip[hidden] { display: none; }
+@media (prefers-reduced-motion: reduce) {
+  .map-tooltip { transition: opacity 0s, visibility 0s; }
+  .map-tooltip.is-visible { transition: opacity 0s, visibility 0s; }
+}
 .map-tt-cn {
   font-family: var(--font-cn);
   font-size: 1.05rem;

@@ -85,7 +85,7 @@
     document.getElementById('map-container').appendChild(tooltip);
   }
 
-  function showTooltip(anno, pinEl) {
+  function showTooltip(anno, pinEl, opts) {
     const entry = entries[anno.entry] || {};
     const title = entry.title || (anno.label_cn + ' · ' + anno.label_en);
     const desc = entry.desc || '';
@@ -101,24 +101,83 @@
     `;
     tooltip.dataset.category = cat;
     tooltip.hidden = false;
-    positionTooltip(pinEl);
+
+    // First show after a hidden state should snap to position (not slide
+    // from previous pin). Subsequent show() while already visible animates.
+    const wasVisible = tooltip.classList.contains('is-visible');
+    if (!wasVisible || (opts && opts.snap)) {
+      tooltip.classList.add('no-slide');
+      // double rAF to let the browser commit position before re-enabling
+      // transitions
+      positionTooltip(pinEl);
+      requestAnimationFrame(() => requestAnimationFrame(() => {
+        tooltip.classList.remove('no-slide');
+        tooltip.classList.add('is-visible');
+      }));
+    } else {
+      positionTooltip(pinEl);
+      tooltip.classList.add('is-visible');
+    }
   }
 
   function hideTooltip() {
-    tooltip.hidden = true;
+    tooltip.classList.remove('is-visible');
+    // keep `hidden` off so the visibility transition can complete; the
+    // CSS visibility:hidden after fade prevents pointer-leakage
+  }
+
+  // Convert an SVG-local point (px in viewBox space) to a container-relative
+  // pixel position by mapping through the SVG's CTM. Far more reliable than
+  // getBoundingClientRect on a transformed <g>, which returns the bbox of the
+  // element's painted area only.
+  function pinScreenPoint(pinEl) {
+    const m = pinEl.getCTM();
+    if (!m) return null;
+    const pt = svgEl.createSVGPoint();
+    pt.x = 0; pt.y = 0;
+    const screenPt = pt.matrixTransform(m); // svg-element-relative px
+    const svgRectNow = svgEl.getBoundingClientRect();
+    const containerRect = document.getElementById('map-container').getBoundingClientRect();
+    // Convert from svg-content coords to container coords:
+    //   svgRectNow gives where SVG sits on screen; screenPt is in SVG coords
+    //   relative to its own viewBox origin scaled to its rendered size.
+    const scaleX = svgRectNow.width  / svgEl.viewBox.baseVal.width;
+    const scaleY = svgRectNow.height / svgEl.viewBox.baseVal.height;
+    const x = (svgRectNow.left - containerRect.left) + screenPt.x * scaleX;
+    const y = (svgRectNow.top  - containerRect.top ) + screenPt.y * scaleY;
+    return { x, y, scaleY };
   }
 
   function positionTooltip(pinEl) {
     const container = document.getElementById('map-container');
     const cr = container.getBoundingClientRect();
-    const pr = pinEl.getBoundingClientRect();
+    const pt = pinScreenPoint(pinEl);
+    if (!pt) return;
 
-    const left = pr.left - cr.left + pr.width / 2;
-    const top = pr.top - cr.top;
+    // Tooltip width unknown until in DOM; measure
+    const tr = tooltip.getBoundingClientRect();
+    const tipW = tr.width || 200;
+    const tipH = tr.height || 80;
 
-    tooltip.style.left = Math.min(left, cr.width - 180) + 'px';
-    tooltip.style.top = (top - 8) + 'px';
-    tooltip.style.transform = 'translate(-50%, -100%)';
+    // Default: centered above the pin
+    let left = pt.x;
+    let top  = pt.y;
+    let below = false;
+
+    // Flip below if there's not enough room above (account for tooltip + caret)
+    if (top - tipH - 14 < 6) {
+      below = true;
+    }
+
+    // Clamp horizontally so tooltip doesn't run off the container edges
+    const margin = 8;
+    const halfW = tipW / 2;
+    if (left - halfW < margin) left = halfW + margin;
+    if (left + halfW > cr.width - margin) left = cr.width - halfW - margin;
+
+    tooltip.style.left = left + 'px';
+    tooltip.style.top  = top  + 'px';
+    tooltip.classList.toggle('map-tooltip--below', below);
   }
 
   /* ── Pin rendering ──────────────────────────────────────── */
@@ -164,7 +223,9 @@
       const color = pinColor(anno);
       const icon = ICONS[anno.type] || null;
 
-      // Build the pin group
+      // Outer pin group: holds the static translate(cx, cy). Never animated
+      // (animating an SVG <g> with both translate AND CSS transform creates
+      // the teleport-on-hover bug we used to have).
       const g = document.createElementNS('http://www.w3.org/2000/svg', 'g');
       g.setAttribute('class', 'map-pin map-pin--' + (anno.type || 'default'));
       g.setAttribute('data-annotation-id', anno.id);
@@ -174,17 +235,21 @@
       g.setAttribute('aria-label', anno.label_cn + ' ' + anno.label_en);
       g.setAttribute('transform', `translate(${cx},${cy})`);
 
-      // Outer glow ring (visual only — no hit-testing so hover doesn't flicker
-      // when the cursor crosses ring↔body boundaries).
+      // Inner scale group: this is the element CSS animates on hover.
+      const scaleG = document.createElementNS('http://www.w3.org/2000/svg', 'g');
+      scaleG.setAttribute('class', 'map-pin-scale');
+      g.appendChild(scaleG);
+
+      // Outer glow ring — visual only, no hit-testing.
       const ring = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
       ring.setAttribute('r', '10');
       ring.setAttribute('fill', color);
-      ring.setAttribute('opacity', '0.12');
+      ring.setAttribute('opacity', '0.18');
       ring.setAttribute('class', 'pin-ring');
       ring.setAttribute('pointer-events', 'none');
-      g.appendChild(ring);
+      scaleG.appendChild(ring);
 
-      // Body shape (visual only — see above)
+      // Body shape — visual only.
       if (icon) {
         const shape = document.createElementNS('http://www.w3.org/2000/svg', 'path');
         shape.setAttribute('d', icon);
@@ -193,7 +258,7 @@
         shape.setAttribute('stroke-width', '0.8');
         shape.setAttribute('class', 'pin-body');
         shape.setAttribute('pointer-events', 'none');
-        g.appendChild(shape);
+        scaleG.appendChild(shape);
       } else {
         const circle = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
         circle.setAttribute('r', '5');
@@ -202,13 +267,15 @@
         circle.setAttribute('stroke-width', '1');
         circle.setAttribute('class', 'pin-body');
         circle.setAttribute('pointer-events', 'none');
-        g.appendChild(circle);
+        scaleG.appendChild(circle);
       }
 
-      // Single transparent hit-target sized to cover the ring — pointer events
-      // hit only this rect, so hover state is stable across the pin's interior.
+      // Generous, static hit target on the OUTER group (not the scaling
+      // inner group), so hover state never depends on whatever scale the
+      // pin is currently animating to. Constant 14px radius gives a
+      // forgiving target without overlapping neighbors.
       const hit = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
-      hit.setAttribute('r', '12');
+      hit.setAttribute('r', '14');
       hit.setAttribute('fill', 'transparent');
       hit.setAttribute('class', 'pin-hit');
       g.appendChild(hit);
@@ -256,6 +323,11 @@
       const g = document.getElementById('map-pins-' + layer);
       if (g) g.style.display = activeLayers.has(layer) ? '' : 'none';
     });
+    // Clear any active tooltip — its anchor pin may have just been hidden.
+    if (tooltip) {
+      tooltip.classList.remove('is-visible');
+      svgEl.querySelectorAll('.map-pin.is-active').forEach(p => p.classList.remove('is-active'));
+    }
   }
 
   /* ── Dynasty selector ───────────────────────────────────── */
@@ -285,70 +357,127 @@
     });
   }
 
-  /* ── Interaction: hover/click on pins ──────────────────── */
+  /* ── Interaction: hover/click/tap on pins ──────────────── */
   function wireMapInteractions() {
     let activePinId = null;
+    let activePinEl = null;
+    let hideTimer  = null;
+    const isTouch  = window.matchMedia('(hover: none)').matches;
 
-    svgEl.addEventListener('pointerover', e => {
-      const pin = e.target.closest('.map-pin');
-      if (!pin) return;
-      const id = pin.dataset.annotationId;
-      // Only re-show / re-position when crossing onto a *different* pin.
-      // Without this guard, sub-element pointerovers cause repeated calls
-      // that re-flow the tooltip and read as glitchy flicker.
-      if (id === activePinId) return;
-      const anno = annotations.find(a => a.id === id);
-      if (!anno) return;
-      activePinId = id;
-      showTooltip(anno, pin);
-    });
+    function clearActiveClass() {
+      svgEl.querySelectorAll('.map-pin.is-active').forEach(p => p.classList.remove('is-active'));
+    }
 
-    svgEl.addEventListener('pointerout', e => {
-      const pin = e.target.closest('.map-pin');
-      if (!pin) return;
-      // Only hide when leaving the pin's hit area entirely — `relatedTarget`
-      // null means cursor left the document/svg; otherwise it must not be
-      // inside the same pin.
-      const next = e.relatedTarget;
-      if (next && pin.contains(next)) return;
-      const nextPin = next && next.closest && next.closest('.map-pin');
-      if (nextPin && nextPin.dataset.annotationId === pin.dataset.annotationId) return;
-      activePinId = null;
-      hideTooltip();
-    });
+    function activate(pinEl, anno, opts) {
+      // If activating the same pin, no-op.
+      if (activePinId === anno.id && activePinEl && activePinEl.isConnected) return;
+      // Cancel any pending hide
+      if (hideTimer) { clearTimeout(hideTimer); hideTimer = null; }
+      clearActiveClass();
+      pinEl.classList.add('is-active');
+      activePinId = anno.id;
+      activePinEl = pinEl;
+      showTooltip(anno, pinEl, opts);
+    }
 
-    svgEl.addEventListener('click', e => {
-      const pin = e.target.closest('.map-pin');
-      if (!pin) return;
-      const entry = pin.dataset.entry;
-      if (entry) {
-        window.location.href = BASE + 'pages/' + entry + '.html';
+    function scheduleHide(delay) {
+      if (hideTimer) clearTimeout(hideTimer);
+      hideTimer = setTimeout(() => {
+        clearActiveClass();
+        activePinId = null;
+        activePinEl = null;
+        hideTooltip();
+        hideTimer = null;
+      }, delay);
+    }
+
+    // Use `pointerenter` / `pointerleave` on the SVG via event delegation
+    // through the descendant phase. These don't bubble like over/out, but we
+    // can detect transitions by comparing `target` ancestor on `pointermove`.
+    // Simplest reliable approach: listen on the SVG, look at e.target, and
+    // recompute activePin only when it actually changes.
+    svgEl.addEventListener('pointermove', e => {
+      if (isTouch) return; // touch handled separately by tap
+      const pin = e.target.closest && e.target.closest('.map-pin');
+      if (pin) {
+        const id = pin.dataset.annotationId;
+        if (id === activePinId) return;
+        const anno = annotations.find(a => a.id === id);
+        if (!anno) return;
+        activate(pin, anno);
+      } else if (activePinId) {
+        // Cursor moved off all pins — schedule a small-delay hide so brief
+        // gaps between adjacent pins don't visibly fade out and back in.
+        scheduleHide(120);
       }
     });
 
+    svgEl.addEventListener('pointerleave', () => {
+      if (isTouch) return;
+      if (activePinId) scheduleHide(120);
+    });
+
+    // Click / tap: first interaction on touch shows tooltip, second on the
+    // same pin navigates. On hover devices, click navigates immediately.
+    svgEl.addEventListener('click', e => {
+      const pin = e.target.closest('.map-pin');
+      if (!pin) return;
+      const id = pin.dataset.annotationId;
+      const anno = annotations.find(a => a.id === id);
+      if (!anno) return;
+      const entry = pin.dataset.entry;
+
+      if (isTouch) {
+        if (activePinId !== id) {
+          activate(pin, anno, { snap: true });
+          return; // require second tap to navigate
+        }
+      }
+      if (entry) window.location.href = BASE + 'pages/' + entry + '.html';
+    });
+
+    // Tap outside any pin (touch only): dismiss tooltip
+    if (isTouch) {
+      document.addEventListener('click', e => {
+        if (!activePinId) return;
+        if (e.target.closest('.map-pin') || e.target.closest('.map-tooltip')) return;
+        clearActiveClass();
+        activePinId = null;
+        activePinEl = null;
+        hideTooltip();
+      });
+    }
+
+    // Keyboard: Enter activates pin or navigates if already active
     svgEl.addEventListener('keydown', e => {
       if (e.key !== 'Enter' && e.key !== ' ') return;
-      const pin = e.target.closest('.map-pin');
+      const pin = e.target.closest && e.target.closest('.map-pin');
       if (!pin) return;
       e.preventDefault();
       const id = pin.dataset.annotationId;
       const anno = annotations.find(a => a.id === id);
-      if (anno) showTooltip(anno, pin);
+      if (!anno) return;
+      if (activePinId !== id) {
+        activate(pin, anno, { snap: true });
+        return;
+      }
       const entry = pin.dataset.entry;
       if (entry && e.key === 'Enter') {
         window.location.href = BASE + 'pages/' + entry + '.html';
       }
     });
 
-    // Tooltip itself: keep visible on hover
-    tooltip.addEventListener('pointerenter', () => { tooltip.hidden = false; });
-    tooltip.addEventListener('pointerleave', hideTooltip);
-    tooltip.addEventListener('click', () => {
-      const visiblePins = svgEl.querySelectorAll('.map-pin:hover, .map-pin:focus');
-      if (visiblePins.length) {
-        const entry = visiblePins[0].dataset.entry;
-        if (entry) window.location.href = BASE + 'pages/' + entry + '.html';
-      }
+    svgEl.addEventListener('focusin', e => {
+      const pin = e.target.closest && e.target.closest('.map-pin');
+      if (!pin) return;
+      const id = pin.dataset.annotationId;
+      const anno = annotations.find(a => a.id === id);
+      if (anno) activate(pin, anno, { snap: true });
+    });
+
+    svgEl.addEventListener('focusout', () => {
+      // Brief delay so tab between pins doesn't flicker
+      if (activePinId) scheduleHide(80);
     });
   }
 
