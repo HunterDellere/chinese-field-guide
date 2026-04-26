@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write    # need write so audio job can commit synthesized MP3s back
   pages: write
   id-token: write
 
@@ -28,12 +28,58 @@ jobs:
       - run: npm ci
       - run: npm run validate
 
+  audio:
+    name: Synthesize audio (incremental)
+    needs: validate
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+    outputs:
+      committed: ${{ steps.commit.outputs.committed }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+      - run: npm ci
+      - run: npm run build
+      - name: Synthesize new/changed audio clips
+        env:
+          AZURE_TTS_KEY: ${{ secrets.AZURE_TTS_KEY }}
+          AZURE_TTS_REGION: ${{ secrets.AZURE_TTS_REGION }}
+        run: npm run build:audio
+      - name: Commit synthesized audio if changed
+        id: commit
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add audio/ data/audio-manifest.json
+          if git diff --cached --quiet; then
+            echo "committed=false" >> "$GITHUB_OUTPUT"
+            echo "No new audio clips."
+          else
+            git commit -m "chore: synthesize audio clips [skip ci]"
+            git push
+            echo "committed=true" >> "$GITHUB_OUTPUT"
+          fi
+
   build:
     name: Build site
-    needs: validate
+    needs: [validate, audio]
+    # `audio` only runs on push-to-main; on PR / dispatch we still want build
+    # to run, so don't fail when audio was skipped.
+    if: |
+      always() &&
+      needs.validate.result == 'success' &&
+      (needs.audio.result == 'success' || needs.audio.result == 'skipped')
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          # Pull the latest commit (which may include the audio commit just pushed)
+          ref: ${{ github.ref }}
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
@@ -49,6 +95,7 @@ jobs:
             pages/
             data/
             og/
+            audio/
             style.css
             scripts/
             sitemap.xml
@@ -87,6 +134,8 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
       - uses: actions/setup-node@v4
         with:
           node-version: '20'

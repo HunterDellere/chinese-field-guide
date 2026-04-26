@@ -1,7 +1,7 @@
 {
-  "generated": "2026-04-25T23:03:11.794Z",
+  "generated": "2026-04-26T00:03:11.734Z",
   "summary": {
-    "errors": 1,
+    "errors": 0,
     "warnings": 8,
     "info": 258
   },
@@ -1855,12 +1855,6 @@
       "category": "factual",
       "file": "data/_reference/hanzi-facts.json",
       "msg": "51 hanzi appear in content/ but have no reference entry: 説変喫剣翩丷闩楽謂廾樱竅竜牀刃厶澌気舛趙雹臓丶凛彐鬓彗罔殆膑吝囍哋箇弑佾廪蹙靡珅…. Claims about these characters cannot be mechanically verified. Run 'npm run refresh:reference' after updating upstream data."
-    },
-    {
-      "level": "ERROR",
-      "category": "layout",
-      "file": "pages/maps/china.html",
-      "msg": "invariant failed: layout.enhance"
     }
   ]
 }
