@@ -275,5 +275,6 @@
   {"slug": "production",        "label": "Production"},
   {"slug": "birth",             "label": "Birth"},
   {"slug": "industry",          "label": "Industry"},
-  {"slug": "learning",          "label": "Learning"}
+  {"slug": "learning",          "label": "Learning"},
+  {"slug": "compassion",        "label": "Compassion"}
 ]
