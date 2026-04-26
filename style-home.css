@@ -554,16 +554,16 @@
   }
 
   .colophon {
-    margin-top: 5rem; padding-top: 2.5rem; border-top: 1px solid var(--rule);
+    margin-top: 5rem; padding-top: 2.5rem;
     text-align: left;
   }
   .colophon-ornament {
     display: block;
     width: 200px; height: 24px;
-    margin: -2.5rem auto 1.6rem;
+    margin: 0 auto 1.6rem;
     color: var(--ochre);
-    background: var(--papyrus);
-    padding: 0 0.6rem;
+    background: transparent;
+    padding: 0;
   }
   .colophon-epigraph {
     font-family: var(--font-body); font-style: italic; font-size: 1.02rem;

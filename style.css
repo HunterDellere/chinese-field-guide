@@ -3380,6 +3380,30 @@ html[data-theme="dark"] .theme-toggle .tt-moon { display: inline; }
   html:not([data-theme="light"]) .theme-toggle .tt-moon { display: inline; }
 }
 
+/* Theme toggle: in dark mode, the inherited --papyrus-4 color leaves the moon
+ * glyph too dim against the dark surface. Lift it to a lighter parchment tone
+ * so the affordance reads clearly. Hover state stays warm. */
+html[data-theme="dark"] .theme-toggle {
+  color: #e8d9b8;
+  border-color: rgba(232,217,184,0.32);
+}
+html[data-theme="dark"] .theme-toggle:hover {
+  background: rgba(232,217,184,0.10);
+  border-color: rgba(232,217,184,0.5);
+  color: #f5ead0;
+}
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme="light"]) .theme-toggle {
+    color: #e8d9b8;
+    border-color: rgba(232,217,184,0.32);
+  }
+  html:not([data-theme="light"]) .theme-toggle:hover {
+    background: rgba(232,217,184,0.10);
+    border-color: rgba(232,217,184,0.5);
+    color: #f5ead0;
+  }
+}
+
 /* HSK page items */
 html[data-theme="dark"] .hsk-char-item {
   background: rgba(240,200,140,0.04);
