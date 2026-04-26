@@ -3,7 +3,7 @@
     "cn": "道",
     "py": "dào",
     "en": "the Way; path; principle",
-    "count": 10,
+    "count": 11,
     "appearsOn": [
       "pages/characters/bian4_变.html",
       "pages/characters/fo2_佛.html",
@@ -12,6 +12,7 @@
       "pages/philosophy/topic_yijing.html",
       "pages/science/topic_wuxing.html",
       "pages/vocab/daode_道德.html",
+      "pages/vocab/shenming_神明.html",
       "pages/vocab/tianming_天命.html",
       "pages/vocab/yinyang_阴阳.html",
       "pages/vocab/ziran_自然.html"
@@ -22,16 +23,51 @@
     "cn": "仁",
     "py": "rén",
     "en": "humaneness; benevolence (Confucian virtue)",
-    "count": 8,
+    "count": 9,
     "appearsOn": [
       "pages/characters/li3_礼.html",
       "pages/characters/ren2_人.html",
       "pages/characters/xin4_信.html",
       "pages/characters/yi4_义.html",
       "pages/characters/zhi4_智.html",
+      "pages/philosophy/topic_zhengming.html",
       "pages/vocab/daode_道德.html",
       "pages/vocab/li3_礼.html",
       "pages/vocab/xiao4_孝.html"
+    ],
+    "hasPage": true
+  },
+  "水": {
+    "cn": "水",
+    "py": "shuǐ",
+    "en": "water",
+    "count": 8,
+    "appearsOn": [
+      "pages/arts/topic_shanshui.html",
+      "pages/characters/di4_地.html",
+      "pages/characters/feng1_风.html",
+      "pages/characters/huo3_火.html",
+      "pages/characters/tu3_土.html",
+      "pages/characters/yu3_雨.html",
+      "pages/characters/yun2_云.html",
+      "pages/vocab/ziran_自然.html"
+    ],
+    "hasPage": true
+  },
+  "天": {
+    "cn": "天",
+    "py": "tiān",
+    "en": "heaven; sky; day",
+    "count": 8,
+    "appearsOn": [
+      "pages/characters/di4_地.html",
+      "pages/characters/kong1_空.html",
+      "pages/characters/long2_龙.html",
+      "pages/characters/ri4_日.html",
+      "pages/characters/shi2_时.html",
+      "pages/characters/yun2_云.html",
+      "pages/vocab/shenming_神明.html",
+      "pages/vocab/ziran_自然.html"
     ],
     "hasPage": true
   },
@@ -51,35 +87,19 @@
     ],
     "hasPage": true
   },
-  "水": {
-    "cn": "水",
-    "py": "shuǐ",
-    "en": "water",
+  "礼": {
+    "cn": "礼",
+    "py": "lǐ",
+    "en": "ritual propriety (Five Constants)",
     "count": 7,
     "appearsOn": [
-      "pages/characters/di4_地.html",
-      "pages/characters/feng1_风.html",
-      "pages/characters/huo3_火.html",
-      "pages/characters/tu3_土.html",
-      "pages/characters/yu3_雨.html",
-      "pages/characters/yun2_云.html",
-      "pages/vocab/ziran_自然.html"
-    ],
-    "hasPage": true
-  },
-  "天": {
-    "cn": "天",
-    "py": "tiān",
-    "en": "heaven; sky; day",
-    "count": 7,
-    "appearsOn": [
-      "pages/characters/di4_地.html",
-      "pages/characters/kong1_空.html",
-      "pages/characters/long2_龙.html",
-      "pages/characters/ri4_日.html",
-      "pages/characters/shi2_时.html",
-      "pages/characters/yun2_云.html",
-      "pages/vocab/ziran_自然.html"
+      "pages/characters/xin4_信.html",
+      "pages/characters/yi4_义.html",
+      "pages/characters/zhi4_智.html",
+      "pages/philosophy/topic_zhengming.html",
+      "pages/vocab/daode_道德.html",
+      "pages/vocab/ren2_仁.html",
+      "pages/vocab/shenming_神明.html"
     ],
     "hasPage": true
   },
@@ -203,17 +223,45 @@
     ],
     "hasPage": true
   },
-  "礼": {
-    "cn": "礼",
-    "py": "lǐ",
-    "en": "ritual propriety (Five Constants)",
+  "还": {
+    "cn": "还",
+    "py": "hái",
+    "en": "still; also; even more",
     "count": 5,
     "appearsOn": [
-      "pages/characters/xin4_信.html",
+      "pages/characters/zai4_再.html",
+      "pages/grammar/dou_都.html",
+      "pages/grammar/erqie_而且.html",
+      "pages/grammar/le_了.html",
+      "pages/grammar/zhe_着.html"
+    ],
+    "hasPage": true
+  },
+  "君子": {
+    "cn": "君子",
+    "py": "jūnzǐ",
+    "en": "noble person; exemplary person",
+    "count": 5,
+    "appearsOn": [
       "pages/characters/yi4_义.html",
       "pages/characters/zhi4_智.html",
-      "pages/vocab/daode_道德.html",
+      "pages/philosophy/topic_zhengming.html",
+      "pages/religion/topic_rujia.html",
       "pages/vocab/ren2_仁.html"
+    ],
+    "hasPage": false
+  },
+  "没有": {
+    "cn": "没有",
+    "py": "méiyǒu",
+    "en": "don't have; didn't (past neg.)",
+    "count": 5,
+    "appearsOn": [
+      "pages/characters/bu4_不.html",
+      "pages/characters/wu2_无.html",
+      "pages/characters/you3_有.html",
+      "pages/grammar/dou_都.html",
+      "pages/grammar/le_了.html"
     ],
     "hasPage": true
   },
@@ -244,6 +292,20 @@
       "pages/characters/zou3_走.html"
     ],
     "hasPage": true
+  },
+  "神": {
+    "cn": "神",
+    "py": "shén",
+    "en": "god; spirit; divine",
+    "count": 5,
+    "appearsOn": [
+      "pages/characters/li3_礼.html",
+      "pages/characters/qi4_气.html",
+      "pages/characters/tian1_天.html",
+      "pages/religion/topic_minjian.html",
+      "pages/vocab/shenming_神明.html"
+    ],
+    "hasPage": false
   },
   "书法": {
     "cn": "书法",
@@ -394,19 +456,6 @@
     ],
     "hasPage": true
   },
-  "还": {
-    "cn": "还",
-    "py": "hái",
-    "en": "still; also; even more",
-    "count": 4,
-    "appearsOn": [
-      "pages/characters/zai4_再.html",
-      "pages/grammar/erqie_而且.html",
-      "pages/grammar/le_了.html",
-      "pages/grammar/zhe_着.html"
-    ],
-    "hasPage": false
-  },
   "脚": {
     "cn": "脚",
     "py": "jiǎo",
@@ -417,19 +466,6 @@
       "pages/characters/shou3_手.html",
       "pages/characters/zou3_走.html",
       "pages/characters/zu2_足.html"
-    ],
-    "hasPage": false
-  },
-  "君子": {
-    "cn": "君子",
-    "py": "jūnzǐ",
-    "en": "noble person; exemplary person",
-    "count": 4,
-    "appearsOn": [
-      "pages/characters/yi4_义.html",
-      "pages/characters/zhi4_智.html",
-      "pages/religion/topic_rujia.html",
-      "pages/vocab/ren2_仁.html"
     ],
     "hasPage": false
   },
@@ -472,31 +508,31 @@
     ],
     "hasPage": true
   },
-  "没有": {
-    "cn": "没有",
-    "py": "méiyǒu",
-    "en": "don't have; didn't (past neg.)",
+  "菩萨": {
+    "cn": "菩萨",
+    "py": "púsà",
+    "en": "Bodhisattva; compassionate figure",
     "count": 4,
     "appearsOn": [
-      "pages/characters/bu4_不.html",
-      "pages/characters/wu2_无.html",
-      "pages/characters/you3_有.html",
-      "pages/grammar/le_了.html"
-    ],
-    "hasPage": true
-  },
-  "神": {
-    "cn": "神",
-    "py": "shén",
-    "en": "god; spirit; divine",
-    "count": 4,
-    "appearsOn": [
-      "pages/characters/li3_礼.html",
-      "pages/characters/qi4_气.html",
-      "pages/characters/tian1_天.html",
-      "pages/religion/topic_minjian.html"
+      "pages/characters/fo2_佛.html",
+      "pages/religion/topic_guanyin.html",
+      "pages/religion/topic_minjian.html",
+      "pages/vocab/shenming_神明.html"
     ],
     "hasPage": false
+  },
+  "山": {
+    "cn": "山",
+    "py": "shān",
+    "en": "mountain",
+    "count": 4,
+    "appearsOn": [
+      "pages/arts/topic_shanshui.html",
+      "pages/characters/di4_地.html",
+      "pages/characters/gao1_高.html",
+      "pages/characters/tu3_土.html"
+    ],
+    "hasPage": true
   },
   "文化": {
     "cn": "文化",
@@ -547,6 +583,32 @@
       "pages/characters/jin4_近.html",
       "pages/characters/jiu4_旧.html",
       "pages/vocab/chuantong_传统.html"
+    ],
+    "hasPage": true
+  },
+  "也": {
+    "cn": "也",
+    "py": "yě",
+    "en": "also; too (additive)",
+    "count": 4,
+    "appearsOn": [
+      "pages/grammar/dou_都.html",
+      "pages/grammar/erqie_而且.html",
+      "pages/grammar/hai_还.html",
+      "pages/grammar/lian_dou_连都.html"
+    ],
+    "hasPage": false
+  },
+  "已经": {
+    "cn": "已经",
+    "py": "yǐjīng",
+    "en": "already",
+    "count": 4,
+    "appearsOn": [
+      "pages/grammar/dou_都.html",
+      "pages/grammar/hai_还.html",
+      "pages/grammar/jiu_cai_就才.html",
+      "pages/grammar/le_了.html"
     ],
     "hasPage": true
   },
@@ -664,6 +726,18 @@
     ],
     "hasPage": false
   },
+  "慈悲": {
+    "cn": "慈悲",
+    "py": "cíbēi",
+    "en": "compassion; mercy",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/fo2_佛.html",
+      "pages/religion/topic_fojiao.html",
+      "pages/religion/topic_guanyin.html"
+    ],
+    "hasPage": false
+  },
   "都": {
     "cn": "都",
     "py": "dōu",
@@ -674,7 +748,7 @@
       "pages/grammar/le_了.html",
       "pages/grammar/lian_dou_连都.html"
     ],
-    "hasPage": false
+    "hasPage": true
   },
   "耳": {
     "cn": "耳",
@@ -711,6 +785,18 @@
       "pages/characters/shang4_上.html"
     ],
     "hasPage": true
+  },
+  "更": {
+    "cn": "更",
+    "py": "gèng",
+    "en": "even more (neutral degree)",
+    "count": 3,
+    "appearsOn": [
+      "pages/grammar/hai_还.html",
+      "pages/grammar/yuelaiyue_越来越.html",
+      "pages/vocab/bijiao_比较.html"
+    ],
+    "hasPage": false
   },
   "关系": {
     "cn": "关系",
@@ -940,6 +1026,18 @@
     ],
     "hasPage": true
   },
+  "呢": {
+    "cn": "呢",
+    "py": "ne",
+    "en": "sentence-final emphasis / ongoing particle",
+    "count": 3,
+    "appearsOn": [
+      "pages/grammar/hai_还.html",
+      "pages/grammar/le_了.html",
+      "pages/grammar/zhe_着.html"
+    ],
+    "hasPage": true
+  },
   "年": {
     "cn": "年",
     "py": "nián",
@@ -976,17 +1074,17 @@
     ],
     "hasPage": false
   },
-  "山": {
-    "cn": "山",
-    "py": "shān",
-    "en": "mountain",
+  "山水": {
+    "cn": "山水",
+    "py": "shānshuǐ",
+    "en": "mountains and water; landscape",
     "count": 3,
     "appearsOn": [
-      "pages/characters/di4_地.html",
-      "pages/characters/gao1_高.html",
-      "pages/characters/tu3_土.html"
+      "pages/arts/topic_shanshui.html",
+      "pages/vocab/jiangshan_江山.html",
+      "pages/vocab/zhongguohua_中国画.html"
     ],
-    "hasPage": true
+    "hasPage": false
   },
   "善": {
     "cn": "善",
@@ -1304,6 +1402,17 @@
     ],
     "hasPage": true
   },
+  "笔墨": {
+    "cn": "笔墨",
+    "py": "bǐmò",
+    "en": "brush and ink; brushwork as a concept",
+    "count": 2,
+    "appearsOn": [
+      "pages/arts/topic_shanshui.html",
+      "pages/characters/shu1_书.html"
+    ],
+    "hasPage": false
+  },
   "变": {
     "cn": "变",
     "py": "biàn",
@@ -1358,6 +1467,17 @@
       "pages/vocab/hanzi_汉字.html"
     ],
     "hasPage": true
+  },
+  "才": {
+    "cn": "才",
+    "py": "cái",
+    "en": "only just; not until",
+    "count": 2,
+    "appearsOn": [
+      "pages/grammar/hai_还.html",
+      "pages/grammar/zhiyou_cai_只有才.html"
+    ],
+    "hasPage": false
   },
   "才能": {
     "cn": "才能",
@@ -1425,17 +1545,6 @@
     ],
     "hasPage": false
   },
-  "慈悲": {
-    "cn": "慈悲",
-    "py": "cíbēi",
-    "en": "compassion; mercy",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/fo2_佛.html",
-      "pages/religion/topic_fojiao.html"
-    ],
-    "hasPage": false
-  },
   "聪明": {
     "cn": "聪明",
     "py": "cōngmíng",
@@ -1490,6 +1599,17 @@
       "pages/characters/gao1_高.html"
     ],
     "hasPage": true
+  },
+  "大家": {
+    "cn": "大家",
+    "py": "dàjiā",
+    "en": "everyone; we all",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/da4_大.html",
+      "pages/grammar/dou_都.html"
+    ],
+    "hasPage": false
   },
   "道德": {
     "cn": "道德",
@@ -1579,6 +1699,17 @@
     ],
     "hasPage": false
   },
+  "二胡": {
+    "cn": "二胡",
+    "py": "èrhú",
+    "en": "erhu fiddle",
+    "count": 2,
+    "appearsOn": [
+      "pages/arts/topic_guqin.html",
+      "pages/vocab/jingju_京剧.html"
+    ],
+    "hasPage": false
+  },
   "方位": {
     "cn": "方位",
     "py": "fāngwèi",
@@ -1656,17 +1787,6 @@
     ],
     "hasPage": false
   },
-  "更": {
-    "cn": "更",
-    "py": "gèng",
-    "en": "even more; more than before",
-    "count": 2,
-    "appearsOn": [
-      "pages/grammar/yuelaiyue_越来越.html",
-      "pages/vocab/bijiao_比较.html"
-    ],
-    "hasPage": false
-  },
   "工厂": {
     "cn": "工厂",
     "py": "gōngchǎng",
@@ -1708,6 +1828,17 @@
     "appearsOn": [
       "pages/vocab/jianghu_江湖.html",
       "pages/vocab/li3_礼.html"
+    ],
+    "hasPage": false
+  },
+  "鬼": {
+    "cn": "鬼",
+    "py": "guǐ",
+    "en": "ghost; evil spirit",
+    "count": 2,
+    "appearsOn": [
+      "pages/religion/topic_minjian.html",
+      "pages/vocab/shenming_神明.html"
     ],
     "hasPage": false
   },
@@ -1862,6 +1993,17 @@
     "appearsOn": [
       "pages/characters/fu2_福.html",
       "pages/vocab/fengshui_风水.html"
+    ],
+    "hasPage": false
+  },
+  "祭祀": {
+    "cn": "祭祀",
+    "py": "jìsì",
+    "en": "ritual sacrifice; ancestral offering",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/li3_礼.html",
+      "pages/vocab/shenming_神明.html"
     ],
     "hasPage": false
   },
@@ -2085,6 +2227,17 @@
     ],
     "hasPage": false
   },
+  "莲花": {
+    "cn": "莲花",
+    "py": "liánhuā",
+    "en": "lotus flower",
+    "count": 2,
+    "appearsOn": [
+      "pages/religion/topic_guanyin.html",
+      "pages/religion/topic_jingtu.html"
+    ],
+    "hasPage": false
+  },
   "灵魂": {
     "cn": "灵魂",
     "py": "línghún",
@@ -2106,6 +2259,17 @@
       "pages/culture/topic_duanwu.html"
     ],
     "hasPage": false
+  },
+  "妈祖": {
+    "cn": "妈祖",
+    "py": "Māzǔ",
+    "en": "Mazu (sea goddess)",
+    "count": 2,
+    "appearsOn": [
+      "pages/religion/topic_guanyin.html",
+      "pages/vocab/shenming_神明.html"
+    ],
+    "hasPage": true
   },
   "马上": {
     "cn": "马上",
@@ -2173,6 +2337,28 @@
     ],
     "hasPage": false
   },
+  "名": {
+    "cn": "名",
+    "py": "míng",
+    "en": "name; reputation",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/yan2_言.html",
+      "pages/philosophy/topic_zhengming.html"
+    ],
+    "hasPage": false
+  },
+  "明": {
+    "cn": "明",
+    "py": "míng",
+    "en": "bright",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/bai2_白.html",
+      "pages/vocab/shenming_神明.html"
+    ],
+    "hasPage": true
+  },
   "明白": {
     "cn": "明白",
     "py": "míngbai",
@@ -2217,17 +2403,6 @@
     ],
     "hasPage": false
   },
-  "呢": {
-    "cn": "呢",
-    "py": "ne",
-    "en": "softening / ongoing particle",
-    "count": 2,
-    "appearsOn": [
-      "pages/grammar/le_了.html",
-      "pages/grammar/zhe_着.html"
-    ],
-    "hasPage": true
-  },
   "涅槃": {
     "cn": "涅槃",
     "py": "nièpán",
@@ -2271,17 +2446,6 @@
       "pages/vocab/putonghua_普通话.html"
     ],
     "hasPage": true
-  },
-  "菩萨": {
-    "cn": "菩萨",
-    "py": "púsà",
-    "en": "Bodhisattva; compassionate figure",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/fo2_佛.html",
-      "pages/religion/topic_minjian.html"
-    ],
-    "hasPage": false
   },
   "其实": {
     "cn": "其实",
@@ -2371,6 +2535,17 @@
     ],
     "hasPage": false
   },
+  "仍然": {
+    "cn": "仍然",
+    "py": "réngrán",
+    "en": "still; nevertheless",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/zai4_再.html",
+      "pages/grammar/hai_还.html"
+    ],
+    "hasPage": false
+  },
   "日": {
     "cn": "日",
     "py": "rì",
@@ -2382,14 +2557,25 @@
     ],
     "hasPage": true
   },
-  "山水": {
-    "cn": "山水",
-    "py": "shānshuǐ",
-    "en": "mountains and water; landscape; landscape painting",
+  "神话": {
+    "cn": "神话",
+    "py": "shénhuà",
+    "en": "mythology",
     "count": 2,
     "appearsOn": [
-      "pages/vocab/jiangshan_江山.html",
-      "pages/vocab/zhongguohua_中国画.html"
+      "pages/characters/long2_龙.html",
+      "pages/vocab/shenming_神明.html"
+    ],
+    "hasPage": false
+  },
+  "神灵": {
+    "cn": "神灵",
+    "py": "shénlíng",
+    "en": "spirit; divine being",
+    "count": 2,
+    "appearsOn": [
+      "pages/religion/topic_saman.html",
+      "pages/vocab/shenming_神明.html"
     ],
     "hasPage": false
   },
@@ -2544,6 +2730,17 @@
     "appearsOn": [
       "pages/characters/kuai4_快.html",
       "pages/characters/man4_慢.html"
+    ],
+    "hasPage": false
+  },
+  "所有": {
+    "cn": "所有",
+    "py": "suǒyǒu",
+    "en": "all (noun modifier)",
+    "count": 2,
+    "appearsOn": [
+      "pages/grammar/dou_都.html",
+      "pages/grammar/liangci_量词.html"
     ],
     "hasPage": false
   },
@@ -2843,28 +3040,6 @@
     ],
     "hasPage": false
   },
-  "也": {
-    "cn": "也",
-    "py": "yě",
-    "en": "also; too (parallel)",
-    "count": 2,
-    "appearsOn": [
-      "pages/grammar/erqie_而且.html",
-      "pages/grammar/lian_dou_连都.html"
-    ],
-    "hasPage": false
-  },
-  "已经": {
-    "cn": "已经",
-    "py": "yǐjīng",
-    "en": "already (neutral time marker)",
-    "count": 2,
-    "appearsOn": [
-      "pages/grammar/jiu_cai_就才.html",
-      "pages/grammar/le_了.html"
-    ],
-    "hasPage": true
-  },
   "义气": {
     "cn": "义气",
     "py": "yìqì",
@@ -3008,6 +3183,17 @@
     ],
     "hasPage": true
   },
+  "正名": {
+    "cn": "正名",
+    "py": "zhèngmíng",
+    "en": "rectification of names",
+    "count": 2,
+    "appearsOn": [
+      "pages/philosophy/topic_zhengming.html",
+      "pages/religion/topic_rujia.html"
+    ],
+    "hasPage": true
+  },
   "正统": {
     "cn": "正统",
     "py": "zhèngtǒng",
@@ -3038,6 +3224,17 @@
     "appearsOn": [
       "pages/characters/xue2_学.html",
       "pages/characters/zhi4_智.html"
+    ],
+    "hasPage": false
+  },
+  "只": {
+    "cn": "只",
+    "py": "zhǐ",
+    "en": "only; merely (scope restrictor)",
+    "count": 2,
+    "appearsOn": [
+      "pages/grammar/dou_都.html",
+      "pages/grammar/jiu_cai_就才.html"
     ],
     "hasPage": false
   },
@@ -3115,6 +3312,16 @@
     "appearsOn": [
       "pages/characters/li3_礼.html",
       "pages/religion/topic_zuxian.html"
+    ],
+    "hasPage": false
+  },
+  "阿弥陀佛": {
+    "cn": "阿弥陀佛",
+    "py": "Āmítuófó",
+    "en": "Amitabha Buddha",
+    "count": 1,
+    "appearsOn": [
+      "pages/religion/topic_guanyin.html"
     ],
     "hasPage": false
   },
@@ -3285,6 +3492,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/bai2_白.html"
+    ],
+    "hasPage": false
+  },
+  "白衣": {
+    "cn": "白衣",
+    "py": "báiyī",
+    "en": "white-robed (form of Guanyin)",
+    "count": 1,
+    "appearsOn": [
+      "pages/religion/topic_guanyin.html"
     ],
     "hasPage": false
   },
@@ -3478,16 +3695,6 @@
     ],
     "hasPage": false
   },
-  "笔墨": {
-    "cn": "笔墨",
-    "py": "bǐmò",
-    "en": "brush and ink; writing",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/shu1_书.html"
-    ],
-    "hasPage": false
-  },
   "笔顺": {
     "cn": "笔顺",
     "py": "bǐshùn",
@@ -3648,6 +3855,16 @@
     ],
     "hasPage": false
   },
+  "伯牙": {
+    "cn": "伯牙",
+    "py": "Bó Yá",
+    "en": "the master qin player (Spring and Autumn period)",
+    "count": 1,
+    "appearsOn": [
+      "pages/arts/topic_guqin.html"
+    ],
+    "hasPage": false
+  },
   "博爱": {
     "cn": "博爱",
     "py": "bó ài",
@@ -3685,6 +3902,16 @@
     "count": 1,
     "appearsOn": [
       "pages/grammar/erqie_而且.html"
+    ],
+    "hasPage": false
+  },
+  "不但…还": {
+    "cn": "不但…还",
+    "py": "bùdàn … hái",
+    "en": "not only … but also",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/hai_还.html"
     ],
     "hasPage": false
   },
@@ -3865,16 +4092,6 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/chang2_长.html"
-    ],
-    "hasPage": false
-  },
-  "才": {
-    "cn": "才",
-    "py": "cái",
-    "en": "then and only then; only now; talent",
-    "count": 1,
-    "appearsOn": [
-      "pages/grammar/zhiyou_cai_只有才.html"
     ],
     "hasPage": false
   },
@@ -4218,6 +4435,16 @@
     ],
     "hasPage": false
   },
+  "除了…还": {
+    "cn": "除了…还",
+    "py": "chúle … hái",
+    "en": "besides … also",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/hai_还.html"
+    ],
+    "hasPage": false
+  },
   "除夕": {
     "cn": "除夕",
     "py": "Chúxī",
@@ -4348,6 +4575,16 @@
     ],
     "hasPage": false
   },
+  "皴法": {
+    "cn": "皴法",
+    "py": "cūnfǎ",
+    "en": "rock-texture stroke methods",
+    "count": 1,
+    "appearsOn": [
+      "pages/arts/topic_shanshui.html"
+    ],
+    "hasPage": false
+  },
   "错": {
     "cn": "错",
     "py": "cuò",
@@ -4408,6 +4645,16 @@
     ],
     "hasPage": false
   },
+  "大悲咒": {
+    "cn": "大悲咒",
+    "py": "Dàbēi Zhòu",
+    "en": "Great Compassion Mantra",
+    "count": 1,
+    "appearsOn": [
+      "pages/religion/topic_guanyin.html"
+    ],
+    "hasPage": false
+  },
   "大地": {
     "cn": "大地",
     "py": "dàdì",
@@ -4442,16 +4689,6 @@
     "cn": "大概",
     "py": "dàgài",
     "en": "approximately; probably",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/da4_大.html"
-    ],
-    "hasPage": false
-  },
-  "大家": {
-    "cn": "大家",
-    "py": "dàjiā",
-    "en": "everyone; we all",
     "count": 1,
     "appearsOn": [
       "pages/characters/da4_大.html"
@@ -4888,6 +5125,16 @@
     ],
     "hasPage": false
   },
+  "都…了": {
+    "cn": "都…了",
+    "py": "dōu … le",
+    "en": "already (emphatic with change-of-state 了)",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/hai_还.html"
+    ],
+    "hasPage": false
+  },
   "读书": {
     "cn": "读书",
     "py": "dúshū",
@@ -5018,16 +5265,6 @@
     ],
     "hasPage": false
   },
-  "二胡": {
-    "cn": "二胡",
-    "py": "èrhú",
-    "en": "erhu (two-string fiddle)",
-    "count": 1,
-    "appearsOn": [
-      "pages/vocab/jingju_京剧.html"
-    ],
-    "hasPage": false
-  },
   "发电": {
     "cn": "发电",
     "py": "fādiàn",
@@ -5085,6 +5322,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/bijiao_比较.html"
+    ],
+    "hasPage": false
+  },
+  "范宽": {
+    "cn": "范宽",
+    "py": "Fàn Kuān",
+    "en": "Fan Kuan — Northern Song master",
+    "count": 1,
+    "appearsOn": [
+      "pages/arts/topic_shanshui.html"
     ],
     "hasPage": false
   },
@@ -5238,6 +5485,16 @@
     ],
     "hasPage": false
   },
+  "佛": {
+    "cn": "佛",
+    "py": "fó",
+    "en": "Buddha",
+    "count": 1,
+    "appearsOn": [
+      "pages/religion/topic_guanyin.html"
+    ],
+    "hasPage": true
+  },
   "佛法": {
     "cn": "佛法",
     "py": "fófǎ",
@@ -5285,6 +5542,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/jia1_家.html"
+    ],
+    "hasPage": false
+  },
+  "父子": {
+    "cn": "父子",
+    "py": "fù zǐ",
+    "en": "father and son",
+    "count": 1,
+    "appearsOn": [
+      "pages/philosophy/topic_zhengming.html"
     ],
     "hasPage": false
   },
@@ -5418,6 +5685,16 @@
     ],
     "hasPage": false
   },
+  "高山流水": {
+    "cn": "高山流水",
+    "py": "gāoshān liúshuǐ",
+    "en": "High Mountains, Flowing Water (the piece; the meeting)",
+    "count": 1,
+    "appearsOn": [
+      "pages/arts/topic_guqin.html"
+    ],
+    "hasPage": false
+  },
   "高手": {
     "cn": "高手",
     "py": "gāoshǒu",
@@ -5455,6 +5732,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/bian4_变.html"
+    ],
+    "hasPage": false
+  },
+  "格物": {
+    "cn": "格物",
+    "py": "géwù",
+    "en": "investigation of things",
+    "count": 1,
+    "appearsOn": [
+      "pages/philosophy/topic_zhengming.html"
     ],
     "hasPage": false
   },
@@ -5668,6 +5955,16 @@
     ],
     "hasPage": false
   },
+  "古筝": {
+    "cn": "古筝",
+    "py": "gǔzhēng",
+    "en": "guzheng zither",
+    "count": 1,
+    "appearsOn": [
+      "pages/arts/topic_guqin.html"
+    ],
+    "hasPage": false
+  },
   "故": {
     "cn": "故",
     "py": "gù",
@@ -5735,6 +6032,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/guan1_关.html"
+    ],
+    "hasPage": false
+  },
+  "关帝": {
+    "cn": "关帝",
+    "py": "guāndì",
+    "en": "Guan Yu deified; god of war and commerce",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/shenming_神明.html"
     ],
     "hasPage": false
   },
@@ -5808,6 +6115,16 @@
     ],
     "hasPage": false
   },
+  "观音": {
+    "cn": "观音",
+    "py": "guānyīn",
+    "en": "Guanyin; bodhisattva of compassion",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/shenming_神明.html"
+    ],
+    "hasPage": false
+  },
   "光": {
     "cn": "光",
     "py": "guāng",
@@ -5825,16 +6142,6 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/jia1_家.html"
-    ],
-    "hasPage": false
-  },
-  "鬼": {
-    "cn": "鬼",
-    "py": "guǐ",
-    "en": "ghost; evil spirit",
-    "count": 1,
-    "appearsOn": [
-      "pages/religion/topic_minjian.html"
     ],
     "hasPage": false
   },
@@ -5905,6 +6212,26 @@
     "count": 1,
     "appearsOn": [
       "pages/grammar/yuqi_buru_与其不如.html"
+    ],
+    "hasPage": false
+  },
+  "还没…呢": {
+    "cn": "还没…呢",
+    "py": "hái méi … ne",
+    "en": "not yet (with implied expectation)",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/hai_还.html"
+    ],
+    "hasPage": false
+  },
+  "还是算了": {
+    "cn": "还是算了",
+    "py": "háishì suàn le",
+    "en": "forget it; never mind; on second thought, no",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/hai_还.html"
     ],
     "hasPage": false
   },
@@ -6328,6 +6655,16 @@
     ],
     "hasPage": false
   },
+  "或者": {
+    "cn": "或者",
+    "py": "huòzhě",
+    "en": "or (in statements, not questions)",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/hai_还.html"
+    ],
+    "hasPage": false
+  },
   "货物": {
     "cn": "货物",
     "py": "huòwù",
@@ -6508,16 +6845,6 @@
     ],
     "hasPage": false
   },
-  "祭祀": {
-    "cn": "祭祀",
-    "py": "jìsì",
-    "en": "ritual sacrifice; ancestral offering",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/li3_礼.html"
-    ],
-    "hasPage": false
-  },
   "祭天": {
     "cn": "祭天",
     "py": "jì tiān",
@@ -6635,6 +6962,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/shao3_少.html"
+    ],
+    "hasPage": false
+  },
+  "减字谱": {
+    "cn": "减字谱",
+    "py": "jiǎnzìpǔ",
+    "en": "guqin tablature notation",
+    "count": 1,
+    "appearsOn": [
+      "pages/arts/topic_guqin.html"
     ],
     "hasPage": false
   },
@@ -6958,6 +7295,16 @@
     ],
     "hasPage": false
   },
+  "近景": {
+    "cn": "近景",
+    "py": "jìnjǐng",
+    "en": "foreground; near scene",
+    "count": 1,
+    "appearsOn": [
+      "pages/arts/topic_shanshui.html"
+    ],
+    "hasPage": false
+  },
   "近来": {
     "cn": "近来",
     "py": "jìnlái",
@@ -7035,6 +7382,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/gongfu_功夫.html"
+    ],
+    "hasPage": false
+  },
+  "净土": {
+    "cn": "净土",
+    "py": "jìngtǔ",
+    "en": "Pure Land",
+    "count": 1,
+    "appearsOn": [
+      "pages/religion/topic_guanyin.html"
     ],
     "hasPage": false
   },
@@ -7205,6 +7562,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/wang2_王.html"
+    ],
+    "hasPage": false
+  },
+  "君臣": {
+    "cn": "君臣",
+    "py": "jūn chén",
+    "en": "ruler and minister",
+    "count": 1,
+    "appearsOn": [
+      "pages/philosophy/topic_zhengming.html"
     ],
     "hasPage": false
   },
@@ -7588,6 +7955,16 @@
     ],
     "hasPage": true
   },
+  "乐器": {
+    "cn": "乐器",
+    "py": "yuèqì",
+    "en": "musical instrument",
+    "count": 1,
+    "appearsOn": [
+      "pages/arts/topic_guqin.html"
+    ],
+    "hasPage": false
+  },
   "乐在其中": {
     "cn": "乐在其中",
     "py": "lè zài qízhōng",
@@ -7728,6 +8105,16 @@
     ],
     "hasPage": false
   },
+  "连": {
+    "cn": "连",
+    "py": "lián",
+    "en": "even (scalar marker, pairs with 都)",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/dou_都.html"
+    ],
+    "hasPage": false
+  },
   "连…都不/没": {
     "cn": "连…都不/没",
     "py": "lián…dōu bù/méi",
@@ -7745,16 +8132,6 @@
     "count": 1,
     "appearsOn": [
       "pages/grammar/shide_是的.html"
-    ],
-    "hasPage": false
-  },
-  "莲花": {
-    "cn": "莲花",
-    "py": "liánhuā",
-    "en": "lotus flower (rebirth vessel)",
-    "count": 1,
-    "appearsOn": [
-      "pages/religion/topic_jingtu.html"
     ],
     "hasPage": false
   },
@@ -7915,6 +8292,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/shui3_水.html"
+    ],
+    "hasPage": false
+  },
+  "留白": {
+    "cn": "留白",
+    "py": "liúbái",
+    "en": "leaving white space",
+    "count": 1,
+    "appearsOn": [
+      "pages/arts/topic_shanshui.html"
     ],
     "hasPage": false
   },
@@ -8358,6 +8745,16 @@
     ],
     "hasPage": false
   },
+  "民间信仰": {
+    "cn": "民间信仰",
+    "py": "mínjiān xìnyǎng",
+    "en": "folk / popular religion",
+    "count": 1,
+    "appearsOn": [
+      "pages/religion/topic_guanyin.html"
+    ],
+    "hasPage": true
+  },
   "民心": {
     "cn": "民心",
     "py": "mínxīn",
@@ -8368,13 +8765,23 @@
     ],
     "hasPage": false
   },
-  "名": {
-    "cn": "名",
-    "py": "míng",
-    "en": "name; reputation",
+  "名辩": {
+    "cn": "名辩",
+    "py": "míngbiàn",
+    "en": "Mohist name-disputation",
     "count": 1,
     "appearsOn": [
-      "pages/characters/yan2_言.html"
+      "pages/philosophy/topic_zhengming.html"
+    ],
+    "hasPage": false
+  },
+  "名分": {
+    "cn": "名分",
+    "py": "míngfèn",
+    "en": "name and duty",
+    "count": 1,
+    "appearsOn": [
+      "pages/philosophy/topic_zhengming.html"
     ],
     "hasPage": false
   },
@@ -8388,6 +8795,16 @@
     ],
     "hasPage": false
   },
+  "名实": {
+    "cn": "名实",
+    "py": "míng shí",
+    "en": "name and reality",
+    "count": 1,
+    "appearsOn": [
+      "pages/philosophy/topic_zhengming.html"
+    ],
+    "hasPage": false
+  },
   "名誉": {
     "cn": "名誉",
     "py": "míngyù",
@@ -8397,16 +8814,6 @@
       "pages/vocab/mianzi_面子.html"
     ],
     "hasPage": false
-  },
-  "明": {
-    "cn": "明",
-    "py": "míng",
-    "en": "bright",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/bai2_白.html"
-    ],
-    "hasPage": true
   },
   "命": {
     "cn": "命",
@@ -8505,6 +8912,16 @@
     "count": 1,
     "appearsOn": [
       "pages/religion/topic_yisilan.html"
+    ],
+    "hasPage": false
+  },
+  "哪儿": {
+    "cn": "哪儿",
+    "py": "nǎr",
+    "en": "where (fronted + 都 = everywhere)",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/dou_都.html"
     ],
     "hasPage": false
   },
@@ -8828,6 +9245,16 @@
     ],
     "hasPage": false
   },
+  "泼墨": {
+    "cn": "泼墨",
+    "py": "pōmò",
+    "en": "ink splash technique",
+    "count": 1,
+    "appearsOn": [
+      "pages/arts/topic_shanshui.html"
+    ],
+    "hasPage": false
+  },
   "普通话": {
     "cn": "普通话",
     "py": "pǔtōnghuà",
@@ -8837,6 +9264,16 @@
       "pages/vocab/putonghua_普通话.html"
     ],
     "hasPage": true
+  },
+  "普陀山": {
+    "cn": "普陀山",
+    "py": "Pǔtuóshān",
+    "en": "Putuoshan (Guanyin's sacred island)",
+    "count": 1,
+    "appearsOn": [
+      "pages/religion/topic_guanyin.html"
+    ],
+    "hasPage": false
   },
   "溥仪": {
     "cn": "溥仪",
@@ -8915,6 +9352,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/zhongyi_中医.html"
+    ],
+    "hasPage": false
+  },
+  "气韵": {
+    "cn": "气韵",
+    "py": "qìyùn",
+    "en": "spirit resonance",
+    "count": 1,
+    "appearsOn": [
+      "pages/arts/topic_shanshui.html"
     ],
     "hasPage": false
   },
@@ -9015,6 +9462,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/changjian_长城.html"
+    ],
+    "hasPage": false
+  },
+  "琴棋书画": {
+    "cn": "琴棋书画",
+    "py": "qín qí shū huà",
+    "en": "the four scholarly arts",
+    "count": 1,
+    "appearsOn": [
+      "pages/arts/topic_guqin.html"
     ],
     "hasPage": false
   },
@@ -9158,6 +9615,16 @@
     ],
     "hasPage": false
   },
+  "全": {
+    "cn": "全",
+    "py": "quán",
+    "en": "all; entire; complete",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/dou_都.html"
+    ],
+    "hasPage": false
+  },
   "全球化": {
     "cn": "全球化",
     "py": "quánqiúhuà",
@@ -9297,16 +9764,6 @@
       "pages/characters/sheng1_生.html"
     ],
     "hasPage": true
-  },
-  "仍然": {
-    "cn": "仍然",
-    "py": "réngrán",
-    "en": "still; nevertheless",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/zai4_再.html"
-    ],
-    "hasPage": false
   },
   "日本": {
     "cn": "日本",
@@ -9698,6 +10155,16 @@
     ],
     "hasPage": false
   },
+  "谁": {
+    "cn": "谁",
+    "py": "shéi",
+    "en": "who (fronted + 都 = everyone)",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/dou_都.html"
+    ],
+    "hasPage": false
+  },
   "深远": {
     "cn": "深远",
     "py": "shēnyuǎn",
@@ -9718,6 +10185,16 @@
     ],
     "hasPage": false
   },
+  "什么": {
+    "cn": "什么",
+    "py": "shénme",
+    "en": "what (fronted + 都 = everything)",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/dou_都.html"
+    ],
+    "hasPage": false
+  },
   "神诞": {
     "cn": "神诞",
     "py": "shéndàn",
@@ -9725,16 +10202,6 @@
     "count": 1,
     "appearsOn": [
       "pages/religion/topic_mazu.html"
-    ],
-    "hasPage": false
-  },
-  "神话": {
-    "cn": "神话",
-    "py": "shénhuà",
-    "en": "mythology",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/long2_龙.html"
     ],
     "hasPage": false
   },
@@ -9748,16 +10215,6 @@
     ],
     "hasPage": false
   },
-  "神灵": {
-    "cn": "神灵",
-    "py": "shénlíng",
-    "en": "spirit; divine being",
-    "count": 1,
-    "appearsOn": [
-      "pages/religion/topic_saman.html"
-    ],
-    "hasPage": false
-  },
   "神明": {
     "cn": "神明",
     "py": "shénmíng",
@@ -9765,6 +10222,36 @@
     "count": 1,
     "appearsOn": [
       "pages/religion/topic_minjian.html"
+    ],
+    "hasPage": true
+  },
+  "神奇": {
+    "cn": "神奇",
+    "py": "shénqí",
+    "en": "miraculous; extraordinary",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/shenming_神明.html"
+    ],
+    "hasPage": false
+  },
+  "神圣": {
+    "cn": "神圣",
+    "py": "shénshèng",
+    "en": "sacred; holy (adjective)",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/shenming_神明.html"
+    ],
+    "hasPage": false
+  },
+  "神仙": {
+    "cn": "神仙",
+    "py": "shénxiān",
+    "en": "immortals; transcendents (Daoist)",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/shenming_神明.html"
     ],
     "hasPage": false
   },
@@ -10268,6 +10755,16 @@
     ],
     "hasPage": false
   },
+  "水墨画": {
+    "cn": "水墨画",
+    "py": "shuǐmòhuà",
+    "en": "ink-wash painting",
+    "count": 1,
+    "appearsOn": [
+      "pages/arts/topic_shanshui.html"
+    ],
+    "hasPage": true
+  },
   "思": {
     "cn": "思",
     "py": "sī",
@@ -10368,6 +10865,26 @@
     ],
     "hasPage": false
   },
+  "送子": {
+    "cn": "送子",
+    "py": "sòngzǐ",
+    "en": "child-giving (form of Guanyin)",
+    "count": 1,
+    "appearsOn": [
+      "pages/religion/topic_guanyin.html"
+    ],
+    "hasPage": false
+  },
+  "苏轼": {
+    "cn": "苏轼",
+    "py": "Sū Shì",
+    "en": "Su Shi — Song literati theorist",
+    "count": 1,
+    "appearsOn": [
+      "pages/arts/topic_shanshui.html"
+    ],
+    "hasPage": false
+  },
   "宿命": {
     "cn": "宿命",
     "py": "sùmìng",
@@ -10425,16 +10942,6 @@
     "count": 1,
     "appearsOn": [
       "pages/history/topic_xinhai.html"
-    ],
-    "hasPage": false
-  },
-  "所有": {
-    "cn": "所有",
-    "py": "suǒyǒu",
-    "en": "all, every",
-    "count": 1,
-    "appearsOn": [
-      "pages/grammar/liangci_量词.html"
     ],
     "hasPage": false
   },
@@ -10808,6 +11315,16 @@
     ],
     "hasPage": false
   },
+  "土地公": {
+    "cn": "土地公",
+    "py": "tǔdìgōng",
+    "en": "earth god; local tutelary deity",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/shenming_神明.html"
+    ],
+    "hasPage": false
+  },
   "推让": {
     "cn": "推让",
     "py": "tuīràng",
@@ -10928,6 +11445,16 @@
     ],
     "hasPage": false
   },
+  "王维": {
+    "cn": "王维",
+    "py": "Wáng Wéi",
+    "en": "Wang Wei — Tang poet-painter",
+    "count": 1,
+    "appearsOn": [
+      "pages/arts/topic_shanshui.html"
+    ],
+    "hasPage": false
+  },
   "王阳明": {
     "cn": "王阳明",
     "py": "Wáng Yángmíng",
@@ -11008,6 +11535,16 @@
     ],
     "hasPage": false
   },
+  "文房四宝": {
+    "cn": "文房四宝",
+    "py": "wénfángsìbǎo",
+    "en": "four treasures of the scholar's studio",
+    "count": 1,
+    "appearsOn": [
+      "pages/arts/topic_guqin.html"
+    ],
+    "hasPage": true
+  },
   "文化交流": {
     "cn": "文化交流",
     "py": "wénhuà jiāoliú",
@@ -11025,6 +11562,26 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/wenhua_文化.html"
+    ],
+    "hasPage": false
+  },
+  "文人": {
+    "cn": "文人",
+    "py": "wénrén",
+    "en": "literati; the scholarly class",
+    "count": 1,
+    "appearsOn": [
+      "pages/arts/topic_guqin.html"
+    ],
+    "hasPage": false
+  },
+  "文人画": {
+    "cn": "文人画",
+    "py": "wénrénhuà",
+    "en": "literati painting",
+    "count": 1,
+    "appearsOn": [
+      "pages/arts/topic_shanshui.html"
     ],
     "hasPage": false
   },
@@ -12298,6 +12855,16 @@
     ],
     "hasPage": false
   },
+  "依然": {
+    "cn": "依然",
+    "py": "yīrán",
+    "en": "still (literary, often emotional)",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/hai_还.html"
+    ],
+    "hasPage": false
+  },
   "以后": {
     "cn": "以后",
     "py": "yǐhòu",
@@ -12408,6 +12975,16 @@
     ],
     "hasPage": false
   },
+  "意境": {
+    "cn": "意境",
+    "py": "yìjìng",
+    "en": "mood-realm; atmospheric depth",
+    "count": 1,
+    "appearsOn": [
+      "pages/arts/topic_shanshui.html"
+    ],
+    "hasPage": false
+  },
   "意图": {
     "cn": "意图",
     "py": "yìtú",
@@ -12445,6 +13022,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/fengshui_风水.html"
+    ],
+    "hasPage": false
+  },
+  "音乐": {
+    "cn": "音乐",
+    "py": "yīnyuè",
+    "en": "music",
+    "count": 1,
+    "appearsOn": [
+      "pages/arts/topic_guqin.html"
     ],
     "hasPage": false
   },
@@ -12848,6 +13435,16 @@
     ],
     "hasPage": false
   },
+  "远山": {
+    "cn": "远山",
+    "py": "yuǎnshān",
+    "en": "distant mountains",
+    "count": 1,
+    "appearsOn": [
+      "pages/arts/topic_shanshui.html"
+    ],
+    "hasPage": false
+  },
   "愿意": {
     "cn": "愿意",
     "py": "yuànyì",
@@ -13208,16 +13805,6 @@
     ],
     "hasPage": false
   },
-  "正名": {
-    "cn": "正名",
-    "py": "zhèngmíng",
-    "en": "rectification of names",
-    "count": 1,
-    "appearsOn": [
-      "pages/religion/topic_rujia.html"
-    ],
-    "hasPage": false
-  },
   "正是": {
     "cn": "正是",
     "py": "zhèng shì",
@@ -13248,6 +13835,16 @@
     ],
     "hasPage": false
   },
+  "政治": {
+    "cn": "政治",
+    "py": "zhèngzhì",
+    "en": "governance, politics",
+    "count": 1,
+    "appearsOn": [
+      "pages/philosophy/topic_zhengming.html"
+    ],
+    "hasPage": false
+  },
   "枝": {
     "cn": "枝",
     "py": "zhī",
@@ -13265,6 +13862,16 @@
     "count": 1,
     "appearsOn": [
       "pages/history/topic_wenge.html"
+    ],
+    "hasPage": false
+  },
+  "知音": {
+    "cn": "知音",
+    "py": "zhīyīn",
+    "en": "one who truly understands",
+    "count": 1,
+    "appearsOn": [
+      "pages/arts/topic_guqin.html"
     ],
     "hasPage": false
   },
@@ -13295,16 +13902,6 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/gan3_感.html"
-    ],
-    "hasPage": false
-  },
-  "只": {
-    "cn": "只",
-    "py": "zhǐ",
-    "en": "only; merely",
-    "count": 1,
-    "appearsOn": [
-      "pages/grammar/jiu_cai_就才.html"
     ],
     "hasPage": false
   },

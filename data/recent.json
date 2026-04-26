@@ -1,5 +1,39 @@
 [
   {
+    "path": "pages/arts/topic_guqin.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "古琴 · the guqin zither — the scholar's instrument",
+    "desc": "The seven-string zither Confucius played throughout his life — and the origin of 知音, the word for a person who truly understands you.",
+    "tags": [
+      "arts",
+      "music",
+      "classical",
+      "confucianism",
+      "literature"
+    ],
+    "status": "complete",
+    "pinyin": "gǔqín",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/arts/topic_shanshui.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "山水画 · landscape painting — mountains and water",
+    "desc": "Chinese landscape painting encodes a theory in its name: 山 (mountain, yang, permanent) and 水 (water, yin, changing) in dynamic tension — a space to inhabit in the imagination, not a view to frame.",
+    "tags": [
+      "arts",
+      "nature",
+      "taoism",
+      "aesthetics",
+      "classical"
+    ],
+    "status": "complete",
+    "pinyin": "shānshuǐhuà",
+    "updated": "2026-04-25"
+  },
+  {
     "path": "pages/characters/bai2_白.html",
     "type": "character",
     "category": "characters",
@@ -344,48 +378,6 @@
     "tone": 3,
     "hsk": 1,
     "radical": "小",
-    "updated": "2026-04-25"
-  },
-  {
-    "path": "pages/characters/si3_死.html",
-    "type": "character",
-    "category": "characters",
-    "title": "死 · death, to die, dead, fixed",
-    "desc": "A figure kneeling beside a corpse. The character behind the strongest verb of finality in Chinese, the bedrock of every taboo, and the intensifier that turns 累 into 累死了.",
-    "tags": [
-      "life",
-      "ritual",
-      "culture",
-      "symbolism",
-      "daily-life"
-    ],
-    "status": "complete",
-    "char": "死",
-    "pinyin": "sǐ",
-    "tone": 3,
-    "hsk": 4,
-    "radical": "歹",
-    "updated": "2026-04-25"
-  },
-  {
-    "path": "pages/characters/wu2_无.html",
-    "type": "character",
-    "category": "characters",
-    "title": "无 · nothing, without, non-being",
-    "desc": "A dancer with arms outstretched, holding nothing. The character behind every Chinese negation of having, every Daoist non-doing, and the philosophical pole that pairs with 有 to frame the whole cosmos.",
-    "tags": [
-      "daoism",
-      "philosophy",
-      "negation",
-      "cosmology",
-      "wuwei"
-    ],
-    "status": "complete",
-    "char": "无",
-    "pinyin": "wú",
-    "tone": 2,
-    "hsk": 4,
-    "radical": "无",
     "updated": "2026-04-25"
   }
 ]

@@ -1,5 +1,39 @@
 [
   {
+    "path": "pages/arts/topic_guqin.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "古琴 · the guqin zither — the scholar's instrument",
+    "desc": "The seven-string zither Confucius played throughout his life — and the origin of 知音, the word for a person who truly understands you.",
+    "tags": [
+      "arts",
+      "music",
+      "classical",
+      "confucianism",
+      "literature"
+    ],
+    "status": "complete",
+    "pinyin": "gǔqín",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/arts/topic_shanshui.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "山水画 · landscape painting — mountains and water",
+    "desc": "Chinese landscape painting encodes a theory in its name: 山 (mountain, yang, permanent) and 水 (water, yin, changing) in dynamic tension — a space to inhabit in the imagination, not a view to frame.",
+    "tags": [
+      "arts",
+      "nature",
+      "taoism",
+      "aesthetics",
+      "classical"
+    ],
+    "status": "complete",
+    "pinyin": "shānshuǐhuà",
+    "updated": "2026-04-25"
+  },
+  {
     "path": "pages/characters/bai2_白.html",
     "type": "character",
     "category": "characters",
@@ -538,6 +572,39 @@
     "updated": "2026-04-25"
   },
   {
+    "path": "pages/grammar/dou_都.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "都 · all, both, even — the universal scope adverb",
+    "desc": "The adverb that quantifies everything before it, not after — and whose position in a sentence determines whether you mean \"none\" or \"not all.\"",
+    "tags": [
+      "adverb",
+      "grammar",
+      "emphasis",
+      "negation",
+      "syntax"
+    ],
+    "status": "complete",
+    "pinyin": "dōu",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/grammar/hai_还.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "还 · still, also, even — the continuative adverb",
+    "desc": "One adverb, four distinct jobs — and a single thread connecting all of them: something continues past the expected boundary.",
+    "tags": [
+      "adverb",
+      "grammar",
+      "aspect",
+      "comparison"
+    ],
+    "status": "complete",
+    "pinyin": "hái",
+    "updated": "2026-04-25"
+  },
+  {
     "path": "pages/grammar/zhe_particle_呢.html",
     "type": "grammar",
     "category": "grammar",
@@ -550,6 +617,26 @@
     ],
     "status": "complete",
     "pinyin": "ne",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/philosophy/topic_zhengming.html",
+    "type": "topic",
+    "category": "philosophy",
+    "title": "正名 · Rectification of Names",
+    "desc": "Confucius told Zilu that governing begins with calling things by their right names — because a ruler who does not rule like a ruler has no claim to the title 君.",
+    "tags": [
+      "confucianism",
+      "confucius",
+      "analects",
+      "philosophy",
+      "language",
+      "ethics",
+      "politics",
+      "classical"
+    ],
+    "status": "complete",
+    "pinyin": "zhèngmíng",
     "updated": "2026-04-25"
   },
   {
@@ -600,6 +687,23 @@
     ],
     "status": "complete",
     "pinyin": "guójiā",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/vocab/shenming_神明.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "神明 · gods, spirits, deities; divine intelligence",
+    "desc": "The generic term for any deity in the Chinese religious world — and, in classical philosophy, the luminous intelligence that distinguishes the divine from the merely powerful.",
+    "tags": [
+      "religion",
+      "folk-religion",
+      "gods",
+      "philosophy",
+      "classical"
+    ],
+    "status": "complete",
+    "pinyin": "shénmíng",
     "updated": "2026-04-25"
   },
   {
