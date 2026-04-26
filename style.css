@@ -2978,6 +2978,47 @@ body[data-category="hubs"] { --seal-color: var(--cat-hubs); }
   flex-shrink: 0;
 }
 
+/* ── Admin gating ──────────────────────────────────────────
+ * Any element with class .admin-only is hidden from non-admins. Admins are
+ * detected by html[data-admin="1"] which is set pre-paint by an inline script
+ * in the layout/index, reading localStorage.shuwo-admin === '1'.
+ *
+ * Use !important on the hide so admin-only elements with their own display
+ * rules (flex/grid/inline-block) don't leak. Toggling localStorage and
+ * reloading is the activation flow; URL ?admin=1 sets it, ?admin=0 clears.
+ */
+.admin-only { display: none !important; }
+html[data-admin="1"] .admin-only { display: revert !important; }
+
+/* Subtle indicator chip in the corner when admin mode is active so it's
+ * always obvious you're in privileged view. Click to log out. */
+.admin-indicator {
+  display: none;
+  position: fixed;
+  bottom: 12px; right: 12px;
+  z-index: 1000;
+  font-family: var(--font-mono);
+  font-size: 0.66rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #f0e6d0;
+  background: rgba(60,40,16,0.85);
+  border: 1px solid rgba(160,100,40,0.5);
+  border-radius: 999px;
+  padding: 0.3rem 0.65rem;
+  cursor: pointer;
+  user-select: none;
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  transition: background 0.15s, border-color 0.15s, transform 0.15s;
+}
+.admin-indicator:hover {
+  background: rgba(139,26,26,0.92);
+  border-color: rgba(200,120,60,0.7);
+  transform: translateY(-1px);
+}
+html[data-admin="1"] .admin-indicator { display: inline-block; }
+
 /* Map attribution / sources block — small, scholarly, sits below the legend */
 .map-attribution {
   margin: 0.4rem 0 2rem;
