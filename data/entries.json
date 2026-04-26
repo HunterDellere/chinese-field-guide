@@ -523,6 +523,61 @@
     "updated": "2026-04-25"
   },
   {
+    "path": "pages/chengyu/banmenmennong_班门弄斧.html",
+    "type": "vocab",
+    "category": "chengyu",
+    "title": "班门弄斧 · Showing Off Before the Master",
+    "desc": "Brandishing an axe at Lu Ban's door — the idiom for presuming to display skill before someone who has mastered it.",
+    "tags": [
+      "chengyu",
+      "classical",
+      "idioms",
+      "mastery",
+      "arts"
+    ],
+    "status": "complete",
+    "pinyin": "bān mén nòng fǔ",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/chengyu/dongshixiaopin_东施效颦.html",
+    "type": "vocab",
+    "category": "chengyu",
+    "title": "东施效颦 · to imitate blindly without understanding — and make things worse",
+    "desc": "A homely woman copies Xi Shi's famous frown and clears the street — Zhuangzi's parable about form without essence.",
+    "tags": [
+      "chengyu",
+      "classical",
+      "idioms",
+      "aesthetics",
+      "learning"
+    ],
+    "status": "complete",
+    "pinyin": "Dōng Shī xiào pín",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/chengyu/wanzhangaolou_万丈高楼.html",
+    "type": "vocab",
+    "category": "chengyu",
+    "title": "万丈高楼平地起 · A tower ten thousand zhang tall rises from flat ground",
+    "desc": "The folk proverb that answers impatience: every immeasurable height begins on ordinary earth.",
+    "tags": [
+      "chengyu",
+      "classical",
+      "idioms",
+      "philosophy",
+      "daoism",
+      "daodejing",
+      "laozi",
+      "education",
+      "learning"
+    ],
+    "status": "complete",
+    "pinyin": "wàn zhàng gāo lóu píng dì qǐ",
+    "updated": "2026-04-25"
+  },
+  {
     "path": "pages/culture/topic_duanwu.html",
     "type": "topic",
     "category": "culture",
@@ -644,6 +699,26 @@
     "updated": "2026-04-25"
   },
   {
+    "path": "pages/grammar/suo_所.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "所 · classical nominalizer and passive marker",
+    "desc": "The function word that turns verbs into noun phrases — and has been doing so since Confucius quoted it in the Analects.",
+    "tags": [
+      "grammar",
+      "classical",
+      "syntax",
+      "passive",
+      "literary",
+      "particles",
+      "confucianism",
+      "analects"
+    ],
+    "status": "complete",
+    "pinyin": "suǒ",
+    "updated": "2026-04-25"
+  },
+  {
     "path": "pages/grammar/zhe_particle_呢.html",
     "type": "grammar",
     "category": "grammar",
@@ -656,6 +731,59 @@
     ],
     "status": "complete",
     "pinyin": "ne",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/grammar/zhe_particle_嘛.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "嘛 · the obvious-conclusion particle",
+    "desc": "The particle that frames a statement as self-evident — explaining, justifying, or mildly exasperated that you even had to say it.",
+    "tags": [
+      "particle",
+      "particles",
+      "pragmatics",
+      "spoken",
+      "grammar",
+      "colloquial"
+    ],
+    "status": "complete",
+    "pinyin": "ma",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/grammar/zhi_之.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "之 · classical genitive, nominalizer, and pronoun",
+    "desc": "The single character that does the work of three English words — of, it, and the one who — and still shows up in modern Chinese every day.",
+    "tags": [
+      "grammar",
+      "classical",
+      "syntax",
+      "literary",
+      "particle",
+      "classics"
+    ],
+    "status": "complete",
+    "pinyin": "zhī",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/grammar/zhi_者.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "者 · classical nominalizer \"the one who; that which\"",
+    "desc": "The particle that turns a verb or adjective into a person — and that never stopped working.",
+    "tags": [
+      "grammar",
+      "classical",
+      "syntax",
+      "literary",
+      "compounds"
+    ],
+    "status": "complete",
+    "pinyin": "zhě",
     "updated": "2026-04-25"
   },
   {
@@ -873,6 +1001,23 @@
     ],
     "status": "complete",
     "pinyin": "wénhuà",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/vocab/yi4_义.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "义 · Righteousness — The Second Constant",
+    "desc": "Doing what is right because it is right — 义 as the enacted path of Confucian ethics, the constant that gives 仁 its direction.",
+    "tags": [
+      "philosophy",
+      "confucianism",
+      "virtue",
+      "ethics",
+      "classical"
+    ],
+    "status": "complete",
+    "pinyin": "yì",
     "updated": "2026-04-25"
   },
   {

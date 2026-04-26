@@ -6,7 +6,7 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>Notes on Chinese language and civilisation — characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Apr 2026 03:50:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 04:00:50 GMT</lastBuildDate>
     <item>
       <title>古琴 · the guqin zither — the scholar&apos;s instrument</title>
       <link>https://jiaoshoo.com/pages/arts/topic_guqin.html</link>
@@ -224,28 +224,28 @@
       <category>characters</category>
     </item>
     <item>
-      <title>端午节 · Dragon Boat Festival</title>
-      <link>https://jiaoshoo.com/pages/culture/topic_duanwu.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/culture/topic_duanwu.html</guid>
+      <title>班门弄斧 · Showing Off Before the Master</title>
+      <link>https://jiaoshoo.com/pages/chengyu/banmenmennong_班门弄斧.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/chengyu/banmenmennong_班门弄斧.html</guid>
       <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Rice dumplings thrown into a river for a drowned poet — the festival that fused an act of mourning into one of China&apos;s great summer celebrations.</description>
-      <category>culture</category>
+      <description>Brandishing an axe at Lu Ban&apos;s door — the idiom for presuming to display skill before someone who has mastered it.</description>
+      <category>chengyu</category>
     </item>
     <item>
-      <title>中元节 · The Ghost Festival</title>
-      <link>https://jiaoshoo.com/pages/culture/topic_zhongyuan.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/culture/topic_zhongyuan.html</guid>
+      <title>东施效颦 · to imitate blindly without understanding — and make things worse</title>
+      <link>https://jiaoshoo.com/pages/chengyu/dongshixiaopin_东施效颦.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/chengyu/dongshixiaopin_东施效颦.html</guid>
       <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
-      <description>On the 15th of the 7th lunar month, the gates of the underworld open and the living set out food, burn paper, and float lanterns for the dead.</description>
-      <category>culture</category>
+      <description>A homely woman copies Xi Shi&apos;s famous frown and clears the street — Zhuangzi&apos;s parable about form without essence.</description>
+      <category>chengyu</category>
     </item>
     <item>
-      <title>集锦 · Collections</title>
-      <link>https://jiaoshoo.com/pages/families/collections.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/families/collections.html</guid>
+      <title>万丈高楼平地起 · A tower ten thousand zhang tall rises from flat ground</title>
+      <link>https://jiaoshoo.com/pages/chengyu/wanzhangaolou_万丈高楼.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/chengyu/wanzhangaolou_万丈高楼.html</guid>
       <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Idioms, curated reading paths, and reference lists. Entries grouped to be read together.</description>
-      <category>families</category>
+      <description>The folk proverb that answers impatience: every immeasurable height begins on ordinary earth.</description>
+      <category>chengyu</category>
     </item>
   </channel>
 </rss>

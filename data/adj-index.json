@@ -20,6 +20,25 @@
     ],
     "hasPage": true
   },
+  "仁": {
+    "cn": "仁",
+    "py": "rén",
+    "en": "humaneness; benevolence (Confucian virtue)",
+    "count": 10,
+    "appearsOn": [
+      "pages/characters/li3_礼.html",
+      "pages/characters/ren2_人.html",
+      "pages/characters/xin4_信.html",
+      "pages/characters/yi4_义.html",
+      "pages/characters/zhi4_智.html",
+      "pages/philosophy/topic_zhengming.html",
+      "pages/vocab/daode_道德.html",
+      "pages/vocab/li3_礼.html",
+      "pages/vocab/xiao4_孝.html",
+      "pages/vocab/yi4_义.html"
+    ],
+    "hasPage": true
+  },
   "孔子": {
     "cn": "孔子",
     "py": "Kǒngzǐ",
@@ -38,21 +57,21 @@
     ],
     "hasPage": true
   },
-  "仁": {
-    "cn": "仁",
-    "py": "rén",
-    "en": "humaneness; benevolence (Confucian virtue)",
+  "礼": {
+    "cn": "礼",
+    "py": "lǐ",
+    "en": "ritual propriety (Five Constants)",
     "count": 9,
     "appearsOn": [
-      "pages/characters/li3_礼.html",
-      "pages/characters/ren2_人.html",
       "pages/characters/xin4_信.html",
       "pages/characters/yi4_义.html",
       "pages/characters/zhi4_智.html",
       "pages/philosophy/topic_zhengming.html",
       "pages/vocab/daode_道德.html",
-      "pages/vocab/li3_礼.html",
-      "pages/vocab/xiao4_孝.html"
+      "pages/vocab/ren2_仁.html",
+      "pages/vocab/shenming_神明.html",
+      "pages/vocab/tianren_天人.html",
+      "pages/vocab/yi4_义.html"
     ],
     "hasPage": true
   },
@@ -105,23 +124,6 @@
       "pages/religion/topic_minjian.html",
       "pages/science/topic_tiangan_dizhi.html",
       "pages/science/topic_wuxing.html",
-      "pages/vocab/tianren_天人.html"
-    ],
-    "hasPage": true
-  },
-  "礼": {
-    "cn": "礼",
-    "py": "lǐ",
-    "en": "ritual propriety (Five Constants)",
-    "count": 8,
-    "appearsOn": [
-      "pages/characters/xin4_信.html",
-      "pages/characters/yi4_义.html",
-      "pages/characters/zhi4_智.html",
-      "pages/philosophy/topic_zhengming.html",
-      "pages/vocab/daode_道德.html",
-      "pages/vocab/ren2_仁.html",
-      "pages/vocab/shenming_神明.html",
       "pages/vocab/tianren_天人.html"
     ],
     "hasPage": true
@@ -204,6 +206,21 @@
     ],
     "hasPage": true
   },
+  "信": {
+    "cn": "信",
+    "py": "xìn",
+    "en": "trustworthiness; faithfulness",
+    "count": 6,
+    "appearsOn": [
+      "pages/characters/li3_礼.html",
+      "pages/characters/yi4_义.html",
+      "pages/characters/zhi4_智.html",
+      "pages/vocab/daode_道德.html",
+      "pages/vocab/ren2_仁.html",
+      "pages/vocab/yi4_义.html"
+    ],
+    "hasPage": true
+  },
   "义": {
     "cn": "义",
     "py": "yì",
@@ -231,6 +248,21 @@
       "pages/science/topic_tiangan_dizhi.html",
       "pages/science/topic_wuxing.html",
       "pages/vocab/fengshui_风水.html"
+    ],
+    "hasPage": true
+  },
+  "智": {
+    "cn": "智",
+    "py": "zhì",
+    "en": "wisdom; moral intelligence",
+    "count": 6,
+    "appearsOn": [
+      "pages/characters/li3_礼.html",
+      "pages/characters/xin4_信.html",
+      "pages/characters/yi4_义.html",
+      "pages/vocab/daode_道德.html",
+      "pages/vocab/ren2_仁.html",
+      "pages/vocab/yi4_义.html"
     ],
     "hasPage": true
   },
@@ -360,20 +392,6 @@
     ],
     "hasPage": true
   },
-  "信": {
-    "cn": "信",
-    "py": "xìn",
-    "en": "trustworthiness; faithfulness",
-    "count": 5,
-    "appearsOn": [
-      "pages/characters/li3_礼.html",
-      "pages/characters/yi4_义.html",
-      "pages/characters/zhi4_智.html",
-      "pages/vocab/daode_道德.html",
-      "pages/vocab/ren2_仁.html"
-    ],
-    "hasPage": true
-  },
   "着": {
     "cn": "着",
     "py": "zhe",
@@ -385,20 +403,6 @@
       "pages/grammar/guo_过.html",
       "pages/grammar/le_了.html",
       "pages/grammar/zhe_particle_呢.html"
-    ],
-    "hasPage": true
-  },
-  "智": {
-    "cn": "智",
-    "py": "zhì",
-    "en": "wisdom; moral intelligence",
-    "count": 5,
-    "appearsOn": [
-      "pages/characters/li3_礼.html",
-      "pages/characters/xin4_信.html",
-      "pages/characters/yi4_义.html",
-      "pages/vocab/daode_道德.html",
-      "pages/vocab/ren2_仁.html"
     ],
     "hasPage": true
   },
@@ -545,6 +549,19 @@
     ],
     "hasPage": true
   },
+  "呢": {
+    "cn": "呢",
+    "py": "ne",
+    "en": "sentence-final emphasis / ongoing particle",
+    "count": 4,
+    "appearsOn": [
+      "pages/grammar/hai_还.html",
+      "pages/grammar/le_了.html",
+      "pages/grammar/zhe_particle_嘛.html",
+      "pages/grammar/zhe_着.html"
+    ],
+    "hasPage": true
+  },
   "菩萨": {
     "cn": "菩萨",
     "py": "púsà",
@@ -555,6 +572,19 @@
       "pages/religion/topic_guanyin.html",
       "pages/religion/topic_minjian.html",
       "pages/vocab/shenming_神明.html"
+    ],
+    "hasPage": false
+  },
+  "谦虚": {
+    "cn": "谦虚",
+    "py": "qiānxū",
+    "en": "humble; modest",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/di1_低.html",
+      "pages/chengyu/banmenmennong_班门弄斧.html",
+      "pages/vocab/keqi_客气.html",
+      "pages/vocab/mianzi_面子.html"
     ],
     "hasPage": false
   },
@@ -1090,18 +1120,6 @@
     ],
     "hasPage": true
   },
-  "呢": {
-    "cn": "呢",
-    "py": "ne",
-    "en": "sentence-final emphasis / ongoing particle",
-    "count": 3,
-    "appearsOn": [
-      "pages/grammar/hai_还.html",
-      "pages/grammar/le_了.html",
-      "pages/grammar/zhe_着.html"
-    ],
-    "hasPage": true
-  },
   "年": {
     "cn": "年",
     "py": "nián",
@@ -1123,18 +1141,6 @@
       "pages/characters/zou3_走.html",
       "pages/characters/zu2_足.html",
       "pages/grammar/directional_来去.html"
-    ],
-    "hasPage": false
-  },
-  "谦虚": {
-    "cn": "谦虚",
-    "py": "qiānxū",
-    "en": "humble; modest",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/di1_低.html",
-      "pages/vocab/keqi_客气.html",
-      "pages/vocab/mianzi_面子.html"
     ],
     "hasPage": false
   },
@@ -1282,6 +1288,42 @@
     ],
     "hasPage": false
   },
+  "义气": {
+    "cn": "义气",
+    "py": "yìqì",
+    "en": "loyalty between friends",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/yi4_义.html",
+      "pages/vocab/jianghu_江湖.html",
+      "pages/vocab/yi4_义.html"
+    ],
+    "hasPage": false
+  },
+  "义务": {
+    "cn": "义务",
+    "py": "yìwù",
+    "en": "duty; obligation",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/yi4_义.html",
+      "pages/vocab/guanxi_关系.html",
+      "pages/vocab/yi4_义.html"
+    ],
+    "hasPage": false
+  },
+  "意义": {
+    "cn": "意义",
+    "py": "yìyì",
+    "en": "meaning; significance",
+    "count": 3,
+    "appearsOn": [
+      "pages/vocab/rensheng_人生.html",
+      "pages/vocab/yi4_义.html",
+      "pages/vocab/yisi_意思.html"
+    ],
+    "hasPage": false
+  },
   "语": {
     "cn": "语",
     "py": "yǔ",
@@ -1390,6 +1432,17 @@
     ],
     "hasPage": false
   },
+  "啊": {
+    "cn": "啊",
+    "py": "a",
+    "en": "emotional / exclamatory particle",
+    "count": 2,
+    "appearsOn": [
+      "pages/grammar/zhe_particle_呢.html",
+      "pages/grammar/zhe_particle_嘛.html"
+    ],
+    "hasPage": false
+  },
   "爱国": {
     "cn": "爱国",
     "py": "àiguó",
@@ -1420,6 +1473,17 @@
     "appearsOn": [
       "pages/grammar/bei_被.html",
       "pages/grammar/de_的得地.html"
+    ],
+    "hasPage": true
+  },
+  "吧": {
+    "cn": "吧",
+    "py": "ba",
+    "en": "suggestion / confirmation particle",
+    "count": 2,
+    "appearsOn": [
+      "pages/grammar/zhe_particle_呢.html",
+      "pages/grammar/zhe_particle_嘛.html"
     ],
     "hasPage": true
   },
@@ -1709,6 +1773,17 @@
     ],
     "hasPage": true
   },
+  "道德经": {
+    "cn": "道德经",
+    "py": "Dào Dé Jīng",
+    "en": "Tao Te Ching",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/lao3_老.html",
+      "pages/chengyu/wanzhangaolou_万丈高楼.html"
+    ],
+    "hasPage": false
+  },
   "道教": {
     "cn": "道教",
     "py": "dàojiào",
@@ -1728,6 +1803,17 @@
     "appearsOn": [
       "pages/characters/tian1_天.html",
       "pages/characters/tu3_土.html"
+    ],
+    "hasPage": true
+  },
+  "的": {
+    "cn": "的",
+    "py": "de",
+    "en": "modern possessive particle",
+    "count": 2,
+    "appearsOn": [
+      "pages/grammar/zhi_之.html",
+      "pages/grammar/zhi_者.html"
     ],
     "hasPage": true
   },
@@ -1918,6 +2004,28 @@
     ],
     "hasPage": false
   },
+  "功夫": {
+    "cn": "功夫",
+    "py": "gōngfu",
+    "en": "skill; effort; kung fu",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/gong1_工.html",
+      "pages/chengyu/wanzhangaolou_万丈高楼.html"
+    ],
+    "hasPage": true
+  },
+  "故": {
+    "cn": "故",
+    "py": "gù",
+    "en": "former; old; intentional; reason",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/jiu4_旧.html",
+      "pages/grammar/zhi_之.html"
+    ],
+    "hasPage": false
+  },
   "故乡": {
     "cn": "故乡",
     "py": "gùxiāng",
@@ -1970,6 +2078,17 @@
     "appearsOn": [
       "pages/characters/shan1_山.html",
       "pages/characters/shui3_水.html"
+    ],
+    "hasPage": false
+  },
+  "邯郸学步": {
+    "cn": "邯郸学步",
+    "py": "hándān xué bù",
+    "en": "losing your own way by imitating",
+    "count": 2,
+    "appearsOn": [
+      "pages/chengyu/banmenmennong_班门弄斧.html",
+      "pages/chengyu/dongshixiaopin_东施效颦.html"
     ],
     "hasPage": false
   },
@@ -2080,6 +2199,17 @@
     "appearsOn": [
       "pages/characters/li3_礼.html",
       "pages/characters/nu3_女.html"
+    ],
+    "hasPage": false
+  },
+  "或者": {
+    "cn": "或者",
+    "py": "huòzhě",
+    "en": "or (in statements, not questions)",
+    "count": 2,
+    "appearsOn": [
+      "pages/grammar/hai_还.html",
+      "pages/grammar/zhi_者.html"
     ],
     "hasPage": false
   },
@@ -2402,6 +2532,17 @@
     ],
     "hasPage": false
   },
+  "美": {
+    "cn": "美",
+    "py": "měi",
+    "en": "beautiful",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/se4_色.html",
+      "pages/chengyu/dongshixiaopin_东施效颦.html"
+    ],
+    "hasPage": true
+  },
   "门": {
     "cn": "门",
     "py": "mén",
@@ -2608,6 +2749,17 @@
     "appearsOn": [
       "pages/history/topic_zhoudai.html",
       "pages/vocab/changjian_长城.html"
+    ],
+    "hasPage": false
+  },
+  "轻声": {
+    "cn": "轻声",
+    "py": "qīngshēng",
+    "en": "neutral tone",
+    "count": 2,
+    "appearsOn": [
+      "pages/grammar/zhe_particle_呢.html",
+      "pages/grammar/zhe_particle_嘛.html"
     ],
     "hasPage": false
   },
@@ -2897,6 +3049,17 @@
     ],
     "hasPage": false
   },
+  "所": {
+    "cn": "所",
+    "py": "suǒ",
+    "en": "classical nominalization marker",
+    "count": 2,
+    "appearsOn": [
+      "pages/grammar/zhi_之.html",
+      "pages/grammar/zhi_者.html"
+    ],
+    "hasPage": true
+  },
   "所有": {
     "cn": "所有",
     "py": "suǒyǒu",
@@ -3026,6 +3189,17 @@
     "appearsOn": [
       "pages/characters/wen2_文.html",
       "pages/vocab/shici_诗词.html"
+    ],
+    "hasPage": false
+  },
+  "无所谓": {
+    "cn": "无所谓",
+    "py": "wúsuǒwèi",
+    "en": "whatever, doesn't matter",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/wu2_无.html",
+      "pages/grammar/suo_所.html"
     ],
     "hasPage": false
   },
@@ -3204,28 +3378,6 @@
     ],
     "hasPage": false
   },
-  "义气": {
-    "cn": "义气",
-    "py": "yìqì",
-    "en": "loyalty between friends",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/yi4_义.html",
-      "pages/vocab/jianghu_江湖.html"
-    ],
-    "hasPage": false
-  },
-  "义务": {
-    "cn": "义务",
-    "py": "yìwù",
-    "en": "duty; obligation",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/yi4_义.html",
-      "pages/vocab/guanxi_关系.html"
-    ],
-    "hasPage": false
-  },
   "意识": {
     "cn": "意识",
     "py": "yìshí",
@@ -3234,17 +3386,6 @@
     "appearsOn": [
       "pages/characters/si1_思.html",
       "pages/characters/xin1_心.html"
-    ],
-    "hasPage": false
-  },
-  "意义": {
-    "cn": "意义",
-    "py": "yìyì",
-    "en": "meaning; significance",
-    "count": 2,
-    "appearsOn": [
-      "pages/vocab/rensheng_人生.html",
-      "pages/vocab/yisi_意思.html"
     ],
     "hasPage": false
   },
@@ -3303,6 +3444,17 @@
     ],
     "hasPage": false
   },
+  "语气词": {
+    "cn": "语气词",
+    "py": "yǔqìcí",
+    "en": "modal particle",
+    "count": 2,
+    "appearsOn": [
+      "pages/grammar/zhe_particle_呢.html",
+      "pages/grammar/zhe_particle_嘛.html"
+    ],
+    "hasPage": false
+  },
   "运气": {
     "cn": "运气",
     "py": "yùnqi",
@@ -3358,6 +3510,17 @@
     ],
     "hasPage": true
   },
+  "者": {
+    "cn": "者",
+    "py": "zhě",
+    "en": "subject nominalizer",
+    "count": 2,
+    "appearsOn": [
+      "pages/grammar/suo_所.html",
+      "pages/grammar/zhi_之.html"
+    ],
+    "hasPage": true
+  },
   "正名": {
     "cn": "正名",
     "py": "zhèngmíng",
@@ -3380,6 +3543,17 @@
     ],
     "hasPage": false
   },
+  "正义": {
+    "cn": "正义",
+    "py": "zhèngyì",
+    "en": "justice; righteousness",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/yi4_义.html",
+      "pages/vocab/yi4_义.html"
+    ],
+    "hasPage": false
+  },
   "政府": {
     "cn": "政府",
     "py": "zhèngfǔ",
@@ -3390,6 +3564,17 @@
       "pages/vocab/guojia_国家.html"
     ],
     "hasPage": false
+  },
+  "之": {
+    "cn": "之",
+    "py": "zhī",
+    "en": "genitive / object pronoun",
+    "count": 2,
+    "appearsOn": [
+      "pages/grammar/suo_所.html",
+      "pages/grammar/zhi_者.html"
+    ],
+    "hasPage": true
   },
   "知识": {
     "cn": "知识",
@@ -3501,6 +3686,17 @@
     ],
     "hasPage": false
   },
+  "庄子": {
+    "cn": "庄子",
+    "py": "Zhuāngzǐ",
+    "en": "Zhuangzi, the Daoist text and its author",
+    "count": 2,
+    "appearsOn": [
+      "pages/chengyu/dongshixiaopin_东施效颦.html",
+      "pages/religion/topic_daojiao.html"
+    ],
+    "hasPage": true
+  },
   "足": {
     "cn": "足",
     "py": "zú",
@@ -3519,16 +3715,6 @@
     "count": 1,
     "appearsOn": [
       "pages/religion/topic_guanyin.html"
-    ],
-    "hasPage": false
-  },
-  "啊": {
-    "cn": "啊",
-    "py": "a",
-    "en": "emotional / exclamatory particle",
-    "count": 1,
-    "appearsOn": [
-      "pages/grammar/zhe_particle_呢.html"
     ],
     "hasPage": false
   },
@@ -3641,16 +3827,6 @@
       "pages/history/topic_chunqiu.html"
     ],
     "hasPage": false
-  },
-  "吧": {
-    "cn": "吧",
-    "py": "ba",
-    "en": "suggestion / confirmation particle",
-    "count": 1,
-    "appearsOn": [
-      "pages/grammar/zhe_particle_呢.html"
-    ],
-    "hasPage": true
   },
   "白白": {
     "cn": "白白",
@@ -3892,6 +4068,16 @@
     ],
     "hasPage": false
   },
+  "本质": {
+    "cn": "本质",
+    "py": "běnzhì",
+    "en": "essence, fundamental nature",
+    "count": 1,
+    "appearsOn": [
+      "pages/chengyu/dongshixiaopin_东施效颦.html"
+    ],
+    "hasPage": false
+  },
   "鼻": {
     "cn": "鼻",
     "py": "bí",
@@ -3929,6 +4115,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/hanzi_汉字.html"
+    ],
+    "hasPage": false
+  },
+  "笔者": {
+    "cn": "笔者",
+    "py": "bǐzhě",
+    "en": "the present author (formal self-reference)",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/zhi_者.html"
     ],
     "hasPage": false
   },
@@ -4389,6 +4585,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/bian4_变.html"
+    ],
+    "hasPage": false
+  },
+  "场所": {
+    "cn": "场所",
+    "py": "chǎngsuǒ",
+    "en": "place; venue",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/suo_所.html"
     ],
     "hasPage": false
   },
@@ -4932,6 +5138,16 @@
     ],
     "hasPage": false
   },
+  "大师": {
+    "cn": "大师",
+    "py": "dàshī",
+    "en": "master; grandmaster",
+    "count": 1,
+    "appearsOn": [
+      "pages/chengyu/banmenmennong_班门弄斧.html"
+    ],
+    "hasPage": false
+  },
   "大势至": {
     "cn": "大势至",
     "py": "Dàshìzhì",
@@ -4959,6 +5175,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/da4_大.html"
+    ],
+    "hasPage": false
+  },
+  "大义": {
+    "cn": "大义",
+    "py": "dàyì",
+    "en": "the greater principle",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/yi4_义.html"
     ],
     "hasPage": false
   },
@@ -5059,16 +5285,6 @@
     "count": 1,
     "appearsOn": [
       "pages/grammar/yuqi_buru_与其不如.html"
-    ],
-    "hasPage": false
-  },
-  "道德经": {
-    "cn": "道德经",
-    "py": "Dào Dé Jīng",
-    "en": "Tao Te Ching",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/lao3_老.html"
     ],
     "hasPage": false
   },
@@ -5392,6 +5608,16 @@
     ],
     "hasPage": false
   },
+  "东施效颦": {
+    "cn": "东施效颦",
+    "py": "dōng shī xiào pín",
+    "en": "imitating without understanding",
+    "count": 1,
+    "appearsOn": [
+      "pages/chengyu/banmenmennong_班门弄斧.html"
+    ],
+    "hasPage": true
+  },
   "东周": {
     "cn": "东周",
     "py": "Dōng Zhōu",
@@ -5462,6 +5688,16 @@
     ],
     "hasPage": false
   },
+  "读者": {
+    "cn": "读者",
+    "py": "dúzhě",
+    "en": "reader (of a publication)",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/zhi_者.html"
+    ],
+    "hasPage": false
+  },
   "杜甫": {
     "cn": "杜甫",
     "py": "Dù Fǔ",
@@ -5509,6 +5745,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/chunjie_春节.html"
+    ],
+    "hasPage": false
+  },
+  "对嘛": {
+    "cn": "对嘛",
+    "py": "duì ma",
+    "en": "right, obviously / that's it",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/zhe_particle_嘛.html"
     ],
     "hasPage": false
   },
@@ -5569,6 +5815,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/jianghu_江湖.html"
+    ],
+    "hasPage": false
+  },
+  "而": {
+    "cn": "而",
+    "py": "ér",
+    "en": "classical conjunction: and / but / then",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/zhi_之.html"
     ],
     "hasPage": false
   },
@@ -5882,6 +6138,16 @@
     ],
     "hasPage": false
   },
+  "斧": {
+    "cn": "斧",
+    "py": "fǔ",
+    "en": "axe",
+    "count": 1,
+    "appearsOn": [
+      "pages/chengyu/banmenmennong_班门弄斧.html"
+    ],
+    "hasPage": false
+  },
   "父母": {
     "cn": "父母",
     "py": "fùmǔ",
@@ -6049,6 +6315,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/di1_低.html"
+    ],
+    "hasPage": false
+  },
+  "高楼": {
+    "cn": "高楼",
+    "py": "gāolóu",
+    "en": "tall building, tower",
+    "count": 1,
+    "appearsOn": [
+      "pages/chengyu/wanzhangaolou_万丈高楼.html"
     ],
     "hasPage": false
   },
@@ -6252,16 +6528,6 @@
     ],
     "hasPage": false
   },
-  "功夫": {
-    "cn": "功夫",
-    "py": "gōngfu",
-    "en": "skill; effort; kung fu",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/gong1_工.html"
-    ],
-    "hasPage": true
-  },
   "供应": {
     "cn": "供应",
     "py": "gōngyìng",
@@ -6339,16 +6605,6 @@
     "count": 1,
     "appearsOn": [
       "pages/arts/topic_guqin.html"
-    ],
-    "hasPage": false
-  },
-  "故": {
-    "cn": "故",
-    "py": "gù",
-    "en": "former; old; intentional; reason",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/jiu4_旧.html"
     ],
     "hasPage": false
   },
@@ -6862,6 +7118,16 @@
     ],
     "hasPage": false
   },
+  "后者": {
+    "cn": "后者",
+    "py": "hòuzhě",
+    "en": "the latter",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/zhi_者.html"
+    ],
+    "hasPage": false
+  },
   "呼吸": {
     "cn": "呼吸",
     "py": "hūxī",
@@ -7072,16 +7338,6 @@
     ],
     "hasPage": false
   },
-  "或者": {
-    "cn": "或者",
-    "py": "huòzhě",
-    "en": "or (in statements, not questions)",
-    "count": 1,
-    "appearsOn": [
-      "pages/grammar/hai_还.html"
-    ],
-    "hasPage": false
-  },
   "货物": {
     "cn": "货物",
     "py": "huòwù",
@@ -7109,6 +7365,26 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/yuanfen_缘分.html"
+    ],
+    "hasPage": false
+  },
+  "积累": {
+    "cn": "积累",
+    "py": "jīlěi",
+    "en": "to accumulate, accumulation",
+    "count": 1,
+    "appearsOn": [
+      "pages/chengyu/wanzhangaolou_万丈高楼.html"
+    ],
+    "hasPage": false
+  },
+  "基础": {
+    "cn": "基础",
+    "py": "jīchǔ",
+    "en": "foundation, basis",
+    "count": 1,
+    "appearsOn": [
+      "pages/chengyu/wanzhangaolou_万丈高楼.html"
     ],
     "hasPage": false
   },
@@ -7172,6 +7448,16 @@
     ],
     "hasPage": false
   },
+  "己所不欲": {
+    "cn": "己所不欲",
+    "py": "jǐ suǒ bù yù",
+    "en": "what one does not desire (for oneself)",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/suo_所.html"
+    ],
+    "hasPage": false
+  },
   "记录": {
     "cn": "记录",
     "py": "jìlù",
@@ -7189,6 +7475,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/si1_思.html"
+    ],
+    "hasPage": false
+  },
+  "记者": {
+    "cn": "记者",
+    "py": "jìzhě",
+    "en": "journalist; reporter",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/zhi_者.html"
     ],
     "hasPage": false
   },
@@ -7219,6 +7515,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/gongfu_功夫.html"
+    ],
+    "hasPage": false
+  },
+  "技艺": {
+    "cn": "技艺",
+    "py": "jìyì",
+    "en": "craft; skill",
+    "count": 1,
+    "appearsOn": [
+      "pages/chengyu/banmenmennong_班门弄斧.html"
     ],
     "hasPage": false
   },
@@ -7872,6 +8178,16 @@
     ],
     "hasPage": false
   },
+  "九层之台": {
+    "cn": "九层之台",
+    "py": "jiǔ céng zhī tái",
+    "en": "a nine-story platform",
+    "count": 1,
+    "appearsOn": [
+      "pages/chengyu/wanzhangaolou_万丈高楼.html"
+    ],
+    "hasPage": false
+  },
   "久远": {
     "cn": "久远",
     "py": "jiǔyuǎn",
@@ -7919,6 +8235,16 @@
     "count": 1,
     "appearsOn": [
       "pages/grammar/shide_是的.html"
+    ],
+    "hasPage": false
+  },
+  "就是说": {
+    "cn": "就是说",
+    "py": "jiù shì shuō",
+    "en": "that is to say / in other words",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/zhe_particle_嘛.html"
     ],
     "hasPage": false
   },
@@ -8169,6 +8495,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/ai4_爱.html"
+    ],
+    "hasPage": false
+  },
+  "可不是嘛": {
+    "cn": "可不是嘛",
+    "py": "kě bú shì ma",
+    "en": "isn't that the truth / exactly",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/zhe_particle_嘛.html"
     ],
     "hasPage": false
   },
@@ -8572,6 +8908,16 @@
     ],
     "hasPage": false
   },
+  "利": {
+    "cn": "利",
+    "py": "lì",
+    "en": "profit; self-interest",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/yi4_义.html"
+    ],
+    "hasPage": false
+  },
   "连": {
     "cn": "连",
     "py": "lián",
@@ -8832,6 +9178,16 @@
     ],
     "hasPage": false
   },
+  "鲁班": {
+    "cn": "鲁班",
+    "py": "lǔ bān",
+    "en": "Lu Ban, master carpenter",
+    "count": 1,
+    "appearsOn": [
+      "pages/chengyu/banmenmennong_班门弄斧.html"
+    ],
+    "hasPage": false
+  },
   "鲁国": {
     "cn": "鲁国",
     "py": "Lǔ Guó",
@@ -9000,7 +9356,7 @@
     "appearsOn": [
       "pages/grammar/zhe_particle_呢.html"
     ],
-    "hasPage": false
+    "hasPage": true
   },
   "满足": {
     "cn": "满足",
@@ -9121,16 +9477,6 @@
       "pages/grammar/liangci_量词.html"
     ],
     "hasPage": false
-  },
-  "美": {
-    "cn": "美",
-    "py": "měi",
-    "en": "beautiful",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/se4_色.html"
-    ],
-    "hasPage": true
   },
   "美好": {
     "cn": "美好",
@@ -9332,6 +9678,16 @@
     ],
     "hasPage": false
   },
+  "模仿": {
+    "cn": "模仿",
+    "py": "mófǎng",
+    "en": "to imitate, to mimic",
+    "count": 1,
+    "appearsOn": [
+      "pages/chengyu/dongshixiaopin_东施效颦.html"
+    ],
+    "hasPage": false
+  },
   "末": {
     "cn": "末",
     "py": "mò",
@@ -9432,6 +9788,16 @@
     ],
     "hasPage": false
   },
+  "乃": {
+    "cn": "乃",
+    "py": "nǎi",
+    "en": "then / thereupon (classical)",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/zhi_之.html"
+    ],
+    "hasPage": false
+  },
   "耐心": {
     "cn": "耐心",
     "py": "nàixīn",
@@ -9502,6 +9868,16 @@
     ],
     "hasPage": false
   },
+  "能工巧匠": {
+    "cn": "能工巧匠",
+    "py": "néng gōng qiǎo jiàng",
+    "en": "skilled craftsmen",
+    "count": 1,
+    "appearsOn": [
+      "pages/chengyu/banmenmennong_班门弄斧.html"
+    ],
+    "hasPage": false
+  },
   "能力": {
     "cn": "能力",
     "py": "nénglì",
@@ -9529,6 +9905,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/fo2_佛.html"
+    ],
+    "hasPage": false
+  },
+  "你说嘛": {
+    "cn": "你说嘛",
+    "py": "nǐ shuō ma",
+    "en": "just say it / tell me then (urging)",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/zhe_particle_嘛.html"
     ],
     "hasPage": false
   },
@@ -9639,6 +10025,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/gongfu_功夫.html"
+    ],
+    "hasPage": false
+  },
+  "哦": {
+    "cn": "哦",
+    "py": "o",
+    "en": "mild realization particle",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/zhe_particle_嘛.html"
     ],
     "hasPage": false
   },
@@ -9802,6 +10198,16 @@
     ],
     "hasPage": false
   },
+  "其": {
+    "cn": "其",
+    "py": "qí",
+    "en": "classical pronoun: his / her / its / their",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/zhi_之.html"
+    ],
+    "hasPage": true
+  },
   "其次": {
     "cn": "其次",
     "py": "qícì",
@@ -9852,6 +10258,16 @@
     ],
     "hasPage": false
   },
+  "起步": {
+    "cn": "起步",
+    "py": "qǐbù",
+    "en": "to take the first steps, starting point",
+    "count": 1,
+    "appearsOn": [
+      "pages/chengyu/wanzhangaolou_万丈高楼.html"
+    ],
+    "hasPage": false
+  },
   "气死了": {
     "cn": "气死了",
     "py": "qì sǐ le",
@@ -9882,6 +10298,16 @@
     ],
     "hasPage": false
   },
+  "千里之行": {
+    "cn": "千里之行",
+    "py": "qiān lǐ zhī xíng",
+    "en": "a journey of a thousand li",
+    "count": 1,
+    "appearsOn": [
+      "pages/chengyu/wanzhangaolou_万丈高楼.html"
+    ],
+    "hasPage": false
+  },
   "前后": {
     "cn": "前后",
     "py": "qiánhòu",
@@ -9899,6 +10325,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/yuanfen_缘分.html"
+    ],
+    "hasPage": false
+  },
+  "前者": {
+    "cn": "前者",
+    "py": "qiánzhě",
+    "en": "the former",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/zhi_者.html"
     ],
     "hasPage": false
   },
@@ -9979,16 +10415,6 @@
     "count": 1,
     "appearsOn": [
       "pages/arts/topic_guqin.html"
-    ],
-    "hasPage": false
-  },
-  "轻声": {
-    "cn": "轻声",
-    "py": "qīngshēng",
-    "en": "neutral tone",
-    "count": 1,
-    "appearsOn": [
-      "pages/grammar/zhe_particle_呢.html"
     ],
     "hasPage": false
   },
@@ -10271,6 +10697,26 @@
       "pages/characters/sheng1_生.html"
     ],
     "hasPage": true
+  },
+  "仁义": {
+    "cn": "仁义",
+    "py": "rényì",
+    "en": "benevolence and righteousness",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/yi4_义.html"
+    ],
+    "hasPage": false
+  },
+  "仁者": {
+    "cn": "仁者",
+    "py": "rénzhě",
+    "en": "the benevolent one (Confucian term)",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/zhi_者.html"
+    ],
+    "hasPage": false
   },
   "日本": {
     "cn": "日本",
@@ -10972,6 +11418,16 @@
     ],
     "hasPage": false
   },
+  "始于足下": {
+    "cn": "始于足下",
+    "py": "shǐ yú zú xià",
+    "en": "begins beneath the feet",
+    "count": 1,
+    "appearsOn": [
+      "pages/chengyu/wanzhangaolou_万丈高楼.html"
+    ],
+    "hasPage": false
+  },
   "世间": {
     "cn": "世间",
     "py": "shìjiān",
@@ -11342,6 +11798,16 @@
     ],
     "hasPage": false
   },
+  "四大美人": {
+    "cn": "四大美人",
+    "py": "sì dà měirén",
+    "en": "the Four Beauties of ancient China",
+    "count": 1,
+    "appearsOn": [
+      "pages/chengyu/dongshixiaopin_东施效颦.html"
+    ],
+    "hasPage": false
+  },
   "四海": {
     "cn": "四海",
     "py": "sìhǎi",
@@ -11469,6 +11935,26 @@
     "count": 1,
     "appearsOn": [
       "pages/history/topic_xinhai.html"
+    ],
+    "hasPage": false
+  },
+  "所谓": {
+    "cn": "所谓",
+    "py": "suǒwèi",
+    "en": "so-called; what is called",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/suo_所.html"
+    ],
+    "hasPage": false
+  },
+  "所以": {
+    "cn": "所以",
+    "py": "suǒyǐ",
+    "en": "therefore; so",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/suo_所.html"
     ],
     "hasPage": false
   },
@@ -11902,6 +12388,16 @@
     ],
     "hasPage": false
   },
+  "哇": {
+    "cn": "哇",
+    "py": "wa",
+    "en": "exclamatory particle (wow)",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/zhe_particle_嘛.html"
+    ],
+    "hasPage": false
+  },
   "外国": {
     "cn": "外国",
     "py": "wàiguó",
@@ -12049,6 +12545,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/sheng1_生.html"
+    ],
+    "hasPage": false
+  },
+  "为": {
+    "cn": "为",
+    "py": "wéi / wèi",
+    "en": "passive agent marker / for",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/suo_所.html"
     ],
     "hasPage": false
   },
@@ -12242,13 +12748,13 @@
     ],
     "hasPage": false
   },
-  "无所谓": {
-    "cn": "无所谓",
-    "py": "wúsuǒwèi",
-    "en": "whatever, doesn't matter",
+  "五常": {
+    "cn": "五常",
+    "py": "wǔ cháng",
+    "en": "the Five Constants",
     "count": 1,
     "appearsOn": [
-      "pages/characters/wu2_无.html"
+      "pages/vocab/yi4_义.html"
     ],
     "hasPage": false
   },
@@ -12369,6 +12875,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/xi1_西.html"
+    ],
+    "hasPage": false
+  },
+  "西施": {
+    "cn": "西施",
+    "py": "Xī Shī",
+    "en": "Xi Shi, one of the Four Beauties",
+    "count": 1,
+    "appearsOn": [
+      "pages/chengyu/dongshixiaopin_东施效颦.html"
     ],
     "hasPage": false
   },
@@ -12782,6 +13298,16 @@
     ],
     "hasPage": false
   },
+  "效仿": {
+    "cn": "效仿",
+    "py": "xiàofǎng",
+    "en": "to imitate, to follow the example of",
+    "count": 1,
+    "appearsOn": [
+      "pages/chengyu/dongshixiaopin_东施效颦.html"
+    ],
+    "hasPage": false
+  },
   "效率": {
     "cn": "效率",
     "py": "xiàolǜ",
@@ -12972,6 +13498,16 @@
     ],
     "hasPage": false
   },
+  "形式": {
+    "cn": "形式",
+    "py": "xíngshì",
+    "en": "form, outward shape",
+    "count": 1,
+    "appearsOn": [
+      "pages/chengyu/dongshixiaopin_东施效颦.html"
+    ],
+    "hasPage": false
+  },
   "形象": {
     "cn": "形象",
     "py": "xíngxiàng",
@@ -13142,6 +13678,16 @@
     ],
     "hasPage": false
   },
+  "学者": {
+    "cn": "学者",
+    "py": "xuézhě",
+    "en": "scholar; academic",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/zhi_者.html"
+    ],
+    "hasPage": false
+  },
   "雪白": {
     "cn": "雪白",
     "py": "xuěbái",
@@ -13222,6 +13768,16 @@
     ],
     "hasPage": false
   },
+  "揠苗助长": {
+    "cn": "揠苗助长",
+    "py": "yà miáo zhù zhǎng",
+    "en": "pulling up seedlings to help them grow",
+    "count": 1,
+    "appearsOn": [
+      "pages/chengyu/wanzhangaolou_万丈高楼.html"
+    ],
+    "hasPage": false
+  },
   "烟": {
     "cn": "烟",
     "py": "yān",
@@ -13242,6 +13798,16 @@
     ],
     "hasPage": false
   },
+  "焉": {
+    "cn": "焉",
+    "py": "yān",
+    "en": "classical final particle",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/zhi_之.html"
+    ],
+    "hasPage": false
+  },
   "炎热": {
     "cn": "炎热",
     "py": "yánrè",
@@ -13249,6 +13815,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/huo3_火.html"
+    ],
+    "hasPage": false
+  },
+  "研究所": {
+    "cn": "研究所",
+    "py": "yánjiūsuǒ",
+    "en": "research institute",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/suo_所.html"
     ],
     "hasPage": false
   },
@@ -13459,6 +14035,16 @@
     "count": 1,
     "appearsOn": [
       "pages/grammar/hai_还.html"
+    ],
+    "hasPage": false
+  },
+  "以": {
+    "cn": "以",
+    "py": "yǐ",
+    "en": "by means of / with / because of",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/zhi_之.html"
     ],
     "hasPage": false
   },
@@ -13762,6 +14348,16 @@
     ],
     "hasPage": false
   },
+  "有所": {
+    "cn": "有所",
+    "py": "yǒu suǒ",
+    "en": "somewhat; to some extent",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/suo_所.html"
+    ],
+    "hasPage": false
+  },
   "又": {
     "cn": "又",
     "py": "yòu",
@@ -13769,6 +14365,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/zai4_再.html"
+    ],
+    "hasPage": false
+  },
+  "于": {
+    "cn": "于",
+    "py": "yú",
+    "en": "at / in / toward / from (classical)",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/zhi_之.html"
     ],
     "hasPage": false
   },
@@ -13839,16 +14445,6 @@
     "count": 1,
     "appearsOn": [
       "pages/religion/topic_chan.html"
-    ],
-    "hasPage": false
-  },
-  "语气词": {
-    "cn": "语气词",
-    "py": "yǔqìcí",
-    "en": "modal particle",
-    "count": 1,
-    "appearsOn": [
-      "pages/grammar/zhe_particle_呢.html"
     ],
     "hasPage": false
   },
@@ -14362,6 +14958,16 @@
     ],
     "hasPage": false
   },
+  "这不是嘛": {
+    "cn": "这不是嘛",
+    "py": "zhè bú shì ma",
+    "en": "isn't this exactly it / this is clearly the case",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/zhe_particle_嘛.html"
+    ],
+    "hasPage": false
+  },
   "着落": {
     "cn": "着落",
     "py": "zhuóluò",
@@ -14432,16 +15038,6 @@
     ],
     "hasPage": false
   },
-  "正义": {
-    "cn": "正义",
-    "py": "zhèngyì",
-    "en": "justice; righteousness",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/yi4_义.html"
-    ],
-    "hasPage": false
-  },
   "郑和": {
     "cn": "郑和",
     "py": "Zhèng Hé",
@@ -14459,6 +15055,46 @@
     "count": 1,
     "appearsOn": [
       "pages/philosophy/topic_zhengming.html"
+    ],
+    "hasPage": false
+  },
+  "之后": {
+    "cn": "之后",
+    "py": "zhīhòu",
+    "en": "after",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/zhi_之.html"
+    ],
+    "hasPage": false
+  },
+  "之间": {
+    "cn": "之间",
+    "py": "zhījiān",
+    "en": "between",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/zhi_之.html"
+    ],
+    "hasPage": false
+  },
+  "之前": {
+    "cn": "之前",
+    "py": "zhīqián",
+    "en": "before",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/zhi_之.html"
+    ],
+    "hasPage": false
+  },
+  "之所以": {
+    "cn": "之所以",
+    "py": "zhī suǒyǐ",
+    "en": "the reason why",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/suo_所.html"
     ],
     "hasPage": false
   },
@@ -14489,6 +15125,16 @@
     "count": 1,
     "appearsOn": [
       "pages/arts/topic_guqin.html"
+    ],
+    "hasPage": false
+  },
+  "知者": {
+    "cn": "知者",
+    "py": "zhīzhě",
+    "en": "the wise; the one who knows",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/zhi_者.html"
     ],
     "hasPage": false
   },
@@ -14882,16 +15528,6 @@
     ],
     "hasPage": false
   },
-  "庄子": {
-    "cn": "庄子",
-    "py": "Zhuāngzǐ",
-    "en": "Zhuangzi",
-    "count": 1,
-    "appearsOn": [
-      "pages/religion/topic_daojiao.html"
-    ],
-    "hasPage": true
-  },
   "壮美": {
     "cn": "壮美",
     "py": "zhuàngměi",
@@ -15089,6 +15725,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/chanpin_产品.html"
+    ],
+    "hasPage": false
+  },
+  "作者": {
+    "cn": "作者",
+    "py": "zuòzhě",
+    "en": "author; writer",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/zhi_者.html"
     ],
     "hasPage": false
   },
