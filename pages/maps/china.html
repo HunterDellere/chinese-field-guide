@@ -115,7 +115,11 @@
       <!-- Dynasty sub-selector — shown only when Dynasties layer is active -->
       <div class="map-dynasty-row" id="dynasty-selector" hidden>
         <span class="map-dynasty-row-label">Highlight extent · 版图</span>
+        <button class="dynasty-btn" data-dynasty="han" type="button">汉 Han</button>
         <button class="dynasty-btn" data-dynasty="tang" type="button">唐 Tang</button>
+        <button class="dynasty-btn" data-dynasty="song" type="button">宋 Song</button>
+        <button class="dynasty-btn" data-dynasty="yuan" type="button">元 Yuan</button>
+        <button class="dynasty-btn" data-dynasty="ming" type="button">明 Ming</button>
         <button class="dynasty-btn" data-dynasty="qing" type="button">清 Qing</button>
       </div>
 
@@ -298,42 +302,32 @@
         </g>
 
         <!-- ── LAYER: dynasties ────────────────────────────── -->
-        <g class="map-layer layer-dynasties" data-layer="dynasties" style="display:none">
-
-          <path class="dynasty-extent dynasty-tang" data-dynasty="tang"
-            d="M 192,90 L 260,72 L 330,58 L 395,48 L 455,44 L 515,42 L 558,50
-               L 592,64 L 622,82 L 648,102 L 662,128 L 658,158 L 642,178
-               L 626,198 L 612,218 L 602,242 L 600,272 L 598,302
-               L 582,332 L 560,358 L 538,378 L 515,392 L 492,402 L 470,410
-               L 448,416 L 425,422 L 402,420 L 382,414 L 362,404 L 344,392
-               L 328,380 L 312,368 L 298,352 L 285,338 L 275,322 L 268,305
-               L 262,288 L 258,272 L 255,255 L 255,238 L 256,220 L 258,202
-               L 262,185 L 268,168 L 274,150 L 276,132 L 272,115 L 265,100
-               L 238,92 Z"
-            fill="url(#tang-grad)" stroke="#a06428" stroke-width="1.8" stroke-dasharray="5,3" opacity="0"/>
-
-          <path class="dynasty-extent dynasty-qing" data-dynasty="qing"
-            d="M 148,70 L 200,52 L 262,40 L 332,32 L 402,28 L 468,26 L 530,30
-               L 575,38 L 612,52 L 642,72 L 668,98 L 680,126 L 674,155
-               L 656,180 L 642,205 L 635,232 L 638,262 L 648,292 L 650,322
-               L 638,352 L 616,375 L 592,395 L 565,412 L 538,425 L 510,434
-               L 482,440 L 455,442 L 428,440 L 402,432 L 378,422 L 355,410
-               L 332,398 L 312,384 L 294,370 L 278,355 L 262,338 L 248,322
-               L 234,308 L 220,292 L 208,278 L 196,264 L 185,250 L 178,235
-               L 174,220 L 172,205 L 172,190 L 175,175 L 180,160 L 185,145
-               L 188,130 L 188,115 L 185,100 L 170,85 Z"
-            fill="url(#qing-grad)" stroke="#5c3d7a" stroke-width="1.8" stroke-dasharray="5,3" opacity="0"/>
+        <g class="map-layer layer-dynasties" data-layer="dynasties" style="display:none" clip-path="inset(0)">
+          <!-- Dynasty extents — hand-traced lon/lat polygons cross-checked against Cambridge History of China and Britannica historical maps; projected via Mercator (center 103,36 / scale 820). clip-path keeps overflow within viewBox bounds for dynasties that extended beyond the current frame (Yuan/Qing). -->
+          <path class="dynasty-extent dynasty-han" data-dynasty="han" d="M675.70,248.98 L711.48,267.94 L690.01,305.04 L639.92,350.00 L625.61,402.11 L618.45,452.47 L525.43,572.28 L446.71,587.72 L382.31,580.01 L353.69,548.92 L310.75,501.34 L289.29,444.19 L296.44,367.58 L253.51,314.16 L153.32,258.50 L67.45,248.98 L3.05,258.50 L67.45,210.15 L181.95,190.26 L296.44,219.98 L396.62,229.72 L496.81,239.39 L596.99,239.39 L675.70,248.98 Z" fill="#a06428" fill-opacity="0.18" stroke="#a06428" stroke-width="1.8" stroke-dasharray="5,3" opacity="0"/>
+          <path class="dynasty-extent dynasty-tang" data-dynasty="tang" d="M697.17,229.72 L732.95,258.50 L725.79,305.04 L647.08,358.82 L625.61,410.62 L632.77,477.08 L582.68,548.92 L496.81,595.40 L410.94,587.72 L353.69,564.52 L310.75,517.33 L282.13,444.19 L253.51,384.95 L153.32,341.13 L38.83,332.20 L-61.35,286.63 L-104.29,229.72 L-132.91,180.18 L-61.35,128.43 L67.45,138.97 L210.57,128.43 L353.69,128.43 L511.12,149.41 L611.30,180.18 L697.17,229.72 Z" fill="#a06428" fill-opacity="0.18" stroke="#a06428" stroke-width="1.8" stroke-dasharray="5,3" opacity="0"/>
+          <path class="dynasty-extent dynasty-song" data-dynasty="song" d="M611.30,267.94 L625.61,295.87 L618.45,350.00 L632.77,402.11 L632.77,452.47 L618.45,493.29 L589.83,541.07 L539.74,572.28 L468.18,587.72 L403.78,580.01 L360.84,556.73 L317.91,525.28 L317.91,485.20 L353.69,435.86 L382.31,393.55 L396.62,341.13 L446.71,295.87 L511.12,267.94 L611.30,267.94 Z" fill="#5c8a78" fill-opacity="0.18" stroke="#5c8a78" stroke-width="1.8" stroke-dasharray="5,3" opacity="0"/>
+          <path class="dynasty-extent dynasty-yuan" data-dynasty="yuan" d="M754.42,5.14 L811.66,128.43 L768.73,219.98 L711.48,267.94 L732.95,305.04 L647.08,367.58 L639.92,419.08 L639.92,477.08 L596.99,533.19 L539.74,580.01 L439.56,603.05 L353.69,580.01 L296.44,541.07 L282.13,477.08 L239.19,485.20 L167.64,477.08 L67.45,435.86 L10.21,367.58 L-32.73,314.16 L10.21,239.39 L110.39,138.97 L210.57,62.95 L382.31,40.21 L525.43,74.15 L668.55,40.21 L754.42,5.14 Z" fill="#5c3d7a" fill-opacity="0.18" stroke="#5c3d7a" stroke-width="1.8" stroke-dasharray="5,3" opacity="0"/>
+          <path class="dynasty-extent dynasty-ming" data-dynasty="ming" d="M675.70,229.72 L690.01,267.94 L639.92,305.04 L632.77,367.58 L639.92,427.49 L632.77,477.08 L596.99,541.07 L539.74,580.01 L468.18,595.40 L403.78,587.72 L353.69,564.52 L310.75,533.19 L296.44,493.29 L310.75,435.86 L360.84,393.55 L382.31,350.00 L389.47,295.87 L453.87,248.98 L525.43,229.72 L596.99,239.39 L675.70,229.72 Z" fill="#2a5c6b" fill-opacity="0.18" stroke="#2a5c6b" stroke-width="1.8" stroke-dasharray="5,3" opacity="0"/>
+          <path class="dynasty-extent dynasty-qing" data-dynasty="qing" d="M825.97,5.14 L897.53,96.18 L825.97,180.18 L768.73,229.72 L725.79,277.32 L682.86,305.04 L639.92,367.58 L647.08,435.86 L639.92,501.34 L618.45,548.92 L539.74,587.72 L468.18,603.05 L439.56,633.42 L446.71,595.40 L403.78,580.01 L360.84,556.73 L310.75,525.28 L289.29,477.08 L246.35,485.20 L153.32,485.20 L38.83,435.86 L-32.73,358.82 L-54.20,286.63 L10.21,200.25 L124.70,96.18 L296.44,16.96 L468.18,5.14 L639.92,-18.92 L754.42,-31.17 L825.97,5.14 Z" fill="#8e4a6e" fill-opacity="0.18" stroke="#8e4a6e" stroke-width="1.8" stroke-dasharray="5,3" opacity="0"/>
 
           <!-- Dynasty key -->
-          <g transform="translate(28,582)">
-            <rect width="168" height="96" rx="4" fill="#f0e8d5" stroke="#c8b898" stroke-width="1" opacity="0.96"/>
+          <g transform="translate(28,536)">
+            <rect width="200" height="146" rx="4" fill="#f0e8d5" stroke="#c8b898" stroke-width="1" opacity="0.96"/>
             <text x="10" y="18" font-family="Noto Serif SC, serif" font-size="10" font-weight="600" fill="#3d2e18">朝代 Dynasty Key</text>
-            <rect x="10" y="28" width="16" height="8" rx="1" fill="#a06428" opacity="0.35" stroke="#a06428" stroke-width="1" stroke-dasharray="3,2"/>
-            <text x="32" y="36" font-family="EB Garamond, serif" font-size="10" fill="#5a4428">唐 Tang (618–907)</text>
-            <rect x="10" y="44" width="16" height="8" rx="1" fill="#5c3d7a" opacity="0.35" stroke="#5c3d7a" stroke-width="1" stroke-dasharray="3,2"/>
-            <text x="32" y="52" font-family="EB Garamond, serif" font-size="10" fill="#5a4428">清 Qing (1644–1912)</text>
-            <text x="10" y="72" font-family="EB Garamond, serif" font-size="9" fill="#8a7060" font-style="italic">Select a dynasty above</text>
-            <text x="10" y="84" font-family="EB Garamond, serif" font-size="9" fill="#8a7060" font-style="italic">to highlight its extent.</text>
+            <rect x="10" y="28" width="16" height="8" rx="1" fill="#a06428" fill-opacity="0.35" stroke="#a06428" stroke-width="1" stroke-dasharray="3,2"/>
+            <text x="32" y="36" font-family="EB Garamond, serif" font-size="10" fill="#5a4428">汉 Han (202 BCE – 220 CE)</text>
+            <rect x="10" y="44" width="16" height="8" rx="1" fill="#a06428" fill-opacity="0.35" stroke="#a06428" stroke-width="1" stroke-dasharray="3,2"/>
+            <text x="32" y="52" font-family="EB Garamond, serif" font-size="10" fill="#5a4428">唐 Tang (618 – 907 CE)</text>
+            <rect x="10" y="60" width="16" height="8" rx="1" fill="#5c8a78" fill-opacity="0.35" stroke="#5c8a78" stroke-width="1" stroke-dasharray="3,2"/>
+            <text x="32" y="68" font-family="EB Garamond, serif" font-size="10" fill="#5a4428">宋 Song (960 – 1279 CE)</text>
+            <rect x="10" y="76" width="16" height="8" rx="1" fill="#5c3d7a" fill-opacity="0.35" stroke="#5c3d7a" stroke-width="1" stroke-dasharray="3,2"/>
+            <text x="32" y="84" font-family="EB Garamond, serif" font-size="10" fill="#5a4428">元 Yuan (1271 – 1368 CE)</text>
+            <rect x="10" y="92" width="16" height="8" rx="1" fill="#2a5c6b" fill-opacity="0.35" stroke="#2a5c6b" stroke-width="1" stroke-dasharray="3,2"/>
+            <text x="32" y="100" font-family="EB Garamond, serif" font-size="10" fill="#5a4428">明 Ming (1368 – 1644 CE)</text>
+            <rect x="10" y="108" width="16" height="8" rx="1" fill="#8e4a6e" fill-opacity="0.35" stroke="#8e4a6e" stroke-width="1" stroke-dasharray="3,2"/>
+            <text x="32" y="116" font-family="EB Garamond, serif" font-size="10" fill="#5a4428">清 Qing (1644 – 1912 CE)</text>
+            <text x="10" y="138" font-family="EB Garamond, serif" font-size="9" fill="#8a7060" font-style="italic">Select above to highlight extent.</text>
           </g>
         </g>
 

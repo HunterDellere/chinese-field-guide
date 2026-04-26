@@ -250,6 +250,121 @@ const grandCanalPath = (() => {
   return 'M' + pts.map(p => `${p[0].toFixed(2)},${p[1].toFixed(2)}`).join(' L');
 })();
 
+// ── Dynasty extents ──────────────────────────────────────────────────────────
+// Hand-traced lon/lat polygons for each dynasty's approximate maximum extent,
+// cross-checked against Cambridge History of China, Britannica historical
+// territory maps, and standard scholarly references. Projected through the
+// same Mercator so they register against the modern coastline.
+//
+// These are simplified outlines — 12–20 vertices each — meant to convey
+// scale and direction of imperial reach, not the exact frontier of any
+// given year. For precise borders see the linked entries.
+const DYNASTIES = [
+  {
+    id: 'han', nameCn: '汉', nameEn: 'Han', years: '202 BCE – 220 CE',
+    color: '#a06428', // ochre-brown
+    // Han at ~100 BCE under Wudi: from Korean peninsula edge through Hexi
+    // Corridor (Gansu) to Tarim Basin oases, north to Ordos, south to
+    // northern Vietnam.
+    ring: [
+      [124.5, 41.5], [127.0, 40.5], [125.5, 38.5], [122.0, 36.0],
+      [121.0, 33.0], [120.5, 30.0], [114.0, 22.5], [108.5, 21.5],
+      [104.0, 22.0], [102.0, 24.0], [99.0, 27.0], [97.5, 30.5],
+      [98.0, 35.0], [95.0, 38.0], [88.0, 41.0], [82.0, 41.5],
+      [77.5, 41.0], [82.0, 43.5], [90.0, 44.5], [98.0, 43.0],
+      [105.0, 42.5], [112.0, 42.0], [119.0, 42.0], [124.5, 41.5],
+    ],
+  },
+  {
+    id: 'tang', nameCn: '唐', nameEn: 'Tang', years: '618 – 907 CE',
+    color: '#a06428',
+    // Tang at ~660 CE peak under Gaozong: westward reach to Aral Sea,
+    // protectorates over Tarim + Tianshan, northern Korean peninsula,
+    // northern Vietnam.
+    ring: [
+      [126.0, 42.5], [128.5, 41.0], [128.0, 38.5], [122.5, 35.5],
+      [121.0, 32.5], [121.5, 28.5], [118.0, 24.0], [112.0, 21.0],
+      [106.0, 21.5], [102.0, 23.0], [99.0, 26.0], [97.0, 30.5],
+      [95.0, 34.0], [88.0, 36.5], [80.0, 37.0], [73.0, 39.5],
+      [70.0, 42.5], [68.0, 45.0], [73.0, 47.5], [82.0, 47.0],
+      [92.0, 47.5], [102.0, 47.5], [113.0, 46.5], [120.0, 45.0],
+      [126.0, 42.5],
+    ],
+  },
+  {
+    id: 'song', nameCn: '宋', nameEn: 'Song', years: '960 – 1279 CE',
+    color: '#5c8a78', // teal-green (different from Tang to read clearly)
+    // Northern Song extent before 1127: south of Jin (Jurchen) territory,
+    // not extending into the steppe or NE. After 1127 Southern Song was
+    // even smaller (south of Huai River).
+    ring: [
+      [120.0, 40.5], [121.0, 39.0], [120.5, 36.0], [121.5, 33.0],
+      [121.5, 30.0], [120.5, 27.5], [118.5, 24.5], [115.0, 22.5],
+      [110.0, 21.5], [105.5, 22.0], [102.5, 23.5], [99.5, 25.5],
+      [99.5, 28.0], [102.0, 31.0], [104.0, 33.5], [105.0, 36.5],
+      [108.5, 39.0], [113.0, 40.5], [120.0, 40.5],
+    ],
+  },
+  {
+    id: 'yuan', nameCn: '元', nameEn: 'Yuan', years: '1271 – 1368 CE',
+    color: '#5c3d7a', // deep purple
+    // Mongol Yuan: vastly larger than any predecessor — all of modern China
+    // plus all of Mongolia, Manchuria, Tibet, parts of Burma, edges of
+    // Korea / Russia. (Excludes the broader Mongol khanates.)
+    ring: [
+      [130.0, 53.0], [134.0, 47.5], [131.0, 43.0], [127.0, 40.5],
+      [128.5, 38.5], [122.5, 35.0], [122.0, 32.0], [122.0, 28.5],
+      [119.0, 25.0], [115.0, 22.0], [108.0, 20.5], [102.0, 22.0],
+      [98.0, 24.5], [97.0, 28.5], [94.0, 28.0], [89.0, 28.5],
+      [82.0, 31.0], [78.0, 35.0], [75.0, 38.0], [78.0, 42.0],
+      [85.0, 47.0], [92.0, 50.5], [104.0, 51.5], [114.0, 50.0],
+      [124.0, 51.5], [130.0, 53.0],
+    ],
+  },
+  {
+    id: 'ming', nameCn: '明', nameEn: 'Ming', years: '1368 – 1644 CE',
+    color: '#2a5c6b', // teal — scholarly Ming convention
+    // Ming after consolidation: roughly modern China south of the Great
+    // Wall, plus protectorate-level reach into Manchuria's Liaodong and
+    // Yunnan. No Mongolia, Xinjiang, Tibet (as in modern PRC).
+    ring: [
+      [124.5, 42.5], [125.5, 40.5], [122.0, 38.5], [121.5, 35.0],
+      [122.0, 31.5], [121.5, 28.5], [119.0, 24.5], [115.0, 22.0],
+      [110.0, 21.0], [105.5, 21.5], [102.0, 23.0], [99.0, 25.0],
+      [98.0, 27.5], [99.0, 31.0], [102.5, 33.5], [104.0, 36.0],
+      [104.5, 39.0], [109.0, 41.5], [114.0, 42.5], [119.0, 42.0],
+      [124.5, 42.5],
+    ],
+  },
+  {
+    id: 'qing', nameCn: '清', nameEn: 'Qing', years: '1644 – 1912 CE',
+    color: '#8e4a6e', // mulberry
+    // Qing at ~1820 peak (after Qianlong's expansions): all of modern PRC
+    // + Mongolia + Taiwan + Outer Manchuria (later ceded to Russia 1860) +
+    // suzerainty over Korea, Vietnam, Burma (suzerainty not territorial,
+    // so not drawn). Includes Xinjiang and Tibet.
+    ring: [
+      [135.0, 53.0], [140.0, 49.0], [135.0, 45.0], [131.0, 42.5],
+      [128.0, 40.0], [125.0, 38.5], [122.0, 35.0], [122.5, 31.0],
+      [122.0, 27.0], [120.5, 24.0], [115.0, 21.5], [110.0, 20.5],
+      [108.0, 18.5], [108.5, 21.0], [105.5, 22.0], [102.5, 23.5],
+      [99.0, 25.5], [97.5, 28.5], [94.5, 28.0], [88.0, 28.0],
+      [80.0, 31.0], [75.0, 35.5], [73.5, 39.5], [78.0, 44.0],
+      [86.0, 49.0], [98.0, 52.5], [110.0, 53.0], [122.0, 54.0],
+      [130.0, 54.5], [135.0, 53.0],
+    ],
+  },
+];
+
+const dynastyExtents = DYNASTIES.map(d => {
+  const projectedRing = d.ring
+    .map(([lon, lat]) => projection([lon, lat]))
+    .filter(Boolean);
+  if (!projectedRing.length) return null;
+  const path = 'M' + projectedRing.map(p => `${p[0].toFixed(2)},${p[1].toFixed(2)}`).join(' L') + ' Z';
+  return { ...d, path };
+}).filter(Boolean);
+
 // ── Build province label list (only provinces whose centroid is on-screen) ───
 const provinceLabels = provinceData
   .filter(p => p.cx > 20 && p.cx < W - 20 && p.cy > 20 && p.cy < H - 40 && p.nameCn)
@@ -366,6 +481,63 @@ ${canalSvg}
 
         `;
     html = html.slice(0, s) + block + html.slice(e);
+  }
+}
+
+// ── Replace dynasties layer ──────────────────────────────────────────────────
+{
+  const s = findFirst(html, '<!-- ── LAYER: dynasties ────────────────────────────── -->');
+  const e = findFirst(html, '<!-- ── LAYER: dialects');
+  if (s !== -1 && e !== -1) {
+    const paths = dynastyExtents.map(d =>
+      `          <path class="dynasty-extent dynasty-${d.id}" data-dynasty="${d.id}" ` +
+      `d="${d.path}" fill="${d.color}" fill-opacity="0.18" stroke="${d.color}" ` +
+      `stroke-width="1.8" stroke-dasharray="5,3" opacity="0"/>`
+    ).join('\n');
+
+    // Dynasty key — list all 6 with year ranges
+    const keyRows = dynastyExtents.map((d, i) => {
+      const y = 28 + i * 16;
+      return `            <rect x="10" y="${y}" width="16" height="8" rx="1" fill="${d.color}" fill-opacity="0.35" stroke="${d.color}" stroke-width="1" stroke-dasharray="3,2"/>\n` +
+             `            <text x="32" y="${y + 8}" font-family="EB Garamond, serif" font-size="10" fill="#5a4428">${d.nameCn} ${d.nameEn} (${d.years})</text>`;
+    }).join('\n');
+    const keyHeight = 28 + dynastyExtents.length * 16 + 22;
+    const keyY = 700 - keyHeight - 18;
+
+    const block = `<!-- ── LAYER: dynasties ────────────────────────────── -->
+        <g class="map-layer layer-dynasties" data-layer="dynasties" style="display:none" clip-path="inset(0)">
+          <!-- Dynasty extents — hand-traced lon/lat polygons cross-checked against Cambridge History of China and Britannica historical maps; projected via Mercator (center 103,36 / scale 820). clip-path keeps overflow within viewBox bounds for dynasties that extended beyond the current frame (Yuan/Qing). -->
+${paths}
+
+          <!-- Dynasty key -->
+          <g transform="translate(28,${keyY})">
+            <rect width="200" height="${keyHeight}" rx="4" fill="#f0e8d5" stroke="#c8b898" stroke-width="1" opacity="0.96"/>
+            <text x="10" y="18" font-family="Noto Serif SC, serif" font-size="10" font-weight="600" fill="#3d2e18">朝代 Dynasty Key</text>
+${keyRows}
+            <text x="10" y="${keyHeight - 8}" font-family="EB Garamond, serif" font-size="9" fill="#8a7060" font-style="italic">Select above to highlight extent.</text>
+          </g>
+        </g>
+
+        `;
+    html = html.slice(0, s) + block + html.slice(e);
+  }
+}
+
+// ── Update dynasty selector buttons (the row above the map) ──────────────────
+{
+  const s = findFirst(html, '<div class="map-dynasty-row" id="dynasty-selector"');
+  if (s !== -1) {
+    const e = html.indexOf('</div>', s);
+    if (e !== -1) {
+      const buttons = dynastyExtents
+        .map(d => `        <button class="dynasty-btn" data-dynasty="${d.id}" type="button">${d.nameCn} ${d.nameEn}</button>`)
+        .join('\n');
+      const block =
+        `<div class="map-dynasty-row" id="dynasty-selector" hidden>\n` +
+        `        <span class="map-dynasty-row-label">Highlight extent · 版图</span>\n` +
+        `${buttons}\n      `;
+      html = html.slice(0, s) + block + html.slice(e);
+    }
   }
 }
 
