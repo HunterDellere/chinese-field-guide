@@ -450,6 +450,28 @@ const SILK_ROAD_SEA_GUANGZHOU = [
   [109.00, 13.00],
 ];
 
+// ── Dialect zones ────────────────────────────────────────────────────────────
+// Boundary precision is genuinely contested — the Wurm/Li Language Atlas of
+// China and Glottolog disagree, and field linguists continue to refine. Rather
+// than render unreliable polygons, we place labeled centroids at the cultural
+// heart of each major dialect group. The note explicitly flags that boundaries
+// are debated.
+const DIALECTS = [
+  { id: 'guanhua',  cn: '官话',   en: 'Mandarin (Guānhuà)',     lon: 113.0, lat: 35.5, color: '#a06428', tier: 1 },
+  { id: 'wu',       cn: '吴语',   en: 'Wu (Shanghainese)',       lon: 120.6, lat: 31.0, color: '#1a5050', tier: 1 },
+  { id: 'yue',      cn: '粤语',   en: 'Yue (Cantonese)',         lon: 113.3, lat: 23.1, color: '#8e4a6e', tier: 1 },
+  { id: 'min',      cn: '闽语',   en: 'Min',                     lon: 119.3, lat: 25.3, color: '#4a2878', tier: 1 },
+  { id: 'kejia',    cn: '客家话', en: 'Hakka (Kèjiā)',           lon: 115.5, lat: 25.8, color: '#7a3a18', tier: 1 },
+  { id: 'xiang',    cn: '湘语',   en: 'Xiang (Hunanese)',        lon: 112.9, lat: 28.0, color: '#386b3a', tier: 2 },
+  { id: 'gan',      cn: '赣语',   en: 'Gan (Jiangxinese)',       lon: 115.9, lat: 28.7, color: '#5a6a8a', tier: 2 },
+  { id: 'jin',      cn: '晋语',   en: 'Jin (sometimes split from Mandarin)', lon: 112.5, lat: 37.8, color: '#8a6a40', tier: 2 },
+];
+const dialectMarkers = DIALECTS.map(d => {
+  const p = projection([d.lon, d.lat]);
+  if (!p) return null;
+  return { ...d, x: Math.round(p[0]), y: Math.round(p[1]) };
+}).filter(Boolean);
+
 function lonLatChainToPath(chain) {
   const pts = chain.map(([lon, lat]) => projection([lon, lat])).filter(Boolean);
   if (!pts.length) return '';
@@ -620,6 +642,47 @@ ${paths}
             <text x="10" y="18" font-family="Noto Serif SC, serif" font-size="10" font-weight="600" fill="#3d2e18">朝代 Dynasty Key</text>
 ${keyRows}
             <text x="10" y="${keyHeight - 8}" font-family="EB Garamond, serif" font-size="9" fill="#8a7060" font-style="italic">Select above to highlight extent.</text>
+          </g>
+        </g>
+
+        `;
+    html = html.slice(0, s) + block + html.slice(e);
+  }
+}
+
+// ── Replace dialects layer ───────────────────────────────────────────────────
+{
+  const s = findFirst(html, '<!-- ── LAYER: dialects ─────────────────────────────── -->');
+  // End boundary: the dialects block runs until the JS-rendered pin groups
+  // marker. Try a few likely sentinels.
+  let e = findFirst(html,
+    '<!-- ── JS-rendered pin groups',
+    '<!-- ── LAYER: greatwall',
+    '<!-- ── LAYER: silkroads',
+  );
+  if (s !== -1 && e !== -1) {
+    const markerSvg = dialectMarkers.map(d => {
+      const fontSize = d.tier === 1 ? 11 : 10;
+      const subSize  = d.tier === 1 ? 9  : 8;
+      // Small dot + CN label below + EN label below CN
+      return `          <g class="dialect-marker">\n` +
+             `            <circle cx="${d.x}" cy="${d.y}" r="3.5" fill="${d.color}" opacity="0.85" stroke="#f2e8d5" stroke-width="0.8"/>\n` +
+             `            <text x="${d.x}" y="${d.y + 14}" text-anchor="middle" font-family="Noto Serif SC, serif" font-size="${fontSize}" fill="${d.color}" opacity="0.95">${d.cn}</text>\n` +
+             `            <text x="${d.x}" y="${d.y + 14 + subSize + 2}" text-anchor="middle" font-family="EB Garamond, serif" font-size="${subSize}" font-style="italic" fill="${d.color}" opacity="0.78">${d.en}</text>\n` +
+             `          </g>`;
+    }).join('\n');
+
+    const block = `<!-- ── LAYER: dialects ─────────────────────────────── -->
+        <g class="map-layer layer-dialects" data-layer="dialects" style="display:none">
+          <!-- Major Sinitic dialect groups — labeled centroids only, since boundary precision is genuinely linguistically debated (Wurm/Li atlas vs Glottolog vs field-current refinements). For approximate zones, see the 方言 entry. -->
+${markerSvg}
+
+          <!-- Honest note about boundaries -->
+          <g transform="translate(28,548)">
+            <rect width="184" height="46" rx="4" fill="#f0e8d5" stroke="#c8b898" stroke-width="1" opacity="0.95"/>
+            <text x="8" y="14" font-family="Noto Serif SC, serif" font-size="9" font-weight="600" fill="#3d2e18">方言 Dialect groups</text>
+            <text x="8" y="26" font-family="EB Garamond, serif" font-size="9" fill="#5a4428" font-style="italic">Boundaries are linguistically</text>
+            <text x="8" y="38" font-family="EB Garamond, serif" font-size="9" fill="#5a4428" font-style="italic">debated; see 方言 entry.</text>
           </g>
         </g>
 
