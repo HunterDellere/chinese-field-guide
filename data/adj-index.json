@@ -315,6 +315,19 @@
     ],
     "hasPage": true
   },
+  "传统": {
+    "cn": "传统",
+    "py": "chuántǒng",
+    "en": "tradition; traditional",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/jia1_家.html",
+      "pages/characters/xin1_新.html",
+      "pages/culture/topic_duanwu.html",
+      "pages/vocab/wenhua_文化.html"
+    ],
+    "hasPage": true
+  },
   "春节": {
     "cn": "春节",
     "py": "chūnjié",
@@ -328,6 +341,32 @@
     ],
     "hasPage": true
   },
+  "东": {
+    "cn": "东",
+    "py": "dōng",
+    "en": "east",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/bei3_北.html",
+      "pages/characters/nan2_南.html",
+      "pages/characters/xi1_西.html",
+      "pages/characters/zhong1_中.html"
+    ],
+    "hasPage": true
+  },
+  "方向": {
+    "cn": "方向",
+    "py": "fāngxiàng",
+    "en": "direction; orientation",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/dao4_道.html",
+      "pages/characters/dong1_东.html",
+      "pages/characters/nan2_南.html",
+      "pages/vocab/dongxi_东西.html"
+    ],
+    "hasPage": false
+  },
   "国": {
     "cn": "国",
     "py": "guó",
@@ -337,6 +376,19 @@
       "pages/characters/di4_地.html",
       "pages/vocab/guojia_国家.html",
       "pages/vocab/jiangshan_江山.html",
+      "pages/vocab/zhongguo_中国.html"
+    ],
+    "hasPage": true
+  },
+  "国家": {
+    "cn": "国家",
+    "py": "guójiā",
+    "en": "nation; state",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/jia1_家.html",
+      "pages/vocab/chuantong_传统.html",
+      "pages/vocab/wenhua_文化.html",
       "pages/vocab/zhongguo_中国.html"
     ],
     "hasPage": true
@@ -445,6 +497,32 @@
     ],
     "hasPage": false
   },
+  "文化": {
+    "cn": "文化",
+    "py": "wénhuà",
+    "en": "culture",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/ming2_明.html",
+      "pages/characters/wen2_文.html",
+      "pages/vocab/chuantong_传统.html",
+      "pages/vocab/guojia_国家.html"
+    ],
+    "hasPage": true
+  },
+  "西": {
+    "cn": "西",
+    "py": "xī",
+    "en": "west",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/bei3_北.html",
+      "pages/characters/dong1_东.html",
+      "pages/characters/nan2_南.html",
+      "pages/characters/zhong1_中.html"
+    ],
+    "hasPage": true
+  },
   "下": {
     "cn": "下",
     "py": "xià",
@@ -536,6 +614,18 @@
     ],
     "hasPage": false
   },
+  "北": {
+    "cn": "北",
+    "py": "běi",
+    "en": "north",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/dong1_东.html",
+      "pages/characters/nan2_南.html",
+      "pages/characters/xi1_西.html"
+    ],
+    "hasPage": true
+  },
   "必须": {
     "cn": "必须",
     "py": "bìxū",
@@ -557,18 +647,6 @@
       "pages/characters/fo2_佛.html",
       "pages/characters/kong1_空.html",
       "pages/characters/li3_礼.html"
-    ],
-    "hasPage": false
-  },
-  "传统": {
-    "cn": "传统",
-    "py": "chuántǒng",
-    "en": "tradition; traditional",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/jia1_家.html",
-      "pages/culture/topic_duanwu.html",
-      "pages/vocab/wenhua_文化.html"
     ],
     "hasPage": false
   },
@@ -608,6 +686,18 @@
     ],
     "hasPage": true
   },
+  "高": {
+    "cn": "高",
+    "py": "gāo",
+    "en": "tall; high",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/chang2_长.html",
+      "pages/characters/duo1_多.html",
+      "pages/characters/shang4_上.html"
+    ],
+    "hasPage": true
+  },
   "关系": {
     "cn": "关系",
     "py": "guānxi",
@@ -617,18 +707,6 @@
       "pages/characters/guan1_关.html",
       "pages/vocab/keqi_客气.html",
       "pages/vocab/mianzi_面子.html"
-    ],
-    "hasPage": true
-  },
-  "国家": {
-    "cn": "国家",
-    "py": "guójiā",
-    "en": "nation; state",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/jia1_家.html",
-      "pages/vocab/wenhua_文化.html",
-      "pages/vocab/zhongguo_中国.html"
     ],
     "hasPage": true
   },
@@ -764,6 +842,18 @@
     ],
     "hasPage": false
   },
+  "历史": {
+    "cn": "历史",
+    "py": "lìshǐ",
+    "en": "history",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/shi2_时.html",
+      "pages/vocab/chuantong_传统.html",
+      "pages/vocab/wenhua_文化.html"
+    ],
+    "hasPage": false
+  },
   "良心": {
     "cn": "良心",
     "py": "liángxīn",
@@ -812,6 +902,18 @@
     ],
     "hasPage": true
   },
+  "南": {
+    "cn": "南",
+    "py": "nán",
+    "en": "south",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/bei3_北.html",
+      "pages/characters/dong1_东.html",
+      "pages/characters/xi1_西.html"
+    ],
+    "hasPage": true
+  },
   "年": {
     "cn": "年",
     "py": "nián",
@@ -847,6 +949,18 @@
       "pages/vocab/yinyang_阴阳.html"
     ],
     "hasPage": false
+  },
+  "山": {
+    "cn": "山",
+    "py": "shān",
+    "en": "mountain",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/di4_地.html",
+      "pages/characters/gao1_高.html",
+      "pages/characters/tu3_土.html"
+    ],
+    "hasPage": true
   },
   "善": {
     "cn": "善",
@@ -893,18 +1007,6 @@
       "pages/characters/yan2_言.html",
       "pages/characters/zi4_字.html",
       "pages/vocab/wenhua_文化.html"
-    ],
-    "hasPage": true
-  },
-  "文化": {
-    "cn": "文化",
-    "py": "wénhuà",
-    "en": "culture",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/ming2_明.html",
-      "pages/characters/wen2_文.html",
-      "pages/vocab/guojia_国家.html"
     ],
     "hasPage": true
   },
@@ -989,6 +1091,18 @@
       "pages/characters/jin1_金.html",
       "pages/characters/long2_龙.html",
       "pages/characters/wang2_王.html"
+    ],
+    "hasPage": false
+  },
+  "长城": {
+    "cn": "长城",
+    "py": "Chángchéng",
+    "en": "Great Wall",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/bei3_北.html",
+      "pages/characters/chang2_长.html",
+      "pages/history/topic_mingchao.html"
     ],
     "hasPage": false
   },
@@ -1149,6 +1263,17 @@
     "appearsOn": [
       "pages/characters/zi4_字.html",
       "pages/vocab/hanzi_汉字.html"
+    ],
+    "hasPage": true
+  },
+  "变": {
+    "cn": "变",
+    "py": "biàn",
+    "en": "to change; transformation",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/xin1_新.html",
+      "pages/philosophy/topic_yijing.html"
     ],
     "hasPage": true
   },
@@ -1317,6 +1442,17 @@
     ],
     "hasPage": false
   },
+  "大": {
+    "cn": "大",
+    "py": "dà",
+    "en": "big; large",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/duo1_多.html",
+      "pages/characters/gao1_高.html"
+    ],
+    "hasPage": true
+  },
   "道德": {
     "cn": "道德",
     "py": "dàodé",
@@ -1350,6 +1486,28 @@
     ],
     "hasPage": false
   },
+  "低": {
+    "cn": "低",
+    "py": "dī",
+    "en": "low; to lower",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/gao1_高.html",
+      "pages/characters/xia4_下.html"
+    ],
+    "hasPage": false
+  },
+  "东西": {
+    "cn": "东西",
+    "py": "dōngxi",
+    "en": "thing; stuff",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/dong1_东.html",
+      "pages/characters/xi1_西.html"
+    ],
+    "hasPage": true
+  },
   "读": {
     "cn": "读",
     "py": "dú",
@@ -1372,6 +1530,17 @@
     ],
     "hasPage": true
   },
+  "多少": {
+    "cn": "多少",
+    "py": "duōshao",
+    "en": "how many/much",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/duo1_多.html",
+      "pages/grammar/liangci_量词.html"
+    ],
+    "hasPage": false
+  },
   "方位": {
     "cn": "方位",
     "py": "fāngwèi",
@@ -1380,17 +1549,6 @@
     "appearsOn": [
       "pages/vocab/dongxi_东西.html",
       "pages/vocab/fengshui_风水.html"
-    ],
-    "hasPage": false
-  },
-  "方向": {
-    "cn": "方向",
-    "py": "fāngxiàng",
-    "en": "direction; orientation",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/dao4_道.html",
-      "pages/vocab/dongxi_东西.html"
     ],
     "hasPage": false
   },
@@ -1427,14 +1585,14 @@
     ],
     "hasPage": false
   },
-  "高": {
-    "cn": "高",
-    "py": "gāo",
-    "en": "tall; high",
+  "高考": {
+    "cn": "高考",
+    "py": "Gāokǎo",
+    "en": "college entrance exam",
     "count": 2,
     "appearsOn": [
-      "pages/characters/chang2_长.html",
-      "pages/characters/shang4_上.html"
+      "pages/characters/gao1_高.html",
+      "pages/characters/xue2_学.html"
     ],
     "hasPage": false
   },
@@ -1567,6 +1725,17 @@
     "appearsOn": [
       "pages/characters/bai2_白.html",
       "pages/characters/se4_色.html"
+    ],
+    "hasPage": false
+  },
+  "很多": {
+    "cn": "很多",
+    "py": "hěn duō",
+    "en": "a lot; many",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/duo1_多.html",
+      "pages/grammar/liangci_量词.html"
     ],
     "hasPage": false
   },
@@ -1735,6 +1904,17 @@
     ],
     "hasPage": false
   },
+  "旧": {
+    "cn": "旧",
+    "py": "jiù",
+    "en": "old; former; used",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/bian4_变.html",
+      "pages/characters/xin1_新.html"
+    ],
+    "hasPage": false
+  },
   "开": {
     "cn": "开",
     "py": "kāi",
@@ -1820,17 +2000,6 @@
     "appearsOn": [
       "pages/characters/dao4_道.html",
       "pages/characters/wang2_王.html"
-    ],
-    "hasPage": false
-  },
-  "历史": {
-    "cn": "历史",
-    "py": "lìshǐ",
-    "en": "history",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/shi2_时.html",
-      "pages/vocab/wenhua_文化.html"
     ],
     "hasPage": false
   },
@@ -2131,17 +2300,6 @@
     ],
     "hasPage": true
   },
-  "山": {
-    "cn": "山",
-    "py": "shān",
-    "en": "mountain",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/di4_地.html",
-      "pages/characters/tu3_土.html"
-    ],
-    "hasPage": true
-  },
   "山水": {
     "cn": "山水",
     "py": "shānshuǐ",
@@ -2271,6 +2429,17 @@
     "appearsOn": [
       "pages/characters/yu3_雨.html",
       "pages/characters/yun2_云.html"
+    ],
+    "hasPage": false
+  },
+  "丝绸之路": {
+    "cn": "丝绸之路",
+    "py": "Sīchóu zhī Lù",
+    "en": "Silk Road",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/xi1_西.html",
+      "pages/religion/topic_yisilan.html"
     ],
     "hasPage": false
   },
@@ -2428,6 +2597,17 @@
     ],
     "hasPage": false
   },
+  "习俗": {
+    "cn": "习俗",
+    "py": "xísú",
+    "en": "custom; practice",
+    "count": 2,
+    "appearsOn": [
+      "pages/vocab/chuantong_传统.html",
+      "pages/vocab/li3_礼.html"
+    ],
+    "hasPage": false
+  },
   "下去": {
     "cn": "下去",
     "py": "xià qù",
@@ -2447,6 +2627,17 @@
     "appearsOn": [
       "pages/religion/topic_mazu.html",
       "pages/religion/topic_zuxian.html"
+    ],
+    "hasPage": false
+  },
+  "小": {
+    "cn": "小",
+    "py": "xiǎo",
+    "en": "small (antonym)",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/da4_大.html",
+      "pages/characters/shao3_少.html"
     ],
     "hasPage": false
   },
@@ -2480,6 +2671,17 @@
     "appearsOn": [
       "pages/history/topic_taiping.html",
       "pages/history/topic_xinhai.html"
+    ],
+    "hasPage": true
+  },
+  "新": {
+    "cn": "新",
+    "py": "xīn",
+    "en": "new; fresh",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/bian4_变.html",
+      "pages/vocab/chuantong_传统.html"
     ],
     "hasPage": true
   },
@@ -2681,17 +2883,6 @@
     ],
     "hasPage": false
   },
-  "长城": {
-    "cn": "长城",
-    "py": "Chángchéng",
-    "en": "the Great Wall",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/chang2_长.html",
-      "pages/history/topic_mingchao.html"
-    ],
-    "hasPage": false
-  },
   "长江": {
     "cn": "长江",
     "py": "Cháng Jiāng",
@@ -2744,6 +2935,17 @@
     "appearsOn": [
       "pages/grammar/jiu_cai_就才.html",
       "pages/grammar/ruguo_ji_如果就.html"
+    ],
+    "hasPage": true
+  },
+  "中": {
+    "cn": "中",
+    "py": "zhōng",
+    "en": "center; middle",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/dong1_东.html",
+      "pages/vocab/zhongguo_中国.html"
     ],
     "hasPage": true
   },
@@ -3022,6 +3224,26 @@
     ],
     "hasPage": false
   },
+  "北方": {
+    "cn": "北方",
+    "py": "běifāng",
+    "en": "the North; northern",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/bei3_北.html"
+    ],
+    "hasPage": false
+  },
+  "北京": {
+    "cn": "北京",
+    "py": "Běijīng",
+    "en": "Beijing",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/nan2_南.html"
+    ],
+    "hasPage": true
+  },
   "北洋军": {
     "cn": "北洋军",
     "py": "Běiyáng Jūn",
@@ -3211,16 +3433,6 @@
       "pages/vocab/chunjie_春节.html"
     ],
     "hasPage": false
-  },
-  "变": {
-    "cn": "变",
-    "py": "biàn",
-    "en": "change; to transform",
-    "count": 1,
-    "appearsOn": [
-      "pages/philosophy/topic_yijing.html"
-    ],
-    "hasPage": true
   },
   "辫子": {
     "cn": "辫子",
@@ -3862,6 +4074,26 @@
     ],
     "hasPage": false
   },
+  "传统节日": {
+    "cn": "传统节日",
+    "py": "chuántǒng jiérì",
+    "en": "traditional festival",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/chuantong_传统.html"
+    ],
+    "hasPage": false
+  },
+  "传统文化": {
+    "cn": "传统文化",
+    "py": "chuántǒng wénhuà",
+    "en": "traditional culture",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/chuantong_传统.html"
+    ],
+    "hasPage": false
+  },
   "闯": {
     "cn": "闯",
     "py": "chuǎng",
@@ -3869,6 +4101,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/jianghu_江湖.html"
+    ],
+    "hasPage": false
+  },
+  "创新": {
+    "cn": "创新",
+    "py": "chuàngxīn",
+    "en": "innovation",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/xin1_新.html"
     ],
     "hasPage": false
   },
@@ -4232,6 +4474,16 @@
     ],
     "hasPage": false
   },
+  "地图": {
+    "cn": "地图",
+    "py": "dìtú",
+    "en": "map",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/dong1_东.html"
+    ],
+    "hasPage": false
+  },
   "登山": {
     "cn": "登山",
     "py": "dēngshān",
@@ -4249,16 +4501,6 @@
     "count": 1,
     "appearsOn": [
       "pages/history/topic_gaige.html"
-    ],
-    "hasPage": false
-  },
-  "低": {
-    "cn": "低",
-    "py": "dī",
-    "en": "low; to lower",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/xia4_下.html"
     ],
     "hasPage": false
   },
@@ -4342,13 +4584,33 @@
     ],
     "hasPage": false
   },
-  "东": {
-    "cn": "东",
-    "py": "dōng",
-    "en": "east",
+  "东北": {
+    "cn": "东北",
+    "py": "dōngběi",
+    "en": "Northeast; Manchuria",
     "count": 1,
     "appearsOn": [
-      "pages/characters/zhong1_中.html"
+      "pages/characters/bei3_北.html"
+    ],
+    "hasPage": false
+  },
+  "东道主": {
+    "cn": "东道主",
+    "py": "dōngdàozhǔ",
+    "en": "host",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/dong1_东.html"
+    ],
+    "hasPage": false
+  },
+  "东方": {
+    "cn": "东方",
+    "py": "dōngfāng",
+    "en": "the East; Orient",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/dong1_东.html"
     ],
     "hasPage": false
   },
@@ -4359,6 +4621,16 @@
     "count": 1,
     "appearsOn": [
       "pages/history/topic_mingchao.html"
+    ],
+    "hasPage": false
+  },
+  "冬": {
+    "cn": "冬",
+    "py": "dōng",
+    "en": "winter",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/bei3_北.html"
     ],
     "hasPage": false
   },
@@ -4462,13 +4734,23 @@
     ],
     "hasPage": false
   },
-  "多少": {
-    "cn": "多少",
-    "py": "duōshao",
-    "en": "how many / how much",
+  "多": {
+    "cn": "多",
+    "py": "duō",
+    "en": "many; much; more",
     "count": 1,
     "appearsOn": [
-      "pages/grammar/liangci_量词.html"
+      "pages/characters/shao3_少.html"
+    ],
+    "hasPage": true
+  },
+  "多元": {
+    "cn": "多元",
+    "py": "duōyuán",
+    "en": "diverse; pluralistic",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/duo1_多.html"
     ],
     "hasPage": false
   },
@@ -4912,13 +5194,23 @@
     ],
     "hasPage": false
   },
-  "高考": {
-    "cn": "高考",
-    "py": "gāokǎo",
-    "en": "college entrance exam",
+  "高手": {
+    "cn": "高手",
+    "py": "gāoshǒu",
+    "en": "expert; master",
     "count": 1,
     "appearsOn": [
-      "pages/characters/xue2_学.html"
+      "pages/characters/gao1_高.html"
+    ],
+    "hasPage": false
+  },
+  "高兴": {
+    "cn": "高兴",
+    "py": "gāoxìng",
+    "en": "happy; glad",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/gao1_高.html"
     ],
     "hasPage": false
   },
@@ -5009,6 +5301,16 @@
     "count": 1,
     "appearsOn": [
       "pages/grammar/lian_dou_连都.html"
+    ],
+    "hasPage": false
+  },
+  "更新": {
+    "cn": "更新",
+    "py": "gēngxīn",
+    "en": "to update; to renew",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/xin1_新.html"
     ],
     "hasPage": false
   },
@@ -5542,16 +5844,6 @@
     ],
     "hasPage": false
   },
-  "很多": {
-    "cn": "很多",
-    "py": "hěn duō",
-    "en": "many, a lot",
-    "count": 1,
-    "appearsOn": [
-      "pages/grammar/liangci_量词.html"
-    ],
-    "hasPage": false
-  },
   "红巾军": {
     "cn": "红巾军",
     "py": "Hóngjīnjūn",
@@ -5912,6 +6204,16 @@
     ],
     "hasPage": false
   },
+  "继承": {
+    "cn": "继承",
+    "py": "jìchéng",
+    "en": "to inherit; inheritance",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/chuantong_传统.html"
+    ],
+    "hasPage": false
+  },
   "继续": {
     "cn": "继续",
     "py": "jìxù",
@@ -6049,6 +6351,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/gongfu_功夫.html"
+    ],
+    "hasPage": false
+  },
+  "减少": {
+    "cn": "减少",
+    "py": "jiǎnshǎo",
+    "en": "to reduce",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/shao3_少.html"
     ],
     "hasPage": false
   },
@@ -6432,16 +6744,6 @@
     ],
     "hasPage": false
   },
-  "旧": {
-    "cn": "旧",
-    "py": "jiù",
-    "en": "old; former; used",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/bian4_变.html"
-    ],
-    "hasPage": false
-  },
   "就": {
     "cn": "就",
     "py": "jiù",
@@ -6779,6 +7081,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/yu3_语.html"
+    ],
+    "hasPage": false
+  },
+  "快": {
+    "cn": "快",
+    "py": "kuài",
+    "en": "fast; soon",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/duo1_多.html"
     ],
     "hasPage": false
   },
@@ -7809,6 +8121,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/dongxi_东西.html"
+    ],
+    "hasPage": false
+  },
+  "南方": {
+    "cn": "南方",
+    "py": "nánfāng",
+    "en": "the South; southern",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/nan2_南.html"
     ],
     "hasPage": false
   },
@@ -8872,6 +9194,36 @@
     ],
     "hasPage": false
   },
+  "少": {
+    "cn": "少",
+    "py": "shǎo",
+    "en": "few; little; young",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/duo1_多.html"
+    ],
+    "hasPage": true
+  },
+  "少年": {
+    "cn": "少年",
+    "py": "shàonián",
+    "en": "youth; adolescent",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/shao3_少.html"
+    ],
+    "hasPage": false
+  },
+  "少数民族": {
+    "cn": "少数民族",
+    "py": "shǎoshù mínzú",
+    "en": "ethnic minority",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/shao3_少.html"
+    ],
+    "hasPage": false
+  },
   "社会主义": {
     "cn": "社会主义",
     "py": "shèhuì zhǔyì",
@@ -9432,16 +9784,6 @@
     ],
     "hasPage": false
   },
-  "丝绸之路": {
-    "cn": "丝绸之路",
-    "py": "sīchóu zhīlù",
-    "en": "Silk Road",
-    "count": 1,
-    "appearsOn": [
-      "pages/religion/topic_yisilan.html"
-    ],
-    "hasPage": false
-  },
   "思": {
     "cn": "思",
     "py": "sī",
@@ -9699,6 +10041,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/ming2_明.html"
+    ],
+    "hasPage": false
+  },
+  "提高": {
+    "cn": "提高",
+    "py": "tígāo",
+    "en": "to improve; to raise",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/gao1_高.html"
     ],
     "hasPage": false
   },
@@ -10392,13 +10744,23 @@
     ],
     "hasPage": false
   },
-  "西": {
-    "cn": "西",
-    "py": "xī",
-    "en": "west",
+  "西餐": {
+    "cn": "西餐",
+    "py": "xīcān",
+    "en": "Western food",
     "count": 1,
     "appearsOn": [
-      "pages/characters/zhong1_中.html"
+      "pages/characters/xi1_西.html"
+    ],
+    "hasPage": false
+  },
+  "西方": {
+    "cn": "西方",
+    "py": "xīfāng",
+    "en": "the West; western",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/xi1_西.html"
     ],
     "hasPage": false
   },
@@ -10429,16 +10791,6 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/yao4_要.html"
-    ],
-    "hasPage": false
-  },
-  "习俗": {
-    "cn": "习俗",
-    "py": "xísú",
-    "en": "customs; traditions",
-    "count": 1,
-    "appearsOn": [
-      "pages/vocab/li3_礼.html"
     ],
     "hasPage": false
   },
@@ -10592,6 +10944,16 @@
     ],
     "hasPage": false
   },
+  "现代": {
+    "cn": "现代",
+    "py": "xiàndài",
+    "en": "modern; contemporary",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/chuantong_传统.html"
+    ],
+    "hasPage": false
+  },
   "现代化": {
     "cn": "现代化",
     "py": "xiàndàihuà",
@@ -10719,16 +11081,6 @@
     "count": 1,
     "appearsOn": [
       "pages/religion/topic_daojiao.html"
-    ],
-    "hasPage": false
-  },
-  "小": {
-    "cn": "小",
-    "py": "xiǎo",
-    "en": "small (antonym)",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/da4_大.html"
     ],
     "hasPage": false
   },
@@ -10892,13 +11244,13 @@
     ],
     "hasPage": false
   },
-  "新": {
-    "cn": "新",
-    "py": "xīn",
-    "en": "new; fresh",
+  "新年": {
+    "cn": "新年",
+    "py": "xīnnián",
+    "en": "New Year",
     "count": 1,
     "appearsOn": [
-      "pages/characters/bian4_变.html"
+      "pages/characters/xin1_新.html"
     ],
     "hasPage": false
   },
@@ -10919,6 +11271,16 @@
     "count": 1,
     "appearsOn": [
       "pages/history/topic_xinhai.html"
+    ],
+    "hasPage": false
+  },
+  "新鲜": {
+    "cn": "新鲜",
+    "py": "xīnxiān",
+    "en": "fresh; novel",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/xin1_新.html"
     ],
     "hasPage": false
   },
@@ -12382,6 +12744,16 @@
     ],
     "hasPage": false
   },
+  "指南针": {
+    "cn": "指南针",
+    "py": "zhǐnánzhēn",
+    "en": "compass",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/nan2_南.html"
+    ],
+    "hasPage": false
+  },
   "指示代词": {
     "cn": "指示代词",
     "py": "zhǐshì dàicí",
@@ -12389,6 +12761,16 @@
     "count": 1,
     "appearsOn": [
       "pages/grammar/liangci_量词.html"
+    ],
+    "hasPage": false
+  },
+  "至少": {
+    "cn": "至少",
+    "py": "zhìshǎo",
+    "en": "at least",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/shao3_少.html"
     ],
     "hasPage": false
   },
@@ -12431,16 +12813,6 @@
       "pages/characters/zhi4_智.html"
     ],
     "hasPage": false
-  },
-  "中": {
-    "cn": "中",
-    "py": "zhōng",
-    "en": "center, middle",
-    "count": 1,
-    "appearsOn": [
-      "pages/vocab/zhongguo_中国.html"
-    ],
-    "hasPage": true
   },
   "中国梦": {
     "cn": "中国梦",

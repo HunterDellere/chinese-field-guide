@@ -21,6 +21,63 @@
     "updated": "2026-04-25"
   },
   {
+    "path": "pages/characters/bei3_北.html",
+    "type": "character",
+    "category": "characters",
+    "title": "北 · north; northern; to flee",
+    "desc": "Two people standing back-to-back — the direction of cold and turning away that became the name of China's capital.",
+    "tags": [
+      "directions",
+      "nature",
+      "cosmology"
+    ],
+    "status": "complete",
+    "char": "北",
+    "pinyin": "běi",
+    "tone": 3,
+    "hsk": 2,
+    "radical": "匕",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/characters/dong1_东.html",
+    "type": "character",
+    "category": "characters",
+    "title": "东 · east; eastern",
+    "desc": "The sun rising behind a tree — and the direction that anchored China's cosmological, political, and poetic imagination.",
+    "tags": [
+      "directions",
+      "nature",
+      "cosmology"
+    ],
+    "status": "complete",
+    "char": "东",
+    "pinyin": "dōng",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "一",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/characters/duo1_多.html",
+    "type": "character",
+    "category": "characters",
+    "title": "多 · many; much; more; how",
+    "desc": "Two evenings stacked — the character that encodes abundance, comparison, and the most common question about quantity in Mandarin.",
+    "tags": [
+      "adjectives",
+      "scale",
+      "grammar"
+    ],
+    "status": "complete",
+    "char": "多",
+    "pinyin": "duō",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "夕",
+    "updated": "2026-04-25"
+  },
+  {
     "path": "pages/characters/er3_耳.html",
     "type": "character",
     "category": "characters",
@@ -37,6 +94,24 @@
     "tone": 3,
     "hsk": 4,
     "radical": "耳",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/characters/gao1_高.html",
+    "type": "character",
+    "category": "characters",
+    "title": "高 · tall; high; elevated; surname",
+    "desc": "A tall palace gate rising above the ground — and the character that anchors Chinese words for excellence, happiness, and examination pressure simultaneously.",
+    "tags": [
+      "adjectives",
+      "scale"
+    ],
+    "status": "complete",
+    "char": "高",
+    "pinyin": "gāo",
+    "tone": 1,
+    "hsk": 2,
+    "radical": "高",
     "updated": "2026-04-25"
   },
   {
@@ -156,6 +231,44 @@
     "updated": "2026-04-25"
   },
   {
+    "path": "pages/characters/nan2_南.html",
+    "type": "character",
+    "category": "characters",
+    "title": "南 · south; southern",
+    "desc": "The direction that Chinese buildings face and emperors receive guests — warmth, productivity, and the seat of imperial ritual power.",
+    "tags": [
+      "directions",
+      "nature",
+      "cosmology"
+    ],
+    "status": "complete",
+    "char": "南",
+    "pinyin": "nán",
+    "tone": 2,
+    "hsk": 2,
+    "radical": "十",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/characters/shao3_少.html",
+    "type": "character",
+    "category": "characters",
+    "title": "少 · few; little; young",
+    "desc": "Small with a stroke removed — the character for scarcity that doubles as the word for youth when read in falling tone.",
+    "tags": [
+      "adjectives",
+      "scale",
+      "grammar"
+    ],
+    "status": "complete",
+    "char": "少",
+    "pinyin": "shǎo",
+    "tone": 3,
+    "hsk": 1,
+    "radical": "小",
+    "updated": "2026-04-25"
+  },
+  {
     "path": "pages/characters/si3_死.html",
     "type": "character",
     "category": "characters",
@@ -198,6 +311,45 @@
     "updated": "2026-04-25"
   },
   {
+    "path": "pages/characters/xi1_西.html",
+    "type": "character",
+    "category": "characters",
+    "title": "西 · west; western",
+    "desc": "A bird settling into its nest at sunset — the direction that gave Chinese the word for \"things\" when it paired with east.",
+    "tags": [
+      "directions",
+      "nature",
+      "cosmology",
+      "buddhism"
+    ],
+    "status": "complete",
+    "char": "西",
+    "pinyin": "xī",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "西",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/characters/xin1_新.html",
+    "type": "character",
+    "category": "characters",
+    "title": "新 · new; fresh; recently; novel",
+    "desc": "Chopping fresh wood with an axe — the character whose compounds span New Year greetings, fresh produce, marriage, and the great question of what counts as modern.",
+    "tags": [
+      "adjectives",
+      "change",
+      "modern"
+    ],
+    "status": "complete",
+    "char": "新",
+    "pinyin": "xīn",
+    "tone": 1,
+    "hsk": 2,
+    "radical": "斤",
+    "updated": "2026-04-25"
+  },
+  {
     "path": "pages/characters/zu2_足.html",
     "type": "character",
     "category": "characters",
@@ -232,147 +384,5 @@
     "status": "complete",
     "pinyin": "Duānwǔ jié",
     "updated": "2026-04-25"
-  },
-  {
-    "path": "pages/grammar/zhe_particle_呢.html",
-    "type": "grammar",
-    "category": "grammar",
-    "title": "呢 · the continuation and reciprocal-question particle",
-    "desc": "The particle that turns a finished sentence into an open conversation: softens questions, returns them to the asker, and lets a state hang in the air.",
-    "tags": [
-      "particle",
-      "pragmatics",
-      "spoken"
-    ],
-    "status": "complete",
-    "pinyin": "ne",
-    "updated": "2026-04-25"
-  },
-  {
-    "path": "pages/vocab/guojia_国家.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "国家 · nation; state; country",
-    "desc": "A compound of the two most culturally loaded characters in Chinese — country and family — that encodes the Confucian political imagination in two syllables.",
-    "tags": [
-      "politics",
-      "society",
-      "confucianism",
-      "history"
-    ],
-    "status": "complete",
-    "pinyin": "guójiā",
-    "updated": "2026-04-25"
-  },
-  {
-    "path": "pages/vocab/wenhua_文化.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "文化 · culture; civilization",
-    "desc": "The word that names the organizing project of this entire site — and a concept that Chinese thought built from the ground up differently than the West did.",
-    "tags": [
-      "culture",
-      "society",
-      "language",
-      "history"
-    ],
-    "status": "complete",
-    "pinyin": "wénhuà",
-    "updated": "2026-04-25"
-  },
-  {
-    "path": "pages/vocab/zhongguo_中国.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "中国 · the Middle Kingdom; China",
-    "desc": "Two characters older than the country they now name. 中 (center) and 国 (state) joined three thousand years ago to mean \"the central states\"; the modern country took the phrase for itself only in the 19th century.",
-    "tags": [
-      "history",
-      "geography",
-      "culture",
-      "politics",
-      "cosmology"
-    ],
-    "status": "complete",
-    "pinyin": "Zhōngguó",
-    "updated": "2026-04-25"
-  },
-  {
-    "path": "pages/characters/feng1_风.html",
-    "type": "character",
-    "category": "characters",
-    "title": "风 · wind; style; custom",
-    "desc": "The character that moves crops, carries seeds, and became the Chinese word for cultural character itself.",
-    "tags": [
-      "nature",
-      "culture",
-      "cosmology"
-    ],
-    "status": "complete",
-    "char": "风",
-    "pinyin": "fēng",
-    "tone": 1,
-    "hsk": 3,
-    "radical": "风",
-    "updated": "2026-04-22"
-  },
-  {
-    "path": "pages/characters/lai2_来.html",
-    "type": "character",
-    "category": "characters",
-    "title": "来 · to come, to arrive, toward the speaker",
-    "desc": "Oracle bone wheat plant turned direction-word — 来 pulls everything toward the speaker, including time itself.",
-    "tags": [
-      "direction",
-      "motion",
-      "grammar"
-    ],
-    "status": "complete",
-    "char": "来",
-    "pinyin": "lái",
-    "tone": 2,
-    "hsk": 1,
-    "radical": "木",
-    "updated": "2026-04-22"
-  },
-  {
-    "path": "pages/characters/qi2_其.html",
-    "type": "character",
-    "category": "characters",
-    "title": "其 · its, that, their",
-    "desc": "A winnowing basket that became the pronoun holding classical Chinese together — the silent 'its' behind thousands of literary phrases.",
-    "tags": [
-      "grammar",
-      "classical",
-      "literary",
-      "particle",
-      "language"
-    ],
-    "status": "complete",
-    "char": "其",
-    "pinyin": "qí",
-    "tone": 2,
-    "hsk": 4,
-    "radical": "八",
-    "updated": "2026-04-22"
-  },
-  {
-    "path": "pages/characters/qu4_去.html",
-    "type": "character",
-    "category": "characters",
-    "title": "去 · to go, to leave, to depart, to remove",
-    "desc": "The character that marks every departure — from leaving the house to the euphemism for death, 去 is the verb of things moving away.",
-    "tags": [
-      "direction",
-      "motion",
-      "grammar"
-    ],
-    "status": "complete",
-    "char": "去",
-    "pinyin": "qù",
-    "tone": 4,
-    "hsk": 1,
-    "radical": "厶",
-    "updated": "2026-04-22"
   }
 ]

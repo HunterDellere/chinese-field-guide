@@ -21,6 +21,63 @@
     "updated": "2026-04-25"
   },
   {
+    "path": "pages/characters/bei3_北.html",
+    "type": "character",
+    "category": "characters",
+    "title": "北 · north; northern; to flee",
+    "desc": "Two people standing back-to-back — the direction of cold and turning away that became the name of China's capital.",
+    "tags": [
+      "directions",
+      "nature",
+      "cosmology"
+    ],
+    "status": "complete",
+    "char": "北",
+    "pinyin": "běi",
+    "tone": 3,
+    "hsk": 2,
+    "radical": "匕",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/characters/dong1_东.html",
+    "type": "character",
+    "category": "characters",
+    "title": "东 · east; eastern",
+    "desc": "The sun rising behind a tree — and the direction that anchored China's cosmological, political, and poetic imagination.",
+    "tags": [
+      "directions",
+      "nature",
+      "cosmology"
+    ],
+    "status": "complete",
+    "char": "东",
+    "pinyin": "dōng",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "一",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/characters/duo1_多.html",
+    "type": "character",
+    "category": "characters",
+    "title": "多 · many; much; more; how",
+    "desc": "Two evenings stacked — the character that encodes abundance, comparison, and the most common question about quantity in Mandarin.",
+    "tags": [
+      "adjectives",
+      "scale",
+      "grammar"
+    ],
+    "status": "complete",
+    "char": "多",
+    "pinyin": "duō",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "夕",
+    "updated": "2026-04-25"
+  },
+  {
     "path": "pages/characters/er3_耳.html",
     "type": "character",
     "category": "characters",
@@ -37,6 +94,24 @@
     "tone": 3,
     "hsk": 4,
     "radical": "耳",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/characters/gao1_高.html",
+    "type": "character",
+    "category": "characters",
+    "title": "高 · tall; high; elevated; surname",
+    "desc": "A tall palace gate rising above the ground — and the character that anchors Chinese words for excellence, happiness, and examination pressure simultaneously.",
+    "tags": [
+      "adjectives",
+      "scale"
+    ],
+    "status": "complete",
+    "char": "高",
+    "pinyin": "gāo",
+    "tone": 1,
+    "hsk": 2,
+    "radical": "高",
     "updated": "2026-04-25"
   },
   {
@@ -156,6 +231,44 @@
     "updated": "2026-04-25"
   },
   {
+    "path": "pages/characters/nan2_南.html",
+    "type": "character",
+    "category": "characters",
+    "title": "南 · south; southern",
+    "desc": "The direction that Chinese buildings face and emperors receive guests — warmth, productivity, and the seat of imperial ritual power.",
+    "tags": [
+      "directions",
+      "nature",
+      "cosmology"
+    ],
+    "status": "complete",
+    "char": "南",
+    "pinyin": "nán",
+    "tone": 2,
+    "hsk": 2,
+    "radical": "十",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/characters/shao3_少.html",
+    "type": "character",
+    "category": "characters",
+    "title": "少 · few; little; young",
+    "desc": "Small with a stroke removed — the character for scarcity that doubles as the word for youth when read in falling tone.",
+    "tags": [
+      "adjectives",
+      "scale",
+      "grammar"
+    ],
+    "status": "complete",
+    "char": "少",
+    "pinyin": "shǎo",
+    "tone": 3,
+    "hsk": 1,
+    "radical": "小",
+    "updated": "2026-04-25"
+  },
+  {
     "path": "pages/characters/si3_死.html",
     "type": "character",
     "category": "characters",
@@ -195,6 +308,45 @@
     "tone": 2,
     "hsk": 4,
     "radical": "无",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/characters/xi1_西.html",
+    "type": "character",
+    "category": "characters",
+    "title": "西 · west; western",
+    "desc": "A bird settling into its nest at sunset — the direction that gave Chinese the word for \"things\" when it paired with east.",
+    "tags": [
+      "directions",
+      "nature",
+      "cosmology",
+      "buddhism"
+    ],
+    "status": "complete",
+    "char": "西",
+    "pinyin": "xī",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "西",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/characters/xin1_新.html",
+    "type": "character",
+    "category": "characters",
+    "title": "新 · new; fresh; recently; novel",
+    "desc": "Chopping fresh wood with an axe — the character whose compounds span New Year greetings, fresh produce, marriage, and the great question of what counts as modern.",
+    "tags": [
+      "adjectives",
+      "change",
+      "modern"
+    ],
+    "status": "complete",
+    "char": "新",
+    "pinyin": "xīn",
+    "tone": 1,
+    "hsk": 2,
+    "radical": "斤",
     "updated": "2026-04-25"
   },
   {
@@ -298,6 +450,21 @@
     ],
     "status": "complete",
     "pinyin": "ne",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/vocab/chuantong_传统.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "传统 · tradition; traditional",
+    "desc": "The thread passed down through generations — and the concept that sits at the center of every Chinese debate about modernity, identity, and what to keep.",
+    "tags": [
+      "culture",
+      "history",
+      "confucianism"
+    ],
+    "status": "complete",
+    "pinyin": "chuántǒng",
     "updated": "2026-04-25"
   },
   {
