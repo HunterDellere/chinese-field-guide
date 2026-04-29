@@ -1,5 +1,63 @@
 [
   {
+    "path": "pages/characters/ren4_认.html",
+    "type": "character",
+    "category": "characters",
+    "title": "认 · to recognize, to acknowledge",
+    "desc": "The act of recognition — knowing something for what it is, owning up to it, and the small set of compounds that turn this on the world, on others, and on oneself.",
+    "tags": [
+      "knowing",
+      "mind",
+      "ethics"
+    ],
+    "status": "complete",
+    "char": "认",
+    "pinyin": "rèn",
+    "tone": 4,
+    "hsk": {
+      "from": 1,
+      "to": 3
+    },
+    "radical": "讠",
+    "updated": "2026-04-28"
+  },
+  {
+    "path": "pages/characters/zhen1_真.html",
+    "type": "character",
+    "category": "characters",
+    "title": "真 · real, true, genuine",
+    "desc": "Truth not as accuracy but as authenticity — the unadorned thing itself, prized in Daoist self-cultivation and in everyday emphasis.",
+    "tags": [
+      "knowing",
+      "daoism",
+      "philosophy",
+      "virtue"
+    ],
+    "status": "complete",
+    "char": "真",
+    "pinyin": "zhēn",
+    "tone": 1,
+    "hsk": 2,
+    "radical": "目",
+    "updated": "2026-04-28"
+  },
+  {
+    "path": "pages/vocab/renzhen_认真.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "认真 · earnest, conscientious, taking it seriously",
+    "desc": "To recognize the 真 of a thing and engage with it on its own terms — the everyday word for taking work, study, and other people seriously rather than going through motions.",
+    "tags": [
+      "virtue",
+      "ethics",
+      "knowing",
+      "daily-life"
+    ],
+    "status": "complete",
+    "pinyin": "rènzhēn",
+    "updated": "2026-04-28"
+  },
+  {
     "path": "pages/arts/topic_jingju_roles.html",
     "type": "topic",
     "category": "arts",

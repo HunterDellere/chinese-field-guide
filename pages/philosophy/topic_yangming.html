@@ -9,6 +9,8 @@
 <meta name="theme-color" content="#1c1208" id="meta-theme-color">
 <!-- Flash-of-wrong-theme prevention: read localStorage before first paint -->
 <script>(function(){try{var t=localStorage.getItem('shuwo-theme');if(t==='dark'||t==='light'){document.documentElement.setAttribute('data-theme',t);}else if(!t&&window.matchMedia('(prefers-color-scheme: dark)').matches){document.documentElement.setAttribute('data-theme','dark');}}catch(e){}})();</script>
+<!-- Admin gating: any element with class .admin-only is hidden by default and shown only when localStorage.shuwo-admin === '1'. Set on the <html> root so CSS can target without FOUC. URL ?admin=1 grants; ?admin=0 revokes; key sequence "shu" toggles. -->
+<script>(function(){try{var u=new URLSearchParams(location.search);var v=u.get('admin');if(v==='1'){localStorage.setItem('shuwo-admin','1');}else if(v==='0'){localStorage.removeItem('shuwo-admin');}if(localStorage.getItem('shuwo-admin')==='1')document.documentElement.setAttribute('data-admin','1');}catch(e){}})();</script>
 <meta name="apple-mobile-web-app-title" content="角落書屋">
 <meta name="application-name" content="角落書屋">
 <link rel="alternate" type="application/rss+xml" title="Jiǎoluò Shūwū · 角落書屋" href="../../feed.xml">
@@ -387,10 +389,10 @@
         <a class="related-card" href="../vocab/liangxin_良心.html" data-category="vocab"><span class="rc-head"><span class="rc-cn">良心</span><span class="rc-py">liángxīn</span></span><span class="rc-en">conscience; innate moral sense</span><span class="rc-detail">The good heart-mind: the Chinese word for conscience carries a philosophical claim that moral knowledge is a natural endowment, not an acquired rule.</span><span class="rl-reason rl-reason-tag">theme · wang-yangming</span></a>
         <a class="related-card" href="topic_xinxue.html" data-category="philosophy"><span class="rc-head"><span class="rc-cn">心学</span><span class="rc-py">xīnxué</span></span><span class="rc-en">Wang Yangming</span><span class="rc-detail">Innate knowing 良知 and the unity of knowledge and action.</span><span class="rl-reason rl-reason-tag">theme · wang-yangming</span></a>
         <a class="related-card" href="../characters/wang2_王.html" data-category="characters"><span class="rc-head"><span class="rc-cn">王</span><span class="rc-py">wáng</span></span><span class="rc-en">king</span><span class="rc-detail">Three horizontals joined by one vertical — the ruler who connects heaven, earth, and humanity. Also the most common Chinese surname, and a radical that is secretly 玉 (jade) in disguise.</span><span class="rl-reason rl-reason-contains">in 王</span></a>
+        <a class="related-card" href="../characters/ren4_认.html" data-category="characters"><span class="rc-head"><span class="rc-cn">认</span><span class="rc-py">rèn</span></span><span class="rc-en">to recognize, to acknowledge</span><span class="rc-detail">The act of recognition — knowing something for what it is, owning up to it, and the small set of compounds that turn this on the world, on others, and on oneself.</span><span class="rl-reason rl-reason-tag">theme · knowing</span></a>
         <a class="related-card" href="../characters/ming2_明.html" data-category="characters"><span class="rc-head"><span class="rc-cn">明</span><span class="rc-py">míng</span></span><span class="rc-en">bright, clear, tomorrow</span><span class="rc-detail">Sun and moon combined — brightness, clarity, dawn, and understanding.</span><span class="rl-reason rl-reason-contains">in 明</span></a>
         <a class="related-card" href="../characters/shan4_善.html" data-category="characters"><span class="rc-head"><span class="rc-cn">善</span><span class="rc-py">shàn</span></span><span class="rc-en">goodness; virtue; skilled</span><span class="rc-detail">The character at the heart of Mencius argument that human nature is originally good — the moral sprouts waiting to be cultivated.</span><span class="rl-reason rl-reason-tag">theme · human-nature</span></a>
         <a class="related-card" href="topic_mojia.html" data-category="philosophy"><span class="rc-head"><span class="rc-cn">墨家</span><span class="rc-py">Mòjiā</span></span><span class="rc-en">Mohism</span><span class="rc-detail">The one Chinese philosophical school that fielded an army of engineers and nearly matched Confucianism in institutional scale before vanishing for fifteen centuries.</span><span class="rl-reason rl-reason-tag">theme · ethics</span></a>
-        <a class="related-card" href="../vocab/zhihui_智慧.html" data-category="vocab"><span class="rc-head"><span class="rc-cn">智慧</span><span class="rc-py">zhìhuì</span></span><span class="rc-en">wisdom; prajna</span><span class="rc-detail">智慧 brings together Confucian moral discernment and Buddhist prajna under one compound — two traditions, one word, different objects of knowing.</span><span class="rl-reason rl-reason-tag">theme · knowing</span></a>
         <a class="related-card" href="topic_zhengming.html" data-category="philosophy"><span class="rc-head"><span class="rc-cn">正名</span><span class="rc-py">zhèngmíng</span></span><span class="rc-en">Rectification of Names</span><span class="rc-detail">Confucius told Zilu that governing begins with calling things by their right names — because a ruler who does not rule like a ruler has no claim to the title 君.</span><span class="rl-reason rl-reason-tag">theme · ethics</span></a>
       </div>
       <div class="related-chips-tier">
@@ -463,6 +465,11 @@
     </footer>
   </main>
 </div>
+
+<!-- Admin mode indicator: visible only when html[data-admin="1"]. Click to log out. -->
+<button type="button" class="admin-indicator" aria-label="Admin mode active — click to log out" onclick="try{localStorage.removeItem('shuwo-admin');location.reload();}catch(e){}">
+  ◉ admin
+</button>
 
 <script src="../../scripts/toc-scroll.js"></script>
 <script src="../../scripts/enhance.js" defer></script>

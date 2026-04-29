@@ -9,6 +9,8 @@
 <meta name="theme-color" content="#1c1208" id="meta-theme-color">
 <!-- Flash-of-wrong-theme prevention: read localStorage before first paint -->
 <script>(function(){try{var t=localStorage.getItem('shuwo-theme');if(t==='dark'||t==='light'){document.documentElement.setAttribute('data-theme',t);}else if(!t&&window.matchMedia('(prefers-color-scheme: dark)').matches){document.documentElement.setAttribute('data-theme','dark');}}catch(e){}})();</script>
+<!-- Admin gating: any element with class .admin-only is hidden by default and shown only when localStorage.shuwo-admin === '1'. Set on the <html> root so CSS can target without FOUC. URL ?admin=1 grants; ?admin=0 revokes; key sequence "shu" toggles. -->
+<script>(function(){try{var u=new URLSearchParams(location.search);var v=u.get('admin');if(v==='1'){localStorage.setItem('shuwo-admin','1');}else if(v==='0'){localStorage.removeItem('shuwo-admin');}if(localStorage.getItem('shuwo-admin')==='1')document.documentElement.setAttribute('data-admin','1');}catch(e){}})();</script>
 <meta name="apple-mobile-web-app-title" content="角落書屋">
 <meta name="application-name" content="角落書屋">
 <link rel="alternate" type="application/rss+xml" title="Jiǎoluò Shūwū · 角落書屋" href="../../feed.xml">
@@ -160,7 +162,7 @@
       <span class="label">三个位置 sān gè wèizhì · A positional mnemonic</span>
       <strong>X + 的 + Noun</strong> → 漂亮<strong>的</strong>花 / <a class="auto-link" href="../characters/wo3_我.html">我</a><strong>的</strong><a class="auto-link" href="../characters/shu1_书.html">书</a> · 的 precedes a noun it modifies<br>
       <strong>Verb + <a class="auto-link" href="de_degree_得.html">得</a> + Complement</strong> → <a class="auto-link" href="../characters/shuo1_说.html">说</a><strong><a class="auto-link" href="de_degree_得.html">得</a></strong>很清楚 / 跑<strong>得</strong><a class="auto-link" href="../characters/kuai4_快.html">快</a> · 得 links a verb to its degree or result<br>
-      <strong>Adverb/Adj + <a class="auto-link" href="../characters/di4_地.html">地</a> + Verb</strong> → 慢慢<strong><a class="auto-link" href="../characters/di4_地.html">地</a></strong><a class="auto-link" href="../characters/zou3_走.html">走</a> / 认真<strong>地</strong><a class="auto-link" href="../characters/xue2_学.html">学</a> · 地 connects a manner adverb to the verb it modifies
+      <strong>Adverb/Adj + <a class="auto-link" href="../characters/di4_地.html">地</a> + Verb</strong> → 慢慢<strong><a class="auto-link" href="../characters/di4_地.html">地</a></strong><a class="auto-link" href="../characters/zou3_走.html">走</a> / <a class="auto-link" href="../vocab/renzhen_认真.html">认真</a><strong>地</strong><a class="auto-link" href="../characters/xue2_学.html">学</a> · 地 connects a manner adverb to the verb it modifies
     </div>
 
     <div class="scholar" data-glyph="得">
@@ -469,7 +471,7 @@
             <div class="ex-en">He knocked lightly on the door.</div>
           </div>
           <div class="example">
-            <div class="ex-cn">请你认真地听我说。</div>
+            <div class="ex-cn">请你<a class="auto-link" href="../vocab/renzhen_认真.html">认真</a>地听我说。</div>
             <div class="ex-py">Qǐng nǐ rènzhēn de tīng wǒ shuō.</div>
             <div class="ex-en">Please listen to me seriously / attentively.</div>
           </div>
@@ -559,7 +561,7 @@
             <td>Before verb (after adverb)</td>
             <td>Links manner adverb to the following verb; always sandwiched between adverb and verb</td>
             <td>Is this word describing how a verb will be done?</td>
-            <td>慢慢<strong>地</strong><a class="auto-link" href="../characters/zou3_走.html">走</a> · 认真<strong>地</strong><a class="auto-link" href="../characters/xue2_学.html">学</a> · 高兴<strong>地</strong>笑</td>
+            <td>慢慢<strong>地</strong><a class="auto-link" href="../characters/zou3_走.html">走</a> · <a class="auto-link" href="../vocab/renzhen_认真.html">认真</a><strong>地</strong><a class="auto-link" href="../characters/xue2_学.html">学</a> · 高兴<strong>地</strong>笑</td>
           </tr>
         </tbody>
       </table>
@@ -686,6 +688,11 @@
     </footer>
   </main>
 </div>
+
+<!-- Admin mode indicator: visible only when html[data-admin="1"]. Click to log out. -->
+<button type="button" class="admin-indicator" aria-label="Admin mode active — click to log out" onclick="try{localStorage.removeItem('shuwo-admin');location.reload();}catch(e){}">
+  ◉ admin
+</button>
 
 <script src="../../scripts/toc-scroll.js"></script>
 <script src="../../scripts/enhance.js" defer></script>

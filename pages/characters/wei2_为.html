@@ -9,6 +9,8 @@
 <meta name="theme-color" content="#1c1208" id="meta-theme-color">
 <!-- Flash-of-wrong-theme prevention: read localStorage before first paint -->
 <script>(function(){try{var t=localStorage.getItem('shuwo-theme');if(t==='dark'||t==='light'){document.documentElement.setAttribute('data-theme',t);}else if(!t&&window.matchMedia('(prefers-color-scheme: dark)').matches){document.documentElement.setAttribute('data-theme','dark');}}catch(e){}})();</script>
+<!-- Admin gating: any element with class .admin-only is hidden by default and shown only when localStorage.shuwo-admin === '1'. Set on the <html> root so CSS can target without FOUC. URL ?admin=1 grants; ?admin=0 revokes; key sequence "shu" toggles. -->
+<script>(function(){try{var u=new URLSearchParams(location.search);var v=u.get('admin');if(v==='1'){localStorage.setItem('shuwo-admin','1');}else if(v==='0'){localStorage.removeItem('shuwo-admin');}if(localStorage.getItem('shuwo-admin')==='1')document.documentElement.setAttribute('data-admin','1');}catch(e){}})();</script>
 <meta name="apple-mobile-web-app-title" content="角落書屋">
 <meta name="application-name" content="角落書屋">
 <link rel="alternate" type="application/rss+xml" title="Jiǎoluò Shūwū · 角落書屋" href="../../feed.xml">
@@ -210,7 +212,7 @@
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          认 rèn (to recognize; to take as) + 为 wéi (to be; to take as). Literally "to take X as [one's view of the matter]." The most common compound for expressing personal opinion in modern Chinese — 我认为 wǒ rènwéi (I think that...) is the standard opener for stating a perspective in speech or writing. Not the tentative hedge of 觉得 juéde, but a more settled assertion of one's considered position.
+          <a class="auto-link" href="ren4_认.html">认</a> rèn (to recognize; to take as) + 为 wéi (to be; to take as). Literally "to take X as [one's view of the matter]." The most common compound for expressing personal opinion in modern Chinese — 我认为 wǒ rènwéi (I think that...) is the standard opener for stating a perspective in speech or writing. Not the tentative hedge of 觉得 juéde, but a more settled assertion of one's considered position.
         </div>
         <div class="examples">
           <div class="example">
@@ -243,7 +245,7 @@
         </div>
         <div class="examples">
           <div class="example">
-            <div class="ex-cn">作为学生，你应该认真学习。</div>
+            <div class="ex-cn">作为学生，你应该<a class="auto-link" href="../vocab/renzhen_认真.html">认真</a>学习。</div>
             <div class="ex-py">Zuòwéi xuésheng, nǐ yīnggāi rènzhēn xuéxí.</div>
             <div class="ex-en">As a student, you should study seriously.</div>
           </div>
@@ -658,6 +660,11 @@
   </main>
 </div>
 <script src="../../scripts/toc-scroll.js"></script>
+
+<!-- Admin mode indicator: visible only when html[data-admin="1"]. Click to log out. -->
+<button type="button" class="admin-indicator" aria-label="Admin mode active — click to log out" onclick="try{localStorage.removeItem('shuwo-admin');location.reload();}catch(e){}">
+  ◉ admin
+</button>
 
 <script src="../../scripts/toc-scroll.js"></script>
 <script src="../../scripts/enhance.js" defer></script>

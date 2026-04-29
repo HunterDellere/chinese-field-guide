@@ -9,6 +9,8 @@
 <meta name="theme-color" content="#1c1208" id="meta-theme-color">
 <!-- Flash-of-wrong-theme prevention: read localStorage before first paint -->
 <script>(function(){try{var t=localStorage.getItem('shuwo-theme');if(t==='dark'||t==='light'){document.documentElement.setAttribute('data-theme',t);}else if(!t&&window.matchMedia('(prefers-color-scheme: dark)').matches){document.documentElement.setAttribute('data-theme','dark');}}catch(e){}})();</script>
+<!-- Admin gating: any element with class .admin-only is hidden by default and shown only when localStorage.shuwo-admin === '1'. Set on the <html> root so CSS can target without FOUC. URL ?admin=1 grants; ?admin=0 revokes; key sequence "shu" toggles. -->
+<script>(function(){try{var u=new URLSearchParams(location.search);var v=u.get('admin');if(v==='1'){localStorage.setItem('shuwo-admin','1');}else if(v==='0'){localStorage.removeItem('shuwo-admin');}if(localStorage.getItem('shuwo-admin')==='1')document.documentElement.setAttribute('data-admin','1');}catch(e){}})();</script>
 <meta name="apple-mobile-web-app-title" content="角落書屋">
 <meta name="application-name" content="角落書屋">
 <link rel="alternate" type="application/rss+xml" title="Jiǎoluò Shūwū · 角落書屋" href="../../feed.xml">
@@ -204,8 +206,8 @@
         <a class="related-card" href="../characters/da4_大.html" data-category="characters"><span class="rc-head"><span class="rc-cn">大</span><span class="rc-py">dà</span></span><span class="rc-en">big, great, large</span><span class="rc-detail">Big, great, large — a person with arms wide open, the original measure of magnitude.</span><span class="rl-reason rl-reason-tag">theme · cosmology</span></a>
         <a class="related-card" href="gongfu_功夫.html" data-category="vocab"><span class="rc-head"><span class="rc-cn">功夫</span><span class="rc-py">gōngfu</span></span><span class="rc-en">effort, skill over time</span><span class="rc-detail">Mastery earned through time — martial arts is the paradigm case, but the word covers any deeply cultivated skill.</span><span class="rl-reason rl-reason-tag">theme · time</span></a>
         <a class="related-card" href="../characters/qian2_前.html" data-category="characters"><span class="rc-head"><span class="rc-cn">前</span><span class="rc-py">qián</span></span><span class="rc-en">front, before, forward; former</span><span class="rc-detail">Chinese places the past in front (前) and the future behind — the known faces you while the unknown approaches from behind, the inverse of the English spatial metaphor for time.</span><span class="rl-reason rl-reason-tag">theme · time</span></a>
-        <a class="related-card" href="rensheng_人生.html" data-category="vocab"><span class="rc-head"><span class="rc-cn">人生</span><span class="rc-py">rénshēng</span></span><span class="rc-en">human life; one&#39;s life journey</span><span class="rc-detail">Human life — not biological existence, but the arc of a life lived: its meaning, its seasons, its reckoning.</span><span class="rl-reason rl-reason-tag">theme · daily-life</span></a>
         <a class="related-card" href="../characters/yue4_月.html" data-category="characters"><span class="rc-head"><span class="rc-cn">月</span><span class="rc-py">yuè</span></span><span class="rc-en">moon, month</span><span class="rc-detail">A crescent moon in profile — and one of the most poetically charged characters in Chinese literature.</span><span class="rl-reason rl-reason-tag">theme · time</span></a>
+        <a class="related-card" href="rensheng_人生.html" data-category="vocab"><span class="rc-head"><span class="rc-cn">人生</span><span class="rc-py">rénshēng</span></span><span class="rc-en">human life; one&#39;s life journey</span><span class="rc-detail">Human life — not biological existence, but the arc of a life lived: its meaning, its seasons, its reckoning.</span><span class="rl-reason rl-reason-tag">theme · daily-life</span></a>
         <a class="related-card" href="bijiao_比较.html" data-category="vocab"><span class="rc-head"><span class="rc-cn">比较</span><span class="rc-py">bǐjiào</span></span><span class="rc-en">to compare; relatively, fairly</span><span class="rc-detail">Compare and qualify — the word that measures differences and hedges claims in everyday Mandarin.</span><span class="rl-reason rl-reason-tag">theme · daily-life</span></a>
       </div>
       <div class="related-chips-tier">
@@ -261,6 +263,11 @@
     </footer>
   </main>
 </div>
+
+<!-- Admin mode indicator: visible only when html[data-admin="1"]. Click to log out. -->
+<button type="button" class="admin-indicator" aria-label="Admin mode active — click to log out" onclick="try{localStorage.removeItem('shuwo-admin');location.reload();}catch(e){}">
+  ◉ admin
+</button>
 
 <script src="../../scripts/toc-scroll.js"></script>
 <script src="../../scripts/enhance.js" defer></script>

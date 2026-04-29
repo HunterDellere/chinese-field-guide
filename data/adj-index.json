@@ -3,7 +3,7 @@
     "cn": "道",
     "py": "dào",
     "en": "the Way; path; principle",
-    "count": 19,
+    "count": 20,
     "appearsOn": [
       "pages/characters/bian4_变.html",
       "pages/characters/fo2_佛.html",
@@ -12,6 +12,7 @@
       "pages/characters/wan4_万.html",
       "pages/characters/wu2_无.html",
       "pages/characters/yi1_一.html",
+      "pages/characters/zhen1_真.html",
       "pages/characters/zhi1_知.html",
       "pages/philosophy/topic_yijing.html",
       "pages/science/topic_wuxing.html",
@@ -1700,6 +1701,18 @@
     ],
     "hasPage": true
   },
+  "明白": {
+    "cn": "明白",
+    "py": "míngbai",
+    "en": "to understand",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/bai2_白.html",
+      "pages/characters/ren4_认.html",
+      "pages/vocab/yisi_意思.html"
+    ],
+    "hasPage": false
+  },
   "南": {
     "cn": "南",
     "py": "nán",
@@ -2398,6 +2411,17 @@
     ],
     "hasPage": true
   },
+  "本来": {
+    "cn": "本来",
+    "py": "běnlái",
+    "en": "originally; as it should be",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/shi4_是.html",
+      "pages/characters/zhen1_真.html"
+    ],
+    "hasPage": false
+  },
   "本领": {
     "cn": "本领",
     "py": "běnlǐng",
@@ -2551,6 +2575,17 @@
       "pages/characters/ni3_你.html"
     ],
     "hasPage": true
+  },
+  "诚": {
+    "cn": "诚",
+    "py": "chéng",
+    "en": "sincerity; genuine",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/xin4_信.html",
+      "pages/characters/zhen1_真.html"
+    ],
+    "hasPage": false
   },
   "丑": {
     "cn": "丑",
@@ -3267,6 +3302,17 @@
     ],
     "hasPage": false
   },
+  "假": {
+    "cn": "假",
+    "py": "jiǎ",
+    "en": "false; fake",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/shi4_是.html",
+      "pages/characters/zhen1_真.html"
+    ],
+    "hasPage": false
+  },
   "角落": {
     "cn": "角落",
     "py": "jiǎoluò",
@@ -3487,6 +3533,17 @@
     ],
     "hasPage": true
   },
+  "了解": {
+    "cn": "了解",
+    "py": "liǎojiě",
+    "en": "to understand; be familiar with",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/ren4_认.html",
+      "pages/characters/zhi1_知.html"
+    ],
+    "hasPage": false
+  },
   "礼物": {
     "cn": "礼物",
     "py": "lǐwù",
@@ -3663,17 +3720,6 @@
     ],
     "hasPage": true
   },
-  "明白": {
-    "cn": "明白",
-    "py": "míngbai",
-    "en": "to understand",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/bai2_白.html",
-      "pages/vocab/yisi_意思.html"
-    ],
-    "hasPage": false
-  },
   "明朝": {
     "cn": "明朝",
     "py": "Míngcháo",
@@ -3748,6 +3794,17 @@
     "appearsOn": [
       "pages/science/topic_tiangan_dizhi.html",
       "pages/vocab/jieqi_节气.html"
+    ],
+    "hasPage": false
+  },
+  "努力": {
+    "cn": "努力",
+    "py": "nǔlì",
+    "en": "to work hard; effort",
+    "count": 2,
+    "appearsOn": [
+      "pages/vocab/gongfu_功夫.html",
+      "pages/vocab/renzhen_认真.html"
     ],
     "hasPage": false
   },
@@ -4015,6 +4072,17 @@
     ],
     "hasPage": true
   },
+  "身份": {
+    "cn": "身份",
+    "py": "shēnfèn",
+    "en": "identity; status",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/ming2_名.html",
+      "pages/characters/ren4_认.html"
+    ],
+    "hasPage": false
+  },
   "神话": {
     "cn": "神话",
     "py": "shénhuà",
@@ -4111,6 +4179,17 @@
     "appearsOn": [
       "pages/characters/shi2_时.html",
       "pages/vocab/shijian_时间.html"
+    ],
+    "hasPage": false
+  },
+  "实": {
+    "cn": "实",
+    "py": "shí",
+    "en": "reality; substance",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/ming2_名.html",
+      "pages/characters/zhen1_真.html"
     ],
     "hasPage": false
   },
@@ -4784,6 +4863,17 @@
     ],
     "hasPage": false
   },
+  "用心": {
+    "cn": "用心",
+    "py": "yòngxīn",
+    "en": "attentively; with care",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/xin1_心.html",
+      "pages/vocab/renzhen_认真.html"
+    ],
+    "hasPage": false
+  },
   "有": {
     "cn": "有",
     "py": "yǒu",
@@ -4825,6 +4915,17 @@
     "appearsOn": [
       "pages/grammar/zhe_particle_呢.html",
       "pages/grammar/zhe_particle_嘛.html"
+    ],
+    "hasPage": false
+  },
+  "原来": {
+    "cn": "原来",
+    "py": "yuánlái",
+    "en": "originally; so that's how it is",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/lai2_来.html",
+      "pages/characters/zhen1_真.html"
     ],
     "hasPage": false
   },
@@ -4904,6 +5005,17 @@
       "pages/characters/lao3_老.html"
     ],
     "hasPage": false
+  },
+  "真": {
+    "cn": "真",
+    "py": "zhēn",
+    "en": "true; genuine",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/shi4_是.html",
+      "pages/vocab/renzhen_认真.html"
+    ],
+    "hasPage": true
   },
   "正统": {
     "cn": "正统",
@@ -5534,16 +5646,6 @@
     ],
     "hasPage": false
   },
-  "本来": {
-    "cn": "本来",
-    "py": "běnlái",
-    "en": "originally; as it should be",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/shi4_是.html"
-    ],
-    "hasPage": false
-  },
   "本来面目": {
     "cn": "本来面目",
     "py": "běnlái miànmù",
@@ -5721,6 +5823,16 @@
     "count": 1,
     "appearsOn": [
       "pages/grammar/nai_乃.html"
+    ],
+    "hasPage": false
+  },
+  "辨认": {
+    "cn": "辨认",
+    "py": "biànrèn",
+    "en": "to identify; distinguish",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ren4_认.html"
     ],
     "hasPage": false
   },
@@ -6284,13 +6396,13 @@
     ],
     "hasPage": false
   },
-  "诚": {
-    "cn": "诚",
-    "py": "chéng",
-    "en": "sincerity; genuine",
+  "承担": {
+    "cn": "承担",
+    "py": "chéngdān",
+    "en": "to bear; take responsibility",
     "count": 1,
     "appearsOn": [
-      "pages/characters/xin4_信.html"
+      "pages/characters/ren4_认.html"
     ],
     "hasPage": false
   },
@@ -7004,6 +7116,16 @@
     ],
     "hasPage": false
   },
+  "当真": {
+    "cn": "当真",
+    "py": "dàngzhēn",
+    "en": "to take literally",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/renzhen_认真.html"
+    ],
+    "hasPage": false
+  },
   "到处": {
     "cn": "到处",
     "py": "dàochù",
@@ -7081,6 +7203,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/lu4_路.html"
+    ],
+    "hasPage": false
+  },
+  "道歉": {
+    "cn": "道歉",
+    "py": "dàoqiàn",
+    "en": "to apologize",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ren4_认.html"
     ],
     "hasPage": false
   },
@@ -7924,6 +8056,36 @@
     ],
     "hasPage": false
   },
+  "否定": {
+    "cn": "否定",
+    "py": "fǒudìng",
+    "en": "to negate; deny",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ren4_认.html"
+    ],
+    "hasPage": false
+  },
+  "敷衍": {
+    "cn": "敷衍",
+    "py": "fūyǎn",
+    "en": "to be perfunctory",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/renzhen_认真.html"
+    ],
+    "hasPage": false
+  },
+  "敷衍了事": {
+    "cn": "敷衍了事",
+    "py": "fūyǎn liǎoshì",
+    "en": "to dispose of perfunctorily",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/renzhen_认真.html"
+    ],
+    "hasPage": false
+  },
   "佛法": {
     "cn": "佛法",
     "py": "fófǎ",
@@ -7981,6 +8143,16 @@
     "count": 1,
     "appearsOn": [
       "pages/philosophy/topic_zhengming.html"
+    ],
+    "hasPage": false
+  },
+  "负责": {
+    "cn": "负责",
+    "py": "fùzé",
+    "en": "responsible; in charge of",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/renzhen_认真.html"
     ],
     "hasPage": false
   },
@@ -9814,16 +9986,6 @@
     ],
     "hasPage": false
   },
-  "假": {
-    "cn": "假",
-    "py": "jiǎ",
-    "en": "false; fake",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/shi4_是.html"
-    ],
-    "hasPage": false
-  },
   "假如": {
     "cn": "假如",
     "py": "jiǎrú",
@@ -10071,6 +10233,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/jiao3_角.html"
+    ],
+    "hasPage": false
+  },
+  "较真": {
+    "cn": "较真",
+    "py": "jiàozhēn",
+    "en": "to be a stickler",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/renzhen_认真.html"
     ],
     "hasPage": false
   },
@@ -10581,6 +10753,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/yuan3_远.html"
+    ],
+    "hasPage": false
+  },
+  "觉得": {
+    "cn": "觉得",
+    "py": "juéde",
+    "en": "to feel that; think (subjective)",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ren4_认.html"
     ],
     "hasPage": false
   },
@@ -11131,16 +11313,6 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/qi2_其.html"
-    ],
-    "hasPage": false
-  },
-  "了解": {
-    "cn": "了解",
-    "py": "liǎojiě",
-    "en": "to understand; to be familiar with",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/zhi1_知.html"
     ],
     "hasPage": false
   },
@@ -11791,6 +11963,16 @@
     "count": 1,
     "appearsOn": [
       "pages/geography/topic_sichuanpen.html"
+    ],
+    "hasPage": false
+  },
+  "马虎": {
+    "cn": "马虎",
+    "py": "mǎhu",
+    "en": "careless, sloppy",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/renzhen_认真.html"
     ],
     "hasPage": false
   },
@@ -12664,16 +12846,6 @@
     ],
     "hasPage": false
   },
-  "努力": {
-    "cn": "努力",
-    "py": "nǔlì",
-    "en": "to work hard; effort",
-    "count": 1,
-    "appearsOn": [
-      "pages/vocab/gongfu_功夫.html"
-    ],
-    "hasPage": false
-  },
   "哦": {
     "cn": "哦",
     "py": "o",
@@ -12821,6 +12993,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/pusa_菩萨.html"
+    ],
+    "hasPage": false
+  },
+  "朴素": {
+    "cn": "朴素",
+    "py": "pǔsù",
+    "en": "plain; unadorned",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/zhen1_真.html"
     ],
     "hasPage": false
   },
@@ -13151,6 +13333,16 @@
     "count": 1,
     "appearsOn": [
       "pages/arts/topic_guqin.html"
+    ],
+    "hasPage": false
+  },
+  "勤奋": {
+    "cn": "勤奋",
+    "py": "qínfèn",
+    "en": "diligent, industrious",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/renzhen_认真.html"
     ],
     "hasPage": false
   },
@@ -13524,6 +13716,16 @@
     ],
     "hasPage": false
   },
+  "认": {
+    "cn": "认",
+    "py": "rèn",
+    "en": "to recognize, acknowledge",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/renzhen_认真.html"
+    ],
+    "hasPage": true
+  },
   "认识": {
     "cn": "认识",
     "py": "rènshi",
@@ -13531,6 +13733,26 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/zhi1_知.html"
+    ],
+    "hasPage": false
+  },
+  "认真说": {
+    "cn": "认真说",
+    "py": "rènzhēn shuō",
+    "en": "earnestly speaking",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/renzhen_认真.html"
+    ],
+    "hasPage": false
+  },
+  "认知": {
+    "cn": "认知",
+    "py": "rènzhī",
+    "en": "cognition; perception",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ren4_认.html"
     ],
     "hasPage": false
   },
@@ -13984,16 +14206,6 @@
     ],
     "hasPage": false
   },
-  "身份": {
-    "cn": "身份",
-    "py": "shēnfèn",
-    "en": "identity; status",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/ming2_名.html"
-    ],
-    "hasPage": false
-  },
   "深远": {
     "cn": "深远",
     "py": "shēnyuǎn",
@@ -14354,16 +14566,6 @@
     ],
     "hasPage": false
   },
-  "实": {
-    "cn": "实",
-    "py": "shí",
-    "en": "reality; substance",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/ming2_名.html"
-    ],
-    "hasPage": false
-  },
   "实用": {
     "cn": "实用",
     "py": "shíyòng",
@@ -14511,6 +14713,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/dongxi_东西.html"
+    ],
+    "hasPage": false
+  },
+  "事实": {
+    "cn": "事实",
+    "py": "shìshí",
+    "en": "fact",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/zhen1_真.html"
     ],
     "hasPage": false
   },
@@ -15034,6 +15246,16 @@
     ],
     "hasPage": false
   },
+  "随便": {
+    "cn": "随便",
+    "py": "suíbiàn",
+    "en": "casual; whatever",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/renzhen_认真.html"
+    ],
+    "hasPage": false
+  },
   "岁": {
     "cn": "岁",
     "py": "suì",
@@ -15191,6 +15413,36 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/ming2_明.html"
+    ],
+    "hasPage": false
+  },
+  "态度": {
+    "cn": "态度",
+    "py": "tàidù",
+    "en": "attitude, stance",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/renzhen_认真.html"
+    ],
+    "hasPage": false
+  },
+  "坦白": {
+    "cn": "坦白",
+    "py": "tǎnbái",
+    "en": "to confess; come clean",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ren4_认.html"
+    ],
+    "hasPage": false
+  },
+  "坦诚": {
+    "cn": "坦诚",
+    "py": "tǎnchéng",
+    "en": "candid; frank",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/zhen1_真.html"
     ],
     "hasPage": false
   },
@@ -15511,6 +15763,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/guanxi_关系.html"
+    ],
+    "hasPage": false
+  },
+  "同意": {
+    "cn": "同意",
+    "py": "tóngyì",
+    "en": "to agree",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ren4_认.html"
     ],
     "hasPage": false
   },
@@ -17124,6 +17386,16 @@
     ],
     "hasPage": false
   },
+  "虚伪": {
+    "cn": "虚伪",
+    "py": "xūwěi",
+    "en": "hypocritical; fake",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/zhen1_真.html"
+    ],
+    "hasPage": false
+  },
   "虚心": {
     "cn": "虚心",
     "py": "xūxīn",
@@ -17341,6 +17613,16 @@
     "count": 1,
     "appearsOn": [
       "pages/grammar/zhi_之.html"
+    ],
+    "hasPage": false
+  },
+  "严肃": {
+    "cn": "严肃",
+    "py": "yánsù",
+    "en": "solemn, grave",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/renzhen_认真.html"
     ],
     "hasPage": false
   },
@@ -17864,16 +18146,6 @@
     ],
     "hasPage": true
   },
-  "用心": {
-    "cn": "用心",
-    "py": "yòngxīn",
-    "en": "attentively; with care",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/xin1_心.html"
-    ],
-    "hasPage": false
-  },
   "优美": {
     "cn": "优美",
     "py": "yōuměi",
@@ -18221,16 +18493,6 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/chunjie_春节.html"
-    ],
-    "hasPage": false
-  },
-  "原来": {
-    "cn": "原来",
-    "py": "yuánlái",
-    "en": "originally; so that's how it is",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/lai2_来.html"
     ],
     "hasPage": false
   },
@@ -18774,16 +19036,6 @@
     ],
     "hasPage": false
   },
-  "真": {
-    "cn": "真",
-    "py": "zhēn",
-    "en": "true; genuine",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/shi4_是.html"
-    ],
-    "hasPage": false
-  },
   "真理": {
     "cn": "真理",
     "py": "zhēnlǐ",
@@ -18791,6 +19043,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/dao4_道.html"
+    ],
+    "hasPage": false
+  },
+  "真相": {
+    "cn": "真相",
+    "py": "zhēnxiàng",
+    "en": "the truth of the matter",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/zhen1_真.html"
     ],
     "hasPage": false
   },
@@ -18891,6 +19153,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/mu4_木.html"
+    ],
+    "hasPage": false
+  },
+  "知道": {
+    "cn": "知道",
+    "py": "zhīdào",
+    "en": "to know (a fact)",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ren4_认.html"
     ],
     "hasPage": false
   },
@@ -19451,6 +19723,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/di1_低.html"
+    ],
+    "hasPage": false
+  },
+  "仔细": {
+    "cn": "仔细",
+    "py": "zǐxì",
+    "en": "careful, thorough",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/renzhen_认真.html"
     ],
     "hasPage": false
   },

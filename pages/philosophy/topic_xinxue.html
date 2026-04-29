@@ -9,6 +9,8 @@
 <meta name="theme-color" content="#1c1208" id="meta-theme-color">
 <!-- Flash-of-wrong-theme prevention: read localStorage before first paint -->
 <script>(function(){try{var t=localStorage.getItem('shuwo-theme');if(t==='dark'||t==='light'){document.documentElement.setAttribute('data-theme',t);}else if(!t&&window.matchMedia('(prefers-color-scheme: dark)').matches){document.documentElement.setAttribute('data-theme','dark');}}catch(e){}})();</script>
+<!-- Admin gating: any element with class .admin-only is hidden by default and shown only when localStorage.shuwo-admin === '1'. Set on the <html> root so CSS can target without FOUC. URL ?admin=1 grants; ?admin=0 revokes; key sequence "shu" toggles. -->
+<script>(function(){try{var u=new URLSearchParams(location.search);var v=u.get('admin');if(v==='1'){localStorage.setItem('shuwo-admin','1');}else if(v==='0'){localStorage.removeItem('shuwo-admin');}if(localStorage.getItem('shuwo-admin')==='1')document.documentElement.setAttribute('data-admin','1');}catch(e){}})();</script>
 <meta name="apple-mobile-web-app-title" content="角落書屋">
 <meta name="application-name" content="角落書屋">
 <link rel="alternate" type="application/rss+xml" title="Jiǎoluò Shūwū · 角落書屋" href="../../feed.xml">
@@ -276,14 +278,14 @@
     <section class="related" aria-labelledby="related-label">
       <span class="related-label sr-only" id="related-label">Related entries — pages and vocabulary in the neighbourhood of this one</span>
       <div class="related-cards">
+        <a class="related-card" href="../characters/ren4_认.html" data-category="characters"><span class="rc-head"><span class="rc-cn">认</span><span class="rc-py">rèn</span></span><span class="rc-en">to recognize, to acknowledge</span><span class="rc-detail">The act of recognition — knowing something for what it is, owning up to it, and the small set of compounds that turn this on the world, on others, and on oneself.</span><span class="rl-reason rl-reason-tag">theme · mind</span></a>
         <a class="related-card" href="../characters/xin1_心.html" data-category="characters"><span class="rc-head"><span class="rc-cn">心</span><span class="rc-py">xīn</span></span><span class="rc-en">heart, mind</span><span class="rc-detail">The radical at the root of all feeling, and the Chinese conception of thought itself.</span><span class="rl-reason rl-reason-contains">in 心</span></a>
         <a class="related-card" href="topic_yangming.html" data-category="philosophy"><span class="rc-head"><span class="rc-cn">王阳明</span><span class="rc-py">Wáng Yángmíng</span></span><span class="rc-en">Wang Yangming and the School of Mind</span><span class="rc-detail">Wang Yangming broke Neo-Confucianism open: instead of investigating external things to reach moral truth, he turned inward and declared that the moral mind already knows — and that knowing and acting are one indivisible movement.</span><span class="rl-reason rl-reason-tag">theme · wang-yangming</span></a>
         <a class="related-card" href="../vocab/liangxin_良心.html" data-category="vocab"><span class="rc-head"><span class="rc-cn">良心</span><span class="rc-py">liángxīn</span></span><span class="rc-en">conscience; innate moral sense</span><span class="rc-detail">The good heart-mind: the Chinese word for conscience carries a philosophical claim that moral knowledge is a natural endowment, not an acquired rule.</span><span class="rl-reason rl-reason-tag">theme · wang-yangming</span></a>
         <a class="related-card" href="../characters/xue2_学.html" data-category="characters"><span class="rc-head"><span class="rc-cn">学</span><span class="rc-py">xué</span></span><span class="rc-en">to study, to learn, learning</span><span class="rc-detail">Hands guiding a child beneath a roof — the character for learning as both action and institution.</span><span class="rl-reason rl-reason-contains">in 学</span></a>
         <a class="related-card" href="../characters/si1_思.html" data-category="characters"><span class="rc-head"><span class="rc-cn">思</span><span class="rc-py">sī</span></span><span class="rc-en">to think, to miss, thought</span><span class="rc-detail">The field of the mind above the heart: thinking as cultivation, longing as thought turned inward.</span><span class="rl-reason rl-reason-tag">theme · mind</span></a>
-        <a class="related-card" href="../characters/jian4_见.html" data-category="characters"><span class="rc-head"><span class="rc-cn">见</span><span class="rc-py">jiàn</span></span><span class="rc-en">to see, to meet, to appear</span><span class="rc-detail">An eye on legs. The character that built Chinese verbs of seeing, meeting, opinion, and the moment a thing first comes into view.</span><span class="rl-reason rl-reason-tag">theme · knowing</span></a>
-        <a class="related-card" href="../vocab/zhihui_智慧.html" data-category="vocab"><span class="rc-head"><span class="rc-cn">智慧</span><span class="rc-py">zhìhuì</span></span><span class="rc-en">wisdom; prajna</span><span class="rc-detail">智慧 brings together Confucian moral discernment and Buddhist prajna under one compound — two traditions, one word, different objects of knowing.</span><span class="rl-reason rl-reason-tag">theme · knowing</span></a>
         <a class="related-card" href="../characters/xiang3_想.html" data-category="characters"><span class="rc-head"><span class="rc-cn">想</span><span class="rc-py">xiǎng</span></span><span class="rc-en">to think, to want, to miss</span><span class="rc-detail">想 = 相 (mutual, facing) + 心 (heart) — the heart turned toward something, carrying the full range from thought to desire to longing in a single gesture.</span><span class="rl-reason rl-reason-tag">theme · mind</span></a>
+        <a class="related-card" href="../characters/jian4_见.html" data-category="characters"><span class="rc-head"><span class="rc-cn">见</span><span class="rc-py">jiàn</span></span><span class="rc-en">to see, to meet, to appear</span><span class="rc-detail">An eye on legs. The character that built Chinese verbs of seeing, meeting, opinion, and the moment a thing first comes into view.</span><span class="rl-reason rl-reason-tag">theme · knowing</span></a>
       </div>
     </section>
     <nav class="prev-next" aria-label="Within this section">
@@ -324,6 +326,11 @@
     </footer>
   </main>
 </div>
+
+<!-- Admin mode indicator: visible only when html[data-admin="1"]. Click to log out. -->
+<button type="button" class="admin-indicator" aria-label="Admin mode active — click to log out" onclick="try{localStorage.removeItem('shuwo-admin');location.reload();}catch(e){}">
+  ◉ admin
+</button>
 
 <script src="../../scripts/toc-scroll.js"></script>
 <script src="../../scripts/enhance.js" defer></script>

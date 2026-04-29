@@ -9,6 +9,8 @@
 <meta name="theme-color" content="#1c1208" id="meta-theme-color">
 <!-- Flash-of-wrong-theme prevention: read localStorage before first paint -->
 <script>(function(){try{var t=localStorage.getItem('shuwo-theme');if(t==='dark'||t==='light'){document.documentElement.setAttribute('data-theme',t);}else if(!t&&window.matchMedia('(prefers-color-scheme: dark)').matches){document.documentElement.setAttribute('data-theme','dark');}}catch(e){}})();</script>
+<!-- Admin gating: any element with class .admin-only is hidden by default and shown only when localStorage.shuwo-admin === '1'. Set on the <html> root so CSS can target without FOUC. URL ?admin=1 grants; ?admin=0 revokes; key sequence "shu" toggles. -->
+<script>(function(){try{var u=new URLSearchParams(location.search);var v=u.get('admin');if(v==='1'){localStorage.setItem('shuwo-admin','1');}else if(v==='0'){localStorage.removeItem('shuwo-admin');}if(localStorage.getItem('shuwo-admin')==='1')document.documentElement.setAttribute('data-admin','1');}catch(e){}})();</script>
 <meta name="apple-mobile-web-app-title" content="角落書屋">
 <meta name="application-name" content="角落書屋">
 <link rel="alternate" type="application/rss+xml" title="Jiǎoluò Shūwū · 角落書屋" href="../../feed.xml">
@@ -192,7 +194,7 @@
         </div>
         <div class="examples">
           <div class="example">
-            <div class="ex-cn">要想学好，就要认真下功夫。</div>
+            <div class="ex-cn">要想学好，就要<a class="auto-link" href="renzhen_认真.html">认真</a>下功夫。</div>
             <div class="ex-py">Yào xiǎng xué hǎo, jiù yào rènzhēn xià gōngfu.</div>
             <div class="ex-en">If you want to learn well, you have to put in the work seriously.</div>
           </div>
@@ -202,7 +204,7 @@
             <div class="ex-en">He put a great deal of effort into cooking — his culinary skills have improved noticeably.</div>
           </div>
           <div class="example">
-            <div class="ex-cn">这个问题需要认真下功夫研究，不能马虎。</div>
+            <div class="ex-cn">这个问题需要<a class="auto-link" href="renzhen_认真.html">认真</a>下功夫研究，不能马虎。</div>
             <div class="ex-py">Zhège wèntí xūyào rènzhēn xià gōngfu yánjiū, bù néng mǎhu.</div>
             <div class="ex-en">This problem requires serious dedicated study — it cannot be handled carelessly.</div>
           </div>
@@ -704,6 +706,11 @@
     </footer>
   </main>
 </div>
+
+<!-- Admin mode indicator: visible only when html[data-admin="1"]. Click to log out. -->
+<button type="button" class="admin-indicator" aria-label="Admin mode active — click to log out" onclick="try{localStorage.removeItem('shuwo-admin');location.reload();}catch(e){}">
+  ◉ admin
+</button>
 
 <script src="../../scripts/toc-scroll.js"></script>
 <script src="../../scripts/enhance.js" defer></script>

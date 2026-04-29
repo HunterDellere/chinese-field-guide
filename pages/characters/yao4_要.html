@@ -9,6 +9,8 @@
 <meta name="theme-color" content="#1c1208" id="meta-theme-color">
 <!-- Flash-of-wrong-theme prevention: read localStorage before first paint -->
 <script>(function(){try{var t=localStorage.getItem('shuwo-theme');if(t==='dark'||t==='light'){document.documentElement.setAttribute('data-theme',t);}else if(!t&&window.matchMedia('(prefers-color-scheme: dark)').matches){document.documentElement.setAttribute('data-theme','dark');}}catch(e){}})();</script>
+<!-- Admin gating: any element with class .admin-only is hidden by default and shown only when localStorage.shuwo-admin === '1'. Set on the <html> root so CSS can target without FOUC. URL ?admin=1 grants; ?admin=0 revokes; key sequence "shu" toggles. -->
+<script>(function(){try{var u=new URLSearchParams(location.search);var v=u.get('admin');if(v==='1'){localStorage.setItem('shuwo-admin','1');}else if(v==='0'){localStorage.removeItem('shuwo-admin');}if(localStorage.getItem('shuwo-admin')==='1')document.documentElement.setAttribute('data-admin','1');}catch(e){}})();</script>
 <meta name="apple-mobile-web-app-title" content="角落書屋">
 <meta name="application-name" content="角落書屋">
 <link rel="alternate" type="application/rss+xml" title="Jiǎoluò Shūwū · 角落書屋" href="../../feed.xml">
@@ -185,7 +187,7 @@
     <div class="pattern">
       <span class="label">构词规律 gòucí guīlǜ · Four Functions</span>
       <strong>要 + noun/verb</strong> → desire: 我要水 (I want water) · 我要走 (I want to leave)<br>
-      <strong>要 + verb</strong> → obligation: 你要认真 (You must be serious) · 我们要努力 (We must work hard)<br>
+      <strong>要 + verb</strong> → obligation: 你要<a class="auto-link" href="../vocab/renzhen_认真.html">认真</a> (You must be serious) · 我们要努力 (We must work hard)<br>
       <strong>要 + verb + <a class="auto-link" href="../grammar/le_了.html">了</a></strong> → imminent change: 要下雨了 (It's about to rain) · 他要来了 (He's about to arrive)<br>
       <strong>重/主/首/<a class="auto-link" href="bi4_必.html">必</a> + 要</strong> → adjective compounds: 重要 (important) · 主要 (main) · 首要 (primary) · 必要 (necessary)
     </div>
@@ -299,7 +301,7 @@
             <div class="ex-en">When going out, remember to bring your keys.</div>
           </div>
           <div class="example">
-            <div class="ex-cn">做事要认真，不能马虎。</div>
+            <div class="ex-cn">做事要<a class="auto-link" href="../vocab/renzhen_认真.html">认真</a>，不能马虎。</div>
             <div class="ex-py">Zuò shì yào rènzhēn, bù néng mǎhu.</div>
             <div class="ex-en">You need to be diligent — you can't be careless.</div>
           </div>
@@ -405,7 +407,7 @@
         </div>
         <div class="examples">
           <div class="example">
-            <div class="ex-cn">这个决定非常重要，请认真考虑。</div>
+            <div class="ex-cn">这个决定非常重要，请<a class="auto-link" href="../vocab/renzhen_认真.html">认真</a>考虑。</div>
             <div class="ex-py">Zhège juédìng fēicháng zhòngyào, qǐng rènzhēn kǎolǜ.</div>
             <div class="ex-en">This decision is very important — please consider it carefully.</div>
           </div>
@@ -559,8 +561,8 @@
     <section class="related" aria-labelledby="related-label">
       <span class="related-label sr-only" id="related-label">Related entries — pages and vocabulary in the neighbourhood of this one</span>
       <div class="related-cards">
-        <a class="related-card" href="ke3_可.html" data-category="characters"><span class="rc-head"><span class="rc-cn">可</span><span class="rc-py">kě</span></span><span class="rc-en">can; may; worth; quite</span><span class="rc-detail">A two-stroke mouth character whose ancient sense of affirming breath became the pivot of permission, capability, and worth in classical and modern Chinese.</span><span class="rl-reason rl-reason-tag">theme · modal</span></a>
         <a class="related-card" href="bi4_必.html" data-category="characters"><span class="rc-head"><span class="rc-cn">必</span><span class="rc-py">bì</span></span><span class="rc-en">certainly; must; necessarily</span><span class="rc-detail">A character rooted in the image of a blade that divides without exception — certainty as the sharpness that leaves no room for maybe.</span><span class="rl-reason rl-reason-tag">theme · modal</span></a>
+        <a class="related-card" href="ke3_可.html" data-category="characters"><span class="rc-head"><span class="rc-cn">可</span><span class="rc-py">kě</span></span><span class="rc-en">can; may; worth; quite</span><span class="rc-detail">A two-stroke mouth character whose ancient sense of affirming breath became the pivot of permission, capability, and worth in classical and modern Chinese.</span><span class="rl-reason rl-reason-tag">theme · modal</span></a>
         <a class="related-card" href="nu3_女.html" data-category="characters"><span class="rc-head"><span class="rc-cn">女</span><span class="rc-py">nǚ</span></span><span class="rc-en">woman, female</span><span class="rc-detail">A kneeling figure with crossed arms — one of the most productive radicals in the script, present in characters for family relationships, feelings, and cultural concepts.</span><span class="rl-reason rl-reason-radical">shares radical · 女</span></a>
         <a class="related-card" href="hao3_好.html" data-category="characters"><span class="rc-head"><span class="rc-cn">好</span><span class="rc-py">hǎo</span></span><span class="rc-en">good; to like</span><span class="rc-detail">Good, well, to like — and the tone split that doubles its expressive range.</span><span class="rl-reason rl-reason-radical">shares radical · 女</span></a>
         <a class="related-card" href="../grammar/hui_neng_keyi_会能可以.html" data-category="grammar"><span class="rc-head"><span class="rc-cn">会</span><span class="rc-py">huì / néng / kěyǐ</span></span><span class="rc-en">能 · 可以 · the three &#39;can&#39;s</span><span class="rc-detail">Learned ability vs. situational capacity vs. permission — not interchangeable.</span><span class="rl-reason rl-reason-tag">theme · modal</span></a>
@@ -621,6 +623,11 @@
     </footer>
   </main>
 </div>
+
+<!-- Admin mode indicator: visible only when html[data-admin="1"]. Click to log out. -->
+<button type="button" class="admin-indicator" aria-label="Admin mode active — click to log out" onclick="try{localStorage.removeItem('shuwo-admin');location.reload();}catch(e){}">
+  ◉ admin
+</button>
 
 <script src="../../scripts/toc-scroll.js"></script>
 <script src="../../scripts/enhance.js" defer></script>

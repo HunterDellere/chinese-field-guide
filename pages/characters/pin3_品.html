@@ -9,6 +9,8 @@
 <meta name="theme-color" content="#1c1208" id="meta-theme-color">
 <!-- Flash-of-wrong-theme prevention: read localStorage before first paint -->
 <script>(function(){try{var t=localStorage.getItem('shuwo-theme');if(t==='dark'||t==='light'){document.documentElement.setAttribute('data-theme',t);}else if(!t&&window.matchMedia('(prefers-color-scheme: dark)').matches){document.documentElement.setAttribute('data-theme','dark');}}catch(e){}})();</script>
+<!-- Admin gating: any element with class .admin-only is hidden by default and shown only when localStorage.shuwo-admin === '1'. Set on the <html> root so CSS can target without FOUC. URL ?admin=1 grants; ?admin=0 revokes; key sequence "shu" toggles. -->
+<script>(function(){try{var u=new URLSearchParams(location.search);var v=u.get('admin');if(v==='1'){localStorage.setItem('shuwo-admin','1');}else if(v==='0'){localStorage.removeItem('shuwo-admin');}if(localStorage.getItem('shuwo-admin')==='1')document.documentElement.setAttribute('data-admin','1');}catch(e){}})();</script>
 <meta name="apple-mobile-web-app-title" content="角落書屋">
 <meta name="application-name" content="角落書屋">
 <link rel="alternate" type="application/rss+xml" title="Jiǎoluò Shūwū · 角落書屋" href="../../feed.xml">
@@ -267,11 +269,11 @@
       <div class="related-cards">
         <a class="related-card" href="../vocab/chanpin_产品.html" data-category="vocab"><span class="rc-head"><span class="rc-cn">产品</span><span class="rc-py">chǎnpǐn</span></span><span class="rc-en">product, manufactured good</span><span class="rc-detail">The standard Chinese word for product — what production yields and commerce moves. From factory floor to digital marketplace, 产品 names the output of organized human effort.</span><span class="rl-reason rl-reason-contains">contains 品</span></a>
         <a class="related-card" href="kou3_口.html" data-category="characters"><span class="rc-head"><span class="rc-cn">口</span><span class="rc-py">kǒu</span></span><span class="rc-en">mouth, opening, entrance</span><span class="rc-detail">A simple rectangle for an open mouth — one of the most productive radicals in the script, present in hundreds of characters for speaking, eating, and openings.</span><span class="rl-reason rl-reason-radical">shares radical · 口</span></a>
+        <a class="related-card" href="chi1_吃.html" data-category="characters"><span class="rc-head"><span class="rc-cn">吃</span><span class="rc-py">chī</span></span><span class="rc-en">to eat</span><span class="rc-detail">To eat — and the extraordinary range of Chinese life encoded in a single food verb.</span><span class="rl-reason rl-reason-radical">shares radical · 口</span></a>
         <a class="related-card" href="ke3_可.html" data-category="characters"><span class="rc-head"><span class="rc-cn">可</span><span class="rc-py">kě</span></span><span class="rc-en">can; may; worth; quite</span><span class="rc-detail">A two-stroke mouth character whose ancient sense of affirming breath became the pivot of permission, capability, and worth in classical and modern Chinese.</span><span class="rl-reason rl-reason-radical">shares radical · 口</span></a>
         <a class="related-card" href="you4_右.html" data-category="characters"><span class="rc-head"><span class="rc-cn">右</span><span class="rc-py">yòu</span></span><span class="rc-en">right; to assist; to favor</span><span class="rc-detail">A right hand raised to a mouth — the hand that feeds and speaks, whose authority in Chinese extended to favoring, protecting, and placing the highest things to the right of the seat.</span><span class="rl-reason rl-reason-radical">shares radical · 口</span></a>
         <a class="related-card" href="gao4_告.html" data-category="characters"><span class="rc-head"><span class="rc-cn">告</span><span class="rc-py">gào</span></span><span class="rc-en">to tell, to announce, to report</span><span class="rc-detail">A mouth aimed upward: the character for delivering words to authority — and the root of advertising, accusations, and warnings.</span><span class="rl-reason rl-reason-radical">shares radical · 口</span></a>
         <a class="related-card" href="shan4_善.html" data-category="characters"><span class="rc-head"><span class="rc-cn">善</span><span class="rc-py">shàn</span></span><span class="rc-en">goodness; virtue; skilled</span><span class="rc-detail">The character at the heart of Mencius argument that human nature is originally good — the moral sprouts waiting to be cultivated.</span><span class="rl-reason rl-reason-radical">shares radical · 口</span></a>
-        <a class="related-card" href="chi1_吃.html" data-category="characters"><span class="rc-head"><span class="rc-cn">吃</span><span class="rc-py">chī</span></span><span class="rc-en">to eat</span><span class="rc-detail">To eat — and the extraordinary range of Chinese life encoded in a single food verb.</span><span class="rl-reason rl-reason-radical">shares radical · 口</span></a>
         <a class="related-card" href="ming2_名.html" data-category="characters"><span class="rc-head"><span class="rc-cn">名</span><span class="rc-py">míng</span></span><span class="rc-en">name, fame, reputation</span><span class="rc-detail">名 is 夕 dusk plus 口 mouth: darkness falls, you cannot see who approaches, so you call out a name — identity asserted through speech.</span><span class="rl-reason rl-reason-radical">shares radical · 口</span></a>
       </div>
       <div class="related-chips-tier">
@@ -326,6 +328,11 @@
   </main>
 </div>
 <script src="../../scripts/toc-scroll.js"></script>
+
+<!-- Admin mode indicator: visible only when html[data-admin="1"]. Click to log out. -->
+<button type="button" class="admin-indicator" aria-label="Admin mode active — click to log out" onclick="try{localStorage.removeItem('shuwo-admin');location.reload();}catch(e){}">
+  ◉ admin
+</button>
 
 <script src="../../scripts/toc-scroll.js"></script>
 <script src="../../scripts/enhance.js" defer></script>

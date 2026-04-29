@@ -1,5 +1,63 @@
 [
   {
+    "path": "pages/characters/ren4_认.html",
+    "type": "character",
+    "category": "characters",
+    "title": "认 · to recognize, to acknowledge",
+    "desc": "The act of recognition — knowing something for what it is, owning up to it, and the small set of compounds that turn this on the world, on others, and on oneself.",
+    "tags": [
+      "knowing",
+      "mind",
+      "ethics"
+    ],
+    "status": "complete",
+    "char": "认",
+    "pinyin": "rèn",
+    "tone": 4,
+    "hsk": {
+      "from": 1,
+      "to": 3
+    },
+    "radical": "讠",
+    "updated": "2026-04-28"
+  },
+  {
+    "path": "pages/characters/zhen1_真.html",
+    "type": "character",
+    "category": "characters",
+    "title": "真 · real, true, genuine",
+    "desc": "Truth not as accuracy but as authenticity — the unadorned thing itself, prized in Daoist self-cultivation and in everyday emphasis.",
+    "tags": [
+      "knowing",
+      "daoism",
+      "philosophy",
+      "virtue"
+    ],
+    "status": "complete",
+    "char": "真",
+    "pinyin": "zhēn",
+    "tone": 1,
+    "hsk": 2,
+    "radical": "目",
+    "updated": "2026-04-28"
+  },
+  {
+    "path": "pages/vocab/renzhen_认真.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "认真 · earnest, conscientious, taking it seriously",
+    "desc": "To recognize the 真 of a thing and engage with it on its own terms — the everyday word for taking work, study, and other people seriously rather than going through motions.",
+    "tags": [
+      "virtue",
+      "ethics",
+      "knowing",
+      "daily-life"
+    ],
+    "status": "complete",
+    "pinyin": "rènzhēn",
+    "updated": "2026-04-28"
+  },
+  {
     "path": "pages/arts/topic_jingju_roles.html",
     "type": "topic",
     "category": "arts",
@@ -327,66 +385,6 @@
     "tone": 3,
     "hsk": 2,
     "radical": "匕",
-    "updated": "2026-04-25"
-  },
-  {
-    "path": "pages/characters/bi4_必.html",
-    "type": "character",
-    "category": "characters",
-    "title": "必 · certainly; must; necessarily",
-    "desc": "A character rooted in the image of a blade that divides without exception — certainty as the sharpness that leaves no room for maybe.",
-    "tags": [
-      "grammar",
-      "modal",
-      "logic",
-      "classical",
-      "ethics",
-      "philosophy"
-    ],
-    "status": "complete",
-    "char": "必",
-    "pinyin": "bì",
-    "tone": 4,
-    "hsk": 3,
-    "radical": "心",
-    "updated": "2026-04-25"
-  },
-  {
-    "path": "pages/characters/chu1_出.html",
-    "type": "character",
-    "category": "characters",
-    "title": "出 · to exit, to emerge, to produce",
-    "desc": "出 is two plants growing upward out of the earth — emergence itself written as a glyph, from physical exits to publication to standing out from the crowd.",
-    "tags": [
-      "motion",
-      "direction",
-      "daily-life"
-    ],
-    "status": "complete",
-    "char": "出",
-    "pinyin": "chū",
-    "tone": 1,
-    "hsk": 2,
-    "radical": "凵",
-    "updated": "2026-04-25"
-  },
-  {
-    "path": "pages/characters/dao4_到.html",
-    "type": "character",
-    "category": "characters",
-    "title": "到 · to arrive, to reach; to",
-    "desc": "As a resultative complement suffix, 到 converts any action verb into a claim of completion — 听到 means not just hearing but hearing that arrived, perception proven by contact.",
-    "tags": [
-      "motion",
-      "grammar",
-      "daily-life"
-    ],
-    "status": "complete",
-    "char": "到",
-    "pinyin": "dào",
-    "tone": 4,
-    "hsk": 2,
-    "radical": "刀",
     "updated": "2026-04-25"
   }
 ]

@@ -9,6 +9,8 @@
 <meta name="theme-color" content="#1c1208" id="meta-theme-color">
 <!-- Flash-of-wrong-theme prevention: read localStorage before first paint -->
 <script>(function(){try{var t=localStorage.getItem('shuwo-theme');if(t==='dark'||t==='light'){document.documentElement.setAttribute('data-theme',t);}else if(!t&&window.matchMedia('(prefers-color-scheme: dark)').matches){document.documentElement.setAttribute('data-theme','dark');}}catch(e){}})();</script>
+<!-- Admin gating: any element with class .admin-only is hidden by default and shown only when localStorage.shuwo-admin === '1'. Set on the <html> root so CSS can target without FOUC. URL ?admin=1 grants; ?admin=0 revokes; key sequence "shu" toggles. -->
+<script>(function(){try{var u=new URLSearchParams(location.search);var v=u.get('admin');if(v==='1'){localStorage.setItem('shuwo-admin','1');}else if(v==='0'){localStorage.removeItem('shuwo-admin');}if(localStorage.getItem('shuwo-admin')==='1')document.documentElement.setAttribute('data-admin','1');}catch(e){}})();</script>
 <meta name="apple-mobile-web-app-title" content="角落書屋">
 <meta name="application-name" content="角落書屋">
 <link rel="alternate" type="application/rss+xml" title="Jiǎoluò Shūwū · 角落書屋" href="../../feed.xml">
@@ -248,8 +250,8 @@
       <div class="related-cards">
         <a class="related-card" href="topic_chunjie.html" data-category="culture"><span class="rc-head"><span class="rc-cn">春节</span><span class="rc-py">Chūnjié</span></span><span class="rc-en">Spring Festival</span><span class="rc-detail">Lunar New Year. The largest annual human migration and the most important date on the Chinese calendar.</span><span class="rl-reason rl-reason-tag">theme · festival</span></a>
         <a class="related-card" href="../vocab/chunjie_春节.html" data-category="vocab"><span class="rc-head"><span class="rc-cn">春节</span><span class="rc-py">Chūnjié</span></span><span class="rc-en">Spring Festival</span><span class="rc-detail">The most important holiday in the Chinese calendar: customs, foods, taboos, the reunion dinner, and the cultural weight of the Spring Festival.</span><span class="rl-reason rl-reason-tag">theme · family</span></a>
-        <a class="related-card" href="../characters/chang2_长.html" data-category="characters"><span class="rc-head"><span class="rc-cn">长</span><span class="rc-py">cháng</span></span><span class="rc-en">long; to grow; chief</span><span class="rc-detail">A person with flowing long hair — one character, two readings: cháng (long) and zhǎng (to grow, elder), the richest dual-reading in Mandarin.</span><span class="rl-reason rl-reason-tag">theme · family</span></a>
         <a class="related-card" href="../characters/zhong1_中.html" data-category="characters"><span class="rc-head"><span class="rc-cn">中</span><span class="rc-py">zhōng</span></span><span class="rc-en">middle, China, to hit the mark</span><span class="rc-detail">An arrow piercing through the center of a target — the character that names China as the Middle Kingdom and encodes the Confucian virtue of equilibrium.</span><span class="rl-reason rl-reason-contains">in 中</span></a>
+        <a class="related-card" href="../characters/chang2_长.html" data-category="characters"><span class="rc-head"><span class="rc-cn">长</span><span class="rc-py">cháng</span></span><span class="rc-en">long; to grow; chief</span><span class="rc-detail">A person with flowing long hair — one character, two readings: cháng (long) and zhǎng (to grow, elder), the richest dual-reading in Mandarin.</span><span class="rl-reason rl-reason-tag">theme · family</span></a>
         <a class="related-card" href="topic_zhongjiu.html" data-category="culture"><span class="rc-head"><span class="rc-cn">重阳节</span><span class="rc-py">Chóngyángjié</span></span><span class="rc-en">Double Ninth Festival</span><span class="rc-detail">The festival named for two nines produced one of the Tang dynasty most memorized poems — and a linguistic trick that lets urban dwellers eat a cake instead of climbing a mountain.</span><span class="rl-reason rl-reason-tag">theme · festival</span></a>
         <a class="related-card" href="topic_qingming.html" data-category="culture"><span class="rc-head"><span class="rc-cn">清明节</span><span class="rc-py">Qīngmíngjié</span></span><span class="rc-en">Tomb-Sweeping Day</span><span class="rc-detail">The day the living visit the dead: a spring festival of grief, gratitude, and continuity across generations.</span><span class="rl-reason rl-reason-tag">theme · festival</span></a>
         <a class="related-card" href="topic_duanwu.html" data-category="culture"><span class="rc-head"><span class="rc-cn">端午节</span><span class="rc-py">Duānwǔ jié</span></span><span class="rc-en">Dragon Boat Festival</span><span class="rc-detail">Rice dumplings thrown into a river for a drowned poet — the festival that fused an act of mourning into one of China&#39;s great summer celebrations.</span><span class="rl-reason rl-reason-tag">theme · festival</span></a>
@@ -295,6 +297,11 @@
   </main>
 </div>
 <script src="../../scripts/toc-scroll.js"></script>
+
+<!-- Admin mode indicator: visible only when html[data-admin="1"]. Click to log out. -->
+<button type="button" class="admin-indicator" aria-label="Admin mode active — click to log out" onclick="try{localStorage.removeItem('shuwo-admin');location.reload();}catch(e){}">
+  ◉ admin
+</button>
 
 <script src="../../scripts/toc-scroll.js"></script>
 <script src="../../scripts/enhance.js" defer></script>

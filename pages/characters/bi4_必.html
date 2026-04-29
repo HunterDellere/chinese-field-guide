@@ -9,6 +9,8 @@
 <meta name="theme-color" content="#1c1208" id="meta-theme-color">
 <!-- Flash-of-wrong-theme prevention: read localStorage before first paint -->
 <script>(function(){try{var t=localStorage.getItem('shuwo-theme');if(t==='dark'||t==='light'){document.documentElement.setAttribute('data-theme',t);}else if(!t&&window.matchMedia('(prefers-color-scheme: dark)').matches){document.documentElement.setAttribute('data-theme','dark');}}catch(e){}})();</script>
+<!-- Admin gating: any element with class .admin-only is hidden by default and shown only when localStorage.shuwo-admin === '1'. Set on the <html> root so CSS can target without FOUC. URL ?admin=1 grants; ?admin=0 revokes; key sequence "shu" toggles. -->
+<script>(function(){try{var u=new URLSearchParams(location.search);var v=u.get('admin');if(v==='1'){localStorage.setItem('shuwo-admin','1');}else if(v==='0'){localStorage.removeItem('shuwo-admin');}if(localStorage.getItem('shuwo-admin')==='1')document.documentElement.setAttribute('data-admin','1');}catch(e){}})();</script>
 <meta name="apple-mobile-web-app-title" content="角落書屋">
 <meta name="application-name" content="角落書屋">
 <link rel="alternate" type="application/rss+xml" title="Jiǎoluò Shūwū · 角落書屋" href="../../feed.xml">
@@ -548,8 +550,8 @@
         <a class="related-card" href="xiang3_想.html" data-category="characters"><span class="rc-head"><span class="rc-cn">想</span><span class="rc-py">xiǎng</span></span><span class="rc-en">to think, to want, to miss</span><span class="rc-detail">想 = 相 (mutual, facing) + 心 (heart) — the heart turned toward something, carrying the full range from thought to desire to longing in a single gesture.</span><span class="rl-reason rl-reason-radical">shares radical · 心</span></a>
         <a class="related-card rl-multi" href="../chengyu/kezhouqiujian_刻舟求剑.html" data-category="chengyu"><span class="rc-head"><span class="rc-cn">刻舟求剑</span><span class="rc-py">kè zhōu qiú jiàn</span></span><span class="rc-en">Carving the Boat to Find the Sword</span><span class="rc-detail">He marked the boat where his sword fell into the river. When the boat reached the shore, he dived where the mark was.</span><span class="rl-reason rl-reason-tag">theme · logic</span></a>
         <a class="related-card" href="yao4_要.html" data-category="characters"><span class="rc-head"><span class="rc-cn">要</span><span class="rc-py">yào</span></span><span class="rc-en">to want, must, essential</span><span class="rc-detail">Want, need, must, and will — the grammar engine disguised as a single character.</span><span class="rl-reason rl-reason-tag">theme · modal</span></a>
-        <a class="related-card" href="yi4_义.html" data-category="characters"><span class="rc-head"><span class="rc-cn">义</span><span class="rc-py">yì</span></span><span class="rc-en">righteousness, duty, justice</span><span class="rc-detail">The Confucian virtue of doing what is morally right — and the simplification that erased a sheep, a self, and the entire picture of what righteous form looks like.</span><span class="rl-reason rl-reason-tag">theme · ethics</span></a>
         <a class="related-card" href="ke3_可.html" data-category="characters"><span class="rc-head"><span class="rc-cn">可</span><span class="rc-py">kě</span></span><span class="rc-en">can; may; worth; quite</span><span class="rc-detail">A two-stroke mouth character whose ancient sense of affirming breath became the pivot of permission, capability, and worth in classical and modern Chinese.</span><span class="rl-reason rl-reason-tag">theme · modal</span></a>
+        <a class="related-card" href="yi4_义.html" data-category="characters"><span class="rc-head"><span class="rc-cn">义</span><span class="rc-py">yì</span></span><span class="rc-en">righteousness, duty, justice</span><span class="rc-detail">The Confucian virtue of doing what is morally right — and the simplification that erased a sheep, a self, and the entire picture of what righteous form looks like.</span><span class="rl-reason rl-reason-tag">theme · ethics</span></a>
         <a class="related-card" href="xin1_心.html" data-category="characters"><span class="rc-head"><span class="rc-cn">心</span><span class="rc-py">xīn</span></span><span class="rc-en">heart, mind</span><span class="rc-detail">The radical at the root of all feeling, and the Chinese conception of thought itself.</span><span class="rl-reason rl-reason-radical">shares radical · 心</span></a>
         <a class="related-card" href="si1_思.html" data-category="characters"><span class="rc-head"><span class="rc-cn">思</span><span class="rc-py">sī</span></span><span class="rc-en">to think, to miss, thought</span><span class="rc-detail">The field of the mind above the heart: thinking as cultivation, longing as thought turned inward.</span><span class="rl-reason rl-reason-radical">shares radical · 心</span></a>
         <a class="related-card" href="gan3_感.html" data-category="characters"><span class="rc-head"><span class="rc-cn">感</span><span class="rc-py">gǎn</span></span><span class="rc-en">to feel, to resonate</span><span class="rc-detail">Feeling, perception, gratitude, and the cosmology of sympathetic resonance.</span><span class="rl-reason rl-reason-radical">shares radical · 心</span></a>
@@ -609,6 +611,11 @@
     </footer>
   </main>
 </div>
+
+<!-- Admin mode indicator: visible only when html[data-admin="1"]. Click to log out. -->
+<button type="button" class="admin-indicator" aria-label="Admin mode active — click to log out" onclick="try{localStorage.removeItem('shuwo-admin');location.reload();}catch(e){}">
+  ◉ admin
+</button>
 
 <script src="../../scripts/toc-scroll.js"></script>
 <script src="../../scripts/enhance.js" defer></script>

@@ -9,6 +9,8 @@
 <meta name="theme-color" content="#1c1208" id="meta-theme-color">
 <!-- Flash-of-wrong-theme prevention: read localStorage before first paint -->
 <script>(function(){try{var t=localStorage.getItem('shuwo-theme');if(t==='dark'||t==='light'){document.documentElement.setAttribute('data-theme',t);}else if(!t&&window.matchMedia('(prefers-color-scheme: dark)').matches){document.documentElement.setAttribute('data-theme','dark');}}catch(e){}})();</script>
+<!-- Admin gating: any element with class .admin-only is hidden by default and shown only when localStorage.shuwo-admin === '1'. Set on the <html> root so CSS can target without FOUC. URL ?admin=1 grants; ?admin=0 revokes; key sequence "shu" toggles. -->
+<script>(function(){try{var u=new URLSearchParams(location.search);var v=u.get('admin');if(v==='1'){localStorage.setItem('shuwo-admin','1');}else if(v==='0'){localStorage.removeItem('shuwo-admin');}if(localStorage.getItem('shuwo-admin')==='1')document.documentElement.setAttribute('data-admin','1');}catch(e){}})();</script>
 <meta name="apple-mobile-web-app-title" content="角落書屋">
 <meta name="application-name" content="角落書屋">
 <link rel="alternate" type="application/rss+xml" title="Jiǎoluò Shūwū · 角落書屋" href="../../feed.xml">
@@ -186,8 +188,8 @@
         <a class="related-card rl-multi" href="qingchulanlan_青出于蓝.html" data-category="chengyu"><span class="rc-head"><span class="rc-cn">青出于蓝</span><span class="rc-py">qīng chū yú lán</span></span><span class="rc-en">The Student Surpasses the Teacher</span><span class="rc-detail">Indigo is made from the indigo plant, yet it is bluer than the plant itself. Xunzi&#39;s image for the student who surpasses the teacher through sustained effort.</span><span class="rl-reason rl-reason-tag">theme · confucianism</span></a>
         <a class="related-card" href="../vocab/yi4_义.html" data-category="vocab"><span class="rc-head"><span class="rc-cn">义</span><span class="rc-py">yì</span></span><span class="rc-en">Righteousness — The Second Constant</span><span class="rc-detail">Doing what is right because it is right — 义 as the enacted path of Confucian ethics, the constant that gives 仁 its direction.</span><span class="rl-reason rl-reason-tag">theme · ethics</span></a>
         <a class="related-card" href="../vocab/daode_道德.html" data-category="vocab"><span class="rc-head"><span class="rc-cn">道德</span><span class="rc-py">dàodé</span></span><span class="rc-en">morality, ethics, virtue</span><span class="rc-detail">The compound at the center of Chinese moral philosophy — the Way and its virtue, inseparable and mutually defining.</span><span class="rl-reason rl-reason-tag">theme · ethics</span></a>
-        <a class="related-card" href="../religion/topic_rujia.html" data-category="religion"><span class="rc-head"><span class="rc-cn">儒家</span><span class="rc-py">rújiā</span></span><span class="rc-en">Confucianism</span><span class="rc-detail">The school of the ru — ritual, hierarchy, and moral cultivation as state religion.</span><span class="rl-reason rl-reason-tag">theme · ethics</span></a>
         <a class="related-card" href="../vocab/ren2_仁.html" data-category="vocab"><span class="rc-head"><span class="rc-cn">仁</span><span class="rc-py">rén</span></span><span class="rc-en">humaneness, benevolence</span><span class="rc-detail">The supreme Confucian virtue — the quality of genuine care for other people that holds civilization together.</span><span class="rl-reason rl-reason-tag">theme · ethics</span></a>
+        <a class="related-card" href="../religion/topic_rujia.html" data-category="religion"><span class="rc-head"><span class="rc-cn">儒家</span><span class="rc-py">rújiā</span></span><span class="rc-en">Confucianism</span><span class="rc-detail">The school of the ru — ritual, hierarchy, and moral cultivation as state religion.</span><span class="rl-reason rl-reason-tag">theme · ethics</span></a>
         <a class="related-card rl-multi" href="../hubs/daode.html" data-category="hubs"><span class="rc-head"><span class="rc-cn">道德与伦理</span><span class="rc-py">dàodé yǔ lúnlǐ</span></span><span class="rc-en">Morality and Ethics — A Reading Path</span><span class="rc-detail">Chinese ethics is not a checklist of personal virtues. It is a description of how one should relate to specific others — and what happens when those relationships are tested.</span><span class="rl-reason rl-reason-tag">theme · ethics</span></a>
         <a class="related-card" href="../characters/yi4_义.html" data-category="characters"><span class="rc-head"><span class="rc-cn">义</span><span class="rc-py">yì</span></span><span class="rc-en">righteousness, duty, justice</span><span class="rc-detail">The Confucian virtue of doing what is morally right — and the simplification that erased a sheep, a self, and the entire picture of what righteous form looks like.</span><span class="rl-reason rl-reason-tag">theme · ethics</span></a>
       </div>
@@ -231,6 +233,11 @@
   </main>
 </div>
 <script src="../../scripts/toc-scroll.js"></script>
+
+<!-- Admin mode indicator: visible only when html[data-admin="1"]. Click to log out. -->
+<button type="button" class="admin-indicator" aria-label="Admin mode active — click to log out" onclick="try{localStorage.removeItem('shuwo-admin');location.reload();}catch(e){}">
+  ◉ admin
+</button>
 
 <script src="../../scripts/toc-scroll.js"></script>
 <script src="../../scripts/enhance.js" defer></script>

@@ -9,6 +9,8 @@
 <meta name="theme-color" content="#1c1208" id="meta-theme-color">
 <!-- Flash-of-wrong-theme prevention: read localStorage before first paint -->
 <script>(function(){try{var t=localStorage.getItem('shuwo-theme');if(t==='dark'||t==='light'){document.documentElement.setAttribute('data-theme',t);}else if(!t&&window.matchMedia('(prefers-color-scheme: dark)').matches){document.documentElement.setAttribute('data-theme','dark');}}catch(e){}})();</script>
+<!-- Admin gating: any element with class .admin-only is hidden by default and shown only when localStorage.shuwo-admin === '1'. Set on the <html> root so CSS can target without FOUC. URL ?admin=1 grants; ?admin=0 revokes; key sequence "shu" toggles. -->
+<script>(function(){try{var u=new URLSearchParams(location.search);var v=u.get('admin');if(v==='1'){localStorage.setItem('shuwo-admin','1');}else if(v==='0'){localStorage.removeItem('shuwo-admin');}if(localStorage.getItem('shuwo-admin')==='1')document.documentElement.setAttribute('data-admin','1');}catch(e){}})();</script>
 <meta name="apple-mobile-web-app-title" content="角落書屋">
 <meta name="application-name" content="角落書屋">
 <link rel="alternate" type="application/rss+xml" title="Jiǎoluò Shūwū · 角落書屋" href="../../feed.xml">
@@ -207,7 +209,7 @@
         </div>
         <div class="examples">
           <div class="example">
-            <div class="ex-cn">他在认真思考这个问题。</div>
+            <div class="ex-cn">他在<a class="auto-link" href="../vocab/renzhen_认真.html">认真</a>思考这个问题。</div>
             <div class="ex-py">Tā zài rènzhēn sīkǎo zhège wèntí.</div>
             <div class="ex-en">He is thinking carefully about this problem.</div>
           </div>
@@ -217,7 +219,7 @@
             <div class="ex-en">Give me a moment to think.</div>
           </div>
           <div class="example">
-            <div class="ex-cn">我需要认真思考一下才能回答你。</div>
+            <div class="ex-cn">我需要<a class="auto-link" href="../vocab/renzhen_认真.html">认真</a>思考一下才能回答你。</div>
             <div class="ex-py">Wǒ xūyào rènzhēn sīkǎo yīxià cái néng huídá nǐ.</div>
             <div class="ex-en">I need to think it through carefully before I can answer you.</div>
           </div>
@@ -526,9 +528,9 @@
         <a class="related-card" href="gan3_感.html" data-category="characters"><span class="rc-head"><span class="rc-cn">感</span><span class="rc-py">gǎn</span></span><span class="rc-en">to feel, to resonate</span><span class="rc-detail">Feeling, perception, gratitude, and the cosmology of sympathetic resonance.</span><span class="rl-reason rl-reason-radical">shares radical · 心</span></a>
         <a class="related-card" href="kuai4_快.html" data-category="characters"><span class="rc-head"><span class="rc-cn">快</span><span class="rc-py">kuài</span></span><span class="rc-en">fast, happy</span><span class="rc-detail">One character carries two meanings that turn out to be the same thing: speed and joy both feel like the heart cutting loose.</span><span class="rl-reason rl-reason-tag">theme · emotion</span></a>
         <a class="related-card" href="man4_慢.html" data-category="characters"><span class="rc-head"><span class="rc-cn">慢</span><span class="rc-py">màn</span></span><span class="rc-en">slow, unhurried</span><span class="rc-detail">Pace becomes a moral register: 慢 màn carries the same heart radical as 快, and extends from physical slowness into social neglect and arrogance.</span><span class="rl-reason rl-reason-tag">theme · emotion</span></a>
+        <a class="related-card" href="ren4_认.html" data-category="characters"><span class="rc-head"><span class="rc-cn">认</span><span class="rc-py">rèn</span></span><span class="rc-en">to recognize, to acknowledge</span><span class="rc-detail">The act of recognition — knowing something for what it is, owning up to it, and the small set of compounds that turn this on the world, on others, and on oneself.</span><span class="rl-reason rl-reason-tag">theme · mind</span></a>
         <a class="related-card" href="bi4_必.html" data-category="characters"><span class="rc-head"><span class="rc-cn">必</span><span class="rc-py">bì</span></span><span class="rc-en">certainly; must; necessarily</span><span class="rc-detail">A character rooted in the image of a blade that divides without exception — certainty as the sharpness that leaves no room for maybe.</span><span class="rl-reason rl-reason-radical">shares radical · 心</span></a>
         <a class="related-card" href="ai4_爱.html" data-category="characters"><span class="rc-head"><span class="rc-cn">爱</span><span class="rc-py">ài</span></span><span class="rc-en">love, to love, to cherish</span><span class="rc-detail">Love in all its forms — romantic, familial, and the Confucian ethic of universal benevolence.</span><span class="rl-reason rl-reason-tag">theme · emotion</span></a>
-        <a class="related-card" href="shen2_神.html" data-category="characters"><span class="rc-head"><span class="rc-cn">神</span><span class="rc-py">shén</span></span><span class="rc-en">spirit; deity; divine</span><span class="rc-detail">The character that names both the gods of Chinese folk religion and the focused attention of the human mind — because in Chinese thought they belong to the same category of phenomenon.</span><span class="rl-reason rl-reason-tag">theme · mind</span></a>
       </div>
       <div class="related-chips-tier">
         <span class="related-chips-head"><span class="rch-cn">词族</span> <span class="rch-py">cízú</span> <span class="rch-en">Vocabulary in this field</span></span>
@@ -584,6 +586,11 @@
     </footer>
   </main>
 </div>
+
+<!-- Admin mode indicator: visible only when html[data-admin="1"]. Click to log out. -->
+<button type="button" class="admin-indicator" aria-label="Admin mode active — click to log out" onclick="try{localStorage.removeItem('shuwo-admin');location.reload();}catch(e){}">
+  ◉ admin
+</button>
 
 <script src="../../scripts/toc-scroll.js"></script>
 <script src="../../scripts/enhance.js" defer></script>
