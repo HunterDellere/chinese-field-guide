@@ -6,7 +6,7 @@
  *   - Fetch (other GET, same-origin): stale-while-revalidate so visited pages and JSON load instantly.
  *   - Cross-origin (Google Fonts, Hanzi Writer CDN): runtime cache so offline reading still works.
  */
-const VERSION = 'shuwu-v13';
+const VERSION = 'shuwu-v14';
 const SHELL_CACHE = `${VERSION}-shell`;
 const RUNTIME_CACHE = `${VERSION}-runtime`;
 
@@ -62,6 +62,20 @@ self.addEventListener('fetch', event => {
         caches.open(RUNTIME_CACHE).then(c => c.put(req, copy));
         return res;
       }).catch(() => caches.match(req).then(m => m || caches.match('./index.html')))
+    );
+    return;
+  }
+
+  // audio-manifest.json: network-first. Small file, changes every deploy when
+  // new pages are authored; serving a stale copy makes new pages fall back to
+  // browser SpeechSynthesis on first visit until a refresh repopulates cache.
+  if (url.origin === location.origin && url.pathname.endsWith('/data/audio-manifest.json')) {
+    event.respondWith(
+      fetch(req).then(res => {
+        const copy = res.clone();
+        caches.open(RUNTIME_CACHE).then(c => c.put(req, copy));
+        return res;
+      }).catch(() => caches.match(req))
     );
     return;
   }
