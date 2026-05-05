@@ -21,6 +21,25 @@
     "updated": "2026-05-04"
   },
   {
+    "path": "pages/characters/du2_读.html",
+    "type": "character",
+    "category": "characters",
+    "title": "读 · to read aloud, to study",
+    "desc": "Reading as the act of voicing what is written — the everyday verb for studying, declaiming a text, and (figuratively) interpreting a person, a situation, or a sign.",
+    "tags": [
+      "learning",
+      "language",
+      "education"
+    ],
+    "status": "complete",
+    "char": "读",
+    "pinyin": "dú",
+    "tone": 2,
+    "hsk": 1,
+    "radical": "讠",
+    "updated": "2026-05-04"
+  },
+  {
     "path": "pages/characters/ren2_仁.html",
     "type": "character",
     "category": "characters",

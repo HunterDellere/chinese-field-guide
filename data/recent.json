@@ -21,6 +21,25 @@
     "updated": "2026-05-04"
   },
   {
+    "path": "pages/characters/du2_读.html",
+    "type": "character",
+    "category": "characters",
+    "title": "读 · to read aloud, to study",
+    "desc": "Reading as the act of voicing what is written — the everyday verb for studying, declaiming a text, and (figuratively) interpreting a person, a situation, or a sign.",
+    "tags": [
+      "learning",
+      "language",
+      "education"
+    ],
+    "status": "complete",
+    "char": "读",
+    "pinyin": "dú",
+    "tone": 2,
+    "hsk": 1,
+    "radical": "讠",
+    "updated": "2026-05-04"
+  },
+  {
     "path": "pages/characters/ren2_仁.html",
     "type": "character",
     "category": "characters",
@@ -372,23 +391,6 @@
     ],
     "status": "complete",
     "pinyin": "gǔqín",
-    "updated": "2026-04-25"
-  },
-  {
-    "path": "pages/arts/topic_shanshui.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "山水画 · landscape painting — mountains and water",
-    "desc": "Chinese landscape painting encodes a theory in its name: 山 (mountain, yang, permanent) and 水 (water, yin, changing) in dynamic tension — a space to inhabit in the imagination, not a view to frame.",
-    "tags": [
-      "arts",
-      "nature",
-      "taoism",
-      "aesthetics",
-      "classical"
-    ],
-    "status": "complete",
-    "pinyin": "shānshuǐhuà",
     "updated": "2026-04-25"
   }
 ]

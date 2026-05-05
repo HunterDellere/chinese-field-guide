@@ -6,13 +6,21 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>Notes on Chinese language and civilisation — characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 05 May 2026 02:50:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 04:18:50 GMT</lastBuildDate>
     <item>
       <title>德 · virtue, moral power</title>
       <link>https://jiaoshoo.com/pages/characters/de2_德.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/de2_德.html</guid>
       <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
       <description>Virtue not as rule-following but as accumulated moral power — what radiates from a person whose conduct has been straight long enough to become second nature.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>读 · to read aloud, to study</title>
+      <link>https://jiaoshoo.com/pages/characters/du2_读.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/du2_读.html</guid>
+      <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
+      <description>Reading as the act of voicing what is written — the everyday verb for studying, declaiming a text, and (figuratively) interpreting a person, a situation, or a sign.</description>
       <category>characters</category>
     </item>
     <item>
@@ -237,14 +245,6 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/duo1_多.html</guid>
       <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
       <description>Two evenings stacked — the character that encodes abundance, comparison, and the most common question about quantity in Mandarin.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>耳 · ear; to hear; handle</title>
-      <link>https://jiaoshoo.com/pages/characters/er3_耳.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/er3_耳.html</guid>
-      <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
-      <description>The pictograph of an ear that anchors Chinese words for listening, fame, and the furred handles on bronze vessels.</description>
       <category>characters</category>
     </item>
   </channel>

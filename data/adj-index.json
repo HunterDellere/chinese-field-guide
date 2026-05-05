@@ -798,6 +798,20 @@
     ],
     "hasPage": false
   },
+  "书": {
+    "cn": "书",
+    "py": "shū",
+    "en": "to write; book; calligraphy",
+    "count": 5,
+    "appearsOn": [
+      "pages/arts/topic_shufa_styles.html",
+      "pages/characters/du2_读.html",
+      "pages/characters/wen2_文.html",
+      "pages/characters/xie3_写.html",
+      "pages/characters/yan2_言.html"
+    ],
+    "hasPage": true
+  },
   "天地": {
     "cn": "天地",
     "py": "tiāndì",
@@ -918,7 +932,7 @@
       "pages/characters/xue2_学.html",
       "pages/characters/yan2_言.html"
     ],
-    "hasPage": false
+    "hasPage": true
   },
   "耳": {
     "cn": "耳",
@@ -1034,6 +1048,19 @@
       "pages/culture/topic_duanwu.html",
       "pages/science/topic_tiangan_dizhi.html",
       "pages/vocab/jieqi_节气.html"
+    ],
+    "hasPage": true
+  },
+  "看": {
+    "cn": "看",
+    "py": "kàn",
+    "en": "to look at; to read (silent, casual)",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/du2_读.html",
+      "pages/characters/jian4_见.html",
+      "pages/characters/mu4_目.html",
+      "pages/characters/ting1_听.html"
     ],
     "hasPage": true
   },
@@ -1193,16 +1220,16 @@
     ],
     "hasPage": true
   },
-  "书": {
-    "cn": "书",
-    "py": "shū",
-    "en": "to write; book; calligraphy",
+  "说": {
+    "cn": "说",
+    "py": "shuō",
+    "en": "to speak",
     "count": 4,
     "appearsOn": [
-      "pages/arts/topic_shufa_styles.html",
-      "pages/characters/wen2_文.html",
-      "pages/characters/xie3_写.html",
-      "pages/characters/yan2_言.html"
+      "pages/characters/du2_读.html",
+      "pages/characters/kou3_口.html",
+      "pages/characters/yan2_言.html",
+      "pages/characters/yu3_语.html"
     ],
     "hasPage": true
   },
@@ -1728,18 +1755,6 @@
     ],
     "hasPage": true
   },
-  "看": {
-    "cn": "看",
-    "py": "kàn",
-    "en": "to look at, to watch",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/jian4_见.html",
-      "pages/characters/mu4_目.html",
-      "pages/characters/ting1_听.html"
-    ],
-    "hasPage": true
-  },
   "雷": {
     "cn": "雷",
     "py": "léi",
@@ -1835,6 +1850,18 @@
       "pages/vocab/shijian_时间.html"
     ],
     "hasPage": true
+  },
+  "念": {
+    "cn": "念",
+    "py": "niàn",
+    "en": "to read aloud; to think of",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/du2_读.html",
+      "pages/characters/si1_思.html",
+      "pages/characters/xiang3_想.html"
+    ],
+    "hasPage": false
   },
   "跑": {
     "cn": "跑",
@@ -1932,6 +1959,18 @@
     ],
     "hasPage": false
   },
+  "诗": {
+    "cn": "诗",
+    "py": "shī",
+    "en": "poetry",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/du2_读.html",
+      "pages/characters/wen2_文.html",
+      "pages/characters/yan2_言.html"
+    ],
+    "hasPage": false
+  },
   "时代": {
     "cn": "时代",
     "py": "shídài",
@@ -1943,18 +1982,6 @@
       "pages/vocab/shijian_时间.html"
     ],
     "hasPage": false
-  },
-  "说": {
-    "cn": "说",
-    "py": "shuō",
-    "en": "to speak",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/kou3_口.html",
-      "pages/characters/yan2_言.html",
-      "pages/characters/yu3_语.html"
-    ],
-    "hasPage": true
   },
   "所": {
     "cn": "所",
@@ -2464,6 +2491,17 @@
     ],
     "hasPage": true
   },
+  "背诵": {
+    "cn": "背诵",
+    "py": "bèisòng",
+    "en": "to recite from memory",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/du2_读.html",
+      "pages/vocab/shici_诗词.html"
+    ],
+    "hasPage": false
+  },
   "被": {
     "cn": "被",
     "py": "bèi",
@@ -2837,6 +2875,28 @@
       "pages/characters/xi1_西.html"
     ],
     "hasPage": true
+  },
+  "读书": {
+    "cn": "读书",
+    "py": "dúshū",
+    "en": "to study; to read",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/du2_读.html",
+      "pages/characters/shu1_书.html"
+    ],
+    "hasPage": false
+  },
+  "读者": {
+    "cn": "读者",
+    "py": "dúzhě",
+    "en": "reader",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/du2_读.html",
+      "pages/grammar/zhi_者.html"
+    ],
+    "hasPage": false
   },
   "杜甫": {
     "cn": "杜甫",
@@ -3839,17 +3899,6 @@
     ],
     "hasPage": true
   },
-  "念": {
-    "cn": "念",
-    "py": "niàn",
-    "en": "to think of; to miss; to read aloud",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/si1_思.html",
-      "pages/characters/xiang3_想.html"
-    ],
-    "hasPage": false
-  },
   "农历": {
     "cn": "农历",
     "py": "nónglì",
@@ -4221,17 +4270,6 @@
     "appearsOn": [
       "pages/characters/kou3_口.html",
       "pages/characters/ting1_听.html"
-    ],
-    "hasPage": false
-  },
-  "诗": {
-    "cn": "诗",
-    "py": "shī",
-    "en": "poetry",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/wen2_文.html",
-      "pages/characters/yan2_言.html"
     ],
     "hasPage": false
   },
@@ -5655,16 +5693,6 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/hou4_后.html"
-    ],
-    "hasPage": false
-  },
-  "背诵": {
-    "cn": "背诵",
-    "py": "bèisòng",
-    "en": "to recite from memory",
-    "count": 1,
-    "appearsOn": [
-      "pages/vocab/shici_诗词.html"
     ],
     "hasPage": false
   },
@@ -7668,26 +7696,6 @@
     ],
     "hasPage": false
   },
-  "读书": {
-    "cn": "读书",
-    "py": "dúshū",
-    "en": "to study; to read",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/shu1_书.html"
-    ],
-    "hasPage": false
-  },
-  "读者": {
-    "cn": "读者",
-    "py": "dúzhě",
-    "en": "reader (of a publication)",
-    "count": 1,
-    "appearsOn": [
-      "pages/grammar/zhi_者.html"
-    ],
-    "hasPage": false
-  },
   "度众生": {
     "cn": "度众生",
     "py": "dù zhòngshēng",
@@ -7887,6 +7895,16 @@
       "pages/philosophy/topic_mojia.html"
     ],
     "hasPage": true
+  },
+  "翻": {
+    "cn": "翻",
+    "py": "fān",
+    "en": "to flip through (a book)",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/du2_读.html"
+    ],
+    "hasPage": false
   },
   "凡夫": {
     "cn": "凡夫",
@@ -11105,6 +11123,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/xie3_写.html"
+    ],
+    "hasPage": false
+  },
+  "课文": {
+    "cn": "课文",
+    "py": "kèwén",
+    "en": "text (in a textbook)",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/du2_读.html"
     ],
     "hasPage": false
   },
@@ -17108,6 +17136,16 @@
     ],
     "hasPage": false
   },
+  "写": {
+    "cn": "写",
+    "py": "xiě",
+    "en": "to write",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/du2_读.html"
+    ],
+    "hasPage": true
+  },
   "写意": {
     "cn": "写意",
     "py": "xiěyì",
@@ -17538,6 +17576,16 @@
     ],
     "hasPage": true
   },
+  "学生": {
+    "cn": "学生",
+    "py": "xuéshēng",
+    "en": "student",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/du2_读.html"
+    ],
+    "hasPage": false
+  },
   "学识": {
     "cn": "学识",
     "py": "xuéshi",
@@ -17545,6 +17593,26 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/zhihui_智慧.html"
+    ],
+    "hasPage": false
+  },
+  "学习": {
+    "cn": "学习",
+    "py": "xuéxí",
+    "en": "to study; to learn",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/du2_读.html"
+    ],
+    "hasPage": false
+  },
+  "学校": {
+    "cn": "学校",
+    "py": "xuéxiào",
+    "en": "school",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/du2_读.html"
     ],
     "hasPage": false
   },
@@ -18715,6 +18783,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/ming2_明.html"
+    ],
+    "hasPage": false
+  },
+  "阅读": {
+    "cn": "阅读",
+    "py": "yuèdú",
+    "en": "to read with comprehension",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/du2_读.html"
     ],
     "hasPage": false
   },
