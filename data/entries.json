@@ -101,6 +101,25 @@
     "updated": "2026-05-04"
   },
   {
+    "path": "pages/characters/yan3_眼.html",
+    "type": "character",
+    "category": "characters",
+    "title": "眼 · eye, glance",
+    "desc": "The everyday word for eye — and, by extension, any small opening, any moment of looking, any judgment made through sight. The body-part counterpart to literary 目.",
+    "tags": [
+      "body",
+      "perception",
+      "measure-words"
+    ],
+    "status": "complete",
+    "char": "眼",
+    "pinyin": "yǎn",
+    "tone": 3,
+    "hsk": 2,
+    "radical": "目",
+    "updated": "2026-05-04"
+  },
+  {
     "path": "pages/characters/ren4_认.html",
     "type": "character",
     "category": "characters",

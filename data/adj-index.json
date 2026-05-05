@@ -728,6 +728,20 @@
     ],
     "hasPage": true
   },
+  "看": {
+    "cn": "看",
+    "py": "kàn",
+    "en": "to look at; to read (silent, casual)",
+    "count": 5,
+    "appearsOn": [
+      "pages/characters/du2_读.html",
+      "pages/characters/jian4_见.html",
+      "pages/characters/mu4_目.html",
+      "pages/characters/ting1_听.html",
+      "pages/characters/yan3_眼.html"
+    ],
+    "hasPage": true
+  },
   "了": {
     "cn": "了",
     "py": "le",
@@ -767,6 +781,20 @@
       "pages/characters/you3_有.html",
       "pages/grammar/dou_都.html",
       "pages/grammar/le_了.html"
+    ],
+    "hasPage": true
+  },
+  "目": {
+    "cn": "目",
+    "py": "mù",
+    "en": "eye (literary)",
+    "count": 5,
+    "appearsOn": [
+      "pages/characters/er3_耳.html",
+      "pages/characters/jian4_见.html",
+      "pages/characters/kan4_看.html",
+      "pages/characters/yan3_眼.html",
+      "pages/characters/zu2_足.html"
     ],
     "hasPage": true
   },
@@ -1039,6 +1067,19 @@
     ],
     "hasPage": false
   },
+  "见": {
+    "cn": "见",
+    "py": "jiàn",
+    "en": "to see; to meet (result/instantaneous)",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/kan4_看.html",
+      "pages/characters/mu4_目.html",
+      "pages/characters/yan3_眼.html",
+      "pages/grammar/bei_被.html"
+    ],
+    "hasPage": true
+  },
   "脚": {
     "cn": "脚",
     "py": "jiǎo",
@@ -1062,19 +1103,6 @@
       "pages/culture/topic_duanwu.html",
       "pages/science/topic_tiangan_dizhi.html",
       "pages/vocab/jieqi_节气.html"
-    ],
-    "hasPage": true
-  },
-  "看": {
-    "cn": "看",
-    "py": "kàn",
-    "en": "to look at; to read (silent, casual)",
-    "count": 4,
-    "appearsOn": [
-      "pages/characters/du2_读.html",
-      "pages/characters/jian4_见.html",
-      "pages/characters/mu4_目.html",
-      "pages/characters/ting1_听.html"
     ],
     "hasPage": true
   },
@@ -1153,19 +1181,6 @@
       "pages/vocab/keqi_客气.html",
       "pages/vocab/qianxu_谦虚.html",
       "pages/vocab/shehui_社会.html"
-    ],
-    "hasPage": true
-  },
-  "目": {
-    "cn": "目",
-    "py": "mù",
-    "en": "eye (literary)",
-    "count": 4,
-    "appearsOn": [
-      "pages/characters/er3_耳.html",
-      "pages/characters/jian4_见.html",
-      "pages/characters/kan4_看.html",
-      "pages/characters/zu2_足.html"
     ],
     "hasPage": true
   },
@@ -1375,7 +1390,7 @@
       "pages/characters/mu4_目.html",
       "pages/characters/shou3_手.html"
     ],
-    "hasPage": false
+    "hasPage": true
   },
   "也": {
     "cn": "也",
@@ -1730,18 +1745,6 @@
       "pages/characters/wu1_屋.html",
       "pages/vocab/guojia_国家.html",
       "pages/vocab/zhongguo_中国.html"
-    ],
-    "hasPage": true
-  },
-  "见": {
-    "cn": "见",
-    "py": "jiàn",
-    "en": "to see; to meet (result/instantaneous)",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/kan4_看.html",
-      "pages/characters/mu4_目.html",
-      "pages/grammar/bei_被.html"
     ],
     "hasPage": true
   },
@@ -2594,6 +2597,17 @@
       "pages/vocab/hanzi_汉字.html"
     ],
     "hasPage": true
+  },
+  "闭": {
+    "cn": "闭",
+    "py": "bì",
+    "en": "to close, to shut (formal)",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/guan1_关.html",
+      "pages/characters/yan3_眼.html"
+    ],
+    "hasPage": false
   },
   "变": {
     "cn": "变",
@@ -5834,16 +5848,6 @@
     ],
     "hasPage": false
   },
-  "闭": {
-    "cn": "闭",
-    "py": "bì",
-    "en": "to close, to shut (formal)",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/guan1_关.html"
-    ],
-    "hasPage": false
-  },
   "庇佑": {
     "cn": "庇佑",
     "py": "bìyòu",
@@ -8921,6 +8925,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/kan4_看.html"
+    ],
+    "hasPage": false
+  },
+  "观察": {
+    "cn": "观察",
+    "py": "guānchá",
+    "en": "to observe",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/yan3_眼.html"
     ],
     "hasPage": false
   },
@@ -14854,6 +14868,16 @@
     ],
     "hasPage": false
   },
+  "视线": {
+    "cn": "视线",
+    "py": "shìxiàn",
+    "en": "line of sight; gaze",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/yan3_眼.html"
+    ],
+    "hasPage": false
+  },
   "是…的": {
     "cn": "是…的",
     "py": "shì…de",
@@ -16714,6 +16738,16 @@
     ],
     "hasPage": false
   },
+  "瞎": {
+    "cn": "瞎",
+    "py": "xiā",
+    "en": "blind",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/yan3_眼.html"
+    ],
+    "hasPage": false
+  },
   "侠客": {
     "cn": "侠客",
     "py": "xiákè",
@@ -17851,6 +17885,56 @@
     "count": 1,
     "appearsOn": [
       "pages/arts/topic_shufa_styles.html"
+    ],
+    "hasPage": false
+  },
+  "眼光": {
+    "cn": "眼光",
+    "py": "yǎnguāng",
+    "en": "vision; taste; judgment",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/yan3_眼.html"
+    ],
+    "hasPage": false
+  },
+  "眼界": {
+    "cn": "眼界",
+    "py": "yǎnjiè",
+    "en": "horizon of experience",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/yan3_眼.html"
+    ],
+    "hasPage": false
+  },
+  "眼睛": {
+    "cn": "眼睛",
+    "py": "yǎnjing",
+    "en": "eye(s)",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/yan3_眼.html"
+    ],
+    "hasPage": false
+  },
+  "眼泪": {
+    "cn": "眼泪",
+    "py": "yǎnlèi",
+    "en": "tears",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/yan3_眼.html"
+    ],
+    "hasPage": false
+  },
+  "眼神": {
+    "cn": "眼神",
+    "py": "yǎnshén",
+    "en": "gaze; expression in the eyes",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/yan3_眼.html"
     ],
     "hasPage": false
   },
@@ -19284,6 +19368,16 @@
     ],
     "hasPage": false
   },
+  "睁": {
+    "cn": "睁",
+    "py": "zhēng",
+    "en": "to open (the eyes)",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/yan3_眼.html"
+    ],
+    "hasPage": false
+  },
   "整个": {
     "cn": "整个",
     "py": "zhěnggè",
@@ -19881,6 +19975,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/yao4_要.html"
+    ],
+    "hasPage": false
+  },
+  "注意": {
+    "cn": "注意",
+    "py": "zhùyì",
+    "en": "to pay attention",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/yan3_眼.html"
     ],
     "hasPage": false
   },

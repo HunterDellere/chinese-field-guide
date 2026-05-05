@@ -6,7 +6,7 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>Notes on Chinese language and civilisation — characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 05 May 2026 04:22:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 04:25:13 GMT</lastBuildDate>
     <item>
       <title>德 · virtue, moral power</title>
       <link>https://jiaoshoo.com/pages/characters/de2_德.html</link>
@@ -45,6 +45,14 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/xing2_行.html</guid>
       <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
       <description>One of the great polyphonic characters: xíng &quot;to walk; to act; conduct&quot; and háng &quot;row; profession; firm.&quot; A pictograph of a four-way crossroads — the place where walking and the world are organized.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>眼 · eye, glance</title>
+      <link>https://jiaoshoo.com/pages/characters/yan3_眼.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/yan3_眼.html</guid>
+      <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
+      <description>The everyday word for eye — and, by extension, any small opening, any moment of looking, any judgment made through sight. The body-part counterpart to literary 目.</description>
       <category>characters</category>
     </item>
     <item>
@@ -237,14 +245,6 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/di1_低.html</guid>
       <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
       <description>A person stooping: the phonetic 氐 gives the sound while the human radical supplies the posture, and together they built one of the most culturally loaded words in modern Chinese.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>东 · east; eastern</title>
-      <link>https://jiaoshoo.com/pages/characters/dong1_东.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/dong1_东.html</guid>
-      <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
-      <description>The sun rising behind a tree — and the direction that anchored China&apos;s cosmological, political, and poetic imagination.</description>
       <category>characters</category>
     </item>
   </channel>

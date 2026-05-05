@@ -101,6 +101,25 @@
     "updated": "2026-05-04"
   },
   {
+    "path": "pages/characters/yan3_眼.html",
+    "type": "character",
+    "category": "characters",
+    "title": "眼 · eye, glance",
+    "desc": "The everyday word for eye — and, by extension, any small opening, any moment of looking, any judgment made through sight. The body-part counterpart to literary 目.",
+    "tags": [
+      "body",
+      "perception",
+      "measure-words"
+    ],
+    "status": "complete",
+    "char": "眼",
+    "pinyin": "yǎn",
+    "tone": 3,
+    "hsk": 2,
+    "radical": "目",
+    "updated": "2026-05-04"
+  },
+  {
     "path": "pages/characters/ren4_认.html",
     "type": "character",
     "category": "characters",
@@ -373,26 +392,6 @@
     ],
     "status": "complete",
     "pinyin": "zhèngzài",
-    "updated": "2026-04-26"
-  },
-  {
-    "path": "pages/vocab/zhongguo_zhongwen_中文.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "中文 · Chinese Language and Writing",
-    "desc": "中文 names both the written script and the spoken language — the most common term among learners — but it sits alongside 汉语, 普通话, and 汉字 in a system of names that carries real distinctions.",
-    "tags": [
-      "language",
-      "writing",
-      "hanzi",
-      "characters",
-      "meta",
-      "vocabulary",
-      "daily-life",
-      "colloquial"
-    ],
-    "status": "complete",
-    "pinyin": "zhōngwén",
     "updated": "2026-04-26"
   }
 ]
