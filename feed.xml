@@ -6,7 +6,15 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>Notes on Chinese language and civilisation — characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Apr 2026 00:24:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 02:43:45 GMT</lastBuildDate>
+    <item>
+      <title>仁 · humaneness, the kernel of human relation</title>
+      <link>https://jiaoshoo.com/pages/characters/ren2_仁.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/ren2_仁.html</guid>
+      <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
+      <description>The character that anchors Confucian ethics — 亻 + 二, the self in relation to another. Etymology, the virtue-cluster compounds, and the seed-kernel sense that links moral and botanical 仁.</description>
+      <category>characters</category>
+    </item>
     <item>
       <title>认 · to recognize, to acknowledge</title>
       <link>https://jiaoshoo.com/pages/characters/ren4_认.html</link>
@@ -237,14 +245,6 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/gao1_高.html</guid>
       <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
       <description>A tall palace gate rising above the ground — and the character that anchors Chinese words for excellence, happiness, and examination pressure simultaneously.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>更 · even more; to change; night watch</title>
-      <link>https://jiaoshoo.com/pages/characters/geng4_更.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/geng4_更.html</guid>
-      <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
-      <description>A character that split across two readings: the comparative pulse of spoken Mandarin and the sonic clock of premodern China.</description>
       <category>characters</category>
     </item>
   </channel>

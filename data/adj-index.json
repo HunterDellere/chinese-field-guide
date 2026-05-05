@@ -60,9 +60,10 @@
     "cn": "礼",
     "py": "lǐ",
     "en": "ritual propriety",
-    "count": 14,
+    "count": 15,
     "appearsOn": [
       "pages/characters/he2_和.html",
+      "pages/characters/ren2_仁.html",
       "pages/characters/xin4_信.html",
       "pages/characters/yi4_义.html",
       "pages/characters/yu4_玉.html",
@@ -99,6 +100,44 @@
     ],
     "hasPage": true
   },
+  "君子": {
+    "cn": "君子",
+    "py": "jūnzǐ",
+    "en": "noble person; exemplary person",
+    "count": 10,
+    "appearsOn": [
+      "pages/characters/ren2_仁.html",
+      "pages/characters/xiao3_小.html",
+      "pages/characters/yi4_义.html",
+      "pages/characters/yu4_玉.html",
+      "pages/characters/zhi4_智.html",
+      "pages/chengyu/junzibugui_君子不器.html",
+      "pages/philosophy/topic_zhengming.html",
+      "pages/religion/topic_rujia.html",
+      "pages/vocab/qianxu_谦虚.html",
+      "pages/vocab/ren2_仁.html"
+    ],
+    "hasPage": true
+  },
+  "孔子": {
+    "cn": "孔子",
+    "py": "Kǒngzǐ",
+    "en": "Confucius",
+    "count": 10,
+    "appearsOn": [
+      "pages/characters/li3_礼.html",
+      "pages/characters/ren2_仁.html",
+      "pages/characters/xin4_信.html",
+      "pages/characters/yi4_义.html",
+      "pages/characters/zhi4_智.html",
+      "pages/history/topic_chunqiu.html",
+      "pages/history/topic_zhoudai.html",
+      "pages/religion/topic_rujia.html",
+      "pages/vocab/daode_道德.html",
+      "pages/vocab/ren2_仁.html"
+    ],
+    "hasPage": true
+  },
   "天命": {
     "cn": "天命",
     "py": "tiānmìng",
@@ -118,38 +157,39 @@
     ],
     "hasPage": true
   },
-  "君子": {
-    "cn": "君子",
-    "py": "jūnzǐ",
-    "en": "exemplary person; person of cultivation",
-    "count": 9,
+  "智": {
+    "cn": "智",
+    "py": "zhì",
+    "en": "wisdom; moral intelligence",
+    "count": 10,
     "appearsOn": [
-      "pages/characters/xiao3_小.html",
+      "pages/characters/li3_礼.html",
+      "pages/characters/ren2_仁.html",
+      "pages/characters/xin4_信.html",
       "pages/characters/yi4_义.html",
-      "pages/characters/yu4_玉.html",
-      "pages/characters/zhi4_智.html",
-      "pages/chengyu/junzibugui_君子不器.html",
-      "pages/philosophy/topic_zhengming.html",
-      "pages/religion/topic_rujia.html",
-      "pages/vocab/qianxu_谦虚.html",
-      "pages/vocab/ren2_仁.html"
+      "pages/characters/zhi1_知.html",
+      "pages/vocab/daode_道德.html",
+      "pages/vocab/junzi_君子.html",
+      "pages/vocab/ren2_仁.html",
+      "pages/vocab/yi4_义.html",
+      "pages/vocab/zhihui_智慧.html"
     ],
     "hasPage": true
   },
-  "孔子": {
-    "cn": "孔子",
-    "py": "Kǒngzǐ",
-    "en": "Confucius",
+  "义": {
+    "cn": "义",
+    "py": "yì",
+    "en": "righteousness; moral duty",
     "count": 9,
     "appearsOn": [
       "pages/characters/li3_礼.html",
+      "pages/characters/ren2_仁.html",
+      "pages/characters/shan4_善.html",
       "pages/characters/xin4_信.html",
-      "pages/characters/yi4_义.html",
       "pages/characters/zhi4_智.html",
-      "pages/history/topic_chunqiu.html",
-      "pages/history/topic_zhoudai.html",
-      "pages/religion/topic_rujia.html",
       "pages/vocab/daode_道德.html",
+      "pages/vocab/junzi_君子.html",
+      "pages/vocab/li3_礼.html",
       "pages/vocab/ren2_仁.html"
     ],
     "hasPage": true
@@ -169,24 +209,6 @@
       "pages/vocab/fengshui_风水.html",
       "pages/vocab/qiankun_乾坤.html",
       "pages/vocab/tiandi_天地.html"
-    ],
-    "hasPage": true
-  },
-  "智": {
-    "cn": "智",
-    "py": "zhì",
-    "en": "wisdom; moral intelligence",
-    "count": 9,
-    "appearsOn": [
-      "pages/characters/li3_礼.html",
-      "pages/characters/xin4_信.html",
-      "pages/characters/yi4_义.html",
-      "pages/characters/zhi1_知.html",
-      "pages/vocab/daode_道德.html",
-      "pages/vocab/junzi_君子.html",
-      "pages/vocab/ren2_仁.html",
-      "pages/vocab/yi4_义.html",
-      "pages/vocab/zhihui_智慧.html"
     ],
     "hasPage": true
   },
@@ -258,20 +280,36 @@
     ],
     "hasPage": true
   },
-  "义": {
-    "cn": "义",
-    "py": "yì",
-    "en": "righteousness; moral duty",
+  "信": {
+    "cn": "信",
+    "py": "xìn",
+    "en": "trustworthiness; faithfulness",
     "count": 8,
     "appearsOn": [
       "pages/characters/li3_礼.html",
-      "pages/characters/shan4_善.html",
-      "pages/characters/xin4_信.html",
+      "pages/characters/ren2_仁.html",
+      "pages/characters/yi4_义.html",
       "pages/characters/zhi4_智.html",
       "pages/vocab/daode_道德.html",
       "pages/vocab/junzi_君子.html",
-      "pages/vocab/li3_礼.html",
-      "pages/vocab/ren2_仁.html"
+      "pages/vocab/ren2_仁.html",
+      "pages/vocab/yi4_义.html"
+    ],
+    "hasPage": true
+  },
+  "慈悲": {
+    "cn": "慈悲",
+    "py": "cíbēi",
+    "en": "compassion; mercy",
+    "count": 7,
+    "appearsOn": [
+      "pages/characters/fo2_佛.html",
+      "pages/characters/ren2_仁.html",
+      "pages/characters/shan4_善.html",
+      "pages/religion/topic_fojiao.html",
+      "pages/religion/topic_guanyin.html",
+      "pages/vocab/lunhui_轮回.html",
+      "pages/vocab/pusa_菩萨.html"
     ],
     "hasPage": true
   },
@@ -304,6 +342,22 @@
       "pages/grammar/erqie_而且.html",
       "pages/grammar/le_了.html",
       "pages/grammar/zhe_着.html"
+    ],
+    "hasPage": true
+  },
+  "良心": {
+    "cn": "良心",
+    "py": "liángxīn",
+    "en": "conscience",
+    "count": 7,
+    "appearsOn": [
+      "pages/characters/ren2_仁.html",
+      "pages/characters/shan4_善.html",
+      "pages/characters/xin1_心.html",
+      "pages/philosophy/topic_yangming.html",
+      "pages/vocab/daode_道德.html",
+      "pages/vocab/ren2_仁.html",
+      "pages/vocab/tiandi_天地.html"
     ],
     "hasPage": true
   },
@@ -371,22 +425,6 @@
     ],
     "hasPage": true
   },
-  "信": {
-    "cn": "信",
-    "py": "xìn",
-    "en": "trustworthiness; faithfulness",
-    "count": 7,
-    "appearsOn": [
-      "pages/characters/li3_礼.html",
-      "pages/characters/yi4_义.html",
-      "pages/characters/zhi4_智.html",
-      "pages/vocab/daode_道德.html",
-      "pages/vocab/junzi_君子.html",
-      "pages/vocab/ren2_仁.html",
-      "pages/vocab/yi4_义.html"
-    ],
-    "hasPage": true
-  },
   "传统": {
     "cn": "传统",
     "py": "chuántǒng",
@@ -399,21 +437,6 @@
       "pages/culture/topic_duanwu.html",
       "pages/vocab/lishi_历史.html",
       "pages/vocab/wenhua_文化.html"
-    ],
-    "hasPage": true
-  },
-  "慈悲": {
-    "cn": "慈悲",
-    "py": "cíbēi",
-    "en": "compassion; mercy",
-    "count": 6,
-    "appearsOn": [
-      "pages/characters/fo2_佛.html",
-      "pages/characters/shan4_善.html",
-      "pages/religion/topic_fojiao.html",
-      "pages/religion/topic_guanyin.html",
-      "pages/vocab/lunhui_轮回.html",
-      "pages/vocab/pusa_菩萨.html"
     ],
     "hasPage": true
   },
@@ -432,21 +455,6 @@
     ],
     "hasPage": true
   },
-  "良心": {
-    "cn": "良心",
-    "py": "liángxīn",
-    "en": "conscience",
-    "count": 6,
-    "appearsOn": [
-      "pages/characters/shan4_善.html",
-      "pages/characters/xin1_心.html",
-      "pages/philosophy/topic_yangming.html",
-      "pages/vocab/daode_道德.html",
-      "pages/vocab/ren2_仁.html",
-      "pages/vocab/tiandi_天地.html"
-    ],
-    "hasPage": true
-  },
   "菩萨": {
     "cn": "菩萨",
     "py": "púsà",
@@ -459,6 +467,21 @@
       "pages/vocab/cibi_慈悲.html",
       "pages/vocab/lunhui_轮回.html",
       "pages/vocab/shenming_神明.html"
+    ],
+    "hasPage": true
+  },
+  "善": {
+    "cn": "善",
+    "py": "shàn",
+    "en": "goodness; virtue",
+    "count": 6,
+    "appearsOn": [
+      "pages/characters/ren2_仁.html",
+      "pages/characters/yi4_义.html",
+      "pages/vocab/cibi_慈悲.html",
+      "pages/vocab/daode_道德.html",
+      "pages/vocab/liangxin_良心.html",
+      "pages/vocab/ren2_仁.html"
     ],
     "hasPage": true
   },
@@ -611,6 +634,20 @@
     ],
     "hasPage": true
   },
+  "德": {
+    "cn": "德",
+    "py": "dé",
+    "en": "virtue; moral power",
+    "count": 5,
+    "appearsOn": [
+      "pages/characters/dao4_道.html",
+      "pages/characters/ren2_仁.html",
+      "pages/characters/shan4_善.html",
+      "pages/characters/yu4_玉.html",
+      "pages/chengyu/junzibugui_君子不器.html"
+    ],
+    "hasPage": false
+  },
   "东": {
     "cn": "东",
     "py": "dōng",
@@ -723,20 +760,6 @@
     ],
     "hasPage": false
   },
-  "善": {
-    "cn": "善",
-    "py": "shàn",
-    "en": "goodness; virtue",
-    "count": 5,
-    "appearsOn": [
-      "pages/characters/yi4_义.html",
-      "pages/vocab/cibi_慈悲.html",
-      "pages/vocab/daode_道德.html",
-      "pages/vocab/liangxin_良心.html",
-      "pages/vocab/ren2_仁.html"
-    ],
-    "hasPage": true
-  },
   "天地": {
     "cn": "天地",
     "py": "tiāndì",
@@ -833,18 +856,18 @@
     ],
     "hasPage": false
   },
-  "德": {
-    "cn": "德",
-    "py": "dé",
-    "en": "virtue; moral power",
+  "道德": {
+    "cn": "道德",
+    "py": "dàodé",
+    "en": "morality; ethics",
     "count": 4,
     "appearsOn": [
-      "pages/characters/dao4_道.html",
-      "pages/characters/shan4_善.html",
-      "pages/characters/yu4_玉.html",
-      "pages/chengyu/junzibugui_君子不器.html"
+      "pages/characters/ren2_仁.html",
+      "pages/vocab/liangxin_良心.html",
+      "pages/vocab/ren2_仁.html",
+      "pages/vocab/ziran_自然.html"
     ],
-    "hasPage": false
+    "hasPage": true
   },
   "都": {
     "cn": "都",
@@ -1353,6 +1376,18 @@
     ],
     "hasPage": true
   },
+  "爱": {
+    "cn": "爱",
+    "py": "ài",
+    "en": "love; to love",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/ren2_仁.html",
+      "pages/vocab/cibi_慈悲.html",
+      "pages/vocab/ren2_仁.html"
+    ],
+    "hasPage": true
+  },
   "般若": {
     "cn": "般若",
     "py": "bōrě",
@@ -1446,18 +1481,6 @@
       "pages/characters/duo1_多.html",
       "pages/characters/gao1_高.html",
       "pages/characters/xiao3_小.html"
-    ],
-    "hasPage": true
-  },
-  "道德": {
-    "cn": "道德",
-    "py": "dàodé",
-    "en": "morality; ethics",
-    "count": 3,
-    "appearsOn": [
-      "pages/vocab/liangxin_良心.html",
-      "pages/vocab/ren2_仁.html",
-      "pages/vocab/ziran_自然.html"
     ],
     "hasPage": true
   },
@@ -2311,17 +2334,6 @@
       "pages/grammar/zhe_particle_嘛.html"
     ],
     "hasPage": false
-  },
-  "爱": {
-    "cn": "爱",
-    "py": "ài",
-    "en": "love",
-    "count": 2,
-    "appearsOn": [
-      "pages/vocab/cibi_慈悲.html",
-      "pages/vocab/ren2_仁.html"
-    ],
-    "hasPage": true
   },
   "爱国": {
     "cn": "爱国",

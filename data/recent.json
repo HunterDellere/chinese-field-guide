@@ -1,5 +1,25 @@
 [
   {
+    "path": "pages/characters/ren2_仁.html",
+    "type": "character",
+    "category": "characters",
+    "title": "仁 · humaneness, the kernel of human relation",
+    "desc": "The character that anchors Confucian ethics — 亻 + 二, the self in relation to another. Etymology, the virtue-cluster compounds, and the seed-kernel sense that links moral and botanical 仁.",
+    "tags": [
+      "confucianism",
+      "ethics",
+      "virtue",
+      "philosophy"
+    ],
+    "status": "complete",
+    "char": "仁",
+    "pinyin": "rén",
+    "tone": 2,
+    "hsk": 5,
+    "radical": "亻",
+    "updated": "2026-05-04"
+  },
+  {
     "path": "pages/characters/ren4_认.html",
     "type": "character",
     "category": "characters",
@@ -366,25 +386,6 @@
     "tone": 3,
     "hsk": 1,
     "radical": "白",
-    "updated": "2026-04-25"
-  },
-  {
-    "path": "pages/characters/bei3_北.html",
-    "type": "character",
-    "category": "characters",
-    "title": "北 · north; northern; to flee",
-    "desc": "Two people standing back-to-back — the direction of cold and turning away that became the name of China's capital.",
-    "tags": [
-      "directions",
-      "nature",
-      "cosmology"
-    ],
-    "status": "complete",
-    "char": "北",
-    "pinyin": "běi",
-    "tone": 3,
-    "hsk": 2,
-    "radical": "匕",
     "updated": "2026-04-25"
   }
 ]
