@@ -1,5 +1,26 @@
 [
   {
+    "path": "pages/characters/de2_德.html",
+    "type": "character",
+    "category": "characters",
+    "title": "德 · virtue, moral power",
+    "desc": "Virtue not as rule-following but as accumulated moral power — what radiates from a person whose conduct has been straight long enough to become second nature.",
+    "tags": [
+      "confucianism",
+      "daoism",
+      "ethics",
+      "virtue",
+      "philosophy"
+    ],
+    "status": "complete",
+    "char": "德",
+    "pinyin": "dé",
+    "tone": 2,
+    "hsk": 4,
+    "radical": "彳",
+    "updated": "2026-05-04"
+  },
+  {
     "path": "pages/characters/ren2_仁.html",
     "type": "character",
     "category": "characters",
@@ -365,25 +386,6 @@
     "char": "白",
     "pinyin": "bái",
     "tone": 2,
-    "hsk": 1,
-    "radical": "白",
-    "updated": "2026-04-25"
-  },
-  {
-    "path": "pages/characters/bai3_百.html",
-    "type": "character",
-    "category": "characters",
-    "title": "百 · hundred; all kinds of",
-    "desc": "百姓 — the hundred surnames — is classical Chinese for the common people, because the full range of ordinary family names stands in for everyone who is not nobility.",
-    "tags": [
-      "scale",
-      "language",
-      "history"
-    ],
-    "status": "complete",
-    "char": "百",
-    "pinyin": "bǎi",
-    "tone": 3,
     "hsk": 1,
     "radical": "白",
     "updated": "2026-04-25"

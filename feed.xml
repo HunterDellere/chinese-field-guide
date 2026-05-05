@@ -6,7 +6,15 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>Notes on Chinese language and civilisation — characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 05 May 2026 02:43:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 02:47:28 GMT</lastBuildDate>
+    <item>
+      <title>德 · virtue, moral power</title>
+      <link>https://jiaoshoo.com/pages/characters/de2_德.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/de2_德.html</guid>
+      <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
+      <description>Virtue not as rule-following but as accumulated moral power — what radiates from a person whose conduct has been straight long enough to become second nature.</description>
+      <category>characters</category>
+    </item>
     <item>
       <title>仁 · humaneness, the kernel of human relation</title>
       <link>https://jiaoshoo.com/pages/characters/ren2_仁.html</link>
@@ -237,14 +245,6 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/er4_二.html</guid>
       <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
       <description>The number two encodes the foundational split that drives all of Chinese cosmology: yin and yang, the two forces from which everything else unfolds.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>高 · tall; high; elevated; surname</title>
-      <link>https://jiaoshoo.com/pages/characters/gao1_高.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/gao1_高.html</guid>
-      <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
-      <description>A tall palace gate rising above the ground — and the character that anchors Chinese words for excellence, happiness, and examination pressure simultaneously.</description>
       <category>characters</category>
     </item>
   </channel>

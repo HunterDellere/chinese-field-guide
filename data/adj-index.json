@@ -3,9 +3,10 @@
     "cn": "道",
     "py": "dào",
     "en": "the Way; path; principle",
-    "count": 20,
+    "count": 21,
     "appearsOn": [
       "pages/characters/bian4_变.html",
+      "pages/characters/de2_德.html",
       "pages/characters/fo2_佛.html",
       "pages/characters/lu4_路.html",
       "pages/characters/shen2_神.html",
@@ -31,9 +32,10 @@
   "仁": {
     "cn": "仁",
     "py": "rén",
-    "en": "humaneness; benevolence",
-    "count": 19,
+    "en": "humaneness",
+    "count": 20,
     "appearsOn": [
+      "pages/characters/de2_德.html",
       "pages/characters/he2_和.html",
       "pages/characters/li3_礼.html",
       "pages/characters/ren2_人.html",
@@ -60,8 +62,9 @@
     "cn": "礼",
     "py": "lǐ",
     "en": "ritual propriety",
-    "count": 15,
+    "count": 16,
     "appearsOn": [
+      "pages/characters/de2_德.html",
       "pages/characters/he2_和.html",
       "pages/characters/ren2_仁.html",
       "pages/characters/xin4_信.html",
@@ -77,6 +80,26 @@
       "pages/vocab/shenming_神明.html",
       "pages/vocab/tianren_天人.html",
       "pages/vocab/yi4_义.html"
+    ],
+    "hasPage": true
+  },
+  "君子": {
+    "cn": "君子",
+    "py": "jūnzǐ",
+    "en": "noble person; exemplary person",
+    "count": 11,
+    "appearsOn": [
+      "pages/characters/de2_德.html",
+      "pages/characters/ren2_仁.html",
+      "pages/characters/xiao3_小.html",
+      "pages/characters/yi4_义.html",
+      "pages/characters/yu4_玉.html",
+      "pages/characters/zhi4_智.html",
+      "pages/chengyu/junzibugui_君子不器.html",
+      "pages/philosophy/topic_zhengming.html",
+      "pages/religion/topic_rujia.html",
+      "pages/vocab/qianxu_谦虚.html",
+      "pages/vocab/ren2_仁.html"
     ],
     "hasPage": true
   },
@@ -100,22 +123,23 @@
     ],
     "hasPage": true
   },
-  "君子": {
-    "cn": "君子",
-    "py": "jūnzǐ",
-    "en": "noble person; exemplary person",
-    "count": 10,
+  "智": {
+    "cn": "智",
+    "py": "zhì",
+    "en": "wisdom",
+    "count": 11,
     "appearsOn": [
+      "pages/characters/de2_德.html",
+      "pages/characters/li3_礼.html",
       "pages/characters/ren2_仁.html",
-      "pages/characters/xiao3_小.html",
+      "pages/characters/xin4_信.html",
       "pages/characters/yi4_义.html",
-      "pages/characters/yu4_玉.html",
-      "pages/characters/zhi4_智.html",
-      "pages/chengyu/junzibugui_君子不器.html",
-      "pages/philosophy/topic_zhengming.html",
-      "pages/religion/topic_rujia.html",
-      "pages/vocab/qianxu_谦虚.html",
-      "pages/vocab/ren2_仁.html"
+      "pages/characters/zhi1_知.html",
+      "pages/vocab/daode_道德.html",
+      "pages/vocab/junzi_君子.html",
+      "pages/vocab/ren2_仁.html",
+      "pages/vocab/yi4_义.html",
+      "pages/vocab/zhihui_智慧.html"
     ],
     "hasPage": true
   },
@@ -157,31 +181,13 @@
     ],
     "hasPage": true
   },
-  "智": {
-    "cn": "智",
-    "py": "zhì",
-    "en": "wisdom; moral intelligence",
-    "count": 10,
-    "appearsOn": [
-      "pages/characters/li3_礼.html",
-      "pages/characters/ren2_仁.html",
-      "pages/characters/xin4_信.html",
-      "pages/characters/yi4_义.html",
-      "pages/characters/zhi1_知.html",
-      "pages/vocab/daode_道德.html",
-      "pages/vocab/junzi_君子.html",
-      "pages/vocab/ren2_仁.html",
-      "pages/vocab/yi4_义.html",
-      "pages/vocab/zhihui_智慧.html"
-    ],
-    "hasPage": true
-  },
   "义": {
     "cn": "义",
     "py": "yì",
-    "en": "righteousness; moral duty",
-    "count": 9,
+    "en": "righteousness",
+    "count": 10,
     "appearsOn": [
+      "pages/characters/de2_德.html",
       "pages/characters/li3_礼.html",
       "pages/characters/ren2_仁.html",
       "pages/characters/shan4_善.html",
@@ -191,6 +197,24 @@
       "pages/vocab/junzi_君子.html",
       "pages/vocab/li3_礼.html",
       "pages/vocab/ren2_仁.html"
+    ],
+    "hasPage": true
+  },
+  "信": {
+    "cn": "信",
+    "py": "xìn",
+    "en": "trustworthiness",
+    "count": 9,
+    "appearsOn": [
+      "pages/characters/de2_德.html",
+      "pages/characters/li3_礼.html",
+      "pages/characters/ren2_仁.html",
+      "pages/characters/yi4_义.html",
+      "pages/characters/zhi4_智.html",
+      "pages/vocab/daode_道德.html",
+      "pages/vocab/junzi_君子.html",
+      "pages/vocab/ren2_仁.html",
+      "pages/vocab/yi4_义.html"
     ],
     "hasPage": true
   },
@@ -226,6 +250,23 @@
       "pages/science/topic_tiangan_dizhi.html",
       "pages/science/topic_wuxing.html",
       "pages/vocab/tianren_天人.html"
+    ],
+    "hasPage": true
+  },
+  "良心": {
+    "cn": "良心",
+    "py": "liángxīn",
+    "en": "conscience",
+    "count": 8,
+    "appearsOn": [
+      "pages/characters/de2_德.html",
+      "pages/characters/ren2_仁.html",
+      "pages/characters/shan4_善.html",
+      "pages/characters/xin1_心.html",
+      "pages/philosophy/topic_yangming.html",
+      "pages/vocab/daode_道德.html",
+      "pages/vocab/ren2_仁.html",
+      "pages/vocab/tiandi_天地.html"
     ],
     "hasPage": true
   },
@@ -280,23 +321,6 @@
     ],
     "hasPage": true
   },
-  "信": {
-    "cn": "信",
-    "py": "xìn",
-    "en": "trustworthiness; faithfulness",
-    "count": 8,
-    "appearsOn": [
-      "pages/characters/li3_礼.html",
-      "pages/characters/ren2_仁.html",
-      "pages/characters/yi4_义.html",
-      "pages/characters/zhi4_智.html",
-      "pages/vocab/daode_道德.html",
-      "pages/vocab/junzi_君子.html",
-      "pages/vocab/ren2_仁.html",
-      "pages/vocab/yi4_义.html"
-    ],
-    "hasPage": true
-  },
   "慈悲": {
     "cn": "慈悲",
     "py": "cíbēi",
@@ -342,22 +366,6 @@
       "pages/grammar/erqie_而且.html",
       "pages/grammar/le_了.html",
       "pages/grammar/zhe_着.html"
-    ],
-    "hasPage": true
-  },
-  "良心": {
-    "cn": "良心",
-    "py": "liángxīn",
-    "en": "conscience",
-    "count": 7,
-    "appearsOn": [
-      "pages/characters/ren2_仁.html",
-      "pages/characters/shan4_善.html",
-      "pages/characters/xin1_心.html",
-      "pages/philosophy/topic_yangming.html",
-      "pages/vocab/daode_道德.html",
-      "pages/vocab/ren2_仁.html",
-      "pages/vocab/tiandi_天地.html"
     ],
     "hasPage": true
   },
@@ -634,6 +642,20 @@
     ],
     "hasPage": true
   },
+  "道德": {
+    "cn": "道德",
+    "py": "dàodé",
+    "en": "morality; ethics",
+    "count": 5,
+    "appearsOn": [
+      "pages/characters/de2_德.html",
+      "pages/characters/ren2_仁.html",
+      "pages/vocab/liangxin_良心.html",
+      "pages/vocab/ren2_仁.html",
+      "pages/vocab/ziran_自然.html"
+    ],
+    "hasPage": true
+  },
   "德": {
     "cn": "德",
     "py": "dé",
@@ -646,7 +668,7 @@
       "pages/characters/yu4_玉.html",
       "pages/chengyu/junzibugui_君子不器.html"
     ],
-    "hasPage": false
+    "hasPage": true
   },
   "东": {
     "cn": "东",
@@ -855,19 +877,6 @@
       "pages/philosophy/topic_yangming.html"
     ],
     "hasPage": false
-  },
-  "道德": {
-    "cn": "道德",
-    "py": "dàodé",
-    "en": "morality; ethics",
-    "count": 4,
-    "appearsOn": [
-      "pages/characters/ren2_仁.html",
-      "pages/vocab/liangxin_良心.html",
-      "pages/vocab/ren2_仁.html",
-      "pages/vocab/ziran_自然.html"
-    ],
-    "hasPage": true
   },
   "都": {
     "cn": "都",
@@ -1483,6 +1492,18 @@
       "pages/characters/xiao3_小.html"
     ],
     "hasPage": true
+  },
+  "道德经": {
+    "cn": "道德经",
+    "py": "dàodéjīng",
+    "en": "the Daodejing",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/de2_德.html",
+      "pages/characters/lao3_老.html",
+      "pages/chengyu/wanzhangaolou_万丈高楼.html"
+    ],
+    "hasPage": false
   },
   "地": {
     "cn": "地",
@@ -2706,17 +2727,6 @@
     "appearsOn": [
       "pages/characters/da4_大.html",
       "pages/grammar/dou_都.html"
-    ],
-    "hasPage": false
-  },
-  "道德经": {
-    "cn": "道德经",
-    "py": "Dào Dé Jīng",
-    "en": "Tao Te Ching",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/lao3_老.html",
-      "pages/chengyu/wanzhangaolou_万丈高楼.html"
     ],
     "hasPage": false
   },
@@ -6225,6 +6235,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/bai2_白.html"
+    ],
+    "hasPage": false
+  },
+  "操守": {
+    "cn": "操守",
+    "py": "cāoshǒu",
+    "en": "moral integrity",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/de2_德.html"
     ],
     "hasPage": false
   },
@@ -17365,6 +17385,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/fo2_佛.html"
+    ],
+    "hasPage": false
+  },
+  "修养": {
+    "cn": "修养",
+    "py": "xiūyǎng",
+    "en": "cultivation; self-cultivation",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/de2_德.html"
     ],
     "hasPage": false
   },
