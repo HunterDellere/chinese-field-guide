@@ -4172,6 +4172,60 @@
           "pinyin": "rènzhēn"
         }
       }
+    },
+    "pages/characters/de2_德.html": {
+      "voices": {
+        "xiaoxiao": {
+          "hash": "61336302d54e",
+          "path": "audio/characters/de2_德-xiaoxiao.mp3",
+          "bytes": 6912,
+          "text": "德",
+          "pinyin": "dé"
+        },
+        "yunxi": {
+          "hash": "75165016946b",
+          "path": "audio/characters/de2_德-yunxi.mp3",
+          "bytes": 9936,
+          "text": "德",
+          "pinyin": "dé"
+        }
+      }
+    },
+    "pages/characters/ren2_仁.html": {
+      "voices": {
+        "xiaoxiao": {
+          "hash": "149a4b995a1d",
+          "path": "audio/characters/ren2_仁-xiaoxiao.mp3",
+          "bytes": 6768,
+          "text": "仁",
+          "pinyin": "rén"
+        },
+        "yunxi": {
+          "hash": "1fef7d1ff852",
+          "path": "audio/characters/ren2_仁-yunxi.mp3",
+          "bytes": 9360,
+          "text": "仁",
+          "pinyin": "rén"
+        }
+      }
+    },
+    "pages/characters/xing2_行.html": {
+      "voices": {
+        "xiaoxiao": {
+          "hash": "0235ab9c60d2",
+          "path": "audio/characters/xing2_行-xiaoxiao.mp3",
+          "bytes": 7344,
+          "text": "行",
+          "pinyin": "xíng"
+        },
+        "yunxi": {
+          "hash": "b51dea5e2b09",
+          "path": "audio/characters/xing2_行-yunxi.mp3",
+          "bytes": 9648,
+          "text": "行",
+          "pinyin": "xíng"
+        }
+      }
     }
   },
   "inline": {
@@ -58268,6 +58322,678 @@
           "bytes": 12960,
           "text": "认真负责",
           "pinyin": "rènzhēn fùzé"
+        }
+      }
+    },
+    "1493df2e98b8dfaa": {
+      "text": "德高望重",
+      "pinyin": "dé gāo wàng zhòng",
+      "kind": "chengyu",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "12198398df6f",
+          "path": "audio/inline/1493df2e98b8dfaa-xiaoxiao.mp3",
+          "bytes": 10512,
+          "text": "德高望重",
+          "pinyin": "dé gāo wàng zhòng"
+        },
+        "yunxi": {
+          "hash": "e669875e9866",
+          "path": "audio/inline/1493df2e98b8dfaa-yunxi.mp3",
+          "bytes": 11808,
+          "text": "德高望重",
+          "pinyin": "dé gāo wàng zhòng"
+        }
+      }
+    },
+    "b65d64c75dba8d94": {
+      "text": "以德服人",
+      "pinyin": "yǐ dé fú rén",
+      "kind": "chengyu",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "ebb6d7e0b830",
+          "path": "audio/inline/b65d64c75dba8d94-xiaoxiao.mp3",
+          "bytes": 10224,
+          "text": "以德服人",
+          "pinyin": "yǐ dé fú rén"
+        },
+        "yunxi": {
+          "hash": "88fc0f6f86e8",
+          "path": "audio/inline/b65d64c75dba8d94-yunxi.mp3",
+          "bytes": 11808,
+          "text": "以德服人",
+          "pinyin": "yǐ dé fú rén"
+        }
+      }
+    },
+    "d68cd8477fac0093": {
+      "text": "同心同德",
+      "pinyin": "tóng xīn tóng dé",
+      "kind": "chengyu",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "7f98c7b7e50c",
+          "path": "audio/inline/d68cd8477fac0093-xiaoxiao.mp3",
+          "bytes": 11232,
+          "text": "同心同德",
+          "pinyin": "tóng xīn tóng dé"
+        },
+        "yunxi": {
+          "hash": "d474d4206e9a",
+          "path": "audio/inline/d68cd8477fac0093-yunxi.mp3",
+          "bytes": 12240,
+          "text": "同心同德",
+          "pinyin": "tóng xīn tóng dé"
+        }
+      }
+    },
+    "b6a5207f886674f5": {
+      "text": "德行",
+      "pinyin": "déxíng / déxing",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "3bffe4ee2976",
+          "path": "audio/inline/b6a5207f886674f5-xiaoxiao.mp3",
+          "bytes": 8208,
+          "text": "德行",
+          "pinyin": "déxíng / déxing"
+        },
+        "yunxi": {
+          "hash": "7efee488a797",
+          "path": "audio/inline/b6a5207f886674f5-yunxi.mp3",
+          "bytes": 9792,
+          "text": "德行",
+          "pinyin": "déxíng / déxing"
+        }
+      }
+    },
+    "e0844c399198f414": {
+      "text": "美德",
+      "pinyin": "měidé",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "ac69b93a3f28",
+          "path": "audio/inline/e0844c399198f414-xiaoxiao.mp3",
+          "bytes": 8064,
+          "text": "美德",
+          "pinyin": "měidé"
+        },
+        "yunxi": {
+          "hash": "2bc893e34ea4",
+          "path": "audio/inline/e0844c399198f414-yunxi.mp3",
+          "bytes": 10944,
+          "text": "美德",
+          "pinyin": "měidé"
+        }
+      }
+    },
+    "0984a0aa3b1914be": {
+      "text": "公德",
+      "pinyin": "gōngdé",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "3a47551c8af7",
+          "path": "audio/inline/0984a0aa3b1914be-xiaoxiao.mp3",
+          "bytes": 8208,
+          "text": "公德",
+          "pinyin": "gōngdé"
+        },
+        "yunxi": {
+          "hash": "c4d930421e6c",
+          "path": "audio/inline/0984a0aa3b1914be-yunxi.mp3",
+          "bytes": 9792,
+          "text": "公德",
+          "pinyin": "gōngdé"
+        }
+      }
+    },
+    "246c75ed32307fcd": {
+      "text": "恩德",
+      "pinyin": "ēndé",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "9ad756996eae",
+          "path": "audio/inline/246c75ed32307fcd-xiaoxiao.mp3",
+          "bytes": 8208,
+          "text": "恩德",
+          "pinyin": "ēndé"
+        },
+        "yunxi": {
+          "hash": "e71b337f2466",
+          "path": "audio/inline/246c75ed32307fcd-yunxi.mp3",
+          "bytes": 10368,
+          "text": "恩德",
+          "pinyin": "ēndé"
+        }
+      }
+    },
+    "2f0092b2dba63705": {
+      "text": "德国",
+      "pinyin": "Déguó",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "72de869fcdcd",
+          "path": "audio/inline/2f0092b2dba63705-xiaoxiao.mp3",
+          "bytes": 8208,
+          "text": "德国",
+          "pinyin": "Déguó"
+        },
+        "yunxi": {
+          "hash": "24b4d308b336",
+          "path": "audio/inline/2f0092b2dba63705-yunxi.mp3",
+          "bytes": 10656,
+          "text": "德国",
+          "pinyin": "Déguó"
+        }
+      }
+    },
+    "b34958a2525de890": {
+      "text": "仁至义尽",
+      "pinyin": "rén zhì yì jìn",
+      "kind": "chengyu",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "fb7fc5596f9e",
+          "path": "audio/inline/b34958a2525de890-xiaoxiao.mp3",
+          "bytes": 10512,
+          "text": "仁至义尽",
+          "pinyin": "rén zhì yì jìn"
+        },
+        "yunxi": {
+          "hash": "5b6a9e89a7cf",
+          "path": "audio/inline/b34958a2525de890-yunxi.mp3",
+          "bytes": 13248,
+          "text": "仁至义尽",
+          "pinyin": "rén zhì yì jìn"
+        }
+      }
+    },
+    "b005f593423ff3d4": {
+      "text": "仁者无敌",
+      "pinyin": "rén zhě wú dí",
+      "kind": "chengyu",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "878e497c62a9",
+          "path": "audio/inline/b005f593423ff3d4-xiaoxiao.mp3",
+          "bytes": 10512,
+          "text": "仁者无敌",
+          "pinyin": "rén zhě wú dí"
+        },
+        "yunxi": {
+          "hash": "baad2e2e50b8",
+          "path": "audio/inline/b005f593423ff3d4-yunxi.mp3",
+          "bytes": 13392,
+          "text": "仁者无敌",
+          "pinyin": "rén zhě wú dí"
+        }
+      }
+    },
+    "d24fd5052272ec16": {
+      "text": "仁者",
+      "pinyin": "rénzhě",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "1dc937fdf378",
+          "path": "audio/inline/d24fd5052272ec16-xiaoxiao.mp3",
+          "bytes": 8496,
+          "text": "仁者",
+          "pinyin": "rénzhě"
+        },
+        "yunxi": {
+          "hash": "c84fe9da04e9",
+          "path": "audio/inline/d24fd5052272ec16-yunxi.mp3",
+          "bytes": 11088,
+          "text": "仁者",
+          "pinyin": "rénzhě"
+        }
+      }
+    },
+    "03f8f0ee95afe5f1": {
+      "text": "杏仁",
+      "pinyin": "xìngrén",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "a8a73ae4b78b",
+          "path": "audio/inline/03f8f0ee95afe5f1-xiaoxiao.mp3",
+          "bytes": 8352,
+          "text": "杏仁",
+          "pinyin": "xìngrén"
+        },
+        "yunxi": {
+          "hash": "5256bf230768",
+          "path": "audio/inline/03f8f0ee95afe5f1-yunxi.mp3",
+          "bytes": 10656,
+          "text": "杏仁",
+          "pinyin": "xìngrén"
+        }
+      }
+    },
+    "885c84c5a2334e04": {
+      "text": "桃仁 / 花生仁",
+      "pinyin": "táorén / huāshēngrén",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "5bd2d3d2c3d5",
+          "path": "audio/inline/885c84c5a2334e04-xiaoxiao.mp3",
+          "bytes": 11952,
+          "text": "桃仁 / 花生仁",
+          "pinyin": "táorén / huāshēngrén"
+        },
+        "yunxi": {
+          "hash": "f1738072dd72",
+          "path": "audio/inline/885c84c5a2334e04-yunxi.mp3",
+          "bytes": 13104,
+          "text": "桃仁 / 花生仁",
+          "pinyin": "táorén / huāshēngrén"
+        }
+      }
+    },
+    "d529cc08d3907976": {
+      "text": "果仁",
+      "pinyin": "guǒrén",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "0a20e61b67e1",
+          "path": "audio/inline/d529cc08d3907976-xiaoxiao.mp3",
+          "bytes": 7920,
+          "text": "果仁",
+          "pinyin": "guǒrén"
+        },
+        "yunxi": {
+          "hash": "4d8e281c5e56",
+          "path": "audio/inline/d529cc08d3907976-yunxi.mp3",
+          "bytes": 10512,
+          "text": "果仁",
+          "pinyin": "guǒrén"
+        }
+      }
+    },
+    "2aca0972e6dadf5b": {
+      "text": "三人行，必有我师",
+      "pinyin": "sān rén xíng, bì yǒu wǒ shī",
+      "kind": "chengyu",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "7d51c762d532",
+          "path": "audio/inline/2aca0972e6dadf5b-xiaoxiao.mp3",
+          "bytes": 15984,
+          "text": "三人行，必有我师",
+          "pinyin": "sān rén xíng, bì yǒu wǒ shī"
+        },
+        "yunxi": {
+          "hash": "af6da82769c3",
+          "path": "audio/inline/2aca0972e6dadf5b-yunxi.mp3",
+          "bytes": 18000,
+          "text": "三人行，必有我师",
+          "pinyin": "sān rén xíng, bì yǒu wǒ shī"
+        }
+      }
+    },
+    "7798a51b1a5e8102": {
+      "text": "行云流水",
+      "pinyin": "xíng yún liú shuǐ",
+      "kind": "chengyu",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "6bb050b9e469",
+          "path": "audio/inline/7798a51b1a5e8102-xiaoxiao.mp3",
+          "bytes": 11232,
+          "text": "行云流水",
+          "pinyin": "xíng yún liú shuǐ"
+        },
+        "yunxi": {
+          "hash": "1286c935d179",
+          "path": "audio/inline/7798a51b1a5e8102-yunxi.mp3",
+          "bytes": 13824,
+          "text": "行云流水",
+          "pinyin": "xíng yún liú shuǐ"
+        }
+      }
+    },
+    "9b652e3d0b3c4470": {
+      "text": "言行一致",
+      "pinyin": "yán xíng yī zhì",
+      "kind": "chengyu",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "37befc4701cc",
+          "path": "audio/inline/9b652e3d0b3c4470-xiaoxiao.mp3",
+          "bytes": 10656,
+          "text": "言行一致",
+          "pinyin": "yán xíng yī zhì"
+        },
+        "yunxi": {
+          "hash": "290a9180334c",
+          "path": "audio/inline/9b652e3d0b3c4470-yunxi.mp3",
+          "bytes": 13392,
+          "text": "言行一致",
+          "pinyin": "yán xíng yī zhì"
+        }
+      }
+    },
+    "a596b991b18506e5": {
+      "text": "行尸走肉",
+      "pinyin": "xíng shī zǒu ròu",
+      "kind": "chengyu",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "488f044902b1",
+          "path": "audio/inline/a596b991b18506e5-xiaoxiao.mp3",
+          "bytes": 10944,
+          "text": "行尸走肉",
+          "pinyin": "xíng shī zǒu ròu"
+        },
+        "yunxi": {
+          "hash": "c758b967c98a",
+          "path": "audio/inline/a596b991b18506e5-yunxi.mp3",
+          "bytes": 12816,
+          "text": "行尸走肉",
+          "pinyin": "xíng shī zǒu ròu"
+        }
+      }
+    },
+    "5c01a8fe6691071c": {
+      "text": "一意孤行",
+      "pinyin": "yī yì gū xíng",
+      "kind": "chengyu",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "4cd3c33b1e4a",
+          "path": "audio/inline/5c01a8fe6691071c-xiaoxiao.mp3",
+          "bytes": 10512,
+          "text": "一意孤行",
+          "pinyin": "yī yì gū xíng"
+        },
+        "yunxi": {
+          "hash": "184fe3be247c",
+          "path": "audio/inline/5c01a8fe6691071c-yunxi.mp3",
+          "bytes": 12384,
+          "text": "一意孤行",
+          "pinyin": "yī yì gū xíng"
+        }
+      }
+    },
+    "a35d57a893d925d2": {
+      "text": "行行出状元",
+      "pinyin": "háng háng chū zhuàngyuán",
+      "kind": "chengyu",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "8cb8a11d6075",
+          "path": "audio/inline/a35d57a893d925d2-xiaoxiao.mp3",
+          "bytes": 12096,
+          "text": "行行出状元",
+          "pinyin": "háng háng chū zhuàngyuán"
+        },
+        "yunxi": {
+          "hash": "22263c063b8f",
+          "path": "audio/inline/a35d57a893d925d2-yunxi.mp3",
+          "bytes": 14688,
+          "text": "行行出状元",
+          "pinyin": "háng háng chū zhuàngyuán"
+        }
+      }
+    },
+    "94b5a74ebf898e81": {
+      "text": "行动",
+      "pinyin": "xíngdòng",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "ad7355d1b687",
+          "path": "audio/inline/94b5a74ebf898e81-xiaoxiao.mp3",
+          "bytes": 8496,
+          "text": "行动",
+          "pinyin": "xíngdòng"
+        },
+        "yunxi": {
+          "hash": "21794f290c79",
+          "path": "audio/inline/94b5a74ebf898e81-yunxi.mp3",
+          "bytes": 10368,
+          "text": "行动",
+          "pinyin": "xíngdòng"
+        }
+      }
+    },
+    "1ec9ff907211035d": {
+      "text": "进行",
+      "pinyin": "jìnxíng",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "71fd3dad72e6",
+          "path": "audio/inline/1ec9ff907211035d-xiaoxiao.mp3",
+          "bytes": 8496,
+          "text": "进行",
+          "pinyin": "jìnxíng"
+        },
+        "yunxi": {
+          "hash": "e2c166ca007c",
+          "path": "audio/inline/1ec9ff907211035d-yunxi.mp3",
+          "bytes": 10512,
+          "text": "进行",
+          "pinyin": "jìnxíng"
+        }
+      }
+    },
+    "bd422ba2332fbf56": {
+      "text": "旅行",
+      "pinyin": "lǚxíng",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "711703f974db",
+          "path": "audio/inline/bd422ba2332fbf56-xiaoxiao.mp3",
+          "bytes": 8208,
+          "text": "旅行",
+          "pinyin": "lǚxíng"
+        },
+        "yunxi": {
+          "hash": "d205897af913",
+          "path": "audio/inline/bd422ba2332fbf56-yunxi.mp3",
+          "bytes": 10224,
+          "text": "旅行",
+          "pinyin": "lǚxíng"
+        }
+      }
+    },
+    "813150f0ee498a65": {
+      "text": "流行",
+      "pinyin": "liúxíng",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "80ab1d64eb1f",
+          "path": "audio/inline/813150f0ee498a65-xiaoxiao.mp3",
+          "bytes": 8496,
+          "text": "流行",
+          "pinyin": "liúxíng"
+        },
+        "yunxi": {
+          "hash": "cc26ff79a68c",
+          "path": "audio/inline/813150f0ee498a65-yunxi.mp3",
+          "bytes": 10512,
+          "text": "流行",
+          "pinyin": "liúxíng"
+        }
+      }
+    },
+    "378d1a8f681065e7": {
+      "text": "不行",
+      "pinyin": "bùxíng",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "c7889489edcc",
+          "path": "audio/inline/378d1a8f681065e7-xiaoxiao.mp3",
+          "bytes": 8208,
+          "text": "不行",
+          "pinyin": "bùxíng"
+        },
+        "yunxi": {
+          "hash": "cb3e1a032888",
+          "path": "audio/inline/378d1a8f681065e7-yunxi.mp3",
+          "bytes": 10224,
+          "text": "不行",
+          "pinyin": "bùxíng"
+        }
+      }
+    },
+    "10d1b570e88d4bb8": {
+      "text": "执行",
+      "pinyin": "zhíxíng",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "4d6167beb791",
+          "path": "audio/inline/10d1b570e88d4bb8-xiaoxiao.mp3",
+          "bytes": 8496,
+          "text": "执行",
+          "pinyin": "zhíxíng"
+        },
+        "yunxi": {
+          "hash": "757effe5a9f3",
+          "path": "audio/inline/10d1b570e88d4bb8-yunxi.mp3",
+          "bytes": 10512,
+          "text": "执行",
+          "pinyin": "zhíxíng"
+        }
+      }
+    },
+    "c6383154f8142310": {
+      "text": "实行",
+      "pinyin": "shíxíng",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "5145c029ee05",
+          "path": "audio/inline/c6383154f8142310-xiaoxiao.mp3",
+          "bytes": 9072,
+          "text": "实行",
+          "pinyin": "shíxíng"
+        },
+        "yunxi": {
+          "hash": "e821453d093f",
+          "path": "audio/inline/c6383154f8142310-yunxi.mp3",
+          "bytes": 10800,
+          "text": "实行",
+          "pinyin": "shíxíng"
+        }
+      }
+    },
+    "5b7eee775ecb02d6": {
+      "text": "银行",
+      "pinyin": "yínháng",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "7e54b6d6eb00",
+          "path": "audio/inline/5b7eee775ecb02d6-xiaoxiao.mp3",
+          "bytes": 8064,
+          "text": "银行",
+          "pinyin": "yínháng"
+        },
+        "yunxi": {
+          "hash": "81571c624dbf",
+          "path": "audio/inline/5b7eee775ecb02d6-yunxi.mp3",
+          "bytes": 9936,
+          "text": "银行",
+          "pinyin": "yínháng"
+        }
+      }
+    },
+    "920f70f10f615b64": {
+      "text": "行业",
+      "pinyin": "hángyè",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "d2178b485a08",
+          "path": "audio/inline/920f70f10f615b64-xiaoxiao.mp3",
+          "bytes": 8208,
+          "text": "行业",
+          "pinyin": "hángyè"
+        },
+        "yunxi": {
+          "hash": "359e957cd699",
+          "path": "audio/inline/920f70f10f615b64-yunxi.mp3",
+          "bytes": 11520,
+          "text": "行业",
+          "pinyin": "hángyè"
+        }
+      }
+    },
+    "30ff46e402e0a417": {
+      "text": "内行",
+      "pinyin": "nèiháng",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "ca1c151ea247",
+          "path": "audio/inline/30ff46e402e0a417-xiaoxiao.mp3",
+          "bytes": 8352,
+          "text": "内行",
+          "pinyin": "nèiháng"
+        },
+        "yunxi": {
+          "hash": "8ed04d0bac94",
+          "path": "audio/inline/30ff46e402e0a417-yunxi.mp3",
+          "bytes": 10080,
+          "text": "内行",
+          "pinyin": "nèiháng"
+        }
+      }
+    },
+    "0385a46c53f24c9b": {
+      "text": "同行",
+      "pinyin": "tóngháng / tóngxíng",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "94ca469aac13",
+          "path": "audio/inline/0385a46c53f24c9b-xiaoxiao.mp3",
+          "bytes": 8640,
+          "text": "同行",
+          "pinyin": "tóngháng / tóngxíng"
+        },
+        "yunxi": {
+          "hash": "57fb062fa97a",
+          "path": "audio/inline/0385a46c53f24c9b-yunxi.mp3",
+          "bytes": 9936,
+          "text": "同行",
+          "pinyin": "tóngháng / tóngxíng"
+        }
+      }
+    },
+    "80b9d4291bbe18f9": {
+      "text": "行情",
+      "pinyin": "hángqíng",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "eb4bc7e4c3a2",
+          "path": "audio/inline/80b9d4291bbe18f9-xiaoxiao.mp3",
+          "bytes": 8496,
+          "text": "行情",
+          "pinyin": "hángqíng"
+        },
+        "yunxi": {
+          "hash": "8171e4301a24",
+          "path": "audio/inline/80b9d4291bbe18f9-yunxi.mp3",
+          "bytes": 11664,
+          "text": "行情",
+          "pinyin": "hángqíng"
         }
       }
     }
