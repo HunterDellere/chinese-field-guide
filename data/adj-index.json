@@ -882,6 +882,20 @@
     ],
     "hasPage": true
   },
+  "走": {
+    "cn": "走",
+    "py": "zǒu",
+    "en": "to walk",
+    "count": 5,
+    "appearsOn": [
+      "pages/characters/jiao3_脚.html",
+      "pages/characters/lu4_路.html",
+      "pages/characters/qu4_去.html",
+      "pages/characters/xing2_行.html",
+      "pages/grammar/directional_来去.html"
+    ],
+    "hasPage": true
+  },
   "必须": {
     "cn": "必须",
     "py": "bìxū",
@@ -1036,7 +1050,7 @@
       "pages/characters/zou3_走.html",
       "pages/characters/zu2_足.html"
     ],
-    "hasPage": false
+    "hasPage": true
   },
   "节气": {
     "cn": "节气",
@@ -1165,6 +1179,19 @@
       "pages/religion/topic_fojiao.html",
       "pages/vocab/lunhui_轮回.html",
       "pages/vocab/pusa_菩萨.html"
+    ],
+    "hasPage": false
+  },
+  "跑": {
+    "cn": "跑",
+    "py": "pǎo",
+    "en": "to run",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/jiao3_脚.html",
+      "pages/characters/zou3_走.html",
+      "pages/characters/zu2_足.html",
+      "pages/grammar/directional_来去.html"
     ],
     "hasPage": false
   },
@@ -1438,19 +1465,6 @@
       "pages/characters/ming2_明.html",
       "pages/characters/xue2_学.html",
       "pages/characters/zhi4_智.html"
-    ],
-    "hasPage": true
-  },
-  "走": {
-    "cn": "走",
-    "py": "zǒu",
-    "en": "to walk; to go",
-    "count": 4,
-    "appearsOn": [
-      "pages/characters/lu4_路.html",
-      "pages/characters/qu4_去.html",
-      "pages/characters/xing2_行.html",
-      "pages/grammar/directional_来去.html"
     ],
     "hasPage": true
   },
@@ -1863,18 +1877,6 @@
     ],
     "hasPage": false
   },
-  "跑": {
-    "cn": "跑",
-    "py": "pǎo",
-    "en": "to run",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/zou3_走.html",
-      "pages/characters/zu2_足.html",
-      "pages/grammar/directional_来去.html"
-    ],
-    "hasPage": false
-  },
   "气韵": {
     "cn": "气韵",
     "py": "qìyùn",
@@ -1983,6 +1985,18 @@
     ],
     "hasPage": false
   },
+  "手": {
+    "cn": "手",
+    "py": "shǒu",
+    "en": "hand",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/jiao3_脚.html",
+      "pages/characters/mu4_目.html",
+      "pages/characters/zu2_足.html"
+    ],
+    "hasPage": true
+  },
   "所": {
     "cn": "所",
     "py": "suǒ",
@@ -2018,6 +2032,18 @@
       "pages/vocab/yinyang_阴阳.html"
     ],
     "hasPage": true
+  },
+  "踢": {
+    "cn": "踢",
+    "py": "tī",
+    "en": "to kick (football)",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/da3_打.html",
+      "pages/characters/jiao3_脚.html",
+      "pages/characters/zu2_足.html"
+    ],
+    "hasPage": false
   },
   "万": {
     "cn": "万",
@@ -2376,6 +2402,18 @@
       "pages/characters/ming2_名.html",
       "pages/characters/wen2_文.html",
       "pages/characters/xie3_写.html"
+    ],
+    "hasPage": true
+  },
+  "足": {
+    "cn": "足",
+    "py": "zú",
+    "en": "foot (literary)",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/jiao3_脚.html",
+      "pages/characters/lu4_路.html",
+      "pages/characters/mu4_目.html"
     ],
     "hasPage": true
   },
@@ -3107,6 +3145,17 @@
     ],
     "hasPage": false
   },
+  "根": {
+    "cn": "根",
+    "py": "gēn",
+    "en": "roots; origin",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/jia1_家.html",
+      "pages/characters/jiao3_脚.html"
+    ],
+    "hasPage": false
+  },
   "更新": {
     "cn": "更新",
     "py": "gēngxīn",
@@ -3368,6 +3417,17 @@
     "appearsOn": [
       "pages/grammar/hai_还.html",
       "pages/grammar/zhi_者.html"
+    ],
+    "hasPage": false
+  },
+  "基础": {
+    "cn": "基础",
+    "py": "jīchǔ",
+    "en": "foundation; base",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/jiao3_脚.html",
+      "pages/chengyu/wanzhangaolou_万丈高楼.html"
     ],
     "hasPage": false
   },
@@ -4295,17 +4355,6 @@
     ],
     "hasPage": false
   },
-  "手": {
-    "cn": "手",
-    "py": "shǒu",
-    "en": "hand",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/mu4_目.html",
-      "pages/characters/zu2_足.html"
-    ],
-    "hasPage": true
-  },
   "手机": {
     "cn": "手机",
     "py": "shǒujī",
@@ -4427,17 +4476,6 @@
     ],
     "hasPage": false
   },
-  "踢": {
-    "cn": "踢",
-    "py": "tī",
-    "en": "to kick (football)",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/da3_打.html",
-      "pages/characters/zu2_足.html"
-    ],
-    "hasPage": false
-  },
   "天气": {
     "cn": "天气",
     "py": "tiānqì",
@@ -4468,6 +4506,17 @@
     "appearsOn": [
       "pages/vocab/tianming_天命.html",
       "pages/vocab/tianxia_天下.html"
+    ],
+    "hasPage": false
+  },
+  "跳": {
+    "cn": "跳",
+    "py": "tiào",
+    "en": "to jump",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/jiao3_脚.html",
+      "pages/characters/zu2_足.html"
     ],
     "hasPage": false
   },
@@ -5281,17 +5330,6 @@
     "appearsOn": [
       "pages/chengyu/dongshixiaopin_东施效颦.html",
       "pages/religion/topic_daojiao.html"
-    ],
-    "hasPage": true
-  },
-  "足": {
-    "cn": "足",
-    "py": "zú",
-    "en": "foot (the radical of 路)",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/lu4_路.html",
-      "pages/characters/mu4_目.html"
     ],
     "hasPage": true
   },
@@ -8496,16 +8534,6 @@
     ],
     "hasPage": false
   },
-  "根": {
-    "cn": "根",
-    "py": "gēn",
-    "en": "roots; origin",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/jia1_家.html"
-    ],
-    "hasPage": false
-  },
   "根本": {
     "cn": "根本",
     "py": "gēnběn",
@@ -9766,16 +9794,6 @@
     ],
     "hasPage": false
   },
-  "基础": {
-    "cn": "基础",
-    "py": "jīchǔ",
-    "en": "foundation, basis",
-    "count": 1,
-    "appearsOn": [
-      "pages/chengyu/wanzhangaolou_万丈高楼.html"
-    ],
-    "hasPage": false
-  },
   "基督教": {
     "cn": "基督教",
     "py": "Jīdūjiào",
@@ -10313,6 +10331,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/jiao3_角.html"
+    ],
+    "hasPage": false
+  },
+  "脚步": {
+    "cn": "脚步",
+    "py": "jiǎobù",
+    "en": "footstep; pace",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jiao3_脚.html"
     ],
     "hasPage": false
   },
@@ -14066,6 +14094,16 @@
     ],
     "hasPage": false
   },
+  "山脚": {
+    "cn": "山脚",
+    "py": "shānjiǎo",
+    "en": "foot of a mountain",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jiao3_脚.html"
+    ],
+    "hasPage": false
+  },
   "山路": {
     "cn": "山路",
     "py": "shānlù",
@@ -15696,16 +15734,6 @@
     ],
     "hasPage": false
   },
-  "跳": {
-    "cn": "跳",
-    "py": "tiào",
-    "en": "to jump",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/zu2_足.html"
-    ],
-    "hasPage": false
-  },
   "铁": {
     "cn": "铁",
     "py": "tiě",
@@ -15936,6 +15964,16 @@
     ],
     "hasPage": false
   },
+  "腿": {
+    "cn": "腿",
+    "py": "tuǐ",
+    "en": "leg",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jiao3_脚.html"
+    ],
+    "hasPage": false
+  },
   "退休": {
     "cn": "退休",
     "py": "tuìxiū",
@@ -15943,6 +15981,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/lao3_老.html"
+    ],
+    "hasPage": false
+  },
+  "袜子": {
+    "cn": "袜子",
+    "py": "wàzi",
+    "en": "socks",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jiao3_脚.html"
     ],
     "hasPage": false
   },
@@ -17133,6 +17181,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/he2_和.html"
+    ],
+    "hasPage": false
+  },
+  "鞋": {
+    "cn": "鞋",
+    "py": "xié",
+    "en": "shoe",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jiao3_脚.html"
     ],
     "hasPage": false
   },
@@ -19063,6 +19121,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/you3_有.html"
+    ],
+    "hasPage": false
+  },
+  "站": {
+    "cn": "站",
+    "py": "zhàn",
+    "en": "to stand",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jiao3_脚.html"
     ],
     "hasPage": false
   },

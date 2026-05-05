@@ -6,7 +6,7 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>Notes on Chinese language and civilisation — characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 05 May 2026 04:18:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 04:22:17 GMT</lastBuildDate>
     <item>
       <title>德 · virtue, moral power</title>
       <link>https://jiaoshoo.com/pages/characters/de2_德.html</link>
@@ -21,6 +21,14 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/du2_读.html</guid>
       <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
       <description>Reading as the act of voicing what is written — the everyday verb for studying, declaiming a text, and (figuratively) interpreting a person, a situation, or a sign.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>脚 · foot, base</title>
+      <link>https://jiaoshoo.com/pages/characters/jiao3_脚.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/jiao3_脚.html</guid>
+      <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
+      <description>The everyday word for foot — and, by extension, the base of any standing thing: a mountain, a wall, a script. The flesh-and-bone counterpart to literary 足.</description>
       <category>characters</category>
     </item>
     <item>
@@ -237,14 +245,6 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/dong1_东.html</guid>
       <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
       <description>The sun rising behind a tree — and the direction that anchored China&apos;s cosmological, political, and poetic imagination.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>多 · many; much; more; how</title>
-      <link>https://jiaoshoo.com/pages/characters/duo1_多.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/duo1_多.html</guid>
-      <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Two evenings stacked — the character that encodes abundance, comparison, and the most common question about quantity in Mandarin.</description>
       <category>characters</category>
     </item>
   </channel>

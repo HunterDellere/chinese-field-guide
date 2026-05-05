@@ -40,6 +40,25 @@
     "updated": "2026-05-04"
   },
   {
+    "path": "pages/characters/jiao3_脚.html",
+    "type": "character",
+    "category": "characters",
+    "title": "脚 · foot, base",
+    "desc": "The everyday word for foot — and, by extension, the base of any standing thing: a mountain, a wall, a script. The flesh-and-bone counterpart to literary 足.",
+    "tags": [
+      "body",
+      "movement",
+      "space"
+    ],
+    "status": "complete",
+    "char": "脚",
+    "pinyin": "jiǎo",
+    "tone": 3,
+    "hsk": 3,
+    "radical": "⺼",
+    "updated": "2026-05-04"
+  },
+  {
     "path": "pages/characters/ren2_仁.html",
     "type": "character",
     "category": "characters",

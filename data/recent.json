@@ -40,6 +40,25 @@
     "updated": "2026-05-04"
   },
   {
+    "path": "pages/characters/jiao3_脚.html",
+    "type": "character",
+    "category": "characters",
+    "title": "脚 · foot, base",
+    "desc": "The everyday word for foot — and, by extension, the base of any standing thing: a mountain, a wall, a script. The flesh-and-bone counterpart to literary 足.",
+    "tags": [
+      "body",
+      "movement",
+      "space"
+    ],
+    "status": "complete",
+    "char": "脚",
+    "pinyin": "jiǎo",
+    "tone": 3,
+    "hsk": 3,
+    "radical": "⺼",
+    "updated": "2026-05-04"
+  },
+  {
     "path": "pages/characters/ren2_仁.html",
     "type": "character",
     "category": "characters",
@@ -375,22 +394,5 @@
     "status": "complete",
     "pinyin": "zhōngwén",
     "updated": "2026-04-26"
-  },
-  {
-    "path": "pages/arts/topic_guqin.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "古琴 · the guqin zither — the scholar's instrument",
-    "desc": "The seven-string zither Confucius played throughout his life — and the origin of 知音, the word for a person who truly understands you.",
-    "tags": [
-      "arts",
-      "music",
-      "classical",
-      "confucianism",
-      "literature"
-    ],
-    "status": "complete",
-    "pinyin": "gǔqín",
-    "updated": "2026-04-25"
   }
 ]
