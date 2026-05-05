@@ -6,7 +6,7 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>Notes on Chinese language and civilisation — characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 05 May 2026 02:47:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 02:50:56 GMT</lastBuildDate>
     <item>
       <title>德 · virtue, moral power</title>
       <link>https://jiaoshoo.com/pages/characters/de2_德.html</link>
@@ -21,6 +21,14 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/ren2_仁.html</guid>
       <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
       <description>The character that anchors Confucian ethics — 亻 + 二, the self in relation to another. Etymology, the virtue-cluster compounds, and the seed-kernel sense that links moral and botanical 仁.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>行 · to walk, to act, a row, a trade</title>
+      <link>https://jiaoshoo.com/pages/characters/xing2_行.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/xing2_行.html</guid>
+      <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
+      <description>One of the great polyphonic characters: xíng &quot;to walk; to act; conduct&quot; and háng &quot;row; profession; firm.&quot; A pictograph of a four-way crossroads — the place where walking and the world are organized.</description>
       <category>characters</category>
     </item>
     <item>
@@ -237,14 +245,6 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/er3_耳.html</guid>
       <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
       <description>The pictograph of an ear that anchors Chinese words for listening, fame, and the furred handles on bronze vessels.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>二 · two; second</title>
-      <link>https://jiaoshoo.com/pages/characters/er4_二.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/er4_二.html</guid>
-      <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
-      <description>The number two encodes the foundational split that drives all of Chinese cosmology: yin and yang, the two forces from which everything else unfolds.</description>
       <category>characters</category>
     </item>
   </channel>

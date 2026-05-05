@@ -41,6 +41,28 @@
     "updated": "2026-05-04"
   },
   {
+    "path": "pages/characters/xing2_行.html",
+    "type": "character",
+    "category": "characters",
+    "title": "行 · to walk, to act, a row, a trade",
+    "desc": "One of the great polyphonic characters: xíng \"to walk; to act; conduct\" and háng \"row; profession; firm.\" A pictograph of a four-way crossroads — the place where walking and the world are organized.",
+    "tags": [
+      "movement",
+      "motion",
+      "ethics"
+    ],
+    "status": "complete",
+    "char": "行",
+    "pinyin": "xíng",
+    "tone": 2,
+    "hsk": {
+      "from": 1,
+      "to": 4
+    },
+    "radical": "行",
+    "updated": "2026-05-04"
+  },
+  {
     "path": "pages/characters/ren4_认.html",
     "type": "character",
     "category": "characters",
@@ -367,27 +389,6 @@
     ],
     "status": "complete",
     "pinyin": "shānshuǐhuà",
-    "updated": "2026-04-25"
-  },
-  {
-    "path": "pages/characters/bai2_白.html",
-    "type": "character",
-    "category": "characters",
-    "title": "白 · white, clear, plain, in vain",
-    "desc": "Sunlight on a single point. The character that names the color of mourning, the color of clarity, the empty plate, and the speech that hides nothing.",
-    "tags": [
-      "color",
-      "clarity",
-      "symbolism",
-      "daily-life",
-      "culture"
-    ],
-    "status": "complete",
-    "char": "白",
-    "pinyin": "bái",
-    "tone": 2,
-    "hsk": 1,
-    "radical": "白",
     "updated": "2026-04-25"
   }
 ]

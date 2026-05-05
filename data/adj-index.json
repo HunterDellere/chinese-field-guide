@@ -3,7 +3,7 @@
     "cn": "道",
     "py": "dào",
     "en": "the Way; path; principle",
-    "count": 21,
+    "count": 22,
     "appearsOn": [
       "pages/characters/bian4_变.html",
       "pages/characters/de2_德.html",
@@ -12,6 +12,7 @@
       "pages/characters/shen2_神.html",
       "pages/characters/wan4_万.html",
       "pages/characters/wu2_无.html",
+      "pages/characters/xing2_行.html",
       "pages/characters/yi1_一.html",
       "pages/characters/zhen1_真.html",
       "pages/characters/zhi1_知.html",
@@ -448,6 +449,21 @@
     ],
     "hasPage": true
   },
+  "德": {
+    "cn": "德",
+    "py": "dé",
+    "en": "virtue; moral power",
+    "count": 6,
+    "appearsOn": [
+      "pages/characters/dao4_道.html",
+      "pages/characters/ren2_仁.html",
+      "pages/characters/shan4_善.html",
+      "pages/characters/xing2_行.html",
+      "pages/characters/yu4_玉.html",
+      "pages/chengyu/junzibugui_君子不器.html"
+    ],
+    "hasPage": true
+  },
   "来": {
     "cn": "来",
     "py": "lái",
@@ -656,20 +672,6 @@
     ],
     "hasPage": true
   },
-  "德": {
-    "cn": "德",
-    "py": "dé",
-    "en": "virtue; moral power",
-    "count": 5,
-    "appearsOn": [
-      "pages/characters/dao4_道.html",
-      "pages/characters/ren2_仁.html",
-      "pages/characters/shan4_善.html",
-      "pages/characters/yu4_玉.html",
-      "pages/chengyu/junzibugui_君子不器.html"
-    ],
-    "hasPage": true
-  },
   "东": {
     "cn": "东",
     "py": "dōng",
@@ -737,6 +739,20 @@
       "pages/grammar/zhe_particle_呢.html",
       "pages/grammar/zhe_着.html",
       "pages/vocab/zhengzai_正在.html"
+    ],
+    "hasPage": true
+  },
+  "路": {
+    "cn": "路",
+    "py": "lù",
+    "en": "road; route",
+    "count": 5,
+    "appearsOn": [
+      "pages/characters/dao4_道.html",
+      "pages/characters/xing2_行.html",
+      "pages/characters/zou3_走.html",
+      "pages/characters/zu2_足.html",
+      "pages/vocab/siluzhilu_丝绸之路.html"
     ],
     "hasPage": true
   },
@@ -1060,19 +1076,6 @@
     ],
     "hasPage": true
   },
-  "路": {
-    "cn": "路",
-    "py": "lù",
-    "en": "road; route",
-    "count": 4,
-    "appearsOn": [
-      "pages/characters/dao4_道.html",
-      "pages/characters/zou3_走.html",
-      "pages/characters/zu2_足.html",
-      "pages/vocab/siluzhilu_丝绸之路.html"
-    ],
-    "hasPage": true
-  },
   "轮回": {
     "cn": "轮回",
     "py": "lúnhuí",
@@ -1229,6 +1232,19 @@
     ],
     "hasPage": false
   },
+  "为": {
+    "cn": "为",
+    "py": "wéi",
+    "en": "to do; to act",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/xing2_行.html",
+      "pages/characters/yi3_以.html",
+      "pages/grammar/suo_所.html",
+      "pages/vocab/wuwei_无为.html"
+    ],
+    "hasPage": true
+  },
   "下": {
     "cn": "下",
     "py": "xià",
@@ -1278,6 +1294,19 @@
       "pages/characters/jin4_近.html",
       "pages/characters/jiu4_旧.html",
       "pages/vocab/chuantong_传统.html"
+    ],
+    "hasPage": true
+  },
+  "言": {
+    "cn": "言",
+    "py": "yán",
+    "en": "word; speech (formal/classical)",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/shuo1_说.html",
+      "pages/characters/xin4_信.html",
+      "pages/characters/xing2_行.html",
+      "pages/characters/yu3_语.html"
     ],
     "hasPage": true
   },
@@ -1384,6 +1413,32 @@
       "pages/characters/zhi4_智.html"
     ],
     "hasPage": true
+  },
+  "走": {
+    "cn": "走",
+    "py": "zǒu",
+    "en": "to walk; to go",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/lu4_路.html",
+      "pages/characters/qu4_去.html",
+      "pages/characters/xing2_行.html",
+      "pages/grammar/directional_来去.html"
+    ],
+    "hasPage": true
+  },
+  "作": {
+    "cn": "作",
+    "py": "zuò",
+    "en": "to do; to write; to compose",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/wei2_为.html",
+      "pages/characters/xie3_写.html",
+      "pages/characters/xing2_行.html",
+      "pages/characters/yong4_用.html"
+    ],
+    "hasPage": false
   },
   "爱": {
     "cn": "爱",
@@ -1961,18 +2016,6 @@
     ],
     "hasPage": false
   },
-  "为": {
-    "cn": "为",
-    "py": "wéi/wèi",
-    "en": "to do; for the sake of; to be",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/yi3_以.html",
-      "pages/grammar/suo_所.html",
-      "pages/vocab/wuwei_无为.html"
-    ],
-    "hasPage": true
-  },
   "文明": {
     "cn": "文明",
     "py": "wénmíng",
@@ -2043,19 +2086,19 @@
       "pages/characters/zhi1_知.html",
       "pages/characters/zou3_走.html"
     ],
-    "hasPage": false
+    "hasPage": true
   },
-  "言": {
-    "cn": "言",
-    "py": "yán",
-    "en": "word; speech (formal/classical)",
+  "业": {
+    "cn": "业",
+    "py": "yè",
+    "en": "occupation; karma",
     "count": 3,
     "appearsOn": [
-      "pages/characters/shuo1_说.html",
-      "pages/characters/xin4_信.html",
-      "pages/characters/yu3_语.html"
+      "pages/characters/xing2_行.html",
+      "pages/vocab/lunhui_轮回.html",
+      "pages/vocab/yuanfen_缘分.html"
     ],
-    "hasPage": true
+    "hasPage": false
   },
   "一": {
     "cn": "一",
@@ -2309,18 +2352,6 @@
     ],
     "hasPage": true
   },
-  "走": {
-    "cn": "走",
-    "py": "zǒu",
-    "en": "to walk; to go",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/lu4_路.html",
-      "pages/characters/qu4_去.html",
-      "pages/grammar/directional_来去.html"
-    ],
-    "hasPage": true
-  },
   "左右": {
     "cn": "左右",
     "py": "zuǒyòu",
@@ -2333,15 +2364,15 @@
     ],
     "hasPage": false
   },
-  "作": {
-    "cn": "作",
+  "做": {
+    "cn": "做",
     "py": "zuò",
-    "en": "to do; to write; to compose",
+    "en": "to do; to make; to work",
     "count": 3,
     "appearsOn": [
+      "pages/characters/da3_打.html",
       "pages/characters/wei2_为.html",
-      "pages/characters/xie3_写.html",
-      "pages/characters/yong4_用.html"
+      "pages/characters/xing2_行.html"
     ],
     "hasPage": false
   },
@@ -3365,6 +3396,17 @@
     "appearsOn": [
       "pages/grammar/ba_把.html",
       "pages/grammar/bei_被.html"
+    ],
+    "hasPage": false
+  },
+  "街": {
+    "cn": "街",
+    "py": "jiē",
+    "en": "street (urban, often with shops)",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/lu4_路.html",
+      "pages/characters/xing2_行.html"
     ],
     "hasPage": false
   },
@@ -4764,17 +4806,6 @@
     ],
     "hasPage": true
   },
-  "业": {
-    "cn": "业",
-    "py": "yè",
-    "en": "karma; karmic action",
-    "count": 2,
-    "appearsOn": [
-      "pages/vocab/lunhui_轮回.html",
-      "pages/vocab/yuanfen_缘分.html"
-    ],
-    "hasPage": false
-  },
   "一定": {
     "cn": "一定",
     "py": "yīdìng",
@@ -5234,17 +5265,6 @@
     "appearsOn": [
       "pages/characters/geng4_更.html",
       "pages/vocab/bijiao_比较.html"
-    ],
-    "hasPage": false
-  },
-  "做": {
-    "cn": "做",
-    "py": "zuò",
-    "en": "to do; to make; to work",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/da3_打.html",
-      "pages/characters/wei2_为.html"
     ],
     "hasPage": false
   },
@@ -7585,6 +7605,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/jieqi_节气.html"
+    ],
+    "hasPage": false
+  },
+  "动": {
+    "cn": "动",
+    "py": "dòng",
+    "en": "to move",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/xing2_行.html"
     ],
     "hasPage": false
   },
@@ -10305,16 +10335,6 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/jin4_近.html"
-    ],
-    "hasPage": false
-  },
-  "街": {
-    "cn": "街",
-    "py": "jiē",
-    "en": "street (urban, often with shops)",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/lu4_路.html"
     ],
     "hasPage": false
   },
@@ -19285,6 +19305,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/ke3_可.html"
+    ],
+    "hasPage": false
+  },
+  "职业": {
+    "cn": "职业",
+    "py": "zhíyè",
+    "en": "profession; occupation",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/xing2_行.html"
     ],
     "hasPage": false
   },
