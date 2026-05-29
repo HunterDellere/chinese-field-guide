@@ -1,5 +1,185 @@
 [
   {
+    "path": "pages/arts/topic_honglou.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "红楼梦 · Dream of the Red Chamber",
+    "desc": "The 18th-century novel that many call the greatest in the Chinese language: the slow decline of a great family, a doomed love among the young, and a sense that all the beauty and luxury of the world is a passing dream.",
+    "tags": [
+      "literature",
+      "novels",
+      "classics",
+      "classical",
+      "qing",
+      "romance"
+    ],
+    "status": "complete",
+    "pinyin": "hónglóumèng",
+    "updated": "2026-05-29"
+  },
+  {
+    "path": "pages/arts/topic_sanguoyanyi.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "三国演义 · Romance of the Three Kingdoms",
+    "desc": "The 14th-century novel that turned the wars after the Han into the great epic of Chinese loyalty and cunning. Sworn brothers, a god-like strategist, and the maxim that the realm long divided must unite.",
+    "tags": [
+      "literature",
+      "novels",
+      "classics",
+      "classical",
+      "history",
+      "strategy"
+    ],
+    "status": "complete",
+    "pinyin": "sānguó yǎnyì",
+    "updated": "2026-05-29"
+  },
+  {
+    "path": "pages/arts/topic_shuihuzhuan.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "水浒传 · Water Margin",
+    "desc": "One hundred and eight outlaws, each driven from honest life by a corrupt officialdom, gather at the marsh of Liangshan to rob the rich and defy the state. The 14th-century novel of righteous banditry and brotherhood.",
+    "tags": [
+      "literature",
+      "novels",
+      "classics",
+      "classical",
+      "song",
+      "rebellion"
+    ],
+    "status": "complete",
+    "pinyin": "shuǐhǔzhuàn",
+    "updated": "2026-05-29"
+  },
+  {
+    "path": "pages/arts/topic_xiyouji.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "西游记 · Journey to the West",
+    "desc": "A Buddhist monk, a rebellious immortal monkey, a glutton pig, and a river demon travel west for the scriptures. The 16th-century novel of pilgrimage, magic, and mischief that gave the world the Monkey King.",
+    "tags": [
+      "literature",
+      "novels",
+      "classics",
+      "classical",
+      "buddhism",
+      "pilgrimage"
+    ],
+    "status": "complete",
+    "pinyin": "xīyóujì",
+    "updated": "2026-05-29"
+  },
+  {
+    "path": "pages/history/topic_bingmayong.html",
+    "type": "topic",
+    "category": "history",
+    "title": "兵马俑 · The Terracotta Army",
+    "desc": "Thousands of life-sized clay soldiers, each with a different face, buried to guard the First Emperor in death. A farmer digging a well found them in 1974, and the silent army became the most astonishing archaeological discovery of the century.",
+    "tags": [
+      "history",
+      "qin",
+      "first-emperor",
+      "ancient",
+      "art",
+      "archaeology"
+    ],
+    "status": "complete",
+    "pinyin": "bīngmǎyǒng",
+    "updated": "2026-05-29"
+  },
+  {
+    "path": "pages/history/topic_sanguo.html",
+    "type": "topic",
+    "category": "history",
+    "title": "三国 · The Three Kingdoms",
+    "desc": "After the Han collapsed, China split into three rival states: Wei, Shu, and Wu. The sixty years of their wars produced the most beloved cast of heroes, traitors, and strategists in Chinese history.",
+    "tags": [
+      "history",
+      "dynasty",
+      "han",
+      "statecraft",
+      "strategy",
+      "classical"
+    ],
+    "status": "complete",
+    "pinyin": "sānguó",
+    "updated": "2026-05-29"
+  },
+  {
+    "path": "pages/history/topic_shiji.html",
+    "type": "topic",
+    "category": "history",
+    "title": "史记 · Records of the Grand Historian",
+    "desc": "Sima Qian wrote the founding work of Chinese historiography under the shadow of his own mutilation: a vast history from the legendary Yellow Emperor to his own Han dynasty, and the model every later dynastic history would follow.",
+    "tags": [
+      "classics",
+      "history",
+      "han",
+      "literature",
+      "ancient",
+      "biography"
+    ],
+    "status": "complete",
+    "pinyin": "shǐjì",
+    "updated": "2026-05-29"
+  },
+  {
+    "path": "pages/history/topic_suichao.html",
+    "type": "topic",
+    "category": "history",
+    "title": "隋朝 · The Sui Dynasty",
+    "desc": "A short, ferocious dynasty that reunified China after nearly four centuries of division, dug the Grand Canal, and laid the institutions the glorious Tang would inherit, then burned itself out in a single generation.",
+    "tags": [
+      "history",
+      "dynasty",
+      "unification",
+      "statecraft",
+      "classical",
+      "tang"
+    ],
+    "status": "complete",
+    "pinyin": "suícháo",
+    "updated": "2026-05-29"
+  },
+  {
+    "path": "pages/philosophy/topic_daodejing.html",
+    "type": "topic",
+    "category": "philosophy",
+    "title": "道德经 · Daodejing",
+    "desc": "Eighty-one short chapters of paradox and indirection that became the foundational text of Daoism and one of the most translated books in human history. The way that can be spoken is not the constant way.",
+    "tags": [
+      "daoism",
+      "laozi",
+      "classics",
+      "philosophy",
+      "wuwei",
+      "cosmology"
+    ],
+    "status": "complete",
+    "pinyin": "dàodéjīng",
+    "updated": "2026-05-29"
+  },
+  {
+    "path": "pages/philosophy/topic_sunzibingfa.html",
+    "type": "topic",
+    "category": "philosophy",
+    "title": "孙子兵法 · The Art of War",
+    "desc": "Thirteen terse chapters on conflict, attributed to the strategist Sun Wu, that became the oldest and most influential military treatise in the world. The supreme art is to subdue the enemy without fighting.",
+    "tags": [
+      "classics",
+      "philosophy",
+      "statecraft",
+      "strategy",
+      "ancient",
+      "legalism"
+    ],
+    "status": "complete",
+    "pinyin": "sūnzǐ bīngfǎ",
+    "updated": "2026-05-29"
+  },
+  {
     "path": "pages/daily/topic_kouyu_lianjieci.html",
     "type": "topic",
     "category": "daily",
@@ -169,186 +349,5 @@
     "status": "complete",
     "pinyin": "wénmíng",
     "updated": "2026-05-10"
-  },
-  {
-    "path": "pages/characters/ming4_命.html",
-    "type": "character",
-    "category": "characters",
-    "title": "命 · life, fate, command",
-    "desc": "A mouth speaking an order: 令 above, 口 inside. The character that holds together three of the heaviest words in Chinese: life, destiny, and the command from above.",
-    "tags": [
-      "philosophy",
-      "fate",
-      "life",
-      "classical",
-      "ethics"
-    ],
-    "status": "complete",
-    "char": "命",
-    "pinyin": "mìng",
-    "tone": 4,
-    "hsk": 4,
-    "radical": "口",
-    "updated": "2026-05-09"
-  },
-  {
-    "path": "pages/characters/kua4_跨.html",
-    "type": "character",
-    "category": "characters",
-    "title": "跨 · to stride; to span; to bestride",
-    "desc": "The character of the long stride: a foot-radical verb that reaches from \"step over a threshold\" to \"span an era\" to the modern policy vocabulary of cross-border, cross-industry, cross-cultural everything.",
-    "tags": [
-      "movement",
-      "border",
-      "modern"
-    ],
-    "status": "complete",
-    "char": "跨",
-    "pinyin": "kuà",
-    "tone": 4,
-    "hsk": 4,
-    "radical": "足",
-    "updated": "2026-05-06"
-  },
-  {
-    "path": "pages/characters/pao3_跑.html",
-    "type": "character",
-    "category": "characters",
-    "title": "跑 · to run; to flee; to operate",
-    "desc": "The everyday verb of running: a foot-radical character whose semantic range stretches from \"the legs in motion\" to \"running an errand\" to \"the engine is running\" to a small but productive family of escape-and-flee compounds.",
-    "tags": [
-      "motion",
-      "body",
-      "daily-life"
-    ],
-    "status": "complete",
-    "char": "跑",
-    "pinyin": "pǎo",
-    "tone": 3,
-    "hsk": 2,
-    "radical": "足",
-    "updated": "2026-05-06"
-  },
-  {
-    "path": "pages/characters/ta1_她.html",
-    "type": "character",
-    "category": "characters",
-    "title": "她 · she, her",
-    "desc": "她 is the youngest character in everyday Chinese, invented in 1917 to translate \"she,\" and the cause of one of the loudest grammatical fights in modern Chinese letters.",
-    "tags": [
-      "grammar",
-      "modern",
-      "social",
-      "language"
-    ],
-    "status": "complete",
-    "char": "她",
-    "pinyin": "tā",
-    "tone": 1,
-    "hsk": 1,
-    "radical": "女",
-    "updated": "2026-05-06"
-  },
-  {
-    "path": "pages/characters/yue4_越.html",
-    "type": "character",
-    "category": "characters",
-    "title": "越 · to cross over, to surpass",
-    "desc": "The character of crossing-and-exceeding: a foot-radical verb that travels from \"stride over a barrier\" to \"the more, the more\" to a Chinese state name and a national poetic gesture.",
-    "tags": [
-      "movement",
-      "comparison",
-      "border"
-    ],
-    "status": "complete",
-    "char": "越",
-    "pinyin": "yuè",
-    "tone": 4,
-    "hsk": 2,
-    "radical": "走",
-    "updated": "2026-05-06"
-  },
-  {
-    "path": "pages/history/topic_changcheng.html",
-    "type": "topic",
-    "category": "history",
-    "title": "长城 · The Great Wall",
-    "desc": "Two millennia of walls, watchtowers, and beacon fires: what the Great Wall actually was, and why \"the wall\" is a translation that flattens a complicated history.",
-    "tags": [
-      "history",
-      "fortification",
-      "border",
-      "great-wall",
-      "qin",
-      "han",
-      "ming",
-      "architecture"
-    ],
-    "status": "complete",
-    "pinyin": "cháng chéng",
-    "updated": "2026-05-06"
-  },
-  {
-    "path": "pages/vocab/fangxiang_方向.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "方向 · direction; orientation",
-    "desc": "方向 is the compass-word that holds together physical heading, life direction, political orientation, and the deeply Chinese sense that getting your bearings: 辨方向, is the first move in any undertaking.",
-    "tags": [
-      "space",
-      "direction",
-      "philosophy"
-    ],
-    "status": "complete",
-    "pinyin": "fāngxiàng",
-    "hsk": 2,
-    "updated": "2026-05-06"
-  },
-  {
-    "path": "pages/vocab/kuayue_跨越.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "跨越 · to leap across, to span, to transcend",
-    "desc": "The compound that lets the Chinese language span gaps: physical, historical, technological, generational. The verb of choice when \"越长城\" is read figuratively.",
-    "tags": [
-      "movement",
-      "border",
-      "modern"
-    ],
-    "status": "complete",
-    "pinyin": "kuàyuè",
-    "updated": "2026-05-06"
-  },
-  {
-    "path": "pages/vocab/limao_礼貌.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "礼貌 · politeness, courteous manner",
-    "desc": "The everyday word for politeness: what 礼 (ritual propriety) becomes when it is shrunk down to the scale of ordinary social life. Polite forms, polite faces, and the precise way modern Chinese distinguishes 礼貌 from 客气, 礼节, and the older 礼 itself.",
-    "tags": [
-      "courtesy",
-      "etiquette",
-      "social",
-      "daily-life"
-    ],
-    "status": "complete",
-    "pinyin": "lǐmào",
-    "updated": "2026-05-06"
-  },
-  {
-    "path": "pages/vocab/shanshui_山水.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "山水 · mountains and water; the landscape",
-    "desc": "The paired word that names the Chinese landscape: not \"scenery\" in the Western sense, but a cosmological pairing of the still and the flowing that became the central subject of a thousand years of painting and poetry.",
-    "tags": [
-      "aesthetics",
-      "nature",
-      "arts",
-      "philosophy"
-    ],
-    "status": "complete",
-    "pinyin": "shānshuǐ",
-    "updated": "2026-05-06"
   }
 ]

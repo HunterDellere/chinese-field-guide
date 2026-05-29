@@ -6,7 +6,87 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A reading nook for Chinese language and civilisation. Characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 17 May 2026 20:56:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 23:53:04 GMT</lastBuildDate>
+    <item>
+      <title>红楼梦 · Dream of the Red Chamber</title>
+      <link>https://jiaoshoo.com/pages/arts/topic_honglou.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/arts/topic_honglou.html</guid>
+      <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
+      <description>The 18th-century novel that many call the greatest in the Chinese language: the slow decline of a great family, a doomed love among the young, and a sense that all the beauty and luxury of the world is a passing dream.</description>
+      <category>arts</category>
+    </item>
+    <item>
+      <title>三国演义 · Romance of the Three Kingdoms</title>
+      <link>https://jiaoshoo.com/pages/arts/topic_sanguoyanyi.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/arts/topic_sanguoyanyi.html</guid>
+      <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
+      <description>The 14th-century novel that turned the wars after the Han into the great epic of Chinese loyalty and cunning. Sworn brothers, a god-like strategist, and the maxim that the realm long divided must unite.</description>
+      <category>arts</category>
+    </item>
+    <item>
+      <title>水浒传 · Water Margin</title>
+      <link>https://jiaoshoo.com/pages/arts/topic_shuihuzhuan.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/arts/topic_shuihuzhuan.html</guid>
+      <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
+      <description>One hundred and eight outlaws, each driven from honest life by a corrupt officialdom, gather at the marsh of Liangshan to rob the rich and defy the state. The 14th-century novel of righteous banditry and brotherhood.</description>
+      <category>arts</category>
+    </item>
+    <item>
+      <title>西游记 · Journey to the West</title>
+      <link>https://jiaoshoo.com/pages/arts/topic_xiyouji.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/arts/topic_xiyouji.html</guid>
+      <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
+      <description>A Buddhist monk, a rebellious immortal monkey, a glutton pig, and a river demon travel west for the scriptures. The 16th-century novel of pilgrimage, magic, and mischief that gave the world the Monkey King.</description>
+      <category>arts</category>
+    </item>
+    <item>
+      <title>兵马俑 · The Terracotta Army</title>
+      <link>https://jiaoshoo.com/pages/history/topic_bingmayong.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/history/topic_bingmayong.html</guid>
+      <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
+      <description>Thousands of life-sized clay soldiers, each with a different face, buried to guard the First Emperor in death. A farmer digging a well found them in 1974, and the silent army became the most astonishing archaeological discovery of the century.</description>
+      <category>history</category>
+    </item>
+    <item>
+      <title>三国 · The Three Kingdoms</title>
+      <link>https://jiaoshoo.com/pages/history/topic_sanguo.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/history/topic_sanguo.html</guid>
+      <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
+      <description>After the Han collapsed, China split into three rival states: Wei, Shu, and Wu. The sixty years of their wars produced the most beloved cast of heroes, traitors, and strategists in Chinese history.</description>
+      <category>history</category>
+    </item>
+    <item>
+      <title>史记 · Records of the Grand Historian</title>
+      <link>https://jiaoshoo.com/pages/history/topic_shiji.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/history/topic_shiji.html</guid>
+      <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
+      <description>Sima Qian wrote the founding work of Chinese historiography under the shadow of his own mutilation: a vast history from the legendary Yellow Emperor to his own Han dynasty, and the model every later dynastic history would follow.</description>
+      <category>history</category>
+    </item>
+    <item>
+      <title>隋朝 · The Sui Dynasty</title>
+      <link>https://jiaoshoo.com/pages/history/topic_suichao.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/history/topic_suichao.html</guid>
+      <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
+      <description>A short, ferocious dynasty that reunified China after nearly four centuries of division, dug the Grand Canal, and laid the institutions the glorious Tang would inherit, then burned itself out in a single generation.</description>
+      <category>history</category>
+    </item>
+    <item>
+      <title>道德经 · Daodejing</title>
+      <link>https://jiaoshoo.com/pages/philosophy/topic_daodejing.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/philosophy/topic_daodejing.html</guid>
+      <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
+      <description>Eighty-one short chapters of paradox and indirection that became the foundational text of Daoism and one of the most translated books in human history. The way that can be spoken is not the constant way.</description>
+      <category>philosophy</category>
+    </item>
+    <item>
+      <title>孙子兵法 · The Art of War</title>
+      <link>https://jiaoshoo.com/pages/philosophy/topic_sunzibingfa.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/philosophy/topic_sunzibingfa.html</guid>
+      <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
+      <description>Thirteen terse chapters on conflict, attributed to the strategist Sun Wu, that became the oldest and most influential military treatise in the world. The supreme art is to subdue the enemy without fighting.</description>
+      <category>philosophy</category>
+    </item>
     <item>
       <title>口语连接词 · Conversational Connectors</title>
       <link>https://jiaoshoo.com/pages/daily/topic_kouyu_lianjieci.html</link>
@@ -166,86 +246,6 @@
       <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
       <description>The paired word that names the Chinese landscape: not &quot;scenery&quot; in the Western sense, but a cosmological pairing of the still and the flowing that became the central subject of a thousand years of painting and poetry.</description>
       <category>vocab</category>
-    </item>
-    <item>
-      <title>德 · virtue, moral power</title>
-      <link>https://jiaoshoo.com/pages/characters/de2_德.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/de2_德.html</guid>
-      <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
-      <description>Virtue not as rule-following but as accumulated moral power: what radiates from a person whose conduct has been straight long enough to become second nature.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>读 · to read aloud, to study</title>
-      <link>https://jiaoshoo.com/pages/characters/du2_读.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/du2_读.html</guid>
-      <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
-      <description>Reading as the act of voicing what is written: the everyday verb for studying, declaiming a text, and (figuratively) interpreting a person, a situation, or a sign.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>脚 · foot, base</title>
-      <link>https://jiaoshoo.com/pages/characters/jiao3_脚.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/jiao3_脚.html</guid>
-      <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
-      <description>The everyday word for foot, and by extension the base of any standing thing: a mountain, a wall, a script. The flesh-and-bone counterpart to literary 足.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>仁 · humaneness, the kernel of human relation</title>
-      <link>https://jiaoshoo.com/pages/characters/ren2_仁.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/ren2_仁.html</guid>
-      <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
-      <description>The character that anchors Confucian ethics: 亻 + 二, the self in relation to another. Etymology, the virtue-cluster compounds, and the seed-kernel sense that links moral and botanical 仁.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>行 · to walk, to act, a row, a trade</title>
-      <link>https://jiaoshoo.com/pages/characters/xing2_行.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/xing2_行.html</guid>
-      <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
-      <description>One of the great polyphonic characters: xíng &quot;to walk; to act; conduct&quot; and háng &quot;row; profession; firm.&quot; A pictograph of a four-way crossroads, the place where walking and the world are organized.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>眼 · eye, glance</title>
-      <link>https://jiaoshoo.com/pages/characters/yan3_眼.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/yan3_眼.html</guid>
-      <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
-      <description>The everyday word for eye, and by extension any small opening, any moment of looking, any judgment made through sight. The body-part counterpart to literary 目.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>认 · to recognize, to acknowledge</title>
-      <link>https://jiaoshoo.com/pages/characters/ren4_认.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/ren4_认.html</guid>
-      <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
-      <description>The act of recognition: knowing something for what it is, owning up to it, and the small set of compounds that turn this on the world, on others, and on oneself.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>真 · real, true, genuine</title>
-      <link>https://jiaoshoo.com/pages/characters/zhen1_真.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/zhen1_真.html</guid>
-      <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Truth not as accuracy but as authenticity: the unadorned thing itself, prized in Daoist self-cultivation and in everyday emphasis.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>认真 · earnest, conscientious, taking it seriously</title>
-      <link>https://jiaoshoo.com/pages/vocab/renzhen_认真.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/renzhen_认真.html</guid>
-      <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
-      <description>To recognize the 真 of a thing and engage with it on its own terms: the everyday word for taking work, study, and other people seriously rather than going through motions.</description>
-      <category>vocab</category>
-    </item>
-    <item>
-      <title>生旦净末丑 · Role Types in Peking Opera</title>
-      <link>https://jiaoshoo.com/pages/arts/topic_jingju_roles.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/arts/topic_jingju_roles.html</guid>
-      <pubDate>Sun, 26 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Five role categories, each a complete performance tradition -- voice, movement, makeup, and costume as a total semiotic system.</description>
-      <category>arts</category>
     </item>
   </channel>
 </rss>

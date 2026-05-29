@@ -279,5 +279,8 @@
   {"slug": "compassion",        "label": "Compassion"},
   {"slug": "fortification",     "label": "Fortification"},
   {"slug": "border",            "label": "Border"},
-  {"slug": "pilgrimage",        "label": "Pilgrimage"}
+  {"slug": "pilgrimage",        "label": "Pilgrimage"},
+  {"slug": "strategy",          "label": "Strategy"},
+  {"slug": "biography",         "label": "Biography"},
+  {"slug": "archaeology",       "label": "Archaeology"}
 ]
