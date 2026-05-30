@@ -69,6 +69,7 @@
 人生	rénshēng	human life; one's life journey — Human life: not biological existence, but the arc of a life lived: its meaning, its seasons, its reckoning.
 山水	shānshuǐ	mountains and water; the landscape — The paired word that names the Chinese landscape: not "scenery" in the Western sense, but a cosmological pairing of the still and the flowing that became the central subject of a thousand years of painting and poetry.
 山水画	shānshuǐhuà	Chinese Landscape Painting — Mountains and waters as a cosmological pair -- the genre that made ink the equal of philosophy.
+时候	shíhou	time, moment — The everyday word for a point in time, and the indispensable 的时候 ("when") pattern that every learner needs.
 时间	shíjiān	time — Time: the compound that anchors all temporal expression in Mandarin.
 天地	tiāndì	heaven and earth; the cosmos — The foundational dyad of Chinese cosmology, pairing Heaven and Earth as the two poles of the created order within which all human life unfolds.
 天人合一	tiān rén hé yī	Heaven and humanity as one: the unity of cosmic and human order — The organizing claim of Chinese cosmology: Heaven and humanity are not separate domains, and human flourishing depends on alignment with the natural order.
@@ -86,6 +87,7 @@
 愚公移山	yú gōng yí shān	The Foolish Old Man Moves the Mountains — Two mountains blocked his door. He and his sons began to move them, one basket at a time. A mocker laughed. He said: when I die my sons will continue; when they die, their sons.
 与时俱进	yǔ shí jù jìn	to advance together with the times — A classical phrase that became a political slogan in 2001, used to justify the Communist Party accommodating private enterprise, and criticized for justifying whatever the party currently does.
 欲速则不达	yù sù zé bù dá	Haste Does Not Bring Success — Speed desired, arrival missed: Confucius on why rushing produces the opposite of what you intend.
+还是 / 或者	háishi / huòzhě	"or" in questions vs. statements — Chinese splits English "or" in two: 还是 offers a choice in a question, 或者 offers an alternative in a statement. Using the wrong one is a classic error.
 来	lái / qù	去 · directional complements — 上来, 下去, 出去, 进来: the motion complement system mapped.
 连…都/也	lián…dōu/yě	even X — The intensifier construction: raising the stakes of a claim.
 没有	méiyǒu	negation of possession and past action — The two most important negation characters, 不 and 没, and why they cannot be swapped.
@@ -93,6 +95,9 @@
 是…的	shì…de	the cleft construction — Focus and past-detail marking: the construction that trips every learner.
 虽然…但是	suīrán dànshì	although … but — The concession frame: granting the premise but pivoting to the real point.
 一边…一边	yībiān yībiān	while doing; at the same time — Simultaneous actions: the frame for describing two things happening at once.
+一点儿 / 有点儿	yìdiǎnr / yǒudiǎnr	a little — The classic confusion pair: 有点儿 comes before an adjective and leans negative ("a bit too…"), while 一点儿 comes after and is neutral ("a little more").
+一样 / 像	yíyàng / xiàng	same and similar — How to say two things are the same (A 跟 B 一样) or alike (A 像 B), and how this differs from the unequal comparison with 比.
 因为…所以	yīn wèi suǒ yǐ	because…therefore — The causal conjunction pair: 因为 states the cause and 所以 announces the result, forming a two-clause logical structure that Chinese uses more explicitly than English.
 越来越	yuèláiyuè	more and more; increasingly — The degree escalation pattern: expressing a quality that grows continuously over time.
+在	zài	location, existence, and the progressive — One of the busiest words in Mandarin: the verb "to be at," the location coverb "at/in," and the progressive marker for ongoing action.
 只有…才	zhǐyǒu cái	only if…then; the restrictive conditional — The exclusive condition: only when X is met can Y happen. The grammatical frame for necessity.

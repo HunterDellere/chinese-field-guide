@@ -72,6 +72,102 @@
     "updated": "2026-05-29"
   },
   {
+    "path": "pages/grammar/gei_给.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "给 · to give, for, and to",
+    "desc": "The verb \"to give,\" the coverb that marks a recipient or beneficiary (\"for/to\"), and a colloquial passive marker, all from one character.",
+    "tags": [
+      "grammar",
+      "syntax",
+      "object",
+      "passive"
+    ],
+    "status": "complete",
+    "pinyin": "gěi",
+    "updated": "2026-05-29"
+  },
+  {
+    "path": "pages/grammar/haishi_huozhe_还是或者.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "还是 / 或者 · \"or\" in questions vs. statements",
+    "desc": "Chinese splits English \"or\" in two: 还是 offers a choice in a question, 或者 offers an alternative in a statement. Using the wrong one is a classic error.",
+    "tags": [
+      "grammar",
+      "conjunction",
+      "syntax",
+      "logic"
+    ],
+    "status": "complete",
+    "pinyin": "háishi / huòzhě",
+    "updated": "2026-05-29"
+  },
+  {
+    "path": "pages/grammar/ma_吗.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "吗 · the yes-no question particle",
+    "desc": "The simplest way to ask a question in Mandarin: add 吗 to the end of a statement. Plus how it differs from A-not-A questions and from 呢 and 吧.",
+    "tags": [
+      "grammar",
+      "particle",
+      "particles",
+      "syntax"
+    ],
+    "status": "complete",
+    "pinyin": "ma",
+    "updated": "2026-05-29"
+  },
+  {
+    "path": "pages/grammar/yidian_youdian_一点儿有点儿.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "一点儿 / 有点儿 · a little",
+    "desc": "The classic confusion pair: 有点儿 comes before an adjective and leans negative (\"a bit too…\"), while 一点儿 comes after and is neutral (\"a little more\").",
+    "tags": [
+      "grammar",
+      "degree",
+      "comparison",
+      "syntax"
+    ],
+    "status": "complete",
+    "pinyin": "yìdiǎnr / yǒudiǎnr",
+    "updated": "2026-05-29"
+  },
+  {
+    "path": "pages/grammar/yiyang_xiang_一样像.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "一样 / 像 · same and similar",
+    "desc": "How to say two things are the same (A 跟 B 一样) or alike (A 像 B), and how this differs from the unequal comparison with 比.",
+    "tags": [
+      "grammar",
+      "comparison",
+      "syntax",
+      "evaluation"
+    ],
+    "status": "complete",
+    "pinyin": "yíyàng / xiàng",
+    "updated": "2026-05-29"
+  },
+  {
+    "path": "pages/grammar/zai_在.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "在 · location, existence, and the progressive",
+    "desc": "One of the busiest words in Mandarin: the verb \"to be at,\" the location coverb \"at/in,\" and the progressive marker for ongoing action.",
+    "tags": [
+      "grammar",
+      "aspect",
+      "syntax",
+      "directional"
+    ],
+    "status": "complete",
+    "pinyin": "zài",
+    "updated": "2026-05-29"
+  },
+  {
     "path": "pages/history/topic_bingmayong.html",
     "type": "topic",
     "category": "history",
@@ -180,174 +276,67 @@
     "updated": "2026-05-29"
   },
   {
-    "path": "pages/daily/topic_kouyu_lianjieci.html",
-    "type": "topic",
-    "category": "daily",
-    "title": "口语连接词 · Conversational Connectors",
-    "desc": "The discourse markers that make spoken Chinese sound natural: buying time, opining, hedging, redirecting, agreeing, and exiting a conversation without abruptness.",
-    "tags": [
-      "daily",
-      "spoken",
-      "language",
-      "etiquette"
-    ],
-    "status": "complete",
-    "pinyin": "kǒuyǔ liánjiēcí",
-    "updated": "2026-05-16"
-  },
-  {
-    "path": "pages/history/topic_qinchao.html",
-    "type": "topic",
-    "category": "history",
-    "title": "秦朝 · The Qin Dynasty (221–206 BCE)",
-    "desc": "Fifteen years of imperial rule, fifteen centuries of imperial inheritance. The Qin unified the warring states, standardized writing, currency, and roads, built the first long wall, burned the books, and collapsed under the weight of its own apparatus.",
-    "tags": [
-      "history",
-      "dynasty",
-      "qin",
-      "unification",
-      "legalism",
-      "first-emperor",
-      "statecraft"
-    ],
-    "status": "complete",
-    "pinyin": "Qín cháo",
-    "updated": "2026-05-10"
-  },
-  {
-    "path": "pages/religion/topic_amituojing.html",
-    "type": "topic",
-    "category": "religion",
-    "title": "阿弥陀经 · The Smaller Amitabha Sutra",
-    "desc": "The shorter Pure Land sutra: ~1,800 characters in which the Buddha describes Amitābha's Western Pure Land to Śāriputra and names the practice of single-minded recollection of the Buddha's name. The daily-recitation text of Pure Land Buddhism.",
-    "tags": [
-      "buddhism",
-      "classics",
-      "religion",
-      "pure-land",
-      "amitabha",
-      "faith"
-    ],
-    "status": "complete",
-    "pinyin": "Āmítuó jīng",
-    "updated": "2026-05-10"
-  },
-  {
-    "path": "pages/religion/topic_fojing.html",
-    "type": "topic",
-    "category": "religion",
-    "title": "佛经 · Buddhist Scriptures",
-    "desc": "The core Mahāyāna sutras the site presents in full: the Chan canon (心经, 金刚经, 坛经) and the Pure Land canon (阿弥陀经, 无量寿经, 观无量寿经). Each linked here gets its own page with full text, line-by-line audio, pinyin gloss, English translation, and commentary.",
-    "tags": [
-      "buddhism",
-      "classics",
-      "religion",
-      "philosophy",
-      "chan",
-      "pure-land"
-    ],
-    "status": "complete",
-    "pinyin": "fójīng",
-    "updated": "2026-05-10"
-  },
-  {
-    "path": "pages/religion/topic_xinjing.html",
-    "type": "topic",
-    "category": "religion",
-    "title": "心经 · The Heart Sutra",
-    "desc": "The Heart Sutra: 260 characters that condense the entire Prajñāpāramitā teaching of emptiness. Translated by Xuanzang in 649 CE; chanted daily across China, Japan, Korea, and Vietnam ever since. The full text, line by line, with audio, gloss, and commentary.",
-    "tags": [
-      "buddhism",
-      "classics",
-      "religion",
-      "philosophy",
-      "meditation",
-      "chan"
-    ],
-    "status": "complete",
-    "pinyin": "Xīnjīng",
-    "updated": "2026-05-10"
-  },
-  {
-    "path": "pages/vocab/bixu_必须.html",
+    "path": "pages/vocab/juede_觉得.html",
     "type": "vocab",
     "category": "vocab",
-    "title": "必须 · must, have to (the obligation modal)",
-    "desc": "必须 is the strongest of the everyday modal verbs of obligation: a non-negotiable requirement that the speaker presents as not-up-for-discussion.",
+    "title": "觉得 · to think, to feel",
+    "desc": "The everyday verb for giving an opinion or impression, and how it differs from the more formal 认为 and from 想 (to want / to think over).",
     "tags": [
-      "modal",
-      "grammar",
-      "register",
-      "syntax"
+      "vocabulary",
+      "feeling",
+      "communication",
+      "daily-life"
     ],
     "status": "complete",
-    "pinyin": "bìxū",
-    "updated": "2026-05-10"
+    "pinyin": "juéde",
+    "updated": "2026-05-29"
   },
   {
-    "path": "pages/vocab/bore_般若.html",
+    "path": "pages/vocab/pengyou_朋友.html",
     "type": "vocab",
     "category": "vocab",
-    "title": "般若 · prajñā; the Buddhist wisdom that sees emptiness",
-    "desc": "般若 is the specific Buddhist wisdom that perceives the emptiness of self and phenomena: not knowledge, not cleverness, but the realization that dissolves clinging at its root.",
+    "title": "朋友 · friend",
+    "desc": "The everyday word for friend, and the rich web of relationship terms (好朋友, 男朋友, 交朋友) built around it.",
     "tags": [
-      "buddhism",
-      "philosophy",
-      "religion",
-      "classics"
+      "vocabulary",
+      "social",
+      "connections",
+      "daily-life"
     ],
     "status": "complete",
-    "pinyin": "bōrě",
-    "updated": "2026-05-10"
+    "pinyin": "péngyou",
+    "updated": "2026-05-29"
   },
   {
-    "path": "pages/vocab/lunyu_论语.html",
+    "path": "pages/vocab/shihou_时候.html",
     "type": "vocab",
     "category": "vocab",
-    "title": "论语 · The Analects of Confucius",
-    "desc": "The Analects: a thin book of recorded conversations and sayings that became the most quoted text in East Asian civilization, the entry point to Confucian thought, and the textbook of imperial education for two thousand years.",
+    "title": "时候 · time, moment",
+    "desc": "The everyday word for a point in time, and the indispensable 的时候 (\"when\") pattern that every learner needs.",
     "tags": [
-      "confucianism",
-      "classics",
-      "philosophy",
-      "literature",
-      "analects",
-      "confucius"
+      "vocabulary",
+      "time",
+      "daily-life",
+      "grammar"
     ],
     "status": "complete",
-    "pinyin": "Lúnyǔ",
-    "updated": "2026-05-10"
+    "pinyin": "shíhou",
+    "updated": "2026-05-29"
   },
   {
-    "path": "pages/vocab/niepan_涅槃.html",
+    "path": "pages/vocab/wenti_问题.html",
     "type": "vocab",
     "category": "vocab",
-    "title": "涅槃 · Nirvana; the extinction of craving and the end of rebirth",
-    "desc": "涅槃 is the Buddhist soteriological terminus: the extinction of the fires of greed, hatred, and delusion, and the cessation of the karmic cycle that they fuel.",
+    "title": "问题 · question, problem",
+    "desc": "One word for both \"question\" and \"problem\", and the everyday phrases (没问题, 有问题, 出问题) built from it.",
     "tags": [
-      "buddhism",
-      "philosophy",
-      "religion",
-      "classics"
+      "vocabulary",
+      "communication",
+      "daily-life",
+      "evaluation"
     ],
     "status": "complete",
-    "pinyin": "nièpán",
-    "updated": "2026-05-10"
-  },
-  {
-    "path": "pages/vocab/wenming_文明.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "文明 · civilization; cultivated and refined",
-    "desc": "文明 names both a state of cultivated life (literacy, ritual, the refined arts) and the global concept of civilization. The two meanings share a single Chinese word, and the doubling is the whole story.",
-    "tags": [
-      "culture",
-      "philosophy",
-      "modern",
-      "history"
-    ],
-    "status": "complete",
-    "pinyin": "wénmíng",
-    "updated": "2026-05-10"
+    "pinyin": "wèntí",
+    "updated": "2026-05-29"
   }
 ]

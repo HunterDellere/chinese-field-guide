@@ -1,9 +1,9 @@
 {
-  "generated": "2026-05-29T23:53:33.032Z",
+  "generated": "2026-05-30T02:55:35.744Z",
   "summary": {
     "errors": 0,
     "warnings": 1,
-    "info": 927
+    "info": 963
   },
   "findings": [
     {
@@ -1642,8 +1642,22 @@
     {
       "level": "INFO",
       "category": "formatting",
+      "file": "content/grammar/gei_给.md",
+      "msg": "2 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
       "file": "content/grammar/hai_还.md",
       "msg": "9 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
+      "file": "content/grammar/haishi_huozhe_还是或者.md",
+      "msg": "2 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
@@ -1679,6 +1693,13 @@
       "category": "formatting",
       "file": "content/grammar/liangci_量词.md",
       "msg": "12 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
+      "file": "content/grammar/ma_吗.md",
+      "msg": "4 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
@@ -1747,6 +1768,13 @@
     {
       "level": "INFO",
       "category": "formatting",
+      "file": "content/grammar/yidian_youdian_一点儿有点儿.md",
+      "msg": "2 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
       "file": "content/grammar/yijing_已经.md",
       "msg": "3 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
@@ -1755,6 +1783,13 @@
       "level": "INFO",
       "category": "formatting",
       "file": "content/grammar/yinwei_suoyi_因为所以.md",
+      "msg": "2 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
+      "file": "content/grammar/yiyang_xiang_一样像.md",
       "msg": "2 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
@@ -1770,6 +1805,13 @@
       "category": "formatting",
       "file": "content/grammar/yuqi_buru_与其不如.md",
       "msg": "3 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
+      "file": "content/grammar/zai_在.md",
+      "msg": "2 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
@@ -2412,6 +2454,13 @@
     {
       "level": "INFO",
       "category": "formatting",
+      "file": "content/vocab/juede_觉得.md",
+      "msg": "1 vocab card contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
       "file": "content/vocab/junzi_君子.md",
       "msg": "7 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
@@ -2491,6 +2540,13 @@
       "category": "formatting",
       "file": "content/vocab/niepan_涅槃.md",
       "msg": "2 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
+      "file": "content/vocab/pengyou_朋友.md",
+      "msg": "5 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
@@ -2601,6 +2657,13 @@
     {
       "level": "INFO",
       "category": "formatting",
+      "file": "content/vocab/shihou_时候.md",
+      "msg": "4 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
       "file": "content/vocab/shijian_时间.md",
       "msg": "2 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
@@ -2657,6 +2720,13 @@
     {
       "level": "INFO",
       "category": "formatting",
+      "file": "content/vocab/wenti_问题.md",
+      "msg": "3 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
       "file": "content/vocab/wushu_武术.md",
       "msg": "7 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
@@ -2666,6 +2736,13 @@
       "category": "formatting",
       "file": "content/vocab/wuwei_无为.md",
       "msg": "5 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
+      "file": "content/vocab/xihuan_喜欢.md",
+      "msg": "3 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
@@ -2706,6 +2783,13 @@
     {
       "level": "INFO",
       "category": "formatting",
+      "file": "content/vocab/zhidao_知道.md",
+      "msg": "3 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
       "file": "content/vocab/zhihui_智慧.md",
       "msg": "10 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
@@ -2735,7 +2819,7 @@
       "level": "INFO",
       "category": "seo",
       "file": "_global",
-      "msg": "268 complete pages missing seo_title — default title leads with CJK and may lose English-SERP clicks. See SEO tab on the admin dashboard for the list.",
+      "msg": "280 complete pages missing seo_title — default title leads with CJK and may lose English-SERP clicks. See SEO tab on the admin dashboard for the list.",
       "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
     },
     {
@@ -2763,6 +2847,48 @@
       "level": "INFO",
       "category": "seo",
       "file": "content/arts/topic_xiyouji.md",
+      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
+      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/grammar/gei_给.md",
+      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
+      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/grammar/haishi_huozhe_还是或者.md",
+      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
+      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/grammar/ma_吗.md",
+      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
+      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/grammar/yidian_youdian_一点儿有点儿.md",
+      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
+      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/grammar/yiyang_xiang_一样像.md",
+      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
+      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/grammar/zai_在.md",
       "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
       "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
     },
@@ -2805,6 +2931,48 @@
       "level": "INFO",
       "category": "seo",
       "file": "content/philosophy/topic_sunzibingfa.md",
+      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
+      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/vocab/juede_觉得.md",
+      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
+      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/vocab/pengyou_朋友.md",
+      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
+      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/vocab/shihou_时候.md",
+      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
+      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/vocab/wenti_问题.md",
+      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
+      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/vocab/xihuan_喜欢.md",
+      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
+      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/vocab/zhidao_知道.md",
       "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
       "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
     },
@@ -4618,7 +4786,7 @@
       "level": "INFO",
       "category": "seo",
       "file": "_global",
-      "msg": "268 complete pages missing seo_desc — default desc is hero copy, not SERP copy. See SEO tab on the admin dashboard for the list.",
+      "msg": "280 complete pages missing seo_desc — default desc is hero copy, not SERP copy. See SEO tab on the admin dashboard for the list.",
       "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
     },
     {
@@ -4646,6 +4814,48 @@
       "level": "INFO",
       "category": "seo",
       "file": "content/arts/topic_xiyouji.md",
+      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
+      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/grammar/gei_给.md",
+      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
+      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/grammar/haishi_huozhe_还是或者.md",
+      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
+      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/grammar/ma_吗.md",
+      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
+      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/grammar/yidian_youdian_一点儿有点儿.md",
+      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
+      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/grammar/yiyang_xiang_一样像.md",
+      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
+      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/grammar/zai_在.md",
       "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
       "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
     },
@@ -4688,6 +4898,48 @@
       "level": "INFO",
       "category": "seo",
       "file": "content/philosophy/topic_sunzibingfa.md",
+      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
+      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/vocab/juede_觉得.md",
+      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
+      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/vocab/pengyou_朋友.md",
+      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
+      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/vocab/shihou_时候.md",
+      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
+      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/vocab/wenti_问题.md",
+      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
+      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/vocab/xihuan_喜欢.md",
+      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
+      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/vocab/zhidao_知道.md",
       "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
       "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
     },

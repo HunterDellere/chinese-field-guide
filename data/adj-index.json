@@ -430,6 +430,40 @@
     ],
     "hasPage": true
   },
+  "还": {
+    "cn": "还",
+    "py": "hái",
+    "en": "still; also; even (in comparisons)",
+    "count": 8,
+    "appearsOn": [
+      "pages/characters/geng4_更.html",
+      "pages/characters/ye3_也.html",
+      "pages/characters/zai4_再.html",
+      "pages/grammar/dou_都.html",
+      "pages/grammar/erqie_而且.html",
+      "pages/grammar/haishi_huozhe_还是或者.html",
+      "pages/grammar/le_了.html",
+      "pages/grammar/zhe_着.html"
+    ],
+    "hasPage": true
+  },
+  "了": {
+    "cn": "了",
+    "py": "le",
+    "en": "change-of-state / sentence-final particle",
+    "count": 8,
+    "appearsOn": [
+      "pages/grammar/ba_particle_吧.html",
+      "pages/grammar/de_的得地.html",
+      "pages/grammar/guo_过.html",
+      "pages/grammar/taiLe_太了.html",
+      "pages/grammar/zai_在.html",
+      "pages/grammar/zhe_particle_呢.html",
+      "pages/grammar/zhe_着.html",
+      "pages/vocab/zhengzai_正在.html"
+    ],
+    "hasPage": true
+  },
   "良心": {
     "cn": "良心",
     "py": "liángxīn",
@@ -478,6 +512,23 @@
       "pages/vocab/niepan_涅槃.html",
       "pages/vocab/pusa_菩萨.html",
       "pages/vocab/yuanfen_缘分.html"
+    ],
+    "hasPage": true
+  },
+  "呢": {
+    "cn": "呢",
+    "py": "ne",
+    "en": "topic / continuative particle",
+    "count": 8,
+    "appearsOn": [
+      "pages/grammar/ba_particle_吧.html",
+      "pages/grammar/hai_还.html",
+      "pages/grammar/le_了.html",
+      "pages/grammar/ma_吗.html",
+      "pages/grammar/zai_在.html",
+      "pages/grammar/zhe_particle_嘛.html",
+      "pages/grammar/zhe_着.html",
+      "pages/vocab/zhengzai_正在.html"
     ],
     "hasPage": true
   },
@@ -629,22 +680,6 @@
     ],
     "hasPage": true
   },
-  "还": {
-    "cn": "还",
-    "py": "hái",
-    "en": "still; also; even (in comparisons)",
-    "count": 7,
-    "appearsOn": [
-      "pages/characters/geng4_更.html",
-      "pages/characters/ye3_也.html",
-      "pages/characters/zai4_再.html",
-      "pages/grammar/dou_都.html",
-      "pages/grammar/erqie_而且.html",
-      "pages/grammar/le_了.html",
-      "pages/grammar/zhe_着.html"
-    ],
-    "hasPage": true
-  },
   "汉字": {
     "cn": "汉字",
     "py": "Hànzì",
@@ -677,19 +712,19 @@
     ],
     "hasPage": true
   },
-  "了": {
-    "cn": "了",
-    "py": "le",
-    "en": "change-of-state / sentence-final particle",
+  "没有": {
+    "cn": "没有",
+    "py": "méiyǒu",
+    "en": "don't have; didn't (past neg.)",
     "count": 7,
     "appearsOn": [
-      "pages/grammar/ba_particle_吧.html",
-      "pages/grammar/de_的得地.html",
-      "pages/grammar/guo_过.html",
-      "pages/grammar/taiLe_太了.html",
-      "pages/grammar/zhe_particle_呢.html",
-      "pages/grammar/zhe_着.html",
-      "pages/vocab/zhengzai_正在.html"
+      "pages/characters/bu4_不.html",
+      "pages/characters/wu2_无.html",
+      "pages/characters/you3_有.html",
+      "pages/grammar/dou_都.html",
+      "pages/grammar/le_了.html",
+      "pages/grammar/ma_吗.html",
+      "pages/grammar/yiyang_xiang_一样像.html"
     ],
     "hasPage": true
   },
@@ -786,6 +821,22 @@
       "pages/hubs/jieri.html",
       "pages/hubs/wenxue.html",
       "pages/hubs/zhongyi.html"
+    ],
+    "hasPage": true
+  },
+  "着": {
+    "cn": "着",
+    "py": "zhe",
+    "en": "ongoing state aspect marker",
+    "count": 7,
+    "appearsOn": [
+      "pages/characters/zai4_在.html",
+      "pages/grammar/de_的得地.html",
+      "pages/grammar/guo_过.html",
+      "pages/grammar/le_了.html",
+      "pages/grammar/zai_在.html",
+      "pages/grammar/zhe_particle_呢.html",
+      "pages/vocab/zhengzai_正在.html"
     ],
     "hasPage": true
   },
@@ -941,6 +992,21 @@
     ],
     "hasPage": true
   },
+  "关系": {
+    "cn": "关系",
+    "py": "guānxi",
+    "en": "relationship, connection",
+    "count": 6,
+    "appearsOn": [
+      "pages/characters/guan1_关.html",
+      "pages/daily/topic_chifan.html",
+      "pages/vocab/keqi_客气.html",
+      "pages/vocab/mianzi_面子.html",
+      "pages/vocab/pengyou_朋友.html",
+      "pages/vocab/shehui_社会.html"
+    ],
+    "hasPage": true
+  },
   "过": {
     "cn": "过",
     "py": "guò",
@@ -1073,21 +1139,6 @@
       "pages/vocab/limao_礼貌.html",
       "pages/vocab/qianxu_谦虚.html",
       "pages/vocab/shehui_社会.html"
-    ],
-    "hasPage": true
-  },
-  "呢": {
-    "cn": "呢",
-    "py": "ne",
-    "en": "topic / continuative particle",
-    "count": 6,
-    "appearsOn": [
-      "pages/grammar/ba_particle_吧.html",
-      "pages/grammar/hai_还.html",
-      "pages/grammar/le_了.html",
-      "pages/grammar/zhe_particle_嘛.html",
-      "pages/grammar/zhe_着.html",
-      "pages/vocab/zhengzai_正在.html"
     ],
     "hasPage": true
   },
@@ -1226,21 +1277,6 @@
     ],
     "hasPage": true
   },
-  "着": {
-    "cn": "着",
-    "py": "zhe",
-    "en": "ongoing state aspect marker",
-    "count": 6,
-    "appearsOn": [
-      "pages/characters/zai4_在.html",
-      "pages/grammar/de_的得地.html",
-      "pages/grammar/guo_过.html",
-      "pages/grammar/le_了.html",
-      "pages/grammar/zhe_particle_呢.html",
-      "pages/vocab/zhengzai_正在.html"
-    ],
-    "hasPage": true
-  },
   "智慧": {
     "cn": "智慧",
     "py": "zhìhuì",
@@ -1268,6 +1304,34 @@
       "pages/culture/topic_zhongyuan.html",
       "pages/religion/topic_chenghuang.html",
       "pages/religion/topic_zuxian.html"
+    ],
+    "hasPage": true
+  },
+  "把": {
+    "cn": "把",
+    "py": "bǎ",
+    "en": "disposal construction (active counterpart)",
+    "count": 5,
+    "appearsOn": [
+      "pages/grammar/bei_被.html",
+      "pages/grammar/de_的得地.html",
+      "pages/grammar/dui_对.html",
+      "pages/grammar/gei_给.html",
+      "pages/grammar/rang_让.html"
+    ],
+    "hasPage": true
+  },
+  "被": {
+    "cn": "被",
+    "py": "bèi",
+    "en": "passive marker (counterpart)",
+    "count": 5,
+    "appearsOn": [
+      "pages/grammar/ba_把.html",
+      "pages/grammar/de_的得地.html",
+      "pages/grammar/dui_对.html",
+      "pages/grammar/gei_给.html",
+      "pages/grammar/rang_让.html"
     ],
     "hasPage": true
   },
@@ -1313,6 +1377,34 @@
     ],
     "hasPage": true
   },
+  "都": {
+    "cn": "都",
+    "py": "dōu",
+    "en": "all; both",
+    "count": 5,
+    "appearsOn": [
+      "pages/characters/ye3_也.html",
+      "pages/grammar/haishi_huozhe_还是或者.html",
+      "pages/grammar/jiu_cai_就才.html",
+      "pages/grammar/le_了.html",
+      "pages/grammar/lian_dou_连都.html"
+    ],
+    "hasPage": true
+  },
+  "对": {
+    "cn": "对",
+    "py": "duì",
+    "en": "pair; couple; correct",
+    "count": 5,
+    "appearsOn": [
+      "pages/characters/er4_二.html",
+      "pages/characters/shi4_是.html",
+      "pages/grammar/gei_给.html",
+      "pages/grammar/rang_让.html",
+      "pages/grammar/shide_是的.html"
+    ],
+    "hasPage": true
+  },
   "佛": {
     "cn": "佛",
     "py": "fó",
@@ -1338,20 +1430,6 @@
       "pages/culture/topic_zhongyuan.html",
       "pages/history/topic_handai.html",
       "pages/vocab/renjian_人间.html"
-    ],
-    "hasPage": true
-  },
-  "关系": {
-    "cn": "关系",
-    "py": "guānxi",
-    "en": "relationship, connection",
-    "count": 5,
-    "appearsOn": [
-      "pages/characters/guan1_关.html",
-      "pages/daily/topic_chifan.html",
-      "pages/vocab/keqi_客气.html",
-      "pages/vocab/mianzi_面子.html",
-      "pages/vocab/shehui_社会.html"
     ],
     "hasPage": true
   },
@@ -1453,20 +1531,6 @@
     ],
     "hasPage": true
   },
-  "没有": {
-    "cn": "没有",
-    "py": "méiyǒu",
-    "en": "don't have; didn't (past neg.)",
-    "count": 5,
-    "appearsOn": [
-      "pages/characters/bu4_不.html",
-      "pages/characters/wu2_无.html",
-      "pages/characters/you3_有.html",
-      "pages/grammar/dou_都.html",
-      "pages/grammar/le_了.html"
-    ],
-    "hasPage": true
-  },
   "目": {
     "cn": "目",
     "py": "mù",
@@ -1537,6 +1601,20 @@
     ],
     "hasPage": true
   },
+  "社会": {
+    "cn": "社会",
+    "py": "shèhuì",
+    "en": "society",
+    "count": 5,
+    "appearsOn": [
+      "pages/characters/ren2_人.html",
+      "pages/vocab/guojia_国家.html",
+      "pages/vocab/lishi_历史.html",
+      "pages/vocab/pengyou_朋友.html",
+      "pages/vocab/wenhua_文化.html"
+    ],
+    "hasPage": true
+  },
   "书": {
     "cn": "书",
     "py": "shū",
@@ -1576,6 +1654,20 @@
       "pages/vocab/qiankun_乾坤.html",
       "pages/vocab/tianren_天人.html",
       "pages/vocab/yinyang_阴阳.html"
+    ],
+    "hasPage": true
+  },
+  "为": {
+    "cn": "为",
+    "py": "wéi",
+    "en": "to do; to act",
+    "count": 5,
+    "appearsOn": [
+      "pages/characters/xing2_行.html",
+      "pages/characters/yi3_以.html",
+      "pages/grammar/gei_给.html",
+      "pages/grammar/suo_所.html",
+      "pages/vocab/wuwei_无为.html"
     ],
     "hasPage": true
   },
@@ -1677,29 +1769,42 @@
     ],
     "hasPage": true
   },
-  "把": {
-    "cn": "把",
-    "py": "bǎ",
-    "en": "disposal construction (active counterpart)",
+  "爱": {
+    "cn": "爱",
+    "py": "ài",
+    "en": "love; to love",
     "count": 4,
     "appearsOn": [
-      "pages/grammar/bei_被.html",
-      "pages/grammar/de_的得地.html",
-      "pages/grammar/dui_对.html",
-      "pages/grammar/rang_让.html"
+      "pages/characters/ren2_仁.html",
+      "pages/vocab/cibi_慈悲.html",
+      "pages/vocab/ren2_仁.html",
+      "pages/vocab/xihuan_喜欢.html"
     ],
     "hasPage": true
   },
-  "被": {
-    "cn": "被",
-    "py": "bèi",
-    "en": "passive marker (counterpart)",
+  "比": {
+    "cn": "比",
+    "py": "bǐ",
+    "en": "compared to; than",
     "count": 4,
     "appearsOn": [
-      "pages/grammar/ba_把.html",
-      "pages/grammar/de_的得地.html",
-      "pages/grammar/dui_对.html",
-      "pages/grammar/rang_让.html"
+      "pages/characters/geng4_更.html",
+      "pages/grammar/yidian_youdian_一点儿有点儿.html",
+      "pages/grammar/yiyang_xiang_一样像.html",
+      "pages/vocab/bijiao_比较.html"
+    ],
+    "hasPage": true
+  },
+  "比较": {
+    "cn": "比较",
+    "py": "bǐjiào",
+    "en": "to compare; relatively — 还's comparative-meaning sibling",
+    "count": 4,
+    "appearsOn": [
+      "pages/grammar/hai_还.html",
+      "pages/grammar/taiLe_太了.html",
+      "pages/grammar/yiyang_xiang_一样像.html",
+      "pages/vocab/zhengzai_正在.html"
     ],
     "hasPage": true
   },
@@ -1716,16 +1821,29 @@
     ],
     "hasPage": true
   },
-  "都": {
-    "cn": "都",
-    "py": "dōu",
-    "en": "all; both",
+  "从": {
+    "cn": "从",
+    "py": "cóng",
+    "en": "from (origin)",
     "count": 4,
     "appearsOn": [
-      "pages/characters/ye3_也.html",
-      "pages/grammar/jiu_cai_就才.html",
+      "pages/grammar/dui_对.html",
       "pages/grammar/le_了.html",
-      "pages/grammar/lian_dou_连都.html"
+      "pages/grammar/zai_在.html",
+      "pages/grammar/zhi_之.html"
+    ],
+    "hasPage": true
+  },
+  "的话": {
+    "cn": "的话",
+    "py": "de huà",
+    "en": "if (colloquial conditional)",
+    "count": 4,
+    "appearsOn": [
+      "pages/grammar/ba_particle_吧.html",
+      "pages/grammar/jiu_cai_就才.html",
+      "pages/grammar/ruguo_ji_如果就.html",
+      "pages/vocab/shihou_时候.html"
     ],
     "hasPage": true
   },
@@ -1742,16 +1860,16 @@
     ],
     "hasPage": true
   },
-  "对": {
-    "cn": "对",
-    "py": "duì",
-    "en": "pair; couple; correct",
+  "而且": {
+    "cn": "而且",
+    "py": "érqiě",
+    "en": "moreover, and furthermore",
     "count": 4,
     "appearsOn": [
-      "pages/characters/er4_二.html",
-      "pages/characters/shi4_是.html",
-      "pages/grammar/rang_让.html",
-      "pages/grammar/shide_是的.html"
+      "pages/grammar/hai_还.html",
+      "pages/grammar/haishi_huozhe_还是或者.html",
+      "pages/grammar/taiLe_太了.html",
+      "pages/grammar/zhi_之.html"
     ],
     "hasPage": true
   },
@@ -2015,6 +2133,19 @@
     ],
     "hasPage": true
   },
+  "嘛": {
+    "cn": "嘛",
+    "py": "ma",
+    "en": "obvious-conclusion particle",
+    "count": 4,
+    "appearsOn": [
+      "pages/grammar/ba_particle_吧.html",
+      "pages/grammar/le_了.html",
+      "pages/grammar/ma_吗.html",
+      "pages/grammar/zhe_particle_呢.html"
+    ],
+    "hasPage": true
+  },
   "美": {
     "cn": "美",
     "py": "měi",
@@ -2040,6 +2171,19 @@
       "pages/vocab/lunyu_论语.html"
     ],
     "hasPage": true
+  },
+  "明白": {
+    "cn": "明白",
+    "py": "míngbai",
+    "en": "to understand",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/bai2_白.html",
+      "pages/characters/ren4_认.html",
+      "pages/vocab/yisi_意思.html",
+      "pages/vocab/zhidao_知道.html"
+    ],
+    "hasPage": false
   },
   "明朝": {
     "cn": "明朝",
@@ -2093,6 +2237,19 @@
     ],
     "hasPage": true
   },
+  "让": {
+    "cn": "让",
+    "py": "ràng",
+    "en": "to let; causative / colloquial passive",
+    "count": 4,
+    "appearsOn": [
+      "pages/grammar/ba_把.html",
+      "pages/grammar/bei_被.html",
+      "pages/grammar/dui_对.html",
+      "pages/grammar/gei_给.html"
+    ],
+    "hasPage": true
+  },
   "人生": {
     "cn": "人生",
     "py": "rénshēng",
@@ -2116,19 +2273,6 @@
       "pages/philosophy/topic_mojia.html",
       "pages/philosophy/topic_yijing.html",
       "pages/vocab/lunyu_论语.html"
-    ],
-    "hasPage": true
-  },
-  "社会": {
-    "cn": "社会",
-    "py": "shèhuì",
-    "en": "society",
-    "count": 4,
-    "appearsOn": [
-      "pages/characters/ren2_人.html",
-      "pages/vocab/guojia_国家.html",
-      "pages/vocab/lishi_历史.html",
-      "pages/vocab/wenhua_文化.html"
     ],
     "hasPage": true
   },
@@ -2184,19 +2328,6 @@
     ],
     "hasPage": true
   },
-  "为": {
-    "cn": "为",
-    "py": "wéi",
-    "en": "to do; to act",
-    "count": 4,
-    "appearsOn": [
-      "pages/characters/xing2_行.html",
-      "pages/characters/yi3_以.html",
-      "pages/grammar/suo_所.html",
-      "pages/vocab/wuwei_无为.html"
-    ],
-    "hasPage": true
-  },
   "文明": {
     "cn": "文明",
     "py": "wénmíng",
@@ -2220,6 +2351,19 @@
       "pages/characters/qu4_去.html",
       "pages/characters/shang4_上.html",
       "pages/characters/zai4_在.html"
+    ],
+    "hasPage": true
+  },
+  "想": {
+    "cn": "想",
+    "py": "xiǎng",
+    "en": "to think; to want; to miss",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/si1_思.html",
+      "pages/characters/yao4_要.html",
+      "pages/grammar/hui_neng_keyi_会能可以.html",
+      "pages/vocab/juede_觉得.html"
     ],
     "hasPage": true
   },
@@ -2314,6 +2458,19 @@
     ],
     "hasPage": false
   },
+  "意思": {
+    "cn": "意思",
+    "py": "yìsi",
+    "en": "meaning; idea",
+    "count": 4,
+    "appearsOn": [
+      "pages/vocab/juede_觉得.html",
+      "pages/vocab/li3_礼.html",
+      "pages/vocab/wenti_问题.html",
+      "pages/vocab/yi4_义.html"
+    ],
+    "hasPage": true
+  },
   "月": {
     "cn": "月",
     "py": "yuè",
@@ -2337,6 +2494,19 @@
       "pages/culinary/topic_chuancai.html",
       "pages/culinary/topic_doufu.html",
       "pages/culinary/topic_lucai.html"
+    ],
+    "hasPage": true
+  },
+  "越来越": {
+    "cn": "越来越",
+    "py": "yuèláiyuè",
+    "en": "more and more",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/geng4_更.html",
+      "pages/characters/yue4_越.html",
+      "pages/grammar/yidian_youdian_一点儿有点儿.html",
+      "pages/vocab/bijiao_比较.html"
     ],
     "hasPage": true
   },
@@ -2366,6 +2536,19 @@
     ],
     "hasPage": false
   },
+  "正在": {
+    "cn": "正在",
+    "py": "zhèngzài",
+    "en": "right in the middle of (emphatic progressive)",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/zai4_在.html",
+      "pages/grammar/zai_在.html",
+      "pages/grammar/zhe_particle_呢.html",
+      "pages/grammar/zhe_着.html"
+    ],
+    "hasPage": true
+  },
   "之": {
     "cn": "之",
     "py": "zhī",
@@ -2378,6 +2561,19 @@
       "pages/grammar/zhi_者.html"
     ],
     "hasPage": true
+  },
+  "知识": {
+    "cn": "知识",
+    "py": "zhīshi",
+    "en": "knowledge",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/xue2_学.html",
+      "pages/characters/zhi4_智.html",
+      "pages/vocab/zhidao_知道.html",
+      "pages/vocab/zhihui_智慧.html"
+    ],
+    "hasPage": false
   },
   "宗教地图": {
     "cn": "宗教地图",
@@ -2429,15 +2625,15 @@
     ],
     "hasPage": false
   },
-  "爱": {
-    "cn": "爱",
-    "py": "ài",
-    "en": "love; to love",
+  "吧": {
+    "cn": "吧",
+    "py": "ba",
+    "en": "suggestion/supposition particle",
     "count": 3,
     "appearsOn": [
-      "pages/characters/ren2_仁.html",
-      "pages/vocab/cibi_慈悲.html",
-      "pages/vocab/ren2_仁.html"
+      "pages/grammar/ma_吗.html",
+      "pages/grammar/zhe_particle_呢.html",
+      "pages/grammar/zhe_particle_嘛.html"
     ],
     "hasPage": true
   },
@@ -2462,18 +2658,6 @@
       "pages/characters/bei3_北.html",
       "pages/characters/nan2_南.html",
       "pages/vocab/changjian_长城.html"
-    ],
-    "hasPage": true
-  },
-  "比较": {
-    "cn": "比较",
-    "py": "bǐjiào",
-    "en": "to compare; relatively — 还's comparative-meaning sibling",
-    "count": 3,
-    "appearsOn": [
-      "pages/grammar/hai_还.html",
-      "pages/grammar/taiLe_太了.html",
-      "pages/vocab/zhengzai_正在.html"
     ],
     "hasPage": true
   },
@@ -2585,18 +2769,6 @@
     ],
     "hasPage": false
   },
-  "从": {
-    "cn": "从",
-    "py": "cóng",
-    "en": "from (origin)",
-    "count": 3,
-    "appearsOn": [
-      "pages/grammar/dui_对.html",
-      "pages/grammar/le_了.html",
-      "pages/grammar/zhi_之.html"
-    ],
-    "hasPage": true
-  },
   "大": {
     "cn": "大",
     "py": "dà",
@@ -2669,30 +2841,6 @@
     ],
     "hasPage": true
   },
-  "的话": {
-    "cn": "的话",
-    "py": "de huà",
-    "en": "if (colloquial conditional)",
-    "count": 3,
-    "appearsOn": [
-      "pages/grammar/ba_particle_吧.html",
-      "pages/grammar/jiu_cai_就才.html",
-      "pages/grammar/ruguo_ji_如果就.html"
-    ],
-    "hasPage": true
-  },
-  "而且": {
-    "cn": "而且",
-    "py": "érqiě",
-    "en": "moreover, and furthermore",
-    "count": 3,
-    "appearsOn": [
-      "pages/grammar/hai_还.html",
-      "pages/grammar/taiLe_太了.html",
-      "pages/grammar/zhi_之.html"
-    ],
-    "hasPage": true
-  },
   "方位": {
     "cn": "方位",
     "py": "fāngwèi",
@@ -2716,6 +2864,18 @@
       "pages/vocab/shehui_社会.html"
     ],
     "hasPage": true
+  },
+  "高兴": {
+    "cn": "高兴",
+    "py": "gāoxìng",
+    "en": "happy; glad",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/gao1_高.html",
+      "pages/characters/kuai4_快.html",
+      "pages/vocab/xihuan_喜欢.html"
+    ],
+    "hasPage": false
   },
   "更": {
     "cn": "更",
@@ -2753,6 +2913,18 @@
     ],
     "hasPage": true
   },
+  "很": {
+    "cn": "很",
+    "py": "hěn",
+    "en": "very",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/geng4_更.html",
+      "pages/grammar/taiLe_太了.html",
+      "pages/grammar/yidian_youdian_一点儿有点儿.html"
+    ],
+    "hasPage": false
+  },
   "红包": {
     "cn": "红包",
     "py": "hóngbāo",
@@ -2789,6 +2961,18 @@
     ],
     "hasPage": false
   },
+  "会": {
+    "cn": "会",
+    "py": "huì",
+    "en": "know how to; be likely to (the three 'can's)",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/bi4_必.html",
+      "pages/characters/ke3_可.html",
+      "pages/vocab/zhidao_知道.html"
+    ],
+    "hasPage": true
+  },
   "火": {
     "cn": "火",
     "py": "huǒ",
@@ -2800,6 +2984,18 @@
       "pages/characters/yu3_雨.html"
     ],
     "hasPage": true
+  },
+  "或者": {
+    "cn": "或者",
+    "py": "huòzhě",
+    "en": "or (in statements, not questions)",
+    "count": 3,
+    "appearsOn": [
+      "pages/grammar/hai_还.html",
+      "pages/grammar/haishi_huozhe_还是或者.html",
+      "pages/grammar/zhi_者.html"
+    ],
+    "hasPage": false
   },
   "集锦": {
     "cn": "集锦",
@@ -2861,6 +3057,18 @@
     ],
     "hasPage": false
   },
+  "觉得": {
+    "cn": "觉得",
+    "py": "juéde",
+    "en": "to feel that; think (subjective)",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/ren4_认.html",
+      "pages/vocab/xihuan_喜欢.html",
+      "pages/vocab/zhidao_知道.html"
+    ],
+    "hasPage": true
+  },
   "跨": {
     "cn": "跨",
     "py": "kuà",
@@ -2908,6 +3116,18 @@
       "pages/vocab/daode_道德.html"
     ],
     "hasPage": true
+  },
+  "了解": {
+    "cn": "了解",
+    "py": "liǎojiě",
+    "en": "to understand; be familiar with",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/ren4_认.html",
+      "pages/characters/zhi1_知.html",
+      "pages/vocab/zhidao_知道.html"
+    ],
+    "hasPage": false
   },
   "雷": {
     "cn": "雷",
@@ -2969,18 +3189,6 @@
     ],
     "hasPage": true
   },
-  "嘛": {
-    "cn": "嘛",
-    "py": "ma",
-    "en": "obvious-conclusion particle",
-    "count": 3,
-    "appearsOn": [
-      "pages/grammar/ba_particle_吧.html",
-      "pages/grammar/le_了.html",
-      "pages/grammar/zhe_particle_呢.html"
-    ],
-    "hasPage": true
-  },
   "民间信仰": {
     "cn": "民间信仰",
     "py": "mínjiān xìnyǎng",
@@ -3004,18 +3212,6 @@
       "pages/vocab/wenming_文明.html"
     ],
     "hasPage": true
-  },
-  "明白": {
-    "cn": "明白",
-    "py": "míngbai",
-    "en": "to understand",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/bai2_白.html",
-      "pages/characters/ren4_认.html",
-      "pages/vocab/yisi_意思.html"
-    ],
-    "hasPage": false
   },
   "南": {
     "cn": "南",
@@ -3098,18 +3294,6 @@
       "pages/culture/topic_duanwu.html",
       "pages/culture/topic_zhongjiu.html",
       "pages/culture/topic_zhongyuan.html"
-    ],
-    "hasPage": true
-  },
-  "让": {
-    "cn": "让",
-    "py": "ràng",
-    "en": "to let; causative / colloquial passive",
-    "count": 3,
-    "appearsOn": [
-      "pages/grammar/ba_把.html",
-      "pages/grammar/bei_被.html",
-      "pages/grammar/dui_对.html"
     ],
     "hasPage": true
   },
@@ -3220,6 +3404,30 @@
       "pages/vocab/shijian_时间.html"
     ],
     "hasPage": false
+  },
+  "时候": {
+    "cn": "时候",
+    "py": "shíhòu",
+    "en": "a point in time",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/shi2_时.html",
+      "pages/grammar/zai_在.html",
+      "pages/vocab/shijian_时间.html"
+    ],
+    "hasPage": true
+  },
+  "时间": {
+    "cn": "时间",
+    "py": "shíjiān",
+    "en": "time (duration)",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/shi2_时.html",
+      "pages/vocab/shihou_时候.html",
+      "pages/vocab/zhengzai_正在.html"
+    ],
+    "hasPage": true
   },
   "手": {
     "cn": "手",
@@ -3413,18 +3621,6 @@
     ],
     "hasPage": true
   },
-  "想": {
-    "cn": "想",
-    "py": "xiǎng",
-    "en": "to think; to want; to miss",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/si1_思.html",
-      "pages/characters/yao4_要.html",
-      "pages/grammar/hui_neng_keyi_会能可以.html"
-    ],
-    "hasPage": true
-  },
   "孝": {
     "cn": "孝",
     "py": "xiào",
@@ -3569,6 +3765,18 @@
     ],
     "hasPage": true
   },
+  "以前": {
+    "cn": "以前",
+    "py": "yǐqián",
+    "en": "before; in the past",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/qian2_前.html",
+      "pages/vocab/shihou_时候.html",
+      "pages/vocab/shijian_时间.html"
+    ],
+    "hasPage": false
+  },
   "义务": {
     "cn": "义务",
     "py": "yìwù",
@@ -3677,18 +3885,6 @@
     ],
     "hasPage": true
   },
-  "越来越": {
-    "cn": "越来越",
-    "py": "yuèláiyuè",
-    "en": "more and more",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/geng4_更.html",
-      "pages/characters/yue4_越.html",
-      "pages/vocab/bijiao_比较.html"
-    ],
-    "hasPage": true
-  },
   "运气": {
     "cn": "运气",
     "py": "yùnqi",
@@ -3736,30 +3932,6 @@
       "pages/religion/topic_rujia.html"
     ],
     "hasPage": true
-  },
-  "正在": {
-    "cn": "正在",
-    "py": "zhèngzài",
-    "en": "right in the middle of (emphatic progressive)",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/zai4_在.html",
-      "pages/grammar/zhe_particle_呢.html",
-      "pages/grammar/zhe_着.html"
-    ],
-    "hasPage": true
-  },
-  "知识": {
-    "cn": "知识",
-    "py": "zhīshi",
-    "en": "knowledge",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/xue2_学.html",
-      "pages/characters/zhi4_智.html",
-      "pages/vocab/zhihui_智慧.html"
-    ],
-    "hasPage": false
   },
   "只要…就": {
     "cn": "只要…就",
@@ -3949,17 +4121,6 @@
     ],
     "hasPage": false
   },
-  "吧": {
-    "cn": "吧",
-    "py": "ba",
-    "en": "suggestion / confirmation particle",
-    "count": 2,
-    "appearsOn": [
-      "pages/grammar/zhe_particle_呢.html",
-      "pages/grammar/zhe_particle_嘛.html"
-    ],
-    "hasPage": true
-  },
   "白": {
     "cn": "白",
     "py": "bái",
@@ -4047,17 +4208,6 @@
       "pages/vocab/gongfu_功夫.html"
     ],
     "hasPage": false
-  },
-  "比": {
-    "cn": "比",
-    "py": "bǐ",
-    "en": "compared to; than",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/geng4_更.html",
-      "pages/vocab/bijiao_比较.html"
-    ],
-    "hasPage": true
   },
   "笔画": {
     "cn": "笔画",
@@ -4873,17 +5023,6 @@
     ],
     "hasPage": false
   },
-  "高兴": {
-    "cn": "高兴",
-    "py": "gāoxìng",
-    "en": "happy; glad",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/gao1_高.html",
-      "pages/characters/kuai4_快.html"
-    ],
-    "hasPage": false
-  },
   "告": {
     "cn": "告",
     "py": "gào",
@@ -4925,6 +5064,17 @@
     "appearsOn": [
       "pages/characters/jia1_家.html",
       "pages/characters/jiao3_脚.html"
+    ],
+    "hasPage": false
+  },
+  "跟": {
+    "cn": "跟",
+    "py": "gēn",
+    "en": "with; and (colloquial)",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/he2_和.html",
+      "pages/grammar/yiyang_xiang_一样像.html"
     ],
     "hasPage": false
   },
@@ -5214,17 +5364,6 @@
     ],
     "hasPage": false
   },
-  "很": {
-    "cn": "很",
-    "py": "hěn",
-    "en": "very",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/geng4_更.html",
-      "pages/grammar/taiLe_太了.html"
-    ],
-    "hasPage": false
-  },
   "很多": {
     "cn": "很多",
     "py": "hěn duō",
@@ -5324,17 +5463,6 @@
     ],
     "hasPage": true
   },
-  "会": {
-    "cn": "会",
-    "py": "huì",
-    "en": "know how to; be likely to (the three 'can's)",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/bi4_必.html",
-      "pages/characters/ke3_可.html"
-    ],
-    "hasPage": true
-  },
   "婚礼": {
     "cn": "婚礼",
     "py": "hūnlǐ",
@@ -5343,17 +5471,6 @@
     "appearsOn": [
       "pages/characters/li3_礼.html",
       "pages/characters/nu3_女.html"
-    ],
-    "hasPage": false
-  },
-  "或者": {
-    "cn": "或者",
-    "py": "huòzhě",
-    "en": "or (in statements, not questions)",
-    "count": 2,
-    "appearsOn": [
-      "pages/grammar/hai_还.html",
-      "pages/grammar/zhi_者.html"
     ],
     "hasPage": false
   },
@@ -5753,17 +5870,6 @@
     ],
     "hasPage": true
   },
-  "了解": {
-    "cn": "了解",
-    "py": "liǎojiě",
-    "en": "to understand; be familiar with",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/ren4_认.html",
-      "pages/characters/zhi1_知.html"
-    ],
-    "hasPage": false
-  },
   "礼物": {
     "cn": "礼物",
     "py": "lǐwù",
@@ -5961,6 +6067,17 @@
       "pages/grammar/jiu_cai_就才.html"
     ],
     "hasPage": false
+  },
+  "吗": {
+    "cn": "吗",
+    "py": "ma",
+    "en": "yes-no question particle",
+    "count": 2,
+    "appearsOn": [
+      "pages/grammar/haishi_huozhe_还是或者.html",
+      "pages/grammar/zhe_particle_呢.html"
+    ],
+    "hasPage": true
   },
   "慢": {
     "cn": "慢",
@@ -6202,7 +6319,7 @@
       "pages/characters/ren2_人.html",
       "pages/vocab/guanxi_关系.html"
     ],
-    "hasPage": false
+    "hasPage": true
   },
   "偏旁": {
     "cn": "偏旁",
@@ -6446,6 +6563,17 @@
     ],
     "hasPage": true
   },
+  "认识": {
+    "cn": "认识",
+    "py": "rènshi",
+    "en": "to know (a person); to recognize",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/zhi1_知.html",
+      "pages/vocab/zhidao_知道.html"
+    ],
+    "hasPage": false
+  },
   "认真": {
     "cn": "认真",
     "py": "rènzhēn",
@@ -6611,6 +6739,17 @@
     ],
     "hasPage": false
   },
+  "什么": {
+    "cn": "什么",
+    "py": "shénme",
+    "en": "what (fronted + 都 = everything)",
+    "count": 2,
+    "appearsOn": [
+      "pages/grammar/dou_都.html",
+      "pages/grammar/ma_吗.html"
+    ],
+    "hasPage": false
+  },
   "神话": {
     "cn": "神话",
     "py": "shénhuà",
@@ -6754,28 +6893,6 @@
     ],
     "hasPage": true
   },
-  "时候": {
-    "cn": "时候",
-    "py": "shíhòu",
-    "en": "a point in time",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/shi2_时.html",
-      "pages/vocab/shijian_时间.html"
-    ],
-    "hasPage": false
-  },
-  "时间": {
-    "cn": "时间",
-    "py": "shíjiān",
-    "en": "time (duration)",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/shi2_时.html",
-      "pages/vocab/zhengzai_正在.html"
-    ],
-    "hasPage": true
-  },
   "实": {
     "cn": "实",
     "py": "shí",
@@ -6819,6 +6936,17 @@
       "pages/characters/zhen1_真.html"
     ],
     "hasPage": true
+  },
+  "是不是": {
+    "cn": "是不是",
+    "py": "shì bú shì",
+    "en": "is it the case that…?",
+    "count": 2,
+    "appearsOn": [
+      "pages/grammar/haishi_huozhe_还是或者.html",
+      "pages/grammar/ma_吗.html"
+    ],
+    "hasPage": false
   },
   "是的": {
     "cn": "是的",
@@ -7798,17 +7926,6 @@
     ],
     "hasPage": false
   },
-  "以前": {
-    "cn": "以前",
-    "py": "yǐqián",
-    "en": "before; in the past",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/qian2_前.html",
-      "pages/vocab/shijian_时间.html"
-    ],
-    "hasPage": false
-  },
   "易经": {
     "cn": "易经",
     "py": "Yìjīng",
@@ -7841,17 +7958,6 @@
       "pages/characters/xin1_心.html"
     ],
     "hasPage": false
-  },
-  "意思": {
-    "cn": "意思",
-    "py": "yìsi",
-    "en": "intention; meaning — the gift-giving idiom 一点小意思 names the gift by what it carries",
-    "count": 2,
-    "appearsOn": [
-      "pages/vocab/li3_礼.html",
-      "pages/vocab/yi4_义.html"
-    ],
-    "hasPage": true
   },
   "因为": {
     "cn": "因为",
@@ -8040,6 +8146,17 @@
     ],
     "hasPage": true
   },
+  "愿意": {
+    "cn": "愿意",
+    "py": "yuànyì",
+    "en": "willing to",
+    "count": 2,
+    "appearsOn": [
+      "pages/grammar/hui_neng_keyi_会能可以.html",
+      "pages/vocab/xihuan_喜欢.html"
+    ],
+    "hasPage": false
+  },
   "允许": {
     "cn": "允许",
     "py": "yǔnxǔ",
@@ -8193,6 +8310,28 @@
       "pages/characters/zhen1_真.html"
     ],
     "hasPage": true
+  },
+  "知道": {
+    "cn": "知道",
+    "py": "zhīdào",
+    "en": "to know (a fact)",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/ren4_认.html",
+      "pages/vocab/juede_觉得.html"
+    ],
+    "hasPage": true
+  },
+  "知己": {
+    "cn": "知己",
+    "py": "zhījǐ",
+    "en": "true friend; one who knows you",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/zhi1_知.html",
+      "pages/vocab/pengyou_朋友.html"
+    ],
+    "hasPage": false
   },
   "知音": {
     "cn": "知音",
@@ -9312,6 +9451,16 @@
     ],
     "hasPage": false
   },
+  "不一样": {
+    "cn": "不一样",
+    "py": "bù yíyàng",
+    "en": "different",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/yiyang_xiang_一样像.html"
+    ],
+    "hasPage": false
+  },
   "不足": {
     "cn": "不足",
     "py": "bùzú",
@@ -9959,6 +10108,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/dao4_到.html"
+    ],
+    "hasPage": false
+  },
+  "答案": {
+    "cn": "答案",
+    "py": "dá'àn",
+    "en": "answer",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/wenti_问题.html"
     ],
     "hasPage": false
   },
@@ -11382,6 +11541,16 @@
     ],
     "hasPage": false
   },
+  "感觉": {
+    "cn": "感觉",
+    "py": "gǎnjué",
+    "en": "feeling; to sense",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/juede_觉得.html"
+    ],
+    "hasPage": false
+  },
   "感人": {
     "cn": "感人",
     "py": "gǎnrén",
@@ -11550,7 +11719,7 @@
     "appearsOn": [
       "pages/grammar/bei_被.html"
     ],
-    "hasPage": false
+    "hasPage": true
   },
   "根本": {
     "cn": "根本",
@@ -11559,16 +11728,6 @@
     "count": 1,
     "appearsOn": [
       "pages/grammar/lian_dou_连都.html"
-    ],
-    "hasPage": false
-  },
-  "跟": {
-    "cn": "跟",
-    "py": "gēn",
-    "en": "with; and (colloquial)",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/he2_和.html"
     ],
     "hasPage": false
   },
@@ -12259,6 +12418,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/hao3_好.html"
+    ],
+    "hasPage": false
+  },
+  "好朋友": {
+    "cn": "好朋友",
+    "py": "hǎo péngyou",
+    "en": "good friend",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/pengyou_朋友.html"
     ],
     "hasPage": false
   },
@@ -13332,6 +13501,16 @@
     ],
     "hasPage": false
   },
+  "交朋友": {
+    "cn": "交朋友",
+    "py": "jiāo péngyou",
+    "en": "to make friends",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/pengyou_朋友.html"
+    ],
+    "hasPage": false
+  },
   "骄傲": {
     "cn": "骄傲",
     "py": "jiāo'ào",
@@ -13479,6 +13658,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/jia1_家.html"
+    ],
+    "hasPage": false
+  },
+  "解决": {
+    "cn": "解决",
+    "py": "jiějué",
+    "en": "to solve; to resolve",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/wenti_问题.html"
     ],
     "hasPage": false
   },
@@ -13849,16 +14038,6 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/yuan3_远.html"
-    ],
-    "hasPage": false
-  },
-  "觉得": {
-    "cn": "觉得",
-    "py": "juéde",
-    "en": "to feel that; think (subjective)",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/ren4_认.html"
     ],
     "hasPage": false
   },
@@ -15132,6 +15311,16 @@
     ],
     "hasPage": false
   },
+  "麻烦": {
+    "cn": "麻烦",
+    "py": "máfan",
+    "en": "trouble; hassle",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/wenti_问题.html"
+    ],
+    "hasPage": false
+  },
   "麻辣": {
     "cn": "麻辣",
     "py": "málà",
@@ -15179,16 +15368,6 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/jianghu_江湖.html"
-    ],
-    "hasPage": false
-  },
-  "吗": {
-    "cn": "吗",
-    "py": "ma",
-    "en": "yes/no question particle",
-    "count": 1,
-    "appearsOn": [
-      "pages/grammar/zhe_particle_呢.html"
     ],
     "hasPage": false
   },
@@ -15279,6 +15458,16 @@
     "count": 1,
     "appearsOn": [
       "pages/grammar/shide_是的.html"
+    ],
+    "hasPage": false
+  },
+  "没问题": {
+    "cn": "没问题",
+    "py": "méi wèntí",
+    "en": "no problem",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/wenti_问题.html"
     ],
     "hasPage": false
   },
@@ -15789,6 +15978,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/nu3_女.html"
+    ],
+    "hasPage": false
+  },
+  "男朋友": {
+    "cn": "男朋友",
+    "py": "nán péngyou",
+    "en": "boyfriend",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/pengyou_朋友.html"
     ],
     "hasPage": false
   },
@@ -16912,13 +17111,13 @@
     ],
     "hasPage": false
   },
-  "认识": {
-    "cn": "认识",
-    "py": "rènshi",
-    "en": "to know (a person); to recognize",
+  "认为": {
+    "cn": "认为",
+    "py": "rènwéi",
+    "en": "to hold the view that",
     "count": 1,
     "appearsOn": [
-      "pages/characters/zhi1_知.html"
+      "pages/vocab/juede_觉得.html"
     ],
     "hasPage": false
   },
@@ -17382,6 +17581,16 @@
     ],
     "hasPage": false
   },
+  "稍微": {
+    "cn": "稍微",
+    "py": "shāowēi",
+    "en": "slightly; a touch",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/yidian_youdian_一点儿有点儿.html"
+    ],
+    "hasPage": false
+  },
   "少年": {
     "cn": "少年",
     "py": "shàonián",
@@ -17472,13 +17681,13 @@
     ],
     "hasPage": false
   },
-  "什么": {
-    "cn": "什么",
-    "py": "shénme",
-    "en": "what (fronted + 都 = everything)",
+  "什么时候": {
+    "cn": "什么时候",
+    "py": "shénme shíhou",
+    "en": "when? (question)",
     "count": 1,
     "appearsOn": [
-      "pages/grammar/dou_都.html"
+      "pages/vocab/shihou_时候.html"
     ],
     "hasPage": false
   },
@@ -18242,6 +18451,16 @@
     ],
     "hasPage": false
   },
+  "睡觉": {
+    "cn": "睡觉",
+    "py": "shuìjiào",
+    "en": "to sleep (觉 read jiào)",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/juede_觉得.html"
+    ],
+    "hasPage": false
+  },
   "顺从": {
     "cn": "顺从",
     "py": "shùncóng",
@@ -18419,6 +18638,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/fo2_佛.html"
+    ],
+    "hasPage": false
+  },
+  "送": {
+    "cn": "送",
+    "py": "sòng",
+    "en": "to give (as a gift); to see off",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/gei_给.html"
     ],
     "hasPage": false
   },
@@ -18662,6 +18891,16 @@
     ],
     "hasPage": false
   },
+  "太了": {
+    "cn": "太了",
+    "py": "tài le",
+    "en": "too… (excessive)",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/yidian_youdian_一点儿有点儿.html"
+    ],
+    "hasPage": false
+  },
   "太平": {
     "cn": "太平",
     "py": "tàipíng",
@@ -18729,6 +18968,16 @@
     "count": 1,
     "appearsOn": [
       "pages/arts/topic_sanguoyanyi.html"
+    ],
+    "hasPage": false
+  },
+  "讨厌": {
+    "cn": "讨厌",
+    "py": "tǎoyàn",
+    "en": "to dislike; to find annoying",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/xihuan_喜欢.html"
     ],
     "hasPage": false
   },
@@ -19019,6 +19268,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/guanxi_关系.html"
+    ],
+    "hasPage": false
+  },
+  "同学": {
+    "cn": "同学",
+    "py": "tóngxué",
+    "en": "classmate",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/pengyou_朋友.html"
     ],
     "hasPage": false
   },
@@ -19482,6 +19741,16 @@
     ],
     "hasPage": false
   },
+  "问": {
+    "cn": "问",
+    "py": "wèn",
+    "en": "to ask",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/wenti_问题.html"
+    ],
+    "hasPage": false
+  },
   "我们": {
     "cn": "我们",
     "py": "wǒmen",
@@ -19832,6 +20101,16 @@
     ],
     "hasPage": false
   },
+  "喜爱": {
+    "cn": "喜爱",
+    "py": "xǐ'ài",
+    "en": "to be fond of; to cherish",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/xihuan_喜欢.html"
+    ],
+    "hasPage": false
+  },
   "喜欢": {
     "cn": "喜欢",
     "py": "xǐhuān",
@@ -19840,7 +20119,7 @@
     "appearsOn": [
       "pages/characters/ai4_爱.html"
     ],
-    "hasPage": false
+    "hasPage": true
   },
   "戏曲": {
     "cn": "戏曲",
@@ -20022,6 +20301,16 @@
     ],
     "hasPage": false
   },
+  "现在": {
+    "cn": "现在",
+    "py": "xiànzài",
+    "en": "now",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/shihou_时候.html"
+    ],
+    "hasPage": false
+  },
   "线路": {
     "cn": "线路",
     "py": "xiànlù",
@@ -20179,6 +20468,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/hanzi_汉字.html"
+    ],
+    "hasPage": false
+  },
+  "像": {
+    "cn": "像",
+    "py": "xiàng",
+    "en": "to resemble; to be like",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/yiyang_xiang_一样像.html"
     ],
     "hasPage": false
   },
@@ -21532,6 +21831,16 @@
     ],
     "hasPage": false
   },
+  "有点儿": {
+    "cn": "有点儿",
+    "py": "yǒudiǎnr",
+    "en": "a bit (too)…",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/yidian_youdian_一点儿有点儿.html"
+    ],
+    "hasPage": false
+  },
   "有空": {
     "cn": "有空",
     "py": "yǒu kòng",
@@ -21549,6 +21858,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/qian2_钱.html"
+    ],
+    "hasPage": false
+  },
+  "有时候": {
+    "cn": "有时候",
+    "py": "yǒu shíhou",
+    "en": "sometimes",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/shihou_时候.html"
     ],
     "hasPage": false
   },
@@ -21959,16 +22278,6 @@
     "count": 1,
     "appearsOn": [
       "pages/chengyu/shiyuansuowei_事与愿违.html"
-    ],
-    "hasPage": false
-  },
-  "愿意": {
-    "cn": "愿意",
-    "py": "yuànyì",
-    "en": "willing to",
-    "count": 1,
-    "appearsOn": [
-      "pages/grammar/hui_neng_keyi_会能可以.html"
     ],
     "hasPage": false
   },
@@ -22569,26 +22878,6 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/mu4_木.html"
-    ],
-    "hasPage": false
-  },
-  "知道": {
-    "cn": "知道",
-    "py": "zhīdào",
-    "en": "to know (a fact)",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/ren4_认.html"
-    ],
-    "hasPage": false
-  },
-  "知己": {
-    "cn": "知己",
-    "py": "zhījǐ",
-    "en": "true friend; one who knows you",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/zhi1_知.html"
     ],
     "hasPage": false
   },

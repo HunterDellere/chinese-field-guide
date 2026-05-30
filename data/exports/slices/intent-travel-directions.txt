@@ -39,6 +39,7 @@
 丝绸之路	sīchóu zhī lù	the Silk Road — The term Silk Road was coined by a German geographer in 1877: the Chinese themselves had no single name for the trade network that defined their contact with the world for a millennium.
 天下	tiānxià	all under heaven — The pre-nation-state Chinese political imagination: the civilized world.
 长城	Chángchéng	the Great Wall — A series of fortification systems built across multiple dynasties, whose most visible sections are Ming-era brick: not the continuous ancient rampart of popular imagination.
+知道	zhīdào	to know — The everyday verb for knowing a fact, and how it differs from 认识 (to be acquainted with) and 了解 (to understand deeply).
 中国	Zhōngguó	the Middle Kingdom; China — Two characters older than the country they now name. 中 (center) and 国 (state) joined three thousand years ago to mean "the central states"; the modern country took the phrase for itself only in the 19th century.
 东施效颦	Dōng Shī xiào pín	to imitate blindly without understanding, and make things worse — A homely woman copies Xi Shi's famous frown and clears the street: Zhuangzi's parable about form without essence.
 山清水秀	shān qīng shuǐ xiù	Mountains Clear, Waters Lovely — Clear mountains, lovely waters. The standard Chinese phrase for a picturesque landscape: four characters that compress the whole aesthetic vocabulary of natural beauty.
@@ -46,3 +47,4 @@
 来	lái / qù	去 · directional complements — 上来, 下去, 出去, 进来: the motion complement system mapped.
 起来	qǐlái	directional complement: upward, inward, beginning — The most versatile directional complement in Mandarin: three distinct grammatical lives.
 越来越	yuèláiyuè	more and more; increasingly — The degree escalation pattern: expressing a quality that grows continuously over time.
+在	zài	location, existence, and the progressive — One of the busiest words in Mandarin: the verb "to be at," the location coverb "at/in," and the progressive marker for ongoing action.

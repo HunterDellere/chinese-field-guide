@@ -72,6 +72,102 @@
     "updated": "2026-05-29"
   },
   {
+    "path": "pages/grammar/gei_给.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "给 · to give, for, and to",
+    "desc": "The verb \"to give,\" the coverb that marks a recipient or beneficiary (\"for/to\"), and a colloquial passive marker, all from one character.",
+    "tags": [
+      "grammar",
+      "syntax",
+      "object",
+      "passive"
+    ],
+    "status": "complete",
+    "pinyin": "gěi",
+    "updated": "2026-05-29"
+  },
+  {
+    "path": "pages/grammar/haishi_huozhe_还是或者.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "还是 / 或者 · \"or\" in questions vs. statements",
+    "desc": "Chinese splits English \"or\" in two: 还是 offers a choice in a question, 或者 offers an alternative in a statement. Using the wrong one is a classic error.",
+    "tags": [
+      "grammar",
+      "conjunction",
+      "syntax",
+      "logic"
+    ],
+    "status": "complete",
+    "pinyin": "háishi / huòzhě",
+    "updated": "2026-05-29"
+  },
+  {
+    "path": "pages/grammar/ma_吗.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "吗 · the yes-no question particle",
+    "desc": "The simplest way to ask a question in Mandarin: add 吗 to the end of a statement. Plus how it differs from A-not-A questions and from 呢 and 吧.",
+    "tags": [
+      "grammar",
+      "particle",
+      "particles",
+      "syntax"
+    ],
+    "status": "complete",
+    "pinyin": "ma",
+    "updated": "2026-05-29"
+  },
+  {
+    "path": "pages/grammar/yidian_youdian_一点儿有点儿.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "一点儿 / 有点儿 · a little",
+    "desc": "The classic confusion pair: 有点儿 comes before an adjective and leans negative (\"a bit too…\"), while 一点儿 comes after and is neutral (\"a little more\").",
+    "tags": [
+      "grammar",
+      "degree",
+      "comparison",
+      "syntax"
+    ],
+    "status": "complete",
+    "pinyin": "yìdiǎnr / yǒudiǎnr",
+    "updated": "2026-05-29"
+  },
+  {
+    "path": "pages/grammar/yiyang_xiang_一样像.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "一样 / 像 · same and similar",
+    "desc": "How to say two things are the same (A 跟 B 一样) or alike (A 像 B), and how this differs from the unequal comparison with 比.",
+    "tags": [
+      "grammar",
+      "comparison",
+      "syntax",
+      "evaluation"
+    ],
+    "status": "complete",
+    "pinyin": "yíyàng / xiàng",
+    "updated": "2026-05-29"
+  },
+  {
+    "path": "pages/grammar/zai_在.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "在 · location, existence, and the progressive",
+    "desc": "One of the busiest words in Mandarin: the verb \"to be at,\" the location coverb \"at/in,\" and the progressive marker for ongoing action.",
+    "tags": [
+      "grammar",
+      "aspect",
+      "syntax",
+      "directional"
+    ],
+    "status": "complete",
+    "pinyin": "zài",
+    "updated": "2026-05-29"
+  },
+  {
     "path": "pages/history/topic_bingmayong.html",
     "type": "topic",
     "category": "history",
@@ -177,6 +273,102 @@
     ],
     "status": "complete",
     "pinyin": "sūnzǐ bīngfǎ",
+    "updated": "2026-05-29"
+  },
+  {
+    "path": "pages/vocab/juede_觉得.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "觉得 · to think, to feel",
+    "desc": "The everyday verb for giving an opinion or impression, and how it differs from the more formal 认为 and from 想 (to want / to think over).",
+    "tags": [
+      "vocabulary",
+      "feeling",
+      "communication",
+      "daily-life"
+    ],
+    "status": "complete",
+    "pinyin": "juéde",
+    "updated": "2026-05-29"
+  },
+  {
+    "path": "pages/vocab/pengyou_朋友.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "朋友 · friend",
+    "desc": "The everyday word for friend, and the rich web of relationship terms (好朋友, 男朋友, 交朋友) built around it.",
+    "tags": [
+      "vocabulary",
+      "social",
+      "connections",
+      "daily-life"
+    ],
+    "status": "complete",
+    "pinyin": "péngyou",
+    "updated": "2026-05-29"
+  },
+  {
+    "path": "pages/vocab/shihou_时候.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "时候 · time, moment",
+    "desc": "The everyday word for a point in time, and the indispensable 的时候 (\"when\") pattern that every learner needs.",
+    "tags": [
+      "vocabulary",
+      "time",
+      "daily-life",
+      "grammar"
+    ],
+    "status": "complete",
+    "pinyin": "shíhou",
+    "updated": "2026-05-29"
+  },
+  {
+    "path": "pages/vocab/wenti_问题.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "问题 · question, problem",
+    "desc": "One word for both \"question\" and \"problem\", and the everyday phrases (没问题, 有问题, 出问题) built from it.",
+    "tags": [
+      "vocabulary",
+      "communication",
+      "daily-life",
+      "evaluation"
+    ],
+    "status": "complete",
+    "pinyin": "wèntí",
+    "updated": "2026-05-29"
+  },
+  {
+    "path": "pages/vocab/xihuan_喜欢.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "喜欢 · to like",
+    "desc": "The everyday verb for liking, and how it differs from loving (爱), enjoying (喜爱), and being willing (愿意).",
+    "tags": [
+      "vocabulary",
+      "emotion",
+      "feeling",
+      "daily-life"
+    ],
+    "status": "complete",
+    "pinyin": "xǐhuan",
+    "updated": "2026-05-29"
+  },
+  {
+    "path": "pages/vocab/zhidao_知道.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "知道 · to know",
+    "desc": "The everyday verb for knowing a fact, and how it differs from 认识 (to be acquainted with) and 了解 (to understand deeply).",
+    "tags": [
+      "vocabulary",
+      "knowing",
+      "daily-life",
+      "communication"
+    ],
+    "status": "complete",
+    "pinyin": "zhīdào",
     "updated": "2026-05-29"
   },
   {

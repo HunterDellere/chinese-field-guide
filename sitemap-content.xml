@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://jiaoshoo.com/</loc>
-    <lastmod>2026-05-29</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://jiaoshoo.com/pages/today/</loc>
-    <lastmod>2026-05-29</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://jiaoshoo.com/pages/exports/</loc>
-    <lastmod>2026-05-29</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -38,6 +38,42 @@
   </url>
   <url>
     <loc>https://jiaoshoo.com/pages/arts/topic_xiyouji.html</loc>
+    <lastmod>2026-05-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jiaoshoo.com/pages/grammar/gei_%E7%BB%99.html</loc>
+    <lastmod>2026-05-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jiaoshoo.com/pages/grammar/haishi_huozhe_%E8%BF%98%E6%98%AF%E6%88%96%E8%80%85.html</loc>
+    <lastmod>2026-05-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jiaoshoo.com/pages/grammar/ma_%E5%90%97.html</loc>
+    <lastmod>2026-05-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jiaoshoo.com/pages/grammar/yidian_youdian_%E4%B8%80%E7%82%B9%E5%84%BF%E6%9C%89%E7%82%B9%E5%84%BF.html</loc>
+    <lastmod>2026-05-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jiaoshoo.com/pages/grammar/yiyang_xiang_%E4%B8%80%E6%A0%B7%E5%83%8F.html</loc>
+    <lastmod>2026-05-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jiaoshoo.com/pages/grammar/zai_%E5%9C%A8.html</loc>
     <lastmod>2026-05-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -74,6 +110,42 @@
   </url>
   <url>
     <loc>https://jiaoshoo.com/pages/philosophy/topic_sunzibingfa.html</loc>
+    <lastmod>2026-05-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jiaoshoo.com/pages/vocab/juede_%E8%A7%89%E5%BE%97.html</loc>
+    <lastmod>2026-05-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jiaoshoo.com/pages/vocab/pengyou_%E6%9C%8B%E5%8F%8B.html</loc>
+    <lastmod>2026-05-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jiaoshoo.com/pages/vocab/shihou_%E6%97%B6%E5%80%99.html</loc>
+    <lastmod>2026-05-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jiaoshoo.com/pages/vocab/wenti_%E9%97%AE%E9%A2%98.html</loc>
+    <lastmod>2026-05-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jiaoshoo.com/pages/vocab/xihuan_%E5%96%9C%E6%AC%A2.html</loc>
+    <lastmod>2026-05-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jiaoshoo.com/pages/vocab/zhidao_%E7%9F%A5%E9%81%93.html</loc>
     <lastmod>2026-05-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>

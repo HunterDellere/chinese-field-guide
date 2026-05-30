@@ -181,6 +181,7 @@
 山水画	shānshuǐhuà	Chinese Landscape Painting — Mountains and waters as a cosmological pair -- the genre that made ink the equal of philosophy.
 神明	shénmíng	gods, spirits, deities; divine intelligence — The generic term for any deity in the Chinese religious world: and, in classical philosophy, the luminous intelligence that distinguishes the divine from the merely powerful.
 生产	shēngchǎn	to produce, production, manufacturing — The foundational act of economic life: and, in China's Marxist political vocabulary, the act from which all social relations flow. Life gives rise to production; production sustains life.
+时候	shíhou	time, moment — The everyday word for a point in time, and the indispensable 的时候 ("when") pattern that every learner needs.
 时间	shíjiān	time — Time: the compound that anchors all temporal expression in Mandarin.
 书法	shūfǎ	calligraphy — The art where writing becomes a performance of character: and why the Chinese brush is a philosophical instrument.
 丝绸之路	sīchóu zhī lù	the Silk Road — The term Silk Road was coined by a German geographer in 1877: the Chinese themselves had no single name for the trade network that defined their contact with the world for a millennium.
@@ -195,6 +196,7 @@
 意思	yìsi	meaning, intention — Meaning, interest, charm, and the gift-giving idiom 意思意思.
 长城	Chángchéng	the Great Wall — A series of fortification systems built across multiple dynasties, whose most visible sections are Ming-era brick: not the continuous ancient rampart of popular imagination.
 正在	zhèngzài	currently doing, progressive aspect — The primary progressive marker in Mandarin -- placed before a verb to signal an action caught in mid-motion, exactly now, still in progress.
+知道	zhīdào	to know — The everyday verb for knowing a fact, and how it differs from 认识 (to be acquainted with) and 了解 (to understand deeply).
 智慧	zhìhuì	wisdom; prajna — 智慧 brings together Confucian moral discernment and Buddhist prajna under one compound: two traditions, one word, different objects of knowing.
 中国	Zhōngguó	the Middle Kingdom; China — Two characters older than the country they now name. 中 (center) and 国 (state) joined three thousand years ago to mean "the central states"; the modern country took the phrase for itself only in the 19th century.
 中国画	zhōng guó huà	Chinese painting — Brush and ink as philosophy: Chinese painting aims to capture the spirit of a subject and express the painter's inner cultivation rather than represent what the eye sees.
@@ -213,6 +215,7 @@
 愚公移山	yú gōng yí shān	The Foolish Old Man Moves the Mountains — Two mountains blocked his door. He and his sons began to move them, one basket at a time. A mocker laughed. He said: when I die my sons will continue; when they die, their sons.
 与时俱进	yǔ shí jù jìn	to advance together with the times — A classical phrase that became a political slogan in 2001, used to justify the Communist Party accommodating private enterprise, and criticized for justifying whatever the party currently does.
 欲速则不达	yù sù zé bù dá	Haste Does Not Bring Success — Speed desired, arrival missed: Confucius on why rushing produces the opposite of what you intend.
+还是 / 或者	háishi / huòzhě	"or" in questions vs. statements — Chinese splits English "or" in two: 还是 offers a choice in a question, 或者 offers an alternative in a statement. Using the wrong one is a classic error.
 来	lái / qù	去 · directional complements — 上来, 下去, 出去, 进来: the motion complement system mapped.
 连…都/也	lián…dōu/yě	even X — The intensifier construction: raising the stakes of a claim.
 没有	méiyǒu	negation of possession and past action — The two most important negation characters, 不 and 没, and why they cannot be swapped.
@@ -220,8 +223,11 @@
 是…的	shì…de	the cleft construction — Focus and past-detail marking: the construction that trips every learner.
 虽然…但是	suīrán dànshì	although … but — The concession frame: granting the premise but pivoting to the real point.
 一边…一边	yībiān yībiān	while doing; at the same time — Simultaneous actions: the frame for describing two things happening at once.
+一点儿 / 有点儿	yìdiǎnr / yǒudiǎnr	a little — The classic confusion pair: 有点儿 comes before an adjective and leans negative ("a bit too…"), while 一点儿 comes after and is neutral ("a little more").
+一样 / 像	yíyàng / xiàng	same and similar — How to say two things are the same (A 跟 B 一样) or alike (A 像 B), and how this differs from the unequal comparison with 比.
 因为…所以	yīn wèi suǒ yǐ	because…therefore — The causal conjunction pair: 因为 states the cause and 所以 announces the result, forming a two-clause logical structure that Chinese uses more explicitly than English.
 与其…不如	yǔqí bùrú	rather than … it would be better to — Comparative preference construction: the most elegant way to argue for one choice over another.
 越来越	yuèláiyuè	more and more; increasingly — The degree escalation pattern: expressing a quality that grows continuously over time.
+在	zài	location, existence, and the progressive — One of the busiest words in Mandarin: the verb "to be at," the location coverb "at/in," and the progressive marker for ongoing action.
 之	zhī	classical genitive, nominalizer, and pronoun — The single character that does the work of three English words (of, it, and the one who) and still shows up in modern Chinese every day.
 只有…才	zhǐyǒu cái	only if…then; the restrictive conditional — The exclusive condition: only when X is met can Y happen. The grammatical frame for necessity.

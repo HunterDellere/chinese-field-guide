@@ -23,6 +23,7 @@
 江山	jiāngshān	rivers and mountains, the realm — The classical Chinese word for the nation: not a territory but a landscape; not a state but a living geography that dynasties rose and fell to possess.
 节气	jiéqì	the 24 solar terms — China's ancient agricultural calendar: 24 precise moments that mark the turning of the year, still shaping food, medicine, and daily life.
 京剧	jīng jù	Peking Opera — China's preeminent performing art: a total synthesis of song, stylized speech, acrobatic movement, and martial performance that evolved in Beijing during the Qing dynasty.
+觉得	juéde	to think, to feel — The everyday verb for giving an opinion or impression, and how it differs from the more formal 认为 and from 想 (to want / to think over).
 君子	jūnzǐ	the exemplary person — The Confucian moral ideal that replaced aristocratic birth with cultivated virtue as the basis of social authority: anyone who does the work of 仁义礼智信 qualifies.
 客气	kèqi	politeness, ceremony — The polite manners owed to guests: and the gentle dance of refusal, insistence, and ritual modesty that runs through every Chinese social interaction.
 跨越	kuàyuè	to leap across, to span, to transcend — The compound that lets the Chinese language span gaps: physical, historical, technological, generational. The verb of choice when "越长城" is read figuratively.
@@ -35,6 +36,7 @@
 面子	miànzi	face, honor — Giving, losing, and saving face: the social grammar of dignity.
 命运	mìngyùn	fate, destiny — Fate, destiny, and the tension between cosmic order and human will.
 涅槃	nièpán	Nirvana; the extinction of craving and the end of rebirth — 涅槃 is the Buddhist soteriological terminus: the extinction of the fires of greed, hatred, and delusion, and the cessation of the karmic cycle that they fuel.
+朋友	péngyou	friend — The everyday word for friend, and the rich web of relationship terms (好朋友, 男朋友, 交朋友) built around it.
 菩萨	púsà	Bodhisattva — 菩萨 is the being who stands at the threshold of complete enlightenment and turns back: choosing to remain within the cycle of existence until every sentient being can be liberated alongside them.
 普通话	pǔtōnghuà	Mandarin Chinese — The common speech: how China standardized its national language, what Mandarin actually is, and how it relates to Cantonese, Shanghainese, and the Chinese dialects.
 气功	qìgōng	qigong — Cultivating the vital breath: China's ancient practice of aligning body, breath, and mind.
@@ -50,6 +52,7 @@
 神明	shénmíng	gods, spirits, deities; divine intelligence — The generic term for any deity in the Chinese religious world: and, in classical philosophy, the luminous intelligence that distinguishes the divine from the merely powerful.
 生产	shēngchǎn	to produce, production, manufacturing — The foundational act of economic life: and, in China's Marxist political vocabulary, the act from which all social relations flow. Life gives rise to production; production sustains life.
 诗词	shī cí	Chinese poetry — Poetry stood at the center of Chinese civilization for two thousand years: the primary medium for expressing emotion, demonstrating education, and participating in the social life of the literati class.
+时候	shíhou	time, moment — The everyday word for a point in time, and the indispensable 的时候 ("when") pattern that every learner needs.
 时间	shíjiān	time — Time: the compound that anchors all temporal expression in Mandarin.
 书法	shūfǎ	calligraphy — The art where writing becomes a performance of character: and why the Chinese brush is a philosophical instrument.
 丝绸之路	sīchóu zhī lù	the Silk Road — The term Silk Road was coined by a German geographer in 1877: the Chinese themselves had no single name for the trade network that defined their contact with the world for a millennium.
@@ -59,8 +62,10 @@
 天下	tiānxià	all under heaven — The pre-nation-state Chinese political imagination: the civilized world.
 文化	wénhuà	culture; civilization — The word that names the organizing project of this entire site: and a concept that Chinese thought built from the ground up differently than the West did.
 文明	wénmíng	civilization; cultivated and refined — 文明 names both a state of cultivated life (literacy, ritual, the refined arts) and the global concept of civilization. The two meanings share a single Chinese word, and the doubling is the whole story.
+问题	wèntí	question, problem — One word for both "question" and "problem", and the everyday phrases (没问题, 有问题, 出问题) built from it.
 无为	wúwéi	non-action; acting in accord with nature — 无为 is the Daoist elimination of forced, ego-driven action: the master principle behind effortless effectiveness, sage governance, and Zhuangzi's cook whose knife stays forever sharp.
 武术	wǔshù	martial arts — The art of stopping weapons: how China systematized combat into a living philosophy of the body.
+喜欢	xǐhuan	to like — The everyday verb for liking, and how it differs from loving (爱), enjoying (喜爱), and being willing (愿意).
 孝	xiào	filial piety — An elder supported by a child's hands: the cardinal Confucian virtue that placed care for parents at the foundation of all moral life.
 义	yì	Righteousness: The Second Constant — Doing what is right because it is right: 义 as the enacted path of Confucian ethics, the constant that gives 仁 its direction.
 意思	yìsi	meaning, intention — Meaning, interest, charm, and the gift-giving idiom 意思意思.
@@ -68,6 +73,7 @@
 缘分	yuánfèn	karmic connection — Buddhist-rooted fate that ties strangers, lovers, and old friends.
 长城	Chángchéng	the Great Wall — A series of fortification systems built across multiple dynasties, whose most visible sections are Ming-era brick: not the continuous ancient rampart of popular imagination.
 正在	zhèngzài	currently doing, progressive aspect — The primary progressive marker in Mandarin -- placed before a verb to signal an action caught in mid-motion, exactly now, still in progress.
+知道	zhīdào	to know — The everyday verb for knowing a fact, and how it differs from 认识 (to be acquainted with) and 了解 (to understand deeply).
 智慧	zhìhuì	wisdom; prajna — 智慧 brings together Confucian moral discernment and Buddhist prajna under one compound: two traditions, one word, different objects of knowing.
 中国	Zhōngguó	the Middle Kingdom; China — Two characters older than the country they now name. 中 (center) and 国 (state) joined three thousand years ago to mean "the central states"; the modern country took the phrase for itself only in the 19th century.
 中国画	zhōng guó huà	Chinese painting — Brush and ink as philosophy: Chinese painting aims to capture the spirit of a subject and express the painter's inner cultivation rather than represent what the eye sees.

@@ -6,7 +6,7 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A reading nook for Chinese language and civilisation. Characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 29 May 2026 23:53:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 02:55:05 GMT</lastBuildDate>
     <item>
       <title>红楼梦 · Dream of the Red Chamber</title>
       <link>https://jiaoshoo.com/pages/arts/topic_honglou.html</link>
@@ -38,6 +38,54 @@
       <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
       <description>A Buddhist monk, a rebellious immortal monkey, a glutton pig, and a river demon travel west for the scriptures. The 16th-century novel of pilgrimage, magic, and mischief that gave the world the Monkey King.</description>
       <category>arts</category>
+    </item>
+    <item>
+      <title>给 · to give, for, and to</title>
+      <link>https://jiaoshoo.com/pages/grammar/gei_给.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/grammar/gei_给.html</guid>
+      <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
+      <description>The verb &quot;to give,&quot; the coverb that marks a recipient or beneficiary (&quot;for/to&quot;), and a colloquial passive marker, all from one character.</description>
+      <category>grammar</category>
+    </item>
+    <item>
+      <title>还是 / 或者 · &quot;or&quot; in questions vs. statements</title>
+      <link>https://jiaoshoo.com/pages/grammar/haishi_huozhe_还是或者.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/grammar/haishi_huozhe_还是或者.html</guid>
+      <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
+      <description>Chinese splits English &quot;or&quot; in two: 还是 offers a choice in a question, 或者 offers an alternative in a statement. Using the wrong one is a classic error.</description>
+      <category>grammar</category>
+    </item>
+    <item>
+      <title>吗 · the yes-no question particle</title>
+      <link>https://jiaoshoo.com/pages/grammar/ma_吗.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/grammar/ma_吗.html</guid>
+      <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
+      <description>The simplest way to ask a question in Mandarin: add 吗 to the end of a statement. Plus how it differs from A-not-A questions and from 呢 and 吧.</description>
+      <category>grammar</category>
+    </item>
+    <item>
+      <title>一点儿 / 有点儿 · a little</title>
+      <link>https://jiaoshoo.com/pages/grammar/yidian_youdian_一点儿有点儿.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/grammar/yidian_youdian_一点儿有点儿.html</guid>
+      <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
+      <description>The classic confusion pair: 有点儿 comes before an adjective and leans negative (&quot;a bit too…&quot;), while 一点儿 comes after and is neutral (&quot;a little more&quot;).</description>
+      <category>grammar</category>
+    </item>
+    <item>
+      <title>一样 / 像 · same and similar</title>
+      <link>https://jiaoshoo.com/pages/grammar/yiyang_xiang_一样像.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/grammar/yiyang_xiang_一样像.html</guid>
+      <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
+      <description>How to say two things are the same (A 跟 B 一样) or alike (A 像 B), and how this differs from the unequal comparison with 比.</description>
+      <category>grammar</category>
+    </item>
+    <item>
+      <title>在 · location, existence, and the progressive</title>
+      <link>https://jiaoshoo.com/pages/grammar/zai_在.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/grammar/zai_在.html</guid>
+      <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
+      <description>One of the busiest words in Mandarin: the verb &quot;to be at,&quot; the location coverb &quot;at/in,&quot; and the progressive marker for ongoing action.</description>
+      <category>grammar</category>
     </item>
     <item>
       <title>兵马俑 · The Terracotta Army</title>
@@ -86,6 +134,54 @@
       <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
       <description>Thirteen terse chapters on conflict, attributed to the strategist Sun Wu, that became the oldest and most influential military treatise in the world. The supreme art is to subdue the enemy without fighting.</description>
       <category>philosophy</category>
+    </item>
+    <item>
+      <title>觉得 · to think, to feel</title>
+      <link>https://jiaoshoo.com/pages/vocab/juede_觉得.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/juede_觉得.html</guid>
+      <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
+      <description>The everyday verb for giving an opinion or impression, and how it differs from the more formal 认为 and from 想 (to want / to think over).</description>
+      <category>vocab</category>
+    </item>
+    <item>
+      <title>朋友 · friend</title>
+      <link>https://jiaoshoo.com/pages/vocab/pengyou_朋友.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/pengyou_朋友.html</guid>
+      <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
+      <description>The everyday word for friend, and the rich web of relationship terms (好朋友, 男朋友, 交朋友) built around it.</description>
+      <category>vocab</category>
+    </item>
+    <item>
+      <title>时候 · time, moment</title>
+      <link>https://jiaoshoo.com/pages/vocab/shihou_时候.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/shihou_时候.html</guid>
+      <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
+      <description>The everyday word for a point in time, and the indispensable 的时候 (&quot;when&quot;) pattern that every learner needs.</description>
+      <category>vocab</category>
+    </item>
+    <item>
+      <title>问题 · question, problem</title>
+      <link>https://jiaoshoo.com/pages/vocab/wenti_问题.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/wenti_问题.html</guid>
+      <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
+      <description>One word for both &quot;question&quot; and &quot;problem&quot;, and the everyday phrases (没问题, 有问题, 出问题) built from it.</description>
+      <category>vocab</category>
+    </item>
+    <item>
+      <title>喜欢 · to like</title>
+      <link>https://jiaoshoo.com/pages/vocab/xihuan_喜欢.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/xihuan_喜欢.html</guid>
+      <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
+      <description>The everyday verb for liking, and how it differs from loving (爱), enjoying (喜爱), and being willing (愿意).</description>
+      <category>vocab</category>
+    </item>
+    <item>
+      <title>知道 · to know</title>
+      <link>https://jiaoshoo.com/pages/vocab/zhidao_知道.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/zhidao_知道.html</guid>
+      <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
+      <description>The everyday verb for knowing a fact, and how it differs from 认识 (to be acquainted with) and 了解 (to understand deeply).</description>
+      <category>vocab</category>
     </item>
     <item>
       <title>口语连接词 · Conversational Connectors</title>
@@ -149,102 +245,6 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/lunyu_论语.html</guid>
       <pubDate>Sun, 10 May 2026 00:00:00 GMT</pubDate>
       <description>The Analects: a thin book of recorded conversations and sayings that became the most quoted text in East Asian civilization, the entry point to Confucian thought, and the textbook of imperial education for two thousand years.</description>
-      <category>vocab</category>
-    </item>
-    <item>
-      <title>涅槃 · Nirvana; the extinction of craving and the end of rebirth</title>
-      <link>https://jiaoshoo.com/pages/vocab/niepan_涅槃.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/niepan_涅槃.html</guid>
-      <pubDate>Sun, 10 May 2026 00:00:00 GMT</pubDate>
-      <description>涅槃 is the Buddhist soteriological terminus: the extinction of the fires of greed, hatred, and delusion, and the cessation of the karmic cycle that they fuel.</description>
-      <category>vocab</category>
-    </item>
-    <item>
-      <title>文明 · civilization; cultivated and refined</title>
-      <link>https://jiaoshoo.com/pages/vocab/wenming_文明.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/wenming_文明.html</guid>
-      <pubDate>Sun, 10 May 2026 00:00:00 GMT</pubDate>
-      <description>文明 names both a state of cultivated life (literacy, ritual, the refined arts) and the global concept of civilization. The two meanings share a single Chinese word, and the doubling is the whole story.</description>
-      <category>vocab</category>
-    </item>
-    <item>
-      <title>命 · life, fate, command</title>
-      <link>https://jiaoshoo.com/pages/characters/ming4_命.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/ming4_命.html</guid>
-      <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
-      <description>A mouth speaking an order: 令 above, 口 inside. The character that holds together three of the heaviest words in Chinese: life, destiny, and the command from above.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>跨 · to stride; to span; to bestride</title>
-      <link>https://jiaoshoo.com/pages/characters/kua4_跨.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/kua4_跨.html</guid>
-      <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
-      <description>The character of the long stride: a foot-radical verb that reaches from &quot;step over a threshold&quot; to &quot;span an era&quot; to the modern policy vocabulary of cross-border, cross-industry, cross-cultural everything.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>跑 · to run; to flee; to operate</title>
-      <link>https://jiaoshoo.com/pages/characters/pao3_跑.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/pao3_跑.html</guid>
-      <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
-      <description>The everyday verb of running: a foot-radical character whose semantic range stretches from &quot;the legs in motion&quot; to &quot;running an errand&quot; to &quot;the engine is running&quot; to a small but productive family of escape-and-flee compounds.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>她 · she, her</title>
-      <link>https://jiaoshoo.com/pages/characters/ta1_她.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/ta1_她.html</guid>
-      <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
-      <description>她 is the youngest character in everyday Chinese, invented in 1917 to translate &quot;she,&quot; and the cause of one of the loudest grammatical fights in modern Chinese letters.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>越 · to cross over, to surpass</title>
-      <link>https://jiaoshoo.com/pages/characters/yue4_越.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/yue4_越.html</guid>
-      <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
-      <description>The character of crossing-and-exceeding: a foot-radical verb that travels from &quot;stride over a barrier&quot; to &quot;the more, the more&quot; to a Chinese state name and a national poetic gesture.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>长城 · The Great Wall</title>
-      <link>https://jiaoshoo.com/pages/history/topic_changcheng.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/history/topic_changcheng.html</guid>
-      <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
-      <description>Two millennia of walls, watchtowers, and beacon fires: what the Great Wall actually was, and why &quot;the wall&quot; is a translation that flattens a complicated history.</description>
-      <category>history</category>
-    </item>
-    <item>
-      <title>方向 · direction; orientation</title>
-      <link>https://jiaoshoo.com/pages/vocab/fangxiang_方向.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/fangxiang_方向.html</guid>
-      <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
-      <description>方向 is the compass-word that holds together physical heading, life direction, political orientation, and the deeply Chinese sense that getting your bearings: 辨方向, is the first move in any undertaking.</description>
-      <category>vocab</category>
-    </item>
-    <item>
-      <title>跨越 · to leap across, to span, to transcend</title>
-      <link>https://jiaoshoo.com/pages/vocab/kuayue_跨越.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/kuayue_跨越.html</guid>
-      <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
-      <description>The compound that lets the Chinese language span gaps: physical, historical, technological, generational. The verb of choice when &quot;越长城&quot; is read figuratively.</description>
-      <category>vocab</category>
-    </item>
-    <item>
-      <title>礼貌 · politeness, courteous manner</title>
-      <link>https://jiaoshoo.com/pages/vocab/limao_礼貌.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/limao_礼貌.html</guid>
-      <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
-      <description>The everyday word for politeness: what 礼 (ritual propriety) becomes when it is shrunk down to the scale of ordinary social life. Polite forms, polite faces, and the precise way modern Chinese distinguishes 礼貌 from 客气, 礼节, and the older 礼 itself.</description>
-      <category>vocab</category>
-    </item>
-    <item>
-      <title>山水 · mountains and water; the landscape</title>
-      <link>https://jiaoshoo.com/pages/vocab/shanshui_山水.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/shanshui_山水.html</guid>
-      <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
-      <description>The paired word that names the Chinese landscape: not &quot;scenery&quot; in the Western sense, but a cosmological pairing of the still and the flowing that became the central subject of a thousand years of painting and poetry.</description>
       <category>vocab</category>
     </item>
   </channel>
