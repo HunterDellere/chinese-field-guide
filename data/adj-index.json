@@ -1262,6 +1262,21 @@
     ],
     "hasPage": true
   },
+  "应该": {
+    "cn": "应该",
+    "py": "yīnggāi",
+    "en": "should; ought to",
+    "count": 6,
+    "appearsOn": [
+      "pages/characters/bi4_必.html",
+      "pages/characters/ke3_可.html",
+      "pages/characters/yao4_要.html",
+      "pages/grammar/hui_neng_keyi_会能可以.html",
+      "pages/grammar/keneng_可能.html",
+      "pages/vocab/bixu_必须.html"
+    ],
+    "hasPage": true
+  },
   "缘分": {
     "cn": "缘分",
     "py": "yuánfèn",
@@ -1332,6 +1347,20 @@
       "pages/grammar/dui_对.html",
       "pages/grammar/gei_给.html",
       "pages/grammar/rang_让.html"
+    ],
+    "hasPage": true
+  },
+  "必须": {
+    "cn": "必须",
+    "py": "bìxū",
+    "en": "must; have to",
+    "count": 5,
+    "appearsOn": [
+      "pages/characters/ke3_可.html",
+      "pages/characters/yao4_要.html",
+      "pages/grammar/hui_neng_keyi_会能可以.html",
+      "pages/grammar/yinggai_应该.html",
+      "pages/grammar/zhiyou_cai_只有才.html"
     ],
     "hasPage": true
   },
@@ -1502,6 +1531,20 @@
       "pages/characters/yan3_眼.html"
     ],
     "hasPage": true
+  },
+  "可以": {
+    "cn": "可以",
+    "py": "kěyǐ",
+    "en": "can; may; permitted to",
+    "count": 5,
+    "appearsOn": [
+      "pages/characters/bi4_必.html",
+      "pages/characters/yi3_以.html",
+      "pages/grammar/keneng_可能.html",
+      "pages/grammar/rang_让.html",
+      "pages/vocab/bixu_必须.html"
+    ],
+    "hasPage": false
   },
   "礼貌": {
     "cn": "礼貌",
@@ -1685,6 +1728,20 @@
     ],
     "hasPage": true
   },
+  "想": {
+    "cn": "想",
+    "py": "xiǎng",
+    "en": "to think; to want; to miss",
+    "count": 5,
+    "appearsOn": [
+      "pages/characters/si1_思.html",
+      "pages/characters/yao4_要.html",
+      "pages/grammar/hui_neng_keyi_会能可以.html",
+      "pages/vocab/juede_觉得.html",
+      "pages/vocab/xiwang_希望.html"
+    ],
+    "hasPage": true
+  },
   "小人": {
     "cn": "小人",
     "py": "xiǎorén",
@@ -1710,20 +1767,6 @@
       "pages/arts/topic_shuihuzhuan.html",
       "pages/arts/topic_xiyouji.html",
       "pages/characters/shuo1_说.html"
-    ],
-    "hasPage": false
-  },
-  "应该": {
-    "cn": "应该",
-    "py": "yīnggāi",
-    "en": "should; ought to",
-    "count": 5,
-    "appearsOn": [
-      "pages/characters/bi4_必.html",
-      "pages/characters/ke3_可.html",
-      "pages/characters/yao4_要.html",
-      "pages/grammar/hui_neng_keyi_会能可以.html",
-      "pages/vocab/bixu_必须.html"
     ],
     "hasPage": false
   },
@@ -1808,19 +1851,6 @@
     ],
     "hasPage": true
   },
-  "必须": {
-    "cn": "必须",
-    "py": "bìxū",
-    "en": "must; have to",
-    "count": 4,
-    "appearsOn": [
-      "pages/characters/ke3_可.html",
-      "pages/characters/yao4_要.html",
-      "pages/grammar/hui_neng_keyi_会能可以.html",
-      "pages/grammar/zhiyou_cai_只有才.html"
-    ],
-    "hasPage": true
-  },
   "从": {
     "cn": "从",
     "py": "cóng",
@@ -1831,6 +1861,19 @@
       "pages/grammar/le_了.html",
       "pages/grammar/zai_在.html",
       "pages/grammar/zhi_之.html"
+    ],
+    "hasPage": true
+  },
+  "得": {
+    "cn": "得",
+    "py": "děi",
+    "en": "must (colloquial)",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/bi4_必.html",
+      "pages/grammar/le_了.html",
+      "pages/grammar/yinggai_应该.html",
+      "pages/vocab/bixu_必须.html"
     ],
     "hasPage": true
   },
@@ -1911,6 +1954,19 @@
       "pages/vocab/ziran_自然.html"
     ],
     "hasPage": true
+  },
+  "刚才": {
+    "cn": "刚才",
+    "py": "gāngcái",
+    "en": "just now (recent past)",
+    "count": 4,
+    "appearsOn": [
+      "pages/grammar/le_了.html",
+      "pages/vocab/xianzai_现在.html",
+      "pages/vocab/yihuir_一会儿.html",
+      "pages/vocab/zhengzai_正在.html"
+    ],
+    "hasPage": false
   },
   "高": {
     "cn": "高",
@@ -2016,6 +2072,19 @@
     ],
     "hasPage": false
   },
+  "会": {
+    "cn": "会",
+    "py": "huì",
+    "en": "know how to; be likely to (the three 'can's)",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/bi4_必.html",
+      "pages/characters/ke3_可.html",
+      "pages/grammar/keneng_可能.html",
+      "pages/vocab/zhidao_知道.html"
+    ],
+    "hasPage": true
+  },
   "见": {
     "cn": "见",
     "py": "jiàn",
@@ -2106,19 +2175,6 @@
       "pages/vocab/lunyu_论语.html"
     ],
     "hasPage": true
-  },
-  "可以": {
-    "cn": "可以",
-    "py": "kěyǐ",
-    "en": "can; may; permitted to",
-    "count": 4,
-    "appearsOn": [
-      "pages/characters/bi4_必.html",
-      "pages/characters/yi3_以.html",
-      "pages/grammar/rang_让.html",
-      "pages/vocab/bixu_必须.html"
-    ],
-    "hasPage": false
   },
   "客气": {
     "cn": "客气",
@@ -2276,6 +2332,32 @@
     ],
     "hasPage": true
   },
+  "时候": {
+    "cn": "时候",
+    "py": "shíhòu",
+    "en": "a point in time",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/shi2_时.html",
+      "pages/grammar/zai_在.html",
+      "pages/vocab/shijian_时间.html",
+      "pages/vocab/xianzai_现在.html"
+    ],
+    "hasPage": true
+  },
+  "时间": {
+    "cn": "时间",
+    "py": "shíjiān",
+    "en": "time (duration)",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/shi2_时.html",
+      "pages/vocab/shihou_时候.html",
+      "pages/vocab/yihuir_一会儿.html",
+      "pages/vocab/zhengzai_正在.html"
+    ],
+    "hasPage": true
+  },
   "说": {
     "cn": "说",
     "py": "shuō",
@@ -2354,19 +2436,6 @@
     ],
     "hasPage": true
   },
-  "想": {
-    "cn": "想",
-    "py": "xiǎng",
-    "en": "to think; to want; to miss",
-    "count": 4,
-    "appearsOn": [
-      "pages/characters/si1_思.html",
-      "pages/characters/yao4_要.html",
-      "pages/grammar/hui_neng_keyi_会能可以.html",
-      "pages/vocab/juede_觉得.html"
-    ],
-    "hasPage": true
-  },
   "心": {
     "cn": "心",
     "py": "xīn",
@@ -2416,6 +2485,19 @@
       "pages/characters/kan4_看.html",
       "pages/characters/mu4_目.html",
       "pages/characters/shou3_手.html"
+    ],
+    "hasPage": true
+  },
+  "要": {
+    "cn": "要",
+    "py": "yào",
+    "en": "need to; must; want to",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/bi4_必.html",
+      "pages/grammar/hui_neng_keyi_会能可以.html",
+      "pages/grammar/yinggai_应该.html",
+      "pages/vocab/bixu_必须.html"
     ],
     "hasPage": true
   },
@@ -2661,6 +2743,18 @@
     ],
     "hasPage": true
   },
+  "本来": {
+    "cn": "本来",
+    "py": "běnlái",
+    "en": "originally; as it should be",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/shi4_是.html",
+      "pages/characters/zhen1_真.html",
+      "pages/vocab/qishi_其实.html"
+    ],
+    "hasPage": false
+  },
   "笔墨": {
     "cn": "笔墨",
     "py": "bǐmò",
@@ -2805,18 +2899,6 @@
     ],
     "hasPage": true
   },
-  "得": {
-    "cn": "得",
-    "py": "děi",
-    "en": "must (colloquial)",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/bi4_必.html",
-      "pages/grammar/le_了.html",
-      "pages/vocab/bixu_必须.html"
-    ],
-    "hasPage": true
-  },
   "地": {
     "cn": "地",
     "py": "dì",
@@ -2838,6 +2920,18 @@
       "pages/hubs/dynasties.html",
       "pages/hubs/hanyu.html",
       "pages/hubs/hanzi.html"
+    ],
+    "hasPage": true
+  },
+  "多": {
+    "cn": "多",
+    "py": "duō",
+    "en": "many; much; more",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/gao1_高.html",
+      "pages/characters/shao3_少.html",
+      "pages/grammar/duoshao_ji_多少几.html"
     ],
     "hasPage": true
   },
@@ -2960,18 +3054,6 @@
       "pages/grammar/qilai_起来.html"
     ],
     "hasPage": false
-  },
-  "会": {
-    "cn": "会",
-    "py": "huì",
-    "en": "know how to; be likely to (the three 'can's)",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/bi4_必.html",
-      "pages/characters/ke3_可.html",
-      "pages/vocab/zhidao_知道.html"
-    ],
-    "hasPage": true
   },
   "火": {
     "cn": "火",
@@ -3189,6 +3271,18 @@
     ],
     "hasPage": true
   },
+  "马上": {
+    "cn": "马上",
+    "py": "mǎshàng",
+    "en": "immediately; right away",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/shang4_上.html",
+      "pages/grammar/jiu_cai_就才.html",
+      "pages/vocab/yihuir_一会儿.html"
+    ],
+    "hasPage": false
+  },
   "民间信仰": {
     "cn": "民间信仰",
     "py": "mínjiān xìnyǎng",
@@ -3285,6 +3379,18 @@
     ],
     "hasPage": false
   },
+  "钱": {
+    "cn": "钱",
+    "py": "qián",
+    "en": "money — what a meal costs; 吃饭 and 花钱 are the daily-life pair",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/chi1_吃.html",
+      "pages/characters/jin1_金.html",
+      "pages/grammar/duoshao_ji_多少几.html"
+    ],
+    "hasPage": true
+  },
   "清明节": {
     "cn": "清明节",
     "py": "Qīngmíng jié",
@@ -3330,6 +3436,18 @@
       "pages/arts/topic_sanguoyanyi.html",
       "pages/characters/san1_三.html",
       "pages/history/topic_handai.html"
+    ],
+    "hasPage": true
+  },
+  "少": {
+    "cn": "少",
+    "py": "shǎo",
+    "en": "few; little; young",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/duo1_多.html",
+      "pages/characters/xiao3_小.html",
+      "pages/grammar/duoshao_ji_多少几.html"
     ],
     "hasPage": true
   },
@@ -3404,30 +3522,6 @@
       "pages/vocab/shijian_时间.html"
     ],
     "hasPage": false
-  },
-  "时候": {
-    "cn": "时候",
-    "py": "shíhòu",
-    "en": "a point in time",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/shi2_时.html",
-      "pages/grammar/zai_在.html",
-      "pages/vocab/shijian_时间.html"
-    ],
-    "hasPage": true
-  },
-  "时间": {
-    "cn": "时间",
-    "py": "shíjiān",
-    "en": "time (duration)",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/shi2_时.html",
-      "pages/vocab/shihou_时候.html",
-      "pages/vocab/zhengzai_正在.html"
-    ],
-    "hasPage": true
   },
   "手": {
     "cn": "手",
@@ -3609,6 +3703,18 @@
     ],
     "hasPage": true
   },
+  "现代": {
+    "cn": "现代",
+    "py": "xiàndài",
+    "en": "modern era (1949–present)",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/jin4_近.html",
+      "pages/vocab/chuantong_传统.html",
+      "pages/vocab/xianzai_现在.html"
+    ],
+    "hasPage": false
+  },
   "香港": {
     "cn": "香港",
     "py": "Xiānggǎng",
@@ -3726,18 +3832,6 @@
       "pages/characters/zhi1_知.html",
       "pages/characters/zhong1_中.html",
       "pages/vocab/lunyu_论语.html"
-    ],
-    "hasPage": true
-  },
-  "要": {
-    "cn": "要",
-    "py": "yào",
-    "en": "need to; must; want to",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/bi4_必.html",
-      "pages/grammar/hui_neng_keyi_会能可以.html",
-      "pages/vocab/bixu_必须.html"
     ],
     "hasPage": true
   },
@@ -3872,6 +3966,30 @@
       "pages/history/topic_yuanchao.html"
     ],
     "hasPage": true
+  },
+  "原来": {
+    "cn": "原来",
+    "py": "yuánlái",
+    "en": "originally; so that's how it is",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/lai2_来.html",
+      "pages/characters/zhen1_真.html",
+      "pages/vocab/qishi_其实.html"
+    ],
+    "hasPage": false
+  },
+  "愿意": {
+    "cn": "愿意",
+    "py": "yuànyì",
+    "en": "willing to",
+    "count": 3,
+    "appearsOn": [
+      "pages/grammar/hui_neng_keyi_会能可以.html",
+      "pages/vocab/xihuan_喜欢.html",
+      "pages/vocab/xiwang_希望.html"
+    ],
+    "hasPage": false
   },
   "越": {
     "cn": "越",
@@ -4165,6 +4283,17 @@
     ],
     "hasPage": true
   },
+  "帮": {
+    "cn": "帮",
+    "py": "bāng",
+    "en": "to help",
+    "count": 2,
+    "appearsOn": [
+      "pages/grammar/yixia_一下.html",
+      "pages/vocab/bangzhu_帮助.html"
+    ],
+    "hasPage": false
+  },
   "背诵": {
     "cn": "背诵",
     "py": "bèisòng",
@@ -4186,17 +4315,6 @@
       "pages/vocab/zhongyi_中医.html"
     ],
     "hasPage": true
-  },
-  "本来": {
-    "cn": "本来",
-    "py": "běnlái",
-    "en": "originally; as it should be",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/shi4_是.html",
-      "pages/characters/zhen1_真.html"
-    ],
-    "hasPage": false
   },
   "本领": {
     "cn": "本领",
@@ -4649,6 +4767,17 @@
     ],
     "hasPage": false
   },
+  "大概": {
+    "cn": "大概",
+    "py": "dàgài",
+    "en": "approximately; probably",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/da4_大.html",
+      "pages/grammar/keneng_可能.html"
+    ],
+    "hasPage": false
+  },
   "大家": {
     "cn": "大家",
     "py": "dàjiā",
@@ -4813,17 +4942,6 @@
       "pages/vocab/lunhui_轮回.html"
     ],
     "hasPage": false
-  },
-  "多": {
-    "cn": "多",
-    "py": "duō",
-    "en": "many; much; more",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/gao1_高.html",
-      "pages/characters/shao3_少.html"
-    ],
-    "hasPage": true
   },
   "多少": {
     "cn": "多少",
@@ -5001,17 +5119,6 @@
     ],
     "hasPage": true
   },
-  "刚才": {
-    "cn": "刚才",
-    "py": "gāngcái",
-    "en": "just now (recent past)",
-    "count": 2,
-    "appearsOn": [
-      "pages/grammar/le_了.html",
-      "pages/vocab/zhengzai_正在.html"
-    ],
-    "hasPage": false
-  },
   "高考": {
     "cn": "高考",
     "py": "Gāokǎo",
@@ -5108,6 +5215,17 @@
     "appearsOn": [
       "pages/characters/gong1_工.html",
       "pages/vocab/shengchan_生产.html"
+    ],
+    "hasPage": false
+  },
+  "工人": {
+    "cn": "工人",
+    "py": "gōngrén",
+    "en": "worker; laborer",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/gong1_工.html",
+      "pages/vocab/gongzuo_工作.html"
     ],
     "hasPage": false
   },
@@ -5771,6 +5889,17 @@
     ],
     "hasPage": false
   },
+  "看起来": {
+    "cn": "看起来",
+    "py": "kàn qǐlái",
+    "en": "looks like; visually appears",
+    "count": 2,
+    "appearsOn": [
+      "pages/grammar/qilai_起来.html",
+      "pages/vocab/qishi_其实.html"
+    ],
+    "hasPage": false
+  },
   "考": {
     "cn": "考",
     "py": "kǎo",
@@ -5803,6 +5932,28 @@
       "pages/characters/yi3_以.html"
     ],
     "hasPage": true
+  },
+  "可能": {
+    "cn": "可能",
+    "py": "kěnéng",
+    "en": "possibly; might",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/bi4_必.html",
+      "pages/grammar/yinggai_应该.html"
+    ],
+    "hasPage": true
+  },
+  "渴望": {
+    "cn": "渴望",
+    "py": "kěwàng",
+    "en": "to yearn; to thirst for",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/xiang3_想.html",
+      "pages/vocab/xiwang_希望.html"
+    ],
+    "hasPage": false
   },
   "刻舟求剑": {
     "cn": "刻舟求剑",
@@ -6056,17 +6207,6 @@
       "pages/vocab/shenming_神明.html"
     ],
     "hasPage": true
-  },
-  "马上": {
-    "cn": "马上",
-    "py": "mǎshàng",
-    "en": "immediately; right away",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/shang4_上.html",
-      "pages/grammar/jiu_cai_就才.html"
-    ],
-    "hasPage": false
   },
   "吗": {
     "cn": "吗",
@@ -6374,7 +6514,7 @@
       "pages/characters/qi2_其.html",
       "pages/characters/shi4_是.html"
     ],
-    "hasPage": false
+    "hasPage": true
   },
   "起来": {
     "cn": "起来",
@@ -6430,17 +6570,6 @@
       "pages/vocab/yuanfen_缘分.html"
     ],
     "hasPage": false
-  },
-  "钱": {
-    "cn": "钱",
-    "py": "qián",
-    "en": "money — what a meal costs; 吃饭 and 花钱 are the daily-life pair",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/chi1_吃.html",
-      "pages/characters/jin1_金.html"
-    ],
-    "hasPage": true
   },
   "青出于蓝": {
     "cn": "青出于蓝",
@@ -6706,6 +6835,17 @@
     ],
     "hasPage": true
   },
+  "上班": {
+    "cn": "上班",
+    "py": "shàng bān",
+    "en": "to go to work",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/shang4_上.html",
+      "pages/vocab/gongzuo_工作.html"
+    ],
+    "hasPage": false
+  },
   "上海": {
     "cn": "上海",
     "py": "Shànghǎi",
@@ -6714,17 +6854,6 @@
     "appearsOn": [
       "pages/history/topic_gaige.html",
       "pages/history/topic_xinhai.html"
-    ],
-    "hasPage": true
-  },
-  "少": {
-    "cn": "少",
-    "py": "shǎo",
-    "en": "few; little; young",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/duo1_多.html",
-      "pages/characters/xiao3_小.html"
     ],
     "hasPage": true
   },
@@ -7595,7 +7724,7 @@
       "pages/characters/xiang3_想.html",
       "pages/characters/yao4_要.html"
     ],
-    "hasPage": false
+    "hasPage": true
   },
   "习俗": {
     "cn": "习俗",
@@ -7605,6 +7734,17 @@
     "appearsOn": [
       "pages/vocab/chuantong_传统.html",
       "pages/vocab/li3_礼.html"
+    ],
+    "hasPage": false
+  },
+  "下班": {
+    "cn": "下班",
+    "py": "xià bān",
+    "en": "to finish work",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/xia4_下.html",
+      "pages/vocab/gongzuo_工作.html"
     ],
     "hasPage": false
   },
@@ -7638,17 +7778,6 @@
     "appearsOn": [
       "pages/characters/shen2_神.html",
       "pages/vocab/renjian_人间.html"
-    ],
-    "hasPage": false
-  },
-  "现代": {
-    "cn": "现代",
-    "py": "xiàndài",
-    "en": "modern era (1949–present)",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/jin4_近.html",
-      "pages/vocab/chuantong_传统.html"
     ],
     "hasPage": false
   },
@@ -7846,6 +7975,17 @@
     "appearsOn": [
       "pages/grammar/dehua_的话.html",
       "pages/grammar/ruguo_ji_如果就.html"
+    ],
+    "hasPage": false
+  },
+  "也许": {
+    "cn": "也许",
+    "py": "yěxǔ",
+    "en": "perhaps; maybe",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/bi4_必.html",
+      "pages/grammar/keneng_可能.html"
     ],
     "hasPage": false
   },
@@ -8124,17 +8264,6 @@
     ],
     "hasPage": true
   },
-  "原来": {
-    "cn": "原来",
-    "py": "yuánlái",
-    "en": "originally; so that's how it is",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/lai2_来.html",
-      "pages/characters/zhen1_真.html"
-    ],
-    "hasPage": false
-  },
   "远": {
     "cn": "远",
     "py": "yuǎn",
@@ -8145,17 +8274,6 @@
       "pages/characters/yun2_云.html"
     ],
     "hasPage": true
-  },
-  "愿意": {
-    "cn": "愿意",
-    "py": "yuànyì",
-    "en": "willing to",
-    "count": 2,
-    "appearsOn": [
-      "pages/grammar/hui_neng_keyi_会能可以.html",
-      "pages/vocab/xihuan_喜欢.html"
-    ],
-    "hasPage": false
   },
   "允许": {
     "cn": "允许",
@@ -8187,6 +8305,17 @@
     "appearsOn": [
       "pages/characters/jian4_见.html",
       "pages/characters/zai4_再.html"
+    ],
+    "hasPage": false
+  },
+  "怎么": {
+    "cn": "怎么",
+    "py": "zěnme",
+    "en": "how; in what way",
+    "count": 2,
+    "appearsOn": [
+      "pages/grammar/duoshao_ji_多少几.html",
+      "pages/grammar/shide_是的.html"
     ],
     "hasPage": false
   },
@@ -8341,6 +8470,17 @@
     "appearsOn": [
       "pages/arts/topic_guqin.html",
       "pages/characters/zhi1_知.html"
+    ],
+    "hasPage": false
+  },
+  "职业": {
+    "cn": "职业",
+    "py": "zhíyè",
+    "en": "profession; occupation",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/xing2_行.html",
+      "pages/vocab/gongzuo_工作.html"
     ],
     "hasPage": false
   },
@@ -8818,6 +8958,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/er4_二.html"
+    ],
+    "hasPage": false
+  },
+  "帮忙": {
+    "cn": "帮忙",
+    "py": "bāngmáng",
+    "en": "to lend a hand; to do a favor",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/bangzhu_帮助.html"
     ],
     "hasPage": false
   },
@@ -10051,6 +10201,16 @@
     ],
     "hasPage": false
   },
+  "此刻": {
+    "cn": "此刻",
+    "py": "cǐkè",
+    "en": "this very moment",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/xianzai_现在.html"
+    ],
+    "hasPage": false
+  },
   "从前": {
     "cn": "从前",
     "py": "cóngqián",
@@ -10215,16 +10375,6 @@
     "cn": "大方",
     "py": "dàfang",
     "en": "generous; poised",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/da4_大.html"
-    ],
-    "hasPage": false
-  },
-  "大概": {
-    "cn": "大概",
-    "py": "dàgài",
-    "en": "approximately; probably",
     "count": 1,
     "appearsOn": [
       "pages/characters/da4_大.html"
@@ -10621,6 +10771,16 @@
     ],
     "hasPage": false
   },
+  "等会儿": {
+    "cn": "等会儿",
+    "py": "děnghuìr",
+    "en": "in a while; hold on",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/yihuir_一会儿.html"
+    ],
+    "hasPage": false
+  },
   "邓小平": {
     "cn": "邓小平",
     "py": "Dèng Xiǎopíng",
@@ -10978,6 +11138,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/siluzhilu_丝绸之路.html"
+    ],
+    "hasPage": false
+  },
+  "多大": {
+    "cn": "多大",
+    "py": "duō dà",
+    "en": "how old; how big",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/duoshao_ji_多少几.html"
     ],
     "hasPage": false
   },
@@ -11481,6 +11651,16 @@
     ],
     "hasPage": false
   },
+  "该": {
+    "cn": "该",
+    "py": "gāi",
+    "en": "should; to be one's turn",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/yinggai_应该.html"
+    ],
+    "hasPage": false
+  },
   "改": {
     "cn": "改",
     "py": "gǎi",
@@ -11701,6 +11881,16 @@
     ],
     "hasPage": false
   },
+  "个": {
+    "cn": "个",
+    "py": "gè",
+    "en": "general measure word",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/duoshao_ji_多少几.html"
+    ],
+    "hasPage": false
+  },
   "各得其所": {
     "cn": "各得其所",
     "py": "gè dé qí suǒ",
@@ -11751,16 +11941,6 @@
     ],
     "hasPage": false
   },
-  "工人": {
-    "cn": "工人",
-    "py": "gōngrén",
-    "en": "worker; laborer",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/gong1_工.html"
-    ],
-    "hasPage": false
-  },
   "工资": {
     "cn": "工资",
     "py": "gōngzī",
@@ -11788,6 +11968,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/lu4_路.html"
+    ],
+    "hasPage": false
+  },
+  "公司": {
+    "cn": "公司",
+    "py": "gōngsī",
+    "en": "company; firm",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/gongzuo_工作.html"
     ],
     "hasPage": false
   },
@@ -12938,6 +13128,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/qi4_气.html"
+    ],
+    "hasPage": false
+  },
+  "或许": {
+    "cn": "或许",
+    "py": "huòxǔ",
+    "en": "perhaps; possibly",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/keneng_可能.html"
     ],
     "hasPage": false
   },
@@ -14221,16 +14421,6 @@
     ],
     "hasPage": false
   },
-  "看起来": {
-    "cn": "看起来",
-    "py": "kàn qǐlái",
-    "en": "looks like; visually appears",
-    "count": 1,
-    "appearsOn": [
-      "pages/grammar/qilai_起来.html"
-    ],
-    "hasPage": false
-  },
   "看书": {
     "cn": "看书",
     "py": "kànshū",
@@ -14291,16 +14481,6 @@
     ],
     "hasPage": false
   },
-  "可能": {
-    "cn": "可能",
-    "py": "kěnéng",
-    "en": "possibly; might",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/bi4_必.html"
-    ],
-    "hasPage": false
-  },
   "可能补语": {
     "cn": "可能补语",
     "py": "kěnéng bǔyǔ",
@@ -14318,16 +14498,6 @@
     "count": 1,
     "appearsOn": [
       "pages/grammar/suiran_danshi_虽然但是.html"
-    ],
-    "hasPage": false
-  },
-  "渴望": {
-    "cn": "渴望",
-    "py": "kěwàng",
-    "en": "to yearn; to thirst for",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/xiang3_想.html"
     ],
     "hasPage": false
   },
@@ -15881,6 +16051,16 @@
     ],
     "hasPage": false
   },
+  "目前": {
+    "cn": "目前",
+    "py": "mùqián",
+    "en": "at present; currently",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/xianzai_现在.html"
+    ],
+    "hasPage": false
+  },
   "墓地": {
     "cn": "墓地",
     "py": "mùdì",
@@ -16221,6 +16401,16 @@
     ],
     "hasPage": false
   },
+  "盼望": {
+    "cn": "盼望",
+    "py": "pànwàng",
+    "en": "to long for; to eagerly await",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/xiwang_希望.html"
+    ],
+    "hasPage": false
+  },
   "旁边": {
     "cn": "旁边",
     "py": "pángbiān",
@@ -16448,6 +16638,16 @@
     "count": 1,
     "appearsOn": [
       "pages/culture/topic_zhongyuan.html"
+    ],
+    "hasPage": false
+  },
+  "期待": {
+    "cn": "期待",
+    "py": "qīdài",
+    "en": "to look forward to; to anticipate",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/xiwang_希望.html"
     ],
     "hasPage": false
   },
@@ -16818,6 +17018,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/yun2_云.html"
+    ],
+    "hasPage": false
+  },
+  "请": {
+    "cn": "请",
+    "py": "qǐng",
+    "en": "please; to invite",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/yixia_一下.html"
     ],
     "hasPage": false
   },
@@ -17211,6 +17421,16 @@
     ],
     "hasPage": true
   },
+  "如今": {
+    "cn": "如今",
+    "py": "rújīn",
+    "en": "nowadays; these days",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/xianzai_现在.html"
+    ],
+    "hasPage": false
+  },
   "如愿以偿": {
     "cn": "如愿以偿",
     "py": "rúyuàn-yǐcháng",
@@ -17468,16 +17688,6 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/chanpin_产品.html"
-    ],
-    "hasPage": false
-  },
-  "上班": {
-    "cn": "上班",
-    "py": "shàng bān",
-    "en": "to go to work",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/shang4_上.html"
     ],
     "hasPage": false
   },
@@ -17851,6 +18061,16 @@
     ],
     "hasPage": false
   },
+  "失望": {
+    "cn": "失望",
+    "py": "shīwàng",
+    "en": "to be disappointed",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/xiwang_希望.html"
+    ],
+    "hasPage": false
+  },
   "诗人": {
     "cn": "诗人",
     "py": "shīrén",
@@ -17978,6 +18198,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/zhihui_智慧.html"
+    ],
+    "hasPage": false
+  },
+  "实际上": {
+    "cn": "实际上",
+    "py": "shíjìshàng",
+    "en": "in actual fact; in reality",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/qishi_其实.html"
     ],
     "hasPage": false
   },
@@ -18138,6 +18368,26 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/zhen1_真.html"
+    ],
+    "hasPage": false
+  },
+  "事实上": {
+    "cn": "事实上",
+    "py": "shìshíshàng",
+    "en": "as a matter of fact",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/qishi_其实.html"
+    ],
+    "hasPage": false
+  },
+  "事业": {
+    "cn": "事业",
+    "py": "shìyè",
+    "en": "career; undertaking",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/gongzuo_工作.html"
     ],
     "hasPage": false
   },
@@ -20171,16 +20421,6 @@
     ],
     "hasPage": false
   },
-  "下班": {
-    "cn": "下班",
-    "py": "xià bān",
-    "en": "to finish work",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/xia4_下.html"
-    ],
-    "hasPage": false
-  },
   "下课": {
     "cn": "下课",
     "py": "xià kè",
@@ -20309,7 +20549,7 @@
     "appearsOn": [
       "pages/vocab/shihou_时候.html"
     ],
-    "hasPage": false
+    "hasPage": true
   },
   "线路": {
     "cn": "线路",
@@ -20618,6 +20858,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/shengchan_生产.html"
+    ],
+    "hasPage": false
+  },
+  "协助": {
+    "cn": "协助",
+    "py": "xiézhù",
+    "en": "to assist (cooperatively)",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/bangzhu_帮助.html"
     ],
     "hasPage": false
   },
@@ -21401,16 +21651,6 @@
     ],
     "hasPage": false
   },
-  "也许": {
-    "cn": "也许",
-    "py": "yěxǔ",
-    "en": "perhaps; maybe",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/bi4_必.html"
-    ],
-    "hasPage": false
-  },
   "野蛮": {
     "cn": "野蛮",
     "py": "yěmán",
@@ -21451,6 +21691,26 @@
     ],
     "hasPage": false
   },
+  "一点儿": {
+    "cn": "一点儿",
+    "py": "yìdiǎnr",
+    "en": "a little; a bit",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/yixia_一下.html"
+    ],
+    "hasPage": false
+  },
+  "一会儿": {
+    "cn": "一会儿",
+    "py": "yíhuìr",
+    "en": "a little while",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/yixia_一下.html"
+    ],
+    "hasPage": true
+  },
   "一面…一面": {
     "cn": "一面…一面",
     "py": "yīmiàn…yīmiàn",
@@ -21468,6 +21728,26 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/rensheng_人生.html"
+    ],
+    "hasPage": false
+  },
+  "一下": {
+    "cn": "一下",
+    "py": "yíxià",
+    "en": "once; briefly (verb-softener)",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/yihuir_一会儿.html"
+    ],
+    "hasPage": true
+  },
+  "一下子": {
+    "cn": "一下子",
+    "py": "yíxiàzi",
+    "en": "all at once; suddenly",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/yixia_一下.html"
     ],
     "hasPage": false
   },
@@ -21748,6 +22028,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/shanshui_山水.html"
+    ],
+    "hasPage": false
+  },
+  "应当": {
+    "cn": "应当",
+    "py": "yīngdāng",
+    "en": "ought to (formal)",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/yinggai_应该.html"
     ],
     "hasPage": false
   },
@@ -22201,6 +22491,16 @@
     ],
     "hasPage": false
   },
+  "援助": {
+    "cn": "援助",
+    "py": "yuánzhù",
+    "en": "aid; relief; assistance",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/bangzhu_帮助.html"
+    ],
+    "hasPage": false
+  },
   "远处": {
     "cn": "远处",
     "py": "yuǎnchù",
@@ -22541,16 +22841,6 @@
     ],
     "hasPage": false
   },
-  "怎么": {
-    "cn": "怎么",
-    "py": "zěnme",
-    "en": "how; in what way (manner question)",
-    "count": 1,
-    "appearsOn": [
-      "pages/grammar/shide_是的.html"
-    ],
-    "hasPage": false
-  },
   "斋": {
     "cn": "斋",
     "py": "zhāi",
@@ -22871,6 +23161,16 @@
     ],
     "hasPage": false
   },
+  "支持": {
+    "cn": "支持",
+    "py": "zhīchí",
+    "en": "to support; to back",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/bangzhu_帮助.html"
+    ],
+    "hasPage": false
+  },
   "枝": {
     "cn": "枝",
     "py": "zhī",
@@ -22958,16 +23258,6 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/ke3_可.html"
-    ],
-    "hasPage": false
-  },
-  "职业": {
-    "cn": "职业",
-    "py": "zhíyè",
-    "en": "profession; occupation",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/xing2_行.html"
     ],
     "hasPage": false
   },
@@ -23348,6 +23638,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/yao4_要.html"
+    ],
+    "hasPage": false
+  },
+  "助手": {
+    "cn": "助手",
+    "py": "zhùshǒu",
+    "en": "assistant; helper",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/bangzhu_帮助.html"
     ],
     "hasPage": false
   },

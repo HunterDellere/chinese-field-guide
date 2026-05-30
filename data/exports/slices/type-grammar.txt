@@ -9,6 +9,7 @@
 的话	de huà	if; in the case that — The soft conditional: how 的话 marks a premise without committing to it.
 都	dōu	all, both, even: the universal scope adverb — The adverb that quantifies everything before it, not after, and whose position in a sentence determines whether you mean "none" or "not all."
 对	duì	toward, regarding, correct — A preposition, adjective, and verb rolled into one: 对 introduces the object of an action, asserts correctness, and forms the backbone of Chinese directional expressions.
+多少 / 几	duōshao / jǐ	how many, how much — The two question words for quantity: 几 for small countable numbers and 多少 for larger or unknown amounts, why 几 needs a measure word and 多少 may skip it, and how to ask prices and ages.
 而且	érqiě	moreover, and furthermore — Additive conjunction that layers information: not just "and" but "and on top of that."
 刚	gāng	just now, just happened — The recency adverb: 刚 marks that something happened very recently, and contrast with 刚才, 刚刚, 才, and 已经.
 给	gěi	to give, for, and to — The verb "to give," the coverb that marks a recipient or beneficiary ("for/to"), and a colloquial passive marker, all from one character.
@@ -17,6 +18,7 @@
 还是 / 或者	háishi / huòzhě	"or" in questions vs. statements — Chinese splits English "or" in two: 还是 offers a choice in a question, 或者 offers an alternative in a statement. Using the wrong one is a classic error.
 会	huì / néng / kěyǐ	能 · 可以 · the three 'can's — Learned ability vs. situational capacity vs. permission: not interchangeable.
 就 vs. 才	jiù / cái	sooner vs. later — The timing and emphasis pair: speaker attitude encoded in one syllable.
+可能	kěnéng	maybe, possible — The all-purpose word for possibility, working as adverb, adjective, and noun, and how it differs from 也许, 或许, 大概, and the modal 会.
 来	lái / qù	去 · directional complements — 上来, 下去, 出去, 进来: the motion complement system mapped.
 了	le	the perfective particle — Perfective aspect vs. change-of-state: the single most-confused particle.
 连…都/也	lián…dōu/yě	even X — The intensifier construction: raising the stakes of a claim.
@@ -35,9 +37,11 @@
 太…了	tài le	too, excessively — The emphatic degree structure: 太…了 expresses excess and strong feeling, from complaints to enthusiastic praise.
 一边…一边	yībiān yībiān	while doing; at the same time — Simultaneous actions: the frame for describing two things happening at once.
 一点儿 / 有点儿	yìdiǎnr / yǒudiǎnr	a little — The classic confusion pair: 有点儿 comes before an adjective and leans negative ("a bit too…"), while 一点儿 comes after and is neutral ("a little more").
+一下	yíxià	the verb-softener — The verbal-quantity word that makes an action brief and casual, how verb + 一下 softens a request, and how it differs from verb reduplication and from the time-word 一会儿.
 一样 / 像	yíyàng / xiàng	same and similar — How to say two things are the same (A 跟 B 一样) or alike (A 像 B), and how this differs from the unequal comparison with 比.
 已经	yǐjīng	already — Mandarin's 'already' adverb: how 已经 differs from English, its placement before the verb, and its relationship with 了 and 还没有.
 因为…所以	yīn wèi suǒ yǐ	because…therefore — The causal conjunction pair: 因为 states the cause and 所以 announces the result, forming a two-clause logical structure that Chinese uses more explicitly than English.
+应该	yīnggāi	the modal "should" — The modal verb for "should, ought to," covering both moral obligation and confident inference, and how it differs from 得, 要, and 必须.
 与其…不如	yǔqí bùrú	rather than … it would be better to — Comparative preference construction: the most elegant way to argue for one choice over another.
 越来越	yuèláiyuè	more and more; increasingly — The degree escalation pattern: expressing a quality that grows continuously over time.
 在	zài	location, existence, and the progressive — One of the busiest words in Mandarin: the verb "to be at," the location coverb "at/in," and the progressive marker for ongoing action.

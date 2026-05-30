@@ -152,6 +152,7 @@
 足	zú	foot; sufficient; enough — The foot that became the word for sufficiency, and the radical anchoring every character involving legs, running, and roads.
 左	zuǒ	left; unorthodox; to assist — A left hand holding a carpenter's square: the assisting hand at the ruler, and by extension the word for unorthodox, heterodox, and everything that deviates from the orthodox path.
 般若	bōrě	prajñā; the Buddhist wisdom that sees emptiness — 般若 is the specific Buddhist wisdom that perceives the emptiness of self and phenomena: not knowledge, not cleverness, but the realization that dissolves clinging at its root.
+帮助	bāngzhù	to help — The everyday word for help, both verb and noun, and how it differs from the lighter 帮 and the separable 帮忙 (to do a favor).
 比较	bǐjiào	to compare; relatively, fairly — Compare and qualify: the word that measures differences and hedges claims in everyday Mandarin.
 笔记	bǐjì	notes, jottings — Notes, jottings, and the Chinese literary tradition of the brush-record.
 必须	bìxū	must, have to (the obligation modal) — 必须 is the strongest of the everyday modal verbs of obligation: a non-negotiable requirement that the speaker presents as not-up-for-discussion.
@@ -167,6 +168,7 @@
 风水	fēngshuǐ	wind and water — Geomancy, qi flow, and the cosmological logic of favorable siting.
 风俗	fēngsú	customs, traditions, folk practices — The wind of culture and the ways of the people: how 风俗 differs from 习惯 and why the distinction matters.
 工夫茶	gōngfu chá	Gongfu Tea — Tea prepared with skill and time: the Southern Chinese brewing method that defines serious tea culture, built on small vessels, multiple short steeps, and total attention.
+工作	gōngzuò	work, job — The everyday word for work, both the activity and the job itself, and how it differs from 上班 (to go to work), 职业 (occupation), and 事业 (career).
 功夫	gōngfu	effort, skill over time — Mastery earned through time: martial arts is the paradigm case, but the word covers any deeply cultivated skill.
 故事	gùshì	story, tale, narrative — Old affairs made into meaning: how the Chinese word for story encodes a philosophy of the past as the source of truth.
 关系	guānxi	relationship, connections — The untranslatable social fabric: relational leverage, it matters.
@@ -192,6 +194,7 @@
 朋友	péngyou	friend — The everyday word for friend, and the rich web of relationship terms (好朋友, 男朋友, 交朋友) built around it.
 菩萨	púsà	Bodhisattva — 菩萨 is the being who stands at the threshold of complete enlightenment and turns back: choosing to remain within the cycle of existence until every sentient being can be liberated alongside them.
 普通话	pǔtōnghuà	Mandarin Chinese — The common speech: how China standardized its national language, what Mandarin actually is, and how it relates to Cantonese, Shanghainese, and the Chinese dialects.
+其实	qíshí	actually — The everyday adverb for "actually, in fact," used to correct an impression or reveal the real situation, and how it differs from 实际上, 事实上, and 本来.
 气功	qìgōng	qigong — Cultivating the vital breath: China's ancient practice of aligning body, breath, and mind.
 谦虚	qiānxū	humility, modesty — 谦虚 is both a Confucian virtue and a social practice: in Chinese interaction, it functions as a required performative register, not just an internal attitude.
 乾坤	qiánkūn	heaven and earth; the two primary trigrams — The first two hexagrams of the Yijing encode the entire cosmos: Qian is pure creative yang, Kun is pure receptive yin, and between them all change unfolds.
@@ -218,8 +221,11 @@
 问题	wèntí	question, problem — One word for both "question" and "problem", and the everyday phrases (没问题, 有问题, 出问题) built from it.
 无为	wúwéi	non-action; acting in accord with nature — 无为 is the Daoist elimination of forced, ego-driven action: the master principle behind effortless effectiveness, sage governance, and Zhuangzi's cook whose knife stays forever sharp.
 武术	wǔshù	martial arts — The art of stopping weapons: how China systematized combat into a living philosophy of the body.
+希望	xīwàng	to hope — The everyday word for hope, both the verb and the noun, and how it differs from 想 (to want), 愿意 (to be willing), 盼望 (to long for), and 期待 (to look forward to).
 喜欢	xǐhuan	to like — The everyday verb for liking, and how it differs from loving (爱), enjoying (喜爱), and being willing (愿意).
+现在	xiànzài	now — The everyday word for now, where it sits in a Chinese sentence, and how it differs from 目前 (at present), 此刻 (this very moment), and 如今 (nowadays).
 孝	xiào	filial piety — An elder supported by a child's hands: the cardinal Confucian virtue that placed care for parents at the foundation of all moral life.
+一会儿	yíhuìr	a short while — The everyday word for a little while, how it marks both a short duration and the near future, and how it differs from the verb-softener 一下 and from 等会儿.
 义	yì	Righteousness: The Second Constant — Doing what is right because it is right: 义 as the enacted path of Confucian ethics, the constant that gives 仁 its direction.
 意思	yìsi	meaning, intention — Meaning, interest, charm, and the gift-giving idiom 意思意思.
 阴阳	yīnyáng	yin and yang — The binary engine of all classical Chinese thought.

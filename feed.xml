@@ -6,7 +6,87 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A reading nook for Chinese language and civilisation. Characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 30 May 2026 02:55:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 20:51:38 GMT</lastBuildDate>
+    <item>
+      <title>多少 / 几 · how many, how much</title>
+      <link>https://jiaoshoo.com/pages/grammar/duoshao_ji_多少几.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/grammar/duoshao_ji_多少几.html</guid>
+      <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
+      <description>The two question words for quantity: 几 for small countable numbers and 多少 for larger or unknown amounts, why 几 needs a measure word and 多少 may skip it, and how to ask prices and ages.</description>
+      <category>grammar</category>
+    </item>
+    <item>
+      <title>可能 · maybe, possible</title>
+      <link>https://jiaoshoo.com/pages/grammar/keneng_可能.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/grammar/keneng_可能.html</guid>
+      <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
+      <description>The all-purpose word for possibility, working as adverb, adjective, and noun, and how it differs from 也许, 或许, 大概, and the modal 会.</description>
+      <category>grammar</category>
+    </item>
+    <item>
+      <title>应该 · the modal &quot;should&quot;</title>
+      <link>https://jiaoshoo.com/pages/grammar/yinggai_应该.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/grammar/yinggai_应该.html</guid>
+      <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
+      <description>The modal verb for &quot;should, ought to,&quot; covering both moral obligation and confident inference, and how it differs from 得, 要, and 必须.</description>
+      <category>grammar</category>
+    </item>
+    <item>
+      <title>一下 · the verb-softener</title>
+      <link>https://jiaoshoo.com/pages/grammar/yixia_一下.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/grammar/yixia_一下.html</guid>
+      <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
+      <description>The verbal-quantity word that makes an action brief and casual, how verb + 一下 softens a request, and how it differs from verb reduplication and from the time-word 一会儿.</description>
+      <category>grammar</category>
+    </item>
+    <item>
+      <title>帮助 · to help</title>
+      <link>https://jiaoshoo.com/pages/vocab/bangzhu_帮助.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/bangzhu_帮助.html</guid>
+      <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
+      <description>The everyday word for help, both verb and noun, and how it differs from the lighter 帮 and the separable 帮忙 (to do a favor).</description>
+      <category>vocab</category>
+    </item>
+    <item>
+      <title>工作 · work, job</title>
+      <link>https://jiaoshoo.com/pages/vocab/gongzuo_工作.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/gongzuo_工作.html</guid>
+      <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
+      <description>The everyday word for work, both the activity and the job itself, and how it differs from 上班 (to go to work), 职业 (occupation), and 事业 (career).</description>
+      <category>vocab</category>
+    </item>
+    <item>
+      <title>其实 · actually</title>
+      <link>https://jiaoshoo.com/pages/vocab/qishi_其实.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/qishi_其实.html</guid>
+      <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
+      <description>The everyday adverb for &quot;actually, in fact,&quot; used to correct an impression or reveal the real situation, and how it differs from 实际上, 事实上, and 本来.</description>
+      <category>vocab</category>
+    </item>
+    <item>
+      <title>现在 · now</title>
+      <link>https://jiaoshoo.com/pages/vocab/xianzai_现在.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/xianzai_现在.html</guid>
+      <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
+      <description>The everyday word for now, where it sits in a Chinese sentence, and how it differs from 目前 (at present), 此刻 (this very moment), and 如今 (nowadays).</description>
+      <category>vocab</category>
+    </item>
+    <item>
+      <title>希望 · to hope</title>
+      <link>https://jiaoshoo.com/pages/vocab/xiwang_希望.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/xiwang_希望.html</guid>
+      <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
+      <description>The everyday word for hope, both the verb and the noun, and how it differs from 想 (to want), 愿意 (to be willing), 盼望 (to long for), and 期待 (to look forward to).</description>
+      <category>vocab</category>
+    </item>
+    <item>
+      <title>一会儿 · a short while</title>
+      <link>https://jiaoshoo.com/pages/vocab/yihuir_一会儿.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/yihuir_一会儿.html</guid>
+      <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
+      <description>The everyday word for a little while, how it marks both a short duration and the near future, and how it differs from the verb-softener 一下 and from 等会儿.</description>
+      <category>vocab</category>
+    </item>
     <item>
       <title>红楼梦 · Dream of the Red Chamber</title>
       <link>https://jiaoshoo.com/pages/arts/topic_honglou.html</link>
@@ -165,86 +245,6 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/wenti_问题.html</guid>
       <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
       <description>One word for both &quot;question&quot; and &quot;problem&quot;, and the everyday phrases (没问题, 有问题, 出问题) built from it.</description>
-      <category>vocab</category>
-    </item>
-    <item>
-      <title>喜欢 · to like</title>
-      <link>https://jiaoshoo.com/pages/vocab/xihuan_喜欢.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/xihuan_喜欢.html</guid>
-      <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
-      <description>The everyday verb for liking, and how it differs from loving (爱), enjoying (喜爱), and being willing (愿意).</description>
-      <category>vocab</category>
-    </item>
-    <item>
-      <title>知道 · to know</title>
-      <link>https://jiaoshoo.com/pages/vocab/zhidao_知道.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/zhidao_知道.html</guid>
-      <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
-      <description>The everyday verb for knowing a fact, and how it differs from 认识 (to be acquainted with) and 了解 (to understand deeply).</description>
-      <category>vocab</category>
-    </item>
-    <item>
-      <title>口语连接词 · Conversational Connectors</title>
-      <link>https://jiaoshoo.com/pages/daily/topic_kouyu_lianjieci.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/daily/topic_kouyu_lianjieci.html</guid>
-      <pubDate>Sat, 16 May 2026 00:00:00 GMT</pubDate>
-      <description>The discourse markers that make spoken Chinese sound natural: buying time, opining, hedging, redirecting, agreeing, and exiting a conversation without abruptness.</description>
-      <category>daily</category>
-    </item>
-    <item>
-      <title>秦朝 · The Qin Dynasty (221–206 BCE)</title>
-      <link>https://jiaoshoo.com/pages/history/topic_qinchao.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/history/topic_qinchao.html</guid>
-      <pubDate>Sun, 10 May 2026 00:00:00 GMT</pubDate>
-      <description>Fifteen years of imperial rule, fifteen centuries of imperial inheritance. The Qin unified the warring states, standardized writing, currency, and roads, built the first long wall, burned the books, and collapsed under the weight of its own apparatus.</description>
-      <category>history</category>
-    </item>
-    <item>
-      <title>阿弥陀经 · The Smaller Amitabha Sutra</title>
-      <link>https://jiaoshoo.com/pages/religion/topic_amituojing.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/religion/topic_amituojing.html</guid>
-      <pubDate>Sun, 10 May 2026 00:00:00 GMT</pubDate>
-      <description>The shorter Pure Land sutra: ~1,800 characters in which the Buddha describes Amitābha&apos;s Western Pure Land to Śāriputra and names the practice of single-minded recollection of the Buddha&apos;s name. The daily-recitation text of Pure Land Buddhism.</description>
-      <category>religion</category>
-    </item>
-    <item>
-      <title>佛经 · Buddhist Scriptures</title>
-      <link>https://jiaoshoo.com/pages/religion/topic_fojing.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/religion/topic_fojing.html</guid>
-      <pubDate>Sun, 10 May 2026 00:00:00 GMT</pubDate>
-      <description>The core Mahāyāna sutras the site presents in full: the Chan canon (心经, 金刚经, 坛经) and the Pure Land canon (阿弥陀经, 无量寿经, 观无量寿经). Each linked here gets its own page with full text, line-by-line audio, pinyin gloss, English translation, and commentary.</description>
-      <category>religion</category>
-    </item>
-    <item>
-      <title>心经 · The Heart Sutra</title>
-      <link>https://jiaoshoo.com/pages/religion/topic_xinjing.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/religion/topic_xinjing.html</guid>
-      <pubDate>Sun, 10 May 2026 00:00:00 GMT</pubDate>
-      <description>The Heart Sutra: 260 characters that condense the entire Prajñāpāramitā teaching of emptiness. Translated by Xuanzang in 649 CE; chanted daily across China, Japan, Korea, and Vietnam ever since. The full text, line by line, with audio, gloss, and commentary.</description>
-      <category>religion</category>
-    </item>
-    <item>
-      <title>必须 · must, have to (the obligation modal)</title>
-      <link>https://jiaoshoo.com/pages/vocab/bixu_必须.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/bixu_必须.html</guid>
-      <pubDate>Sun, 10 May 2026 00:00:00 GMT</pubDate>
-      <description>必须 is the strongest of the everyday modal verbs of obligation: a non-negotiable requirement that the speaker presents as not-up-for-discussion.</description>
-      <category>vocab</category>
-    </item>
-    <item>
-      <title>般若 · prajñā; the Buddhist wisdom that sees emptiness</title>
-      <link>https://jiaoshoo.com/pages/vocab/bore_般若.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/bore_般若.html</guid>
-      <pubDate>Sun, 10 May 2026 00:00:00 GMT</pubDate>
-      <description>般若 is the specific Buddhist wisdom that perceives the emptiness of self and phenomena: not knowledge, not cleverness, but the realization that dissolves clinging at its root.</description>
-      <category>vocab</category>
-    </item>
-    <item>
-      <title>论语 · The Analects of Confucius</title>
-      <link>https://jiaoshoo.com/pages/vocab/lunyu_论语.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/lunyu_论语.html</guid>
-      <pubDate>Sun, 10 May 2026 00:00:00 GMT</pubDate>
-      <description>The Analects: a thin book of recorded conversations and sayings that became the most quoted text in East Asian civilization, the entry point to Confucian thought, and the textbook of imperial education for two thousand years.</description>
       <category>vocab</category>
     </item>
   </channel>
