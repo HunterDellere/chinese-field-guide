@@ -13,6 +13,7 @@
 而且	érqiě	moreover, and furthermore — Additive conjunction that layers information: not just "and" but "and on top of that."
 刚	gāng	just now, just happened — The recency adverb: 刚 marks that something happened very recently, and contrast with 刚才, 刚刚, 才, and 已经.
 给	gěi	to give, for, and to — The verb "to give," the coverb that marks a recipient or beneficiary ("for/to"), and a colloquial passive marker, all from one character.
+跟	gēn	with; and; to follow — The everyday coverb for "with" and conjunction for "and", how the 跟…一起 and 跟…说 patterns work, the original verb "to follow", and how 跟 differs from 和, 同, and 与.
 过	guò / guo	the experiential aspect marker — The particle that says 'I have ever done this'. Not when, not how often, just that it once happened. The most-confused pair with 了.
 还	hái	still, also, even: the continuative adverb — One adverb, four distinct jobs, and a single thread connecting all of them: something continues past the expected boundary.
 还是 / 或者	háishi / huòzhě	"or" in questions vs. statements — Chinese splits English "or" in two: 还是 offers a choice in a question, 或者 offers an alternative in a statement. Using the wrong one is a classic error.
@@ -21,6 +22,7 @@
 可能	kěnéng	maybe, possible — The all-purpose word for possibility, working as adverb, adjective, and noun, and how it differs from 也许, 或许, 大概, and the modal 会.
 来	lái / qù	去 · directional complements — 上来, 下去, 出去, 进来: the motion complement system mapped.
 了	le	the perfective particle — Perfective aspect vs. change-of-state: the single most-confused particle.
+离	lí	away from; distance — The coverb for distance and separation: the A 离 B + distance pattern for "how far", the verb sense "to leave / part from", and how 离 differs from 从 and 到 in marking space and time.
 连…都/也	lián…dōu/yě	even X — The intensifier construction: raising the stakes of a claim.
 量词	liàngcí	measure words — 个, 只, 条, 本, 张: the classifier taxonomy and the logic behind it.
 吗	ma	the yes-no question particle — The simplest way to ask a question in Mandarin: add 吗 to the end of a statement. Plus how it differs from A-not-A questions and from 呢 and 吧.
@@ -35,6 +37,8 @@
 虽然…但是	suīrán dànshì	although … but — The concession frame: granting the premise but pivoting to the real point.
 所	suǒ	classical nominalizer and passive marker — The function word that turns verbs into noun phrases, and has been doing so since Confucius quoted it in the Analects.
 太…了	tài le	too, excessively — The emphatic degree structure: 太…了 expresses excess and strong feeling, from complaints to enthusiastic praise.
+往	wǎng	toward; to head for — The directional coverb for "toward", the 往 + direction + verb pattern, the verb sense "to go / in the past", and how 往 differs from 向 and 朝 for facing and motion.
+为什么	wèishénme	why — The neutral question word for cause and reason, how to answer it with 因为 or 为了, and how a plain 为什么 differs from the surprised 怎么 and the purpose-asking 为了什么.
 一边…一边	yībiān yībiān	while doing; at the same time — Simultaneous actions: the frame for describing two things happening at once.
 一点儿 / 有点儿	yìdiǎnr / yǒudiǎnr	a little — The classic confusion pair: 有点儿 comes before an adjective and leans negative ("a bit too…"), while 一点儿 comes after and is neutral ("a little more").
 一下	yíxià	the verb-softener — The verbal-quantity word that makes an action brief and casual, how verb + 一下 softens a request, and how it differs from verb reduplication and from the time-word 一会儿.
@@ -45,6 +49,7 @@
 与其…不如	yǔqí bùrú	rather than … it would be better to — Comparative preference construction: the most elegant way to argue for one choice over another.
 越来越	yuèláiyuè	more and more; increasingly — The degree escalation pattern: expressing a quality that grows continuously over time.
 在	zài	location, existence, and the progressive — One of the busiest words in Mandarin: the verb "to be at," the location coverb "at/in," and the progressive marker for ongoing action.
+怎么	zěnme	how, in what way; why — The all-purpose question word for manner and reason: how to do something, what is wrong, and the surprised "how come," plus how 怎么 differs from 为什么 and 怎么样.
 者	zhě	classical nominalizer "the one who; that which" — The particle that turns a verb or adjective into a person, and that never stopped working.
 着	zhe	the continuous aspect marker — Three distinct jobs: holding a state, linking two actions, and commanding attention. All from a single particle that beginners collapse into one.
 之	zhī	classical genitive, nominalizer, and pronoun — The single character that does the work of three English words (of, it, and the one who) and still shows up in modern Chinese every day.

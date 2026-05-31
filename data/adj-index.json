@@ -808,6 +808,22 @@
     ],
     "hasPage": true
   },
+  "应该": {
+    "cn": "应该",
+    "py": "yīnggāi",
+    "en": "should; ought to",
+    "count": 7,
+    "appearsOn": [
+      "pages/characters/bi4_必.html",
+      "pages/characters/ke3_可.html",
+      "pages/characters/yao4_要.html",
+      "pages/grammar/hui_neng_keyi_会能可以.html",
+      "pages/grammar/keneng_可能.html",
+      "pages/vocab/bixu_必须.html",
+      "pages/vocab/yiding_一定.html"
+    ],
+    "hasPage": true
+  },
   "哲学": {
     "cn": "哲学",
     "py": "zhéxué",
@@ -884,6 +900,21 @@
       "pages/religion/topic_xinjing.html",
       "pages/vocab/niepan_涅槃.html",
       "pages/vocab/zhihui_智慧.html"
+    ],
+    "hasPage": true
+  },
+  "必须": {
+    "cn": "必须",
+    "py": "bìxū",
+    "en": "must; have to",
+    "count": 6,
+    "appearsOn": [
+      "pages/characters/ke3_可.html",
+      "pages/characters/yao4_要.html",
+      "pages/grammar/hui_neng_keyi_会能可以.html",
+      "pages/grammar/yinggai_应该.html",
+      "pages/grammar/zhiyou_cai_只有才.html",
+      "pages/vocab/yiding_一定.html"
     ],
     "hasPage": true
   },
@@ -974,6 +1005,21 @@
       "pages/hsk/hsk-5.html",
       "pages/hsk/hsk-6.html",
       "pages/hsk/hsk-7-9.html"
+    ],
+    "hasPage": true
+  },
+  "对": {
+    "cn": "对",
+    "py": "duì",
+    "en": "pair; couple; correct",
+    "count": 6,
+    "appearsOn": [
+      "pages/characters/er4_二.html",
+      "pages/characters/shi4_是.html",
+      "pages/grammar/gei_给.html",
+      "pages/grammar/gen_跟.html",
+      "pages/grammar/rang_让.html",
+      "pages/grammar/shide_是的.html"
     ],
     "hasPage": true
   },
@@ -1262,21 +1308,6 @@
     ],
     "hasPage": true
   },
-  "应该": {
-    "cn": "应该",
-    "py": "yīnggāi",
-    "en": "should; ought to",
-    "count": 6,
-    "appearsOn": [
-      "pages/characters/bi4_必.html",
-      "pages/characters/ke3_可.html",
-      "pages/characters/yao4_要.html",
-      "pages/grammar/hui_neng_keyi_会能可以.html",
-      "pages/grammar/keneng_可能.html",
-      "pages/vocab/bixu_必须.html"
-    ],
-    "hasPage": true
-  },
   "缘分": {
     "cn": "缘分",
     "py": "yuánfèn",
@@ -1350,20 +1381,6 @@
     ],
     "hasPage": true
   },
-  "必须": {
-    "cn": "必须",
-    "py": "bìxū",
-    "en": "must; have to",
-    "count": 5,
-    "appearsOn": [
-      "pages/characters/ke3_可.html",
-      "pages/characters/yao4_要.html",
-      "pages/grammar/hui_neng_keyi_会能可以.html",
-      "pages/grammar/yinggai_应该.html",
-      "pages/grammar/zhiyou_cai_只有才.html"
-    ],
-    "hasPage": true
-  },
   "春节": {
     "cn": "春节",
     "py": "chūnjié",
@@ -1375,6 +1392,20 @@
       "pages/culture/topic_duanwu.html",
       "pages/culture/topic_zhongjiu.html",
       "pages/vocab/chunjie_春节.html"
+    ],
+    "hasPage": true
+  },
+  "从": {
+    "cn": "从",
+    "py": "cóng",
+    "en": "from (origin)",
+    "count": 5,
+    "appearsOn": [
+      "pages/grammar/dui_对.html",
+      "pages/grammar/le_了.html",
+      "pages/grammar/li_离.html",
+      "pages/grammar/zai_在.html",
+      "pages/grammar/zhi_之.html"
     ],
     "hasPage": true
   },
@@ -1417,20 +1448,6 @@
       "pages/grammar/jiu_cai_就才.html",
       "pages/grammar/le_了.html",
       "pages/grammar/lian_dou_连都.html"
-    ],
-    "hasPage": true
-  },
-  "对": {
-    "cn": "对",
-    "py": "duì",
-    "en": "pair; couple; correct",
-    "count": 5,
-    "appearsOn": [
-      "pages/characters/er4_二.html",
-      "pages/characters/shi4_是.html",
-      "pages/grammar/gei_给.html",
-      "pages/grammar/rang_让.html",
-      "pages/grammar/shide_是的.html"
     ],
     "hasPage": true
   },
@@ -1848,19 +1865,6 @@
       "pages/grammar/taiLe_太了.html",
       "pages/grammar/yiyang_xiang_一样像.html",
       "pages/vocab/zhengzai_正在.html"
-    ],
-    "hasPage": true
-  },
-  "从": {
-    "cn": "从",
-    "py": "cóng",
-    "en": "from (origin)",
-    "count": 4,
-    "appearsOn": [
-      "pages/grammar/dui_对.html",
-      "pages/grammar/le_了.html",
-      "pages/grammar/zai_在.html",
-      "pages/grammar/zhi_之.html"
     ],
     "hasPage": true
   },
@@ -2332,6 +2336,19 @@
     ],
     "hasPage": true
   },
+  "什么": {
+    "cn": "什么",
+    "py": "shénme",
+    "en": "what (fronted + 都 = everything)",
+    "count": 4,
+    "appearsOn": [
+      "pages/grammar/dou_都.html",
+      "pages/grammar/ma_吗.html",
+      "pages/grammar/weishenme_为什么.html",
+      "pages/grammar/zenme_怎么.html"
+    ],
+    "hasPage": false
+  },
   "时候": {
     "cn": "时候",
     "py": "shíhòu",
@@ -2383,6 +2400,19 @@
       "pages/grammar/zhi_者.html"
     ],
     "hasPage": true
+  },
+  "所以": {
+    "cn": "所以",
+    "py": "suǒyǐ",
+    "en": "therefore",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/wei2_为.html",
+      "pages/characters/yi3_以.html",
+      "pages/grammar/suo_所.html",
+      "pages/grammar/weishenme_为什么.html"
+    ],
+    "hasPage": false
   },
   "她": {
     "cn": "她",
@@ -2875,6 +2905,18 @@
     ],
     "hasPage": true
   },
+  "到": {
+    "cn": "到",
+    "py": "dào",
+    "en": "to arrive; to reach",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/kai1_开.html",
+      "pages/characters/pao3_跑.html",
+      "pages/grammar/li_离.html"
+    ],
+    "hasPage": true
+  },
   "道德经": {
     "cn": "道德经",
     "py": "dàodéjīng",
@@ -2971,6 +3013,18 @@
     ],
     "hasPage": false
   },
+  "跟": {
+    "cn": "跟",
+    "py": "gēn",
+    "en": "with; and (colloquial)",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/he2_和.html",
+      "pages/grammar/yiyang_xiang_一样像.html",
+      "pages/vocab/yiqi_一起.html"
+    ],
+    "hasPage": true
+  },
   "更": {
     "cn": "更",
     "py": "gèng",
@@ -3004,6 +3058,18 @@
       "pages/characters/nu3_女.html",
       "pages/grammar/ba_把.html",
       "pages/grammar/le_了.html"
+    ],
+    "hasPage": true
+  },
+  "和": {
+    "cn": "和",
+    "py": "hé",
+    "en": "harmony; and; with; peace",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/de2_德.html",
+      "pages/characters/ren2_仁.html",
+      "pages/grammar/gen_跟.html"
     ],
     "hasPage": true
   },
@@ -3124,6 +3190,18 @@
       "pages/characters/nian2_年.html",
       "pages/characters/ri4_日.html",
       "pages/culture/topic_duanwu.html"
+    ],
+    "hasPage": true
+  },
+  "近": {
+    "cn": "近",
+    "py": "jìn",
+    "en": "near; close; recent",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/li3_里.html",
+      "pages/characters/yuan3_远.html",
+      "pages/grammar/li_离.html"
     ],
     "hasPage": true
   },
@@ -3379,6 +3457,18 @@
     ],
     "hasPage": false
   },
+  "前": {
+    "cn": "前",
+    "py": "qián",
+    "en": "front; before; past",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/hou4_后.html",
+      "pages/grammar/wang_往.html",
+      "pages/vocab/fangxiang_方向.html"
+    ],
+    "hasPage": true
+  },
   "钱": {
     "cn": "钱",
     "py": "qián",
@@ -3558,18 +3648,6 @@
       "pages/history/topic_yuanchao.html"
     ],
     "hasPage": true
-  },
-  "所以": {
-    "cn": "所以",
-    "py": "suǒyǐ",
-    "en": "therefore",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/wei2_为.html",
-      "pages/characters/yi3_以.html",
-      "pages/grammar/suo_所.html"
-    ],
-    "hasPage": false
   },
   "他": {
     "cn": "他",
@@ -3835,6 +3913,18 @@
     ],
     "hasPage": true
   },
+  "也许": {
+    "cn": "也许",
+    "py": "yěxǔ",
+    "en": "perhaps; maybe",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/bi4_必.html",
+      "pages/grammar/keneng_可能.html",
+      "pages/vocab/yiding_一定.html"
+    ],
+    "hasPage": false
+  },
   "业": {
     "cn": "业",
     "py": "yè",
@@ -3904,6 +3994,18 @@
       "pages/characters/fo2_佛.html",
       "pages/religion/topic_fojiao.html",
       "pages/vocab/lunhui_轮回.html"
+    ],
+    "hasPage": false
+  },
+  "因为": {
+    "cn": "因为",
+    "py": "yīnwèi",
+    "en": "because",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/wei2_为.html",
+      "pages/characters/yi3_以.html",
+      "pages/grammar/weishenme_为什么.html"
     ],
     "hasPage": false
   },
@@ -3979,6 +4081,18 @@
     ],
     "hasPage": false
   },
+  "远": {
+    "cn": "远",
+    "py": "yuǎn",
+    "en": "far; distant; remote",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/jin4_近.html",
+      "pages/characters/yun2_云.html",
+      "pages/grammar/li_离.html"
+    ],
+    "hasPage": true
+  },
   "愿意": {
     "cn": "愿意",
     "py": "yuànyì",
@@ -4014,6 +4128,18 @@
       "pages/vocab/mingyun_命运.html"
     ],
     "hasPage": false
+  },
+  "怎么": {
+    "cn": "怎么",
+    "py": "zěnme",
+    "en": "how; in what way",
+    "count": 3,
+    "appearsOn": [
+      "pages/grammar/duoshao_ji_多少几.html",
+      "pages/grammar/shide_是的.html",
+      "pages/grammar/weishenme_为什么.html"
+    ],
+    "hasPage": true
   },
   "长江": {
     "cn": "长江",
@@ -4170,6 +4296,18 @@
       "pages/characters/xie3_写.html"
     ],
     "hasPage": true
+  },
+  "最后": {
+    "cn": "最后",
+    "py": "zuìhòu",
+    "en": "finally; last",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/hou4_后.html",
+      "pages/vocab/ranhou_然后.html",
+      "pages/vocab/zhongyu_终于.html"
+    ],
+    "hasPage": false
   },
   "左右": {
     "cn": "左右",
@@ -4789,16 +4927,16 @@
     ],
     "hasPage": false
   },
-  "到": {
-    "cn": "到",
-    "py": "dào",
-    "en": "to arrive; to reach",
+  "到底": {
+    "cn": "到底",
+    "py": "dàodǐ",
+    "en": "after all; what on earth",
     "count": 2,
     "appearsOn": [
-      "pages/characters/kai1_开.html",
-      "pages/characters/pao3_跑.html"
+      "pages/characters/dao4_到.html",
+      "pages/vocab/zhongyu_终于.html"
     ],
-    "hasPage": true
+    "hasPage": false
   },
   "地方": {
     "cn": "地方",
@@ -5174,17 +5312,6 @@
     ],
     "hasPage": false
   },
-  "跟": {
-    "cn": "跟",
-    "py": "gēn",
-    "en": "with; and (colloquial)",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/he2_和.html",
-      "pages/grammar/yiyang_xiang_一样像.html"
-    ],
-    "hasPage": false
-  },
   "更新": {
     "cn": "更新",
     "py": "gēngxīn",
@@ -5449,17 +5576,6 @@
     ],
     "hasPage": false
   },
-  "和": {
-    "cn": "和",
-    "py": "hé",
-    "en": "harmony; and; with; peace",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/de2_德.html",
-      "pages/characters/ren2_仁.html"
-    ],
-    "hasPage": true
-  },
   "河": {
     "cn": "河",
     "py": "hé",
@@ -5525,6 +5641,17 @@
       "pages/vocab/fangxiang_方向.html"
     ],
     "hasPage": true
+  },
+  "后来": {
+    "cn": "后来",
+    "py": "hòulái",
+    "en": "afterward; subsequently",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/hou4_后.html",
+      "pages/vocab/ranhou_然后.html"
+    ],
+    "hasPage": false
   },
   "湖": {
     "cn": "湖",
@@ -5768,17 +5895,6 @@
     ],
     "hasPage": false
   },
-  "近": {
-    "cn": "近",
-    "py": "jìn",
-    "en": "near; close; recent",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/li3_里.html",
-      "pages/characters/yuan3_远.html"
-    ],
-    "hasPage": true
-  },
   "进来": {
     "cn": "进来",
     "py": "jìnlái",
@@ -5855,6 +5971,17 @@
       "pages/characters/xin1_新.html"
     ],
     "hasPage": true
+  },
+  "距离": {
+    "cn": "距离",
+    "py": "jùlí",
+    "en": "distance, gap",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/yuan3_远.html",
+      "pages/grammar/li_离.html"
+    ],
+    "hasPage": false
   },
   "开": {
     "cn": "开",
@@ -6549,17 +6676,6 @@
     ],
     "hasPage": false
   },
-  "前": {
-    "cn": "前",
-    "py": "qián",
-    "en": "front; before; past",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/hou4_后.html",
-      "pages/vocab/fangxiang_方向.html"
-    ],
-    "hasPage": true
-  },
   "前世": {
     "cn": "前世",
     "py": "qiánshì",
@@ -6646,7 +6762,7 @@
       "pages/characters/hou4_后.html",
       "pages/grammar/nai_乃.html"
     ],
-    "hasPage": false
+    "hasPage": true
   },
   "人称": {
     "cn": "人称",
@@ -6865,17 +6981,6 @@
     "appearsOn": [
       "pages/characters/ming2_名.html",
       "pages/characters/ren4_认.html"
-    ],
-    "hasPage": false
-  },
-  "什么": {
-    "cn": "什么",
-    "py": "shénme",
-    "en": "what (fronted + 都 = everything)",
-    "count": 2,
-    "appearsOn": [
-      "pages/grammar/dou_都.html",
-      "pages/grammar/ma_吗.html"
     ],
     "hasPage": false
   },
@@ -7418,6 +7523,17 @@
     ],
     "hasPage": false
   },
+  "同": {
+    "cn": "同",
+    "py": "tóng",
+    "en": "same; together; to agree",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/he2_和.html",
+      "pages/grammar/gen_跟.html"
+    ],
+    "hasPage": false
+  },
   "统一": {
     "cn": "统一",
     "py": "tǒngyī",
@@ -7571,6 +7687,28 @@
       "pages/vocab/guanxi_关系.html"
     ],
     "hasPage": false
+  },
+  "为了": {
+    "cn": "为了",
+    "py": "wèile",
+    "en": "in order to; for the purpose of",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/yi3_以.html",
+      "pages/grammar/weishenme_为什么.html"
+    ],
+    "hasPage": false
+  },
+  "为什么": {
+    "cn": "为什么",
+    "py": "wèishénme",
+    "en": "why (reason question)",
+    "count": 2,
+    "appearsOn": [
+      "pages/grammar/shide_是的.html",
+      "pages/grammar/zenme_怎么.html"
+    ],
+    "hasPage": true
   },
   "文房四宝": {
     "cn": "文房四宝",
@@ -7792,6 +7930,17 @@
     ],
     "hasPage": false
   },
+  "向": {
+    "cn": "向",
+    "py": "xiàng",
+    "en": "facing, toward",
+    "count": 2,
+    "appearsOn": [
+      "pages/grammar/directional_来去.html",
+      "pages/grammar/wang_往.html"
+    ],
+    "hasPage": false
+  },
   "小": {
     "cn": "小",
     "py": "xiǎo",
@@ -7978,17 +8127,6 @@
     ],
     "hasPage": false
   },
-  "也许": {
-    "cn": "也许",
-    "py": "yěxǔ",
-    "en": "perhaps; maybe",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/bi4_必.html",
-      "pages/grammar/keneng_可能.html"
-    ],
-    "hasPage": false
-  },
   "叶公好龙": {
     "cn": "叶公好龙",
     "py": "Yè Gōng hào lóng",
@@ -8020,7 +8158,7 @@
       "pages/characters/bi4_必.html",
       "pages/grammar/zhiyou_cai_只有才.html"
     ],
-    "hasPage": false
+    "hasPage": true
   },
   "一毛不拔": {
     "cn": "一毛不拔",
@@ -8032,6 +8170,17 @@
       "pages/vocab/ren2_仁.html"
     ],
     "hasPage": true
+  },
+  "一样": {
+    "cn": "一样",
+    "py": "yíyàng",
+    "en": "the same",
+    "count": 2,
+    "appearsOn": [
+      "pages/grammar/gen_跟.html",
+      "pages/vocab/bijiao_比较.html"
+    ],
+    "hasPage": false
   },
   "伊斯兰教": {
     "cn": "伊斯兰教",
@@ -8096,17 +8245,6 @@
     "appearsOn": [
       "pages/characters/si1_思.html",
       "pages/characters/xin1_心.html"
-    ],
-    "hasPage": false
-  },
-  "因为": {
-    "cn": "因为",
-    "py": "yīnwèi",
-    "en": "because",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/wei2_为.html",
-      "pages/characters/yi3_以.html"
     ],
     "hasPage": false
   },
@@ -8231,6 +8369,17 @@
     ],
     "hasPage": true
   },
+  "与": {
+    "cn": "与",
+    "py": "yǔ",
+    "en": "and; with (literary)",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/he2_和.html",
+      "pages/grammar/gen_跟.html"
+    ],
+    "hasPage": false
+  },
   "与时俱进": {
     "cn": "与时俱进",
     "py": "yǔ shí jù jìn",
@@ -8264,17 +8413,6 @@
     ],
     "hasPage": true
   },
-  "远": {
-    "cn": "远",
-    "py": "yuǎn",
-    "en": "far; distant; remote",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/jin4_近.html",
-      "pages/characters/yun2_云.html"
-    ],
-    "hasPage": true
-  },
   "允许": {
     "cn": "允许",
     "py": "yǔnxǔ",
@@ -8305,17 +8443,6 @@
     "appearsOn": [
       "pages/characters/jian4_见.html",
       "pages/characters/zai4_再.html"
-    ],
-    "hasPage": false
-  },
-  "怎么": {
-    "cn": "怎么",
-    "py": "zěnme",
-    "en": "how; in what way",
-    "count": 2,
-    "appearsOn": [
-      "pages/grammar/duoshao_ji_多少几.html",
-      "pages/grammar/shide_是的.html"
     ],
     "hasPage": false
   },
@@ -8570,7 +8697,7 @@
       "pages/grammar/jiu_cai_就才.html",
       "pages/grammar/le_了.html"
     ],
-    "hasPage": false
+    "hasPage": true
   },
   "重阳节": {
     "cn": "重阳节",
@@ -8948,6 +9075,16 @@
     "count": 1,
     "appearsOn": [
       "pages/grammar/directional_来去.html"
+    ],
+    "hasPage": false
+  },
+  "办": {
+    "cn": "办",
+    "py": "bàn",
+    "en": "to handle; to do",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/zenme_怎么.html"
     ],
     "hasPage": false
   },
@@ -9801,6 +9938,16 @@
     ],
     "hasPage": false
   },
+  "朝": {
+    "cn": "朝",
+    "py": "cháo",
+    "en": "facing; toward",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/wang_往.html"
+    ],
+    "hasPage": false
+  },
   "朝圣": {
     "cn": "朝圣",
     "py": "cháoshèng",
@@ -10605,16 +10752,6 @@
     "cn": "到达",
     "py": "dàodá",
     "en": "to arrive (formal)",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/dao4_到.html"
-    ],
-    "hasPage": false
-  },
-  "到底": {
-    "cn": "到底",
-    "py": "dàodǐ",
-    "en": "after all; what on earth",
     "count": 1,
     "appearsOn": [
       "pages/characters/dao4_到.html"
@@ -12071,6 +12208,16 @@
     ],
     "hasPage": false
   },
+  "共同": {
+    "cn": "共同",
+    "py": "gòngtóng",
+    "en": "common; jointly",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/yiqi_一起.html"
+    ],
+    "hasPage": false
+  },
   "孤魂野鬼": {
     "cn": "孤魂野鬼",
     "py": "gūhún yěguǐ",
@@ -12178,6 +12325,16 @@
     "count": 1,
     "appearsOn": [
       "pages/philosophy/topic_yijing.html"
+    ],
+    "hasPage": false
+  },
+  "拐": {
+    "cn": "拐",
+    "py": "guǎi",
+    "en": "to turn (a corner)",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/wang_往.html"
     ],
     "hasPage": false
   },
@@ -12798,16 +12955,6 @@
     "count": 1,
     "appearsOn": [
       "pages/religion/topic_zuxian.html"
-    ],
-    "hasPage": false
-  },
-  "后来": {
-    "cn": "后来",
-    "py": "hòulái",
-    "en": "afterward; subsequently",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/hou4_后.html"
     ],
     "hasPage": false
   },
@@ -13791,6 +13938,16 @@
     ],
     "hasPage": false
   },
+  "接着": {
+    "cn": "接着",
+    "py": "jiēzhe",
+    "en": "right after; continuing",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/ranhou_然后.html"
+    ],
+    "hasPage": false
+  },
   "节令": {
     "cn": "节令",
     "py": "jiélìng",
@@ -14011,6 +14168,16 @@
     ],
     "hasPage": false
   },
+  "经过": {
+    "cn": "经过",
+    "py": "jīngguò",
+    "en": "after; through",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/zhongyu_终于.html"
+    ],
+    "hasPage": false
+  },
   "经济": {
     "cn": "经济",
     "py": "jīngjì",
@@ -14228,16 +14395,6 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/zi4_字.html"
-    ],
-    "hasPage": false
-  },
-  "距离": {
-    "cn": "距离",
-    "py": "jùlí",
-    "en": "distance, gap",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/yuan3_远.html"
     ],
     "hasPage": false
   },
@@ -14518,6 +14675,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/du2_读.html"
+    ],
+    "hasPage": false
+  },
+  "肯定": {
+    "cn": "肯定",
+    "py": "kěndìng",
+    "en": "certainly; to affirm",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/yiding_一定.html"
     ],
     "hasPage": false
   },
@@ -14818,6 +14985,26 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/si3_死.html"
+    ],
+    "hasPage": false
+  },
+  "离": {
+    "cn": "离",
+    "py": "lí",
+    "en": "away from; distance",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/wang_往.html"
+    ],
+    "hasPage": true
+  },
+  "离开": {
+    "cn": "离开",
+    "py": "líkāi",
+    "en": "to leave; depart",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/li_离.html"
     ],
     "hasPage": false
   },
@@ -16081,6 +16268,16 @@
     ],
     "hasPage": false
   },
+  "哪": {
+    "cn": "哪",
+    "py": "nǎ",
+    "en": "which",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/zenme_怎么.html"
+    ],
+    "hasPage": false
+  },
   "哪儿": {
     "cn": "哪儿",
     "py": "nǎr",
@@ -17161,6 +17358,16 @@
     ],
     "hasPage": false
   },
+  "确定": {
+    "cn": "确定",
+    "py": "quèdìng",
+    "en": "to confirm; certain",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/yiding_一定.html"
+    ],
+    "hasPage": false
+  },
   "确实": {
     "cn": "确实",
     "py": "quèshí",
@@ -17420,6 +17627,16 @@
       "pages/grammar/zhiyou_cai_只有才.html"
     ],
     "hasPage": true
+  },
+  "如何": {
+    "cn": "如何",
+    "py": "rúhé",
+    "en": "how (formal)",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/zenme_怎么.html"
+    ],
+    "hasPage": false
   },
   "如今": {
     "cn": "如今",
@@ -19481,16 +19698,6 @@
     ],
     "hasPage": false
   },
-  "同": {
-    "cn": "同",
-    "py": "tóng",
-    "en": "same; together; to agree",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/he2_和.html"
-    ],
-    "hasPage": false
-  },
   "同胞": {
     "cn": "同胞",
     "py": "tóngbāo",
@@ -19779,6 +19986,16 @@
     "appearsOn": [
       "pages/grammar/directional_来去.html"
     ],
+    "hasPage": true
+  },
+  "往年": {
+    "cn": "往年",
+    "py": "wǎngnián",
+    "en": "former years",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/wang_往.html"
+    ],
     "hasPage": false
   },
   "忘我": {
@@ -19868,26 +20085,6 @@
     "count": 1,
     "appearsOn": [
       "pages/grammar/bei_被.html"
-    ],
-    "hasPage": false
-  },
-  "为了": {
-    "cn": "为了",
-    "py": "wèile",
-    "en": "in order to; for the purpose of",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/yi3_以.html"
-    ],
-    "hasPage": false
-  },
-  "为什么": {
-    "cn": "为什么",
-    "py": "wèishénme",
-    "en": "why (reason question)",
-    "count": 1,
-    "appearsOn": [
-      "pages/grammar/shide_是的.html"
     ],
     "hasPage": false
   },
@@ -20481,6 +20678,16 @@
     ],
     "hasPage": false
   },
+  "先": {
+    "cn": "先",
+    "py": "xiān",
+    "en": "first",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/ranhou_然后.html"
+    ],
+    "hasPage": false
+  },
   "先…再…": {
     "cn": "先…再…",
     "py": "xiān…zài…",
@@ -20658,16 +20865,6 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/xiang3_想.html"
-    ],
-    "hasPage": false
-  },
-  "向": {
-    "cn": "向",
-    "py": "xiàng",
-    "en": "facing, toward",
-    "count": 1,
-    "appearsOn": [
-      "pages/grammar/directional_来去.html"
     ],
     "hasPage": false
   },
@@ -21701,6 +21898,16 @@
     ],
     "hasPage": false
   },
+  "一共": {
+    "cn": "一共",
+    "py": "yígòng",
+    "en": "in total; altogether",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/yiqi_一起.html"
+    ],
+    "hasPage": false
+  },
   "一会儿": {
     "cn": "一会儿",
     "py": "yíhuìr",
@@ -21710,6 +21917,16 @@
       "pages/grammar/yixia_一下.html"
     ],
     "hasPage": true
+  },
+  "一块儿": {
+    "cn": "一块儿",
+    "py": "yíkuàir",
+    "en": "together (colloquial)",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/yiqi_一起.html"
+    ],
+    "hasPage": false
   },
   "一面…一面": {
     "cn": "一面…一面",
@@ -21721,6 +21938,16 @@
     ],
     "hasPage": false
   },
+  "一起": {
+    "cn": "一起",
+    "py": "yìqǐ",
+    "en": "together",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/gen_跟.html"
+    ],
+    "hasPage": true
+  },
   "一生": {
     "cn": "一生",
     "py": "yīshēng",
@@ -21728,6 +21955,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/rensheng_人生.html"
+    ],
+    "hasPage": false
+  },
+  "一同": {
+    "cn": "一同",
+    "py": "yìtóng",
+    "en": "together (formal)",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/yiqi_一起.html"
     ],
     "hasPage": false
   },
@@ -21758,16 +21995,6 @@
     "count": 1,
     "appearsOn": [
       "pages/grammar/liangci_量词.html"
-    ],
-    "hasPage": false
-  },
-  "一样": {
-    "cn": "一样",
-    "py": "yīyàng",
-    "en": "the same; as…as",
-    "count": 1,
-    "appearsOn": [
-      "pages/vocab/bijiao_比较.html"
     ],
     "hasPage": false
   },
@@ -22241,6 +22468,16 @@
     ],
     "hasPage": false
   },
+  "于是": {
+    "cn": "于是",
+    "py": "yúshì",
+    "en": "thereupon; and so",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/ranhou_然后.html"
+    ],
+    "hasPage": false
+  },
   "盂兰盆": {
     "cn": "盂兰盆",
     "py": "yúlánpén",
@@ -22288,16 +22525,6 @@
     "count": 1,
     "appearsOn": [
       "pages/chengyu/sanyicheng_三人成虎.html"
-    ],
-    "hasPage": false
-  },
-  "与": {
-    "cn": "与",
-    "py": "yǔ",
-    "en": "and; with (literary)",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/he2_和.html"
     ],
     "hasPage": false
   },
@@ -22438,6 +22665,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/chunjie_春节.html"
+    ],
+    "hasPage": false
+  },
+  "原因": {
+    "cn": "原因",
+    "py": "yuányīn",
+    "en": "reason; cause",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/weishenme_为什么.html"
     ],
     "hasPage": false
   },
@@ -22838,6 +23075,16 @@
     "count": 1,
     "appearsOn": [
       "pages/grammar/nai_乃.html"
+    ],
+    "hasPage": false
+  },
+  "怎么样": {
+    "cn": "怎么样",
+    "py": "zěnmeyàng",
+    "en": "how is it; how about",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/zenme_怎么.html"
     ],
     "hasPage": false
   },
@@ -23831,6 +24078,16 @@
     ],
     "hasPage": false
   },
+  "总算": {
+    "cn": "总算",
+    "py": "zǒngsuàn",
+    "en": "at last (with relief)",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/zhongyu_终于.html"
+    ],
+    "hasPage": false
+  },
   "粽子": {
     "cn": "粽子",
     "py": "zòngzi",
@@ -23891,13 +24148,13 @@
     ],
     "hasPage": false
   },
-  "最后": {
-    "cn": "最后",
-    "py": "zuìhòu",
-    "en": "finally; last",
+  "最终": {
+    "cn": "最终",
+    "py": "zuìzhōng",
+    "en": "ultimately; finally",
     "count": 1,
     "appearsOn": [
-      "pages/characters/hou4_后.html"
+      "pages/vocab/zhongyu_终于.html"
     ],
     "hasPage": false
   },

@@ -6,7 +6,79 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A reading nook for Chinese language and civilisation. Characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 30 May 2026 20:51:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 23:38:22 GMT</lastBuildDate>
+    <item>
+      <title>跟 · with; and; to follow</title>
+      <link>https://jiaoshoo.com/pages/grammar/gen_跟.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/grammar/gen_跟.html</guid>
+      <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
+      <description>The everyday coverb for &quot;with&quot; and conjunction for &quot;and&quot;, how the 跟…一起 and 跟…说 patterns work, the original verb &quot;to follow&quot;, and how 跟 differs from 和, 同, and 与.</description>
+      <category>grammar</category>
+    </item>
+    <item>
+      <title>离 · away from; distance</title>
+      <link>https://jiaoshoo.com/pages/grammar/li_离.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/grammar/li_离.html</guid>
+      <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
+      <description>The coverb for distance and separation: the A 离 B + distance pattern for &quot;how far&quot;, the verb sense &quot;to leave / part from&quot;, and how 离 differs from 从 and 到 in marking space and time.</description>
+      <category>grammar</category>
+    </item>
+    <item>
+      <title>往 · toward; to head for</title>
+      <link>https://jiaoshoo.com/pages/grammar/wang_往.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/grammar/wang_往.html</guid>
+      <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
+      <description>The directional coverb for &quot;toward&quot;, the 往 + direction + verb pattern, the verb sense &quot;to go / in the past&quot;, and how 往 differs from 向 and 朝 for facing and motion.</description>
+      <category>grammar</category>
+    </item>
+    <item>
+      <title>为什么 · why</title>
+      <link>https://jiaoshoo.com/pages/grammar/weishenme_为什么.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/grammar/weishenme_为什么.html</guid>
+      <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
+      <description>The neutral question word for cause and reason, how to answer it with 因为 or 为了, and how a plain 为什么 differs from the surprised 怎么 and the purpose-asking 为了什么.</description>
+      <category>grammar</category>
+    </item>
+    <item>
+      <title>怎么 · how, in what way; why</title>
+      <link>https://jiaoshoo.com/pages/grammar/zenme_怎么.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/grammar/zenme_怎么.html</guid>
+      <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
+      <description>The all-purpose question word for manner and reason: how to do something, what is wrong, and the surprised &quot;how come,&quot; plus how 怎么 differs from 为什么 and 怎么样.</description>
+      <category>grammar</category>
+    </item>
+    <item>
+      <title>然后 · then; after that</title>
+      <link>https://jiaoshoo.com/pages/vocab/ranhou_然后.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/ranhou_然后.html</guid>
+      <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
+      <description>The everyday sequence word for &quot;then, after that,&quot; the 先…然后… frame for ordering steps, its overuse as a spoken filler, and how it differs from 接着, 后来, and 于是.</description>
+      <category>vocab</category>
+    </item>
+    <item>
+      <title>一定 · definitely; certainly</title>
+      <link>https://jiaoshoo.com/pages/vocab/yiding_一定.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/yiding_一定.html</guid>
+      <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
+      <description>The everyday word for &quot;certainly, definitely,&quot; covering both confident prediction and firm resolve, the 一定要 (must) pattern, and how it differs from 肯定, 必须, and 一定会.</description>
+      <category>vocab</category>
+    </item>
+    <item>
+      <title>一起 · together</title>
+      <link>https://jiaoshoo.com/pages/vocab/yiqi_一起.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/yiqi_一起.html</guid>
+      <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
+      <description>The everyday word for &quot;together,&quot; the 跟…一起 frame for joint action, the &quot;in one place&quot; sense, the &quot;altogether&quot; use of 一起, and how it differs from 一块儿, 一同, and 一共.</description>
+      <category>vocab</category>
+    </item>
+    <item>
+      <title>终于 · finally, at last</title>
+      <link>https://jiaoshoo.com/pages/vocab/zhongyu_终于.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/zhongyu_终于.html</guid>
+      <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
+      <description>The adverb for &quot;finally, at last,&quot; used when something long-awaited or hard-won comes to pass, where it sits in a sentence, and how it differs from 最后, 总算, and 到底.</description>
+      <category>vocab</category>
+    </item>
     <item>
       <title>多少 / 几 · how many, how much</title>
       <link>https://jiaoshoo.com/pages/grammar/duoshao_ji_多少几.html</link>
@@ -174,78 +246,6 @@
       <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
       <description>Thousands of life-sized clay soldiers, each with a different face, buried to guard the First Emperor in death. A farmer digging a well found them in 1974, and the silent army became the most astonishing archaeological discovery of the century.</description>
       <category>history</category>
-    </item>
-    <item>
-      <title>三国 · The Three Kingdoms</title>
-      <link>https://jiaoshoo.com/pages/history/topic_sanguo.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/history/topic_sanguo.html</guid>
-      <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
-      <description>After the Han collapsed, China split into three rival states: Wei, Shu, and Wu. The sixty years of their wars produced the most beloved cast of heroes, traitors, and strategists in Chinese history.</description>
-      <category>history</category>
-    </item>
-    <item>
-      <title>史记 · Records of the Grand Historian</title>
-      <link>https://jiaoshoo.com/pages/history/topic_shiji.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/history/topic_shiji.html</guid>
-      <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
-      <description>Sima Qian wrote the founding work of Chinese historiography under the shadow of his own mutilation: a vast history from the legendary Yellow Emperor to his own Han dynasty, and the model every later dynastic history would follow.</description>
-      <category>history</category>
-    </item>
-    <item>
-      <title>隋朝 · The Sui Dynasty</title>
-      <link>https://jiaoshoo.com/pages/history/topic_suichao.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/history/topic_suichao.html</guid>
-      <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
-      <description>A short, ferocious dynasty that reunified China after nearly four centuries of division, dug the Grand Canal, and laid the institutions the glorious Tang would inherit, then burned itself out in a single generation.</description>
-      <category>history</category>
-    </item>
-    <item>
-      <title>道德经 · Daodejing</title>
-      <link>https://jiaoshoo.com/pages/philosophy/topic_daodejing.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/philosophy/topic_daodejing.html</guid>
-      <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
-      <description>Eighty-one short chapters of paradox and indirection that became the foundational text of Daoism and one of the most translated books in human history. The way that can be spoken is not the constant way.</description>
-      <category>philosophy</category>
-    </item>
-    <item>
-      <title>孙子兵法 · The Art of War</title>
-      <link>https://jiaoshoo.com/pages/philosophy/topic_sunzibingfa.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/philosophy/topic_sunzibingfa.html</guid>
-      <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
-      <description>Thirteen terse chapters on conflict, attributed to the strategist Sun Wu, that became the oldest and most influential military treatise in the world. The supreme art is to subdue the enemy without fighting.</description>
-      <category>philosophy</category>
-    </item>
-    <item>
-      <title>觉得 · to think, to feel</title>
-      <link>https://jiaoshoo.com/pages/vocab/juede_觉得.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/juede_觉得.html</guid>
-      <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
-      <description>The everyday verb for giving an opinion or impression, and how it differs from the more formal 认为 and from 想 (to want / to think over).</description>
-      <category>vocab</category>
-    </item>
-    <item>
-      <title>朋友 · friend</title>
-      <link>https://jiaoshoo.com/pages/vocab/pengyou_朋友.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/pengyou_朋友.html</guid>
-      <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
-      <description>The everyday word for friend, and the rich web of relationship terms (好朋友, 男朋友, 交朋友) built around it.</description>
-      <category>vocab</category>
-    </item>
-    <item>
-      <title>时候 · time, moment</title>
-      <link>https://jiaoshoo.com/pages/vocab/shihou_时候.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/shihou_时候.html</guid>
-      <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
-      <description>The everyday word for a point in time, and the indispensable 的时候 (&quot;when&quot;) pattern that every learner needs.</description>
-      <category>vocab</category>
-    </item>
-    <item>
-      <title>问题 · question, problem</title>
-      <link>https://jiaoshoo.com/pages/vocab/wenti_问题.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/wenti_问题.html</guid>
-      <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
-      <description>One word for both &quot;question&quot; and &quot;problem&quot;, and the everyday phrases (没问题, 有问题, 出问题) built from it.</description>
-      <category>vocab</category>
     </item>
   </channel>
 </rss>

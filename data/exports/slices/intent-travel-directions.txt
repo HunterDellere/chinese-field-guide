@@ -34,6 +34,7 @@
 方向	fāngxiàng	direction; orientation — 方向 is the compass-word that holds together physical heading, life direction, political orientation, and the deeply Chinese sense that getting your bearings: 辨方向, is the first move in any undertaking.
 江山	jiāngshān	rivers and mountains, the realm — The classical Chinese word for the nation: not a territory but a landscape; not a state but a living geography that dynasties rose and fell to possess.
 跨越	kuàyuè	to leap across, to span, to transcend — The compound that lets the Chinese language span gaps: physical, historical, technological, generational. The verb of choice when "越长城" is read figuratively.
+然后	ránhòu	then; after that — The everyday sequence word for "then, after that," the 先…然后… frame for ordering steps, its overuse as a spoken filler, and how it differs from 接着, 后来, and 于是.
 山水	shānshuǐ	mountains and water; the landscape — The paired word that names the Chinese landscape: not "scenery" in the Western sense, but a cosmological pairing of the still and the flowing that became the central subject of a thousand years of painting and poetry.
 山水画	shānshuǐhuà	Chinese Landscape Painting — Mountains and waters as a cosmological pair -- the genre that made ink the equal of philosophy.
 丝绸之路	sīchóu zhī lù	the Silk Road — The term Silk Road was coined by a German geographer in 1877: the Chinese themselves had no single name for the trade network that defined their contact with the world for a millennium.
@@ -45,7 +46,9 @@
 山清水秀	shān qīng shuǐ xiù	Mountains Clear, Waters Lovely — Clear mountains, lovely waters. The standard Chinese phrase for a picturesque landscape: four characters that compress the whole aesthetic vocabulary of natural beauty.
 愚公移山	yú gōng yí shān	The Foolish Old Man Moves the Mountains — Two mountains blocked his door. He and his sons began to move them, one basket at a time. A mocker laughed. He said: when I die my sons will continue; when they die, their sons.
 来	lái / qù	去 · directional complements — 上来, 下去, 出去, 进来: the motion complement system mapped.
+离	lí	away from; distance — The coverb for distance and separation: the A 离 B + distance pattern for "how far", the verb sense "to leave / part from", and how 离 differs from 从 and 到 in marking space and time.
 起来	qǐlái	directional complement: upward, inward, beginning — The most versatile directional complement in Mandarin: three distinct grammatical lives.
+往	wǎng	toward; to head for — The directional coverb for "toward", the 往 + direction + verb pattern, the verb sense "to go / in the past", and how 往 differs from 向 and 朝 for facing and motion.
 一下	yíxià	the verb-softener — The verbal-quantity word that makes an action brief and casual, how verb + 一下 softens a request, and how it differs from verb reduplication and from the time-word 一会儿.
 越来越	yuèláiyuè	more and more; increasingly — The degree escalation pattern: expressing a quality that grows continuously over time.
 在	zài	location, existence, and the progressive — One of the busiest words in Mandarin: the verb "to be at," the location coverb "at/in," and the progressive marker for ongoing action.
