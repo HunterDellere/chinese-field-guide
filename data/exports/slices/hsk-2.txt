@@ -1,3 +1,4 @@
+//角落書屋/Slices/HSK 2
 北	běi	north; northern; to flee — Two people standing back-to-back: the direction of cold and turning away that became the name of China's capital.
 出	chū	to exit, to emerge, to produce — 出 is two plants growing upward out of the earth: emergence itself written as a glyph, from physical exits to publication to standing out from the crowd.
 到	dào	to arrive, to reach; to — As a resultative complement suffix, 到 converts any action verb into a claim of completion: 听到 means not just hearing but hearing that arrived, perception proven by contact.
@@ -31,22 +32,22 @@
 雨	yǔ	rain — The oracle bone shows rain falling from the sky: one of the most transparent pictographs in the script, and the radical that organizes all Chinese weather.
 语	yǔ	language, speech, words — Speech radical plus the phonetic 吾 (I, me): the character for language carries the self within it, encoding the idea that language is the medium through which the self speaks to the world.
 远	yuǎn	far, distant, remote — Long robes trailing as you walk away: distance encoded in motion, and the ambivalence of far-off places in Chinese thought.
-越	yuè	to cross over, to surpass — The character of crossing-and-exceeding: a foot-radical verb that travels from "stride over a barrier" to "the more, the more" to a Chinese state name and a national poetic gesture.
+越	yu è	to cross over, to surpass — The character of crossing-and-exceeding: a foot-radical verb that travels from "stride over a barrier" to "the more, the more" to a Chinese state name and a national poetic gesture.
 再	zài	again, then, further — The adverb that sequences and repeats: again, one more time, and the subtle art of "and then."
 真	zhēn	real, true, genuine — Truth not as accuracy but as authenticity: the unadorned thing itself, prized in Daoist self-cultivation and in everyday emphasis.
 知	zhī	to know; knowledge — 知 = arrow + mouth: knowledge as the swift, target-hitting utterance, and in Wang Yangming, the act of knowing is inseparable from the act of doing.
 左	zuǒ	left; unorthodox; to assist — A left hand holding a carpenter's square: the assisting hand at the ruler, and by extension the word for unorthodox, heterodox, and everything that deviates from the orthodox path.
-方向	fāngxiàng	direction; orientation — 方向 is the compass-word that holds together physical heading, life direction, political orientation, and the deeply Chinese sense that getting your bearings: 辨方向, is the first move in any undertaking.
-工作	gōngzuò	work, job — The everyday word for work, both the activity and the job itself, and how it differs from 上班 (to go to work), 职业 (occupation), and 事业 (career).
-良心	liángxīn	conscience; innate moral sense — The good heart-mind: the Chinese word for conscience carries a philosophical claim that moral knowledge is a natural endowment, not an acquired rule.
-论语	Lúnyǔ	The Analects of Confucius — The Analects: a thin book of recorded conversations and sayings that became the most quoted text in East Asian civilization, the entry point to Confucian thought, and the textbook of imperial education for two thousand years.
-文化	wénhuà	culture; civilization — The word that names the organizing project of this entire site: and a concept that Chinese thought built from the ground up differently than the West did.
-文明	wénmíng	civilization; cultivated and refined — 文明 names both a state of cultivated life (literacy, ritual, the refined arts) and the global concept of civilization. The two meanings share a single Chinese word, and the doubling is the whole story.
-中文	zhōngwén	Chinese Language and Writing — 中文 names both the written script and the spoken language: the most common term among learners, but it sits alongside 汉语, 普通话, and 汉字 in a system of names that carries real distinctions.
+方向	fāng xiàng	direction; orientation — 方向 is the compass-word that holds together physical heading, life direction, political orientation, and the deeply Chinese sense that getting your bearings: 辨方向, is the first move in any undertaking.
+工作	gōng zuò	work, job — The everyday word for work, both the activity and the job itself, and how it differs from 上班 (to go to work), 职业 (occupation), and 事业 (career).
+良心	liáng xīn	conscience; innate moral sense — The good heart-mind: the Chinese word for conscience carries a philosophical claim that moral knowledge is a natural endowment, not an acquired rule.
+论语	Lún yǔ	The Analects of Confucius — The Analects: a thin book of recorded conversations and sayings that became the most quoted text in East Asian civilization, the entry point to Confucian thought, and the textbook of imperial education for two thousand years.
+文化	wén huà	culture; civilization — The word that names the organizing project of this entire site: and a concept that Chinese thought built from the ground up differently than the West did.
+文明	wén míng	civilization; cultivated and refined — 文明 names both a state of cultivated life (literacy, ritual, the refined arts) and the global concept of civilization. The two meanings share a single Chinese word, and the doubling is the whole story.
+中文	zhōng wén	Chinese Language and Writing — 中文 names both the written script and the spoken language: the most common term among learners, but it sits alongside 汉语, 普通话, and 汉字 in a system of names that carries real distinctions.
 迷途知返	mí tú zhī fǎn	To Realise You Are Lost and Turn Back — Four characters that describe one of the most human experiences: taking a wrong road, recognising it, and finding the way home. The Chinese idiom for course-correction done with dignity.
 青出于蓝	qīng chū yú lán	The Student Surpasses the Teacher — Indigo is made from the indigo plant, yet it is bluer than the plant itself. Xunzi's image for the student who surpasses the teacher through sustained effort.
 万丈高楼平地起	wàn zhàng gāo lóu píng dì qǐ	A tower ten thousand zhang tall rises from flat ground — The folk proverb that answers impatience: every immeasurable height begins on ordinary earth.
-可能	kěnéng	maybe, possible — The all-purpose word for possibility, working as adverb, adjective, and noun, and how it differs from 也许, 或许, 大概, and the modal 会.
-为什么	wèishénme	why — The neutral question word for cause and reason, how to answer it with 因为 or 为了, and how a plain 为什么 differs from the surprised 怎么 and the purpose-asking 为了什么.
+可能	kěn éng	maybe, possible — The all-purpose word for possibility, working as adverb, adjective, and noun, and how it differs from 也许, 或许, 大概, and the modal 会.
+为什么	wèi shén me	why — The neutral question word for cause and reason, how to answer it with 因为 or 为了, and how a plain 为什么 differs from the surprised 怎么 and the purpose-asking 为了什么.
 因为…所以	yīn wèi suǒ yǐ	because…therefore — The causal conjunction pair: 因为 states the cause and 所以 announces the result, forming a two-clause logical structure that Chinese uses more explicitly than English.
-越来越	yuèláiyuè	more and more; increasingly — The degree escalation pattern: expressing a quality that grows continuously over time.
+越来越	yu è lái yu è	more and more; increasingly — The degree escalation pattern: expressing a quality that grows continuously over time.

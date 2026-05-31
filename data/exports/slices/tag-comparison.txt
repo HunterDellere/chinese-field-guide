@@ -1,8 +1,9 @@
+//角落書屋/Slices/Comparison
 更	gèng	even more; to change; night watch — A character that split across two readings: the comparative pulse of spoken Mandarin and the sonic clock of premodern China.
-越	yuè	to cross over, to surpass — The character of crossing-and-exceeding: a foot-radical verb that travels from "stride over a barrier" to "the more, the more" to a Chinese state name and a national poetic gesture.
-比较	bǐjiào	to compare; relatively, fairly — Compare and qualify: the word that measures differences and hedges claims in everyday Mandarin.
+越	yu è	to cross over, to surpass — The character of crossing-and-exceeding: a foot-radical verb that travels from "stride over a barrier" to "the more, the more" to a Chinese state name and a national poetic gesture.
+比较	bǐ jiào	to compare; relatively, fairly — Compare and qualify: the word that measures differences and hedges claims in everyday Mandarin.
 还	hái	still, also, even: the continuative adverb — One adverb, four distinct jobs, and a single thread connecting all of them: something continues past the expected boundary.
-一点儿 / 有点儿	yìdiǎnr / yǒudiǎnr	a little — The classic confusion pair: 有点儿 comes before an adjective and leans negative ("a bit too…"), while 一点儿 comes after and is neutral ("a little more").
-一样 / 像	yíyàng / xiàng	same and similar — How to say two things are the same (A 跟 B 一样) or alike (A 像 B), and how this differs from the unequal comparison with 比.
-与其…不如	yǔqí bùrú	rather than … it would be better to — Comparative preference construction: the most elegant way to argue for one choice over another.
-越来越	yuèláiyuè	more and more; increasingly — The degree escalation pattern: expressing a quality that grows continuously over time.
+一点儿 / 有点儿	yì diǎn r / yǒu diǎn r	a little — The classic confusion pair: 有点儿 comes before an adjective and leans negative ("a bit too…"), while 一点儿 comes after and is neutral ("a little more").
+一样 / 像	yí yàng / xiàng	same and similar — How to say two things are the same (A 跟 B 一样) or alike (A 像 B), and how this differs from the unequal comparison with 比.
+与其…不如	yǔ qí bù rú	rather than … it would be better to — Comparative preference construction: the most elegant way to argue for one choice over another.
+越来越	yu è lái yu è	more and more; increasingly — The degree escalation pattern: expressing a quality that grows continuously over time.

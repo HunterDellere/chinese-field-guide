@@ -1,3 +1,4 @@
+//角落書屋/Characters
 爱	ài	love, to love, to cherish — Love in all its forms: romantic, familial, and the Confucian ethic of universal benevolence.
 白	bái	white, clear, plain, in vain — Sunlight on a single point. The character that names the color of mourning, the color of clarity, the empty plate, and the speech that hides nothing.
 百	bǎi	hundred; all kinds of — 百姓, the hundred surnames, is classical Chinese for the common people, because the full range of ordinary family names stands in for everyone who is not nobility.
@@ -121,7 +122,7 @@
 新	xīn	new; fresh; recently; novel — Chopping fresh wood with an axe: the character whose compounds span New Year greetings, fresh produce, marriage, and the great question of what counts as modern.
 信	xìn	trust, faith, credibility — A person standing by their word: one of the most visually transparent characters in the language, and the virtue that holds every contract, conversation, and relationship together.
 行	xíng	to walk, to act, a row, a trade — One of the great polyphonic characters: xíng "to walk; to act; conduct" and háng "row; profession; firm." A pictograph of a four-way crossroads, the place where walking and the world are organized.
-学	xué	to study, to learn, learning — Hands guiding a child beneath a roof: the character for learning as both action and institution.
+学	xu é	to study, to learn, learning — Hands guiding a child beneath a roof: the character for learning as both action and institution.
 言	yán	speech, word, language — The root of every word about words: the mouth open, the tongue moving, the speech rising.
 眼	yǎn	eye, glance — The everyday word for eye, and by extension any small opening, any moment of looking, any judgment made through sight. The body-part counterpart to literary 目.
 要	yào	to want, must, essential — Want, need, must, and will: the grammar engine disguised as a single character.
@@ -136,8 +137,8 @@
 语	yǔ	language, speech, words — Speech radical plus the phonetic 吾 (I, me): the character for language carries the self within it, encoding the idea that language is the medium through which the self speaks to the world.
 玉	yù	jade, precious — The material of kingship and moral cultivation: three jade discs on a cord, a glyph almost identical to king, the stone that Confucius said was virtue made visible.
 远	yuǎn	far, distant, remote — Long robes trailing as you walk away: distance encoded in motion, and the ambivalence of far-off places in Chinese thought.
-月	yuè	moon, month — A crescent moon in profile, and one of the most poetically charged characters in Chinese literature.
-越	yuè	to cross over, to surpass — The character of crossing-and-exceeding: a foot-radical verb that travels from "stride over a barrier" to "the more, the more" to a Chinese state name and a national poetic gesture.
+月	yu è	moon, month — A crescent moon in profile, and one of the most poetically charged characters in Chinese literature.
+越	yu è	to cross over, to surpass — The character of crossing-and-exceeding: a foot-radical verb that travels from "stride over a barrier" to "the more, the more" to a Chinese state name and a national poetic gesture.
 云	yún	cloud — The simplified 云 is older than the traditional 雲, a rare case where the modern form recovers the ancient one.
 再	zài	again, then, further — The adverb that sequences and repeats: again, one more time, and the subtle art of "and then."
 在	zài	to be at, located, in progress — The character that locates: a seedling rooted in earth, expanded into location, preposition, and progressive aspect.

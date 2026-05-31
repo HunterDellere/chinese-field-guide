@@ -1,11 +1,12 @@
+//角落書屋/Slices/Time
 后	hòu	back, behind, after; empress — One simplified character collapsed two completely separate traditional forms: 後 (a trailing foot in motion) and 后 (a commanding mouth), binding the spatial sense of behind with the imperial sense of empress in a single glyph.
 明	míng	bright, clear, tomorrow — Sun and moon combined: brightness, clarity, dawn, and understanding.
 前	qián	front, before, forward; former — Chinese places the past in front (前) and the future behind: the known faces you while the unknown approaches from behind, the inverse of the English spatial metaphor for time.
 时	shí	time, hour, season — The sun moving: time as something visible, measurable, and morally weighted.
-月	yuè	moon, month — A crescent moon in profile, and one of the most poetically charged characters in Chinese literature.
+月	yu è	moon, month — A crescent moon in profile, and one of the most poetically charged characters in Chinese literature.
 再	zài	again, then, further — The adverb that sequences and repeats: again, one more time, and the subtle art of "and then."
-功夫	gōngfu	effort, skill over time — Mastery earned through time: martial arts is the paradigm case, but the word covers any deeply cultivated skill.
-时候	shíhou	time, moment — The everyday word for a point in time, and the indispensable 的时候 ("when") pattern that every learner needs.
-时间	shíjiān	time — Time: the compound that anchors all temporal expression in Mandarin.
-现在	xiànzài	now — The everyday word for now, where it sits in a Chinese sentence, and how it differs from 目前 (at present), 此刻 (this very moment), and 如今 (nowadays).
-一会儿	yíhuìr	a short while — The everyday word for a little while, how it marks both a short duration and the near future, and how it differs from the verb-softener 一下 and from 等会儿.
+功夫	gōng fu	effort, skill over time — Mastery earned through time: martial arts is the paradigm case, but the word covers any deeply cultivated skill.
+时候	shí hou	time, moment — The everyday word for a point in time, and the indispensable 的时候 ("when") pattern that every learner needs.
+时间	shí jiān	time — Time: the compound that anchors all temporal expression in Mandarin.
+现在	xiàn zài	now — The everyday word for now, where it sits in a Chinese sentence, and how it differs from 目前 (at present), 此刻 (this very moment), and 如今 (nowadays).
+一会儿	yí huì r	a short while — The everyday word for a little while, how it marks both a short duration and the near future, and how it differs from the verb-softener 一下 and from 等会儿.

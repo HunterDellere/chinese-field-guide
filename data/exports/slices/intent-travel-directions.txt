@@ -1,3 +1,4 @@
+//角落書屋/Slices/Travel & Directions
 北	běi	north; northern; to flee — Two people standing back-to-back: the direction of cold and turning away that became the name of China's capital.
 出	chū	to exit, to emerge, to produce — 出 is two plants growing upward out of the earth: emergence itself written as a glyph, from physical exits to publication to standing out from the crowd.
 到	dào	to arrive, to reach; to — As a resultative complement suffix, 到 converts any action verb into a claim of completion: 听到 means not just hearing but hearing that arrived, perception proven by contact.
@@ -24,31 +25,31 @@
 行	xíng	to walk, to act, a row, a trade — One of the great polyphonic characters: xíng "to walk; to act; conduct" and háng "row; profession; firm." A pictograph of a four-way crossroads, the place where walking and the world are organized.
 右	yòu	right; to assist; to favor — A right hand raised to a mouth: the hand that feeds and speaks, whose authority in Chinese extended to favoring, protecting, and placing the highest things to the right of the seat.
 远	yuǎn	far, distant, remote — Long robes trailing as you walk away: distance encoded in motion, and the ambivalence of far-off places in Chinese thought.
-越	yuè	to cross over, to surpass — The character of crossing-and-exceeding: a foot-radical verb that travels from "stride over a barrier" to "the more, the more" to a Chinese state name and a national poetic gesture.
+越	yu è	to cross over, to surpass — The character of crossing-and-exceeding: a foot-radical verb that travels from "stride over a barrier" to "the more, the more" to a Chinese state name and a national poetic gesture.
 走	zǒu	to walk, to go, to leave — A figure in motion with feet below: the basic verb of movement that Chinese uses where English uses dozens of different words.
 足	zú	foot; sufficient; enough — The foot that became the word for sufficiency, and the radical anchoring every character involving legs, running, and roads.
 左	zuǒ	left; unorthodox; to assist — A left hand holding a carpenter's square: the assisting hand at the ruler, and by extension the word for unorthodox, heterodox, and everything that deviates from the orthodox path.
-茶道	chádào	the way of tea — From wild forest leaf to civilizational ritual: how tea became China's quintessential art of presence.
-道德	dàodé	morality, ethics, virtue — The compound at the center of Chinese moral philosophy: the Way and its virtue, inseparable and mutually defining.
-东西	dōngxi	things — East-west as the word for 'stuff': a window into directional cosmology.
-方向	fāngxiàng	direction; orientation — 方向 is the compass-word that holds together physical heading, life direction, political orientation, and the deeply Chinese sense that getting your bearings: 辨方向, is the first move in any undertaking.
-江山	jiāngshān	rivers and mountains, the realm — The classical Chinese word for the nation: not a territory but a landscape; not a state but a living geography that dynasties rose and fell to possess.
-跨越	kuàyuè	to leap across, to span, to transcend — The compound that lets the Chinese language span gaps: physical, historical, technological, generational. The verb of choice when "越长城" is read figuratively.
-然后	ránhòu	then; after that — The everyday sequence word for "then, after that," the 先…然后… frame for ordering steps, its overuse as a spoken filler, and how it differs from 接着, 后来, and 于是.
-山水	shānshuǐ	mountains and water; the landscape — The paired word that names the Chinese landscape: not "scenery" in the Western sense, but a cosmological pairing of the still and the flowing that became the central subject of a thousand years of painting and poetry.
-山水画	shānshuǐhuà	Chinese Landscape Painting — Mountains and waters as a cosmological pair -- the genre that made ink the equal of philosophy.
-丝绸之路	sīchóu zhī lù	the Silk Road — The term Silk Road was coined by a German geographer in 1877: the Chinese themselves had no single name for the trade network that defined their contact with the world for a millennium.
-天下	tiānxià	all under heaven — The pre-nation-state Chinese political imagination: the civilized world.
-长城	Chángchéng	the Great Wall — A series of fortification systems built across multiple dynasties, whose most visible sections are Ming-era brick: not the continuous ancient rampart of popular imagination.
-知道	zhīdào	to know — The everyday verb for knowing a fact, and how it differs from 认识 (to be acquainted with) and 了解 (to understand deeply).
-中国	Zhōngguó	the Middle Kingdom; China — Two characters older than the country they now name. 中 (center) and 国 (state) joined three thousand years ago to mean "the central states"; the modern country took the phrase for itself only in the 19th century.
+茶道	chá dào	the way of tea — From wild forest leaf to civilizational ritual: how tea became China's quintessential art of presence.
+道德	dào dé	morality, ethics, virtue — The compound at the center of Chinese moral philosophy: the Way and its virtue, inseparable and mutually defining.
+东西	dōng xi	things — East-west as the word for 'stuff': a window into directional cosmology.
+方向	fāng xiàng	direction; orientation — 方向 is the compass-word that holds together physical heading, life direction, political orientation, and the deeply Chinese sense that getting your bearings: 辨方向, is the first move in any undertaking.
+江山	jiāng shān	rivers and mountains, the realm — The classical Chinese word for the nation: not a territory but a landscape; not a state but a living geography that dynasties rose and fell to possess.
+跨越	kuà yu è	to leap across, to span, to transcend — The compound that lets the Chinese language span gaps: physical, historical, technological, generational. The verb of choice when "越长城" is read figuratively.
+然后	rán hòu	then; after that — The everyday sequence word for "then, after that," the 先…然后… frame for ordering steps, its overuse as a spoken filler, and how it differs from 接着, 后来, and 于是.
+山水	shān shuǐ	mountains and water; the landscape — The paired word that names the Chinese landscape: not "scenery" in the Western sense, but a cosmological pairing of the still and the flowing that became the central subject of a thousand years of painting and poetry.
+山水画	shān shuǐ huà	Chinese Landscape Painting — Mountains and waters as a cosmological pair -- the genre that made ink the equal of philosophy.
+丝绸之路	sī chóu zhī lù	the Silk Road — The term Silk Road was coined by a German geographer in 1877: the Chinese themselves had no single name for the trade network that defined their contact with the world for a millennium.
+天下	tiān xià	all under heaven — The pre-nation-state Chinese political imagination: the civilized world.
+长城	Cháng chéng	the Great Wall — A series of fortification systems built across multiple dynasties, whose most visible sections are Ming-era brick: not the continuous ancient rampart of popular imagination.
+知道	zhī dào	to know — The everyday verb for knowing a fact, and how it differs from 认识 (to be acquainted with) and 了解 (to understand deeply).
+中国	Zhōng guó	the Middle Kingdom; China — Two characters older than the country they now name. 中 (center) and 国 (state) joined three thousand years ago to mean "the central states"; the modern country took the phrase for itself only in the 19th century.
 东施效颦	Dōng Shī xiào pín	to imitate blindly without understanding, and make things worse — A homely woman copies Xi Shi's famous frown and clears the street: Zhuangzi's parable about form without essence.
 山清水秀	shān qīng shuǐ xiù	Mountains Clear, Waters Lovely — Clear mountains, lovely waters. The standard Chinese phrase for a picturesque landscape: four characters that compress the whole aesthetic vocabulary of natural beauty.
 愚公移山	yú gōng yí shān	The Foolish Old Man Moves the Mountains — Two mountains blocked his door. He and his sons began to move them, one basket at a time. A mocker laughed. He said: when I die my sons will continue; when they die, their sons.
 来	lái / qù	去 · directional complements — 上来, 下去, 出去, 进来: the motion complement system mapped.
 离	lí	away from; distance — The coverb for distance and separation: the A 离 B + distance pattern for "how far", the verb sense "to leave / part from", and how 离 differs from 从 and 到 in marking space and time.
-起来	qǐlái	directional complement: upward, inward, beginning — The most versatile directional complement in Mandarin: three distinct grammatical lives.
+起来	qǐ lái	directional complement: upward, inward, beginning — The most versatile directional complement in Mandarin: three distinct grammatical lives.
 往	wǎng	toward; to head for — The directional coverb for "toward", the 往 + direction + verb pattern, the verb sense "to go / in the past", and how 往 differs from 向 and 朝 for facing and motion.
-一下	yíxià	the verb-softener — The verbal-quantity word that makes an action brief and casual, how verb + 一下 softens a request, and how it differs from verb reduplication and from the time-word 一会儿.
-越来越	yuèláiyuè	more and more; increasingly — The degree escalation pattern: expressing a quality that grows continuously over time.
+一下	yí xià	the verb-softener — The verbal-quantity word that makes an action brief and casual, how verb + 一下 softens a request, and how it differs from verb reduplication and from the time-word 一会儿.
+越来越	yu è lái yu è	more and more; increasingly — The degree escalation pattern: expressing a quality that grows continuously over time.
 在	zài	location, existence, and the progressive — One of the busiest words in Mandarin: the verb "to be at," the location coverb "at/in," and the progressive marker for ongoing action.

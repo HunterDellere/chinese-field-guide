@@ -1,10 +1,11 @@
+//角落書屋/Slices/Aspect
 在	zài	to be at, located, in progress — The character that locates: a seedling rooted in earth, expanded into location, preposition, and progressive aspect.
-正在	zhèngzài	currently doing, progressive aspect — The primary progressive marker in Mandarin -- placed before a verb to signal an action caught in mid-motion, exactly now, still in progress.
+正在	zhèng zài	currently doing, progressive aspect — The primary progressive marker in Mandarin -- placed before a verb to signal an action caught in mid-motion, exactly now, still in progress.
 过	guò / guo	the experiential aspect marker — The particle that says 'I have ever done this'. Not when, not how often, just that it once happened. The most-confused pair with 了.
 还	hái	still, also, even: the continuative adverb — One adverb, four distinct jobs, and a single thread connecting all of them: something continues past the expected boundary.
 了	le	the perfective particle — Perfective aspect vs. change-of-state: the single most-confused particle.
-起来	qǐlái	directional complement: upward, inward, beginning — The most versatile directional complement in Mandarin: three distinct grammatical lives.
-一边…一边	yībiān yībiān	while doing; at the same time — Simultaneous actions: the frame for describing two things happening at once.
-一下	yíxià	the verb-softener — The verbal-quantity word that makes an action brief and casual, how verb + 一下 softens a request, and how it differs from verb reduplication and from the time-word 一会儿.
+起来	qǐ lái	directional complement: upward, inward, beginning — The most versatile directional complement in Mandarin: three distinct grammatical lives.
+一边…一边	yī biān yī biān	while doing; at the same time — Simultaneous actions: the frame for describing two things happening at once.
+一下	yí xià	the verb-softener — The verbal-quantity word that makes an action brief and casual, how verb + 一下 softens a request, and how it differs from verb reduplication and from the time-word 一会儿.
 在	zài	location, existence, and the progressive — One of the busiest words in Mandarin: the verb "to be at," the location coverb "at/in," and the progressive marker for ongoing action.
 着	zhe	the continuous aspect marker — Three distinct jobs: holding a state, linking two actions, and commanding attention. All from a single particle that beginners collapse into one.

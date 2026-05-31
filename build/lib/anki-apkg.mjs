@@ -236,7 +236,7 @@ export async function buildApkg({ deckName, cards }) {
       const flds = (c.front || '') + '\x1f' + (c.back || '');
       const tagText = (c.tags && c.tags.length) ? ' ' + c.tags.join(' ') + ' ' : '';
       insertNote.run(
-        noteId, newGuid(), mid + 1, now, tagText, flds,
+        noteId, newGuid(), mid, now, tagText, flds,
         c.front || '', fieldChecksum(c.front || '')
       );
       insertCard.run(cardId, noteId, deckId + 1, now, i);

@@ -1,3 +1,4 @@
+//角落書屋/Slices/HSK 3
 必	bì	certainly; must; necessarily — A character rooted in the image of a blade that divides without exception: certainty as the sharpness that leaves no room for maybe.
 变	biàn	to change, to transform — The character at the heart of the I Ching, the dynastic cycle, and the modern vocabulary of reform: change as the one constant.
 茶	chá	tea — The character that gave the world its word for tea: a grass over wood over man, a plant that shaped civilization, and the locus of China's richest material culture.
@@ -25,21 +26,21 @@
 王	wáng	king — Three horizontals joined by one vertical: the ruler who connects heaven, earth, and humanity. Also the most common Chinese surname, and a radical that is secretly 玉 (jade) in disguise.
 屋	wū	room, house, dwelling — Room, dwelling, and the human need for shelter: the character at home.
 义	yì	righteousness, duty, justice — The Confucian virtue of doing what is morally right, and the simplification that erased a sheep, a self, and the entire picture of what righteous form looks like.
-必须	bìxū	must, have to (the obligation modal) — 必须 is the strongest of the everyday modal verbs of obligation: a non-negotiable requirement that the speaker presents as not-up-for-discussion.
-茶道	chádào	the way of tea — From wild forest leaf to civilizational ritual: how tea became China's quintessential art of presence.
-茶具	cháju	Tea Implements — The vessels, tools, and objects of the tea table: from the Yixing purple clay teapot to the fairness pitcher, each implement with a name, a function, and an aesthetic logic.
-产品	chǎnpǐn	product, manufactured good — The standard Chinese word for product: what production yields and commerce moves. From factory floor to digital marketplace, 产品 names the output of organized human effort.
-风水	fēngshuǐ	wind and water — Geomancy, qi flow, and the cosmological logic of favorable siting.
-风俗	fēngsú	customs, traditions, folk practices — The wind of culture and the ways of the people: how 风俗 differs from 习惯 and why the distinction matters.
-工夫茶	gōngfu chá	Gongfu Tea — Tea prepared with skill and time: the Southern Chinese brewing method that defines serious tea culture, built on small vessels, multiple short steeps, and total attention.
-节气	jiéqì	the 24 solar terms — China's ancient agricultural calendar: 24 precise moments that mark the turning of the year, still shaping food, medicine, and daily life.
-客气	kèqi	politeness, ceremony — The polite manners owed to guests: and the gentle dance of refusal, insistence, and ritual modesty that runs through every Chinese social interaction.
-气功	qìgōng	qigong — Cultivating the vital breath: China's ancient practice of aligning body, breath, and mind.
-认真	rènzhēn	earnest, conscientious, taking it seriously — To recognize the 真 of a thing and engage with it on its own terms: the everyday word for taking work, study, and other people seriously rather than going through motions.
-神明	shénmíng	gods, spirits, deities; divine intelligence — The generic term for any deity in the Chinese religious world: and, in classical philosophy, the luminous intelligence that distinguishes the divine from the merely powerful.
-生产	shēngchǎn	to produce, production, manufacturing — The foundational act of economic life: and, in China's Marxist political vocabulary, the act from which all social relations flow. Life gives rise to production; production sustains life.
-书法	shūfǎ	calligraphy — The art where writing becomes a performance of character: and why the Chinese brush is a philosophical instrument.
+必须	bì xū	must, have to (the obligation modal) — 必须 is the strongest of the everyday modal verbs of obligation: a non-negotiable requirement that the speaker presents as not-up-for-discussion.
+茶道	chá dào	the way of tea — From wild forest leaf to civilizational ritual: how tea became China's quintessential art of presence.
+茶具	chá ju	Tea Implements — The vessels, tools, and objects of the tea table: from the Yixing purple clay teapot to the fairness pitcher, each implement with a name, a function, and an aesthetic logic.
+产品	chǎn pǐn	product, manufactured good — The standard Chinese word for product: what production yields and commerce moves. From factory floor to digital marketplace, 产品 names the output of organized human effort.
+风水	fēng shuǐ	wind and water — Geomancy, qi flow, and the cosmological logic of favorable siting.
+风俗	fēng sú	customs, traditions, folk practices — The wind of culture and the ways of the people: how 风俗 differs from 习惯 and why the distinction matters.
+工夫茶	gōng fu chá	Gongfu Tea — Tea prepared with skill and time: the Southern Chinese brewing method that defines serious tea culture, built on small vessels, multiple short steeps, and total attention.
+节气	jié qì	the 24 solar terms — China's ancient agricultural calendar: 24 precise moments that mark the turning of the year, still shaping food, medicine, and daily life.
+客气	kè qi	politeness, ceremony — The polite manners owed to guests: and the gentle dance of refusal, insistence, and ritual modesty that runs through every Chinese social interaction.
+气功	qì gōng	qigong — Cultivating the vital breath: China's ancient practice of aligning body, breath, and mind.
+认真	rèn zhēn	earnest, conscientious, taking it seriously — To recognize the 真 of a thing and engage with it on its own terms: the everyday word for taking work, study, and other people seriously rather than going through motions.
+神明	shén míng	gods, spirits, deities; divine intelligence — The generic term for any deity in the Chinese religious world: and, in classical philosophy, the luminous intelligence that distinguishes the divine from the merely powerful.
+生产	shēng chǎn	to produce, production, manufacturing — The foundational act of economic life: and, in China's Marxist political vocabulary, the act from which all social relations flow. Life gives rise to production; production sustains life.
+书法	shū fǎ	calligraphy — The art where writing becomes a performance of character: and why the Chinese brush is a philosophical instrument.
 义	yì	Righteousness: The Second Constant — Doing what is right because it is right: 义 as the enacted path of Confucian ethics, the constant that gives 仁 its direction.
-意思	yìsi	meaning, intention — Meaning, interest, charm, and the gift-giving idiom 意思意思.
-知道	zhīdào	to know — The everyday verb for knowing a fact, and how it differs from 认识 (to be acquainted with) and 了解 (to understand deeply).
-叶公好龙	Yègōng hào lóng	Lord Ye Loves Dragons — He decorated his palace with dragons, until a real one appeared. The idiom for loving what you only love in the abstract.
+意思	yì si	meaning, intention — Meaning, interest, charm, and the gift-giving idiom 意思意思.
+知道	zhī dào	to know — The everyday verb for knowing a fact, and how it differs from 认识 (to be acquainted with) and 了解 (to understand deeply).
+叶公好龙	Yè gōng hào lóng	Lord Ye Loves Dragons — He decorated his palace with dragons, until a real one appeared. The idiom for loving what you only love in the abstract.

@@ -22,7 +22,8 @@
  *
  * Pleco import: open Pleco → Settings → Flashcards → Import → choose
  * pleco-*.txt → field order "Simplified, Pinyin, Definition", separator
- * "Tab".
+ * "Tab". Each file starts with a `//角落書屋/<sub>` header so cards land
+ * in a named folder rather than Pleco's default catch-all category.
  *
  * Anki TSV import: File → Import → choose anki-*.tsv → set Type to Basic
  * (or a custom note type) → map columns to fields → Import.
@@ -36,6 +37,7 @@ import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { buildApkg } from './lib/anki-apkg.mjs';
 import { buildSlices, buildCharHskMap, normalizeHsk } from './lib/export-slices.mjs';
+import { splitToSyllables } from './lib/pinyin.mjs';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const ENTRIES = JSON.parse(readFileSync(join(ROOT, 'data/entries.json'), 'utf8'));
@@ -149,12 +151,48 @@ function tsvEscape(s) {
   return String(s || '').replace(/[\t\r\n]/g, ' ').replace(/\s+/g, ' ').trim();
 }
 
-function emitPleco(cards, file) {
-  const lines = cards
+// Pleco renders pinyin per-syllable (tone colors, audio), so multi-syllable
+// pinyin must be space-separated. Source frontmatter writes vocab as one
+// token (`bǐjiào`) for prose display; expand here on the way out.
+function plecoPinyin(pinyin) {
+  const syllables = splitToSyllables(pinyin);
+  return syllables.length ? syllables.join(' ') : String(pinyin || '');
+}
+
+// Pleco honors `//Category/Subcategory` lines in its custom-card import,
+// filing the cards that follow under that category. Without one, every
+// card lands in Pleco's default catch-all, leaving the user to drag them
+// into folders by hand. Always prefix with a Jiǎoluò Shūwū namespace so
+// importing this deck never overwrites the user's existing categories.
+const PLECO_ROOT = '角落書屋';
+function plecoCategoryHeader(sub) {
+  return `//${PLECO_ROOT}/${sub}`;
+}
+
+function plecoRows(cards) {
+  return cards
     .filter(c => c.hanzi && c.pinyin)
-    .map(c => `${tsvEscape(c.hanzi)}\t${tsvEscape(c.pinyin)}\t${tsvEscape(plecoDefinition(c))}`);
-  writeFileSync(join(OUT_DIR, file), lines.join('\n') + '\n', 'utf8');
-  return lines.length;
+    .map(c => `${tsvEscape(c.hanzi)}\t${tsvEscape(plecoPinyin(c.pinyin))}\t${tsvEscape(plecoDefinition(c))}`);
+}
+
+function emitPleco(cards, file, categorySub) {
+  const rows = plecoRows(cards);
+  const body = categorySub
+    ? [plecoCategoryHeader(categorySub), ...rows]
+    : rows;
+  writeFileSync(join(OUT_DIR, file), body.join('\n') + '\n', 'utf8');
+  return rows.length;
+}
+
+function emitPlecoMulti(groups, file) {
+  const out = [];
+  for (const { cards, sub } of groups) {
+    const rows = plecoRows(cards);
+    if (!rows.length) continue;
+    out.push(plecoCategoryHeader(sub), ...rows);
+  }
+  writeFileSync(join(OUT_DIR, file), out.join('\n') + '\n', 'utf8');
+  return out.filter(line => !line.startsWith('//')).length;
 }
 
 // ────────────────────── Anki TSV ──────────────────────
@@ -181,14 +219,17 @@ function emitAnkiTsv(cards, file, columns) {
 
 const { characters, vocab, chengyu, grammar } = extractCards();
 
-const plecoCharCount  = emitPleco(characters, 'pleco-characters.txt');
-const plecoVocabCount = emitPleco(vocab,      'pleco-vocab.txt');
-const plecoCyCount    = emitPleco(chengyu,    'pleco-chengyu.txt');
+const plecoCharCount  = emitPleco(characters, 'pleco-characters.txt', 'Characters');
+const plecoVocabCount = emitPleco(vocab,      'pleco-vocab.txt',      'Vocabulary');
+const plecoCyCount    = emitPleco(chengyu,    'pleco-chengyu.txt',    'Chengyu');
 
-// pleco-all is the concat of the three section files, sorted within each
-// category. Pleco's import doesn't have a "category" column, so we use
-// the order to group: characters first, then vocab, then chengyu.
-emitPleco([...characters, ...vocab, ...chengyu], 'pleco-all.txt');
+// pleco-all keeps each type in its own Pleco category, so users importing
+// the combined file get three pre-sorted folders rather than one bucket.
+emitPlecoMulti([
+  { cards: characters, sub: 'Characters' },
+  { cards: vocab,      sub: 'Vocabulary' },
+  { cards: chengyu,    sub: 'Chengyu' }
+], 'pleco-all.txt');
 
 const ankiTagify = c => (c.tags || []).join(' ');
 const ankiCharCount = emitAnkiTsv(characters, 'anki-characters.tsv', [
@@ -359,12 +400,13 @@ async function emitSliceApkg(slice) {
 }
 
 function emitSlicePleco(slice) {
-  const lines = slice.cards
-    .filter(c => c.hanzi && c.pinyin)
-    .map(c => `${tsvEscape(c.hanzi)}\t${tsvEscape(c.pinyin)}\t${tsvEscape(plecoDefinition(c))}`);
+  const rows = plecoRows(slice.cards);
+  // File each slice under "Slices/<slice-name>" so several imported slices
+  // accumulate as siblings instead of trampling each other.
+  const body = [plecoCategoryHeader(`Slices/${slice.name}`), ...rows];
   const file = `slices/${slice.slug}.txt`;
-  writeFileSync(join(OUT_DIR, file), lines.join('\n') + '\n', 'utf8');
-  return { file, count: lines.length };
+  writeFileSync(join(OUT_DIR, file), body.join('\n') + '\n', 'utf8');
+  return { file, count: rows.length };
 }
 
 const sliceEntries = [];

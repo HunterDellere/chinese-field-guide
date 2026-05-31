@@ -1,27 +1,28 @@
+//角落書屋/Slices/Time & Tense
 更	gèng	even more; to change; night watch — A character that split across two readings: the comparative pulse of spoken Mandarin and the sonic clock of premodern China.
 后	hòu	back, behind, after; empress — One simplified character collapsed two completely separate traditional forms: 後 (a trailing foot in motion) and 后 (a commanding mouth), binding the spatial sense of behind with the imperial sense of empress in a single glyph.
 明	míng	bright, clear, tomorrow — Sun and moon combined: brightness, clarity, dawn, and understanding.
 前	qián	front, before, forward; former — Chinese places the past in front (前) and the future behind: the known faces you while the unknown approaches from behind, the inverse of the English spatial metaphor for time.
 时	shí	time, hour, season — The sun moving: time as something visible, measurable, and morally weighted.
-月	yuè	moon, month — A crescent moon in profile, and one of the most poetically charged characters in Chinese literature.
+月	yu è	moon, month — A crescent moon in profile, and one of the most poetically charged characters in Chinese literature.
 再	zài	again, then, further — The adverb that sequences and repeats: again, one more time, and the subtle art of "and then."
 在	zài	to be at, located, in progress — The character that locates: a seedling rooted in earth, expanded into location, preposition, and progressive aspect.
-功夫	gōngfu	effort, skill over time — Mastery earned through time: martial arts is the paradigm case, but the word covers any deeply cultivated skill.
-然后	ránhòu	then; after that — The everyday sequence word for "then, after that," the 先…然后… frame for ordering steps, its overuse as a spoken filler, and how it differs from 接着, 后来, and 于是.
-时候	shíhou	time, moment — The everyday word for a point in time, and the indispensable 的时候 ("when") pattern that every learner needs.
-时间	shíjiān	time — Time: the compound that anchors all temporal expression in Mandarin.
-现在	xiànzài	now — The everyday word for now, where it sits in a Chinese sentence, and how it differs from 目前 (at present), 此刻 (this very moment), and 如今 (nowadays).
-一会儿	yíhuìr	a short while — The everyday word for a little while, how it marks both a short duration and the near future, and how it differs from the verb-softener 一下 and from 等会儿.
-正在	zhèngzài	currently doing, progressive aspect — The primary progressive marker in Mandarin -- placed before a verb to signal an action caught in mid-motion, exactly now, still in progress.
-终于	zhōngyú	finally, at last — The adverb for "finally, at last," used when something long-awaited or hard-won comes to pass, where it sits in a sentence, and how it differs from 最后, 总算, and 到底.
+功夫	gōng fu	effort, skill over time — Mastery earned through time: martial arts is the paradigm case, but the word covers any deeply cultivated skill.
+然后	rán hòu	then; after that — The everyday sequence word for "then, after that," the 先…然后… frame for ordering steps, its overuse as a spoken filler, and how it differs from 接着, 后来, and 于是.
+时候	shí hou	time, moment — The everyday word for a point in time, and the indispensable 的时候 ("when") pattern that every learner needs.
+时间	shí jiān	time — Time: the compound that anchors all temporal expression in Mandarin.
+现在	xiàn zài	now — The everyday word for now, where it sits in a Chinese sentence, and how it differs from 目前 (at present), 此刻 (this very moment), and 如今 (nowadays).
+一会儿	yí huì r	a short while — The everyday word for a little while, how it marks both a short duration and the near future, and how it differs from the verb-softener 一下 and from 等会儿.
+正在	zhèng zài	currently doing, progressive aspect — The primary progressive marker in Mandarin -- placed before a verb to signal an action caught in mid-motion, exactly now, still in progress.
+终于	zhōng yú	finally, at last — The adverb for "finally, at last," used when something long-awaited or hard-won comes to pass, where it sits in a sentence, and how it differs from 最后, 总算, and 到底.
 过	guò / guo	the experiential aspect marker — The particle that says 'I have ever done this'. Not when, not how often, just that it once happened. The most-confused pair with 了.
 还	hái	still, also, even: the continuative adverb — One adverb, four distinct jobs, and a single thread connecting all of them: something continues past the expected boundary.
 就 vs. 才	jiù / cái	sooner vs. later — The timing and emphasis pair: speaker attitude encoded in one syllable.
 了	le	the perfective particle — Perfective aspect vs. change-of-state: the single most-confused particle.
-没有	méiyǒu	negation of possession and past action — The two most important negation characters, 不 and 没, and why they cannot be swapped.
-起来	qǐlái	directional complement: upward, inward, beginning — The most versatile directional complement in Mandarin: three distinct grammatical lives.
-是…的	shì…de	the cleft construction — Focus and past-detail marking: the construction that trips every learner.
-一边…一边	yībiān yībiān	while doing; at the same time — Simultaneous actions: the frame for describing two things happening at once.
-一下	yíxià	the verb-softener — The verbal-quantity word that makes an action brief and casual, how verb + 一下 softens a request, and how it differs from verb reduplication and from the time-word 一会儿.
+没有	méi yǒu	negation of possession and past action — The two most important negation characters, 不 and 没, and why they cannot be swapped.
+起来	qǐ lái	directional complement: upward, inward, beginning — The most versatile directional complement in Mandarin: three distinct grammatical lives.
+是…的	shì … de	the cleft construction — Focus and past-detail marking: the construction that trips every learner.
+一边…一边	yī biān yī biān	while doing; at the same time — Simultaneous actions: the frame for describing two things happening at once.
+一下	yí xià	the verb-softener — The verbal-quantity word that makes an action brief and casual, how verb + 一下 softens a request, and how it differs from verb reduplication and from the time-word 一会儿.
 在	zài	location, existence, and the progressive — One of the busiest words in Mandarin: the verb "to be at," the location coverb "at/in," and the progressive marker for ongoing action.
 着	zhe	the continuous aspect marker — Three distinct jobs: holding a state, linking two actions, and commanding attention. All from a single particle that beginners collapse into one.

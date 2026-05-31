@@ -1,9 +1,10 @@
+//角落書屋/Slices/Conversational Chengyu
 班门弄斧	bān mén nòng fǔ	Showing Off Before the Master — Brandishing an axe at Lu Ban's door: the idiom for presuming to display skill before someone who has mastered it.
 东施效颦	Dōng Shī xiào pín	to imitate blindly without understanding, and make things worse — A homely woman copies Xi Shi's famous frown and clears the street: Zhuangzi's parable about form without essence.
 画蛇添足	huà shé tiān zú	Drawing Legs on a Snake — He finished first, so he kept drawing, and lost the prize. The idiom for ruining a good thing by overdoing it.
-君子不器	jūnzǐ bù qì	the exemplary person is not a vessel — Confucius says the junzi is not a utensil: not defined by function, not limited to one use. The Analects' argument against reducing a person to their usefulness.
+君子不器	jūn zǐ bù qì	the exemplary person is not a vessel — Confucius says the junzi is not a utensil: not defined by function, not limited to one use. The Analects' argument against reducing a person to their usefulness.
 刻舟求剑	kè zhōu qiú jiàn	Carving the Boat to Find the Sword — He marked the boat where his sword fell into the river. When the boat reached the shore, he dived where the mark was.
-矛盾	máodùn	Contradiction — The spear that can pierce anything meets the shield that can stop anything: the story behind China's word for contradiction.
+矛盾	máo dùn	Contradiction — The spear that can pierce anything meets the shield that can stop anything: the story behind China's word for contradiction.
 迷途知返	mí tú zhī fǎn	To Realise You Are Lost and Turn Back — Four characters that describe one of the most human experiences: taking a wrong road, recognising it, and finding the way home. The Chinese idiom for course-correction done with dignity.
 青出于蓝	qīng chū yú lán	The Student Surpasses the Teacher — Indigo is made from the indigo plant, yet it is bluer than the plant itself. Xunzi's image for the student who surpasses the teacher through sustained effort.
 塞翁失马	sài wēng shī mǎ	The Old Man at the Frontier Loses His Horse — His horse ran off. His neighbours grieved. He shrugged. The Daoist parable that became China's word for the unknowability of fortune.
@@ -14,7 +15,7 @@
 万丈高楼平地起	wàn zhàng gāo lóu píng dì qǐ	A tower ten thousand zhang tall rises from flat ground — The folk proverb that answers impatience: every immeasurable height begins on ordinary earth.
 亡羊补牢	wáng yáng bǔ láo	mend the sheep pen after the sheep is lost — From the Zhanguo Ce: a man loses sheep through a hole in his pen and is told he is too late to repair it. A neighbor corrects the fatalist: remediation after a loss is not too late, it is exactly right.
 误入歧途	wù rù qí tú	To Stray onto the Wrong Road — The four-character idiom for taking a wrong turn, whether morally, professionally, or literally. Where 迷途知返 describes the recovery, 误入歧途 describes the moment things went wrong.
-叶公好龙	Yègōng hào lóng	Lord Ye Loves Dragons — He decorated his palace with dragons, until a real one appeared. The idiom for loving what you only love in the abstract.
+叶公好龙	Yè gōng hào lóng	Lord Ye Loves Dragons — He decorated his palace with dragons, until a real one appeared. The idiom for loving what you only love in the abstract.
 一毛不拔	yī máo bù bá	Not Give Even a Hair — Refuse to give even a single hair from your body. Mencius's phrase for the Yangist philosophy of radical self-preservation, and the word for a miser that it became.
 愚公移山	yú gōng yí shān	The Foolish Old Man Moves the Mountains — Two mountains blocked his door. He and his sons began to move them, one basket at a time. A mocker laughed. He said: when I die my sons will continue; when they die, their sons.
 与时俱进	yǔ shí jù jìn	to advance together with the times — A classical phrase that became a political slogan in 2001, used to justify the Communist Party accommodating private enterprise, and criticized for justifying whatever the party currently does.

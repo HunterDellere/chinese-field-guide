@@ -1,3 +1,4 @@
+//角落書屋/Slices/HSK 4
 德	dé	virtue, moral power — Virtue not as rule-following but as accumulated moral power: what radiates from a person whose conduct has been straight long enough to become second nature.
 耳	ěr	ear; to hear; handle — The pictograph of an ear that anchors Chinese words for listening, fame, and the furred handles on bronze vessels.
 感	gǎn	to feel, to resonate — Feeling, perception, gratitude, and the cosmology of sympathetic resonance.
@@ -17,14 +18,14 @@
 云	yún	cloud — The simplified 云 is older than the traditional 雲, a rare case where the modern form recovers the ancient one.
 智	zhì	wisdom, moral intelligence — The Confucian virtue of knowing what is right to do; separately, the Buddhist prajñā that sees through the nature of things altogether.
 足	zú	foot; sufficient; enough — The foot that became the word for sufficiency, and the radical anchoring every character involving legs, running, and roads.
-道德	dàodé	morality, ethics, virtue — The compound at the center of Chinese moral philosophy: the Way and its virtue, inseparable and mutually defining.
-跨越	kuàyuè	to leap across, to span, to transcend — The compound that lets the Chinese language span gaps: physical, historical, technological, generational. The verb of choice when "越长城" is read figuratively.
+道德	dào dé	morality, ethics, virtue — The compound at the center of Chinese moral philosophy: the Way and its virtue, inseparable and mutually defining.
+跨越	kuà yu è	to leap across, to span, to transcend — The compound that lets the Chinese language span gaps: physical, historical, technological, generational. The verb of choice when "越长城" is read figuratively.
 礼	lǐ	ritual, propriety, gift, courtesy — The cosmic blueprint Confucius spent his life trying to restore: and why manners are a civilizational technology.
-礼貌	lǐmào	politeness, courteous manner — The everyday word for politeness: what 礼 (ritual propriety) becomes when it is shrunk down to the scale of ordinary social life. Polite forms, polite faces, and the precise way modern Chinese distinguishes 礼貌 from 客气, 礼节, and the older 礼 itself.
-命运	mìngyùn	fate, destiny — Fate, destiny, and the tension between cosmic order and human will.
-其实	qíshí	actually — The everyday adverb for "actually, in fact," used to correct an impression or reveal the real situation, and how it differs from 实际上, 事实上, and 本来.
-天命	tiānmìng	the Mandate of Heaven — The political and cosmological concept that legitimized three thousand years of Chinese dynasty: heaven's appointment of the rightful ruler.
-无为	wúwéi	non-action; acting in accord with nature — 无为 is the Daoist elimination of forced, ego-driven action: the master principle behind effortless effectiveness, sage governance, and Zhuangzi's cook whose knife stays forever sharp.
-智慧	zhìhuì	wisdom; prajna — 智慧 brings together Confucian moral discernment and Buddhist prajna under one compound: two traditions, one word, different objects of knowing.
+礼貌	lǐ mào	politeness, courteous manner — The everyday word for politeness: what 礼 (ritual propriety) becomes when it is shrunk down to the scale of ordinary social life. Polite forms, polite faces, and the precise way modern Chinese distinguishes 礼貌 from 客气, 礼节, and the older 礼 itself.
+命运	mìng yùn	fate, destiny — Fate, destiny, and the tension between cosmic order and human will.
+其实	qí shí	actually — The everyday adverb for "actually, in fact," used to correct an impression or reveal the real situation, and how it differs from 实际上, 事实上, and 本来.
+天命	tiān mìng	the Mandate of Heaven — The political and cosmological concept that legitimized three thousand years of Chinese dynasty: heaven's appointment of the rightful ruler.
+无为	wú wéi	non-action; acting in accord with nature — 无为 is the Daoist elimination of forced, ego-driven action: the master principle behind effortless effectiveness, sage governance, and Zhuangzi's cook whose knife stays forever sharp.
+智慧	zhì huì	wisdom; prajna — 智慧 brings together Confucian moral discernment and Buddhist prajna under one compound: two traditions, one word, different objects of knowing.
 画蛇添足	huà shé tiān zú	Drawing Legs on a Snake — He finished first, so he kept drawing, and lost the prize. The idiom for ruining a good thing by overdoing it.
-与其…不如	yǔqí bùrú	rather than … it would be better to — Comparative preference construction: the most elegant way to argue for one choice over another.
+与其…不如	yǔ qí bù rú	rather than … it would be better to — Comparative preference construction: the most elegant way to argue for one choice over another.

@@ -1,5 +1,6 @@
+//角落書屋/Slices/Measure Word Drill
 家	jiā	home, family — House, family, school of thought, nation (国家): the fractal of belonging.
 口	kǒu	mouth, opening, entrance — A simple rectangle for an open mouth: one of the most productive radicals in the script, present in hundreds of characters for speaking, eating, and openings.
 眼	yǎn	eye, glance — The everyday word for eye, and by extension any small opening, any moment of looking, any judgment made through sight. The body-part counterpart to literary 目.
-多少 / 几	duōshao / jǐ	how many, how much — The two question words for quantity: 几 for small countable numbers and 多少 for larger or unknown amounts, why 几 needs a measure word and 多少 may skip it, and how to ask prices and ages.
-量词	liàngcí	measure words — 个, 只, 条, 本, 张: the classifier taxonomy and the logic behind it.
+多少 / 几	duō shao / jǐ	how many, how much — The two question words for quantity: 几 for small countable numbers and 多少 for larger or unknown amounts, why 几 needs a measure word and 多少 may skip it, and how to ask prices and ages.
+量词	liàng cí	measure words — 个, 只, 条, 本, 张: the classifier taxonomy and the logic behind it.

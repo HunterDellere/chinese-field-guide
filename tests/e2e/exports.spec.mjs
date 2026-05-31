@@ -25,13 +25,54 @@ test.describe('Exports — static files', () => {
     const raw = readFileSync(join(process.cwd(), 'data/exports/pleco-characters.txt'), 'utf8');
     const lines = raw.split('\n').filter(Boolean);
     expect(lines.length).toBeGreaterThan(100);
+    let cardLines = 0;
     for (const line of lines) {
+      if (line.startsWith('//')) continue; // Pleco category header
+      cardLines++;
       const cols = line.split('\t');
       expect(cols, `bad columns in: ${line}`).toHaveLength(3);
       expect(cols[0]).not.toMatch(/\s{2,}/);
       expect(cols[1]).toBeTruthy();
       expect(cols[2]).toBeTruthy();
     }
+    expect(cardLines).toBeGreaterThan(100);
+  });
+
+  test('Pleco TSV files start with a //category header', () => {
+    for (const [name, expected] of [
+      ['pleco-characters.txt', '//角落書屋/Characters'],
+      ['pleco-vocab.txt',      '//角落書屋/Vocabulary'],
+      ['pleco-chengyu.txt',    '//角落書屋/Chengyu'],
+    ]) {
+      const raw = readFileSync(join(process.cwd(), 'data/exports', name), 'utf8');
+      expect(raw.split('\n')[0], name).toBe(expected);
+    }
+    // pleco-all.txt should contain all three Pleco category headers so the
+    // imported deck splits into folders rather than one giant bucket.
+    const all = readFileSync(join(process.cwd(), 'data/exports/pleco-all.txt'), 'utf8');
+    for (const sub of ['Characters', 'Vocabulary', 'Chengyu']) {
+      expect(all, `pleco-all.txt missing //${sub}`).toContain(`//角落書屋/${sub}`);
+    }
+  });
+
+  test('Pleco vocab pinyin is space-separated by syllable', () => {
+    // Vocab frontmatter uses concatenated pinyin ("bǐjiào") for prose
+    // display, but Pleco needs syllables space-separated to color tones
+    // and pronounce them correctly. Sample a few known multi-syllable
+    // entries and ensure the pinyin column has at least one space.
+    const raw = readFileSync(join(process.cwd(), 'data/exports/pleco-vocab.txt'), 'utf8');
+    const rows = raw.split('\n').filter(l => l && !l.startsWith('//'));
+    // Every multi-syllable hanzi (>= 2 CJK chars) should have a space in pinyin.
+    let multiSyl = 0;
+    for (const line of rows) {
+      const [hanzi, pinyin] = line.split('\t');
+      const hanziLen = (hanzi.match(/[一-鿿]/g) || []).length;
+      if (hanziLen >= 2) {
+        multiSyl++;
+        expect(pinyin, `vocab row ${hanzi}: pinyin "${pinyin}" should be space-separated`).toMatch(/\s/);
+      }
+    }
+    expect(multiSyl).toBeGreaterThan(20);
   });
 
   test('Anki TSV starts with #fields header and has consistent column count', () => {
@@ -49,6 +90,39 @@ test.describe('Exports — static files', () => {
     // Zip files start with 'PK\x03\x04'.
     expect(apkg.slice(0, 4).toString('ascii').slice(0, 2)).toBe('PK');
     expect(apkg.length).toBeGreaterThan(1000);
+  });
+
+  test('Anki .apkg every note.mid resolves to a registered model', async () => {
+    // Regression guard for an off-by-one where notes referenced `mid + 1`
+    // while only `mid` was registered. Anki refuses to import such decks
+    // with: "No such notetype: '<id>'  Please use Check Database".
+    const JSZip = (await import('jszip')).default;
+    const { createRequire } = await import('node:module');
+    const require = createRequire(import.meta.url);
+    const Database = require('better-sqlite3');
+    const { writeFileSync, unlinkSync } = await import('node:fs');
+    const { tmpdir } = await import('node:os');
+
+    for (const name of ['characters.apkg', 'vocab.apkg', 'chengyu.apkg', 'all.apkg']) {
+      const buf = readFileSync(join(process.cwd(), 'data/exports', name));
+      const zip = await JSZip.loadAsync(buf);
+      const dbBuf = await zip.file('collection.anki2').async('nodebuffer');
+      const tmp = join(tmpdir(), `apkg-check-${Date.now()}-${Math.random().toString(36).slice(2)}.db`);
+      writeFileSync(tmp, dbBuf);
+      try {
+        const db = new Database(tmp, { readonly: true });
+        const { models: modelsJson } = db.prepare('SELECT models FROM col').get();
+        const modelIds = new Set(Object.keys(JSON.parse(modelsJson)).map(Number));
+        const noteMids = db.prepare('SELECT DISTINCT mid FROM notes').all().map(r => r.mid);
+        db.close();
+        expect(noteMids.length, `${name}: no notes`).toBeGreaterThan(0);
+        for (const mid of noteMids) {
+          expect(modelIds.has(mid), `${name}: note.mid ${mid} not in models {${[...modelIds].join(',')}}`).toBe(true);
+        }
+      } finally {
+        unlinkSync(tmp);
+      }
+    }
   });
 });
 
@@ -105,7 +179,7 @@ test.describe('Exports — per-page buttons', () => {
     await expect(page.locator('.page-export')).toHaveCount(0);
   });
 
-  test('Pleco button triggers a single-line TSV download', async ({ page }) => {
+  test('Pleco button triggers a single-card TSV download with category header', async ({ page }) => {
     await page.goto('/pages/characters/dao4_%E9%81%93.html');
     const downloadPromise = page.waitForEvent('download');
     await page.click('[data-export="pleco"]');
@@ -115,8 +189,9 @@ test.describe('Exports — per-page buttons', () => {
     let body = '';
     for await (const chunk of stream) body += chunk;
     const lines = body.trim().split('\n');
-    expect(lines).toHaveLength(1);
-    const cols = lines[0].split('\t');
+    expect(lines).toHaveLength(2);
+    expect(lines[0]).toBe('//角落書屋/Characters');
+    const cols = lines[1].split('\t');
     expect(cols).toHaveLength(3);
     expect(cols[0]).toContain('道');
     expect(cols[1]).toMatch(/dào/i);

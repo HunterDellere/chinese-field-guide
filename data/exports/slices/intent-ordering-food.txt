@@ -1,12 +1,13 @@
+//角落書屋/Slices/Ordering Food
 茶	chá	tea — The character that gave the world its word for tea: a grass over wood over man, a plant that shaped civilization, and the locus of China's richest material culture.
 吃	chī	to eat — To eat, and the extraordinary range of Chinese life encoded in a single food verb.
 水	shuǐ	water — The first of the five elements, the radical that runs through hundreds of compounds, and the Daoist image of how to act in the world.
-茶道	chádào	the way of tea — From wild forest leaf to civilizational ritual: how tea became China's quintessential art of presence.
-茶具	cháju	Tea Implements — The vessels, tools, and objects of the tea table: from the Yixing purple clay teapot to the fairness pitcher, each implement with a name, a function, and an aesthetic logic.
-风水	fēngshuǐ	wind and water — Geomancy, qi flow, and the cosmological logic of favorable siting.
-工夫茶	gōngfu chá	Gongfu Tea — Tea prepared with skill and time: the Southern Chinese brewing method that defines serious tea culture, built on small vessels, multiple short steeps, and total attention.
-面子	miànzi	face, honor — Giving, losing, and saving face: the social grammar of dignity.
-山水	shānshuǐ	mountains and water; the landscape — The paired word that names the Chinese landscape: not "scenery" in the Western sense, but a cosmological pairing of the still and the flowing that became the central subject of a thousand years of painting and poetry.
-山水画	shānshuǐhuà	Chinese Landscape Painting — Mountains and waters as a cosmological pair -- the genre that made ink the equal of philosophy.
+茶道	chá dào	the way of tea — From wild forest leaf to civilizational ritual: how tea became China's quintessential art of presence.
+茶具	chá ju	Tea Implements — The vessels, tools, and objects of the tea table: from the Yixing purple clay teapot to the fairness pitcher, each implement with a name, a function, and an aesthetic logic.
+风水	fēng shuǐ	wind and water — Geomancy, qi flow, and the cosmological logic of favorable siting.
+工夫茶	gōng fu chá	Gongfu Tea — Tea prepared with skill and time: the Southern Chinese brewing method that defines serious tea culture, built on small vessels, multiple short steeps, and total attention.
+面子	miàn zi	face, honor — Giving, losing, and saving face: the social grammar of dignity.
+山水	shān shuǐ	mountains and water; the landscape — The paired word that names the Chinese landscape: not "scenery" in the Western sense, but a cosmological pairing of the still and the flowing that became the central subject of a thousand years of painting and poetry.
+山水画	shān shuǐ huà	Chinese Landscape Painting — Mountains and waters as a cosmological pair -- the genre that made ink the equal of philosophy.
 山清水秀	shān qīng shuǐ xiù	Mountains Clear, Waters Lovely — Clear mountains, lovely waters. The standard Chinese phrase for a picturesque landscape: four characters that compress the whole aesthetic vocabulary of natural beauty.
 亡羊补牢	wáng yáng bǔ láo	mend the sheep pen after the sheep is lost — From the Zhanguo Ce: a man loses sheep through a hole in his pen and is told he is too late to repair it. A neighbor corrects the fatalist: remediation after a loss is not too late, it is exactly right.

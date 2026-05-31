@@ -1,14 +1,15 @@
+//角落書屋/Slices/Buddhist Reader
 佛	fó	Buddha, the awakened — The character that carried an entire worldview across the Silk Road: etymology, Buddhism, the 佛-family of compounds.
 空	kōng	empty, sky, void; in vain — A cave with the work of hollowing inside it. The character that names the open sky, the empty room, the wasted afternoon, and the Buddhist śūnyatā at the heart of Chan.
 善	shàn	goodness; virtue; skilled — The character at the heart of Mencius argument that human nature is originally good: the moral sprouts waiting to be cultivated.
 西	xī	west; western — A bird settling into its nest at sunset: the direction that gave Chinese the word for "things" when it paired with east.
 智	zhì	wisdom, moral intelligence — The Confucian virtue of knowing what is right to do; separately, the Buddhist prajñā that sees through the nature of things altogether.
-般若	bōrě	prajñā; the Buddhist wisdom that sees emptiness — 般若 is the specific Buddhist wisdom that perceives the emptiness of self and phenomena: not knowledge, not cleverness, but the realization that dissolves clinging at its root.
-慈悲	cíbēi	compassion; mercy — Two Sanskrit terms fused into one Chinese compound: the wish that beings be happy and the wish that they be free from suffering: both directions of the same opening movement.
-轮回	lúnhuí	samsara; the cycle of rebirth — The Buddhist karmic wheel that turns through six realms of existence: the foundational concept that motivates all Buddhist practice as a path toward liberation.
-涅槃	nièpán	Nirvana; the extinction of craving and the end of rebirth — 涅槃 is the Buddhist soteriological terminus: the extinction of the fires of greed, hatred, and delusion, and the cessation of the karmic cycle that they fuel.
-菩萨	púsà	Bodhisattva — 菩萨 is the being who stands at the threshold of complete enlightenment and turns back: choosing to remain within the cycle of existence until every sentient being can be liberated alongside them.
-气功	qìgōng	qigong — Cultivating the vital breath: China's ancient practice of aligning body, breath, and mind.
-人间	rénjiān	the human world; the mortal realm — The world of people: where karma plays out, where flowers fade in April, and where the only beings who can hear the Dharma are born.
-缘分	yuánfèn	karmic connection — Buddhist-rooted fate that ties strangers, lovers, and old friends.
-智慧	zhìhuì	wisdom; prajna — 智慧 brings together Confucian moral discernment and Buddhist prajna under one compound: two traditions, one word, different objects of knowing.
+般若	bō rě	prajñā; the Buddhist wisdom that sees emptiness — 般若 is the specific Buddhist wisdom that perceives the emptiness of self and phenomena: not knowledge, not cleverness, but the realization that dissolves clinging at its root.
+慈悲	cí bēi	compassion; mercy — Two Sanskrit terms fused into one Chinese compound: the wish that beings be happy and the wish that they be free from suffering: both directions of the same opening movement.
+轮回	lún huí	samsara; the cycle of rebirth — The Buddhist karmic wheel that turns through six realms of existence: the foundational concept that motivates all Buddhist practice as a path toward liberation.
+涅槃	niè pán	Nirvana; the extinction of craving and the end of rebirth — 涅槃 is the Buddhist soteriological terminus: the extinction of the fires of greed, hatred, and delusion, and the cessation of the karmic cycle that they fuel.
+菩萨	pú sà	Bodhisattva — 菩萨 is the being who stands at the threshold of complete enlightenment and turns back: choosing to remain within the cycle of existence until every sentient being can be liberated alongside them.
+气功	qì gōng	qigong — Cultivating the vital breath: China's ancient practice of aligning body, breath, and mind.
+人间	rén jiān	the human world; the mortal realm — The world of people: where karma plays out, where flowers fade in April, and where the only beings who can hear the Dharma are born.
+缘分	yuán fèn	karmic connection — Buddhist-rooted fate that ties strangers, lovers, and old friends.
+智慧	zhì huì	wisdom; prajna — 智慧 brings together Confucian moral discernment and Buddhist prajna under one compound: two traditions, one word, different objects of knowing.

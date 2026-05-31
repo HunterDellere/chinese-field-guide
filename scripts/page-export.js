@@ -70,11 +70,65 @@
     setTimeout(function () { document.body.removeChild(a); URL.revokeObjectURL(url); }, 0);
   }
 
+  // Pleco renders pinyin per-syllable (tone colors, audio). Multi-syllable
+  // hero pinyin like "bǐjiào" arrives as one token from the page header;
+  // expand it to "bǐ jiào" before emitting. Mirrors splitToSyllables in
+  // build/lib/pinyin.mjs.
+  var TONED_VOWELS = { 'ā':'a','á':'a','ǎ':'a','à':'a','ē':'e','é':'e','ě':'e','è':'e','ī':'i','í':'i','ǐ':'i','ì':'i','ō':'o','ó':'o','ǒ':'o','ò':'o','ū':'u','ú':'u','ǔ':'u','ù':'u','ǖ':'ü','ǘ':'ü','ǚ':'ü','ǜ':'ü' };
+  var FINALS = ['iong','iang','uang','ueng','iao','iou','uai','uei','üan','ian','uan','ang','eng','ing','ong','üe','ün','ai','ei','ao','ou','an','en','ia','ie','in','iu','ua','uo','ui','un','er','a','o','e','i','u','ü','m','n'];
+  var INITIALS = ['zh','ch','sh','b','p','m','f','d','t','n','l','g','k','h','j','q','x','r','z','c','s','y','w'];
+
+  function splitSyllables(pinyin) {
+    if (!pinyin) return [];
+    var parts = String(pinyin).replace(/[·’'\-]/g, ' ').split(/\s+/).filter(Boolean);
+    var out = [];
+    for (var p = 0; p < parts.length; p++) {
+      var part = parts[p];
+      var bare = '';
+      for (var i = 0; i < part.length; i++) {
+        var c = part.charAt(i);
+        bare += (TONED_VOWELS[c] || c);
+      }
+      bare = bare.toLowerCase().replace(/v/g, 'ü');
+      var starts = [0];
+      var idx = 0;
+      while (idx < bare.length) {
+        var initLen = 0;
+        for (var ii = 0; ii < INITIALS.length; ii++) {
+          if (bare.substr(idx, INITIALS[ii].length) === INITIALS[ii]) { initLen = INITIALS[ii].length; break; }
+        }
+        var finLen = 0;
+        for (var fi = 0; fi < FINALS.length; fi++) {
+          if (bare.substr(idx + initLen, FINALS[fi].length) === FINALS[fi]) { finLen = FINALS[fi].length; break; }
+        }
+        if (initLen + finLen === 0) {
+          idx += 1;
+          if (idx < bare.length && starts[starts.length - 1] !== idx) starts.push(idx);
+          continue;
+        }
+        idx += initLen + finLen;
+        if (idx < bare.length) starts.push(idx);
+      }
+      for (var k = 0; k < starts.length; k++) {
+        var a = starts[k];
+        var b = (k + 1 < starts.length) ? starts[k + 1] : part.length;
+        var seg = part.slice(a, b);
+        if (seg) out.push(seg);
+      }
+    }
+    return out;
+  }
+
+  function plecoPinyin(p) {
+    var syl = splitSyllables(p);
+    return syl.length ? syl.join(' ') : String(p || '');
+  }
+
   function plecoLine(card) {
     var defParts = [];
     if (card.english) defParts.push(card.english);
     if (card.desc) defParts.push(card.desc);
-    return tsvField(card.hanzi) + '\t' + tsvField(card.pinyin) + '\t' + tsvField(defParts.join(' — '));
+    return tsvField(card.hanzi) + '\t' + tsvField(plecoPinyin(card.pinyin)) + '\t' + tsvField(defParts.join(' — '));
   }
 
   function ankiLine(card) {
@@ -98,7 +152,14 @@
       '<a class="page-export-link" href="/pages/exports/" title="More export options">all →</a>';
 
     wrap.querySelector('[data-export="pleco"]').addEventListener('click', function () {
-      download('jiaoshu-' + fname + '.pleco.txt', plecoLine(card) + '\n');
+      // Pleco files imported cards under the //Category line that precedes
+      // them, so single-card downloads land in the right folder instead of
+      // Pleco's default catch-all.
+      var meta = readMeta() || {};
+      var sub = meta.type === 'character' ? 'Characters'
+              : (meta.category === 'chengyu' ? 'Chengyu' : 'Vocabulary');
+      var header = '//角落書屋/' + sub + '\n';
+      download('jiaoshu-' + fname + '.pleco.txt', header + plecoLine(card) + '\n');
     });
     wrap.querySelector('[data-export="anki"]').addEventListener('click', function () {
       download('jiaoshu-' + fname + '.anki.tsv', ankiLine(card) + '\n');

@@ -54,52 +54,89 @@ export function syllableToNumeric(raw) {
  * Returns an array of numeric-pinyin syllables.
  */
 export function pinyinToNumericSyllables(pinyin) {
+  return splitToSyllables(pinyin)
+    .map(syllableToNumeric)
+    .filter(Boolean);
+}
+
+/**
+ * Tokenize a pinyin string into toned syllable segments — e.g.
+ * "bǐjiào" → ["bǐ", "jiào"], "gōngfu chá" → ["gōng", "fu", "chá"].
+ * Already-separated input (chengyu) round-trips cleanly. Used by the
+ * Pleco/Anki exporters and the pinyin-disambiguation index. The original
+ * casing and tone marks are preserved.
+ */
+export function splitToSyllables(pinyin) {
   if (!pinyin) return [];
   const parts = String(pinyin)
     .replace(/[·’'\-]/g, ' ')
     .split(/\s+/)
     .filter(Boolean);
-
-  const syllables = [];
+  const out = [];
   for (const part of parts) {
-    // A single "part" may still be multiple syllables glued together
-    // ("chádào", "Zhōngguó"). We split by detecting tone marks: each toned
-    // vowel ends a syllable. If no tone marks exist, treat as one syllable.
-    const segments = splitByToneMarks(part);
-    for (const seg of segments) {
-      const num = syllableToNumeric(seg);
-      if (num) syllables.push(num);
+    for (const seg of splitConcatenatedSyllables(part)) {
+      out.push(seg);
     }
   }
-  return syllables;
+  return out;
 }
 
-function splitByToneMarks(s) {
-  // Walk char by char; whenever we encounter a toned vowel, that vowel ends
-  // the current syllable. Untoned trailing characters (like 'n', 'ng') after
-  // the toned vowel still belong to the same syllable until the next vowel.
-  // Simple heuristic: split after a toned vowel + any trailing consonants
-  // (n, ng, r) before the next vowel.
-  const out = [];
-  let buf = '';
-  let sawTone = false;
+// Mandarin pinyin finals (toneless), longest first so greedy match
+// prefers the maximal final (`iang` over `ia`, `iao` over `ia`). Finals
+// ending in `n` / `ng` are listed in full because they're inseparable
+// from the rest of the final (`ang`, not `a` + `ng`).
+const FINALS = [
+  'iong', 'iang', 'uang', 'ueng',
+  'iao', 'iou', 'uai', 'uei', 'üan', 'ian', 'uan',
+  'ang', 'eng', 'ing', 'ong', 'üe', 'ün',
+  'ai', 'ei', 'ao', 'ou', 'an', 'en', 'ia', 'ie', 'in', 'iu',
+  'ua', 'uo', 'ui', 'un', 'er',
+  'a', 'o', 'e', 'i', 'u', 'ü',
+  'm', 'n'
+];
+const INITIALS = [
+  'zh', 'ch', 'sh',
+  'b', 'p', 'm', 'f', 'd', 't', 'n', 'l', 'g', 'k', 'h',
+  'j', 'q', 'x', 'r', 'z', 'c', 's', 'y', 'w'
+];
 
-  const isVowel = ch => /[aeiouüāáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜ]/i.test(ch);
-  const isToned = ch => TONED_VOWELS[ch] !== undefined;
+function splitConcatenatedSyllables(part) {
+  // Build a toneless skeleton so we can match against FINALS/INITIALS,
+  // then slice the original (still toned) string at the same offsets.
+  let bare = '';
+  for (const ch of part) {
+    const t = TONED_VOWELS[ch];
+    bare += (t ? t[0] : ch);
+  }
+  bare = bare.toLowerCase().replace(/v/g, 'ü');
 
-  for (let i = 0; i < s.length; i++) {
-    const ch = s[i];
-    if (sawTone && isVowel(ch)) {
-      // start of next syllable
-      out.push(buf);
-      buf = ch;
-      sawTone = isToned(ch);
+  const starts = [0];
+  let i = 0;
+  while (i < bare.length) {
+    let initLen = 0;
+    for (const init of INITIALS) {
+      if (bare.startsWith(init, i)) { initLen = init.length; break; }
+    }
+    let finLen = 0;
+    for (const fin of FINALS) {
+      if (bare.startsWith(fin, i + initLen)) { finLen = fin.length; break; }
+    }
+    if (initLen + finLen === 0) {
+      // unknown char — skip one and treat what we have so far as a syllable
+      i += 1;
+      if (i < bare.length && starts[starts.length - 1] !== i) starts.push(i);
       continue;
     }
-    buf += ch;
-    if (isToned(ch)) sawTone = true;
+    i += initLen + finLen;
+    if (i < bare.length) starts.push(i);
   }
-  if (buf) out.push(buf);
-  // Filter empty / pure-punctuation
-  return out.filter(seg => /[a-zA-ZāáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜüÜ]/.test(seg));
+
+  const out = [];
+  for (let k = 0; k < starts.length; k++) {
+    const a = starts[k];
+    const b = (k + 1 < starts.length) ? starts[k + 1] : part.length;
+    const seg = part.slice(a, b);
+    if (seg) out.push(seg);
+  }
+  return out;
 }

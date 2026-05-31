@@ -1,3 +1,4 @@
+//角落書屋/Slices/Confucianism
 爱	ài	love, to love, to cherish — Love in all its forms: romantic, familial, and the Confucian ethic of universal benevolence.
 德	dé	virtue, moral power — Virtue not as rule-following but as accumulated moral power: what radiates from a person whose conduct has been straight long enough to become second nature.
 和	hé	harmony, and, with; peace — 和 carries the same concept across grammar and philosophy: grain and mouth together, the harmony of shared food and speech, a character that serves as both everyday conjunction and the Confucian ideal of a well-ordered world.
@@ -11,7 +12,7 @@
 文	wén	writing, culture, civil — A tattooed figure: writing as marks on the body, culture as the accumulated markings of civilization.
 小	xiǎo	small, little; humble — Three minimal strokes that became the Confucian axis of moral character: the 小人 (petty person) and the 君子 (exemplary person) are the two poles every learner of classical Chinese must know.
 信	xìn	trust, faith, credibility — A person standing by their word: one of the most visually transparent characters in the language, and the virtue that holds every contract, conversation, and relationship together.
-学	xué	to study, to learn, learning — Hands guiding a child beneath a roof: the character for learning as both action and institution.
+学	xu é	to study, to learn, learning — Hands guiding a child beneath a roof: the character for learning as both action and institution.
 一	yī	one; unified; as soon as — The simplest mark a brush can make carries the heaviest philosophical weight in Chinese civilization: 道生一，一生二，the Dao generates One, and One generates everything.
 义	yì	righteousness, duty, justice — The Confucian virtue of doing what is morally right, and the simplification that erased a sheep, a self, and the entire picture of what righteous form looks like.
 玉	yù	jade, precious — The material of kingship and moral cultivation: three jade discs on a cord, a glyph almost identical to king, the stone that Confucius said was virtue made visible.
@@ -19,23 +20,23 @@
 知	zhī	to know; knowledge — 知 = arrow + mouth: knowledge as the swift, target-hitting utterance, and in Wang Yangming, the act of knowing is inseparable from the act of doing.
 智	zhì	wisdom, moral intelligence — The Confucian virtue of knowing what is right to do; separately, the Buddhist prajñā that sees through the nature of things altogether.
 中	zhōng	middle, China, to hit the mark — An arrow piercing through the center of a target: the character that names China as the Middle Kingdom and encodes the Confucian virtue of equilibrium.
-传统	chuántǒng	tradition; traditional — The thread passed down through generations: and the concept that sits at the center of every Chinese debate about modernity, identity, and what to keep.
-道德	dàodé	morality, ethics, virtue — The compound at the center of Chinese moral philosophy: the Way and its virtue, inseparable and mutually defining.
-国家	guójiā	nation; state; country — A compound of the two most culturally loaded characters in Chinese: country and family, that encodes the Confucian political imagination in two syllables.
-君子	jūnzǐ	the exemplary person — The Confucian moral ideal that replaced aristocratic birth with cultivated virtue as the basis of social authority: anyone who does the work of 仁义礼智信 qualifies.
+传统	chuán tǒng	tradition; traditional — The thread passed down through generations: and the concept that sits at the center of every Chinese debate about modernity, identity, and what to keep.
+道德	dào dé	morality, ethics, virtue — The compound at the center of Chinese moral philosophy: the Way and its virtue, inseparable and mutually defining.
+国家	guó jiā	nation; state; country — A compound of the two most culturally loaded characters in Chinese: country and family, that encodes the Confucian political imagination in two syllables.
+君子	jūn zǐ	the exemplary person — The Confucian moral ideal that replaced aristocratic birth with cultivated virtue as the basis of social authority: anyone who does the work of 仁义礼智信 qualifies.
 礼	lǐ	ritual, propriety, gift, courtesy — The cosmic blueprint Confucius spent his life trying to restore: and why manners are a civilizational technology.
-良心	liángxīn	conscience; innate moral sense — The good heart-mind: the Chinese word for conscience carries a philosophical claim that moral knowledge is a natural endowment, not an acquired rule.
-论语	Lúnyǔ	The Analects of Confucius — The Analects: a thin book of recorded conversations and sayings that became the most quoted text in East Asian civilization, the entry point to Confucian thought, and the textbook of imperial education for two thousand years.
-谦虚	qiānxū	humility, modesty — 谦虚 is both a Confucian virtue and a social practice: in Chinese interaction, it functions as a required performative register, not just an internal attitude.
-人生	rénshēng	human life; one's life journey — Human life: not biological existence, but the arc of a life lived: its meaning, its seasons, its reckoning.
+良心	liáng xīn	conscience; innate moral sense — The good heart-mind: the Chinese word for conscience carries a philosophical claim that moral knowledge is a natural endowment, not an acquired rule.
+论语	Lún yǔ	The Analects of Confucius — The Analects: a thin book of recorded conversations and sayings that became the most quoted text in East Asian civilization, the entry point to Confucian thought, and the textbook of imperial education for two thousand years.
+谦虚	qiān xū	humility, modesty — 谦虚 is both a Confucian virtue and a social practice: in Chinese interaction, it functions as a required performative register, not just an internal attitude.
+人生	rén shēng	human life; one's life journey — Human life: not biological existence, but the arc of a life lived: its meaning, its seasons, its reckoning.
 仁	rén	humaneness, benevolence — The supreme Confucian virtue: the quality of genuine care for other people that holds civilization together.
-社会	shèhuì	society — The word for society that China borrowed from Japan, which had borrowed the characters from China: a compound forged at the altar of the earth.
+社会	shè huì	society — The word for society that China borrowed from Japan, which had borrowed the characters from China: a compound forged at the altar of the earth.
 天人合一	tiān rén hé yī	Heaven and humanity as one: the unity of cosmic and human order — The organizing claim of Chinese cosmology: Heaven and humanity are not separate domains, and human flourishing depends on alignment with the natural order.
 孝	xiào	filial piety — An elder supported by a child's hands: the cardinal Confucian virtue that placed care for parents at the foundation of all moral life.
 义	yì	Righteousness: The Second Constant — Doing what is right because it is right: 义 as the enacted path of Confucian ethics, the constant that gives 仁 its direction.
-智慧	zhìhuì	wisdom; prajna — 智慧 brings together Confucian moral discernment and Buddhist prajna under one compound: two traditions, one word, different objects of knowing.
-祖先	zǔxiān	ancestors; forebears — 祖先 sits at the center of Chinese religious life: ancestor veneration is a living practice through which families maintain active, reciprocal continuity with the dead.
-君子不器	jūnzǐ bù qì	the exemplary person is not a vessel — Confucius says the junzi is not a utensil: not defined by function, not limited to one use. The Analects' argument against reducing a person to their usefulness.
+智慧	zhì huì	wisdom; prajna — 智慧 brings together Confucian moral discernment and Buddhist prajna under one compound: two traditions, one word, different objects of knowing.
+祖先	zǔ xiān	ancestors; forebears — 祖先 sits at the center of Chinese religious life: ancestor veneration is a living practice through which families maintain active, reciprocal continuity with the dead.
+君子不器	jūn zǐ bù qì	the exemplary person is not a vessel — Confucius says the junzi is not a utensil: not defined by function, not limited to one use. The Analects' argument against reducing a person to their usefulness.
 青出于蓝	qīng chū yú lán	The Student Surpasses the Teacher — Indigo is made from the indigo plant, yet it is bluer than the plant itself. Xunzi's image for the student who surpasses the teacher through sustained effort.
 一毛不拔	yī máo bù bá	Not Give Even a Hair — Refuse to give even a single hair from your body. Mencius's phrase for the Yangist philosophy of radical self-preservation, and the word for a miser that it became.
 欲速则不达	yù sù zé bù dá	Haste Does Not Bring Success — Speed desired, arrival missed: Confucius on why rushing produces the opposite of what you intend.

@@ -1,3 +1,4 @@
+//角落書屋/Slices/Daoism
 道	dào	way, path — The word that gave Daoism its name, and underlies every Chinese 'ism'.
 德	dé	virtue, moral power — Virtue not as rule-following but as accumulated moral power: what radiates from a person whose conduct has been straight long enough to become second nature.
 二	èr	two; second — The number two encodes the foundational split that drives all of Chinese cosmology: yin and yang, the two forces from which everything else unfolds.
@@ -6,7 +7,7 @@
 无	wú	nothing, without, non-being — A dancer with arms outstretched, holding nothing. The character behind every Chinese negation of having, every Daoist non-doing, and the philosophical pole that pairs with 有 to frame the whole cosmos.
 用	yòng	to use; function; expense — 用 began as a pictograph of a bucket or bell (a vessel put to work) and became the character that Zhuangzi inverted in his doctrine of 无用之用: the use of uselessness.
 真	zhēn	real, true, genuine — Truth not as accuracy but as authenticity: the unadorned thing itself, prized in Daoist self-cultivation and in everyday emphasis.
-无为	wúwéi	non-action; acting in accord with nature — 无为 is the Daoist elimination of forced, ego-driven action: the master principle behind effortless effectiveness, sage governance, and Zhuangzi's cook whose knife stays forever sharp.
-自然	zìrán	nature; natural; of course — Laozi placed 自然 at the center of his cosmology: the Way models itself on what is so of itself: no outside force required.
+无为	wú wéi	non-action; acting in accord with nature — 无为 is the Daoist elimination of forced, ego-driven action: the master principle behind effortless effectiveness, sage governance, and Zhuangzi's cook whose knife stays forever sharp.
+自然	zì rán	nature; natural; of course — Laozi placed 自然 at the center of his cosmology: the Way models itself on what is so of itself: no outside force required.
 塞翁失马	sài wēng shī mǎ	The Old Man at the Frontier Loses His Horse — His horse ran off. His neighbours grieved. He shrugged. The Daoist parable that became China's word for the unknowability of fortune.
 万丈高楼平地起	wàn zhàng gāo lóu píng dì qǐ	A tower ten thousand zhang tall rises from flat ground — The folk proverb that answers impatience: every immeasurable height begins on ordinary earth.

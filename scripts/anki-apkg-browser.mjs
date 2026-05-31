@@ -292,7 +292,7 @@ export async function buildApkgInBrowser({ deckName, cards, extraTags = [] }) {
     const allTags = [...(c.tags || []), c.t, ...extraTags]
       .filter(t => t && /^[\w-]+$/.test(t));
     const tagText = allTags.length ? ' ' + [...new Set(allTags)].join(' ') + ' ' : '';
-    insertNote.run([noteId, newGuid(), mid + 1, now, tagText, flds, front, fieldChecksum(front)]);
+    insertNote.run([noteId, newGuid(), mid, now, tagText, flds, front, fieldChecksum(front)]);
     insertCard.run([cardId, noteId, deckId + 1, now, i]);
   }
   insertNote.free();

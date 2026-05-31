@@ -1,7 +1,8 @@
+//角落書屋/Slices/Family
 家	jiā	home, family — House, family, school of thought, nation (国家): the fractal of belonging.
 老	lǎo	old, venerable, experienced — A stooped elder with long hair: age as wisdom, seniority as moral authority, and the Daoist sage who wrote the Daodejing.
 女	nǚ	woman, female — A kneeling figure with crossed arms: one of the most productive radicals in the script, present in characters for family relationships, feelings, and cultural concepts.
 长	cháng	long; to grow; chief — A person with flowing long hair. One character, two readings: cháng (long) and zhǎng (to grow, elder), the richest dual-reading in Mandarin.
-春节	Chūnjié	Spring Festival — The most important holiday in the Chinese calendar: customs, foods, taboos, the reunion dinner, and the cultural weight of the Spring Festival.
+春节	Chūn jié	Spring Festival — The most important holiday in the Chinese calendar: customs, foods, taboos, the reunion dinner, and the cultural weight of the Spring Festival.
 孝	xiào	filial piety — An elder supported by a child's hands: the cardinal Confucian virtue that placed care for parents at the foundation of all moral life.
-祖先	zǔxiān	ancestors; forebears — 祖先 sits at the center of Chinese religious life: ancestor veneration is a living practice through which families maintain active, reciprocal continuity with the dead.
+祖先	zǔ xiān	ancestors; forebears — 祖先 sits at the center of Chinese religious life: ancestor veneration is a living practice through which families maintain active, reciprocal continuity with the dead.

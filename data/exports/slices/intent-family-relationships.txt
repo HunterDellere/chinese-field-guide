@@ -1,21 +1,22 @@
+//角落書屋/Slices/Family & Relationships
 产	chǎn	to produce, give birth, property, output — From birth to bounty: a character that spans biological generation and industrial output, linking the miracle of birth to the logic of production and wealth.
 家	jiā	home, family — House, family, school of thought, nation (国家): the fractal of belonging.
 老	lǎo	old, venerable, experienced — A stooped elder with long hair: age as wisdom, seniority as moral authority, and the Daoist sage who wrote the Daodejing.
 女	nǚ	woman, female — A kneeling figure with crossed arms: one of the most productive radicals in the script, present in characters for family relationships, feelings, and cultural concepts.
 人	rén	person, humanity — The character for human being, and its echo in 仁 rén, Confucian benevolence.
 长	cháng	long; to grow; chief — A person with flowing long hair. One character, two readings: cháng (long) and zhǎng (to grow, elder), the richest dual-reading in Mandarin.
-春节	Chūnjié	Spring Festival — The most important holiday in the Chinese calendar: customs, foods, taboos, the reunion dinner, and the cultural weight of the Spring Festival.
-工夫茶	gōngfu chá	Gongfu Tea — Tea prepared with skill and time: the Southern Chinese brewing method that defines serious tea culture, built on small vessels, multiple short steeps, and total attention.
-功夫	gōngfu	effort, skill over time — Mastery earned through time: martial arts is the paradigm case, but the word covers any deeply cultivated skill.
-君子	jūnzǐ	the exemplary person — The Confucian moral ideal that replaced aristocratic birth with cultivated virtue as the basis of social authority: anyone who does the work of 仁义礼智信 qualifies.
-面子	miànzi	face, honor — Giving, losing, and saving face: the social grammar of dignity.
-朋友	péngyou	friend — The everyday word for friend, and the rich web of relationship terms (好朋友, 男朋友, 交朋友) built around it.
-人间	rénjiān	the human world; the mortal realm — The world of people: where karma plays out, where flowers fade in April, and where the only beings who can hear the Dharma are born.
-人生	rénshēng	human life; one's life journey — Human life: not biological existence, but the arc of a life lived: its meaning, its seasons, its reckoning.
+春节	Chūn jié	Spring Festival — The most important holiday in the Chinese calendar: customs, foods, taboos, the reunion dinner, and the cultural weight of the Spring Festival.
+工夫茶	gōng fu chá	Gongfu Tea — Tea prepared with skill and time: the Southern Chinese brewing method that defines serious tea culture, built on small vessels, multiple short steeps, and total attention.
+功夫	gōng fu	effort, skill over time — Mastery earned through time: martial arts is the paradigm case, but the word covers any deeply cultivated skill.
+君子	jūn zǐ	the exemplary person — The Confucian moral ideal that replaced aristocratic birth with cultivated virtue as the basis of social authority: anyone who does the work of 仁义礼智信 qualifies.
+面子	miàn zi	face, honor — Giving, losing, and saving face: the social grammar of dignity.
+朋友	péng you	friend — The everyday word for friend, and the rich web of relationship terms (好朋友, 男朋友, 交朋友) built around it.
+人间	rén jiān	the human world; the mortal realm — The world of people: where karma plays out, where flowers fade in April, and where the only beings who can hear the Dharma are born.
+人生	rén shēng	human life; one's life journey — Human life: not biological existence, but the arc of a life lived: its meaning, its seasons, its reckoning.
 天人合一	tiān rén hé yī	Heaven and humanity as one: the unity of cosmic and human order — The organizing claim of Chinese cosmology: Heaven and humanity are not separate domains, and human flourishing depends on alignment with the natural order.
 孝	xiào	filial piety — An elder supported by a child's hands: the cardinal Confucian virtue that placed care for parents at the foundation of all moral life.
-一会儿	yíhuìr	a short while — The everyday word for a little while, how it marks both a short duration and the near future, and how it differs from the verb-softener 一下 and from 等会儿.
-祖先	zǔxiān	ancestors; forebears — 祖先 sits at the center of Chinese religious life: ancestor veneration is a living practice through which families maintain active, reciprocal continuity with the dead.
-君子不器	jūnzǐ bù qì	the exemplary person is not a vessel — Confucius says the junzi is not a utensil: not defined by function, not limited to one use. The Analects' argument against reducing a person to their usefulness.
+一会儿	yí huì r	a short while — The everyday word for a little while, how it marks both a short duration and the near future, and how it differs from the verb-softener 一下 and from 等会儿.
+祖先	zǔ xiān	ancestors; forebears — 祖先 sits at the center of Chinese religious life: ancestor veneration is a living practice through which families maintain active, reciprocal continuity with the dead.
+君子不器	jūn zǐ bù qì	the exemplary person is not a vessel — Confucius says the junzi is not a utensil: not defined by function, not limited to one use. The Analects' argument against reducing a person to their usefulness.
 三人成虎	sān rén chéng hǔ	three people make a tiger — A minister warns his king: if three people all claim there is a tiger in the marketplace, even the skeptical will believe it. The Zhanguo Ce parable of rumor that outlasts the warning against it.
-一点儿 / 有点儿	yìdiǎnr / yǒudiǎnr	a little — The classic confusion pair: 有点儿 comes before an adjective and leans negative ("a bit too…"), while 一点儿 comes after and is neutral ("a little more").
+一点儿 / 有点儿	yì diǎn r / yǒu diǎn r	a little — The classic confusion pair: 有点儿 comes before an adjective and leans negative ("a bit too…"), while 一点儿 comes after and is neutral ("a little more").
