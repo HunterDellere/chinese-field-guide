@@ -19,6 +19,25 @@
     "updated": "2026-06-07"
   },
   {
+    "path": "pages/characters/hei1_黑.html",
+    "type": "character",
+    "category": "characters",
+    "title": "黑 · black, darkness, and the illicit",
+    "desc": "Black on the surface, but the live sense is moral: the black market, the underworld, the hacker. The color that names everything that operates out of sight.",
+    "tags": [
+      "color",
+      "darkness",
+      "symbolism"
+    ],
+    "status": "complete",
+    "char": "黑",
+    "pinyin": "hēi",
+    "tone": 1,
+    "hsk": 2,
+    "radical": "黑",
+    "updated": "2026-06-07"
+  },
+  {
     "path": "pages/characters/hen3_很.html",
     "type": "character",
     "category": "characters",
@@ -35,6 +54,25 @@
     "tone": 3,
     "hsk": 1,
     "radical": "彳",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/hong2_红.html",
+    "type": "character",
+    "category": "characters",
+    "title": "红 · red, the color of luck and celebration",
+    "desc": "The cultural keystone color: weddings, New Year, the red envelope, and a century of revolutionary politics all run through this one character.",
+    "tags": [
+      "color",
+      "culture",
+      "symbolism"
+    ],
+    "status": "complete",
+    "char": "红",
+    "pinyin": "hóng",
+    "tone": 2,
+    "hsk": 2,
+    "radical": "纟",
     "updated": "2026-06-07"
   },
   {
@@ -246,6 +284,44 @@
     "tone": 3,
     "hsk": 1,
     "radical": "二",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/xue3_雪.html",
+    "type": "character",
+    "category": "characters",
+    "title": "雪 · snow, whiteness, and vengeance",
+    "desc": "Rain over a sweeping hand: snow is the precipitation you can hold. The same character means dazzling white and, by a buried metaphor, to wipe clean an old grievance.",
+    "tags": [
+      "nature",
+      "weather",
+      "winter"
+    ],
+    "status": "complete",
+    "char": "雪",
+    "pinyin": "xuě",
+    "tone": 3,
+    "hsk": 2,
+    "radical": "雨",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/yin1_阴.html",
+    "type": "character",
+    "category": "characters",
+    "title": "阴 · the shaded slope, the lunar, the covert",
+    "desc": "The shadow half of the cosmos and the everyday word for an overcast day. From the dark side of a hill grew the lunar calendar, the hidden plot, and time itself as light and shade.",
+    "tags": [
+      "cosmology",
+      "nature",
+      "weather"
+    ],
+    "status": "complete",
+    "char": "阴",
+    "pinyin": "yīn",
+    "tone": 1,
+    "hsk": 4,
+    "radical": "阝",
     "updated": "2026-06-07"
   },
   {

@@ -19,6 +19,25 @@
     "updated": "2026-06-07"
   },
   {
+    "path": "pages/characters/hei1_黑.html",
+    "type": "character",
+    "category": "characters",
+    "title": "黑 · black, darkness, and the illicit",
+    "desc": "Black on the surface, but the live sense is moral: the black market, the underworld, the hacker. The color that names everything that operates out of sight.",
+    "tags": [
+      "color",
+      "darkness",
+      "symbolism"
+    ],
+    "status": "complete",
+    "char": "黑",
+    "pinyin": "hēi",
+    "tone": 1,
+    "hsk": 2,
+    "radical": "黑",
+    "updated": "2026-06-07"
+  },
+  {
     "path": "pages/characters/hen3_很.html",
     "type": "character",
     "category": "characters",
@@ -35,6 +54,25 @@
     "tone": 3,
     "hsk": 1,
     "radical": "彳",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/hong2_红.html",
+    "type": "character",
+    "category": "characters",
+    "title": "红 · red, the color of luck and celebration",
+    "desc": "The cultural keystone color: weddings, New Year, the red envelope, and a century of revolutionary politics all run through this one character.",
+    "tags": [
+      "color",
+      "culture",
+      "symbolism"
+    ],
+    "status": "complete",
+    "char": "红",
+    "pinyin": "hóng",
+    "tone": 2,
+    "hsk": 2,
+    "radical": "纟",
     "updated": "2026-06-07"
   },
   {
@@ -249,6 +287,44 @@
     "updated": "2026-06-07"
   },
   {
+    "path": "pages/characters/xue3_雪.html",
+    "type": "character",
+    "category": "characters",
+    "title": "雪 · snow, whiteness, and vengeance",
+    "desc": "Rain over a sweeping hand: snow is the precipitation you can hold. The same character means dazzling white and, by a buried metaphor, to wipe clean an old grievance.",
+    "tags": [
+      "nature",
+      "weather",
+      "winter"
+    ],
+    "status": "complete",
+    "char": "雪",
+    "pinyin": "xuě",
+    "tone": 3,
+    "hsk": 2,
+    "radical": "雨",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/yin1_阴.html",
+    "type": "character",
+    "category": "characters",
+    "title": "阴 · the shaded slope, the lunar, the covert",
+    "desc": "The shadow half of the cosmos and the everyday word for an overcast day. From the dark side of a hill grew the lunar calendar, the hidden plot, and time itself as light and shade.",
+    "tags": [
+      "cosmology",
+      "nature",
+      "weather"
+    ],
+    "status": "complete",
+    "char": "阴",
+    "pinyin": "yīn",
+    "tone": 1,
+    "hsk": 4,
+    "radical": "阝",
+    "updated": "2026-06-07"
+  },
+  {
     "path": "pages/characters/zui4_最.html",
     "type": "character",
     "category": "characters",
@@ -304,79 +380,6 @@
     ],
     "status": "complete",
     "pinyin": "cáo cāo",
-    "updated": "2026-06-07"
-  },
-  {
-    "path": "pages/history/topic_xuanzang.html",
-    "type": "topic",
-    "category": "history",
-    "title": "玄奘 · The Pilgrim of the West",
-    "desc": "The Tang monk who crossed the deserts to India for the scriptures, studied sixteen years, and came home to translate them: the historical figure behind Journey to the West.",
-    "tags": [
-      "history",
-      "tang",
-      "buddhism",
-      "pilgrimage",
-      "translation",
-      "silk-road",
-      "biography"
-    ],
-    "status": "complete",
-    "pinyin": "xuánzàng",
-    "updated": "2026-06-07"
-  },
-  {
-    "path": "pages/vocab/amituofo_阿弥陀佛.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "阿弥陀佛 · Amitābha Buddha",
-    "desc": "阿弥陀佛 is the Buddha of Infinite Light and Life who presides over the Western Pure Land, and his name is itself the central practice: to recite 南无阿弥陀佛 is the simple path of Pure Land devotion, open to everyone.",
-    "tags": [
-      "buddhism",
-      "religion",
-      "pure-land",
-      "amitabha",
-      "faith",
-      "devotion",
-      "recitation"
-    ],
-    "status": "complete",
-    "pinyin": "Ēmítuófó",
-    "updated": "2026-06-07"
-  },
-  {
-    "path": "pages/vocab/huangdi_皇帝.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "皇帝 · emperor",
-    "desc": "The title the First Emperor invented in 221 BCE by welding together 皇 (august sage-king) and 帝 (high god), and how it differs from 王 king, 君 sovereign, and 天子 the Son of Heaven.",
-    "tags": [
-      "vocabulary",
-      "history",
-      "emperor",
-      "imperial",
-      "statecraft",
-      "royalty"
-    ],
-    "status": "complete",
-    "pinyin": "huángdì",
-    "updated": "2026-06-07"
-  },
-  {
-    "path": "pages/vocab/shidai_时代.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "时代 · era, age",
-    "desc": "The word for a historical era or age, built from 时 (time) and 代 (generation), and how it differs from 时期 a period, 年代 a decade, 时候 a moment, and 现代 modern times.",
-    "tags": [
-      "vocabulary",
-      "time",
-      "history",
-      "era",
-      "daily-life"
-    ],
-    "status": "complete",
-    "pinyin": "shídài",
     "updated": "2026-06-07"
   }
 ]

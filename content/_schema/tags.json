@@ -294,5 +294,9 @@
   {"slug": "recitation",        "label": "Recitation"},
   {"slug": "devotion",          "label": "Devotion"},
   {"slug": "translation",       "label": "Translation"},
-  {"slug": "silk-road",         "label": "Silk Road"}
+  {"slug": "silk-road",         "label": "Silk Road"},
+  {"slug": "weather",           "label": "Weather"},
+  {"slug": "winter",            "label": "Winter"},
+  {"slug": "darkness",          "label": "Darkness"},
+  {"slug": "luck",              "label": "Luck"}
 ]

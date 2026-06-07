@@ -94,13 +94,14 @@
     "cn": "阴阳",
     "py": "yīnyáng",
     "en": "yin and yang",
-    "count": 13,
+    "count": 14,
     "appearsOn": [
       "pages/characters/ba1_八.html",
       "pages/characters/bian4_变.html",
       "pages/characters/er4_二.html",
       "pages/characters/jiu3_九.html",
       "pages/characters/wu3_五.html",
+      "pages/characters/yin1_阴.html",
       "pages/philosophy/topic_daodejing.html",
       "pages/philosophy/topic_yijing.html",
       "pages/religion/topic_daojiao.html",
@@ -275,6 +276,25 @@
     ],
     "hasPage": true
   },
+  "水": {
+    "cn": "水",
+    "py": "shuǐ",
+    "en": "water",
+    "count": 10,
+    "appearsOn": [
+      "pages/arts/topic_shanshui.html",
+      "pages/characters/di4_地.html",
+      "pages/characters/feng1_风.html",
+      "pages/characters/hei1_黑.html",
+      "pages/characters/huo3_火.html",
+      "pages/characters/tu3_土.html",
+      "pages/characters/yu3_雨.html",
+      "pages/characters/yun2_云.html",
+      "pages/vocab/shanshui_山水.html",
+      "pages/vocab/ziran_自然.html"
+    ],
+    "hasPage": true
+  },
   "义": {
     "cn": "义",
     "py": "yì",
@@ -348,24 +368,6 @@
     ],
     "hasPage": true
   },
-  "水": {
-    "cn": "水",
-    "py": "shuǐ",
-    "en": "water",
-    "count": 9,
-    "appearsOn": [
-      "pages/arts/topic_shanshui.html",
-      "pages/characters/di4_地.html",
-      "pages/characters/feng1_风.html",
-      "pages/characters/huo3_火.html",
-      "pages/characters/tu3_土.html",
-      "pages/characters/yu3_雨.html",
-      "pages/characters/yun2_云.html",
-      "pages/vocab/shanshui_山水.html",
-      "pages/vocab/ziran_自然.html"
-    ],
-    "hasPage": true
-  },
   "五行": {
     "cn": "五行",
     "py": "wǔxíng",
@@ -399,6 +401,24 @@
       "pages/vocab/junzi_君子.html",
       "pages/vocab/ren2_仁.html",
       "pages/vocab/yi4_义.html"
+    ],
+    "hasPage": true
+  },
+  "月": {
+    "cn": "月",
+    "py": "yuè",
+    "en": "month; moon",
+    "count": 9,
+    "appearsOn": [
+      "pages/characters/ba1_八.html",
+      "pages/characters/jiu3_九.html",
+      "pages/characters/liu4_六.html",
+      "pages/characters/nian2_年.html",
+      "pages/characters/qi1_七.html",
+      "pages/characters/ri4_日.html",
+      "pages/characters/shi2_时.html",
+      "pages/characters/yin1_阴.html",
+      "pages/vocab/shijian_时间.html"
     ],
     "hasPage": true
   },
@@ -621,23 +641,6 @@
       "pages/vocab/shanshui_山水.html",
       "pages/vocab/tianren_天人.html",
       "pages/vocab/ziran_自然.html"
-    ],
-    "hasPage": true
-  },
-  "月": {
-    "cn": "月",
-    "py": "yuè",
-    "en": "month; moon",
-    "count": 8,
-    "appearsOn": [
-      "pages/characters/ba1_八.html",
-      "pages/characters/jiu3_九.html",
-      "pages/characters/liu4_六.html",
-      "pages/characters/nian2_年.html",
-      "pages/characters/qi1_七.html",
-      "pages/characters/ri4_日.html",
-      "pages/characters/shi2_时.html",
-      "pages/vocab/shijian_时间.html"
     ],
     "hasPage": true
   },
@@ -913,6 +916,22 @@
     ],
     "hasPage": true
   },
+  "雨": {
+    "cn": "雨",
+    "py": "yǔ",
+    "en": "rain",
+    "count": 7,
+    "appearsOn": [
+      "pages/characters/feng1_风.html",
+      "pages/characters/lei2_雷.html",
+      "pages/characters/ling2_零.html",
+      "pages/characters/shui3_水.html",
+      "pages/characters/xue3_雪.html",
+      "pages/characters/yun2_云.html",
+      "pages/vocab/ziran_自然.html"
+    ],
+    "hasPage": true
+  },
   "哲学": {
     "cn": "哲学",
     "py": "zhéxué",
@@ -1004,6 +1023,21 @@
       "pages/grammar/yinggai_应该.html",
       "pages/grammar/zhiyou_cai_只有才.html",
       "pages/vocab/yiding_一定.html"
+    ],
+    "hasPage": true
+  },
+  "春节": {
+    "cn": "春节",
+    "py": "chūnjié",
+    "en": "Spring Festival; Chinese New Year",
+    "count": 6,
+    "appearsOn": [
+      "pages/characters/fu2_福.html",
+      "pages/characters/hong2_红.html",
+      "pages/characters/nian2_年.html",
+      "pages/culture/topic_duanwu.html",
+      "pages/culture/topic_zhongjiu.html",
+      "pages/vocab/chunjie_春节.html"
     ],
     "hasPage": true
   },
@@ -1412,21 +1446,6 @@
     ],
     "hasPage": true
   },
-  "雨": {
-    "cn": "雨",
-    "py": "yǔ",
-    "en": "rain",
-    "count": 6,
-    "appearsOn": [
-      "pages/characters/feng1_风.html",
-      "pages/characters/lei2_雷.html",
-      "pages/characters/ling2_零.html",
-      "pages/characters/shui3_水.html",
-      "pages/characters/yun2_云.html",
-      "pages/vocab/ziran_自然.html"
-    ],
-    "hasPage": true
-  },
   "缘分": {
     "cn": "缘分",
     "py": "yuánfèn",
@@ -1439,6 +1458,21 @@
       "pages/vocab/mingyun_命运.html",
       "pages/vocab/tianming_天命.html",
       "pages/vocab/yuanfen_缘分.html"
+    ],
+    "hasPage": true
+  },
+  "云": {
+    "cn": "云",
+    "py": "yún",
+    "en": "cloud",
+    "count": 6,
+    "appearsOn": [
+      "pages/characters/feng1_风.html",
+      "pages/characters/tian1_天.html",
+      "pages/characters/xue3_雪.html",
+      "pages/characters/yin1_阴.html",
+      "pages/characters/yu3_雨.html",
+      "pages/vocab/ziran_自然.html"
     ],
     "hasPage": true
   },
@@ -1486,6 +1520,20 @@
     ],
     "hasPage": true
   },
+  "白": {
+    "cn": "白",
+    "py": "bái",
+    "en": "white",
+    "count": 5,
+    "appearsOn": [
+      "pages/characters/hei1_黑.html",
+      "pages/characters/hong2_红.html",
+      "pages/characters/se4_色.html",
+      "pages/characters/si3_死.html",
+      "pages/characters/xue3_雪.html"
+    ],
+    "hasPage": true
+  },
   "百": {
     "cn": "百",
     "py": "bǎi",
@@ -1525,20 +1573,6 @@
       "pages/grammar/taiLe_太了.html",
       "pages/grammar/yiyang_xiang_一样像.html",
       "pages/vocab/zhengzai_正在.html"
-    ],
-    "hasPage": true
-  },
-  "春节": {
-    "cn": "春节",
-    "py": "chūnjié",
-    "en": "Spring Festival; Chinese New Year",
-    "count": 5,
-    "appearsOn": [
-      "pages/characters/fu2_福.html",
-      "pages/characters/nian2_年.html",
-      "pages/culture/topic_duanwu.html",
-      "pages/culture/topic_zhongjiu.html",
-      "pages/vocab/chunjie_春节.html"
     ],
     "hasPage": true
   },
@@ -1595,6 +1629,20 @@
       "pages/grammar/jiu_cai_就才.html",
       "pages/grammar/le_了.html",
       "pages/grammar/lian_dou_连都.html"
+    ],
+    "hasPage": true
+  },
+  "风": {
+    "cn": "风",
+    "py": "fēng",
+    "en": "wind",
+    "count": 5,
+    "appearsOn": [
+      "pages/characters/lei2_雷.html",
+      "pages/characters/xue3_雪.html",
+      "pages/characters/yu3_雨.html",
+      "pages/characters/yun2_云.html",
+      "pages/vocab/ziran_自然.html"
     ],
     "hasPage": true
   },
@@ -1847,6 +1895,20 @@
       "pages/vocab/shidai_时代.html",
       "pages/vocab/shijian_时间.html",
       "pages/vocab/xianzai_现在.html"
+    ],
+    "hasPage": true
+  },
+  "时间": {
+    "cn": "时间",
+    "py": "shíjiān",
+    "en": "time (duration)",
+    "count": 5,
+    "appearsOn": [
+      "pages/characters/shi2_时.html",
+      "pages/characters/yin1_阴.html",
+      "pages/vocab/shihou_时候.html",
+      "pages/vocab/yihuir_一会儿.html",
+      "pages/vocab/zhengzai_正在.html"
     ],
     "hasPage": true
   },
@@ -2145,19 +2207,6 @@
       "pages/history/topic_qinchao.html",
       "pages/philosophy/topic_mojia.html",
       "pages/philosophy/topic_sunzibingfa.html"
-    ],
-    "hasPage": true
-  },
-  "风": {
-    "cn": "风",
-    "py": "fēng",
-    "en": "wind",
-    "count": 4,
-    "appearsOn": [
-      "pages/characters/lei2_雷.html",
-      "pages/characters/yu3_雨.html",
-      "pages/characters/yun2_云.html",
-      "pages/vocab/ziran_自然.html"
     ],
     "hasPage": true
   },
@@ -2629,19 +2678,6 @@
     ],
     "hasPage": true
   },
-  "时间": {
-    "cn": "时间",
-    "py": "shíjiān",
-    "en": "time (duration)",
-    "count": 4,
-    "appearsOn": [
-      "pages/characters/shi2_时.html",
-      "pages/vocab/shihou_时候.html",
-      "pages/vocab/yihuir_一会儿.html",
-      "pages/vocab/zhengzai_正在.html"
-    ],
-    "hasPage": true
-  },
   "说": {
     "cn": "说",
     "py": "shuō",
@@ -2704,6 +2740,19 @@
       "pages/characters/ta1_她.html",
       "pages/characters/ta1_它.html",
       "pages/characters/wo3_我.html"
+    ],
+    "hasPage": true
+  },
+  "太极": {
+    "cn": "太极",
+    "py": "tàijí",
+    "en": "the Supreme Ultimate; Tai Chi",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/yin1_阴.html",
+      "pages/religion/topic_daojiao.html",
+      "pages/vocab/qiankun_乾坤.html",
+      "pages/vocab/yinyang_阴阳.html"
     ],
     "hasPage": true
   },
@@ -2811,6 +2860,19 @@
     ],
     "hasPage": true
   },
+  "颜色": {
+    "cn": "颜色",
+    "py": "yánsè",
+    "en": "colors and luck",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/bai2_白.html",
+      "pages/characters/hei1_黑.html",
+      "pages/characters/hong2_红.html",
+      "pages/religion/topic_minjian.html"
+    ],
+    "hasPage": true
+  },
   "眼": {
     "cn": "眼",
     "py": "yǎn",
@@ -2912,19 +2974,6 @@
       "pages/characters/yue4_越.html",
       "pages/grammar/yidian_youdian_一点儿有点儿.html",
       "pages/vocab/bijiao_比较.html"
-    ],
-    "hasPage": true
-  },
-  "云": {
-    "cn": "云",
-    "py": "yún",
-    "en": "cloud",
-    "count": 4,
-    "appearsOn": [
-      "pages/characters/feng1_风.html",
-      "pages/characters/tian1_天.html",
-      "pages/characters/yu3_雨.html",
-      "pages/vocab/ziran_自然.html"
     ],
     "hasPage": true
   },
@@ -3040,6 +3089,18 @@
       "pages/grammar/ba_particle_吧.html",
       "pages/grammar/zhe_particle_呢.html",
       "pages/grammar/zhe_particle_嘛.html"
+    ],
+    "hasPage": false
+  },
+  "暗": {
+    "cn": "暗",
+    "py": "àn",
+    "en": "dim; dark; hidden",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/hei1_黑.html",
+      "pages/characters/ming2_明.html",
+      "pages/characters/yin1_阴.html"
     ],
     "hasPage": false
   },
@@ -3415,6 +3476,30 @@
     ],
     "hasPage": true
   },
+  "黑": {
+    "cn": "黑",
+    "py": "hēi",
+    "en": "black",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/bai2_白.html",
+      "pages/characters/hong2_红.html",
+      "pages/characters/se4_色.html"
+    ],
+    "hasPage": true
+  },
+  "红": {
+    "cn": "红",
+    "py": "hóng",
+    "en": "red",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/bai2_白.html",
+      "pages/characters/hei1_黑.html",
+      "pages/characters/se4_色.html"
+    ],
+    "hasPage": true
+  },
   "红包": {
     "cn": "红包",
     "py": "hóngbāo",
@@ -3448,6 +3533,18 @@
       "pages/characters/lai2_来.html",
       "pages/grammar/directional_来去.html",
       "pages/grammar/qilai_起来.html"
+    ],
+    "hasPage": false
+  },
+  "婚礼": {
+    "cn": "婚礼",
+    "py": "hūnlǐ",
+    "en": "wedding",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/hong2_红.html",
+      "pages/characters/li3_礼.html",
+      "pages/characters/nu3_女.html"
     ],
     "hasPage": false
   },
@@ -3799,6 +3896,18 @@
     ],
     "hasPage": true
   },
+  "农历": {
+    "cn": "农历",
+    "py": "nónglì",
+    "en": "the farming (lunar) calendar",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/yin1_阴.html",
+      "pages/science/topic_tiangan_dizhi.html",
+      "pages/vocab/jieqi_节气.html"
+    ],
+    "hasPage": false
+  },
   "普通话": {
     "cn": "普通话",
     "py": "pǔtōnghuà",
@@ -3991,6 +4100,18 @@
     ],
     "hasPage": true
   },
+  "霜": {
+    "cn": "霜",
+    "py": "shuāng",
+    "en": "frost",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/xue3_雪.html",
+      "pages/characters/yu3_雨.html",
+      "pages/characters/yun2_云.html"
+    ],
+    "hasPage": false
+  },
   "四面八方": {
     "cn": "四面八方",
     "py": "sì miàn bā fāng",
@@ -4027,18 +4148,6 @@
     ],
     "hasPage": true
   },
-  "太极": {
-    "cn": "太极",
-    "py": "tàijí",
-    "en": "the Supreme Ultimate",
-    "count": 3,
-    "appearsOn": [
-      "pages/religion/topic_daojiao.html",
-      "pages/vocab/qiankun_乾坤.html",
-      "pages/vocab/yinyang_阴阳.html"
-    ],
-    "hasPage": true
-  },
   "探": {
     "cn": "探",
     "py": "tàn",
@@ -4060,6 +4169,18 @@
       "pages/characters/da3_打.html",
       "pages/characters/jiao3_脚.html",
       "pages/characters/zu2_足.html"
+    ],
+    "hasPage": false
+  },
+  "天气": {
+    "cn": "天气",
+    "py": "tiānqì",
+    "en": "weather",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/feng1_风.html",
+      "pages/characters/xue3_雪.html",
+      "pages/characters/yu3_雨.html"
     ],
     "hasPage": false
   },
@@ -4742,17 +4863,6 @@
     ],
     "hasPage": true
   },
-  "白": {
-    "cn": "白",
-    "py": "bái",
-    "en": "white",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/se4_色.html",
-      "pages/characters/si3_死.html"
-    ],
-    "hasPage": true
-  },
   "白酒": {
     "cn": "白酒",
     "py": "báijiǔ",
@@ -4893,6 +5003,17 @@
     "appearsOn": [
       "pages/characters/shuo1_说.html",
       "pages/vocab/yisi_意思.html"
+    ],
+    "hasPage": false
+  },
+  "冰": {
+    "cn": "冰",
+    "py": "bīng",
+    "en": "ice",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/shui3_水.html",
+      "pages/characters/xue3_雪.html"
     ],
     "hasPage": false
   },
@@ -5974,17 +6095,6 @@
     ],
     "hasPage": false
   },
-  "黑": {
-    "cn": "黑",
-    "py": "hēi",
-    "en": "black",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/bai2_白.html",
-      "pages/characters/se4_色.html"
-    ],
-    "hasPage": false
-  },
   "很多": {
     "cn": "很多",
     "py": "hěn duō",
@@ -5993,17 +6103,6 @@
     "appearsOn": [
       "pages/characters/duo1_多.html",
       "pages/grammar/liangci_量词.html"
-    ],
-    "hasPage": false
-  },
-  "红": {
-    "cn": "红",
-    "py": "hóng",
-    "en": "red",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/bai2_白.html",
-      "pages/characters/se4_色.html"
     ],
     "hasPage": false
   },
@@ -6084,6 +6183,17 @@
     ],
     "hasPage": false
   },
+  "黄": {
+    "cn": "黄",
+    "py": "huáng",
+    "en": "yellow (imperial)",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/hong2_红.html",
+      "pages/characters/se4_色.html"
+    ],
+    "hasPage": false
+  },
   "黄河": {
     "cn": "黄河",
     "py": "Huáng Hé",
@@ -6094,17 +6204,6 @@
       "pages/vocab/jiangshan_江山.html"
     ],
     "hasPage": true
-  },
-  "婚礼": {
-    "cn": "婚礼",
-    "py": "hūnlǐ",
-    "en": "wedding ceremony",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/li3_礼.html",
-      "pages/characters/nu3_女.html"
-    ],
-    "hasPage": false
   },
   "魂": {
     "cn": "魂",
@@ -6722,6 +6821,17 @@
     ],
     "hasPage": false
   },
+  "绿": {
+    "cn": "绿",
+    "py": "lǜ",
+    "en": "green",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/hong2_红.html",
+      "pages/characters/se4_色.html"
+    ],
+    "hasPage": false
+  },
   "落": {
     "cn": "落",
     "py": "luò",
@@ -6854,6 +6964,17 @@
     ],
     "hasPage": true
   },
+  "墨": {
+    "cn": "墨",
+    "py": "mò",
+    "en": "ink",
+    "count": 2,
+    "appearsOn": [
+      "pages/arts/topic_shufa_styles.html",
+      "pages/characters/hei1_黑.html"
+    ],
+    "hasPage": false
+  },
   "墨家": {
     "cn": "墨家",
     "py": "Mòjiā",
@@ -6928,17 +7049,6 @@
     "appearsOn": [
       "pages/characters/ni3_你.html",
       "pages/vocab/limao_礼貌.html"
-    ],
-    "hasPage": false
-  },
-  "农历": {
-    "cn": "农历",
-    "py": "nónglì",
-    "en": "lunar calendar",
-    "count": 2,
-    "appearsOn": [
-      "pages/science/topic_tiangan_dizhi.html",
-      "pages/vocab/jieqi_节气.html"
     ],
     "hasPage": false
   },
@@ -7137,6 +7247,17 @@
     "appearsOn": [
       "pages/characters/gan3_感.html",
       "pages/characters/si1_思.html"
+    ],
+    "hasPage": false
+  },
+  "晴": {
+    "cn": "晴",
+    "py": "qíng",
+    "en": "clear; sunny (the opposite weather)",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/yin1_阴.html",
+      "pages/characters/yun2_云.html"
     ],
     "hasPage": false
   },
@@ -7679,17 +7800,6 @@
     ],
     "hasPage": false
   },
-  "霜": {
-    "cn": "霜",
-    "py": "shuāng",
-    "en": "frost",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/yu3_雨.html",
-      "pages/characters/yun2_云.html"
-    ],
-    "hasPage": false
-  },
   "水墨": {
     "cn": "水墨",
     "py": "shuǐmò",
@@ -7953,17 +8063,6 @@
       "pages/vocab/yinyang_阴阳.html"
     ],
     "hasPage": true
-  },
-  "天气": {
-    "cn": "天气",
-    "py": "tiānqì",
-    "en": "weather",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/feng1_风.html",
-      "pages/characters/yu3_雨.html"
-    ],
-    "hasPage": false
   },
   "天意": {
     "cn": "天意",
@@ -8546,7 +8645,7 @@
       "pages/characters/shui3_水.html",
       "pages/characters/yu3_雨.html"
     ],
-    "hasPage": false
+    "hasPage": true
   },
   "荀子": {
     "cn": "荀子",
@@ -8559,16 +8658,16 @@
     ],
     "hasPage": true
   },
-  "颜色": {
-    "cn": "颜色",
-    "py": "yánsè",
-    "en": "colors and luck",
+  "阳": {
+    "cn": "阳",
+    "py": "yáng",
+    "en": "sun-side; yang; positive",
     "count": 2,
     "appearsOn": [
-      "pages/characters/bai2_白.html",
-      "pages/religion/topic_minjian.html"
+      "pages/characters/tian1_天.html",
+      "pages/characters/yin1_阴.html"
     ],
-    "hasPage": true
+    "hasPage": false
   },
   "养老": {
     "cn": "养老",
@@ -8743,7 +8842,7 @@
       "pages/characters/tian1_天.html",
       "pages/characters/yun2_云.html"
     ],
-    "hasPage": false
+    "hasPage": true
   },
   "音乐": {
     "cn": "音乐",
@@ -8775,6 +8874,17 @@
     "appearsOn": [
       "pages/arts/topic_shuihuzhuan.html",
       "pages/history/topic_sanguo.html"
+    ],
+    "hasPage": false
+  },
+  "影子": {
+    "cn": "影子",
+    "py": "yǐngzi",
+    "en": "shadow",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/hei1_黑.html",
+      "pages/characters/yin1_阴.html"
     ],
     "hasPage": false
   },
@@ -9312,16 +9422,6 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/ai4_爱.html"
-    ],
-    "hasPage": false
-  },
-  "暗": {
-    "cn": "暗",
-    "py": "àn",
-    "en": "dark; dim",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/ming2_明.html"
     ],
     "hasPage": false
   },
@@ -9985,16 +10085,6 @@
     ],
     "hasPage": false
   },
-  "冰": {
-    "cn": "冰",
-    "py": "bīng",
-    "en": "ice",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/shui3_水.html"
-    ],
-    "hasPage": false
-  },
   "兵法": {
     "cn": "兵法",
     "py": "bīngfǎ",
@@ -10642,6 +10732,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/you3_有.html"
+    ],
+    "hasPage": false
+  },
+  "赤": {
+    "cn": "赤",
+    "py": "chì",
+    "en": "deep crimson; bare",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/hong2_红.html"
     ],
     "hasPage": false
   },
@@ -11385,6 +11485,16 @@
     ],
     "hasPage": false
   },
+  "地名": {
+    "cn": "地名",
+    "py": "dìmíng",
+    "en": "place names",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/yin1_阴.html"
+    ],
+    "hasPage": false
+  },
   "地球": {
     "cn": "地球",
     "py": "dìqiú",
@@ -11642,6 +11752,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/bei3_北.html"
+    ],
+    "hasPage": false
+  },
+  "冬天": {
+    "cn": "冬天",
+    "py": "dōngtiān",
+    "en": "winter",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/xue3_雪.html"
     ],
     "hasPage": false
   },
@@ -12002,6 +12122,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/bijiao_比较.html"
+    ],
+    "hasPage": false
+  },
+  "犯罪": {
+    "cn": "犯罪",
+    "py": "fànzuì",
+    "en": "crime",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/hei1_黑.html"
     ],
     "hasPage": false
   },
@@ -12515,6 +12645,16 @@
     ],
     "hasPage": false
   },
+  "革命": {
+    "cn": "革命",
+    "py": "gémìng",
+    "en": "revolution",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/hong2_红.html"
+    ],
+    "hasPage": false
+  },
   "格物": {
     "cn": "格物",
     "py": "géwù",
@@ -12982,6 +13122,16 @@
     "count": 1,
     "appearsOn": [
       "pages/arts/topic_shuihuzhuan.html"
+    ],
+    "hasPage": false
+  },
+  "光明": {
+    "cn": "光明",
+    "py": "guāngmíng",
+    "en": "brightness; hope; justice",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/hei1_黑.html"
     ],
     "hasPage": false
   },
@@ -13625,6 +13775,16 @@
     ],
     "hasPage": false
   },
+  "滑雪": {
+    "cn": "滑雪",
+    "py": "huáxuě",
+    "en": "to ski",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/xue3_雪.html"
+    ],
+    "hasPage": false
+  },
   "化": {
     "cn": "化",
     "py": "huà",
@@ -13732,16 +13892,6 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/hou4_后.html"
-    ],
-    "hasPage": false
-  },
-  "黄": {
-    "cn": "黄",
-    "py": "huáng",
-    "en": "yellow",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/se4_色.html"
     ],
     "hasPage": false
   },
@@ -15605,6 +15755,16 @@
     ],
     "hasPage": false
   },
+  "冷": {
+    "cn": "冷",
+    "py": "lěng",
+    "en": "cold",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/xue3_雪.html"
+    ],
+    "hasPage": false
+  },
   "离": {
     "cn": "离",
     "py": "lí",
@@ -15892,6 +16052,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/gongfu_功夫.html"
+    ],
+    "hasPage": false
+  },
+  "凉": {
+    "cn": "凉",
+    "py": "liáng",
+    "en": "cool",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/yin1_阴.html"
     ],
     "hasPage": false
   },
@@ -16272,16 +16442,6 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/si1_思.html"
-    ],
-    "hasPage": false
-  },
-  "绿": {
-    "cn": "绿",
-    "py": "lǜ",
-    "en": "green",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/se4_色.html"
     ],
     "hasPage": false
   },
@@ -16862,16 +17022,6 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/ren2_人.html"
-    ],
-    "hasPage": false
-  },
-  "墨": {
-    "cn": "墨",
-    "py": "mò",
-    "en": "ink",
-    "count": 1,
-    "appearsOn": [
-      "pages/arts/topic_shufa_styles.html"
     ],
     "hasPage": false
   },
@@ -18012,16 +18162,6 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/gan3_感.html"
-    ],
-    "hasPage": false
-  },
-  "晴": {
-    "cn": "晴",
-    "py": "qíng",
-    "en": "clear (weather)",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/yun2_云.html"
     ],
     "hasPage": false
   },
@@ -20825,6 +20965,16 @@
     ],
     "hasPage": false
   },
+  "网红": {
+    "cn": "网红",
+    "py": "wǎnghóng",
+    "en": "internet celebrity",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/hong2_红.html"
+    ],
+    "hasPage": false
+  },
   "往": {
     "cn": "往",
     "py": "wǎng",
@@ -20872,6 +21022,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/xiao3_小.html"
+    ],
+    "hasPage": false
+  },
+  "围棋": {
+    "cn": "围棋",
+    "py": "wéiqí",
+    "en": "Go (the board game)",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/hei1_黑.html"
     ],
     "hasPage": false
   },
@@ -21062,6 +21222,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/shou3_手.html"
+    ],
+    "hasPage": false
+  },
+  "乌": {
+    "cn": "乌",
+    "py": "wū",
+    "en": "crow-black; dark",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/hei1_黑.html"
     ],
     "hasPage": false
   },
@@ -21464,6 +21634,16 @@
       "pages/characters/ai4_爱.html"
     ],
     "hasPage": true
+  },
+  "喜庆": {
+    "cn": "喜庆",
+    "py": "xǐqìng",
+    "en": "festive; joyous",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/hong2_红.html"
+    ],
+    "hasPage": false
   },
   "戏曲": {
     "cn": "戏曲",
@@ -22425,6 +22605,26 @@
     ],
     "hasPage": false
   },
+  "雪耻": {
+    "cn": "雪耻",
+    "py": "xuěchǐ",
+    "en": "to wipe out a humiliation",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/xue3_雪.html"
+    ],
+    "hasPage": false
+  },
+  "雪人": {
+    "cn": "雪人",
+    "py": "xuěrén",
+    "en": "snowman",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/xue3_雪.html"
+    ],
+    "hasPage": false
+  },
   "血": {
     "cn": "血",
     "py": "xuè",
@@ -22625,16 +22825,6 @@
     ],
     "hasPage": false
   },
-  "阳": {
-    "cn": "阳",
-    "py": "yáng",
-    "en": "sun-side; yang; positive",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/tian1_天.html"
-    ],
-    "hasPage": false
-  },
   "阳历": {
     "cn": "阳历",
     "py": "yánglì",
@@ -22742,6 +22932,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/mu4_木.html"
+    ],
+    "hasPage": false
+  },
+  "夜": {
+    "cn": "夜",
+    "py": "yè",
+    "en": "night",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/hei1_黑.html"
     ],
     "hasPage": false
   },
@@ -24622,6 +24822,16 @@
     "count": 1,
     "appearsOn": [
       "pages/history/topic_zhoudai.html"
+    ],
+    "hasPage": false
+  },
+  "朱": {
+    "cn": "朱",
+    "py": "zhū",
+    "en": "vermilion",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/hong2_红.html"
     ],
     "hasPage": false
   },

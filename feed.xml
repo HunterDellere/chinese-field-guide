@@ -6,7 +6,7 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A reading nook for Chinese language and civilisation. Characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Jun 2026 17:09:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 22:26:29 GMT</lastBuildDate>
     <item>
       <title>八 · eight; the luckiest number and the eight trigrams</title>
       <link>https://jiaoshoo.com/pages/characters/ba1_八.html</link>
@@ -16,11 +16,27 @@
       <category>characters</category>
     </item>
     <item>
+      <title>黑 · black, darkness, and the illicit</title>
+      <link>https://jiaoshoo.com/pages/characters/hei1_黑.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/hei1_黑.html</guid>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Black on the surface, but the live sense is moral: the black market, the underworld, the hacker. The color that names everything that operates out of sight.</description>
+      <category>characters</category>
+    </item>
+    <item>
       <title>很 · very; the empty intensifier</title>
       <link>https://jiaoshoo.com/pages/characters/hen3_很.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/hen3_很.html</guid>
       <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
       <description>很 is the word for very, but its strangest job is doing nothing: Chinese needs a degree adverb before a plain adjective, and 很 fills that slot so quietly that 我很好 means simply I am fine, not I am very well.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>红 · red, the color of luck and celebration</title>
+      <link>https://jiaoshoo.com/pages/characters/hong2_红.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/hong2_红.html</guid>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
+      <description>The cultural keystone color: weddings, New Year, the red envelope, and a century of revolutionary politics all run through this one character.</description>
       <category>characters</category>
     </item>
     <item>
@@ -109,6 +125,22 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/wu3_五.html</guid>
       <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
       <description>Five is the center plus the four directions, the number that completes the Chinese cosmos: five phases, five colors, five tones, five flavors, five viscera, all keyed to one master grid.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>雪 · snow, whiteness, and vengeance</title>
+      <link>https://jiaoshoo.com/pages/characters/xue3_雪.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/xue3_雪.html</guid>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Rain over a sweeping hand: snow is the precipitation you can hold. The same character means dazzling white and, by a buried metaphor, to wipe clean an old grievance.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>阴 · the shaded slope, the lunar, the covert</title>
+      <link>https://jiaoshoo.com/pages/characters/yin1_阴.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/yin1_阴.html</guid>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
+      <description>The shadow half of the cosmos and the everyday word for an overcast day. From the dark side of a hill grew the lunar calendar, the hidden plot, and time itself as light and shade.</description>
       <category>characters</category>
     </item>
     <item>
@@ -214,38 +246,6 @@
       <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
       <description>The all-purpose question word for manner and reason: how to do something, what is wrong, and the surprised &quot;how come,&quot; plus how 怎么 differs from 为什么 and 怎么样.</description>
       <category>grammar</category>
-    </item>
-    <item>
-      <title>然后 · then; after that</title>
-      <link>https://jiaoshoo.com/pages/vocab/ranhou_然后.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/ranhou_然后.html</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
-      <description>The everyday sequence word for &quot;then, after that,&quot; the 先…然后… frame for ordering steps, its overuse as a spoken filler, and how it differs from 接着, 后来, and 于是.</description>
-      <category>vocab</category>
-    </item>
-    <item>
-      <title>一定 · definitely; certainly</title>
-      <link>https://jiaoshoo.com/pages/vocab/yiding_一定.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/yiding_一定.html</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
-      <description>The everyday word for &quot;certainly, definitely,&quot; covering both confident prediction and firm resolve, the 一定要 (must) pattern, and how it differs from 肯定, 必须, and 一定会.</description>
-      <category>vocab</category>
-    </item>
-    <item>
-      <title>一起 · together</title>
-      <link>https://jiaoshoo.com/pages/vocab/yiqi_一起.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/yiqi_一起.html</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
-      <description>The everyday word for &quot;together,&quot; the 跟…一起 frame for joint action, the &quot;in one place&quot; sense, the &quot;altogether&quot; use of 一起, and how it differs from 一块儿, 一同, and 一共.</description>
-      <category>vocab</category>
-    </item>
-    <item>
-      <title>终于 · finally, at last</title>
-      <link>https://jiaoshoo.com/pages/vocab/zhongyu_终于.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/zhongyu_终于.html</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
-      <description>The adverb for &quot;finally, at last,&quot; used when something long-awaited or hard-won comes to pass, where it sits in a sentence, and how it differs from 最后, 总算, and 到底.</description>
-      <category>vocab</category>
     </item>
   </channel>
 </rss>
