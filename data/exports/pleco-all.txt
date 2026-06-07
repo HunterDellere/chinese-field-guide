@@ -1,5 +1,6 @@
 //角落書屋/Characters
 爱	ài	love, to love, to cherish — Love in all its forms: romantic, familial, and the Confucian ethic of universal benevolence.
+八	bā	eight; the luckiest number and the eight trigrams — Eight is the most coveted number in modern China through its near-homophony with 发 fā (to prosper), and the classical foundation of the eight trigrams that structure the Yijing.
 白	bái	white, clear, plain, in vain — Sunlight on a single point. The character that names the color of mourning, the color of clarity, the empty plate, and the speech that hides nothing.
 百	bǎi	hundred; all kinds of — 百姓, the hundred surnames, is classical Chinese for the common people, because the full range of ordinary family names stands in for everyone who is not nobility.
 北	běi	north; northern; to flee — Two people standing back-to-back: the direction of cold and turning away that became the name of China's capital.
@@ -45,6 +46,7 @@
 脚	jiǎo	foot, base — The everyday word for foot, and by extension the base of any standing thing: a mountain, a wall, a script. The flesh-and-bone counterpart to literary 足.
 金	jīn	gold, metal, money — Nuggets of gold beneath the earth, and one of the Five Phases that governs autumn, the west, and sharpness.
 近	jìn	near; close; recent — Walking toward something as close as a hatchet strike, and the character that covers both spatial proximity and the specific historical era Chinese scholars call the modern period.
+九	jiǔ	nine; the imperial number and the highest of the yang — Nine is the largest single digit and the highest yang number, reserved for the emperor and the heavens: nine dragons, nine gates, the Nine-Five supreme position, the ninth heaven.
 旧	jiù	old; used; former; worn — The antonym of 新, and much more than it. 旧 carries both the weight of cherished tradition and the stigma of backwardness, depending entirely on who is speaking.
 开	kāi	to open, to start, to operate — Two hands lifting the bar across a closed gate. From that single image flow most of modern life: opening a door, starting a meeting, driving a car, writing a check, blooming.
 看	kàn	to look, to watch, to read, to visit — 看 = hand above eye, shielding from the sun to see in the distance: visual attention with effort, encoded in a gesture everyone has made.
@@ -58,6 +60,9 @@
 雷	léi	thunder, the Arousing — Rain over fields struck by lightning: the ancient pictograph of thunder that became a deity, a Yijing trigram, and a metaphor for decisive force.
 礼	lǐ	rites, ceremony, propriety — The character that encodes Confucian social order: the ceremonial forms that bind family, society, and cosmos into one coherent whole.
 里	lǐ	inside, within; Chinese mile — From field stacked on earth, 里 named the bounded cultivated interior of a settlement and became the unit of distance that measured the realm's interior reach.
+两	liǎng	two (of); a pair; the tael, the other word for two — 两 is the two used before measure words, the two of quantity and pairing, as opposed to 二 the two of counting and order, a distinction that is one of the first real puzzles a learner meets.
+零	líng	zero; raindrops, the fractional remainder, and the late invention of nothing — Zero began as falling raindrops and the leftover odd remainder, taking on the meaning of mathematical nothing only late, the placeholder that Chinese numerals long managed without.
+六	liù	six; the six directions; a smooth and lucky number — Six closes space into the six directions (the four compass points plus up and down) and, through its near-homophony with 流 liú (to flow), became a number for things going smoothly.
 龙	lóng	dragon, the imperial symbol — China's most powerful mythic creature: benevolent, not fearsome; the emperor's emblem and the Chinese people's self-described totem.
 路	lù	road, path, route — The walked road, where 道 is the navigated way: 路 is the surface beneath the foot, the route the messenger takes, the journey of a life measured in distance.
 落	luò	to fall, to settle, to land — Falling, settling, and the beauty of things arriving at their place.
@@ -74,8 +79,10 @@
 女	nǚ	woman, female — A kneeling figure with crossed arms: one of the most productive radicals in the script, present in characters for family relationships, feelings, and cultural concepts.
 跑	pǎo	to run; to flee; to operate — The everyday verb of running: a foot-radical character whose semantic range stretches from "the legs in motion" to "running an errand" to "the engine is running" to a small but productive family of escape-and-flee compounds.
 品	pǐn	article, grade, character, to taste — Three mouths stacked: a character about multiplicity, evaluation, and the discerning assessment of quality, from product grades to moral character.
+七	qī	seven; the rhythm of mourning, festival, and the soul — Seven measures the cycles of death and renewal in Chinese culture: the seven-day periods of mourning, the seventh-night lovers' festival, and the seven emotions of the heart.
 其	qí	its, that, their — A winnowing basket that became the pronoun holding classical Chinese together: the silent 'its' behind thousands of literary phrases.
 气	qì	breath, vital energy — From weather to anger to the cosmic force underlying TCM and martial arts.
+千	qiān	thousand; a vast, uncountable many — Thousand is the order of magnitude where a precise count gives way to poetic vastness: a thousand miles, a thousand autumns, ten thousand changes, the number that means simply too many to count.
 前	qián	front, before, forward; former — Chinese places the past in front (前) and the future behind: the known faces you while the unknown approaches from behind, the inverse of the English spatial metaphor for time.
 钱	qián	money, coin, currency — Money: the character that drives markets, proverbs, and the Chinese conversation about wealth.
 去	qù	to go, to leave, to depart, to remove — The character that marks every departure, from leaving the house to the euphemism for death. 去 is the verb of things moving away.
@@ -100,6 +107,7 @@
 说	shuō	to speak, to say, to explain — To speak, say, explain, and persuade: the character at the center of all communication.
 思	sī	to think, to miss, thought — The field of the mind above the heart: thinking as cultivation, longing as thought turned inward.
 死	sǐ	death, to die, dead, fixed — A figure kneeling beside a corpse. The character behind the strongest verb of finality in Chinese, the bedrock of every taboo, and the intensifier that turns 累 into 累死了.
+四	sì	four; the four directions; the homophone of death — Four organizes the Chinese world into quarters, the four directions, four seas, four seasons, yet its near-homophony with 死 sǐ (death) makes it the most avoided number in modern China.
 他	tā	he, him; another — 他 was gender-neutral for a millennium until 她 was coined in 1917 to solve a translation problem that Classical Chinese had never needed to solve.
 她	tā	she, her — 她 is the youngest character in everyday Chinese, invented in 1917 to translate "she," and the cause of one of the loudest grammatical fights in modern Chinese letters.
 天	tiān	sky, heaven, day — Heaven as moral authority, weather, time, and the ground of 天命 the Mandate of Heaven.
@@ -113,6 +121,7 @@
 我	wǒ	I, me, myself — The character for 'I' began as a toothed bronze halberd: the assertive grip of a weapon became the grammatical mark of a self.
 屋	wū	room, house, dwelling — Room, dwelling, and the human need for shelter: the character at home.
 无	wú	nothing, without, non-being — A dancer with arms outstretched, holding nothing. The character behind every Chinese negation of having, every Daoist non-doing, and the philosophical pole that pairs with 有 to frame the whole cosmos.
+五	wǔ	five; the organizing number of correlative cosmology — Five is the center plus the four directions, the number that completes the Chinese cosmos: five phases, five colors, five tones, five flavors, five viscera, all keyed to one master grid.
 西	xī	west; western — A bird settling into its nest at sunset: the direction that gave Chinese the word for "things" when it paired with east.
 下	xià	below, down, to descend, to issue — The mirror image of 上: a notch below the line that governs everything from going downstairs to issuing imperial decrees.
 想	xiǎng	to think, to want, to miss — 想 = 相 (mutual, facing) + 心 (heart): the heart turned toward something, carrying the full range from thought to desire to longing in a single gesture.

@@ -1,5 +1,176 @@
 [
   {
+    "path": "pages/characters/ba1_八.html",
+    "type": "character",
+    "category": "characters",
+    "title": "八 · eight; the luckiest number and the eight trigrams",
+    "desc": "Eight is the most coveted number in modern China through its near-homophony with 发 fā (to prosper), and the classical foundation of the eight trigrams that structure the Yijing.",
+    "tags": [
+      "cosmology",
+      "culture",
+      "language"
+    ],
+    "status": "complete",
+    "char": "八",
+    "pinyin": "bā",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "八",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/jiu3_九.html",
+    "type": "character",
+    "category": "characters",
+    "title": "九 · nine; the imperial number and the highest of the yang",
+    "desc": "Nine is the largest single digit and the highest yang number, reserved for the emperor and the heavens: nine dragons, nine gates, the Nine-Five supreme position, the ninth heaven.",
+    "tags": [
+      "cosmology",
+      "culture",
+      "language"
+    ],
+    "status": "complete",
+    "char": "九",
+    "pinyin": "jiǔ",
+    "tone": 3,
+    "hsk": 1,
+    "radical": "乙",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/liang3_两.html",
+    "type": "character",
+    "category": "characters",
+    "title": "两 · two (of); a pair; the tael, the other word for two",
+    "desc": "两 is the two used before measure words, the two of quantity and pairing, as opposed to 二 the two of counting and order, a distinction that is one of the first real puzzles a learner meets.",
+    "tags": [
+      "language",
+      "grammar",
+      "daily-life"
+    ],
+    "status": "complete",
+    "char": "两",
+    "pinyin": "liǎng",
+    "tone": 3,
+    "hsk": 2,
+    "radical": "一",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/ling2_零.html",
+    "type": "character",
+    "category": "characters",
+    "title": "零 · zero; raindrops, the fractional remainder, and the late invention of nothing",
+    "desc": "Zero began as falling raindrops and the leftover odd remainder, taking on the meaning of mathematical nothing only late, the placeholder that Chinese numerals long managed without.",
+    "tags": [
+      "language",
+      "science",
+      "cosmology"
+    ],
+    "status": "complete",
+    "char": "零",
+    "pinyin": "líng",
+    "tone": 2,
+    "hsk": 2,
+    "radical": "雨",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/liu4_六.html",
+    "type": "character",
+    "category": "characters",
+    "title": "六 · six; the six directions; a smooth and lucky number",
+    "desc": "Six closes space into the six directions (the four compass points plus up and down) and, through its near-homophony with 流 liú (to flow), became a number for things going smoothly.",
+    "tags": [
+      "cosmology",
+      "space",
+      "language"
+    ],
+    "status": "complete",
+    "char": "六",
+    "pinyin": "liù",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "八",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/qi1_七.html",
+    "type": "character",
+    "category": "characters",
+    "title": "七 · seven; the rhythm of mourning, festival, and the soul",
+    "desc": "Seven measures the cycles of death and renewal in Chinese culture: the seven-day periods of mourning, the seventh-night lovers' festival, and the seven emotions of the heart.",
+    "tags": [
+      "cosmology",
+      "culture",
+      "language"
+    ],
+    "status": "complete",
+    "char": "七",
+    "pinyin": "qī",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "一",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/qian1_千.html",
+    "type": "character",
+    "category": "characters",
+    "title": "千 · thousand; a vast, uncountable many",
+    "desc": "Thousand is the order of magnitude where a precise count gives way to poetic vastness: a thousand miles, a thousand autumns, ten thousand changes, the number that means simply too many to count.",
+    "tags": [
+      "language",
+      "literature",
+      "cosmology"
+    ],
+    "status": "complete",
+    "char": "千",
+    "pinyin": "qiān",
+    "tone": 1,
+    "hsk": 2,
+    "radical": "十",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/si4_四.html",
+    "type": "character",
+    "category": "characters",
+    "title": "四 · four; the four directions; the homophone of death",
+    "desc": "Four organizes the Chinese world into quarters, the four directions, four seas, four seasons, yet its near-homophony with 死 sǐ (death) makes it the most avoided number in modern China.",
+    "tags": [
+      "cosmology",
+      "space",
+      "language"
+    ],
+    "status": "complete",
+    "char": "四",
+    "pinyin": "sì",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "囗",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/wu3_五.html",
+    "type": "character",
+    "category": "characters",
+    "title": "五 · five; the organizing number of correlative cosmology",
+    "desc": "Five is the center plus the four directions, the number that completes the Chinese cosmos: five phases, five colors, five tones, five flavors, five viscera, all keyed to one master grid.",
+    "tags": [
+      "cosmology",
+      "philosophy",
+      "language"
+    ],
+    "status": "complete",
+    "char": "五",
+    "pinyin": "wǔ",
+    "tone": 3,
+    "hsk": 1,
+    "radical": "二",
+    "updated": "2026-06-07"
+  },
+  {
     "path": "pages/grammar/gen_跟.html",
     "type": "grammar",
     "category": "grammar",
