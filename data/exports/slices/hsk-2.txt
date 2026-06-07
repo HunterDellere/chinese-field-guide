@@ -22,6 +22,8 @@
 日	rì	sun, day, Japan — The oldest pictograph in the script: a circle with a dot for the sun, now a radical in hundreds of characters related to time, light, and warmth.
 色	sè	color, appearance, desire — A kneeling figure beneath a person: color as visible manifestation, and the character that links aesthetics to desire.
 手	shǒu	hand — A five-fingered hand drawn from life: one of the most productive radicals in the script, present in hundreds of action characters.
+它	tā	it; the non-human third person — 它 began as a picture of a snake and once meant other; in the twentieth century it was reassigned to the non-human third person, completing the homophonous 他/她/它 triad that exists only in writing.
+完	wán	to finish; to be whole — 完 means both whole and finished, and the bridge between them is intact completeness; its most important job is as a result complement, the 完 that ends 吃完, 做完, and 看完.
 为	wéi	to do; to act; for; because of — In oracle bone script, a hand leading an elephant (to guide an immense force through skillful agency), and the character at the center of the Daoist concept of non-action.
 文	wén	writing, culture, civil — A tattooed figure: writing as marks on the body, culture as the accumulated markings of civilization.
 想	xiǎng	to think, to want, to miss — 想 = 相 (mutual, facing) + 心 (heart): the heart turned toward something, carrying the full range from thought to desire to longing in a single gesture.
@@ -39,6 +41,7 @@
 再	zài	again, then, further — The adverb that sequences and repeats: again, one more time, and the subtle art of "and then."
 真	zhēn	real, true, genuine — Truth not as accuracy but as authenticity: the unadorned thing itself, prized in Daoist self-cultivation and in everyday emphasis.
 知	zhī	to know; knowledge — 知 = arrow + mouth: knowledge as the swift, target-hitting utterance, and in Wang Yangming, the act of knowing is inseparable from the act of doing.
+最	zuì	most; the superlative marker — 最 is the single word that pushes any adjective to its limit: the -est of English, the most of comparison, the marker that turns 好 into 最好 and 后 into 最后.
 左	zuǒ	left; unorthodox; to assist — A left hand holding a carpenter's square: the assisting hand at the ruler, and by extension the word for unorthodox, heterodox, and everything that deviates from the orthodox path.
 方向	fāng xiàng	direction; orientation — 方向 is the compass-word that holds together physical heading, life direction, political orientation, and the deeply Chinese sense that getting your bearings: 辨方向, is the first move in any undertaking.
 工作	gōng zuò	work, job — The everyday word for work, both the activity and the job itself, and how it differs from 上班 (to go to work), 职业 (occupation), and 事业 (career).

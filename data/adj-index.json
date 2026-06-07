@@ -1432,6 +1432,20 @@
     ],
     "hasPage": true
   },
+  "比较": {
+    "cn": "比较",
+    "py": "bǐjiào",
+    "en": "to compare; comparison",
+    "count": 5,
+    "appearsOn": [
+      "pages/characters/zui4_最.html",
+      "pages/grammar/hai_还.html",
+      "pages/grammar/taiLe_太了.html",
+      "pages/grammar/yiyang_xiang_一样像.html",
+      "pages/vocab/zhengzai_正在.html"
+    ],
+    "hasPage": true
+  },
   "春节": {
     "cn": "春节",
     "py": "chūnjié",
@@ -1527,6 +1541,20 @@
       "pages/culture/topic_zhongyuan.html",
       "pages/history/topic_handai.html",
       "pages/vocab/renjian_人间.html"
+    ],
+    "hasPage": true
+  },
+  "更": {
+    "cn": "更",
+    "py": "gèng",
+    "en": "even more",
+    "count": 5,
+    "appearsOn": [
+      "pages/characters/hen3_很.html",
+      "pages/characters/zui4_最.html",
+      "pages/grammar/hai_还.html",
+      "pages/grammar/yuelaiyue_越来越.html",
+      "pages/vocab/bijiao_比较.html"
     ],
     "hasPage": true
   },
@@ -1754,6 +1782,20 @@
     ],
     "hasPage": true
   },
+  "她": {
+    "cn": "她",
+    "py": "tā",
+    "en": "she; her",
+    "count": 5,
+    "appearsOn": [
+      "pages/characters/nu3_女.html",
+      "pages/characters/ta1_他.html",
+      "pages/characters/ta1_它.html",
+      "pages/characters/wo3_我.html",
+      "pages/characters/ye3_也.html"
+    ],
+    "hasPage": true
+  },
   "天地": {
     "cn": "天地",
     "py": "tiāndì",
@@ -1866,6 +1908,20 @@
     ],
     "hasPage": true
   },
+  "作": {
+    "cn": "作",
+    "py": "zuò",
+    "en": "to do; to write; to compose",
+    "count": 5,
+    "appearsOn": [
+      "pages/characters/wei2_为.html",
+      "pages/characters/xie3_写.html",
+      "pages/characters/xing2_行.html",
+      "pages/characters/yong4_用.html",
+      "pages/characters/zuo4_做.html"
+    ],
+    "hasPage": false
+  },
   "爱": {
     "cn": "爱",
     "py": "ài",
@@ -1902,19 +1958,6 @@
       "pages/grammar/yidian_youdian_一点儿有点儿.html",
       "pages/grammar/yiyang_xiang_一样像.html",
       "pages/vocab/bijiao_比较.html"
-    ],
-    "hasPage": true
-  },
-  "比较": {
-    "cn": "比较",
-    "py": "bǐjiào",
-    "en": "to compare; relatively — 还's comparative-meaning sibling",
-    "count": 4,
-    "appearsOn": [
-      "pages/grammar/hai_还.html",
-      "pages/grammar/taiLe_太了.html",
-      "pages/grammar/yiyang_xiang_一样像.html",
-      "pages/vocab/zhengzai_正在.html"
     ],
     "hasPage": true
   },
@@ -2113,6 +2156,32 @@
     ],
     "hasPage": false
   },
+  "好": {
+    "cn": "好",
+    "py": "hǎo",
+    "en": "good (woman + child)",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/nu3_女.html",
+      "pages/characters/wan2_完.html",
+      "pages/grammar/ba_把.html",
+      "pages/grammar/le_了.html"
+    ],
+    "hasPage": true
+  },
+  "很": {
+    "cn": "很",
+    "py": "hěn",
+    "en": "very",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/geng4_更.html",
+      "pages/characters/zui4_最.html",
+      "pages/grammar/taiLe_太了.html",
+      "pages/grammar/yidian_youdian_一点儿有点儿.html"
+    ],
+    "hasPage": true
+  },
   "皇帝": {
     "cn": "皇帝",
     "py": "huángdì",
@@ -2308,6 +2377,19 @@
     ],
     "hasPage": true
   },
+  "你": {
+    "cn": "你",
+    "py": "nǐ",
+    "en": "you",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/ta1_他.html",
+      "pages/characters/ta1_她.html",
+      "pages/characters/ta1_它.html",
+      "pages/characters/wo3_我.html"
+    ],
+    "hasPage": true
+  },
   "跑": {
     "cn": "跑",
     "py": "pǎo",
@@ -2490,16 +2572,16 @@
     ],
     "hasPage": false
   },
-  "她": {
-    "cn": "她",
+  "他": {
+    "cn": "他",
     "py": "tā",
-    "en": "she; her",
+    "en": "he",
     "count": 4,
     "appearsOn": [
-      "pages/characters/nu3_女.html",
-      "pages/characters/ta1_他.html",
-      "pages/characters/wo3_我.html",
-      "pages/characters/ye3_也.html"
+      "pages/characters/ni3_你.html",
+      "pages/characters/ta1_她.html",
+      "pages/characters/ta1_它.html",
+      "pages/characters/wo3_我.html"
     ],
     "hasPage": true
   },
@@ -2539,6 +2621,19 @@
       "pages/vocab/limao_礼貌.html",
       "pages/vocab/lishi_历史.html",
       "pages/vocab/wenhua_文化.html"
+    ],
+    "hasPage": true
+  },
+  "我": {
+    "cn": "我",
+    "py": "wǒ",
+    "en": "I, me",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/ni3_你.html",
+      "pages/characters/ta1_他.html",
+      "pages/characters/ta1_她.html",
+      "pages/characters/ta1_它.html"
     ],
     "hasPage": true
   },
@@ -2776,16 +2871,16 @@
     ],
     "hasPage": true
   },
-  "作": {
-    "cn": "作",
-    "py": "zuò",
-    "en": "to do; to write; to compose",
+  "最后": {
+    "cn": "最后",
+    "py": "zuìhòu",
+    "en": "finally; last",
     "count": 4,
     "appearsOn": [
-      "pages/characters/wei2_为.html",
-      "pages/characters/xie3_写.html",
-      "pages/characters/xing2_行.html",
-      "pages/characters/yong4_用.html"
+      "pages/characters/hou4_后.html",
+      "pages/characters/zui4_最.html",
+      "pages/vocab/ranhou_然后.html",
+      "pages/vocab/zhongyu_终于.html"
     ],
     "hasPage": false
   },
@@ -3089,6 +3184,18 @@
     ],
     "hasPage": false
   },
+  "非常": {
+    "cn": "非常",
+    "py": "fēicháng",
+    "en": "extremely",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/hen3_很.html",
+      "pages/characters/zui4_最.html",
+      "pages/grammar/taiLe_太了.html"
+    ],
+    "hasPage": false
+  },
   "风俗": {
     "cn": "风俗",
     "py": "fēngsú",
@@ -3125,18 +3232,6 @@
     ],
     "hasPage": true
   },
-  "更": {
-    "cn": "更",
-    "py": "gèng",
-    "en": "even more (neutral degree)",
-    "count": 3,
-    "appearsOn": [
-      "pages/grammar/hai_还.html",
-      "pages/grammar/yuelaiyue_越来越.html",
-      "pages/vocab/bijiao_比较.html"
-    ],
-    "hasPage": true
-  },
   "故": {
     "cn": "故",
     "py": "gù",
@@ -3148,18 +3243,6 @@
       "pages/grammar/zhi_之.html"
     ],
     "hasPage": false
-  },
-  "好": {
-    "cn": "好",
-    "py": "hǎo",
-    "en": "good (woman + child)",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/nu3_女.html",
-      "pages/grammar/ba_把.html",
-      "pages/grammar/le_了.html"
-    ],
-    "hasPage": true
   },
   "合": {
     "cn": "合",
@@ -3184,18 +3267,6 @@
       "pages/grammar/gen_跟.html"
     ],
     "hasPage": true
-  },
-  "很": {
-    "cn": "很",
-    "py": "hěn",
-    "en": "very",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/geng4_更.html",
-      "pages/grammar/taiLe_太了.html",
-      "pages/grammar/yidian_youdian_一点儿有点儿.html"
-    ],
-    "hasPage": false
   },
   "红包": {
     "cn": "红包",
@@ -3545,18 +3616,6 @@
     ],
     "hasPage": true
   },
-  "你": {
-    "cn": "你",
-    "py": "nǐ",
-    "en": "you",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/ta1_他.html",
-      "pages/characters/ta1_她.html",
-      "pages/characters/wo3_我.html"
-    ],
-    "hasPage": true
-  },
   "年": {
     "cn": "年",
     "py": "nián",
@@ -3821,18 +3880,6 @@
     ],
     "hasPage": true
   },
-  "他": {
-    "cn": "他",
-    "py": "tā",
-    "en": "he",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/ni3_你.html",
-      "pages/characters/ta1_她.html",
-      "pages/characters/wo3_我.html"
-    ],
-    "hasPage": true
-  },
   "台湾": {
     "cn": "台湾",
     "py": "Táiwān",
@@ -3905,6 +3952,18 @@
     ],
     "hasPage": false
   },
+  "完全": {
+    "cn": "完全",
+    "py": "wánquán",
+    "en": "completely; entirely",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/shi2_十.html",
+      "pages/characters/wan2_完.html",
+      "pages/grammar/lian_dou_连都.html"
+    ],
+    "hasPage": false
+  },
   "万里": {
     "cn": "万里",
     "py": "wànlǐ",
@@ -3928,18 +3987,6 @@
       "pages/vocab/tiandi_天地.html"
     ],
     "hasPage": false
-  },
-  "我": {
-    "cn": "我",
-    "py": "wǒ",
-    "en": "I, me",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/ni3_你.html",
-      "pages/characters/ta1_他.html",
-      "pages/characters/ta1_她.html"
-    ],
-    "hasPage": true
   },
   "五经": {
     "cn": "五经",
@@ -4349,6 +4396,18 @@
     ],
     "hasPage": true
   },
+  "真": {
+    "cn": "真",
+    "py": "zhēn",
+    "en": "really, truly",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/hen3_很.html",
+      "pages/characters/shi4_是.html",
+      "pages/vocab/renzhen_认真.html"
+    ],
+    "hasPage": true
+  },
   "正名": {
     "cn": "正名",
     "py": "zhèngmíng",
@@ -4481,18 +4540,6 @@
     ],
     "hasPage": true
   },
-  "最后": {
-    "cn": "最后",
-    "py": "zuìhòu",
-    "en": "finally; last",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/hou4_后.html",
-      "pages/vocab/ranhou_然后.html",
-      "pages/vocab/zhongyu_终于.html"
-    ],
-    "hasPage": false
-  },
   "左右": {
     "cn": "左右",
     "py": "zuǒyòu",
@@ -4515,7 +4562,7 @@
       "pages/characters/wei2_为.html",
       "pages/characters/xing2_行.html"
     ],
-    "hasPage": false
+    "hasPage": true
   },
   "爱国": {
     "cn": "爱国",
@@ -5155,6 +5202,17 @@
     ],
     "hasPage": false
   },
+  "第三人称": {
+    "cn": "第三人称",
+    "py": "dì sān rénchēng",
+    "en": "third person",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/ta1_他.html",
+      "pages/characters/ta1_它.html"
+    ],
+    "hasPage": false
+  },
   "电": {
     "cn": "电",
     "py": "diàn",
@@ -5408,6 +5466,17 @@
     ],
     "hasPage": true
   },
+  "干": {
+    "cn": "干",
+    "py": "gān",
+    "en": "to do; to work (colloquial)",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/wei2_为.html",
+      "pages/characters/zuo4_做.html"
+    ],
+    "hasPage": false
+  },
   "刚": {
     "cn": "刚",
     "py": "gāng",
@@ -5614,6 +5683,17 @@
     "appearsOn": [
       "pages/religion/topic_amituojing.html",
       "pages/religion/topic_fojing.html"
+    ],
+    "hasPage": false
+  },
+  "光": {
+    "cn": "光",
+    "py": "guāng",
+    "en": "light",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/dian4_电.html",
+      "pages/characters/wan2_完.html"
     ],
     "hasPage": false
   },
@@ -5914,6 +5994,17 @@
     ],
     "hasPage": false
   },
+  "极": {
+    "cn": "极",
+    "py": "jí",
+    "en": "extremely",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/geng4_更.html",
+      "pages/characters/zui4_最.html"
+    ],
+    "hasPage": false
+  },
   "记忆": {
     "cn": "记忆",
     "py": "jìyì",
@@ -6032,6 +6123,17 @@
     "appearsOn": [
       "pages/characters/lu4_路.html",
       "pages/characters/xing2_行.html"
+    ],
+    "hasPage": false
+  },
+  "结束": {
+    "cn": "结束",
+    "py": "jiéshù",
+    "en": "to conclude",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/kai1_开.html",
+      "pages/characters/wan2_完.html"
     ],
     "hasPage": false
   },
@@ -6937,6 +7039,28 @@
     ],
     "hasPage": false
   },
+  "全": {
+    "cn": "全",
+    "py": "quán",
+    "en": "whole, all",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/wan2_完.html",
+      "pages/grammar/dou_都.html"
+    ],
+    "hasPage": false
+  },
+  "缺": {
+    "cn": "缺",
+    "py": "quē",
+    "en": "to lack; defect",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/wan2_完.html",
+      "pages/characters/you3_有.html"
+    ],
+    "hasPage": false
+  },
   "然后": {
     "cn": "然后",
     "py": "ránhòu",
@@ -6956,6 +7080,17 @@
     "appearsOn": [
       "pages/characters/ni3_你.html",
       "pages/characters/wo3_我.html"
+    ],
+    "hasPage": false
+  },
+  "人称代词": {
+    "cn": "人称代词",
+    "py": "rénchēng dàicí",
+    "en": "personal pronoun",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/ta1_他.html",
+      "pages/characters/ta1_它.html"
     ],
     "hasPage": false
   },
@@ -7277,6 +7412,17 @@
       "pages/history/topic_zhoudai.html"
     ],
     "hasPage": true
+  },
+  "十分": {
+    "cn": "十分",
+    "py": "shífēn",
+    "en": "fully, completely",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/hen3_很.html",
+      "pages/characters/shi2_十.html"
+    ],
+    "hasPage": false
   },
   "时": {
     "cn": "时",
@@ -7628,6 +7774,17 @@
       "pages/characters/ta1_他.html",
       "pages/characters/ta1_她.html"
     ],
+    "hasPage": true
+  },
+  "太": {
+    "cn": "太",
+    "py": "tài",
+    "en": "too; excessively (from 大)",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/da4_大.html",
+      "pages/characters/hen3_很.html"
+    ],
     "hasPage": false
   },
   "太平天国": {
@@ -7793,16 +7950,16 @@
       "pages/grammar/ba_把.html",
       "pages/grammar/le_了.html"
     ],
-    "hasPage": false
+    "hasPage": true
   },
-  "完全": {
-    "cn": "完全",
-    "py": "wánquán",
-    "en": "completely; entirely",
+  "完美": {
+    "cn": "完美",
+    "py": "wánměi",
+    "en": "perfect; flawless",
     "count": 2,
     "appearsOn": [
-      "pages/characters/shi2_十.html",
-      "pages/grammar/lian_dou_连都.html"
+      "pages/characters/mei3_美.html",
+      "pages/characters/wan2_完.html"
     ],
     "hasPage": false
   },
@@ -8696,17 +8853,6 @@
     ],
     "hasPage": true
   },
-  "真": {
-    "cn": "真",
-    "py": "zhēn",
-    "en": "true; genuine",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/shi4_是.html",
-      "pages/vocab/renzhen_认真.html"
-    ],
-    "hasPage": true
-  },
   "正统": {
     "cn": "正统",
     "py": "zhèngtǒng",
@@ -8980,7 +9126,7 @@
       "pages/characters/geng4_更.html",
       "pages/vocab/bijiao_比较.html"
     ],
-    "hasPage": false
+    "hasPage": true
   },
   "尊重": {
     "cn": "尊重",
@@ -9003,6 +9149,17 @@
       "pages/vocab/fangxiang_方向.html"
     ],
     "hasPage": true
+  },
+  "做到": {
+    "cn": "做到",
+    "py": "zuòdào",
+    "en": "to accomplish",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/dao4_到.html",
+      "pages/characters/zuo4_做.html"
+    ],
+    "hasPage": false
   },
   "阿弥陀经": {
     "cn": "阿弥陀经",
@@ -10284,6 +10441,16 @@
     ],
     "hasPage": false
   },
+  "程度": {
+    "cn": "程度",
+    "py": "chéngdù",
+    "en": "degree, extent",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/hen3_很.html"
+    ],
+    "hasPage": false
+  },
   "程度补语": {
     "cn": "程度补语",
     "py": "chéngdù bǔyǔ",
@@ -11224,16 +11391,6 @@
     ],
     "hasPage": false
   },
-  "第三人称": {
-    "cn": "第三人称",
-    "py": "dì sān rénchēng",
-    "en": "third person",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/ta1_他.html"
-    ],
-    "hasPage": false
-  },
   "第一人称": {
     "cn": "第一人称",
     "py": "dì-yī rénchēng",
@@ -11814,16 +11971,6 @@
     ],
     "hasPage": false
   },
-  "非常": {
-    "cn": "非常",
-    "py": "fēicháng",
-    "en": "extremely (formal intensifier)",
-    "count": 1,
-    "appearsOn": [
-      "pages/grammar/taiLe_太了.html"
-    ],
-    "hasPage": false
-  },
   "非遗": {
     "cn": "非遗",
     "py": "fēiyí",
@@ -12034,6 +12181,16 @@
     ],
     "hasPage": false
   },
+  "副词": {
+    "cn": "副词",
+    "py": "fùcí",
+    "en": "adverb",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/hen3_很.html"
+    ],
+    "hasPage": false
+  },
   "该": {
     "cn": "该",
     "py": "gāi",
@@ -12134,16 +12291,6 @@
     ],
     "hasPage": false
   },
-  "干": {
-    "cn": "干",
-    "py": "gān",
-    "en": "to do; to work (colloquial)",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/wei2_为.html"
-    ],
-    "hasPage": false
-  },
   "干杯": {
     "cn": "干杯",
     "py": "gānbēi",
@@ -12211,6 +12358,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/shan1_山.html"
+    ],
+    "hasPage": false
+  },
+  "搞": {
+    "cn": "搞",
+    "py": "gǎo",
+    "en": "to do, to manage",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/zuo4_做.html"
     ],
     "hasPage": false
   },
@@ -12323,6 +12480,16 @@
       "pages/characters/qian2_钱.html"
     ],
     "hasPage": false
+  },
+  "工作": {
+    "cn": "工作",
+    "py": "gōngzuò",
+    "en": "work, job",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/zuo4_做.html"
+    ],
+    "hasPage": true
   },
   "公里": {
     "cn": "公里",
@@ -12701,16 +12868,6 @@
     "count": 1,
     "appearsOn": [
       "pages/arts/topic_shuihuzhuan.html"
-    ],
-    "hasPage": false
-  },
-  "光": {
-    "cn": "光",
-    "py": "guāng",
-    "en": "light",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/dian4_电.html"
     ],
     "hasPage": false
   },
@@ -13121,6 +13278,26 @@
     "count": 1,
     "appearsOn": [
       "pages/culture/topic_zhongyuan.html"
+    ],
+    "hasPage": false
+  },
+  "狠": {
+    "cn": "狠",
+    "py": "hěn",
+    "en": "ruthless, fierce",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/hen3_很.html"
+    ],
+    "hasPage": false
+  },
+  "恨": {
+    "cn": "恨",
+    "py": "hèn",
+    "en": "to hate",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/hen3_很.html"
     ],
     "hasPage": false
   },
@@ -13591,16 +13768,6 @@
     "count": 1,
     "appearsOn": [
       "pages/grammar/suiran_danshi_虽然但是.html"
-    ],
-    "hasPage": false
-  },
-  "极": {
-    "cn": "极",
-    "py": "jí",
-    "en": "extremely",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/geng4_更.html"
     ],
     "hasPage": false
   },
@@ -14231,16 +14398,6 @@
     "count": 1,
     "appearsOn": [
       "pages/grammar/de_的得地.html"
-    ],
-    "hasPage": false
-  },
-  "结束": {
-    "cn": "结束",
-    "py": "jiéshù",
-    "en": "to conclude",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/kai1_开.html"
     ],
     "hasPage": false
   },
@@ -17294,6 +17451,16 @@
     ],
     "hasPage": false
   },
+  "其它": {
+    "cn": "其它",
+    "py": "qítā",
+    "en": "other (things)",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ta1_它.html"
+    ],
+    "hasPage": false
+  },
   "其余": {
     "cn": "其余",
     "py": "qíyú",
@@ -17734,6 +17901,16 @@
     ],
     "hasPage": false
   },
+  "取": {
+    "cn": "取",
+    "py": "qǔ",
+    "en": "to take, to fetch",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/zui4_最.html"
+    ],
+    "hasPage": false
+  },
   "去除": {
     "cn": "去除",
     "py": "qùchú",
@@ -17764,16 +17941,6 @@
     ],
     "hasPage": false
   },
-  "全": {
-    "cn": "全",
-    "py": "quán",
-    "en": "all; entire; complete",
-    "count": 1,
-    "appearsOn": [
-      "pages/grammar/dou_都.html"
-    ],
-    "hasPage": false
-  },
   "全部": {
     "cn": "全部",
     "py": "quánbù",
@@ -17801,16 +17968,6 @@
     "count": 1,
     "appearsOn": [
       "pages/history/topic_gaige.html"
-    ],
-    "hasPage": false
-  },
-  "缺": {
-    "cn": "缺",
-    "py": "quē",
-    "en": "to lack; to be missing",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/you3_有.html"
     ],
     "hasPage": false
   },
@@ -17881,16 +18038,6 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/huo3_火.html"
-    ],
-    "hasPage": false
-  },
-  "人称代词": {
-    "cn": "人称代词",
-    "py": "rénchēng dàicí",
-    "en": "personal pronoun",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/ta1_他.html"
     ],
     "hasPage": false
   },
@@ -18504,6 +18651,16 @@
     ],
     "hasPage": false
   },
+  "蛇": {
+    "cn": "蛇",
+    "py": "shé",
+    "en": "snake",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ta1_它.html"
+    ],
+    "hasPage": false
+  },
   "舍利弗": {
     "cn": "舍利弗",
     "py": "Shèlìfú",
@@ -18771,16 +18928,6 @@
     "count": 1,
     "appearsOn": [
       "pages/grammar/bei_被.html"
-    ],
-    "hasPage": false
-  },
-  "十分": {
-    "cn": "十分",
-    "py": "shífēn",
-    "en": "completely; very much",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/shi2_十.html"
     ],
     "hasPage": false
   },
@@ -19754,6 +19901,16 @@
     ],
     "hasPage": false
   },
+  "它们": {
+    "cn": "它们",
+    "py": "tāmen",
+    "en": "they (things)",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ta1_它.html"
+    ],
+    "hasPage": false
+  },
   "她们": {
     "cn": "她们",
     "py": "tāmen",
@@ -19764,6 +19921,16 @@
     ],
     "hasPage": false
   },
+  "牠": {
+    "cn": "牠",
+    "py": "tā",
+    "en": "it (animal, traditional)",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ta1_它.html"
+    ],
+    "hasPage": false
+  },
   "祂": {
     "cn": "祂",
     "py": "tā",
@@ -19771,16 +19938,6 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/ta1_她.html"
-    ],
-    "hasPage": false
-  },
-  "太": {
-    "cn": "太",
-    "py": "tài",
-    "en": "too; excessively (from 大)",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/da4_大.html"
     ],
     "hasPage": false
   },
@@ -20134,6 +20291,16 @@
     ],
     "hasPage": false
   },
+  "挺": {
+    "cn": "挺",
+    "py": "tǐng",
+    "en": "quite, rather",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/hen3_很.html"
+    ],
+    "hasPage": false
+  },
   "通过": {
     "cn": "通过",
     "py": "tōngguò",
@@ -20334,6 +20501,16 @@
     ],
     "hasPage": false
   },
+  "完成": {
+    "cn": "完成",
+    "py": "wánchéng",
+    "en": "to complete, accomplish",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/wan2_完.html"
+    ],
+    "hasPage": false
+  },
   "完好": {
     "cn": "完好",
     "py": "wánhǎo",
@@ -20344,13 +20521,13 @@
     ],
     "hasPage": false
   },
-  "完美": {
-    "cn": "完美",
-    "py": "wánměi",
-    "en": "perfect; flawless",
+  "完整": {
+    "cn": "完整",
+    "py": "wánzhěng",
+    "en": "complete, intact",
     "count": 1,
     "appearsOn": [
-      "pages/characters/mei3_美.html"
+      "pages/characters/wan2_完.html"
     ],
     "hasPage": false
   },
@@ -24634,6 +24811,36 @@
     ],
     "hasPage": false
   },
+  "最初": {
+    "cn": "最初",
+    "py": "zuìchū",
+    "en": "at first",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/zui4_最.html"
+    ],
+    "hasPage": false
+  },
+  "最好": {
+    "cn": "最好",
+    "py": "zuìhǎo",
+    "en": "best; had best",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/zui4_最.html"
+    ],
+    "hasPage": false
+  },
+  "最近": {
+    "cn": "最近",
+    "py": "zuìjìn",
+    "en": "recently; nearest",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/zui4_最.html"
+    ],
+    "hasPage": false
+  },
   "最终": {
     "cn": "最终",
     "py": "zuìzhōng",
@@ -24774,13 +24981,53 @@
     ],
     "hasPage": false
   },
-  "做到": {
-    "cn": "做到",
-    "py": "zuòdào",
-    "en": "to accomplish",
+  "做饭": {
+    "cn": "做饭",
+    "py": "zuòfàn",
+    "en": "to cook",
     "count": 1,
     "appearsOn": [
-      "pages/characters/dao4_到.html"
+      "pages/characters/zuo4_做.html"
+    ],
+    "hasPage": false
+  },
+  "做人": {
+    "cn": "做人",
+    "py": "zuòrén",
+    "en": "to conduct oneself",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/zuo4_做.html"
+    ],
+    "hasPage": false
+  },
+  "做事": {
+    "cn": "做事",
+    "py": "zuòshì",
+    "en": "to handle affairs",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/zuo4_做.html"
+    ],
+    "hasPage": false
+  },
+  "做完": {
+    "cn": "做完",
+    "py": "zuòwán",
+    "en": "to finish doing",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/zuo4_做.html"
+    ],
+    "hasPage": false
+  },
+  "做作": {
+    "cn": "做作",
+    "py": "zuòzuo",
+    "en": "affected, pretentious",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/zuo4_做.html"
     ],
     "hasPage": false
   }

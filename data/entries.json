@@ -19,6 +19,25 @@
     "updated": "2026-06-07"
   },
   {
+    "path": "pages/characters/hen3_很.html",
+    "type": "character",
+    "category": "characters",
+    "title": "很 · very; the empty intensifier",
+    "desc": "很 is the word for very, but its strangest job is doing nothing: Chinese needs a degree adverb before a plain adjective, and 很 fills that slot so quietly that 我很好 means simply I am fine, not I am very well.",
+    "tags": [
+      "grammar",
+      "daily-life",
+      "language"
+    ],
+    "status": "complete",
+    "char": "很",
+    "pinyin": "hěn",
+    "tone": 3,
+    "hsk": 1,
+    "radical": "彳",
+    "updated": "2026-06-07"
+  },
+  {
     "path": "pages/characters/jiu3_九.html",
     "type": "character",
     "category": "characters",
@@ -152,6 +171,44 @@
     "updated": "2026-06-07"
   },
   {
+    "path": "pages/characters/ta1_它.html",
+    "type": "character",
+    "category": "characters",
+    "title": "它 · it; the non-human third person",
+    "desc": "它 began as a picture of a snake and once meant other; in the twentieth century it was reassigned to the non-human third person, completing the homophonous 他/她/它 triad that exists only in writing.",
+    "tags": [
+      "grammar",
+      "language",
+      "modern"
+    ],
+    "status": "complete",
+    "char": "它",
+    "pinyin": "tā",
+    "tone": 1,
+    "hsk": 2,
+    "radical": "宀",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/wan2_完.html",
+    "type": "character",
+    "category": "characters",
+    "title": "完 · to finish; to be whole",
+    "desc": "完 means both whole and finished, and the bridge between them is intact completeness; its most important job is as a result complement, the 完 that ends 吃完, 做完, and 看完.",
+    "tags": [
+      "grammar",
+      "daily-life",
+      "language"
+    ],
+    "status": "complete",
+    "char": "完",
+    "pinyin": "wán",
+    "tone": 2,
+    "hsk": 2,
+    "radical": "宀",
+    "updated": "2026-06-07"
+  },
+  {
     "path": "pages/characters/wu3_五.html",
     "type": "character",
     "category": "characters",
@@ -168,6 +225,44 @@
     "tone": 3,
     "hsk": 1,
     "radical": "二",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/zui4_最.html",
+    "type": "character",
+    "category": "characters",
+    "title": "最 · most; the superlative marker",
+    "desc": "最 is the single word that pushes any adjective to its limit: the -est of English, the most of comparison, the marker that turns 好 into 最好 and 后 into 最后.",
+    "tags": [
+      "grammar",
+      "daily-life",
+      "language"
+    ],
+    "status": "complete",
+    "char": "最",
+    "pinyin": "zuì",
+    "tone": 4,
+    "hsk": 2,
+    "radical": "曰",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/zuo4_做.html",
+    "type": "character",
+    "category": "characters",
+    "title": "做 · to do, to make, to act as",
+    "desc": "做 is the everyday verb for doing and making, a late character built to carry the work that 作 had grown too literary to do, and the two still split the labor between them.",
+    "tags": [
+      "daily-life",
+      "grammar",
+      "social"
+    ],
+    "status": "complete",
+    "char": "做",
+    "pinyin": "zuò",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "亻",
     "updated": "2026-06-07"
   },
   {

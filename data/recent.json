@@ -19,6 +19,25 @@
     "updated": "2026-06-07"
   },
   {
+    "path": "pages/characters/hen3_很.html",
+    "type": "character",
+    "category": "characters",
+    "title": "很 · very; the empty intensifier",
+    "desc": "很 is the word for very, but its strangest job is doing nothing: Chinese needs a degree adverb before a plain adjective, and 很 fills that slot so quietly that 我很好 means simply I am fine, not I am very well.",
+    "tags": [
+      "grammar",
+      "daily-life",
+      "language"
+    ],
+    "status": "complete",
+    "char": "很",
+    "pinyin": "hěn",
+    "tone": 3,
+    "hsk": 1,
+    "radical": "彳",
+    "updated": "2026-06-07"
+  },
+  {
     "path": "pages/characters/jiu3_九.html",
     "type": "character",
     "category": "characters",
@@ -152,6 +171,44 @@
     "updated": "2026-06-07"
   },
   {
+    "path": "pages/characters/ta1_它.html",
+    "type": "character",
+    "category": "characters",
+    "title": "它 · it; the non-human third person",
+    "desc": "它 began as a picture of a snake and once meant other; in the twentieth century it was reassigned to the non-human third person, completing the homophonous 他/她/它 triad that exists only in writing.",
+    "tags": [
+      "grammar",
+      "language",
+      "modern"
+    ],
+    "status": "complete",
+    "char": "它",
+    "pinyin": "tā",
+    "tone": 1,
+    "hsk": 2,
+    "radical": "宀",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/wan2_完.html",
+    "type": "character",
+    "category": "characters",
+    "title": "完 · to finish; to be whole",
+    "desc": "完 means both whole and finished, and the bridge between them is intact completeness; its most important job is as a result complement, the 完 that ends 吃完, 做完, and 看完.",
+    "tags": [
+      "grammar",
+      "daily-life",
+      "language"
+    ],
+    "status": "complete",
+    "char": "完",
+    "pinyin": "wán",
+    "tone": 2,
+    "hsk": 2,
+    "radical": "宀",
+    "updated": "2026-06-07"
+  },
+  {
     "path": "pages/characters/wu3_五.html",
     "type": "character",
     "category": "characters",
@@ -168,6 +225,44 @@
     "tone": 3,
     "hsk": 1,
     "radical": "二",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/zui4_最.html",
+    "type": "character",
+    "category": "characters",
+    "title": "最 · most; the superlative marker",
+    "desc": "最 is the single word that pushes any adjective to its limit: the -est of English, the most of comparison, the marker that turns 好 into 最好 and 后 into 最后.",
+    "tags": [
+      "grammar",
+      "daily-life",
+      "language"
+    ],
+    "status": "complete",
+    "char": "最",
+    "pinyin": "zuì",
+    "tone": 4,
+    "hsk": 2,
+    "radical": "曰",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/zuo4_做.html",
+    "type": "character",
+    "category": "characters",
+    "title": "做 · to do, to make, to act as",
+    "desc": "做 is the everyday verb for doing and making, a late character built to carry the work that 作 had grown too literary to do, and the two still split the labor between them.",
+    "tags": [
+      "daily-life",
+      "grammar",
+      "social"
+    ],
+    "status": "complete",
+    "char": "做",
+    "pinyin": "zuò",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "亻",
     "updated": "2026-06-07"
   },
   {
@@ -265,85 +360,5 @@
     "status": "complete",
     "pinyin": "ránhòu",
     "updated": "2026-05-31"
-  },
-  {
-    "path": "pages/vocab/yiding_一定.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "一定 · definitely; certainly",
-    "desc": "The everyday word for \"certainly, definitely,\" covering both confident prediction and firm resolve, the 一定要 (must) pattern, and how it differs from 肯定, 必须, and 一定会.",
-    "tags": [
-      "vocabulary",
-      "modal",
-      "evaluation",
-      "communication"
-    ],
-    "status": "complete",
-    "pinyin": "yídìng",
-    "updated": "2026-05-31"
-  },
-  {
-    "path": "pages/vocab/yiqi_一起.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "一起 · together",
-    "desc": "The everyday word for \"together,\" the 跟…一起 frame for joint action, the \"in one place\" sense, the \"altogether\" use of 一起, and how it differs from 一块儿, 一同, and 一共.",
-    "tags": [
-      "vocabulary",
-      "adverb",
-      "communication",
-      "daily-life"
-    ],
-    "status": "complete",
-    "pinyin": "yìqǐ",
-    "updated": "2026-05-31"
-  },
-  {
-    "path": "pages/vocab/zhongyu_终于.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "终于 · finally, at last",
-    "desc": "The adverb for \"finally, at last,\" used when something long-awaited or hard-won comes to pass, where it sits in a sentence, and how it differs from 最后, 总算, and 到底.",
-    "tags": [
-      "vocabulary",
-      "adverb",
-      "timing",
-      "communication"
-    ],
-    "status": "complete",
-    "pinyin": "zhōngyú",
-    "updated": "2026-05-31"
-  },
-  {
-    "path": "pages/grammar/duoshao_ji_多少几.html",
-    "type": "grammar",
-    "category": "grammar",
-    "title": "多少 / 几 · how many, how much",
-    "desc": "The two question words for quantity: 几 for small countable numbers and 多少 for larger or unknown amounts, why 几 needs a measure word and 多少 may skip it, and how to ask prices and ages.",
-    "tags": [
-      "grammar",
-      "scale",
-      "measure-words",
-      "communication"
-    ],
-    "status": "complete",
-    "pinyin": "duōshao / jǐ",
-    "updated": "2026-05-30"
-  },
-  {
-    "path": "pages/grammar/keneng_可能.html",
-    "type": "grammar",
-    "category": "grammar",
-    "title": "可能 · maybe, possible",
-    "desc": "The all-purpose word for possibility, working as adverb, adjective, and noun, and how it differs from 也许, 或许, 大概, and the modal 会.",
-    "tags": [
-      "grammar",
-      "modal",
-      "adverb",
-      "communication"
-    ],
-    "status": "complete",
-    "pinyin": "kěnéng",
-    "updated": "2026-05-30"
   }
 ]

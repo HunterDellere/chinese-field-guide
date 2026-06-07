@@ -32,6 +32,7 @@
 国	guó	country, nation, state — A walled enclosure protecting its people: the Chinese concept of nationhood written in a single character.
 好	hǎo	good; to like — Good, well, to like, and the tone split that doubles its expressive range.
 和	hé	harmony, and, with; peace — 和 carries the same concept across grammar and philosophy: grain and mouth together, the harmony of shared food and speech, a character that serves as both everyday conjunction and the Confucian ideal of a well-ordered world.
+很	hěn	very; the empty intensifier — 很 is the word for very, but its strangest job is doing nothing: Chinese needs a degree adverb before a plain adjective, and 很 fills that slot so quietly that 我很好 means simply I am fine, not I am very well.
 后	hòu	back, behind, after; empress — One simplified character collapsed two completely separate traditional forms: 後 (a trailing foot in motion) and 后 (a commanding mouth), binding the spatial sense of behind with the imperial sense of empress in a single glyph.
 火	huǒ	fire, flame, anger, popularity — Three flames rising: the character for fire and one of the most productive radicals in Chinese.
 家	jiā	home, family — House, family, school of thought, nation (国家): the fractal of belonging.
@@ -91,11 +92,13 @@
 思	sī	to think, to miss, thought — The field of the mind above the heart: thinking as cultivation, longing as thought turned inward.
 四	sì	four; the four directions; the homophone of death — Four organizes the Chinese world into quarters, the four directions, four seas, four seasons, yet its near-homophony with 死 sǐ (death) makes it the most avoided number in modern China.
 他	tā	he, him; another — 他 was gender-neutral for a millennium until 她 was coined in 1917 to solve a translation problem that Classical Chinese had never needed to solve.
+它	tā	it; the non-human third person — 它 began as a picture of a snake and once meant other; in the twentieth century it was reassigned to the non-human third person, completing the homophonous 他/她/它 triad that exists only in writing.
 她	tā	she, her — 她 is the youngest character in everyday Chinese, invented in 1917 to translate "she," and the cause of one of the loudest grammatical fights in modern Chinese letters.
 天	tiān	sky, heaven, day — Heaven as moral authority, weather, time, and the ground of 天命 the Mandate of Heaven.
 听	tīng	to listen, to hear, to obey — The simplified 听 = mouth + axe, but the traditional 聽 encodes whole-body Confucian listening: ear, eye, heart, and upright virtue arrayed together in a single glyph.
 图	tú	map, diagram, to plan, to seek — A character for diagrams, maps, intentions, and plots: anything that represents the world at one remove, or seeks to reshape it.
 土	tǔ	earth, soil, local, native — A mound of soil with a base: the earth phase of the Five Elements, and the root of hundreds of characters for land, construction, and cultural belonging.
+完	wán	to finish; to be whole — 完 means both whole and finished, and the bridge between them is intact completeness; its most important job is as a result complement, the 完 that ends 吃完, 做完, and 看完.
 万	wàn	ten thousand; myriad; all — 万 is the Chinese hyperbole unit. Where English reaches for millions, Chinese reaches for 万 to express the immeasurable, because the written number 10,000 originally meant scorpion.
 王	wáng	king — Three horizontals joined by one vertical: the ruler who connects heaven, earth, and humanity. Also the most common Chinese surname, and a radical that is secretly 玉 (jade) in disguise.
 为	wéi	to do; to act; for; because of — In oracle bone script, a hand leading an elephant (to guide an immense force through skillful agency), and the character at the center of the Daoist concept of non-action.
@@ -134,7 +137,9 @@
 中	zhōng	middle, China, to hit the mark — An arrow piercing through the center of a target: the character that names China as the Middle Kingdom and encodes the Confucian virtue of equilibrium.
 字	zì	character, written word — The character that names itself, and the whole system of 汉字.
 走	zǒu	to walk, to go, to leave — A figure in motion with feet below: the basic verb of movement that Chinese uses where English uses dozens of different words.
+最	zuì	most; the superlative marker — 最 is the single word that pushes any adjective to its limit: the -est of English, the most of comparison, the marker that turns 好 into 最好 and 后 into 最后.
 左	zuǒ	left; unorthodox; to assist — A left hand holding a carpenter's square: the assisting hand at the ruler, and by extension the word for unorthodox, heterodox, and everything that deviates from the orthodox path.
+做	zuò	to do, to make, to act as — 做 is the everyday verb for doing and making, a late character built to carry the work that 作 had grown too literary to do, and the two still split the labor between them.
 必须	bì xū	must, have to (the obligation modal) — 必须 is the strongest of the everyday modal verbs of obligation: a non-negotiable requirement that the speaker presents as not-up-for-discussion.
 茶道	chá dào	the way of tea — From wild forest leaf to civilizational ritual: how tea became China's quintessential art of presence.
 茶具	chá ju	Tea Implements — The vessels, tools, and objects of the tea table: from the Yixing purple clay teapot to the fairness pitcher, each implement with a name, a function, and an aesthetic logic.

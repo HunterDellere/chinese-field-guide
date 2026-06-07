@@ -6,13 +6,21 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A reading nook for Chinese language and civilisation. Characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Jun 2026 15:38:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 15:50:05 GMT</lastBuildDate>
     <item>
       <title>八 · eight; the luckiest number and the eight trigrams</title>
       <link>https://jiaoshoo.com/pages/characters/ba1_八.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/ba1_八.html</guid>
       <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
       <description>Eight is the most coveted number in modern China through its near-homophony with 发 fā (to prosper), and the classical foundation of the eight trigrams that structure the Yijing.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>很 · very; the empty intensifier</title>
+      <link>https://jiaoshoo.com/pages/characters/hen3_很.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/hen3_很.html</guid>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
+      <description>很 is the word for very, but its strangest job is doing nothing: Chinese needs a degree adverb before a plain adjective, and 很 fills that slot so quietly that 我很好 means simply I am fine, not I am very well.</description>
       <category>characters</category>
     </item>
     <item>
@@ -72,11 +80,43 @@
       <category>characters</category>
     </item>
     <item>
+      <title>它 · it; the non-human third person</title>
+      <link>https://jiaoshoo.com/pages/characters/ta1_它.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/ta1_它.html</guid>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
+      <description>它 began as a picture of a snake and once meant other; in the twentieth century it was reassigned to the non-human third person, completing the homophonous 他/她/它 triad that exists only in writing.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>完 · to finish; to be whole</title>
+      <link>https://jiaoshoo.com/pages/characters/wan2_完.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/wan2_完.html</guid>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
+      <description>完 means both whole and finished, and the bridge between them is intact completeness; its most important job is as a result complement, the 完 that ends 吃完, 做完, and 看完.</description>
+      <category>characters</category>
+    </item>
+    <item>
       <title>五 · five; the organizing number of correlative cosmology</title>
       <link>https://jiaoshoo.com/pages/characters/wu3_五.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/wu3_五.html</guid>
       <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
       <description>Five is the center plus the four directions, the number that completes the Chinese cosmos: five phases, five colors, five tones, five flavors, five viscera, all keyed to one master grid.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>最 · most; the superlative marker</title>
+      <link>https://jiaoshoo.com/pages/characters/zui4_最.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/zui4_最.html</guid>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
+      <description>最 is the single word that pushes any adjective to its limit: the -est of English, the most of comparison, the marker that turns 好 into 最好 and 后 into 最后.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>做 · to do, to make, to act as</title>
+      <link>https://jiaoshoo.com/pages/characters/zuo4_做.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/zuo4_做.html</guid>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
+      <description>做 is the everyday verb for doing and making, a late character built to carry the work that 作 had grown too literary to do, and the two still split the labor between them.</description>
       <category>characters</category>
     </item>
     <item>
@@ -206,46 +246,6 @@
       <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
       <description>The everyday adverb for &quot;actually, in fact,&quot; used to correct an impression or reveal the real situation, and how it differs from 实际上, 事实上, and 本来.</description>
       <category>vocab</category>
-    </item>
-    <item>
-      <title>现在 · now</title>
-      <link>https://jiaoshoo.com/pages/vocab/xianzai_现在.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/xianzai_现在.html</guid>
-      <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
-      <description>The everyday word for now, where it sits in a Chinese sentence, and how it differs from 目前 (at present), 此刻 (this very moment), and 如今 (nowadays).</description>
-      <category>vocab</category>
-    </item>
-    <item>
-      <title>希望 · to hope</title>
-      <link>https://jiaoshoo.com/pages/vocab/xiwang_希望.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/xiwang_希望.html</guid>
-      <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
-      <description>The everyday word for hope, both the verb and the noun, and how it differs from 想 (to want), 愿意 (to be willing), 盼望 (to long for), and 期待 (to look forward to).</description>
-      <category>vocab</category>
-    </item>
-    <item>
-      <title>一会儿 · a short while</title>
-      <link>https://jiaoshoo.com/pages/vocab/yihuir_一会儿.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/yihuir_一会儿.html</guid>
-      <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
-      <description>The everyday word for a little while, how it marks both a short duration and the near future, and how it differs from the verb-softener 一下 and from 等会儿.</description>
-      <category>vocab</category>
-    </item>
-    <item>
-      <title>红楼梦 · Dream of the Red Chamber</title>
-      <link>https://jiaoshoo.com/pages/arts/topic_honglou.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/arts/topic_honglou.html</guid>
-      <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
-      <description>The 18th-century novel that many call the greatest in the Chinese language: the slow decline of a great family, a doomed love among the young, and a sense that all the beauty and luxury of the world is a passing dream.</description>
-      <category>arts</category>
-    </item>
-    <item>
-      <title>三国演义 · Romance of the Three Kingdoms</title>
-      <link>https://jiaoshoo.com/pages/arts/topic_sanguoyanyi.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/arts/topic_sanguoyanyi.html</guid>
-      <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
-      <description>The 14th-century novel that turned the wars after the Han into the great epic of Chinese loyalty and cunning. Sworn brothers, a god-like strategist, and the maxim that the realm long divided must unite.</description>
-      <category>arts</category>
     </item>
   </channel>
 </rss>

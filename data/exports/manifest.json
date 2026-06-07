@@ -1,11 +1,11 @@
 {
-  "generated": "2026-06-07T15:38:48.495Z",
+  "generated": "2026-06-07T15:50:18.424Z",
   "files": [
     {
       "file": "pleco-characters.txt",
       "format": "pleco",
       "type": "characters",
-      "count": 162
+      "count": 167
     },
     {
       "file": "pleco-vocab.txt",
@@ -23,13 +23,13 @@
       "file": "pleco-all.txt",
       "format": "pleco",
       "type": "all",
-      "count": 276
+      "count": 281
     },
     {
       "file": "anki-characters.tsv",
       "format": "anki-tsv",
       "type": "characters",
-      "count": 162
+      "count": 167
     },
     {
       "file": "anki-vocab.tsv",
@@ -47,7 +47,7 @@
       "file": "characters.apkg",
       "format": "anki-apkg",
       "type": "characters",
-      "count": 162
+      "count": 167
     },
     {
       "file": "vocab.apkg",
@@ -65,7 +65,7 @@
       "file": "all.apkg",
       "format": "anki-apkg",
       "type": "all",
-      "count": 276
+      "count": 281
     }
   ],
   "slices": [
@@ -75,13 +75,13 @@
       "cn": "character",
       "dimension": "type",
       "criterion": "character",
-      "description": "All 162 character cards in the corpus.",
-      "count": 162,
+      "description": "All 167 character cards in the corpus.",
+      "count": 167,
       "apkg": "slices/type-character.apkg",
       "pleco": "slices/type-character.txt",
       "hskBreakdown": {
-        "hsk-1": 68,
-        "hsk-2": 41,
+        "hsk-1": 70,
+        "hsk-2": 44,
         "hsk-3": 27,
         "hsk-4": 19,
         "hsk-5": 5,
@@ -151,11 +151,11 @@
       "dimension": "hsk",
       "criterion": 1,
       "description": "Just HSK level 1 on its own (authored or inferred from constituent characters).",
-      "count": 114,
+      "count": 116,
       "apkg": "slices/hsk-1.apkg",
       "pleco": "slices/hsk-1.txt",
       "hskBreakdown": {
-        "hsk-1": 114
+        "hsk-1": 116
       }
     },
     {
@@ -165,11 +165,11 @@
       "dimension": "hsk",
       "criterion": 2,
       "description": "Just HSK level 2 on its own (authored or inferred from constituent characters).",
-      "count": 55,
+      "count": 58,
       "apkg": "slices/hsk-2.apkg",
       "pleco": "slices/hsk-2.txt",
       "hskBreakdown": {
-        "hsk-2": 55
+        "hsk-2": 58
       }
     },
     {
@@ -235,11 +235,11 @@
       "dimension": "hsk-ladder",
       "criterion": 1,
       "description": "Just HSK 1 — the foundation deck for absolute beginners.",
-      "count": 114,
+      "count": 116,
       "apkg": "slices/hsk-up-to-1.apkg",
       "pleco": "slices/hsk-up-to-1.txt",
       "hskBreakdown": {
-        "hsk-1": 114
+        "hsk-1": 116
       }
     },
     {
@@ -249,12 +249,12 @@
       "dimension": "hsk-ladder",
       "criterion": 2,
       "description": "Cumulative deck: every card from HSK 1 up to and including HSK 2.",
-      "count": 169,
+      "count": 174,
       "apkg": "slices/hsk-up-to-2.apkg",
       "pleco": "slices/hsk-up-to-2.txt",
       "hskBreakdown": {
-        "hsk-1": 114,
-        "hsk-2": 55
+        "hsk-1": 116,
+        "hsk-2": 58
       }
     },
     {
@@ -264,12 +264,12 @@
       "dimension": "hsk-ladder",
       "criterion": 3,
       "description": "Cumulative deck: every card from HSK 1 up to and including HSK 3.",
-      "count": 214,
+      "count": 219,
       "apkg": "slices/hsk-up-to-3.apkg",
       "pleco": "slices/hsk-up-to-3.txt",
       "hskBreakdown": {
-        "hsk-1": 114,
-        "hsk-2": 55,
+        "hsk-1": 116,
+        "hsk-2": 58,
         "hsk-3": 45
       }
     },
@@ -280,12 +280,12 @@
       "dimension": "hsk-ladder",
       "criterion": 4,
       "description": "Cumulative deck: every card from HSK 1 up to and including HSK 4.",
-      "count": 244,
+      "count": 249,
       "apkg": "slices/hsk-up-to-4.apkg",
       "pleco": "slices/hsk-up-to-4.txt",
       "hskBreakdown": {
-        "hsk-1": 114,
-        "hsk-2": 55,
+        "hsk-1": 116,
+        "hsk-2": 58,
         "hsk-3": 45,
         "hsk-4": 30
       }
@@ -297,12 +297,12 @@
       "dimension": "hsk-ladder",
       "criterion": 5,
       "description": "Cumulative deck: every card from HSK 1 up to and including HSK 5.",
-      "count": 252,
+      "count": 257,
       "apkg": "slices/hsk-up-to-5.apkg",
       "pleco": "slices/hsk-up-to-5.txt",
       "hskBreakdown": {
-        "hsk-1": 114,
-        "hsk-2": 55,
+        "hsk-1": 116,
+        "hsk-2": 58,
         "hsk-3": 45,
         "hsk-4": 30,
         "hsk-5": 8
@@ -315,12 +315,12 @@
       "dimension": "hsk-ladder",
       "criterion": 6,
       "description": "Cumulative deck: every card from HSK 1 up to and including HSK 6.",
-      "count": 253,
+      "count": 258,
       "apkg": "slices/hsk-up-to-6.apkg",
       "pleco": "slices/hsk-up-to-6.txt",
       "hskBreakdown": {
-        "hsk-1": 114,
-        "hsk-2": 55,
+        "hsk-1": 116,
+        "hsk-2": 58,
         "hsk-3": 45,
         "hsk-4": 30,
         "hsk-5": 8,
@@ -578,11 +578,11 @@
       "dimension": "intent",
       "criterion": "survival-mandarin",
       "description": "Everything an absolute beginner needs in week one: HSK 1 vocab, basic characters, foundational grammar (是/不是, 有/没有, 在), question words, numbers.",
-      "count": 118,
+      "count": 120,
       "apkg": "slices/intent-survival-mandarin.apkg",
       "pleco": "slices/intent-survival-mandarin.txt",
       "hskBreakdown": {
-        "hsk-1": 114,
+        "hsk-1": 116,
         "hsk-2": 4
       }
     },
