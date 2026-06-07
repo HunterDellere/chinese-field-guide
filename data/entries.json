@@ -287,6 +287,26 @@
     "updated": "2026-06-07"
   },
   {
+    "path": "pages/history/topic_caocao.html",
+    "type": "topic",
+    "category": "history",
+    "title": "曹操 · The Warlord-Poet",
+    "desc": "The man who held the dying Han together by force, wrote some of the finest poetry in the language, and became Chinese literature's most magnificent villain.",
+    "tags": [
+      "history",
+      "han",
+      "biography",
+      "warlord",
+      "poet",
+      "poetry",
+      "statecraft",
+      "strategy"
+    ],
+    "status": "complete",
+    "pinyin": "cáo cāo",
+    "updated": "2026-06-07"
+  },
+  {
     "path": "pages/history/topic_xuanzang.html",
     "type": "topic",
     "category": "history",
@@ -322,6 +342,59 @@
     ],
     "status": "complete",
     "pinyin": "Ēmítuófó",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/vocab/huangdi_皇帝.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "皇帝 · emperor",
+    "desc": "The title the First Emperor invented in 221 BCE by welding together 皇 (august sage-king) and 帝 (high god), and how it differs from 王 king, 君 sovereign, and 天子 the Son of Heaven.",
+    "tags": [
+      "vocabulary",
+      "history",
+      "emperor",
+      "imperial",
+      "statecraft",
+      "royalty"
+    ],
+    "status": "complete",
+    "pinyin": "huángdì",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/vocab/shidai_时代.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "时代 · era, age",
+    "desc": "The word for a historical era or age, built from 时 (time) and 代 (generation), and how it differs from 时期 a period, 年代 a decade, 时候 a moment, and 现代 modern times.",
+    "tags": [
+      "vocabulary",
+      "time",
+      "history",
+      "era",
+      "daily-life"
+    ],
+    "status": "complete",
+    "pinyin": "shídài",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/vocab/xiandai_现代.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "现代 · modern times",
+    "desc": "The word for the modern era, built from 现 (present, manifest) and 代 (generation, age), how Chinese history slices time into 古代 / 近代 / 现代 / 当代, and how 现代 differs from 现在 now.",
+    "tags": [
+      "vocabulary",
+      "time",
+      "history",
+      "modern",
+      "era",
+      "daily-life"
+    ],
+    "status": "complete",
+    "pinyin": "xiàndài",
     "updated": "2026-06-07"
   },
   {

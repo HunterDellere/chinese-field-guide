@@ -6,7 +6,7 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A reading nook for Chinese language and civilisation. Characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Jun 2026 16:03:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 17:09:18 GMT</lastBuildDate>
     <item>
       <title>八 · eight; the luckiest number and the eight trigrams</title>
       <link>https://jiaoshoo.com/pages/characters/ba1_八.html</link>
@@ -128,6 +128,14 @@
       <category>characters</category>
     </item>
     <item>
+      <title>曹操 · The Warlord-Poet</title>
+      <link>https://jiaoshoo.com/pages/history/topic_caocao.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/history/topic_caocao.html</guid>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
+      <description>The man who held the dying Han together by force, wrote some of the finest poetry in the language, and became Chinese literature&apos;s most magnificent villain.</description>
+      <category>history</category>
+    </item>
+    <item>
       <title>玄奘 · The Pilgrim of the West</title>
       <link>https://jiaoshoo.com/pages/history/topic_xuanzang.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/history/topic_xuanzang.html</guid>
@@ -141,6 +149,30 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/amituofo_阿弥陀佛.html</guid>
       <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
       <description>阿弥陀佛 is the Buddha of Infinite Light and Life who presides over the Western Pure Land, and his name is itself the central practice: to recite 南无阿弥陀佛 is the simple path of Pure Land devotion, open to everyone.</description>
+      <category>vocab</category>
+    </item>
+    <item>
+      <title>皇帝 · emperor</title>
+      <link>https://jiaoshoo.com/pages/vocab/huangdi_皇帝.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/huangdi_皇帝.html</guid>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
+      <description>The title the First Emperor invented in 221 BCE by welding together 皇 (august sage-king) and 帝 (high god), and how it differs from 王 king, 君 sovereign, and 天子 the Son of Heaven.</description>
+      <category>vocab</category>
+    </item>
+    <item>
+      <title>时代 · era, age</title>
+      <link>https://jiaoshoo.com/pages/vocab/shidai_时代.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/shidai_时代.html</guid>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
+      <description>The word for a historical era or age, built from 时 (time) and 代 (generation), and how it differs from 时期 a period, 年代 a decade, 时候 a moment, and 现代 modern times.</description>
+      <category>vocab</category>
+    </item>
+    <item>
+      <title>现代 · modern times</title>
+      <link>https://jiaoshoo.com/pages/vocab/xiandai_现代.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/xiandai_现代.html</guid>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
+      <description>The word for the modern era, built from 现 (present, manifest) and 代 (generation, age), how Chinese history slices time into 古代 / 近代 / 现代 / 当代, and how 现代 differs from 现在 now.</description>
       <category>vocab</category>
     </item>
     <item>
@@ -214,38 +246,6 @@
       <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
       <description>The adverb for &quot;finally, at last,&quot; used when something long-awaited or hard-won comes to pass, where it sits in a sentence, and how it differs from 最后, 总算, and 到底.</description>
       <category>vocab</category>
-    </item>
-    <item>
-      <title>多少 / 几 · how many, how much</title>
-      <link>https://jiaoshoo.com/pages/grammar/duoshao_ji_多少几.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/grammar/duoshao_ji_多少几.html</guid>
-      <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
-      <description>The two question words for quantity: 几 for small countable numbers and 多少 for larger or unknown amounts, why 几 needs a measure word and 多少 may skip it, and how to ask prices and ages.</description>
-      <category>grammar</category>
-    </item>
-    <item>
-      <title>可能 · maybe, possible</title>
-      <link>https://jiaoshoo.com/pages/grammar/keneng_可能.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/grammar/keneng_可能.html</guid>
-      <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
-      <description>The all-purpose word for possibility, working as adverb, adjective, and noun, and how it differs from 也许, 或许, 大概, and the modal 会.</description>
-      <category>grammar</category>
-    </item>
-    <item>
-      <title>应该 · the modal &quot;should&quot;</title>
-      <link>https://jiaoshoo.com/pages/grammar/yinggai_应该.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/grammar/yinggai_应该.html</guid>
-      <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
-      <description>The modal verb for &quot;should, ought to,&quot; covering both moral obligation and confident inference, and how it differs from 得, 要, and 必须.</description>
-      <category>grammar</category>
-    </item>
-    <item>
-      <title>一下 · the verb-softener</title>
-      <link>https://jiaoshoo.com/pages/grammar/yixia_一下.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/grammar/yixia_一下.html</guid>
-      <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
-      <description>The verbal-quantity word that makes an action brief and casual, how verb + 一下 softens a request, and how it differs from verb reduplication and from the time-word 一会儿.</description>
-      <category>grammar</category>
     </item>
   </channel>
 </rss>

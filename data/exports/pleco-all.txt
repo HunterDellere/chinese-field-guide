@@ -192,6 +192,7 @@
 关系	guān xi	relationship, connections — The untranslatable social fabric: relational leverage, it matters.
 国家	guó jiā	nation; state; country — A compound of the two most culturally loaded characters in Chinese: country and family, that encodes the Confucian political imagination in two syllables.
 汉字	hàn zì	Chinese characters — The world's oldest continuously used writing system: how Chinese characters work, why they look the way they do, and the categories every learner needs to know.
+皇帝	huáng dì	emperor — The title the First Emperor invented in 221 BCE by welding together 皇 (august sage-king) and 帝 (high god), and how it differs from 王 king, 君 sovereign, and 天子 the Son of Heaven.
 江湖	jiāng hú	rivers and lakes — The outsider world of wanderers, martial artists, and street wisdom.
 江山	jiāng shān	rivers and mountains, the realm — The classical Chinese word for the nation: not a territory but a landscape; not a state but a living geography that dynasties rose and fell to possess.
 节气	jié qì	the 24 solar terms — China's ancient agricultural calendar: 24 precise moments that mark the turning of the year, still shaping food, medicine, and daily life.
@@ -227,6 +228,7 @@
 神明	shén míng	gods, spirits, deities; divine intelligence — The generic term for any deity in the Chinese religious world: and, in classical philosophy, the luminous intelligence that distinguishes the divine from the merely powerful.
 生产	shēng chǎn	to produce, production, manufacturing — The foundational act of economic life: and, in China's Marxist political vocabulary, the act from which all social relations flow. Life gives rise to production; production sustains life.
 诗词	shī cí	Chinese poetry — Poetry stood at the center of Chinese civilization for two thousand years: the primary medium for expressing emotion, demonstrating education, and participating in the social life of the literati class.
+时代	shí dài	era, age — The word for a historical era or age, built from 时 (time) and 代 (generation), and how it differs from 时期 a period, 年代 a decade, 时候 a moment, and 现代 modern times.
 时候	shí hou	time, moment — The everyday word for a point in time, and the indispensable 的时候 ("when") pattern that every learner needs.
 时间	shí jiān	time — Time: the compound that anchors all temporal expression in Mandarin.
 书法	shū fǎ	calligraphy — The art where writing becomes a performance of character: and why the Chinese brush is a philosophical instrument.
@@ -242,6 +244,7 @@
 武术	wǔ shù	martial arts — The art of stopping weapons: how China systematized combat into a living philosophy of the body.
 希望	xī wàng	to hope — The everyday word for hope, both the verb and the noun, and how it differs from 想 (to want), 愿意 (to be willing), 盼望 (to long for), and 期待 (to look forward to).
 喜欢	xǐ huan	to like — The everyday verb for liking, and how it differs from loving (爱), enjoying (喜爱), and being willing (愿意).
+现代	xiàn dài	modern times — The word for the modern era, built from 现 (present, manifest) and 代 (generation, age), how Chinese history slices time into 古代 / 近代 / 现代 / 当代, and how 现代 differs from 现在 now.
 现在	xiàn zài	now — The everyday word for now, where it sits in a Chinese sentence, and how it differs from 目前 (at present), 此刻 (this very moment), and 如今 (nowadays).
 孝	xiào	filial piety — An elder supported by a child's hands: the cardinal Confucian virtue that placed care for parents at the foundation of all moral life.
 一定	yí dìng	definitely; certainly — The everyday word for "certainly, definitely," covering both confident prediction and firm resolve, the 一定要 (must) pattern, and how it differs from 肯定, 必须, and 一定会.

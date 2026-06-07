@@ -287,6 +287,26 @@
     "updated": "2026-06-07"
   },
   {
+    "path": "pages/history/topic_caocao.html",
+    "type": "topic",
+    "category": "history",
+    "title": "曹操 · The Warlord-Poet",
+    "desc": "The man who held the dying Han together by force, wrote some of the finest poetry in the language, and became Chinese literature's most magnificent villain.",
+    "tags": [
+      "history",
+      "han",
+      "biography",
+      "warlord",
+      "poet",
+      "poetry",
+      "statecraft",
+      "strategy"
+    ],
+    "status": "complete",
+    "pinyin": "cáo cāo",
+    "updated": "2026-06-07"
+  },
+  {
     "path": "pages/history/topic_xuanzang.html",
     "type": "topic",
     "category": "history",
@@ -325,51 +345,38 @@
     "updated": "2026-06-07"
   },
   {
-    "path": "pages/grammar/gen_跟.html",
-    "type": "grammar",
-    "category": "grammar",
-    "title": "跟 · with; and; to follow",
-    "desc": "The everyday coverb for \"with\" and conjunction for \"and\", how the 跟…一起 and 跟…说 patterns work, the original verb \"to follow\", and how 跟 differs from 和, 同, and 与.",
+    "path": "pages/vocab/huangdi_皇帝.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "皇帝 · emperor",
+    "desc": "The title the First Emperor invented in 221 BCE by welding together 皇 (august sage-king) and 帝 (high god), and how it differs from 王 king, 君 sovereign, and 天子 the Son of Heaven.",
     "tags": [
-      "grammar",
-      "conjunction",
-      "communication",
-      "spoken"
+      "vocabulary",
+      "history",
+      "emperor",
+      "imperial",
+      "statecraft",
+      "royalty"
     ],
     "status": "complete",
-    "pinyin": "gēn",
-    "updated": "2026-05-31"
+    "pinyin": "huángdì",
+    "updated": "2026-06-07"
   },
   {
-    "path": "pages/grammar/li_离.html",
-    "type": "grammar",
-    "category": "grammar",
-    "title": "离 · away from; distance",
-    "desc": "The coverb for distance and separation: the A 离 B + distance pattern for \"how far\", the verb sense \"to leave / part from\", and how 离 differs from 从 and 到 in marking space and time.",
+    "path": "pages/vocab/shidai_时代.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "时代 · era, age",
+    "desc": "The word for a historical era or age, built from 时 (time) and 代 (generation), and how it differs from 时期 a period, 年代 a decade, 时候 a moment, and 现代 modern times.",
     "tags": [
-      "grammar",
-      "direction",
-      "space",
-      "communication"
+      "vocabulary",
+      "time",
+      "history",
+      "era",
+      "daily-life"
     ],
     "status": "complete",
-    "pinyin": "lí",
-    "updated": "2026-05-31"
-  },
-  {
-    "path": "pages/grammar/wang_往.html",
-    "type": "grammar",
-    "category": "grammar",
-    "title": "往 · toward; to head for",
-    "desc": "The directional coverb for \"toward\", the 往 + direction + verb pattern, the verb sense \"to go / in the past\", and how 往 differs from 向 and 朝 for facing and motion.",
-    "tags": [
-      "grammar",
-      "direction",
-      "motion",
-      "communication"
-    ],
-    "status": "complete",
-    "pinyin": "wǎng",
-    "updated": "2026-05-31"
+    "pinyin": "shídài",
+    "updated": "2026-06-07"
   }
 ]

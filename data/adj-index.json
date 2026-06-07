@@ -175,6 +175,27 @@
     ],
     "hasPage": true
   },
+  "天命": {
+    "cn": "天命",
+    "py": "tiānmìng",
+    "en": "mandate of heaven; fate",
+    "count": 12,
+    "appearsOn": [
+      "pages/characters/dao4_道.html",
+      "pages/history/topic_zhoudai.html",
+      "pages/philosophy/topic_yijing.html",
+      "pages/religion/topic_rujia.html",
+      "pages/science/topic_wuxing.html",
+      "pages/vocab/guojia_国家.html",
+      "pages/vocab/huangdi_皇帝.html",
+      "pages/vocab/lunyu_论语.html",
+      "pages/vocab/mingyun_命运.html",
+      "pages/vocab/tianren_天人.html",
+      "pages/vocab/tianxia_天下.html",
+      "pages/vocab/zhongguo_中国.html"
+    ],
+    "hasPage": true
+  },
   "智": {
     "cn": "智",
     "py": "zhì",
@@ -213,26 +234,6 @@
       "pages/culinary/topic_wulong.html",
       "pages/culinary/topic_yuecai.html",
       "pages/grammar/zhe_particle_呢.html"
-    ],
-    "hasPage": true
-  },
-  "天命": {
-    "cn": "天命",
-    "py": "tiānmìng",
-    "en": "mandate of heaven; fate",
-    "count": 11,
-    "appearsOn": [
-      "pages/characters/dao4_道.html",
-      "pages/history/topic_zhoudai.html",
-      "pages/philosophy/topic_yijing.html",
-      "pages/religion/topic_rujia.html",
-      "pages/science/topic_wuxing.html",
-      "pages/vocab/guojia_国家.html",
-      "pages/vocab/lunyu_论语.html",
-      "pages/vocab/mingyun_命运.html",
-      "pages/vocab/tianren_天人.html",
-      "pages/vocab/tianxia_天下.html",
-      "pages/vocab/zhongguo_中国.html"
     ],
     "hasPage": true
   },
@@ -752,6 +753,22 @@
     ],
     "hasPage": true
   },
+  "历史": {
+    "cn": "历史",
+    "py": "lìshǐ",
+    "en": "history",
+    "count": 7,
+    "appearsOn": [
+      "pages/characters/shi2_时.html",
+      "pages/history/topic_shiji.html",
+      "pages/vocab/chuantong_传统.html",
+      "pages/vocab/shehui_社会.html",
+      "pages/vocab/shidai_时代.html",
+      "pages/vocab/wenhua_文化.html",
+      "pages/vocab/wenming_文明.html"
+    ],
+    "hasPage": true
+  },
   "没有": {
     "cn": "没有",
     "py": "méiyǒu",
@@ -1155,6 +1172,21 @@
     ],
     "hasPage": true
   },
+  "汉朝": {
+    "cn": "汉朝",
+    "py": "Hàn cháo",
+    "en": "the Han dynasty",
+    "count": 6,
+    "appearsOn": [
+      "pages/history/topic_caocao.html",
+      "pages/history/topic_qinchao.html",
+      "pages/history/topic_sanguo.html",
+      "pages/history/topic_shiji.html",
+      "pages/history/topic_zhoudai.html",
+      "pages/vocab/siluzhilu_丝绸之路.html"
+    ],
+    "hasPage": true
+  },
   "黑茶": {
     "cn": "黑茶",
     "py": "hēichá",
@@ -1212,21 +1244,6 @@
       "pages/characters/shang4_上.html",
       "pages/characters/xia4_下.html",
       "pages/characters/zou3_走.html"
-    ],
-    "hasPage": true
-  },
-  "历史": {
-    "cn": "历史",
-    "py": "lìshǐ",
-    "en": "history",
-    "count": 6,
-    "appearsOn": [
-      "pages/characters/shi2_时.html",
-      "pages/history/topic_shiji.html",
-      "pages/vocab/chuantong_传统.html",
-      "pages/vocab/shehui_社会.html",
-      "pages/vocab/wenhua_文化.html",
-      "pages/vocab/wenming_文明.html"
     ],
     "hasPage": true
   },
@@ -1623,17 +1640,17 @@
     ],
     "hasPage": true
   },
-  "汉朝": {
-    "cn": "汉朝",
-    "py": "Hàn cháo",
-    "en": "the Han dynasty (the inheritor)",
+  "皇帝": {
+    "cn": "皇帝",
+    "py": "huángdì",
+    "en": "emperor",
     "count": 5,
     "appearsOn": [
+      "pages/characters/long2_龙.html",
+      "pages/characters/ming4_命.html",
+      "pages/history/topic_caocao.html",
       "pages/history/topic_qinchao.html",
-      "pages/history/topic_sanguo.html",
-      "pages/history/topic_shiji.html",
-      "pages/history/topic_zhoudai.html",
-      "pages/vocab/siluzhilu_丝绸之路.html"
+      "pages/vocab/jiangshan_江山.html"
     ],
     "hasPage": true
   },
@@ -1749,6 +1766,20 @@
     ],
     "hasPage": true
   },
+  "秦始皇": {
+    "cn": "秦始皇",
+    "py": "qín shǐ huáng",
+    "en": "the First Emperor",
+    "count": 5,
+    "appearsOn": [
+      "pages/history/topic_bingmayong.html",
+      "pages/history/topic_changcheng.html",
+      "pages/history/topic_handai.html",
+      "pages/history/topic_qinchao.html",
+      "pages/vocab/huangdi_皇帝.html"
+    ],
+    "hasPage": true
+  },
   "清朝": {
     "cn": "清朝",
     "py": "qīngcháo",
@@ -1802,6 +1833,20 @@
       "pages/vocab/lishi_历史.html",
       "pages/vocab/pengyou_朋友.html",
       "pages/vocab/wenhua_文化.html"
+    ],
+    "hasPage": true
+  },
+  "时候": {
+    "cn": "时候",
+    "py": "shíhòu",
+    "en": "a point in time",
+    "count": 5,
+    "appearsOn": [
+      "pages/characters/shi2_时.html",
+      "pages/grammar/zai_在.html",
+      "pages/vocab/shidai_时代.html",
+      "pages/vocab/shijian_时间.html",
+      "pages/vocab/xianzai_现在.html"
     ],
     "hasPage": true
   },
@@ -2012,6 +2057,19 @@
     ],
     "hasPage": true
   },
+  "朝代": {
+    "cn": "朝代",
+    "py": "cháodài",
+    "en": "dynasty",
+    "count": 4,
+    "appearsOn": [
+      "pages/vocab/huangdi_皇帝.html",
+      "pages/vocab/jiangshan_江山.html",
+      "pages/vocab/lishi_历史.html",
+      "pages/vocab/shidai_时代.html"
+    ],
+    "hasPage": true
+  },
   "得": {
     "cn": "得",
     "py": "děi",
@@ -2219,19 +2277,6 @@
       "pages/grammar/yidian_youdian_一点儿有点儿.html"
     ],
     "hasPage": true
-  },
-  "皇帝": {
-    "cn": "皇帝",
-    "py": "huángdì",
-    "en": "emperor",
-    "count": 4,
-    "appearsOn": [
-      "pages/characters/long2_龙.html",
-      "pages/characters/ming4_命.html",
-      "pages/history/topic_qinchao.html",
-      "pages/vocab/jiangshan_江山.html"
-    ],
-    "hasPage": false
   },
   "会": {
     "cn": "会",
@@ -2480,19 +2525,6 @@
     ],
     "hasPage": true
   },
-  "秦始皇": {
-    "cn": "秦始皇",
-    "py": "qín shǐ huáng",
-    "en": "the First Emperor",
-    "count": 4,
-    "appearsOn": [
-      "pages/history/topic_bingmayong.html",
-      "pages/history/topic_changcheng.html",
-      "pages/history/topic_handai.html",
-      "pages/history/topic_qinchao.html"
-    ],
-    "hasPage": true
-  },
   "让": {
     "cn": "让",
     "py": "ràng",
@@ -2532,6 +2564,19 @@
     ],
     "hasPage": true
   },
+  "三国": {
+    "cn": "三国",
+    "py": "sānguó",
+    "en": "the Three Kingdoms period",
+    "count": 4,
+    "appearsOn": [
+      "pages/arts/topic_sanguoyanyi.html",
+      "pages/characters/san1_三.html",
+      "pages/history/topic_caocao.html",
+      "pages/history/topic_handai.html"
+    ],
+    "hasPage": true
+  },
   "什么": {
     "cn": "什么",
     "py": "shénme",
@@ -2544,6 +2589,19 @@
       "pages/grammar/zenme_怎么.html"
     ],
     "hasPage": false
+  },
+  "诗词": {
+    "cn": "诗词",
+    "py": "shī cí",
+    "en": "classical poetry",
+    "count": 4,
+    "appearsOn": [
+      "pages/arts/topic_kunqu.html",
+      "pages/history/topic_caocao.html",
+      "pages/vocab/shanshuihua_山水画.html",
+      "pages/vocab/zhongguohua_中国画.html"
+    ],
+    "hasPage": true
   },
   "十": {
     "cn": "十",
@@ -2558,16 +2616,16 @@
     ],
     "hasPage": true
   },
-  "时候": {
-    "cn": "时候",
-    "py": "shíhòu",
-    "en": "a point in time",
+  "时代": {
+    "cn": "时代",
+    "py": "shídài",
+    "en": "era; epoch",
     "count": 4,
     "appearsOn": [
       "pages/characters/shi2_时.html",
-      "pages/grammar/zai_在.html",
+      "pages/chengyu/yushijujin_与时俱进.html",
       "pages/vocab/shijian_时间.html",
-      "pages/vocab/xianzai_现在.html"
+      "pages/vocab/xiandai_现代.html"
     ],
     "hasPage": true
   },
@@ -2698,6 +2756,19 @@
       "pages/characters/qu4_去.html",
       "pages/characters/shang4_上.html",
       "pages/characters/zai4_在.html"
+    ],
+    "hasPage": true
+  },
+  "现代": {
+    "cn": "现代",
+    "py": "xiàndài",
+    "en": "modern era (1949–present)",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/jin4_近.html",
+      "pages/vocab/chuantong_传统.html",
+      "pages/vocab/shidai_时代.html",
+      "pages/vocab/xianzai_现在.html"
     ],
     "hasPage": true
   },
@@ -2909,6 +2980,19 @@
     ],
     "hasPage": false
   },
+  "诸葛亮": {
+    "cn": "诸葛亮",
+    "py": "zhūgě liàng",
+    "en": "Zhuge Liang",
+    "count": 4,
+    "appearsOn": [
+      "pages/arts/topic_sanguoyanyi.html",
+      "pages/history/topic_caocao.html",
+      "pages/history/topic_sanguo.html",
+      "pages/philosophy/topic_sunzibingfa.html"
+    ],
+    "hasPage": false
+  },
   "宗教地图": {
     "cn": "宗教地图",
     "py": "zōngjiào dìtú",
@@ -3041,7 +3125,7 @@
       "pages/arts/topic_sanguoyanyi.html",
       "pages/history/topic_sanguo.html"
     ],
-    "hasPage": false
+    "hasPage": true
   },
   "茶道": {
     "cn": "茶道",
@@ -3282,6 +3366,18 @@
       "pages/vocab/yiqi_一起.html"
     ],
     "hasPage": true
+  },
+  "古代": {
+    "cn": "古代",
+    "py": "gǔdài",
+    "en": "ancient times; antiquity",
+    "count": 3,
+    "appearsOn": [
+      "pages/vocab/shidai_时代.html",
+      "pages/vocab/wenming_文明.html",
+      "pages/vocab/xiandai_现代.html"
+    ],
+    "hasPage": false
   },
   "故": {
     "cn": "故",
@@ -3811,15 +3907,15 @@
     ],
     "hasPage": false
   },
-  "三国": {
-    "cn": "三国",
-    "py": "sānguó",
-    "en": "the Three Kingdoms period",
+  "三国演义": {
+    "cn": "三国演义",
+    "py": "sānguó yǎnyì",
+    "en": "Romance of the Three Kingdoms",
     "count": 3,
     "appearsOn": [
-      "pages/arts/topic_sanguoyanyi.html",
-      "pages/characters/san1_三.html",
-      "pages/history/topic_handai.html"
+      "pages/arts/topic_shuihuzhuan.html",
+      "pages/history/topic_caocao.html",
+      "pages/history/topic_sanguo.html"
     ],
     "hasPage": true
   },
@@ -3880,30 +3976,6 @@
       "pages/characters/du2_读.html",
       "pages/characters/wen2_文.html",
       "pages/characters/yan2_言.html"
-    ],
-    "hasPage": false
-  },
-  "诗词": {
-    "cn": "诗词",
-    "py": "shī cí",
-    "en": "classical poetry",
-    "count": 3,
-    "appearsOn": [
-      "pages/arts/topic_kunqu.html",
-      "pages/vocab/shanshuihua_山水画.html",
-      "pages/vocab/zhongguohua_中国画.html"
-    ],
-    "hasPage": true
-  },
-  "时代": {
-    "cn": "时代",
-    "py": "shídài",
-    "en": "era; epoch",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/shi2_时.html",
-      "pages/chengyu/yushijujin_与时俱进.html",
-      "pages/vocab/shijian_时间.html"
     ],
     "hasPage": false
   },
@@ -4003,6 +4075,18 @@
     ],
     "hasPage": true
   },
+  "天子": {
+    "cn": "天子",
+    "py": "tiānzǐ",
+    "en": "Son of Heaven",
+    "count": 3,
+    "appearsOn": [
+      "pages/vocab/huangdi_皇帝.html",
+      "pages/vocab/tianming_天命.html",
+      "pages/vocab/tianxia_天下.html"
+    ],
+    "hasPage": false
+  },
   "跳": {
     "cn": "跳",
     "py": "tiào",
@@ -4051,6 +4135,18 @@
     ],
     "hasPage": false
   },
+  "王": {
+    "cn": "王",
+    "py": "wáng",
+    "en": "king",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/yu4_玉.html",
+      "pages/characters/zhong1_中.html",
+      "pages/vocab/huangdi_皇帝.html"
+    ],
+    "hasPage": true
+  },
   "五经": {
     "cn": "五经",
     "py": "Wǔjīng",
@@ -4060,18 +4156,6 @@
       "pages/characters/wu3_五.html",
       "pages/history/topic_chunqiu.html",
       "pages/history/topic_zhoudai.html"
-    ],
-    "hasPage": false
-  },
-  "现代": {
-    "cn": "现代",
-    "py": "xiàndài",
-    "en": "modern era (1949–present)",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/jin4_近.html",
-      "pages/vocab/chuantong_传统.html",
-      "pages/vocab/xianzai_现在.html"
     ],
     "hasPage": false
   },
@@ -4555,18 +4639,6 @@
     ],
     "hasPage": true
   },
-  "诸葛亮": {
-    "cn": "诸葛亮",
-    "py": "zhūgě liàng",
-    "en": "Zhuge Liang",
-    "count": 3,
-    "appearsOn": [
-      "pages/arts/topic_sanguoyanyi.html",
-      "pages/history/topic_sanguo.html",
-      "pages/philosophy/topic_sunzibingfa.html"
-    ],
-    "hasPage": false
-  },
   "庄子": {
     "cn": "庄子",
     "py": "Zhuāngzǐ",
@@ -4945,17 +5017,6 @@
     ],
     "hasPage": false
   },
-  "朝代": {
-    "cn": "朝代",
-    "py": "cháodài",
-    "en": "dynasty",
-    "count": 2,
-    "appearsOn": [
-      "pages/vocab/jiangshan_江山.html",
-      "pages/vocab/lishi_历史.html"
-    ],
-    "hasPage": true
-  },
   "称呼": {
     "cn": "称呼",
     "py": "chēnghū",
@@ -5195,6 +5256,17 @@
     "appearsOn": [
       "pages/characters/da4_大.html",
       "pages/grammar/dou_都.html"
+    ],
+    "hasPage": false
+  },
+  "当代": {
+    "cn": "当代",
+    "py": "dāngdài",
+    "en": "contemporary era",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/jin4_近.html",
+      "pages/vocab/xiandai_现代.html"
     ],
     "hasPage": false
   },
@@ -6243,6 +6315,17 @@
     ],
     "hasPage": false
   },
+  "近代": {
+    "cn": "近代",
+    "py": "jìndài",
+    "en": "early modern era (1840–1949)",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/jin4_近.html",
+      "pages/vocab/xiandai_现代.html"
+    ],
+    "hasPage": false
+  },
   "进来": {
     "cn": "进来",
     "py": "jìnlái",
@@ -7244,17 +7327,6 @@
     ],
     "hasPage": true
   },
-  "三国演义": {
-    "cn": "三国演义",
-    "py": "sānguó yǎnyì",
-    "en": "Romance of the Three Kingdoms",
-    "count": 2,
-    "appearsOn": [
-      "pages/arts/topic_shuihuzhuan.html",
-      "pages/history/topic_sanguo.html"
-    ],
-    "hasPage": true
-  },
   "三民主义": {
     "cn": "三民主义",
     "py": "Sān Mín Zhǔyì",
@@ -7307,6 +7379,17 @@
     "appearsOn": [
       "pages/characters/shang4_上.html",
       "pages/vocab/gongzuo_工作.html"
+    ],
+    "hasPage": false
+  },
+  "上帝": {
+    "cn": "上帝",
+    "py": "shàngdì",
+    "en": "God; the Lord on high",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/shang4_上.html",
+      "pages/vocab/huangdi_皇帝.html"
     ],
     "hasPage": false
   },
@@ -7893,17 +7976,6 @@
     ],
     "hasPage": false
   },
-  "天子": {
-    "cn": "天子",
-    "py": "tiānzǐ",
-    "en": "Son of Heaven; the emperor",
-    "count": 2,
-    "appearsOn": [
-      "pages/vocab/tianming_天命.html",
-      "pages/vocab/tianxia_天下.html"
-    ],
-    "hasPage": false
-  },
   "听": {
     "cn": "听",
     "py": "tīng",
@@ -8033,17 +8105,6 @@
     "appearsOn": [
       "pages/vocab/daode_道德.html",
       "pages/vocab/zhihui_智慧.html"
-    ],
-    "hasPage": true
-  },
-  "王": {
-    "cn": "王",
-    "py": "wáng",
-    "en": "king",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/yu4_玉.html",
-      "pages/characters/zhong1_中.html"
     ],
     "hasPage": true
   },
@@ -8321,6 +8382,28 @@
       "pages/vocab/renjian_人间.html"
     ],
     "hasPage": false
+  },
+  "现代化": {
+    "cn": "现代化",
+    "py": "xiàndàihuà",
+    "en": "modernization — the stated goal",
+    "count": 2,
+    "appearsOn": [
+      "pages/history/topic_gaige.html",
+      "pages/vocab/xiandai_现代.html"
+    ],
+    "hasPage": false
+  },
+  "现在": {
+    "cn": "现在",
+    "py": "xiànzài",
+    "en": "now",
+    "count": 2,
+    "appearsOn": [
+      "pages/vocab/shihou_时候.html",
+      "pages/vocab/xiandai_现代.html"
+    ],
+    "hasPage": true
   },
   "香火": {
     "cn": "香火",
@@ -10562,6 +10645,16 @@
     ],
     "hasPage": false
   },
+  "赤壁之战": {
+    "cn": "赤壁之战",
+    "py": "Chìbì zhī Zhàn",
+    "en": "the Battle of Red Cliffs",
+    "count": 1,
+    "appearsOn": [
+      "pages/history/topic_caocao.html"
+    ],
+    "hasPage": false
+  },
   "充电": {
     "cn": "充电",
     "py": "chōngdiàn",
@@ -11129,16 +11222,6 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/sheng1_生.html"
-    ],
-    "hasPage": false
-  },
-  "当代": {
-    "cn": "当代",
-    "py": "dāngdài",
-    "en": "contemporary era",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/jin4_近.html"
     ],
     "hasPage": false
   },
@@ -12669,16 +12752,6 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/qian1_千.html"
-    ],
-    "hasPage": false
-  },
-  "古代": {
-    "cn": "古代",
-    "py": "gǔdài",
-    "en": "ancient; antiquity",
-    "count": 1,
-    "appearsOn": [
-      "pages/vocab/wenming_文明.html"
     ],
     "hasPage": false
   },
@@ -14562,16 +14635,6 @@
     ],
     "hasPage": false
   },
-  "近代": {
-    "cn": "近代",
-    "py": "jìndài",
-    "en": "early modern era (1840–1949)",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/jin4_近.html"
-    ],
-    "hasPage": false
-  },
   "近景": {
     "cn": "近景",
     "py": "jìnjǐng",
@@ -15159,6 +15222,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/jin4_近.html"
+    ],
+    "hasPage": false
+  },
+  "科技": {
+    "cn": "科技",
+    "py": "kējì",
+    "en": "science and technology",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/xiandai_现代.html"
     ],
     "hasPage": false
   },
@@ -16019,6 +16092,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/ta1_她.html"
+    ],
+    "hasPage": false
+  },
+  "刘备": {
+    "cn": "刘备",
+    "py": "Liú Bèi",
+    "en": "Liu Bei, lord of Shu",
+    "count": 1,
+    "appearsOn": [
+      "pages/history/topic_caocao.html"
     ],
     "hasPage": false
   },
@@ -17112,6 +17195,16 @@
     ],
     "hasPage": false
   },
+  "年代": {
+    "cn": "年代",
+    "py": "niándài",
+    "en": "decade; years; era",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/shidai_时代.html"
+    ],
+    "hasPage": false
+  },
   "年龄": {
     "cn": "年龄",
     "py": "niánlíng",
@@ -18072,6 +18165,16 @@
     ],
     "hasPage": false
   },
+  "权力": {
+    "cn": "权力",
+    "py": "quánlì",
+    "en": "power; authority",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/huangdi_皇帝.html"
+    ],
+    "hasPage": false
+  },
   "确定": {
     "cn": "确定",
     "py": "quèdìng",
@@ -18622,16 +18725,6 @@
     ],
     "hasPage": false
   },
-  "上帝": {
-    "cn": "上帝",
-    "py": "shàngdì",
-    "en": "God; the Lord on high",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/shang4_上.html"
-    ],
-    "hasPage": false
-  },
   "上坟": {
     "cn": "上坟",
     "py": "shàngfén",
@@ -19099,6 +19192,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/shijian_时间.html"
+    ],
+    "hasPage": false
+  },
+  "时期": {
+    "cn": "时期",
+    "py": "shíqī",
+    "en": "period; phase",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/shidai_时代.html"
     ],
     "hasPage": false
   },
@@ -21531,26 +21634,6 @@
       "pages/characters/wang2_王.html"
     ],
     "hasPage": false
-  },
-  "现代化": {
-    "cn": "现代化",
-    "py": "xiàndàihuà",
-    "en": "modernization — the stated goal",
-    "count": 1,
-    "appearsOn": [
-      "pages/history/topic_gaige.html"
-    ],
-    "hasPage": false
-  },
-  "现在": {
-    "cn": "现在",
-    "py": "xiànzài",
-    "en": "now",
-    "count": 1,
-    "appearsOn": [
-      "pages/vocab/shihou_时候.html"
-    ],
-    "hasPage": true
   },
   "线路": {
     "cn": "线路",
