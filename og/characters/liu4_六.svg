@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <radialGradient id="vignette" cx="50%" cy="0%" r="80%">
+      <stop offset="0%" stop-color="#8b1a1a" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#f2e8d5" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#f2e8d5"/>
+  <rect width="1200" height="630" fill="url(#vignette)"/>
+  <rect x="0" y="0" width="1200" height="8" fill="#8b1a1a"/>
+  <text x="1080" y="225" font-family="Noto Serif SC" font-size="540" font-weight="700"
+        fill="#8b1a1a" opacity="0.08" text-anchor="end" dominant-baseline="middle">字</text>
+  <text x="60" y="68" font-family="Inconsolata" font-size="22" letter-spacing="4" fill="#6b5535">CHARACTER · 字 zì</text>
+  <text x="1140" y="68" font-family="Inconsolata" font-size="22" letter-spacing="4" fill="#6b5535" text-anchor="end">JIǍOLUÒ SHŪWŪ</text>
+  <text x="600" y="320" font-family="Noto Serif SC" font-size="320" font-weight="700"
+        fill="#8b1a1a" text-anchor="middle" dominant-baseline="middle">六</text>
+  <text x="600" y="480" font-family="Inconsolata" font-size="40" letter-spacing="3" fill="#a06428" text-anchor="middle" dominant-baseline="middle">liù</text>
+  <text x="600" y="540" font-family="EB Garamond" font-size="32" fill="#2e2010" text-anchor="middle" dominant-baseline="middle">six; the six directions; a smooth and lucky number</text>
+  <text x="1140" y="600" font-family="Noto Serif SC" font-size="22" letter-spacing="2" fill="#6b5535" text-anchor="end">角落書屋</text>
+</svg>

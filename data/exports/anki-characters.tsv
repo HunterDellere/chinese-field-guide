@@ -1,5 +1,6 @@
 #fields:Hanzi	Pinyin	English	HSK	Radical	Notes	Tags
 爱	ài	love, to love, to cherish	1	爫	Love in all its forms: romantic, familial, and the Confucian ethic of universal benevolence.	emotion romance confucianism
+八	bā	eight; the luckiest number and the eight trigrams	1	八	Eight is the most coveted number in modern China through its near-homophony with 发 fā (to prosper), and the classical foundation of the eight trigrams that structure the Yijing.	cosmology culture language
 白	bái	white, clear, plain, in vain	1	白	Sunlight on a single point. The character that names the color of mourning, the color of clarity, the empty plate, and the speech that hides nothing.	color clarity symbolism daily-life culture
 百	bǎi	hundred; all kinds of	1	白	百姓, the hundred surnames, is classical Chinese for the common people, because the full range of ordinary family names stands in for everyone who is not nobility.	scale language history
 北	běi	north; northern; to flee	2	匕	Two people standing back-to-back: the direction of cold and turning away that became the name of China's capital.	directions nature cosmology
@@ -37,6 +38,9 @@
 国	guó	country, nation, state	1	囗	A walled enclosure protecting its people: the Chinese concept of nationhood written in a single character.	politics society culture
 好	hǎo	good; to like	1	女	Good, well, to like, and the tone split that doubles its expressive range.	virtue social daily-life
 和	hé	harmony, and, with; peace	1	禾	和 carries the same concept across grammar and philosophy: grain and mouth together, the harmony of shared food and speech, a character that serves as both everyday conjunction and the Confucian ideal of a well-ordered world.	confucianism social grammar philosophy
+黑	hēi	black, darkness, and the illicit	2	黑	Black on the surface, but the live sense is moral: the black market, the underworld, the hacker. The color that names everything that operates out of sight.	color darkness symbolism
+很	hěn	very; the empty intensifier	1	彳	很 is the word for very, but its strangest job is doing nothing: Chinese needs a degree adverb before a plain adjective, and 很 fills that slot so quietly that 我很好 means simply I am fine, not I am very well.	grammar daily-life language
+红	hóng	red, the color of luck and celebration	2	纟	The cultural keystone color: weddings, New Year, the red envelope, and a century of revolutionary politics all run through this one character.	color culture symbolism
 后	hòu	back, behind, after; empress	1	口	One simplified character collapsed two completely separate traditional forms: 後 (a trailing foot in motion) and 后 (a commanding mouth), binding the spatial sense of behind with the imperial sense of empress in a single glyph.	direction time royalty grammar
 火	huǒ	fire, flame, anger, popularity	1	火	Three flames rising: the character for fire and one of the most productive radicals in Chinese.	nature radical energy
 家	jiā	home, family	1	宀	House, family, school of thought, nation (国家): the fractal of belonging.	family society home
@@ -45,6 +49,7 @@
 脚	jiǎo	foot, base	3	⺼	The everyday word for foot, and by extension the base of any standing thing: a mountain, a wall, a script. The flesh-and-bone counterpart to literary 足.	body movement space
 金	jīn	gold, metal, money	3	金	Nuggets of gold beneath the earth, and one of the Five Phases that governs autumn, the west, and sharpness.	nature radical wuxing
 近	jìn	near; close; recent	3	辶	Walking toward something as close as a hatchet strike, and the character that covers both spatial proximity and the specific historical era Chinese scholars call the modern period.	direction geography daily-life history
+九	jiǔ	nine; the imperial number and the highest of the yang	1	乙	Nine is the largest single digit and the highest yang number, reserved for the emperor and the heavens: nine dragons, nine gates, the Nine-Five supreme position, the ninth heaven.	cosmology culture language
 旧	jiù	old; used; former; worn	4	日	The antonym of 新, and much more than it. 旧 carries both the weight of cherished tradition and the stigma of backwardness, depending entirely on who is speaking.	history change classical daily-life
 开	kāi	to open, to start, to operate	1	廾	Two hands lifting the bar across a closed gate. From that single image flow most of modern life: opening a door, starting a meeting, driving a car, writing a check, blooming.	change motion daily-life
 看	kàn	to look, to watch, to read, to visit	1	目	看 = hand above eye, shielding from the sun to see in the distance: visual attention with effort, encoded in a gesture everyone has made.	perception daily-life grammar
@@ -58,6 +63,9 @@
 雷	léi	thunder, the Arousing	5	雨	Rain over fields struck by lightning: the ancient pictograph of thunder that became a deity, a Yijing trigram, and a metaphor for decisive force.	nature cosmology religion gods wuxing
 礼	lǐ	rites, ceremony, propriety	4	礻	The character that encodes Confucian social order: the ceremonial forms that bind family, society, and cosmos into one coherent whole.	confucianism radical culture
 里	lǐ	inside, within; Chinese mile	1	里	From field stacked on earth, 里 named the bounded cultivated interior of a settlement and became the unit of distance that measured the realm's interior reach.	direction space daily-life geography
+两	liǎng	two (of); a pair; the tael, the other word for two	2	一	两 is the two used before measure words, the two of quantity and pairing, as opposed to 二 the two of counting and order, a distinction that is one of the first real puzzles a learner meets.	language grammar daily-life
+零	líng	zero; raindrops, the fractional remainder, and the late invention of nothing	2	雨	Zero began as falling raindrops and the leftover odd remainder, taking on the meaning of mathematical nothing only late, the placeholder that Chinese numerals long managed without.	language science cosmology
+六	liù	six; the six directions; a smooth and lucky number	1	八	Six closes space into the six directions (the four compass points plus up and down) and, through its near-homophony with 流 liú (to flow), became a number for things going smoothly.	cosmology space language
 龙	lóng	dragon, the imperial symbol	3	龙	China's most powerful mythic creature: benevolent, not fearsome; the emperor's emblem and the Chinese people's self-described totem.	culture history
 路	lù	road, path, route	2	足	The walked road, where 道 is the navigated way: 路 is the surface beneath the foot, the route the messenger takes, the journey of a life measured in distance.	path directions movement
 落	luò	to fall, to settle, to land	[object Object]	艹	Falling, settling, and the beauty of things arriving at their place.	movement space settlement
@@ -71,11 +79,14 @@
 南	nán	south; southern	2	十	The direction that Chinese buildings face and emperors receive guests: warmth, productivity, and the seat of imperial ritual power.	directions nature cosmology
 你	nǐ	you	1	人	The everyday second-person pronoun whose formal twin 您 embeds 心 (heart) directly into the character: address with warmth.	grammar social courtesy
 年	nián	year	1	干	A person carrying a harvest of grain: year as the cycle of agricultural labor, and the heart of the Chinese New Year tradition.	culture history cosmology
+念	niàn	to recite, to keep in mind, to miss	3	心	念 holds the present moment 今 over the heart 心: to keep something in mind, to recite aloud, to long for what is absent. The 念 of 念佛 recitation, 想念 longing, and the single thought-moment of Buddhist psychology.	mind memory buddhism mindfulness recitation
 女	nǚ	woman, female	2	女	A kneeling figure with crossed arms: one of the most productive radicals in the script, present in characters for family relationships, feelings, and cultural concepts.	family culture body
 跑	pǎo	to run; to flee; to operate	2	足	The everyday verb of running: a foot-radical character whose semantic range stretches from "the legs in motion" to "running an errand" to "the engine is running" to a small but productive family of escape-and-flee compounds.	motion body daily-life
 品	pǐn	article, grade, character, to taste	3	口	Three mouths stacked: a character about multiplicity, evaluation, and the discerning assessment of quality, from product grades to moral character.	evaluation quality culture commerce
+七	qī	seven; the rhythm of mourning, festival, and the soul	1	一	Seven measures the cycles of death and renewal in Chinese culture: the seven-day periods of mourning, the seventh-night lovers' festival, and the seven emotions of the heart.	cosmology culture language
 其	qí	its, that, their	4	八	A winnowing basket that became the pronoun holding classical Chinese together: the silent 'its' behind thousands of literary phrases.	grammar classical literary particle language
 气	qì	breath, vital energy	3	气	From weather to anger to the cosmic force underlying TCM and martial arts.	cosmology tcm energy
+千	qiān	thousand; a vast, uncountable many	2	十	Thousand is the order of magnitude where a precise count gives way to poetic vastness: a thousand miles, a thousand autumns, ten thousand changes, the number that means simply too many to count.	language literature cosmology
 前	qián	front, before, forward; former	2	刀	Chinese places the past in front (前) and the future behind: the known faces you while the unknown approaches from behind, the inverse of the English spatial metaphor for time.	direction time philosophy grammar
 钱	qián	money, coin, currency	1	钅	Money: the character that drives markets, proverbs, and the Chinese conversation about wealth.	daily-life economy culture
 去	qù	to go, to leave, to depart, to remove	1	厶	The character that marks every departure, from leaving the house to the euphemism for death. 去 is the verb of things moving away.	direction motion grammar
@@ -100,12 +111,15 @@
 说	shuō	to speak, to say, to explain	1	讠	To speak, say, explain, and persuade: the character at the center of all communication.	language communication rhetoric
 思	sī	to think, to miss, thought	3	心	The field of the mind above the heart: thinking as cultivation, longing as thought turned inward.	mind emotion
 死	sǐ	death, to die, dead, fixed	4	歹	A figure kneeling beside a corpse. The character behind the strongest verb of finality in Chinese, the bedrock of every taboo, and the intensifier that turns 累 into 累死了.	life ritual culture symbolism daily-life
+四	sì	four; the four directions; the homophone of death	1	囗	Four organizes the Chinese world into quarters, the four directions, four seas, four seasons, yet its near-homophony with 死 sǐ (death) makes it the most avoided number in modern China.	cosmology space language
 他	tā	he, him; another	1	人	他 was gender-neutral for a millennium until 她 was coined in 1917 to solve a translation problem that Classical Chinese had never needed to solve.	grammar humanity social modern
+它	tā	it; the non-human third person	2	宀	它 began as a picture of a snake and once meant other; in the twentieth century it was reassigned to the non-human third person, completing the homophonous 他/她/它 triad that exists only in writing.	grammar language modern
 她	tā	she, her	1	女	她 is the youngest character in everyday Chinese, invented in 1917 to translate "she," and the cause of one of the loudest grammatical fights in modern Chinese letters.	grammar modern social language
 天	tiān	sky, heaven, day	1	大	Heaven as moral authority, weather, time, and the ground of 天命 the Mandate of Heaven.	cosmology heaven mandate
 听	tīng	to listen, to hear, to obey	1	口	The simplified 听 = mouth + axe, but the traditional 聽 encodes whole-body Confucian listening: ear, eye, heart, and upright virtue arrayed together in a single glyph.	perception daily-life confucianism
 图	tú	map, diagram, to plan, to seek	3	囗	A character for diagrams, maps, intentions, and plots: anything that represents the world at one remove, or seeks to reshape it.	visual planning cartography
 土	tǔ	earth, soil, local, native	3	土	A mound of soil with a base: the earth phase of the Five Elements, and the root of hundreds of characters for land, construction, and cultural belonging.	cosmology culture history
+完	wán	to finish; to be whole	2	宀	完 means both whole and finished, and the bridge between them is intact completeness; its most important job is as a result complement, the 完 that ends 吃完, 做完, and 看完.	grammar daily-life language
 万	wàn	ten thousand; myriad; all	1	一	万 is the Chinese hyperbole unit. Where English reaches for millions, Chinese reaches for 万 to express the immeasurable, because the written number 10,000 originally meant scorpion.	cosmology scale language
 王	wáng	king	3	王	Three horizontals joined by one vertical: the ruler who connects heaven, earth, and humanity. Also the most common Chinese surname, and a radical that is secretly 玉 (jade) in disguise.	radical royalty history philosophy
 为	wéi	to do; to act; for; because of	2	丶	In oracle bone script, a hand leading an elephant (to guide an immense force through skillful agency), and the character at the center of the Daoist concept of non-action.	grammar classical taoism philosophy daoism wuwei syntax
@@ -113,6 +127,7 @@
 我	wǒ	I, me, myself	1	戈	The character for 'I' began as a toothed bronze halberd: the assertive grip of a weapon became the grammatical mark of a self.	grammar humanity social
 屋	wū	room, house, dwelling	[object Object]	尸	Room, dwelling, and the human need for shelter: the character at home.	space dwelling architecture
 无	wú	nothing, without, non-being	4	无	A dancer with arms outstretched, holding nothing. The character behind every Chinese negation of having, every Daoist non-doing, and the philosophical pole that pairs with 有 to frame the whole cosmos.	daoism philosophy negation cosmology wuwei
+五	wǔ	five; the organizing number of correlative cosmology	1	二	Five is the center plus the four directions, the number that completes the Chinese cosmos: five phases, five colors, five tones, five flavors, five viscera, all keyed to one master grid.	cosmology philosophy language
 西	xī	west; western	1	西	A bird settling into its nest at sunset: the direction that gave Chinese the word for "things" when it paired with east.	directions nature cosmology buddhism
 下	xià	below, down, to descend, to issue	1	一	The mirror image of 上: a notch below the line that governs everything from going downstairs to issuing imperial decrees.	direction grammar motion
 想	xiǎng	to think, to want, to miss	2	心	想 = 相 (mutual, facing) + 心 (heart): the heart turned toward something, carrying the full range from thought to desire to longing in a single gesture.	mind emotion philosophy
@@ -123,6 +138,7 @@
 信	xìn	trust, faith, credibility	2	亻	A person standing by their word: one of the most visually transparent characters in the language, and the virtue that holds every contract, conversation, and relationship together.	confucianism ethics virtue philosophy communication
 行	xíng	to walk, to act, a row, a trade	[object Object]	行	One of the great polyphonic characters: xíng "to walk; to act; conduct" and háng "row; profession; firm." A pictograph of a four-way crossroads, the place where walking and the world are organized.	movement motion ethics
 学	xué	to study, to learn, learning	1	子	Hands guiding a child beneath a roof: the character for learning as both action and institution.	confucianism education culture philosophy
+雪	xuě	snow, whiteness, and vengeance	2	雨	Rain over a sweeping hand: snow is the precipitation you can hold. The same character means dazzling white and, by a buried metaphor, to wipe clean an old grievance.	nature weather winter
 言	yán	speech, word, language	4	言	The root of every word about words: the mouth open, the tongue moving, the speech rising.	radical language
 眼	yǎn	eye, glance	2	目	The everyday word for eye, and by extension any small opening, any moment of looking, any judgment made through sight. The body-part counterpart to literary 目.	body perception measure-words
 要	yào	to want, must, essential	1	女	Want, need, must, and will: the grammar engine disguised as a single character.	grammar modal
@@ -130,6 +146,7 @@
 一	yī	one; unified; as soon as	1	一	The simplest mark a brush can make carries the heaviest philosophical weight in Chinese civilization: 道生一，一生二，the Dao generates One, and One generates everything.	cosmology philosophy taoism confucianism
 以	yǐ	by means of; using; because; in order to	2	人	A classical Chinese preposition and conjunction so versatile that it anchors half the grammar of formal Chinese: the word that turns one thing into the means, standard, or cause of another.	grammar classical syntax conjunction particle literary
 义	yì	righteousness, duty, justice	3	丶	The Confucian virtue of doing what is morally right, and the simplification that erased a sheep, a self, and the entire picture of what righteous form looks like.	confucianism ethics virtue philosophy
+阴	yīn	the shaded slope, the lunar, the covert	4	阝	The shadow half of the cosmos and the everyday word for an overcast day. From the dark side of a hill grew the lunar calendar, the hidden plot, and time itself as light and shade.	cosmology nature weather
 用	yòng	to use; function; expense	2	用	用 began as a pictograph of a bucket or bell (a vessel put to work) and became the character that Zhuangzi inverted in his doctrine of 无用之用: the use of uselessness.	daoism philosophy daily-life grammar
 有	yǒu	to have, to exist	1	月	Possession, existence, and the have/be distinction that reshapes grammar.	grammar existence possession
 右	yòu	right; to assist; to favor	2	口	A right hand raised to a mouth: the hand that feeds and speaks, whose authority in Chinese extended to favoring, protecting, and placing the highest things to the right of the seat.	direction space daily-life
@@ -151,4 +168,6 @@
 字	zì	character, written word	1	子	The character that names itself, and the whole system of 汉字.	writing language meta
 走	zǒu	to walk, to go, to leave	1	走	A figure in motion with feet below: the basic verb of movement that Chinese uses where English uses dozens of different words.	grammar culture
 足	zú	foot; sufficient; enough	4	足	The foot that became the word for sufficiency, and the radical anchoring every character involving legs, running, and roads.	body motion radical
+最	zuì	most; the superlative marker	2	曰	最 is the single word that pushes any adjective to its limit: the -est of English, the most of comparison, the marker that turns 好 into 最好 and 后 into 最后.	grammar daily-life language
 左	zuǒ	left; unorthodox; to assist	2	工	A left hand holding a carpenter's square: the assisting hand at the ruler, and by extension the word for unorthodox, heterodox, and everything that deviates from the orthodox path.	direction space daily-life
+做	zuò	to do, to make, to act as	1	亻	做 is the everyday verb for doing and making, a late character built to carry the work that 作 had grown too literary to do, and the two still split the labor between them.	daily-life grammar social

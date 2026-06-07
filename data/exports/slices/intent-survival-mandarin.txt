@@ -1,5 +1,6 @@
 //角落書屋/Slices/Survival Mandarin
 爱	ài	love, to love, to cherish — Love in all its forms: romantic, familial, and the Confucian ethic of universal benevolence.
+八	bā	eight; the luckiest number and the eight trigrams — Eight is the most coveted number in modern China through its near-homophony with 发 fā (to prosper), and the classical foundation of the eight trigrams that structure the Yijing.
 白	bái	white, clear, plain, in vain — Sunlight on a single point. The character that names the color of mourning, the color of clarity, the empty plate, and the speech that hides nothing.
 百	bǎi	hundred; all kinds of — 百姓, the hundred surnames, is classical Chinese for the common people, because the full range of ordinary family names stands in for everyone who is not nobility.
 不	bù	no, not, negation — The most used character in Mandarin, and the foundation of every denial, refusal, and negation.
@@ -15,18 +16,22 @@
 国	guó	country, nation, state — A walled enclosure protecting its people: the Chinese concept of nationhood written in a single character.
 好	hǎo	good; to like — Good, well, to like, and the tone split that doubles its expressive range.
 和	hé	harmony, and, with; peace — 和 carries the same concept across grammar and philosophy: grain and mouth together, the harmony of shared food and speech, a character that serves as both everyday conjunction and the Confucian ideal of a well-ordered world.
+很	hěn	very; the empty intensifier — 很 is the word for very, but its strangest job is doing nothing: Chinese needs a degree adverb before a plain adjective, and 很 fills that slot so quietly that 我很好 means simply I am fine, not I am very well.
 后	hòu	back, behind, after; empress — One simplified character collapsed two completely separate traditional forms: 後 (a trailing foot in motion) and 后 (a commanding mouth), binding the spatial sense of behind with the imperial sense of empress in a single glyph.
 火	huǒ	fire, flame, anger, popularity — Three flames rising: the character for fire and one of the most productive radicals in Chinese.
 家	jiā	home, family — House, family, school of thought, nation (国家): the fractal of belonging.
 见	jiàn	to see, to meet, to appear — An eye on legs. The character that built Chinese verbs of seeing, meeting, opinion, and the moment a thing first comes into view.
+九	jiǔ	nine; the imperial number and the highest of the yang — Nine is the largest single digit and the highest yang number, reserved for the emperor and the heavens: nine dragons, nine gates, the Nine-Five supreme position, the ninth heaven.
 开	kāi	to open, to start, to operate — Two hands lifting the bar across a closed gate. From that single image flow most of modern life: opening a door, starting a meeting, driving a car, writing a check, blooming.
 看	kàn	to look, to watch, to read, to visit — 看 = hand above eye, shielding from the sun to see in the distance: visual attention with effort, encoded in a gesture everyone has made.
 来	lái	to come, to arrive, toward the speaker — Oracle bone wheat plant turned direction-word: 来 pulls everything toward the speaker, including time itself.
 里	lǐ	inside, within; Chinese mile — From field stacked on earth, 里 named the bounded cultivated interior of a settlement and became the unit of distance that measured the realm's interior reach.
+六	liù	six; the six directions; a smooth and lucky number — Six closes space into the six directions (the four compass points plus up and down) and, through its near-homophony with 流 liú (to flow), became a number for things going smoothly.
 名	míng	name, fame, reputation — 名 is 夕 dusk plus 口 mouth: darkness falls, you cannot see who approaches, so you call out a name. Identity asserted through speech.
 木	mù	tree, wood — A tree seen whole: trunk, branches, roots. The pictograph that became a radical, a wuxing element, and the building block of 林, 森, 本, and 末.
 你	nǐ	you — The everyday second-person pronoun whose formal twin 您 embeds 心 (heart) directly into the character: address with warmth.
 年	nián	year — A person carrying a harvest of grain: year as the cycle of agricultural labor, and the heart of the Chinese New Year tradition.
+七	qī	seven; the rhythm of mourning, festival, and the soul — Seven measures the cycles of death and renewal in Chinese culture: the seven-day periods of mourning, the seventh-night lovers' festival, and the seven emotions of the heart.
 钱	qián	money, coin, currency — Money: the character that drives markets, proverbs, and the Chinese conversation about wealth.
 去	qù	to go, to leave, to depart, to remove — The character that marks every departure, from leaving the house to the euphemism for death. 去 is the verb of things moving away.
 人	rén	person, humanity — The character for human being, and its echo in 仁 rén, Confucian benevolence.
@@ -40,12 +45,14 @@
 是	shì	to be — The copula, the cleft construction, classical 是非 right-and-wrong.
 水	shuǐ	water — The first of the five elements, the radical that runs through hundreds of compounds, and the Daoist image of how to act in the world.
 说	shuō	to speak, to say, to explain — To speak, say, explain, and persuade: the character at the center of all communication.
+四	sì	four; the four directions; the homophone of death — Four organizes the Chinese world into quarters, the four directions, four seas, four seasons, yet its near-homophony with 死 sǐ (death) makes it the most avoided number in modern China.
 他	tā	he, him; another — 他 was gender-neutral for a millennium until 她 was coined in 1917 to solve a translation problem that Classical Chinese had never needed to solve.
 她	tā	she, her — 她 is the youngest character in everyday Chinese, invented in 1917 to translate "she," and the cause of one of the loudest grammatical fights in modern Chinese letters.
 天	tiān	sky, heaven, day — Heaven as moral authority, weather, time, and the ground of 天命 the Mandate of Heaven.
 听	tīng	to listen, to hear, to obey — The simplified 听 = mouth + axe, but the traditional 聽 encodes whole-body Confucian listening: ear, eye, heart, and upright virtue arrayed together in a single glyph.
 万	wàn	ten thousand; myriad; all — 万 is the Chinese hyperbole unit. Where English reaches for millions, Chinese reaches for 万 to express the immeasurable, because the written number 10,000 originally meant scorpion.
 我	wǒ	I, me, myself — The character for 'I' began as a toothed bronze halberd: the assertive grip of a weapon became the grammatical mark of a self.
+五	wǔ	five; the organizing number of correlative cosmology — Five is the center plus the four directions, the number that completes the Chinese cosmos: five phases, five colors, five tones, five flavors, five viscera, all keyed to one master grid.
 西	xī	west; western — A bird settling into its nest at sunset: the direction that gave Chinese the word for "things" when it paired with east.
 下	xià	below, down, to descend, to issue — The mirror image of 上: a notch below the line that governs everything from going downstairs to issuing imperial decrees.
 小	xiǎo	small, little; humble — Three minimal strokes that became the Confucian axis of moral character: the 小人 (petty person) and the 君子 (exemplary person) are the two poles every learner of classical Chinese must know.
@@ -61,6 +68,7 @@
 中	zhōng	middle, China, to hit the mark — An arrow piercing through the center of a target: the character that names China as the Middle Kingdom and encodes the Confucian virtue of equilibrium.
 字	zì	character, written word — The character that names itself, and the whole system of 汉字.
 走	zǒu	to walk, to go, to leave — A figure in motion with feet below: the basic verb of movement that Chinese uses where English uses dozens of different words.
+做	zuò	to do, to make, to act as — 做 is the everyday verb for doing and making, a late character built to carry the work that 作 had grown too literary to do, and the two still split the labor between them.
 东西	dōng xi	things — East-west as the word for 'stuff': a window into directional cosmology.
 关系	guān xi	relationship, connections — The untranslatable social fabric: relational leverage, it matters.
 国家	guó jiā	nation; state; country — A compound of the two most culturally loaded characters in Chinese: country and family, that encodes the Confucian political imagination in two syllables.
@@ -71,6 +79,7 @@
 人生	rén shēng	human life; one's life journey — Human life: not biological existence, but the arc of a life lived: its meaning, its seasons, its reckoning.
 山水	shān shuǐ	mountains and water; the landscape — The paired word that names the Chinese landscape: not "scenery" in the Western sense, but a cosmological pairing of the still and the flowing that became the central subject of a thousand years of painting and poetry.
 山水画	shān shuǐ huà	Chinese Landscape Painting — Mountains and waters as a cosmological pair -- the genre that made ink the equal of philosophy.
+时代	shí dài	era, age — The word for a historical era or age, built from 时 (time) and 代 (generation), and how it differs from 时期 a period, 年代 a decade, 时候 a moment, and 现代 modern times.
 时候	shí hou	time, moment — The everyday word for a point in time, and the indispensable 的时候 ("when") pattern that every learner needs.
 时间	shí jiān	time — Time: the compound that anchors all temporal expression in Mandarin.
 天地	tiān dì	heaven and earth; the cosmos — The foundational dyad of Chinese cosmology, pairing Heaven and Earth as the two poles of the created order within which all human life unfolds.

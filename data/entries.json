@@ -1,5 +1,479 @@
 [
   {
+    "path": "pages/characters/ba1_八.html",
+    "type": "character",
+    "category": "characters",
+    "title": "八 · eight; the luckiest number and the eight trigrams",
+    "desc": "Eight is the most coveted number in modern China through its near-homophony with 发 fā (to prosper), and the classical foundation of the eight trigrams that structure the Yijing.",
+    "tags": [
+      "cosmology",
+      "culture",
+      "language"
+    ],
+    "status": "complete",
+    "char": "八",
+    "pinyin": "bā",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "八",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/hei1_黑.html",
+    "type": "character",
+    "category": "characters",
+    "title": "黑 · black, darkness, and the illicit",
+    "desc": "Black on the surface, but the live sense is moral: the black market, the underworld, the hacker. The color that names everything that operates out of sight.",
+    "tags": [
+      "color",
+      "darkness",
+      "symbolism"
+    ],
+    "status": "complete",
+    "char": "黑",
+    "pinyin": "hēi",
+    "tone": 1,
+    "hsk": 2,
+    "radical": "黑",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/hen3_很.html",
+    "type": "character",
+    "category": "characters",
+    "title": "很 · very; the empty intensifier",
+    "desc": "很 is the word for very, but its strangest job is doing nothing: Chinese needs a degree adverb before a plain adjective, and 很 fills that slot so quietly that 我很好 means simply I am fine, not I am very well.",
+    "tags": [
+      "grammar",
+      "daily-life",
+      "language"
+    ],
+    "status": "complete",
+    "char": "很",
+    "pinyin": "hěn",
+    "tone": 3,
+    "hsk": 1,
+    "radical": "彳",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/hong2_红.html",
+    "type": "character",
+    "category": "characters",
+    "title": "红 · red, the color of luck and celebration",
+    "desc": "The cultural keystone color: weddings, New Year, the red envelope, and a century of revolutionary politics all run through this one character.",
+    "tags": [
+      "color",
+      "culture",
+      "symbolism"
+    ],
+    "status": "complete",
+    "char": "红",
+    "pinyin": "hóng",
+    "tone": 2,
+    "hsk": 2,
+    "radical": "纟",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/jiu3_九.html",
+    "type": "character",
+    "category": "characters",
+    "title": "九 · nine; the imperial number and the highest of the yang",
+    "desc": "Nine is the largest single digit and the highest yang number, reserved for the emperor and the heavens: nine dragons, nine gates, the Nine-Five supreme position, the ninth heaven.",
+    "tags": [
+      "cosmology",
+      "culture",
+      "language"
+    ],
+    "status": "complete",
+    "char": "九",
+    "pinyin": "jiǔ",
+    "tone": 3,
+    "hsk": 1,
+    "radical": "乙",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/liang3_两.html",
+    "type": "character",
+    "category": "characters",
+    "title": "两 · two (of); a pair; the tael, the other word for two",
+    "desc": "两 is the two used before measure words, the two of quantity and pairing, as opposed to 二 the two of counting and order, a distinction that is one of the first real puzzles a learner meets.",
+    "tags": [
+      "language",
+      "grammar",
+      "daily-life"
+    ],
+    "status": "complete",
+    "char": "两",
+    "pinyin": "liǎng",
+    "tone": 3,
+    "hsk": 2,
+    "radical": "一",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/ling2_零.html",
+    "type": "character",
+    "category": "characters",
+    "title": "零 · zero; raindrops, the fractional remainder, and the late invention of nothing",
+    "desc": "Zero began as falling raindrops and the leftover odd remainder, taking on the meaning of mathematical nothing only late, the placeholder that Chinese numerals long managed without.",
+    "tags": [
+      "language",
+      "science",
+      "cosmology"
+    ],
+    "status": "complete",
+    "char": "零",
+    "pinyin": "líng",
+    "tone": 2,
+    "hsk": 2,
+    "radical": "雨",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/liu4_六.html",
+    "type": "character",
+    "category": "characters",
+    "title": "六 · six; the six directions; a smooth and lucky number",
+    "desc": "Six closes space into the six directions (the four compass points plus up and down) and, through its near-homophony with 流 liú (to flow), became a number for things going smoothly.",
+    "tags": [
+      "cosmology",
+      "space",
+      "language"
+    ],
+    "status": "complete",
+    "char": "六",
+    "pinyin": "liù",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "八",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/nian4_念.html",
+    "type": "character",
+    "category": "characters",
+    "title": "念 · to recite, to keep in mind, to miss",
+    "desc": "念 holds the present moment 今 over the heart 心: to keep something in mind, to recite aloud, to long for what is absent. The 念 of 念佛 recitation, 想念 longing, and the single thought-moment of Buddhist psychology.",
+    "tags": [
+      "mind",
+      "memory",
+      "buddhism",
+      "mindfulness",
+      "recitation"
+    ],
+    "status": "complete",
+    "char": "念",
+    "pinyin": "niàn",
+    "tone": 4,
+    "hsk": 3,
+    "radical": "心",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/qi1_七.html",
+    "type": "character",
+    "category": "characters",
+    "title": "七 · seven; the rhythm of mourning, festival, and the soul",
+    "desc": "Seven measures the cycles of death and renewal in Chinese culture: the seven-day periods of mourning, the seventh-night lovers' festival, and the seven emotions of the heart.",
+    "tags": [
+      "cosmology",
+      "culture",
+      "language"
+    ],
+    "status": "complete",
+    "char": "七",
+    "pinyin": "qī",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "一",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/qian1_千.html",
+    "type": "character",
+    "category": "characters",
+    "title": "千 · thousand; a vast, uncountable many",
+    "desc": "Thousand is the order of magnitude where a precise count gives way to poetic vastness: a thousand miles, a thousand autumns, ten thousand changes, the number that means simply too many to count.",
+    "tags": [
+      "language",
+      "literature",
+      "cosmology"
+    ],
+    "status": "complete",
+    "char": "千",
+    "pinyin": "qiān",
+    "tone": 1,
+    "hsk": 2,
+    "radical": "十",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/si4_四.html",
+    "type": "character",
+    "category": "characters",
+    "title": "四 · four; the four directions; the homophone of death",
+    "desc": "Four organizes the Chinese world into quarters, the four directions, four seas, four seasons, yet its near-homophony with 死 sǐ (death) makes it the most avoided number in modern China.",
+    "tags": [
+      "cosmology",
+      "space",
+      "language"
+    ],
+    "status": "complete",
+    "char": "四",
+    "pinyin": "sì",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "囗",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/ta1_它.html",
+    "type": "character",
+    "category": "characters",
+    "title": "它 · it; the non-human third person",
+    "desc": "它 began as a picture of a snake and once meant other; in the twentieth century it was reassigned to the non-human third person, completing the homophonous 他/她/它 triad that exists only in writing.",
+    "tags": [
+      "grammar",
+      "language",
+      "modern"
+    ],
+    "status": "complete",
+    "char": "它",
+    "pinyin": "tā",
+    "tone": 1,
+    "hsk": 2,
+    "radical": "宀",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/wan2_完.html",
+    "type": "character",
+    "category": "characters",
+    "title": "完 · to finish; to be whole",
+    "desc": "完 means both whole and finished, and the bridge between them is intact completeness; its most important job is as a result complement, the 完 that ends 吃完, 做完, and 看完.",
+    "tags": [
+      "grammar",
+      "daily-life",
+      "language"
+    ],
+    "status": "complete",
+    "char": "完",
+    "pinyin": "wán",
+    "tone": 2,
+    "hsk": 2,
+    "radical": "宀",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/wu3_五.html",
+    "type": "character",
+    "category": "characters",
+    "title": "五 · five; the organizing number of correlative cosmology",
+    "desc": "Five is the center plus the four directions, the number that completes the Chinese cosmos: five phases, five colors, five tones, five flavors, five viscera, all keyed to one master grid.",
+    "tags": [
+      "cosmology",
+      "philosophy",
+      "language"
+    ],
+    "status": "complete",
+    "char": "五",
+    "pinyin": "wǔ",
+    "tone": 3,
+    "hsk": 1,
+    "radical": "二",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/xue3_雪.html",
+    "type": "character",
+    "category": "characters",
+    "title": "雪 · snow, whiteness, and vengeance",
+    "desc": "Rain over a sweeping hand: snow is the precipitation you can hold. The same character means dazzling white and, by a buried metaphor, to wipe clean an old grievance.",
+    "tags": [
+      "nature",
+      "weather",
+      "winter"
+    ],
+    "status": "complete",
+    "char": "雪",
+    "pinyin": "xuě",
+    "tone": 3,
+    "hsk": 2,
+    "radical": "雨",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/yin1_阴.html",
+    "type": "character",
+    "category": "characters",
+    "title": "阴 · the shaded slope, the lunar, the covert",
+    "desc": "The shadow half of the cosmos and the everyday word for an overcast day. From the dark side of a hill grew the lunar calendar, the hidden plot, and time itself as light and shade.",
+    "tags": [
+      "cosmology",
+      "nature",
+      "weather"
+    ],
+    "status": "complete",
+    "char": "阴",
+    "pinyin": "yīn",
+    "tone": 1,
+    "hsk": 4,
+    "radical": "阝",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/zui4_最.html",
+    "type": "character",
+    "category": "characters",
+    "title": "最 · most; the superlative marker",
+    "desc": "最 is the single word that pushes any adjective to its limit: the -est of English, the most of comparison, the marker that turns 好 into 最好 and 后 into 最后.",
+    "tags": [
+      "grammar",
+      "daily-life",
+      "language"
+    ],
+    "status": "complete",
+    "char": "最",
+    "pinyin": "zuì",
+    "tone": 4,
+    "hsk": 2,
+    "radical": "曰",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/zuo4_做.html",
+    "type": "character",
+    "category": "characters",
+    "title": "做 · to do, to make, to act as",
+    "desc": "做 is the everyday verb for doing and making, a late character built to carry the work that 作 had grown too literary to do, and the two still split the labor between them.",
+    "tags": [
+      "daily-life",
+      "grammar",
+      "social"
+    ],
+    "status": "complete",
+    "char": "做",
+    "pinyin": "zuò",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "亻",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/history/topic_caocao.html",
+    "type": "topic",
+    "category": "history",
+    "title": "曹操 · The Warlord-Poet",
+    "desc": "The man who held the dying Han together by force, wrote some of the finest poetry in the language, and became Chinese literature's most magnificent villain.",
+    "tags": [
+      "history",
+      "han",
+      "biography",
+      "warlord",
+      "poet",
+      "poetry",
+      "statecraft",
+      "strategy"
+    ],
+    "status": "complete",
+    "pinyin": "cáo cāo",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/history/topic_xuanzang.html",
+    "type": "topic",
+    "category": "history",
+    "title": "玄奘 · The Pilgrim of the West",
+    "desc": "The Tang monk who crossed the deserts to India for the scriptures, studied sixteen years, and came home to translate them: the historical figure behind Journey to the West.",
+    "tags": [
+      "history",
+      "tang",
+      "buddhism",
+      "pilgrimage",
+      "translation",
+      "silk-road",
+      "biography"
+    ],
+    "status": "complete",
+    "pinyin": "xuánzàng",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/vocab/amituofo_阿弥陀佛.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "阿弥陀佛 · Amitābha Buddha",
+    "desc": "阿弥陀佛 is the Buddha of Infinite Light and Life who presides over the Western Pure Land, and his name is itself the central practice: to recite 南无阿弥陀佛 is the simple path of Pure Land devotion, open to everyone.",
+    "tags": [
+      "buddhism",
+      "religion",
+      "pure-land",
+      "amitabha",
+      "faith",
+      "devotion",
+      "recitation"
+    ],
+    "status": "complete",
+    "pinyin": "Ēmítuófó",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/vocab/huangdi_皇帝.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "皇帝 · emperor",
+    "desc": "The title the First Emperor invented in 221 BCE by welding together 皇 (august sage-king) and 帝 (high god), and how it differs from 王 king, 君 sovereign, and 天子 the Son of Heaven.",
+    "tags": [
+      "vocabulary",
+      "history",
+      "emperor",
+      "imperial",
+      "statecraft",
+      "royalty"
+    ],
+    "status": "complete",
+    "pinyin": "huángdì",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/vocab/shidai_时代.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "时代 · era, age",
+    "desc": "The word for a historical era or age, built from 时 (time) and 代 (generation), and how it differs from 时期 a period, 年代 a decade, 时候 a moment, and 现代 modern times.",
+    "tags": [
+      "vocabulary",
+      "time",
+      "history",
+      "era",
+      "daily-life"
+    ],
+    "status": "complete",
+    "pinyin": "shídài",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/vocab/xiandai_现代.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "现代 · modern times",
+    "desc": "The word for the modern era, built from 现 (present, manifest) and 代 (generation, age), how Chinese history slices time into 古代 / 近代 / 现代 / 当代, and how 现代 differs from 现在 now.",
+    "tags": [
+      "vocabulary",
+      "time",
+      "history",
+      "modern",
+      "era",
+      "daily-life"
+    ],
+    "status": "complete",
+    "pinyin": "xiàndài",
+    "updated": "2026-06-07"
+  },
+  {
     "path": "pages/grammar/gen_跟.html",
     "type": "grammar",
     "category": "grammar",

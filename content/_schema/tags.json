@@ -282,5 +282,21 @@
   {"slug": "pilgrimage",        "label": "Pilgrimage"},
   {"slug": "strategy",          "label": "Strategy"},
   {"slug": "biography",         "label": "Biography"},
-  {"slug": "archaeology",       "label": "Archaeology"}
+  {"slug": "poet",              "label": "Poet"},
+  {"slug": "warlord",           "label": "Warlord"},
+  {"slug": "emperor",           "label": "Emperor"},
+  {"slug": "imperial",          "label": "Imperial"},
+  {"slug": "era",               "label": "Era"},
+  {"slug": "generation",        "label": "Generation"},
+  {"slug": "archaeology",       "label": "Archaeology"},
+  {"slug": "memory",            "label": "Memory"},
+  {"slug": "mindfulness",       "label": "Mindfulness"},
+  {"slug": "recitation",        "label": "Recitation"},
+  {"slug": "devotion",          "label": "Devotion"},
+  {"slug": "translation",       "label": "Translation"},
+  {"slug": "silk-road",         "label": "Silk Road"},
+  {"slug": "weather",           "label": "Weather"},
+  {"slug": "winter",            "label": "Winter"},
+  {"slug": "darkness",          "label": "Darkness"},
+  {"slug": "luck",              "label": "Luck"}
 ]

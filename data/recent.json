@@ -1,324 +1,385 @@
 [
   {
-    "path": "pages/grammar/gen_跟.html",
-    "type": "grammar",
-    "category": "grammar",
-    "title": "跟 · with; and; to follow",
-    "desc": "The everyday coverb for \"with\" and conjunction for \"and\", how the 跟…一起 and 跟…说 patterns work, the original verb \"to follow\", and how 跟 differs from 和, 同, and 与.",
+    "path": "pages/characters/ba1_八.html",
+    "type": "character",
+    "category": "characters",
+    "title": "八 · eight; the luckiest number and the eight trigrams",
+    "desc": "Eight is the most coveted number in modern China through its near-homophony with 发 fā (to prosper), and the classical foundation of the eight trigrams that structure the Yijing.",
     "tags": [
-      "grammar",
-      "conjunction",
-      "communication",
-      "spoken"
+      "cosmology",
+      "culture",
+      "language"
     ],
     "status": "complete",
-    "pinyin": "gēn",
-    "updated": "2026-05-31"
+    "char": "八",
+    "pinyin": "bā",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "八",
+    "updated": "2026-06-07"
   },
   {
-    "path": "pages/grammar/li_离.html",
-    "type": "grammar",
-    "category": "grammar",
-    "title": "离 · away from; distance",
-    "desc": "The coverb for distance and separation: the A 离 B + distance pattern for \"how far\", the verb sense \"to leave / part from\", and how 离 differs from 从 and 到 in marking space and time.",
+    "path": "pages/characters/hei1_黑.html",
+    "type": "character",
+    "category": "characters",
+    "title": "黑 · black, darkness, and the illicit",
+    "desc": "Black on the surface, but the live sense is moral: the black market, the underworld, the hacker. The color that names everything that operates out of sight.",
+    "tags": [
+      "color",
+      "darkness",
+      "symbolism"
+    ],
+    "status": "complete",
+    "char": "黑",
+    "pinyin": "hēi",
+    "tone": 1,
+    "hsk": 2,
+    "radical": "黑",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/hen3_很.html",
+    "type": "character",
+    "category": "characters",
+    "title": "很 · very; the empty intensifier",
+    "desc": "很 is the word for very, but its strangest job is doing nothing: Chinese needs a degree adverb before a plain adjective, and 很 fills that slot so quietly that 我很好 means simply I am fine, not I am very well.",
     "tags": [
       "grammar",
-      "direction",
+      "daily-life",
+      "language"
+    ],
+    "status": "complete",
+    "char": "很",
+    "pinyin": "hěn",
+    "tone": 3,
+    "hsk": 1,
+    "radical": "彳",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/hong2_红.html",
+    "type": "character",
+    "category": "characters",
+    "title": "红 · red, the color of luck and celebration",
+    "desc": "The cultural keystone color: weddings, New Year, the red envelope, and a century of revolutionary politics all run through this one character.",
+    "tags": [
+      "color",
+      "culture",
+      "symbolism"
+    ],
+    "status": "complete",
+    "char": "红",
+    "pinyin": "hóng",
+    "tone": 2,
+    "hsk": 2,
+    "radical": "纟",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/jiu3_九.html",
+    "type": "character",
+    "category": "characters",
+    "title": "九 · nine; the imperial number and the highest of the yang",
+    "desc": "Nine is the largest single digit and the highest yang number, reserved for the emperor and the heavens: nine dragons, nine gates, the Nine-Five supreme position, the ninth heaven.",
+    "tags": [
+      "cosmology",
+      "culture",
+      "language"
+    ],
+    "status": "complete",
+    "char": "九",
+    "pinyin": "jiǔ",
+    "tone": 3,
+    "hsk": 1,
+    "radical": "乙",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/liang3_两.html",
+    "type": "character",
+    "category": "characters",
+    "title": "两 · two (of); a pair; the tael, the other word for two",
+    "desc": "两 is the two used before measure words, the two of quantity and pairing, as opposed to 二 the two of counting and order, a distinction that is one of the first real puzzles a learner meets.",
+    "tags": [
+      "language",
+      "grammar",
+      "daily-life"
+    ],
+    "status": "complete",
+    "char": "两",
+    "pinyin": "liǎng",
+    "tone": 3,
+    "hsk": 2,
+    "radical": "一",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/ling2_零.html",
+    "type": "character",
+    "category": "characters",
+    "title": "零 · zero; raindrops, the fractional remainder, and the late invention of nothing",
+    "desc": "Zero began as falling raindrops and the leftover odd remainder, taking on the meaning of mathematical nothing only late, the placeholder that Chinese numerals long managed without.",
+    "tags": [
+      "language",
+      "science",
+      "cosmology"
+    ],
+    "status": "complete",
+    "char": "零",
+    "pinyin": "líng",
+    "tone": 2,
+    "hsk": 2,
+    "radical": "雨",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/liu4_六.html",
+    "type": "character",
+    "category": "characters",
+    "title": "六 · six; the six directions; a smooth and lucky number",
+    "desc": "Six closes space into the six directions (the four compass points plus up and down) and, through its near-homophony with 流 liú (to flow), became a number for things going smoothly.",
+    "tags": [
+      "cosmology",
       "space",
-      "communication"
+      "language"
     ],
     "status": "complete",
-    "pinyin": "lí",
-    "updated": "2026-05-31"
+    "char": "六",
+    "pinyin": "liù",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "八",
+    "updated": "2026-06-07"
   },
   {
-    "path": "pages/grammar/wang_往.html",
-    "type": "grammar",
-    "category": "grammar",
-    "title": "往 · toward; to head for",
-    "desc": "The directional coverb for \"toward\", the 往 + direction + verb pattern, the verb sense \"to go / in the past\", and how 往 differs from 向 and 朝 for facing and motion.",
+    "path": "pages/characters/nian4_念.html",
+    "type": "character",
+    "category": "characters",
+    "title": "念 · to recite, to keep in mind, to miss",
+    "desc": "念 holds the present moment 今 over the heart 心: to keep something in mind, to recite aloud, to long for what is absent. The 念 of 念佛 recitation, 想念 longing, and the single thought-moment of Buddhist psychology.",
     "tags": [
-      "grammar",
-      "direction",
-      "motion",
-      "communication"
+      "mind",
+      "memory",
+      "buddhism",
+      "mindfulness",
+      "recitation"
     ],
     "status": "complete",
-    "pinyin": "wǎng",
-    "updated": "2026-05-31"
+    "char": "念",
+    "pinyin": "niàn",
+    "tone": 4,
+    "hsk": 3,
+    "radical": "心",
+    "updated": "2026-06-07"
   },
   {
-    "path": "pages/grammar/weishenme_为什么.html",
-    "type": "grammar",
-    "category": "grammar",
-    "title": "为什么 · why",
-    "desc": "The neutral question word for cause and reason, how to answer it with 因为 or 为了, and how a plain 为什么 differs from the surprised 怎么 and the purpose-asking 为了什么.",
+    "path": "pages/characters/qi1_七.html",
+    "type": "character",
+    "category": "characters",
+    "title": "七 · seven; the rhythm of mourning, festival, and the soul",
+    "desc": "Seven measures the cycles of death and renewal in Chinese culture: the seven-day periods of mourning, the seventh-night lovers' festival, and the seven emotions of the heart.",
     "tags": [
-      "grammar",
-      "communication",
-      "conjunction",
-      "pragmatics"
+      "cosmology",
+      "culture",
+      "language"
     ],
     "status": "complete",
-    "pinyin": "wèishénme",
-    "updated": "2026-05-31"
+    "char": "七",
+    "pinyin": "qī",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "一",
+    "updated": "2026-06-07"
   },
   {
-    "path": "pages/grammar/zenme_怎么.html",
-    "type": "grammar",
-    "category": "grammar",
-    "title": "怎么 · how, in what way; why",
-    "desc": "The all-purpose question word for manner and reason: how to do something, what is wrong, and the surprised \"how come,\" plus how 怎么 differs from 为什么 and 怎么样.",
+    "path": "pages/characters/qian1_千.html",
+    "type": "character",
+    "category": "characters",
+    "title": "千 · thousand; a vast, uncountable many",
+    "desc": "Thousand is the order of magnitude where a precise count gives way to poetic vastness: a thousand miles, a thousand autumns, ten thousand changes, the number that means simply too many to count.",
     "tags": [
-      "grammar",
-      "communication",
-      "pragmatics",
-      "spoken"
-    ],
-    "status": "complete",
-    "pinyin": "zěnme",
-    "updated": "2026-05-31"
-  },
-  {
-    "path": "pages/vocab/ranhou_然后.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "然后 · then; after that",
-    "desc": "The everyday sequence word for \"then, after that,\" the 先…然后… frame for ordering steps, its overuse as a spoken filler, and how it differs from 接着, 后来, and 于是.",
-    "tags": [
-      "vocabulary",
-      "conjunction",
-      "timing",
-      "communication"
-    ],
-    "status": "complete",
-    "pinyin": "ránhòu",
-    "updated": "2026-05-31"
-  },
-  {
-    "path": "pages/vocab/yiding_一定.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "一定 · definitely; certainly",
-    "desc": "The everyday word for \"certainly, definitely,\" covering both confident prediction and firm resolve, the 一定要 (must) pattern, and how it differs from 肯定, 必须, and 一定会.",
-    "tags": [
-      "vocabulary",
-      "modal",
-      "evaluation",
-      "communication"
-    ],
-    "status": "complete",
-    "pinyin": "yídìng",
-    "updated": "2026-05-31"
-  },
-  {
-    "path": "pages/vocab/yiqi_一起.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "一起 · together",
-    "desc": "The everyday word for \"together,\" the 跟…一起 frame for joint action, the \"in one place\" sense, the \"altogether\" use of 一起, and how it differs from 一块儿, 一同, and 一共.",
-    "tags": [
-      "vocabulary",
-      "adverb",
-      "communication",
-      "daily-life"
-    ],
-    "status": "complete",
-    "pinyin": "yìqǐ",
-    "updated": "2026-05-31"
-  },
-  {
-    "path": "pages/vocab/zhongyu_终于.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "终于 · finally, at last",
-    "desc": "The adverb for \"finally, at last,\" used when something long-awaited or hard-won comes to pass, where it sits in a sentence, and how it differs from 最后, 总算, and 到底.",
-    "tags": [
-      "vocabulary",
-      "adverb",
-      "timing",
-      "communication"
-    ],
-    "status": "complete",
-    "pinyin": "zhōngyú",
-    "updated": "2026-05-31"
-  },
-  {
-    "path": "pages/grammar/duoshao_ji_多少几.html",
-    "type": "grammar",
-    "category": "grammar",
-    "title": "多少 / 几 · how many, how much",
-    "desc": "The two question words for quantity: 几 for small countable numbers and 多少 for larger or unknown amounts, why 几 needs a measure word and 多少 may skip it, and how to ask prices and ages.",
-    "tags": [
-      "grammar",
-      "scale",
-      "measure-words",
-      "communication"
-    ],
-    "status": "complete",
-    "pinyin": "duōshao / jǐ",
-    "updated": "2026-05-30"
-  },
-  {
-    "path": "pages/grammar/keneng_可能.html",
-    "type": "grammar",
-    "category": "grammar",
-    "title": "可能 · maybe, possible",
-    "desc": "The all-purpose word for possibility, working as adverb, adjective, and noun, and how it differs from 也许, 或许, 大概, and the modal 会.",
-    "tags": [
-      "grammar",
-      "modal",
-      "adverb",
-      "communication"
-    ],
-    "status": "complete",
-    "pinyin": "kěnéng",
-    "updated": "2026-05-30"
-  },
-  {
-    "path": "pages/grammar/yinggai_应该.html",
-    "type": "grammar",
-    "category": "grammar",
-    "title": "应该 · the modal \"should\"",
-    "desc": "The modal verb for \"should, ought to,\" covering both moral obligation and confident inference, and how it differs from 得, 要, and 必须.",
-    "tags": [
-      "grammar",
-      "modal",
-      "permission",
-      "communication"
-    ],
-    "status": "complete",
-    "pinyin": "yīnggāi",
-    "updated": "2026-05-30"
-  },
-  {
-    "path": "pages/grammar/yixia_一下.html",
-    "type": "grammar",
-    "category": "grammar",
-    "title": "一下 · the verb-softener",
-    "desc": "The verbal-quantity word that makes an action brief and casual, how verb + 一下 softens a request, and how it differs from verb reduplication and from the time-word 一会儿.",
-    "tags": [
-      "grammar",
-      "aspect",
-      "complement",
-      "communication"
-    ],
-    "status": "complete",
-    "pinyin": "yíxià",
-    "updated": "2026-05-30"
-  },
-  {
-    "path": "pages/vocab/bangzhu_帮助.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "帮助 · to help",
-    "desc": "The everyday word for help, both verb and noun, and how it differs from the lighter 帮 and the separable 帮忙 (to do a favor).",
-    "tags": [
-      "vocabulary",
-      "daily-life",
-      "society",
-      "communication"
-    ],
-    "status": "complete",
-    "pinyin": "bāngzhù",
-    "updated": "2026-05-30"
-  },
-  {
-    "path": "pages/vocab/gongzuo_工作.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "工作 · work, job",
-    "desc": "The everyday word for work, both the activity and the job itself, and how it differs from 上班 (to go to work), 职业 (occupation), and 事业 (career).",
-    "tags": [
-      "vocabulary",
-      "daily-life",
-      "society",
-      "communication"
-    ],
-    "status": "complete",
-    "pinyin": "gōngzuò",
-    "updated": "2026-05-30"
-  },
-  {
-    "path": "pages/vocab/qishi_其实.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "其实 · actually",
-    "desc": "The everyday adverb for \"actually, in fact,\" used to correct an impression or reveal the real situation, and how it differs from 实际上, 事实上, and 本来.",
-    "tags": [
-      "vocabulary",
-      "adverb",
-      "communication",
-      "rhetoric"
-    ],
-    "status": "complete",
-    "pinyin": "qíshí",
-    "updated": "2026-05-30"
-  },
-  {
-    "path": "pages/vocab/xianzai_现在.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "现在 · now",
-    "desc": "The everyday word for now, where it sits in a Chinese sentence, and how it differs from 目前 (at present), 此刻 (this very moment), and 如今 (nowadays).",
-    "tags": [
-      "vocabulary",
-      "time",
-      "daily-life",
-      "timing"
-    ],
-    "status": "complete",
-    "pinyin": "xiànzài",
-    "updated": "2026-05-30"
-  },
-  {
-    "path": "pages/vocab/xiwang_希望.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "希望 · to hope",
-    "desc": "The everyday word for hope, both the verb and the noun, and how it differs from 想 (to want), 愿意 (to be willing), 盼望 (to long for), and 期待 (to look forward to).",
-    "tags": [
-      "vocabulary",
-      "feeling",
-      "daily-life",
-      "communication"
-    ],
-    "status": "complete",
-    "pinyin": "xīwàng",
-    "updated": "2026-05-30"
-  },
-  {
-    "path": "pages/vocab/yihuir_一会儿.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "一会儿 · a short while",
-    "desc": "The everyday word for a little while, how it marks both a short duration and the near future, and how it differs from the verb-softener 一下 and from 等会儿.",
-    "tags": [
-      "vocabulary",
-      "time",
-      "timing",
-      "daily-life"
-    ],
-    "status": "complete",
-    "pinyin": "yíhuìr",
-    "updated": "2026-05-30"
-  },
-  {
-    "path": "pages/arts/topic_honglou.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "红楼梦 · Dream of the Red Chamber",
-    "desc": "The 18th-century novel that many call the greatest in the Chinese language: the slow decline of a great family, a doomed love among the young, and a sense that all the beauty and luxury of the world is a passing dream.",
-    "tags": [
+      "language",
       "literature",
-      "novels",
-      "classics",
-      "classical",
-      "qing",
-      "romance"
+      "cosmology"
     ],
     "status": "complete",
-    "pinyin": "hónglóumèng",
-    "updated": "2026-05-29"
+    "char": "千",
+    "pinyin": "qiān",
+    "tone": 1,
+    "hsk": 2,
+    "radical": "十",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/si4_四.html",
+    "type": "character",
+    "category": "characters",
+    "title": "四 · four; the four directions; the homophone of death",
+    "desc": "Four organizes the Chinese world into quarters, the four directions, four seas, four seasons, yet its near-homophony with 死 sǐ (death) makes it the most avoided number in modern China.",
+    "tags": [
+      "cosmology",
+      "space",
+      "language"
+    ],
+    "status": "complete",
+    "char": "四",
+    "pinyin": "sì",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "囗",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/ta1_它.html",
+    "type": "character",
+    "category": "characters",
+    "title": "它 · it; the non-human third person",
+    "desc": "它 began as a picture of a snake and once meant other; in the twentieth century it was reassigned to the non-human third person, completing the homophonous 他/她/它 triad that exists only in writing.",
+    "tags": [
+      "grammar",
+      "language",
+      "modern"
+    ],
+    "status": "complete",
+    "char": "它",
+    "pinyin": "tā",
+    "tone": 1,
+    "hsk": 2,
+    "radical": "宀",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/wan2_完.html",
+    "type": "character",
+    "category": "characters",
+    "title": "完 · to finish; to be whole",
+    "desc": "完 means both whole and finished, and the bridge between them is intact completeness; its most important job is as a result complement, the 完 that ends 吃完, 做完, and 看完.",
+    "tags": [
+      "grammar",
+      "daily-life",
+      "language"
+    ],
+    "status": "complete",
+    "char": "完",
+    "pinyin": "wán",
+    "tone": 2,
+    "hsk": 2,
+    "radical": "宀",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/wu3_五.html",
+    "type": "character",
+    "category": "characters",
+    "title": "五 · five; the organizing number of correlative cosmology",
+    "desc": "Five is the center plus the four directions, the number that completes the Chinese cosmos: five phases, five colors, five tones, five flavors, five viscera, all keyed to one master grid.",
+    "tags": [
+      "cosmology",
+      "philosophy",
+      "language"
+    ],
+    "status": "complete",
+    "char": "五",
+    "pinyin": "wǔ",
+    "tone": 3,
+    "hsk": 1,
+    "radical": "二",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/xue3_雪.html",
+    "type": "character",
+    "category": "characters",
+    "title": "雪 · snow, whiteness, and vengeance",
+    "desc": "Rain over a sweeping hand: snow is the precipitation you can hold. The same character means dazzling white and, by a buried metaphor, to wipe clean an old grievance.",
+    "tags": [
+      "nature",
+      "weather",
+      "winter"
+    ],
+    "status": "complete",
+    "char": "雪",
+    "pinyin": "xuě",
+    "tone": 3,
+    "hsk": 2,
+    "radical": "雨",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/yin1_阴.html",
+    "type": "character",
+    "category": "characters",
+    "title": "阴 · the shaded slope, the lunar, the covert",
+    "desc": "The shadow half of the cosmos and the everyday word for an overcast day. From the dark side of a hill grew the lunar calendar, the hidden plot, and time itself as light and shade.",
+    "tags": [
+      "cosmology",
+      "nature",
+      "weather"
+    ],
+    "status": "complete",
+    "char": "阴",
+    "pinyin": "yīn",
+    "tone": 1,
+    "hsk": 4,
+    "radical": "阝",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/zui4_最.html",
+    "type": "character",
+    "category": "characters",
+    "title": "最 · most; the superlative marker",
+    "desc": "最 is the single word that pushes any adjective to its limit: the -est of English, the most of comparison, the marker that turns 好 into 最好 and 后 into 最后.",
+    "tags": [
+      "grammar",
+      "daily-life",
+      "language"
+    ],
+    "status": "complete",
+    "char": "最",
+    "pinyin": "zuì",
+    "tone": 4,
+    "hsk": 2,
+    "radical": "曰",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/characters/zuo4_做.html",
+    "type": "character",
+    "category": "characters",
+    "title": "做 · to do, to make, to act as",
+    "desc": "做 is the everyday verb for doing and making, a late character built to carry the work that 作 had grown too literary to do, and the two still split the labor between them.",
+    "tags": [
+      "daily-life",
+      "grammar",
+      "social"
+    ],
+    "status": "complete",
+    "char": "做",
+    "pinyin": "zuò",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "亻",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/history/topic_caocao.html",
+    "type": "topic",
+    "category": "history",
+    "title": "曹操 · The Warlord-Poet",
+    "desc": "The man who held the dying Han together by force, wrote some of the finest poetry in the language, and became Chinese literature's most magnificent villain.",
+    "tags": [
+      "history",
+      "han",
+      "biography",
+      "warlord",
+      "poet",
+      "poetry",
+      "statecraft",
+      "strategy"
+    ],
+    "status": "complete",
+    "pinyin": "cáo cāo",
+    "updated": "2026-06-07"
   }
 ]

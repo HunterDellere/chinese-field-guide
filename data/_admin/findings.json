@@ -1,9 +1,9 @@
 {
-  "generated": "2026-05-31T23:43:14.778Z",
+  "generated": "2026-06-07T22:26:41.820Z",
   "summary": {
     "errors": 0,
     "warnings": 1,
-    "info": 1020
+    "info": 1049
   },
   "findings": [
     {
@@ -69,7 +69,7 @@
       "level": "WARN",
       "category": "factual",
       "file": "data/_reference/hanzi-facts.json",
-      "msg": "44 hanzi appear in content/ but have no reference entry: 黛薛甄筵瘁珪逵猿説変喫剣楽暦竜牀歬祂牜気臓読満囍哋隹箇蹴乍咋珅丕瑜蔺炀阖闾楯鞞栄…. Claims about these characters cannot be mechanically verified. Run 'npm run refresh:reference' after updating upstream data."
+      "msg": "54 hanzi appear in content/ but have no reference entry: 黛薛甄筵瘁珪逵猿説変喫剣绛楽霄暦掂竜牀鞦韆歬亖呬祂牜気臓帚阝読満冃囍哋隹箇蹴乍咋…. Claims about these characters cannot be mechanically verified. Run 'npm run refresh:reference' after updating upstream data."
     },
     {
       "level": "INFO",
@@ -181,6 +181,13 @@
       "category": "formatting",
       "file": "content/characters/ai4_爱.md",
       "msg": "3 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
+      "file": "content/characters/ba1_八.md",
+      "msg": "5 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
@@ -424,6 +431,20 @@
     {
       "level": "INFO",
       "category": "formatting",
+      "file": "content/characters/hei1_黑.md",
+      "msg": "7 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
+      "file": "content/characters/hong2_红.md",
+      "msg": "8 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
       "file": "content/characters/hou4_后.md",
       "msg": "12 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
@@ -468,6 +489,13 @@
       "category": "formatting",
       "file": "content/characters/jin4_近.md",
       "msg": "8 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
+      "file": "content/characters/jiu3_九.md",
+      "msg": "5 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
@@ -545,6 +573,27 @@
       "category": "formatting",
       "file": "content/characters/li3_里.md",
       "msg": "10 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
+      "file": "content/characters/liang3_两.md",
+      "msg": "5 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
+      "file": "content/characters/ling2_零.md",
+      "msg": "5 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
+      "file": "content/characters/liu4_六.md",
+      "msg": "5 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
@@ -648,6 +697,13 @@
     {
       "level": "INFO",
       "category": "formatting",
+      "file": "content/characters/qi1_七.md",
+      "msg": "5 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
       "file": "content/characters/qi2_其.md",
       "msg": "9 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
@@ -657,6 +713,13 @@
       "category": "formatting",
       "file": "content/characters/qi4_气.md",
       "msg": "17 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
+      "file": "content/characters/qian1_千.md",
+      "msg": "5 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
@@ -816,6 +879,13 @@
     {
       "level": "INFO",
       "category": "formatting",
+      "file": "content/characters/si4_四.md",
+      "msg": "5 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
       "file": "content/characters/ta1_她.md",
       "msg": "5 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
@@ -873,6 +943,13 @@
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/wu1_屋.md",
+      "msg": "5 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
+      "file": "content/characters/wu3_五.md",
       "msg": "5 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
@@ -942,6 +1019,13 @@
     {
       "level": "INFO",
       "category": "formatting",
+      "file": "content/characters/xue3_雪.md",
+      "msg": "5 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
       "file": "content/characters/yan2_言.md",
       "msg": "3 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
@@ -978,6 +1062,13 @@
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/yi4_义.md",
+      "msg": "6 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
+      "file": "content/characters/yin1_阴.md",
       "msg": "6 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
@@ -1922,6 +2013,13 @@
     {
       "level": "INFO",
       "category": "formatting",
+      "file": "content/history/topic_caocao.md",
+      "msg": "2 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
       "file": "content/history/topic_chunqiu.md",
       "msg": "7 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
@@ -2510,6 +2608,13 @@
     {
       "level": "INFO",
       "category": "formatting",
+      "file": "content/vocab/huangdi_皇帝.md",
+      "msg": "1 vocab card contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
       "file": "content/vocab/jianghu_江湖.md",
       "msg": "12 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
@@ -2748,6 +2853,13 @@
     {
       "level": "INFO",
       "category": "formatting",
+      "file": "content/vocab/shidai_时代.md",
+      "msg": "3 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
       "file": "content/vocab/shihou_时候.md",
       "msg": "4 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
@@ -2827,6 +2939,13 @@
       "category": "formatting",
       "file": "content/vocab/wuwei_无为.md",
       "msg": "5 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
+      "file": "content/vocab/xiandai_现代.md",
+      "msg": "2 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
@@ -2952,7 +3071,49 @@
       "level": "INFO",
       "category": "seo",
       "file": "_global",
-      "msg": "299 complete pages missing seo_title — default title leads with CJK and may lose English-SERP clicks. See SEO tab on the admin dashboard for the list.",
+      "msg": "305 complete pages missing seo_title — default title leads with CJK and may lose English-SERP clicks. See SEO tab on the admin dashboard for the list.",
+      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/history/topic_caocao.md",
+      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
+      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/history/topic_xuanzang.md",
+      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
+      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/vocab/amituofo_阿弥陀佛.md",
+      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
+      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/vocab/huangdi_皇帝.md",
+      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
+      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/vocab/shidai_时代.md",
+      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
+      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/vocab/xiandai_现代.md",
+      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
       "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
     },
     {
@@ -5052,7 +5213,49 @@
       "level": "INFO",
       "category": "seo",
       "file": "_global",
-      "msg": "299 complete pages missing seo_desc — default desc is hero copy, not SERP copy. See SEO tab on the admin dashboard for the list.",
+      "msg": "305 complete pages missing seo_desc — default desc is hero copy, not SERP copy. See SEO tab on the admin dashboard for the list.",
+      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/history/topic_caocao.md",
+      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
+      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/history/topic_xuanzang.md",
+      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
+      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/vocab/amituofo_阿弥陀佛.md",
+      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
+      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/vocab/huangdi_皇帝.md",
+      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
+      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/vocab/shidai_时代.md",
+      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
+      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/vocab/xiandai_现代.md",
+      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
       "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
     },
     {
