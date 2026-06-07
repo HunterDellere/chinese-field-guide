@@ -282,5 +282,11 @@
   {"slug": "pilgrimage",        "label": "Pilgrimage"},
   {"slug": "strategy",          "label": "Strategy"},
   {"slug": "biography",         "label": "Biography"},
-  {"slug": "archaeology",       "label": "Archaeology"}
+  {"slug": "archaeology",       "label": "Archaeology"},
+  {"slug": "memory",            "label": "Memory"},
+  {"slug": "mindfulness",       "label": "Mindfulness"},
+  {"slug": "recitation",        "label": "Recitation"},
+  {"slug": "devotion",          "label": "Devotion"},
+  {"slug": "translation",       "label": "Translation"},
+  {"slug": "silk-road",         "label": "Silk Road"}
 ]

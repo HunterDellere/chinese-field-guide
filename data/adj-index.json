@@ -255,6 +255,25 @@
     ],
     "hasPage": true
   },
+  "菩萨": {
+    "cn": "菩萨",
+    "py": "púsà",
+    "en": "Bodhisattva; compassionate figure",
+    "count": 10,
+    "appearsOn": [
+      "pages/characters/fo2_佛.html",
+      "pages/religion/topic_guanyin.html",
+      "pages/religion/topic_minjian.html",
+      "pages/religion/topic_xinjing.html",
+      "pages/vocab/amituofo_阿弥陀佛.html",
+      "pages/vocab/bore_般若.html",
+      "pages/vocab/cibi_慈悲.html",
+      "pages/vocab/lunhui_轮回.html",
+      "pages/vocab/niepan_涅槃.html",
+      "pages/vocab/shenming_神明.html"
+    ],
+    "hasPage": true
+  },
   "义": {
     "cn": "义",
     "py": "yì",
@@ -310,21 +329,21 @@
     ],
     "hasPage": true
   },
-  "菩萨": {
-    "cn": "菩萨",
-    "py": "púsà",
-    "en": "Bodhisattva; compassionate figure",
+  "轮回": {
+    "cn": "轮回",
+    "py": "lúnhuí",
+    "en": "samsara; cycle of rebirth",
     "count": 9,
     "appearsOn": [
       "pages/characters/fo2_佛.html",
-      "pages/religion/topic_guanyin.html",
-      "pages/religion/topic_minjian.html",
+      "pages/characters/ming4_命.html",
+      "pages/religion/topic_amituojing.html",
+      "pages/religion/topic_fojiao.html",
       "pages/religion/topic_xinjing.html",
-      "pages/vocab/bore_般若.html",
-      "pages/vocab/cibi_慈悲.html",
-      "pages/vocab/lunhui_轮回.html",
+      "pages/vocab/amituofo_阿弥陀佛.html",
       "pages/vocab/niepan_涅槃.html",
-      "pages/vocab/shenming_神明.html"
+      "pages/vocab/pusa_菩萨.html",
+      "pages/vocab/yuanfen_缘分.html"
     ],
     "hasPage": true
   },
@@ -451,6 +470,23 @@
     ],
     "hasPage": true
   },
+  "佛": {
+    "cn": "佛",
+    "py": "fó",
+    "en": "Buddha; the awakened",
+    "count": 8,
+    "appearsOn": [
+      "pages/characters/nian4_念.html",
+      "pages/characters/shen2_神.html",
+      "pages/history/topic_xuanzang.html",
+      "pages/religion/topic_guanyin.html",
+      "pages/religion/topic_xinjing.html",
+      "pages/vocab/amituofo_阿弥陀佛.html",
+      "pages/vocab/niepan_涅槃.html",
+      "pages/vocab/pusa_菩萨.html"
+    ],
+    "hasPage": true
+  },
   "还": {
     "cn": "还",
     "py": "hái",
@@ -516,23 +552,6 @@
       "pages/culinary/topic_tisanes.html",
       "pages/culinary/topic_wulong.html",
       "pages/grammar/zhe_particle_呢.html"
-    ],
-    "hasPage": true
-  },
-  "轮回": {
-    "cn": "轮回",
-    "py": "lúnhuí",
-    "en": "samsara; cycle of rebirth",
-    "count": 8,
-    "appearsOn": [
-      "pages/characters/fo2_佛.html",
-      "pages/characters/ming4_命.html",
-      "pages/religion/topic_amituojing.html",
-      "pages/religion/topic_fojiao.html",
-      "pages/religion/topic_xinjing.html",
-      "pages/vocab/niepan_涅槃.html",
-      "pages/vocab/pusa_菩萨.html",
-      "pages/vocab/yuanfen_缘分.html"
     ],
     "hasPage": true
   },
@@ -762,6 +781,22 @@
       "pages/vocab/rensheng_人生.html",
       "pages/vocab/tianming_天命.html",
       "pages/vocab/yuanfen_缘分.html"
+    ],
+    "hasPage": true
+  },
+  "涅槃": {
+    "cn": "涅槃",
+    "py": "nièpán",
+    "en": "nirvana; final liberation",
+    "count": 7,
+    "appearsOn": [
+      "pages/characters/fo2_佛.html",
+      "pages/religion/topic_fojiao.html",
+      "pages/religion/topic_xinjing.html",
+      "pages/vocab/amituofo_阿弥陀佛.html",
+      "pages/vocab/bore_般若.html",
+      "pages/vocab/lunhui_轮回.html",
+      "pages/vocab/pusa_菩萨.html"
     ],
     "hasPage": true
   },
@@ -1060,6 +1095,21 @@
     ],
     "hasPage": true
   },
+  "佛教": {
+    "cn": "佛教",
+    "py": "fójiào",
+    "en": "Buddhism",
+    "count": 6,
+    "appearsOn": [
+      "pages/arts/topic_honglou.html",
+      "pages/arts/topic_xiyouji.html",
+      "pages/culture/topic_zhongyuan.html",
+      "pages/history/topic_handai.html",
+      "pages/history/topic_xuanzang.html",
+      "pages/vocab/renjian_人间.html"
+    ],
+    "hasPage": true
+  },
   "高级": {
     "cn": "高级",
     "py": "gāojí",
@@ -1225,21 +1275,6 @@
     ],
     "hasPage": true
   },
-  "涅槃": {
-    "cn": "涅槃",
-    "py": "nièpán",
-    "en": "nirvana; final liberation",
-    "count": 6,
-    "appearsOn": [
-      "pages/characters/fo2_佛.html",
-      "pages/religion/topic_fojiao.html",
-      "pages/religion/topic_xinjing.html",
-      "pages/vocab/bore_般若.html",
-      "pages/vocab/lunhui_轮回.html",
-      "pages/vocab/pusa_菩萨.html"
-    ],
-    "hasPage": true
-  },
   "秦朝": {
     "cn": "秦朝",
     "py": "qíncháo",
@@ -1285,6 +1320,21 @@
     ],
     "hasPage": true
   },
+  "丝绸之路": {
+    "cn": "丝绸之路",
+    "py": "Sīchóu zhī Lù",
+    "en": "Silk Road",
+    "count": 6,
+    "appearsOn": [
+      "pages/characters/xi1_西.html",
+      "pages/history/topic_changcheng.html",
+      "pages/history/topic_handai.html",
+      "pages/history/topic_xuanzang.html",
+      "pages/religion/topic_yisilan.html",
+      "pages/vocab/changjian_长城.html"
+    ],
+    "hasPage": true
+  },
   "四大名著": {
     "cn": "四大名著",
     "py": "sì dà míngzhù",
@@ -1327,6 +1377,21 @@
       "pages/characters/you3_有.html",
       "pages/religion/topic_chan.html",
       "pages/vocab/wuwei_无为.html"
+    ],
+    "hasPage": true
+  },
+  "想": {
+    "cn": "想",
+    "py": "xiǎng",
+    "en": "to think; to want; to miss",
+    "count": 6,
+    "appearsOn": [
+      "pages/characters/nian4_念.html",
+      "pages/characters/si1_思.html",
+      "pages/characters/yao4_要.html",
+      "pages/grammar/hui_neng_keyi_会能可以.html",
+      "pages/vocab/juede_觉得.html",
+      "pages/vocab/xiwang_希望.html"
     ],
     "hasPage": true
   },
@@ -1516,34 +1581,6 @@
     ],
     "hasPage": true
   },
-  "佛": {
-    "cn": "佛",
-    "py": "fó",
-    "en": "Buddha; the Awakened One",
-    "count": 5,
-    "appearsOn": [
-      "pages/characters/shen2_神.html",
-      "pages/religion/topic_guanyin.html",
-      "pages/religion/topic_xinjing.html",
-      "pages/vocab/niepan_涅槃.html",
-      "pages/vocab/pusa_菩萨.html"
-    ],
-    "hasPage": true
-  },
-  "佛教": {
-    "cn": "佛教",
-    "py": "fójiào",
-    "en": "Buddhism",
-    "count": 5,
-    "appearsOn": [
-      "pages/arts/topic_honglou.html",
-      "pages/arts/topic_xiyouji.html",
-      "pages/culture/topic_zhongyuan.html",
-      "pages/history/topic_handai.html",
-      "pages/vocab/renjian_人间.html"
-    ],
-    "hasPage": true
-  },
   "更": {
     "cn": "更",
     "py": "gèng",
@@ -1555,6 +1592,20 @@
       "pages/grammar/hai_还.html",
       "pages/grammar/yuelaiyue_越来越.html",
       "pages/vocab/bijiao_比较.html"
+    ],
+    "hasPage": true
+  },
+  "观音": {
+    "cn": "观音",
+    "py": "Guānyīn",
+    "en": "the bodhisattva 观自在 by another name",
+    "count": 5,
+    "appearsOn": [
+      "pages/religion/topic_xinjing.html",
+      "pages/vocab/amituofo_阿弥陀佛.html",
+      "pages/vocab/cibi_慈悲.html",
+      "pages/vocab/pusa_菩萨.html",
+      "pages/vocab/shenming_神明.html"
     ],
     "hasPage": true
   },
@@ -1768,20 +1819,6 @@
     ],
     "hasPage": true
   },
-  "丝绸之路": {
-    "cn": "丝绸之路",
-    "py": "Sīchóu zhī Lù",
-    "en": "Silk Road",
-    "count": 5,
-    "appearsOn": [
-      "pages/characters/xi1_西.html",
-      "pages/history/topic_changcheng.html",
-      "pages/history/topic_handai.html",
-      "pages/religion/topic_yisilan.html",
-      "pages/vocab/changjian_长城.html"
-    ],
-    "hasPage": true
-  },
   "她": {
     "cn": "她",
     "py": "tā",
@@ -1793,6 +1830,20 @@
       "pages/characters/ta1_它.html",
       "pages/characters/wo3_我.html",
       "pages/characters/ye3_也.html"
+    ],
+    "hasPage": true
+  },
+  "唐朝": {
+    "cn": "唐朝",
+    "py": "tángcháo",
+    "en": "the Tang dynasty",
+    "count": 5,
+    "appearsOn": [
+      "pages/arts/topic_xiyouji.html",
+      "pages/history/topic_handai.html",
+      "pages/history/topic_suichao.html",
+      "pages/history/topic_xuanzang.html",
+      "pages/vocab/shici_诗词.html"
     ],
     "hasPage": true
   },
@@ -1838,20 +1889,6 @@
     ],
     "hasPage": true
   },
-  "想": {
-    "cn": "想",
-    "py": "xiǎng",
-    "en": "to think; to want; to miss",
-    "count": 5,
-    "appearsOn": [
-      "pages/characters/si1_思.html",
-      "pages/characters/yao4_要.html",
-      "pages/grammar/hui_neng_keyi_会能可以.html",
-      "pages/vocab/juede_觉得.html",
-      "pages/vocab/xiwang_希望.html"
-    ],
-    "hasPage": true
-  },
   "小人": {
     "cn": "小人",
     "py": "xiǎorén",
@@ -1879,6 +1916,20 @@
       "pages/characters/shuo1_说.html"
     ],
     "hasPage": false
+  },
+  "心": {
+    "cn": "心",
+    "py": "xīn",
+    "en": "heart; mind",
+    "count": 5,
+    "appearsOn": [
+      "pages/characters/nian4_念.html",
+      "pages/characters/si1_思.html",
+      "pages/characters/xiang3_想.html",
+      "pages/characters/zhong1_中.html",
+      "pages/vocab/liangxin_良心.html"
+    ],
+    "hasPage": true
   },
   "在": {
     "cn": "在",
@@ -2104,19 +2155,6 @@
     ],
     "hasPage": true
   },
-  "观音": {
-    "cn": "观音",
-    "py": "Guānyīn",
-    "en": "the bodhisattva 观自在 by another name",
-    "count": 4,
-    "appearsOn": [
-      "pages/religion/topic_xinjing.html",
-      "pages/vocab/cibi_慈悲.html",
-      "pages/vocab/pusa_菩萨.html",
-      "pages/vocab/shenming_神明.html"
-    ],
-    "hasPage": true
-  },
   "鬼": {
     "cn": "鬼",
     "py": "guǐ",
@@ -2260,6 +2298,19 @@
     ],
     "hasPage": true
   },
+  "净土": {
+    "cn": "净土",
+    "py": "jìngtǔ",
+    "en": "Pure Land",
+    "count": 4,
+    "appearsOn": [
+      "pages/religion/topic_amituojing.html",
+      "pages/religion/topic_fojing.html",
+      "pages/religion/topic_guanyin.html",
+      "pages/vocab/amituofo_阿弥陀佛.html"
+    ],
+    "hasPage": false
+  },
   "敬酒": {
     "cn": "敬酒",
     "py": "jìngjiǔ",
@@ -2389,6 +2440,19 @@
       "pages/characters/wo3_我.html"
     ],
     "hasPage": true
+  },
+  "念佛": {
+    "cn": "念佛",
+    "py": "niànfó",
+    "en": "to recite the Buddha's name",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/nian4_念.html",
+      "pages/religion/topic_amituojing.html",
+      "pages/religion/topic_jingtu.html",
+      "pages/vocab/amituofo_阿弥陀佛.html"
+    ],
+    "hasPage": false
   },
   "跑": {
     "cn": "跑",
@@ -2585,19 +2649,6 @@
     ],
     "hasPage": true
   },
-  "唐朝": {
-    "cn": "唐朝",
-    "py": "tángcháo",
-    "en": "the Tang dynasty",
-    "count": 4,
-    "appearsOn": [
-      "pages/arts/topic_xiyouji.html",
-      "pages/history/topic_handai.html",
-      "pages/history/topic_suichao.html",
-      "pages/vocab/shici_诗词.html"
-    ],
-    "hasPage": true
-  },
   "万": {
     "cn": "万",
     "py": "wàn",
@@ -2650,16 +2701,16 @@
     ],
     "hasPage": true
   },
-  "心": {
-    "cn": "心",
-    "py": "xīn",
-    "en": "heart; mind",
+  "心经": {
+    "cn": "心经",
+    "py": "Xīnjīng",
+    "en": "the Heart Sutra",
     "count": 4,
     "appearsOn": [
-      "pages/characters/si1_思.html",
-      "pages/characters/xiang3_想.html",
-      "pages/characters/zhong1_中.html",
-      "pages/vocab/liangxin_良心.html"
+      "pages/history/topic_xuanzang.html",
+      "pages/religion/topic_amituojing.html",
+      "pages/religion/topic_fojing.html",
+      "pages/vocab/bore_般若.html"
     ],
     "hasPage": true
   },
@@ -2894,7 +2945,7 @@
       "pages/religion/topic_fojing.html",
       "pages/religion/topic_guanyin.html"
     ],
-    "hasPage": false
+    "hasPage": true
   },
   "啊": {
     "cn": "啊",
@@ -3388,15 +3439,27 @@
     ],
     "hasPage": true
   },
-  "净土": {
-    "cn": "净土",
-    "py": "jìngtǔ",
-    "en": "Pure Land",
+  "净土宗": {
+    "cn": "净土宗",
+    "py": "jìngtǔ zōng",
+    "en": "Pure Land school",
     "count": 3,
     "appearsOn": [
+      "pages/religion/topic_chan.html",
+      "pages/religion/topic_fojiao.html",
+      "pages/vocab/amituofo_阿弥陀佛.html"
+    ],
+    "hasPage": true
+  },
+  "鸠摩罗什": {
+    "cn": "鸠摩罗什",
+    "py": "Jiūmóluóshí",
+    "en": "Kumārajīva, the earlier translator",
+    "count": 3,
+    "appearsOn": [
+      "pages/history/topic_xuanzang.html",
       "pages/religion/topic_amituojing.html",
-      "pages/religion/topic_fojing.html",
-      "pages/religion/topic_guanyin.html"
+      "pages/religion/topic_fojing.html"
     ],
     "hasPage": false
   },
@@ -3638,7 +3701,7 @@
       "pages/characters/si1_思.html",
       "pages/characters/xiang3_想.html"
     ],
-    "hasPage": false
+    "hasPage": true
   },
   "普通话": {
     "cn": "普通话",
@@ -4048,18 +4111,6 @@
     ],
     "hasPage": false
   },
-  "心经": {
-    "cn": "心经",
-    "py": "Xīnjīng",
-    "en": "the Heart Sutra",
-    "count": 3,
-    "appearsOn": [
-      "pages/religion/topic_amituojing.html",
-      "pages/religion/topic_fojing.html",
-      "pages/vocab/bore_般若.html"
-    ],
-    "hasPage": true
-  },
   "辛亥革命": {
     "cn": "辛亥革命",
     "py": "Xīnhài Gémìng",
@@ -4130,7 +4181,7 @@
       "pages/religion/topic_fojing.html",
       "pages/religion/topic_xinjing.html"
     ],
-    "hasPage": false
+    "hasPage": true
   },
   "学": {
     "cn": "学",
@@ -4561,6 +4612,17 @@
       "pages/characters/da3_打.html",
       "pages/characters/wei2_为.html",
       "pages/characters/xing2_行.html"
+    ],
+    "hasPage": true
+  },
+  "阿弥陀经": {
+    "cn": "阿弥陀经",
+    "py": "Āmítuó jīng",
+    "en": "the Smaller Amitabha Sutra",
+    "count": 2,
+    "appearsOn": [
+      "pages/religion/topic_fojing.html",
+      "pages/vocab/amituofo_阿弥陀佛.html"
     ],
     "hasPage": true
   },
@@ -5400,6 +5462,17 @@
     ],
     "hasPage": false
   },
+  "佛经": {
+    "cn": "佛经",
+    "py": "fójīng",
+    "en": "Buddhist scriptures",
+    "count": 2,
+    "appearsOn": [
+      "pages/history/topic_xuanzang.html",
+      "pages/religion/topic_amituojing.html"
+    ],
+    "hasPage": true
+  },
   "福": {
     "cn": "福",
     "py": "fú",
@@ -6214,28 +6287,6 @@
     ],
     "hasPage": false
   },
-  "净土宗": {
-    "cn": "净土宗",
-    "py": "jìngtǔ zōng",
-    "en": "Pure Land school",
-    "count": 2,
-    "appearsOn": [
-      "pages/religion/topic_chan.html",
-      "pages/religion/topic_fojiao.html"
-    ],
-    "hasPage": true
-  },
-  "鸠摩罗什": {
-    "cn": "鸠摩罗什",
-    "py": "Jiūmóluóshí",
-    "en": "Kumārajīva the translator",
-    "count": 2,
-    "appearsOn": [
-      "pages/religion/topic_amituojing.html",
-      "pages/religion/topic_fojing.html"
-    ],
-    "hasPage": false
-  },
   "旧": {
     "cn": "旧",
     "py": "jiù",
@@ -6783,17 +6834,6 @@
     "appearsOn": [
       "pages/characters/bi4_必.html",
       "pages/characters/ke3_可.html"
-    ],
-    "hasPage": false
-  },
-  "念佛": {
-    "cn": "念佛",
-    "py": "niànfó",
-    "en": "recollection of the Buddha",
-    "count": 2,
-    "appearsOn": [
-      "pages/religion/topic_amituojing.html",
-      "pages/religion/topic_jingtu.html"
     ],
     "hasPage": false
   },
@@ -8831,6 +8871,17 @@
     ],
     "hasPage": true
   },
+  "长安": {
+    "cn": "长安",
+    "py": "Cháng'ān",
+    "en": "Chang'an, the Tang capital",
+    "count": 2,
+    "appearsOn": [
+      "pages/history/topic_xuanzang.html",
+      "pages/vocab/changjian_长城.html"
+    ],
+    "hasPage": false
+  },
   "长辈": {
     "cn": "长辈",
     "py": "zhǎngbèi",
@@ -9160,16 +9211,6 @@
       "pages/characters/zuo4_做.html"
     ],
     "hasPage": false
-  },
-  "阿弥陀经": {
-    "cn": "阿弥陀经",
-    "py": "Āmítuó jīng",
-    "en": "the Smaller Amitabha Sutra",
-    "count": 1,
-    "appearsOn": [
-      "pages/religion/topic_fojing.html"
-    ],
-    "hasPage": true
   },
   "矮": {
     "cn": "矮",
@@ -12101,16 +12142,6 @@
     ],
     "hasPage": false
   },
-  "佛经": {
-    "cn": "佛经",
-    "py": "fójīng",
-    "en": "Buddhist scriptures hub",
-    "count": 1,
-    "appearsOn": [
-      "pages/religion/topic_amituojing.html"
-    ],
-    "hasPage": true
-  },
   "佛性": {
     "cn": "佛性",
     "py": "fóxìng",
@@ -12861,6 +12892,16 @@
     ],
     "hasPage": false
   },
+  "观念": {
+    "cn": "观念",
+    "py": "guānniàn",
+    "en": "concept; notion; idea",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/nian4_念.html"
+    ],
+    "hasPage": false
+  },
   "官逼民反": {
     "cn": "官逼民反",
     "py": "guān bī mín fǎn",
@@ -13561,6 +13602,16 @@
     ],
     "hasPage": false
   },
+  "怀念": {
+    "cn": "怀念",
+    "py": "huáiniàn",
+    "en": "to cherish the memory of",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/nian4_念.html"
+    ],
+    "hasPage": false
+  },
   "怀素": {
     "cn": "怀素",
     "py": "Huáisù",
@@ -13858,6 +13909,16 @@
     "count": 1,
     "appearsOn": [
       "pages/grammar/zhi_者.html"
+    ],
+    "hasPage": false
+  },
+  "纪念": {
+    "cn": "纪念",
+    "py": "jìniàn",
+    "en": "to commemorate; a memento",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/nian4_念.html"
     ],
     "hasPage": false
   },
@@ -14448,6 +14509,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/lunhui_轮回.html"
+    ],
+    "hasPage": false
+  },
+  "今": {
+    "cn": "今",
+    "py": "jīn",
+    "en": "now; the present",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/nian4_念.html"
     ],
     "hasPage": false
   },
@@ -17071,6 +17142,26 @@
     ],
     "hasPage": false
   },
+  "念头": {
+    "cn": "念头",
+    "py": "niàntou",
+    "en": "a thought; an intention",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/nian4_念.html"
+    ],
+    "hasPage": false
+  },
+  "念珠": {
+    "cn": "念珠",
+    "py": "niànzhū",
+    "en": "recitation beads (mala)",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/amituofo_阿弥陀佛.html"
+    ],
+    "hasPage": false
+  },
   "涅槃重生": {
     "cn": "涅槃重生",
     "py": "nièpán chóngshēng",
@@ -17908,6 +17999,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/zui4_最.html"
+    ],
+    "hasPage": false
+  },
+  "取经": {
+    "cn": "取经",
+    "py": "qǔ jīng",
+    "en": "to fetch the scriptures; to learn from a source",
+    "count": 1,
+    "appearsOn": [
+      "pages/history/topic_xuanzang.html"
     ],
     "hasPage": false
   },
@@ -19261,6 +19362,16 @@
     ],
     "hasPage": false
   },
+  "释迦牟尼": {
+    "cn": "释迦牟尼",
+    "py": "Shìjiāmóuní",
+    "en": "Śākyamuni, the historical Buddha",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/amituofo_阿弥陀佛.html"
+    ],
+    "hasPage": false
+  },
   "手工": {
     "cn": "手工",
     "py": "shǒugōng",
@@ -20018,6 +20129,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/zhen1_真.html"
+    ],
+    "hasPage": false
+  },
+  "唐僧": {
+    "cn": "唐僧",
+    "py": "Táng Sēng",
+    "en": "the Tang Monk (his novel form)",
+    "count": 1,
+    "appearsOn": [
+      "pages/history/topic_xuanzang.html"
     ],
     "hasPage": false
   },
@@ -21191,6 +21312,16 @@
     ],
     "hasPage": false
   },
+  "西游记": {
+    "cn": "西游记",
+    "py": "Xīyóujì",
+    "en": "Journey to the West",
+    "count": 1,
+    "appearsOn": [
+      "pages/history/topic_xuanzang.html"
+    ],
+    "hasPage": true
+  },
   "西域": {
     "cn": "西域",
     "py": "xīyù",
@@ -21518,6 +21649,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/xiang3_想.html"
+    ],
+    "hasPage": false
+  },
+  "想念": {
+    "cn": "想念",
+    "py": "xiǎngniàn",
+    "en": "to miss (someone absent)",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/nian4_念.html"
     ],
     "hasPage": false
   },
@@ -23841,16 +23982,6 @@
     ],
     "hasPage": false
   },
-  "长安": {
-    "cn": "长安",
-    "py": "Cháng'ān",
-    "en": "the ancient capital (modern Xi'an)",
-    "count": 1,
-    "appearsOn": [
-      "pages/vocab/changjian_长城.html"
-    ],
-    "hasPage": false
-  },
   "长生": {
     "cn": "长生",
     "py": "chángshēng",
@@ -24018,6 +24149,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/yi1_一.html"
+    ],
+    "hasPage": false
+  },
+  "正念": {
+    "cn": "正念",
+    "py": "zhèngniàn",
+    "en": "right mindfulness",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/nian4_念.html"
     ],
     "hasPage": false
   },

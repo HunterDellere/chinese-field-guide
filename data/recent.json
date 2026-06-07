@@ -114,6 +114,27 @@
     "updated": "2026-06-07"
   },
   {
+    "path": "pages/characters/nian4_念.html",
+    "type": "character",
+    "category": "characters",
+    "title": "念 · to recite, to keep in mind, to miss",
+    "desc": "念 holds the present moment 今 over the heart 心: to keep something in mind, to recite aloud, to long for what is absent. The 念 of 念佛 recitation, 想念 longing, and the single thought-moment of Buddhist psychology.",
+    "tags": [
+      "mind",
+      "memory",
+      "buddhism",
+      "mindfulness",
+      "recitation"
+    ],
+    "status": "complete",
+    "char": "念",
+    "pinyin": "niàn",
+    "tone": 4,
+    "hsk": 3,
+    "radical": "心",
+    "updated": "2026-06-07"
+  },
+  {
     "path": "pages/characters/qi1_七.html",
     "type": "character",
     "category": "characters",
@@ -266,6 +287,44 @@
     "updated": "2026-06-07"
   },
   {
+    "path": "pages/history/topic_xuanzang.html",
+    "type": "topic",
+    "category": "history",
+    "title": "玄奘 · The Pilgrim of the West",
+    "desc": "The Tang monk who crossed the deserts to India for the scriptures, studied sixteen years, and came home to translate them: the historical figure behind Journey to the West.",
+    "tags": [
+      "history",
+      "tang",
+      "buddhism",
+      "pilgrimage",
+      "translation",
+      "silk-road",
+      "biography"
+    ],
+    "status": "complete",
+    "pinyin": "xuánzàng",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/vocab/amituofo_阿弥陀佛.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "阿弥陀佛 · Amitābha Buddha",
+    "desc": "阿弥陀佛 is the Buddha of Infinite Light and Life who presides over the Western Pure Land, and his name is itself the central practice: to recite 南无阿弥陀佛 is the simple path of Pure Land devotion, open to everyone.",
+    "tags": [
+      "buddhism",
+      "religion",
+      "pure-land",
+      "amitabha",
+      "faith",
+      "devotion",
+      "recitation"
+    ],
+    "status": "complete",
+    "pinyin": "Ēmítuófó",
+    "updated": "2026-06-07"
+  },
+  {
     "path": "pages/grammar/gen_跟.html",
     "type": "grammar",
     "category": "grammar",
@@ -311,54 +370,6 @@
     ],
     "status": "complete",
     "pinyin": "wǎng",
-    "updated": "2026-05-31"
-  },
-  {
-    "path": "pages/grammar/weishenme_为什么.html",
-    "type": "grammar",
-    "category": "grammar",
-    "title": "为什么 · why",
-    "desc": "The neutral question word for cause and reason, how to answer it with 因为 or 为了, and how a plain 为什么 differs from the surprised 怎么 and the purpose-asking 为了什么.",
-    "tags": [
-      "grammar",
-      "communication",
-      "conjunction",
-      "pragmatics"
-    ],
-    "status": "complete",
-    "pinyin": "wèishénme",
-    "updated": "2026-05-31"
-  },
-  {
-    "path": "pages/grammar/zenme_怎么.html",
-    "type": "grammar",
-    "category": "grammar",
-    "title": "怎么 · how, in what way; why",
-    "desc": "The all-purpose question word for manner and reason: how to do something, what is wrong, and the surprised \"how come,\" plus how 怎么 differs from 为什么 and 怎么样.",
-    "tags": [
-      "grammar",
-      "communication",
-      "pragmatics",
-      "spoken"
-    ],
-    "status": "complete",
-    "pinyin": "zěnme",
-    "updated": "2026-05-31"
-  },
-  {
-    "path": "pages/vocab/ranhou_然后.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "然后 · then; after that",
-    "desc": "The everyday sequence word for \"then, after that,\" the 先…然后… frame for ordering steps, its overuse as a spoken filler, and how it differs from 接着, 后来, and 于是.",
-    "tags": [
-      "vocabulary",
-      "conjunction",
-      "timing",
-      "communication"
-    ],
-    "status": "complete",
-    "pinyin": "ránhòu",
     "updated": "2026-05-31"
   }
 ]

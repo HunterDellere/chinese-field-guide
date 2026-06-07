@@ -1,17 +1,17 @@
 {
-  "generated": "2026-06-07T15:50:18.424Z",
+  "generated": "2026-06-07T16:03:35.385Z",
   "files": [
     {
       "file": "pleco-characters.txt",
       "format": "pleco",
       "type": "characters",
-      "count": 167
+      "count": 168
     },
     {
       "file": "pleco-vocab.txt",
       "format": "pleco",
       "type": "vocab",
-      "count": 93
+      "count": 94
     },
     {
       "file": "pleco-chengyu.txt",
@@ -23,19 +23,19 @@
       "file": "pleco-all.txt",
       "format": "pleco",
       "type": "all",
-      "count": 281
+      "count": 283
     },
     {
       "file": "anki-characters.tsv",
       "format": "anki-tsv",
       "type": "characters",
-      "count": 167
+      "count": 168
     },
     {
       "file": "anki-vocab.tsv",
       "format": "anki-tsv",
       "type": "vocab",
-      "count": 93
+      "count": 94
     },
     {
       "file": "anki-chengyu.tsv",
@@ -47,13 +47,13 @@
       "file": "characters.apkg",
       "format": "anki-apkg",
       "type": "characters",
-      "count": 167
+      "count": 168
     },
     {
       "file": "vocab.apkg",
       "format": "anki-apkg",
       "type": "vocab",
-      "count": 93
+      "count": 94
     },
     {
       "file": "chengyu.apkg",
@@ -65,7 +65,7 @@
       "file": "all.apkg",
       "format": "anki-apkg",
       "type": "all",
-      "count": 281
+      "count": 283
     }
   ],
   "slices": [
@@ -75,14 +75,14 @@
       "cn": "character",
       "dimension": "type",
       "criterion": "character",
-      "description": "All 167 character cards in the corpus.",
-      "count": 167,
+      "description": "All 168 character cards in the corpus.",
+      "count": 168,
       "apkg": "slices/type-character.apkg",
       "pleco": "slices/type-character.txt",
       "hskBreakdown": {
         "hsk-1": 70,
         "hsk-2": 44,
-        "hsk-3": 27,
+        "hsk-3": 28,
         "hsk-4": 19,
         "hsk-5": 5,
         "hsk-6": 1,
@@ -95,17 +95,17 @@
       "cn": "词汇",
       "dimension": "type",
       "criterion": "vocab",
-      "description": "All 93 vocab cards in the corpus.",
-      "count": 93,
+      "description": "All 94 vocab cards in the corpus.",
+      "count": 94,
       "apkg": "slices/type-vocab.apkg",
       "pleco": "slices/type-vocab.txt",
       "hskBreakdown": {
+        "hsk-5": 3,
         "unknown": 34,
         "hsk-3": 17,
         "hsk-4": 9,
         "hsk-1": 24,
-        "hsk-2": 7,
-        "hsk-5": 2
+        "hsk-2": 7
       }
     },
     {
@@ -179,11 +179,11 @@
       "dimension": "hsk",
       "criterion": 3,
       "description": "Just HSK level 3 on its own (authored or inferred from constituent characters).",
-      "count": 45,
+      "count": 46,
       "apkg": "slices/hsk-3.apkg",
       "pleco": "slices/hsk-3.txt",
       "hskBreakdown": {
-        "hsk-3": 45
+        "hsk-3": 46
       }
     },
     {
@@ -207,11 +207,11 @@
       "dimension": "hsk",
       "criterion": 5,
       "description": "Just HSK level 5 on its own (authored or inferred from constituent characters).",
-      "count": 8,
+      "count": 9,
       "apkg": "slices/hsk-5.apkg",
       "pleco": "slices/hsk-5.txt",
       "hskBreakdown": {
-        "hsk-5": 8
+        "hsk-5": 9
       }
     },
     {
@@ -264,13 +264,13 @@
       "dimension": "hsk-ladder",
       "criterion": 3,
       "description": "Cumulative deck: every card from HSK 1 up to and including HSK 3.",
-      "count": 219,
+      "count": 220,
       "apkg": "slices/hsk-up-to-3.apkg",
       "pleco": "slices/hsk-up-to-3.txt",
       "hskBreakdown": {
         "hsk-1": 116,
         "hsk-2": 58,
-        "hsk-3": 45
+        "hsk-3": 46
       }
     },
     {
@@ -280,13 +280,13 @@
       "dimension": "hsk-ladder",
       "criterion": 4,
       "description": "Cumulative deck: every card from HSK 1 up to and including HSK 4.",
-      "count": 249,
+      "count": 250,
       "apkg": "slices/hsk-up-to-4.apkg",
       "pleco": "slices/hsk-up-to-4.txt",
       "hskBreakdown": {
         "hsk-1": 116,
         "hsk-2": 58,
-        "hsk-3": 45,
+        "hsk-3": 46,
         "hsk-4": 30
       }
     },
@@ -297,15 +297,15 @@
       "dimension": "hsk-ladder",
       "criterion": 5,
       "description": "Cumulative deck: every card from HSK 1 up to and including HSK 5.",
-      "count": 257,
+      "count": 259,
       "apkg": "slices/hsk-up-to-5.apkg",
       "pleco": "slices/hsk-up-to-5.txt",
       "hskBreakdown": {
         "hsk-1": 116,
         "hsk-2": 58,
-        "hsk-3": 45,
+        "hsk-3": 46,
         "hsk-4": 30,
-        "hsk-5": 8
+        "hsk-5": 9
       }
     },
     {
@@ -315,15 +315,15 @@
       "dimension": "hsk-ladder",
       "criterion": 6,
       "description": "Cumulative deck: every card from HSK 1 up to and including HSK 6.",
-      "count": 258,
+      "count": 260,
       "apkg": "slices/hsk-up-to-6.apkg",
       "pleco": "slices/hsk-up-to-6.txt",
       "hskBreakdown": {
         "hsk-1": 116,
         "hsk-2": 58,
-        "hsk-3": 45,
+        "hsk-3": 46,
         "hsk-4": 30,
-        "hsk-5": 8,
+        "hsk-5": 9,
         "hsk-6": 1
       }
     },
@@ -477,13 +477,13 @@
       "cn": "佛教",
       "dimension": "tag",
       "criterion": "buddhism",
-      "description": "Cards tagged buddhism — 13 entries.",
-      "count": 13,
+      "description": "Cards tagged buddhism — 15 entries.",
+      "count": 15,
       "apkg": "slices/tag-buddhism.apkg",
       "pleco": "slices/tag-buddhism.txt",
       "hskBreakdown": {
-        "hsk-5": 1,
-        "hsk-3": 1,
+        "hsk-5": 2,
+        "hsk-3": 2,
         "hsk-4": 3,
         "hsk-1": 2,
         "unknown": 6
@@ -593,12 +593,12 @@
       "dimension": "intent",
       "criterion": "buddhist-reader",
       "description": "Vocabulary, characters, and chengyu needed to read a sutra: 空, 色, 般若, 菩萨, 涅槃, plus core Buddhist topic terms.",
-      "count": 14,
+      "count": 16,
       "apkg": "slices/intent-buddhist-reader.apkg",
       "pleco": "slices/intent-buddhist-reader.txt",
       "hskBreakdown": {
-        "hsk-5": 1,
-        "hsk-3": 2,
+        "hsk-5": 2,
+        "hsk-3": 3,
         "hsk-4": 3,
         "hsk-1": 2,
         "unknown": 6

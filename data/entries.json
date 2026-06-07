@@ -114,6 +114,27 @@
     "updated": "2026-06-07"
   },
   {
+    "path": "pages/characters/nian4_念.html",
+    "type": "character",
+    "category": "characters",
+    "title": "念 · to recite, to keep in mind, to miss",
+    "desc": "念 holds the present moment 今 over the heart 心: to keep something in mind, to recite aloud, to long for what is absent. The 念 of 念佛 recitation, 想念 longing, and the single thought-moment of Buddhist psychology.",
+    "tags": [
+      "mind",
+      "memory",
+      "buddhism",
+      "mindfulness",
+      "recitation"
+    ],
+    "status": "complete",
+    "char": "念",
+    "pinyin": "niàn",
+    "tone": 4,
+    "hsk": 3,
+    "radical": "心",
+    "updated": "2026-06-07"
+  },
+  {
     "path": "pages/characters/qi1_七.html",
     "type": "character",
     "category": "characters",
@@ -263,6 +284,44 @@
     "tone": 4,
     "hsk": 1,
     "radical": "亻",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/history/topic_xuanzang.html",
+    "type": "topic",
+    "category": "history",
+    "title": "玄奘 · The Pilgrim of the West",
+    "desc": "The Tang monk who crossed the deserts to India for the scriptures, studied sixteen years, and came home to translate them: the historical figure behind Journey to the West.",
+    "tags": [
+      "history",
+      "tang",
+      "buddhism",
+      "pilgrimage",
+      "translation",
+      "silk-road",
+      "biography"
+    ],
+    "status": "complete",
+    "pinyin": "xuánzàng",
+    "updated": "2026-06-07"
+  },
+  {
+    "path": "pages/vocab/amituofo_阿弥陀佛.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "阿弥陀佛 · Amitābha Buddha",
+    "desc": "阿弥陀佛 is the Buddha of Infinite Light and Life who presides over the Western Pure Land, and his name is itself the central practice: to recite 南无阿弥陀佛 is the simple path of Pure Land devotion, open to everyone.",
+    "tags": [
+      "buddhism",
+      "religion",
+      "pure-land",
+      "amitabha",
+      "faith",
+      "devotion",
+      "recitation"
+    ],
+    "status": "complete",
+    "pinyin": "Ēmítuófó",
     "updated": "2026-06-07"
   },
   {

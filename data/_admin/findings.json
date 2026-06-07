@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-07T15:50:20.367Z",
+  "generated": "2026-06-07T16:03:39.023Z",
   "summary": {
     "errors": 0,
     "warnings": 1,
-    "info": 1029
+    "info": 1033
   },
   "findings": [
     {
@@ -3015,7 +3015,21 @@
       "level": "INFO",
       "category": "seo",
       "file": "_global",
-      "msg": "299 complete pages missing seo_title — default title leads with CJK and may lose English-SERP clicks. See SEO tab on the admin dashboard for the list.",
+      "msg": "301 complete pages missing seo_title — default title leads with CJK and may lose English-SERP clicks. See SEO tab on the admin dashboard for the list.",
+      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/history/topic_xuanzang.md",
+      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
+      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/vocab/amituofo_阿弥陀佛.md",
+      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
       "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
     },
     {
@@ -5115,7 +5129,21 @@
       "level": "INFO",
       "category": "seo",
       "file": "_global",
-      "msg": "299 complete pages missing seo_desc — default desc is hero copy, not SERP copy. See SEO tab on the admin dashboard for the list.",
+      "msg": "301 complete pages missing seo_desc — default desc is hero copy, not SERP copy. See SEO tab on the admin dashboard for the list.",
+      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/history/topic_xuanzang.md",
+      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
+      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/vocab/amituofo_阿弥陀佛.md",
+      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
       "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
     },
     {

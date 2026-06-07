@@ -6,7 +6,7 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A reading nook for Chinese language and civilisation. Characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Jun 2026 15:50:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 16:03:23 GMT</lastBuildDate>
     <item>
       <title>八 · eight; the luckiest number and the eight trigrams</title>
       <link>https://jiaoshoo.com/pages/characters/ba1_八.html</link>
@@ -53,6 +53,14 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/liu4_六.html</guid>
       <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
       <description>Six closes space into the six directions (the four compass points plus up and down) and, through its near-homophony with 流 liú (to flow), became a number for things going smoothly.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>念 · to recite, to keep in mind, to miss</title>
+      <link>https://jiaoshoo.com/pages/characters/nian4_念.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/nian4_念.html</guid>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
+      <description>念 holds the present moment 今 over the heart 心: to keep something in mind, to recite aloud, to long for what is absent. The 念 of 念佛 recitation, 想念 longing, and the single thought-moment of Buddhist psychology.</description>
       <category>characters</category>
     </item>
     <item>
@@ -118,6 +126,22 @@
       <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
       <description>做 is the everyday verb for doing and making, a late character built to carry the work that 作 had grown too literary to do, and the two still split the labor between them.</description>
       <category>characters</category>
+    </item>
+    <item>
+      <title>玄奘 · The Pilgrim of the West</title>
+      <link>https://jiaoshoo.com/pages/history/topic_xuanzang.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/history/topic_xuanzang.html</guid>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
+      <description>The Tang monk who crossed the deserts to India for the scriptures, studied sixteen years, and came home to translate them: the historical figure behind Journey to the West.</description>
+      <category>history</category>
+    </item>
+    <item>
+      <title>阿弥陀佛 · Amitābha Buddha</title>
+      <link>https://jiaoshoo.com/pages/vocab/amituofo_阿弥陀佛.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/amituofo_阿弥陀佛.html</guid>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
+      <description>阿弥陀佛 is the Buddha of Infinite Light and Life who presides over the Western Pure Land, and his name is itself the central practice: to recite 南无阿弥陀佛 is the simple path of Pure Land devotion, open to everyone.</description>
+      <category>vocab</category>
     </item>
     <item>
       <title>跟 · with; and; to follow</title>
@@ -222,30 +246,6 @@
       <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
       <description>The verbal-quantity word that makes an action brief and casual, how verb + 一下 softens a request, and how it differs from verb reduplication and from the time-word 一会儿.</description>
       <category>grammar</category>
-    </item>
-    <item>
-      <title>帮助 · to help</title>
-      <link>https://jiaoshoo.com/pages/vocab/bangzhu_帮助.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/bangzhu_帮助.html</guid>
-      <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
-      <description>The everyday word for help, both verb and noun, and how it differs from the lighter 帮 and the separable 帮忙 (to do a favor).</description>
-      <category>vocab</category>
-    </item>
-    <item>
-      <title>工作 · work, job</title>
-      <link>https://jiaoshoo.com/pages/vocab/gongzuo_工作.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/gongzuo_工作.html</guid>
-      <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
-      <description>The everyday word for work, both the activity and the job itself, and how it differs from 上班 (to go to work), 职业 (occupation), and 事业 (career).</description>
-      <category>vocab</category>
-    </item>
-    <item>
-      <title>其实 · actually</title>
-      <link>https://jiaoshoo.com/pages/vocab/qishi_其实.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/qishi_其实.html</guid>
-      <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
-      <description>The everyday adverb for &quot;actually, in fact,&quot; used to correct an impression or reveal the real situation, and how it differs from 实际上, 事实上, and 本来.</description>
-      <category>vocab</category>
     </item>
   </channel>
 </rss>
