@@ -15,9 +15,16 @@ tags:
   - 'heaven'
   - 'humanity'
   - 'classical'
-updated: '2026-04-25'
+updated: '2026-06-19'
 pinyin: 'tiān rén hé yī'
 content_review: 'pending'
+faq:
+  - q: "What does 天人合一 (tiān rén hé yī) mean in English?"
+    a: "天人合一 means \"Heaven and humanity as one.\" It is the foundational claim of Chinese cosmology that the cosmic order and human life are not separate domains but a single continuous whole, and that human flourishing depends on aligning with the natural order."
+  - q: "How do the Confucian and Daoist versions of 天人合一 differ?"
+    a: "The Confucian version is achieved through moral cultivation and ritual (礼 lǐ), aligning society with Heaven's pattern, as in the Mandate of Heaven (天命). The Daoist version, from Daodejing 25, is achieved through 无为 wúwéi, non-forcing attunement until self and cosmos dissolve."
+  - q: "Who coined 天人合一 as a four-character phrase?"
+    a: "The Northern Song Neo-Confucian philosopher 张载 Zhāng Zài (1020-1077) was first to use 天人合一 as an explicit four-character compound, giving the ancient idea its lasting slogan. From his Western Inscription (西铭) he derived 民胞物与: all people are kin, all things companions."
 ---
 
 

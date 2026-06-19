@@ -13,8 +13,15 @@ tags:
   - 'syntax'
   - 'literary'
   - 'compounds'
-updated: '2026-04-25'
+updated: '2026-06-19'
 pinyin: 'zhě'
+faq:
+  - q: "What does 者 zhě mean in Chinese?"
+    a: "者 zhě is a classical nominalizer meaning \"the one who\" or \"that which.\" Placed after a verb or adjective, it turns that predicate into a noun phrase for the person or thing it describes: 学 (to study) plus 者 gives 学者, a scholar."
+  - q: "What is the difference between 者 and 所 in classical Chinese?"
+    a: "者 is subject-oriented and 所 is object-oriented. 者 nominalizes the agent (写者, the one who writes), while 所 nominalizes the thing acted upon (所写, what was written). Modern spoken Chinese handles both with 的, but at a more casual register."
+  - q: "Is 者 still used in modern Chinese?"
+    a: "Yes, 者 is a living word-builder in formal Chinese. It forms institutional nouns like 作者 (author), 记者 (journalist), 读者 (reader), 患者 (patient), 劳动者 (worker), and 消费者 (consumer), plus discourse words such as 前者 (the former), 后者 (the latter), and 或者 (or)."
 ---
 
 

@@ -21,7 +21,14 @@ tags:
   - 'daoism'
   - 'wuwei'
   - 'syntax'
-updated: '2026-04-25'
+updated: '2026-06-19'
+faq:
+  - q: "Is the 为 in 因为 yīnwèi a polyphonic character?"
+    a: "Yes. 为 is polyphonic with two readings: wéi (2nd tone), a verb meaning to do, to act, or to serve as; and wèi (4th tone), a preposition meaning for, for the sake of, or because of. In 因为 (because) it takes the 4th-tone wèi reading."
+  - q: "What does 为什么 wèishénme mean in Chinese?"
+    a: "为什么 wèishénme means why, or for what reason. It combines 为 wèi (for, because of) with 什么 shénme (what), literally for what. The 为 here is consistently 4th tone (wèi), the prepositional reading, and it works in both direct and embedded questions."
+  - q: "What words can the character 为 be combined into?"
+    a: "为 forms wéi (2nd tone) verbal compounds like 认为 rènwéi (to think), 成为 chéngwéi (to become), 作为 zuòwéi (to act as), and 行为 xíngwéi (behavior); and wèi (4th tone) prepositional ones like 为了 wèile (in order to), 因为 yīnwèi (because), and 为什么 wèishénme (why)."
 ---
 
 

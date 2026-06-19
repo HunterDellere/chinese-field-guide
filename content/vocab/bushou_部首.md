@@ -12,10 +12,17 @@ tags:
   - 'writing'
   - 'radical'
   - 'language'
-updated: '2026-04-20'
+updated: '2026-06-19'
 content_review: 'verified'
 content_sources:
   - 'Unihan'
+faq:
+  - q: "What is a radical (部首 bùshǒu) in a Chinese character?"
+    a: "A radical (部首 bùshǒu) is the primary indexing component of a Chinese character: the part under which it is filed in a traditional dictionary. The term literally means \"section head,\" 部 (section) plus 首 (head). Radicals are not phonetic; they roughly signal what category a character belongs to."
+  - q: "How many Chinese radicals are there?"
+    a: "The standard system has 214 radicals, drawn from the Kangxi Dictionary (康熙字典 Kāngxī Zìdiǎn) completed in 1716, ordered by stroke count from 1 stroke (一) to 17 strokes (龠). Simplified Chinese dictionaries sometimes use modified lists, such as one common set of 186 radicals."
+  - q: "Do radicals tell you the meaning of a Chinese character?"
+    a: "Often, but not always. Many radicals reliably signal meaning, especially in phono-semantic compounds (roughly 80 to 90% of modern characters), where one component signals meaning and another hints at sound. For example, 氵signals water. Treat radical meanings as probabilistic guides, not strict rules."
 ---
 
 

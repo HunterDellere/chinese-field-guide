@@ -16,8 +16,15 @@ tags:
   - 'particles'
   - 'confucianism'
   - 'analects'
-updated: '2026-04-25'
+updated: '2026-06-19'
 content_review: 'pending'
+faq:
+  - q: "What does 之所以 (zhī suǒyǐ) mean and how is it used?"
+    a: "之所以 (zhī suǒyǐ) means \"the reason why,\" used in written Chinese to foreground a cause. It works in the frame 之所以X，是因为Y (\"the reason X is the case is because Y\"). It is more formal than 因为 alone and signals the explanation is the main point."
+  - q: "How does the function word 所 suǒ work in Chinese?"
+    a: "所 suǒ is a classical nominalizer: placed before a transitive verb, it converts the verb's object into a noun phrase meaning \"that which is verb-ed.\" For example, 所知 (suǒ zhī) is \"that which is known.\" It survives in modern formal writing, often with 的 appended."
+  - q: "What is the 为…所… passive construction?"
+    a: "为…所… (wèi A suǒ V) is the classical Chinese passive, meaning \"to be V-ed by A.\" 为 introduces the agent; 所 nominalizes the verb. Example: 为人所知 (wèi rén suǒ zhī), \"to be known by people.\" Modern colloquial speech prefers 被 (bèi) instead."
 ---
 
 <!DOCTYPE html>

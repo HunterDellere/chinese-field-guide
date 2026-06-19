@@ -140,6 +140,25 @@
     "updated": "2026-06-19"
   },
   {
+    "path": "pages/characters/dao4_道.html",
+    "type": "character",
+    "category": "characters",
+    "title": "道 · way, path",
+    "desc": "The word that gave Daoism its name, and underlies every Chinese 'ism'.",
+    "tags": [
+      "daoism",
+      "philosophy",
+      "path"
+    ],
+    "status": "complete",
+    "char": "道",
+    "pinyin": "dào",
+    "tone": 4,
+    "hsk": 3,
+    "radical": "辶",
+    "updated": "2026-06-19"
+  },
+  {
     "path": "pages/characters/ke3_可.html",
     "type": "character",
     "category": "characters",
@@ -200,6 +219,48 @@
     "updated": "2026-06-19"
   },
   {
+    "path": "pages/characters/wei2_为.html",
+    "type": "character",
+    "category": "characters",
+    "title": "为 · to do; to act; for; because of",
+    "desc": "In oracle bone script, a hand leading an elephant (to guide an immense force through skillful agency), and the character at the center of the Daoist concept of non-action.",
+    "tags": [
+      "grammar",
+      "classical",
+      "taoism",
+      "philosophy",
+      "daoism",
+      "wuwei",
+      "syntax"
+    ],
+    "status": "complete",
+    "char": "为",
+    "pinyin": "wéi",
+    "tone": 2,
+    "hsk": 2,
+    "radical": "丶",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/characters/xin1_心.html",
+    "type": "character",
+    "category": "characters",
+    "title": "心 · heart, mind",
+    "desc": "The radical at the root of all feeling, and the Chinese conception of thought itself.",
+    "tags": [
+      "radical",
+      "emotion",
+      "mind"
+    ],
+    "status": "complete",
+    "char": "心",
+    "pinyin": "xīn",
+    "tone": 1,
+    "hsk": 2,
+    "radical": "心",
+    "updated": "2026-06-19"
+  },
+  {
     "path": "pages/characters/ye3_也.html",
     "type": "character",
     "category": "characters",
@@ -218,6 +279,48 @@
     "tone": 3,
     "hsk": 1,
     "radical": "乙",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/characters/yi3_以.html",
+    "type": "character",
+    "category": "characters",
+    "title": "以 · by means of; using; because; in order to",
+    "desc": "A classical Chinese preposition and conjunction so versatile that it anchors half the grammar of formal Chinese: the word that turns one thing into the means, standard, or cause of another.",
+    "tags": [
+      "grammar",
+      "classical",
+      "syntax",
+      "conjunction",
+      "particle",
+      "literary"
+    ],
+    "status": "complete",
+    "char": "以",
+    "pinyin": "yǐ",
+    "tone": 3,
+    "hsk": 2,
+    "radical": "人",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/characters/yi4_义.html",
+    "type": "character",
+    "category": "characters",
+    "title": "义 · righteousness, duty, justice",
+    "desc": "The Confucian virtue of doing what is morally right, and the simplification that erased a sheep, a self, and the entire picture of what righteous form looks like.",
+    "tags": [
+      "confucianism",
+      "ethics",
+      "virtue",
+      "philosophy"
+    ],
+    "status": "complete",
+    "char": "义",
+    "pinyin": "yì",
+    "tone": 4,
+    "hsk": 3,
+    "radical": "丶",
     "updated": "2026-06-19"
   },
   {
@@ -262,6 +365,53 @@
     "updated": "2026-06-19"
   },
   {
+    "path": "pages/characters/zi4_字.html",
+    "type": "character",
+    "category": "characters",
+    "title": "字 · character, written word",
+    "desc": "The character that names itself, and the whole system of 汉字.",
+    "tags": [
+      "writing",
+      "language",
+      "meta"
+    ],
+    "status": "complete",
+    "char": "字",
+    "pinyin": "zì",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "子",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/families/language.html",
+    "type": "topic",
+    "category": "families",
+    "title": "语言 · The Language",
+    "desc": "Characters, vocabulary, grammar. The building blocks of written and spoken Chinese.",
+    "tags": [
+      "meta"
+    ],
+    "status": "complete",
+    "pinyin": "yǔyán",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/grammar/de_的得地.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "的 · 得 · 地 · the three de's",
+    "desc": "Attribution, result complement, and adverbial marker: distinguished once and for all.",
+    "tags": [
+      "particle",
+      "complement",
+      "adverb"
+    ],
+    "status": "complete",
+    "pinyin": "de / dé / dì",
+    "updated": "2026-06-19"
+  },
+  {
     "path": "pages/grammar/le_了.html",
     "type": "grammar",
     "category": "grammar",
@@ -274,6 +424,26 @@
     ],
     "status": "complete",
     "pinyin": "le",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/grammar/suo_所.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "所 · classical nominalizer and passive marker",
+    "desc": "The function word that turns verbs into noun phrases, and has been doing so since Confucius quoted it in the Analects.",
+    "tags": [
+      "grammar",
+      "classical",
+      "syntax",
+      "passive",
+      "literary",
+      "particles",
+      "confucianism",
+      "analects"
+    ],
+    "status": "complete",
+    "pinyin": "suǒ",
     "updated": "2026-06-19"
   },
   {
@@ -290,6 +460,76 @@
     ],
     "status": "complete",
     "pinyin": "zhe",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/grammar/zhi_者.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "者 · classical nominalizer \"the one who; that which\"",
+    "desc": "The particle that turns a verb or adjective into a person, and that never stopped working.",
+    "tags": [
+      "grammar",
+      "classical",
+      "syntax",
+      "literary",
+      "compounds"
+    ],
+    "status": "complete",
+    "pinyin": "zhě",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/history/topic_keju.html",
+    "type": "topic",
+    "category": "history",
+    "title": "科举 · The Imperial Examination System",
+    "desc": "The exam that governed Chinese civilization for 1,300 years: selecting officials by merit, enshrining the Confucian canon, and shaping every dynasty from the Sui through the Qing.",
+    "tags": [
+      "history",
+      "confucianism",
+      "tang",
+      "song",
+      "ming",
+      "qing"
+    ],
+    "status": "complete",
+    "pinyin": "kē jǔ",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/history/topic_zhoudai.html",
+    "type": "topic",
+    "category": "history",
+    "title": "周朝 · The Zhou Dynasty",
+    "desc": "The longest dynasty in Chinese history and the philosophical seedbed of Chinese civilization: where the Mandate of Heaven was born, Confucius lived, and nearly every idea that shaped imperial China was first argued.",
+    "tags": [
+      "history",
+      "ancient",
+      "confucianism",
+      "classical",
+      "dynasty",
+      "ritual",
+      "philosophy",
+      "bronze-age"
+    ],
+    "status": "complete",
+    "pinyin": "Zhōu cháo",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/philosophy/topic_kongzi.html",
+    "type": "topic",
+    "category": "philosophy",
+    "title": "孔子 · Confucius",
+    "desc": "His life, the Analects 论语, and the civilization he shaped.",
+    "tags": [
+      "confucius",
+      "analects",
+      "ethics"
+    ],
+    "status": "complete",
+    "pinyin": "kǒngzǐ",
     "updated": "2026-06-19"
   },
   {
@@ -379,6 +619,37 @@
     "updated": "2026-06-19"
   },
   {
+    "path": "pages/religion/topic_zuxian.html",
+    "type": "topic",
+    "category": "religion",
+    "title": "祖先崇拜 · Ancestor Veneration",
+    "desc": "Tablets, offerings, and the living debt to the dead: the deep continuity of Chinese ancestor veneration.",
+    "tags": [
+      "ancestors",
+      "ritual",
+      "family"
+    ],
+    "status": "complete",
+    "pinyin": "zǔxiān chóngbài",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/vocab/bushou_部首.html",
+    "type": "topic",
+    "category": "vocab",
+    "title": "部首 · radicals: the indexing keys of Chinese characters",
+    "desc": "Every Chinese character belongs to a radical family. Radicals are the organizing principle of dictionaries, the structural DNA of characters, and the fastest shortcut to guessing what an unfamiliar word means.",
+    "tags": [
+      "characters",
+      "writing",
+      "radical",
+      "language"
+    ],
+    "status": "complete",
+    "pinyin": "bùshǒu",
+    "updated": "2026-06-19"
+  },
+  {
     "path": "pages/vocab/lishi_历史.html",
     "type": "vocab",
     "category": "vocab",
@@ -413,6 +684,26 @@
     ],
     "status": "complete",
     "pinyin": "lúnhuí",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/vocab/tianren_天人.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "天人合一 · Heaven and humanity as one: the unity of cosmic and human order",
+    "desc": "The organizing claim of Chinese cosmology: Heaven and humanity are not separate domains, and human flourishing depends on alignment with the natural order.",
+    "tags": [
+      "philosophy",
+      "confucianism",
+      "taoism",
+      "cosmology",
+      "nature",
+      "heaven",
+      "humanity",
+      "classical"
+    ],
+    "status": "complete",
+    "pinyin": "tiān rén hé yī",
     "updated": "2026-06-19"
   },
   {
@@ -3060,29 +3351,6 @@
     "updated": "2026-04-25"
   },
   {
-    "path": "pages/characters/wei2_为.html",
-    "type": "character",
-    "category": "characters",
-    "title": "为 · to do; to act; for; because of",
-    "desc": "In oracle bone script, a hand leading an elephant (to guide an immense force through skillful agency), and the character at the center of the Daoist concept of non-action.",
-    "tags": [
-      "grammar",
-      "classical",
-      "taoism",
-      "philosophy",
-      "daoism",
-      "wuwei",
-      "syntax"
-    ],
-    "status": "complete",
-    "char": "为",
-    "pinyin": "wéi",
-    "tone": 2,
-    "hsk": 2,
-    "radical": "丶",
-    "updated": "2026-04-25"
-  },
-  {
     "path": "pages/characters/wo3_我.html",
     "type": "character",
     "category": "characters",
@@ -3237,28 +3505,6 @@
     "tone": 1,
     "hsk": 1,
     "radical": "一",
-    "updated": "2026-04-25"
-  },
-  {
-    "path": "pages/characters/yi3_以.html",
-    "type": "character",
-    "category": "characters",
-    "title": "以 · by means of; using; because; in order to",
-    "desc": "A classical Chinese preposition and conjunction so versatile that it anchors half the grammar of formal Chinese: the word that turns one thing into the means, standard, or cause of another.",
-    "tags": [
-      "grammar",
-      "classical",
-      "syntax",
-      "conjunction",
-      "particle",
-      "literary"
-    ],
-    "status": "complete",
-    "char": "以",
-    "pinyin": "yǐ",
-    "tone": 3,
-    "hsk": 2,
-    "radical": "人",
     "updated": "2026-04-25"
   },
   {
@@ -3620,19 +3866,6 @@
     "updated": "2026-04-25"
   },
   {
-    "path": "pages/families/language.html",
-    "type": "topic",
-    "category": "families",
-    "title": "语言 · The Language",
-    "desc": "Characters, vocabulary, grammar. The building blocks of written and spoken Chinese.",
-    "tags": [
-      "meta"
-    ],
-    "status": "complete",
-    "pinyin": "yǔyán",
-    "updated": "2026-04-25"
-  },
-  {
     "path": "pages/families/topics.html",
     "type": "topic",
     "category": "families",
@@ -3699,26 +3932,6 @@
     "updated": "2026-04-25"
   },
   {
-    "path": "pages/grammar/suo_所.html",
-    "type": "grammar",
-    "category": "grammar",
-    "title": "所 · classical nominalizer and passive marker",
-    "desc": "The function word that turns verbs into noun phrases, and has been doing so since Confucius quoted it in the Analects.",
-    "tags": [
-      "grammar",
-      "classical",
-      "syntax",
-      "passive",
-      "literary",
-      "particles",
-      "confucianism",
-      "analects"
-    ],
-    "status": "complete",
-    "pinyin": "suǒ",
-    "updated": "2026-04-25"
-  },
-  {
     "path": "pages/grammar/zhe_particle_呢.html",
     "type": "grammar",
     "category": "grammar",
@@ -3770,23 +3983,6 @@
     "updated": "2026-04-25"
   },
   {
-    "path": "pages/grammar/zhi_者.html",
-    "type": "grammar",
-    "category": "grammar",
-    "title": "者 · classical nominalizer \"the one who; that which\"",
-    "desc": "The particle that turns a verb or adjective into a person, and that never stopped working.",
-    "tags": [
-      "grammar",
-      "classical",
-      "syntax",
-      "literary",
-      "compounds"
-    ],
-    "status": "complete",
-    "pinyin": "zhě",
-    "updated": "2026-04-25"
-  },
-  {
     "path": "pages/history/topic_chunqiu.html",
     "type": "topic",
     "category": "history",
@@ -3805,26 +4001,6 @@
     ],
     "status": "complete",
     "pinyin": "Chūnqiū Shídài",
-    "updated": "2026-04-25"
-  },
-  {
-    "path": "pages/history/topic_zhoudai.html",
-    "type": "topic",
-    "category": "history",
-    "title": "周朝 · The Zhou Dynasty",
-    "desc": "The longest dynasty in Chinese history and the philosophical seedbed of Chinese civilization: where the Mandate of Heaven was born, Confucius lived, and nearly every idea that shaped imperial China was first argued.",
-    "tags": [
-      "history",
-      "ancient",
-      "confucianism",
-      "classical",
-      "dynasty",
-      "ritual",
-      "philosophy",
-      "bronze-age"
-    ],
-    "status": "complete",
-    "pinyin": "Zhōu cháo",
     "updated": "2026-04-25"
   },
   {
@@ -4171,26 +4347,6 @@
     "updated": "2026-04-25"
   },
   {
-    "path": "pages/vocab/tianren_天人.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "天人合一 · Heaven and humanity as one: the unity of cosmic and human order",
-    "desc": "The organizing claim of Chinese cosmology: Heaven and humanity are not separate domains, and human flourishing depends on alignment with the natural order.",
-    "tags": [
-      "philosophy",
-      "confucianism",
-      "taoism",
-      "cosmology",
-      "nature",
-      "heaven",
-      "humanity",
-      "classical"
-    ],
-    "status": "complete",
-    "pinyin": "tiān rén hé yī",
-    "updated": "2026-04-25"
-  },
-  {
     "path": "pages/vocab/wenhua_文化.html",
     "type": "vocab",
     "category": "vocab",
@@ -4425,26 +4581,6 @@
     "tone": 4,
     "hsk": 2,
     "radical": "亻",
-    "updated": "2026-04-22"
-  },
-  {
-    "path": "pages/characters/yi4_义.html",
-    "type": "character",
-    "category": "characters",
-    "title": "义 · righteousness, duty, justice",
-    "desc": "The Confucian virtue of doing what is morally right, and the simplification that erased a sheep, a self, and the entire picture of what righteous form looks like.",
-    "tags": [
-      "confucianism",
-      "ethics",
-      "virtue",
-      "philosophy"
-    ],
-    "status": "complete",
-    "char": "义",
-    "pinyin": "yì",
-    "tone": 4,
-    "hsk": 3,
-    "radical": "丶",
     "updated": "2026-04-22"
   },
   {
@@ -4842,22 +4978,6 @@
     ],
     "status": "complete",
     "pinyin": "bǐhuà",
-    "updated": "2026-04-20"
-  },
-  {
-    "path": "pages/vocab/bushou_部首.html",
-    "type": "topic",
-    "category": "vocab",
-    "title": "部首 · radicals: the indexing keys of Chinese characters",
-    "desc": "Every Chinese character belongs to a radical family. Radicals are the organizing principle of dictionaries, the structural DNA of characters, and the fastest shortcut to guessing what an unfamiliar word means.",
-    "tags": [
-      "characters",
-      "writing",
-      "radical",
-      "language"
-    ],
-    "status": "complete",
-    "pinyin": "bùshǒu",
     "updated": "2026-04-20"
   },
   {
@@ -7018,24 +7138,6 @@
     "updated": "2026-04-19"
   },
   {
-    "path": "pages/history/topic_keju.html",
-    "type": "topic",
-    "category": "history",
-    "title": "科举 · The Imperial Examination System",
-    "desc": "The exam that governed Chinese civilization for 1,300 years: selecting officials by merit, enshrining the Confucian canon, and shaping every dynasty from the Sui through the Qing.",
-    "tags": [
-      "history",
-      "confucianism",
-      "tang",
-      "song",
-      "ming",
-      "qing"
-    ],
-    "status": "complete",
-    "pinyin": "kē jǔ",
-    "updated": "2026-04-19"
-  },
-  {
     "path": "pages/history/topic_taiping.html",
     "type": "topic",
     "category": "history",
@@ -7860,25 +7962,6 @@
     "updated": "2026-04-18"
   },
   {
-    "path": "pages/characters/dao4_道.html",
-    "type": "character",
-    "category": "characters",
-    "title": "道 · way, path",
-    "desc": "The word that gave Daoism its name, and underlies every Chinese 'ism'.",
-    "tags": [
-      "daoism",
-      "philosophy",
-      "path"
-    ],
-    "status": "complete",
-    "char": "道",
-    "pinyin": "dào",
-    "tone": 4,
-    "hsk": 3,
-    "radical": "辶",
-    "updated": "2026-04-18"
-  },
-  {
     "path": "pages/characters/gan3_感.html",
     "type": "character",
     "category": "characters",
@@ -7996,25 +8079,6 @@
     "updated": "2026-04-18"
   },
   {
-    "path": "pages/characters/xin1_心.html",
-    "type": "character",
-    "category": "characters",
-    "title": "心 · heart, mind",
-    "desc": "The radical at the root of all feeling, and the Chinese conception of thought itself.",
-    "tags": [
-      "radical",
-      "emotion",
-      "mind"
-    ],
-    "status": "complete",
-    "char": "心",
-    "pinyin": "xīn",
-    "tone": 1,
-    "hsk": 2,
-    "radical": "心",
-    "updated": "2026-04-18"
-  },
-  {
     "path": "pages/characters/you3_有.html",
     "type": "character",
     "category": "characters",
@@ -8031,25 +8095,6 @@
     "tone": 3,
     "hsk": 1,
     "radical": "月",
-    "updated": "2026-04-18"
-  },
-  {
-    "path": "pages/characters/zi4_字.html",
-    "type": "character",
-    "category": "characters",
-    "title": "字 · character, written word",
-    "desc": "The character that names itself, and the whole system of 汉字.",
-    "tags": [
-      "writing",
-      "language",
-      "meta"
-    ],
-    "status": "complete",
-    "char": "字",
-    "pinyin": "zì",
-    "tone": 4,
-    "hsk": 1,
-    "radical": "子",
     "updated": "2026-04-18"
   },
   {
@@ -8309,21 +8354,6 @@
     "updated": "2026-04-18"
   },
   {
-    "path": "pages/grammar/de_的得地.html",
-    "type": "grammar",
-    "category": "grammar",
-    "title": "的 · 得 · 地 · the three de's",
-    "desc": "Attribution, result complement, and adverbial marker: distinguished once and for all.",
-    "tags": [
-      "particle",
-      "complement",
-      "adverb"
-    ],
-    "status": "complete",
-    "pinyin": "de / dé / dì",
-    "updated": "2026-04-18"
-  },
-  {
     "path": "pages/grammar/directional_来去.html",
     "type": "grammar",
     "category": "grammar",
@@ -8579,21 +8609,6 @@
     "updated": "2026-04-18"
   },
   {
-    "path": "pages/philosophy/topic_kongzi.html",
-    "type": "topic",
-    "category": "philosophy",
-    "title": "孔子 · Confucius",
-    "desc": "His life, the Analects 论语, and the civilization he shaped.",
-    "tags": [
-      "confucius",
-      "analects",
-      "ethics"
-    ],
-    "status": "complete",
-    "pinyin": "kǒngzǐ",
-    "updated": "2026-04-18"
-  },
-  {
     "path": "pages/philosophy/topic_laozi.html",
     "type": "topic",
     "category": "philosophy",
@@ -8786,21 +8801,6 @@
     ],
     "status": "complete",
     "pinyin": "yīsīlán jiào",
-    "updated": "2026-04-18"
-  },
-  {
-    "path": "pages/religion/topic_zuxian.html",
-    "type": "topic",
-    "category": "religion",
-    "title": "祖先崇拜 · Ancestor Veneration",
-    "desc": "Tablets, offerings, and the living debt to the dead: the deep continuity of Chinese ancestor veneration.",
-    "tags": [
-      "ancestors",
-      "ritual",
-      "family"
-    ],
-    "status": "complete",
-    "pinyin": "zǔxiān chóngbài",
     "updated": "2026-04-18"
   },
   {

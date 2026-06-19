@@ -6,7 +6,7 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A reading nook for Chinese language and civilisation. Characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Jun 2026 19:35:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 19:43:57 GMT</lastBuildDate>
     <item>
       <title>生旦净末丑 · Role Types in Peking Opera</title>
       <link>https://jiaoshoo.com/pages/arts/topic_jingju_roles.html</link>
@@ -72,6 +72,14 @@
       <category>arts</category>
     </item>
     <item>
+      <title>道 · way, path</title>
+      <link>https://jiaoshoo.com/pages/characters/dao4_道.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/dao4_道.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>The word that gave Daoism its name, and underlies every Chinese &apos;ism&apos;.</description>
+      <category>characters</category>
+    </item>
+    <item>
       <title>可 · can; may; worth; quite</title>
       <link>https://jiaoshoo.com/pages/characters/ke3_可.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/ke3_可.html</guid>
@@ -96,11 +104,43 @@
       <category>characters</category>
     </item>
     <item>
+      <title>为 · to do; to act; for; because of</title>
+      <link>https://jiaoshoo.com/pages/characters/wei2_为.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/wei2_为.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>In oracle bone script, a hand leading an elephant (to guide an immense force through skillful agency), and the character at the center of the Daoist concept of non-action.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>心 · heart, mind</title>
+      <link>https://jiaoshoo.com/pages/characters/xin1_心.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/xin1_心.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>The radical at the root of all feeling, and the Chinese conception of thought itself.</description>
+      <category>characters</category>
+    </item>
+    <item>
       <title>也 · also; too; classical particle</title>
       <link>https://jiaoshoo.com/pages/characters/ye3_也.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/ye3_也.html</guid>
       <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
       <description>A pictograph that lost its original image entirely and became one of the most load-bearing particles in classical Chinese: the gavel at the end of every verdict.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>以 · by means of; using; because; in order to</title>
+      <link>https://jiaoshoo.com/pages/characters/yi3_以.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/yi3_以.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>A classical Chinese preposition and conjunction so versatile that it anchors half the grammar of formal Chinese: the word that turns one thing into the means, standard, or cause of another.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>义 · righteousness, duty, justice</title>
+      <link>https://jiaoshoo.com/pages/characters/yi4_义.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/yi4_义.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>The Confucian virtue of doing what is morally right, and the simplification that erased a sheep, a self, and the entire picture of what righteous form looks like.</description>
       <category>characters</category>
     </item>
     <item>
@@ -120,11 +160,43 @@
       <category>characters</category>
     </item>
     <item>
+      <title>字 · character, written word</title>
+      <link>https://jiaoshoo.com/pages/characters/zi4_字.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/zi4_字.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>The character that names itself, and the whole system of 汉字.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>语言 · The Language</title>
+      <link>https://jiaoshoo.com/pages/families/language.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/families/language.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Characters, vocabulary, grammar. The building blocks of written and spoken Chinese.</description>
+      <category>families</category>
+    </item>
+    <item>
+      <title>的 · 得 · 地 · the three de&apos;s</title>
+      <link>https://jiaoshoo.com/pages/grammar/de_的得地.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/grammar/de_的得地.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Attribution, result complement, and adverbial marker: distinguished once and for all.</description>
+      <category>grammar</category>
+    </item>
+    <item>
       <title>了 · the perfective particle</title>
       <link>https://jiaoshoo.com/pages/grammar/le_了.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/grammar/le_了.html</guid>
       <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
       <description>Perfective aspect vs. change-of-state: the single most-confused particle.</description>
+      <category>grammar</category>
+    </item>
+    <item>
+      <title>所 · classical nominalizer and passive marker</title>
+      <link>https://jiaoshoo.com/pages/grammar/suo_所.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/grammar/suo_所.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>The function word that turns verbs into noun phrases, and has been doing so since Confucius quoted it in the Analects.</description>
       <category>grammar</category>
     </item>
     <item>
@@ -136,116 +208,44 @@
       <category>grammar</category>
     </item>
     <item>
+      <title>者 · classical nominalizer &quot;the one who; that which&quot;</title>
+      <link>https://jiaoshoo.com/pages/grammar/zhi_者.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/grammar/zhi_者.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>The particle that turns a verb or adjective into a person, and that never stopped working.</description>
+      <category>grammar</category>
+    </item>
+    <item>
+      <title>科举 · The Imperial Examination System</title>
+      <link>https://jiaoshoo.com/pages/history/topic_keju.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/history/topic_keju.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>The exam that governed Chinese civilization for 1,300 years: selecting officials by merit, enshrining the Confucian canon, and shaping every dynasty from the Sui through the Qing.</description>
+      <category>history</category>
+    </item>
+    <item>
+      <title>周朝 · The Zhou Dynasty</title>
+      <link>https://jiaoshoo.com/pages/history/topic_zhoudai.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/history/topic_zhoudai.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>The longest dynasty in Chinese history and the philosophical seedbed of Chinese civilization: where the Mandate of Heaven was born, Confucius lived, and nearly every idea that shaped imperial China was first argued.</description>
+      <category>history</category>
+    </item>
+    <item>
+      <title>孔子 · Confucius</title>
+      <link>https://jiaoshoo.com/pages/philosophy/topic_kongzi.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/philosophy/topic_kongzi.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>His life, the Analects 论语, and the civilization he shaped.</description>
+      <category>philosophy</category>
+    </item>
+    <item>
       <title>理学 · Neo-Confucianism</title>
       <link>https://jiaoshoo.com/pages/philosophy/topic_lixue.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/philosophy/topic_lixue.html</guid>
       <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
       <description>Zhu Xi, the Great Ultimate 太极, and the Song-Ming synthesis.</description>
       <category>philosophy</category>
-    </item>
-    <item>
-      <title>荀子 · Xunzi</title>
-      <link>https://jiaoshoo.com/pages/philosophy/topic_xunzi.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/philosophy/topic_xunzi.html</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
-      <description>Human nature as bad: ritual and education as correction.</description>
-      <category>philosophy</category>
-    </item>
-    <item>
-      <title>王阳明 · Wang Yangming and the School of Mind</title>
-      <link>https://jiaoshoo.com/pages/philosophy/topic_yangming.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/philosophy/topic_yangming.html</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
-      <description>Wang Yangming broke Neo-Confucianism open: instead of investigating external things to reach moral truth, he turned inward and declared that the moral mind already knows, and that knowing and acting are one indivisible movement.</description>
-      <category>philosophy</category>
-    </item>
-    <item>
-      <title>庄子 · Zhuangzi</title>
-      <link>https://jiaoshoo.com/pages/philosophy/topic_zhuangzi.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/philosophy/topic_zhuangzi.html</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
-      <description>The butterfly dream, Cook Ding, and Daoist freedom from convention.</description>
-      <category>philosophy</category>
-    </item>
-    <item>
-      <title>城隍 · The City God</title>
-      <link>https://jiaoshoo.com/pages/religion/topic_chenghuang.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/religion/topic_chenghuang.html</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
-      <description>Every Chinese city had a City God who served as its divine magistrate, managing the dead and the living with the same bureaucratic precision as any imperial official.</description>
-      <category>religion</category>
-    </item>
-    <item>
-      <title>历史 · history</title>
-      <link>https://jiaoshoo.com/pages/vocab/lishi_历史.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/lishi_历史.html</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
-      <description>The character for historian shows a hand holding a brush over a vessel: in ancient China, the scribe who held the brush held power.</description>
-      <category>vocab</category>
-    </item>
-    <item>
-      <title>轮回 · samsara; the cycle of rebirth</title>
-      <link>https://jiaoshoo.com/pages/vocab/lunhui_轮回.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/lunhui_轮回.html</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
-      <description>The Buddhist karmic wheel that turns through six realms of existence: the foundational concept that motivates all Buddhist practice as a path toward liberation.</description>
-      <category>vocab</category>
-    </item>
-    <item>
-      <title>缘分 · karmic connection</title>
-      <link>https://jiaoshoo.com/pages/vocab/yuanfen_缘分.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/yuanfen_缘分.html</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
-      <description>Buddhist-rooted fate that ties strangers, lovers, and old friends.</description>
-      <category>vocab</category>
-    </item>
-    <item>
-      <title>八 · eight; the luckiest number and the eight trigrams</title>
-      <link>https://jiaoshoo.com/pages/characters/ba1_八.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/ba1_八.html</guid>
-      <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
-      <description>Eight is the most coveted number in modern China through its near-homophony with 发 fā (to prosper), and the classical foundation of the eight trigrams that structure the Yijing.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>黑 · black, darkness, and the illicit</title>
-      <link>https://jiaoshoo.com/pages/characters/hei1_黑.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/hei1_黑.html</guid>
-      <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
-      <description>Black on the surface, but the live sense is moral: the black market, the underworld, the hacker. The color that names everything that operates out of sight.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>很 · very; the empty intensifier</title>
-      <link>https://jiaoshoo.com/pages/characters/hen3_很.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/hen3_很.html</guid>
-      <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
-      <description>很 is the word for very, but its strangest job is doing nothing: Chinese needs a degree adverb before a plain adjective, and 很 fills that slot so quietly that 我很好 means simply I am fine, not I am very well.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>红 · red, the color of luck and celebration</title>
-      <link>https://jiaoshoo.com/pages/characters/hong2_红.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/hong2_红.html</guid>
-      <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
-      <description>The cultural keystone color: weddings, New Year, the red envelope, and a century of revolutionary politics all run through this one character.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>九 · nine; the imperial number and the highest of the yang</title>
-      <link>https://jiaoshoo.com/pages/characters/jiu3_九.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/jiu3_九.html</guid>
-      <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
-      <description>Nine is the largest single digit and the highest yang number, reserved for the emperor and the heavens: nine dragons, nine gates, the Nine-Five supreme position, the ninth heaven.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>两 · two (of); a pair; the tael, the other word for two</title>
-      <link>https://jiaoshoo.com/pages/characters/liang3_两.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/liang3_两.html</guid>
-      <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
-      <description>两 is the two used before measure words, the two of quantity and pairing, as opposed to 二 the two of counting and order, a distinction that is one of the first real puzzles a learner meets.</description>
-      <category>characters</category>
     </item>
   </channel>
 </rss>

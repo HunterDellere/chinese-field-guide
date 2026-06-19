@@ -10,7 +10,7 @@ tags:
   - 'writing'
   - 'language'
   - 'meta'
-updated: '2026-04-18'
+updated: '2026-06-19'
 char: '字'
 pinyin: 'zì'
 tone: 4
@@ -19,6 +19,13 @@ radical: '子'
 content_review: 'verified'
 content_sources:
   - 'Unihan'
+faq:
+  - q: "What are Chinese characters called in Mandarin?"
+    a: "Chinese characters are called 汉字 Hànzì, meaning \"Han characters,\" the proper name for the writing system. The word combines 汉 (the Han people) and 字 (character). In Japanese the same system is 漢字 kanji, and historically in Korean, 한자 hanja."
+  - q: "What are the four types of Chinese characters (汉字)?"
+    a: "The four formation types are 象形字 pictographs (日 月 山), 指事字 ideographs (上 下 本), 会意字 logical aggregates (明 = 日+月), and 形声字 semantic-phonetic compounds. The last type accounts for roughly 80% of all characters, hinting at both meaning and pronunciation."
+  - q: "What is the difference between 字典 and 词典?"
+    a: "A 字典 zìdiǎn is a character dictionary that defines individual characters (字), while a 词典 cídiǎn is a word dictionary defining multi-character words (词). For learners, the 词典 is the primary tool, since most Chinese vocabulary consists of two-character compounds."
 ---
 
 

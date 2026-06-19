@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://jiaoshoo.com/pages/pinyin/dao.html</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://jiaoshoo.com/pages/pinyin/ke.html</loc>
     <lastmod>2026-06-19</lastmod>
     <changefreq>monthly</changefreq>
@@ -19,13 +25,49 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://jiaoshoo.com/pages/pinyin/wei.html</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://jiaoshoo.com/pages/pinyin/xin.html</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://jiaoshoo.com/pages/pinyin/ye.html</loc>
     <lastmod>2026-06-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://jiaoshoo.com/pages/pinyin/yi.html</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://jiaoshoo.com/pages/pinyin/yu.html</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://jiaoshoo.com/pages/pinyin/zi.html</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://jiaoshoo.com/pages/pinyin/de.html</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://jiaoshoo.com/pages/pinyin/di.html</loc>
     <lastmod>2026-06-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -38,6 +80,24 @@
   </url>
   <url>
     <loc>https://jiaoshoo.com/pages/pinyin/shi.html</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://jiaoshoo.com/pages/pinyin/tian.html</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://jiaoshoo.com/pages/pinyin/ren.html</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://jiaoshoo.com/pages/pinyin/he.html</loc>
     <lastmod>2026-06-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -169,19 +229,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://jiaoshoo.com/pages/pinyin/di.html</loc>
-    <lastmod>2026-06-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://jiaoshoo.com/pages/pinyin/wang.html</loc>
-    <lastmod>2026-06-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://jiaoshoo.com/pages/pinyin/wei.html</loc>
     <lastmod>2026-06-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -194,12 +242,6 @@
   </url>
   <url>
     <loc>https://jiaoshoo.com/pages/pinyin/hou.html</loc>
-    <lastmod>2026-06-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://jiaoshoo.com/pages/pinyin/yi.html</loc>
     <lastmod>2026-06-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -271,12 +313,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://jiaoshoo.com/pages/pinyin/de.html</loc>
-    <lastmod>2026-06-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://jiaoshoo.com/pages/pinyin/wen.html</loc>
     <lastmod>2026-06-19</lastmod>
     <changefreq>monthly</changefreq>
@@ -284,12 +320,6 @@
   </url>
   <url>
     <loc>https://jiaoshoo.com/pages/pinyin/zhi.html</loc>
-    <lastmod>2026-06-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://jiaoshoo.com/pages/pinyin/dao.html</loc>
     <lastmod>2026-06-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -338,12 +368,6 @@
   </url>
   <url>
     <loc>https://jiaoshoo.com/pages/pinyin/jiao.html</loc>
-    <lastmod>2026-06-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://jiaoshoo.com/pages/pinyin/ren.html</loc>
     <lastmod>2026-06-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -422,12 +446,6 @@
   </url>
   <url>
     <loc>https://jiaoshoo.com/pages/pinyin/guan.html</loc>
-    <lastmod>2026-06-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://jiaoshoo.com/pages/pinyin/he.html</loc>
     <lastmod>2026-06-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -523,12 +541,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://jiaoshoo.com/pages/pinyin/xin.html</loc>
-    <lastmod>2026-06-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://jiaoshoo.com/pages/pinyin/yong.html</loc>
     <lastmod>2026-06-19</lastmod>
     <changefreq>monthly</changefreq>
@@ -548,12 +560,6 @@
   </url>
   <url>
     <loc>https://jiaoshoo.com/pages/pinyin/pin.html</loc>
-    <lastmod>2026-06-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://jiaoshoo.com/pages/pinyin/zi.html</loc>
     <lastmod>2026-06-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -584,12 +590,6 @@
   </url>
   <url>
     <loc>https://jiaoshoo.com/pages/pinyin/jia.html</loc>
-    <lastmod>2026-06-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://jiaoshoo.com/pages/pinyin/tian.html</loc>
     <lastmod>2026-06-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>

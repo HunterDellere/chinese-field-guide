@@ -11,10 +11,17 @@ tags:
   - 'confucius'
   - 'analects'
   - 'ethics'
-updated: '2026-04-18'
+updated: '2026-06-19'
 pinyin: 'kǒngzǐ'
 seo_title: 'Kǒngzǐ (孔子): who Confucius actually was'
 seo_desc: "Not a religion founder. A teacher who walked the back roads of warring kingdoms looking for one ruler who would listen. The man behind 2,500 years of influence."
+faq:
+  - q: "Who was Kongzi (Confucius)?"
+    a: "Kongzi 孔子 (Master Kong, 551-479 BCE) was a teacher born in the state of Lu in present-day Shandong. He failed at politics, wandering thirteen years seeking a ruler who would adopt government by virtue, yet his teachings later shaped Chinese civilization for over two thousand years."
+  - q: "What is the Analects (论语 Lunyu)?"
+    a: "The Analects 论语 Lunyu (\"collected sayings\") is the primary source for Confucius's thought, though he did not write it. His disciples compiled it after his death; the received text has twenty chapters containing roughly 499 passages of aphorisms, dialogues, and brief episodes."
+  - q: "What is a junzi (君子) in Confucian thought?"
+    a: "A junzi 君子 (\"noble person\") is the ethical ideal of the Analects. The term originally meant aristocratic birth, but Confucius redefined it morally: a junzi becomes noble through cultivating character, above all humaneness 仁 ren, not by lineage. In principle anyone could become one."
 ---
 
 

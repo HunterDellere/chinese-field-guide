@@ -11,8 +11,15 @@ tags:
   - 'particle'
   - 'complement'
   - 'adverb'
-updated: '2026-04-18'
+updated: '2026-06-19'
 pinyin: 'de / dé / dì'
+faq:
+  - q: "What is the difference between 的, 地, and 得?"
+    a: "All three are pronounced \"de\" but mark different positions. 的 goes before a noun for attribution or possession (漂亮的花); 得 follows a verb to introduce a degree or result complement (说得清楚); 地 sits before a verb after a manner adverb (慢慢地走)."
+  - q: "How do I know whether to write 的, 得, or 地?"
+    a: "Look at what comes next, since the rule is purely positional. If a noun follows, use 的. If a verb complement of degree, manner, or result follows, use 得. If the preceding word describes how a verb is done, use 地 before that verb."
+  - q: "Why are there three characters for the same \"de\" sound?"
+    a: "In fluent Mandarin all three collapse to one unstressed \"de,\" so the ear gives no guidance and only writing forces the distinction. The characters came from separate words: 的 meant \"bright,\" 得 meant \"to obtain,\" and 地 meant \"earth,\" each later grammaticalized into a particle."
 ---
 
 

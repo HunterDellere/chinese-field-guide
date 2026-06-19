@@ -140,6 +140,25 @@
     "updated": "2026-06-19"
   },
   {
+    "path": "pages/characters/dao4_道.html",
+    "type": "character",
+    "category": "characters",
+    "title": "道 · way, path",
+    "desc": "The word that gave Daoism its name, and underlies every Chinese 'ism'.",
+    "tags": [
+      "daoism",
+      "philosophy",
+      "path"
+    ],
+    "status": "complete",
+    "char": "道",
+    "pinyin": "dào",
+    "tone": 4,
+    "hsk": 3,
+    "radical": "辶",
+    "updated": "2026-06-19"
+  },
+  {
     "path": "pages/characters/ke3_可.html",
     "type": "character",
     "category": "characters",
@@ -200,6 +219,48 @@
     "updated": "2026-06-19"
   },
   {
+    "path": "pages/characters/wei2_为.html",
+    "type": "character",
+    "category": "characters",
+    "title": "为 · to do; to act; for; because of",
+    "desc": "In oracle bone script, a hand leading an elephant (to guide an immense force through skillful agency), and the character at the center of the Daoist concept of non-action.",
+    "tags": [
+      "grammar",
+      "classical",
+      "taoism",
+      "philosophy",
+      "daoism",
+      "wuwei",
+      "syntax"
+    ],
+    "status": "complete",
+    "char": "为",
+    "pinyin": "wéi",
+    "tone": 2,
+    "hsk": 2,
+    "radical": "丶",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/characters/xin1_心.html",
+    "type": "character",
+    "category": "characters",
+    "title": "心 · heart, mind",
+    "desc": "The radical at the root of all feeling, and the Chinese conception of thought itself.",
+    "tags": [
+      "radical",
+      "emotion",
+      "mind"
+    ],
+    "status": "complete",
+    "char": "心",
+    "pinyin": "xīn",
+    "tone": 1,
+    "hsk": 2,
+    "radical": "心",
+    "updated": "2026-06-19"
+  },
+  {
     "path": "pages/characters/ye3_也.html",
     "type": "character",
     "category": "characters",
@@ -218,6 +279,48 @@
     "tone": 3,
     "hsk": 1,
     "radical": "乙",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/characters/yi3_以.html",
+    "type": "character",
+    "category": "characters",
+    "title": "以 · by means of; using; because; in order to",
+    "desc": "A classical Chinese preposition and conjunction so versatile that it anchors half the grammar of formal Chinese: the word that turns one thing into the means, standard, or cause of another.",
+    "tags": [
+      "grammar",
+      "classical",
+      "syntax",
+      "conjunction",
+      "particle",
+      "literary"
+    ],
+    "status": "complete",
+    "char": "以",
+    "pinyin": "yǐ",
+    "tone": 3,
+    "hsk": 2,
+    "radical": "人",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/characters/yi4_义.html",
+    "type": "character",
+    "category": "characters",
+    "title": "义 · righteousness, duty, justice",
+    "desc": "The Confucian virtue of doing what is morally right, and the simplification that erased a sheep, a self, and the entire picture of what righteous form looks like.",
+    "tags": [
+      "confucianism",
+      "ethics",
+      "virtue",
+      "philosophy"
+    ],
+    "status": "complete",
+    "char": "义",
+    "pinyin": "yì",
+    "tone": 4,
+    "hsk": 3,
+    "radical": "丶",
     "updated": "2026-06-19"
   },
   {
@@ -262,101 +365,22 @@
     "updated": "2026-06-19"
   },
   {
-    "path": "pages/grammar/le_了.html",
-    "type": "grammar",
-    "category": "grammar",
-    "title": "了 · the perfective particle",
-    "desc": "Perfective aspect vs. change-of-state: the single most-confused particle.",
+    "path": "pages/characters/zi4_字.html",
+    "type": "character",
+    "category": "characters",
+    "title": "字 · character, written word",
+    "desc": "The character that names itself, and the whole system of 汉字.",
     "tags": [
-      "aspect",
-      "particle",
-      "tense"
+      "writing",
+      "language",
+      "meta"
     ],
     "status": "complete",
-    "pinyin": "le",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/grammar/zhe_着.html",
-    "type": "grammar",
-    "category": "grammar",
-    "title": "着 · the continuous aspect marker",
-    "desc": "Three distinct jobs: holding a state, linking two actions, and commanding attention. All from a single particle that beginners collapse into one.",
-    "tags": [
-      "aspect",
-      "particle",
-      "grammar",
-      "syntax"
-    ],
-    "status": "complete",
-    "pinyin": "zhe",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/philosophy/topic_lixue.html",
-    "type": "topic",
-    "category": "philosophy",
-    "title": "理学 · Neo-Confucianism",
-    "desc": "Zhu Xi, the Great Ultimate 太极, and the Song-Ming synthesis.",
-    "tags": [
-      "neo-confucianism",
-      "zhuxi",
-      "principle"
-    ],
-    "status": "complete",
-    "pinyin": "lǐxué",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/philosophy/topic_xunzi.html",
-    "type": "topic",
-    "category": "philosophy",
-    "title": "荀子 · Xunzi",
-    "desc": "Human nature as bad: ritual and education as correction.",
-    "tags": [
-      "xunzi",
-      "ritual",
-      "human-nature"
-    ],
-    "status": "complete",
-    "pinyin": "xúnzǐ",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/philosophy/topic_yangming.html",
-    "type": "topic",
-    "category": "philosophy",
-    "title": "王阳明 · Wang Yangming and the School of Mind",
-    "desc": "Wang Yangming broke Neo-Confucianism open: instead of investigating external things to reach moral truth, he turned inward and declared that the moral mind already knows, and that knowing and acting are one indivisible movement.",
-    "tags": [
-      "wang-yangming",
-      "neo-confucianism",
-      "confucianism",
-      "philosophy",
-      "ethics",
-      "human-nature",
-      "knowing",
-      "mind",
-      "history",
-      "ming"
-    ],
-    "status": "complete",
-    "pinyin": "Wáng Yángmíng",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/philosophy/topic_zhuangzi.html",
-    "type": "topic",
-    "category": "philosophy",
-    "title": "庄子 · Zhuangzi",
-    "desc": "The butterfly dream, Cook Ding, and Daoist freedom from convention.",
-    "tags": [
-      "zhuangzi",
-      "freedom",
-      "daoist"
-    ],
-    "status": "complete",
-    "pinyin": "zhuāngzǐ",
+    "char": "字",
+    "pinyin": "zì",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "子",
     "updated": "2026-06-19"
   }
 ]

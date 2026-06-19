@@ -10,7 +10,7 @@ tags:
   - 'daoism'
   - 'philosophy'
   - 'path'
-updated: '2026-04-18'
+updated: '2026-06-19'
 char: '道'
 pinyin: 'dào'
 tone: 4
@@ -19,6 +19,13 @@ radical: '辶'
 content_review: 'verified'
 content_sources:
   - 'Unihan'
+faq:
+  - q: "What does 知道 (zhīdào) mean in Chinese?"
+    a: "知道 zhīdào means \"to know\" or \"to be aware of,\" and it literally reads as \"to know the way.\" It is among the highest-frequency verbs in spoken Mandarin, covering factual awareness and received news. 我知道了 wǒ zhīdào le means \"I see\" or \"Got it.\""
+  - q: "What is the pinyin and meaning of 道?"
+    a: "道 is pronounced dào (fourth tone, falling). Its base meaning is \"way\" or \"path,\" extending to principle, moral order, and \"the Way\" itself. It combines 辶 (the walk-movement radical) with 首 (head): a head moving purposefully along a path."
+  - q: "Why is 道 the character behind Daoism?"
+    a: "道 names Daoism because it opens Laozi's Dàodéjīng (道德经): 道可道，非常道, \"The Way that can be spoken is not the eternal Way.\" The religion 道教 Dàojiào and the philosophical school 道家 Dàojiā both built around this wordless Way of natural order."
 ---
 
 

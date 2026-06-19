@@ -11,8 +11,15 @@ tags:
   - 'ancestors'
   - 'ritual'
   - 'family'
-updated: '2026-04-18'
+updated: '2026-06-19'
 pinyin: 'zǔxiān chóngbài'
+faq:
+  - q: "What is Chinese ancestor veneration (祖先崇拜)?"
+    a: "Chinese ancestor veneration (祖先崇拜 zǔxiān chóngbài) is the ritual care of deceased family members, who are treated as present, active participants in family life. The dead receive offerings, incense, and prostrations, and retain influence over the living across generations. It predates Buddhism and Daoism in China."
+  - q: "How do families make offerings to ancestors?"
+    a: "Families practice 祭祖 jìzǔ, presenting food, incense, and goods before a spirit tablet (牌位 páiwèi) on the home altar. They bow or kowtow, leave the meal for the ancestor to take its spiritual essence, and burn spirit money (纸钱 zhǐqián). Major occasions include Lunar New Year and Qingming."
+  - q: "Why do Chinese people venerate their ancestors?"
+    a: "The Confucian virtue of 孝 xiào (filial piety) makes veneration a moral imperative, not just custom. Devotion to parents is the root of 仁 rén (humaneness), and that obligation continues after death. Caring for ancestors, the idiom 慎终追远 holds, cultivates moral seriousness in the living."
 ---
 
 

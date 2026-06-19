@@ -16,8 +16,15 @@ tags:
   - 'ritual'
   - 'philosophy'
   - 'bronze-age'
-updated: '2026-04-25'
+updated: '2026-06-19'
 pinyin: 'Zhōu cháo'
+faq:
+  - q: "What is the Mandate of Heaven, and how does it relate to the Zhou and the Warring States?"
+    a: "The Mandate of Heaven (天命 tiānmìng) is Heaven's grant of the right to rule to a virtuous king. The Duke of Zhou articulated it to justify the Zhou conquest of Shang in 1046 BCE. The Warring States were the late Eastern Zhou era when seven rival states fought as the dynasty became a ritual fiction."
+  - q: "Why was the Zhou the longest dynasty in Chinese history?"
+    a: "The Zhou lasted from 1046 to 256 BCE, longer than any other Chinese dynasty. It divides at 771 BCE into Western Zhou, when the king held real power from Haojing, and Eastern Zhou, when the court fled to Luoyi and ruled in name only through the Spring and Autumn and Warring States periods."
+  - q: "Who was the Duke of Zhou and why does Confucius matter to the Zhou?"
+    a: "The Duke of Zhou (周公旦 Zhōu Gōng Dàn) was King Wu's brother who served as regent, suppressed a rebellion, then returned power voluntarily. He systematized ritual and music (礼乐 lǐ yuè). Confucius revered him and spent his life trying to restore the Zhou cultural order the Duke had built."
 ---
 
 

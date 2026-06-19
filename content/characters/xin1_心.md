@@ -10,7 +10,7 @@ tags:
   - 'radical'
   - 'emotion'
   - 'mind'
-updated: '2026-04-18'
+updated: '2026-06-19'
 char: '心'
 pinyin: 'xīn'
 tone: 1
@@ -19,6 +19,13 @@ radical: '心'
 content_review: 'verified'
 content_sources:
   - 'Unihan'
+faq:
+  - q: "What is the Chinese character 心 (xīn)?"
+    a: "心 (xīn) means heart and mind, the classical Chinese organ of thought. It is a four-stroke pictograph of the human heart, with curved chambers and three drops of blood. In Chinese thought, 心 is the organ of both feeling and thinking, with no separate word for mind."
+  - q: "Why does 心 mean both heart and mind in Chinese?"
+    a: "In classical Chinese thought, 心 xīn is the single organ of both feeling and thinking; the heart thinks. Mencius stated 心之官则思 (the function of the heart is to think). There is no separate word for mind as distinct from heart, so the heart-mind divide of Western philosophy has no equivalent."
+  - q: "What does the 心 heart radical mean in characters?"
+    a: "The 心 radical marks characters involving emotion, thought, intention, or moral character. It takes two forms: 心 (4 strokes) at the bottom, as in 思, 想, 感, 忘; and the compressed 忄 (3 strokes) on the left, as in 情, 怕, 恨, 性. Spotting 忄 signals the territory of inner life."
 ---
 
 

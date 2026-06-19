@@ -11,7 +11,7 @@ tags:
   - 'ethics'
   - 'virtue'
   - 'philosophy'
-updated: '2026-04-22'
+updated: '2026-06-19'
 char: '义'
 pinyin: 'yì'
 tone: 4
@@ -19,6 +19,13 @@ hsk: 3
 radical: '丶'
 facts_verified: true
 content_review: 'pending'
+faq:
+  - q: "What is the Chinese character for righteousness?"
+    a: "义 yì is the Chinese character for righteousness, also meaning moral duty, justice, and rightness. It is one of the Five Confucian Constants (五常 wǔcháng), naming the virtue of correct action under moral pressure: doing what is right rather than what brings personal gain."
+  - q: "What idioms contain the character 义 meaning loyalty or righteousness?"
+    a: "Three chengyu featured here use 义: 义无反顾 yì wú fǎn gù (press forward without looking back because duty demands it), 见义勇为 jiàn yì yǒng wéi (see what is right and act with courage), and 大义凛然 dàyì lǐnrán (awe-inspiring moral authority that stays unshakeable against evil)."
+  - q: "What does the 义 in 义气 mean?"
+    a: "义气 yìqì means loyalty between friends or sworn brothers, the warmer interpersonal sense of 义: standing by your people when it costs you something. 讲义气 means honoring those bonds. It is the central value in 武侠 wǔxiá fiction, as in Water Margin (水浒传)."
 ---
 
 

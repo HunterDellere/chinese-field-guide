@@ -14,8 +14,15 @@ tags:
   - 'song'
   - 'ming'
   - 'qing'
-updated: '2026-04-19'
+updated: '2026-06-19'
 pinyin: 'kē jǔ'
+faq:
+  - q: "When did the Sui dynasty establish the imperial examination system (科举)?"
+    a: "The imperial examination system (科举 kējǔ) was founded in 605 CE under Emperor Yang of the Sui dynasty. It was systematized under the Tang, refined under the Song, and locked into its most rigid form under the Ming and Qing before being abolished in 1905."
+  - q: "What were the degrees you earned after passing the imperial examination?"
+    a: "Each level conferred a named degree: passing the local 童试 earned 秀才 xiùcai, the provincial 乡试 earned 举人 jǔrén, and the metropolitan 会试 plus palace 殿试 earned 进士 jìnshì. The top palace scorer was titled 状元 zhuàngyuán."
+  - q: "What is a 状元 (zhuàngyuán) in the imperial exam system?"
+    a: "A 状元 zhuàngyuán was the top scorer in the palace examination (殿试), the single most prestigious academic title in the Chinese tradition. Produced roughly every three years, a 状元 was appointed directly to the Hanlin Academy and celebrated with a public procession through the capital."
 ---
 
 

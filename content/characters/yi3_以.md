@@ -19,7 +19,14 @@ tags:
   - 'conjunction'
   - 'particle'
   - 'literary'
-updated: '2026-04-25'
+updated: '2026-06-19'
+faq:
+  - q: "What does 所以 (suǒyǐ) mean in Chinese?"
+    a: "所以 (suǒyǐ) means \"therefore, so, that is why,\" the most common consequential conjunction in modern Chinese. It combines 所 (that which) and 以 (the means or reason by which), and follows a cause clause often introduced by 因为: 因为下雨，所以我没去 (because it rained, so I did not go)."
+  - q: "What does 以 (yǐ) mean in Chinese?"
+    a: "以 (yǐ) means \"by means of, using, because, in order to.\" It is a classical preposition and conjunction: with a noun it marks the instrument (以刀切, cut with a knife); with a verb phrase it marks purpose (以防, in order to guard against). The root sense is to use or employ."
+  - q: "What is the difference between 以为 and 认为?"
+    a: "以为 (yǐwéi) usually implies the belief turned out wrong: \"I thought, but I was mistaken.\" 认为 (rènwéi) is neutral, meaning \"I think, I consider, I am of the view that,\" with no suggestion of error. Use 认为 for genuine opinions and 以为 for assumptions that proved incorrect."
 ---
 
 

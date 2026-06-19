@@ -11,7 +11,14 @@ metaDesc: "All character entries, vocabulary entries, and grammar entries on Ji�
 tags: ["meta"]
 content_review: pending
 content_sources: []
-updated: "2026-04-25"
+updated: '2026-06-19'
+faq:
+  - q: "Where can I browse Chinese characters, vocabulary, and grammar in one place?"
+    a: "This is the Language family index (语言 yǔyán) on Jiǎoluò Shūwū. It gathers every character entry, vocabulary entry, and grammar entry into three browsable categories: Characters (字), Vocabulary (词), and Grammar (法). Each entry stands on its own, readable in any order."
+  - q: "What does the Language family page contain?"
+    a: "The Language family contains three categories that form the building blocks of written and spoken Chinese: Characters (字), Vocabulary (词), and Grammar (法). You can scan each category for what you need; every entry is self-contained, so you can read them in any order."
+  - q: "How do I find a character when I know the pinyin but not the glyph?"
+    a: "Use the Browse by pinyin index linked from this page. It lists every distinct reading on the site, which helps when you have the sound but not the character. Otherwise, browse the Characters, Vocabulary, and Grammar categories directly from the Language family page."
 ---
 
 <div class="shell">
