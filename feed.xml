@@ -6,7 +6,31 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A reading nook for Chinese language and civilisation. Characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Jun 2026 22:26:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 17:32:58 GMT</lastBuildDate>
+    <item>
+      <title>山 · mountain, hill, sacred peak</title>
+      <link>https://jiaoshoo.com/pages/characters/shan1_山.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/shan1_山.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Three peaks rising from the earth: the oldest pictograph and the axis of Chinese sacred geography.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>也 · also; too; classical particle</title>
+      <link>https://jiaoshoo.com/pages/characters/ye3_也.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/ye3_也.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>A pictograph that lost its original image entirely and became one of the most load-bearing particles in classical Chinese: the gavel at the end of every verdict.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>轮回 · samsara; the cycle of rebirth</title>
+      <link>https://jiaoshoo.com/pages/vocab/lunhui_轮回.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/lunhui_轮回.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>The Buddhist karmic wheel that turns through six realms of existence: the foundational concept that motivates all Buddhist practice as a path toward liberation.</description>
+      <category>vocab</category>
+    </item>
     <item>
       <title>八 · eight; the luckiest number and the eight trigrams</title>
       <link>https://jiaoshoo.com/pages/characters/ba1_八.html</link>
@@ -221,30 +245,6 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/grammar/li_离.html</guid>
       <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
       <description>The coverb for distance and separation: the A 离 B + distance pattern for &quot;how far&quot;, the verb sense &quot;to leave / part from&quot;, and how 离 differs from 从 and 到 in marking space and time.</description>
-      <category>grammar</category>
-    </item>
-    <item>
-      <title>往 · toward; to head for</title>
-      <link>https://jiaoshoo.com/pages/grammar/wang_往.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/grammar/wang_往.html</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
-      <description>The directional coverb for &quot;toward&quot;, the 往 + direction + verb pattern, the verb sense &quot;to go / in the past&quot;, and how 往 differs from 向 and 朝 for facing and motion.</description>
-      <category>grammar</category>
-    </item>
-    <item>
-      <title>为什么 · why</title>
-      <link>https://jiaoshoo.com/pages/grammar/weishenme_为什么.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/grammar/weishenme_为什么.html</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
-      <description>The neutral question word for cause and reason, how to answer it with 因为 or 为了, and how a plain 为什么 differs from the surprised 怎么 and the purpose-asking 为了什么.</description>
-      <category>grammar</category>
-    </item>
-    <item>
-      <title>怎么 · how, in what way; why</title>
-      <link>https://jiaoshoo.com/pages/grammar/zenme_怎么.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/grammar/zenme_怎么.html</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
-      <description>The all-purpose question word for manner and reason: how to do something, what is wrong, and the surprised &quot;how come,&quot; plus how 怎么 differs from 为什么 and 怎么样.</description>
       <category>grammar</category>
     </item>
   </channel>

@@ -18,7 +18,14 @@ tags:
   - 'classical'
   - 'fate'
   - 'life'
-updated: '2026-04-25'
+updated: '2026-06-19'
+faq:
+  - q: "What does 轮回 (lúnhuí) mean in English?"
+    a: "轮回 lúnhuí means samsara: the Buddhist cycle of death and rebirth. The two characters literally read 'wheel' (轮) and 'return' (回), so the word pictures existence as a turning wheel that carries beings through repeated lifetimes until they break free."
+  - q: "How do you say samsara in Chinese?"
+    a: "Samsara is 轮回, pronounced lúnhuí (second tone, then second tone). It is the standard term in Chinese Buddhism for the cycle of rebirth, and it also appears in everyday speech for something that endlessly repeats."
+  - q: "What are the six realms of 轮回?"
+    a: "The six realms (六道 liùdào) into which beings are reborn are the gods (天 tiān), demigods or asuras (阿修罗), humans (人), animals (畜生), hungry ghosts (饿鬼), and hell-beings (地狱). Where one is reborn is decided by karma (业 yè), the moral weight of past actions."
 ---
 
 

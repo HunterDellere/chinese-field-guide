@@ -2,21 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://jiaoshoo.com/</loc>
-    <lastmod>2026-06-07</lastmod>
+    <lastmod>2026-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://jiaoshoo.com/pages/today/</loc>
-    <lastmod>2026-06-07</lastmod>
+    <lastmod>2026-06-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://jiaoshoo.com/pages/exports/</loc>
-    <lastmod>2026-06-07</lastmod>
+    <lastmod>2026-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jiaoshoo.com/pages/characters/shan1_%E5%B1%B1.html</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jiaoshoo.com/pages/characters/ye3_%E4%B9%9F.html</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jiaoshoo.com/pages/vocab/lunhui_%E8%BD%AE%E5%9B%9E.html</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://jiaoshoo.com/pages/characters/ba1_%E5%85%AB.html</loc>
@@ -967,12 +985,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://jiaoshoo.com/pages/characters/ye3_%E4%B9%9F.html</loc>
-    <lastmod>2026-04-25</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://jiaoshoo.com/pages/characters/yi1_%E4%B8%80.html</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>monthly</changefreq>
@@ -1244,12 +1256,6 @@
   </url>
   <url>
     <loc>https://jiaoshoo.com/pages/vocab/lishi_%E5%8E%86%E5%8F%B2.html</loc>
-    <lastmod>2026-04-25</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://jiaoshoo.com/pages/vocab/lunhui_%E8%BD%AE%E5%9B%9E.html</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1796,12 +1802,6 @@
   </url>
   <url>
     <loc>https://jiaoshoo.com/pages/characters/se4_%E8%89%B2.html</loc>
-    <lastmod>2026-04-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://jiaoshoo.com/pages/characters/shan1_%E5%B1%B1.html</loc>
     <lastmod>2026-04-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>

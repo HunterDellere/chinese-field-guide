@@ -10,7 +10,7 @@ tags:
   - 'nature'
   - 'geography'
   - 'sacred'
-updated: '2026-04-19'
+updated: '2026-06-19'
 char: '山'
 pinyin: 'shān'
 tone: 1
@@ -19,6 +19,13 @@ radical: '山'
 content_review: 'verified'
 content_sources:
   - 'Unihan'
+faq:
+  - q: "How many peaks does the character 山 have?"
+    a: "The character 山 shows three peaks, with the central peak the tallest. It is one of the oldest Chinese pictographs, a direct drawing of a mountain range: three vertical strokes rising from a baseline, the middle one highest."
+  - q: "What does 山 (shān) mean?"
+    a: "山 shān means 'mountain' or 'hill'. It is also a radical that appears in many characters connected to terrain and height, such as 岛 (island) and 峰 (peak)."
+  - q: "How is 山 written and pronounced?"
+    a: "山 is written with three strokes and pronounced shān, first tone (a high, level tone). It is one of the first characters Chinese learners meet because of its simple shape and high frequency."
 ---
 
 

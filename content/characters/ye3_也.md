@@ -19,7 +19,14 @@ tags:
   - 'classical'
   - 'syntax'
   - 'adverb'
-updated: '2026-04-25'
+updated: '2026-06-19'
+faq:
+  - q: "How is 也 pronounced in pinyin?"
+    a: "也 is pronounced yě in pinyin, with the third tone (a dipping tone that falls then rises). The bare-syllable spelling is 'ye'. It rhymes roughly with the English word 'yeah' said slowly."
+  - q: "What does 也 (yě) mean?"
+    a: "In modern Mandarin 也 yě means 'also, too, as well, either'. It goes before the verb: 我也去 means 'I am going too'. In classical Chinese it is a sentence-final particle that closes a definition or judgment, as in the pattern A 者, B 也 ('A is B')."
+  - q: "How do you use 也 to say 'me too' in Chinese?"
+    a: "Put 也 directly before the verb, not at the end as in English. 我也是 (wǒ yě shì) means 'me too / I am as well', and 我也喜欢 (wǒ yě xǐhuān) means 'I like it too'. 也 always sits between the subject and the verb."
 ---
 
 

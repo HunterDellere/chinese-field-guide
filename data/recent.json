@@ -1,5 +1,64 @@
 [
   {
+    "path": "pages/characters/shan1_山.html",
+    "type": "character",
+    "category": "characters",
+    "title": "山 · mountain, hill, sacred peak",
+    "desc": "Three peaks rising from the earth: the oldest pictograph and the axis of Chinese sacred geography.",
+    "tags": [
+      "nature",
+      "geography",
+      "sacred"
+    ],
+    "status": "complete",
+    "char": "山",
+    "pinyin": "shān",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "山",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/characters/ye3_也.html",
+    "type": "character",
+    "category": "characters",
+    "title": "也 · also; too; classical particle",
+    "desc": "A pictograph that lost its original image entirely and became one of the most load-bearing particles in classical Chinese: the gavel at the end of every verdict.",
+    "tags": [
+      "grammar",
+      "particle",
+      "classical",
+      "syntax",
+      "adverb"
+    ],
+    "status": "complete",
+    "char": "也",
+    "pinyin": "yě",
+    "tone": 3,
+    "hsk": 1,
+    "radical": "乙",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/vocab/lunhui_轮回.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "轮回 · samsara; the cycle of rebirth",
+    "desc": "The Buddhist karmic wheel that turns through six realms of existence: the foundational concept that motivates all Buddhist practice as a path toward liberation.",
+    "tags": [
+      "buddhism",
+      "religion",
+      "philosophy",
+      "cosmology",
+      "classical",
+      "fate",
+      "life"
+    ],
+    "status": "complete",
+    "pinyin": "lúnhuí",
+    "updated": "2026-06-19"
+  },
+  {
     "path": "pages/characters/ba1_八.html",
     "type": "character",
     "category": "characters",
@@ -322,64 +381,6 @@
     "tone": 1,
     "hsk": 4,
     "radical": "阝",
-    "updated": "2026-06-07"
-  },
-  {
-    "path": "pages/characters/zui4_最.html",
-    "type": "character",
-    "category": "characters",
-    "title": "最 · most; the superlative marker",
-    "desc": "最 is the single word that pushes any adjective to its limit: the -est of English, the most of comparison, the marker that turns 好 into 最好 and 后 into 最后.",
-    "tags": [
-      "grammar",
-      "daily-life",
-      "language"
-    ],
-    "status": "complete",
-    "char": "最",
-    "pinyin": "zuì",
-    "tone": 4,
-    "hsk": 2,
-    "radical": "曰",
-    "updated": "2026-06-07"
-  },
-  {
-    "path": "pages/characters/zuo4_做.html",
-    "type": "character",
-    "category": "characters",
-    "title": "做 · to do, to make, to act as",
-    "desc": "做 is the everyday verb for doing and making, a late character built to carry the work that 作 had grown too literary to do, and the two still split the labor between them.",
-    "tags": [
-      "daily-life",
-      "grammar",
-      "social"
-    ],
-    "status": "complete",
-    "char": "做",
-    "pinyin": "zuò",
-    "tone": 4,
-    "hsk": 1,
-    "radical": "亻",
-    "updated": "2026-06-07"
-  },
-  {
-    "path": "pages/history/topic_caocao.html",
-    "type": "topic",
-    "category": "history",
-    "title": "曹操 · The Warlord-Poet",
-    "desc": "The man who held the dying Han together by force, wrote some of the finest poetry in the language, and became Chinese literature's most magnificent villain.",
-    "tags": [
-      "history",
-      "han",
-      "biography",
-      "warlord",
-      "poet",
-      "poetry",
-      "statecraft",
-      "strategy"
-    ],
-    "status": "complete",
-    "pinyin": "cáo cāo",
     "updated": "2026-06-07"
   }
 ]

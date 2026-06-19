@@ -1,5 +1,64 @@
 [
   {
+    "path": "pages/characters/shan1_山.html",
+    "type": "character",
+    "category": "characters",
+    "title": "山 · mountain, hill, sacred peak",
+    "desc": "Three peaks rising from the earth: the oldest pictograph and the axis of Chinese sacred geography.",
+    "tags": [
+      "nature",
+      "geography",
+      "sacred"
+    ],
+    "status": "complete",
+    "char": "山",
+    "pinyin": "shān",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "山",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/characters/ye3_也.html",
+    "type": "character",
+    "category": "characters",
+    "title": "也 · also; too; classical particle",
+    "desc": "A pictograph that lost its original image entirely and became one of the most load-bearing particles in classical Chinese: the gavel at the end of every verdict.",
+    "tags": [
+      "grammar",
+      "particle",
+      "classical",
+      "syntax",
+      "adverb"
+    ],
+    "status": "complete",
+    "char": "也",
+    "pinyin": "yě",
+    "tone": 3,
+    "hsk": 1,
+    "radical": "乙",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/vocab/lunhui_轮回.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "轮回 · samsara; the cycle of rebirth",
+    "desc": "The Buddhist karmic wheel that turns through six realms of existence: the foundational concept that motivates all Buddhist practice as a path toward liberation.",
+    "tags": [
+      "buddhism",
+      "religion",
+      "philosophy",
+      "cosmology",
+      "classical",
+      "fate",
+      "life"
+    ],
+    "status": "complete",
+    "pinyin": "lúnhuí",
+    "updated": "2026-06-19"
+  },
+  {
     "path": "pages/characters/ba1_八.html",
     "type": "character",
     "category": "characters",
@@ -2925,27 +2984,6 @@
     "updated": "2026-04-25"
   },
   {
-    "path": "pages/characters/ye3_也.html",
-    "type": "character",
-    "category": "characters",
-    "title": "也 · also; too; classical particle",
-    "desc": "A pictograph that lost its original image entirely and became one of the most load-bearing particles in classical Chinese: the gavel at the end of every verdict.",
-    "tags": [
-      "grammar",
-      "particle",
-      "classical",
-      "syntax",
-      "adverb"
-    ],
-    "status": "complete",
-    "char": "也",
-    "pinyin": "yě",
-    "tone": 3,
-    "hsk": 1,
-    "radical": "乙",
-    "updated": "2026-04-25"
-  },
-  {
     "path": "pages/characters/yi1_一.html",
     "type": "character",
     "category": "characters",
@@ -3792,25 +3830,6 @@
     ],
     "status": "complete",
     "pinyin": "lìshǐ",
-    "updated": "2026-04-25"
-  },
-  {
-    "path": "pages/vocab/lunhui_轮回.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "轮回 · samsara; the cycle of rebirth",
-    "desc": "The Buddhist karmic wheel that turns through six realms of existence: the foundational concept that motivates all Buddhist practice as a path toward liberation.",
-    "tags": [
-      "buddhism",
-      "religion",
-      "philosophy",
-      "cosmology",
-      "classical",
-      "fate",
-      "life"
-    ],
-    "status": "complete",
-    "pinyin": "lúnhuí",
     "updated": "2026-04-25"
   },
   {
@@ -5476,25 +5495,6 @@
     "tone": 4,
     "hsk": 2,
     "radical": "色",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/characters/shan1_山.html",
-    "type": "character",
-    "category": "characters",
-    "title": "山 · mountain, hill, sacred peak",
-    "desc": "Three peaks rising from the earth: the oldest pictograph and the axis of Chinese sacred geography.",
-    "tags": [
-      "nature",
-      "geography",
-      "sacred"
-    ],
-    "status": "complete",
-    "char": "山",
-    "pinyin": "shān",
-    "tone": 1,
-    "hsk": 1,
-    "radical": "山",
     "updated": "2026-04-19"
   },
   {

@@ -282,13 +282,34 @@ function buildMetaComment(fm) {
   return JSON.stringify(obj);
 }
 
+// Strip tone diacritics to the bare-ASCII syllable searchers actually type
+// ("xīn" → "xin", "yě" → "ye"). Mirrors the normalization in
+// augment.mjs:injectPinyinIndexChip so title and pinyin-index agree.
+function tonelessPinyin(pinyin) {
+  return String(pinyin || '')
+    .replace(/[āáǎà]/g, 'a').replace(/[ēéěè]/g, 'e').replace(/[īíǐì]/g, 'i')
+    .replace(/[ōóǒò]/g, 'o').replace(/[ūúǔù]/g, 'u').replace(/[ǖǘǚǜü]/g, 'u')
+    .toLowerCase().replace(/[^a-z ]/g, '').trim();
+}
+
 function buildPageTitle(fm) {
   // Hand-tuned SERP titles take priority for top-impression pages. These are
   // written to lead with the searched form (usually pinyin in romanized form)
   // and carry a concrete hook, since the SERP audience is overwhelmingly
   // English-reading and skips CJK-leading titles.
   if (fm.seo_title) return fm.seo_title;
-  if (fm.type === 'character') return `${fm.char} ${fm.pinyin}`;
+  if (fm.type === 'character') {
+    // Lead with the bare-ASCII pinyin (the token English searchers type), keep
+    // the glyph as a parenthetical for relevance, then append the gloss and a
+    // natural "in Chinese" tail that matches the dominant query shape
+    // ("samsara in chinese", "ye pinyin"). appendGloss is a no-op here because
+    // this string already contains "(" and "—".
+    const ascii = tonelessPinyin(fm.pinyin);
+    const gloss = extractEnglishGloss(fm);
+    const lead = ascii ? `${ascii} (${fm.char})` : `${fm.char} ${fm.pinyin}`;
+    if (gloss) return `${lead} — ${gloss} in Chinese`;
+    return lead;
+  }
   if (fm.type === 'hub' && fm.title) return fm.title.split('—')[0].trim();
   if (fm.title) return fm.title.split('·')[0].trim();
   return fm.title || '';
@@ -474,7 +495,13 @@ function injectTopicHeroEn(body, fm) {
 function renderPage(fm, body, slug, category, prevNext) {
   const filename = `${slug}.html`;
   const metaComment = buildMetaComment(fm);
-  const rawTitle = fm.seo_title || fm.pageTitle || buildPageTitle(fm);
+  // Character pageTitles are a uniform build artifact ("字 pīnyīn") with no
+  // gloss and a CJK-leading form English searchers skip. For characters, prefer
+  // the ASCII-pinyin-leading buildPageTitle() unless a hand-tuned seo_title
+  // exists. Other types keep their authored pageTitle.
+  const rawTitle = fm.type === 'character'
+    ? (fm.seo_title || buildPageTitle(fm))
+    : (fm.seo_title || fm.pageTitle || buildPageTitle(fm));
   const needsGloss = fm.type === 'character' || fm.type === 'vocab' || fm.type === 'grammar' || fm.type === 'topic';
   const pageTitle = needsGloss ? appendGloss(rawTitle, fm) : rawTitle;
   const metaDesc = fm.seo_desc || fm.metaDesc || fm.desc || '';
