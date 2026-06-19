@@ -1,5 +1,42 @@
 [
   {
+    "path": "pages/arts/topic_shufa_styles.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "书法风格 · The Five Scripts of Chinese Calligraphy",
+    "desc": "Five script styles chart two thousand years of Chinese writing, from the solemn bronze inscriptions of the Zhou to the explosive cursive of the Tang masters.",
+    "tags": [
+      "calligraphy",
+      "arts",
+      "writing",
+      "classical",
+      "history",
+      "aesthetics",
+      "culture"
+    ],
+    "status": "complete",
+    "pinyin": "shūfǎ fēnggé",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/arts/topic_songci.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "宋词 · Song Dynasty Lyric",
+    "desc": "The poem that sings: fixed tune patterns, named meters, and three masters who defined what the Chinese lyric could feel.",
+    "tags": [
+      "poetry",
+      "literature",
+      "classical",
+      "song",
+      "history",
+      "culture"
+    ],
+    "status": "complete",
+    "pinyin": "sòngcí",
+    "updated": "2026-06-19"
+  },
+  {
     "path": "pages/arts/topic_tangshi.html",
     "type": "topic",
     "category": "arts",
@@ -332,44 +369,6 @@
     "tone": 4,
     "hsk": 1,
     "radical": "囗",
-    "updated": "2026-06-07"
-  },
-  {
-    "path": "pages/characters/ta1_它.html",
-    "type": "character",
-    "category": "characters",
-    "title": "它 · it; the non-human third person",
-    "desc": "它 began as a picture of a snake and once meant other; in the twentieth century it was reassigned to the non-human third person, completing the homophonous 他/她/它 triad that exists only in writing.",
-    "tags": [
-      "grammar",
-      "language",
-      "modern"
-    ],
-    "status": "complete",
-    "char": "它",
-    "pinyin": "tā",
-    "tone": 1,
-    "hsk": 2,
-    "radical": "宀",
-    "updated": "2026-06-07"
-  },
-  {
-    "path": "pages/characters/wan2_完.html",
-    "type": "character",
-    "category": "characters",
-    "title": "完 · to finish; to be whole",
-    "desc": "完 means both whole and finished, and the bridge between them is intact completeness; its most important job is as a result complement, the 完 that ends 吃完, 做完, and 看完.",
-    "tags": [
-      "grammar",
-      "daily-life",
-      "language"
-    ],
-    "status": "complete",
-    "char": "完",
-    "pinyin": "wán",
-    "tone": 2,
-    "hsk": 2,
-    "radical": "宀",
     "updated": "2026-06-07"
   }
 ]

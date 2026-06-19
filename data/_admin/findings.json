@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-19T18:01:34.151Z",
+  "generated": "2026-06-19T18:43:24.875Z",
   "summary": {
     "errors": 0,
     "warnings": 1,
@@ -3077,6 +3077,20 @@
     {
       "level": "INFO",
       "category": "seo",
+      "file": "content/arts/topic_shufa_styles.md",
+      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
+      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/arts/topic_songci.md",
+      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
+      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
       "file": "content/grammar/le_了.md",
       "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
       "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
@@ -3519,13 +3533,6 @@
       "level": "INFO",
       "category": "seo",
       "file": "content/arts/topic_jingju_roles.md",
-      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
-      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
-    },
-    {
-      "level": "INFO",
-      "category": "seo",
-      "file": "content/arts/topic_shufa_styles.md",
       "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
       "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
     },
@@ -4037,13 +4044,6 @@
       "level": "INFO",
       "category": "seo",
       "file": "content/arts/topic_shuimohua.md",
-      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
-      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
-    },
-    {
-      "level": "INFO",
-      "category": "seo",
-      "file": "content/arts/topic_songci.md",
       "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
       "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
     },
@@ -5219,6 +5219,20 @@
     {
       "level": "INFO",
       "category": "seo",
+      "file": "content/arts/topic_shufa_styles.md",
+      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
+      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/arts/topic_songci.md",
+      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
+      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
       "file": "content/grammar/le_了.md",
       "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
       "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
@@ -5661,13 +5675,6 @@
       "level": "INFO",
       "category": "seo",
       "file": "content/arts/topic_jingju_roles.md",
-      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
-      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
-    },
-    {
-      "level": "INFO",
-      "category": "seo",
-      "file": "content/arts/topic_shufa_styles.md",
       "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
       "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
     },
@@ -6179,13 +6186,6 @@
       "level": "INFO",
       "category": "seo",
       "file": "content/arts/topic_shuimohua.md",
-      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
-      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
-    },
-    {
-      "level": "INFO",
-      "category": "seo",
-      "file": "content/arts/topic_songci.md",
       "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
       "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
     },

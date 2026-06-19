@@ -16,7 +16,14 @@ tags:
   - 'history'
   - 'aesthetics'
   - 'culture'
-updated: '2026-04-26'
+updated: '2026-06-19'
+faq:
+  - q: "What are the five scripts of Chinese calligraphy?"
+    a: "The five scripts are seal script (篆书 zhuànshū), clerical script (隶书 lìshū), standard or regular script (楷书 kǎishū), running script (行书 xíngshū), and cursive script (草书 cǎoshū). They developed roughly in that order over two thousand years, moving from the formal and pictographic toward the fluid and abstract."
+  - q: "What is the difference between running script and cursive script?"
+    a: "Running script (行书 xíngshū) is a semi-cursive hand: strokes are joined and flowing but each character stays legible, which makes it the everyday writing style. Cursive script (草书 cǎoshū) is far more abstract, with characters compressed into sweeping gestures that only trained readers can decode. Running script is for reading; cursive is closer to pure expressive art."
+  - q: "Which calligraphy script should a beginner learn first?"
+    a: "Standard script (楷书 kǎishū) is the usual starting point. Each stroke is written separately and clearly, so it teaches correct stroke order and proportion, and it is the script closest to printed type, so what you learn transfers directly to reading. Running and cursive are usually studied only after standard script is solid."
 ---
 
 <!DOCTYPE html>

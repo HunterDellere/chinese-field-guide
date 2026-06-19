@@ -1,5 +1,42 @@
 [
   {
+    "path": "pages/arts/topic_shufa_styles.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "书法风格 · The Five Scripts of Chinese Calligraphy",
+    "desc": "Five script styles chart two thousand years of Chinese writing, from the solemn bronze inscriptions of the Zhou to the explosive cursive of the Tang masters.",
+    "tags": [
+      "calligraphy",
+      "arts",
+      "writing",
+      "classical",
+      "history",
+      "aesthetics",
+      "culture"
+    ],
+    "status": "complete",
+    "pinyin": "shūfǎ fēnggé",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/arts/topic_songci.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "宋词 · Song Dynasty Lyric",
+    "desc": "The poem that sings: fixed tune patterns, named meters, and three masters who defined what the Chinese lyric could feel.",
+    "tags": [
+      "poetry",
+      "literature",
+      "classical",
+      "song",
+      "history",
+      "culture"
+    ],
+    "status": "complete",
+    "pinyin": "sòngcí",
+    "updated": "2026-06-19"
+  },
+  {
     "path": "pages/arts/topic_tangshi.html",
     "type": "topic",
     "category": "arts",
@@ -1800,25 +1837,6 @@
     ],
     "status": "complete",
     "pinyin": "shēng dàn jìng mò chǒu",
-    "updated": "2026-04-26"
-  },
-  {
-    "path": "pages/arts/topic_shufa_styles.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "书法风格 · The Five Scripts of Chinese Calligraphy",
-    "desc": "Five script styles chart two thousand years of Chinese writing, from the solemn bronze inscriptions of the Zhou to the explosive cursive of the Tang masters.",
-    "tags": [
-      "calligraphy",
-      "arts",
-      "writing",
-      "classical",
-      "history",
-      "aesthetics",
-      "culture"
-    ],
-    "status": "complete",
-    "pinyin": "shūfǎ fēnggé",
     "updated": "2026-04-26"
   },
   {
@@ -4878,24 +4896,6 @@
     ],
     "status": "complete",
     "pinyin": "shuǐmòhuà",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/arts/topic_songci.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "宋词 · Song Dynasty Lyric",
-    "desc": "The poem that sings: fixed tune patterns, named meters, and three masters who defined what the Chinese lyric could feel.",
-    "tags": [
-      "poetry",
-      "literature",
-      "classical",
-      "song",
-      "history",
-      "culture"
-    ],
-    "status": "complete",
-    "pinyin": "sòngcí",
     "updated": "2026-04-19"
   },
   {

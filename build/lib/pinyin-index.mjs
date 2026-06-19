@@ -277,6 +277,95 @@ ${items}
 `;
 }
 
+// Pull the English gloss out of an entry's title ("字 · gloss — extra" → "gloss").
+function entryGloss(e) {
+  if (e.title && e.title.includes('·')) {
+    const after = e.title.split('·').slice(1).join('·').trim();
+    return after.split('—')[0].trim();
+  }
+  return '';
+}
+
+// A compact "字 (pinyin) gloss" descriptor for one entry, used in prose + meta.
+function entryDescriptor(e) {
+  const gloss = entryGloss(e);
+  return gloss ? `${e.char} (${e.pinyin}, ${gloss})` : `${e.char} (${e.pinyin})`;
+}
+
+// SEO title that leads with the literal "<syllable> pinyin" query people type,
+// then names the characters. "qu pinyin: qù, qū and 2 more characters".
+function pinyinSeoTitle(syllable, group) {
+  const chars = group.entries.map(e => e.char);
+  const n = chars.length;
+  if (n === 0) return `${syllable} pinyin — Chinese characters`;
+  const shown = chars.slice(0, 3).join(' ');
+  const more = n > 3 ? ` and ${n - 3} more` : '';
+  return `${syllable} pinyin: ${shown}${more} — ${n} character${n === 1 ? '' : 's'}`;
+}
+
+// Unique, character-naming meta description (kills the boilerplate-duplicate
+// signal across 128 pages and gives Google liftable text).
+function pinyinMetaDesc(syllable, group) {
+  const n = group.entries.length;
+  if (n === 0) return `Chinese characters read ${syllable} in pinyin.`;
+  const list = group.entries.slice(0, 4).map(entryDescriptor).join('; ');
+  const tones = new Set(group.entries.map(e => e.tone ?? syllableTone(e.pinyin)));
+  const toneNote = tones.size > 1
+    ? `Spread across ${tones.size} tones, so the tone tells them apart.`
+    : '';
+  return `The ${n} Chinese character${n === 1 ? '' : 's'} read ${syllable} in pinyin: ${list}. ${toneNote}`.trim();
+}
+
+// FAQPage JSON-LD targeting the "<syllable> pinyin" / "how to write X" queries.
+function pinyinFaqJsonLd(syllable, group) {
+  const n = group.entries.length;
+  if (n === 0) return '';
+  const list = group.entries.slice(0, 6).map(entryDescriptor).join('; ');
+  const tones = new Set(group.entries.map(e => e.tone ?? syllableTone(e.pinyin)));
+  const qa = [
+    {
+      q: `What Chinese characters are pronounced ${syllable}?`,
+      a: `${n} character${n === 1 ? '' : 's'} on this site ${n === 1 ? 'is' : 'are'} read ${syllable}: ${list}. The tone mark and meaning tell them apart.`,
+    },
+    {
+      q: `How do you write ${syllable} in Chinese?`,
+      a: `It depends which ${syllable} you mean. ${group.entries.slice(0, 3).map(e => `${entryGloss(e) || 'a character'} is ${e.char} (${e.pinyin})`).join(', ')}. Pick the character by the tone and the meaning you intend.`,
+    },
+  ];
+  if (tones.size > 1) {
+    qa.push({
+      q: `What tone is ${syllable}?`,
+      a: `${syllable} appears in ${tones.size} different tones depending on the character, which is why the tone mark matters: ${group.entries.slice(0, 4).map(e => `${e.pinyin} (${e.char})`).join(', ')}.`,
+    });
+  }
+  const faq = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: qa.map(({ q, a }) => ({
+      '@type': 'Question',
+      name: q,
+      acceptedAnswer: { '@type': 'Answer', text: a },
+    })),
+  };
+  return `<script type="application/ld+json">${JSON.stringify(faq)}</script>`;
+}
+
+// Visible quick-answer intro paragraph for the page body. Named characters give
+// the page real, unique, rankable prose instead of a thin card list.
+function pinyinIntro(syllable, group) {
+  const n = group.entries.length;
+  if (n === 0) return '';
+  const list = group.entries.slice(0, 5).map(e => {
+    const gloss = entryGloss(e);
+    return `<strong lang="zh">${escapeHtml(e.char)}</strong> (${escapeHtml(e.pinyin)}${gloss ? `, ${escapeHtml(gloss)}` : ''})`;
+  }).join(', ');
+  const tones = new Set(group.entries.map(e => e.tone ?? syllableTone(e.pinyin)));
+  const toneSentence = tones.size > 1
+    ? ` They split across ${tones.size} tones, so the tone is what separates them.`
+    : '';
+  return `<p class="pinyin-intro">If you have the sound <em>${escapeHtml(syllable)}</em> but not the character, here are the ${n} character${n === 1 ? '' : 's'} read this way: ${list}.${toneSentence}</p>`;
+}
+
 function renderBody(syllable, group, allSyllables) {
   const characters = group.entries;
   const compounds = group.compounds;
@@ -356,6 +445,8 @@ ${compoundsToc}
       </div>
     </header>${characters.length === 0 ? '<!--EMPTY-->' : ''}
 
+    ${pinyinIntro(syllable, group)}
+
     ${toneSections}
 
     ${renderCompoundList(compounds, syllable)}
@@ -419,8 +510,8 @@ function renderJsonLd(syllable, group) {
 
 function renderOgTags(syllable, group) {
   const url = `${SITE_URL}/pages/pinyin/${syllable}.html`;
-  const title = `${syllable} — pinyin index`;
-  const desc = `Every character read as ${syllable} in any tone (${group.entries.length} reading${group.entries.length === 1 ? '' : 's'}).`;
+  const title = pinyinSeoTitle(syllable, group);
+  const desc = pinyinMetaDesc(syllable, group);
   return [
     `<meta property="og:type" content="website">`,
     `<meta property="og:title" content="${escapeHtml(title)}">`,
@@ -439,15 +530,16 @@ const FAVICON = "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F
 function renderPage(syllable, group, allSyllables) {
   const meta = { type: 'topic', category: 'pinyin', syllable, status: 'complete' };
   const metaComment = JSON.stringify(meta);
-  const title = `${syllable} — pinyin index`;
-  const desc = `Every Chinese character on Jiǎoluò Shūwū read as ${syllable} in any tone, plus compounds. ${group.entries.length} character reading${group.entries.length === 1 ? '' : 's'}.`;
+  const title = pinyinSeoTitle(syllable, group);
+  const desc = pinyinMetaDesc(syllable, group);
   const canonicalUrl = `${SITE_URL}/pages/pinyin/${syllable}.html`;
+  const faqJsonLd = pinyinFaqJsonLd(syllable, group);
 
   return LAYOUT
     .replace('{{{metaComment}}}', metaComment)
     .replace('{{{pageTitle}}}', title)
     .replace('{{{metaDesc}}}', desc)
-    .replace('{{{jsonLd}}}', renderJsonLd(syllable, group))
+    .replace('{{{jsonLd}}}', [renderJsonLd(syllable, group), faqJsonLd].filter(Boolean).join('\n'))
     .replace('{{{ogTags}}}', renderOgTags(syllable, group))
     .replace('{{{favicon}}}', FAVICON)
     .replace('{{{robotsMeta}}}', '')

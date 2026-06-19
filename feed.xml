@@ -6,7 +6,23 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A reading nook for Chinese language and civilisation. Characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Jun 2026 18:01:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 18:43:18 GMT</lastBuildDate>
+    <item>
+      <title>书法风格 · The Five Scripts of Chinese Calligraphy</title>
+      <link>https://jiaoshoo.com/pages/arts/topic_shufa_styles.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/arts/topic_shufa_styles.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Five script styles chart two thousand years of Chinese writing, from the solemn bronze inscriptions of the Zhou to the explosive cursive of the Tang masters.</description>
+      <category>arts</category>
+    </item>
+    <item>
+      <title>宋词 · Song Dynasty Lyric</title>
+      <link>https://jiaoshoo.com/pages/arts/topic_songci.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/arts/topic_songci.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>The poem that sings: fixed tune patterns, named meters, and three masters who defined what the Chinese lyric could feel.</description>
+      <category>arts</category>
+    </item>
     <item>
       <title>唐诗 · Tang Poetry</title>
       <link>https://jiaoshoo.com/pages/arts/topic_tangshi.html</link>
@@ -229,22 +245,6 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/amituofo_阿弥陀佛.html</guid>
       <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
       <description>阿弥陀佛 is the Buddha of Infinite Light and Life who presides over the Western Pure Land, and his name is itself the central practice: to recite 南无阿弥陀佛 is the simple path of Pure Land devotion, open to everyone.</description>
-      <category>vocab</category>
-    </item>
-    <item>
-      <title>皇帝 · emperor</title>
-      <link>https://jiaoshoo.com/pages/vocab/huangdi_皇帝.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/huangdi_皇帝.html</guid>
-      <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
-      <description>The title the First Emperor invented in 221 BCE by welding together 皇 (august sage-king) and 帝 (high god), and how it differs from 王 king, 君 sovereign, and 天子 the Son of Heaven.</description>
-      <category>vocab</category>
-    </item>
-    <item>
-      <title>时代 · era, age</title>
-      <link>https://jiaoshoo.com/pages/vocab/shidai_时代.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/shidai_时代.html</guid>
-      <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
-      <description>The word for a historical era or age, built from 时 (time) and 代 (generation), and how it differs from 时期 a period, 年代 a decade, 时候 a moment, and 现代 modern times.</description>
       <category>vocab</category>
     </item>
   </channel>

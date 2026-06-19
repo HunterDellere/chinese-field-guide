@@ -14,8 +14,15 @@ tags:
   - 'song'
   - 'history'
   - 'culture'
-updated: '2026-04-19'
+updated: '2026-06-19'
 pinyin: 'sòngcí'
+faq:
+  - q: "What is the difference between 词 (cí) and 诗 (shī)?"
+    a: "Both are classical Chinese poetry, but 诗 shī (such as Tang poetry) uses regular line lengths and was composed freely. 词 cí, the Song lyric, was written to fit a fixed pre-existing tune pattern (词牌 cípái), so its lines vary in length and follow a set rhythm and rhyme. In short: shi is verse, ci is lyric written to a melody."
+  - q: "What is a 词牌 (cípái)?"
+    a: "A 词牌 cípái is a named tune pattern that dictates the form of a ci lyric: the number of lines, the length of each line, and the tonal and rhyme scheme. Poets did not invent a new shape for each poem; they 'filled in words' to an existing pattern such as 水调歌头 or 念奴娇. The cípái name at the top of a ci is the metrical template, not the poem's title."
+  - q: "Who are the most famous Song lyric poets?"
+    a: "The three great names are Li Qingzhao (李清照), the foremost woman poet of the tradition and a master of the graceful 婉约 style; Su Shi (苏轼), who broadened the lyric into the bold, expansive 豪放 manner; and Xin Qiji (辛弃疾), the soldier-poet who brought patriotic force to the same heroic style."
 ---
 
 

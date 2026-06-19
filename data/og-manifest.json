@@ -1,4 +1,6 @@
 {
+  "arts/topic_shufa_styles": "db2190b855147c3c",
+  "arts/topic_songci": "f0cc722bdeb9824d",
   "arts/topic_tangshi": "65c9d0329b59de83",
   "characters/shan1_山": "017dfea6103f406e",
   "characters/ye3_也": "6d7ef41402a09cae",
@@ -101,7 +103,6 @@
   "characters/zhen1_真": "ca4ca92798b56e8c",
   "vocab/renzhen_认真": "ddbfe3b7bbe6afce",
   "arts/topic_jingju_roles": "0f60cdb9ef183c22",
-  "arts/topic_shufa_styles": "db2190b855147c3c",
   "characters/gui3_鬼": "0158ebca30657814",
   "characters/lei2_雷": "24713cf4f47cc380",
   "characters/yu4_玉": "6cf2ef9a81b9c8c4",
@@ -265,7 +266,6 @@
   "arts/topic_luxun": "c104a24c3923ffae",
   "arts/topic_shijing": "f978586708c0e341",
   "arts/topic_shuimohua": "df4383df98592ea6",
-  "arts/topic_songci": "f0cc722bdeb9824d",
   "arts/topic_wenfangsibao": "e493ec6c8e3bdc16",
   "arts/topic_zhuanke": "25eedb4b7d52a53b",
   "characters/ai4_爱": "03c5de3c63614cf0",
