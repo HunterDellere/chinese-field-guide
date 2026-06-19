@@ -6,7 +6,15 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A reading nook for Chinese language and civilisation. Characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Jun 2026 17:32:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 18:01:28 GMT</lastBuildDate>
+    <item>
+      <title>唐诗 · Tang Poetry</title>
+      <link>https://jiaoshoo.com/pages/arts/topic_tangshi.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/arts/topic_tangshi.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Li Bai, Du Fu, and the golden age of regulated verse.</description>
+      <category>arts</category>
+    </item>
     <item>
       <title>山 · mountain, hill, sacred peak</title>
       <link>https://jiaoshoo.com/pages/characters/shan1_山.html</link>
@@ -22,6 +30,22 @@
       <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
       <description>A pictograph that lost its original image entirely and became one of the most load-bearing particles in classical Chinese: the gavel at the end of every verdict.</description>
       <category>characters</category>
+    </item>
+    <item>
+      <title>了 · the perfective particle</title>
+      <link>https://jiaoshoo.com/pages/grammar/le_了.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/grammar/le_了.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Perfective aspect vs. change-of-state: the single most-confused particle.</description>
+      <category>grammar</category>
+    </item>
+    <item>
+      <title>着 · the continuous aspect marker</title>
+      <link>https://jiaoshoo.com/pages/grammar/zhe_着.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/grammar/zhe_着.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Three distinct jobs: holding a state, linking two actions, and commanding attention. All from a single particle that beginners collapse into one.</description>
+      <category>grammar</category>
     </item>
     <item>
       <title>轮回 · samsara; the cycle of rebirth</title>
@@ -222,30 +246,6 @@
       <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
       <description>The word for a historical era or age, built from 时 (time) and 代 (generation), and how it differs from 时期 a period, 年代 a decade, 时候 a moment, and 现代 modern times.</description>
       <category>vocab</category>
-    </item>
-    <item>
-      <title>现代 · modern times</title>
-      <link>https://jiaoshoo.com/pages/vocab/xiandai_现代.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/xiandai_现代.html</guid>
-      <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
-      <description>The word for the modern era, built from 现 (present, manifest) and 代 (generation, age), how Chinese history slices time into 古代 / 近代 / 现代 / 当代, and how 现代 differs from 现在 now.</description>
-      <category>vocab</category>
-    </item>
-    <item>
-      <title>跟 · with; and; to follow</title>
-      <link>https://jiaoshoo.com/pages/grammar/gen_跟.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/grammar/gen_跟.html</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
-      <description>The everyday coverb for &quot;with&quot; and conjunction for &quot;and&quot;, how the 跟…一起 and 跟…说 patterns work, the original verb &quot;to follow&quot;, and how 跟 differs from 和, 同, and 与.</description>
-      <category>grammar</category>
-    </item>
-    <item>
-      <title>离 · away from; distance</title>
-      <link>https://jiaoshoo.com/pages/grammar/li_离.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/grammar/li_离.html</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
-      <description>The coverb for distance and separation: the A 离 B + distance pattern for &quot;how far&quot;, the verb sense &quot;to leave / part from&quot;, and how 离 differs from 从 and 到 in marking space and time.</description>
-      <category>grammar</category>
     </item>
   </channel>
 </rss>

@@ -11,10 +11,17 @@ tags:
   - 'poetry'
   - 'tang'
   - 'literature'
-updated: '2026-04-18'
+updated: '2026-06-19'
 pinyin: 'tángshī'
 seo_title: 'Tang poetry: the golden age of Chinese verse, in 8 poets'
 seo_desc: "Li Bai's wine, Du Fu's sorrow, Wang Wei's silence. A tour through the Tang dynasty's golden age, and the 300 poems every schoolchild memorized."
+faq:
+  - q: "What is Tang poetry (唐诗)?"
+    a: "唐诗 tángshī is the poetry of China's Tang dynasty (618 to 907 CE), widely regarded as the golden age of Chinese verse. It is when the strict forms of regulated verse (律诗 lǜshī) and the quatrain (绝句 juéjù) matured, and when poets such as Li Bai and Du Fu wrote works that Chinese readers still memorize today."
+  - q: "Who are the most famous Tang poets?"
+    a: "The two giants are Li Bai (李白), the romantic genius of wine and the moon, and Du Fu (杜甫), the moral witness whose poems record an empire in crisis. Wang Wei (王维) is the third great name, the poet-painter of quiet landscapes. Together they define the period, with Li Bai and Du Fu often called the two poles of the entire Chinese tradition."
+  - q: "What is 唐诗三百首 (Three Hundred Tang Poems)?"
+    a: "唐诗三百首 is an anthology of about 300 Tang poems compiled in the 18th century as a teaching primer. It became the standard introduction to classical poetry, so much so that the saying goes: 'memorize three hundred Tang poems and you can recite even if you cannot compose.' Most of the famous poems a Chinese schoolchild learns come from this collection."
 ---
 
 

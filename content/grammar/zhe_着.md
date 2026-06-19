@@ -12,8 +12,15 @@ tags:
   - 'particle'
   - 'grammar'
   - 'syntax'
-updated: '2026-04-22'
+updated: '2026-06-19'
 pinyin: 'zhe'
+faq:
+  - q: "What is the difference between 着 (zhe) and 在 (zài)?"
+    a: "在 + verb describes a dynamic action in progress, the '-ing' of something happening right now (我在吃饭, 'I am eating'). Verb + 着 describes a continuing state or the manner in which something is done (门开着, 'the door is open'; 站着, 'standing there'). 在 answers 'what are you doing?'; 着 answers 'what state is it in?'. They can even combine: 他在笑着 ('he is smiling')."
+  - q: "What does 站着 (zhànzhe) mean?"
+    a: "站着 means 'standing' or 'in a standing position'. The verb 站 (zhàn, 'to stand') plus 着 marks the posture as an ongoing state rather than the act of standing up. So 他站着说话 means 'he talks while standing'. The 着 here shows the state persists during the main action."
+  - q: "How is 着 pronounced?"
+    a: "As the aspect particle in this article it is pronounced zhe (neutral tone), as in 看着 (kànzhe, 'watching'). The same character has other readings in other words: zháo in 着急 (zháojí, 'anxious') and 睡着 (shuìzháo, 'to fall asleep'), and zhuó in 着重 (zhuózhòng, 'to stress'). Context decides the reading."
 ---
 
 

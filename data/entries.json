@@ -1,5 +1,20 @@
 [
   {
+    "path": "pages/arts/topic_tangshi.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "唐诗 · Tang Poetry",
+    "desc": "Li Bai, Du Fu, and the golden age of regulated verse.",
+    "tags": [
+      "poetry",
+      "tang",
+      "literature"
+    ],
+    "status": "complete",
+    "pinyin": "tángshī",
+    "updated": "2026-06-19"
+  },
+  {
     "path": "pages/characters/shan1_山.html",
     "type": "character",
     "category": "characters",
@@ -37,6 +52,37 @@
     "tone": 3,
     "hsk": 1,
     "radical": "乙",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/grammar/le_了.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "了 · the perfective particle",
+    "desc": "Perfective aspect vs. change-of-state: the single most-confused particle.",
+    "tags": [
+      "aspect",
+      "particle",
+      "tense"
+    ],
+    "status": "complete",
+    "pinyin": "le",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/grammar/zhe_着.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "着 · the continuous aspect marker",
+    "desc": "Three distinct jobs: holding a state, linking two actions, and commanding attention. All from a single particle that beginners collapse into one.",
+    "tags": [
+      "aspect",
+      "particle",
+      "grammar",
+      "syntax"
+    ],
+    "status": "complete",
+    "pinyin": "zhe",
     "updated": "2026-06-19"
   },
   {
@@ -4395,22 +4441,6 @@
     "updated": "2026-04-22"
   },
   {
-    "path": "pages/grammar/zhe_着.html",
-    "type": "grammar",
-    "category": "grammar",
-    "title": "着 · the continuous aspect marker",
-    "desc": "Three distinct jobs: holding a state, linking two actions, and commanding attention. All from a single particle that beginners collapse into one.",
-    "tags": [
-      "aspect",
-      "particle",
-      "grammar",
-      "syntax"
-    ],
-    "status": "complete",
-    "pinyin": "zhe",
-    "updated": "2026-04-22"
-  },
-  {
     "path": "pages/history/topic_zhanguo.html",
     "type": "topic",
     "category": "history",
@@ -7770,21 +7800,6 @@
     "updated": "2026-04-18"
   },
   {
-    "path": "pages/arts/topic_tangshi.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "唐诗 · Tang Poetry",
-    "desc": "Li Bai, Du Fu, and the golden age of regulated verse.",
-    "tags": [
-      "poetry",
-      "tang",
-      "literature"
-    ],
-    "status": "complete",
-    "pinyin": "tángshī",
-    "updated": "2026-04-18"
-  },
-  {
     "path": "pages/characters/dao4_道.html",
     "type": "character",
     "category": "characters",
@@ -8291,21 +8306,6 @@
     ],
     "status": "complete",
     "pinyin": "jiù / cái",
-    "updated": "2026-04-18"
-  },
-  {
-    "path": "pages/grammar/le_了.html",
-    "type": "grammar",
-    "category": "grammar",
-    "title": "了 · the perfective particle",
-    "desc": "Perfective aspect vs. change-of-state: the single most-confused particle.",
-    "tags": [
-      "aspect",
-      "particle",
-      "tense"
-    ],
-    "status": "complete",
-    "pinyin": "le",
     "updated": "2026-04-18"
   },
   {

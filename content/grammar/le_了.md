@@ -11,8 +11,17 @@ tags:
   - 'aspect'
   - 'particle'
   - 'tense'
-updated: '2026-04-18'
+updated: '2026-06-19'
 pinyin: 'le'
+faq:
+  - q: "What does 了 (le) mean in Chinese?"
+    a: "了 le is a grammatical particle, not a word with its own meaning. It has two main jobs. After a verb it marks completion or a realized action, the perfective aspect (我吃了, 'I ate'). At the end of a sentence it marks a change of state or a new situation (下雨了, 'it's raining now / it has started to rain'). It does not by itself mean past tense; Chinese has no tense, and 了 marks aspect."
+  - q: "What is the difference between verb-了 and sentence-final 了?"
+    a: "Verb + 了 (right after the verb) marks that the action is completed: 我买了一本书 ('I bought a book'). Sentence-final 了 (at the very end) marks that a new situation has come about or is now relevant: 我饿了 ('I'm hungry now'). When both appear together, the double-了 construction (我吃了三碗饭了) signals an action completed up to now and possibly continuing. The position of 了 changes the meaning."
+  - q: "How do you negate a sentence with 了?"
+    a: "You do not negate 了 directly. To say an action did not happen, drop 了 and use 没 (méi) or 没有 (méiyǒu): 我吃了 ('I ate') becomes 我没吃 ('I didn't eat'), with no 了. Keeping 了 after 没 is a common beginner error. The one exception is the change-of-state 了 in patterns like 不...了 ('not anymore'): 我不去了 ('I'm not going anymore')."
+  - q: "When is 了 pronounced liǎo instead of le?"
+    a: "了 is read le (neutral tone) as the aspect particle, but liǎo in a separate set of words about completion and possibility: 了解 (liǎojiě, 'to understand'), and the potential complements 受不了 (shòubuliǎo, 'can't bear it') and 来得了 (láideliǎo, 'able to come'). In these, 了 carries the older full meaning 'to finish / to be able to,' which is where the particle originally came from."
 ---
 
 
