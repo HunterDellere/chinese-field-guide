@@ -11,8 +11,15 @@ tags:
   - 'xunzi'
   - 'ritual'
   - 'human-nature'
-updated: '2026-04-18'
+updated: '2026-06-19'
 pinyin: 'xúnzǐ'
+faq:
+  - q: "What did Xunzi mean by saying human nature is bad?"
+    a: "Xunzi argued in his chapter 性恶 xìng è that human nature is bad: 人之性恶，其善者伪也, goodness is a deliberately cultivated achievement, not something inborn. People are born with desires for pleasure, profit, and appetite that, left untrained, generate conflict and disorder."
+  - q: "Why does Xunzi think ritual is necessary?"
+    a: "Because natural desires are unlimited while resources are limited, Xunzi held that ritual 礼 lǐ is the essential civilizing force. The sage-kings devised ritual to calibrate desires to resources, teaching people to want in measure. Ritual is a human invention, not Heaven's command, so institutions must teach and enforce it."
+  - q: "Why did a Confucian like Xunzi produce two Legalist students?"
+    a: "Xunzi's two students, 韩非 Hán Fēi and 李斯 Lǐ Sī, founded Legalism 法家. They shared his rejection of innate goodness and his belief that institutions shape behavior, but discarded his Confucian values (仁, 义, 礼), keeping only strict law 法, rewards, and punishments."
 ---
 
 

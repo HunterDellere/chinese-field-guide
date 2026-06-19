@@ -19,7 +19,14 @@ tags:
   - 'mind'
   - 'history'
   - 'ming'
-updated: '2026-04-25'
+updated: '2026-06-19'
+faq:
+  - q: "Does liangzhi (良知) translate as conscience?"
+    a: "Not exactly. 良知 (liángzhī) is Wang Yangming's term for innate moral knowledge, the faculty that perceives right and wrong in each situation without deliberation. Everyday conscience is 良心 (liángxīn); 良知 is the deeper, universal moral knowing that precedes deliberation."
+  - q: "What is Wang Yangming's heart-mind that knows right and wrong without deliberation?"
+    a: "It is 良知 (liángzhī), innate moral knowledge, the center of Wang Yangming's philosophy. Rooted in Mencius, it is always present and always illuminating what is right; the obstacle is not ignorance but selfish desire 私欲, which the practice of 致良知 (zhì liángzhī) clears away."
+  - q: "What does 知行合一 (zhixing he yi) mean?"
+    a: "知行合一 (zhīxíng hé yī) means the unity of knowing and acting, Wang Yangming's most famous claim. Genuine moral knowing and moral action are one undivided activity, not two stages: a person who knows mistreating a parent is wrong yet does it does not truly know it."
 ---
 
 

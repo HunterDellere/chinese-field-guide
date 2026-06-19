@@ -19,8 +19,15 @@ tags:
   - 'aesthetics'
   - 'royalty'
   - 'classical'
-updated: '2026-04-26'
+updated: '2026-06-19'
 content_review: 'pending'
+faq:
+  - q: "What is the Chinese character for jade?"
+    a: "The Chinese character for jade is 玉 (yù, fourth tone). It is a pictograph showing three horizontal jade discs strung on a single vertical cord. Its only difference from 王 (wáng, king) is a dot at the lower right, added later in small seal script to distinguish the two."
+  - q: "What is the difference between 玉 and 王?"
+    a: "玉 (yù, jade) and 王 (wáng, king) share the same three horizontal strokes; 玉 adds a dot at the lower right. The dot was added in Qin small seal script to tell them apart. As a left-side radical, 玉 is written 王 without the dot, but they remain different radicals."
+  - q: "Why did Confucius say jade represents virtue?"
+    a: "In the Lǐjì (Book of Rites), Confucius said the junzi prizes jade because its physical properties model moral qualities, listing eleven virtues. Its warmth represents 仁 rén (benevolence), its translucency 智 zhì (wisdom), its clear notes when struck 义 yì (righteousness), and its visible flaws 诚 chéng (honesty)."
 ---
 
 

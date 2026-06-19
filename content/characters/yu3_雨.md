@@ -10,13 +10,20 @@ tags:
   - 'nature'
   - 'radical'
   - 'cosmology'
-updated: '2026-04-22'
+updated: '2026-06-19'
 char: '雨'
 pinyin: 'yǔ'
 tone: 3
 hsk: 2
 radical: '雨'
 content_review: 'pending'
+faq:
+  - q: "What does the oracle bone inscription for 雨 (rain) look like?"
+    a: "The oracle bone form of 雨, inscribed around 1200 BCE, shows a horizontal line for the sky, a curved shape below it for a cloud, and four dots hanging down as raindrops falling. It is one of the script's most faithful pictographs: the modern character is almost unchanged."
+  - q: "Why is 雨 the radical in weather characters like 雪 and 雷?"
+    a: "雨 became the radical that organizes weather phenomena, so when it sits at the top of a character it signals precipitation or an atmospheric event. Snow is 雪 (雨 over 彐), thunder is 雷 (雨 over 田, field), frost is 霜, and dew is 露."
+  - q: "What is the thunder Chinese character and how is it built?"
+    a: "Thunder is 雷 (léi), built from 雨 (rain) over 田 (field): thunder imagined as rain over fields, the rumble accompanying storms. 打雷 (dǎ léi) means to thunder, 雷声 (léi shēng) is the sound of thunder, and 雷同 (léitóng) means suspiciously identical or plagiarized."
 ---
 
 

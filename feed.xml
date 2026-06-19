@@ -6,13 +6,45 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A reading nook for Chinese language and civilisation. Characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Jun 2026 18:43:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 19:35:37 GMT</lastBuildDate>
+    <item>
+      <title>生旦净末丑 · Role Types in Peking Opera</title>
+      <link>https://jiaoshoo.com/pages/arts/topic_jingju_roles.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/arts/topic_jingju_roles.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Five role categories, each a complete performance tradition -- voice, movement, makeup, and costume as a total semiotic system.</description>
+      <category>arts</category>
+    </item>
+    <item>
+      <title>山水画 · landscape painting</title>
+      <link>https://jiaoshoo.com/pages/arts/topic_shanshui.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/arts/topic_shanshui.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Chinese landscape painting encodes a theory in its name: 山 (mountain, yang, permanent) and 水 (water, yin, changing) in dynamic tension. A space to inhabit in the imagination, not a view to frame.</description>
+      <category>arts</category>
+    </item>
+    <item>
+      <title>诗经 · Book of Songs</title>
+      <link>https://jiaoshoo.com/pages/arts/topic_shijing.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/arts/topic_shijing.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>China oldest poetry anthology: three hundred poems that Confucius said no educated person could afford to ignore.</description>
+      <category>arts</category>
+    </item>
     <item>
       <title>书法风格 · The Five Scripts of Chinese Calligraphy</title>
       <link>https://jiaoshoo.com/pages/arts/topic_shufa_styles.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/arts/topic_shufa_styles.html</guid>
       <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
       <description>Five script styles chart two thousand years of Chinese writing, from the solemn bronze inscriptions of the Zhou to the explosive cursive of the Tang masters.</description>
+      <category>arts</category>
+    </item>
+    <item>
+      <title>水墨画 · Ink-Wash Painting</title>
+      <link>https://jiaoshoo.com/pages/arts/topic_shuimohua.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/arts/topic_shuimohua.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Where the brush meets philosophy: five tones of ink, the art of leaving space, and landscapes that are not about landscape at all.</description>
       <category>arts</category>
     </item>
     <item>
@@ -32,6 +64,30 @@
       <category>arts</category>
     </item>
     <item>
+      <title>篆刻 · Seal Carving</title>
+      <link>https://jiaoshoo.com/pages/arts/topic_zhuanke.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/arts/topic_zhuanke.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>The art of the name: bronze to stone, dynasty to dynasty, two schools of carvers, and the small red square that authenticates everything.</description>
+      <category>arts</category>
+    </item>
+    <item>
+      <title>可 · can; may; worth; quite</title>
+      <link>https://jiaoshoo.com/pages/characters/ke3_可.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/ke3_可.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>A two-stroke mouth character whose ancient sense of affirming breath became the pivot of permission, capability, and worth in classical and modern Chinese.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>快 · fast, happy</title>
+      <link>https://jiaoshoo.com/pages/characters/kuai4_快.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/kuai4_快.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>One character carries two meanings that turn out to be the same thing: speed and joy both feel like the heart cutting loose.</description>
+      <category>characters</category>
+    </item>
+    <item>
       <title>山 · mountain, hill, sacred peak</title>
       <link>https://jiaoshoo.com/pages/characters/shan1_山.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/shan1_山.html</guid>
@@ -45,6 +101,22 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/ye3_也.html</guid>
       <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
       <description>A pictograph that lost its original image entirely and became one of the most load-bearing particles in classical Chinese: the gavel at the end of every verdict.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>雨 · rain</title>
+      <link>https://jiaoshoo.com/pages/characters/yu3_雨.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/yu3_雨.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>The oracle bone shows rain falling from the sky: one of the most transparent pictographs in the script, and the radical that organizes all Chinese weather.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>玉 · jade, precious</title>
+      <link>https://jiaoshoo.com/pages/characters/yu4_玉.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/yu4_玉.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>The material of kingship and moral cultivation: three jade discs on a cord, a glyph almost identical to king, the stone that Confucius said was virtue made visible.</description>
       <category>characters</category>
     </item>
     <item>
@@ -64,11 +136,67 @@
       <category>grammar</category>
     </item>
     <item>
+      <title>理学 · Neo-Confucianism</title>
+      <link>https://jiaoshoo.com/pages/philosophy/topic_lixue.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/philosophy/topic_lixue.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Zhu Xi, the Great Ultimate 太极, and the Song-Ming synthesis.</description>
+      <category>philosophy</category>
+    </item>
+    <item>
+      <title>荀子 · Xunzi</title>
+      <link>https://jiaoshoo.com/pages/philosophy/topic_xunzi.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/philosophy/topic_xunzi.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Human nature as bad: ritual and education as correction.</description>
+      <category>philosophy</category>
+    </item>
+    <item>
+      <title>王阳明 · Wang Yangming and the School of Mind</title>
+      <link>https://jiaoshoo.com/pages/philosophy/topic_yangming.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/philosophy/topic_yangming.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Wang Yangming broke Neo-Confucianism open: instead of investigating external things to reach moral truth, he turned inward and declared that the moral mind already knows, and that knowing and acting are one indivisible movement.</description>
+      <category>philosophy</category>
+    </item>
+    <item>
+      <title>庄子 · Zhuangzi</title>
+      <link>https://jiaoshoo.com/pages/philosophy/topic_zhuangzi.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/philosophy/topic_zhuangzi.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>The butterfly dream, Cook Ding, and Daoist freedom from convention.</description>
+      <category>philosophy</category>
+    </item>
+    <item>
+      <title>城隍 · The City God</title>
+      <link>https://jiaoshoo.com/pages/religion/topic_chenghuang.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/religion/topic_chenghuang.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Every Chinese city had a City God who served as its divine magistrate, managing the dead and the living with the same bureaucratic precision as any imperial official.</description>
+      <category>religion</category>
+    </item>
+    <item>
+      <title>历史 · history</title>
+      <link>https://jiaoshoo.com/pages/vocab/lishi_历史.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/lishi_历史.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>The character for historian shows a hand holding a brush over a vessel: in ancient China, the scribe who held the brush held power.</description>
+      <category>vocab</category>
+    </item>
+    <item>
       <title>轮回 · samsara; the cycle of rebirth</title>
       <link>https://jiaoshoo.com/pages/vocab/lunhui_轮回.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/lunhui_轮回.html</guid>
       <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
       <description>The Buddhist karmic wheel that turns through six realms of existence: the foundational concept that motivates all Buddhist practice as a path toward liberation.</description>
+      <category>vocab</category>
+    </item>
+    <item>
+      <title>缘分 · karmic connection</title>
+      <link>https://jiaoshoo.com/pages/vocab/yuanfen_缘分.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/yuanfen_缘分.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Buddhist-rooted fate that ties strangers, lovers, and old friends.</description>
       <category>vocab</category>
     </item>
     <item>
@@ -118,134 +246,6 @@
       <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
       <description>两 is the two used before measure words, the two of quantity and pairing, as opposed to 二 the two of counting and order, a distinction that is one of the first real puzzles a learner meets.</description>
       <category>characters</category>
-    </item>
-    <item>
-      <title>零 · zero; raindrops, the fractional remainder, and the late invention of nothing</title>
-      <link>https://jiaoshoo.com/pages/characters/ling2_零.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/ling2_零.html</guid>
-      <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
-      <description>Zero began as falling raindrops and the leftover odd remainder, taking on the meaning of mathematical nothing only late, the placeholder that Chinese numerals long managed without.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>六 · six; the six directions; a smooth and lucky number</title>
-      <link>https://jiaoshoo.com/pages/characters/liu4_六.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/liu4_六.html</guid>
-      <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
-      <description>Six closes space into the six directions (the four compass points plus up and down) and, through its near-homophony with 流 liú (to flow), became a number for things going smoothly.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>念 · to recite, to keep in mind, to miss</title>
-      <link>https://jiaoshoo.com/pages/characters/nian4_念.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/nian4_念.html</guid>
-      <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
-      <description>念 holds the present moment 今 over the heart 心: to keep something in mind, to recite aloud, to long for what is absent. The 念 of 念佛 recitation, 想念 longing, and the single thought-moment of Buddhist psychology.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>七 · seven; the rhythm of mourning, festival, and the soul</title>
-      <link>https://jiaoshoo.com/pages/characters/qi1_七.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/qi1_七.html</guid>
-      <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
-      <description>Seven measures the cycles of death and renewal in Chinese culture: the seven-day periods of mourning, the seventh-night lovers&apos; festival, and the seven emotions of the heart.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>千 · thousand; a vast, uncountable many</title>
-      <link>https://jiaoshoo.com/pages/characters/qian1_千.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/qian1_千.html</guid>
-      <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
-      <description>Thousand is the order of magnitude where a precise count gives way to poetic vastness: a thousand miles, a thousand autumns, ten thousand changes, the number that means simply too many to count.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>四 · four; the four directions; the homophone of death</title>
-      <link>https://jiaoshoo.com/pages/characters/si4_四.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/si4_四.html</guid>
-      <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
-      <description>Four organizes the Chinese world into quarters, the four directions, four seas, four seasons, yet its near-homophony with 死 sǐ (death) makes it the most avoided number in modern China.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>它 · it; the non-human third person</title>
-      <link>https://jiaoshoo.com/pages/characters/ta1_它.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/ta1_它.html</guid>
-      <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
-      <description>它 began as a picture of a snake and once meant other; in the twentieth century it was reassigned to the non-human third person, completing the homophonous 他/她/它 triad that exists only in writing.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>完 · to finish; to be whole</title>
-      <link>https://jiaoshoo.com/pages/characters/wan2_完.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/wan2_完.html</guid>
-      <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
-      <description>完 means both whole and finished, and the bridge between them is intact completeness; its most important job is as a result complement, the 完 that ends 吃完, 做完, and 看完.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>五 · five; the organizing number of correlative cosmology</title>
-      <link>https://jiaoshoo.com/pages/characters/wu3_五.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/wu3_五.html</guid>
-      <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
-      <description>Five is the center plus the four directions, the number that completes the Chinese cosmos: five phases, five colors, five tones, five flavors, five viscera, all keyed to one master grid.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>雪 · snow, whiteness, and vengeance</title>
-      <link>https://jiaoshoo.com/pages/characters/xue3_雪.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/xue3_雪.html</guid>
-      <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
-      <description>Rain over a sweeping hand: snow is the precipitation you can hold. The same character means dazzling white and, by a buried metaphor, to wipe clean an old grievance.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>阴 · the shaded slope, the lunar, the covert</title>
-      <link>https://jiaoshoo.com/pages/characters/yin1_阴.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/yin1_阴.html</guid>
-      <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
-      <description>The shadow half of the cosmos and the everyday word for an overcast day. From the dark side of a hill grew the lunar calendar, the hidden plot, and time itself as light and shade.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>最 · most; the superlative marker</title>
-      <link>https://jiaoshoo.com/pages/characters/zui4_最.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/zui4_最.html</guid>
-      <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
-      <description>最 is the single word that pushes any adjective to its limit: the -est of English, the most of comparison, the marker that turns 好 into 最好 and 后 into 最后.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>做 · to do, to make, to act as</title>
-      <link>https://jiaoshoo.com/pages/characters/zuo4_做.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/zuo4_做.html</guid>
-      <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
-      <description>做 is the everyday verb for doing and making, a late character built to carry the work that 作 had grown too literary to do, and the two still split the labor between them.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>曹操 · The Warlord-Poet</title>
-      <link>https://jiaoshoo.com/pages/history/topic_caocao.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/history/topic_caocao.html</guid>
-      <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
-      <description>The man who held the dying Han together by force, wrote some of the finest poetry in the language, and became Chinese literature&apos;s most magnificent villain.</description>
-      <category>history</category>
-    </item>
-    <item>
-      <title>玄奘 · The Pilgrim of the West</title>
-      <link>https://jiaoshoo.com/pages/history/topic_xuanzang.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/history/topic_xuanzang.html</guid>
-      <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
-      <description>The Tang monk who crossed the deserts to India for the scriptures, studied sixteen years, and came home to translate them: the historical figure behind Journey to the West.</description>
-      <category>history</category>
-    </item>
-    <item>
-      <title>阿弥陀佛 · Amitābha Buddha</title>
-      <link>https://jiaoshoo.com/pages/vocab/amituofo_阿弥陀佛.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/amituofo_阿弥陀佛.html</guid>
-      <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
-      <description>阿弥陀佛 is the Buddha of Infinite Light and Life who presides over the Western Pure Land, and his name is itself the central practice: to recite 南无阿弥陀佛 is the simple path of Pure Land devotion, open to everyone.</description>
-      <category>vocab</category>
     </item>
   </channel>
 </rss>

@@ -17,7 +17,14 @@ tags:
   - 'literature'
   - 'classical'
   - 'learning'
-updated: '2026-04-25'
+updated: '2026-06-19'
+faq:
+  - q: "What is the Shǐjì (史记)?"
+    a: "The Shǐjì (史记), Records of the Grand Historian, is the foundational work of Chinese historiography, written by Sima Qian around 94 BCE. Its 130 volumes and roughly 526,500 characters cover history from the mythical Yellow Emperor to Sima Qian's own time, and set the biographical-annalistic structure all later official histories followed."
+  - q: "Why does the Chinese word for history (历史 lìshǐ) refer to a scribe?"
+    a: "Because the character 史 shǐ depicts a hand holding a writing instrument over a container, a scribe capturing events. 历 lì means to pass through in sequence, so 历史 is the passage of events recorded by the person whose job was to write them down. The historian held the brush, and the brush held power."
+  - q: "What is the difference between 历史, 历史学, and 史?"
+    a: "历史 lìshǐ is the general term for history as events, subject, or body of knowledge. 历史学 lìshǐxué is historiography, the academic discipline and its methods. 史 shǐ is the classical shorthand used in compounds like 史记, 通史, and 史料; avoid it as a standalone word in modern prose."
 ---
 
 

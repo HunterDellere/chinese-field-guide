@@ -13,8 +13,15 @@ tags:
   - 'classical'
   - 'history'
   - 'culture'
-updated: '2026-04-19'
+updated: '2026-06-19'
 pinyin: 'shījīng'
+faq:
+  - q: "What is the Shijing (Book of Songs)?"
+    a: "The 诗经 Shījīng is the oldest surviving collection of Chinese poetry, 305 poems composed between roughly 1046 and 600 BCE. One of the Five Classics 五经 of the Confucian canon, it is the foundational text of the entire Chinese lyric tradition."
+  - q: "What are the three sections of the Shijing?"
+    a: "The Shijing has three sections: 风 Fēng (Airs), 160 folk songs from fifteen regional states; 雅 Yǎ (Court Odes), 105 banquet and ceremonial poems; and 颂 Sòng (Ritual Hymns), 40 sacrificial songs for royal ancestors at the Zhou, Lu, and Shang courts."
+  - q: "What did Confucius say about the Book of Songs?"
+    a: "Confucius summed up the entire Shijing in one phrase: 思无邪 sī wú xié, \"thoughts without depravity.\" He taught from it constantly and called study of the Odes indispensable, warning that a person who had not studied them was like one standing facing a wall."
 ---
 
 

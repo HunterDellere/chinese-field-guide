@@ -14,8 +14,15 @@ tags:
   - 'culture'
   - 'history'
   - 'classical'
-updated: '2026-04-19'
+updated: '2026-06-19'
 pinyin: 'shuǐmòhuà'
+faq:
+  - q: "What does 山水 (shānshuǐ) literally mean?"
+    a: "山水 shānshuǐ literally means \"mountains and water,\" and it is the supreme subject of Chinese ink-wash painting. The two poles represent the stable and the mutable, yang and yin. A great landscape is not a view of a place but a meditation on nature itself."
+  - q: "What are the Five Tones of Ink in Chinese ink-wash painting?"
+    a: "The Five Tones of Ink (五墨 wǔmò) are 焦 jiāo (scorched, near-dry), 浓 nóng (thick, full black), 重 zhòng (heavy, deep), 淡 dàn (dilute, light grey), and 清 qīng (clear, nearly water). A skilled painter orchestrates all five from ink and water alone, with no color."
+  - q: "Who are the Four Gentlemen in literati painting?"
+    a: "The Four Gentlemen (四君子 sì jūnzǐ) are four emblematic plants of literati painting: prunus plum 梅 (perseverance), orchid 兰 (secluded virtue), bamboo 竹 (resilience), and chrysanthemum 菊 (dignified retirement). Together they map principal Confucian scholar-gentleman virtues onto natural forms."
 ---
 
 

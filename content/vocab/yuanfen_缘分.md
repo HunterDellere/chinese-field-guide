@@ -10,11 +10,18 @@ tags:
   - 'buddhism'
   - 'fate'
   - 'romance'
-updated: '2026-04-18'
+updated: '2026-06-19'
 pinyin: 'yuánfèn'
 content_review: 'verified'
 content_sources:
   - 'Unihan'
+faq:
+  - q: "How do you say \"leave it to fate\" in Chinese?"
+    a: "Say 随缘 suí yuán, \"follow the karmic current.\" It is a Buddhist and Daoist attitude of accepting outcomes without forcing them. As an exclamation, 随缘吧 (suí yuán ba) means \"just go with it, let fate decide,\" often said after a setback."
+  - q: "What does 缘分 (yuánfèn) mean?"
+    a: "缘分 yuánfèn is the karmic connection that brings people together: any encounter, relationship, or bond that feels fated. Rooted in the Buddhist idea that every meeting ripens from causes planted in past lifetimes, it covers romance, friendships, and chance meetings with strangers."
+  - q: "What is the red thread of fate in Chinese culture?"
+    a: "The red thread (红线 hóngxiàn) is tied by 月老 Yuèlǎo, the Old Man Under the Moon, deity of marriage. At birth he binds destined couples with an invisible, indestructible thread that slowly draws them together regardless of distance, class, or circumstance."
 ---
 
 

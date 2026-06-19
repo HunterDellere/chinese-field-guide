@@ -11,8 +11,15 @@ tags:
   - 'neo-confucianism'
   - 'zhuxi'
   - 'principle'
-updated: '2026-04-18'
+updated: '2026-06-19'
 pinyin: 'lǐxué'
+faq:
+  - q: "What did Zhu Xi mean by \"the extension of knowledge lies in the investigation of things\"?"
+    a: "For Zhu Xi, this phrase from the Great Learning (大学 Dàxué) names 格物致知 gé wù zhì zhī: probing the principle (理 lǐ) of each thing and affair until, over time, the mind grasps the unity behind all particular principles. The knowledge ultimately sought was moral, not merely factual."
+  - q: "What is 理学 lǐxué (Neo-Confucianism)?"
+    a: "理学 lǐxué is the Song dynasty (960-1279 CE) revival and systematic restatement of Confucianism, built on the twin concepts of 理 lǐ (principle) and 气 qì (material force). It assimilated Buddhist and Daoist metaphysics to give Confucian ethics cosmological depth, dominating Chinese thought through the Qing."
+  - q: "What is the difference between 理 lǐ and 气 qì in Neo-Confucianism?"
+    a: "理 lǐ is principle: the normative, purely good pattern defining what a thing is and ought to be. 气 qì is material force, the psycho-physical stuff through which 理 is actualized. Every thing has both; evil arises from impure 气, not from 理, which is always perfect."
 ---
 
 

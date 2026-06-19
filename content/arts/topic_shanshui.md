@@ -12,9 +12,16 @@ tags:
   - 'taoism'
   - 'aesthetics'
   - 'classical'
-updated: '2026-04-25'
+updated: '2026-06-19'
 pinyin: 'shānshuǐhuà'
 content_review: pending
+faq:
+  - q: "What does 山水 (shānshuǐ) literally mean?"
+    a: "山水 (shānshuǐ) literally means \"mountain-water,\" so 山水画 (shānshuǐhuà) is \"mountain-water painting.\" The name encodes its theory: 山 (shān) carries yang as solid, vertical, and permanent, while 水 (shuǐ) carries yin as fluid, horizontal, and ever-changing."
+  - q: "What is 留白 (liúbái) in Chinese landscape painting?"
+    a: "留白 (liúbái) is the practice of leaving silk or paper unpainted so blank areas carry meaning as mist, water, space, or sky. In Southern Song \"one-corner\" compositions by Ma Yuan and Xia Gui, this empty ground became an active element: what is not painted is also the painting."
+  - q: "What is 文人画 (wénrénhuà), or literati painting?"
+    a: "文人画 (wénrénhuà) is painting made by scholars and poets as an extension of their inner life, not professional craft. Formalized by Su Shi (苏轼, 1037-1101) and his circle, it judged a work by 意 (yì), the spirit and quality of mind in the brushwork, over technical finish."
 ---
 
 <!DOCTYPE html>

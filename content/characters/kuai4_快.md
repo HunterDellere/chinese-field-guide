@@ -10,13 +10,20 @@ tags:
   - 'emotion'
   - 'daily-life'
   - 'adjectives'
-updated: '2026-04-25'
+updated: '2026-06-19'
 char: '快'
 pinyin: 'kuài'
 tone: 4
 hsk: 2
 radical: '忄'
 content_review: 'pending'
+faq:
+  - q: "Why does 快 (kuài) mean both fast and happy?"
+    a: "快 means both fast and happy because both are the same image: a heart that runs without resistance. The character combines 忄(heart) with 夬 (a decisive cut). A fast river runs without drag; a happy person's heart runs without drag. Speed and joy are one idea seen from two angles."
+  - q: "What is the difference between 快乐 and 高兴?"
+    a: "快乐 (kuàilè) is a broader, more enduring state of happiness, used for people, lives, or occasions. 高兴 (gāoxìng) is being pleased or in a good mood, reactive to a specific event. A child winning a prize is 高兴; a person at peace with their life is 快乐."
+  - q: "What are common near-synonyms of 快 for happiness?"
+    a: "Common near-synonyms include 愉快 (yúkuài), more refined and formal, for pleasant experiences; 快活 (kuàihuó), carefree and slightly literary; and 痛快 (tòngkuài), thoroughly satisfying or refreshingly frank. All share 快's core sense of a heart released without restraint."
 ---
 
 

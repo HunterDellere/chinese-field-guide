@@ -11,8 +11,15 @@ tags:
   - 'zhuangzi'
   - 'freedom'
   - 'daoist'
-updated: '2026-04-18'
+updated: '2026-06-19'
 pinyin: 'zhuāngzǐ'
+faq:
+  - q: "Who was Zhuangzi?"
+    a: "Zhuangzi (Zhuang Zhou 庄周) was a Daoist philosopher who lived approximately 369 to 286 BCE during the Warring States period, a younger contemporary of Mencius. From the state of Meng, he wrote the wittiest, most radical text in early Chinese thought and once refused a chief minister post in Chu."
+  - q: "What is the butterfly dream (庄周梦蝶) in Zhuangzi?"
+    a: "The butterfly dream 梦蝶 is a hundred-character passage closing the chapter 齐物论: Zhuang Zhou dreams he is a butterfly, then wakes unsure whether he is a man who dreamed a butterfly or a butterfly now dreaming the man. It illustrates fluid identity and 物化, the transformation of things."
+  - q: "What does the story of Cook Ding (庖丁解牛) mean?"
+    a: "Cook Ding 庖丁解牛, from the chapter 养生主, illustrates 无为 (effortless mastery): the cook butchers an ox by gliding through the natural gaps between joints rather than forcing his blade through bone. After nineteen years his edge stays sharp, showing skill so internalized that self-conscious technique disappears."
 ---
 
 

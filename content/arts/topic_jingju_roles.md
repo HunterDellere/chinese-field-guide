@@ -14,8 +14,15 @@ tags:
   - 'culture'
   - 'arts'
   - 'music'
-updated: '2026-04-26'
+updated: '2026-06-19'
 pinyin: 'shēng dàn jìng mò chǒu'
+faq:
+  - q: "What are the Chinese opera roles sheng, dan, jing, chou, and mo?"
+    a: "They are the five role categories of Peking Opera (京剧 Jīngjù): 生 sheng, the positive male roles; 旦 dan, the female roles; 净 jing, the painted-face roles; 末 mo, secondary older males; and 丑 chou, the clown. Each is a complete performance tradition with its own voice, movement, and makeup."
+  - q: "What do the face-paint colors mean in Peking Opera?"
+    a: "Color codes a character's nature at a glance. Red (红脸) means loyalty and righteousness, as with Guan Yu 关羽; black (黑脸) means fierce but upright, as with judge Bao Zheng 包拯; white (白脸) means treacherous, as with Cao Cao 曹操; blue and green mark demons; gold and silver mark gods and immortals."
+  - q: "What is the difference between qingyi and huadan in the dan role?"
+    a: "青衣 qīngyī is the virtuous, serious female lead: restrained movement, high pure sustained voice, darker embroidered robes, and emotions of grief and dignified endurance. 花旦 huādàn is the lively young woman: more physical movement, more spoken dialogue, colorful costume, and witty, animated energy where the 青衣 stays still and contained."
 ---
 
 

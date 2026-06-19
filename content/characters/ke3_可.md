@@ -19,7 +19,14 @@ tags:
   - 'permission'
   - 'classical'
   - 'syntax'
-updated: '2026-04-25'
+updated: '2026-06-19'
+faq:
+  - q: "What does the Chinese character 可 (kě) mean: can, may, worth, or acceptable?"
+    a: "可 (kě) means all of these. It spans five domains: possibility/capability (可能, 可以), permission (你可以走了), worth or deserving (可爱 lovable, 可怕 frightening), a colloquial degree intensifier (可好了, quite good), and a classical concessive sense."
+  - q: "What does 可能 (kěnéng) mean and how is it used?"
+    a: "可能 (kěnéng) means possible, maybe, or possibility, combining 可 (capable of affirming) with 能 (ability). As an adverb it hedges claims (perhaps); as an adjective it predicates possibility (这是可能的); as a noun it means the possibility itself. High-frequency across all registers."
+  - q: "What is the difference between 可以, 能, and 会?"
+    a: "可以 (kěyǐ) marks permission or general acceptability (你可以走了, you may go). 能 (néng) marks physical or contextual ability (我能游泳). 会 (huì) marks a learned skill or future likelihood (我会游泳, I know how to swim). Each carries a core meaning the others lack."
 ---
 
 

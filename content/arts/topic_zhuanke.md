@@ -14,8 +14,15 @@ tags:
   - 'culture'
   - 'history'
   - 'classical'
-updated: '2026-04-19'
+updated: '2026-06-19'
 pinyin: 'zhuànkè'
+faq:
+  - q: "What is 篆刻 (zhuànkè), Chinese seal carving?"
+    a: "篆刻 zhuànkè is the art of carving Chinese seals, the small red square that signs and authenticates paintings and calligraphy. It became a fine art in the late Ming dynasty when soft soapstone let a scholar design and carve his own seal directly with a knife."
+  - q: "What are the two main schools of Chinese seal carving?"
+    a: "The two schools are the Zhejiang School (浙派), founded by Ding Jing (1695-1765) in Hangzhou using short chopping cuts for a rugged, ancient look, and the Anhui School (皖派), founded by He Zhen (c. 1541-1607) using long pushing cuts for a smooth, calligraphic line."
+  - q: "What is the difference between 朱文 (zhūwén) and 白文 (báiwén) seals?"
+    a: "In 朱文 zhūwén (red writing) the ground is cut away so raised characters print red on white, giving a lighter impression. In 白文 báiwén (white writing) the characters are cut into the stone and print white against a red ground, a denser look traditionally used for official seals."
 ---
 
 

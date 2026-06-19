@@ -1,5 +1,57 @@
 [
   {
+    "path": "pages/arts/topic_jingju_roles.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "生旦净末丑 · Role Types in Peking Opera",
+    "desc": "Five role categories, each a complete performance tradition -- voice, movement, makeup, and costume as a total semiotic system.",
+    "tags": [
+      "opera",
+      "theatre",
+      "performance",
+      "culture",
+      "arts",
+      "music"
+    ],
+    "status": "complete",
+    "pinyin": "shēng dàn jìng mò chǒu",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/arts/topic_shanshui.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "山水画 · landscape painting",
+    "desc": "Chinese landscape painting encodes a theory in its name: 山 (mountain, yang, permanent) and 水 (water, yin, changing) in dynamic tension. A space to inhabit in the imagination, not a view to frame.",
+    "tags": [
+      "arts",
+      "nature",
+      "taoism",
+      "aesthetics",
+      "classical"
+    ],
+    "status": "complete",
+    "pinyin": "shānshuǐhuà",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/arts/topic_shijing.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "诗经 · Book of Songs",
+    "desc": "China oldest poetry anthology: three hundred poems that Confucius said no educated person could afford to ignore.",
+    "tags": [
+      "poetry",
+      "literature",
+      "classical",
+      "history",
+      "culture"
+    ],
+    "status": "complete",
+    "pinyin": "shījīng",
+    "updated": "2026-06-19"
+  },
+  {
     "path": "pages/arts/topic_shufa_styles.html",
     "type": "topic",
     "category": "arts",
@@ -16,6 +68,24 @@
     ],
     "status": "complete",
     "pinyin": "shūfǎ fēnggé",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/arts/topic_shuimohua.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "水墨画 · Ink-Wash Painting",
+    "desc": "Where the brush meets philosophy: five tones of ink, the art of leaving space, and landscapes that are not about landscape at all.",
+    "tags": [
+      "art",
+      "brush",
+      "calligraphy",
+      "culture",
+      "history",
+      "classical"
+    ],
+    "status": "complete",
+    "pinyin": "shuǐmòhuà",
     "updated": "2026-06-19"
   },
   {
@@ -49,6 +119,65 @@
     ],
     "status": "complete",
     "pinyin": "tángshī",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/arts/topic_zhuanke.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "篆刻 · Seal Carving",
+    "desc": "The art of the name: bronze to stone, dynasty to dynasty, two schools of carvers, and the small red square that authenticates everything.",
+    "tags": [
+      "calligraphy",
+      "art",
+      "brush",
+      "culture",
+      "history",
+      "classical"
+    ],
+    "status": "complete",
+    "pinyin": "zhuànkè",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/characters/ke3_可.html",
+    "type": "character",
+    "category": "characters",
+    "title": "可 · can; may; worth; quite",
+    "desc": "A two-stroke mouth character whose ancient sense of affirming breath became the pivot of permission, capability, and worth in classical and modern Chinese.",
+    "tags": [
+      "grammar",
+      "modal",
+      "ability",
+      "permission",
+      "classical",
+      "syntax"
+    ],
+    "status": "complete",
+    "char": "可",
+    "pinyin": "kě",
+    "tone": 3,
+    "hsk": 2,
+    "radical": "口",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/characters/kuai4_快.html",
+    "type": "character",
+    "category": "characters",
+    "title": "快 · fast, happy",
+    "desc": "One character carries two meanings that turn out to be the same thing: speed and joy both feel like the heart cutting loose.",
+    "tags": [
+      "emotion",
+      "daily-life",
+      "adjectives"
+    ],
+    "status": "complete",
+    "char": "快",
+    "pinyin": "kuài",
+    "tone": 4,
+    "hsk": 2,
+    "radical": "忄",
     "updated": "2026-06-19"
   },
   {
@@ -92,6 +221,47 @@
     "updated": "2026-06-19"
   },
   {
+    "path": "pages/characters/yu3_雨.html",
+    "type": "character",
+    "category": "characters",
+    "title": "雨 · rain",
+    "desc": "The oracle bone shows rain falling from the sky: one of the most transparent pictographs in the script, and the radical that organizes all Chinese weather.",
+    "tags": [
+      "nature",
+      "radical",
+      "cosmology"
+    ],
+    "status": "complete",
+    "char": "雨",
+    "pinyin": "yǔ",
+    "tone": 3,
+    "hsk": 2,
+    "radical": "雨",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/characters/yu4_玉.html",
+    "type": "character",
+    "category": "characters",
+    "title": "玉 · jade, precious",
+    "desc": "The material of kingship and moral cultivation: three jade discs on a cord, a glyph almost identical to king, the stone that Confucius said was virtue made visible.",
+    "tags": [
+      "nature",
+      "culture",
+      "virtue",
+      "confucianism",
+      "aesthetics",
+      "royalty",
+      "classical"
+    ],
+    "status": "complete",
+    "char": "玉",
+    "pinyin": "yù",
+    "tone": 4,
+    "radical": "玉",
+    "updated": "2026-06-19"
+  },
+  {
     "path": "pages/grammar/le_了.html",
     "type": "grammar",
     "category": "grammar",
@@ -123,252 +293,70 @@
     "updated": "2026-06-19"
   },
   {
-    "path": "pages/vocab/lunhui_轮回.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "轮回 · samsara; the cycle of rebirth",
-    "desc": "The Buddhist karmic wheel that turns through six realms of existence: the foundational concept that motivates all Buddhist practice as a path toward liberation.",
+    "path": "pages/philosophy/topic_lixue.html",
+    "type": "topic",
+    "category": "philosophy",
+    "title": "理学 · Neo-Confucianism",
+    "desc": "Zhu Xi, the Great Ultimate 太极, and the Song-Ming synthesis.",
     "tags": [
-      "buddhism",
-      "religion",
-      "philosophy",
-      "cosmology",
-      "classical",
-      "fate",
-      "life"
+      "neo-confucianism",
+      "zhuxi",
+      "principle"
     ],
     "status": "complete",
-    "pinyin": "lúnhuí",
+    "pinyin": "lǐxué",
     "updated": "2026-06-19"
   },
   {
-    "path": "pages/characters/ba1_八.html",
-    "type": "character",
-    "category": "characters",
-    "title": "八 · eight; the luckiest number and the eight trigrams",
-    "desc": "Eight is the most coveted number in modern China through its near-homophony with 发 fā (to prosper), and the classical foundation of the eight trigrams that structure the Yijing.",
+    "path": "pages/philosophy/topic_xunzi.html",
+    "type": "topic",
+    "category": "philosophy",
+    "title": "荀子 · Xunzi",
+    "desc": "Human nature as bad: ritual and education as correction.",
     "tags": [
-      "cosmology",
-      "culture",
-      "language"
+      "xunzi",
+      "ritual",
+      "human-nature"
     ],
     "status": "complete",
-    "char": "八",
-    "pinyin": "bā",
-    "tone": 1,
-    "hsk": 1,
-    "radical": "八",
-    "updated": "2026-06-07"
+    "pinyin": "xúnzǐ",
+    "updated": "2026-06-19"
   },
   {
-    "path": "pages/characters/hei1_黑.html",
-    "type": "character",
-    "category": "characters",
-    "title": "黑 · black, darkness, and the illicit",
-    "desc": "Black on the surface, but the live sense is moral: the black market, the underworld, the hacker. The color that names everything that operates out of sight.",
+    "path": "pages/philosophy/topic_yangming.html",
+    "type": "topic",
+    "category": "philosophy",
+    "title": "王阳明 · Wang Yangming and the School of Mind",
+    "desc": "Wang Yangming broke Neo-Confucianism open: instead of investigating external things to reach moral truth, he turned inward and declared that the moral mind already knows, and that knowing and acting are one indivisible movement.",
     "tags": [
-      "color",
-      "darkness",
-      "symbolism"
-    ],
-    "status": "complete",
-    "char": "黑",
-    "pinyin": "hēi",
-    "tone": 1,
-    "hsk": 2,
-    "radical": "黑",
-    "updated": "2026-06-07"
-  },
-  {
-    "path": "pages/characters/hen3_很.html",
-    "type": "character",
-    "category": "characters",
-    "title": "很 · very; the empty intensifier",
-    "desc": "很 is the word for very, but its strangest job is doing nothing: Chinese needs a degree adverb before a plain adjective, and 很 fills that slot so quietly that 我很好 means simply I am fine, not I am very well.",
-    "tags": [
-      "grammar",
-      "daily-life",
-      "language"
-    ],
-    "status": "complete",
-    "char": "很",
-    "pinyin": "hěn",
-    "tone": 3,
-    "hsk": 1,
-    "radical": "彳",
-    "updated": "2026-06-07"
-  },
-  {
-    "path": "pages/characters/hong2_红.html",
-    "type": "character",
-    "category": "characters",
-    "title": "红 · red, the color of luck and celebration",
-    "desc": "The cultural keystone color: weddings, New Year, the red envelope, and a century of revolutionary politics all run through this one character.",
-    "tags": [
-      "color",
-      "culture",
-      "symbolism"
-    ],
-    "status": "complete",
-    "char": "红",
-    "pinyin": "hóng",
-    "tone": 2,
-    "hsk": 2,
-    "radical": "纟",
-    "updated": "2026-06-07"
-  },
-  {
-    "path": "pages/characters/jiu3_九.html",
-    "type": "character",
-    "category": "characters",
-    "title": "九 · nine; the imperial number and the highest of the yang",
-    "desc": "Nine is the largest single digit and the highest yang number, reserved for the emperor and the heavens: nine dragons, nine gates, the Nine-Five supreme position, the ninth heaven.",
-    "tags": [
-      "cosmology",
-      "culture",
-      "language"
-    ],
-    "status": "complete",
-    "char": "九",
-    "pinyin": "jiǔ",
-    "tone": 3,
-    "hsk": 1,
-    "radical": "乙",
-    "updated": "2026-06-07"
-  },
-  {
-    "path": "pages/characters/liang3_两.html",
-    "type": "character",
-    "category": "characters",
-    "title": "两 · two (of); a pair; the tael, the other word for two",
-    "desc": "两 is the two used before measure words, the two of quantity and pairing, as opposed to 二 the two of counting and order, a distinction that is one of the first real puzzles a learner meets.",
-    "tags": [
-      "language",
-      "grammar",
-      "daily-life"
-    ],
-    "status": "complete",
-    "char": "两",
-    "pinyin": "liǎng",
-    "tone": 3,
-    "hsk": 2,
-    "radical": "一",
-    "updated": "2026-06-07"
-  },
-  {
-    "path": "pages/characters/ling2_零.html",
-    "type": "character",
-    "category": "characters",
-    "title": "零 · zero; raindrops, the fractional remainder, and the late invention of nothing",
-    "desc": "Zero began as falling raindrops and the leftover odd remainder, taking on the meaning of mathematical nothing only late, the placeholder that Chinese numerals long managed without.",
-    "tags": [
-      "language",
-      "science",
-      "cosmology"
-    ],
-    "status": "complete",
-    "char": "零",
-    "pinyin": "líng",
-    "tone": 2,
-    "hsk": 2,
-    "radical": "雨",
-    "updated": "2026-06-07"
-  },
-  {
-    "path": "pages/characters/liu4_六.html",
-    "type": "character",
-    "category": "characters",
-    "title": "六 · six; the six directions; a smooth and lucky number",
-    "desc": "Six closes space into the six directions (the four compass points plus up and down) and, through its near-homophony with 流 liú (to flow), became a number for things going smoothly.",
-    "tags": [
-      "cosmology",
-      "space",
-      "language"
-    ],
-    "status": "complete",
-    "char": "六",
-    "pinyin": "liù",
-    "tone": 4,
-    "hsk": 1,
-    "radical": "八",
-    "updated": "2026-06-07"
-  },
-  {
-    "path": "pages/characters/nian4_念.html",
-    "type": "character",
-    "category": "characters",
-    "title": "念 · to recite, to keep in mind, to miss",
-    "desc": "念 holds the present moment 今 over the heart 心: to keep something in mind, to recite aloud, to long for what is absent. The 念 of 念佛 recitation, 想念 longing, and the single thought-moment of Buddhist psychology.",
-    "tags": [
+      "wang-yangming",
+      "neo-confucianism",
+      "confucianism",
+      "philosophy",
+      "ethics",
+      "human-nature",
+      "knowing",
       "mind",
-      "memory",
-      "buddhism",
-      "mindfulness",
-      "recitation"
+      "history",
+      "ming"
     ],
     "status": "complete",
-    "char": "念",
-    "pinyin": "niàn",
-    "tone": 4,
-    "hsk": 3,
-    "radical": "心",
-    "updated": "2026-06-07"
+    "pinyin": "Wáng Yángmíng",
+    "updated": "2026-06-19"
   },
   {
-    "path": "pages/characters/qi1_七.html",
-    "type": "character",
-    "category": "characters",
-    "title": "七 · seven; the rhythm of mourning, festival, and the soul",
-    "desc": "Seven measures the cycles of death and renewal in Chinese culture: the seven-day periods of mourning, the seventh-night lovers' festival, and the seven emotions of the heart.",
+    "path": "pages/philosophy/topic_zhuangzi.html",
+    "type": "topic",
+    "category": "philosophy",
+    "title": "庄子 · Zhuangzi",
+    "desc": "The butterfly dream, Cook Ding, and Daoist freedom from convention.",
     "tags": [
-      "cosmology",
-      "culture",
-      "language"
+      "zhuangzi",
+      "freedom",
+      "daoist"
     ],
     "status": "complete",
-    "char": "七",
-    "pinyin": "qī",
-    "tone": 1,
-    "hsk": 1,
-    "radical": "一",
-    "updated": "2026-06-07"
-  },
-  {
-    "path": "pages/characters/qian1_千.html",
-    "type": "character",
-    "category": "characters",
-    "title": "千 · thousand; a vast, uncountable many",
-    "desc": "Thousand is the order of magnitude where a precise count gives way to poetic vastness: a thousand miles, a thousand autumns, ten thousand changes, the number that means simply too many to count.",
-    "tags": [
-      "language",
-      "literature",
-      "cosmology"
-    ],
-    "status": "complete",
-    "char": "千",
-    "pinyin": "qiān",
-    "tone": 1,
-    "hsk": 2,
-    "radical": "十",
-    "updated": "2026-06-07"
-  },
-  {
-    "path": "pages/characters/si4_四.html",
-    "type": "character",
-    "category": "characters",
-    "title": "四 · four; the four directions; the homophone of death",
-    "desc": "Four organizes the Chinese world into quarters, the four directions, four seas, four seasons, yet its near-homophony with 死 sǐ (death) makes it the most avoided number in modern China.",
-    "tags": [
-      "cosmology",
-      "space",
-      "language"
-    ],
-    "status": "complete",
-    "char": "四",
-    "pinyin": "sì",
-    "tone": 4,
-    "hsk": 1,
-    "radical": "囗",
-    "updated": "2026-06-07"
+    "pinyin": "zhuāngzǐ",
+    "updated": "2026-06-19"
   }
 ]

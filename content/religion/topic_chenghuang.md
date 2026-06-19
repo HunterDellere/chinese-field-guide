@@ -16,7 +16,14 @@ tags:
   - 'history'
   - 'ritual'
   - 'ancestors'
-updated: '2026-04-26'
+updated: '2026-06-19'
+faq:
+  - q: "What are the duties of the City God (城隍爷 Chénghuángyé) in Chinese folk religion?"
+    a: "The City God serves as a divine magistrate with duties running two ways: toward the living he records each resident's moral conduct and protects the city from supernatural threats; toward the dead he conducts an initial moral review of every soul before forwarding it to King Yama's underworld courts."
+  - q: "Who is the City God (城隍) and what is his place in the divine hierarchy?"
+    a: "The City God is the supernatural governor of a Chinese city. He sits above the local earth god (土地公 Tǔdìgōng) and reports upward through King Yama (阎王) to the Jade Emperor's celestial court, mirroring imperial bureaucracy where a magistrate answers to higher officials."
+  - q: "Why were historical officials turned into City Gods?"
+    a: "Historical officials became City Gods because a good official who served well in life was understood to continue serving in death, an administrative promotion rather than an ending. Examples include 秦裕伯 (1301-1373), City God of Shanghai, and the Song general 岳飞 (1103-1142), City God of Hangzhou."
 ---
 
 
