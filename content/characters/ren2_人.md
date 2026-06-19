@@ -10,7 +10,7 @@ tags:
   - 'humanity'
   - 'confucianism'
   - 'radical'
-updated: '2026-04-18'
+updated: '2026-06-19'
 char: '人'
 pinyin: 'rén'
 tone: 2
@@ -19,6 +19,13 @@ radical: '人'
 content_review: 'verified'
 content_sources:
   - 'Unihan'
+faq:
+  - q: "What does the oracle-bone character 人 (rén) look like, and what does it mean?"
+    a: "人 rén means person or human being. The oracle-bone script (c. 1200 BCE) shows a person in strict profile: one stroke leaning forward for the torso, one descending for the leg. Just two strokes, the silhouette of upright posture. The character has barely changed in three thousand years."
+  - q: "How is 人 rén connected to 仁 rén, the Confucian virtue?"
+    a: "仁 rén (benevolence, humaneness) is written 人 + 二 (two), the character Confucius placed at the center of his ethics. As 仁者爱人 puts it, the benevolent person loves others. For Confucius full humanity is realized only in relation, between two people, never alone."
+  - q: "What is the single-person radical 亻, and which characters use it?"
+    a: "亻 is the compressed two-stroke form of 人 used on a character's left side, signaling a human, action, or quality. It builds 他 tā (he), 你 nǐ (you), 休 xiū (rest), 信 xìn (trust), and 作 zuò (make). It appears in over 500 standard characters."
 ---
 
 

@@ -13,8 +13,15 @@ tags:
   - 'classical'
   - 'confucianism'
   - 'literature'
-updated: '2026-04-25'
+updated: '2026-06-19'
 pinyin: 'gǔqín'
+faq:
+  - q: "What is the guqin zither?"
+    a: "The guqin (古琴) is a seven-string plucked zither about 130 cm long, laid flat on a table and played by one seated musician. Its confirmed history begins in the Zhou dynasty (1046-256 BCE). It has thirteen 徽 huī markers and no frets."
+  - q: "Where does the Chinese word 知音 (zhīyīn) come from?"
+    a: "知音 zhīyīn comes from the guqin story of 伯牙 Bó Yá and 钟子期 Zhōng Zǐqī, recorded in the Liezi 列子. Ziqi alone understood Boya's music; when Ziqi died, Boya smashed his qin forever. The word now means a soulmate who understands you deeply."
+  - q: "What are the four scholarly arts (琴棋书画)?"
+    a: "The four scholarly arts, 琴棋书画 qín qí shū huà, are qin (guqin), chess (围棋 wéiqí), calligraphy (书法 shūfǎ), and painting (绘画 huìhuà). They defined the curriculum of the educated 文人 literati. 琴 is listed first because it was understood to cultivate character directly."
 ---
 
 

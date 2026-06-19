@@ -13,8 +13,15 @@ tags:
   - 'history'
   - 'culture'
   - 'philosophy'
-updated: '2026-04-19'
+updated: '2026-06-19'
 pinyin: 'xīngxiù'
+faq:
+  - q: "What are the 28 lunar mansions in Chinese astronomy?"
+    a: "The 28 lunar mansions (二十八宿 èrshíbā xiù) are the primary coordinate system of Chinese astronomy. They divide the ecliptic and celestial equator into 28 unequal stations, roughly one per day of the moon's monthly circuit, each defined by a lead star (距星 jùxīng)."
+  - q: "What are the four symbols (四象) of the Chinese sky?"
+    a: "The four symbols (四象 sì xiàng) are four mythological animal guardians of the directions: the Azure Dragon (east, spring), Vermilion Bird (south, summer), White Tiger (west, autumn), and Black Tortoise (north, winter). Each governs one quadrant of the sky and a set of seven lunar mansions."
+  - q: "How many stars did the Chinese star catalog record?"
+    a: "The Chinese star catalog systematized by Tang astronomer Li Chunfeng recorded 283 asterisms containing 1,464 named stars, the most comprehensive pre-telescopic catalog outside the Greco-Roman tradition. It was rendered in the Dunhuang Star Map (敦煌星图), dating to roughly 700 CE."
 ---
 
 

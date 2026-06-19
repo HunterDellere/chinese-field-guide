@@ -9,7 +9,7 @@ pageTitle: '思 sī'
 tags:
   - 'mind'
   - 'emotion'
-updated: '2026-04-19'
+updated: '2026-06-19'
 char: '思'
 pinyin: 'sī'
 tone: 1
@@ -18,6 +18,13 @@ radical: '心'
 content_review: 'verified'
 content_sources:
   - 'Unihan'
+faq:
+  - q: "Do characters for thinking and missing, like 思, contain the heart radical 心?"
+    a: "Yes. 思 sī is built from 田 (field) over 心 (heart, its radical), and its longing-compound 念 niàn also contains 心 in its lower half. The shared heart component reflects how Chinese fuses thinking and feeling into one organ of cognition."
+  - q: "Why does 思 mean both \"to think\" and \"to miss\"?"
+    a: "思 sī carries both senses because Chinese treats them as two aspects of one act: to think about someone far away is to miss them. The language draws no line between the cognitive and the emotional, so context, not a separate word, shades the meaning toward reflection or longing."
+  - q: "What does the structure of 思 (田 over 心) mean?"
+    a: "思 stacks 田 tián (field) over 心 xīn (heart), suggesting the mind as cultivated ground tended over time. Mencius made it central to his philosophy, arguing 心之官则思 (\"the function of the heart is to think\"), using 思 as proof that the heart is the thinking organ."
 ---
 
 

@@ -6,7 +6,15 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A reading nook for Chinese language and civilisation. Characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Jun 2026 19:43:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 19:52:57 GMT</lastBuildDate>
+    <item>
+      <title>古琴 · the scholar&apos;s zither</title>
+      <link>https://jiaoshoo.com/pages/arts/topic_guqin.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/arts/topic_guqin.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>The seven-string zither Confucius played throughout his life, and the origin of 知音, the word for a person who truly understands you.</description>
+      <category>arts</category>
+    </item>
     <item>
       <title>生旦净末丑 · Role Types in Peking Opera</title>
       <link>https://jiaoshoo.com/pages/arts/topic_jingju_roles.html</link>
@@ -80,6 +88,22 @@
       <category>characters</category>
     </item>
     <item>
+      <title>和 · harmony, and, with; peace</title>
+      <link>https://jiaoshoo.com/pages/characters/he2_和.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/he2_和.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>和 carries the same concept across grammar and philosophy: grain and mouth together, the harmony of shared food and speech, a character that serves as both everyday conjunction and the Confucian ideal of a well-ordered world.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>家 · home, family</title>
+      <link>https://jiaoshoo.com/pages/characters/jia1_家.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/jia1_家.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>House, family, school of thought, nation (国家): the fractal of belonging.</description>
+      <category>characters</category>
+    </item>
+    <item>
       <title>可 · can; may; worth; quite</title>
       <link>https://jiaoshoo.com/pages/characters/ke3_可.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/ke3_可.html</guid>
@@ -96,11 +120,35 @@
       <category>characters</category>
     </item>
     <item>
+      <title>其 · its, that, their</title>
+      <link>https://jiaoshoo.com/pages/characters/qi2_其.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/qi2_其.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>A winnowing basket that became the pronoun holding classical Chinese together: the silent &apos;its&apos; behind thousands of literary phrases.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>人 · person, humanity</title>
+      <link>https://jiaoshoo.com/pages/characters/ren2_人.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/ren2_人.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>The character for human being, and its echo in 仁 rén, Confucian benevolence.</description>
+      <category>characters</category>
+    </item>
+    <item>
       <title>山 · mountain, hill, sacred peak</title>
       <link>https://jiaoshoo.com/pages/characters/shan1_山.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/shan1_山.html</guid>
       <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
       <description>Three peaks rising from the earth: the oldest pictograph and the axis of Chinese sacred geography.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>思 · to think, to miss, thought</title>
+      <link>https://jiaoshoo.com/pages/characters/si1_思.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/si1_思.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>The field of the mind above the heart: thinking as cultivation, longing as thought turned inward.</description>
       <category>characters</category>
     </item>
     <item>
@@ -192,60 +240,12 @@
       <category>grammar</category>
     </item>
     <item>
-      <title>所 · classical nominalizer and passive marker</title>
-      <link>https://jiaoshoo.com/pages/grammar/suo_所.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/grammar/suo_所.html</guid>
+      <title>量词 · measure words</title>
+      <link>https://jiaoshoo.com/pages/grammar/liangci_量词.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/grammar/liangci_量词.html</guid>
       <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
-      <description>The function word that turns verbs into noun phrases, and has been doing so since Confucius quoted it in the Analects.</description>
+      <description>个, 只, 条, 本, 张: the classifier taxonomy and the logic behind it.</description>
       <category>grammar</category>
-    </item>
-    <item>
-      <title>着 · the continuous aspect marker</title>
-      <link>https://jiaoshoo.com/pages/grammar/zhe_着.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/grammar/zhe_着.html</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
-      <description>Three distinct jobs: holding a state, linking two actions, and commanding attention. All from a single particle that beginners collapse into one.</description>
-      <category>grammar</category>
-    </item>
-    <item>
-      <title>者 · classical nominalizer &quot;the one who; that which&quot;</title>
-      <link>https://jiaoshoo.com/pages/grammar/zhi_者.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/grammar/zhi_者.html</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
-      <description>The particle that turns a verb or adjective into a person, and that never stopped working.</description>
-      <category>grammar</category>
-    </item>
-    <item>
-      <title>科举 · The Imperial Examination System</title>
-      <link>https://jiaoshoo.com/pages/history/topic_keju.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/history/topic_keju.html</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
-      <description>The exam that governed Chinese civilization for 1,300 years: selecting officials by merit, enshrining the Confucian canon, and shaping every dynasty from the Sui through the Qing.</description>
-      <category>history</category>
-    </item>
-    <item>
-      <title>周朝 · The Zhou Dynasty</title>
-      <link>https://jiaoshoo.com/pages/history/topic_zhoudai.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/history/topic_zhoudai.html</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
-      <description>The longest dynasty in Chinese history and the philosophical seedbed of Chinese civilization: where the Mandate of Heaven was born, Confucius lived, and nearly every idea that shaped imperial China was first argued.</description>
-      <category>history</category>
-    </item>
-    <item>
-      <title>孔子 · Confucius</title>
-      <link>https://jiaoshoo.com/pages/philosophy/topic_kongzi.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/philosophy/topic_kongzi.html</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
-      <description>His life, the Analects 论语, and the civilization he shaped.</description>
-      <category>philosophy</category>
-    </item>
-    <item>
-      <title>理学 · Neo-Confucianism</title>
-      <link>https://jiaoshoo.com/pages/philosophy/topic_lixue.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/philosophy/topic_lixue.html</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
-      <description>Zhu Xi, the Great Ultimate 太极, and the Song-Ming synthesis.</description>
-      <category>philosophy</category>
     </item>
   </channel>
 </rss>

@@ -12,10 +12,17 @@ tags:
   - 'writing'
   - 'calligraphy'
   - 'language'
-updated: '2026-04-20'
+updated: '2026-06-19'
 content_review: 'verified'
 content_sources:
   - 'Unihan'
+faq:
+  - q: "What are the rules for stroke order (笔顺) in Chinese characters?"
+    a: "Stroke order (笔顺 bǐshùn) follows a fixed sequence: top before bottom, left before right, and horizontal before vertical when strokes cross. For enclosures, write the frame first, fill the contents, then close last. In symmetric characters, write the center before the sides."
+  - q: "What are the eight basic strokes of Chinese characters?"
+    a: "The eight basic strokes are 横 héng (horizontal), 竖 shù (vertical), 撇 piě (left-falling), 捺 nà (right-falling), 点 diǎn (dot), 折 zhé (turning), 钩 gōu (hook), and 提 tí (rising). The character 永 yǒng contains all eight, making it the classic practice character."
+  - q: "How is Chinese character stroke count used in dictionaries?"
+    a: "Stroke count orders characters two ways. Within a radical section, entries are sorted by the stroke count of their non-radical components. Separately, stroke-count indexes (笔画索引) let you look up a character by its total strokes when the radical is unclear, serving as a backup method."
 ---
 
 

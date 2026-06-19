@@ -14,9 +14,16 @@ tags:
   - 'poetry'
   - 'cosmology'
   - 'literary'
-updated: '2026-04-25'
+updated: '2026-06-19'
 pinyin: 'rénjiān'
 content_review: 'pending'
+faq:
+  - q: "What does 人间 (rénjiān) mean in Chinese?"
+    a: "人间 rénjiān means the human world, the mortal realm, this life on earth. Literally \"the space among people\" (人 rén + 间 jiān), it is the middle realm between heaven above and the underworld below. It carries a strong connotation of transience and the emotional weight of ordinary human life."
+  - q: "Why is being born in 人间 considered fortunate in Buddhism?"
+    a: "In Buddhist cosmology, among the six realms of rebirth (六道), birth in 人间 is the most conducive to awakening. Gods are too comfortable to feel urgency for the Dharma; the lower realms are too painful for practice. Only humans have both the motivation and capacity to hear the teaching and act on it."
+  - q: "What emotion does Su Shi's Prelude to Water Melody (水调歌头) express?"
+    a: "Su Shi's 水调歌头, written in 1076 after seven years apart from his brother Su Zhe, expresses longing and acceptance across separation. Its closing wish, 但愿人长久，千里共婵娟 (\"May people live long; across a thousand li, may we share this moon's beauty\"), sets the constant moon against 人间, where people age and lose each other."
 ---
 
 

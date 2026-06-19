@@ -11,8 +11,15 @@ tags:
   - 'qing'
   - 'manchu'
   - 'decline'
-updated: '2026-04-18'
+updated: '2026-06-19'
 pinyin: 'qīngcháo'
+faq:
+  - q: "When was the Qing Dynasty and who ruled it?"
+    a: "The Qing Dynasty (清朝 Qīngcháo) ran from 1644 to 1912 and was China's last imperial dynasty. It was ruled by the Manchus (满族 Mǎnzú), a semi-nomadic people from Manchuria who entered through Shanhai Pass in 1644 and governed through the inherited Ming bureaucratic system."
+  - q: "Why did the Qing Dynasty fall?"
+    a: "The Qing fell after decades of crisis: defeat in the Opium Wars (1839-1842, 1856-1860), unequal treaties ceding territory, the catastrophic Taiping Rebellion (1850-1864) that killed 20-30 million, and the failed Boxer Rebellion. The 1911 Revolution then ended the dynasty; the last emperor, Puyi, abdicated in 1912."
+  - q: "Who were the three great emperors of the Qing golden age?"
+    a: "The Qing golden age (康乾盛世 Kāng-Qián Shèngshì, roughly 1661-1796) was shaped by three emperors: Kangxi (r. 1661-1722), Yongzheng (r. 1722-1735), and Qianlong (r. 1735-1796). Under them the Qing reached its peak in territory, population, and economic output, producing roughly one-third of global GDP."
 ---
 
 

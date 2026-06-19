@@ -11,8 +11,15 @@ tags:
   - 'buddhism'
   - 'transmission'
   - 'history'
-updated: '2026-04-18'
+updated: '2026-06-19'
 pinyin: 'fójiào'
+faq:
+  - q: "What is 佛教 (fójiào)?"
+    a: "佛教 fójiào is Buddhism in China. It arrived via the Central Asian Silk Road around the 1st century CE during the Han dynasty, then underwent two millennia of sinicization, becoming recognizably Chinese while remaining Buddhist and shaping Chinese art, philosophy, language, and popular religion."
+  - q: "When and how did Buddhism arrive in China?"
+    a: "Buddhism entered China in the 1st century CE along the Silk Road during the Han dynasty. The traditional date is 67 CE, when Emperor Ming reportedly sent envoys west who returned with Indian monks; the White Horse Temple 白马寺 near Luoyang commemorates this and remains China's oldest Buddhist monastery."
+  - q: "What are the main Chinese Buddhist schools?"
+    a: "The main Chinese Buddhist schools are Chan 禅宗 (meditation and sudden enlightenment), Pure Land 净土宗 (the most widely practiced, centered on reciting Amitābha's name), Tiantai 天台宗 (the comprehensive synthesis school), Huayan 华严宗 (total interpenetration of all phenomena), and Esoteric 密宗 (mantra, mudra, and mandala)."
 ---
 
 

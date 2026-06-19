@@ -12,13 +12,20 @@ tags:
   - 'literary'
   - 'particle'
   - 'language'
-updated: '2026-04-22'
+updated: '2026-06-19'
 char: '其'
 pinyin: 'qí'
 tone: 2
 hsk: 4
 radical: '八'
 content_review: 'pending'
+faq:
+  - q: "What are the different uses of the character 其 qí in classical Chinese?"
+    a: "In Classical Chinese (文言文 wényánwén), 其 qí has three core roles: a third-person possessive and attributive pronoun (his, her, its, their), a demonstrative (that, such), and a modal particle marking uncertainty or exhortation. The Analects alone uses it hundreds of times."
+  - q: "What does 其 qí mean and where does the character come from?"
+    a: "其 qí means its, his, her, their, or that, serving as the standard third-person determiner of literary Chinese. Its oracle-bone form shows a flat-bottomed winnowing basket; by the Shang dynasty that concrete noun had been borrowed as a pronoun, leaving the basket sense to 箕 jī."
+  - q: "What does 其实 qíshí mean in Chinese?"
+    a: "其实 qíshí means in fact, actually, or as a matter of fact. It combines 其 qí (its) and 实 shí (reality), literally its true nature, and is used to correct a false impression or reveal a hidden truth: 他看起来很严格，其实人很好 (He seems strict, but actually he's kind)."
 ---
 
 

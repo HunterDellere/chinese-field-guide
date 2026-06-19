@@ -11,8 +11,15 @@ tags:
   - 'measure-words'
   - 'classifiers'
   - 'nouns'
-updated: '2026-04-18'
+updated: '2026-06-19'
 pinyin: 'liàngcí'
+faq:
+  - q: "What are Chinese measure words (量词 liàngcí) and why are they needed?"
+    a: "Chinese measure words (量词 liàngcí, also called classifiers) are required units that stand between a number and a noun. Chinese cannot count nouns directly, so the pattern is Number + Classifier + Noun, as in 三本书 or 一条鱼. The classifier reveals how the language categorizes each object."
+  - q: "Which Chinese measure word should I use when I'm not sure?"
+    a: "Use 个 gè, the most frequent and generic classifier in Mandarin. It is required for people (一个人), works for many concrete nouns (苹果, 问题, 办法), and substitutes for most others in informal speech. In formal writing, however, specific classifiers are expected."
+  - q: "What is the difference between 双 shuāng and 对 duì?"
+    a: "双 shuāng counts two identical objects used together, like 一双鞋 (shoes) or 一双筷子 (chopsticks). 对 duì counts a complementary matched set that forms a whole, like 一对夫妻 (a couple) or 一对耳环 (earrings). 双 requires identical items; 对 allows complementary ones."
 ---
 
 

@@ -10,7 +10,7 @@ tags:
   - 'family'
   - 'society'
   - 'home'
-updated: '2026-04-18'
+updated: '2026-06-19'
 char: '家'
 pinyin: 'jiā'
 tone: 1
@@ -19,6 +19,13 @@ radical: '宀'
 content_review: 'verified'
 content_sources:
   - 'Unihan'
+faq:
+  - q: "What does guójiā (国家) mean in Chinese?"
+    a: "国家 guójiā means nation, state, or country, built from 国 guó (country) plus 家 jiā (family), literally country-family. The compound is inseparable; neither 国 nor 家 alone means nation. It encodes the Confucian idea that the nation is the family scaled up."
+  - q: "What is the origin of the character 家 (jiā)?"
+    a: "家 jiā combines 宀 mián, the roof radical for shelter, with 豕 shǐ, a pig. It pictures a roof with a pig under it: a home. In ancient China pigs were kept under the same roof as the family, marking a self-sustaining household, so 家 encodes shelter plus livestock."
+  - q: "What does the 家 (jiā) suffix mean in words like 画家 or 科学家?"
+    a: "Added to a discipline, 家 marks someone who has made that field their home, implying deep mastery rather than a job title. Examples include 画家 huàjiā (painter), 作家 zuòjiā (writer), 音乐家 yīnyuèjiā (musician), 科学家 kēxuéjiā (scientist), and 政治家 zhèngzhìjiā (statesman)."
 ---
 
 

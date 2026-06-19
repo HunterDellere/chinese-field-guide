@@ -11,8 +11,15 @@ tags:
   - 'confucianism'
   - 'ritual'
   - 'ethics'
-updated: '2026-04-18'
+updated: '2026-06-19'
 pinyin: 'rújiā'
+faq:
+  - q: "What is humaneness (仁 rén) in Confucianism?"
+    a: "仁 rén is the master virtue of Confucianism, benevolence or humaneness, the source from which all other virtues draw their meaning. Written as 人 (person) beside 二 (two), it describes the care that arises between people. Confucius used it over 100 times in the Analects, refusing a single definition."
+  - q: "What are the Five Constants of Confucianism?"
+    a: "The Five Constants (五常 wǔcháng) are the five core Confucian virtues, codified most fully by Dong Zhongshu in the Han: 仁 rén (benevolence), 义 yì (righteousness), 礼 lǐ (ritual propriety), 智 zhì (wisdom), and 信 xìn (trustworthiness). Together they define what it means to be a 君子 jūnzǐ, an exemplary person."
+  - q: "What is the rectification of names in Analects 13.3?"
+    a: "The rectification of names (正名 zhèngmíng), from Analects 13.3, is Confucius's doctrine that rulers must be called by their role only when they fulfill it. Asked what he would do first with power, he said he would rectify names: social reality follows naming. It underlies the idiom 名正言顺 míng zhèng yán shùn."
 ---
 
 

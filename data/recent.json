@@ -1,5 +1,22 @@
 [
   {
+    "path": "pages/arts/topic_guqin.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "古琴 · the scholar's zither",
+    "desc": "The seven-string zither Confucius played throughout his life, and the origin of 知音, the word for a person who truly understands you.",
+    "tags": [
+      "arts",
+      "music",
+      "classical",
+      "confucianism",
+      "literature"
+    ],
+    "status": "complete",
+    "pinyin": "gǔqín",
+    "updated": "2026-06-19"
+  },
+  {
     "path": "pages/arts/topic_jingju_roles.html",
     "type": "topic",
     "category": "arts",
@@ -159,6 +176,45 @@
     "updated": "2026-06-19"
   },
   {
+    "path": "pages/characters/he2_和.html",
+    "type": "character",
+    "category": "characters",
+    "title": "和 · harmony, and, with; peace",
+    "desc": "和 carries the same concept across grammar and philosophy: grain and mouth together, the harmony of shared food and speech, a character that serves as both everyday conjunction and the Confucian ideal of a well-ordered world.",
+    "tags": [
+      "confucianism",
+      "social",
+      "grammar",
+      "philosophy"
+    ],
+    "status": "complete",
+    "char": "和",
+    "pinyin": "hé",
+    "tone": 2,
+    "hsk": 1,
+    "radical": "禾",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/characters/jia1_家.html",
+    "type": "character",
+    "category": "characters",
+    "title": "家 · home, family",
+    "desc": "House, family, school of thought, nation (国家): the fractal of belonging.",
+    "tags": [
+      "family",
+      "society",
+      "home"
+    ],
+    "status": "complete",
+    "char": "家",
+    "pinyin": "jiā",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "宀",
+    "updated": "2026-06-19"
+  },
+  {
     "path": "pages/characters/ke3_可.html",
     "type": "character",
     "category": "characters",
@@ -200,6 +256,46 @@
     "updated": "2026-06-19"
   },
   {
+    "path": "pages/characters/qi2_其.html",
+    "type": "character",
+    "category": "characters",
+    "title": "其 · its, that, their",
+    "desc": "A winnowing basket that became the pronoun holding classical Chinese together: the silent 'its' behind thousands of literary phrases.",
+    "tags": [
+      "grammar",
+      "classical",
+      "literary",
+      "particle",
+      "language"
+    ],
+    "status": "complete",
+    "char": "其",
+    "pinyin": "qí",
+    "tone": 2,
+    "hsk": 4,
+    "radical": "八",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/characters/ren2_人.html",
+    "type": "character",
+    "category": "characters",
+    "title": "人 · person, humanity",
+    "desc": "The character for human being, and its echo in 仁 rén, Confucian benevolence.",
+    "tags": [
+      "humanity",
+      "confucianism",
+      "radical"
+    ],
+    "status": "complete",
+    "char": "人",
+    "pinyin": "rén",
+    "tone": 2,
+    "hsk": 1,
+    "radical": "人",
+    "updated": "2026-06-19"
+  },
+  {
     "path": "pages/characters/shan1_山.html",
     "type": "character",
     "category": "characters",
@@ -216,6 +312,24 @@
     "tone": 1,
     "hsk": 1,
     "radical": "山",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/characters/si1_思.html",
+    "type": "character",
+    "category": "characters",
+    "title": "思 · to think, to miss, thought",
+    "desc": "The field of the mind above the heart: thinking as cultivation, longing as thought turned inward.",
+    "tags": [
+      "mind",
+      "emotion"
+    ],
+    "status": "complete",
+    "char": "思",
+    "pinyin": "sī",
+    "tone": 1,
+    "hsk": 3,
+    "radical": "心",
     "updated": "2026-06-19"
   },
   {
@@ -258,129 +372,6 @@
     "tone": 1,
     "hsk": 2,
     "radical": "心",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/characters/ye3_也.html",
-    "type": "character",
-    "category": "characters",
-    "title": "也 · also; too; classical particle",
-    "desc": "A pictograph that lost its original image entirely and became one of the most load-bearing particles in classical Chinese: the gavel at the end of every verdict.",
-    "tags": [
-      "grammar",
-      "particle",
-      "classical",
-      "syntax",
-      "adverb"
-    ],
-    "status": "complete",
-    "char": "也",
-    "pinyin": "yě",
-    "tone": 3,
-    "hsk": 1,
-    "radical": "乙",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/characters/yi3_以.html",
-    "type": "character",
-    "category": "characters",
-    "title": "以 · by means of; using; because; in order to",
-    "desc": "A classical Chinese preposition and conjunction so versatile that it anchors half the grammar of formal Chinese: the word that turns one thing into the means, standard, or cause of another.",
-    "tags": [
-      "grammar",
-      "classical",
-      "syntax",
-      "conjunction",
-      "particle",
-      "literary"
-    ],
-    "status": "complete",
-    "char": "以",
-    "pinyin": "yǐ",
-    "tone": 3,
-    "hsk": 2,
-    "radical": "人",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/characters/yi4_义.html",
-    "type": "character",
-    "category": "characters",
-    "title": "义 · righteousness, duty, justice",
-    "desc": "The Confucian virtue of doing what is morally right, and the simplification that erased a sheep, a self, and the entire picture of what righteous form looks like.",
-    "tags": [
-      "confucianism",
-      "ethics",
-      "virtue",
-      "philosophy"
-    ],
-    "status": "complete",
-    "char": "义",
-    "pinyin": "yì",
-    "tone": 4,
-    "hsk": 3,
-    "radical": "丶",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/characters/yu3_雨.html",
-    "type": "character",
-    "category": "characters",
-    "title": "雨 · rain",
-    "desc": "The oracle bone shows rain falling from the sky: one of the most transparent pictographs in the script, and the radical that organizes all Chinese weather.",
-    "tags": [
-      "nature",
-      "radical",
-      "cosmology"
-    ],
-    "status": "complete",
-    "char": "雨",
-    "pinyin": "yǔ",
-    "tone": 3,
-    "hsk": 2,
-    "radical": "雨",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/characters/yu4_玉.html",
-    "type": "character",
-    "category": "characters",
-    "title": "玉 · jade, precious",
-    "desc": "The material of kingship and moral cultivation: three jade discs on a cord, a glyph almost identical to king, the stone that Confucius said was virtue made visible.",
-    "tags": [
-      "nature",
-      "culture",
-      "virtue",
-      "confucianism",
-      "aesthetics",
-      "royalty",
-      "classical"
-    ],
-    "status": "complete",
-    "char": "玉",
-    "pinyin": "yù",
-    "tone": 4,
-    "radical": "玉",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/characters/zi4_字.html",
-    "type": "character",
-    "category": "characters",
-    "title": "字 · character, written word",
-    "desc": "The character that names itself, and the whole system of 汉字.",
-    "tags": [
-      "writing",
-      "language",
-      "meta"
-    ],
-    "status": "complete",
-    "char": "字",
-    "pinyin": "zì",
-    "tone": 4,
-    "hsk": 1,
-    "radical": "子",
     "updated": "2026-06-19"
   }
 ]

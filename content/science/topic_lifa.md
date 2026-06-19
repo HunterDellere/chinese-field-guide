@@ -13,8 +13,15 @@ tags:
   - 'cosmology'
   - 'culture'
   - 'technology'
-updated: '2026-04-19'
+updated: '2026-06-19'
 pinyin: 'lìfǎ'
+faq:
+  - q: "Is the Chinese calendar lunar or lunisolar?"
+    a: "The Chinese calendar (历法 lìfǎ) is lunisolar, not purely lunar. It tracks both the moon's phases and the sun's annual position at once. Each month begins on the new moon, while 24 solar terms anchor the seasons, with an intercalary month keeping the two synchronized."
+  - q: "What is the 闰月 (intercalary month) in the Chinese calendar?"
+    a: "The 闰月 (rùnyuè) is an extra month inserted roughly every 2-3 years, 7 times in 19 years, to reconcile the lunar and solar cycles. A year with one has 13 months. It repeats the preceding month whenever no major solar term (中气) falls in it."
+  - q: "What are the Heavenly Stems and Earthly Branches (干支)?"
+    a: "干支 (gānzhī) combines the Ten Heavenly Stems and Twelve Earthly Branches to name years, months, days, and two-hour periods. Pairing them generates 60 unique combinations, the sexagenary cycle, used continuously since the Shang dynasty. The Branches also map to the twelve zodiac animals."
 ---
 
 

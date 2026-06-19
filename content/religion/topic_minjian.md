@@ -11,8 +11,15 @@ tags:
   - 'folk-religion'
   - 'gods'
   - 'popular'
-updated: '2026-04-18'
+updated: '2026-06-19'
 pinyin: 'mínjiān xìnyǎng'
+faq:
+  - q: "Who is the City God in Chinese folk religion?"
+    a: "The City God (城隍 Chénghuáng) is the divine magistrate of a city or county, presiding over both the living city and its deceased residents in the underworld. He holds court in his temple (城隍庙), trying the souls of the recently dead to assign their afterlife fate."
+  - q: "Why do many Chinese people say they have no religion yet still burn incense and worship?"
+    a: "Because Chinese folk religion is diffuse, not institutional. Sociologist C.K. Yang distinguished organized religions with clergy and membership from diffuse belief woven into family, community, and calendar. People say 没有信仰 (no religion) yet burn incense, hang door gods, and honor ancestors; these feel like life, not religion."
+  - q: "Why is the number 4 considered unlucky in Chinese culture?"
+    a: "Four (四 sì) is unlucky because it sounds like death (死 sǐ), an example of homophony (谐音). Buildings skip floor 4 and hospitals avoid room 4. By the same logic, eight (八) sounds like 发 (prosper) and is highly auspicious, so license plates with 8s sell at a premium."
 ---
 
 

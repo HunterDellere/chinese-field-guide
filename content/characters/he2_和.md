@@ -11,7 +11,7 @@ tags:
   - 'social'
   - 'grammar'
   - 'philosophy'
-updated: '2026-04-25'
+updated: '2026-06-19'
 char: '和'
 pinyin: 'hé'
 tone: 2
@@ -19,6 +19,13 @@ hsk: 1
 radical: '禾'
 facts_verified: true
 content_review: 'pending'
+faq:
+  - q: "What does the Chinese character 和 (hé) mean?"
+    a: "和 hé means harmony, and, with, or peace. It combines 禾 (a grain stalk) with 口 (mouth): grain and speech shared over a meal. It is an HSK 1 character serving as both the everyday conjunction \"and\" and the Confucian ideal of a well-ordered, harmonious world."
+  - q: "What does 和 mean in Confucian thought (和而不同)?"
+    a: "In Analects 13.23, Confucius says 君子和而不同: the exemplary person harmonizes but does not merely agree. 和 is the productive agreement of different things, like ingredients blending in a dish, not 同 (mere sameness). The Book of Rites adds 和为贵: in ritual, harmony is most precious."
+  - q: "How do you use 和 as the word for \"and\" in Mandarin?"
+    a: "和 is the default Mandarin word for \"and,\" but it connects nouns and noun phrases only, not verbs or clauses. 我和你 (you and I) is correct; linking whole clauses needs 还有 or juxtaposition. Compared with 跟 (colloquial) and 与 (literary, formal), 和 is the neutral, standard choice."
 ---
 
 

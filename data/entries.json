@@ -1,5 +1,22 @@
 [
   {
+    "path": "pages/arts/topic_guqin.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "古琴 · the scholar's zither",
+    "desc": "The seven-string zither Confucius played throughout his life, and the origin of 知音, the word for a person who truly understands you.",
+    "tags": [
+      "arts",
+      "music",
+      "classical",
+      "confucianism",
+      "literature"
+    ],
+    "status": "complete",
+    "pinyin": "gǔqín",
+    "updated": "2026-06-19"
+  },
+  {
     "path": "pages/arts/topic_jingju_roles.html",
     "type": "topic",
     "category": "arts",
@@ -159,6 +176,45 @@
     "updated": "2026-06-19"
   },
   {
+    "path": "pages/characters/he2_和.html",
+    "type": "character",
+    "category": "characters",
+    "title": "和 · harmony, and, with; peace",
+    "desc": "和 carries the same concept across grammar and philosophy: grain and mouth together, the harmony of shared food and speech, a character that serves as both everyday conjunction and the Confucian ideal of a well-ordered world.",
+    "tags": [
+      "confucianism",
+      "social",
+      "grammar",
+      "philosophy"
+    ],
+    "status": "complete",
+    "char": "和",
+    "pinyin": "hé",
+    "tone": 2,
+    "hsk": 1,
+    "radical": "禾",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/characters/jia1_家.html",
+    "type": "character",
+    "category": "characters",
+    "title": "家 · home, family",
+    "desc": "House, family, school of thought, nation (国家): the fractal of belonging.",
+    "tags": [
+      "family",
+      "society",
+      "home"
+    ],
+    "status": "complete",
+    "char": "家",
+    "pinyin": "jiā",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "宀",
+    "updated": "2026-06-19"
+  },
+  {
     "path": "pages/characters/ke3_可.html",
     "type": "character",
     "category": "characters",
@@ -200,6 +256,46 @@
     "updated": "2026-06-19"
   },
   {
+    "path": "pages/characters/qi2_其.html",
+    "type": "character",
+    "category": "characters",
+    "title": "其 · its, that, their",
+    "desc": "A winnowing basket that became the pronoun holding classical Chinese together: the silent 'its' behind thousands of literary phrases.",
+    "tags": [
+      "grammar",
+      "classical",
+      "literary",
+      "particle",
+      "language"
+    ],
+    "status": "complete",
+    "char": "其",
+    "pinyin": "qí",
+    "tone": 2,
+    "hsk": 4,
+    "radical": "八",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/characters/ren2_人.html",
+    "type": "character",
+    "category": "characters",
+    "title": "人 · person, humanity",
+    "desc": "The character for human being, and its echo in 仁 rén, Confucian benevolence.",
+    "tags": [
+      "humanity",
+      "confucianism",
+      "radical"
+    ],
+    "status": "complete",
+    "char": "人",
+    "pinyin": "rén",
+    "tone": 2,
+    "hsk": 1,
+    "radical": "人",
+    "updated": "2026-06-19"
+  },
+  {
     "path": "pages/characters/shan1_山.html",
     "type": "character",
     "category": "characters",
@@ -216,6 +312,24 @@
     "tone": 1,
     "hsk": 1,
     "radical": "山",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/characters/si1_思.html",
+    "type": "character",
+    "category": "characters",
+    "title": "思 · to think, to miss, thought",
+    "desc": "The field of the mind above the heart: thinking as cultivation, longing as thought turned inward.",
+    "tags": [
+      "mind",
+      "emotion"
+    ],
+    "status": "complete",
+    "char": "思",
+    "pinyin": "sī",
+    "tone": 1,
+    "hsk": 3,
+    "radical": "心",
     "updated": "2026-06-19"
   },
   {
@@ -427,6 +541,21 @@
     "updated": "2026-06-19"
   },
   {
+    "path": "pages/grammar/liangci_量词.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "量词 · measure words",
+    "desc": "个, 只, 条, 本, 张: the classifier taxonomy and the logic behind it.",
+    "tags": [
+      "measure-words",
+      "classifiers",
+      "nouns"
+    ],
+    "status": "complete",
+    "pinyin": "liàngcí",
+    "updated": "2026-06-19"
+  },
+  {
     "path": "pages/grammar/suo_所.html",
     "type": "grammar",
     "category": "grammar",
@@ -480,6 +609,27 @@
     "updated": "2026-06-19"
   },
   {
+    "path": "pages/history/topic_handai.html",
+    "type": "topic",
+    "category": "history",
+    "title": "汉朝 · The Han Dynasty",
+    "desc": "The dynasty that named the Chinese people and script: 400 years of empire, the Silk Road, Confucian statecraft, and Sima Qian writing history from prison.",
+    "tags": [
+      "history",
+      "dynasty",
+      "han",
+      "golden-age",
+      "classical",
+      "silk",
+      "trade",
+      "confucianism",
+      "literature"
+    ],
+    "status": "complete",
+    "pinyin": "Hàn cháo",
+    "updated": "2026-06-19"
+  },
+  {
     "path": "pages/history/topic_keju.html",
     "type": "topic",
     "category": "history",
@@ -495,6 +645,21 @@
     ],
     "status": "complete",
     "pinyin": "kē jǔ",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/history/topic_qingchao.html",
+    "type": "topic",
+    "category": "history",
+    "title": "清朝 · The Qing Dynasty",
+    "desc": "Manchu rule, the long peace, and the slow unraveling before 1911.",
+    "tags": [
+      "qing",
+      "manchu",
+      "decline"
+    ],
+    "status": "complete",
+    "pinyin": "qīngcháo",
     "updated": "2026-06-19"
   },
   {
@@ -619,6 +784,51 @@
     "updated": "2026-06-19"
   },
   {
+    "path": "pages/religion/topic_fojiao.html",
+    "type": "topic",
+    "category": "religion",
+    "title": "佛教 · Buddhism in China",
+    "desc": "Two thousand years of transmission, transformation, and sinicization.",
+    "tags": [
+      "buddhism",
+      "transmission",
+      "history"
+    ],
+    "status": "complete",
+    "pinyin": "fójiào",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/religion/topic_minjian.html",
+    "type": "topic",
+    "category": "religion",
+    "title": "民间信仰 · Folk Religion",
+    "desc": "Kitchen gods, city gods, and the living popular religion beneath Buddhism and Daoism.",
+    "tags": [
+      "folk-religion",
+      "gods",
+      "popular"
+    ],
+    "status": "complete",
+    "pinyin": "mínjiān xìnyǎng",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/religion/topic_rujia.html",
+    "type": "topic",
+    "category": "religion",
+    "title": "儒家 · Confucianism",
+    "desc": "The school of the ru: ritual, hierarchy, and moral cultivation as state religion.",
+    "tags": [
+      "confucianism",
+      "ritual",
+      "ethics"
+    ],
+    "status": "complete",
+    "pinyin": "rújiā",
+    "updated": "2026-06-19"
+  },
+  {
     "path": "pages/religion/topic_zuxian.html",
     "type": "topic",
     "category": "religion",
@@ -631,6 +841,56 @@
     ],
     "status": "complete",
     "pinyin": "zǔxiān chóngbài",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/science/topic_lifa.html",
+    "type": "topic",
+    "category": "science",
+    "title": "历法 · The Lunisolar Calendar",
+    "desc": "Neither purely solar nor purely lunar, the Chinese calendar has kept farmers, physicians, and dynasties synchronized with the cosmos for three thousand years.",
+    "tags": [
+      "science",
+      "history",
+      "cosmology",
+      "culture",
+      "technology"
+    ],
+    "status": "complete",
+    "pinyin": "lìfǎ",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/science/topic_xingxiu.html",
+    "type": "topic",
+    "category": "science",
+    "title": "星宿 · Chinese Constellations",
+    "desc": "China mapped the entire sky independently of Greece: 1,464 stars, 28 lunar mansions, and four mythological guardians that divided the cosmos long before Ptolemy.",
+    "tags": [
+      "science",
+      "cosmology",
+      "history",
+      "culture",
+      "philosophy"
+    ],
+    "status": "complete",
+    "pinyin": "xīngxiù",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/vocab/bihua_笔画.html",
+    "type": "topic",
+    "category": "vocab",
+    "title": "笔画 · strokes: the building blocks of Chinese characters",
+    "desc": "Every Chinese character is built from a small set of standard strokes written in a prescribed order. Stroke count determines dictionary order; stroke order determines how a character looks when written by hand.",
+    "tags": [
+      "characters",
+      "writing",
+      "calligraphy",
+      "language"
+    ],
+    "status": "complete",
+    "pinyin": "bǐhuà",
     "updated": "2026-06-19"
   },
   {
@@ -684,6 +944,25 @@
     ],
     "status": "complete",
     "pinyin": "lúnhuí",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/vocab/renjian_人间.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "人间 · the human world; the mortal realm",
+    "desc": "The world of people: where karma plays out, where flowers fade in April, and where the only beings who can hear the Dharma are born.",
+    "tags": [
+      "philosophy",
+      "buddhism",
+      "folk-religion",
+      "classical",
+      "poetry",
+      "cosmology",
+      "literary"
+    ],
+    "status": "complete",
+    "pinyin": "rénjiān",
     "updated": "2026-06-19"
   },
   {
@@ -2482,27 +2761,6 @@
     "updated": "2026-04-26"
   },
   {
-    "path": "pages/history/topic_handai.html",
-    "type": "topic",
-    "category": "history",
-    "title": "汉朝 · The Han Dynasty",
-    "desc": "The dynasty that named the Chinese people and script: 400 years of empire, the Silk Road, Confucian statecraft, and Sima Qian writing history from prison.",
-    "tags": [
-      "history",
-      "dynasty",
-      "han",
-      "golden-age",
-      "classical",
-      "silk",
-      "trade",
-      "confucianism",
-      "literature"
-    ],
-    "status": "complete",
-    "pinyin": "Hàn cháo",
-    "updated": "2026-04-26"
-  },
-  {
     "path": "pages/vocab/shanshuihua_山水画.html",
     "type": "vocab",
     "category": "vocab",
@@ -2559,23 +2817,6 @@
     "status": "complete",
     "pinyin": "zhōngwén",
     "updated": "2026-04-26"
-  },
-  {
-    "path": "pages/arts/topic_guqin.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "古琴 · the scholar's zither",
-    "desc": "The seven-string zither Confucius played throughout his life, and the origin of 知音, the word for a person who truly understands you.",
-    "tags": [
-      "arts",
-      "music",
-      "classical",
-      "confucianism",
-      "literature"
-    ],
-    "status": "complete",
-    "pinyin": "gǔqín",
-    "updated": "2026-04-25"
   },
   {
     "path": "pages/characters/bai2_白.html",
@@ -2852,26 +3093,6 @@
     "tone": 1,
     "hsk": 1,
     "radical": "丷",
-    "updated": "2026-04-25"
-  },
-  {
-    "path": "pages/characters/he2_和.html",
-    "type": "character",
-    "category": "characters",
-    "title": "和 · harmony, and, with; peace",
-    "desc": "和 carries the same concept across grammar and philosophy: grain and mouth together, the harmony of shared food and speech, a character that serves as both everyday conjunction and the Confucian ideal of a well-ordered world.",
-    "tags": [
-      "confucianism",
-      "social",
-      "grammar",
-      "philosophy"
-    ],
-    "status": "complete",
-    "char": "和",
-    "pinyin": "hé",
-    "tone": 2,
-    "hsk": 1,
-    "radical": "禾",
     "updated": "2026-04-25"
   },
   {
@@ -4257,25 +4478,6 @@
     "updated": "2026-04-25"
   },
   {
-    "path": "pages/vocab/renjian_人间.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "人间 · the human world; the mortal realm",
-    "desc": "The world of people: where karma plays out, where flowers fade in April, and where the only beings who can hear the Dharma are born.",
-    "tags": [
-      "philosophy",
-      "buddhism",
-      "folk-religion",
-      "classical",
-      "poetry",
-      "cosmology",
-      "literary"
-    ],
-    "status": "complete",
-    "pinyin": "rénjiān",
-    "updated": "2026-04-25"
-  },
-  {
     "path": "pages/vocab/shehui_社会.html",
     "type": "vocab",
     "category": "vocab",
@@ -4482,27 +4684,6 @@
     "tone": 2,
     "hsk": 1,
     "radical": "木",
-    "updated": "2026-04-22"
-  },
-  {
-    "path": "pages/characters/qi2_其.html",
-    "type": "character",
-    "category": "characters",
-    "title": "其 · its, that, their",
-    "desc": "A winnowing basket that became the pronoun holding classical Chinese together: the silent 'its' behind thousands of literary phrases.",
-    "tags": [
-      "grammar",
-      "classical",
-      "literary",
-      "particle",
-      "language"
-    ],
-    "status": "complete",
-    "char": "其",
-    "pinyin": "qí",
-    "tone": 2,
-    "hsk": 4,
-    "radical": "八",
     "updated": "2026-04-22"
   },
   {
@@ -4962,22 +5143,6 @@
     "tone": 1,
     "hsk": 5,
     "radical": "丿",
-    "updated": "2026-04-20"
-  },
-  {
-    "path": "pages/vocab/bihua_笔画.html",
-    "type": "topic",
-    "category": "vocab",
-    "title": "笔画 · strokes: the building blocks of Chinese characters",
-    "desc": "Every Chinese character is built from a small set of standard strokes written in a prescribed order. Stroke count determines dictionary order; stroke order determines how a character looks when written by hand.",
-    "tags": [
-      "characters",
-      "writing",
-      "calligraphy",
-      "language"
-    ],
-    "status": "complete",
-    "pinyin": "bǐhuà",
     "updated": "2026-04-20"
   },
   {
@@ -5821,24 +5986,6 @@
     "tone": 1,
     "hsk": 1,
     "radical": "讠",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/characters/si1_思.html",
-    "type": "character",
-    "category": "characters",
-    "title": "思 · to think, to miss, thought",
-    "desc": "The field of the mind above the heart: thinking as cultivation, longing as thought turned inward.",
-    "tags": [
-      "mind",
-      "emotion"
-    ],
-    "status": "complete",
-    "char": "思",
-    "pinyin": "sī",
-    "tone": 1,
-    "hsk": 3,
-    "radical": "心",
     "updated": "2026-04-19"
   },
   {
@@ -7429,23 +7576,6 @@
     "updated": "2026-04-19"
   },
   {
-    "path": "pages/science/topic_lifa.html",
-    "type": "topic",
-    "category": "science",
-    "title": "历法 · The Lunisolar Calendar",
-    "desc": "Neither purely solar nor purely lunar, the Chinese calendar has kept farmers, physicians, and dynasties synchronized with the cosmos for three thousand years.",
-    "tags": [
-      "science",
-      "history",
-      "cosmology",
-      "culture",
-      "technology"
-    ],
-    "status": "complete",
-    "pinyin": "lìfǎ",
-    "updated": "2026-04-19"
-  },
-  {
     "path": "pages/science/topic_suanpan.html",
     "type": "topic",
     "category": "science",
@@ -7460,23 +7590,6 @@
     ],
     "status": "complete",
     "pinyin": "suànpán",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/science/topic_xingxiu.html",
-    "type": "topic",
-    "category": "science",
-    "title": "星宿 · Chinese Constellations",
-    "desc": "China mapped the entire sky independently of Greece: 1,464 stars, 28 lunar mansions, and four mythological guardians that divided the cosmos long before Ptolemy.",
-    "tags": [
-      "science",
-      "cosmology",
-      "history",
-      "culture",
-      "philosophy"
-    ],
-    "status": "complete",
-    "pinyin": "xīngxiù",
     "updated": "2026-04-19"
   },
   {
@@ -7984,25 +8097,6 @@
     "updated": "2026-04-18"
   },
   {
-    "path": "pages/characters/jia1_家.html",
-    "type": "character",
-    "category": "characters",
-    "title": "家 · home, family",
-    "desc": "House, family, school of thought, nation (国家): the fractal of belonging.",
-    "tags": [
-      "family",
-      "society",
-      "home"
-    ],
-    "status": "complete",
-    "char": "家",
-    "pinyin": "jiā",
-    "tone": 1,
-    "hsk": 1,
-    "radical": "宀",
-    "updated": "2026-04-18"
-  },
-  {
     "path": "pages/characters/qi4_气.html",
     "type": "character",
     "category": "characters",
@@ -8019,25 +8113,6 @@
     "tone": 4,
     "hsk": 3,
     "radical": "气",
-    "updated": "2026-04-18"
-  },
-  {
-    "path": "pages/characters/ren2_人.html",
-    "type": "character",
-    "category": "characters",
-    "title": "人 · person, humanity",
-    "desc": "The character for human being, and its echo in 仁 rén, Confucian benevolence.",
-    "tags": [
-      "humanity",
-      "confucianism",
-      "radical"
-    ],
-    "status": "complete",
-    "char": "人",
-    "pinyin": "rén",
-    "tone": 2,
-    "hsk": 1,
-    "radical": "人",
     "updated": "2026-04-18"
   },
   {
@@ -8414,21 +8489,6 @@
     "updated": "2026-04-18"
   },
   {
-    "path": "pages/grammar/liangci_量词.html",
-    "type": "grammar",
-    "category": "grammar",
-    "title": "量词 · measure words",
-    "desc": "个, 只, 条, 本, 张: the classifier taxonomy and the logic behind it.",
-    "tags": [
-      "measure-words",
-      "classifiers",
-      "nouns"
-    ],
-    "status": "complete",
-    "pinyin": "liàngcí",
-    "updated": "2026-04-18"
-  },
-  {
     "path": "pages/grammar/shide_是的.html",
     "type": "grammar",
     "category": "grammar",
@@ -8486,21 +8546,6 @@
     ],
     "status": "complete",
     "pinyin": "qín shǐhuáng",
-    "updated": "2026-04-18"
-  },
-  {
-    "path": "pages/history/topic_qingchao.html",
-    "type": "topic",
-    "category": "history",
-    "title": "清朝 · The Qing Dynasty",
-    "desc": "Manchu rule, the long peace, and the slow unraveling before 1911.",
-    "tags": [
-      "qing",
-      "manchu",
-      "decline"
-    ],
-    "status": "complete",
-    "pinyin": "qīngcháo",
     "updated": "2026-04-18"
   },
   {
@@ -8699,21 +8744,6 @@
     "updated": "2026-04-18"
   },
   {
-    "path": "pages/religion/topic_fojiao.html",
-    "type": "topic",
-    "category": "religion",
-    "title": "佛教 · Buddhism in China",
-    "desc": "Two thousand years of transmission, transformation, and sinicization.",
-    "tags": [
-      "buddhism",
-      "transmission",
-      "history"
-    ],
-    "status": "complete",
-    "pinyin": "fójiào",
-    "updated": "2026-04-18"
-  },
-  {
     "path": "pages/religion/topic_jingtu.html",
     "type": "topic",
     "category": "religion",
@@ -8741,36 +8771,6 @@
     ],
     "status": "complete",
     "pinyin": "māzǔ",
-    "updated": "2026-04-18"
-  },
-  {
-    "path": "pages/religion/topic_minjian.html",
-    "type": "topic",
-    "category": "religion",
-    "title": "民间信仰 · Folk Religion",
-    "desc": "Kitchen gods, city gods, and the living popular religion beneath Buddhism and Daoism.",
-    "tags": [
-      "folk-religion",
-      "gods",
-      "popular"
-    ],
-    "status": "complete",
-    "pinyin": "mínjiān xìnyǎng",
-    "updated": "2026-04-18"
-  },
-  {
-    "path": "pages/religion/topic_rujia.html",
-    "type": "topic",
-    "category": "religion",
-    "title": "儒家 · Confucianism",
-    "desc": "The school of the ru: ritual, hierarchy, and moral cultivation as state religion.",
-    "tags": [
-      "confucianism",
-      "ritual",
-      "ethics"
-    ],
-    "status": "complete",
-    "pinyin": "rújiā",
     "updated": "2026-04-18"
   },
   {

@@ -18,7 +18,14 @@ tags:
   - 'trade'
   - 'confucianism'
   - 'literature'
-updated: '2026-04-26'
+updated: '2026-06-19'
+faq:
+  - q: "What is the Shiji (史记)?"
+    a: "The Shiji (史记 Shǐjì), Records of the Grand Historian, is Sima Qian's history of China from the Yellow Emperor to Emperor Wu. It runs 130 chapters and roughly 500,000 characters, organized into annals, hereditary houses, biographies, tables, and treatises. It became the model for every later dynastic history."
+  - q: "Why did Sima Qian write the Shiji from prison?"
+    a: "Sima Qian defended General Li Ling (李陵) after his 99 BCE surrender to the Xiongnu, angering Emperor Wu, who sentenced him to death. Unable to pay the redemption fine, he chose castration (宫刑 gōngxíng) over death so he could finish the Shiji, then returned to work and completed it."
+  - q: "When was the Han dynasty, and why are Chinese people and characters named after it?"
+    a: "The Han dynasty lasted 206 BCE to 220 CE. Its name came from the Hanshui river region (汉水) where founder Liu Bang built his base. The dynasty was so durable and formative that its name passed to the people (汉族), the script (汉字), and the language (汉语)."
 ---
 
 
