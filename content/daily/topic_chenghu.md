@@ -14,8 +14,15 @@ tags:
   - 'daily-life'
   - 'family'
   - 'names'
-updated: '2026-04-19'
+updated: '2026-06-19'
 pinyin: 'chēnghu'
+faq:
+  - q: "How do you address your father's brother in Chinese kinship?"
+    a: "Chinese distinguishes your father's brothers by age: your father's older brother is 伯伯 (bóbo), and his younger brother is 叔叔 (shūshu). These are not interchangeable. The terms encode the paternal line and relative seniority, and using the wrong one signals you do not know your own family structure."
+  - q: "What does 师傅 (shīfu) mean and when do you use it?"
+    a: "师傅 (shīfu) literally means master and is the reliable general-purpose address for service workers, tradespeople, taxi drivers, and craftspeople. It acknowledges the person's skill, treating them as a professional. Saying 师傅, 请问 to a vendor or driver is appropriate across class and regional lines."
+  - q: "What do the 老 and 小 prefixes mean before a Chinese surname?"
+    a: "老 (lǎo) and 小 (xiǎo) attach to surnames to signal familiarity and relative position. 老 + surname (老王) addresses someone older or an established peer warmly, without implying old age; 小 + surname (小李) addresses someone younger or a junior colleague. Neither prefix is ever used for oneself."
 ---
 
 

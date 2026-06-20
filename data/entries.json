@@ -498,6 +498,24 @@
     "updated": "2026-06-19"
   },
   {
+    "path": "pages/daily/topic_chenghu.html",
+    "type": "topic",
+    "category": "daily",
+    "title": "称呼 · Forms of Address",
+    "desc": "In Chinese, how you address someone is not a formality. It is a precise statement of how you understand the relationship between you.",
+    "tags": [
+      "social",
+      "culture",
+      "etiquette",
+      "daily-life",
+      "family",
+      "names"
+    ],
+    "status": "complete",
+    "pinyin": "chēnghu",
+    "updated": "2026-06-19"
+  },
+  {
     "path": "pages/families/language.html",
     "type": "topic",
     "category": "families",
@@ -963,6 +981,38 @@
     ],
     "status": "complete",
     "pinyin": "rénjiān",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/vocab/shenming_神明.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "神明 · gods, spirits, deities; divine intelligence",
+    "desc": "The generic term for any deity in the Chinese religious world: and, in classical philosophy, the luminous intelligence that distinguishes the divine from the merely powerful.",
+    "tags": [
+      "religion",
+      "folk-religion",
+      "gods",
+      "philosophy",
+      "classical"
+    ],
+    "status": "complete",
+    "pinyin": "shénmíng",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/vocab/shici_诗词.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "诗词 · Chinese poetry",
+    "desc": "Poetry stood at the center of Chinese civilization for two thousand years: the primary medium for expressing emotion, demonstrating education, and participating in the social life of the literati class.",
+    "tags": [
+      "culture",
+      "history",
+      "arts"
+    ],
+    "status": "complete",
+    "pinyin": "shī cí",
     "updated": "2026-06-19"
   },
   {
@@ -4497,23 +4547,6 @@
     "updated": "2026-04-25"
   },
   {
-    "path": "pages/vocab/shenming_神明.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "神明 · gods, spirits, deities; divine intelligence",
-    "desc": "The generic term for any deity in the Chinese religious world: and, in classical philosophy, the luminous intelligence that distinguishes the divine from the merely powerful.",
-    "tags": [
-      "religion",
-      "folk-religion",
-      "gods",
-      "philosophy",
-      "classical"
-    ],
-    "status": "complete",
-    "pinyin": "shénmíng",
-    "updated": "2026-04-25"
-  },
-  {
     "path": "pages/vocab/siluzhilu_丝绸之路.html",
     "type": "vocab",
     "category": "vocab",
@@ -6682,24 +6715,6 @@
     "updated": "2026-04-19"
   },
   {
-    "path": "pages/daily/topic_chenghu.html",
-    "type": "topic",
-    "category": "daily",
-    "title": "称呼 · Forms of Address",
-    "desc": "In Chinese, how you address someone is not a formality. It is a precise statement of how you understand the relationship between you.",
-    "tags": [
-      "social",
-      "culture",
-      "etiquette",
-      "daily-life",
-      "family",
-      "names"
-    ],
-    "status": "complete",
-    "pinyin": "chēnghu",
-    "updated": "2026-04-19"
-  },
-  {
     "path": "pages/daily/topic_hongbai.html",
     "type": "topic",
     "category": "daily",
@@ -7918,21 +7933,6 @@
     ],
     "status": "complete",
     "pinyin": "rénshēng",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/vocab/shici_诗词.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "诗词 · Chinese poetry",
-    "desc": "Poetry stood at the center of Chinese civilization for two thousand years: the primary medium for expressing emotion, demonstrating education, and participating in the social life of the literati class.",
-    "tags": [
-      "culture",
-      "history",
-      "arts"
-    ],
-    "status": "complete",
-    "pinyin": "shī cí",
     "updated": "2026-04-19"
   },
   {

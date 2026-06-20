@@ -6,7 +6,7 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A reading nook for Chinese language and civilisation. Characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Jun 2026 19:52:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 01:09:04 GMT</lastBuildDate>
     <item>
       <title>古琴 · the scholar&apos;s zither</title>
       <link>https://jiaoshoo.com/pages/arts/topic_guqin.html</link>
@@ -216,6 +216,14 @@
       <category>characters</category>
     </item>
     <item>
+      <title>称呼 · Forms of Address</title>
+      <link>https://jiaoshoo.com/pages/daily/topic_chenghu.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/daily/topic_chenghu.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>In Chinese, how you address someone is not a formality. It is a precise statement of how you understand the relationship between you.</description>
+      <category>daily</category>
+    </item>
+    <item>
       <title>语言 · The Language</title>
       <link>https://jiaoshoo.com/pages/families/language.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/families/language.html</guid>
@@ -237,14 +245,6 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/grammar/le_了.html</guid>
       <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
       <description>Perfective aspect vs. change-of-state: the single most-confused particle.</description>
-      <category>grammar</category>
-    </item>
-    <item>
-      <title>量词 · measure words</title>
-      <link>https://jiaoshoo.com/pages/grammar/liangci_量词.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/grammar/liangci_量词.html</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
-      <description>个, 只, 条, 本, 张: the classifier taxonomy and the logic behind it.</description>
       <category>grammar</category>
     </item>
   </channel>

@@ -10,11 +10,18 @@ tags:
   - 'culture'
   - 'history'
   - 'arts'
-updated: '2026-04-19'
+updated: '2026-06-19'
 pinyin: 'shī cí'
 content_review: 'verified'
 content_sources:
   - 'Unihan'
+faq:
+  - q: "What is Tang poetry?"
+    a: "Tang poetry (唐诗 tángshī) is verse from the Tang dynasty (618-907 CE), universally regarded as the golden age of Chinese poetry. Its major forms are 绝句 juéjù (quatrains, 4 lines) and 律诗 lǜshī (regulated verse, 8 lines with strict tonal patterns and antithetical couplets)."
+  - q: "Who wrote the poem 'the bright moonlight before my bed'?"
+    a: "Li Bai (李白 Lǐ Bái, 701-762) wrote that poem, titled 静夜思 Jìng Yè Sī (Thoughts on a Quiet Night). It is the most famous poem in Chinese, opening 床前明月光，疑是地上霜, and virtually every educated Chinese person knows it from early childhood."
+  - q: "What is the difference between 诗 shi and 词 ci?"
+    a: "诗 shī is classical regulated verse with symmetric, fixed-length lines, peaking in the Tang dynasty; 词 cí is song lyrics written to a named melody pattern (词牌 cípái), with lines of varying length and a more fluid rhythm, peaking in the Song dynasty."
 ---
 
 

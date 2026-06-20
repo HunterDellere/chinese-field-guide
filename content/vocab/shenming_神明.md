@@ -12,9 +12,16 @@ tags:
   - 'gods'
   - 'philosophy'
   - 'classical'
-updated: '2026-04-25'
+updated: '2026-06-19'
 pinyin: 'shénmíng'
 content_review: 'pending'
+faq:
+  - q: "What does 神明 (shénmíng) mean in Chinese?"
+    a: "神明 shénmíng is the generic term for any deity or divine being in Chinese religious life, used in both singular and collective senses without specifying a religion. In classical philosophy it also names luminous intelligence: the divine clarity that distinguishes the sacred from the merely powerful."
+  - q: "What is the difference between 神明 and 神灵 (shénlíng)?"
+    a: "神明 implies a deity with recognized status in the divine hierarchy: a god with a name, temple, and jurisdiction. 神灵 is broader, covering any spiritually active being, including nature spirits and the ghosts of the unburied dead. Every 神明 is a 神灵, but not every 神灵 is a 神明."
+  - q: "How is 神明 different from 神仙 (shénxiān)?"
+    a: "神仙 occupies a specifically Daoist register: immortals who transcended mortality through inner cultivation, having once been human. 神明 covers folk deities of mixed origin who are worshipped as gods by nature or community recognition. Many 神明 began as historical humans elevated after death, such as Guan Yu and Mazu."
 ---
 
 
