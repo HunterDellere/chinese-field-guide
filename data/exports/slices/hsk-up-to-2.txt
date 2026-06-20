@@ -4,6 +4,7 @@
 白	bái	white, clear, plain, in vain — Sunlight on a single point. The character that names the color of mourning, the color of clarity, the empty plate, and the speech that hides nothing.
 百	bǎi	hundred; all kinds of — 百姓, the hundred surnames, is classical Chinese for the common people, because the full range of ordinary family names stands in for everyone who is not nobility.
 北	běi	north; northern; to flee — Two people standing back-to-back: the direction of cold and turning away that became the name of China's capital.
+本	běn	root, origin, this, a book — A tree with its root marked: the character for where a thing comes from. From root grows origin, the fundamental, one's own, the principal sum, and the bound volume you hold in your hand.
 不	bù	no, not, negation — The most used character in Mandarin, and the foundation of every denial, refusal, and negation.
 吃	chī	to eat — To eat, and the extraordinary range of Chinese life encoded in a single food verb.
 出	chū	to exit, to emerge, to produce — 出 is two plants growing upward out of the earth: emergence itself written as a glyph, from physical exits to publication to standing out from the crowd.
@@ -11,11 +12,14 @@
 大	dà	big, great, large — Big, great, large: a person with arms wide open, the original measure of magnitude.
 到	dào	to arrive, to reach; to — As a resultative complement suffix, 到 converts any action verb into a claim of completion: 听到 means not just hearing but hearing that arrived, perception proven by contact.
 地	dì	earth, ground, land — Heaven above, earth below: the second power of the cosmos, and the root of every word about place, ground, and belonging.
+点	diǎn	dot, point, a little, o'clock — From a single dot of ink the character spreads into points and decimals, into the hours of the clock, into ordering food and lighting a flame, and into the small quantity that softens a sentence.
 电	diàn	electricity, electric, telegram — Lightning descending from a rain cloud, a character that jumped from describing the weather to naming the force that defines modern civilization.
 东	dōng	east; eastern — The sun rising behind a tree, and the direction that anchored China's cosmological, political, and poetic imagination.
 读	dú	to read aloud, to study — Reading as the act of voicing what is written: the everyday verb for studying, declaiming a text, and (figuratively) interpreting a person, a situation, or a sign.
 多	duō	many; much; more; how — Two evenings stacked: the character that encodes abundance, comparison, and the most common question about quantity in Mandarin.
 二	èr	two; second — The number two encodes the foundational split that drives all of Chinese cosmology: yin and yang, the two forces from which everything else unfolds.
+方	fāng	square, direction, method — One glyph that runs from the literal square to the cardinal directions, to the place a thing sits, to the method by which it is done. The geometry of orientation and approach.
+分	fēn	to divide, minute, point, cent — A knife splitting a thing in two. From the cut grows everything that comes in parts: the minute on the clock, the point on a test, the cent in your pocket, and the act of separating itself.
 高	gāo	tall; high; elevated; surname — A tall palace gate rising above the ground, and the character that anchors Chinese words for excellence, happiness, and examination pressure simultaneously.
 更	gèng	even more; to change; night watch — A character that split across two readings: the comparative pulse of spoken Mandarin and the sonic clock of premodern China.
 工	gōng	work, craft, labor, worker — Three strokes encoding heaven, earth, and the human craft connecting them: the root character for all labor, skill, and making in Chinese.
@@ -43,6 +47,7 @@
 六	liù	six; the six directions; a smooth and lucky number — Six closes space into the six directions (the four compass points plus up and down) and, through its near-homophony with 流 liú (to flow), became a number for things going smoothly.
 路	lù	road, path, route — The walked road, where 道 is the navigated way: 路 is the surface beneath the foot, the route the messenger takes, the journey of a life measured in distance.
 美	měi	beautiful, USA, delicious — A large sheep carrying horns: beauty as abundance, sacrifice, and the pleasure of the highest good.
+面	miàn	face, surface, side — A pictograph of a face inside its outline that opened outward into surfaces, sides, and aspects, became a measure word for flat things, and in simplified script swallowed the separate character for flour and noodles.
 名	míng	name, fame, reputation — 名 is 夕 dusk plus 口 mouth: darkness falls, you cannot see who approaches, so you call out a name. Identity asserted through speech.
 明	míng	bright, clear, tomorrow — Sun and moon combined: brightness, clarity, dawn, and understanding.
 木	mù	tree, wood — A tree seen whole: trunk, branches, roots. The pictograph that became a radical, a wuxing element, and the building block of 林, 森, 本, and 末.
@@ -66,6 +71,7 @@
 生	shēng	life, birth, raw, student — A sprouting plant: life emerging from the earth. The most generative radical in Chinese.
 十	shí	ten; complete; cross — 十 is written as a cross (a vertical stroke cutting through a horizontal one), the point where all four cardinal directions meet, making ten the numeral of total completion.
 时	shí	time, hour, season — The sun moving: time as something visible, measurable, and morally weighted.
+事	shì	matter, affair, thing-that-happens — The character for an affair, a matter, a thing that happens. From an ancient pictograph of a hand holding the implements of office, it became Chinese for everything abstract that occupies us: business, jobs, incidents, and the everyday "no problem."
 是	shì	to be — The copula, the cleft construction, classical 是非 right-and-wrong.
 手	shǒu	hand — A five-fingered hand drawn from life: one of the most productive radicals in the script, present in hundreds of action characters.
 水	shuǐ	water — The first of the five elements, the radical that runs through hundreds of compounds, and the Daoist image of how to act in the world.
@@ -111,6 +117,7 @@
 真	zhēn	real, true, genuine — Truth not as accuracy but as authenticity: the unadorned thing itself, prized in Daoist self-cultivation and in everyday emphasis.
 知	zhī	to know; knowledge — 知 = arrow + mouth: knowledge as the swift, target-hitting utterance, and in Wang Yangming, the act of knowing is inseparable from the act of doing.
 中	zhōng	middle, China, to hit the mark — An arrow piercing through the center of a target: the character that names China as the Middle Kingdom and encodes the Confucian virtue of equilibrium.
+子	zǐ	child, seed, Master — A picture of a swaddled infant that grew into one of the busiest characters in the language: a child and a son, the honorific for a Master, the empty noun-suffix on a thousand words, and the seed of a thing.
 字	zì	character, written word — The character that names itself, and the whole system of 汉字.
 走	zǒu	to walk, to go, to leave — A figure in motion with feet below: the basic verb of movement that Chinese uses where English uses dozens of different words.
 最	zuì	most; the superlative marker — 最 is the single word that pushes any adjective to its limit: the -est of English, the most of comparison, the marker that turns 好 into 最好 and 后 into 最后.
@@ -119,12 +126,15 @@
 东西	dōng xi	things — East-west as the word for 'stuff': a window into directional cosmology.
 方向	fāng xiàng	direction; orientation — 方向 is the compass-word that holds together physical heading, life direction, political orientation, and the deeply Chinese sense that getting your bearings: 辨方向, is the first move in any undertaking.
 工作	gōng zuò	work, job — The everyday word for work, both the activity and the job itself, and how it differs from 上班 (to go to work), 职业 (occupation), and 事业 (career).
+故事	gù shì	story, tale, narrative — Old affairs made into meaning: how the Chinese word for story encodes a philosophy of the past as the source of truth.
 关系	guān xi	relationship, connections — The untranslatable social fabric: relational leverage, it matters.
 国家	guó jiā	nation; state; country — A compound of the two most culturally loaded characters in Chinese: country and family, that encodes the Confucian political imagination in two syllables.
 汉字	hàn zì	Chinese characters — The world's oldest continuously used writing system: how Chinese characters work, why they look the way they do, and the categories every learner needs to know.
 江山	jiāng shān	rivers and mountains, the realm — The classical Chinese word for the nation: not a territory but a landscape; not a state but a living geography that dynasties rose and fell to possess.
+君子	jūn zǐ	the exemplary person — The Confucian moral ideal that replaced aristocratic birth with cultivated virtue as the basis of social authority: anyone who does the work of 仁义礼智信 qualifies.
 良心	liáng xīn	conscience; innate moral sense — The good heart-mind: the Chinese word for conscience carries a philosophical claim that moral knowledge is a natural endowment, not an acquired rule.
 论语	Lún yǔ	The Analects of Confucius — The Analects: a thin book of recorded conversations and sayings that became the most quoted text in East Asian civilization, the entry point to Confucian thought, and the textbook of imperial education for two thousand years.
+面子	miàn zi	face, honor — Giving, losing, and saving face: the social grammar of dignity.
 然后	rán hòu	then; after that — The everyday sequence word for "then, after that," the 先…然后… frame for ordering steps, its overuse as a spoken filler, and how it differs from 接着, 后来, and 于是.
 人间	rén jiān	the human world; the mortal realm — The world of people: where karma plays out, where flowers fade in April, and where the only beings who can hear the Dharma are born.
 人生	rén shēng	human life; one's life journey — Human life: not biological existence, but the arc of a life lived: its meaning, its seasons, its reckoning.
@@ -142,6 +152,7 @@
 一定	yí dìng	definitely; certainly — The everyday word for "certainly, definitely," covering both confident prediction and firm resolve, the 一定要 (must) pattern, and how it differs from 肯定, 必须, and 一定会.
 一会儿	yí huì r	a short while — The everyday word for a little while, how it marks both a short duration and the near future, and how it differs from the verb-softener 一下 and from 等会儿.
 一起	yì qǐ	together — The everyday word for "together," the 跟…一起 frame for joint action, the "in one place" sense, the "altogether" use of 一起, and how it differs from 一块儿, 一同, and 一共.
+缘分	yuán fèn	karmic connection — Buddhist-rooted fate that ties strangers, lovers, and old friends.
 长城	Cháng chéng	the Great Wall — A series of fortification systems built across multiple dynasties, whose most visible sections are Ming-era brick: not the continuous ancient rampart of popular imagination.
 正在	zhèng zài	currently doing, progressive aspect — The primary progressive marker in Mandarin -- placed before a verb to signal an action caught in mid-motion, exactly now, still in progress.
 中国	Zhōng guó	the Middle Kingdom; China — Two characters older than the country they now name. 中 (center) and 国 (state) joined three thousand years ago to mean "the central states"; the modern country took the phrase for itself only in the 19th century.
@@ -154,6 +165,7 @@
 青出于蓝	qīng chū yú lán	The Student Surpasses the Teacher — Indigo is made from the indigo plant, yet it is bluer than the plant itself. Xunzi's image for the student who surpasses the teacher through sustained effort.
 三人成虎	sān rén chéng hǔ	three people make a tiger — A minister warns his king: if three people all claim there is a tiger in the marketplace, even the skeptical will believe it. The Zhanguo Ce parable of rumor that outlasts the warning against it.
 山清水秀	shān qīng shuǐ xiù	Mountains Clear, Waters Lovely — Clear mountains, lovely waters. The standard Chinese phrase for a picturesque landscape: four characters that compress the whole aesthetic vocabulary of natural beauty.
+事与愿违	shì yǔ yuàn wéi	things go contrary to ones wishes — Traced to Ruan Ji of the Seven Sages of the Bamboo Grove: a literary formulation of the gap between intention and outcome, resigned rather than accusatory, with no blame assigned.
 万丈高楼平地起	wàn zhàng gāo lóu píng dì qǐ	A tower ten thousand zhang tall rises from flat ground — The folk proverb that answers impatience: every immeasurable height begins on ordinary earth.
 一毛不拔	yī máo bù bá	Not Give Even a Hair — Refuse to give even a single hair from your body. Mencius's phrase for the Yangist philosophy of radical self-preservation, and the word for a miser that it became.
 愚公移山	yú gōng yí shān	The Foolish Old Man Moves the Mountains — Two mountains blocked his door. He and his sons began to move them, one basket at a time. A mocker laughed. He said: when I die my sons will continue; when they die, their sons.

@@ -117,7 +117,7 @@
     "cn": "君子",
     "py": "jūnzǐ",
     "en": "noble person; exemplary person",
-    "count": 12,
+    "count": 13,
     "appearsOn": [
       "pages/characters/de2_德.html",
       "pages/characters/ren2_仁.html",
@@ -125,6 +125,7 @@
       "pages/characters/yi4_义.html",
       "pages/characters/yu4_玉.html",
       "pages/characters/zhi4_智.html",
+      "pages/characters/zi3_子.html",
       "pages/chengyu/junzibugui_君子不器.html",
       "pages/philosophy/topic_zhengming.html",
       "pages/religion/topic_rujia.html",
@@ -474,6 +475,23 @@
     ],
     "hasPage": true
   },
+  "方向": {
+    "cn": "方向",
+    "py": "fāngxiàng",
+    "en": "direction; orientation",
+    "count": 8,
+    "appearsOn": [
+      "pages/characters/dao4_道.html",
+      "pages/characters/dong1_东.html",
+      "pages/characters/fang1_方.html",
+      "pages/characters/nan2_南.html",
+      "pages/characters/qian2_前.html",
+      "pages/characters/you4_右.html",
+      "pages/characters/zuo3_左.html",
+      "pages/vocab/dongxi_东西.html"
+    ],
+    "hasPage": true
+  },
   "风水": {
     "cn": "风水",
     "py": "fēngshuǐ",
@@ -708,22 +726,6 @@
     ],
     "hasPage": true
   },
-  "方向": {
-    "cn": "方向",
-    "py": "fāngxiàng",
-    "en": "direction; orientation",
-    "count": 7,
-    "appearsOn": [
-      "pages/characters/dao4_道.html",
-      "pages/characters/dong1_东.html",
-      "pages/characters/nan2_南.html",
-      "pages/characters/qian2_前.html",
-      "pages/characters/you4_右.html",
-      "pages/characters/zuo3_左.html",
-      "pages/vocab/dongxi_东西.html"
-    ],
-    "hasPage": true
-  },
   "汉字": {
     "cn": "汉字",
     "py": "Hànzì",
@@ -785,6 +787,38 @@
       "pages/grammar/le_了.html",
       "pages/grammar/ma_吗.html",
       "pages/grammar/yiyang_xiang_一样像.html"
+    ],
+    "hasPage": true
+  },
+  "面条": {
+    "cn": "面条",
+    "py": "miàntiáo",
+    "en": "noodles",
+    "count": 7,
+    "appearsOn": [
+      "pages/characters/mian4_面.html",
+      "pages/characters/tian1_天.html",
+      "pages/culinary/topic_caixi.html",
+      "pages/culinary/topic_chuancai.html",
+      "pages/culinary/topic_jiaozi.html",
+      "pages/culinary/topic_lucai.html",
+      "pages/vocab/mianzi_面子.html"
+    ],
+    "hasPage": true
+  },
+  "面子": {
+    "cn": "面子",
+    "py": "miànzi",
+    "en": "social face; prestige",
+    "count": 7,
+    "appearsOn": [
+      "pages/characters/mian4_面.html",
+      "pages/daily/topic_kouyu_lianjieci.html",
+      "pages/vocab/guanxi_关系.html",
+      "pages/vocab/keqi_客气.html",
+      "pages/vocab/limao_礼貌.html",
+      "pages/vocab/qianxu_谦虚.html",
+      "pages/vocab/shehui_社会.html"
     ],
     "hasPage": true
   },
@@ -929,6 +963,22 @@
       "pages/characters/xue3_雪.html",
       "pages/characters/yun2_云.html",
       "pages/vocab/ziran_自然.html"
+    ],
+    "hasPage": true
+  },
+  "缘分": {
+    "cn": "缘分",
+    "py": "yuánfèn",
+    "en": "fated affinity",
+    "count": 7,
+    "appearsOn": [
+      "pages/characters/fen1_分.html",
+      "pages/characters/fo2_佛.html",
+      "pages/characters/ming4_命.html",
+      "pages/vocab/lunhui_轮回.html",
+      "pages/vocab/mingyun_命运.html",
+      "pages/vocab/tianming_天命.html",
+      "pages/vocab/yuanfen_缘分.html"
     ],
     "hasPage": true
   },
@@ -1296,36 +1346,6 @@
     ],
     "hasPage": true
   },
-  "面条": {
-    "cn": "面条",
-    "py": "miàntiáo",
-    "en": "noodles",
-    "count": 6,
-    "appearsOn": [
-      "pages/characters/tian1_天.html",
-      "pages/culinary/topic_caixi.html",
-      "pages/culinary/topic_chuancai.html",
-      "pages/culinary/topic_jiaozi.html",
-      "pages/culinary/topic_lucai.html",
-      "pages/vocab/mianzi_面子.html"
-    ],
-    "hasPage": true
-  },
-  "面子": {
-    "cn": "面子",
-    "py": "miànzi",
-    "en": "face, social standing",
-    "count": 6,
-    "appearsOn": [
-      "pages/daily/topic_kouyu_lianjieci.html",
-      "pages/vocab/guanxi_关系.html",
-      "pages/vocab/keqi_客气.html",
-      "pages/vocab/limao_礼貌.html",
-      "pages/vocab/qianxu_谦虚.html",
-      "pages/vocab/shehui_社会.html"
-    ],
-    "hasPage": true
-  },
   "秦朝": {
     "cn": "秦朝",
     "py": "qíncháo",
@@ -1446,20 +1466,20 @@
     ],
     "hasPage": true
   },
-  "缘分": {
-    "cn": "缘分",
-    "py": "yuánfèn",
-    "en": "karmic connection; fate",
+  "小人": {
+    "cn": "小人",
+    "py": "xiǎorén",
+    "en": "petty person; morally base individual",
     "count": 6,
     "appearsOn": [
-      "pages/characters/fo2_佛.html",
-      "pages/characters/ming4_命.html",
-      "pages/vocab/lunhui_轮回.html",
-      "pages/vocab/mingyun_命运.html",
-      "pages/vocab/tianming_天命.html",
-      "pages/vocab/yuanfen_缘分.html"
+      "pages/characters/xiao3_小.html",
+      "pages/characters/zi3_子.html",
+      "pages/chengyu/junzibugui_君子不器.html",
+      "pages/religion/topic_rujia.html",
+      "pages/vocab/junzi_君子.html",
+      "pages/vocab/lunyu_论语.html"
     ],
-    "hasPage": true
+    "hasPage": false
   },
   "云": {
     "cn": "云",
@@ -1996,20 +2016,6 @@
     ],
     "hasPage": true
   },
-  "小人": {
-    "cn": "小人",
-    "py": "xiǎorén",
-    "en": "petty person; morally base individual",
-    "count": 5,
-    "appearsOn": [
-      "pages/characters/xiao3_小.html",
-      "pages/chengyu/junzibugui_君子不器.html",
-      "pages/religion/topic_rujia.html",
-      "pages/vocab/junzi_君子.html",
-      "pages/vocab/lunyu_论语.html"
-    ],
-    "hasPage": false
-  },
   "小说": {
     "cn": "小说",
     "py": "xiǎoshuō",
@@ -2103,6 +2109,19 @@
       "pages/characters/liu4_六.html",
       "pages/science/topic_wuxing.html",
       "pages/vocab/qiankun_乾坤.html"
+    ],
+    "hasPage": false
+  },
+  "本来": {
+    "cn": "本来",
+    "py": "běnlái",
+    "en": "originally",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/ben3_本.html",
+      "pages/characters/shi4_是.html",
+      "pages/characters/zhen1_真.html",
+      "pages/vocab/qishi_其实.html"
     ],
     "hasPage": false
   },
@@ -2314,6 +2333,19 @@
     ],
     "hasPage": true
   },
+  "合": {
+    "cn": "合",
+    "py": "hé",
+    "en": "to join; combine",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/fen1_分.html",
+      "pages/characters/he2_和.html",
+      "pages/characters/liu4_六.html",
+      "pages/characters/yi1_一.html"
+    ],
+    "hasPage": false
+  },
   "很": {
     "cn": "很",
     "py": "hěn",
@@ -2337,6 +2369,19 @@
       "pages/characters/ke3_可.html",
       "pages/grammar/keneng_可能.html",
       "pages/vocab/zhidao_知道.html"
+    ],
+    "hasPage": true
+  },
+  "家": {
+    "cn": "家",
+    "py": "jiā",
+    "en": "home; family; household",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/wu1_屋.html",
+      "pages/characters/zi3_子.html",
+      "pages/vocab/guojia_国家.html",
+      "pages/vocab/zhongguo_中国.html"
     ],
     "hasPage": true
   },
@@ -2951,6 +2996,19 @@
     ],
     "hasPage": true
   },
+  "原来": {
+    "cn": "原来",
+    "py": "yuánlái",
+    "en": "originally; as it turns out",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/ben3_本.html",
+      "pages/characters/lai2_来.html",
+      "pages/characters/zhen1_真.html",
+      "pages/vocab/qishi_其实.html"
+    ],
+    "hasPage": false
+  },
   "粤菜": {
     "cn": "粤菜",
     "py": "yuècài",
@@ -3140,18 +3198,6 @@
     ],
     "hasPage": true
   },
-  "本来": {
-    "cn": "本来",
-    "py": "běnlái",
-    "en": "originally; as it should be",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/shi4_是.html",
-      "pages/characters/zhen1_真.html",
-      "pages/vocab/qishi_其实.html"
-    ],
-    "hasPage": false
-  },
   "笔墨": {
     "cn": "笔墨",
     "py": "bǐmò",
@@ -3332,6 +3378,18 @@
     ],
     "hasPage": true
   },
+  "地方": {
+    "cn": "地方",
+    "py": "dìfāng",
+    "en": "place; locality",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/di4_地.html",
+      "pages/characters/fang1_方.html",
+      "pages/vocab/fangxiang_方向.html"
+    ],
+    "hasPage": false
+  },
   "地理与语言": {
     "cn": "地理与语言",
     "py": "dìlǐ yǔ yǔyán",
@@ -3341,6 +3399,18 @@
       "pages/hubs/dynasties.html",
       "pages/hubs/hanyu.html",
       "pages/hubs/hanzi.html"
+    ],
+    "hasPage": true
+  },
+  "东西": {
+    "cn": "东西",
+    "py": "dōngxi",
+    "en": "thing; stuff",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/dong1_东.html",
+      "pages/characters/shi4_事.html",
+      "pages/characters/xi1_西.html"
     ],
     "hasPage": true
   },
@@ -3392,6 +3462,18 @@
     ],
     "hasPage": false
   },
+  "分钟": {
+    "cn": "分钟",
+    "py": "fēnzhōng",
+    "en": "minute",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/fen1_分.html",
+      "pages/characters/shi2_时.html",
+      "pages/vocab/shijian_时间.html"
+    ],
+    "hasPage": false
+  },
   "风俗": {
     "cn": "风俗",
     "py": "fēngsú",
@@ -3403,6 +3485,18 @@
       "pages/vocab/shehui_社会.html"
     ],
     "hasPage": true
+  },
+  "父母": {
+    "cn": "父母",
+    "py": "fùmǔ",
+    "en": "parents",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/jia1_家.html",
+      "pages/characters/zi3_子.html",
+      "pages/vocab/zuxian_祖先.html"
+    ],
+    "hasPage": false
   },
   "高兴": {
     "cn": "高兴",
@@ -3452,17 +3546,17 @@
     ],
     "hasPage": false
   },
-  "合": {
-    "cn": "合",
-    "py": "hé",
-    "en": "to combine; to fit together",
+  "故事": {
+    "cn": "故事",
+    "py": "gùshi",
+    "en": "story",
     "count": 3,
     "appearsOn": [
-      "pages/characters/he2_和.html",
-      "pages/characters/liu4_六.html",
-      "pages/characters/yi1_一.html"
+      "pages/characters/shi4_事.html",
+      "pages/vocab/lishi_历史.html",
+      "pages/vocab/wenhua_文化.html"
     ],
-    "hasPage": false
+    "hasPage": true
   },
   "和": {
     "cn": "和",
@@ -3581,18 +3675,6 @@
       "pages/families/explore.html",
       "pages/families/language.html",
       "pages/families/topics.html"
-    ],
-    "hasPage": true
-  },
-  "家": {
-    "cn": "家",
-    "py": "jiā",
-    "en": "home; family; household",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/wu1_屋.html",
-      "pages/vocab/guojia_国家.html",
-      "pages/vocab/zhongguo_中国.html"
     ],
     "hasPage": true
   },
@@ -4039,6 +4121,18 @@
       "pages/grammar/duoshao_ji_多少几.html"
     ],
     "hasPage": true
+  },
+  "身份": {
+    "cn": "身份",
+    "py": "shēnfèn",
+    "en": "identity; status",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/fen1_分.html",
+      "pages/characters/ming2_名.html",
+      "pages/characters/ren4_认.html"
+    ],
+    "hasPage": false
   },
   "神明": {
     "cn": "神明",
@@ -4556,18 +4650,6 @@
     ],
     "hasPage": true
   },
-  "原来": {
-    "cn": "原来",
-    "py": "yuánlái",
-    "en": "originally; so that's how it is",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/lai2_来.html",
-      "pages/characters/zhen1_真.html",
-      "pages/vocab/qishi_其实.html"
-    ],
-    "hasPage": false
-  },
   "远": {
     "cn": "远",
     "py": "yuǎn",
@@ -4885,6 +4967,17 @@
     ],
     "hasPage": true
   },
+  "办": {
+    "cn": "办",
+    "py": "bàn",
+    "en": "to handle; to do (a matter)",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/shi4_事.html",
+      "pages/grammar/zenme_怎么.html"
+    ],
+    "hasPage": false
+  },
   "帮": {
     "cn": "帮",
     "py": "bāng",
@@ -4926,6 +5019,17 @@
     "appearsOn": [
       "pages/grammar/hui_neng_keyi_会能可以.html",
       "pages/vocab/gongfu_功夫.html"
+    ],
+    "hasPage": false
+  },
+  "本质": {
+    "cn": "本质",
+    "py": "běnzhì",
+    "en": "essence",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/ben3_本.html",
+      "pages/chengyu/dongshixiaopin_东施效颦.html"
     ],
     "hasPage": false
   },
@@ -5061,6 +5165,17 @@
     ],
     "hasPage": false
   },
+  "部分": {
+    "cn": "部分",
+    "py": "bùfen",
+    "en": "part",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/fen1_分.html",
+      "pages/grammar/liangci_量词.html"
+    ],
+    "hasPage": false
+  },
   "部首": {
     "cn": "部首",
     "py": "bùshǒu",
@@ -5102,6 +5217,17 @@
     "appearsOn": [
       "pages/grammar/guo_过.html",
       "pages/grammar/le_了.html"
+    ],
+    "hasPage": false
+  },
+  "差不多": {
+    "cn": "差不多",
+    "py": "chàbuduō",
+    "en": "almost; about the same",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/dian3_点.html",
+      "pages/vocab/bijiao_比较.html"
     ],
     "hasPage": false
   },
@@ -5402,17 +5528,6 @@
     ],
     "hasPage": false
   },
-  "地方": {
-    "cn": "地方",
-    "py": "dìfāng",
-    "en": "place; locality",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/di4_地.html",
-      "pages/vocab/fangxiang_方向.html"
-    ],
-    "hasPage": false
-  },
   "的": {
     "cn": "的",
     "py": "de",
@@ -5487,17 +5602,6 @@
     "appearsOn": [
       "pages/chengyu/banmenmennong_班门弄斧.html",
       "pages/vocab/shanshuihua_山水画.html"
-    ],
-    "hasPage": true
-  },
-  "东西": {
-    "cn": "东西",
-    "py": "dōngxi",
-    "en": "thing; stuff",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/dong1_东.html",
-      "pages/characters/xi1_西.html"
     ],
     "hasPage": true
   },
@@ -5598,6 +5702,28 @@
       "pages/characters/si4_四.html",
       "pages/vocab/dongxi_东西.html"
     ],
+    "hasPage": true
+  },
+  "方法": {
+    "cn": "方法",
+    "py": "fāngfǎ",
+    "en": "method; approach",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/dao4_道.html",
+      "pages/characters/fang1_方.html"
+    ],
+    "hasPage": false
+  },
+  "方面": {
+    "cn": "方面",
+    "py": "fāngmiàn",
+    "en": "aspect",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/fang1_方.html",
+      "pages/characters/mian4_面.html"
+    ],
     "hasPage": false
   },
   "方言": {
@@ -5610,17 +5736,6 @@
       "pages/vocab/zhongguo_zhongwen_中文.html"
     ],
     "hasPage": true
-  },
-  "分钟": {
-    "cn": "分钟",
-    "py": "fēnzhōng",
-    "en": "minute",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/shi2_时.html",
-      "pages/vocab/shijian_时间.html"
-    ],
-    "hasPage": false
   },
   "风景": {
     "cn": "风景",
@@ -5676,17 +5791,6 @@
       "pages/characters/yu4_玉.html"
     ],
     "hasPage": true
-  },
-  "父母": {
-    "cn": "父母",
-    "py": "fùmǔ",
-    "en": "parents",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/jia1_家.html",
-      "pages/vocab/zuxian_祖先.html"
-    ],
-    "hasPage": false
   },
   "附近": {
     "cn": "附近",
@@ -5820,6 +5924,17 @@
     ],
     "hasPage": false
   },
+  "根本": {
+    "cn": "根本",
+    "py": "gēnběn",
+    "en": "fundamental",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/ben3_本.html",
+      "pages/grammar/lian_dou_连都.html"
+    ],
+    "hasPage": false
+  },
   "更新": {
     "cn": "更新",
     "py": "gēngxīn",
@@ -5864,6 +5979,17 @@
     ],
     "hasPage": false
   },
+  "工作": {
+    "cn": "工作",
+    "py": "gōngzuò",
+    "en": "work; job",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/shi4_事.html",
+      "pages/characters/zuo4_做.html"
+    ],
+    "hasPage": true
+  },
   "公民": {
     "cn": "公民",
     "py": "gōngmín",
@@ -5894,17 +6020,6 @@
     "appearsOn": [
       "pages/characters/gong1_工.html",
       "pages/chengyu/wanzhangaolou_万丈高楼.html"
-    ],
-    "hasPage": true
-  },
-  "故事": {
-    "cn": "故事",
-    "py": "gùshì",
-    "en": "story, tale, narrative",
-    "count": 2,
-    "appearsOn": [
-      "pages/vocab/lishi_历史.html",
-      "pages/vocab/wenhua_文化.html"
     ],
     "hasPage": true
   },
@@ -6004,6 +6119,17 @@
     "appearsOn": [
       "pages/characters/zai4_再.html",
       "pages/grammar/suiran_danshi_虽然但是.html"
+    ],
+    "hasPage": false
+  },
+  "孩子": {
+    "cn": "孩子",
+    "py": "háizi",
+    "en": "children; child",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/jia1_家.html",
+      "pages/characters/zi3_子.html"
     ],
     "hasPage": false
   },
@@ -6312,6 +6438,17 @@
     "appearsOn": [
       "pages/grammar/dehua_的话.html",
       "pages/grammar/ruguo_ji_如果就.html"
+    ],
+    "hasPage": false
+  },
+  "见面": {
+    "cn": "见面",
+    "py": "jiànmiàn",
+    "en": "to meet face to face",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/jian4_见.html",
+      "pages/characters/mian4_面.html"
     ],
     "hasPage": false
   },
@@ -6667,6 +6804,17 @@
     ],
     "hasPage": false
   },
+  "里面": {
+    "cn": "里面",
+    "py": "lǐmiàn",
+    "en": "inside, interior",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/li3_里.html",
+      "pages/characters/mian4_面.html"
+    ],
+    "hasPage": false
+  },
   "理": {
     "cn": "理",
     "py": "lǐ",
@@ -6708,6 +6856,17 @@
     "appearsOn": [
       "pages/religion/topic_guanyin.html",
       "pages/religion/topic_jingtu.html"
+    ],
+    "hasPage": false
+  },
+  "脸": {
+    "cn": "脸",
+    "py": "liǎn",
+    "en": "face (physical)",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/mian4_面.html",
+      "pages/vocab/mianzi_面子.html"
     ],
     "hasPage": false
   },
@@ -6963,6 +7122,17 @@
       "pages/philosophy/topic_zhengming.html"
     ],
     "hasPage": true
+  },
+  "末": {
+    "cn": "末",
+    "py": "mò",
+    "en": "tip; end",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/ben3_本.html",
+      "pages/characters/mu4_木.html"
+    ],
+    "hasPage": false
   },
   "墨": {
     "cn": "墨",
@@ -7294,6 +7464,17 @@
     ],
     "hasPage": false
   },
+  "全面": {
+    "cn": "全面",
+    "py": "quánmiàn",
+    "en": "comprehensive; all-sided",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/mian4_面.html",
+      "pages/chengyu/junzibugui_君子不器.html"
+    ],
+    "hasPage": false
+  },
   "缺": {
     "cn": "缺",
     "py": "quē",
@@ -7525,17 +7706,6 @@
     ],
     "hasPage": true
   },
-  "身份": {
-    "cn": "身份",
-    "py": "shēnfèn",
-    "en": "identity; status",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/ming2_名.html",
-      "pages/characters/ren4_认.html"
-    ],
-    "hasPage": false
-  },
   "神话": {
     "cn": "神话",
     "py": "shénhuà",
@@ -7700,6 +7870,17 @@
       "pages/history/topic_handai.html"
     ],
     "hasPage": true
+  },
+  "事实": {
+    "cn": "事实",
+    "py": "shìshí",
+    "en": "fact",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/shi4_事.html",
+      "pages/characters/zhen1_真.html"
+    ],
+    "hasPage": false
   },
   "事与愿违": {
     "cn": "事与愿违",
@@ -8105,6 +8286,17 @@
     "appearsOn": [
       "pages/characters/he2_和.html",
       "pages/grammar/gen_跟.html"
+    ],
+    "hasPage": false
+  },
+  "同事": {
+    "cn": "同事",
+    "py": "tóngshì",
+    "en": "colleague",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/shi4_事.html",
+      "pages/vocab/guanxi_关系.html"
     ],
     "hasPage": false
   },
@@ -8734,6 +8926,17 @@
     ],
     "hasPage": true
   },
+  "一点儿": {
+    "cn": "一点儿",
+    "py": "yìdiǎnr",
+    "en": "a little",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/dian3_点.html",
+      "pages/grammar/yixia_一下.html"
+    ],
+    "hasPage": false
+  },
   "一定": {
     "cn": "一定",
     "py": "yīdìng",
@@ -8921,6 +9124,17 @@
     ],
     "hasPage": true
   },
+  "有点儿": {
+    "cn": "有点儿",
+    "py": "yǒudiǎnr",
+    "en": "somewhat",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/dian3_点.html",
+      "pages/grammar/yidian_youdian_一点儿有点儿.html"
+    ],
+    "hasPage": false
+  },
   "又": {
     "cn": "又",
     "py": "yòu",
@@ -9009,6 +9223,17 @@
     ],
     "hasPage": true
   },
+  "原因": {
+    "cn": "原因",
+    "py": "yuányīn",
+    "en": "cause; reason",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/ben3_本.html",
+      "pages/grammar/weishenme_为什么.html"
+    ],
+    "hasPage": false
+  },
   "允许": {
     "cn": "允许",
     "py": "yǔnxǔ",
@@ -9096,6 +9321,17 @@
       "pages/vocab/zhongyi_中医.html"
     ],
     "hasPage": true
+  },
+  "整体": {
+    "cn": "整体",
+    "py": "zhěngtǐ",
+    "en": "the whole; entirety",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/fen1_分.html",
+      "pages/characters/yi1_一.html"
+    ],
+    "hasPage": false
   },
   "正统": {
     "cn": "正统",
@@ -9294,6 +9530,17 @@
       "pages/grammar/le_了.html"
     ],
     "hasPage": true
+  },
+  "钟": {
+    "cn": "钟",
+    "py": "zhōng",
+    "en": "clock; o'clock",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/dian3_点.html",
+      "pages/characters/shi2_时.html"
+    ],
+    "hasPage": false
   },
   "重阳节": {
     "cn": "重阳节",
@@ -9675,13 +9922,13 @@
     ],
     "hasPage": false
   },
-  "办": {
-    "cn": "办",
-    "py": "bàn",
-    "en": "to handle; to do",
+  "办法": {
+    "cn": "办法",
+    "py": "bànfǎ",
+    "en": "a way; solution",
     "count": 1,
     "appearsOn": [
-      "pages/grammar/zenme_怎么.html"
+      "pages/characters/fang1_方.html"
     ],
     "hasPage": false
   },
@@ -9823,7 +10070,7 @@
     "appearsOn": [
       "pages/characters/mu4_木.html"
     ],
-    "hasPage": false
+    "hasPage": true
   },
   "本来面目": {
     "cn": "本来面目",
@@ -9842,16 +10089,6 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/tu3_土.html"
-    ],
-    "hasPage": false
-  },
-  "本质": {
-    "cn": "本质",
-    "py": "běnzhì",
-    "en": "essence, fundamental nature",
-    "count": 1,
-    "appearsOn": [
-      "pages/chengyu/dongshixiaopin_东施效颦.html"
     ],
     "hasPage": false
   },
@@ -10042,6 +10279,16 @@
     "count": 1,
     "appearsOn": [
       "pages/history/topic_qingchao.html"
+    ],
+    "hasPage": false
+  },
+  "表面": {
+    "cn": "表面",
+    "py": "biǎomiàn",
+    "en": "surface; appearance",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/mian4_面.html"
     ],
     "hasPage": false
   },
@@ -10365,16 +10612,6 @@
     ],
     "hasPage": false
   },
-  "部分": {
-    "cn": "部分",
-    "py": "bùfen",
-    "en": "part, portion",
-    "count": 1,
-    "appearsOn": [
-      "pages/grammar/liangci_量词.html"
-    ],
-    "hasPage": false
-  },
   "部落": {
     "cn": "部落",
     "py": "bùluò",
@@ -10482,16 +10719,6 @@
     "count": 1,
     "appearsOn": [
       "pages/religion/topic_chan.html"
-    ],
-    "hasPage": false
-  },
-  "差不多": {
-    "cn": "差不多",
-    "py": "chàbuduō",
-    "en": "about the same; more or less",
-    "count": 1,
-    "appearsOn": [
-      "pages/vocab/bijiao_比较.html"
     ],
     "hasPage": false
   },
@@ -11475,6 +11702,16 @@
     ],
     "hasPage": false
   },
+  "地点": {
+    "cn": "地点",
+    "py": "dìdiǎn",
+    "en": "location",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/dian3_点.html"
+    ],
+    "hasPage": false
+  },
   "地府": {
     "cn": "地府",
     "py": "dìfǔ",
@@ -11595,6 +11832,16 @@
     ],
     "hasPage": false
   },
+  "弟子": {
+    "cn": "弟子",
+    "py": "dìzǐ",
+    "en": "disciple",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/zi3_子.html"
+    ],
+    "hasPage": false
+  },
   "帝": {
     "cn": "帝",
     "py": "dì",
@@ -11642,6 +11889,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/huo3_火.html"
+    ],
+    "hasPage": false
+  },
+  "点心": {
+    "cn": "点心",
+    "py": "diǎnxin",
+    "en": "dim sum; refreshments",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/dian3_点.html"
     ],
     "hasPage": false
   },
@@ -11732,6 +11989,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/fangxiang_方向.html"
+    ],
+    "hasPage": false
+  },
+  "东西南北": {
+    "cn": "东西南北",
+    "py": "dōng xī nán běi",
+    "en": "the four directions",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/fang1_方.html"
     ],
     "hasPage": false
   },
@@ -11965,6 +12232,16 @@
     ],
     "hasPage": false
   },
+  "儿子": {
+    "cn": "儿子",
+    "py": "érzi",
+    "en": "son",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/zi3_子.html"
+    ],
+    "hasPage": false
+  },
   "耳朵": {
     "cn": "耳朵",
     "py": "ěrduo",
@@ -12012,6 +12289,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/dian4_电.html"
+    ],
+    "hasPage": false
+  },
+  "发生": {
+    "cn": "发生",
+    "py": "fāshēng",
+    "en": "to happen; to occur",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/shi4_事.html"
     ],
     "hasPage": false
   },
@@ -12155,13 +12442,13 @@
     ],
     "hasPage": false
   },
-  "方法": {
-    "cn": "方法",
-    "py": "fāngfǎ",
-    "en": "method; approach",
+  "方式": {
+    "cn": "方式",
+    "py": "fāngshì",
+    "en": "way; manner",
     "count": 1,
     "appearsOn": [
-      "pages/characters/dao4_道.html"
+      "pages/characters/fang1_方.html"
     ],
     "hasPage": false
   },
@@ -12252,6 +12539,26 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/ba1_八.html"
+    ],
+    "hasPage": true
+  },
+  "分开": {
+    "cn": "分开",
+    "py": "fēnkāi",
+    "en": "to separate",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/fen1_分.html"
+    ],
+    "hasPage": false
+  },
+  "分配": {
+    "cn": "分配",
+    "py": "fēnpèi",
+    "en": "to allot; distribute",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/fen1_分.html"
     ],
     "hasPage": false
   },
@@ -12695,16 +13002,6 @@
     ],
     "hasPage": true
   },
-  "根本": {
-    "cn": "根本",
-    "py": "gēnběn",
-    "en": "at all, fundamentally (in neg: not at all)",
-    "count": 1,
-    "appearsOn": [
-      "pages/grammar/lian_dou_连都.html"
-    ],
-    "hasPage": false
-  },
   "更加": {
     "cn": "更加",
     "py": "gèngjiā",
@@ -12734,16 +13031,6 @@
       "pages/characters/qian2_钱.html"
     ],
     "hasPage": false
-  },
-  "工作": {
-    "cn": "工作",
-    "py": "gōngzuò",
-    "en": "work, job",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/zuo4_做.html"
-    ],
-    "hasPage": true
   },
   "公里": {
     "cn": "公里",
@@ -13272,16 +13559,6 @@
     "count": 1,
     "appearsOn": [
       "pages/grammar/hai_还.html"
-    ],
-    "hasPage": false
-  },
-  "孩子": {
-    "cn": "孩子",
-    "py": "háizi",
-    "en": "children; child",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/jia1_家.html"
     ],
     "hasPage": false
   },
@@ -14025,6 +14302,16 @@
     ],
     "hasPage": false
   },
+  "基本": {
+    "cn": "基本",
+    "py": "jīběn",
+    "en": "basic",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ben3_本.html"
+    ],
+    "hasPage": false
+  },
   "基督教": {
     "cn": "基督教",
     "py": "Jīdūjiào",
@@ -14429,16 +14716,6 @@
     "cn": "见解",
     "py": "jiànjiě",
     "en": "view, interpretation",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/jian4_见.html"
-    ],
-    "hasPage": false
-  },
-  "见面": {
-    "cn": "见面",
-    "py": "jiànmiàn",
-    "en": "to meet face to face",
     "count": 1,
     "appearsOn": [
       "pages/characters/jian4_见.html"
@@ -14965,6 +15242,16 @@
     ],
     "hasPage": false
   },
+  "镜子": {
+    "cn": "镜子",
+    "py": "jìngzi",
+    "en": "mirror",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/mian4_面.html"
+    ],
+    "hasPage": false
+  },
   "究": {
     "cn": "究",
     "py": "jiū",
@@ -15435,6 +15722,16 @@
     ],
     "hasPage": false
   },
+  "课本": {
+    "cn": "课本",
+    "py": "kèběn",
+    "en": "textbook",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ben3_本.html"
+    ],
+    "hasPage": false
+  },
   "课文": {
     "cn": "课文",
     "py": "kèwén",
@@ -15885,16 +16182,6 @@
     ],
     "hasPage": false
   },
-  "里面": {
-    "cn": "里面",
-    "py": "lǐmiàn",
-    "en": "inside, interior",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/li3_里.html"
-    ],
-    "hasPage": false
-  },
   "里外": {
     "cn": "里外",
     "py": "lǐwài",
@@ -16022,16 +16309,6 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/guanxi_关系.html"
-    ],
-    "hasPage": false
-  },
-  "脸": {
-    "cn": "脸",
-    "py": "liǎn",
-    "en": "moral face; integrity",
-    "count": 1,
-    "appearsOn": [
-      "pages/vocab/mianzi_面子.html"
     ],
     "hasPage": false
   },
@@ -17005,16 +17282,6 @@
     ],
     "hasPage": false
   },
-  "末": {
-    "cn": "末",
-    "py": "mò",
-    "en": "tip, end",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/mu4_木.html"
-    ],
-    "hasPage": false
-  },
   "陌生人": {
     "cn": "陌生人",
     "py": "mòshēngrén",
@@ -17465,6 +17732,16 @@
     ],
     "hasPage": false
   },
+  "女儿": {
+    "cn": "女儿",
+    "py": "nǚ'ér",
+    "en": "daughter",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/zi3_子.html"
+    ],
+    "hasPage": false
+  },
   "哦": {
     "cn": "哦",
     "py": "o",
@@ -17742,6 +18019,16 @@
     "count": 1,
     "appearsOn": [
       "pages/culture/topic_zhongyuan.html"
+    ],
+    "hasPage": false
+  },
+  "妻子": {
+    "cn": "妻子",
+    "py": "qīzi",
+    "en": "wife",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/zi3_子.html"
     ],
     "hasPage": false
   },
@@ -18155,6 +18442,16 @@
     ],
     "hasPage": false
   },
+  "情况": {
+    "cn": "情况",
+    "py": "qíngkuàng",
+    "en": "situation; circumstances",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/shi4_事.html"
+    ],
+    "hasPage": false
+  },
   "情绪": {
     "cn": "情绪",
     "py": "qíngxù",
@@ -18285,16 +18582,6 @@
     ],
     "hasPage": false
   },
-  "全面": {
-    "cn": "全面",
-    "py": "quánmiàn",
-    "en": "comprehensive; well-rounded",
-    "count": 1,
-    "appearsOn": [
-      "pages/chengyu/junzibugui_君子不器.html"
-    ],
-    "hasPage": false
-  },
   "全球化": {
     "cn": "全球化",
     "py": "quánqiúhuà",
@@ -18312,6 +18599,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/huangdi_皇帝.html"
+    ],
+    "hasPage": false
+  },
+  "缺点": {
+    "cn": "缺点",
+    "py": "quēdiǎn",
+    "en": "shortcoming",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/dian3_点.html"
     ],
     "hasPage": false
   },
@@ -19503,7 +19800,7 @@
     "appearsOn": [
       "pages/vocab/dongxi_东西.html"
     ],
-    "hasPage": false
+    "hasPage": true
   },
   "事倍功半": {
     "cn": "事倍功半",
@@ -19525,6 +19822,16 @@
     ],
     "hasPage": false
   },
+  "事件": {
+    "cn": "事件",
+    "py": "shìjiàn",
+    "en": "incident; event",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/shi4_事.html"
+    ],
+    "hasPage": false
+  },
   "事情": {
     "cn": "事情",
     "py": "shìqíng",
@@ -19532,16 +19839,6 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/dongxi_东西.html"
-    ],
-    "hasPage": false
-  },
-  "事实": {
-    "cn": "事实",
-    "py": "shìshí",
-    "en": "fact",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/zhen1_真.html"
     ],
     "hasPage": false
   },
@@ -20695,16 +20992,6 @@
     ],
     "hasPage": false
   },
-  "同事": {
-    "cn": "同事",
-    "py": "tóngshì",
-    "en": "colleague",
-    "count": 1,
-    "appearsOn": [
-      "pages/vocab/guanxi_关系.html"
-    ],
-    "hasPage": false
-  },
   "同学": {
     "cn": "同学",
     "py": "tóngxué",
@@ -20852,6 +21139,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/guo2_国.html"
+    ],
+    "hasPage": false
+  },
+  "外面": {
+    "cn": "外面",
+    "py": "wàimiàn",
+    "en": "outside",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/mian4_面.html"
     ],
     "hasPage": false
   },
@@ -21125,6 +21422,16 @@
     ],
     "hasPage": false
   },
+  "位置": {
+    "cn": "位置",
+    "py": "wèizhi",
+    "en": "position; location",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/fang1_方.html"
+    ],
+    "hasPage": false
+  },
   "味道": {
     "cn": "味道",
     "py": "wèidào",
@@ -21204,6 +21511,16 @@
       "pages/vocab/wenti_问题.html"
     ],
     "hasPage": false
+  },
+  "问题": {
+    "cn": "问题",
+    "py": "wèntí",
+    "en": "problem; question",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/shi4_事.html"
+    ],
+    "hasPage": true
   },
   "我们": {
     "cn": "我们",
@@ -22905,6 +23222,16 @@
     ],
     "hasPage": false
   },
+  "摇头": {
+    "cn": "摇头",
+    "py": "yáotóu",
+    "en": "to shake the head",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/dian3_点.html"
+    ],
+    "hasPage": false
+  },
   "也是": {
     "cn": "也是",
     "py": "yě shì",
@@ -22962,16 +23289,6 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/siluzhilu_丝绸之路.html"
-    ],
-    "hasPage": false
-  },
-  "一点儿": {
-    "cn": "一点儿",
-    "py": "yìdiǎnr",
-    "en": "a little; a bit",
-    "count": 1,
-    "appearsOn": [
-      "pages/grammar/yixia_一下.html"
     ],
     "hasPage": false
   },
@@ -23425,16 +23742,6 @@
     ],
     "hasPage": false
   },
-  "有点儿": {
-    "cn": "有点儿",
-    "py": "yǒudiǎnr",
-    "en": "a bit (too)…",
-    "count": 1,
-    "appearsOn": [
-      "pages/grammar/yidian_youdian_一点儿有点儿.html"
-    ],
-    "hasPage": false
-  },
   "有空": {
     "cn": "有空",
     "py": "yǒu kòng",
@@ -23745,16 +24052,6 @@
     ],
     "hasPage": false
   },
-  "原因": {
-    "cn": "原因",
-    "py": "yuányīn",
-    "en": "reason; cause",
-    "count": 1,
-    "appearsOn": [
-      "pages/grammar/weishenme_为什么.html"
-    ],
-    "hasPage": false
-  },
   "原则": {
     "cn": "原则",
     "py": "yuánzé",
@@ -23762,6 +24059,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/dao4_道.html"
+    ],
+    "hasPage": false
+  },
+  "圆": {
+    "cn": "圆",
+    "py": "yuán",
+    "en": "round; circle",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/fang1_方.html"
     ],
     "hasPage": false
   },
@@ -24425,16 +24732,6 @@
     ],
     "hasPage": false
   },
-  "整体": {
-    "cn": "整体",
-    "py": "zhěngtǐ",
-    "en": "the whole; entirety",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/yi1_一.html"
-    ],
-    "hasPage": false
-  },
   "正念": {
     "cn": "正念",
     "py": "zhèngniàn",
@@ -24755,13 +25052,13 @@
     ],
     "hasPage": false
   },
-  "钟": {
-    "cn": "钟",
-    "py": "zhōng",
-    "en": "clock; bell",
+  "种子": {
+    "cn": "种子",
+    "py": "zhǒngzi",
+    "en": "seed",
     "count": 1,
     "appearsOn": [
-      "pages/characters/shi2_时.html"
+      "pages/characters/zi3_子.html"
     ],
     "hasPage": false
   },
@@ -24792,6 +25089,16 @@
     "count": 1,
     "appearsOn": [
       "pages/religion/topic_fojiao.html"
+    ],
+    "hasPage": false
+  },
+  "重点": {
+    "cn": "重点",
+    "py": "zhòngdiǎn",
+    "en": "key point",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/dian3_点.html"
     ],
     "hasPage": false
   },

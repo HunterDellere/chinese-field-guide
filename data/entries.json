@@ -1,5 +1,145 @@
 [
   {
+    "path": "pages/characters/ben3_本.html",
+    "type": "character",
+    "category": "characters",
+    "title": "本 · root, origin, this, a book",
+    "desc": "A tree with its root marked: the character for where a thing comes from. From root grows origin, the fundamental, one's own, the principal sum, and the bound volume you hold in your hand.",
+    "tags": [
+      "nature",
+      "meaning",
+      "measure-words",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "本",
+    "pinyin": "běn",
+    "tone": 3,
+    "hsk": 1,
+    "radical": "木",
+    "updated": "2026-06-20"
+  },
+  {
+    "path": "pages/characters/dian3_点.html",
+    "type": "character",
+    "category": "characters",
+    "title": "点 · dot, point, a little, o'clock",
+    "desc": "From a single dot of ink the character spreads into points and decimals, into the hours of the clock, into ordering food and lighting a flame, and into the small quantity that softens a sentence.",
+    "tags": [
+      "measure-words",
+      "time",
+      "food",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "点",
+    "pinyin": "diǎn",
+    "tone": 3,
+    "hsk": 1,
+    "radical": "灬",
+    "updated": "2026-06-20"
+  },
+  {
+    "path": "pages/characters/fang1_方.html",
+    "type": "character",
+    "category": "characters",
+    "title": "方 · square, direction, method",
+    "desc": "One glyph that runs from the literal square to the cardinal directions, to the place a thing sits, to the method by which it is done. The geometry of orientation and approach.",
+    "tags": [
+      "space",
+      "geometry",
+      "meaning",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "方",
+    "pinyin": "fāng",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "方",
+    "updated": "2026-06-20"
+  },
+  {
+    "path": "pages/characters/fen1_分.html",
+    "type": "character",
+    "category": "characters",
+    "title": "分 · to divide, minute, point, cent",
+    "desc": "A knife splitting a thing in two. From the cut grows everything that comes in parts: the minute on the clock, the point on a test, the cent in your pocket, and the act of separating itself.",
+    "tags": [
+      "time",
+      "meaning",
+      "measure-words",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "分",
+    "pinyin": "fēn",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "刀",
+    "updated": "2026-06-20"
+  },
+  {
+    "path": "pages/characters/mian4_面.html",
+    "type": "character",
+    "category": "characters",
+    "title": "面 · face, surface, side",
+    "desc": "A pictograph of a face inside its outline that opened outward into surfaces, sides, and aspects, became a measure word for flat things, and in simplified script swallowed the separate character for flour and noodles.",
+    "tags": [
+      "perception",
+      "society",
+      "space",
+      "food"
+    ],
+    "status": "complete",
+    "char": "面",
+    "pinyin": "miàn",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "面",
+    "updated": "2026-06-20"
+  },
+  {
+    "path": "pages/characters/shi4_事.html",
+    "type": "character",
+    "category": "characters",
+    "title": "事 · matter, affair, thing-that-happens",
+    "desc": "The character for an affair, a matter, a thing that happens. From an ancient pictograph of a hand holding the implements of office, it became Chinese for everything abstract that occupies us: business, jobs, incidents, and the everyday \"no problem.\"",
+    "tags": [
+      "society",
+      "daily-life",
+      "meaning",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "事",
+    "pinyin": "shì",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "亅",
+    "updated": "2026-06-20"
+  },
+  {
+    "path": "pages/characters/zi3_子.html",
+    "type": "character",
+    "category": "characters",
+    "title": "子 · child, seed, Master",
+    "desc": "A picture of a swaddled infant that grew into one of the busiest characters in the language: a child and a son, the honorific for a Master, the empty noun-suffix on a thousand words, and the seed of a thing.",
+    "tags": [
+      "family",
+      "confucianism",
+      "nouns",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "子",
+    "pinyin": "zǐ",
+    "tone": 3,
+    "hsk": 1,
+    "radical": "子",
+    "updated": "2026-06-20"
+  },
+  {
     "path": "pages/arts/topic_chuci.html",
     "type": "topic",
     "category": "arts",
