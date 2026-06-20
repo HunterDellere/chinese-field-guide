@@ -9,7 +9,7 @@ pageTitle: '龙 lóng'
 tags:
   - 'culture'
   - 'history'
-updated: '2026-04-19'
+updated: '2026-06-19'
 char: '龙'
 pinyin: 'lóng'
 tone: 2
@@ -18,6 +18,13 @@ radical: '龙'
 content_review: 'verified'
 content_sources:
   - 'Unihan'
+faq:
+  - q: "What is the pinyin for 龙 (dragon)?"
+    a: "龙 is pronounced lóng with the second tone (rising). It is HSK 3, written in 5 strokes in simplified form, and serves as its own radical. The traditional form 龍 has 16 strokes; the 1956 reform compressed it dramatically while keeping the serpentine silhouette intact."
+  - q: "How is the Chinese dragon different from the European dragon?"
+    a: "The Chinese 龙 lóng and the European dragon share almost nothing beyond the translated label. The European dragon breathes fire, hoards treasure, and is slain by a hero. The Chinese dragon breathes clouds, commands rain and water, and brings agricultural blessings. No Chinese hero slays a dragon; the dragon is the hero."
+  - q: "Why do Chinese people call themselves descendants of the dragon?"
+    a: "龙的传人 lóng de chuánrén, descendants of the dragon, claims kinship with the dragon as an integrative creative force of nature, not descent from a predator. The phrase reached mass consciousness through Hou Dejian's 1978 song, framing Chinese identity as an inheritance of civilization passed down from a mythic ancestor."
 ---
 
 

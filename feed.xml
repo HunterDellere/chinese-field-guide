@@ -6,7 +6,7 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A reading nook for Chinese language and civilisation. Characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Jun 2026 03:11:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 03:16:40 GMT</lastBuildDate>
     <item>
       <title>楚辞 · Songs of Chu</title>
       <link>https://jiaoshoo.com/pages/arts/topic_chuci.html</link>
@@ -144,6 +144,14 @@
       <category>characters</category>
     </item>
     <item>
+      <title>龙 · dragon, the imperial symbol</title>
+      <link>https://jiaoshoo.com/pages/characters/long2_龙.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/long2_龙.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>China&apos;s most powerful mythic creature: benevolent, not fearsome; the emperor&apos;s emblem and the Chinese people&apos;s self-described totem.</description>
+      <category>characters</category>
+    </item>
+    <item>
       <title>你 · you</title>
       <link>https://jiaoshoo.com/pages/characters/ni3_你.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/ni3_你.html</guid>
@@ -184,6 +192,22 @@
       <category>characters</category>
     </item>
     <item>
+      <title>他 · he, him; another</title>
+      <link>https://jiaoshoo.com/pages/characters/ta1_他.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/ta1_他.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>他 was gender-neutral for a millennium until 她 was coined in 1917 to solve a translation problem that Classical Chinese had never needed to solve.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>天 · sky, heaven, day</title>
+      <link>https://jiaoshoo.com/pages/characters/tian1_天.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/tian1_天.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Heaven as moral authority, weather, time, and the ground of 天命 the Mandate of Heaven.</description>
+      <category>characters</category>
+    </item>
+    <item>
       <title>为 · to do; to act; for; because of</title>
       <link>https://jiaoshoo.com/pages/characters/wei2_为.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/wei2_为.html</guid>
@@ -221,30 +245,6 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/yi3_以.html</guid>
       <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
       <description>A classical Chinese preposition and conjunction so versatile that it anchors half the grammar of formal Chinese: the word that turns one thing into the means, standard, or cause of another.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>义 · righteousness, duty, justice</title>
-      <link>https://jiaoshoo.com/pages/characters/yi4_义.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/yi4_义.html</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
-      <description>The Confucian virtue of doing what is morally right, and the simplification that erased a sheep, a self, and the entire picture of what righteous form looks like.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>雨 · rain</title>
-      <link>https://jiaoshoo.com/pages/characters/yu3_雨.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/yu3_雨.html</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
-      <description>The oracle bone shows rain falling from the sky: one of the most transparent pictographs in the script, and the radical that organizes all Chinese weather.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>玉 · jade, precious</title>
-      <link>https://jiaoshoo.com/pages/characters/yu4_玉.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/yu4_玉.html</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
-      <description>The material of kingship and moral cultivation: three jade discs on a cord, a glyph almost identical to king, the stone that Confucius said was virtue made visible.</description>
       <category>characters</category>
     </item>
   </channel>

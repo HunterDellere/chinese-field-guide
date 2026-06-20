@@ -11,11 +11,18 @@ tags:
   - 'body'
   - 'philosophy'
   - 'culture'
-updated: '2026-04-19'
+updated: '2026-06-19'
 pinyin: 'zhōngyī'
 content_review: 'verified'
 content_sources:
   - 'Unihan'
+faq:
+  - q: "What does 中医 (zhōngyī) mean?"
+    a: "中医 zhōngyī means Traditional Chinese Medicine: 中 zhōng (Chinese) plus 医 yī (medicine, doctor). It names a complete medical system developed over two millennia, built on qi, yin-yang, and the Five Elements, as opposed to 西医 xīyī, Western medicine."
+  - q: "What are the foundational concepts of Traditional Chinese Medicine?"
+    a: "中医 rests on three interconnected concepts: 气 qì (vital energy) flowing through the meridians (经络 jīngluò); 阴阳 yīnyáng, balancing cold (寒) and heat (热) in the body; and 五行 wǔxíng, the Five Elements (Wood, Fire, Earth, Metal, Water) mapped onto organ systems."
+  - q: "What are the four diagnostic methods in Traditional Chinese Medicine?"
+    a: "The four diagnostic methods (四诊 sì zhěn) are: 望 wàng, inspection (complexion, tongue, eyes); 闻 wén, listening and smelling; 问 wèn, inquiry through standard questions; and 切 qiē, palpation, primarily pulse diagnosis, the most distinctive TCM diagnostic technique."
 ---
 
 

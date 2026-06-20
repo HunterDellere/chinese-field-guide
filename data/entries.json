@@ -309,6 +309,24 @@
     "updated": "2026-06-19"
   },
   {
+    "path": "pages/characters/long2_龙.html",
+    "type": "character",
+    "category": "characters",
+    "title": "龙 · dragon, the imperial symbol",
+    "desc": "China's most powerful mythic creature: benevolent, not fearsome; the emperor's emblem and the Chinese people's self-described totem.",
+    "tags": [
+      "culture",
+      "history"
+    ],
+    "status": "complete",
+    "char": "龙",
+    "pinyin": "lóng",
+    "tone": 2,
+    "hsk": 3,
+    "radical": "龙",
+    "updated": "2026-06-19"
+  },
+  {
     "path": "pages/characters/ni3_你.html",
     "type": "character",
     "category": "characters",
@@ -402,6 +420,45 @@
     "tone": 1,
     "hsk": 3,
     "radical": "心",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/characters/ta1_他.html",
+    "type": "character",
+    "category": "characters",
+    "title": "他 · he, him; another",
+    "desc": "他 was gender-neutral for a millennium until 她 was coined in 1917 to solve a translation problem that Classical Chinese had never needed to solve.",
+    "tags": [
+      "grammar",
+      "humanity",
+      "social",
+      "modern"
+    ],
+    "status": "complete",
+    "char": "他",
+    "pinyin": "tā",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "人",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/characters/tian1_天.html",
+    "type": "character",
+    "category": "characters",
+    "title": "天 · sky, heaven, day",
+    "desc": "Heaven as moral authority, weather, time, and the ground of 天命 the Mandate of Heaven.",
+    "tags": [
+      "cosmology",
+      "heaven",
+      "mandate"
+    ],
+    "status": "complete",
+    "char": "天",
+    "pinyin": "tiān",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "大",
     "updated": "2026-06-19"
   },
   {
@@ -628,6 +685,22 @@
     "updated": "2026-06-19"
   },
   {
+    "path": "pages/daily/topic_kouyu_lianjieci.html",
+    "type": "topic",
+    "category": "daily",
+    "title": "口语连接词 · Conversational Connectors",
+    "desc": "The discourse markers that make spoken Chinese sound natural: buying time, opining, hedging, redirecting, agreeing, and exiting a conversation without abruptness.",
+    "tags": [
+      "daily",
+      "spoken",
+      "language",
+      "etiquette"
+    ],
+    "status": "complete",
+    "pinyin": "kǒuyǔ liánjiēcí",
+    "updated": "2026-06-19"
+  },
+  {
     "path": "pages/families/language.html",
     "type": "topic",
     "category": "families",
@@ -653,6 +726,21 @@
     ],
     "status": "complete",
     "pinyin": "de / dé / dì",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/grammar/jiu_cai_就才.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "就 vs. 才 · sooner vs. later",
+    "desc": "The timing and emphasis pair: speaker attitude encoded in one syllable.",
+    "tags": [
+      "adverb",
+      "timing",
+      "emphasis"
+    ],
+    "status": "complete",
+    "pinyin": "jiù / cái",
     "updated": "2026-06-19"
   },
   {
@@ -706,6 +794,20 @@
     "updated": "2026-06-19"
   },
   {
+    "path": "pages/grammar/yinwei_suoyi_因为所以.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "因为…所以 · because…therefore",
+    "desc": "The causal conjunction pair: 因为 states the cause and 所以 announces the result, forming a two-clause logical structure that Chinese uses more explicitly than English.",
+    "tags": [
+      "grammar",
+      "syntax"
+    ],
+    "status": "complete",
+    "pinyin": "yīn wèi suǒ yǐ",
+    "updated": "2026-06-19"
+  },
+  {
     "path": "pages/grammar/zhe_着.html",
     "type": "grammar",
     "category": "grammar",
@@ -736,6 +838,22 @@
     ],
     "status": "complete",
     "pinyin": "zhě",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/history/topic_gaige.html",
+    "type": "topic",
+    "category": "history",
+    "title": "改革开放 · Reform and Opening Up",
+    "desc": "Deng Xiaoping's 1978 pivot that transformed China from a closed command economy into the world's second largest economy in four decades.",
+    "tags": [
+      "history",
+      "politics",
+      "economy",
+      "modern"
+    ],
+    "status": "complete",
+    "pinyin": "gǎigé kāifàng",
     "updated": "2026-06-19"
   },
   {
@@ -824,6 +942,21 @@
     ],
     "status": "complete",
     "pinyin": "qīngcháo",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/history/topic_tangchao.html",
+    "type": "topic",
+    "category": "history",
+    "title": "唐朝 · The Tang Dynasty",
+    "desc": "The cosmopolitan golden age: poetry, Buddhism, and the Silk Road.",
+    "tags": [
+      "tang",
+      "golden-age",
+      "cosmopolitan"
+    ],
+    "status": "complete",
+    "pinyin": "tángcháo",
     "updated": "2026-06-19"
   },
   {
@@ -941,6 +1074,22 @@
     ],
     "status": "complete",
     "pinyin": "Wáng Yángmíng",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/philosophy/topic_yijing.html",
+    "type": "topic",
+    "category": "philosophy",
+    "title": "易经 · The Book of Changes",
+    "desc": "The oldest and most cryptic of the Chinese classics: a manual of divination, a philosophy of change, and a map of the universe encoded in 64 hexagrams.",
+    "tags": [
+      "philosophy",
+      "divination",
+      "cosmology",
+      "classics"
+    ],
+    "status": "complete",
+    "pinyin": "yì jīng",
     "updated": "2026-06-19"
   },
   {
@@ -1138,6 +1287,36 @@
     "updated": "2026-06-19"
   },
   {
+    "path": "pages/vocab/dongxi_东西.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "东西 · things",
+    "desc": "East-west as the word for 'stuff': a window into directional cosmology.",
+    "tags": [
+      "directions",
+      "colloquial",
+      "things"
+    ],
+    "status": "complete",
+    "pinyin": "dōngxi",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/vocab/jiangshan_江山.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "江山 · rivers and mountains, the realm",
+    "desc": "The classical Chinese word for the nation: not a territory but a landscape; not a state but a living geography that dynasties rose and fell to possess.",
+    "tags": [
+      "history",
+      "politics",
+      "geography"
+    ],
+    "status": "complete",
+    "pinyin": "jiāngshān",
+    "updated": "2026-06-19"
+  },
+  {
     "path": "pages/vocab/lishi_历史.html",
     "type": "vocab",
     "category": "vocab",
@@ -1194,6 +1373,25 @@
     "updated": "2026-06-19"
   },
   {
+    "path": "pages/vocab/shehui_社会.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "社会 · society",
+    "desc": "The word for society that China borrowed from Japan, which had borrowed the characters from China: a compound forged at the altar of the earth.",
+    "tags": [
+      "society",
+      "social",
+      "connections",
+      "culture",
+      "confucianism",
+      "history",
+      "modern"
+    ],
+    "status": "complete",
+    "pinyin": "shèhuì",
+    "updated": "2026-06-19"
+  },
+  {
     "path": "pages/vocab/shenming_神明.html",
     "type": "vocab",
     "category": "vocab",
@@ -1223,6 +1421,21 @@
     ],
     "status": "complete",
     "pinyin": "shī cí",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/vocab/tianming_天命.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "天命 · the Mandate of Heaven",
+    "desc": "The political and cosmological concept that legitimized three thousand years of Chinese dynasty: heaven's appointment of the rightful ruler.",
+    "tags": [
+      "history",
+      "politics",
+      "philosophy"
+    ],
+    "status": "complete",
+    "pinyin": "tiānmìng",
     "updated": "2026-06-19"
   },
   {
@@ -1261,6 +1474,21 @@
     "updated": "2026-06-19"
   },
   {
+    "path": "pages/vocab/yinyang_阴阳.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "阴阳 · yin and yang",
+    "desc": "The binary engine of all classical Chinese thought.",
+    "tags": [
+      "cosmology",
+      "philosophy",
+      "binary"
+    ],
+    "status": "complete",
+    "pinyin": "yīnyáng",
+    "updated": "2026-06-19"
+  },
+  {
     "path": "pages/vocab/yuanfen_缘分.html",
     "type": "vocab",
     "category": "vocab",
@@ -1273,6 +1501,38 @@
     ],
     "status": "complete",
     "pinyin": "yuánfèn",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/vocab/zhihui_智慧.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "智慧 · wisdom; prajna",
+    "desc": "智慧 brings together Confucian moral discernment and Buddhist prajna under one compound: two traditions, one word, different objects of knowing.",
+    "tags": [
+      "philosophy",
+      "buddhism",
+      "confucianism",
+      "knowing"
+    ],
+    "status": "complete",
+    "pinyin": "zhìhuì",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/vocab/zhongyi_中医.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "中医 · Traditional Chinese Medicine",
+    "desc": "Two thousand years of systematic medical thought: qi, yin-yang, the Five Elements, acupuncture, and the living tradition that treats the person, not the disease.",
+    "tags": [
+      "tcm",
+      "body",
+      "philosophy",
+      "culture"
+    ],
+    "status": "complete",
+    "pinyin": "zhōngyī",
     "updated": "2026-06-19"
   },
   {
@@ -2424,22 +2684,6 @@
     "status": "complete",
     "pinyin": "zhīdào",
     "updated": "2026-05-29"
-  },
-  {
-    "path": "pages/daily/topic_kouyu_lianjieci.html",
-    "type": "topic",
-    "category": "daily",
-    "title": "口语连接词 · Conversational Connectors",
-    "desc": "The discourse markers that make spoken Chinese sound natural: buying time, opining, hedging, redirecting, agreeing, and exiting a conversation without abruptness.",
-    "tags": [
-      "daily",
-      "spoken",
-      "language",
-      "etiquette"
-    ],
-    "status": "complete",
-    "pinyin": "kǒuyǔ liánjiēcí",
-    "updated": "2026-05-16"
   },
   {
     "path": "pages/religion/topic_amituojing.html",
@@ -3751,26 +3995,6 @@
     "updated": "2026-04-25"
   },
   {
-    "path": "pages/characters/ta1_他.html",
-    "type": "character",
-    "category": "characters",
-    "title": "他 · he, him; another",
-    "desc": "他 was gender-neutral for a millennium until 她 was coined in 1917 to solve a translation problem that Classical Chinese had never needed to solve.",
-    "tags": [
-      "grammar",
-      "humanity",
-      "social",
-      "modern"
-    ],
-    "status": "complete",
-    "char": "他",
-    "pinyin": "tā",
-    "tone": 1,
-    "hsk": 1,
-    "radical": "人",
-    "updated": "2026-04-25"
-  },
-  {
     "path": "pages/characters/ting1_听.html",
     "type": "character",
     "category": "characters",
@@ -4658,25 +4882,6 @@
     "updated": "2026-04-25"
   },
   {
-    "path": "pages/vocab/shehui_社会.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "社会 · society",
-    "desc": "The word for society that China borrowed from Japan, which had borrowed the characters from China: a compound forged at the altar of the earth.",
-    "tags": [
-      "society",
-      "social",
-      "connections",
-      "culture",
-      "confucianism",
-      "history",
-      "modern"
-    ],
-    "status": "complete",
-    "pinyin": "shèhuì",
-    "updated": "2026-04-25"
-  },
-  {
     "path": "pages/vocab/siluzhilu_丝绸之路.html",
     "type": "vocab",
     "category": "vocab",
@@ -4759,22 +4964,6 @@
     ],
     "status": "complete",
     "pinyin": "yì",
-    "updated": "2026-04-25"
-  },
-  {
-    "path": "pages/vocab/zhihui_智慧.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "智慧 · wisdom; prajna",
-    "desc": "智慧 brings together Confucian moral discernment and Buddhist prajna under one compound: two traditions, one word, different objects of knowing.",
-    "tags": [
-      "philosophy",
-      "buddhism",
-      "confucianism",
-      "knowing"
-    ],
-    "status": "complete",
-    "pinyin": "zhìhuì",
     "updated": "2026-04-25"
   },
   {
@@ -5786,24 +5975,6 @@
     "tone": 3,
     "hsk": 4,
     "radical": "礻",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/characters/long2_龙.html",
-    "type": "character",
-    "category": "characters",
-    "title": "龙 · dragon, the imperial symbol",
-    "desc": "China's most powerful mythic creature: benevolent, not fearsome; the emperor's emblem and the Chinese people's self-described totem.",
-    "tags": [
-      "culture",
-      "history"
-    ],
-    "status": "complete",
-    "char": "龙",
-    "pinyin": "lóng",
-    "tone": 2,
-    "hsk": 3,
-    "radical": "龙",
     "updated": "2026-04-19"
   },
   {
@@ -7302,20 +7473,6 @@
     "updated": "2026-04-19"
   },
   {
-    "path": "pages/grammar/yinwei_suoyi_因为所以.html",
-    "type": "grammar",
-    "category": "grammar",
-    "title": "因为…所以 · because…therefore",
-    "desc": "The causal conjunction pair: 因为 states the cause and 所以 announces the result, forming a two-clause logical structure that Chinese uses more explicitly than English.",
-    "tags": [
-      "grammar",
-      "syntax"
-    ],
-    "status": "complete",
-    "pinyin": "yīn wèi suǒ yǐ",
-    "updated": "2026-04-19"
-  },
-  {
     "path": "pages/grammar/yuelaiyue_越来越.html",
     "type": "grammar",
     "category": "grammar",
@@ -7358,22 +7515,6 @@
     ],
     "status": "complete",
     "pinyin": "zhǐyǒu cái",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/history/topic_gaige.html",
-    "type": "topic",
-    "category": "history",
-    "title": "改革开放 · Reform and Opening Up",
-    "desc": "Deng Xiaoping's 1978 pivot that transformed China from a closed command economy into the world's second largest economy in four decades.",
-    "tags": [
-      "history",
-      "politics",
-      "economy",
-      "modern"
-    ],
-    "status": "complete",
-    "pinyin": "gǎigé kāifàng",
     "updated": "2026-04-19"
   },
   {
@@ -7598,22 +7739,6 @@
     "pinyin": "zhōngyī",
     "updated": "2026-04-19",
     "memberCount": 10
-  },
-  {
-    "path": "pages/philosophy/topic_yijing.html",
-    "type": "topic",
-    "category": "philosophy",
-    "title": "易经 · The Book of Changes",
-    "desc": "The oldest and most cryptic of the Chinese classics: a manual of divination, a philosophy of change, and a map of the universe encoded in 64 hexagrams.",
-    "tags": [
-      "philosophy",
-      "divination",
-      "cosmology",
-      "classics"
-    ],
-    "status": "complete",
-    "pinyin": "yì jīng",
-    "updated": "2026-04-19"
   },
   {
     "path": "pages/science/topic_bencao.html",
@@ -7842,21 +7967,6 @@
     "updated": "2026-04-19"
   },
   {
-    "path": "pages/vocab/jiangshan_江山.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "江山 · rivers and mountains, the realm",
-    "desc": "The classical Chinese word for the nation: not a territory but a landscape; not a state but a living geography that dynasties rose and fell to possess.",
-    "tags": [
-      "history",
-      "politics",
-      "geography"
-    ],
-    "status": "complete",
-    "pinyin": "jiāngshān",
-    "updated": "2026-04-19"
-  },
-  {
     "path": "pages/vocab/jieqi_节气.html",
     "type": "vocab",
     "category": "vocab",
@@ -8027,21 +8137,6 @@
     "updated": "2026-04-19"
   },
   {
-    "path": "pages/vocab/tianming_天命.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "天命 · the Mandate of Heaven",
-    "desc": "The political and cosmological concept that legitimized three thousand years of Chinese dynasty: heaven's appointment of the rightful ruler.",
-    "tags": [
-      "history",
-      "politics",
-      "philosophy"
-    ],
-    "status": "complete",
-    "pinyin": "tiānmìng",
-    "updated": "2026-04-19"
-  },
-  {
     "path": "pages/vocab/wushu_武术.html",
     "type": "vocab",
     "category": "vocab",
@@ -8086,22 +8181,6 @@
     ],
     "status": "complete",
     "pinyin": "zhōng guó huà",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/vocab/zhongyi_中医.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "中医 · Traditional Chinese Medicine",
-    "desc": "Two thousand years of systematic medical thought: qi, yin-yang, the Five Elements, acupuncture, and the living tradition that treats the person, not the disease.",
-    "tags": [
-      "tcm",
-      "body",
-      "philosophy",
-      "culture"
-    ],
-    "status": "complete",
-    "pinyin": "zhōngyī",
     "updated": "2026-04-19"
   },
   {
@@ -8192,25 +8271,6 @@
     "tone": 4,
     "hsk": 1,
     "radical": "日",
-    "updated": "2026-04-18"
-  },
-  {
-    "path": "pages/characters/tian1_天.html",
-    "type": "character",
-    "category": "characters",
-    "title": "天 · sky, heaven, day",
-    "desc": "Heaven as moral authority, weather, time, and the ground of 天命 the Mandate of Heaven.",
-    "tags": [
-      "cosmology",
-      "heaven",
-      "mandate"
-    ],
-    "status": "complete",
-    "char": "天",
-    "pinyin": "tiān",
-    "tone": 1,
-    "hsk": 1,
-    "radical": "大",
     "updated": "2026-04-18"
   },
   {
@@ -8519,21 +8579,6 @@
     "updated": "2026-04-18"
   },
   {
-    "path": "pages/grammar/jiu_cai_就才.html",
-    "type": "grammar",
-    "category": "grammar",
-    "title": "就 vs. 才 · sooner vs. later",
-    "desc": "The timing and emphasis pair: speaker attitude encoded in one syllable.",
-    "tags": [
-      "adverb",
-      "timing",
-      "emphasis"
-    ],
-    "status": "complete",
-    "pinyin": "jiù / cái",
-    "updated": "2026-04-18"
-  },
-  {
     "path": "pages/grammar/lian_dou_连都.html",
     "type": "grammar",
     "category": "grammar",
@@ -8606,21 +8651,6 @@
     ],
     "status": "complete",
     "pinyin": "sòngcháo",
-    "updated": "2026-04-18"
-  },
-  {
-    "path": "pages/history/topic_tangchao.html",
-    "type": "topic",
-    "category": "history",
-    "title": "唐朝 · The Tang Dynasty",
-    "desc": "The cosmopolitan golden age: poetry, Buddhism, and the Silk Road.",
-    "tags": [
-      "tang",
-      "golden-age",
-      "cosmopolitan"
-    ],
-    "status": "complete",
-    "pinyin": "tángcháo",
     "updated": "2026-04-18"
   },
   {
@@ -8864,21 +8894,6 @@
     "updated": "2026-04-18"
   },
   {
-    "path": "pages/vocab/dongxi_东西.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "东西 · things",
-    "desc": "East-west as the word for 'stuff': a window into directional cosmology.",
-    "tags": [
-      "directions",
-      "colloquial",
-      "things"
-    ],
-    "status": "complete",
-    "pinyin": "dōngxi",
-    "updated": "2026-04-18"
-  },
-  {
     "path": "pages/vocab/fengshui_风水.html",
     "type": "vocab",
     "category": "vocab",
@@ -8951,21 +8966,6 @@
     ],
     "status": "complete",
     "pinyin": "miànzi",
-    "updated": "2026-04-18"
-  },
-  {
-    "path": "pages/vocab/yinyang_阴阳.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "阴阳 · yin and yang",
-    "desc": "The binary engine of all classical Chinese thought.",
-    "tags": [
-      "cosmology",
-      "philosophy",
-      "binary"
-    ],
-    "status": "complete",
-    "pinyin": "yīnyáng",
     "updated": "2026-04-18"
   },
   {

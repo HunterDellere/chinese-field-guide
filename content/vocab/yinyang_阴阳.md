@@ -10,11 +10,18 @@ tags:
   - 'cosmology'
   - 'philosophy'
   - 'binary'
-updated: '2026-04-18'
+updated: '2026-06-19'
 pinyin: 'yīnyáng'
 content_review: 'verified'
 content_sources:
   - 'Unihan'
+faq:
+  - q: "What do yin and yang (阴阳 yīnyáng) mean in Chinese?"
+    a: "阴阳 yīnyáng is a complementary pair that generates all phenomena through interaction. 阴 originally meant the shaded, north-facing slope of a hill (cool, dark, receptive); 阳 meant the sunny slope (warm, bright, active). Neither is good or bad; both are necessary."
+  - q: "What is the difference between 阴 yīn and 阳 yáng?"
+    a: "阳 yáng is bright, warm, active, and overt (sunlight, a sunny personality, the solar calendar); 阴 yīn is dark, cool, still, and covert (overcast weather, the lunar calendar, hidden schemes). They are complementary halves, not opposites at war, and the goal is dynamic balance between them."
+  - q: "What are 阴虚 and 阳虚 in Traditional Chinese Medicine?"
+    a: "阴虚 yīn xū (yin deficiency) means the yin coolant is insufficient, so yang heat dominates: night sweats, dry mouth, flushed cheeks, irritability. 阳虚 yáng xū (yang deficiency) means yang warmth is insufficient, so cold dominates: pale face, cold limbs, low energy, frequent urination."
 ---
 
 

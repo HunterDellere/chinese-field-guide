@@ -11,13 +11,20 @@ tags:
   - 'humanity'
   - 'social'
   - 'modern'
-updated: '2026-04-25'
+updated: '2026-06-19'
 char: '他'
 pinyin: 'tā'
 tone: 1
 hsk: 1
 radical: '人'
 content_review: 'pending'
+faq:
+  - q: "What does the Chinese character 他 (tā) mean?"
+    a: "他 tā means \"he\" or \"him\" as a third-person pronoun, and also \"other\" or \"another.\" The older sense survives in compounds like 他人 (other people), 他乡 (another land), and 他日 (another day). In Classical Chinese it covered all third persons regardless of gender."
+  - q: "What is the difference between 他, 她, and 它?"
+    a: "他, 她, and 它 are all pronounced tā and differ only in writing. 他 (亻+ 也) means he or him, 她 (女 + 也) means she or her, and 它 means it for non-human referents. Spoken Mandarin cannot distinguish them; the gender distinction exists only in the written script."
+  - q: "When was the Chinese character 她 (she) invented?"
+    a: "她 was coined in 1917 by the poet and linguist Liú Bànnóng to translate Western pronouns like English \"she\" and French \"elle.\" He replaced the 亻 radical of 他 with 女 (woman), keeping the same sound. By the 1930s, 她 had won general adoption."
 ---
 
 

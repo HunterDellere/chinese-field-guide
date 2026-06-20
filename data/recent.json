@@ -309,6 +309,24 @@
     "updated": "2026-06-19"
   },
   {
+    "path": "pages/characters/long2_龙.html",
+    "type": "character",
+    "category": "characters",
+    "title": "龙 · dragon, the imperial symbol",
+    "desc": "China's most powerful mythic creature: benevolent, not fearsome; the emperor's emblem and the Chinese people's self-described totem.",
+    "tags": [
+      "culture",
+      "history"
+    ],
+    "status": "complete",
+    "char": "龙",
+    "pinyin": "lóng",
+    "tone": 2,
+    "hsk": 3,
+    "radical": "龙",
+    "updated": "2026-06-19"
+  },
+  {
     "path": "pages/characters/ni3_你.html",
     "type": "character",
     "category": "characters",
@@ -346,25 +364,6 @@
     "tone": 2,
     "hsk": 4,
     "radical": "八",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/characters/ren2_人.html",
-    "type": "character",
-    "category": "characters",
-    "title": "人 · person, humanity",
-    "desc": "The character for human being, and its echo in 仁 rén, Confucian benevolence.",
-    "tags": [
-      "humanity",
-      "confucianism",
-      "radical"
-    ],
-    "status": "complete",
-    "char": "人",
-    "pinyin": "rén",
-    "tone": 2,
-    "hsk": 1,
-    "radical": "人",
     "updated": "2026-06-19"
   }
 ]

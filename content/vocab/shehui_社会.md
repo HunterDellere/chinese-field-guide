@@ -16,7 +16,14 @@ tags:
   - 'confucianism'
   - 'history'
   - 'modern'
-updated: '2026-04-25'
+updated: '2026-06-19'
+faq:
+  - q: "What does 社会 (shèhuì) mean in Chinese?"
+    a: "社会 shèhuì means society: the macro-level social world, the collectivity of people in organized relationship. The compound joins 社 (the ancient earth-altar at a village center) and 会 (to gather, assemble), originally naming the community that met around that altar."
+  - q: "Where did the Chinese word 社会 come from?"
+    a: "社会 began as classical Chinese for the assembly around a village earth-altar, then traveled to Japan. Meiji-era translators reused it (Japanese shakai) to render the Western Gesellschaft/société, and late-Qing reformers absorbed it back into Chinese, where by the 1900s it became the standard word for society."
+  - q: "What is the difference between 社会, 社区, and 社群?"
+    a: "All three share 社 but differ in scale: 社会 shèhuì is society as a whole, macro-level and abstract; 社区 shèqū is a local, geographic community or neighborhood you can point to on a map; 社群 shèqún is a voluntary affinity group defined by shared interest, often a digital or online community."
 ---
 
 <div class="shell">

@@ -10,11 +10,18 @@ tags:
   - 'history'
   - 'politics'
   - 'geography'
-updated: '2026-04-19'
+updated: '2026-06-19'
 pinyin: 'jiāngshān'
 content_review: 'verified'
 content_sources:
   - 'Unihan'
+faq:
+  - q: "What does 江山 (jiāngshān) literally mean?"
+    a: "江山 literally means \"rivers and mountains,\" combining 江 jiāng (great river, originally the Yangtze) and 山 shān (mountain). It became the classical Chinese word for the country: not a state or government, but the enduring landscape itself, the substance dynasties rose and fell to possess."
+  - q: "What is the difference between 打江山 and 守江山?"
+    a: "打江山 (dǎ jiāngshān) means to conquer the realm by force, a dramatic, usually military achievement. 守江山 (shǒu jiāngshān) means to defend and hold it afterward, the slower work of governance. Mao Zedong's 1949 line captures the gap: easy to conquer, difficult to hold."
+  - q: "Where does the phrase 江山如画 come from?"
+    a: "江山如画 (jiāngshān rú huà), \"the rivers and mountains are like a painting,\" comes from Su Shi's ci poem 念奴娇·赤壁怀古 (Remembering Chibi): 江山如画，一时多少豪杰. From Song dynasty poetry to modern tourism, it remains the default superlative for China's natural scenery."
 ---
 
 

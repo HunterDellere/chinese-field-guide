@@ -10,11 +10,18 @@ tags:
   - 'directions'
   - 'colloquial'
   - 'things'
-updated: '2026-04-18'
+updated: '2026-06-19'
 pinyin: 'dōngxi'
 content_review: 'verified'
 content_sources:
   - 'Unihan'
+faq:
+  - q: "What does 东西 (dōngxi) mean in Chinese?"
+    a: "东西 dōngxi means things, stuff, or objects: the everyday word for tangible, holdable items you can buy, carry, or lose. For abstract things (events, matters, affairs), Chinese instead uses 事 shì or 事情 shìqíng."
+  - q: "Why does 东西 (east-west) mean things or stuff?"
+    a: "Three theories explain it. The market theory traces 东西 to Tang Chang'an's Eastern and Western markets, where shopping destinations became the goods. The cosmological theory links east to wood and west to metal, both tangible. The third sees 东西 as simply the canonical pair for stuff."
+  - q: "What is the difference between dōngxi and dōng xī?"
+    a: "Tone is the difference. dōngxi, with a neutral (de-stressed) tone on 西, means things or stuff: the everyday word. dōng xī, with full first tones on both syllables, means the actual directions east and west, used in geographic description and set idioms."
 ---
 
 

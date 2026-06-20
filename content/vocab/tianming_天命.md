@@ -10,13 +10,20 @@ tags:
   - 'history'
   - 'politics'
   - 'philosophy'
-updated: '2026-04-19'
+updated: '2026-06-19'
 pinyin: 'tiānmìng'
 seo_title: 'Tiānmìng (天命): the Mandate of Heaven, explained'
 seo_desc: "How one idea legitimized three thousand years of Chinese dynasties, and gave every rebellion a ready-made justification when the harvest failed."
 content_review: 'verified'
 content_sources:
   - 'Unihan'
+faq:
+  - q: "What does tiānmìng (天命) mean?"
+    a: "天命 tiānmìng means the Mandate of Heaven: the idea that heaven (天) appoints a rightful ruler, withdraws its decree (命) from the corrupt, and makes a successful rebellion proof of divine sanction. The character 命 carries both senses at once, the command heaven issues and the fate a person receives."
+  - q: "How did the Mandate of Heaven work as political theory?"
+    a: "Heaven awarded the mandate to a virtuous ruler, then withdrew it when he grew corrupt. Natural disasters, floods, and rebellions signaled that withdrawal. Whoever successfully overthrew the old order had, by that success, proven heaven gave them the mandate instead. This template held across Chinese dynasties for three thousand years."
+  - q: "What does 知天命 (zhī tiānmìng) mean?"
+    a: "知天命 zhī tiānmìng means to know heaven's decree: to understand your place, capacities, and limits in the order of things. It comes from Analects 2.4, where Confucius says he understood heaven's decree at fifty. It is now a warm, cultured way to refer to one's fiftieth birthday."
 ---
 
 

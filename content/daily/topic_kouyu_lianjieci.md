@@ -14,8 +14,15 @@ tags:
   - 'spoken'
   - 'language'
   - 'etiquette'
-updated: '2026-05-16'
+updated: '2026-06-19'
 pinyin: 'kǒuyǔ liánjiēcí'
+faq:
+  - q: "What are conversational connectors in Chinese (口语连接词)?"
+    a: "Conversational connectors are the small words and phrases that hold spoken Chinese together: the noises you make while thinking, ways to agree with reservations, and casual pivots to new topics. Native speakers use them constantly, and learners who skip them sound like they are translating sentence by sentence."
+  - q: "What are common filler phrases to buy time when speaking Chinese?"
+    a: "The most common Mandarin filler is 那个 (nàge), used to stall for half a second, much like English \"um.\" Other time-buying phrases include 怎么说呢 (zěnme shuō ne, \"how should I put it\"), 让我想想 (ràng wǒ xiǎngxiang, \"let me think\"), and 这个嘛 (zhège ma)."
+  - q: "How do you practice Chinese conversational connectors so they become natural?"
+    a: "Pick three phrases per week from different sections, then use each at least five times in real conversation, even when a simpler word would work. After two or three weeks a phrase starts arriving on its own. As a test, record yourself answering a question for sixty seconds and count the connectors."
 ---
 
 

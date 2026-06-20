@@ -10,8 +10,15 @@ pageTitle: '因为…所以 · Because / Therefore'
 tags:
   - 'grammar'
   - 'syntax'
-updated: '2026-04-19'
+updated: '2026-06-19'
 pinyin: 'yīn wèi suǒ yǐ'
+faq:
+  - q: "How do you say \"because\" in Chinese?"
+    a: "\"Because\" in Chinese is 因为 yīnwèi, which introduces the cause clause. It often pairs with 所以 suǒyǐ (therefore) in the same sentence: 因为下雨，所以我没去 means \"Because it rained, I didn't go.\" English rarely uses both halves, but Chinese does."
+  - q: "Do you have to use both 因为 and 所以 together?"
+    a: "No, neither half is strictly required. You can use 因为 alone when the result is obvious, or 所以 alone when the cause was already stated. The paired form 因为…所以 simply makes the logical relationship more explicit, and it sounds natural in both speech and writing."
+  - q: "What is the formal written equivalent of 因为…所以?"
+    a: "In formal writing, 由于 yóuyú (due to) replaces 因为, and 因此 yīncǐ (therefore) or 从而 cóng'ér (thereby) replaces 所以. 由于…因此 is the standard formal causal pair; 从而 implies the result follows naturally from deliberate action."
 ---
 
 

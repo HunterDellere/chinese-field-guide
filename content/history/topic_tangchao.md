@@ -11,8 +11,15 @@ tags:
   - 'tang'
   - 'golden-age'
   - 'cosmopolitan'
-updated: '2026-04-18'
+updated: '2026-06-19'
 pinyin: 'tángcháo'
+faq:
+  - q: "Who was the founder of the Tang dynasty?"
+    a: "The Tang dynasty (唐朝 Tángcháo, 618-907 CE) was founded by 李渊 Lǐ Yuān, a Sui military governor who exploited the chaos of Sui's collapse to seize the throne. He was soon eclipsed by his son 李世民 Lǐ Shìmín, who became Emperor Taizong."
+  - q: "Who were the greatest Tang dynasty poets?"
+    a: "The three greatest Tang poets were 李白 Lǐ Bái (701-762), poet of ecstatic freedom; 杜甫 Dù Fǔ (712-770), the moral \"Poet-Sage\" who witnessed the An Lushan Rebellion; and 王维 Wáng Wéi (699-759), a painter-poet of contemplative Buddhist stillness."
+  - q: "What is the Quan Tang Shi (Complete Tang Poetry)?"
+    a: "The 全唐诗 Quán Táng Shī (Complete Tang Poetry) is a collection compiled in 1705 on imperial order, containing 48,900 poems by over 2,200 poets. It is understood to preserve only a fraction of what the Tang dynasty actually composed."
 ---
 
 

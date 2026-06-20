@@ -10,7 +10,7 @@ tags:
   - 'cosmology'
   - 'heaven'
   - 'mandate'
-updated: '2026-04-18'
+updated: '2026-06-19'
 char: '天'
 pinyin: 'tiān'
 tone: 1
@@ -19,6 +19,13 @@ radical: '大'
 content_review: 'verified'
 content_sources:
   - 'Unihan'
+faq:
+  - q: "What is the Chinese character for heaven?"
+    a: "天 tiān is the Chinese character for heaven, also meaning sky and day. Built from 大 (a person with arms outstretched) plus 一 (a line above the head), it shows what is above the person: the sky. In Chinese thought it is the supreme moral-cosmic authority."
+  - q: "What does 天命 tiānmìng (the Mandate of Heaven) mean?"
+    a: "天命 tiānmìng, the Mandate of Heaven, is the idea that heaven blesses virtuous rulers and withdraws from corrupt ones. First articulated by the Duke of Zhou in the eleventh century BCE to justify overthrowing the Shang, it shaped Chinese political theory for three millennia and now survives colloquially as fate or destiny."
+  - q: "What does 天下 tiānxià mean?"
+    a: "天下 tiānxià means all under heaven, the classical Chinese word for the world. It combines 天 (heaven) and 下 (below), and refers to the entire human realm under one political and moral order, not the physical globe. The emperor ruled 天下; it still appears idiomatically in modern speech."
 ---
 
 

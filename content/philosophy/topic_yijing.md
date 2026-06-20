@@ -12,8 +12,15 @@ tags:
   - 'divination'
   - 'cosmology'
   - 'classics'
-updated: '2026-04-19'
+updated: '2026-06-19'
 pinyin: 'yì jīng'
+faq:
+  - q: "What is the I Ching (易经)?"
+    a: "The 易经 (Yì Jīng), or Book of Changes, is the oldest of the Five Classics: at once a divination manual, a cosmological text, and a philosophy of flux. It encodes all possible states of change in 64 hexagrams and predates both the Confucian and Daoist schools."
+  - q: "How do yin and yang work in the I Ching?"
+    a: "In the 易经, 阴 yīn is the broken line and 阳 yáng is the solid line, the only two elements composing all 64 hexagrams. Six stacked lines, each yin or yang, give two states across six positions: a complete binary system encoding every possible configuration of change."
+  - q: "What does 物极必反 (wù jí bì fǎn) mean?"
+    a: "物极必反 (wù jí bì fǎn) means things at their extreme necessarily reverse. It is the core cosmological law of the 易经: yin at its extreme becomes yang, yang at its extreme becomes yin. So the most powerful dynasty contains the seed of its decline, and the darkest night the return of light."
 ---
 
 

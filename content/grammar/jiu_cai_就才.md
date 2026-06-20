@@ -11,8 +11,15 @@ tags:
   - 'adverb'
   - 'timing'
   - 'emphasis'
-updated: '2026-04-18'
+updated: '2026-06-19'
 pinyin: 'jiù / cái'
+faq:
+  - q: "What is the difference between 就 (jiù) and 才 (cái)?"
+    a: "就 jiù means sooner, easier, or already than expected; 才 cái means later, harder, or only just than expected. Both modify the same verb, but they evaluate timing or quantity from opposite sides of a subjective baseline that lives in the speaker's attitude, not the clock."
+  - q: "How do you use 只要…就 versus 只有…才?"
+    a: "只要…就 (zhǐyào…jiù) marks a sufficient condition, an easy threshold: meet it and the result readily follows. 只有…才 (zhǐyǒu…cái) marks a necessary, exclusive condition, a hard threshold: it is the only path to the result. 就 maps to easy, 才 to demanding."
+  - q: "Why does 才 usually not take sentence-final 了?"
+    a: "才 sentences describing past events typically drop sentence-final 了 because the 了 cancels the lateness that 才 signals. 他三十岁才结婚 is correct, while 他三十岁才结婚了 sounds awkward. This is a key structural difference from 就, which often pairs with 了."
 ---
 
 

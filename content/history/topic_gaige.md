@@ -13,7 +13,14 @@ tags:
   - 'politics'
   - 'economy'
   - 'modern'
-updated: '2026-04-19'
+updated: '2026-06-19'
+faq:
+  - q: "What is gǎigé kāifàng (改革开放) in English?"
+    a: "改革开放 gǎigé kāifàng means \"reform and opening up\" in English. It pairs 改革 (internal structural reform) with 开放 (outward opening), the policy launched in 1978 that opened China's economy, invited foreign investment, and created Special Economic Zones."
+  - q: "When did Reform and Opening Up begin and who started it?"
+    a: "Reform and Opening Up began in December 1978 at the Third Plenary Session of the 11th Central Committee, three years after Mao Zedong's death. It is inseparable from Deng Xiaoping, who consolidated power after the Gang of Four's 1976 arrest and shifted the party's central task to economic construction."
+  - q: "What was China's first Special Economic Zone?"
+    a: "Shenzhen (深圳) was China's first Special Economic Zone, designated in 1980. Bordering Hong Kong, it grew from a border town of about 30,000 people in 1978 into a city of 17 million by 2020, home to companies including Huawei, Tencent, and DJI."
 ---
 
 

@@ -11,9 +11,16 @@ tags:
   - 'buddhism'
   - 'confucianism'
   - 'knowing'
-updated: '2026-04-25'
+updated: '2026-06-19'
 pinyin: 'zhìhuì'
 content_review: 'pending'
+faq:
+  - q: "What is the difference between 智慧 (zhìhuì) and 知识 (zhīshi)?"
+    a: "知识 zhīshi is factual knowledge: information that can be stored, transmitted, tested, and accumulated. 智慧 zhìhuì is wisdom, the capacity to apply that knowledge rightly, to discern what matters and act well in complex situations. Knowledge is the content; wisdom is the judgment that uses it."
+  - q: "What does 智 mean in Confucian ethics?"
+    a: "In Confucian ethics 智 zhì is one of the Five Constants (五常 wǔcháng): 仁, 义, 礼, 智, and 信. It is moral discernment, the faculty that makes the others work. Mencius called the heart of right and wrong (是非之心) the beginning of wisdom, an ethical quality formed through cultivation."
+  - q: "What is 般若 (bōrě), and how is it different from 智慧?"
+    a: "般若 bōrě is the Chinese transliteration of the Sanskrit prajñā: wisdom as liberating insight into emptiness (空). It is the insight the Heart Sutra points to with 色即是空 (form is emptiness). In strict Buddhist usage 般若 names this specific liberating insight, while 智慧 can mean wisdom in general."
 ---
 
 
