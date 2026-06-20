@@ -10,13 +10,20 @@ tags:
   - 'cosmology'
   - 'scale'
   - 'language'
-updated: '2026-04-25'
+updated: '2026-06-19'
 char: '万'
 pinyin: 'wàn'
 tone: 4
 hsk: 1
 radical: '一'
 content_review: 'pending'
+faq:
+  - q: "What does 万 (wàn) mean in Chinese?"
+    a: "万 (wàn) means ten thousand, and by extension myriad or all. It is HSK 1, tone 4 (falling), with the simplified form written in three strokes. Beyond arithmetic, 万 came to mean everything that exists, as in 万物 (wànwù), the ten thousand things."
+  - q: "How does the Chinese 万 counting system group large numbers?"
+    a: "Chinese groups large numbers by ten-thousands (万), not by thousands like English. The next named unit above 万 is 亿 (yì), one hundred million. To read Chinese numbers, count digits from the right in groups of four: 3,000,000 is 三百万 (three-hundred-wàn)."
+  - q: "Why does the character 万 originally mean scorpion?"
+    a: "The traditional form 萬 was originally a drawing of a scorpion, with claws, a segmented body, and a curling tail. Because the spoken word for scorpion sounded close to ten thousand, the graph was borrowed phonetically to write the number. This wholesale phonetic borrowing is called 假借 (jiǎjiè)."
 ---
 
 

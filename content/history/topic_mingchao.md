@@ -11,8 +11,15 @@ tags:
   - 'ming'
   - 'great-wall'
   - 'zhenghe'
-updated: '2026-04-18'
+updated: '2026-06-19'
 pinyin: 'míngcháo'
+faq:
+  - q: "Is the Great Wall (长城 chángchéng) that tourists see today a Ming dynasty wall?"
+    a: "Yes. The brick-paved ramparts and watchtowers tourists visit at Badaling, Mutianyu, and Jinshanling are primarily Ming construction. Earlier dynasties built rammed-earth walls, but the Ming rebuilt and extended the northern wall in fired brick and stone, spanning roughly 8,850 kilometers."
+  - q: "Who founded the Ming dynasty (明朝 míngcháo) and when?"
+    a: "Zhu Yuanzhang (朱元璋) founded the Ming dynasty in 1368 from his capital at Nanjing, taking the reign name Hongwu. Born to a tenant farming family, he survived famine as a wandering monk-beggar, joined the Red Turban rebels, and rose to supreme commander before proclaiming the dynasty."
+  - q: "What were Zheng He's voyages (郑和下西洋)?"
+    a: "Zheng He led seven Ming naval expeditions between 1405 and 1433 to Southeast Asia, India, Arabia, and East Africa. His fleets reached over three hundred vessels and nearly thirty thousand men; his treasure ship (宝船 bǎochuán) measured roughly 127 meters, possibly the largest wooden ship ever built."
 ---
 
 

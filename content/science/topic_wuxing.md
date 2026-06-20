@@ -17,8 +17,15 @@ tags:
   - 'yin-yang'
   - 'history'
   - 'ancient'
-updated: '2026-04-25'
+updated: '2026-06-19'
 pinyin: 'wǔ xíng'
+faq:
+  - q: "What are the Five Phases (wuxing) in Chinese cosmology?"
+    a: "The Five Phases (五行 wǔxíng) are Water, Wood, Fire, Earth, and Metal: five modes of transformation, not five substances. The character 行 xíng means to move or proceed, so each phase names a pattern of activity (flowing, growing, blazing, centering, contracting) rather than a kind of matter."
+  - q: "Why is wuxing mistranslated as the Five Elements?"
+    a: "Nineteenth-century European sinologists reached for the Greek term \"elements,\" projecting Aristotelian substance-thinking onto a Chinese process framework. In Greek thought water is a substance; in the 行 framework water is a process of flowing and moistening. Substance-thinking asks what things are made of; process-thinking asks what they do."
+  - q: "What is the difference between the generation and conquest cycles?"
+    a: "In the generation cycle (相生 xiāng shēng) each phase nourishes the next: Wood feeds Fire, Fire creates Earth, Earth bears Metal, Metal carries Water, Water nourishes Wood. In the conquest cycle (相克 xiāng kè) each phase regulates another, skipping one: Wood controls Earth, Earth Water, Water Fire, Fire Metal, Metal Wood."
 ---
 
 

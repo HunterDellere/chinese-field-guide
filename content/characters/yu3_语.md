@@ -9,7 +9,7 @@ pageTitle: '语 yǔ'
 tags:
   - 'grammar'
   - 'culture'
-updated: '2026-04-19'
+updated: '2026-06-19'
 char: '语'
 pinyin: 'yǔ'
 tone: 3
@@ -18,6 +18,13 @@ radical: '讠'
 content_review: 'verified'
 content_sources:
   - 'Unihan'
+faq:
+  - q: "What is the character on the right side of 语, the word with the speech radical?"
+    a: "The character on the right side of 语 is 吾 wú (I, me), which serves as the phonetic component. The left side is the speech radical 讠 (言 yán in traditional form). So 语 reads poetically as the self (吾) speaking (言)."
+  - q: "What does 语 yǔ mean in Chinese?"
+    a: "语 yǔ means language, speech, or words. As a noun it appears in 汉语 (Chinese), 母语 (mother tongue), and 语言 (language). In classical usage it also worked as a verb, to speak or tell, though modern Mandarin mostly uses 说 shuō for that sense."
+  - q: "What is the difference between 汉语 and 中文?"
+    a: "Both 汉语 Hànyǔ and 中文 Zhōngwén mean Chinese language, but 汉语 is the ethnolinguistic term (the language of the Han people), while 中文 is more informal and refers to written Chinese or Chinese in general. 普通话 Pǔtōnghuà specifically names Mandarin, the common speech."
 ---
 
 

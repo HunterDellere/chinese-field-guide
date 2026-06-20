@@ -11,13 +11,20 @@ tags:
   - 'philosophy'
   - 'confucianism'
   - 'education'
-updated: '2026-04-25'
+updated: '2026-06-19'
 char: '知'
 pinyin: 'zhī'
 tone: 1
 hsk: 2
 radical: '矢'
 content_review: 'pending'
+faq:
+  - q: "What does 知道了 (zhīdào le) mean in Chinese?"
+    a: "知道了 (zhīdào le) means \"understood; got it,\" literally \"I know now.\" It is one of the most common single utterances in everyday Mandarin, used to acknowledge information you have just received. Example: 知道了，我马上去 (Understood, I'll go right away)."
+  - q: "What is the difference between 知道, 了解, and 认识?"
+    a: "知道 (zhīdào) targets facts and propositions, the workhorse of factual knowing. 了解 (liǎojiě) implies depth and absorbed context, understanding something deeply over time. 认识 (rènshi) applies to people and objects you have encountered; you 认识 a person but cannot 认识 a fact."
+  - q: "What does Wang Yangming's 知行合一 mean?"
+    a: "知行合一 (zhī xíng hé yī) means \"the unity of knowing and acting,\" Wang Yangming's claim that genuine knowledge and action are a single thing, not two steps in sequence. If you know benevolence yet act without care, you do not truly know it; real knowledge is already in motion."
 ---
 
 

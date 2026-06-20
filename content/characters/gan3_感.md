@@ -10,7 +10,7 @@ tags:
   - 'emotion'
   - 'perception'
   - 'gratitude'
-updated: '2026-04-18'
+updated: '2026-06-19'
 char: '感'
 pinyin: 'gǎn'
 tone: 3
@@ -19,6 +19,13 @@ radical: '心'
 content_review: 'verified'
 content_sources:
   - 'Unihan'
+faq:
+  - q: "What is the radical of the Chinese character 感 (gǎn), and what does it mean?"
+    a: "The radical of 感 (gǎn) is 心 xīn, meaning heart. The character places 咸 xián (all; universal; reaching everywhere) above 心 (heart), giving the sense of that which the heart universally resonates with. Every 感-word, from feeling to gratitude, expresses the heart being struck and vibrating."
+  - q: "What is the difference between 感谢, 感激, and 感恩 in Chinese?"
+    a: "These three words form a gratitude gradient. 感谢 gǎnxiè is sincere, formal thanks used in writing and speeches. 感激 gǎnjī is deeper, implying emotional debt for meaningful help. 感恩 gǎn'ēn is the deepest: a Confucian virtue of honoring all grace received throughout life."
+  - q: "What does the X + 感 pattern mean in Chinese?"
+    a: "Attaching 感 gǎn to the end of a noun or adjective creates an abstract noun meaning the subjective, felt sense of X. Examples include 安全感 (sense of security), 幸福感 (sense of well-being), 责任感 (sense of responsibility), and 归属感 (sense of belonging). Japanese uses the identical pattern."
 ---
 
 

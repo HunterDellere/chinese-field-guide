@@ -14,9 +14,16 @@ tags:
   - 'qin'
   - 'ming'
   - 'architecture'
-updated: '2026-04-25'
+updated: '2026-06-19'
 pinyin: 'Chángchéng'
 content_review: 'pending'
+faq:
+  - q: "Who built the Great Wall of China, Qin or Ming?"
+    a: "Both, but the wall most visitors see is overwhelmingly Ming dynasty (1368-1644) brick and stone. Qin Shihuang did not build it from nothing; in 221 BCE he ordered existing Warring States walls connected and extended in rammed earth, most of which is now gone."
+  - q: "What does 长城 (Chángchéng) literally mean?"
+    a: "长城 means \"the long wall,\" or more precisely \"the long fortification\": 长 cháng (long) plus 城 chéng (city wall, walled city). The fuller ceremonial name is 万里长城 (wànlǐ chángchéng), \"ten-thousand-li Great Wall,\" where 万里 signals immeasurable distance rather than an exact figure."
+  - q: "Can the Great Wall be seen from space?"
+    a: "No, the Great Wall cannot be seen from space; it is long but narrow, only four to eight metres wide, and astronauts have confirmed this repeatedly. The claim that it is visible from the moon is a myth dating at least to a 1932 issue of Ripley's Believe It or Not!"
 ---
 
 

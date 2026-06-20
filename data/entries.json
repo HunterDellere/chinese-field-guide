@@ -210,6 +210,26 @@
     "updated": "2026-06-19"
   },
   {
+    "path": "pages/characters/di1_低.html",
+    "type": "character",
+    "category": "characters",
+    "title": "低 · low; to lower; to bow down",
+    "desc": "A person stooping: the phonetic 氐 gives the sound while the human radical supplies the posture, and together they built one of the most culturally loaded words in modern Chinese.",
+    "tags": [
+      "adjectives",
+      "daily-life",
+      "scale",
+      "degree"
+    ],
+    "status": "complete",
+    "char": "低",
+    "pinyin": "dī",
+    "tone": 1,
+    "hsk": 3,
+    "radical": "亻",
+    "updated": "2026-06-19"
+  },
+  {
     "path": "pages/characters/fo2_佛.html",
     "type": "character",
     "category": "characters",
@@ -226,6 +246,28 @@
     "tone": 2,
     "hsk": 5,
     "radical": "亻",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/characters/gan3_感.html",
+    "type": "character",
+    "category": "characters",
+    "title": "感 · to feel, to resonate",
+    "desc": "Feeling, perception, gratitude, and the cosmology of sympathetic resonance.",
+    "tags": [
+      "emotion",
+      "perception",
+      "gratitude"
+    ],
+    "status": "complete",
+    "char": "感",
+    "pinyin": "gǎn",
+    "tone": 3,
+    "hsk": {
+      "from": 2,
+      "to": 4
+    },
+    "radical": "心",
     "updated": "2026-06-19"
   },
   {
@@ -287,6 +329,27 @@
     "tone": 3,
     "hsk": 2,
     "radical": "口",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/characters/kong1_空.html",
+    "type": "character",
+    "category": "characters",
+    "title": "空 · empty, sky, void; in vain",
+    "desc": "A cave with the work of hollowing inside it. The character that names the open sky, the empty room, the wasted afternoon, and the Buddhist śūnyatā at the heart of Chan.",
+    "tags": [
+      "buddhism",
+      "philosophy",
+      "cosmology",
+      "chan",
+      "meditation"
+    ],
+    "status": "complete",
+    "char": "空",
+    "pinyin": "kōng",
+    "tone": 1,
+    "hsk": 3,
+    "radical": "穴",
     "updated": "2026-06-19"
   },
   {
@@ -462,6 +525,25 @@
     "updated": "2026-06-19"
   },
   {
+    "path": "pages/characters/wan4_万.html",
+    "type": "character",
+    "category": "characters",
+    "title": "万 · ten thousand; myriad; all",
+    "desc": "万 is the Chinese hyperbole unit. Where English reaches for millions, Chinese reaches for 万 to express the immeasurable, because the written number 10,000 originally meant scorpion.",
+    "tags": [
+      "cosmology",
+      "scale",
+      "language"
+    ],
+    "status": "complete",
+    "char": "万",
+    "pinyin": "wàn",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "一",
+    "updated": "2026-06-19"
+  },
+  {
     "path": "pages/characters/wei2_为.html",
     "type": "character",
     "category": "characters",
@@ -586,6 +668,24 @@
     "updated": "2026-06-19"
   },
   {
+    "path": "pages/characters/yu3_语.html",
+    "type": "character",
+    "category": "characters",
+    "title": "语 · language, speech, words",
+    "desc": "Speech radical plus the phonetic 吾 (I, me): the character for language carries the self within it, encoding the idea that language is the medium through which the self speaks to the world.",
+    "tags": [
+      "grammar",
+      "culture"
+    ],
+    "status": "complete",
+    "char": "语",
+    "pinyin": "yǔ",
+    "tone": 3,
+    "hsk": 2,
+    "radical": "讠",
+    "updated": "2026-06-19"
+  },
+  {
     "path": "pages/characters/yu3_雨.html",
     "type": "character",
     "category": "characters",
@@ -624,6 +724,46 @@
     "pinyin": "yù",
     "tone": 4,
     "radical": "玉",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/characters/zhi1_之.html",
+    "type": "character",
+    "category": "characters",
+    "title": "之 · of, going, this: the classical connective",
+    "desc": "The most-written character in classical Chinese: a possessive particle, pronoun, and verb fossilized into pure grammar.",
+    "tags": [
+      "classical",
+      "grammar",
+      "particle",
+      "literary"
+    ],
+    "status": "complete",
+    "char": "之",
+    "pinyin": "zhī",
+    "tone": 1,
+    "hsk": 5,
+    "radical": "丿",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/characters/zhi1_知.html",
+    "type": "character",
+    "category": "characters",
+    "title": "知 · to know; knowledge",
+    "desc": "知 = arrow + mouth: knowledge as the swift, target-hitting utterance, and in Wang Yangming, the act of knowing is inseparable from the act of doing.",
+    "tags": [
+      "knowing",
+      "philosophy",
+      "confucianism",
+      "education"
+    ],
+    "status": "complete",
+    "char": "知",
+    "pinyin": "zhī",
+    "tone": 1,
+    "hsk": 2,
+    "radical": "矢",
     "updated": "2026-06-19"
   },
   {
@@ -701,6 +841,21 @@
     "updated": "2026-06-19"
   },
   {
+    "path": "pages/daily/topic_xingming.html",
+    "type": "topic",
+    "category": "daily",
+    "title": "姓名 · Names",
+    "desc": "Family name first, given name second: the structure, meaning-making, and social logic of Chinese personal names.",
+    "tags": [
+      "names",
+      "social",
+      "language"
+    ],
+    "status": "complete",
+    "pinyin": "xìngmíng",
+    "updated": "2026-06-19"
+  },
+  {
     "path": "pages/families/language.html",
     "type": "topic",
     "category": "families",
@@ -711,6 +866,21 @@
     ],
     "status": "complete",
     "pinyin": "yǔyán",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/grammar/bei_被.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "被 · the passive",
+    "desc": "Agentive passive, unmarked passive, and the adversarial connotation.",
+    "tags": [
+      "passive",
+      "syntax",
+      "agent"
+    ],
+    "status": "complete",
+    "pinyin": "bèi",
     "updated": "2026-06-19"
   },
   {
@@ -908,6 +1078,36 @@
     ],
     "status": "complete",
     "pinyin": "kē jǔ",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/history/topic_mingchao.html",
+    "type": "topic",
+    "category": "history",
+    "title": "明朝 · The Ming Dynasty",
+    "desc": "The Great Wall rebuilt, Zheng He's voyages, and the inward turn.",
+    "tags": [
+      "ming",
+      "great-wall",
+      "zhenghe"
+    ],
+    "status": "complete",
+    "pinyin": "míngcháo",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/history/topic_qin_shihuang.html",
+    "type": "topic",
+    "category": "history",
+    "title": "秦始皇 · The First Emperor",
+    "desc": "Unification, standardization, and the terror that made China.",
+    "tags": [
+      "qin",
+      "unification",
+      "first-emperor"
+    ],
+    "status": "complete",
+    "pinyin": "qín shǐhuáng",
     "updated": "2026-06-19"
   },
   {
@@ -1238,6 +1438,27 @@
     "updated": "2026-06-19"
   },
   {
+    "path": "pages/science/topic_wuxing.html",
+    "type": "topic",
+    "category": "science",
+    "title": "五行 · Five Phases",
+    "desc": "The Qin dynasty dressed its armies in black and flew black banners because its theorists believed they ruled under the Water phase: this is how consequentially the Five Phases shaped Chinese history.",
+    "tags": [
+      "wuxing",
+      "five-phases",
+      "cosmology",
+      "philosophy",
+      "tcm",
+      "nature",
+      "yin-yang",
+      "history",
+      "ancient"
+    ],
+    "status": "complete",
+    "pinyin": "wǔ xíng",
+    "updated": "2026-06-19"
+  },
+  {
     "path": "pages/science/topic_xingxiu.html",
     "type": "topic",
     "category": "science",
@@ -1287,6 +1508,25 @@
     "updated": "2026-06-19"
   },
   {
+    "path": "pages/vocab/changjian_长城.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "长城 · the Great Wall",
+    "desc": "A series of fortification systems built across multiple dynasties, whose most visible sections are Ming-era brick: not the continuous ancient rampart of popular imagination.",
+    "tags": [
+      "history",
+      "geography",
+      "dynasty",
+      "great-wall",
+      "qin",
+      "ming",
+      "architecture"
+    ],
+    "status": "complete",
+    "pinyin": "Chángchéng",
+    "updated": "2026-06-19"
+  },
+  {
     "path": "pages/vocab/dongxi_东西.html",
     "type": "vocab",
     "category": "vocab",
@@ -1314,6 +1554,22 @@
     ],
     "status": "complete",
     "pinyin": "jiāngshān",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/vocab/junzi_君子.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "君子 · the exemplary person",
+    "desc": "The Confucian moral ideal that replaced aristocratic birth with cultivated virtue as the basis of social authority: anyone who does the work of 仁义礼智信 qualifies.",
+    "tags": [
+      "confucianism",
+      "ethics",
+      "virtue",
+      "analects"
+    ],
+    "status": "complete",
+    "pinyin": "jūnzǐ",
     "updated": "2026-06-19"
   },
   {
@@ -1351,6 +1607,37 @@
     ],
     "status": "complete",
     "pinyin": "lúnhuí",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/vocab/pinyin_拼音.html",
+    "type": "topic",
+    "category": "vocab",
+    "title": "拼音 · the romanization system for Mandarin",
+    "desc": "Pinyin is the official romanization of Mandarin: the system that maps Chinese sounds to the Latin alphabet. It is a pronunciation guide, not a writing system, and it does not replace characters.",
+    "tags": [
+      "language",
+      "grammar",
+      "writing",
+      "literacy"
+    ],
+    "status": "complete",
+    "pinyin": "pīnyīn",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/vocab/ren2_仁.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "仁 · humaneness, benevolence",
+    "desc": "The supreme Confucian virtue: the quality of genuine care for other people that holds civilization together.",
+    "tags": [
+      "confucianism",
+      "ethics",
+      "virtue"
+    ],
+    "status": "complete",
+    "pinyin": "rén",
     "updated": "2026-06-19"
   },
   {
@@ -3438,26 +3725,6 @@
     "updated": "2026-04-25"
   },
   {
-    "path": "pages/characters/di1_低.html",
-    "type": "character",
-    "category": "characters",
-    "title": "低 · low; to lower; to bow down",
-    "desc": "A person stooping: the phonetic 氐 gives the sound while the human radical supplies the posture, and together they built one of the most culturally loaded words in modern Chinese.",
-    "tags": [
-      "adjectives",
-      "daily-life",
-      "scale",
-      "degree"
-    ],
-    "status": "complete",
-    "char": "低",
-    "pinyin": "dī",
-    "tone": 1,
-    "hsk": 3,
-    "radical": "亻",
-    "updated": "2026-04-25"
-  },
-  {
     "path": "pages/characters/dong1_东.html",
     "type": "character",
     "category": "characters",
@@ -3710,27 +3977,6 @@
     "tone": 4,
     "hsk": 1,
     "radical": "目",
-    "updated": "2026-04-25"
-  },
-  {
-    "path": "pages/characters/kong1_空.html",
-    "type": "character",
-    "category": "characters",
-    "title": "空 · empty, sky, void; in vain",
-    "desc": "A cave with the work of hollowing inside it. The character that names the open sky, the empty room, the wasted afternoon, and the Buddhist śūnyatā at the heart of Chan.",
-    "tags": [
-      "buddhism",
-      "philosophy",
-      "cosmology",
-      "chan",
-      "meditation"
-    ],
-    "status": "complete",
-    "char": "空",
-    "pinyin": "kōng",
-    "tone": 1,
-    "hsk": 3,
-    "radical": "穴",
     "updated": "2026-04-25"
   },
   {
@@ -4014,25 +4260,6 @@
     "updated": "2026-04-25"
   },
   {
-    "path": "pages/characters/wan4_万.html",
-    "type": "character",
-    "category": "characters",
-    "title": "万 · ten thousand; myriad; all",
-    "desc": "万 is the Chinese hyperbole unit. Where English reaches for millions, Chinese reaches for 万 to express the immeasurable, because the written number 10,000 originally meant scorpion.",
-    "tags": [
-      "cosmology",
-      "scale",
-      "language"
-    ],
-    "status": "complete",
-    "char": "万",
-    "pinyin": "wàn",
-    "tone": 4,
-    "hsk": 1,
-    "radical": "一",
-    "updated": "2026-04-25"
-  },
-  {
     "path": "pages/characters/wu2_无.html",
     "type": "character",
     "category": "characters",
@@ -4229,26 +4456,6 @@
     "tone": 3,
     "hsk": 2,
     "radical": "辶",
-    "updated": "2026-04-25"
-  },
-  {
-    "path": "pages/characters/zhi1_知.html",
-    "type": "character",
-    "category": "characters",
-    "title": "知 · to know; knowledge",
-    "desc": "知 = arrow + mouth: knowledge as the swift, target-hitting utterance, and in Wang Yangming, the act of knowing is inseparable from the act of doing.",
-    "tags": [
-      "knowing",
-      "philosophy",
-      "confucianism",
-      "education"
-    ],
-    "status": "complete",
-    "char": "知",
-    "pinyin": "zhī",
-    "tone": 1,
-    "hsk": 2,
-    "radical": "矢",
     "updated": "2026-04-25"
   },
   {
@@ -4705,46 +4912,6 @@
     "updated": "2026-04-25"
   },
   {
-    "path": "pages/science/topic_wuxing.html",
-    "type": "topic",
-    "category": "science",
-    "title": "五行 · Five Phases",
-    "desc": "The Qin dynasty dressed its armies in black and flew black banners because its theorists believed they ruled under the Water phase: this is how consequentially the Five Phases shaped Chinese history.",
-    "tags": [
-      "wuxing",
-      "five-phases",
-      "cosmology",
-      "philosophy",
-      "tcm",
-      "nature",
-      "yin-yang",
-      "history",
-      "ancient"
-    ],
-    "status": "complete",
-    "pinyin": "wǔ xíng",
-    "updated": "2026-04-25"
-  },
-  {
-    "path": "pages/vocab/changjian_长城.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "长城 · the Great Wall",
-    "desc": "A series of fortification systems built across multiple dynasties, whose most visible sections are Ming-era brick: not the continuous ancient rampart of popular imagination.",
-    "tags": [
-      "history",
-      "geography",
-      "dynasty",
-      "great-wall",
-      "qin",
-      "ming",
-      "architecture"
-    ],
-    "status": "complete",
-    "pinyin": "Chángchéng",
-    "updated": "2026-04-25"
-  },
-  {
     "path": "pages/vocab/chuantong_传统.html",
     "type": "vocab",
     "category": "vocab",
@@ -4792,22 +4959,6 @@
     ],
     "status": "complete",
     "pinyin": "guójiā",
-    "updated": "2026-04-25"
-  },
-  {
-    "path": "pages/vocab/junzi_君子.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "君子 · the exemplary person",
-    "desc": "The Confucian moral ideal that replaced aristocratic birth with cultivated virtue as the basis of social authority: anyone who does the work of 仁义礼智信 qualifies.",
-    "tags": [
-      "confucianism",
-      "ethics",
-      "virtue",
-      "analects"
-    ],
-    "status": "complete",
-    "pinyin": "jūnzǐ",
     "updated": "2026-04-25"
   },
   {
@@ -5478,26 +5629,6 @@
     "updated": "2026-04-20"
   },
   {
-    "path": "pages/characters/zhi1_之.html",
-    "type": "character",
-    "category": "characters",
-    "title": "之 · of, going, this: the classical connective",
-    "desc": "The most-written character in classical Chinese: a possessive particle, pronoun, and verb fossilized into pure grammar.",
-    "tags": [
-      "classical",
-      "grammar",
-      "particle",
-      "literary"
-    ],
-    "status": "complete",
-    "char": "之",
-    "pinyin": "zhī",
-    "tone": 1,
-    "hsk": 5,
-    "radical": "丿",
-    "updated": "2026-04-20"
-  },
-  {
     "path": "pages/vocab/chanpin_产品.html",
     "type": "vocab",
     "category": "vocab",
@@ -5510,22 +5641,6 @@
     ],
     "status": "complete",
     "pinyin": "chǎnpǐn",
-    "updated": "2026-04-20"
-  },
-  {
-    "path": "pages/vocab/pinyin_拼音.html",
-    "type": "topic",
-    "category": "vocab",
-    "title": "拼音 · the romanization system for Mandarin",
-    "desc": "Pinyin is the official romanization of Mandarin: the system that maps Chinese sounds to the Latin alphabet. It is a pronunciation guide, not a writing system, and it does not replace characters.",
-    "tags": [
-      "language",
-      "grammar",
-      "writing",
-      "literacy"
-    ],
-    "status": "complete",
-    "pinyin": "pīnyīn",
     "updated": "2026-04-20"
   },
   {
@@ -6404,24 +6519,6 @@
     "tone": 4,
     "hsk": 1,
     "radical": "女",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/characters/yu3_语.html",
-    "type": "character",
-    "category": "characters",
-    "title": "语 · language, speech, words",
-    "desc": "Speech radical plus the phonetic 吾 (I, me): the character for language carries the self within it, encoding the idea that language is the medium through which the self speaks to the world.",
-    "tags": [
-      "grammar",
-      "culture"
-    ],
-    "status": "complete",
-    "char": "语",
-    "pinyin": "yǔ",
-    "tone": 3,
-    "hsk": 2,
-    "radical": "讠",
     "updated": "2026-04-19"
   },
   {
@@ -8076,21 +8173,6 @@
     "updated": "2026-04-19"
   },
   {
-    "path": "pages/vocab/ren2_仁.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "仁 · humaneness, benevolence",
-    "desc": "The supreme Confucian virtue: the quality of genuine care for other people that holds civilization together.",
-    "tags": [
-      "confucianism",
-      "ethics",
-      "virtue"
-    ],
-    "status": "complete",
-    "pinyin": "rén",
-    "updated": "2026-04-19"
-  },
-  {
     "path": "pages/vocab/rensheng_人生.html",
     "type": "vocab",
     "category": "vocab",
@@ -8211,28 +8293,6 @@
     ],
     "status": "complete",
     "pinyin": "sì dà míngzhù",
-    "updated": "2026-04-18"
-  },
-  {
-    "path": "pages/characters/gan3_感.html",
-    "type": "character",
-    "category": "characters",
-    "title": "感 · to feel, to resonate",
-    "desc": "Feeling, perception, gratitude, and the cosmology of sympathetic resonance.",
-    "tags": [
-      "emotion",
-      "perception",
-      "gratitude"
-    ],
-    "status": "complete",
-    "char": "感",
-    "pinyin": "gǎn",
-    "tone": 3,
-    "hsk": {
-      "from": 2,
-      "to": 4
-    },
-    "radical": "心",
     "updated": "2026-04-18"
   },
   {
@@ -8444,21 +8504,6 @@
     "updated": "2026-04-18"
   },
   {
-    "path": "pages/daily/topic_xingming.html",
-    "type": "topic",
-    "category": "daily",
-    "title": "姓名 · Names",
-    "desc": "Family name first, given name second: the structure, meaning-making, and social logic of Chinese personal names.",
-    "tags": [
-      "names",
-      "social",
-      "language"
-    ],
-    "status": "complete",
-    "pinyin": "xìngmíng",
-    "updated": "2026-04-18"
-  },
-  {
     "path": "pages/daily/topic_yanse.html",
     "type": "topic",
     "category": "daily",
@@ -8534,21 +8579,6 @@
     "updated": "2026-04-18"
   },
   {
-    "path": "pages/grammar/bei_被.html",
-    "type": "grammar",
-    "category": "grammar",
-    "title": "被 · the passive",
-    "desc": "Agentive passive, unmarked passive, and the adversarial connotation.",
-    "tags": [
-      "passive",
-      "syntax",
-      "agent"
-    ],
-    "status": "complete",
-    "pinyin": "bèi",
-    "updated": "2026-04-18"
-  },
-  {
     "path": "pages/grammar/directional_来去.html",
     "type": "grammar",
     "category": "grammar",
@@ -8606,36 +8636,6 @@
     ],
     "status": "complete",
     "pinyin": "shì…de",
-    "updated": "2026-04-18"
-  },
-  {
-    "path": "pages/history/topic_mingchao.html",
-    "type": "topic",
-    "category": "history",
-    "title": "明朝 · The Ming Dynasty",
-    "desc": "The Great Wall rebuilt, Zheng He's voyages, and the inward turn.",
-    "tags": [
-      "ming",
-      "great-wall",
-      "zhenghe"
-    ],
-    "status": "complete",
-    "pinyin": "míngcháo",
-    "updated": "2026-04-18"
-  },
-  {
-    "path": "pages/history/topic_qin_shihuang.html",
-    "type": "topic",
-    "category": "history",
-    "title": "秦始皇 · The First Emperor",
-    "desc": "Unification, standardization, and the terror that made China.",
-    "tags": [
-      "qin",
-      "unification",
-      "first-emperor"
-    ],
-    "status": "complete",
-    "pinyin": "qín shǐhuáng",
     "updated": "2026-04-18"
   },
   {

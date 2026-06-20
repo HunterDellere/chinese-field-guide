@@ -11,8 +11,15 @@ tags:
   - 'qin'
   - 'unification'
   - 'first-emperor'
-updated: '2026-04-18'
+updated: '2026-06-19'
 pinyin: 'qín shǐhuáng'
+faq:
+  - q: "Why did the six other warring states fall to Qin?"
+    a: "Qin conquered the six rival states (Hán, Zhào, Wèi, Chǔ, Yān, Qí) between 230 and 221 BCE because a century of Legalist reforms under Shang Yang had made it the most administratively efficient, militarily formidable state: soldiers earned rank by enemy heads, and bureaucracy ran on written law."
+  - q: "What did Qin Shi Huang standardize across China?"
+    a: "Qin Shi Huang standardized the written script as 小篆 xiǎozhuàn (small seal script), axle widths and roads, currency (round coins with a square hole), and weights and measures. He also replaced feudal lords with the 郡县制 jùnxiàn zhì commandery-county system of appointed, salaried officials."
+  - q: "What is the Terracotta Army of Qin Shi Huang?"
+    a: "The Terracotta Army (兵马俑 bīngmǎyǒng) is the First Emperor's buried clay army, discovered by farmers near Líntóng, Shaanxi, in March 1974. Three pits hold an estimated 8,000 life-sized warriors plus chariots and horses in military formation, each warrior's face individualized and originally painted in vivid polychrome."
 ---
 
 

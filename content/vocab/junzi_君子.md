@@ -11,9 +11,16 @@ tags:
   - 'ethics'
   - 'virtue'
   - 'analects'
-updated: '2026-04-25'
+updated: '2026-06-19'
 pinyin: 'jūnzǐ'
 content_review: 'pending'
+faq:
+  - q: "What does 君子 (junzi) mean in Chinese?"
+    a: "君子 jūnzǐ means the Confucian exemplary person: a principled, honorable, trustworthy individual. Literally \"son of a lord,\" it originally marked aristocratic birth, but Confucius redefined it as moral achievement open to anyone who cultivates virtue, regardless of family or rank."
+  - q: "What is the difference between 君子 and 小人?"
+    a: "君子 jūnzǐ and 小人 xiǎorén are moral opposites. The junzi's center of gravity is 义 yì (rightness), asking what is correct; the 小人 is oriented by 利 lì (profit), asking what benefits them. As Confucius put it, the junzi is expansive and at ease while the small person is always anxious."
+  - q: "What virtues does a 君子 embody?"
+    a: "A 君子 embodies the Five Constants, 仁义礼智信: humaneness, righteousness, ritual propriety, wisdom, and faithfulness. These are not separate skills but a unified character. In the completed junzi, all five become second nature, so virtue is one's actual way of moving through the world rather than effortful performance."
 ---
 
 

@@ -12,10 +12,17 @@ tags:
   - 'grammar'
   - 'writing'
   - 'literacy'
-updated: '2026-04-20'
+updated: '2026-06-19'
 content_review: 'verified'
 content_sources:
   - 'Unihan'
+faq:
+  - q: "Are there Chinese syllables pronounced with only a final (韵母) and no initial (声母)?"
+    a: "Yes. Syllables without a consonant onset are called zero-initial syllables (零声母). Mandarin uses 21 initials (声母 shēngmǔ) as an optional consonant start, so a syllable can consist of just its final (韵母 yùnmǔ), the vowel-centered portion."
+  - q: "What is pinyin and is it a way of writing Chinese?"
+    a: "Pinyin (拼音 pīnyīn, \"spelled sounds\") is the official romanization of Mandarin, using the 26 Latin letters plus tone diacritics to represent pronunciation. It is a pronunciation guide, not a writing system; published Chinese is written entirely in characters, with pinyin printed alongside."
+  - q: "How are tones marked in pinyin?"
+    a: "Pinyin marks tone with diacritics over the main vowel: ā á ǎ à for tones 1 to 4, and no mark for neutral. The rule: if the syllable has a or e, mark it; if it has ou, mark the o; otherwise mark the last vowel. Digital text appends tone numbers instead (ma1, ma2)."
 ---
 
 

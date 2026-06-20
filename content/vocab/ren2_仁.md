@@ -10,11 +10,18 @@ tags:
   - 'confucianism'
   - 'ethics'
   - 'virtue'
-updated: '2026-04-19'
+updated: '2026-06-19'
 pinyin: 'rén'
 content_review: 'verified'
 content_sources:
   - 'Unihan'
+faq:
+  - q: "What does 仁 (rén) mean in Confucianism?"
+    a: "仁 rén means humaneness or benevolence, the supreme Confucian virtue: genuine care for other people. Confucius defined it as 爱人 (to love others) and 克己复礼 (to restrain the self and return to ritual propriety). It is a practice, not a fixed doctrine, that differs by person and situation."
+  - q: "Why is the character 仁 made of 人 and 二?"
+    a: "仁 combines 亻 (the person radical, from 人 rén) and 二 èr (two), so its structure is its definition: humaneness is what happens between two people. It is a relational achievement that cannot exist alone, encoding the self in relation to another."
+  - q: "Why does 仁 also mean a seed or kernel, as in 杏仁?"
+    a: "In botany and Chinese medicine, 仁 names the seed or kernel of a fruit, the innermost living essence: 杏仁 (apricot kernel), 桃仁 (peach kernel), 花生仁 (peanut kernel). The shared word is deliberate; 仁 is the generative core from which everything grows, morally and botanically."
 ---
 
 

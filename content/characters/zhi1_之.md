@@ -11,7 +11,7 @@ tags:
   - 'grammar'
   - 'particle'
   - 'literary'
-updated: '2026-04-20'
+updated: '2026-06-19'
 char: '之'
 pinyin: 'zhī'
 tone: 1
@@ -20,6 +20,13 @@ radical: '丿'
 content_review: 'verified'
 content_sources:
   - 'Unihan'
+faq:
+  - q: "What are the common usages of the character 之 in classical Chinese?"
+    a: "之 zhī has three classical roles. As a structural particle it links a modifier to a head noun, like 的 (君子之道, the way of the gentleman). As a pronoun after a verb it means it, them, or this (爱之, love it). As a verb it means to go toward."
+  - q: "What does 之所以 (zhī suǒ yǐ) mean?"
+    a: "之所以 zhī suǒyǐ means the reason why or that's why. It is a formal causal connector that introduces a cause, as in 我之所以来是因为… (the reason I came is because…). It is a fixed modern compound that freezes 之 in place rather than parsing it as a particle."
+  - q: "Is 之 still used in modern Chinese?"
+    a: "Yes, although 的 replaced 之 for possessives and dropped it as a pronoun. 之 persists in three contexts: formal and literary registers for added gravitas, fixed compounds (之前, 之后, 之间, 之外, 总之), and chengyu that preserve its original grammatical roles."
 ---
 
 

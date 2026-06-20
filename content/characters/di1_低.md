@@ -11,13 +11,20 @@ tags:
   - 'daily-life'
   - 'scale'
   - 'degree'
-updated: '2026-04-25'
+updated: '2026-06-19'
 char: '低'
 pinyin: 'dī'
 tone: 1
 hsk: 3
 radical: '亻'
 content_review: 'pending'
+faq:
+  - q: "placeholder"
+    a: "placeholder"
+  - q: "placeholder"
+    a: "placeholder"
+  - q: "placeholder"
+    a: "placeholder"
 ---
 
 

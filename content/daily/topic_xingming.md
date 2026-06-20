@@ -11,8 +11,15 @@ tags:
   - 'names'
   - 'social'
   - 'language'
-updated: '2026-04-18'
+updated: '2026-06-19'
 pinyin: 'xìngmíng'
+faq:
+  - q: "How are Chinese given names chosen, and can they be a single character?"
+    a: "Chinese given names are chosen for meaning, sound, and visual appearance. Parents may consult elders, classical texts, almanacs, or professional name-givers (起名师 qǐmíng shī) who weigh tonal balance, stroke count, and Five Phases compatibility with the child's birth date. Single-character names are classical and returning in fashion."
+  - q: "What does xìng (姓) mean in a Chinese name, and where does it go?"
+    a: "Xìng (姓) is the family name, or surname, and it comes first: before the given name (名 míng). Mao Zedong is Mao (family) then Zedong (given). Together they form 姓名 (xìngmíng). This order signals that you are first a member of a lineage, then an individual."
+  - q: "Why do so many Chinese people share the same surname?"
+    a: "Chinese surname distribution is dramatically concentrated: the top hundred surnames cover over 85% of the population. The five most common are 王 Wáng, 李 Lǐ, 张 Zhāng, 刘 Liú, and 陈 Chén. Wang alone is estimated at over 100 million people, the most common surname in the world by population."
 ---
 
 

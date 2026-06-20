@@ -11,8 +11,15 @@ tags:
   - 'passive'
   - 'syntax'
   - 'agent'
-updated: '2026-04-18'
+updated: '2026-06-19'
 pinyin: 'bèi'
+faq:
+  - q: "What is the pinyin for 被 and what does it mean?"
+    a: "被 is pronounced bèi. It is the Chinese passive marker, etymologically a garment that covers you (衣 clothing plus 皮 skin). Grammatically it encodes the subject being acted upon, usually by something undesirable or outside the subject's control."
+  - q: "How do you form a sentence with 被?"
+    a: "Use the pattern Subject + 被 + Agent + Verb + Result, as in 自行车被小偷偷走了 (the bicycle was stolen by the thief). The agent can be dropped for the agentless form, Subject + 被 + Verb + Result. The verb always needs a result; a bare verb after 被 is ungrammatical."
+  - q: "Why does 被 sound negative in Chinese?"
+    a: "被 carries an adversative connotation, unlike the neutral English passive. Something is done to the subject, typically undesirable or beyond their control: theft, criticism, breakage, rejection. The etymology reinforces this, since being covered or draped by something external is rarely comfortable."
 ---
 
 

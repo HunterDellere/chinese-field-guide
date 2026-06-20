@@ -210,6 +210,26 @@
     "updated": "2026-06-19"
   },
   {
+    "path": "pages/characters/di1_低.html",
+    "type": "character",
+    "category": "characters",
+    "title": "低 · low; to lower; to bow down",
+    "desc": "A person stooping: the phonetic 氐 gives the sound while the human radical supplies the posture, and together they built one of the most culturally loaded words in modern Chinese.",
+    "tags": [
+      "adjectives",
+      "daily-life",
+      "scale",
+      "degree"
+    ],
+    "status": "complete",
+    "char": "低",
+    "pinyin": "dī",
+    "tone": 1,
+    "hsk": 3,
+    "radical": "亻",
+    "updated": "2026-06-19"
+  },
+  {
     "path": "pages/characters/fo2_佛.html",
     "type": "character",
     "category": "characters",
@@ -226,6 +246,28 @@
     "tone": 2,
     "hsk": 5,
     "radical": "亻",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/characters/gan3_感.html",
+    "type": "character",
+    "category": "characters",
+    "title": "感 · to feel, to resonate",
+    "desc": "Feeling, perception, gratitude, and the cosmology of sympathetic resonance.",
+    "tags": [
+      "emotion",
+      "perception",
+      "gratitude"
+    ],
+    "status": "complete",
+    "char": "感",
+    "pinyin": "gǎn",
+    "tone": 3,
+    "hsk": {
+      "from": 2,
+      "to": 4
+    },
+    "radical": "心",
     "updated": "2026-06-19"
   },
   {
@@ -290,6 +332,27 @@
     "updated": "2026-06-19"
   },
   {
+    "path": "pages/characters/kong1_空.html",
+    "type": "character",
+    "category": "characters",
+    "title": "空 · empty, sky, void; in vain",
+    "desc": "A cave with the work of hollowing inside it. The character that names the open sky, the empty room, the wasted afternoon, and the Buddhist śūnyatā at the heart of Chan.",
+    "tags": [
+      "buddhism",
+      "philosophy",
+      "cosmology",
+      "chan",
+      "meditation"
+    ],
+    "status": "complete",
+    "char": "空",
+    "pinyin": "kōng",
+    "tone": 1,
+    "hsk": 3,
+    "radical": "穴",
+    "updated": "2026-06-19"
+  },
+  {
     "path": "pages/characters/kuai4_快.html",
     "type": "character",
     "category": "characters",
@@ -306,64 +369,6 @@
     "tone": 4,
     "hsk": 2,
     "radical": "忄",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/characters/long2_龙.html",
-    "type": "character",
-    "category": "characters",
-    "title": "龙 · dragon, the imperial symbol",
-    "desc": "China's most powerful mythic creature: benevolent, not fearsome; the emperor's emblem and the Chinese people's self-described totem.",
-    "tags": [
-      "culture",
-      "history"
-    ],
-    "status": "complete",
-    "char": "龙",
-    "pinyin": "lóng",
-    "tone": 2,
-    "hsk": 3,
-    "radical": "龙",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/characters/ni3_你.html",
-    "type": "character",
-    "category": "characters",
-    "title": "你 · you",
-    "desc": "The everyday second-person pronoun whose formal twin 您 embeds 心 (heart) directly into the character: address with warmth.",
-    "tags": [
-      "grammar",
-      "social",
-      "courtesy"
-    ],
-    "status": "complete",
-    "char": "你",
-    "pinyin": "nǐ",
-    "tone": 3,
-    "hsk": 1,
-    "radical": "人",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/characters/qi2_其.html",
-    "type": "character",
-    "category": "characters",
-    "title": "其 · its, that, their",
-    "desc": "A winnowing basket that became the pronoun holding classical Chinese together: the silent 'its' behind thousands of literary phrases.",
-    "tags": [
-      "grammar",
-      "classical",
-      "literary",
-      "particle",
-      "language"
-    ],
-    "status": "complete",
-    "char": "其",
-    "pinyin": "qí",
-    "tone": 2,
-    "hsk": 4,
-    "radical": "八",
     "updated": "2026-06-19"
   }
 ]

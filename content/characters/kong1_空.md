@@ -12,7 +12,7 @@ tags:
   - 'cosmology'
   - 'chan'
   - 'meditation'
-updated: '2026-04-25'
+updated: '2026-06-19'
 char: '空'
 pinyin: 'kōng'
 tone: 1
@@ -25,6 +25,13 @@ content_sources:
   - 'Heart Sutra 心经, 色不异空，空不异色，色即是空，空即是色'
   - 'Diamond Sutra 金刚经 32, 一切有为法，如梦幻泡影'
   - 'CC-CEDICT, modern compound senses across registers'
+faq:
+  - q: "What does the Chinese character 空 mean in Buddhism?"
+    a: "In Buddhism, 空 (kōng) translates the Sanskrit śūnyatā, emptiness. Translators chose 空 over 无 for its image of the worked-out cave, open and ready to receive. It means not the absence of being but the absence of independent self-nature, the openness of all phenomena to interdependence."
+  - q: "How do you say sky with the character 空?"
+    a: "The everyday word for sky is 天空 (tiānkōng), joining 天 and 空. Here 空 means sky as physical space, the open expanse above through which birds fly and clouds drift, distinct from 天 (tiān), which carries sky as cosmic agent of weather, fate, and moral order."
+  - q: "What is the difference between the readings kōng and kòng for 空?"
+    a: "First-tone 空 (kōng) is the adjective and philosophical noun: empty, void, sky. Fourth-tone 空 (kòng) is the noun and verb of available time or space: 有空 (yǒu kòng), to have free time; 空白 (kòngbái), blank space. Adjectival quality stays kōng; a particular opening shifts to kòng."
 ---
 
 
