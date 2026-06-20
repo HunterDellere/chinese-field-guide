@@ -10,7 +10,7 @@ tags:
   - 'religion'
   - 'buddhism'
   - 'culture'
-updated: '2026-04-19'
+updated: '2026-06-19'
 char: '佛'
 pinyin: 'fó'
 tone: 2
@@ -20,6 +20,13 @@ facts_verified: true
 content_review: 'verified'
 content_sources:
   - 'Unihan'
+faq:
+  - q: "What does 阿弥陀佛 (Āmítuó Fó) mean?"
+    a: "阿弥陀佛 Āmítuó Fó means Amitabha Buddha, the Buddha most widely invoked in Pure Land devotion. The phrase is so embedded in daily Chinese speech that non-Buddhist speakers also use it as an everyday expression of relief or resignation, like saying \"thank goodness.\""
+  - q: "What does 佛 (fó) mean and where does the character come from?"
+    a: "佛 fó means Buddha, the awakened one. It is a phonetic loan coined when Buddhist missionaries rendered Sanskrit Buddha into Chinese during the Han dynasty. The character joins 亻rén (person) with 弗 fú (a phonetic component meaning \"not\"), suggesting a person freed from ordinary existence."
+  - q: "Why is 佛 read as fú in 仿佛 (fǎngfú)?"
+    a: "In 仿佛 fǎngfú (as if; seemingly), 佛 is read fú, not fó, and carries no Buddhist meaning at all. Here it works purely as a phonetic component alongside 仿 fǎng (to imitate). The compound is a high-frequency adverb for dreamlike or approximate perceptions."
 ---
 
 

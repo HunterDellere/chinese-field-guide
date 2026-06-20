@@ -10,11 +10,18 @@ tags:
   - 'politics'
   - 'history'
   - 'worldview'
-updated: '2026-04-18'
+updated: '2026-06-19'
 pinyin: 'tiānxià'
 content_review: 'verified'
 content_sources:
   - 'Unihan'
+faq:
+  - q: "What does tianxia (天下) mean?"
+    a: "天下 tiānxià means \"all under heaven.\" It is the Chinese world-concept that defined political legitimacy, moral authority, and the scope of civilization for three millennia. It works at once as geography (the known world), political realm, moral community, and a test of a ruler's legitimacy."
+  - q: "What does 天下为公 (tiānxià wéi gōng) mean?"
+    a: "天下为公 tiānxià wéi gōng means \"all under heaven belongs to all.\" From the Liji (Record of Rites), it frames governance as public stewardship rather than private ownership. Sun Yat-sen adopted it as a guiding slogan of the Republic of China, and it appears widely in his calligraphy."
+  - q: "What is the Mandate of Heaven (天命) and how does it relate to 天下?"
+    a: "天命 tiānmìng, the Mandate of Heaven, is the foundation of Chinese political legitimacy: heaven grants a ruler authority over 天下. Developed by the Zhou dynasty (ca. 1046 BCE) to justify overthrowing the Shang, it made dynasties rise and fall by virtue, not military strength alone."
 ---
 
 

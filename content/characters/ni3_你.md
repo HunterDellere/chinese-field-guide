@@ -10,13 +10,20 @@ tags:
   - 'grammar'
   - 'social'
   - 'courtesy'
-updated: '2026-04-25'
+updated: '2026-06-19'
 char: '你'
 pinyin: 'nǐ'
 tone: 3
 hsk: 1
 radical: '人'
 content_review: 'pending'
+faq:
+  - q: "What is the pinyin for 你?"
+    a: "你 is pronounced nǐ, written ni3 in numbered pinyin because it carries the third (dipping) tone. It is the everyday second-person singular pronoun meaning \"you,\" an HSK 1 character with 7 strokes and the 人 (person) radical."
+  - q: "What is the difference between 你 and 您?"
+    a: "你 nǐ is the neutral, informal \"you\" for everyday speech with friends, peers, and strangers, carrying no disrespect. 您 nín is the formal, respectful form (你 with 心, heart, added beneath) used for elders, seniors, customers, and service contexts; it is especially common in northern China."
+  - q: "What does 你吃了吗 mean as a greeting?"
+    a: "你吃了吗 nǐ chī le ma literally means \"Have you eaten?\" but functions as an intimate-register greeting among close friends, neighbors, and family. It is a phatic expression of care, not a dinner invitation, working much like \"How are you?\" does in English."
 ---
 
 

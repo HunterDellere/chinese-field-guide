@@ -13,8 +13,15 @@ tags:
   - 'invention'
   - 'history'
   - 'culture'
-updated: '2026-04-19'
+updated: '2026-06-19'
 pinyin: 'suànpán'
+faq:
+  - q: "What is the 算盘 (suànpán) and how does it work?"
+    a: "The 算盘 suànpán, the Chinese abacus, is a wooden frame split by a crossbar into upper and lower decks, with each vertical rod holding one decimal place. In the standard 2/5 setup, every upper bead counts as 5 and every lower bead as 1; any bead pushed against the crossbar is counted."
+  - q: "How old is the Chinese abacus and where did it come from?"
+    a: "The abacus grew out of 算筹 suànchóu (counting rods), the dominant tool from the Han through Tang dynasties. The bead-frame suanpan in its 2/5 form was clearly described in Cheng Dawei's 1592 Ming manual Suanfa Tongzong, and it stayed China's primary computational tool until the 1980s."
+  - q: "What is 珠心算 (zhū xīn suàn), abacus mental arithmetic?"
+    a: "珠心算 zhū xīn suàn is performing suanpan calculations mentally, visualizing the frame and beads with no physical instrument. Neuroimaging shows practitioners use visuospatial brain regions rather than language regions. World-class users add twenty 10-digit numbers in under five seconds; UNESCO listed the tradition in 2013."
 ---
 
 

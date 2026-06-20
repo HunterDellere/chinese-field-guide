@@ -1,5 +1,22 @@
 [
   {
+    "path": "pages/arts/topic_chuci.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "楚辞 · Songs of Chu",
+    "desc": "The shamanistic southern voice that gave Chinese literature its second pole: visionary, romantic, and inconsolably exiled.",
+    "tags": [
+      "poetry",
+      "literature",
+      "classical",
+      "history",
+      "culture"
+    ],
+    "status": "complete",
+    "pinyin": "chǔcí",
+    "updated": "2026-06-19"
+  },
+  {
     "path": "pages/arts/topic_guqin.html",
     "type": "topic",
     "category": "arts",
@@ -32,6 +49,23 @@
     ],
     "status": "complete",
     "pinyin": "shēng dàn jìng mò chǒu",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/arts/topic_luxun.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "鲁迅 · Lu Xun",
+    "desc": "The writer who looked at traditional Chinese society and saw cannibalism, and the complicated, unresolvable legacy he left behind.",
+    "tags": [
+      "literature",
+      "history",
+      "culture",
+      "writing",
+      "classical"
+    ],
+    "status": "complete",
+    "pinyin": "lǔxùn",
     "updated": "2026-06-19"
   },
   {
@@ -176,6 +210,25 @@
     "updated": "2026-06-19"
   },
   {
+    "path": "pages/characters/fo2_佛.html",
+    "type": "character",
+    "category": "characters",
+    "title": "佛 · Buddha, the awakened",
+    "desc": "The character that carried an entire worldview across the Silk Road: etymology, Buddhism, the 佛-family of compounds.",
+    "tags": [
+      "religion",
+      "buddhism",
+      "culture"
+    ],
+    "status": "complete",
+    "char": "佛",
+    "pinyin": "fó",
+    "tone": 2,
+    "hsk": 5,
+    "radical": "亻",
+    "updated": "2026-06-19"
+  },
+  {
     "path": "pages/characters/he2_和.html",
     "type": "character",
     "category": "characters",
@@ -253,6 +306,25 @@
     "tone": 4,
     "hsk": 2,
     "radical": "忄",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/characters/ni3_你.html",
+    "type": "character",
+    "category": "characters",
+    "title": "你 · you",
+    "desc": "The everyday second-person pronoun whose formal twin 您 embeds 心 (heart) directly into the character: address with warmth.",
+    "tags": [
+      "grammar",
+      "social",
+      "courtesy"
+    ],
+    "status": "complete",
+    "char": "你",
+    "pinyin": "nǐ",
+    "tone": 3,
+    "hsk": 1,
+    "radical": "人",
     "updated": "2026-06-19"
   },
   {
@@ -353,6 +425,25 @@
     "tone": 2,
     "hsk": 2,
     "radical": "丶",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/characters/wo3_我.html",
+    "type": "character",
+    "category": "characters",
+    "title": "我 · I, me, myself",
+    "desc": "The character for 'I' began as a toothed bronze halberd: the assertive grip of a weapon became the grammatical mark of a self.",
+    "tags": [
+      "grammar",
+      "humanity",
+      "social"
+    ],
+    "status": "complete",
+    "char": "我",
+    "pinyin": "wǒ",
+    "tone": 3,
+    "hsk": 1,
+    "radical": "戈",
     "updated": "2026-06-19"
   },
   {
@@ -498,6 +589,27 @@
     "updated": "2026-06-19"
   },
   {
+    "path": "pages/culture/topic_zhongjiu.html",
+    "type": "topic",
+    "category": "culture",
+    "title": "重阳节 · Double Ninth Festival",
+    "desc": "The festival named for two nines produced one of the Tang dynasty most memorized poems, and a linguistic trick that lets urban dwellers eat a cake instead of climbing a mountain.",
+    "tags": [
+      "festival",
+      "culture",
+      "daily-life",
+      "history",
+      "confucianism",
+      "nature",
+      "ancestors",
+      "family",
+      "poetry"
+    ],
+    "status": "complete",
+    "pinyin": "Chóngyángjié",
+    "updated": "2026-06-19"
+  },
+  {
     "path": "pages/daily/topic_chenghu.html",
     "type": "topic",
     "category": "daily",
@@ -627,6 +739,21 @@
     "updated": "2026-06-19"
   },
   {
+    "path": "pages/history/topic_hanchao.html",
+    "type": "topic",
+    "category": "history",
+    "title": "汉朝 · The Han Dynasty",
+    "desc": "Why Chinese call themselves 汉人: the dynasty that defined the civilization.",
+    "tags": [
+      "han",
+      "dynasty",
+      "identity"
+    ],
+    "status": "complete",
+    "pinyin": "hàncháo",
+    "updated": "2026-06-19"
+  },
+  {
     "path": "pages/history/topic_handai.html",
     "type": "topic",
     "category": "history",
@@ -666,6 +793,25 @@
     "updated": "2026-06-19"
   },
   {
+    "path": "pages/history/topic_qinchao.html",
+    "type": "topic",
+    "category": "history",
+    "title": "秦朝 · The Qin Dynasty (221–206 BCE)",
+    "desc": "Fifteen years of imperial rule, fifteen centuries of imperial inheritance. The Qin unified the warring states, standardized writing, currency, and roads, built the first long wall, burned the books, and collapsed under the weight of its own apparatus.",
+    "tags": [
+      "history",
+      "dynasty",
+      "qin",
+      "unification",
+      "legalism",
+      "first-emperor",
+      "statecraft"
+    ],
+    "status": "complete",
+    "pinyin": "Qín cháo",
+    "updated": "2026-06-19"
+  },
+  {
     "path": "pages/history/topic_qingchao.html",
     "type": "topic",
     "category": "history",
@@ -678,6 +824,21 @@
     ],
     "status": "complete",
     "pinyin": "qīngcháo",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/history/topic_xia_shang_zhou.html",
+    "type": "topic",
+    "category": "history",
+    "title": "夏商周 · The Three Dynasties",
+    "desc": "The legendary and early historical origins of Chinese civilization.",
+    "tags": [
+      "ancient",
+      "bronze-age",
+      "origins"
+    ],
+    "status": "complete",
+    "pinyin": "xià shāng zhōu",
     "updated": "2026-06-19"
   },
   {
@@ -713,6 +874,21 @@
     ],
     "status": "complete",
     "pinyin": "kǒngzǐ",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/philosophy/topic_laozi.html",
+    "type": "topic",
+    "category": "philosophy",
+    "title": "老子 · Laozi & the Daodejing",
+    "desc": "The 81 chapters, wu wei 无为, and the paradox at the heart of Daoist thought.",
+    "tags": [
+      "laozi",
+      "daodejing",
+      "wuwei"
+    ],
+    "status": "complete",
+    "pinyin": "lǎozǐ",
     "updated": "2026-06-19"
   },
   {
@@ -879,6 +1055,40 @@
     "updated": "2026-06-19"
   },
   {
+    "path": "pages/science/topic_suanpan.html",
+    "type": "topic",
+    "category": "science",
+    "title": "算盘 · The Abacus",
+    "desc": "Before the electronic calculator, a bead frame and trained fingers could outrun early computers on everyday arithmetic.",
+    "tags": [
+      "science",
+      "technology",
+      "invention",
+      "history",
+      "culture"
+    ],
+    "status": "complete",
+    "pinyin": "suànpán",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/science/topic_tiangan_dizhi.html",
+    "type": "topic",
+    "category": "science",
+    "title": "天干地支 · Heavenly Stems and Earthly Branches: the 60-year cycle",
+    "desc": "A combinatorial timekeeping system the Shang scribes used in 1250 BCE to date their divination sessions, and that Chinese people still use to name years, hours, and contract parties today.",
+    "tags": [
+      "science",
+      "calendar",
+      "cosmology",
+      "history",
+      "divination"
+    ],
+    "status": "complete",
+    "pinyin": "Tiāngān Dìzhī",
+    "updated": "2026-06-19"
+  },
+  {
     "path": "pages/science/topic_xingxiu.html",
     "type": "topic",
     "category": "science",
@@ -1033,6 +1243,21 @@
     ],
     "status": "complete",
     "pinyin": "tiān rén hé yī",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/vocab/tianxia_天下.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "天下 · all under heaven",
+    "desc": "The pre-nation-state Chinese political imagination: the civilized world.",
+    "tags": [
+      "politics",
+      "history",
+      "worldview"
+    ],
+    "status": "complete",
+    "pinyin": "tiānxià",
     "updated": "2026-06-19"
   },
   {
@@ -2217,25 +2442,6 @@
     "updated": "2026-05-16"
   },
   {
-    "path": "pages/history/topic_qinchao.html",
-    "type": "topic",
-    "category": "history",
-    "title": "秦朝 · The Qin Dynasty (221–206 BCE)",
-    "desc": "Fifteen years of imperial rule, fifteen centuries of imperial inheritance. The Qin unified the warring states, standardized writing, currency, and roads, built the first long wall, burned the books, and collapsed under the weight of its own apparatus.",
-    "tags": [
-      "history",
-      "dynasty",
-      "qin",
-      "unification",
-      "legalism",
-      "first-emperor",
-      "statecraft"
-    ],
-    "status": "complete",
-    "pinyin": "Qín cháo",
-    "updated": "2026-05-10"
-  },
-  {
     "path": "pages/religion/topic_amituojing.html",
     "type": "topic",
     "category": "religion",
@@ -3400,25 +3606,6 @@
     "updated": "2026-04-25"
   },
   {
-    "path": "pages/characters/ni3_你.html",
-    "type": "character",
-    "category": "characters",
-    "title": "你 · you",
-    "desc": "The everyday second-person pronoun whose formal twin 您 embeds 心 (heart) directly into the character: address with warmth.",
-    "tags": [
-      "grammar",
-      "social",
-      "courtesy"
-    ],
-    "status": "complete",
-    "char": "你",
-    "pinyin": "nǐ",
-    "tone": 3,
-    "hsk": 1,
-    "radical": "人",
-    "updated": "2026-04-25"
-  },
-  {
     "path": "pages/characters/qian2_前.html",
     "type": "character",
     "category": "characters",
@@ -3619,25 +3806,6 @@
     "tone": 4,
     "hsk": 1,
     "radical": "一",
-    "updated": "2026-04-25"
-  },
-  {
-    "path": "pages/characters/wo3_我.html",
-    "type": "character",
-    "category": "characters",
-    "title": "我 · I, me, myself",
-    "desc": "The character for 'I' began as a toothed bronze halberd: the assertive grip of a weapon became the grammatical mark of a self.",
-    "tags": [
-      "grammar",
-      "humanity",
-      "social"
-    ],
-    "status": "complete",
-    "char": "我",
-    "pinyin": "wǒ",
-    "tone": 3,
-    "hsk": 1,
-    "radical": "戈",
     "updated": "2026-04-25"
   },
   {
@@ -4071,27 +4239,6 @@
     "updated": "2026-04-25"
   },
   {
-    "path": "pages/culture/topic_zhongjiu.html",
-    "type": "topic",
-    "category": "culture",
-    "title": "重阳节 · Double Ninth Festival",
-    "desc": "The festival named for two nines produced one of the Tang dynasty most memorized poems, and a linguistic trick that lets urban dwellers eat a cake instead of climbing a mountain.",
-    "tags": [
-      "festival",
-      "culture",
-      "daily-life",
-      "history",
-      "confucianism",
-      "nature",
-      "ancestors",
-      "family",
-      "poetry"
-    ],
-    "status": "complete",
-    "pinyin": "Chóngyángjié",
-    "updated": "2026-04-25"
-  },
-  {
     "path": "pages/culture/topic_zhongyuan.html",
     "type": "topic",
     "category": "culture",
@@ -4331,23 +4478,6 @@
     ],
     "status": "complete",
     "pinyin": "Guānyīn",
-    "updated": "2026-04-25"
-  },
-  {
-    "path": "pages/science/topic_tiangan_dizhi.html",
-    "type": "topic",
-    "category": "science",
-    "title": "天干地支 · Heavenly Stems and Earthly Branches: the 60-year cycle",
-    "desc": "A combinatorial timekeeping system the Shang scribes used in 1250 BCE to date their divination sessions, and that Chinese people still use to name years, hours, and contract parties today.",
-    "tags": [
-      "science",
-      "calendar",
-      "cosmology",
-      "history",
-      "divination"
-    ],
-    "status": "complete",
-    "pinyin": "Tiāngān Dìzhī",
     "updated": "2026-04-25"
   },
   {
@@ -5242,23 +5372,6 @@
     "updated": "2026-04-20"
   },
   {
-    "path": "pages/arts/topic_chuci.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "楚辞 · Songs of Chu",
-    "desc": "The shamanistic southern voice that gave Chinese literature its second pole: visionary, romantic, and inconsolably exiled.",
-    "tags": [
-      "poetry",
-      "literature",
-      "classical",
-      "history",
-      "culture"
-    ],
-    "status": "complete",
-    "pinyin": "chǔcí",
-    "updated": "2026-04-19"
-  },
-  {
     "path": "pages/arts/topic_kunqu.html",
     "type": "topic",
     "category": "arts",
@@ -5275,23 +5388,6 @@
     ],
     "status": "complete",
     "pinyin": "kūnqǔ",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/arts/topic_luxun.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "鲁迅 · Lu Xun",
-    "desc": "The writer who looked at traditional Chinese society and saw cannibalism, and the complicated, unresolvable legacy he left behind.",
-    "tags": [
-      "literature",
-      "history",
-      "culture",
-      "writing",
-      "classical"
-    ],
-    "status": "complete",
-    "pinyin": "lǔxùn",
     "updated": "2026-04-19"
   },
   {
@@ -5498,25 +5594,6 @@
     "tone": 4,
     "hsk": 2,
     "radical": "雨",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/characters/fo2_佛.html",
-    "type": "character",
-    "category": "characters",
-    "title": "佛 · Buddha, the awakened",
-    "desc": "The character that carried an entire worldview across the Silk Road: etymology, Buddhism, the 佛-family of compounds.",
-    "tags": [
-      "religion",
-      "buddhism",
-      "culture"
-    ],
-    "status": "complete",
-    "char": "佛",
-    "pinyin": "fó",
-    "tone": 2,
-    "hsk": 5,
-    "radical": "亻",
     "updated": "2026-04-19"
   },
   {
@@ -7591,23 +7668,6 @@
     "updated": "2026-04-19"
   },
   {
-    "path": "pages/science/topic_suanpan.html",
-    "type": "topic",
-    "category": "science",
-    "title": "算盘 · The Abacus",
-    "desc": "Before the electronic calculator, a bead frame and trained fingers could outrun early computers on everyday arithmetic.",
-    "tags": [
-      "science",
-      "technology",
-      "invention",
-      "history",
-      "culture"
-    ],
-    "status": "complete",
-    "pinyin": "suànpán",
-    "updated": "2026-04-19"
-  },
-  {
     "path": "pages/science/topic_zhenjiu.html",
     "type": "topic",
     "category": "science",
@@ -8504,21 +8564,6 @@
     "updated": "2026-04-18"
   },
   {
-    "path": "pages/history/topic_hanchao.html",
-    "type": "topic",
-    "category": "history",
-    "title": "汉朝 · The Han Dynasty",
-    "desc": "Why Chinese call themselves 汉人: the dynasty that defined the civilization.",
-    "tags": [
-      "han",
-      "dynasty",
-      "identity"
-    ],
-    "status": "complete",
-    "pinyin": "hàncháo",
-    "updated": "2026-04-18"
-  },
-  {
     "path": "pages/history/topic_mingchao.html",
     "type": "topic",
     "category": "history",
@@ -8594,21 +8639,6 @@
     "updated": "2026-04-18"
   },
   {
-    "path": "pages/history/topic_xia_shang_zhou.html",
-    "type": "topic",
-    "category": "history",
-    "title": "夏商周 · The Three Dynasties",
-    "desc": "The legendary and early historical origins of Chinese civilization.",
-    "tags": [
-      "ancient",
-      "bronze-age",
-      "origins"
-    ],
-    "status": "complete",
-    "pinyin": "xià shāng zhōu",
-    "updated": "2026-04-18"
-  },
-  {
     "path": "pages/history/topic_xinhai.html",
     "type": "topic",
     "category": "history",
@@ -8651,21 +8681,6 @@
     ],
     "status": "complete",
     "pinyin": "fǎjiā",
-    "updated": "2026-04-18"
-  },
-  {
-    "path": "pages/philosophy/topic_laozi.html",
-    "type": "topic",
-    "category": "philosophy",
-    "title": "老子 · Laozi & the Daodejing",
-    "desc": "The 81 chapters, wu wei 无为, and the paradox at the heart of Daoist thought.",
-    "tags": [
-      "laozi",
-      "daodejing",
-      "wuwei"
-    ],
-    "status": "complete",
-    "pinyin": "lǎozǐ",
     "updated": "2026-04-18"
   },
   {
@@ -8936,21 +8951,6 @@
     ],
     "status": "complete",
     "pinyin": "miànzi",
-    "updated": "2026-04-18"
-  },
-  {
-    "path": "pages/vocab/tianxia_天下.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "天下 · all under heaven",
-    "desc": "The pre-nation-state Chinese political imagination: the civilized world.",
-    "tags": [
-      "politics",
-      "history",
-      "worldview"
-    ],
-    "status": "complete",
-    "pinyin": "tiānxià",
     "updated": "2026-04-18"
   },
   {

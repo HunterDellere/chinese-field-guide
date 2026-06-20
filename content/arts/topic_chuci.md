@@ -13,8 +13,15 @@ tags:
   - 'classical'
   - 'history'
   - 'culture'
-updated: '2026-04-19'
+updated: '2026-06-19'
 pinyin: 'chǔcí'
+faq:
+  - q: "What is the 楚辞 (Chǔcí, Songs of Chu)?"
+    a: "The 楚辞 Chǔcí (Songs of Chu) is an anthology of southern Chinese poetry compiled by Liu Xiang at the Han court around 26 BCE. It collects works attributed to Qu Yuan, his follower Song Yu, and later Han imitators, forming the shamanistic, visionary second pole of Chinese literature."
+  - q: "Who was Qu Yuan and how is he connected to the Dragon Boat Festival?"
+    a: "Qu Yuan (c. 340-278 BCE) was a Chu minister and poet who, after being exiled, drowned himself in the Miluo River in 278 BCE. The 端午节 Duānwǔ jié (Dragon Boat Festival), with its boat races and zòngzi rice dumplings, commemorates locals searching for his body."
+  - q: "What is the 离骚 (Li Sao) about?"
+    a: "The 离骚 Lí Sāo (Encountering Sorrow), the longest poem in the 楚辞 at 373 lines, is a first-person lament and visionary journey. The exiled speaker, surrounded by corrupt courtiers, mounts a dragon chariot to seek the gods; the celestial journey fails, and he resolves to follow Peng Xian into the river."
 ---
 
 

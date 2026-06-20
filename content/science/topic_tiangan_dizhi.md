@@ -12,9 +12,16 @@ tags:
   - 'cosmology'
   - 'history'
   - 'divination'
-updated: '2026-04-25'
+updated: '2026-06-19'
 pinyin: 'Tiāngān Dìzhī'
 content_review: 'pending'
+faq:
+  - q: "What is 天干地支 (Tiāngān Dìzhī)?"
+    a: "天干地支 is the ten Heavenly Stems and twelve Earthly Branches, which pair into a sixty-unit cycle for counting time. Shang dynasty scribes already used it around 1250 BCE to date oracle bone inscriptions, and Chinese speakers still use it to name years, hours, and contract parties today."
+  - q: "Why does the stem-branch cycle run for 60 years?"
+    a: "The cycle runs sixty units because sixty is the lowest common multiple of ten and twelve. Stem 1 pairs with branch 1, stem 2 with branch 2, and so on; when the ten stems run out they restart while the branches continue. After sixty pairings both sequences return to 甲子 together."
+  - q: "What is 花甲 (huājiǎ) and why is it the 60th birthday?"
+    a: "花甲 (huājiǎ) means completing one full sixty-year stem-branch cycle, which is why it names a person's sixtieth birthday. The term comes from a classical description of the cycle's sixty combinations as 'flowers.' The sixtieth year marks one full revolution of the cosmic clock and the beginning of a second."
 ---
 
 <div class="shell">

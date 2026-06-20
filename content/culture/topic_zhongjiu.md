@@ -18,7 +18,14 @@ tags:
   - 'ancestors'
   - 'family'
   - 'poetry'
-updated: '2026-04-25'
+updated: '2026-06-19'
+faq:
+  - q: "What is the Double Ninth Festival (重阳节)?"
+    a: "The Double Ninth Festival (重阳节 Chóngyángjié) falls on the ninth day of the ninth lunar month. It is named for two overlapping nines, nine being the supreme yang number, producing doubled yang energy. Its customs are mountain-climbing, chrysanthemum wine, and wearing zhuyu sprigs."
+  - q: "Why can you eat Double Ninth cake instead of climbing a mountain?"
+    a: "Because 糕 (gāo, cake) is homophonous with 高 (gāo, high), eating Double Ninth cake (重阳糕) is a sound-based substitution for climbing high ground. This let urban residents who could not reach a mountain fulfill the ritual through layered steamed cake instead, often decorated with small flags."
+  - q: "What is Wang Wei's Double Ninth poem about?"
+    a: "Wang Wei wrote it at seventeen while traveling alone to Chang'an, his family left behind east of the mountains. It describes homesickness (乡愁) at festival time; the final line 少一人 (one person missing) imagines his brothers climbing and wearing zhuyu, the gathering defined by who is absent."
 ---
 
 

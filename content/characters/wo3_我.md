@@ -10,13 +10,20 @@ tags:
   - 'grammar'
   - 'humanity'
   - 'social'
-updated: '2026-04-25'
+updated: '2026-06-19'
 char: '我'
 pinyin: 'wǒ'
 tone: 3
 hsk: 1
 radical: '戈'
 content_review: 'pending'
+faq:
+  - q: "What is the radical of 我 (wǒ) and how is it structured?"
+    a: "The radical of 我 (wǒ) is 戈 gē, the halberd, and the character has 7 strokes. Its oracle-bone form depicted a long-handled halberd fitted with lateral teeth along the blade. The serrated polearm shows on the left, the handle-haft structure on the right."
+  - q: "Why does 我, a weapon character, mean \"I\" in Chinese?"
+    a: "我 came to mean \"I\" through phonetic borrowing, not semantic evolution. The Old Chinese first-person pronoun sounded like the word for this toothed halberd (both close to *ngai), so scribes reused the weapon graph as a phonogram for the pronoun until that meaning displaced the original entirely."
+  - q: "What does the idiom 我行我素 (wǒ xíng wǒ sù) mean?"
+    a: "我行我素 (wǒ xíng wǒ sù) means to go one's own way, proceeding by one's own habits and values regardless of what others say. 素 sù means the plain or habitual. The register is neutral to mildly approving; context decides whether it reads as admirable consistency or stubbornness."
 ---
 
 <div class="shell">

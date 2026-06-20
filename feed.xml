@@ -6,7 +6,15 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A reading nook for Chinese language and civilisation. Characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Jun 2026 01:09:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 03:11:04 GMT</lastBuildDate>
+    <item>
+      <title>楚辞 · Songs of Chu</title>
+      <link>https://jiaoshoo.com/pages/arts/topic_chuci.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/arts/topic_chuci.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>The shamanistic southern voice that gave Chinese literature its second pole: visionary, romantic, and inconsolably exiled.</description>
+      <category>arts</category>
+    </item>
     <item>
       <title>古琴 · the scholar&apos;s zither</title>
       <link>https://jiaoshoo.com/pages/arts/topic_guqin.html</link>
@@ -21,6 +29,14 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/arts/topic_jingju_roles.html</guid>
       <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
       <description>Five role categories, each a complete performance tradition -- voice, movement, makeup, and costume as a total semiotic system.</description>
+      <category>arts</category>
+    </item>
+    <item>
+      <title>鲁迅 · Lu Xun</title>
+      <link>https://jiaoshoo.com/pages/arts/topic_luxun.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/arts/topic_luxun.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>The writer who looked at traditional Chinese society and saw cannibalism, and the complicated, unresolvable legacy he left behind.</description>
       <category>arts</category>
     </item>
     <item>
@@ -88,6 +104,14 @@
       <category>characters</category>
     </item>
     <item>
+      <title>佛 · Buddha, the awakened</title>
+      <link>https://jiaoshoo.com/pages/characters/fo2_佛.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/fo2_佛.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>The character that carried an entire worldview across the Silk Road: etymology, Buddhism, the 佛-family of compounds.</description>
+      <category>characters</category>
+    </item>
+    <item>
       <title>和 · harmony, and, with; peace</title>
       <link>https://jiaoshoo.com/pages/characters/he2_和.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/he2_和.html</guid>
@@ -117,6 +141,14 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/kuai4_快.html</guid>
       <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
       <description>One character carries two meanings that turn out to be the same thing: speed and joy both feel like the heart cutting loose.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>你 · you</title>
+      <link>https://jiaoshoo.com/pages/characters/ni3_你.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/ni3_你.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>The everyday second-person pronoun whose formal twin 您 embeds 心 (heart) directly into the character: address with warmth.</description>
       <category>characters</category>
     </item>
     <item>
@@ -157,6 +189,14 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/wei2_为.html</guid>
       <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
       <description>In oracle bone script, a hand leading an elephant (to guide an immense force through skillful agency), and the character at the center of the Daoist concept of non-action.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>我 · I, me, myself</title>
+      <link>https://jiaoshoo.com/pages/characters/wo3_我.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/wo3_我.html</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <description>The character for &apos;I&apos; began as a toothed bronze halberd: the assertive grip of a weapon became the grammatical mark of a self.</description>
       <category>characters</category>
     </item>
     <item>
@@ -206,46 +246,6 @@
       <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
       <description>The material of kingship and moral cultivation: three jade discs on a cord, a glyph almost identical to king, the stone that Confucius said was virtue made visible.</description>
       <category>characters</category>
-    </item>
-    <item>
-      <title>字 · character, written word</title>
-      <link>https://jiaoshoo.com/pages/characters/zi4_字.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/zi4_字.html</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
-      <description>The character that names itself, and the whole system of 汉字.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>称呼 · Forms of Address</title>
-      <link>https://jiaoshoo.com/pages/daily/topic_chenghu.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/daily/topic_chenghu.html</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
-      <description>In Chinese, how you address someone is not a formality. It is a precise statement of how you understand the relationship between you.</description>
-      <category>daily</category>
-    </item>
-    <item>
-      <title>语言 · The Language</title>
-      <link>https://jiaoshoo.com/pages/families/language.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/families/language.html</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
-      <description>Characters, vocabulary, grammar. The building blocks of written and spoken Chinese.</description>
-      <category>families</category>
-    </item>
-    <item>
-      <title>的 · 得 · 地 · the three de&apos;s</title>
-      <link>https://jiaoshoo.com/pages/grammar/de_的得地.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/grammar/de_的得地.html</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
-      <description>Attribution, result complement, and adverbial marker: distinguished once and for all.</description>
-      <category>grammar</category>
-    </item>
-    <item>
-      <title>了 · the perfective particle</title>
-      <link>https://jiaoshoo.com/pages/grammar/le_了.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/grammar/le_了.html</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
-      <description>Perfective aspect vs. change-of-state: the single most-confused particle.</description>
-      <category>grammar</category>
     </item>
   </channel>
 </rss>

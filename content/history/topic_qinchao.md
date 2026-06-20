@@ -15,8 +15,15 @@ tags:
   - 'legalism'
   - 'first-emperor'
   - 'statecraft'
-updated: '2026-05-10'
+updated: '2026-06-19'
 content_review: 'pending'
+faq:
+  - q: "Why did the other six warring states fall to Qin?"
+    a: "Qin conquered the six states because of structural advantage, not luck. Shang Yang's reforms had reorganized Qin society around agriculture and war, with promotion tied to performance, producing the largest, best-supplied, most disciplined army on the continent. King Zheng then swallowed all six in nine years (230 to 221 BCE)."
+  - q: "How long did the Qin dynasty last and why did it collapse?"
+    a: "The Qin dynasty lasted only fifteen years (221 to 206 BCE), the shortest major Chinese dynasty. Built for war, it never adapted to peace: Legalist machinery kept extracting wartime labor and grain, succession was hijacked by the eunuch Zhao Gao, and peasant revolts under Chen Sheng and Wu Guang toppled it."
+  - q: "What did the Qin dynasty standardize across China?"
+    a: "The Qin standardized the script (small seal script under Li Si), currency, laws, weights and measures (度量衡 dùliànghéng), and cart-axle gauge so vehicles fit the same ruts. It also replaced feudalism with the commandery-county system (郡县制 jùnxiàn zhì), the administrative template that lasted two thousand years."
 ---
 
 

@@ -11,8 +11,15 @@ tags:
   - 'ancient'
   - 'bronze-age'
   - 'origins'
-updated: '2026-04-18'
+updated: '2026-06-19'
 pinyin: 'xià shāng zhōu'
+faq:
+  - q: "What were the seven Warring States of ancient China?"
+    a: "The seven Warring States (战国 zhànguó) were Qin 秦, Chu 楚, Yan 燕, Zhao 赵, Wei 魏, Han 韩, and Qi 齐. From 475 to 221 BCE they competed in a zero-sum struggle for survival; Qin, applying Legalist reforms, eventually conquered the rest and unified China in 221 BCE."
+  - q: "What is the Mandate of Heaven (天命 tiānmìng)?"
+    a: "The Mandate of Heaven is the doctrine that Heaven grants the right to rule to virtuous kings and withdraws it from immoral ones. Developed by the Zhou to justify overthrowing the Shang, it read disasters, revolts, and military defeat as Heaven revoking the Mandate, becoming the central legitimating ideology of every later dynasty."
+  - q: "What were the Three Dynasties (夏商周) of early China?"
+    a: "The Three Dynasties were Xia (夏, c. 2070-1600 BCE), Shang (商, c. 1600-1046 BCE), and Zhou (周, 1046-256 BCE). They span China's move from legend into history: the unconfirmed Xia, the Shang of oracle bones and bronze vessels, and the long Zhou with its feudal order and golden age of philosophy."
 ---
 
 

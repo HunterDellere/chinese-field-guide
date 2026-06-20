@@ -11,8 +11,15 @@ tags:
   - 'han'
   - 'dynasty'
   - 'identity'
-updated: '2026-04-18'
+updated: '2026-06-19'
 pinyin: 'hàncháo'
+faq:
+  - q: "What is the Records of the Grand Historian (Shiji)?"
+    a: "The Shiji (史记), by Sima Qian (司马迁, c. 145-86 BCE), is a comprehensive history from the Yellow Emperor through Emperor Wu's reign. Its 130 chapters span five categories, including imperial annals and individual biographies, and it established the form of Chinese official history-writing for two thousand years."
+  - q: "Why do Chinese people call themselves Han (汉人)?"
+    a: "Chinese call themselves Han because the Han dynasty (汉朝, 206 BCE-220 CE) lasted four centuries and defined the civilization at its formative stage. Its name gave the dominant ethnic group (汉族), the script (汉字), and the language (汉语) their identity, something no later dynasty achieved."
+  - q: "Who founded the Han dynasty?"
+    a: "Liu Bang (刘邦, 256-195 BCE) founded the Han dynasty, a village headman from a peasant family who rose during Qin's collapse. He defeated the brilliant general Xiang Yu at Gaixia in 202 BCE and is known posthumously as Han Gaozu (汉高祖), the Exalted Founder of Han."
 ---
 
 

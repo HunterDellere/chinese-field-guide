@@ -11,8 +11,15 @@ tags:
   - 'laozi'
   - 'daodejing'
   - 'wuwei'
-updated: '2026-04-18'
+updated: '2026-06-19'
 pinyin: 'lǎozǐ'
+faq:
+  - q: "What does the Daodejing's Chapter 1 opening line \"The Dao that can be spoken of is not the constant Dao\" mean?"
+    a: "It means whatever you put into ordinary language about the Dao is partial and changeable, not the Dao itself (道可道，非常道). The key word 常 cháng signals the constant or eternal. The line warns against thinking you have grasped the Dao the moment you describe it."
+  - q: "Who actually wrote the Daodejing?"
+    a: "Authorship is uncertain; \"Laozi\" may be a composite or legendary figure rather than one writer. Sima Qian's Shiji (c. 90 BCE) offers three candidate identities and admits no one knows. Modern scholars treat the text as a compilation built over the fourth and third centuries BCE."
+  - q: "What does wu wei (无为) mean in Daoism?"
+    a: "无为 wú wéi means acting without imposing or forcing, not passivity or withdrawal. It is dropping the desire to control and dominate, doing only what is required without excess. Applied to rulers it means govern less: the more laws and interference, the more disorder."
 ---
 
 

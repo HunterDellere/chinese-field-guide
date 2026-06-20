@@ -13,8 +13,15 @@ tags:
   - 'culture'
   - 'writing'
   - 'classical'
-updated: '2026-04-19'
+updated: '2026-06-19'
 pinyin: 'lǔxùn'
+faq:
+  - q: "Who was Lu Xun (鲁迅)?"
+    a: "Lu Xun (鲁迅), born Zhou Shuren in 1881 in Shaoxing, is the father of modern Chinese literature. He abandoned medical study in Japan to change China's national spirit through writing, and his 1918 story 狂人日记 A Madman's Diary launched modern Chinese fiction."
+  - q: "Why did Lu Xun give up medicine for writing?"
+    a: "During a bacteriology lecture in Sendai, Lu Xun saw a slide of a Chinese man about to be executed while blank-faced Chinese bystanders merely watched. He concluded that changing his countrymen's spirit mattered more than treating their bodies, so he abandoned medicine for literature."
+  - q: "What does 吃人 chī rén mean in Lu Xun's work?"
+    a: "吃人 chī rén (\"eating people\") is Lu Xun's metaphor that traditional Confucian civilization, despite claims of humaneness and righteousness, consumes the weak, the young, women, and the marginal. Introduced in A Madman's Diary, it became his most radical and controversial indictment of Chinese tradition."
 ---
 
 

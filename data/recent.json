@@ -1,5 +1,22 @@
 [
   {
+    "path": "pages/arts/topic_chuci.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "楚辞 · Songs of Chu",
+    "desc": "The shamanistic southern voice that gave Chinese literature its second pole: visionary, romantic, and inconsolably exiled.",
+    "tags": [
+      "poetry",
+      "literature",
+      "classical",
+      "history",
+      "culture"
+    ],
+    "status": "complete",
+    "pinyin": "chǔcí",
+    "updated": "2026-06-19"
+  },
+  {
     "path": "pages/arts/topic_guqin.html",
     "type": "topic",
     "category": "arts",
@@ -32,6 +49,23 @@
     ],
     "status": "complete",
     "pinyin": "shēng dàn jìng mò chǒu",
+    "updated": "2026-06-19"
+  },
+  {
+    "path": "pages/arts/topic_luxun.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "鲁迅 · Lu Xun",
+    "desc": "The writer who looked at traditional Chinese society and saw cannibalism, and the complicated, unresolvable legacy he left behind.",
+    "tags": [
+      "literature",
+      "history",
+      "culture",
+      "writing",
+      "classical"
+    ],
+    "status": "complete",
+    "pinyin": "lǔxùn",
     "updated": "2026-06-19"
   },
   {
@@ -176,6 +210,25 @@
     "updated": "2026-06-19"
   },
   {
+    "path": "pages/characters/fo2_佛.html",
+    "type": "character",
+    "category": "characters",
+    "title": "佛 · Buddha, the awakened",
+    "desc": "The character that carried an entire worldview across the Silk Road: etymology, Buddhism, the 佛-family of compounds.",
+    "tags": [
+      "religion",
+      "buddhism",
+      "culture"
+    ],
+    "status": "complete",
+    "char": "佛",
+    "pinyin": "fó",
+    "tone": 2,
+    "hsk": 5,
+    "radical": "亻",
+    "updated": "2026-06-19"
+  },
+  {
     "path": "pages/characters/he2_和.html",
     "type": "character",
     "category": "characters",
@@ -256,6 +309,25 @@
     "updated": "2026-06-19"
   },
   {
+    "path": "pages/characters/ni3_你.html",
+    "type": "character",
+    "category": "characters",
+    "title": "你 · you",
+    "desc": "The everyday second-person pronoun whose formal twin 您 embeds 心 (heart) directly into the character: address with warmth.",
+    "tags": [
+      "grammar",
+      "social",
+      "courtesy"
+    ],
+    "status": "complete",
+    "char": "你",
+    "pinyin": "nǐ",
+    "tone": 3,
+    "hsk": 1,
+    "radical": "人",
+    "updated": "2026-06-19"
+  },
+  {
     "path": "pages/characters/qi2_其.html",
     "type": "character",
     "category": "characters",
@@ -293,85 +365,6 @@
     "tone": 2,
     "hsk": 1,
     "radical": "人",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/characters/shan1_山.html",
-    "type": "character",
-    "category": "characters",
-    "title": "山 · mountain, hill, sacred peak",
-    "desc": "Three peaks rising from the earth: the oldest pictograph and the axis of Chinese sacred geography.",
-    "tags": [
-      "nature",
-      "geography",
-      "sacred"
-    ],
-    "status": "complete",
-    "char": "山",
-    "pinyin": "shān",
-    "tone": 1,
-    "hsk": 1,
-    "radical": "山",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/characters/si1_思.html",
-    "type": "character",
-    "category": "characters",
-    "title": "思 · to think, to miss, thought",
-    "desc": "The field of the mind above the heart: thinking as cultivation, longing as thought turned inward.",
-    "tags": [
-      "mind",
-      "emotion"
-    ],
-    "status": "complete",
-    "char": "思",
-    "pinyin": "sī",
-    "tone": 1,
-    "hsk": 3,
-    "radical": "心",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/characters/wei2_为.html",
-    "type": "character",
-    "category": "characters",
-    "title": "为 · to do; to act; for; because of",
-    "desc": "In oracle bone script, a hand leading an elephant (to guide an immense force through skillful agency), and the character at the center of the Daoist concept of non-action.",
-    "tags": [
-      "grammar",
-      "classical",
-      "taoism",
-      "philosophy",
-      "daoism",
-      "wuwei",
-      "syntax"
-    ],
-    "status": "complete",
-    "char": "为",
-    "pinyin": "wéi",
-    "tone": 2,
-    "hsk": 2,
-    "radical": "丶",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/characters/xin1_心.html",
-    "type": "character",
-    "category": "characters",
-    "title": "心 · heart, mind",
-    "desc": "The radical at the root of all feeling, and the Chinese conception of thought itself.",
-    "tags": [
-      "radical",
-      "emotion",
-      "mind"
-    ],
-    "status": "complete",
-    "char": "心",
-    "pinyin": "xīn",
-    "tone": 1,
-    "hsk": 2,
-    "radical": "心",
     "updated": "2026-06-19"
   }
 ]
