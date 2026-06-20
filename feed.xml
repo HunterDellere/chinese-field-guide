@@ -6,13 +6,21 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A reading nook for Chinese language and civilisation. Characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Jun 2026 15:47:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 15:54:44 GMT</lastBuildDate>
     <item>
       <title>本 · root, origin, this, a book</title>
       <link>https://jiaoshoo.com/pages/characters/ben3_本.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/ben3_本.html</guid>
       <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
       <description>A tree with its root marked: the character for where a thing comes from. From root grows origin, the fundamental, one&apos;s own, the principal sum, and the bound volume you hold in your hand.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>常 · constant, ordinary, often</title>
+      <link>https://jiaoshoo.com/pages/characters/chang2_常.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/chang2_常.html</guid>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
+      <description>A long banner of cloth that came to mean what endures: the constant and the lasting, the ordinary and the common, and the things that happen again and again.</description>
       <category>characters</category>
     </item>
     <item>
@@ -40,6 +48,14 @@
       <category>characters</category>
     </item>
     <item>
+      <title>间 · space between, interval, room</title>
+      <link>https://jiaoshoo.com/pages/characters/jian1_间.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/jian1_间.html</guid>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Sunlight in the crack between two doors: the character for the space between things. From that gap grow time, the middle ground, the human world, and the room you count one by one.</description>
+      <category>characters</category>
+    </item>
+    <item>
       <title>面 · face, surface, side</title>
       <link>https://jiaoshoo.com/pages/characters/mian4_面.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/mian4_面.html</guid>
@@ -56,11 +72,43 @@
       <category>characters</category>
     </item>
     <item>
+      <title>太 · too, extremely, highest, grand</title>
+      <link>https://jiaoshoo.com/pages/characters/tai4_太.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/tai4_太.html</guid>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
+      <description>The character 大 (big) with one extra dot, pushing big past its limit into too-much. From that excess grow the everyday too, the highest and grandest, the sun, and the supreme pole of Taiji.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>现 · to appear, present, now</title>
+      <link>https://jiaoshoo.com/pages/characters/xian4_现.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/xian4_现.html</guid>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
+      <description>The luster of jade coming into view. From that glint of something becoming visible grows the whole vocabulary of appearing, of the present moment, and of what is ready and on hand.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>正 · upright, correct, exactly, in the midst of</title>
+      <link>https://jiaoshoo.com/pages/characters/zheng4_正.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/zheng4_正.html</guid>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
+      <description>A foot halting squarely on the target line. From that image grows everything straight and correct: the upright, the standard, the exact moment, and the ongoing right-now.</description>
+      <category>characters</category>
+    </item>
+    <item>
       <title>子 · child, seed, Master</title>
       <link>https://jiaoshoo.com/pages/characters/zi3_子.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/zi3_子.html</guid>
       <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
       <description>A picture of a swaddled infant that grew into one of the busiest characters in the language: a child and a son, the honorific for a Master, the empty noun-suffix on a thousand words, and the seed of a thing.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>作 · to do, to make, to compose</title>
+      <link>https://jiaoshoo.com/pages/characters/zuo4_作.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/zuo4_作.html</guid>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
+      <description>A person setting something in motion. From the act of beginning grows the whole vocabulary of doing, making, and composing: the job you work, the work you create, and the role you act out.</description>
       <category>characters</category>
     </item>
     <item>
@@ -197,54 +245,6 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/jia1_家.html</guid>
       <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
       <description>House, family, school of thought, nation (国家): the fractal of belonging.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>可 · can; may; worth; quite</title>
-      <link>https://jiaoshoo.com/pages/characters/ke3_可.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/ke3_可.html</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
-      <description>A two-stroke mouth character whose ancient sense of affirming breath became the pivot of permission, capability, and worth in classical and modern Chinese.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>空 · empty, sky, void; in vain</title>
-      <link>https://jiaoshoo.com/pages/characters/kong1_空.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/kong1_空.html</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
-      <description>A cave with the work of hollowing inside it. The character that names the open sky, the empty room, the wasted afternoon, and the Buddhist śūnyatā at the heart of Chan.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>快 · fast, happy</title>
-      <link>https://jiaoshoo.com/pages/characters/kuai4_快.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/kuai4_快.html</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
-      <description>One character carries two meanings that turn out to be the same thing: speed and joy both feel like the heart cutting loose.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>龙 · dragon, the imperial symbol</title>
-      <link>https://jiaoshoo.com/pages/characters/long2_龙.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/long2_龙.html</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
-      <description>China&apos;s most powerful mythic creature: benevolent, not fearsome; the emperor&apos;s emblem and the Chinese people&apos;s self-described totem.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>你 · you</title>
-      <link>https://jiaoshoo.com/pages/characters/ni3_你.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/ni3_你.html</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
-      <description>The everyday second-person pronoun whose formal twin 您 embeds 心 (heart) directly into the character: address with warmth.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>其 · its, that, their</title>
-      <link>https://jiaoshoo.com/pages/characters/qi2_其.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/qi2_其.html</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
-      <description>A winnowing basket that became the pronoun holding classical Chinese together: the silent &apos;its&apos; behind thousands of literary phrases.</description>
       <category>characters</category>
     </item>
   </channel>

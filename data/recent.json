@@ -20,6 +20,26 @@
     "updated": "2026-06-20"
   },
   {
+    "path": "pages/characters/chang2_常.html",
+    "type": "character",
+    "category": "characters",
+    "title": "常 · constant, ordinary, often",
+    "desc": "A long banner of cloth that came to mean what endures: the constant and the lasting, the ordinary and the common, and the things that happen again and again.",
+    "tags": [
+      "timing",
+      "daily-life",
+      "meaning",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "常",
+    "pinyin": "cháng",
+    "tone": 2,
+    "hsk": 1,
+    "radical": "巾",
+    "updated": "2026-06-20"
+  },
+  {
     "path": "pages/characters/dian3_点.html",
     "type": "character",
     "category": "characters",
@@ -80,6 +100,26 @@
     "updated": "2026-06-20"
   },
   {
+    "path": "pages/characters/jian1_间.html",
+    "type": "character",
+    "category": "characters",
+    "title": "间 · space between, interval, room",
+    "desc": "Sunlight in the crack between two doors: the character for the space between things. From that gap grow time, the middle ground, the human world, and the room you count one by one.",
+    "tags": [
+      "time",
+      "space",
+      "measure-words",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "间",
+    "pinyin": "jiān",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "门",
+    "updated": "2026-06-20"
+  },
+  {
     "path": "pages/characters/mian4_面.html",
     "type": "character",
     "category": "characters",
@@ -120,6 +160,66 @@
     "updated": "2026-06-20"
   },
   {
+    "path": "pages/characters/tai4_太.html",
+    "type": "character",
+    "category": "characters",
+    "title": "太 · too, extremely, highest, grand",
+    "desc": "The character 大 (big) with one extra dot, pushing big past its limit into too-much. From that excess grow the everyday too, the highest and grandest, the sun, and the supreme pole of Taiji.",
+    "tags": [
+      "intensifier",
+      "meaning",
+      "cosmology",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "太",
+    "pinyin": "tài",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "大",
+    "updated": "2026-06-20"
+  },
+  {
+    "path": "pages/characters/xian4_现.html",
+    "type": "character",
+    "category": "characters",
+    "title": "现 · to appear, present, now",
+    "desc": "The luster of jade coming into view. From that glint of something becoming visible grows the whole vocabulary of appearing, of the present moment, and of what is ready and on hand.",
+    "tags": [
+      "time",
+      "modern",
+      "perception",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "现",
+    "pinyin": "xiàn",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "王",
+    "updated": "2026-06-20"
+  },
+  {
+    "path": "pages/characters/zheng4_正.html",
+    "type": "character",
+    "category": "characters",
+    "title": "正 · upright, correct, exactly, in the midst of",
+    "desc": "A foot halting squarely on the target line. From that image grows everything straight and correct: the upright, the standard, the exact moment, and the ongoing right-now.",
+    "tags": [
+      "ethics",
+      "aspect",
+      "meaning",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "正",
+    "pinyin": "zhèng",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "止",
+    "updated": "2026-06-20"
+  },
+  {
     "path": "pages/characters/zi3_子.html",
     "type": "character",
     "category": "characters",
@@ -137,6 +237,26 @@
     "tone": 3,
     "hsk": 1,
     "radical": "子",
+    "updated": "2026-06-20"
+  },
+  {
+    "path": "pages/characters/zuo4_作.html",
+    "type": "character",
+    "category": "characters",
+    "title": "作 · to do, to make, to compose",
+    "desc": "A person setting something in motion. From the act of beginning grows the whole vocabulary of doing, making, and composing: the job you work, the work you create, and the role you act out.",
+    "tags": [
+      "production",
+      "writing",
+      "meaning",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "作",
+    "pinyin": "zuò",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "亻",
     "updated": "2026-06-20"
   },
   {
@@ -259,114 +379,6 @@
     ],
     "status": "complete",
     "pinyin": "shūfǎ fēnggé",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/arts/topic_shuimohua.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "水墨画 · Ink-Wash Painting",
-    "desc": "Where the brush meets philosophy: five tones of ink, the art of leaving space, and landscapes that are not about landscape at all.",
-    "tags": [
-      "art",
-      "brush",
-      "calligraphy",
-      "culture",
-      "history",
-      "classical"
-    ],
-    "status": "complete",
-    "pinyin": "shuǐmòhuà",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/arts/topic_songci.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "宋词 · Song Dynasty Lyric",
-    "desc": "The poem that sings: fixed tune patterns, named meters, and three masters who defined what the Chinese lyric could feel.",
-    "tags": [
-      "poetry",
-      "literature",
-      "classical",
-      "song",
-      "history",
-      "culture"
-    ],
-    "status": "complete",
-    "pinyin": "sòngcí",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/arts/topic_tangshi.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "唐诗 · Tang Poetry",
-    "desc": "Li Bai, Du Fu, and the golden age of regulated verse.",
-    "tags": [
-      "poetry",
-      "tang",
-      "literature"
-    ],
-    "status": "complete",
-    "pinyin": "tángshī",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/arts/topic_zhuanke.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "篆刻 · Seal Carving",
-    "desc": "The art of the name: bronze to stone, dynasty to dynasty, two schools of carvers, and the small red square that authenticates everything.",
-    "tags": [
-      "calligraphy",
-      "art",
-      "brush",
-      "culture",
-      "history",
-      "classical"
-    ],
-    "status": "complete",
-    "pinyin": "zhuànkè",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/characters/dao4_道.html",
-    "type": "character",
-    "category": "characters",
-    "title": "道 · way, path",
-    "desc": "The word that gave Daoism its name, and underlies every Chinese 'ism'.",
-    "tags": [
-      "daoism",
-      "philosophy",
-      "path"
-    ],
-    "status": "complete",
-    "char": "道",
-    "pinyin": "dào",
-    "tone": 4,
-    "hsk": 3,
-    "radical": "辶",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/characters/di1_低.html",
-    "type": "character",
-    "category": "characters",
-    "title": "低 · low; to lower; to bow down",
-    "desc": "A person stooping: the phonetic 氐 gives the sound while the human radical supplies the posture, and together they built one of the most culturally loaded words in modern Chinese.",
-    "tags": [
-      "adjectives",
-      "daily-life",
-      "scale",
-      "degree"
-    ],
-    "status": "complete",
-    "char": "低",
-    "pinyin": "dī",
-    "tone": 1,
-    "hsk": 3,
-    "radical": "亻",
     "updated": "2026-06-19"
   }
 ]

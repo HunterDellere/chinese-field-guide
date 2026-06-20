@@ -20,6 +20,26 @@
     "updated": "2026-06-20"
   },
   {
+    "path": "pages/characters/chang2_常.html",
+    "type": "character",
+    "category": "characters",
+    "title": "常 · constant, ordinary, often",
+    "desc": "A long banner of cloth that came to mean what endures: the constant and the lasting, the ordinary and the common, and the things that happen again and again.",
+    "tags": [
+      "timing",
+      "daily-life",
+      "meaning",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "常",
+    "pinyin": "cháng",
+    "tone": 2,
+    "hsk": 1,
+    "radical": "巾",
+    "updated": "2026-06-20"
+  },
+  {
     "path": "pages/characters/dian3_点.html",
     "type": "character",
     "category": "characters",
@@ -80,6 +100,26 @@
     "updated": "2026-06-20"
   },
   {
+    "path": "pages/characters/jian1_间.html",
+    "type": "character",
+    "category": "characters",
+    "title": "间 · space between, interval, room",
+    "desc": "Sunlight in the crack between two doors: the character for the space between things. From that gap grow time, the middle ground, the human world, and the room you count one by one.",
+    "tags": [
+      "time",
+      "space",
+      "measure-words",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "间",
+    "pinyin": "jiān",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "门",
+    "updated": "2026-06-20"
+  },
+  {
     "path": "pages/characters/mian4_面.html",
     "type": "character",
     "category": "characters",
@@ -120,6 +160,66 @@
     "updated": "2026-06-20"
   },
   {
+    "path": "pages/characters/tai4_太.html",
+    "type": "character",
+    "category": "characters",
+    "title": "太 · too, extremely, highest, grand",
+    "desc": "The character 大 (big) with one extra dot, pushing big past its limit into too-much. From that excess grow the everyday too, the highest and grandest, the sun, and the supreme pole of Taiji.",
+    "tags": [
+      "intensifier",
+      "meaning",
+      "cosmology",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "太",
+    "pinyin": "tài",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "大",
+    "updated": "2026-06-20"
+  },
+  {
+    "path": "pages/characters/xian4_现.html",
+    "type": "character",
+    "category": "characters",
+    "title": "现 · to appear, present, now",
+    "desc": "The luster of jade coming into view. From that glint of something becoming visible grows the whole vocabulary of appearing, of the present moment, and of what is ready and on hand.",
+    "tags": [
+      "time",
+      "modern",
+      "perception",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "现",
+    "pinyin": "xiàn",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "王",
+    "updated": "2026-06-20"
+  },
+  {
+    "path": "pages/characters/zheng4_正.html",
+    "type": "character",
+    "category": "characters",
+    "title": "正 · upright, correct, exactly, in the midst of",
+    "desc": "A foot halting squarely on the target line. From that image grows everything straight and correct: the upright, the standard, the exact moment, and the ongoing right-now.",
+    "tags": [
+      "ethics",
+      "aspect",
+      "meaning",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "正",
+    "pinyin": "zhèng",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "止",
+    "updated": "2026-06-20"
+  },
+  {
     "path": "pages/characters/zi3_子.html",
     "type": "character",
     "category": "characters",
@@ -137,6 +237,26 @@
     "tone": 3,
     "hsk": 1,
     "radical": "子",
+    "updated": "2026-06-20"
+  },
+  {
+    "path": "pages/characters/zuo4_作.html",
+    "type": "character",
+    "category": "characters",
+    "title": "作 · to do, to make, to compose",
+    "desc": "A person setting something in motion. From the act of beginning grows the whole vocabulary of doing, making, and composing: the job you work, the work you create, and the role you act out.",
+    "tags": [
+      "production",
+      "writing",
+      "meaning",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "作",
+    "pinyin": "zuò",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "亻",
     "updated": "2026-06-20"
   },
   {

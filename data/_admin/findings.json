@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-20T15:48:23.139Z",
+  "generated": "2026-06-20T15:55:09.188Z",
   "summary": {
     "errors": 0,
     "warnings": 2,
-    "info": 1056
+    "info": 1062
   },
   "findings": [
     {
@@ -238,6 +238,13 @@
       "category": "formatting",
       "file": "content/characters/chan3_产.md",
       "msg": "20 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
+      "file": "content/characters/chang2_常.md",
+      "msg": "7 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
@@ -483,6 +490,13 @@
       "category": "formatting",
       "file": "content/characters/jia1_家.md",
       "msg": "18 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
+      "file": "content/characters/jian1_间.md",
+      "msg": "8 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
@@ -929,6 +943,13 @@
     {
       "level": "INFO",
       "category": "formatting",
+      "file": "content/characters/tai4_太.md",
+      "msg": "6 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
       "file": "content/characters/tian1_天.md",
       "msg": "20 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
@@ -1001,6 +1022,13 @@
       "category": "formatting",
       "file": "content/characters/xia4_下.md",
       "msg": "9 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
+      "file": "content/characters/xian4_现.md",
+      "msg": "10 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
@@ -1188,6 +1216,13 @@
     {
       "level": "INFO",
       "category": "formatting",
+      "file": "content/characters/zheng4_正.md",
+      "msg": "8 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
       "file": "content/characters/zhi1_之.md",
       "msg": "16 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
@@ -1239,6 +1274,13 @@
       "category": "formatting",
       "file": "content/characters/zuo3_左.md",
       "msg": "5 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
+      "file": "content/characters/zuo4_作.md",
+      "msg": "8 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
@@ -7404,7 +7446,7 @@
       "level": "WARN",
       "category": "factual",
       "file": "data/_reference/hanzi-facts.json",
-      "msg": "56 hanzi appear in content/ but have no reference entry: 黛薛甄筵瘁珪逵猿説変喫剣绛楽霄暦掂竜麪牀鞦韆歬亅亖呬祂牜気臓帚阝読満冃囍哋隹箇蹴…. Claims about these characters cannot be mechanically verified. Run 'npm run refresh:reference' after updating upstream data."
+      "msg": "57 hanzi appear in content/ but have no reference entry: 黛薛甄筵瘁珪逵猿説変喫剣绛楽霄暦掂竜麪牀鞦韆歬亅亖呬祂牜気臓帚阝読満冃乍茧囍哋隹…. Claims about these characters cannot be mechanically verified. Run 'npm run refresh:reference' after updating upstream data."
     }
   ]
 }
