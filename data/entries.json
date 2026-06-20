@@ -60,6 +60,26 @@
     "updated": "2026-06-20"
   },
   {
+    "path": "pages/characters/dong4_动.html",
+    "type": "character",
+    "category": "characters",
+    "title": "动 · to move, to act, to stir",
+    "desc": "Force applied to a thing sets it in motion. From that one idea grow the words for sport and activity, for the stirred heart, for the drive that pushes a machine or a life forward, and for the verb itself.",
+    "tags": [
+      "movement",
+      "motion",
+      "energy",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "动",
+    "pinyin": "dòng",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "力",
+    "updated": "2026-06-20"
+  },
+  {
     "path": "pages/characters/fang1_方.html",
     "type": "character",
     "category": "characters",
@@ -100,6 +120,46 @@
     "updated": "2026-06-20"
   },
   {
+    "path": "pages/characters/hua4_话.html",
+    "type": "character",
+    "category": "characters",
+    "title": "话 · words, speech, talk, language",
+    "desc": "Speech beside a tongue: the everyday character for spoken words. From it grow talking and conversation, the telephone, a dialect or standard language, and the topics and sayings people pass around.",
+    "tags": [
+      "language",
+      "communication",
+      "spoken",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "话",
+    "pinyin": "huà",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "讠",
+    "updated": "2026-06-20"
+  },
+  {
+    "path": "pages/characters/hui2_回.html",
+    "type": "character",
+    "category": "characters",
+    "title": "回 · to return, to turn back, a time",
+    "desc": "Two squares nested like a coiling eddy. The character for coming back: returning home, turning around, replying, and counting the times a thing happens.",
+    "tags": [
+      "motion",
+      "meaning",
+      "measure-words",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "回",
+    "pinyin": "huí",
+    "tone": 2,
+    "hsk": 1,
+    "radical": "囗",
+    "updated": "2026-06-20"
+  },
+  {
     "path": "pages/characters/jian1_间.html",
     "type": "character",
     "category": "characters",
@@ -115,6 +175,26 @@
     "char": "间",
     "pinyin": "jiān",
     "tone": 1,
+    "hsk": 1,
+    "radical": "门",
+    "updated": "2026-06-20"
+  },
+  {
+    "path": "pages/characters/men2_门.html",
+    "type": "character",
+    "category": "characters",
+    "title": "门 · door, gate, family, field",
+    "desc": "A picture of a two-leaf gate. From the swinging doors grow the gateway, the household behind them, the school or trade you enter, and the measure word for whole courses of study.",
+    "tags": [
+      "dwelling",
+      "meaning",
+      "measure-words",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "门",
+    "pinyin": "mén",
+    "tone": 2,
     "hsk": 1,
     "radical": "门",
     "updated": "2026-06-20"
@@ -180,6 +260,46 @@
     "updated": "2026-06-20"
   },
   {
+    "path": "pages/characters/ti3_体.html",
+    "type": "character",
+    "category": "characters",
+    "title": "体 · body, substance, to experience",
+    "desc": "The person beside the root: the body as a person's base. From the physical body grow substance and system, the whole as against the part, and the act of grasping a thing by living through it.",
+    "tags": [
+      "body",
+      "health",
+      "meaning",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "体",
+    "pinyin": "tǐ",
+    "tone": 3,
+    "hsk": 1,
+    "radical": "亻",
+    "updated": "2026-06-20"
+  },
+  {
+    "path": "pages/characters/tong2_同.html",
+    "type": "character",
+    "category": "characters",
+    "title": "同 · same, together, with",
+    "desc": "Voices joined under one cover: the character for sameness and shared ground. From it grow the words for being alike, doing things together, and the people who share your role, your class, your cause.",
+    "tags": [
+      "society",
+      "connections",
+      "meaning",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "同",
+    "pinyin": "tóng",
+    "tone": 2,
+    "hsk": 1,
+    "radical": "口",
+    "updated": "2026-06-20"
+  },
+  {
     "path": "pages/characters/xian4_现.html",
     "type": "character",
     "category": "characters",
@@ -200,6 +320,25 @@
     "updated": "2026-06-20"
   },
   {
+    "path": "pages/characters/yang4_样.html",
+    "type": "character",
+    "category": "characters",
+    "title": "样 · shape, kind, manner, sample",
+    "desc": "A word once rooted in wood that grew into the language of appearance and kind: how a thing looks, what type it is, the sample held up as a model, and the everyday this-way and how of manner words.",
+    "tags": [
+      "meaning",
+      "perception",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "样",
+    "pinyin": "yàng",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "木",
+    "updated": "2026-06-20"
+  },
+  {
     "path": "pages/characters/zheng4_正.html",
     "type": "character",
     "category": "characters",
@@ -217,6 +356,26 @@
     "tone": 4,
     "hsk": 1,
     "radical": "止",
+    "updated": "2026-06-20"
+  },
+  {
+    "path": "pages/characters/zhong4_重.html",
+    "type": "character",
+    "category": "characters",
+    "title": "重 · heavy, important; again, to repeat",
+    "desc": "A figure bearing a heavy load. From that weight grows everything that carries gravity: the heavy, the important, the grave. Read again as chóng, the same load comes back, layered and repeated.",
+    "tags": [
+      "meaning",
+      "evaluation",
+      "quality",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "重",
+    "pinyin": "zhòng",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "里",
     "updated": "2026-06-20"
   },
   {

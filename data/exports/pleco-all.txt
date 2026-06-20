@@ -23,6 +23,7 @@
 点	diǎn	dot, point, a little, o'clock — From a single dot of ink the character spreads into points and decimals, into the hours of the clock, into ordering food and lighting a flame, and into the small quantity that softens a sentence.
 电	diàn	electricity, electric, telegram — Lightning descending from a rain cloud, a character that jumped from describing the weather to naming the force that defines modern civilization.
 东	dōng	east; eastern — The sun rising behind a tree, and the direction that anchored China's cosmological, political, and poetic imagination.
+动	dòng	to move, to act, to stir — Force applied to a thing sets it in motion. From that one idea grow the words for sport and activity, for the stirred heart, for the drive that pushes a machine or a life forward, and for the verb itself.
 读	dú	to read aloud, to study — Reading as the act of voicing what is written: the everyday verb for studying, declaiming a text, and (figuratively) interpreting a person, a situation, or a sign.
 多	duō	many; much; more; how — Two evenings stacked: the character that encodes abundance, comparison, and the most common question about quantity in Mandarin.
 耳	ěr	ear; to hear; handle — The pictograph of an ear that anchors Chinese words for listening, fame, and the furred handles on bronze vessels.
@@ -47,6 +48,8 @@
 很	hěn	very; the empty intensifier — 很 is the word for very, but its strangest job is doing nothing: Chinese needs a degree adverb before a plain adjective, and 很 fills that slot so quietly that 我很好 means simply I am fine, not I am very well.
 红	hóng	red, the color of luck and celebration — The cultural keystone color: weddings, New Year, the red envelope, and a century of revolutionary politics all run through this one character.
 后	hòu	back, behind, after; empress — One simplified character collapsed two completely separate traditional forms: 後 (a trailing foot in motion) and 后 (a commanding mouth), binding the spatial sense of behind with the imperial sense of empress in a single glyph.
+话	huà	words, speech, talk, language — Speech beside a tongue: the everyday character for spoken words. From it grow talking and conversation, the telephone, a dialect or standard language, and the topics and sayings people pass around.
+回	huí	to return, to turn back, a time — Two squares nested like a coiling eddy. The character for coming back: returning home, turning around, replying, and counting the times a thing happens.
 火	huǒ	fire, flame, anger, popularity — Three flames rising: the character for fire and one of the most productive radicals in Chinese.
 家	jiā	home, family — House, family, school of thought, nation (国家): the fractal of belonging.
 间	jiān	space between, interval, room — Sunlight in the crack between two doors: the character for the space between things. From that gap grow time, the middle ground, the human world, and the room you count one by one.
@@ -77,6 +80,7 @@
 落	luò	to fall, to settle, to land — Falling, settling, and the beauty of things arriving at their place.
 慢	màn	slow, unhurried — Pace becomes a moral register: 慢 màn carries the same heart radical as 快, and extends from physical slowness into social neglect and arrogance.
 美	měi	beautiful, USA, delicious — A large sheep carrying horns: beauty as abundance, sacrifice, and the pleasure of the highest good.
+门	mén	door, gate, family, field — A picture of a two-leaf gate. From the swinging doors grow the gateway, the household behind them, the school or trade you enter, and the measure word for whole courses of study.
 面	miàn	face, surface, side — A pictograph of a face inside its outline that opened outward into surfaces, sides, and aspects, became a measure word for flat things, and in simplified script swallowed the separate character for flour and noodles.
 名	míng	name, fame, reputation — 名 is 夕 dusk plus 口 mouth: darkness falls, you cannot see who approaches, so you call out a name. Identity asserted through speech.
 明	míng	bright, clear, tomorrow — Sun and moon combined: brightness, clarity, dawn, and understanding.
@@ -124,8 +128,10 @@
 它	tā	it; the non-human third person — 它 began as a picture of a snake and once meant other; in the twentieth century it was reassigned to the non-human third person, completing the homophonous 他/她/它 triad that exists only in writing.
 她	tā	she, her — 她 is the youngest character in everyday Chinese, invented in 1917 to translate "she," and the cause of one of the loudest grammatical fights in modern Chinese letters.
 太	tài	too, extremely, highest, grand — The character 大 (big) with one extra dot, pushing big past its limit into too-much. From that excess grow the everyday too, the highest and grandest, the sun, and the supreme pole of Taiji.
+体	tǐ	body, substance, to experience — The person beside the root: the body as a person's base. From the physical body grow substance and system, the whole as against the part, and the act of grasping a thing by living through it.
 天	tiān	sky, heaven, day — Heaven as moral authority, weather, time, and the ground of 天命 the Mandate of Heaven.
 听	tīng	to listen, to hear, to obey — The simplified 听 = mouth + axe, but the traditional 聽 encodes whole-body Confucian listening: ear, eye, heart, and upright virtue arrayed together in a single glyph.
+同	tóng	same, together, with — Voices joined under one cover: the character for sameness and shared ground. From it grow the words for being alike, doing things together, and the people who share your role, your class, your cause.
 图	tú	map, diagram, to plan, to seek — A character for diagrams, maps, intentions, and plots: anything that represents the world at one remove, or seeks to reshape it.
 土	tǔ	earth, soil, local, native — A mound of soil with a base: the earth phase of the Five Elements, and the root of hundreds of characters for land, construction, and cultural belonging.
 完	wán	to finish; to be whole — 完 means both whole and finished, and the bridge between them is intact completeness; its most important job is as a result complement, the 完 that ends 吃完, 做完, and 看完.
@@ -151,6 +157,7 @@
 雪	xu ě	snow, whiteness, and vengeance — Rain over a sweeping hand: snow is the precipitation you can hold. The same character means dazzling white and, by a buried metaphor, to wipe clean an old grievance.
 言	yán	speech, word, language — The root of every word about words: the mouth open, the tongue moving, the speech rising.
 眼	yǎn	eye, glance — The everyday word for eye, and by extension any small opening, any moment of looking, any judgment made through sight. The body-part counterpart to literary 目.
+样	yàng	shape, kind, manner, sample — A word once rooted in wood that grew into the language of appearance and kind: how a thing looks, what type it is, the sample held up as a model, and the everyday this-way and how of manner words.
 要	yào	to want, must, essential — Want, need, must, and will: the grammar engine disguised as a single character.
 也	yě	also; too; classical particle — A pictograph that lost its original image entirely and became one of the most load-bearing particles in classical Chinese: the gavel at the end of every verdict.
 一	yī	one; unified; as soon as — The simplest mark a brush can make carries the heaviest philosophical weight in Chinese civilization: 道生一，一生二，the Dao generates One, and One generates everything.
@@ -176,6 +183,7 @@
 知	zhī	to know; knowledge — 知 = arrow + mouth: knowledge as the swift, target-hitting utterance, and in Wang Yangming, the act of knowing is inseparable from the act of doing.
 智	zhì	wisdom, moral intelligence — The Confucian virtue of knowing what is right to do; separately, the Buddhist prajñā that sees through the nature of things altogether.
 中	zhōng	middle, China, to hit the mark — An arrow piercing through the center of a target: the character that names China as the Middle Kingdom and encodes the Confucian virtue of equilibrium.
+重	zhòng	heavy, important; again, to repeat — A figure bearing a heavy load. From that weight grows everything that carries gravity: the heavy, the important, the grave. Read again as chóng, the same load comes back, layered and repeated.
 子	zǐ	child, seed, Master — A picture of a swaddled infant that grew into one of the busiest characters in the language: a child and a son, the honorific for a Master, the empty noun-suffix on a thousand words, and the seed of a thing.
 字	zì	character, written word — The character that names itself, and the whole system of 汉字.
 走	zǒu	to walk, to go, to leave — A figure in motion with feet below: the basic verb of movement that Chinese uses where English uses dozens of different words.

@@ -60,6 +60,26 @@
     "updated": "2026-06-20"
   },
   {
+    "path": "pages/characters/dong4_动.html",
+    "type": "character",
+    "category": "characters",
+    "title": "动 · to move, to act, to stir",
+    "desc": "Force applied to a thing sets it in motion. From that one idea grow the words for sport and activity, for the stirred heart, for the drive that pushes a machine or a life forward, and for the verb itself.",
+    "tags": [
+      "movement",
+      "motion",
+      "energy",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "动",
+    "pinyin": "dòng",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "力",
+    "updated": "2026-06-20"
+  },
+  {
     "path": "pages/characters/fang1_方.html",
     "type": "character",
     "category": "characters",
@@ -100,6 +120,46 @@
     "updated": "2026-06-20"
   },
   {
+    "path": "pages/characters/hua4_话.html",
+    "type": "character",
+    "category": "characters",
+    "title": "话 · words, speech, talk, language",
+    "desc": "Speech beside a tongue: the everyday character for spoken words. From it grow talking and conversation, the telephone, a dialect or standard language, and the topics and sayings people pass around.",
+    "tags": [
+      "language",
+      "communication",
+      "spoken",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "话",
+    "pinyin": "huà",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "讠",
+    "updated": "2026-06-20"
+  },
+  {
+    "path": "pages/characters/hui2_回.html",
+    "type": "character",
+    "category": "characters",
+    "title": "回 · to return, to turn back, a time",
+    "desc": "Two squares nested like a coiling eddy. The character for coming back: returning home, turning around, replying, and counting the times a thing happens.",
+    "tags": [
+      "motion",
+      "meaning",
+      "measure-words",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "回",
+    "pinyin": "huí",
+    "tone": 2,
+    "hsk": 1,
+    "radical": "囗",
+    "updated": "2026-06-20"
+  },
+  {
     "path": "pages/characters/jian1_间.html",
     "type": "character",
     "category": "characters",
@@ -115,6 +175,26 @@
     "char": "间",
     "pinyin": "jiān",
     "tone": 1,
+    "hsk": 1,
+    "radical": "门",
+    "updated": "2026-06-20"
+  },
+  {
+    "path": "pages/characters/men2_门.html",
+    "type": "character",
+    "category": "characters",
+    "title": "门 · door, gate, family, field",
+    "desc": "A picture of a two-leaf gate. From the swinging doors grow the gateway, the household behind them, the school or trade you enter, and the measure word for whole courses of study.",
+    "tags": [
+      "dwelling",
+      "meaning",
+      "measure-words",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "门",
+    "pinyin": "mén",
+    "tone": 2,
     "hsk": 1,
     "radical": "门",
     "updated": "2026-06-20"
@@ -180,6 +260,46 @@
     "updated": "2026-06-20"
   },
   {
+    "path": "pages/characters/ti3_体.html",
+    "type": "character",
+    "category": "characters",
+    "title": "体 · body, substance, to experience",
+    "desc": "The person beside the root: the body as a person's base. From the physical body grow substance and system, the whole as against the part, and the act of grasping a thing by living through it.",
+    "tags": [
+      "body",
+      "health",
+      "meaning",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "体",
+    "pinyin": "tǐ",
+    "tone": 3,
+    "hsk": 1,
+    "radical": "亻",
+    "updated": "2026-06-20"
+  },
+  {
+    "path": "pages/characters/tong2_同.html",
+    "type": "character",
+    "category": "characters",
+    "title": "同 · same, together, with",
+    "desc": "Voices joined under one cover: the character for sameness and shared ground. From it grow the words for being alike, doing things together, and the people who share your role, your class, your cause.",
+    "tags": [
+      "society",
+      "connections",
+      "meaning",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "同",
+    "pinyin": "tóng",
+    "tone": 2,
+    "hsk": 1,
+    "radical": "口",
+    "updated": "2026-06-20"
+  },
+  {
     "path": "pages/characters/xian4_现.html",
     "type": "character",
     "category": "characters",
@@ -197,6 +317,25 @@
     "tone": 4,
     "hsk": 1,
     "radical": "王",
+    "updated": "2026-06-20"
+  },
+  {
+    "path": "pages/characters/yang4_样.html",
+    "type": "character",
+    "category": "characters",
+    "title": "样 · shape, kind, manner, sample",
+    "desc": "A word once rooted in wood that grew into the language of appearance and kind: how a thing looks, what type it is, the sample held up as a model, and the everyday this-way and how of manner words.",
+    "tags": [
+      "meaning",
+      "perception",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "样",
+    "pinyin": "yàng",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "木",
     "updated": "2026-06-20"
   },
   {
@@ -220,6 +359,26 @@
     "updated": "2026-06-20"
   },
   {
+    "path": "pages/characters/zhong4_重.html",
+    "type": "character",
+    "category": "characters",
+    "title": "重 · heavy, important; again, to repeat",
+    "desc": "A figure bearing a heavy load. From that weight grows everything that carries gravity: the heavy, the important, the grave. Read again as chóng, the same load comes back, layered and repeated.",
+    "tags": [
+      "meaning",
+      "evaluation",
+      "quality",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "重",
+    "pinyin": "zhòng",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "里",
+    "updated": "2026-06-20"
+  },
+  {
     "path": "pages/characters/zi3_子.html",
     "type": "character",
     "category": "characters",
@@ -238,147 +397,5 @@
     "hsk": 1,
     "radical": "子",
     "updated": "2026-06-20"
-  },
-  {
-    "path": "pages/characters/zuo4_作.html",
-    "type": "character",
-    "category": "characters",
-    "title": "作 · to do, to make, to compose",
-    "desc": "A person setting something in motion. From the act of beginning grows the whole vocabulary of doing, making, and composing: the job you work, the work you create, and the role you act out.",
-    "tags": [
-      "production",
-      "writing",
-      "meaning",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "作",
-    "pinyin": "zuò",
-    "tone": 4,
-    "hsk": 1,
-    "radical": "亻",
-    "updated": "2026-06-20"
-  },
-  {
-    "path": "pages/arts/topic_chuci.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "楚辞 · Songs of Chu",
-    "desc": "The shamanistic southern voice that gave Chinese literature its second pole: visionary, romantic, and inconsolably exiled.",
-    "tags": [
-      "poetry",
-      "literature",
-      "classical",
-      "history",
-      "culture"
-    ],
-    "status": "complete",
-    "pinyin": "chǔcí",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/arts/topic_guqin.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "古琴 · the scholar's zither",
-    "desc": "The seven-string zither Confucius played throughout his life, and the origin of 知音, the word for a person who truly understands you.",
-    "tags": [
-      "arts",
-      "music",
-      "classical",
-      "confucianism",
-      "literature"
-    ],
-    "status": "complete",
-    "pinyin": "gǔqín",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/arts/topic_jingju_roles.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "生旦净末丑 · Role Types in Peking Opera",
-    "desc": "Five role categories, each a complete performance tradition -- voice, movement, makeup, and costume as a total semiotic system.",
-    "tags": [
-      "opera",
-      "theatre",
-      "performance",
-      "culture",
-      "arts",
-      "music"
-    ],
-    "status": "complete",
-    "pinyin": "shēng dàn jìng mò chǒu",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/arts/topic_luxun.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "鲁迅 · Lu Xun",
-    "desc": "The writer who looked at traditional Chinese society and saw cannibalism, and the complicated, unresolvable legacy he left behind.",
-    "tags": [
-      "literature",
-      "history",
-      "culture",
-      "writing",
-      "classical"
-    ],
-    "status": "complete",
-    "pinyin": "lǔxùn",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/arts/topic_shanshui.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "山水画 · landscape painting",
-    "desc": "Chinese landscape painting encodes a theory in its name: 山 (mountain, yang, permanent) and 水 (water, yin, changing) in dynamic tension. A space to inhabit in the imagination, not a view to frame.",
-    "tags": [
-      "arts",
-      "nature",
-      "taoism",
-      "aesthetics",
-      "classical"
-    ],
-    "status": "complete",
-    "pinyin": "shānshuǐhuà",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/arts/topic_shijing.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "诗经 · Book of Songs",
-    "desc": "China oldest poetry anthology: three hundred poems that Confucius said no educated person could afford to ignore.",
-    "tags": [
-      "poetry",
-      "literature",
-      "classical",
-      "history",
-      "culture"
-    ],
-    "status": "complete",
-    "pinyin": "shījīng",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/arts/topic_shufa_styles.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "书法风格 · The Five Scripts of Chinese Calligraphy",
-    "desc": "Five script styles chart two thousand years of Chinese writing, from the solemn bronze inscriptions of the Zhou to the explosive cursive of the Tang masters.",
-    "tags": [
-      "calligraphy",
-      "arts",
-      "writing",
-      "classical",
-      "history",
-      "aesthetics",
-      "culture"
-    ],
-    "status": "complete",
-    "pinyin": "shūfǎ fēnggé",
-    "updated": "2026-06-19"
   }
 ]

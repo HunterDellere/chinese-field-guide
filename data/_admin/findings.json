@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-20T15:55:09.188Z",
+  "generated": "2026-06-20T16:02:58.255Z",
   "summary": {
     "errors": 0,
     "warnings": 2,
-    "info": 1062
+    "info": 1070
   },
   "findings": [
     {
@@ -341,6 +341,13 @@
     {
       "level": "INFO",
       "category": "formatting",
+      "file": "content/characters/dong4_动.md",
+      "msg": "8 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
       "file": "content/characters/du2_读.md",
       "msg": "11 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
@@ -476,6 +483,20 @@
       "category": "formatting",
       "file": "content/characters/hou4_后.md",
       "msg": "12 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
+      "file": "content/characters/hua4_话.md",
+      "msg": "9 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
+      "file": "content/characters/hui2_回.md",
+      "msg": "6 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
@@ -665,6 +686,13 @@
       "category": "formatting",
       "file": "content/characters/mei3_美.md",
       "msg": "5 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
+      "file": "content/characters/men2_门.md",
+      "msg": "7 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
@@ -950,6 +978,13 @@
     {
       "level": "INFO",
       "category": "formatting",
+      "file": "content/characters/ti3_体.md",
+      "msg": "9 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
       "file": "content/characters/tian1_天.md",
       "msg": "20 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
@@ -959,6 +994,13 @@
       "category": "formatting",
       "file": "content/characters/ting1_听.md",
       "msg": "8 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
+      "file": "content/characters/tong2_同.md",
+      "msg": "9 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
@@ -1104,6 +1146,13 @@
     {
       "level": "INFO",
       "category": "formatting",
+      "file": "content/characters/yang4_样.md",
+      "msg": "8 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
       "file": "content/characters/yao4_要.md",
       "msg": "7 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
@@ -1239,6 +1288,13 @@
       "category": "formatting",
       "file": "content/characters/zhi4_智.md",
       "msg": "6 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
+      "file": "content/characters/zhong4_重.md",
+      "msg": "9 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {

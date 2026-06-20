@@ -19,6 +19,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://jiaoshoo.com/pages/pinyin/dong.html</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://jiaoshoo.com/pages/pinyin/fang.html</loc>
     <lastmod>2026-06-20</lastmod>
     <changefreq>monthly</changefreq>
@@ -31,7 +37,25 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://jiaoshoo.com/pages/pinyin/hua.html</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://jiaoshoo.com/pages/pinyin/hui.html</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://jiaoshoo.com/pages/pinyin/jian.html</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://jiaoshoo.com/pages/pinyin/men.html</loc>
     <lastmod>2026-06-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -55,13 +79,37 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://jiaoshoo.com/pages/pinyin/ti.html</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://jiaoshoo.com/pages/pinyin/tong.html</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://jiaoshoo.com/pages/pinyin/xian.html</loc>
     <lastmod>2026-06-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://jiaoshoo.com/pages/pinyin/yang.html</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://jiaoshoo.com/pages/pinyin/zheng.html</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://jiaoshoo.com/pages/pinyin/zhong.html</loc>
     <lastmod>2026-06-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -259,12 +307,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://jiaoshoo.com/pages/pinyin/dong.html</loc>
-    <lastmod>2026-06-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://jiaoshoo.com/pages/pinyin/xi.html</loc>
     <lastmod>2026-06-20</lastmod>
     <changefreq>monthly</changefreq>
@@ -296,12 +338,6 @@
   </url>
   <url>
     <loc>https://jiaoshoo.com/pages/pinyin/yuan.html</loc>
-    <lastmod>2026-06-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://jiaoshoo.com/pages/pinyin/zhong.html</loc>
     <lastmod>2026-06-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
