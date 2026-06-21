@@ -20,6 +20,26 @@
     "updated": "2026-06-20"
   },
   {
+    "path": "pages/characters/cai4_菜.html",
+    "type": "character",
+    "category": "characters",
+    "title": "菜 · vegetable, dish, cuisine",
+    "desc": "Plants gathered to be eaten. From the picked greens grows a whole table: the vegetable, the cooked dish, the regional cuisine, and the slangy put-down for anyone weak at a task.",
+    "tags": [
+      "food",
+      "culinary",
+      "daily-life",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "菜",
+    "pinyin": "cài",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "艹",
+    "updated": "2026-06-20"
+  },
+  {
     "path": "pages/characters/chang2_常.html",
     "type": "character",
     "category": "characters",
@@ -37,6 +57,26 @@
     "tone": 2,
     "hsk": 1,
     "radical": "巾",
+    "updated": "2026-06-20"
+  },
+  {
+    "path": "pages/characters/di4_第.html",
+    "type": "character",
+    "category": "characters",
+    "title": "第 · the ordinal prefix, rank, mansion",
+    "desc": "Bamboo over younger-brother, an image of things laid out in sequence. From it grows the prefix that turns a count into an order, plus the older senses of examination rank and grand residence.",
+    "tags": [
+      "meaning",
+      "education",
+      "characters",
+      "grammar"
+    ],
+    "status": "complete",
+    "char": "第",
+    "pinyin": "dì",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "⺮",
     "updated": "2026-06-20"
   },
   {
@@ -100,6 +140,26 @@
     "updated": "2026-06-20"
   },
   {
+    "path": "pages/characters/fei1_非.html",
+    "type": "character",
+    "category": "characters",
+    "title": "非 · not, wrong, un-",
+    "desc": "Two wings spreading in opposite directions: from that image of opposition grows the great negator. Not and non-, the line between right and wrong, and the un- prefix that turns a word against itself.",
+    "tags": [
+      "negation",
+      "logic",
+      "meaning",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "非",
+    "pinyin": "fēi",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "非",
+    "updated": "2026-06-20"
+  },
+  {
     "path": "pages/characters/fen1_分.html",
     "type": "character",
     "category": "characters",
@@ -117,6 +177,86 @@
     "tone": 1,
     "hsk": 1,
     "radical": "刀",
+    "updated": "2026-06-20"
+  },
+  {
+    "path": "pages/characters/ge4_个.html",
+    "type": "character",
+    "category": "characters",
+    "title": "个 · the universal measure word, individual",
+    "desc": "The general-purpose measure word that counts almost anything, and the root of individual. From the bamboo-stalk tally grew the everyday classifier 一个 and the words for individual, personality, and build.",
+    "tags": [
+      "measure-words",
+      "society",
+      "meaning",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "个",
+    "pinyin": "gè",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "丨",
+    "updated": "2026-06-20"
+  },
+  {
+    "path": "pages/characters/han4_汉.html",
+    "type": "character",
+    "category": "characters",
+    "title": "汉 · the Han river, dynasty, people, and a man",
+    "desc": "A river that named a dynasty, and a dynasty that named a people. From the water of 汉水 grew 汉族 the Han ethnicity, 汉语 and 汉字 the Chinese language and script, and 好汉, the brave fellow.",
+    "tags": [
+      "history",
+      "language",
+      "identity",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "汉",
+    "pinyin": "hàn",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "氵",
+    "updated": "2026-06-20"
+  },
+  {
+    "path": "pages/characters/hou4_候.html",
+    "type": "character",
+    "category": "characters",
+    "title": "候 · to wait, time, season, climate",
+    "desc": "A person standing watch beside the road. From the figure of one who waits and watches grows the everyday word for when (时候), the act of awaiting (等候), and the long rhythm of the weather (气候).",
+    "tags": [
+      "time",
+      "weather",
+      "daily-life",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "候",
+    "pinyin": "hòu",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "亻",
+    "updated": "2026-06-20"
+  },
+  {
+    "path": "pages/characters/hua1_花.html",
+    "type": "character",
+    "category": "characters",
+    "title": "花 · flower, to spend, patterned",
+    "desc": "A plant caught in its transformed, blooming state: the flower, the act of spending money or time, and the patterned, fancy, or blurred. One glyph that runs from the garden to the wallet to the dazzled eye.",
+    "tags": [
+      "nature",
+      "culture",
+      "meaning",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "花",
+    "pinyin": "huā",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "艹",
     "updated": "2026-06-20"
   },
   {
@@ -140,6 +280,26 @@
     "updated": "2026-06-20"
   },
   {
+    "path": "pages/characters/huan1_欢.html",
+    "type": "character",
+    "category": "characters",
+    "title": "欢 · joy, merry, to be pleased",
+    "desc": "A breath of open delight: the hand and the open mouth that make laughter. From this glyph come joy and merriment, to like and to welcome, and the lively, high-spirited mood.",
+    "tags": [
+      "emotion",
+      "culture",
+      "characters",
+      "feeling"
+    ],
+    "status": "complete",
+    "char": "欢",
+    "pinyin": "huān",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "欠",
+    "updated": "2026-06-20"
+  },
+  {
     "path": "pages/characters/hui2_回.html",
     "type": "character",
     "category": "characters",
@@ -160,6 +320,26 @@
     "updated": "2026-06-20"
   },
   {
+    "path": "pages/characters/ji4_记.html",
+    "type": "character",
+    "category": "characters",
+    "title": "记 · to remember, to record, a mark",
+    "desc": "Speech set beside the self: the act of fixing something so it will not be lost. From that image grow three senses: to remember, to write down, and the mark left behind.",
+    "tags": [
+      "memory",
+      "communication",
+      "meaning",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "记",
+    "pinyin": "jì",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "讠",
+    "updated": "2026-06-20"
+  },
+  {
     "path": "pages/characters/jian1_间.html",
     "type": "character",
     "category": "characters",
@@ -177,6 +357,46 @@
     "tone": 1,
     "hsk": 1,
     "radical": "门",
+    "updated": "2026-06-20"
+  },
+  {
+    "path": "pages/characters/jiao4_教.html",
+    "type": "character",
+    "category": "characters",
+    "title": "教 · to teach, teaching, religion",
+    "desc": "A hand with a rod beside a child at the lesson. From that scene of instruction grows a wide field: to teach and educate, to teach a skill in the spoken jiao reading, and the teaching that became the word for religion.",
+    "tags": [
+      "education",
+      "religion",
+      "society",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "教",
+    "pinyin": "jiào",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "攵",
+    "updated": "2026-06-20"
+  },
+  {
+    "path": "pages/characters/jin4_进.html",
+    "type": "character",
+    "category": "characters",
+    "title": "进 · to enter, to advance, to take in",
+    "desc": "A foot on the road and a bird that only ever walks forward. From that image grows everything that moves ahead and moves in: to enter, to advance, to progress, to carry out, and to take goods in.",
+    "tags": [
+      "motion",
+      "meaning",
+      "direction",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "进",
+    "pinyin": "jìn",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "辶",
     "updated": "2026-06-20"
   },
   {
@@ -297,6 +517,86 @@
     "tone": 2,
     "hsk": 1,
     "radical": "口",
+    "updated": "2026-06-20"
+  },
+  {
+    "path": "pages/characters/wai4_外.html",
+    "type": "character",
+    "category": "characters",
+    "title": "外 · outside, outer, foreign, besides",
+    "desc": "A diviner reading the shells at the wrong hour, off the normal schedule. From that image grows everything beyond the boundary: the outside, the outer surface, the foreign land, and the relatives on the mother's side.",
+    "tags": [
+      "space",
+      "meaning",
+      "family",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "外",
+    "pinyin": "wài",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "夕",
+    "updated": "2026-06-20"
+  },
+  {
+    "path": "pages/characters/wen4_问.html",
+    "type": "character",
+    "category": "characters",
+    "title": "问 · to ask, to inquire, to ask after",
+    "desc": "A mouth at the gate, asking. From that image grow the everyday verb to ask, the noun for a question or problem, the warm act of asking after someone, and the stern act of holding to account.",
+    "tags": [
+      "communication",
+      "language",
+      "society",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "问",
+    "pinyin": "wèn",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "门",
+    "updated": "2026-06-20"
+  },
+  {
+    "path": "pages/characters/xi3_喜.html",
+    "type": "character",
+    "category": "characters",
+    "title": "喜 · joy, to like, happy events",
+    "desc": "A festive drum sounding above an open mouth: the sound of joy and the smiling mouth that answers it. From this image grow the words for liking, delight, and every happy occasion, above all the wedding.",
+    "tags": [
+      "emotion",
+      "culture",
+      "family",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "喜",
+    "pinyin": "xǐ",
+    "tone": 3,
+    "hsk": 1,
+    "radical": "口",
+    "updated": "2026-06-20"
+  },
+  {
+    "path": "pages/characters/xi4_系.html",
+    "type": "character",
+    "category": "characters",
+    "title": "系 · to connect, system, department",
+    "desc": "A hand holding silk threads. From that image of holding strands together come the great connecting words of modern Chinese: the system, the relationship, the link, the university department, and the colloquial act of tying a knot.",
+    "tags": [
+      "connections",
+      "society",
+      "meaning",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "系",
+    "pinyin": "xì",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "糸",
     "updated": "2026-06-20"
   },
   {

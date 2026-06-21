@@ -6,7 +6,7 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A reading nook for Chinese language and civilisation. Characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Jun 2026 16:02:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 01:50:32 GMT</lastBuildDate>
     <item>
       <title>本 · root, origin, this, a book</title>
       <link>https://jiaoshoo.com/pages/characters/ben3_本.html</link>
@@ -16,11 +16,27 @@
       <category>characters</category>
     </item>
     <item>
+      <title>菜 · vegetable, dish, cuisine</title>
+      <link>https://jiaoshoo.com/pages/characters/cai4_菜.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/cai4_菜.html</guid>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Plants gathered to be eaten. From the picked greens grows a whole table: the vegetable, the cooked dish, the regional cuisine, and the slangy put-down for anyone weak at a task.</description>
+      <category>characters</category>
+    </item>
+    <item>
       <title>常 · constant, ordinary, often</title>
       <link>https://jiaoshoo.com/pages/characters/chang2_常.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/chang2_常.html</guid>
       <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
       <description>A long banner of cloth that came to mean what endures: the constant and the lasting, the ordinary and the common, and the things that happen again and again.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>第 · the ordinal prefix, rank, mansion</title>
+      <link>https://jiaoshoo.com/pages/characters/di4_第.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/di4_第.html</guid>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Bamboo over younger-brother, an image of things laid out in sequence. From it grows the prefix that turns a count into an order, plus the older senses of examination rank and grand residence.</description>
       <category>characters</category>
     </item>
     <item>
@@ -48,11 +64,51 @@
       <category>characters</category>
     </item>
     <item>
+      <title>非 · not, wrong, un-</title>
+      <link>https://jiaoshoo.com/pages/characters/fei1_非.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/fei1_非.html</guid>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Two wings spreading in opposite directions: from that image of opposition grows the great negator. Not and non-, the line between right and wrong, and the un- prefix that turns a word against itself.</description>
+      <category>characters</category>
+    </item>
+    <item>
       <title>分 · to divide, minute, point, cent</title>
       <link>https://jiaoshoo.com/pages/characters/fen1_分.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/fen1_分.html</guid>
       <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
       <description>A knife splitting a thing in two. From the cut grows everything that comes in parts: the minute on the clock, the point on a test, the cent in your pocket, and the act of separating itself.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>个 · the universal measure word, individual</title>
+      <link>https://jiaoshoo.com/pages/characters/ge4_个.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/ge4_个.html</guid>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
+      <description>The general-purpose measure word that counts almost anything, and the root of individual. From the bamboo-stalk tally grew the everyday classifier 一个 and the words for individual, personality, and build.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>汉 · the Han river, dynasty, people, and a man</title>
+      <link>https://jiaoshoo.com/pages/characters/han4_汉.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/han4_汉.html</guid>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
+      <description>A river that named a dynasty, and a dynasty that named a people. From the water of 汉水 grew 汉族 the Han ethnicity, 汉语 and 汉字 the Chinese language and script, and 好汉, the brave fellow.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>候 · to wait, time, season, climate</title>
+      <link>https://jiaoshoo.com/pages/characters/hou4_候.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/hou4_候.html</guid>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
+      <description>A person standing watch beside the road. From the figure of one who waits and watches grows the everyday word for when (时候), the act of awaiting (等候), and the long rhythm of the weather (气候).</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>花 · flower, to spend, patterned</title>
+      <link>https://jiaoshoo.com/pages/characters/hua1_花.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/hua1_花.html</guid>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
+      <description>A plant caught in its transformed, blooming state: the flower, the act of spending money or time, and the patterned, fancy, or blurred. One glyph that runs from the garden to the wallet to the dazzled eye.</description>
       <category>characters</category>
     </item>
     <item>
@@ -64,6 +120,14 @@
       <category>characters</category>
     </item>
     <item>
+      <title>欢 · joy, merry, to be pleased</title>
+      <link>https://jiaoshoo.com/pages/characters/huan1_欢.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/huan1_欢.html</guid>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
+      <description>A breath of open delight: the hand and the open mouth that make laughter. From this glyph come joy and merriment, to like and to welcome, and the lively, high-spirited mood.</description>
+      <category>characters</category>
+    </item>
+    <item>
       <title>回 · to return, to turn back, a time</title>
       <link>https://jiaoshoo.com/pages/characters/hui2_回.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/hui2_回.html</guid>
@@ -72,11 +136,35 @@
       <category>characters</category>
     </item>
     <item>
+      <title>记 · to remember, to record, a mark</title>
+      <link>https://jiaoshoo.com/pages/characters/ji4_记.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/ji4_记.html</guid>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Speech set beside the self: the act of fixing something so it will not be lost. From that image grow three senses: to remember, to write down, and the mark left behind.</description>
+      <category>characters</category>
+    </item>
+    <item>
       <title>间 · space between, interval, room</title>
       <link>https://jiaoshoo.com/pages/characters/jian1_间.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/jian1_间.html</guid>
       <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
       <description>Sunlight in the crack between two doors: the character for the space between things. From that gap grow time, the middle ground, the human world, and the room you count one by one.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>教 · to teach, teaching, religion</title>
+      <link>https://jiaoshoo.com/pages/characters/jiao4_教.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/jiao4_教.html</guid>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
+      <description>A hand with a rod beside a child at the lesson. From that scene of instruction grows a wide field: to teach and educate, to teach a skill in the spoken jiao reading, and the teaching that became the word for religion.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>进 · to enter, to advance, to take in</title>
+      <link>https://jiaoshoo.com/pages/characters/jin4_进.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/jin4_进.html</guid>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
+      <description>A foot on the road and a bird that only ever walks forward. From that image grows everything that moves ahead and moves in: to enter, to advance, to progress, to carry out, and to take goods in.</description>
       <category>characters</category>
     </item>
     <item>
@@ -128,124 +216,36 @@
       <category>characters</category>
     </item>
     <item>
-      <title>现 · to appear, present, now</title>
-      <link>https://jiaoshoo.com/pages/characters/xian4_现.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/xian4_现.html</guid>
+      <title>外 · outside, outer, foreign, besides</title>
+      <link>https://jiaoshoo.com/pages/characters/wai4_外.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/wai4_外.html</guid>
       <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
-      <description>The luster of jade coming into view. From that glint of something becoming visible grows the whole vocabulary of appearing, of the present moment, and of what is ready and on hand.</description>
+      <description>A diviner reading the shells at the wrong hour, off the normal schedule. From that image grows everything beyond the boundary: the outside, the outer surface, the foreign land, and the relatives on the mother&apos;s side.</description>
       <category>characters</category>
     </item>
     <item>
-      <title>样 · shape, kind, manner, sample</title>
-      <link>https://jiaoshoo.com/pages/characters/yang4_样.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/yang4_样.html</guid>
+      <title>问 · to ask, to inquire, to ask after</title>
+      <link>https://jiaoshoo.com/pages/characters/wen4_问.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/wen4_问.html</guid>
       <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
-      <description>A word once rooted in wood that grew into the language of appearance and kind: how a thing looks, what type it is, the sample held up as a model, and the everyday this-way and how of manner words.</description>
+      <description>A mouth at the gate, asking. From that image grow the everyday verb to ask, the noun for a question or problem, the warm act of asking after someone, and the stern act of holding to account.</description>
       <category>characters</category>
     </item>
     <item>
-      <title>正 · upright, correct, exactly, in the midst of</title>
-      <link>https://jiaoshoo.com/pages/characters/zheng4_正.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/zheng4_正.html</guid>
+      <title>喜 · joy, to like, happy events</title>
+      <link>https://jiaoshoo.com/pages/characters/xi3_喜.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/xi3_喜.html</guid>
       <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
-      <description>A foot halting squarely on the target line. From that image grows everything straight and correct: the upright, the standard, the exact moment, and the ongoing right-now.</description>
+      <description>A festive drum sounding above an open mouth: the sound of joy and the smiling mouth that answers it. From this image grow the words for liking, delight, and every happy occasion, above all the wedding.</description>
       <category>characters</category>
     </item>
     <item>
-      <title>重 · heavy, important; again, to repeat</title>
-      <link>https://jiaoshoo.com/pages/characters/zhong4_重.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/zhong4_重.html</guid>
+      <title>系 · to connect, system, department</title>
+      <link>https://jiaoshoo.com/pages/characters/xi4_系.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/xi4_系.html</guid>
       <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
-      <description>A figure bearing a heavy load. From that weight grows everything that carries gravity: the heavy, the important, the grave. Read again as chóng, the same load comes back, layered and repeated.</description>
+      <description>A hand holding silk threads. From that image of holding strands together come the great connecting words of modern Chinese: the system, the relationship, the link, the university department, and the colloquial act of tying a knot.</description>
       <category>characters</category>
-    </item>
-    <item>
-      <title>子 · child, seed, Master</title>
-      <link>https://jiaoshoo.com/pages/characters/zi3_子.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/zi3_子.html</guid>
-      <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
-      <description>A picture of a swaddled infant that grew into one of the busiest characters in the language: a child and a son, the honorific for a Master, the empty noun-suffix on a thousand words, and the seed of a thing.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>作 · to do, to make, to compose</title>
-      <link>https://jiaoshoo.com/pages/characters/zuo4_作.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/zuo4_作.html</guid>
-      <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
-      <description>A person setting something in motion. From the act of beginning grows the whole vocabulary of doing, making, and composing: the job you work, the work you create, and the role you act out.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>楚辞 · Songs of Chu</title>
-      <link>https://jiaoshoo.com/pages/arts/topic_chuci.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/arts/topic_chuci.html</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
-      <description>The shamanistic southern voice that gave Chinese literature its second pole: visionary, romantic, and inconsolably exiled.</description>
-      <category>arts</category>
-    </item>
-    <item>
-      <title>古琴 · the scholar&apos;s zither</title>
-      <link>https://jiaoshoo.com/pages/arts/topic_guqin.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/arts/topic_guqin.html</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
-      <description>The seven-string zither Confucius played throughout his life, and the origin of 知音, the word for a person who truly understands you.</description>
-      <category>arts</category>
-    </item>
-    <item>
-      <title>生旦净末丑 · Role Types in Peking Opera</title>
-      <link>https://jiaoshoo.com/pages/arts/topic_jingju_roles.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/arts/topic_jingju_roles.html</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
-      <description>Five role categories, each a complete performance tradition -- voice, movement, makeup, and costume as a total semiotic system.</description>
-      <category>arts</category>
-    </item>
-    <item>
-      <title>鲁迅 · Lu Xun</title>
-      <link>https://jiaoshoo.com/pages/arts/topic_luxun.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/arts/topic_luxun.html</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
-      <description>The writer who looked at traditional Chinese society and saw cannibalism, and the complicated, unresolvable legacy he left behind.</description>
-      <category>arts</category>
-    </item>
-    <item>
-      <title>山水画 · landscape painting</title>
-      <link>https://jiaoshoo.com/pages/arts/topic_shanshui.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/arts/topic_shanshui.html</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
-      <description>Chinese landscape painting encodes a theory in its name: 山 (mountain, yang, permanent) and 水 (water, yin, changing) in dynamic tension. A space to inhabit in the imagination, not a view to frame.</description>
-      <category>arts</category>
-    </item>
-    <item>
-      <title>诗经 · Book of Songs</title>
-      <link>https://jiaoshoo.com/pages/arts/topic_shijing.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/arts/topic_shijing.html</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
-      <description>China oldest poetry anthology: three hundred poems that Confucius said no educated person could afford to ignore.</description>
-      <category>arts</category>
-    </item>
-    <item>
-      <title>书法风格 · The Five Scripts of Chinese Calligraphy</title>
-      <link>https://jiaoshoo.com/pages/arts/topic_shufa_styles.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/arts/topic_shufa_styles.html</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
-      <description>Five script styles chart two thousand years of Chinese writing, from the solemn bronze inscriptions of the Zhou to the explosive cursive of the Tang masters.</description>
-      <category>arts</category>
-    </item>
-    <item>
-      <title>水墨画 · Ink-Wash Painting</title>
-      <link>https://jiaoshoo.com/pages/arts/topic_shuimohua.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/arts/topic_shuimohua.html</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
-      <description>Where the brush meets philosophy: five tones of ink, the art of leaving space, and landscapes that are not about landscape at all.</description>
-      <category>arts</category>
-    </item>
-    <item>
-      <title>宋词 · Song Dynasty Lyric</title>
-      <link>https://jiaoshoo.com/pages/arts/topic_songci.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/arts/topic_songci.html</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
-      <description>The poem that sings: fixed tune patterns, named meters, and three masters who defined what the Chinese lyric could feel.</description>
-      <category>arts</category>
     </item>
   </channel>
 </rss>
