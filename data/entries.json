@@ -1,5 +1,305 @@
 [
   {
+    "path": "pages/characters/chao2_朝.html",
+    "type": "character",
+    "category": "characters",
+    "title": "朝 · dynasty, imperial court, to face toward; (zhāo) morning",
+    "desc": "The sun rising among grasses with the moon still in the sky. From that dawn scene grow two readings: zhāo, the morning and its youthful vigor, and cháo, the court that met at daybreak, the dynasty it served, and the preposition toward.",
+    "tags": [
+      "dynasty",
+      "history",
+      "direction",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "朝",
+    "pinyin": "cháo",
+    "tone": 2,
+    "hsk": 3,
+    "radical": "月",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/cheng2_城.html",
+    "type": "character",
+    "category": "characters",
+    "title": "城 · city, city wall, town",
+    "desc": "A rampart of earth raised around a settlement: the character where the wall and the city it protects are one and the same word.",
+    "tags": [
+      "fortification",
+      "settlement",
+      "geography",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "城",
+    "pinyin": "chéng",
+    "tone": 2,
+    "hsk": 3,
+    "radical": "土",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/chuan2_传.html",
+    "type": "character",
+    "category": "characters",
+    "title": "传 · to pass on, transmit, spread; (zhuan) a biography, a commentary",
+    "desc": "The person radical carrying something onward: one figure handing a thing to the next. From that image grow the senses of 传, read chuan when it means to pass down, transmit, and spread, and read zhuan when it names a biography or a classical commentary.",
+    "tags": [
+      "transmission",
+      "communication",
+      "culture",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "传",
+    "pinyin": "chuán",
+    "tone": 2,
+    "hsk": 3,
+    "radical": "亻",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/dai4_代.html",
+    "type": "character",
+    "category": "characters",
+    "title": "代 · generation, era, to substitute, on behalf of",
+    "desc": "The person radical carrying the sense of succession: one figure standing in the place of another. From that single image grow the four faces of 代: to replace or act for someone, to do a thing on their behalf, the generation that succeeds the one before, and the era or dynasty in which a life is set.",
+    "tags": [
+      "generation",
+      "history",
+      "society",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "代",
+    "pinyin": "dài",
+    "tone": 4,
+    "hsk": 3,
+    "radical": "亻",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/diao4_调.html",
+    "type": "character",
+    "category": "characters",
+    "title": "调 · (diào) to transfer, tune, accent; (tiáo) to adjust, to blend, to mediate",
+    "desc": "A high-frequency polyphone with two readings. As diào it means to transfer, a melody or key, a tone, an accent; as tiáo it means to adjust, to blend, to mediate. The reading tells you whether 调 is moving things or harmonizing them.",
+    "tags": [
+      "music",
+      "communication",
+      "change",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "调",
+    "pinyin": "diào",
+    "tone": 4,
+    "hsk": 3,
+    "radical": "讠",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/gong1_功.html",
+    "type": "character",
+    "category": "characters",
+    "title": "功 · merit, achievement, skill, effort",
+    "desc": "Merit earned through effort: from meritorious service and success to the patient skill the Chinese call gongfu, and even work in physics.",
+    "tags": [
+      "mastery",
+      "ability",
+      "evaluation",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "功",
+    "pinyin": "gōng",
+    "tone": 1,
+    "hsk": 3,
+    "radical": "力",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/hua4_化.html",
+    "type": "character",
+    "category": "characters",
+    "title": "化 · to change, to transform, to melt",
+    "desc": "The character of transformation itself: melting, digesting, civilizing, and the productive -ize suffix that builds half of modern technical Chinese.",
+    "tags": [
+      "change",
+      "culture",
+      "science",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "化",
+    "pinyin": "huà",
+    "tone": 4,
+    "hsk": 3,
+    "radical": "匕",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/jie3_解.html",
+    "type": "character",
+    "category": "characters",
+    "title": "解 · to untie, to solve, to explain, to dissolve",
+    "desc": "The character for cutting apart and undoing: untying and liberating, solving and explaining, dissolving and relieving. A polyphone read jiě, jiè, and xiè, pictured as a hand prying an ox horn from the ox.",
+    "tags": [
+      "knowing",
+      "meaning",
+      "communication",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "解",
+    "pinyin": "jiě",
+    "tone": 3,
+    "hsk": 3,
+    "radical": "角",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/li4_历.html",
+    "type": "character",
+    "category": "characters",
+    "title": "历 · to experience, history, calendar",
+    "desc": "One simplified glyph that absorbed two traditional characters: 歷 (to pass through, history) and 曆 (calendar). The word that holds both lived experience and reckoned time.",
+    "tags": [
+      "history",
+      "calendar",
+      "time",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "历",
+    "pinyin": "lì",
+    "tone": 4,
+    "hsk": 3,
+    "radical": "厂",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/lian2_连.html",
+    "type": "character",
+    "category": "characters",
+    "title": "连 · to link, to join, even",
+    "desc": "Carts moving in a line: a character that joins things in space, in sequence, and in emphasis, from 连接 to the famous 连...都 construction.",
+    "tags": [
+      "cohesion",
+      "even",
+      "connections",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "连",
+    "pinyin": "lián",
+    "tone": 2,
+    "hsk": 3,
+    "radical": "辶",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/min2_民.html",
+    "type": "character",
+    "category": "characters",
+    "title": "民 · the people, a citizen, folk",
+    "desc": "The common people as a collective subject: the populace, the citizen, the folk and the nation, and the civilian set against the military. From 人民 the people to 民族 ethnic nation to 民主 democracy.",
+    "tags": [
+      "society",
+      "politics",
+      "social",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "民",
+    "pinyin": "mín",
+    "tone": 2,
+    "hsk": 3,
+    "radical": "民",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/rong2_容.html",
+    "type": "character",
+    "category": "characters",
+    "title": "容 · to contain, to allow, appearance",
+    "desc": "A roof over a valley: the space that holds. To contain, to tolerate, the face one shows, and the easy in rongyi.",
+    "tags": [
+      "characters",
+      "meaning",
+      "perception",
+      "space"
+    ],
+    "status": "complete",
+    "char": "容",
+    "pinyin": "róng",
+    "tone": 2,
+    "hsk": 3,
+    "radical": "宀",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/shi4_世.html",
+    "type": "character",
+    "category": "characters",
+    "title": "世 · world, age, generation, lifetime",
+    "desc": "A pictograph traditionally read as three tens joined together, the span of thirty years that makes one generation. From that root grow the four faces of 世: the generation that succeeds the one before, the lifetime or the life to come, the era stacked from many lives, and the wider world of human society in which all of it unfolds.",
+    "tags": [
+      "generation",
+      "cosmology",
+      "society",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "世",
+    "pinyin": "shì",
+    "tone": 4,
+    "hsk": 3,
+    "radical": "一",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/shou3_首.html",
+    "type": "character",
+    "category": "characters",
+    "title": "首 · head, first, chief, a measure word for songs and poems",
+    "desc": "A drawn head, with hair above an eye, and from it the senses of first, foremost, chief, leader, and the classifier you count songs and poems with. 首 is its own radical.",
+    "tags": [
+      "body",
+      "measure-words",
+      "royalty",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "首",
+    "pinyin": "shǒu",
+    "tone": 3,
+    "hsk": 3,
+    "radical": "首",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/xing2_形.html",
+    "type": "character",
+    "category": "characters",
+    "title": "形 · shape, form, to appear, to compare",
+    "desc": "The character for visible form: shape and figure, the body as form, the act of taking shape and being described, and the lay of a situation. A pictophonetic compound built on the pattern-strokes radical 彡.",
+    "tags": [
+      "perception",
+      "geometry",
+      "meaning",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "形",
+    "pinyin": "xíng",
+    "tone": 2,
+    "hsk": 3,
+    "radical": "彡",
+    "updated": "2026-06-21"
+  },
+  {
     "path": "pages/arts/topic_chuci.html",
     "type": "topic",
     "category": "arts",

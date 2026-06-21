@@ -1,11 +1,11 @@
 {
-  "generated": "2026-06-20T03:22:01.916Z",
+  "generated": "2026-06-21T18:26:52.189Z",
   "files": [
     {
       "file": "pleco-characters.txt",
       "format": "pleco",
       "type": "characters",
-      "count": 172
+      "count": 187
     },
     {
       "file": "pleco-vocab.txt",
@@ -23,13 +23,13 @@
       "file": "pleco-all.txt",
       "format": "pleco",
       "type": "all",
-      "count": 290
+      "count": 305
     },
     {
       "file": "anki-characters.tsv",
       "format": "anki-tsv",
       "type": "characters",
-      "count": 172
+      "count": 187
     },
     {
       "file": "anki-vocab.tsv",
@@ -47,7 +47,7 @@
       "file": "characters.apkg",
       "format": "anki-apkg",
       "type": "characters",
-      "count": 172
+      "count": 187
     },
     {
       "file": "vocab.apkg",
@@ -65,7 +65,7 @@
       "file": "all.apkg",
       "format": "anki-apkg",
       "type": "all",
-      "count": 290
+      "count": 305
     }
   ],
   "slices": [
@@ -75,14 +75,14 @@
       "cn": "character",
       "dimension": "type",
       "criterion": "character",
-      "description": "All 172 character cards in the corpus.",
-      "count": 172,
+      "description": "All 187 character cards in the corpus.",
+      "count": 187,
       "apkg": "slices/type-character.apkg",
       "pleco": "slices/type-character.txt",
       "hskBreakdown": {
         "hsk-1": 70,
         "hsk-2": 47,
-        "hsk-3": 28,
+        "hsk-3": 43,
         "hsk-4": 20,
         "hsk-5": 5,
         "hsk-6": 1,
@@ -101,11 +101,11 @@
       "pleco": "slices/type-vocab.txt",
       "hskBreakdown": {
         "hsk-5": 3,
-        "unknown": 35,
-        "hsk-3": 17,
+        "unknown": 31,
+        "hsk-3": 24,
         "hsk-4": 10,
-        "hsk-1": 25,
-        "hsk-2": 7
+        "hsk-1": 23,
+        "hsk-2": 6
       }
     },
     {
@@ -138,8 +138,9 @@
       "pleco": "slices/type-grammar.txt",
       "hskBreakdown": {
         "unknown": 36,
-        "hsk-1": 14,
+        "hsk-1": 13,
         "hsk-2": 4,
+        "hsk-3": 1,
         "hsk-4": 1,
         "hsk-5": 1
       }
@@ -151,11 +152,11 @@
       "dimension": "hsk",
       "criterion": 1,
       "description": "Just HSK level 1 on its own (authored or inferred from constituent characters).",
-      "count": 117,
+      "count": 114,
       "apkg": "slices/hsk-1.apkg",
       "pleco": "slices/hsk-1.txt",
       "hskBreakdown": {
-        "hsk-1": 117
+        "hsk-1": 114
       }
     },
     {
@@ -165,11 +166,11 @@
       "dimension": "hsk",
       "criterion": 2,
       "description": "Just HSK level 2 on its own (authored or inferred from constituent characters).",
-      "count": 61,
+      "count": 60,
       "apkg": "slices/hsk-2.apkg",
       "pleco": "slices/hsk-2.txt",
       "hskBreakdown": {
-        "hsk-2": 61
+        "hsk-2": 60
       }
     },
     {
@@ -179,11 +180,11 @@
       "dimension": "hsk",
       "criterion": 3,
       "description": "Just HSK level 3 on its own (authored or inferred from constituent characters).",
-      "count": 46,
+      "count": 69,
       "apkg": "slices/hsk-3.apkg",
       "pleco": "slices/hsk-3.txt",
       "hskBreakdown": {
-        "hsk-3": 46
+        "hsk-3": 69
       }
     },
     {
@@ -235,11 +236,11 @@
       "dimension": "hsk-ladder",
       "criterion": 1,
       "description": "Just HSK 1 — the foundation deck for absolute beginners.",
-      "count": 117,
+      "count": 114,
       "apkg": "slices/hsk-up-to-1.apkg",
       "pleco": "slices/hsk-up-to-1.txt",
       "hskBreakdown": {
-        "hsk-1": 117
+        "hsk-1": 114
       }
     },
     {
@@ -249,12 +250,12 @@
       "dimension": "hsk-ladder",
       "criterion": 2,
       "description": "Cumulative deck: every card from HSK 1 up to and including HSK 2.",
-      "count": 178,
+      "count": 174,
       "apkg": "slices/hsk-up-to-2.apkg",
       "pleco": "slices/hsk-up-to-2.txt",
       "hskBreakdown": {
-        "hsk-1": 117,
-        "hsk-2": 61
+        "hsk-1": 114,
+        "hsk-2": 60
       }
     },
     {
@@ -264,13 +265,13 @@
       "dimension": "hsk-ladder",
       "criterion": 3,
       "description": "Cumulative deck: every card from HSK 1 up to and including HSK 3.",
-      "count": 224,
+      "count": 243,
       "apkg": "slices/hsk-up-to-3.apkg",
       "pleco": "slices/hsk-up-to-3.txt",
       "hskBreakdown": {
-        "hsk-1": 117,
-        "hsk-2": 61,
-        "hsk-3": 46
+        "hsk-1": 114,
+        "hsk-2": 60,
+        "hsk-3": 69
       }
     },
     {
@@ -280,13 +281,13 @@
       "dimension": "hsk-ladder",
       "criterion": 4,
       "description": "Cumulative deck: every card from HSK 1 up to and including HSK 4.",
-      "count": 256,
+      "count": 275,
       "apkg": "slices/hsk-up-to-4.apkg",
       "pleco": "slices/hsk-up-to-4.txt",
       "hskBreakdown": {
-        "hsk-1": 117,
-        "hsk-2": 61,
-        "hsk-3": 46,
+        "hsk-1": 114,
+        "hsk-2": 60,
+        "hsk-3": 69,
         "hsk-4": 32
       }
     },
@@ -297,13 +298,13 @@
       "dimension": "hsk-ladder",
       "criterion": 5,
       "description": "Cumulative deck: every card from HSK 1 up to and including HSK 5.",
-      "count": 265,
+      "count": 284,
       "apkg": "slices/hsk-up-to-5.apkg",
       "pleco": "slices/hsk-up-to-5.txt",
       "hskBreakdown": {
-        "hsk-1": 117,
-        "hsk-2": 61,
-        "hsk-3": 46,
+        "hsk-1": 114,
+        "hsk-2": 60,
+        "hsk-3": 69,
         "hsk-4": 32,
         "hsk-5": 9
       }
@@ -315,13 +316,13 @@
       "dimension": "hsk-ladder",
       "criterion": 6,
       "description": "Cumulative deck: every card from HSK 1 up to and including HSK 6.",
-      "count": 266,
+      "count": 285,
       "apkg": "slices/hsk-up-to-6.apkg",
       "pleco": "slices/hsk-up-to-6.txt",
       "hskBreakdown": {
-        "hsk-1": 117,
-        "hsk-2": 61,
-        "hsk-3": 46,
+        "hsk-1": 114,
+        "hsk-2": 60,
+        "hsk-3": 69,
         "hsk-4": 32,
         "hsk-5": 9,
         "hsk-6": 1
@@ -360,8 +361,8 @@
         "hsk-4": 7,
         "hsk-2": 8,
         "hsk-5": 2,
-        "hsk-3": 2,
-        "unknown": 8
+        "hsk-3": 3,
+        "unknown": 7
       }
     },
     {
@@ -392,13 +393,30 @@
       "apkg": "slices/tag-classical.apkg",
       "pleco": "slices/tag-classical.txt",
       "hskBreakdown": {
-        "hsk-3": 4,
+        "hsk-3": 5,
         "hsk-2": 8,
         "hsk-6": 1,
         "hsk-4": 5,
         "hsk-1": 13,
-        "unknown": 15,
+        "unknown": 14,
         "hsk-5": 2
+      }
+    },
+    {
+      "slug": "tag-direction",
+      "name": "Direction",
+      "cn": "方向",
+      "dimension": "tag",
+      "criterion": "direction",
+      "description": "Cards tagged direction — 17 entries.",
+      "count": 17,
+      "apkg": "slices/tag-direction.apkg",
+      "pleco": "slices/tag-direction.txt",
+      "hskBreakdown": {
+        "hsk-3": 2,
+        "hsk-2": 6,
+        "hsk-1": 7,
+        "unknown": 2
       }
     },
     {
@@ -416,23 +434,6 @@
         "hsk-1": 6,
         "hsk-4": 2,
         "unknown": 1
-      }
-    },
-    {
-      "slug": "tag-direction",
-      "name": "Direction",
-      "cn": "方向",
-      "dimension": "tag",
-      "criterion": "direction",
-      "description": "Cards tagged direction — 16 entries.",
-      "count": 16,
-      "apkg": "slices/tag-direction.apkg",
-      "pleco": "slices/tag-direction.txt",
-      "hskBreakdown": {
-        "hsk-2": 6,
-        "hsk-1": 7,
-        "hsk-3": 1,
-        "unknown": 2
       }
     },
     {
@@ -459,13 +460,13 @@
       "cn": "身体",
       "dimension": "tag",
       "criterion": "body",
-      "description": "Cards tagged body — 12 entries.",
-      "count": 12,
+      "description": "Cards tagged body — 13 entries.",
+      "count": 13,
       "apkg": "slices/tag-body.apkg",
       "pleco": "slices/tag-body.txt",
       "hskBreakdown": {
         "hsk-4": 3,
-        "hsk-3": 3,
+        "hsk-3": 4,
         "hsk-2": 4,
         "unknown": 1,
         "hsk-1": 1
@@ -512,14 +513,14 @@
       "cn": "时间",
       "dimension": "tag",
       "criterion": "time",
-      "description": "Cards tagged time — 13 entries.",
-      "count": 13,
+      "description": "Cards tagged time — 14 entries.",
+      "count": 14,
       "apkg": "slices/tag-time.apkg",
       "pleco": "slices/tag-time.txt",
       "hskBreakdown": {
-        "hsk-1": 8,
-        "hsk-2": 3,
-        "unknown": 2
+        "hsk-1": 7,
+        "hsk-3": 4,
+        "hsk-2": 3
       }
     },
     {
@@ -578,11 +579,11 @@
       "dimension": "intent",
       "criterion": "survival-mandarin",
       "description": "Everything an absolute beginner needs in week one: HSK 1 vocab, basic characters, foundational grammar (是/不是, 有/没有, 在), question words, numbers.",
-      "count": 121,
+      "count": 118,
       "apkg": "slices/intent-survival-mandarin.apkg",
       "pleco": "slices/intent-survival-mandarin.txt",
       "hskBreakdown": {
-        "hsk-1": 117,
+        "hsk-1": 114,
         "hsk-2": 4
       }
     },
@@ -638,8 +639,8 @@
         "hsk-4": 7,
         "hsk-2": 8,
         "hsk-5": 2,
-        "hsk-3": 2,
-        "unknown": 8
+        "hsk-3": 3,
+        "unknown": 7
       }
     },
     {
@@ -665,13 +666,13 @@
       "dimension": "intent",
       "criterion": "travel-directions",
       "description": "Place words, geography terms, direction vocabulary (东南西北 上下左右), and the grammar of asking how to get somewhere.",
-      "count": 54,
+      "count": 56,
       "apkg": "slices/intent-travel-directions.apkg",
       "pleco": "slices/intent-travel-directions.txt",
       "hskBreakdown": {
         "hsk-2": 13,
-        "hsk-3": 5,
-        "hsk-1": 27,
+        "hsk-3": 8,
+        "hsk-1": 26,
         "hsk-4": 6,
         "hsk-5": 1,
         "unknown": 2
@@ -688,10 +689,10 @@
       "apkg": "slices/intent-family-relationships.apkg",
       "pleco": "slices/intent-family-relationships.txt",
       "hskBreakdown": {
-        "hsk-3": 2,
+        "hsk-3": 3,
         "hsk-1": 10,
         "hsk-2": 2,
-        "unknown": 7
+        "unknown": 6
       }
     },
     {
@@ -701,13 +702,14 @@
       "dimension": "intent",
       "criterion": "time-and-tense",
       "description": "Time-of-day vocab, calendar terms, aspect markers (了, 过, 着), tense particles, and the chengyu that compress time concepts.",
-      "count": 29,
+      "count": 30,
       "apkg": "slices/intent-time-and-tense.apkg",
       "pleco": "slices/intent-time-and-tense.txt",
       "hskBreakdown": {
         "hsk-2": 4,
-        "hsk-1": 17,
-        "unknown": 8
+        "hsk-1": 16,
+        "hsk-3": 4,
+        "unknown": 6
       }
     },
     {
@@ -717,12 +719,12 @@
       "dimension": "intent",
       "criterion": "measure-word-drill",
       "description": "个 只 张 本 条 位 家 件 杯 块 — the classifiers Chinese forces you to learn when you count anything.",
-      "count": 5,
+      "count": 6,
       "apkg": "slices/intent-measure-word-drill.apkg",
       "pleco": "slices/intent-measure-word-drill.txt",
       "hskBreakdown": {
         "hsk-1": 2,
-        "hsk-3": 1,
+        "hsk-3": 2,
         "hsk-2": 1,
         "unknown": 1
       }
@@ -734,11 +736,11 @@
       "dimension": "intent",
       "criterion": "modal-verbs",
       "description": "能 会 可以 应该 必须 得 想 要 — the modals that distinguish ability, permission, obligation, and politeness.",
-      "count": 10,
+      "count": 11,
       "apkg": "slices/intent-modal-verbs.apkg",
       "pleco": "slices/intent-modal-verbs.txt",
       "hskBreakdown": {
-        "hsk-3": 2,
+        "hsk-3": 3,
         "hsk-2": 3,
         "hsk-1": 2,
         "unknown": 3
@@ -755,12 +757,12 @@
       "apkg": "slices/intent-classical-foundations.apkg",
       "pleco": "slices/intent-classical-foundations.txt",
       "hskBreakdown": {
-        "hsk-3": 4,
+        "hsk-3": 5,
         "hsk-2": 9,
         "hsk-6": 1,
         "hsk-4": 5,
         "hsk-1": 13,
-        "unknown": 17,
+        "unknown": 16,
         "hsk-5": 2
       }
     },
