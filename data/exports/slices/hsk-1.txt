@@ -105,7 +105,6 @@
 走	zǒu	to walk, to go, to leave — A figure in motion with feet below: the basic verb of movement that Chinese uses where English uses dozens of different words.
 作	zuò	to do, to make, to compose — A person setting something in motion. From the act of beginning grows the whole vocabulary of doing, making, and composing: the job you work, the work you create, and the role you act out.
 做	zuò	to do, to make, to act as — 做 is the everyday verb for doing and making, a late character built to carry the work that 作 had grown too literary to do, and the two still split the labor between them.
-笔记	bǐ jì	notes, jottings — Notes, jottings, and the Chinese literary tradition of the brush-record.
 东西	dōng xi	things — East-west as the word for 'stuff': a window into directional cosmology.
 故事	gù shì	story, tale, narrative — Old affairs made into meaning: how the Chinese word for story encodes a philosophy of the past as the source of truth.
 关系	guān xi	relationship, connections — The untranslatable social fabric: relational leverage, it matters.
@@ -123,9 +122,7 @@
 时候	shí hou	time, moment — The everyday word for a point in time, and the indispensable 的时候 ("when") pattern that every learner needs.
 时间	shí jiān	time — Time: the compound that anchors all temporal expression in Mandarin.
 天地	tiān dì	heaven and earth; the cosmos — The foundational dyad of Chinese cosmology, pairing Heaven and Earth as the two poles of the created order within which all human life unfolds.
-天人合一	tiān rén hé yī	Heaven and humanity as one: the unity of cosmic and human order — The organizing claim of Chinese cosmology: Heaven and humanity are not separate domains, and human flourishing depends on alignment with the natural order.
 天下	tiān xià	all under heaven — The pre-nation-state Chinese political imagination: the civilized world.
-问题	wèn tí	question, problem — One word for both "question" and "problem", and the everyday phrases (没问题, 有问题, 出问题) built from it.
 喜欢	xǐ huan	to like — The everyday verb for liking, and how it differs from loving (爱), enjoying (喜爱), and being willing (愿意).
 现代	xiàn dài	modern times — The word for the modern era, built from 现 (present, manifest) and 代 (generation, age), how Chinese history slices time into 古代 / 近代 / 现代 / 当代, and how 现代 differs from 现在 now.
 现在	xiàn zài	now — The everyday word for now, where it sits in a Chinese sentence, and how it differs from 目前 (at present), 此刻 (this very moment), and 如今 (nowadays).
@@ -142,7 +139,6 @@
 山清水秀	shān qīng shuǐ xiù	Mountains Clear, Waters Lovely — Clear mountains, lovely waters. The standard Chinese phrase for a picturesque landscape: four characters that compress the whole aesthetic vocabulary of natural beauty.
 事与愿违	shì yǔ yuàn wéi	things go contrary to ones wishes — Traced to Ruan Ji of the Seven Sages of the Bamboo Grove: a literary formulation of the gap between intention and outcome, resigned rather than accusatory, with no blame assigned.
 一毛不拔	yī máo bù bá	Not Give Even a Hair — Refuse to give even a single hair from your body. Mencius's phrase for the Yangist philosophy of radical self-preservation, and the word for a miser that it became.
-愚公移山	yú gōng yí shān	The Foolish Old Man Moves the Mountains — Two mountains blocked his door. He and his sons began to move them, one basket at a time. A mocker laughed. He said: when I die my sons will continue; when they die, their sons.
 与时俱进	yǔ shí jù jìn	to advance together with the times — A classical phrase that became a political slogan in 2001, used to justify the Communist Party accommodating private enterprise, and criticized for justifying whatever the party currently does.
 欲速则不达	yù sù zé bù dá	Haste Does Not Bring Success — Speed desired, arrival missed: Confucius on why rushing produces the opposite of what you intend.
 的话	de huà	if; in the case that — The soft conditional: how 的话 marks a premise without committing to it.
@@ -159,4 +155,3 @@
 一下	yí xià	the verb-softener — The verbal-quantity word that makes an action brief and casual, how verb + 一下 softens a request, and how it differs from verb reduplication and from the time-word 一会儿.
 一样 / 像	yí yàng / xiàng	same and similar — How to say two things are the same (A 跟 B 一样) or alike (A 像 B), and how this differs from the unequal comparison with 比.
 在	zài	location, existence, and the progressive — One of the busiest words in Mandarin: the verb "to be at," the location coverb "at/in," and the progressive marker for ongoing action.
-只有…才	zhǐ yǒu cái	only if…then; the restrictive conditional — The exclusive condition: only when X is met can Y happen. The grammatical frame for necessity.

@@ -1,5 +1,45 @@
 [
   {
+    "path": "pages/characters/bi3_笔.html",
+    "type": "character",
+    "category": "characters",
+    "title": "笔 · pen, brush, a stroke, writing",
+    "desc": "Bamboo over hair: the bamboo-handled writing brush drawn as a character. From the implement grow the act of writing, the strokes that build a glyph, and a measure word for sums and deals.",
+    "tags": [
+      "calligraphy",
+      "writing",
+      "brush",
+      "arts"
+    ],
+    "status": "complete",
+    "char": "笔",
+    "pinyin": "bǐ",
+    "tone": 3,
+    "hsk": 2,
+    "radical": "⺮",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/cai2_才.html",
+    "type": "character",
+    "category": "characters",
+    "title": "才 · talent, ability, only-then, not until",
+    "desc": "A sprout breaking ground, the first sign of growth. From that image grow two threads: talent as raw promise, and the adverb 才 that marks something later, harder, or smaller than expected.",
+    "tags": [
+      "ability",
+      "timing",
+      "meaning",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "才",
+    "pinyin": "cái",
+    "tone": 2,
+    "hsk": 2,
+    "radical": "扌",
+    "updated": "2026-06-21"
+  },
+  {
     "path": "pages/characters/ding4_定.html",
     "type": "character",
     "category": "characters",
@@ -37,6 +77,66 @@
     "tone": 2,
     "hsk": 2,
     "radical": "而",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/fa1_发.html",
+    "type": "character",
+    "category": "characters",
+    "title": "发 · to send out, to develop, hair",
+    "desc": "One simplified glyph that swallowed two traditional characters. 发 carries the fa reading of sending, emitting, and developing (traditional 發) and the fa reading of hair on the head (traditional 髮).",
+    "tags": [
+      "meaning",
+      "change",
+      "body",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "发",
+    "pinyin": "fā",
+    "tone": 1,
+    "hsk": 2,
+    "radical": "又",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/gong1_公.html",
+    "type": "character",
+    "category": "characters",
+    "title": "公 · public, fair, common, a duke, male",
+    "desc": "A line dividing away the private self. From that image grow everything held in common, every fair dealing, the metric measures, and the elder male: public, impartial, official, and a duke.",
+    "tags": [
+      "society",
+      "ethics",
+      "meaning",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "公",
+    "pinyin": "gōng",
+    "tone": 1,
+    "hsk": 2,
+    "radical": "八",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/he2_合.html",
+    "type": "character",
+    "category": "characters",
+    "title": "合 · to join, combine, suit, close",
+    "desc": "A lid closing down over the mouth of a vessel. From that image of two parts meeting and fitting grows the whole field of joining, suiting, closing, and adding up into a whole.",
+    "tags": [
+      "connections",
+      "society",
+      "meaning",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "合",
+    "pinyin": "hé",
+    "tone": 2,
+    "hsk": 2,
+    "radical": "口",
     "updated": "2026-06-21"
   },
   {
@@ -80,6 +180,86 @@
     "updated": "2026-06-21"
   },
   {
+    "path": "pages/characters/ju4_句.html",
+    "type": "character",
+    "category": "characters",
+    "title": "句 · sentence, phrase, a unit of speech",
+    "desc": "A wrapping line drawn over a mouth: speech bundled into a single unit. From that image grows the sentence, the line of verse, and the measure word that counts the remarks we say.",
+    "tags": [
+      "language",
+      "literature",
+      "communication",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "句",
+    "pinyin": "jù",
+    "tone": 4,
+    "hsk": 2,
+    "radical": "口",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/li4_力.html",
+    "type": "character",
+    "category": "characters",
+    "title": "力 · strength, power, force, effort",
+    "desc": "A picture of a plough or a flexed sinew, the image of bodily exertion. From that one shape grows everything pushed by force: raw strength, the capacity to do, and the effort poured into a task.",
+    "tags": [
+      "energy",
+      "ability",
+      "meaning",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "力",
+    "pinyin": "lì",
+    "tone": 4,
+    "hsk": 2,
+    "radical": "力",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/qing2_情.html",
+    "type": "character",
+    "category": "characters",
+    "title": "情 · feeling, affection, situation",
+    "desc": "The heart radical beside the phonetic 青: the movements of the heart. From that one image grows feeling and mood, affection and love, and the wider sense of a situation or state of affairs.",
+    "tags": [
+      "emotion",
+      "mind",
+      "romance",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "情",
+    "pinyin": "qíng",
+    "tone": 2,
+    "hsk": 2,
+    "radical": "忄",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/ru2_如.html",
+    "type": "character",
+    "category": "characters",
+    "title": "如 · like, as, if, according to",
+    "desc": "A woman speaking and a mouth complying: from following a command grew the great comparison-and-condition word. 如 is how Chinese says like, as, for example, and if.",
+    "tags": [
+      "comparison",
+      "conditional",
+      "cohesion",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "如",
+    "pinyin": "rú",
+    "tone": 2,
+    "hsk": 2,
+    "radical": "女",
+    "updated": "2026-06-21"
+  },
+  {
     "path": "pages/characters/sheng1_声.html",
     "type": "character",
     "category": "characters",
@@ -97,6 +277,126 @@
     "tone": 1,
     "hsk": 2,
     "radical": "士",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/shi2_实.html",
+    "type": "character",
+    "category": "characters",
+    "title": "实 · real, solid, true, actual",
+    "desc": "A roof over a house full of goods. From that image of a full dwelling grows everything substantial: the real and the true, the solid and sturdy, the actual practice that gets things done, and the ripened fruit.",
+    "tags": [
+      "meaning",
+      "evaluation",
+      "quality",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "实",
+    "pinyin": "shí",
+    "tone": 2,
+    "hsk": 2,
+    "radical": "宀",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/ti2_题.html",
+    "type": "character",
+    "category": "characters",
+    "title": "题 · topic, question, problem, to inscribe",
+    "desc": "The head-radical character behind every exam question and discussion topic. From the leaf or head of a thing grows the question to solve, the theme to discuss, and the act of inscribing a poem.",
+    "tags": [
+      "education",
+      "meaning",
+      "communication",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "题",
+    "pinyin": "tí",
+    "tone": 2,
+    "hsk": 2,
+    "radical": "页",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/wu4_物.html",
+    "type": "character",
+    "category": "characters",
+    "title": "物 · thing, object, matter, being",
+    "desc": "An ox under a phonetic, once the word for varicolored cattle, that broadened into the whole world of things: every object, all matter, the myriad creatures, and even a person as a figure.",
+    "tags": [
+      "things",
+      "science",
+      "nature",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "物",
+    "pinyin": "wù",
+    "tone": 4,
+    "hsk": 2,
+    "radical": "牛",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/yang2_阳.html",
+    "type": "character",
+    "category": "characters",
+    "title": "阳 · sun, bright, the yang principle",
+    "desc": "A sunlit mound: the simplified 阳 sets a hill beside the sun. From that bright south slope grow the sun itself, the active masculine half of the cosmos, and the place names that face the light.",
+    "tags": [
+      "cosmology",
+      "yin-yang",
+      "nature",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "阳",
+    "pinyin": "yáng",
+    "tone": 2,
+    "hsk": 2,
+    "radical": "阝",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/yin1_音.html",
+    "type": "character",
+    "category": "characters",
+    "title": "音 · sound, tone, news",
+    "desc": "A mouth with a sound marked inside it. From that image grow the words for sound and music, for the way a syllable is pronounced, and for tidings carried from afar.",
+    "tags": [
+      "phonology",
+      "perception",
+      "music",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "音",
+    "pinyin": "yīn",
+    "tone": 1,
+    "hsk": 2,
+    "radical": "音",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/yu2_于.html",
+    "type": "character",
+    "category": "characters",
+    "title": "于 · at, in, to, than (the classical preposition)",
+    "desc": "The workhorse preposition of formal Chinese. 于 marks where, when, toward whom, and against what a thing is measured, and it is bound into a long list of everyday disyllables like 由于, 终于, and 等于.",
+    "tags": [
+      "classical",
+      "cohesion",
+      "meaning",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "于",
+    "pinyin": "yú",
+    "tone": 2,
+    "hsk": 2,
+    "radical": "二",
     "updated": "2026-06-21"
   },
   {

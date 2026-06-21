@@ -5,10 +5,12 @@
 百	bǎi	hundred; all kinds of — 百姓, the hundred surnames, is classical Chinese for the common people, because the full range of ordinary family names stands in for everyone who is not nobility.
 北	běi	north; northern; to flee — Two people standing back-to-back: the direction of cold and turning away that became the name of China's capital.
 本	běn	root, origin, this, a book — A tree with its root marked: the character for where a thing comes from. From root grows origin, the fundamental, one's own, the principal sum, and the bound volume you hold in your hand.
+笔	bǐ	pen, brush, a stroke, writing — Bamboo over hair: the bamboo-handled writing brush drawn as a character. From the implement grow the act of writing, the strokes that build a glyph, and a measure word for sums and deals.
 必	bì	certainly; must; necessarily — A character rooted in the image of a blade that divides without exception: certainty as the sharpness that leaves no room for maybe.
 变	biàn	to change, to transform — The character at the heart of the I Ching, the dynastic cycle, and the modern vocabulary of reform: change as the one constant.
 不	bù	no, not, negation — The most used character in Mandarin, and the foundation of every denial, refusal, and negation.
 部	bù	part, section, ministry, measure word — The right-side city-mound radical marks an administrative division. From that grows the whole family of parts and wholes: a section of something, a government ministry, a military unit, and the measure word counted out for films, machines, and phones.
+才	cái	talent, ability, only-then, not until — A sprout breaking ground, the first sign of growth. From that image grow two threads: talent as raw promise, and the adverb 才 that marks something later, harder, or smaller than expected.
 菜	cài	vegetable, dish, cuisine — Plants gathered to be eaten. From the picked greens grows a whole table: the vegetable, the cooked dish, the regional cuisine, and the slangy put-down for anyone weak at a task.
 茶	chá	tea — The character that gave the world its word for tea: a grass over wood over man, a plant that shaped civilization, and the locus of China's richest material culture.
 产	chǎn	to produce, give birth, property, output — From birth to bounty: a character that spans biological generation and industrial output, linking the miracle of birth to the logic of production and wealth.
@@ -33,6 +35,7 @@
 多	duō	many; much; more; how — Two evenings stacked: the character that encodes abundance, comparison, and the most common question about quantity in Mandarin.
 而	ér	and, but, yet (a classical connective) — A pictograph of a beard, borrowed early as one of the busiest function words in literary Chinese. 而 links clause to clause as and, but, or yet, ties manner to verb, and frames set phrases like 而且 and 而已.
 二	èr	two; second — The number two encodes the foundational split that drives all of Chinese cosmology: yin and yang, the two forces from which everything else unfolds.
+发	fā	to send out, to develop, hair — One simplified glyph that swallowed two traditional characters. 发 carries the fa reading of sending, emitting, and developing (traditional 發) and the fa reading of hair on the head (traditional 髮).
 法	fǎ	law, method, the Dharma — Water against the level mark. From that image of fair, flowing measure grows the whole field of 法: the law and the court, the method and the way of doing a thing, and the Buddhist Dharma itself.
 方	fāng	square, direction, method — One glyph that runs from the literal square to the cardinal directions, to the place a thing sits, to the method by which it is done. The geometry of orientation and approach.
 非	fēi	not, wrong, un- — Two wings spreading in opposite directions: from that image of opposition grows the great negator. Not and non-, the line between right and wrong, and the un- prefix that turns a word against itself.
@@ -44,10 +47,12 @@
 个	gè	the universal measure word, individual — The general-purpose measure word that counts almost anything, and the root of individual. From the bamboo-stalk tally grew the everyday classifier 一个 and the words for individual, personality, and build.
 更	gèng	even more; to change; night watch — A character that split across two readings: the comparative pulse of spoken Mandarin and the sonic clock of premodern China.
 工	gōng	work, craft, labor, worker — Three strokes encoding heaven, earth, and the human craft connecting them: the root character for all labor, skill, and making in Chinese.
+公	gōng	public, fair, common, a duke, male — A line dividing away the private self. From that image grow everything held in common, every fair dealing, the metric measures, and the elder male: public, impartial, official, and a duke.
 关	guān	to close, to concern, the frontier pass — The bolt that closes a gate, the mountain pass that controls a frontier, and the relation that ties two people together. One character holds all three.
 国	guó	country, nation, state — A walled enclosure protecting its people: the Chinese concept of nationhood written in a single character.
 汉	hàn	the Han river, dynasty, people, and a man — A river that named a dynasty, and a dynasty that named a people. From the water of 汉水 grew 汉族 the Han ethnicity, 汉语 and 汉字 the Chinese language and script, and 好汉, the brave fellow.
 好	hǎo	good; to like — Good, well, to like, and the tone split that doubles its expressive range.
+合	hé	to join, combine, suit, close — A lid closing down over the mouth of a vessel. From that image of two parts meeting and fitting grows the whole field of joining, suiting, closing, and adding up into a whole.
 和	hé	harmony, and, with; peace — 和 carries the same concept across grammar and philosophy: grain and mouth together, the harmony of shared food and speech, a character that serves as both everyday conjunction and the Confucian ideal of a well-ordered world.
 黑	hēi	black, darkness, and the illicit — Black on the surface, but the live sense is moral: the black market, the underworld, the hacker. The color that names everything that operates out of sight.
 很	hěn	very; the empty intensifier — 很 is the word for very, but its strangest job is doing nothing: Chinese needs a degree adverb before a plain adjective, and 很 fills that slot so quietly that 我很好 means simply I am fine, not I am very well.
@@ -72,6 +77,7 @@
 进	jìn	to enter, to advance, to take in — A foot on the road and a bird that only ever walks forward. From that image grows everything that moves ahead and moves in: to enter, to advance, to progress, to carry out, and to take goods in.
 经	jīng	classic, scripture, to pass through, warp threads — The lengthwise warp threads strung on a loom, the structural through-lines that hold a fabric together. From that image grow the canonical classic, the act of passing through, and the running of an enterprise.
 九	jiǔ	nine; the imperial number and the highest of the yang — Nine is the largest single digit and the highest yang number, reserved for the emperor and the heavens: nine dragons, nine gates, the Nine-Five supreme position, the ninth heaven.
+句	jù	sentence, phrase, a unit of speech — A wrapping line drawn over a mouth: speech bundled into a single unit. From that image grows the sentence, the line of verse, and the measure word that counts the remarks we say.
 开	kāi	to open, to start, to operate — Two hands lifting the bar across a closed gate. From that single image flow most of modern life: opening a door, starting a meeting, driving a car, writing a check, blooming.
 看	kàn	to look, to watch, to read, to visit — 看 = hand above eye, shielding from the sun to see in the distance: visual attention with effort, encoded in a gesture everyone has made.
 可	kě	can; may; worth; quite — A two-stroke mouth character whose ancient sense of affirming breath became the pivot of permission, capability, and worth in classical and modern Chinese.
@@ -82,6 +88,7 @@
 老	lǎo	old, venerable, experienced — A stooped elder with long hair: age as wisdom, seniority as moral authority, and the Daoist sage who wrote the Daodejing.
 里	lǐ	inside, within; Chinese mile — From field stacked on earth, 里 named the bounded cultivated interior of a settlement and became the unit of distance that measured the realm's interior reach.
 理	lǐ	principle, reason, to manage, texture — The veins running through a piece of jade, the lines a carver follows when cutting. From that grain grows everything ordered: the inner pattern of things, principle and reason, and the work of putting a matter in order.
+力	lì	strength, power, force, effort — A picture of a plough or a flexed sinew, the image of bodily exertion. From that one shape grows everything pushed by force: raw strength, the capacity to do, and the effort poured into a task.
 两	liǎng	two (of); a pair; the tael, the other word for two — 两 is the two used before measure words, the two of quantity and pairing, as opposed to 二 the two of counting and order, a distinction that is one of the first real puzzles a learner meets.
 零	líng	zero; raindrops, the fractional remainder, and the late invention of nothing — Zero began as falling raindrops and the leftover odd remainder, taking on the meaning of mathematical nothing only late, the placeholder that Chinese numerals long managed without.
 六	liù	six; the six directions; a smooth and lucky number — Six closes space into the six directions (the four compass points plus up and down) and, through its near-homophony with 流 liú (to flow), became a number for things going smoothly.
@@ -106,11 +113,13 @@
 千	qiān	thousand; a vast, uncountable many — Thousand is the order of magnitude where a precise count gives way to poetic vastness: a thousand miles, a thousand autumns, ten thousand changes, the number that means simply too many to count.
 前	qián	front, before, forward; former — Chinese places the past in front (前) and the future behind: the known faces you while the unknown approaches from behind, the inverse of the English spatial metaphor for time.
 钱	qián	money, coin, currency — Money: the character that drives markets, proverbs, and the Chinese conversation about wealth.
+情	qíng	feeling, affection, situation — The heart radical beside the phonetic 青: the movements of the heart. From that one image grows feeling and mood, affection and love, and the wider sense of a situation or state of affairs.
 去	qù	to go, to leave, to depart, to remove — The character that marks every departure, from leaving the house to the euphemism for death. 去 is the verb of things moving away.
 然	rán	so, thus, the -ly manner suffix — A character that once meant to burn and was borrowed for the abstract sense so, correct, this-is-how-it-is. Today it builds the connectives 然后 and 然而, the conjunctions 当然 and 虽然, and rides as a -ly suffix on words like 忽然 and 突然.
 人	rén	person, humanity — The character for human being, and its echo in 仁 rén, Confucian benevolence.
 认	rèn	to recognize, to acknowledge — The act of recognition: knowing something for what it is, owning up to it, and the small set of compounds that turn this on the world, on others, and on oneself.
 日	rì	sun, day, Japan — The oldest pictograph in the script: a circle with a dot for the sun, now a radical in hundreds of characters related to time, light, and warmth.
+如	rú	like, as, if, according to — A woman speaking and a mouth complying: from following a command grew the great comparison-and-condition word. 如 is how Chinese says like, as, for example, and if.
 三	sān	three; thrice; repeatedly — Three is the number of completion in Chinese cosmology (Heaven, Earth, Human), and the numeral that generates the ten thousand things in Daoist thought.
 色	sè	color, appearance, desire — A kneeling figure beneath a person: color as visible manifestation, and the character that links aesthetics to desire.
 山	shān	mountain, hill, sacred peak — Three peaks rising from the earth: the oldest pictograph and the axis of Chinese sacred geography.
@@ -121,6 +130,7 @@
 声	shēng	sound, voice, tone, reputation — A chime-stone struck before a listening ear. From that image grow the everyday word for sound and voice, the tone of speech, and the wider sense of making something known: a declaration, a reputation, a name.
 十	shí	ten; complete; cross — 十 is written as a cross (a vertical stroke cutting through a horizontal one), the point where all four cardinal directions meet, making ten the numeral of total completion.
 时	shí	time, hour, season — The sun moving: time as something visible, measurable, and morally weighted.
+实	shí	real, solid, true, actual — A roof over a house full of goods. From that image of a full dwelling grows everything substantial: the real and the true, the solid and sturdy, the actual practice that gets things done, and the ripened fruit.
 事	shì	matter, affair, thing-that-happens — The character for an affair, a matter, a thing that happens. From an ancient pictograph of a hand holding the implements of office, it became Chinese for everything abstract that occupies us: business, jobs, incidents, and the everyday "no problem."
 是	shì	to be — The copula, the cleft construction, classical 是非 right-and-wrong.
 手	shǒu	hand — A five-fingered hand drawn from life: one of the most productive radicals in the script, present in hundreds of action characters.
@@ -133,6 +143,7 @@
 它	tā	it; the non-human third person — 它 began as a picture of a snake and once meant other; in the twentieth century it was reassigned to the non-human third person, completing the homophonous 他/她/它 triad that exists only in writing.
 她	tā	she, her — 她 is the youngest character in everyday Chinese, invented in 1917 to translate "she," and the cause of one of the loudest grammatical fights in modern Chinese letters.
 太	tài	too, extremely, highest, grand — The character 大 (big) with one extra dot, pushing big past its limit into too-much. From that excess grow the everyday too, the highest and grandest, the sun, and the supreme pole of Taiji.
+题	tí	topic, question, problem, to inscribe — The head-radical character behind every exam question and discussion topic. From the leaf or head of a thing grows the question to solve, the theme to discuss, and the act of inscribing a poem.
 体	tǐ	body, substance, to experience — The person beside the root: the body as a person's base. From the physical body grow substance and system, the whole as against the part, and the act of grasping a thing by living through it.
 天	tiān	sky, heaven, day — Heaven as moral authority, weather, time, and the ground of 天命 the Mandate of Heaven.
 听	tīng	to listen, to hear, to obey — The simplified 听 = mouth + axe, but the traditional 聽 encodes whole-body Confucian listening: ear, eye, heart, and upright virtue arrayed together in a single glyph.
@@ -149,6 +160,7 @@
 我	wǒ	I, me, myself — The character for 'I' began as a toothed bronze halberd: the assertive grip of a weapon became the grammatical mark of a self.
 屋	wū	room, house, dwelling — Room, dwelling, and the human need for shelter: the character at home.
 五	wǔ	five; the organizing number of correlative cosmology — Five is the center plus the four directions, the number that completes the Chinese cosmos: five phases, five colors, five tones, five flavors, five viscera, all keyed to one master grid.
+物	wù	thing, object, matter, being — An ox under a phonetic, once the word for varicolored cattle, that broadened into the whole world of things: every object, all matter, the myriad creatures, and even a person as a figure.
 西	xī	west; western — A bird settling into its nest at sunset: the direction that gave Chinese the word for "things" when it paired with east.
 喜	xǐ	joy, to like, happy events — A festive drum sounding above an open mouth: the sound of joy and the smiling mouth that answers it. From this image grow the words for liking, delight, and every happy occasion, above all the wedding.
 系	xì	to connect, system, department — A hand holding silk threads. From that image of holding strands together come the great connecting words of modern Chinese: the system, the relationship, the link, the university department, and the colloquial act of tying a knot.
@@ -164,6 +176,7 @@
 学	xu é	to study, to learn, learning — Hands guiding a child beneath a roof: the character for learning as both action and institution.
 雪	xu ě	snow, whiteness, and vengeance — Rain over a sweeping hand: snow is the precipitation you can hold. The same character means dazzling white and, by a buried metaphor, to wipe clean an old grievance.
 眼	yǎn	eye, glance — The everyday word for eye, and by extension any small opening, any moment of looking, any judgment made through sight. The body-part counterpart to literary 目.
+阳	yáng	sun, bright, the yang principle — A sunlit mound: the simplified 阳 sets a hill beside the sun. From that bright south slope grow the sun itself, the active masculine half of the cosmos, and the place names that face the light.
 样	yàng	shape, kind, manner, sample — A word once rooted in wood that grew into the language of appearance and kind: how a thing looks, what type it is, the sample held up as a model, and the everyday this-way and how of manner words.
 要	yào	to want, must, essential — Want, need, must, and will: the grammar engine disguised as a single character.
 也	yě	also; too; classical particle — A pictograph that lost its original image entirely and became one of the most load-bearing particles in classical Chinese: the gavel at the end of every verdict.
@@ -171,9 +184,11 @@
 以	yǐ	by means of; using; because; in order to — A classical Chinese preposition and conjunction so versatile that it anchors half the grammar of formal Chinese: the word that turns one thing into the means, standard, or cause of another.
 义	yì	righteousness, duty, justice — The Confucian virtue of doing what is morally right, and the simplification that erased a sheep, a self, and the entire picture of what righteous form looks like.
 意	yì	meaning, intention, the wish of the mind — Sound over heart: 意 is what the heart means before it is spoken. From that image grows meaning and significance, intention and willingness, and the notions of attention, satisfaction, and the unexpected.
+音	yīn	sound, tone, news — A mouth with a sound marked inside it. From that image grow the words for sound and music, for the way a syllable is pronounced, and for tidings carried from afar.
 用	yòng	to use; function; expense — 用 began as a pictograph of a bucket or bell (a vessel put to work) and became the character that Zhuangzi inverted in his doctrine of 无用之用: the use of uselessness.
 有	yǒu	to have, to exist — Possession, existence, and the have/be distinction that reshapes grammar.
 右	yòu	right; to assist; to favor — A right hand raised to a mouth: the hand that feeds and speaks, whose authority in Chinese extended to favoring, protecting, and placing the highest things to the right of the seat.
+于	yú	at, in, to, than (the classical preposition) — The workhorse preposition of formal Chinese. 于 marks where, when, toward whom, and against what a thing is measured, and it is bound into a long list of everyday disyllables like 由于, 终于, and 等于.
 雨	yǔ	rain — The oracle bone shows rain falling from the sky: one of the most transparent pictographs in the script, and the radical that organizes all Chinese weather.
 语	yǔ	language, speech, words — Speech radical plus the phonetic 吾 (I, me): the character for language carries the self within it, encoding the idea that language is the medium through which the self speaks to the world.
 远	yuǎn	far, distant, remote — Long robes trailing as you walk away: distance encoded in motion, and the ambivalence of far-off places in Chinese thought.
@@ -256,6 +271,7 @@
 中国画	zhōng guó huà	Chinese painting — Brush and ink as philosophy: Chinese painting aims to capture the spirit of a subject and express the painter's inner cultivation rather than represent what the eye sees.
 中文	zhōng wén	Chinese Language and Writing — 中文 names both the written script and the spoken language: the most common term among learners, but it sits alongside 汉语, 普通话, and 汉字 in a system of names that carries real distinctions.
 中医	zhōng yī	Traditional Chinese Medicine — Two thousand years of systematic medical thought: qi, yin-yang, the Five Elements, acupuncture, and the living tradition that treats the person, not the disease.
+终于	zhōng yú	finally, at last — The adverb for "finally, at last," used when something long-awaited or hard-won comes to pass, where it sits in a sentence, and how it differs from 最后, 总算, and 到底.
 自然	zì rán	nature; natural; of course — Laozi placed 自然 at the center of his cosmology: the Way models itself on what is so of itself: no outside force required.
 班门弄斧	bān mén nòng fǔ	Showing Off Before the Master — Brandishing an axe at Lu Ban's door: the idiom for presuming to display skill before someone who has mastered it.
 东施效颦	Dōng Shī xiào pín	to imitate blindly without understanding, and make things worse — A homely woman copies Xi Shi's famous frown and clears the street: Zhuangzi's parable about form without essence.
@@ -275,12 +291,14 @@
 多少 / 几	duō shao / jǐ	how many, how much — The two question words for quantity: 几 for small countable numbers and 多少 for larger or unknown amounts, why 几 needs a measure word and 多少 may skip it, and how to ask prices and ages.
 而且	ér qiě	moreover, and furthermore — Additive conjunction that layers information: not just "and" but "and on top of that."
 还是 / 或者	hái shi / huò zhě	"or" in questions vs. statements — Chinese splits English "or" in two: 还是 offers a choice in a question, 或者 offers an alternative in a statement. Using the wrong one is a classic error.
+就 vs. 才	jiù / cái	sooner vs. later — The timing and emphasis pair: speaker attitude encoded in one syllable.
 可能	kěn éng	maybe, possible — The all-purpose word for possibility, working as adverb, adjective, and noun, and how it differs from 也许, 或许, 大概, and the modal 会.
 来	lái / qù	去 · directional complements — 上来, 下去, 出去, 进来: the motion complement system mapped.
 连…都/也	lián … dōu / yě	even X — The intensifier construction: raising the stakes of a claim.
 量词	liàng cí	measure words — 个, 只, 条, 本, 张: the classifier taxonomy and the logic behind it.
 没有	méi yǒu	negation of possession and past action — The two most important negation characters, 不 and 没, and why they cannot be swapped.
 起来	qǐ lái	directional complement: upward, inward, beginning — The most versatile directional complement in Mandarin: three distinct grammatical lives.
+如果…就	rú guǒ jiù	if … then — The foundational conditional frame: the engine of hypothetical reasoning in Mandarin.
 是…的	shì … de	the cleft construction — Focus and past-detail marking: the construction that trips every learner.
 虽然…但是	suī rán dàn shì	although … but — The concession frame: granting the premise but pivoting to the real point.
 太…了	tài le	too, excessively — The emphatic degree structure: 太…了 expresses excess and strong feeling, from complaints to enthusiastic praise.
