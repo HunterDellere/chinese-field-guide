@@ -1,5 +1,105 @@
 [
   {
+    "path": "pages/characters/ding4_定.html",
+    "type": "character",
+    "category": "characters",
+    "title": "定 · to fix, settle, decide, surely",
+    "desc": "A settling element coming to rest under a roof. From that image of a thing made still and fixed in place grows the whole field of 定: to decide, to set, the fixed and stable, the certain and sure.",
+    "tags": [
+      "meaning",
+      "timing",
+      "evaluation",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "定",
+    "pinyin": "dìng",
+    "tone": 4,
+    "hsk": 2,
+    "radical": "宀",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/er2_而.html",
+    "type": "character",
+    "category": "characters",
+    "title": "而 · and, but, yet (a classical connective)",
+    "desc": "A pictograph of a beard, borrowed early as one of the busiest function words in literary Chinese. 而 links clause to clause as and, but, or yet, ties manner to verb, and frames set phrases like 而且 and 而已.",
+    "tags": [
+      "conjunction",
+      "cohesion",
+      "classical",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "而",
+    "pinyin": "ér",
+    "tone": 2,
+    "hsk": 2,
+    "radical": "而",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/hua4_画.html",
+    "type": "character",
+    "category": "characters",
+    "title": "画 · to draw, a painting, a stroke",
+    "desc": "A hand with a brush drawing the boundaries of a field. From that image grows the whole world of pictures: to paint, a painting, and the single stroke of a character.",
+    "tags": [
+      "arts",
+      "calligraphy",
+      "culture",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "画",
+    "pinyin": "huà",
+    "tone": 4,
+    "hsk": 2,
+    "radical": "田",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/jie2_节.html",
+    "type": "character",
+    "category": "characters",
+    "title": "节 · joint, node, festival, to economize",
+    "desc": "A bamboo joint, the segment between the knots. From that node grows everything that comes in sections: the joint of a limb, the chapter of a book, the festival that knots the calendar, and the restraint that keeps a thing within bounds.",
+    "tags": [
+      "festival",
+      "calendar",
+      "daily-life",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "节",
+    "pinyin": "jié",
+    "tone": 2,
+    "hsk": 2,
+    "radical": "艹",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/sheng1_声.html",
+    "type": "character",
+    "category": "characters",
+    "title": "声 · sound, voice, tone, reputation",
+    "desc": "A chime-stone struck before a listening ear. From that image grow the everyday word for sound and voice, the tone of speech, and the wider sense of making something known: a declaration, a reputation, a name.",
+    "tags": [
+      "phonology",
+      "perception",
+      "communication",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "声",
+    "pinyin": "shēng",
+    "tone": 1,
+    "hsk": 2,
+    "radical": "士",
+    "updated": "2026-06-21"
+  },
+  {
     "path": "pages/characters/ben3_本.html",
     "type": "character",
     "category": "characters",
@@ -17,6 +117,26 @@
     "tone": 3,
     "hsk": 1,
     "radical": "木",
+    "updated": "2026-06-20"
+  },
+  {
+    "path": "pages/characters/bu4_部.html",
+    "type": "character",
+    "category": "characters",
+    "title": "部 · part, section, ministry, measure word",
+    "desc": "The right-side city-mound radical marks an administrative division. From that grows the whole family of parts and wholes: a section of something, a government ministry, a military unit, and the measure word counted out for films, machines, and phones.",
+    "tags": [
+      "society",
+      "meaning",
+      "measure-words",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "部",
+    "pinyin": "bù",
+    "tone": 4,
+    "hsk": 2,
+    "radical": "阝",
     "updated": "2026-06-20"
   },
   {
@@ -277,126 +397,6 @@
     "tone": 4,
     "hsk": 1,
     "radical": "氵",
-    "updated": "2026-06-20"
-  },
-  {
-    "path": "pages/characters/hou4_候.html",
-    "type": "character",
-    "category": "characters",
-    "title": "候 · to wait, time, season, climate",
-    "desc": "A person standing watch beside the road. From the figure of one who waits and watches grows the everyday word for when (时候), the act of awaiting (等候), and the long rhythm of the weather (气候).",
-    "tags": [
-      "time",
-      "weather",
-      "daily-life",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "候",
-    "pinyin": "hòu",
-    "tone": 4,
-    "hsk": 1,
-    "radical": "亻",
-    "updated": "2026-06-20"
-  },
-  {
-    "path": "pages/characters/hua1_花.html",
-    "type": "character",
-    "category": "characters",
-    "title": "花 · flower, to spend, patterned",
-    "desc": "A plant caught in its transformed, blooming state: the flower, the act of spending money or time, and the patterned, fancy, or blurred. One glyph that runs from the garden to the wallet to the dazzled eye.",
-    "tags": [
-      "nature",
-      "culture",
-      "meaning",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "花",
-    "pinyin": "huā",
-    "tone": 1,
-    "hsk": 1,
-    "radical": "艹",
-    "updated": "2026-06-20"
-  },
-  {
-    "path": "pages/characters/hua4_话.html",
-    "type": "character",
-    "category": "characters",
-    "title": "话 · words, speech, talk, language",
-    "desc": "Speech beside a tongue: the everyday character for spoken words. From it grow talking and conversation, the telephone, a dialect or standard language, and the topics and sayings people pass around.",
-    "tags": [
-      "language",
-      "communication",
-      "spoken",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "话",
-    "pinyin": "huà",
-    "tone": 4,
-    "hsk": 1,
-    "radical": "讠",
-    "updated": "2026-06-20"
-  },
-  {
-    "path": "pages/characters/huan1_欢.html",
-    "type": "character",
-    "category": "characters",
-    "title": "欢 · joy, merry, to be pleased",
-    "desc": "A breath of open delight: the hand and the open mouth that make laughter. From this glyph come joy and merriment, to like and to welcome, and the lively, high-spirited mood.",
-    "tags": [
-      "emotion",
-      "culture",
-      "characters",
-      "feeling"
-    ],
-    "status": "complete",
-    "char": "欢",
-    "pinyin": "huān",
-    "tone": 1,
-    "hsk": 1,
-    "radical": "欠",
-    "updated": "2026-06-20"
-  },
-  {
-    "path": "pages/characters/hui2_回.html",
-    "type": "character",
-    "category": "characters",
-    "title": "回 · to return, to turn back, a time",
-    "desc": "Two squares nested like a coiling eddy. The character for coming back: returning home, turning around, replying, and counting the times a thing happens.",
-    "tags": [
-      "motion",
-      "meaning",
-      "measure-words",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "回",
-    "pinyin": "huí",
-    "tone": 2,
-    "hsk": 1,
-    "radical": "囗",
-    "updated": "2026-06-20"
-  },
-  {
-    "path": "pages/characters/ji4_记.html",
-    "type": "character",
-    "category": "characters",
-    "title": "记 · to remember, to record, a mark",
-    "desc": "Speech set beside the self: the act of fixing something so it will not be lost. From that image grow three senses: to remember, to write down, and the mark left behind.",
-    "tags": [
-      "memory",
-      "communication",
-      "meaning",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "记",
-    "pinyin": "jì",
-    "tone": 4,
-    "hsk": 1,
-    "radical": "讠",
     "updated": "2026-06-20"
   }
 ]

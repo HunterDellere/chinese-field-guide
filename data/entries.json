@@ -1,5 +1,105 @@
 [
   {
+    "path": "pages/characters/ding4_定.html",
+    "type": "character",
+    "category": "characters",
+    "title": "定 · to fix, settle, decide, surely",
+    "desc": "A settling element coming to rest under a roof. From that image of a thing made still and fixed in place grows the whole field of 定: to decide, to set, the fixed and stable, the certain and sure.",
+    "tags": [
+      "meaning",
+      "timing",
+      "evaluation",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "定",
+    "pinyin": "dìng",
+    "tone": 4,
+    "hsk": 2,
+    "radical": "宀",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/er2_而.html",
+    "type": "character",
+    "category": "characters",
+    "title": "而 · and, but, yet (a classical connective)",
+    "desc": "A pictograph of a beard, borrowed early as one of the busiest function words in literary Chinese. 而 links clause to clause as and, but, or yet, ties manner to verb, and frames set phrases like 而且 and 而已.",
+    "tags": [
+      "conjunction",
+      "cohesion",
+      "classical",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "而",
+    "pinyin": "ér",
+    "tone": 2,
+    "hsk": 2,
+    "radical": "而",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/hua4_画.html",
+    "type": "character",
+    "category": "characters",
+    "title": "画 · to draw, a painting, a stroke",
+    "desc": "A hand with a brush drawing the boundaries of a field. From that image grows the whole world of pictures: to paint, a painting, and the single stroke of a character.",
+    "tags": [
+      "arts",
+      "calligraphy",
+      "culture",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "画",
+    "pinyin": "huà",
+    "tone": 4,
+    "hsk": 2,
+    "radical": "田",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/jie2_节.html",
+    "type": "character",
+    "category": "characters",
+    "title": "节 · joint, node, festival, to economize",
+    "desc": "A bamboo joint, the segment between the knots. From that node grows everything that comes in sections: the joint of a limb, the chapter of a book, the festival that knots the calendar, and the restraint that keeps a thing within bounds.",
+    "tags": [
+      "festival",
+      "calendar",
+      "daily-life",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "节",
+    "pinyin": "jié",
+    "tone": 2,
+    "hsk": 2,
+    "radical": "艹",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/sheng1_声.html",
+    "type": "character",
+    "category": "characters",
+    "title": "声 · sound, voice, tone, reputation",
+    "desc": "A chime-stone struck before a listening ear. From that image grow the everyday word for sound and voice, the tone of speech, and the wider sense of making something known: a declaration, a reputation, a name.",
+    "tags": [
+      "phonology",
+      "perception",
+      "communication",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "声",
+    "pinyin": "shēng",
+    "tone": 1,
+    "hsk": 2,
+    "radical": "士",
+    "updated": "2026-06-21"
+  },
+  {
     "path": "pages/characters/ben3_本.html",
     "type": "character",
     "category": "characters",
@@ -17,6 +117,26 @@
     "tone": 3,
     "hsk": 1,
     "radical": "木",
+    "updated": "2026-06-20"
+  },
+  {
+    "path": "pages/characters/bu4_部.html",
+    "type": "character",
+    "category": "characters",
+    "title": "部 · part, section, ministry, measure word",
+    "desc": "The right-side city-mound radical marks an administrative division. From that grows the whole family of parts and wholes: a section of something, a government ministry, a military unit, and the measure word counted out for films, machines, and phones.",
+    "tags": [
+      "society",
+      "meaning",
+      "measure-words",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "部",
+    "pinyin": "bù",
+    "tone": 4,
+    "hsk": 2,
+    "radical": "阝",
     "updated": "2026-06-20"
   },
   {
@@ -480,6 +600,26 @@
     "updated": "2026-06-20"
   },
   {
+    "path": "pages/characters/li3_理.html",
+    "type": "character",
+    "category": "characters",
+    "title": "理 · principle, reason, to manage, texture",
+    "desc": "The veins running through a piece of jade, the lines a carver follows when cutting. From that grain grows everything ordered: the inner pattern of things, principle and reason, and the work of putting a matter in order.",
+    "tags": [
+      "principle",
+      "philosophy",
+      "meaning",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "理",
+    "pinyin": "lǐ",
+    "tone": 3,
+    "hsk": 2,
+    "radical": "王",
+    "updated": "2026-06-20"
+  },
+  {
     "path": "pages/characters/men2_门.html",
     "type": "character",
     "category": "characters",
@@ -517,6 +657,26 @@
     "tone": 4,
     "hsk": 1,
     "radical": "面",
+    "updated": "2026-06-20"
+  },
+  {
+    "path": "pages/characters/ran2_然.html",
+    "type": "character",
+    "category": "characters",
+    "title": "然 · so, thus, the -ly manner suffix",
+    "desc": "A character that once meant to burn and was borrowed for the abstract sense so, correct, this-is-how-it-is. Today it builds the connectives 然后 and 然而, the conjunctions 当然 and 虽然, and rides as a -ly suffix on words like 忽然 and 突然.",
+    "tags": [
+      "logic",
+      "cohesion",
+      "meaning",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "然",
+    "pinyin": "rán",
+    "tone": 2,
+    "hsk": 2,
+    "radical": "灬",
     "updated": "2026-06-20"
   },
   {
@@ -816,6 +976,26 @@
     "tone": 3,
     "hsk": 1,
     "radical": "子",
+    "updated": "2026-06-20"
+  },
+  {
+    "path": "pages/characters/zi4_自.html",
+    "type": "character",
+    "category": "characters",
+    "title": "自 · self, from, naturally",
+    "desc": "A picture of a nose, the thing an ancient speaker pointed at to mean me. From that gesture grows the self, the source a thing comes from, and the sense of a thing acting of its own accord.",
+    "tags": [
+      "identity",
+      "freedom",
+      "meaning",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "自",
+    "pinyin": "zì",
+    "tone": 4,
+    "hsk": 2,
+    "radical": "自",
     "updated": "2026-06-20"
   },
   {
