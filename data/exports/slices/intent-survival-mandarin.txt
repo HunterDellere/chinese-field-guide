@@ -143,7 +143,6 @@
 班门弄斧	bān mén nòng fǔ	Showing Off Before the Master — Brandishing an axe at Lu Ban's door: the idiom for presuming to display skill before someone who has mastered it.
 东施效颦	Dōng Shī xiào pín	to imitate blindly without understanding, and make things worse — A homely woman copies Xi Shi's famous frown and clears the street: Zhuangzi's parable about form without essence.
 君子不器	jūn zǐ bù qì	the exemplary person is not a vessel — Confucius says the junzi is not a utensil: not defined by function, not limited to one use. The Analects' argument against reducing a person to their usefulness.
-三人成虎	sān rén chéng hǔ	three people make a tiger — A minister warns his king: if three people all claim there is a tiger in the marketplace, even the skeptical will believe it. The Zhanguo Ce parable of rumor that outlasts the warning against it.
 山清水秀	shān qīng shuǐ xiù	Mountains Clear, Waters Lovely — Clear mountains, lovely waters. The standard Chinese phrase for a picturesque landscape: four characters that compress the whole aesthetic vocabulary of natural beauty.
 事与愿违	shì yǔ yuàn wéi	things go contrary to ones wishes — Traced to Ruan Ji of the Seven Sages of the Bamboo Grove: a literary formulation of the gap between intention and outcome, resigned rather than accusatory, with no blame assigned.
 一毛不拔	yī máo bù bá	Not Give Even a Hair — Refuse to give even a single hair from your body. Mencius's phrase for the Yangist philosophy of radical self-preservation, and the word for a miser that it became.
@@ -156,6 +155,7 @@
 可能	kěn éng	maybe, possible — The all-purpose word for possibility, working as adverb, adjective, and noun, and how it differs from 也许, 或许, 大概, and the modal 会.
 来	lái / qù	去 · directional complements — 上来, 下去, 出去, 进来: the motion complement system mapped.
 连…都/也	lián … dōu / yě	even X — The intensifier construction: raising the stakes of a claim.
+量词	liàng cí	measure words — 个, 只, 条, 本, 张: the classifier taxonomy and the logic behind it.
 没有	méi yǒu	negation of possession and past action — The two most important negation characters, 不 and 没, and why they cannot be swapped.
 起来	qǐ lái	directional complement: upward, inward, beginning — The most versatile directional complement in Mandarin: three distinct grammatical lives.
 是…的	shì … de	the cleft construction — Focus and past-detail marking: the construction that trips every learner.
@@ -166,6 +166,7 @@
 一点儿 / 有点儿	yì diǎn r / yǒu diǎn r	a little — The classic confusion pair: 有点儿 comes before an adjective and leans negative ("a bit too…"), while 一点儿 comes after and is neutral ("a little more").
 一下	yí xià	the verb-softener — The verbal-quantity word that makes an action brief and casual, how verb + 一下 softens a request, and how it differs from verb reduplication and from the time-word 一会儿.
 一样 / 像	yí yàng / xiàng	same and similar — How to say two things are the same (A 跟 B 一样) or alike (A 像 B), and how this differs from the unequal comparison with 比.
+已经	yǐ jīng	already — Mandarin's 'already' adverb: how 已经 differs from English, its placement before the verb, and its relationship with 了 and 还没有.
 因为…所以	yīn wèi suǒ yǐ	because…therefore — The causal conjunction pair: 因为 states the cause and 所以 announces the result, forming a two-clause logical structure that Chinese uses more explicitly than English.
 越来越	yu è lái yu è	more and more; increasingly — The degree escalation pattern: expressing a quality that grows continuously over time.
 在	zài	location, existence, and the progressive — One of the busiest words in Mandarin: the verb "to be at," the location coverb "at/in," and the progressive marker for ongoing action.

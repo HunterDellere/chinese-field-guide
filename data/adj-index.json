@@ -1549,6 +1549,21 @@
     ],
     "hasPage": false
   },
+  "心": {
+    "cn": "心",
+    "py": "xīn",
+    "en": "heart; mind",
+    "count": 6,
+    "appearsOn": [
+      "pages/characters/nian4_念.html",
+      "pages/characters/si1_思.html",
+      "pages/characters/xiang3_想.html",
+      "pages/characters/yi4_意.html",
+      "pages/characters/zhong1_中.html",
+      "pages/vocab/liangxin_良心.html"
+    ],
+    "hasPage": true
+  },
   "云": {
     "cn": "云",
     "py": "yún",
@@ -2140,17 +2155,45 @@
     ],
     "hasPage": false
   },
-  "心": {
-    "cn": "心",
-    "py": "xīn",
-    "en": "heart; mind",
+  "已经": {
+    "cn": "已经",
+    "py": "yǐjīng",
+    "en": "already",
     "count": 5,
     "appearsOn": [
-      "pages/characters/nian4_念.html",
-      "pages/characters/si1_思.html",
-      "pages/characters/xiang3_想.html",
-      "pages/characters/zhong1_中.html",
-      "pages/vocab/liangxin_良心.html"
+      "pages/characters/jing1_经.html",
+      "pages/grammar/dou_都.html",
+      "pages/grammar/hai_还.html",
+      "pages/grammar/jiu_cai_就才.html",
+      "pages/grammar/le_了.html"
+    ],
+    "hasPage": true
+  },
+  "意思": {
+    "cn": "意思",
+    "py": "yìsi",
+    "en": "meaning",
+    "count": 5,
+    "appearsOn": [
+      "pages/characters/yi4_意.html",
+      "pages/vocab/juede_觉得.html",
+      "pages/vocab/li3_礼.html",
+      "pages/vocab/wenti_问题.html",
+      "pages/vocab/yi4_义.html"
+    ],
+    "hasPage": true
+  },
+  "语言": {
+    "cn": "语言",
+    "py": "yǔyán",
+    "en": "language",
+    "count": 5,
+    "appearsOn": [
+      "pages/characters/ci2_词.html",
+      "pages/characters/hua4_话.html",
+      "pages/families/collections.html",
+      "pages/families/explore.html",
+      "pages/families/topics.html"
     ],
     "hasPage": true
   },
@@ -2179,6 +2222,20 @@
       "pages/grammar/zai_在.html",
       "pages/grammar/zhe_particle_呢.html",
       "pages/grammar/zhe_着.html"
+    ],
+    "hasPage": true
+  },
+  "字": {
+    "cn": "字",
+    "py": "zì",
+    "en": "character; glyph",
+    "count": 5,
+    "appearsOn": [
+      "pages/characters/ci2_词.html",
+      "pages/characters/hua4_话.html",
+      "pages/characters/ming2_名.html",
+      "pages/characters/wen2_文.html",
+      "pages/characters/xie3_写.html"
     ],
     "hasPage": true
   },
@@ -2246,6 +2303,19 @@
       "pages/grammar/yidian_youdian_一点儿有点儿.html",
       "pages/grammar/yiyang_xiang_一样像.html",
       "pages/vocab/bijiao_比较.html"
+    ],
+    "hasPage": true
+  },
+  "变": {
+    "cn": "变",
+    "py": "biàn",
+    "en": "to change",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/cheng2_成.html",
+      "pages/characters/qian1_千.html",
+      "pages/characters/xin1_新.html",
+      "pages/philosophy/topic_yijing.html"
     ],
     "hasPage": true
   },
@@ -2847,6 +2917,19 @@
     ],
     "hasPage": false
   },
+  "诗": {
+    "cn": "诗",
+    "py": "shī",
+    "en": "poem; regulated verse",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/ci2_词.html",
+      "pages/characters/du2_读.html",
+      "pages/characters/wen2_文.html",
+      "pages/characters/yan2_言.html"
+    ],
+    "hasPage": false
+  },
   "诗词": {
     "cn": "诗词",
     "py": "shī cí",
@@ -3146,19 +3229,6 @@
     ],
     "hasPage": false
   },
-  "已经": {
-    "cn": "已经",
-    "py": "yǐjīng",
-    "en": "already",
-    "count": 4,
-    "appearsOn": [
-      "pages/grammar/dou_都.html",
-      "pages/grammar/hai_还.html",
-      "pages/grammar/jiu_cai_就才.html",
-      "pages/grammar/le_了.html"
-    ],
-    "hasPage": true
-  },
   "义气": {
     "cn": "义气",
     "py": "yìqì",
@@ -3172,31 +3242,18 @@
     ],
     "hasPage": false
   },
-  "意思": {
-    "cn": "意思",
-    "py": "yìsi",
-    "en": "meaning; idea",
+  "意义": {
+    "cn": "意义",
+    "py": "yìyì",
+    "en": "significance",
     "count": 4,
     "appearsOn": [
-      "pages/vocab/juede_觉得.html",
-      "pages/vocab/li3_礼.html",
-      "pages/vocab/wenti_问题.html",
-      "pages/vocab/yi4_义.html"
+      "pages/characters/yi4_意.html",
+      "pages/vocab/rensheng_人生.html",
+      "pages/vocab/yi4_义.html",
+      "pages/vocab/yisi_意思.html"
     ],
-    "hasPage": true
-  },
-  "语言": {
-    "cn": "语言",
-    "py": "yǔyán",
-    "en": "language",
-    "count": 4,
-    "appearsOn": [
-      "pages/characters/hua4_话.html",
-      "pages/families/collections.html",
-      "pages/families/explore.html",
-      "pages/families/topics.html"
-    ],
-    "hasPage": true
+    "hasPage": false
   },
   "原来": {
     "cn": "原来",
@@ -3208,6 +3265,19 @@
       "pages/characters/lai2_来.html",
       "pages/characters/zhen1_真.html",
       "pages/vocab/qishi_其实.html"
+    ],
+    "hasPage": false
+  },
+  "愿意": {
+    "cn": "愿意",
+    "py": "yuànyì",
+    "en": "be willing",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/yi4_意.html",
+      "pages/grammar/hui_neng_keyi_会能可以.html",
+      "pages/vocab/xihuan_喜欢.html",
+      "pages/vocab/xiwang_希望.html"
     ],
     "hasPage": false
   },
@@ -3301,19 +3371,6 @@
       "pages/philosophy/topic_sunzibingfa.html"
     ],
     "hasPage": false
-  },
-  "字": {
-    "cn": "字",
-    "py": "zì",
-    "en": "written character",
-    "count": 4,
-    "appearsOn": [
-      "pages/characters/hua4_话.html",
-      "pages/characters/ming2_名.html",
-      "pages/characters/wen2_文.html",
-      "pages/characters/xie3_写.html"
-    ],
-    "hasPage": true
   },
   "宗教地图": {
     "cn": "宗教地图",
@@ -3449,18 +3506,6 @@
       "pages/characters/shu1_书.html"
     ],
     "hasPage": false
-  },
-  "变": {
-    "cn": "变",
-    "py": "biàn",
-    "en": "to change",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/qian1_千.html",
-      "pages/characters/xin1_新.html",
-      "pages/philosophy/topic_yijing.html"
-    ],
-    "hasPage": true
   },
   "不": {
     "cn": "不",
@@ -3701,6 +3746,18 @@
       "pages/characters/yi1_一.html"
     ],
     "hasPage": true
+  },
+  "方法": {
+    "cn": "方法",
+    "py": "fāngfǎ",
+    "en": "method; approach",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/dao4_道.html",
+      "pages/characters/fa3_法.html",
+      "pages/characters/fang1_方.html"
+    ],
+    "hasPage": false
   },
   "方位": {
     "cn": "方位",
@@ -3987,6 +4044,18 @@
       "pages/characters/jin4_进.html",
       "pages/grammar/ba_把.html",
       "pages/grammar/qilai_起来.html"
+    ],
+    "hasPage": false
+  },
+  "经验": {
+    "cn": "经验",
+    "py": "jīngyàn",
+    "en": "experience; know-how",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/jing1_经.html",
+      "pages/characters/lao3_老.html",
+      "pages/grammar/guo_过.html"
     ],
     "hasPage": false
   },
@@ -4446,18 +4515,6 @@
     ],
     "hasPage": false
   },
-  "诗": {
-    "cn": "诗",
-    "py": "shī",
-    "en": "poetry",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/du2_读.html",
-      "pages/characters/wen2_文.html",
-      "pages/characters/yan2_言.html"
-    ],
-    "hasPage": false
-  },
   "是": {
     "cn": "是",
     "py": "shì",
@@ -4613,6 +4670,18 @@
       "pages/vocab/guanxi_关系.html"
     ],
     "hasPage": false
+  },
+  "完": {
+    "cn": "完",
+    "py": "wán",
+    "en": "to finish; whole",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/cheng2_成.html",
+      "pages/grammar/ba_把.html",
+      "pages/grammar/le_了.html"
+    ],
+    "hasPage": true
   },
   "完全": {
     "cn": "完全",
@@ -4890,18 +4959,6 @@
     ],
     "hasPage": false
   },
-  "意义": {
-    "cn": "意义",
-    "py": "yìyì",
-    "en": "meaning; significance",
-    "count": 3,
-    "appearsOn": [
-      "pages/vocab/rensheng_人生.html",
-      "pages/vocab/yi4_义.html",
-      "pages/vocab/yisi_意思.html"
-    ],
-    "hasPage": false
-  },
   "因果": {
     "cn": "因果",
     "py": "yīnguǒ",
@@ -4997,18 +5054,6 @@
       "pages/grammar/li_离.html"
     ],
     "hasPage": true
-  },
-  "愿意": {
-    "cn": "愿意",
-    "py": "yuànyì",
-    "en": "willing to",
-    "count": 3,
-    "appearsOn": [
-      "pages/grammar/hui_neng_keyi_会能可以.html",
-      "pages/vocab/xihuan_喜欢.html",
-      "pages/vocab/xiwang_希望.html"
-    ],
-    "hasPage": false
   },
   "越": {
     "cn": "越",
@@ -5302,6 +5347,17 @@
     ],
     "hasPage": false
   },
+  "办法": {
+    "cn": "办法",
+    "py": "bànfǎ",
+    "en": "a way; a solution",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/fa3_法.html",
+      "pages/characters/fang1_方.html"
+    ],
+    "hasPage": false
+  },
   "帮": {
     "cn": "帮",
     "py": "bāng",
@@ -5588,6 +5644,17 @@
     ],
     "hasPage": true
   },
+  "成功": {
+    "cn": "成功",
+    "py": "chénggōng",
+    "en": "to succeed; success",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/cheng2_成.html",
+      "pages/characters/gong1_工.html"
+    ],
+    "hasPage": false
+  },
   "诚": {
     "cn": "诚",
     "py": "chéng",
@@ -5729,7 +5796,7 @@
       "pages/characters/yan2_言.html",
       "pages/characters/zi4_字.html"
     ],
-    "hasPage": false
+    "hasPage": true
   },
   "次": {
     "cn": "次",
@@ -6050,17 +6117,6 @@
     ],
     "hasPage": true
   },
-  "方法": {
-    "cn": "方法",
-    "py": "fāngfǎ",
-    "en": "method; approach",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/dao4_道.html",
-      "pages/characters/fang1_方.html"
-    ],
-    "hasPage": false
-  },
   "方面": {
     "cn": "方面",
     "py": "fāngmiàn",
@@ -6113,6 +6169,17 @@
     "appearsOn": [
       "pages/characters/bu4_不.html",
       "pages/grammar/ruguo_ji_如果就.html"
+    ],
+    "hasPage": false
+  },
+  "佛法": {
+    "cn": "佛法",
+    "py": "Fófǎ",
+    "en": "the Dharma",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/fa3_法.html",
+      "pages/religion/topic_fojiao.html"
     ],
     "hasPage": false
   },
@@ -6556,6 +6623,17 @@
     ],
     "hasPage": false
   },
+  "合法": {
+    "cn": "合法",
+    "py": "héfǎ",
+    "en": "lawful",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/fa3_法.html",
+      "pages/characters/fei1_非.html"
+    ],
+    "hasPage": false
+  },
   "合作": {
     "cn": "合作",
     "py": "hézuò",
@@ -6985,6 +7063,50 @@
     ],
     "hasPage": false
   },
+  "经常": {
+    "cn": "经常",
+    "py": "jīngcháng",
+    "en": "often; regularly",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/chang2_常.html",
+      "pages/characters/jing1_经.html"
+    ],
+    "hasPage": false
+  },
+  "经过": {
+    "cn": "经过",
+    "py": "jīngguò",
+    "en": "to pass through",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/jing1_经.html",
+      "pages/vocab/zhongyu_终于.html"
+    ],
+    "hasPage": false
+  },
+  "经济": {
+    "cn": "经济",
+    "py": "jīngjì",
+    "en": "economy",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/jing1_经.html",
+      "pages/vocab/shehui_社会.html"
+    ],
+    "hasPage": false
+  },
+  "经历": {
+    "cn": "经历",
+    "py": "jīnglì",
+    "en": "to experience",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/jing1_经.html",
+      "pages/vocab/rensheng_人生.html"
+    ],
+    "hasPage": false
+  },
   "经络": {
     "cn": "经络",
     "py": "jīngluò",
@@ -6993,17 +7115,6 @@
     "appearsOn": [
       "pages/characters/qi4_气.html",
       "pages/vocab/zhongyi_中医.html"
-    ],
-    "hasPage": false
-  },
-  "经验": {
-    "cn": "经验",
-    "py": "jīngyàn",
-    "en": "experience",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/lao3_老.html",
-      "pages/grammar/guo_过.html"
     ],
     "hasPage": false
   },
@@ -8250,6 +8361,17 @@
     ],
     "hasPage": true
   },
+  "生词": {
+    "cn": "生词",
+    "py": "shēngcí",
+    "en": "new word",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/ci2_词.html",
+      "pages/characters/sheng1_生.html"
+    ],
+    "hasPage": false
+  },
   "生旦净末丑": {
     "cn": "生旦净末丑",
     "py": "shēng dàn jìng mò chǒu",
@@ -8800,6 +8922,17 @@
     ],
     "hasPage": false
   },
+  "通过": {
+    "cn": "通过",
+    "py": "tōngguò",
+    "en": "to pass; by means of",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/jing1_经.html",
+      "pages/characters/yi3_以.html"
+    ],
+    "hasPage": false
+  },
   "同": {
     "cn": "同",
     "py": "tóng",
@@ -8819,6 +8952,17 @@
     "appearsOn": [
       "pages/characters/tong2_同.html",
       "pages/vocab/pengyou_朋友.html"
+    ],
+    "hasPage": false
+  },
+  "同意": {
+    "cn": "同意",
+    "py": "tóngyì",
+    "en": "to agree",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/ren4_认.html",
+      "pages/characters/yi4_意.html"
     ],
     "hasPage": false
   },
@@ -8910,16 +9054,16 @@
     ],
     "hasPage": false
   },
-  "完": {
-    "cn": "完",
-    "py": "wán",
-    "en": "to finish (resultative complement)",
+  "完成": {
+    "cn": "完成",
+    "py": "wánchéng",
+    "en": "to complete",
     "count": 2,
     "appearsOn": [
-      "pages/grammar/ba_把.html",
-      "pages/grammar/le_了.html"
+      "pages/characters/cheng2_成.html",
+      "pages/characters/wan2_完.html"
     ],
-    "hasPage": true
+    "hasPage": false
   },
   "完美": {
     "cn": "完美",
@@ -9273,6 +9417,17 @@
     ],
     "hasPage": false
   },
+  "相同": {
+    "cn": "相同",
+    "py": "xiāngtóng",
+    "en": "identical",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/tong2_同.html",
+      "pages/characters/xiang1_相.html"
+    ],
+    "hasPage": false
+  },
   "香火": {
     "cn": "香火",
     "py": "xiānghuǒ",
@@ -9601,6 +9756,17 @@
     ],
     "hasPage": true
   },
+  "意见": {
+    "cn": "意见",
+    "py": "yìjiàn",
+    "en": "opinion, suggestion",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/jian4_见.html",
+      "pages/characters/yi4_意.html"
+    ],
+    "hasPage": false
+  },
   "意境": {
     "cn": "意境",
     "py": "yìjìng",
@@ -9777,6 +9943,17 @@
     ],
     "hasPage": true
   },
+  "语法": {
+    "cn": "语法",
+    "py": "yǔfǎ",
+    "en": "grammar",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/fa3_法.html",
+      "pages/characters/yu3_语.html"
+    ],
+    "hasPage": false
+  },
   "语气词": {
     "cn": "语气词",
     "py": "yǔqìcí",
@@ -9897,6 +10074,17 @@
       "pages/vocab/zhongyi_中医.html"
     ],
     "hasPage": true
+  },
+  "真相": {
+    "cn": "真相",
+    "py": "zhēnxiàng",
+    "en": "the truth",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/xiang1_相.html",
+      "pages/characters/zhen1_真.html"
+    ],
+    "hasPage": false
   },
   "整个": {
     "cn": "整个",
@@ -10214,6 +10402,17 @@
     "appearsOn": [
       "pages/vocab/mingyun_命运.html",
       "pages/vocab/yuanfen_缘分.html"
+    ],
+    "hasPage": false
+  },
+  "注意": {
+    "cn": "注意",
+    "py": "zhùyì",
+    "en": "to pay attention",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/yan3_眼.html",
+      "pages/characters/yi4_意.html"
     ],
     "hasPage": false
   },
@@ -10582,16 +10781,6 @@
     "count": 1,
     "appearsOn": [
       "pages/grammar/directional_来去.html"
-    ],
-    "hasPage": false
-  },
-  "办法": {
-    "cn": "办法",
-    "py": "bànfǎ",
-    "en": "a way; solution",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/fang1_方.html"
     ],
     "hasPage": false
   },
@@ -11575,13 +11764,43 @@
     ],
     "hasPage": false
   },
-  "成功": {
-    "cn": "成功",
-    "py": "chénggōng",
-    "en": "success; to succeed",
+  "成绩": {
+    "cn": "成绩",
+    "py": "chéngjì",
+    "en": "grades; results",
     "count": 1,
     "appearsOn": [
-      "pages/characters/gong1_工.html"
+      "pages/characters/cheng2_成.html"
+    ],
+    "hasPage": false
+  },
+  "成就": {
+    "cn": "成就",
+    "py": "chéngjiù",
+    "en": "achievement",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/cheng2_成.html"
+    ],
+    "hasPage": false
+  },
+  "成熟": {
+    "cn": "成熟",
+    "py": "chéngshú",
+    "en": "mature; ripe",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/cheng2_成.html"
+    ],
+    "hasPage": false
+  },
+  "成为": {
+    "cn": "成为",
+    "py": "chéngwéi",
+    "en": "to become",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/cheng2_成.html"
     ],
     "hasPage": false
   },
@@ -11965,6 +12184,16 @@
     ],
     "hasPage": false
   },
+  "词典": {
+    "cn": "词典",
+    "py": "cídiǎn",
+    "en": "dictionary",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ci2_词.html"
+    ],
+    "hasPage": false
+  },
   "词语": {
     "cn": "词语",
     "py": "cíyǔ",
@@ -12322,6 +12551,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/yi1_一.html"
+    ],
+    "hasPage": false
+  },
+  "单词": {
+    "cn": "单词",
+    "py": "dāncí",
+    "en": "single word",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ci2_词.html"
     ],
     "hasPage": false
   },
@@ -12925,6 +13164,16 @@
     ],
     "hasPage": true
   },
+  "动词": {
+    "cn": "动词",
+    "py": "dòngcí",
+    "en": "verb",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ci2_词.html"
+    ],
+    "hasPage": false
+  },
   "动机": {
     "cn": "动机",
     "py": "dòngjī",
@@ -13223,6 +13472,36 @@
     "appearsOn": [
       "pages/characters/dao4_道.html"
     ],
+    "hasPage": true
+  },
+  "法官": {
+    "cn": "法官",
+    "py": "fǎguān",
+    "en": "judge",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/fa3_法.html"
+    ],
+    "hasPage": false
+  },
+  "法国": {
+    "cn": "法国",
+    "py": "Fǎguó",
+    "en": "France",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/fa3_法.html"
+    ],
+    "hasPage": false
+  },
+  "法律": {
+    "cn": "法律",
+    "py": "fǎlǜ",
+    "en": "law; statute",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/fa3_法.html"
+    ],
     "hasPage": false
   },
   "翻": {
@@ -13405,6 +13684,16 @@
     ],
     "hasPage": false
   },
+  "非法": {
+    "cn": "非法",
+    "py": "fēifǎ",
+    "en": "illegal",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/fa3_法.html"
+    ],
+    "hasPage": false
+  },
   "非遗": {
     "cn": "非遗",
     "py": "fēiyí",
@@ -13542,16 +13831,6 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/renzhen_认真.html"
-    ],
-    "hasPage": false
-  },
-  "佛法": {
-    "cn": "佛法",
-    "py": "fófǎ",
-    "en": "the Dharma; Buddhist teaching",
-    "count": 1,
-    "appearsOn": [
-      "pages/religion/topic_fojiao.html"
     ],
     "hasPage": false
   },
@@ -13832,6 +14111,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/shuo1_说.html"
+    ],
+    "hasPage": false
+  },
+  "歌词": {
+    "cn": "歌词",
+    "py": "gēcí",
+    "en": "song lyrics",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ci2_词.html"
     ],
     "hasPage": false
   },
@@ -14715,16 +15004,6 @@
     ],
     "hasPage": false
   },
-  "合法": {
-    "cn": "合法",
-    "py": "héfǎ",
-    "en": "lawful; legal",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/fei1_非.html"
-    ],
-    "hasPage": false
-  },
   "何况": {
     "cn": "何况",
     "py": "hékuàng",
@@ -14952,6 +15231,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/yinyang_阴阳.html"
+    ],
+    "hasPage": false
+  },
+  "互相": {
+    "cn": "互相",
+    "py": "hùxiāng",
+    "en": "mutually",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/xiang1_相.html"
     ],
     "hasPage": false
   },
@@ -16265,43 +16554,13 @@
     ],
     "hasPage": false
   },
-  "经常": {
-    "cn": "经常",
-    "py": "jīngcháng",
-    "en": "often; regularly",
+  "经营": {
+    "cn": "经营",
+    "py": "jīngyíng",
+    "en": "to run a business",
     "count": 1,
     "appearsOn": [
-      "pages/characters/chang2_常.html"
-    ],
-    "hasPage": false
-  },
-  "经过": {
-    "cn": "经过",
-    "py": "jīngguò",
-    "en": "after; through",
-    "count": 1,
-    "appearsOn": [
-      "pages/vocab/zhongyu_终于.html"
-    ],
-    "hasPage": false
-  },
-  "经济": {
-    "cn": "经济",
-    "py": "jīngjì",
-    "en": "economy",
-    "count": 1,
-    "appearsOn": [
-      "pages/vocab/shehui_社会.html"
-    ],
-    "hasPage": false
-  },
-  "经历": {
-    "cn": "经历",
-    "py": "jīnglì",
-    "en": "experience; to go through",
-    "count": 1,
-    "appearsOn": [
-      "pages/vocab/rensheng_人生.html"
+      "pages/characters/jing1_经.html"
     ],
     "hasPage": false
   },
@@ -16582,6 +16841,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/zi4_字.html"
+    ],
+    "hasPage": false
+  },
+  "句子": {
+    "cn": "句子",
+    "py": "jùzi",
+    "en": "sentence",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ci2_词.html"
     ],
     "hasPage": false
   },
@@ -18045,6 +18314,16 @@
     ],
     "hasPage": false
   },
+  "满意": {
+    "cn": "满意",
+    "py": "mǎnyì",
+    "en": "satisfied",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/yi4_意.html"
+    ],
+    "hasPage": false
+  },
   "满足": {
     "cn": "满足",
     "py": "mǎnzú",
@@ -18352,6 +18631,16 @@
     "count": 1,
     "appearsOn": [
       "pages/philosophy/topic_zhengming.html"
+    ],
+    "hasPage": false
+  },
+  "名词": {
+    "cn": "名词",
+    "py": "míngcí",
+    "en": "noun",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ci2_词.html"
     ],
     "hasPage": false
   },
@@ -20735,16 +21024,6 @@
     ],
     "hasPage": false
   },
-  "生词": {
-    "cn": "生词",
-    "py": "shēngcí",
-    "en": "new vocabulary word",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/sheng1_生.html"
-    ],
-    "hasPage": false
-  },
   "生命": {
     "cn": "生命",
     "py": "shēngmìng",
@@ -20792,6 +21071,16 @@
     "count": 1,
     "appearsOn": [
       "pages/religion/topic_yisilan.html"
+    ],
+    "hasPage": false
+  },
+  "失败": {
+    "cn": "失败",
+    "py": "shībài",
+    "en": "to fail; failure",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/cheng2_成.html"
     ],
     "hasPage": false
   },
@@ -22315,16 +22604,6 @@
     ],
     "hasPage": false
   },
-  "通过": {
-    "cn": "通过",
-    "py": "tōngguò",
-    "en": "through; by means of (modern colloquial)",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/yi3_以.html"
-    ],
-    "hasPage": false
-  },
   "同胞": {
     "cn": "同胞",
     "py": "tóngbāo",
@@ -22352,16 +22631,6 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/yang4_样.html"
-    ],
-    "hasPage": false
-  },
-  "同意": {
-    "cn": "同意",
-    "py": "tóngyì",
-    "en": "to agree",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/ren4_认.html"
     ],
     "hasPage": false
   },
@@ -22502,16 +22771,6 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/wai4_外.html"
-    ],
-    "hasPage": false
-  },
-  "完成": {
-    "cn": "完成",
-    "py": "wánchéng",
-    "en": "to complete, accomplish",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/wan2_完.html"
     ],
     "hasPage": false
   },
@@ -22712,6 +22971,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/junzi_君子.html"
+    ],
+    "hasPage": false
+  },
+  "纬": {
+    "cn": "纬",
+    "py": "wěi",
+    "en": "weft thread; latitude",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jing1_经.html"
     ],
     "hasPage": false
   },
@@ -23002,6 +23271,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/wuwei_无为.html"
+    ],
+    "hasPage": false
+  },
+  "无意": {
+    "cn": "无意",
+    "py": "wúyì",
+    "en": "unintentional",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/yi4_意.html"
     ],
     "hasPage": false
   },
@@ -23545,13 +23824,43 @@
     ],
     "hasPage": false
   },
-  "相同": {
-    "cn": "相同",
-    "py": "xiāngtóng",
-    "en": "identical",
+  "相处": {
+    "cn": "相处",
+    "py": "xiāngchǔ",
+    "en": "to get along",
     "count": 1,
     "appearsOn": [
-      "pages/characters/tong2_同.html"
+      "pages/characters/xiang1_相.html"
+    ],
+    "hasPage": false
+  },
+  "相反": {
+    "cn": "相反",
+    "py": "xiāngfǎn",
+    "en": "opposite; contrary",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/xiang1_相.html"
+    ],
+    "hasPage": false
+  },
+  "相机": {
+    "cn": "相机",
+    "py": "xiàngjī",
+    "en": "camera",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/xiang1_相.html"
+    ],
+    "hasPage": false
+  },
+  "相信": {
+    "cn": "相信",
+    "py": "xiāngxìn",
+    "en": "to trust; to believe",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/xiang1_相.html"
     ],
     "hasPage": false
   },
@@ -24993,17 +25302,7 @@
     "appearsOn": [
       "pages/characters/xin1_心.html"
     ],
-    "hasPage": false
-  },
-  "意见": {
-    "cn": "意见",
-    "py": "yìjiàn",
-    "en": "opinion, suggestion",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/jian4_见.html"
-    ],
-    "hasPage": false
+    "hasPage": true
   },
   "意图": {
     "cn": "意图",
@@ -25382,16 +25681,6 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/qi2_其.html"
-    ],
-    "hasPage": false
-  },
-  "语法": {
-    "cn": "语法",
-    "py": "yǔfǎ",
-    "en": "grammar",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/yu3_语.html"
     ],
     "hasPage": false
   },
@@ -25805,6 +26094,16 @@
     ],
     "hasPage": false
   },
+  "宰相": {
+    "cn": "宰相",
+    "py": "zǎixiàng",
+    "en": "chief minister",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/xiang1_相.html"
+    ],
+    "hasPage": false
+  },
   "再次": {
     "cn": "再次",
     "py": "zàicì",
@@ -26125,6 +26424,26 @@
     ],
     "hasPage": false
   },
+  "照片": {
+    "cn": "照片",
+    "py": "zhàopiàn",
+    "en": "photograph",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/xiang1_相.html"
+    ],
+    "hasPage": false
+  },
+  "照相": {
+    "cn": "照相",
+    "py": "zhàoxiàng",
+    "en": "to take a photo",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/xiang1_相.html"
+    ],
+    "hasPage": false
+  },
   "这不是嘛": {
     "cn": "这不是嘛",
     "py": "zhè bú shì ma",
@@ -26182,16 +26501,6 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/dao4_道.html"
-    ],
-    "hasPage": false
-  },
-  "真相": {
-    "cn": "真相",
-    "py": "zhēnxiàng",
-    "en": "the truth of the matter",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/zhen1_真.html"
     ],
     "hasPage": false
   },
@@ -26825,6 +27134,16 @@
     ],
     "hasPage": false
   },
+  "主意": {
+    "cn": "主意",
+    "py": "zhǔyi",
+    "en": "an idea; plan",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/yi4_意.html"
+    ],
+    "hasPage": false
+  },
   "助手": {
     "cn": "助手",
     "py": "zhùshǒu",
@@ -26832,16 +27151,6 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/bangzhu_帮助.html"
-    ],
-    "hasPage": false
-  },
-  "注意": {
-    "cn": "注意",
-    "py": "zhùyì",
-    "en": "to pay attention",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/yan3_眼.html"
     ],
     "hasPage": false
   },

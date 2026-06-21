@@ -60,6 +60,46 @@
     "updated": "2026-06-20"
   },
   {
+    "path": "pages/characters/cheng2_成.html",
+    "type": "character",
+    "category": "characters",
+    "title": "成 · to become, succeed, accomplished",
+    "desc": "A halberd standing guard over a finished task. From that image grows the whole field of completion: to become, to succeed, to accomplish, the ready-made and the mature, and even the colloquial yes that settles a matter.",
+    "tags": [
+      "meaning",
+      "evaluation",
+      "change",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "成",
+    "pinyin": "chéng",
+    "tone": 2,
+    "hsk": 2,
+    "radical": "戈",
+    "updated": "2026-06-20"
+  },
+  {
+    "path": "pages/characters/ci2_词.html",
+    "type": "character",
+    "category": "characters",
+    "title": "词 · word, term, diction, the sung lyric",
+    "desc": "Speech beside a phonetic 司: the unit we call a word, the wording a speaker chooses, and the classical lyric form that grew up beside regulated verse to be sung to set tune-patterns.",
+    "tags": [
+      "language",
+      "literature",
+      "communication",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "词",
+    "pinyin": "cí",
+    "tone": 2,
+    "hsk": 2,
+    "radical": "讠",
+    "updated": "2026-06-20"
+  },
+  {
     "path": "pages/characters/di4_第.html",
     "type": "character",
     "category": "characters",
@@ -117,6 +157,26 @@
     "tone": 4,
     "hsk": 1,
     "radical": "力",
+    "updated": "2026-06-20"
+  },
+  {
+    "path": "pages/characters/fa3_法.html",
+    "type": "character",
+    "category": "characters",
+    "title": "法 · law, method, the Dharma",
+    "desc": "Water against the level mark. From that image of fair, flowing measure grows the whole field of 法: the law and the court, the method and the way of doing a thing, and the Buddhist Dharma itself.",
+    "tags": [
+      "legal",
+      "religion",
+      "meaning",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "法",
+    "pinyin": "fǎ",
+    "tone": 3,
+    "hsk": 2,
+    "radical": "氵",
     "updated": "2026-06-20"
   },
   {
@@ -400,6 +460,26 @@
     "updated": "2026-06-20"
   },
   {
+    "path": "pages/characters/jing1_经.html",
+    "type": "character",
+    "category": "characters",
+    "title": "经 · classic, scripture, to pass through, warp threads",
+    "desc": "The lengthwise warp threads strung on a loom, the structural through-lines that hold a fabric together. From that image grow the canonical classic, the act of passing through, and the running of an enterprise.",
+    "tags": [
+      "classics",
+      "commerce",
+      "meaning",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "经",
+    "pinyin": "jīng",
+    "tone": 1,
+    "hsk": 2,
+    "radical": "纟",
+    "updated": "2026-06-20"
+  },
+  {
     "path": "pages/characters/men2_门.html",
     "type": "character",
     "category": "characters",
@@ -620,6 +700,26 @@
     "updated": "2026-06-20"
   },
   {
+    "path": "pages/characters/xiang1_相.html",
+    "type": "character",
+    "category": "characters",
+    "title": "相 · mutual, appearance, to examine, minister",
+    "desc": "An eye examining a tree. From that act of looking grow two readings: level-tone xiang, the mutual that binds two sides face to face, and falling-tone xiang, the appearance you look at, the looking itself, and the minister who looks over the realm.",
+    "tags": [
+      "perception",
+      "society",
+      "meaning",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "相",
+    "pinyin": "xiāng",
+    "tone": 1,
+    "hsk": 2,
+    "radical": "目",
+    "updated": "2026-06-20"
+  },
+  {
     "path": "pages/characters/yang4_样.html",
     "type": "character",
     "category": "characters",
@@ -636,6 +736,26 @@
     "tone": 4,
     "hsk": 1,
     "radical": "木",
+    "updated": "2026-06-20"
+  },
+  {
+    "path": "pages/characters/yi4_意.html",
+    "type": "character",
+    "category": "characters",
+    "title": "意 · meaning, intention, the wish of the mind",
+    "desc": "Sound over heart: 意 is what the heart means before it is spoken. From that image grows meaning and significance, intention and willingness, and the notions of attention, satisfaction, and the unexpected.",
+    "tags": [
+      "meaning",
+      "mind",
+      "emotion",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "意",
+    "pinyin": "yì",
+    "tone": 4,
+    "hsk": 2,
+    "radical": "心",
     "updated": "2026-06-20"
   },
   {

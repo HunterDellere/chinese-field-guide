@@ -6,7 +6,7 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A reading nook for Chinese language and civilisation. Characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 21 Jun 2026 01:50:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 12:31:49 GMT</lastBuildDate>
     <item>
       <title>本 · root, origin, this, a book</title>
       <link>https://jiaoshoo.com/pages/characters/ben3_本.html</link>
@@ -32,6 +32,22 @@
       <category>characters</category>
     </item>
     <item>
+      <title>成 · to become, succeed, accomplished</title>
+      <link>https://jiaoshoo.com/pages/characters/cheng2_成.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/cheng2_成.html</guid>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
+      <description>A halberd standing guard over a finished task. From that image grows the whole field of completion: to become, to succeed, to accomplish, the ready-made and the mature, and even the colloquial yes that settles a matter.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>词 · word, term, diction, the sung lyric</title>
+      <link>https://jiaoshoo.com/pages/characters/ci2_词.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/ci2_词.html</guid>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Speech beside a phonetic 司: the unit we call a word, the wording a speaker chooses, and the classical lyric form that grew up beside regulated verse to be sung to set tune-patterns.</description>
+      <category>characters</category>
+    </item>
+    <item>
       <title>第 · the ordinal prefix, rank, mansion</title>
       <link>https://jiaoshoo.com/pages/characters/di4_第.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/di4_第.html</guid>
@@ -53,6 +69,14 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/dong4_动.html</guid>
       <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
       <description>Force applied to a thing sets it in motion. From that one idea grow the words for sport and activity, for the stirred heart, for the drive that pushes a machine or a life forward, and for the verb itself.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>法 · law, method, the Dharma</title>
+      <link>https://jiaoshoo.com/pages/characters/fa3_法.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/fa3_法.html</guid>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Water against the level mark. From that image of fair, flowing measure grows the whole field of 法: the law and the court, the method and the way of doing a thing, and the Buddhist Dharma itself.</description>
       <category>characters</category>
     </item>
     <item>
@@ -168,6 +192,14 @@
       <category>characters</category>
     </item>
     <item>
+      <title>经 · classic, scripture, to pass through, warp threads</title>
+      <link>https://jiaoshoo.com/pages/characters/jing1_经.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/jing1_经.html</guid>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
+      <description>The lengthwise warp threads strung on a loom, the structural through-lines that hold a fabric together. From that image grow the canonical classic, the act of passing through, and the running of an enterprise.</description>
+      <category>characters</category>
+    </item>
+    <item>
       <title>门 · door, gate, family, field</title>
       <link>https://jiaoshoo.com/pages/characters/men2_门.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/men2_门.html</guid>
@@ -213,38 +245,6 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/tong2_同.html</guid>
       <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
       <description>Voices joined under one cover: the character for sameness and shared ground. From it grow the words for being alike, doing things together, and the people who share your role, your class, your cause.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>外 · outside, outer, foreign, besides</title>
-      <link>https://jiaoshoo.com/pages/characters/wai4_外.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/wai4_外.html</guid>
-      <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
-      <description>A diviner reading the shells at the wrong hour, off the normal schedule. From that image grows everything beyond the boundary: the outside, the outer surface, the foreign land, and the relatives on the mother&apos;s side.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>问 · to ask, to inquire, to ask after</title>
-      <link>https://jiaoshoo.com/pages/characters/wen4_问.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/wen4_问.html</guid>
-      <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
-      <description>A mouth at the gate, asking. From that image grow the everyday verb to ask, the noun for a question or problem, the warm act of asking after someone, and the stern act of holding to account.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>喜 · joy, to like, happy events</title>
-      <link>https://jiaoshoo.com/pages/characters/xi3_喜.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/xi3_喜.html</guid>
-      <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
-      <description>A festive drum sounding above an open mouth: the sound of joy and the smiling mouth that answers it. From this image grow the words for liking, delight, and every happy occasion, above all the wedding.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>系 · to connect, system, department</title>
-      <link>https://jiaoshoo.com/pages/characters/xi4_系.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/xi4_系.html</guid>
-      <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
-      <description>A hand holding silk threads. From that image of holding strands together come the great connecting words of modern Chinese: the system, the relationship, the link, the university department, and the colloquial act of tying a knot.</description>
       <category>characters</category>
     </item>
   </channel>

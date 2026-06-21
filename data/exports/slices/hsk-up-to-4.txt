@@ -12,8 +12,10 @@
 茶	chá	tea — The character that gave the world its word for tea: a grass over wood over man, a plant that shaped civilization, and the locus of China's richest material culture.
 产	chǎn	to produce, give birth, property, output — From birth to bounty: a character that spans biological generation and industrial output, linking the miracle of birth to the logic of production and wealth.
 常	cháng	constant, ordinary, often — A long banner of cloth that came to mean what endures: the constant and the lasting, the ordinary and the common, and the things that happen again and again.
+成	chéng	to become, succeed, accomplished — A halberd standing guard over a finished task. From that image grows the whole field of completion: to become, to succeed, to accomplish, the ready-made and the mature, and even the colloquial yes that settles a matter.
 吃	chī	to eat — To eat, and the extraordinary range of Chinese life encoded in a single food verb.
 出	chū	to exit, to emerge, to produce — 出 is two plants growing upward out of the earth: emergence itself written as a glyph, from physical exits to publication to standing out from the crowd.
+词	cí	word, term, diction, the sung lyric — Speech beside a phonetic 司: the unit we call a word, the wording a speaker chooses, and the classical lyric form that grew up beside regulated verse to be sung to set tune-patterns.
 打	dǎ	to hit, to strike; the most versatile verb in Mandarin — To hit, and a hundred extensions: make a call, play a sport, pack a bag, get an injection. The most productive light verb in Chinese.
 大	dà	big, great, large — Big, great, large: a person with arms wide open, the original measure of magnitude.
 到	dào	to arrive, to reach; to — As a resultative complement suffix, 到 converts any action verb into a claim of completion: 听到 means not just hearing but hearing that arrived, perception proven by contact.
@@ -30,6 +32,7 @@
 多	duō	many; much; more; how — Two evenings stacked: the character that encodes abundance, comparison, and the most common question about quantity in Mandarin.
 耳	ěr	ear; to hear; handle — The pictograph of an ear that anchors Chinese words for listening, fame, and the furred handles on bronze vessels.
 二	èr	two; second — The number two encodes the foundational split that drives all of Chinese cosmology: yin and yang, the two forces from which everything else unfolds.
+法	fǎ	law, method, the Dharma — Water against the level mark. From that image of fair, flowing measure grows the whole field of 法: the law and the court, the method and the way of doing a thing, and the Buddhist Dharma itself.
 方	fāng	square, direction, method — One glyph that runs from the literal square to the cardinal directions, to the place a thing sits, to the method by which it is done. The geometry of orientation and approach.
 非	fēi	not, wrong, un- — Two wings spreading in opposite directions: from that image of opposition grows the great negator. Not and non-, the line between right and wrong, and the un- prefix that turns a word against itself.
 分	fēn	to divide, minute, point, cent — A knife splitting a thing in two. From the cut grows everything that comes in parts: the minute on the clock, the point on a test, the cent in your pocket, and the act of separating itself.
@@ -67,6 +70,7 @@
 金	jīn	gold, metal, money — Nuggets of gold beneath the earth, and one of the Five Phases that governs autumn, the west, and sharpness.
 近	jìn	near; close; recent — Walking toward something as close as a hatchet strike, and the character that covers both spatial proximity and the specific historical era Chinese scholars call the modern period.
 进	jìn	to enter, to advance, to take in — A foot on the road and a bird that only ever walks forward. From that image grows everything that moves ahead and moves in: to enter, to advance, to progress, to carry out, and to take goods in.
+经	jīng	classic, scripture, to pass through, warp threads — The lengthwise warp threads strung on a loom, the structural through-lines that hold a fabric together. From that image grow the canonical classic, the act of passing through, and the running of an enterprise.
 九	jiǔ	nine; the imperial number and the highest of the yang — Nine is the largest single digit and the highest yang number, reserved for the emperor and the heavens: nine dragons, nine gates, the Nine-Five supreme position, the ninth heaven.
 旧	jiù	old; used; former; worn — The antonym of 新, and much more than it. 旧 carries both the weight of cherished tradition and the stigma of backwardness, depending entirely on who is speaking.
 开	kāi	to open, to start, to operate — Two hands lifting the bar across a closed gate. From that single image flow most of modern life: opening a door, starting a meeting, driving a car, writing a check, blooming.
@@ -156,6 +160,7 @@
 系	xì	to connect, system, department — A hand holding silk threads. From that image of holding strands together come the great connecting words of modern Chinese: the system, the relationship, the link, the university department, and the colloquial act of tying a knot.
 下	xià	below, down, to descend, to issue — The mirror image of 上: a notch below the line that governs everything from going downstairs to issuing imperial decrees.
 现	xiàn	to appear, present, now — The luster of jade coming into view. From that glint of something becoming visible grows the whole vocabulary of appearing, of the present moment, and of what is ready and on hand.
+相	xiāng	mutual, appearance, to examine, minister — An eye examining a tree. From that act of looking grow two readings: level-tone xiang, the mutual that binds two sides face to face, and falling-tone xiang, the appearance you look at, the looking itself, and the minister who looks over the realm.
 想	xiǎng	to think, to want, to miss — 想 = 相 (mutual, facing) + 心 (heart): the heart turned toward something, carrying the full range from thought to desire to longing in a single gesture.
 小	xiǎo	small, little; humble — Three minimal strokes that became the Confucian axis of moral character: the 小人 (petty person) and the 君子 (exemplary person) are the two poles every learner of classical Chinese must know.
 写	xiě	to write; to describe — 写 simplified from 寫, which shows a magpie under a roof: the bird that mimics and transmits, giving its voice to the written mark.
@@ -173,6 +178,7 @@
 一	yī	one; unified; as soon as — The simplest mark a brush can make carries the heaviest philosophical weight in Chinese civilization: 道生一，一生二，the Dao generates One, and One generates everything.
 以	yǐ	by means of; using; because; in order to — A classical Chinese preposition and conjunction so versatile that it anchors half the grammar of formal Chinese: the word that turns one thing into the means, standard, or cause of another.
 义	yì	righteousness, duty, justice — The Confucian virtue of doing what is morally right, and the simplification that erased a sheep, a self, and the entire picture of what righteous form looks like.
+意	yì	meaning, intention, the wish of the mind — Sound over heart: 意 is what the heart means before it is spoken. From that image grows meaning and significance, intention and willingness, and the notions of attention, satisfaction, and the unexpected.
 阴	yīn	the shaded slope, the lunar, the covert — The shadow half of the cosmos and the everyday word for an overcast day. From the dark side of a hill grew the lunar calendar, the hidden plot, and time itself as light and shade.
 用	yòng	to use; function; expense — 用 began as a pictograph of a bucket or bell (a vessel put to work) and became the character that Zhuangzi inverted in his doctrine of 无用之用: the use of uselessness.
 有	yǒu	to have, to exist — Possession, existence, and the have/be distinction that reshapes grammar.
@@ -239,6 +245,7 @@
 山水画	shān shuǐ huà	Chinese Landscape Painting — Mountains and waters as a cosmological pair -- the genre that made ink the equal of philosophy.
 神明	shén míng	gods, spirits, deities; divine intelligence — The generic term for any deity in the Chinese religious world: and, in classical philosophy, the luminous intelligence that distinguishes the divine from the merely powerful.
 生产	shēng chǎn	to produce, production, manufacturing — The foundational act of economic life: and, in China's Marxist political vocabulary, the act from which all social relations flow. Life gives rise to production; production sustains life.
+诗词	shī cí	Chinese poetry — Poetry stood at the center of Chinese civilization for two thousand years: the primary medium for expressing emotion, demonstrating education, and participating in the social life of the literati class.
 时代	shí dài	era, age — The word for a historical era or age, built from 时 (time) and 代 (generation), and how it differs from 时期 a period, 年代 a decade, 时候 a moment, and 现代 modern times.
 时候	shí hou	time, moment — The everyday word for a point in time, and the indispensable 的时候 ("when") pattern that every learner needs.
 时间	shí jiān	time — Time: the compound that anchors all temporal expression in Mandarin.
@@ -290,6 +297,7 @@
 可能	kěn éng	maybe, possible — The all-purpose word for possibility, working as adverb, adjective, and noun, and how it differs from 也许, 或许, 大概, and the modal 会.
 来	lái / qù	去 · directional complements — 上来, 下去, 出去, 进来: the motion complement system mapped.
 连…都/也	lián … dōu / yě	even X — The intensifier construction: raising the stakes of a claim.
+量词	liàng cí	measure words — 个, 只, 条, 本, 张: the classifier taxonomy and the logic behind it.
 没有	méi yǒu	negation of possession and past action — The two most important negation characters, 不 and 没, and why they cannot be swapped.
 起来	qǐ lái	directional complement: upward, inward, beginning — The most versatile directional complement in Mandarin: three distinct grammatical lives.
 是…的	shì … de	the cleft construction — Focus and past-detail marking: the construction that trips every learner.
@@ -300,6 +308,7 @@
 一点儿 / 有点儿	yì diǎn r / yǒu diǎn r	a little — The classic confusion pair: 有点儿 comes before an adjective and leans negative ("a bit too…"), while 一点儿 comes after and is neutral ("a little more").
 一下	yí xià	the verb-softener — The verbal-quantity word that makes an action brief and casual, how verb + 一下 softens a request, and how it differs from verb reduplication and from the time-word 一会儿.
 一样 / 像	yí yàng / xiàng	same and similar — How to say two things are the same (A 跟 B 一样) or alike (A 像 B), and how this differs from the unequal comparison with 比.
+已经	yǐ jīng	already — Mandarin's 'already' adverb: how 已经 differs from English, its placement before the verb, and its relationship with 了 and 还没有.
 因为…所以	yīn wèi suǒ yǐ	because…therefore — The causal conjunction pair: 因为 states the cause and 所以 announces the result, forming a two-clause logical structure that Chinese uses more explicitly than English.
 与其…不如	yǔ qí bù rú	rather than … it would be better to — Comparative preference construction: the most elegant way to argue for one choice over another.
 越来越	yu è lái yu è	more and more; increasingly — The degree escalation pattern: expressing a quality that grows continuously over time.

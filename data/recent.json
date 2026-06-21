@@ -60,6 +60,46 @@
     "updated": "2026-06-20"
   },
   {
+    "path": "pages/characters/cheng2_成.html",
+    "type": "character",
+    "category": "characters",
+    "title": "成 · to become, succeed, accomplished",
+    "desc": "A halberd standing guard over a finished task. From that image grows the whole field of completion: to become, to succeed, to accomplish, the ready-made and the mature, and even the colloquial yes that settles a matter.",
+    "tags": [
+      "meaning",
+      "evaluation",
+      "change",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "成",
+    "pinyin": "chéng",
+    "tone": 2,
+    "hsk": 2,
+    "radical": "戈",
+    "updated": "2026-06-20"
+  },
+  {
+    "path": "pages/characters/ci2_词.html",
+    "type": "character",
+    "category": "characters",
+    "title": "词 · word, term, diction, the sung lyric",
+    "desc": "Speech beside a phonetic 司: the unit we call a word, the wording a speaker chooses, and the classical lyric form that grew up beside regulated verse to be sung to set tune-patterns.",
+    "tags": [
+      "language",
+      "literature",
+      "communication",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "词",
+    "pinyin": "cí",
+    "tone": 2,
+    "hsk": 2,
+    "radical": "讠",
+    "updated": "2026-06-20"
+  },
+  {
     "path": "pages/characters/di4_第.html",
     "type": "character",
     "category": "characters",
@@ -117,6 +157,26 @@
     "tone": 4,
     "hsk": 1,
     "radical": "力",
+    "updated": "2026-06-20"
+  },
+  {
+    "path": "pages/characters/fa3_法.html",
+    "type": "character",
+    "category": "characters",
+    "title": "法 · law, method, the Dharma",
+    "desc": "Water against the level mark. From that image of fair, flowing measure grows the whole field of 法: the law and the court, the method and the way of doing a thing, and the Buddhist Dharma itself.",
+    "tags": [
+      "legal",
+      "religion",
+      "meaning",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "法",
+    "pinyin": "fǎ",
+    "tone": 3,
+    "hsk": 2,
+    "radical": "氵",
     "updated": "2026-06-20"
   },
   {
@@ -337,66 +397,6 @@
     "tone": 4,
     "hsk": 1,
     "radical": "讠",
-    "updated": "2026-06-20"
-  },
-  {
-    "path": "pages/characters/jian1_间.html",
-    "type": "character",
-    "category": "characters",
-    "title": "间 · space between, interval, room",
-    "desc": "Sunlight in the crack between two doors: the character for the space between things. From that gap grow time, the middle ground, the human world, and the room you count one by one.",
-    "tags": [
-      "time",
-      "space",
-      "measure-words",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "间",
-    "pinyin": "jiān",
-    "tone": 1,
-    "hsk": 1,
-    "radical": "门",
-    "updated": "2026-06-20"
-  },
-  {
-    "path": "pages/characters/jiao4_教.html",
-    "type": "character",
-    "category": "characters",
-    "title": "教 · to teach, teaching, religion",
-    "desc": "A hand with a rod beside a child at the lesson. From that scene of instruction grows a wide field: to teach and educate, to teach a skill in the spoken jiao reading, and the teaching that became the word for religion.",
-    "tags": [
-      "education",
-      "religion",
-      "society",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "教",
-    "pinyin": "jiào",
-    "tone": 4,
-    "hsk": 1,
-    "radical": "攵",
-    "updated": "2026-06-20"
-  },
-  {
-    "path": "pages/characters/jin4_进.html",
-    "type": "character",
-    "category": "characters",
-    "title": "进 · to enter, to advance, to take in",
-    "desc": "A foot on the road and a bird that only ever walks forward. From that image grows everything that moves ahead and moves in: to enter, to advance, to progress, to carry out, and to take goods in.",
-    "tags": [
-      "motion",
-      "meaning",
-      "direction",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "进",
-    "pinyin": "jìn",
-    "tone": 4,
-    "hsk": 1,
-    "radical": "辶",
     "updated": "2026-06-20"
   }
 ]
