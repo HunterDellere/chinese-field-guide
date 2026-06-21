@@ -20,6 +20,26 @@
     "updated": "2026-06-21"
   },
   {
+    "path": "pages/characters/biao3_表.html",
+    "type": "character",
+    "category": "characters",
+    "title": "表 · surface, to express, a table, a watch",
+    "desc": "The garment radical worn on the outside: 表 runs from the outer surface of things to showing feeling, the chart on a page, and the watch on a wrist.",
+    "tags": [
+      "meaning",
+      "perception",
+      "communication",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "表",
+    "pinyin": "biǎo",
+    "tone": 3,
+    "hsk": 2,
+    "radical": "衣",
+    "updated": "2026-06-21"
+  },
+  {
     "path": "pages/characters/cai2_才.html",
     "type": "character",
     "category": "characters",
@@ -37,6 +57,26 @@
     "tone": 2,
     "hsk": 2,
     "radical": "扌",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/dang1_当.html",
+    "type": "character",
+    "category": "characters",
+    "title": "当 · to be, just at, ought; (dàng) appropriate, to treat as",
+    "desc": "A high-frequency polyphone with two readings. As dāng it means to serve as, to be at a given time or place, and ought to; as dàng it means appropriate, to treat something as, and to pawn. The tone tells you which sense is in play.",
+    "tags": [
+      "meaning",
+      "timing",
+      "society",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "当",
+    "pinyin": "dāng",
+    "tone": 1,
+    "hsk": 2,
+    "radical": "⺌",
     "updated": "2026-06-21"
   },
   {
@@ -120,6 +160,26 @@
     "updated": "2026-06-21"
   },
   {
+    "path": "pages/characters/gu4_故.html",
+    "type": "character",
+    "category": "characters",
+    "title": "故 · reason; old; deliberately; therefore",
+    "desc": "故 binds five senses into one glyph: cause, the old and former, deliberateness, the literary \"hence,\" and the deceased. The thread is a settled cause behind what is done or what has passed.",
+    "tags": [
+      "meaning",
+      "history",
+      "memory",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "故",
+    "pinyin": "gù",
+    "tone": 4,
+    "hsk": 2,
+    "radical": "攵",
+    "updated": "2026-06-21"
+  },
+  {
     "path": "pages/characters/he2_合.html",
     "type": "character",
     "category": "characters",
@@ -157,6 +217,26 @@
     "tone": 4,
     "hsk": 2,
     "radical": "田",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/jian4_件.html",
+    "type": "character",
+    "category": "characters",
+    "title": "件 · item, piece, measure word",
+    "desc": "The measure word for matters, garments, and gifts, and the character behind documents, parts, and cases.",
+    "tags": [
+      "measure-words",
+      "things",
+      "meaning",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "件",
+    "pinyin": "jiàn",
+    "tone": 4,
+    "hsk": 2,
+    "radical": "亻",
     "updated": "2026-06-21"
   },
   {
@@ -200,6 +280,26 @@
     "updated": "2026-06-21"
   },
   {
+    "path": "pages/characters/le4_乐.html",
+    "type": "character",
+    "category": "characters",
+    "title": "乐 · happy, joyful (lè); music (yuè)",
+    "desc": "A picture of a wooden frame strung with silk and a drum, an early musical instrument. The simplified 乐 carries two readings: yuè for music, the original sense, and lè for joy, the happiness that music gives.",
+    "tags": [
+      "emotion",
+      "music",
+      "culture",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "乐",
+    "pinyin": "lè",
+    "tone": 4,
+    "hsk": 2,
+    "radical": "丿",
+    "updated": "2026-06-21"
+  },
+  {
     "path": "pages/characters/li4_力.html",
     "type": "character",
     "category": "characters",
@@ -217,6 +317,86 @@
     "tone": 4,
     "hsk": 2,
     "radical": "力",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/liang4_量.html",
+    "type": "character",
+    "category": "characters",
+    "title": "量 · quantity, capacity; to measure",
+    "desc": "商量 shangliang, to discuss, is literally to measure something out together: the act of weighing it between two minds before anyone decides.",
+    "tags": [
+      "measure-words",
+      "evaluation",
+      "meaning",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "量",
+    "pinyin": "liàng",
+    "tone": 4,
+    "hsk": 2,
+    "radical": "里",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/lun4_论.html",
+    "type": "character",
+    "category": "characters",
+    "title": "论 · to discuss, a theory or treatise",
+    "desc": "Reasoned speech put in order: the verb for discussing, debating, and commenting, and the noun for a theory, a view, or a treatise. Also Lun in the title of the Analects.",
+    "tags": [
+      "communication",
+      "rhetoric",
+      "language",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "论",
+    "pinyin": "lùn",
+    "tone": 4,
+    "hsk": 2,
+    "radical": "讠",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/ping2_平.html",
+    "type": "character",
+    "category": "characters",
+    "title": "平 · flat, level, even, peaceful, ordinary",
+    "desc": "A pictograph of something level and balanced. From that flat surface grows a wide field of meaning: the even and the smooth, the equal and the fair, the calm and the peaceful, and the plain and ordinary.",
+    "tags": [
+      "meaning",
+      "evaluation",
+      "quality",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "平",
+    "pinyin": "píng",
+    "tone": 2,
+    "hsk": 2,
+    "radical": "广",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/qing1_清.html",
+    "type": "character",
+    "category": "characters",
+    "title": "清 · clear, clean, pure, quiet",
+    "desc": "Water beside the color of new growth. The character that names limpid water, distinct speech, a clean reputation, a settled account, and a cool quiet evening.",
+    "tags": [
+      "clarity",
+      "nature",
+      "meaning",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "清",
+    "pinyin": "qīng",
+    "tone": 1,
+    "hsk": 2,
+    "radical": "氵",
     "updated": "2026-06-21"
   },
   {
@@ -320,6 +500,46 @@
     "updated": "2026-06-21"
   },
   {
+    "path": "pages/characters/tong1_通.html",
+    "type": "character",
+    "category": "characters",
+    "title": "通 · to go through; to connect; general; fluent",
+    "desc": "The walk-movement radical drives a path through every obstacle, giving 通 a single character that covers passage, communication, expertise, and the ordinary general state of things.",
+    "tags": [
+      "motion",
+      "communication",
+      "meaning",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "通",
+    "pinyin": "tōng",
+    "tone": 1,
+    "hsk": 2,
+    "radical": "辶",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/tou2_头.html",
+    "type": "character",
+    "category": "characters",
+    "title": "头 · head, top, end, chief, noun-suffix",
+    "desc": "The head, and from it the top of a hill, the end of a street, the start of a thing, the chief of a group, and the toneless tag on a hundred everyday nouns. The simplified 头 stands for traditional 頭.",
+    "tags": [
+      "body",
+      "space",
+      "meaning",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "头",
+    "pinyin": "tóu",
+    "tone": 2,
+    "hsk": 2,
+    "radical": "大",
+    "updated": "2026-06-21"
+  },
+  {
     "path": "pages/characters/wu4_物.html",
     "type": "character",
     "category": "characters",
@@ -337,6 +557,26 @@
     "tone": 4,
     "hsk": 2,
     "radical": "牛",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/xiang4_向.html",
+    "type": "character",
+    "category": "characters",
+    "title": "向 · direction, toward, to face, all along",
+    "desc": "A window opening in a wall, facing one way. From that image grows the whole field of orientation: the direction a thing points, the preposition toward a target, the inclination of a heart, and the sense of all along, up to now.",
+    "tags": [
+      "space",
+      "motion",
+      "meaning",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "向",
+    "pinyin": "xiàng",
+    "tone": 4,
+    "hsk": 2,
+    "radical": "口",
     "updated": "2026-06-21"
   },
   {
@@ -360,6 +600,26 @@
     "updated": "2026-06-21"
   },
   {
+    "path": "pages/characters/ye4_业.html",
+    "type": "character",
+    "category": "characters",
+    "title": "业 · occupation, industry, undertaking, study",
+    "desc": "A notched rack for hanging bells and chimes, then the work hung upon it. From that frame grows the whole field of doing: the trade one practices, the industry one builds, the cause one devotes a life to, the coursework one masters, and in Buddhist thought the karma one accrues.",
+    "tags": [
+      "society",
+      "commerce",
+      "industry",
+      "education"
+    ],
+    "status": "complete",
+    "char": "业",
+    "pinyin": "yè",
+    "tone": 4,
+    "hsk": 2,
+    "radical": "一",
+    "updated": "2026-06-21"
+  },
+  {
     "path": "pages/characters/yin1_音.html",
     "type": "character",
     "category": "characters",
@@ -380,6 +640,26 @@
     "updated": "2026-06-21"
   },
   {
+    "path": "pages/characters/ying1_应.html",
+    "type": "character",
+    "category": "characters",
+    "title": "应 · ought, should; (yìng) to respond, to answer, to handle",
+    "desc": "A high-frequency polyphone with two readings. As yīng it means ought to or should; as yìng it means to respond, to answer, to adapt, and to handle. The tone tells you whether the sense is obligation or response.",
+    "tags": [
+      "modal",
+      "meaning",
+      "ability",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "应",
+    "pinyin": "yīng",
+    "tone": 1,
+    "hsk": 2,
+    "radical": "广",
+    "updated": "2026-06-21"
+  },
+  {
     "path": "pages/characters/yu2_于.html",
     "type": "character",
     "category": "characters",
@@ -397,6 +677,26 @@
     "tone": 2,
     "hsk": 2,
     "radical": "二",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/zhu3_主.html",
+    "type": "character",
+    "category": "characters",
+    "title": "主 · master, host, main, to advocate",
+    "desc": "A lamp flame steady on its stand: the central light that grew into the master of a household, the main thing among many, the one who decides, and the Lord of a faith.",
+    "tags": [
+      "society",
+      "royalty",
+      "meaning",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "主",
+    "pinyin": "zhǔ",
+    "tone": 3,
+    "hsk": 2,
+    "radical": "丶",
     "updated": "2026-06-21"
   },
   {

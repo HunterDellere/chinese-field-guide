@@ -20,6 +20,26 @@
     "updated": "2026-06-21"
   },
   {
+    "path": "pages/characters/biao3_表.html",
+    "type": "character",
+    "category": "characters",
+    "title": "表 · surface, to express, a table, a watch",
+    "desc": "The garment radical worn on the outside: 表 runs from the outer surface of things to showing feeling, the chart on a page, and the watch on a wrist.",
+    "tags": [
+      "meaning",
+      "perception",
+      "communication",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "表",
+    "pinyin": "biǎo",
+    "tone": 3,
+    "hsk": 2,
+    "radical": "衣",
+    "updated": "2026-06-21"
+  },
+  {
     "path": "pages/characters/cai2_才.html",
     "type": "character",
     "category": "characters",
@@ -37,6 +57,26 @@
     "tone": 2,
     "hsk": 2,
     "radical": "扌",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/dang1_当.html",
+    "type": "character",
+    "category": "characters",
+    "title": "当 · to be, just at, ought; (dàng) appropriate, to treat as",
+    "desc": "A high-frequency polyphone with two readings. As dāng it means to serve as, to be at a given time or place, and ought to; as dàng it means appropriate, to treat something as, and to pawn. The tone tells you which sense is in play.",
+    "tags": [
+      "meaning",
+      "timing",
+      "society",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "当",
+    "pinyin": "dāng",
+    "tone": 1,
+    "hsk": 2,
+    "radical": "⺌",
     "updated": "2026-06-21"
   },
   {
@@ -120,6 +160,26 @@
     "updated": "2026-06-21"
   },
   {
+    "path": "pages/characters/gu4_故.html",
+    "type": "character",
+    "category": "characters",
+    "title": "故 · reason; old; deliberately; therefore",
+    "desc": "故 binds five senses into one glyph: cause, the old and former, deliberateness, the literary \"hence,\" and the deceased. The thread is a settled cause behind what is done or what has passed.",
+    "tags": [
+      "meaning",
+      "history",
+      "memory",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "故",
+    "pinyin": "gù",
+    "tone": 4,
+    "hsk": 2,
+    "radical": "攵",
+    "updated": "2026-06-21"
+  },
+  {
     "path": "pages/characters/he2_合.html",
     "type": "character",
     "category": "characters",
@@ -157,6 +217,26 @@
     "tone": 4,
     "hsk": 2,
     "radical": "田",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/jian4_件.html",
+    "type": "character",
+    "category": "characters",
+    "title": "件 · item, piece, measure word",
+    "desc": "The measure word for matters, garments, and gifts, and the character behind documents, parts, and cases.",
+    "tags": [
+      "measure-words",
+      "things",
+      "meaning",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "件",
+    "pinyin": "jiàn",
+    "tone": 4,
+    "hsk": 2,
+    "radical": "亻",
     "updated": "2026-06-21"
   },
   {
@@ -200,6 +280,26 @@
     "updated": "2026-06-21"
   },
   {
+    "path": "pages/characters/le4_乐.html",
+    "type": "character",
+    "category": "characters",
+    "title": "乐 · happy, joyful (lè); music (yuè)",
+    "desc": "A picture of a wooden frame strung with silk and a drum, an early musical instrument. The simplified 乐 carries two readings: yuè for music, the original sense, and lè for joy, the happiness that music gives.",
+    "tags": [
+      "emotion",
+      "music",
+      "culture",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "乐",
+    "pinyin": "lè",
+    "tone": 4,
+    "hsk": 2,
+    "radical": "丿",
+    "updated": "2026-06-21"
+  },
+  {
     "path": "pages/characters/li4_力.html",
     "type": "character",
     "category": "characters",
@@ -220,71 +320,51 @@
     "updated": "2026-06-21"
   },
   {
-    "path": "pages/characters/qing2_情.html",
+    "path": "pages/characters/liang4_量.html",
     "type": "character",
     "category": "characters",
-    "title": "情 · feeling, affection, situation",
-    "desc": "The heart radical beside the phonetic 青: the movements of the heart. From that one image grows feeling and mood, affection and love, and the wider sense of a situation or state of affairs.",
+    "title": "量 · quantity, capacity; to measure",
+    "desc": "商量 shangliang, to discuss, is literally to measure something out together: the act of weighing it between two minds before anyone decides.",
     "tags": [
-      "emotion",
-      "mind",
-      "romance",
+      "measure-words",
+      "evaluation",
+      "meaning",
       "characters"
     ],
     "status": "complete",
-    "char": "情",
-    "pinyin": "qíng",
-    "tone": 2,
+    "char": "量",
+    "pinyin": "liàng",
+    "tone": 4,
     "hsk": 2,
-    "radical": "忄",
+    "radical": "里",
     "updated": "2026-06-21"
   },
   {
-    "path": "pages/characters/ru2_如.html",
+    "path": "pages/characters/lun4_论.html",
     "type": "character",
     "category": "characters",
-    "title": "如 · like, as, if, according to",
-    "desc": "A woman speaking and a mouth complying: from following a command grew the great comparison-and-condition word. 如 is how Chinese says like, as, for example, and if.",
+    "title": "论 · to discuss, a theory or treatise",
+    "desc": "Reasoned speech put in order: the verb for discussing, debating, and commenting, and the noun for a theory, a view, or a treatise. Also Lun in the title of the Analects.",
     "tags": [
-      "comparison",
-      "conditional",
-      "cohesion",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "如",
-    "pinyin": "rú",
-    "tone": 2,
-    "hsk": 2,
-    "radical": "女",
-    "updated": "2026-06-21"
-  },
-  {
-    "path": "pages/characters/sheng1_声.html",
-    "type": "character",
-    "category": "characters",
-    "title": "声 · sound, voice, tone, reputation",
-    "desc": "A chime-stone struck before a listening ear. From that image grow the everyday word for sound and voice, the tone of speech, and the wider sense of making something known: a declaration, a reputation, a name.",
-    "tags": [
-      "phonology",
-      "perception",
       "communication",
+      "rhetoric",
+      "language",
       "characters"
     ],
     "status": "complete",
-    "char": "声",
-    "pinyin": "shēng",
-    "tone": 1,
+    "char": "论",
+    "pinyin": "lùn",
+    "tone": 4,
     "hsk": 2,
-    "radical": "士",
+    "radical": "讠",
     "updated": "2026-06-21"
   },
   {
-    "path": "pages/characters/shi2_实.html",
+    "path": "pages/characters/ping2_平.html",
     "type": "character",
     "category": "characters",
-    "title": "实 · real, solid, true, actual",
-    "desc": "A roof over a house full of goods. From that image of a full dwelling grows everything substantial: the real and the true, the solid and sturdy, the actual practice that gets things done, and the ripened fruit.",
+    "title": "平 · flat, level, even, peaceful, ordinary",
+    "desc": "A pictograph of something level and balanced. From that flat surface grows a wide field of meaning: the even and the smooth, the equal and the fair, the calm and the peaceful, and the plain and ordinary.",
     "tags": [
       "meaning",
       "evaluation",
@@ -292,111 +372,31 @@
       "characters"
     ],
     "status": "complete",
-    "char": "实",
-    "pinyin": "shí",
+    "char": "平",
+    "pinyin": "píng",
     "tone": 2,
     "hsk": 2,
-    "radical": "宀",
+    "radical": "广",
     "updated": "2026-06-21"
   },
   {
-    "path": "pages/characters/ti2_题.html",
+    "path": "pages/characters/qing1_清.html",
     "type": "character",
     "category": "characters",
-    "title": "题 · topic, question, problem, to inscribe",
-    "desc": "The head-radical character behind every exam question and discussion topic. From the leaf or head of a thing grows the question to solve, the theme to discuss, and the act of inscribing a poem.",
+    "title": "清 · clear, clean, pure, quiet",
+    "desc": "Water beside the color of new growth. The character that names limpid water, distinct speech, a clean reputation, a settled account, and a cool quiet evening.",
     "tags": [
-      "education",
+      "clarity",
+      "nature",
       "meaning",
-      "communication",
       "characters"
     ],
     "status": "complete",
-    "char": "题",
-    "pinyin": "tí",
-    "tone": 2,
-    "hsk": 2,
-    "radical": "页",
-    "updated": "2026-06-21"
-  },
-  {
-    "path": "pages/characters/wu4_物.html",
-    "type": "character",
-    "category": "characters",
-    "title": "物 · thing, object, matter, being",
-    "desc": "An ox under a phonetic, once the word for varicolored cattle, that broadened into the whole world of things: every object, all matter, the myriad creatures, and even a person as a figure.",
-    "tags": [
-      "things",
-      "science",
-      "nature",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "物",
-    "pinyin": "wù",
-    "tone": 4,
-    "hsk": 2,
-    "radical": "牛",
-    "updated": "2026-06-21"
-  },
-  {
-    "path": "pages/characters/yang2_阳.html",
-    "type": "character",
-    "category": "characters",
-    "title": "阳 · sun, bright, the yang principle",
-    "desc": "A sunlit mound: the simplified 阳 sets a hill beside the sun. From that bright south slope grow the sun itself, the active masculine half of the cosmos, and the place names that face the light.",
-    "tags": [
-      "cosmology",
-      "yin-yang",
-      "nature",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "阳",
-    "pinyin": "yáng",
-    "tone": 2,
-    "hsk": 2,
-    "radical": "阝",
-    "updated": "2026-06-21"
-  },
-  {
-    "path": "pages/characters/yin1_音.html",
-    "type": "character",
-    "category": "characters",
-    "title": "音 · sound, tone, news",
-    "desc": "A mouth with a sound marked inside it. From that image grow the words for sound and music, for the way a syllable is pronounced, and for tidings carried from afar.",
-    "tags": [
-      "phonology",
-      "perception",
-      "music",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "音",
-    "pinyin": "yīn",
+    "char": "清",
+    "pinyin": "qīng",
     "tone": 1,
     "hsk": 2,
-    "radical": "音",
-    "updated": "2026-06-21"
-  },
-  {
-    "path": "pages/characters/yu2_于.html",
-    "type": "character",
-    "category": "characters",
-    "title": "于 · at, in, to, than (the classical preposition)",
-    "desc": "The workhorse preposition of formal Chinese. 于 marks where, when, toward whom, and against what a thing is measured, and it is bound into a long list of everyday disyllables like 由于, 终于, and 等于.",
-    "tags": [
-      "classical",
-      "cohesion",
-      "meaning",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "于",
-    "pinyin": "yú",
-    "tone": 2,
-    "hsk": 2,
-    "radical": "二",
+    "radical": "氵",
     "updated": "2026-06-21"
   }
 ]
