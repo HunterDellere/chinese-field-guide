@@ -7652,6 +7652,69 @@
     },
     "pages/vocab/xiandai_现代.html": {
       "voices": {}
+    },
+    "pages/characters/chao2_朝.html": {
+      "voices": {}
+    },
+    "pages/characters/cheng2_城.html": {
+      "voices": {}
+    },
+    "pages/characters/chuan2_传.html": {
+      "voices": {}
+    },
+    "pages/characters/dai4_代.html": {
+      "voices": {}
+    },
+    "pages/characters/diao4_调.html": {
+      "voices": {}
+    },
+    "pages/characters/fu1_夫.html": {
+      "voices": {}
+    },
+    "pages/characters/gong1_功.html": {
+      "voices": {}
+    },
+    "pages/characters/gu3_古.html": {
+      "voices": {}
+    },
+    "pages/characters/hua4_化.html": {
+      "voices": {}
+    },
+    "pages/characters/jie3_解.html": {
+      "voices": {}
+    },
+    "pages/characters/li4_历.html": {
+      "voices": {}
+    },
+    "pages/characters/lian2_连.html": {
+      "voices": {}
+    },
+    "pages/characters/min2_民.html": {
+      "voices": {}
+    },
+    "pages/characters/rong2_容.html": {
+      "voices": {}
+    },
+    "pages/characters/she4_社.html": {
+      "voices": {}
+    },
+    "pages/characters/shi4_世.html": {
+      "voices": {}
+    },
+    "pages/characters/shou3_首.html": {
+      "voices": {}
+    },
+    "pages/characters/wang4_望.html": {
+      "voices": {}
+    },
+    "pages/characters/wu3_武.html": {
+      "voices": {}
+    },
+    "pages/characters/xing2_形.html": {
+      "voices": {}
+    },
+    "pages/characters/xing4_性.html": {
+      "voices": {}
     }
   },
   "inline": {
@@ -39011,7 +39074,7 @@
     "aad74b72fa34ea50": {
       "text": "功能",
       "pinyin": "gōngnéng",
-      "kind": "section",
+      "kind": "compound",
       "voices": {
         "xiaoxiao": {
           "hash": "b21d77e7bd2e",
@@ -41426,7 +41489,7 @@
     "418b62d586adf67b": {
       "text": "改朝换代",
       "pinyin": "gǎi cháo huàn dài",
-      "kind": "compound",
+      "kind": "chengyu",
       "voices": {
         "xiaoxiao": {
           "hash": "72f7595a2b06",
@@ -41510,7 +41573,7 @@
     "e0f8e9b135a881f5": {
       "text": "武术",
       "pinyin": "wǔshù",
-      "kind": "section",
+      "kind": "compound",
       "voices": {
         "xiaoxiao": {
           "hash": "6e54824349d8",
@@ -57638,7 +57701,7 @@
     "969cec57eaff067c": {
       "text": "历史",
       "pinyin": "lìshǐ",
-      "kind": "section",
+      "kind": "compound",
       "voices": {
         "xiaoxiao": {
           "hash": "3f3c38a49411",
@@ -67088,7 +67151,7 @@
     "920ab8e3b3a2e82e": {
       "text": "现代",
       "pinyin": "xiàndài",
-      "kind": "section",
+      "kind": "compound",
       "voices": {
         "xiaoxiao": {
           "hash": "872aaf56aa32",
@@ -75698,7 +75761,7 @@
     "fedc368f3b1554cf": {
       "text": "经历",
       "pinyin": "jīnglì",
-      "kind": "section",
+      "kind": "compound",
       "voices": {
         "xiaoxiao": {
           "hash": "a96d908ab1de",
@@ -76454,7 +76517,7 @@
     "c3a2a48ff9692069": {
       "text": "解释",
       "pinyin": "jiěshì",
-      "kind": "section",
+      "kind": "compound",
       "voices": {
         "xiaoxiao": {
           "hash": "74553389a79d",
@@ -83573,7 +83636,7 @@
     "4ae83582fada3fd0": {
       "text": "传统",
       "pinyin": "chuántǒng",
-      "kind": "section",
+      "kind": "compound",
       "voices": {
         "xiaoxiao": {
           "hash": "7e07bc08cb43",
@@ -83678,7 +83741,7 @@
     "686a823cca349f9f": {
       "text": "武侠",
       "pinyin": "wǔxiá",
-      "kind": "section",
+      "kind": "compound",
       "voices": {
         "xiaoxiao": {
           "hash": "584a1432932d",
@@ -84413,7 +84476,7 @@
     "b1231ba3ad3cab35": {
       "text": "声调",
       "pinyin": "shēngdiào",
-      "kind": "section",
+      "kind": "compound",
       "voices": {
         "xiaoxiao": {
           "hash": "aa01ba48115d",
@@ -91257,6 +91320,1398 @@
       "text": "历史分期",
       "pinyin": "Lìshǐ Fēnqī",
       "kind": "section",
+      "voices": {}
+    },
+    "5e3118292fd66bcf": {
+      "text": "朝气蓬勃",
+      "pinyin": "zhāo qì péng bó",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "72d5489e3a92836d": {
+      "text": "朝三暮四",
+      "pinyin": "zhāo sān mù sì",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "d3d14bdce5b012fe": {
+      "text": "有朝一日",
+      "pinyin": "yǒu zhāo yī rì",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "371d47e60d4499b2": {
+      "text": "朝代",
+      "pinyin": "cháodài",
+      "kind": "compound",
+      "voices": {}
+    },
+    "0e01da4a98efdd3d": {
+      "text": "王朝",
+      "pinyin": "wángcháo",
+      "kind": "compound",
+      "voices": {}
+    },
+    "ce431e7ff1a779f4": {
+      "text": "朝廷",
+      "pinyin": "cháotíng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "5fea140a5353d87b": {
+      "text": "朝",
+      "pinyin": "cháo",
+      "kind": "compound",
+      "voices": {}
+    },
+    "fcf89a77afb0f0f9": {
+      "text": "朝前",
+      "pinyin": "cháoqián",
+      "kind": "compound",
+      "voices": {}
+    },
+    "6a7151151a154a0c": {
+      "text": "朝着",
+      "pinyin": "cháozhe",
+      "kind": "compound",
+      "voices": {}
+    },
+    "b765ed27f8a73b27": {
+      "text": "朝阳",
+      "pinyin": "zhāoyáng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "5b7820f71d7b16eb": {
+      "text": "朝气",
+      "pinyin": "zhāoqì",
+      "kind": "compound",
+      "voices": {}
+    },
+    "bbe0372db5ae48fb": {
+      "text": "朝夕",
+      "pinyin": "zhāoxī",
+      "kind": "compound",
+      "voices": {}
+    },
+    "b4d13864477c305e": {
+      "text": "万里长城",
+      "pinyin": "wàn lǐ cháng chéng",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "1c0c0bb240a55e97": {
+      "text": "众志成城",
+      "pinyin": "zhòng zhì chéng chéng",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "f6865a40a7d08450": {
+      "text": "倾国倾城",
+      "pinyin": "qīng guó qīng chéng",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "06c145930ddab8d9": {
+      "text": "兵临城下",
+      "pinyin": "bīng lín chéng xià",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "09c1ce8d8dc3dd27": {
+      "text": "城墙",
+      "pinyin": "chéngqiáng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "de11e1843da019c5": {
+      "text": "城门",
+      "pinyin": "chéngmén",
+      "kind": "compound",
+      "voices": {}
+    },
+    "aad51c12309b53a6": {
+      "text": "城市",
+      "pinyin": "chéngshì",
+      "kind": "compound",
+      "voices": {}
+    },
+    "3b84904318822457": {
+      "text": "城镇",
+      "pinyin": "chéngzhèn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "da5746aae855572c": {
+      "text": "县城",
+      "pinyin": "xiànchéng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "492042a038a440e7": {
+      "text": "进城",
+      "pinyin": "jìnchéng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "109cfc948a818b81": {
+      "text": "古城",
+      "pinyin": "gǔchéng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "0ab8e73ff56827ab": {
+      "text": "城堡",
+      "pinyin": "chéngbǎo",
+      "kind": "compound",
+      "voices": {}
+    },
+    "efd13701be8fda27": {
+      "text": "围城",
+      "pinyin": "wéichéng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "984881ae452cc2e6": {
+      "text": "言传身教",
+      "pinyin": "yán chuán shēn jiào",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "088e01fc6a43dd3a": {
+      "text": "传宗接代",
+      "pinyin": "chuán zōng jiē dài",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "bea5f75862a4fcde": {
+      "text": "言归正传",
+      "pinyin": "yán guī zhèng zhuàn",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "57683ca52ef7ff86": {
+      "text": "传递",
+      "pinyin": "chuándì",
+      "kind": "compound",
+      "voices": {}
+    },
+    "9f529f1b9c861fc9": {
+      "text": "遗传",
+      "pinyin": "yíchuán",
+      "kind": "compound",
+      "voices": {}
+    },
+    "74afd6d2ef178ba8": {
+      "text": "流传",
+      "pinyin": "liúchuán",
+      "kind": "compound",
+      "voices": {}
+    },
+    "4dc5f1221ca7de8f": {
+      "text": "传播",
+      "pinyin": "chuánbō",
+      "kind": "compound",
+      "voices": {}
+    },
+    "052db34c15b8b725": {
+      "text": "传染",
+      "pinyin": "chuánrǎn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "26c1d7228c124a5e": {
+      "text": "宣传",
+      "pinyin": "xuānchuán",
+      "kind": "compound",
+      "voices": {}
+    },
+    "f834821e2f71e88c": {
+      "text": "传达",
+      "pinyin": "chuándá",
+      "kind": "compound",
+      "voices": {}
+    },
+    "2f6dfba931e59427": {
+      "text": "传记",
+      "pinyin": "zhuànjì",
+      "kind": "compound",
+      "voices": {}
+    },
+    "611d0a72033eebf3": {
+      "text": "自传",
+      "pinyin": "zìzhuàn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "0b136fda82a49e25": {
+      "text": "世世代代",
+      "pinyin": "shì shì dài dài",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "7e4d25a818288e6a": {
+      "text": "取而代之",
+      "pinyin": "qǔ ér dài zhī",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "a2fae5034f33b703": {
+      "text": "新陈代谢",
+      "pinyin": "xīn chén dài xiè",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "4d44b9b2151141fa": {
+      "text": "代替",
+      "pinyin": "dàitì",
+      "kind": "compound",
+      "voices": {}
+    },
+    "6c98d43ee86870a3": {
+      "text": "取代",
+      "pinyin": "qǔdài",
+      "kind": "compound",
+      "voices": {}
+    },
+    "f7119249aab4a663": {
+      "text": "代理",
+      "pinyin": "dàilǐ",
+      "kind": "compound",
+      "voices": {}
+    },
+    "c9c573c1ada1236b": {
+      "text": "代表",
+      "pinyin": "dàibiǎo",
+      "kind": "compound",
+      "voices": {}
+    },
+    "2b319e1b4925ea43": {
+      "text": "代办",
+      "pinyin": "dàibàn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "34b041a29b7ef593": {
+      "text": "代购",
+      "pinyin": "dàigòu",
+      "kind": "compound",
+      "voices": {}
+    },
+    "8d3ae22237f81e95": {
+      "text": "古代",
+      "pinyin": "gǔdài",
+      "kind": "compound",
+      "voices": {}
+    },
+    "ae9353f5b825b7e5": {
+      "text": "后代",
+      "pinyin": "hòudài",
+      "kind": "compound",
+      "voices": {}
+    },
+    "09fe6830670d96f1": {
+      "text": "南腔北调",
+      "pinyin": "nán qiāng běi diào",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "3ddd971b220370b4": {
+      "text": "老调重弹",
+      "pinyin": "lǎo diào chóng tán",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "b29aefadc8ef0ea8": {
+      "text": "调动",
+      "pinyin": "diàodòng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "a523787016d4e056": {
+      "text": "调查",
+      "pinyin": "diàochá",
+      "kind": "compound",
+      "voices": {}
+    },
+    "060d389185d93767": {
+      "text": "调度",
+      "pinyin": "diàodù",
+      "kind": "compound",
+      "voices": {}
+    },
+    "ffd46a7572803423": {
+      "text": "调子",
+      "pinyin": "diàozi",
+      "kind": "compound",
+      "voices": {}
+    },
+    "11b4527abfed18ac": {
+      "text": "腔调",
+      "pinyin": "qiāngdiào",
+      "kind": "compound",
+      "voices": {}
+    },
+    "2a54520af7e301d6": {
+      "text": "调整",
+      "pinyin": "tiáozhěng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "70d7a37a0619f45a": {
+      "text": "调节",
+      "pinyin": "tiáojié",
+      "kind": "compound",
+      "voices": {}
+    },
+    "f5faa83d47160857": {
+      "text": "调味",
+      "pinyin": "tiáowèi",
+      "kind": "compound",
+      "voices": {}
+    },
+    "a64565183d9db900": {
+      "text": "调解",
+      "pinyin": "tiáojiě",
+      "kind": "compound",
+      "voices": {}
+    },
+    "e67992f9cc92dfe1": {
+      "text": "音调",
+      "pinyin": "yīndiào",
+      "kind": "section",
+      "voices": {}
+    },
+    "6509d63c4beaa885": {
+      "text": "一夫当关",
+      "pinyin": "yī fū dāng guān",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "efc48219a599c7b5": {
+      "text": "匹夫之勇",
+      "pinyin": "pǐ fū zhī yǒng",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "cae3bc62f301fb6e": {
+      "text": "千夫所指",
+      "pinyin": "qiān fū suǒ zhǐ",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "3e32fb7fb6553354": {
+      "text": "夫唱妇随",
+      "pinyin": "fū chàng fù suí",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "e3f37b7c3c6ddff4": {
+      "text": "夫人",
+      "pinyin": "fūrén",
+      "kind": "compound",
+      "voices": {}
+    },
+    "3211ab2de5cf505f": {
+      "text": "夫妇",
+      "pinyin": "fūfù",
+      "kind": "compound",
+      "voices": {}
+    },
+    "750a87a1e69526ba": {
+      "text": "农夫",
+      "pinyin": "nóngfū",
+      "kind": "compound",
+      "voices": {}
+    },
+    "685b130feb0ad87e": {
+      "text": "渔夫",
+      "pinyin": "yúfū",
+      "kind": "compound",
+      "voices": {}
+    },
+    "0ef59146d690bf28": {
+      "text": "大夫",
+      "pinyin": "dàifu",
+      "kind": "compound",
+      "voices": {}
+    },
+    "e906b544e629f4d3": {
+      "text": "夫",
+      "pinyin": "fú",
+      "kind": "compound",
+      "voices": {}
+    },
+    "9e06ffbeb9e2d6f2": {
+      "text": "功成名就",
+      "pinyin": "gōng chéng míng jiù",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "a7639f19ad4d2263": {
+      "text": "急功近利",
+      "pinyin": "jí gōng jìn lì",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "12b06e017674f2fe": {
+      "text": "立功",
+      "pinyin": "lì gōng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "638f63e50bec399f": {
+      "text": "用功",
+      "pinyin": "yònggōng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "aa0a93993c7dc085": {
+      "text": "基本功",
+      "pinyin": "jīběngōng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "02acce1c59f07c21": {
+      "text": "功效",
+      "pinyin": "gōngxiào",
+      "kind": "compound",
+      "voices": {}
+    },
+    "118b6aa9e29fd0b0": {
+      "text": "古色古香",
+      "pinyin": "gǔ sè gǔ xiāng",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "1dcc35ba1ac54785": {
+      "text": "千古绝唱",
+      "pinyin": "qiān gǔ jué chàng",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "50301f94af1d7521": {
+      "text": "厚古薄今",
+      "pinyin": "hòu gǔ bó jīn",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "2be70688b05f1708": {
+      "text": "古老",
+      "pinyin": "gǔlǎo",
+      "kind": "compound",
+      "voices": {}
+    },
+    "1e0023e23ce9b32c": {
+      "text": "远古",
+      "pinyin": "yuǎngǔ",
+      "kind": "compound",
+      "voices": {}
+    },
+    "458736ca75391fc2": {
+      "text": "古董",
+      "pinyin": "gǔdǒng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "d21a97c9e10b4f00": {
+      "text": "考古",
+      "pinyin": "kǎogǔ",
+      "kind": "compound",
+      "voices": {}
+    },
+    "5e73641a3a556d38": {
+      "text": "古怪",
+      "pinyin": "gǔguài",
+      "kind": "compound",
+      "voices": {}
+    },
+    "783435ef31c94bda": {
+      "text": "古板",
+      "pinyin": "gǔbǎn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "5f22be2fb4bafb69": {
+      "text": "出神入化",
+      "pinyin": "chū shén rù huà",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "726b6091ea212540": {
+      "text": "化险为夷",
+      "pinyin": "huà xiǎn wéi yí",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "b97ef8462279f6a3": {
+      "text": "潜移默化",
+      "pinyin": "qián yí mò huà",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "ceb2b7a21692177c": {
+      "text": "转化",
+      "pinyin": "zhuǎnhuà",
+      "kind": "compound",
+      "voices": {}
+    },
+    "efbb2f720dfc6272": {
+      "text": "化为",
+      "pinyin": "huàwéi",
+      "kind": "compound",
+      "voices": {}
+    },
+    "6c12be8bbf7bb9a5": {
+      "text": "融化",
+      "pinyin": "rónghuà",
+      "kind": "compound",
+      "voices": {}
+    },
+    "99106c1ec59ae8ba": {
+      "text": "消化",
+      "pinyin": "xiāohuà",
+      "kind": "compound",
+      "voices": {}
+    },
+    "331cd88f0b25d04a": {
+      "text": "美化",
+      "pinyin": "měihuà",
+      "kind": "compound",
+      "voices": {}
+    },
+    "7cb0b2cb9b9834bd": {
+      "text": "迎刃而解",
+      "pinyin": "yíng rèn ér jiě",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "ea9e946fc5c27666": {
+      "text": "不解之缘",
+      "pinyin": "bù jiě zhī yuán",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "8fe0595cd26f59f7": {
+      "text": "难解难分",
+      "pinyin": "nán jiě nán fēn",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "080d700b8f4abb2b": {
+      "text": "一知半解",
+      "pinyin": "yì zhī bàn jiě",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "3f9f00166d460c79": {
+      "text": "解开",
+      "pinyin": "jiěkāi",
+      "kind": "compound",
+      "voices": {}
+    },
+    "17661857c1f068ca": {
+      "text": "解放",
+      "pinyin": "jiěfàng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "69f427e2f3d6e084": {
+      "text": "解除",
+      "pinyin": "jiěchú",
+      "kind": "compound",
+      "voices": {}
+    },
+    "6226d3cbd223f300": {
+      "text": "解雇",
+      "pinyin": "jiěgù",
+      "kind": "compound",
+      "voices": {}
+    },
+    "d37231bd7057f04c": {
+      "text": "解决",
+      "pinyin": "jiějué",
+      "kind": "compound",
+      "voices": {}
+    },
+    "3390b53c9a59b12d": {
+      "text": "理解",
+      "pinyin": "lǐjiě",
+      "kind": "compound",
+      "voices": {}
+    },
+    "ba0b2b66a117af91": {
+      "text": "误解",
+      "pinyin": "wùjiě",
+      "kind": "compound",
+      "voices": {}
+    },
+    "3ab0c5353b7a6953": {
+      "text": "解答",
+      "pinyin": "jiědá",
+      "kind": "compound",
+      "voices": {}
+    },
+    "8183ea79f95ceb00": {
+      "text": "溶解",
+      "pinyin": "róngjiě",
+      "kind": "compound",
+      "voices": {}
+    },
+    "29a7fc2edab12539": {
+      "text": "解渴",
+      "pinyin": "jiěkě",
+      "kind": "compound",
+      "voices": {}
+    },
+    "77e4aa104c437bae": {
+      "text": "押解",
+      "pinyin": "yājiè",
+      "kind": "compound",
+      "voices": {}
+    },
+    "a7980c311d4d9b12": {
+      "text": "历历在目",
+      "pinyin": "lìlì zài mù",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "97a5fa66e32bbe6d": {
+      "text": "来历不明",
+      "pinyin": "láilì bù míng",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "f704800c6ff5db42": {
+      "text": "历久弥新",
+      "pinyin": "lìjiǔ mí xīn",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "8784cb3b1d830627": {
+      "text": "历经",
+      "pinyin": "lìjīng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "1cf2617f2da905f0": {
+      "text": "阅历",
+      "pinyin": "yuèlì",
+      "kind": "compound",
+      "voices": {}
+    },
+    "99993ce365e0d79f": {
+      "text": "历来",
+      "pinyin": "lìlái",
+      "kind": "compound",
+      "voices": {}
+    },
+    "345c3f37a595896b": {
+      "text": "历代",
+      "pinyin": "lìdài",
+      "kind": "compound",
+      "voices": {}
+    },
+    "43475ad3e0973a4f": {
+      "text": "日历",
+      "pinyin": "rìlì",
+      "kind": "compound",
+      "voices": {}
+    },
+    "4ced06fc666e546f": {
+      "text": "农历",
+      "pinyin": "nónglì",
+      "kind": "compound",
+      "voices": {}
+    },
+    "3c21250e2042723a": {
+      "text": "阳历",
+      "pinyin": "yánglì",
+      "kind": "compound",
+      "voices": {}
+    },
+    "846e6d97b4fdf30a": {
+      "text": "两字归一",
+      "pinyin": "liǎng zì guī yī",
+      "kind": "section",
+      "voices": {}
+    },
+    "2456b050e782067a": {
+      "text": "接二连三",
+      "pinyin": "jiē èr lián sān",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "7a1359850fbca212": {
+      "text": "流连忘返",
+      "pinyin": "liú lián wàng fǎn",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "e14dba866891e190": {
+      "text": "连接",
+      "pinyin": "liánjiē",
+      "kind": "compound",
+      "voices": {}
+    },
+    "80c4f03efd012579": {
+      "text": "相连",
+      "pinyin": "xiānglián",
+      "kind": "compound",
+      "voices": {}
+    },
+    "55669db5884e38d3": {
+      "text": "连同",
+      "pinyin": "liántóng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "9e57fcc1870a2d00": {
+      "text": "连续",
+      "pinyin": "liánxù",
+      "kind": "compound",
+      "voices": {}
+    },
+    "438f1abe4fae3ce9": {
+      "text": "连忙",
+      "pinyin": "liánmáng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "ae4c67fbf6c31c3c": {
+      "text": "接连",
+      "pinyin": "jiēlián",
+      "kind": "compound",
+      "voices": {}
+    },
+    "2fe18c7721166e7a": {
+      "text": "连…都",
+      "pinyin": "lián…dōu",
+      "kind": "compound",
+      "voices": {}
+    },
+    "82cc5b6937ba1e13": {
+      "text": "连都",
+      "pinyin": "lián...dōu",
+      "kind": "section",
+      "voices": {}
+    },
+    "15eed54abe2d29cb": {
+      "text": "民不聊生",
+      "pinyin": "mín bù liáo shēng",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "93105278356a8581": {
+      "text": "民众",
+      "pinyin": "mínzhòng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "083ac34b8fd3e2da": {
+      "text": "平民",
+      "pinyin": "píngmín",
+      "kind": "compound",
+      "voices": {}
+    },
+    "17dcebebce027b61": {
+      "text": "公民",
+      "pinyin": "gōngmín",
+      "kind": "compound",
+      "voices": {}
+    },
+    "2ce70ec7f0036660": {
+      "text": "居民",
+      "pinyin": "jūmín",
+      "kind": "compound",
+      "voices": {}
+    },
+    "7f587f6e36d9785f": {
+      "text": "农民",
+      "pinyin": "nóngmín",
+      "kind": "compound",
+      "voices": {}
+    },
+    "d269d60b339e691e": {
+      "text": "民族",
+      "pinyin": "mínzú",
+      "kind": "compound",
+      "voices": {}
+    },
+    "da5b06d99cde2825": {
+      "text": "民间",
+      "pinyin": "mínjiān",
+      "kind": "compound",
+      "voices": {}
+    },
+    "b1054cb8f422f17d": {
+      "text": "民歌",
+      "pinyin": "míngē",
+      "kind": "compound",
+      "voices": {}
+    },
+    "ba91a7e1afdd1e63": {
+      "text": "从容不迫",
+      "pinyin": "cóng róng bù pò",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "467c9c77b2486258": {
+      "text": "无地自容",
+      "pinyin": "wú dì zì róng",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "5e025fd6c1bb72a5": {
+      "text": "义不容辞",
+      "pinyin": "yì bù róng cí",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "e8b3d30d6b822c24": {
+      "text": "不容置疑",
+      "pinyin": "bù róng zhì yí",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "60b334092202b7e3": {
+      "text": "容纳",
+      "pinyin": "róngnà",
+      "kind": "compound",
+      "voices": {}
+    },
+    "04cd34588be0a6d5": {
+      "text": "容量",
+      "pinyin": "róngliàng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "a0209ccc283361d7": {
+      "text": "容器",
+      "pinyin": "róngqì",
+      "kind": "compound",
+      "voices": {}
+    },
+    "317f61660781ebe5": {
+      "text": "容忍",
+      "pinyin": "róngrěn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "20ff753ccb0b0c59": {
+      "text": "宽容",
+      "pinyin": "kuānróng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "d7f197a8b11049d3": {
+      "text": "容许",
+      "pinyin": "róngxǔ",
+      "kind": "compound",
+      "voices": {}
+    },
+    "21b5353173241e60": {
+      "text": "容貌",
+      "pinyin": "róngmào",
+      "kind": "compound",
+      "voices": {}
+    },
+    "7ef138c03238a2e2": {
+      "text": "笑容",
+      "pinyin": "xiàoróng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "151fd17533c793ff": {
+      "text": "容易",
+      "pinyin": "róngyì",
+      "kind": "compound",
+      "voices": {}
+    },
+    "5a86eb4a57b32745": {
+      "text": "江山社稷",
+      "pinyin": "jiāng shān shè jì",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "d09871ee10d7b22f": {
+      "text": "人面兽心",
+      "pinyin": "rén miàn shòu xīn",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "58191eeb063686a1": {
+      "text": "和光同尘",
+      "pinyin": "hé guāng tóng chén",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "3de519235f6fc830": {
+      "text": "社区",
+      "pinyin": "shèqū",
+      "kind": "compound",
+      "voices": {}
+    },
+    "61ed66e77ae9cf8a": {
+      "text": "社交",
+      "pinyin": "shèjiāo",
+      "kind": "compound",
+      "voices": {}
+    },
+    "1494556d0d147a33": {
+      "text": "社团",
+      "pinyin": "shètuán",
+      "kind": "compound",
+      "voices": {}
+    },
+    "7c8d126215c94326": {
+      "text": "报社",
+      "pinyin": "bàoshè",
+      "kind": "compound",
+      "voices": {}
+    },
+    "ce5876ced61c99ec": {
+      "text": "旅行社",
+      "pinyin": "lǚxíngshè",
+      "kind": "compound",
+      "voices": {}
+    },
+    "08e68c86ff8f4d14": {
+      "text": "社稷",
+      "pinyin": "shèjì",
+      "kind": "compound",
+      "voices": {}
+    },
+    "d91a6d14bf6f677a": {
+      "text": "举世闻名",
+      "pinyin": "jǔ shì wén míng",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "8efa82ced167ecda": {
+      "text": "世外桃源",
+      "pinyin": "shì wài táo yuán",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "ae5571bf6edcb60a": {
+      "text": "与世无争",
+      "pinyin": "yǔ shì wú zhēng",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "699396fa5b86b854": {
+      "text": "不可一世",
+      "pinyin": "bù kě yī shì",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "f7b04dfa6637fe31": {
+      "text": "世代",
+      "pinyin": "shìdài",
+      "kind": "compound",
+      "voices": {}
+    },
+    "d3d87efb3ff2d44d": {
+      "text": "后世",
+      "pinyin": "hòushì",
+      "kind": "compound",
+      "voices": {}
+    },
+    "6596844597fda014": {
+      "text": "世袭",
+      "pinyin": "shìxí",
+      "kind": "compound",
+      "voices": {}
+    },
+    "e8e5c69388894219": {
+      "text": "一生一世",
+      "pinyin": "yìshēng yíshì",
+      "kind": "compound",
+      "voices": {}
+    },
+    "8eddf7555b7525d8": {
+      "text": "来世",
+      "pinyin": "láishì",
+      "kind": "compound",
+      "voices": {}
+    },
+    "1716175295030f17": {
+      "text": "今世",
+      "pinyin": "jīnshì",
+      "kind": "compound",
+      "voices": {}
+    },
+    "67191381fcfd1cd8": {
+      "text": "世纪",
+      "pinyin": "shìjì",
+      "kind": "compound",
+      "voices": {}
+    },
+    "c92df3e3c629eff5": {
+      "text": "世俗",
+      "pinyin": "shìsú",
+      "kind": "compound",
+      "voices": {}
+    },
+    "3509f335580772b3": {
+      "text": "盛世",
+      "pinyin": "shèngshì",
+      "kind": "compound",
+      "voices": {}
+    },
+    "3028037d2b9ec02d": {
+      "text": "首屈一指",
+      "pinyin": "shǒu qū yī zhǐ",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "609204423a5a72a6": {
+      "text": "群龙无首",
+      "pinyin": "qún lóng wú shǒu",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "43096378cf2bdbdd": {
+      "text": "罪魁祸首",
+      "pinyin": "zuì kuí huò shǒu",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "8568b729dbcabe37": {
+      "text": "痛心疾首",
+      "pinyin": "tòng xīn jí shǒu",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "fada864ceb4255f8": {
+      "text": "昂首",
+      "pinyin": "ángshǒu",
+      "kind": "compound",
+      "voices": {}
+    },
+    "1a5bb7e7c82ad170": {
+      "text": "俯首",
+      "pinyin": "fǔshǒu",
+      "kind": "compound",
+      "voices": {}
+    },
+    "5d41fe9e00985383": {
+      "text": "自首",
+      "pinyin": "zìshǒu",
+      "kind": "compound",
+      "voices": {}
+    },
+    "29c45d0b9bc5d07d": {
+      "text": "首先",
+      "pinyin": "shǒuxiān",
+      "kind": "compound",
+      "voices": {}
+    },
+    "df056c8be74cbac3": {
+      "text": "首都",
+      "pinyin": "shǒudū",
+      "kind": "compound",
+      "voices": {}
+    },
+    "59b3bca30c575d0a": {
+      "text": "首要",
+      "pinyin": "shǒuyào",
+      "kind": "compound",
+      "voices": {}
+    },
+    "72932bb6bf6f1330": {
+      "text": "首次",
+      "pinyin": "shǒucì",
+      "kind": "compound",
+      "voices": {}
+    },
+    "f762d17dd80d3d55": {
+      "text": "首领",
+      "pinyin": "shǒulǐng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "752841ca4aa48977": {
+      "text": "一首歌",
+      "pinyin": "yī shǒu gē",
+      "kind": "compound",
+      "voices": {}
+    },
+    "afc5f0d9e072b23e": {
+      "text": "一首诗",
+      "pinyin": "yī shǒu shī",
+      "kind": "compound",
+      "voices": {}
+    },
+    "5de9a651e0de514d": {
+      "text": "望子成龙",
+      "pinyin": "wàng zǐ chéng lóng",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "fe999dc5a3b3c3d2": {
+      "text": "望尘莫及",
+      "pinyin": "wàng chén mò jí",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "4352af6d9c0df595": {
+      "text": "眺望",
+      "pinyin": "tiàowàng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "f6f5d2997fde8226": {
+      "text": "张望",
+      "pinyin": "zhāngwàng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "3c7b890b5c2e354a": {
+      "text": "望远镜",
+      "pinyin": "wàngyuǎnjìng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "c719269d667c95dc": {
+      "text": "期望",
+      "pinyin": "qīwàng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "38d955a7f0dec8ca": {
+      "text": "盼望",
+      "pinyin": "pànwàng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "d0075164bb6c4f98": {
+      "text": "名望",
+      "pinyin": "míngwàng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "9c8430694743b2d8": {
+      "text": "威望",
+      "pinyin": "wēiwàng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "baee3365bee918c8": {
+      "text": "声望",
+      "pinyin": "shēngwàng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "3037f8e904c9d7c0": {
+      "text": "文武双全",
+      "pinyin": "wén wǔ shuāng quán",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "8ce171e222b4b4b1": {
+      "text": "武艺高强",
+      "pinyin": "wǔ yì gāo qiáng",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "198619958a3ad9fe": {
+      "text": "穷兵黩武",
+      "pinyin": "qióng bīng dú wǔ",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "2c8cf69bdef105f3": {
+      "text": "武力",
+      "pinyin": "wǔlì",
+      "kind": "compound",
+      "voices": {}
+    },
+    "64f019e21fb2b0e0": {
+      "text": "武器",
+      "pinyin": "wǔqì",
+      "kind": "compound",
+      "voices": {}
+    },
+    "1494753dd1357d2a": {
+      "text": "武装",
+      "pinyin": "wǔzhuāng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "1f2ca153361f3288": {
+      "text": "威武",
+      "pinyin": "wēiwǔ",
+      "kind": "compound",
+      "voices": {}
+    },
+    "c7bc552f99718977": {
+      "text": "英武",
+      "pinyin": "yīngwǔ",
+      "kind": "compound",
+      "voices": {}
+    },
+    "be65cd160e6dd13c": {
+      "text": "武勇",
+      "pinyin": "wǔyǒng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "13ac30bc7476f1cc": {
+      "text": "形形色色",
+      "pinyin": "xíng xíng sè sè",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "e56f3ce336acd878": {
+      "text": "形单影只",
+      "pinyin": "xíng dān yǐng zhī",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "242ea48128736dff": {
+      "text": "形状",
+      "pinyin": "xíngzhuàng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "b4eaf2bf15d8bf3e": {
+      "text": "图形",
+      "pinyin": "túxíng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "a4682c92bdf595ad": {
+      "text": "三角形",
+      "pinyin": "sānjiǎoxíng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "73f4831f4a59948a": {
+      "text": "形式",
+      "pinyin": "xíngshì",
+      "kind": "compound",
+      "voices": {}
+    },
+    "02f52521ff7ee129": {
+      "text": "形体",
+      "pinyin": "xíngtǐ",
+      "kind": "compound",
+      "voices": {}
+    },
+    "cf30139379f3c109": {
+      "text": "形成",
+      "pinyin": "xíngchéng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "3d5abc5de7a6b9a3": {
+      "text": "形容",
+      "pinyin": "xíngróng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "6c4f8f5ec68684a2": {
+      "text": "原形",
+      "pinyin": "yuánxíng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "bb38b1d4e803e78c": {
+      "text": "情形",
+      "pinyin": "qíngxíng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "69c94d1f4e0904a8": {
+      "text": "形势",
+      "pinyin": "xíngshì",
+      "kind": "compound",
+      "voices": {}
+    },
+    "2fc45f9feb178694": {
+      "text": "地形",
+      "pinyin": "dìxíng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "ab39e3a296a9e9f3": {
+      "text": "江山易改，本性难移",
+      "pinyin": "jiāng shān yì gǎi, běn xìng nán yí",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "2d57623fbca149a3": {
+      "text": "率性而为",
+      "pinyin": "shuài xìng ér wéi",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "bc628ecc2b5aea93": {
+      "text": "性命攸关",
+      "pinyin": "xìng mìng yōu guān",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "53705b5ddd6ee537": {
+      "text": "性格",
+      "pinyin": "xìnggé",
+      "kind": "compound",
+      "voices": {}
+    },
+    "bc6ea7cdd79a1a35": {
+      "text": "个性",
+      "pinyin": "gèxìng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "8b50abc0f210523d": {
+      "text": "本性",
+      "pinyin": "běnxìng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "1b8e4298fbd6fbe5": {
+      "text": "性情",
+      "pinyin": "xìngqíng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "be6d55afd3e1004b": {
+      "text": "性别",
+      "pinyin": "xìngbié",
+      "kind": "compound",
+      "voices": {}
+    },
+    "91150df8c276532c": {
+      "text": "女性",
+      "pinyin": "nǚxìng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "9107f6e3d4cbc476": {
+      "text": "男性",
+      "pinyin": "nánxìng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "0c9465fa914db0e5": {
+      "text": "性能",
+      "pinyin": "xìngnéng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "f677105ef76c03e1": {
+      "text": "弹性",
+      "pinyin": "tánxìng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "a4e799eda869d4f4": {
+      "text": "可能性",
+      "pinyin": "kěnéngxìng",
+      "kind": "compound",
       "voices": {}
     }
   }
