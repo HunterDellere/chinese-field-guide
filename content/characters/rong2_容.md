@@ -1,0 +1,538 @@
+---
+type: 'character'
+category: 'characters'
+status: 'complete'
+title: '容 · to contain, to allow, appearance'
+desc: 'A roof over a valley: the space that holds. To contain, to tolerate, the face one shows, and the easy in rongyi.'
+metaDesc: "容 róng: to contain, to hold, to tolerate, appearance, and the easy sense in 容易 (rongyi). A roof over a valley, the space that holds."
+pageTitle: '容 róng'
+tags:
+  - 'characters'
+  - 'meaning'
+  - 'perception'
+  - 'space'
+updated: '2026-06-21'
+char: '容'
+pinyin: 'róng'
+tone: 2
+hsk: 3
+radical: '宀'
+content_review: 'pending'
+content_sources:
+  - 'Unihan'
+  - 'Shuōwén'
+---
+
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+
+    <span class="toc-glyph">容</span>
+    <span class="toc-pinyin">róng · tone 2</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#etymology">
+        <span class="toc-cn">字源</span> Etymology
+        <span class="toc-sub">zìyuán · roof over a valley</span>
+      </a></li>
+      <li><a href="#patterns">
+        <span class="toc-cn">构词</span> Word Patterns
+        <span class="toc-sub">gòucí · how 容 combines</span>
+      </a></li>
+      <li><a href="#contain">
+        <span class="toc-cn">容纳</span> To Contain &amp; Hold
+        <span class="toc-sub">róngnà · capacity compounds</span>
+      </a></li>
+      <li><a href="#tolerate">
+        <span class="toc-cn">容忍</span> To Tolerate &amp; Allow
+        <span class="toc-sub">róngrěn · room for others</span>
+      </a></li>
+      <li><a href="#appearance">
+        <span class="toc-cn">容貌</span> Appearance &amp; the Easy Sense
+        <span class="toc-sub">róngmào · the face one shows</span>
+      </a></li>
+      <li><a href="#chengyu">
+        <span class="toc-cn">成语</span> Idioms
+        <span class="toc-sub">chéngyǔ · set phrases</span>
+      </a></li>
+      <li><a href="#adjacent">
+        <span class="toc-cn">相邻</span> Adjacent Vocab
+        <span class="toc-sub">xiānglín cíhuì</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- HERO -->
+    <header class="hero">
+      <div class="hero-inner">
+        <div class="hero-glyph-col">
+          <div class="hero-script-pair">
+            <div class="hero-script hero-script--simp">
+              <span class="hero-glyph">容</span>
+              <span class="hero-script-label">simplified</span>
+            </div>
+            <div class="hero-script-divider"></div>
+            <div class="hero-script hero-script--trad">
+              <span class="hero-glyph">容</span>
+              <span class="hero-script-label">traditional · same</span>
+            </div>
+          </div>
+        </div>
+        <div class="hero-meta">
+          <div class="hero-pinyin">róng</div>
+          <div class="hero-en">to contain · to hold · to tolerate · appearance · easy (容易)</div>
+          <div class="hero-chips">
+            <span class="chip chip-hsk">HSK 3</span>
+            <span class="chip">笔画 10</span>
+            <span class="chip">部首 宀 (roof)</span>
+            <span class="chip">声调 第二声 (rising)</span>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <!-- ── ETYMOLOGY ── -->
+    <span class="section-anchor" id="etymology"></span>
+    <div class="section-head">
+      <span class="sh-cn">字源</span>
+      <span class="sh-py">zìyuán</span>
+      <span class="sh-en">Etymology &amp; Structure</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="容">
+      <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
+      <p>容 is a compound of two ideas of space. On top sits <strong>宀 mián</strong>, the roof radical, a shelter that defines an interior. Beneath it sits <strong>谷 gǔ</strong>, a valley, the widest hollow the landscape offers. A roof set over a valley: a space large enough to take in whatever comes. That is the seed image of every sense the character will grow. To <em>contain</em> is the literal act; everything else extends it.</p>
+      <p>From the physical hollow, the meaning opens outward in three directions. First, capacity: a vessel, a hall, a hard drive all 容纳 (take in and hold). Second, the moral version of the same gesture: to make room for another person, to 容忍 (tolerate) and 宽容 (be lenient). To hold something is, after all, not to reject it. Third, and at first surprising, <em>appearance</em>: the 容貌 (face, looks) one presents, since the face is the surface that holds and shows a person. The same glyph that names the inside of a jar names the outside of a person.</p>
+      <p>One more sense rides along, almost an idiom in itself: the <strong>容</strong> of <strong>容易 róngyì</strong> (easy). A thing is easy when there is ample room for it to happen, when nothing crowds it out. The valley under the roof has space to spare. In Japanese the character is read <em>yō</em>: 内容 <em>naiyō</em> (content, what is contained), 容易 <em>yōi</em> (easy), 美容 <em>biyō</em> (beauty care). The roof over the valley crossed the sea carrying its whole spread of meaning intact.</p>
+    </div>
+
+    <!-- ── PATTERNS ── -->
+    <span class="section-anchor" id="patterns"></span>
+    <div class="section-head">
+      <span class="sh-cn">构词规律</span>
+      <span class="sh-py">gòucí guīlǜ</span>
+      <span class="sh-en">How 容 Combines</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">构词规律 gòucí guīlǜ · Pattern</span>
+      <strong>容 spans three families of meaning, all from "the space that holds"</strong><br>
+      容 + 纳/量/器 (take in / measure / vessel) → capacity: 容纳, 容量, 容器<br>
+      容 + 忍/许 or 宽 + 容 (endure / permit / wide) → tolerance: 容忍, 容许, 宽容<br>
+      容 + 貌/颜 or 笑/面 + 容 (looks / color / smile / face) → appearance: 容貌, 笑容, 面容<br>
+      And the fixed pair 容易 róngyì, where 容 carries the sense of "easy, ample room."
+    </div>
+
+    <!-- ── TO CONTAIN & HOLD ── -->
+    <span class="section-anchor" id="contain"></span>
+    <div class="section-head">
+      <span class="sh-cn">容纳/容量/容器</span>
+      <span class="sh-py">róngnà / róngliàng / róngqì</span>
+      <span class="sh-en">To Contain &amp; Hold</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <!-- 容纳 -->
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">容纳</span>
+          <span class="card-py">róngnà</span>
+          <span class="card-en">to hold; to accommodate; to seat</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
+        <div class="card-def">
+          容 róng (to hold) + 纳 nà (to take in; to receive). To take something in and have room for it. Used for physical capacity (a stadium holding a crowd) and, by extension, for accommodating ideas or people into a group. The valley-under-a-roof image is at its most literal here: how much can the space take in?
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">这个礼堂能容纳一千人。</div>
+            <div class="ex-py">Zhège lǐtáng néng róngnà yìqiān rén.</div>
+            <div class="ex-en">This auditorium can hold a thousand people.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他无法容纳不同的意见。</div>
+            <div class="ex-py">Tā wúfǎ róngnà bùtóng de yìjiàn.</div>
+            <div class="ex-en">He cannot accommodate differing opinions.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这个城市容纳了大量移民。</div>
+            <div class="ex-py">Zhège chéngshì róngnà le dàliàng yímín.</div>
+            <div class="ex-en">This city has taken in a large number of immigrants.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">语法 yǔfǎ · Grammar</span>
+          容纳 takes a concrete or human object and usually pairs with a capacity expression: 容纳 + number + 人/座. For abstract acceptance of people or views, it shades toward the tolerance sense covered below, overlapping with 接纳 jiēnà (to accept into a group).
+        </div>
+      </div>
+
+      <!-- 容量 -->
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">容量</span>
+          <span class="card-py">róngliàng</span>
+          <span class="card-en">capacity; volume</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          容 róng (to hold) + 量 liàng (quantity; amount; measure). The measured amount a space can hold. The everyday word for the capacity of a bottle, a battery, a hard drive, or a memory chip. Where 容纳 is the act of holding, 容量 is the figure that names how much.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">这个水瓶的容量是一升。</div>
+            <div class="ex-py">Zhège shuǐpíng de róngliàng shì yì shēng.</div>
+            <div class="ex-en">This water bottle has a capacity of one liter.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这块硬盘容量很大。</div>
+            <div class="ex-py">Zhè kuài yìngpán róngliàng hěn dà.</div>
+            <div class="ex-en">This hard drive has a large capacity.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">辨析 biànxī · Comparison</span>
+          容量 (how much a space can hold) vs. 体积 tǐjī (the volume an object itself occupies) vs. 重量 zhòngliàng (weight). A box has 容量 (what fits inside) and 体积 (the room it takes up); the two are not the same number.
+        </div>
+      </div>
+
+      <!-- 容器 -->
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">容器</span>
+          <span class="card-py">róngqì</span>
+          <span class="card-en">container; vessel</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          容 róng (to hold) + 器 qì (vessel; implement; utensil). A thing whose whole purpose is to hold. The general noun for any container, from a jar to a software data structure. 器 names a made object with a function; 容器 is the object made for holding.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">请把它放进密封容器里。</div>
+            <div class="ex-py">Qǐng bǎ tā fàng jìn mìfēng róngqì lǐ.</div>
+            <div class="ex-en">Please put it in a sealed container.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">玻璃容器更容易清洗。</div>
+            <div class="ex-py">Bōlí róngqì gèng róngyì qīngxǐ.</div>
+            <div class="ex-en">Glass containers are easier to clean.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards contain -->
+
+    <!-- ── TO TOLERATE & ALLOW ── -->
+    <span class="section-anchor" id="tolerate"></span>
+    <div class="section-head">
+      <span class="sh-cn">容忍/宽容/容许</span>
+      <span class="sh-py">róngrěn / kuānróng / róngxǔ</span>
+      <span class="sh-en">To Tolerate &amp; Allow</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="容">
+      <div class="scholar-label">语义洞见 yǔyì dòngjiàn · Semantic Insight</div>
+      <p>To hold a thing is, by definition, not to push it away. So the same character that names physical capacity names moral capacity: the room a person leaves for what they dislike. 容忍 is to endure it, 宽容 is to be generous about it, 容许 is to grant it leave to exist. The metaphor is consistent across the language: a tolerant person is said to have a large 度量 (literally, a large measure of holding), exactly as a large vessel has 容量.</p>
+    </div>
+
+    <div class="cards">
+
+      <!-- 容忍 -->
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">容忍</span>
+          <span class="card-py">róngrěn</span>
+          <span class="card-en">to tolerate; to put up with; to endure</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
+        <div class="card-def">
+          容 róng (to hold) + 忍 rěn (to endure; to bear). To make room for something unwelcome and not act against it. Often carries a sense of restraint under strain: one tolerates because acting out would be worse. The object is typically a behavior, a fault, or a situation rather than a person directly.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">我不能容忍这种行为。</div>
+            <div class="ex-py">Wǒ bùnéng róngrěn zhè zhǒng xíngwéi.</div>
+            <div class="ex-en">I cannot tolerate this kind of behavior.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他对错误从不容忍。</div>
+            <div class="ex-py">Tā duì cuòwù cóng bù róngrěn.</div>
+            <div class="ex-en">He never tolerates mistakes.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这种污染再也不能容忍了。</div>
+            <div class="ex-py">Zhè zhǒng wūrǎn zài yě bùnéng róngrěn le.</div>
+            <div class="ex-en">This kind of pollution can no longer be tolerated.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">辨析 biànxī · 容忍 vs. 忍受</span>
+          容忍 róngrěn centers on <em>allowing</em> something to continue: it implies the power to stop it but a choice not to, so it often appears in negative form (不能容忍, will not tolerate). 忍受 rěnshòu centers on <em>suffering through</em> something one cannot escape (忍受痛苦, to endure pain). You 容忍 a colleague's rudeness; you 忍受 a toothache. The first is a decision about others; the second is endurance of your own hardship.
+        </div>
+      </div>
+
+      <!-- 宽容 -->
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">宽容</span>
+          <span class="card-py">kuānróng</span>
+          <span class="card-en">lenient; tolerant; magnanimous</span>
+        </div>
+        <div class="tags"><span class="tag tag-adj">ADJ 形容词 xíngróngcí</span></div>
+        <div class="card-def">
+          宽 kuān (wide; broad) + 容 róng (to hold). To hold broadly: a generous, forgiving disposition that leaves wide room for others' faults. Where 容忍 is a grudging act, 宽容 is an admired character trait. The 宽 (wide) intensifies the holding image directly: a broad vessel spills less.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">她对别人的缺点很宽容。</div>
+            <div class="ex-py">Tā duì biérén de quēdiǎn hěn kuānróng.</div>
+            <div class="ex-en">She is very tolerant of other people's faults.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">宽容是一种美德。</div>
+            <div class="ex-py">Kuānróng shì yì zhǒng měidé.</div>
+            <div class="ex-en">Tolerance is a virtue.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">请你宽容一点。</div>
+            <div class="ex-py">Qǐng nǐ kuānróng yìdiǎn.</div>
+            <div class="ex-en">Please be a little more forgiving.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">辨析 biànxī · Comparison</span>
+          宽容 kuānróng (lenient toward faults, an admired trait) vs. 容忍 róngrěn (to put up with, often reluctantly) vs. 原谅 yuánliàng (to forgive a specific wrong already done). 宽容 is a standing disposition; 原谅 is a response to one event.
+        </div>
+      </div>
+
+      <!-- 容许 -->
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">容许</span>
+          <span class="card-py">róngxǔ</span>
+          <span class="card-en">to permit; to allow; to admit of</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
+        <div class="card-def">
+          容 róng (to allow) + 许 xǔ (to permit; to grant). To leave room for something to happen. Slightly more formal than the everyday 允许 yǔnxǔ, and it often appears in the negative (不容许, does not permit) or with abstract subjects such as time, rules, or circumstances that "do not allow" a thing.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">规则不容许任何例外。</div>
+            <div class="ex-py">Guīzé bù róngxǔ rènhé lìwài.</div>
+            <div class="ex-en">The rules permit no exceptions.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">时间不容许我们犹豫。</div>
+            <div class="ex-py">Shíjiān bù róngxǔ wǒmen yóuyù.</div>
+            <div class="ex-en">Time does not allow us to hesitate.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">语法 yǔfǎ · Grammar</span>
+          容许 and 允许 yǔnxǔ overlap heavily for "to permit." 允许 is the neutral default in speech (老师允许我们提问, the teacher lets us ask questions). 容许 leans formal and is especially natural when the subject is an impersonal condition: 情况不容许 (the situation does not permit). Note also the bare negation 不容 bùróng (will brook no), as in 不容置疑 below.
+        </div>
+      </div>
+
+    </div><!-- /cards tolerate -->
+
+    <!-- ── APPEARANCE & THE EASY SENSE ── -->
+    <span class="section-anchor" id="appearance"></span>
+    <div class="section-head">
+      <span class="sh-cn">容貌/笑容/容易</span>
+      <span class="sh-py">róngmào / xiàoróng / róngyì</span>
+      <span class="sh-en">Appearance &amp; the Easy Sense</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="容">
+      <div class="scholar-label">语义洞见 yǔyì dòngjiàn · Semantic Insight</div>
+      <p>The face is the surface that holds and shows a person, so 容 also means <em>appearance</em>, especially the human face: 容貌 (looks), 面容 (countenance), 笑容 (a smile). Beauty care is 美容, literally "to beautify the 容." And tucked into the most common word of all, 容易 (easy), the character carries a quieter sense: there is ample room, nothing crowds the task, so it goes smoothly.</p>
+    </div>
+
+    <div class="cards">
+
+      <!-- 容貌 -->
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">容貌</span>
+          <span class="card-py">róngmào</span>
+          <span class="card-en">appearance; looks (of the face)</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          容 róng (face; appearance) + 貌 mào (looks; outward form). A person's facial appearance, slightly literary in tone. Used to describe how someone looks, especially in careful or admiring description. Compare the plainer 长相 zhǎngxiàng used in casual speech.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">她容貌秀丽。</div>
+            <div class="ex-py">Tā róngmào xiùlì.</div>
+            <div class="ex-en">She has a delicate, beautiful appearance.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">岁月改变了他的容貌。</div>
+            <div class="ex-py">Suìyuè gǎibiàn le tā de róngmào.</div>
+            <div class="ex-en">The years have changed his appearance.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">词语 cíyǔ · Related Words</span>
+          面容 miànróng (countenance, the look of the face) · 容颜 róngyán (one's looks, often a youthful or aging face, literary) · 美容 měiróng (beauty care, cosmetology) · 仪容 yíróng (one's bearing and grooming).
+        </div>
+      </div>
+
+      <!-- 笑容 -->
+      <div class="card c-violet">
+        <div class="card-head">
+          <span class="card-cn">笑容</span>
+          <span class="card-py">xiàoróng</span>
+          <span class="card-en">a smile; a smiling expression</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          笑 xiào (to smile; to laugh) + 容 róng (facial expression). The smile as a look worn on the face, treated as a noun: something one has, shows, or loses. Where 笑 is the act of smiling, 笑容 is the expression itself, the way the face holds a smile.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">她脸上露出了笑容。</div>
+            <div class="ex-py">Tā liǎn shàng lùchū le xiàoróng.</div>
+            <div class="ex-en">A smile appeared on her face.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他的笑容很温暖。</div>
+            <div class="ex-py">Tā de xiàoróng hěn wēnnuǎn.</div>
+            <div class="ex-en">His smile is very warm.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">听到消息，她脸上的笑容消失了。</div>
+            <div class="ex-py">Tīngdào xiāoxi, tā liǎn shàng de xiàoróng xiāoshī le.</div>
+            <div class="ex-en">On hearing the news, the smile vanished from her face.</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 容易 -->
+      <div class="card c-red">
+        <div class="card-head">
+          <span class="card-cn">容易</span>
+          <span class="card-py">róngyì</span>
+          <span class="card-en">easy; likely to (happen)</span>
+        </div>
+        <div class="tags"><span class="tag tag-adj">ADJ 形容词 xíngróngcí</span></div>
+        <div class="card-def">
+          容 róng (ample room) + 易 yì (easy; to change). The most common word built on 容, and a core HSK item. It carries two linked senses: a task is "easy," and an event is "likely" or "apt to happen." The shared idea is low resistance: with room to spare, the thing happens readily.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">这道题很容易。</div>
+            <div class="ex-py">Zhè dào tí hěn róngyì.</div>
+            <div class="ex-en">This problem is very easy.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">玻璃容易碎。</div>
+            <div class="ex-py">Bōlí róngyì suì.</div>
+            <div class="ex-en">Glass breaks easily. (Lit. is apt to break)</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">说起来容易，做起来难。</div>
+            <div class="ex-py">Shuō qǐlái róngyì, zuò qǐlái nán.</div>
+            <div class="ex-en">Easier said than done.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">语法 yǔfǎ · Two Uses</span>
+          容易 + Verb has two readings set by context. With a desirable verb it means "easy to" (容易学, easy to learn). With an undesirable verb it means "apt to, prone to" (容易感冒, prone to catching cold; 容易出错, apt to make mistakes). The antonym for the "easy" sense is 难 nán (difficult).
+        </div>
+      </div>
+
+    </div><!-- /cards appearance -->
+
+    <!-- ── CHENGYU ── -->
+    <span class="section-anchor" id="chengyu"></span>
+    <div class="section-head">
+      <span class="sh-cn">成语</span>
+      <span class="sh-py">chéngyǔ</span>
+      <span class="sh-en">Idioms &amp; Set Phrases</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="chengyu-grid">
+
+      <div class="cy">
+        <span class="cy-cn">从容不迫</span>
+        <span class="cy-py">cóng róng bù pò</span>
+        <span class="cy-en">calm and unhurried: composed under pressure</span>
+        <span class="cy-note">从容 = calm, leisurely; 不迫 = not pressed, not rushed. To act with poise and no sign of haste even when stakes are high. Here 容 sits in 从容, the word for unflustered composure: someone with room inside to spare. 他从容不迫地回答了所有问题。(He answered every question calmly and without haste.)</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">无地自容</span>
+        <span class="cy-py">wú dì zì róng</span>
+        <span class="cy-en">no ground on which to hold oneself: too ashamed to show one's face</span>
+        <span class="cy-note">无地 = no place; 自容 = to hold or hide oneself. So ashamed that there is nowhere on earth to put oneself. 容 here is the holding sense turned inward: no space will contain a person's shame. 听到批评，他羞愧得无地自容。(At the criticism, he was so ashamed he wished the ground would swallow him.)</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">义不容辞</span>
+        <span class="cy-py">yì bù róng cí</span>
+        <span class="cy-en">duty leaves no room to decline: an obligation one cannot refuse</span>
+        <span class="cy-note">义 = duty, righteousness; 不容 = brooks no, leaves no room for; 辞 = to decline, to refuse. A moral duty so clear that refusing it is not an option. Note the 不容 (will brook no) construction: 容 in the negative means "to leave room for." 帮助他是我义不容辞的责任。(Helping him is a duty I cannot in good conscience refuse.)</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">不容置疑</span>
+        <span class="cy-py">bù róng zhì yí</span>
+        <span class="cy-en">leaving no room for doubt: beyond question; indisputable</span>
+        <span class="cy-note">不容 = leaves no room for; 置疑 = to cast doubt. A fact or conclusion so certain that no doubt can be entertained. The same 不容 pattern as 义不容辞: there is simply no space for the doubt to enter. 这个事实不容置疑。(This fact is beyond dispute.)</span>
+      </div>
+
+    </div>
+
+    <!-- ── ADJACENT VOCAB ── -->
+    <span class="section-anchor" id="adjacent"></span>
+    <div class="section-head">
+      <span class="sh-cn">相邻词汇</span>
+      <span class="sh-py">xiānglín cíhuì</span>
+      <span class="sh-en">Adjacent Vocabulary</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="adj-wrap">
+      <span class="adj" data-relation="derived"><span class="a-cn">内容</span><span class="a-py">nèiróng</span><span class="a-en">content; what is contained</span></span>
+      <span class="adj" data-relation="derived"><span class="a-cn">形容</span><span class="a-py">xíngróng</span><span class="a-en">to describe; to depict</span></span>
+      <span class="adj" data-relation="derived"><span class="a-cn">面容</span><span class="a-py">miànróng</span><span class="a-en">countenance; the face</span></span>
+      <span class="adj" data-relation="synonym" data-distinct="忍受 is suffering one cannot escape; 容忍 is choosing to allow"><span class="a-cn">忍受</span><span class="a-py">rěnshòu</span><span class="a-en">to endure; to bear</span></span>
+      <span class="adj" data-relation="synonym" data-distinct="允许 is the neutral everyday permit; 容许 leans formal"><span class="a-cn">允许</span><span class="a-py">yǔnxǔ</span><span class="a-en">to allow; to permit</span></span>
+      <span class="adj" data-relation="synonym"><span class="a-cn">接纳</span><span class="a-py">jiēnà</span><span class="a-en">to accept (into a group)</span></span>
+      <span class="adj" data-relation="antonym" data-distinct="排斥 is to push out and reject, the opposite of holding in"><span class="a-cn">排斥</span><span class="a-py">páichì</span><span class="a-en">to repel; to reject</span></span>
+      <span class="adj" data-relation="antonym"><span class="a-cn">困难</span><span class="a-py">kùnnán</span><span class="a-en">difficulty; difficult</span></span>
+      <span class="adj" data-relation="collocation"><span class="a-cn">度量</span><span class="a-py">dùliàng</span><span class="a-en">tolerance; magnanimity</span></span>
+      <span class="adj" data-relation="collocation"><span class="a-cn">原谅</span><span class="a-py">yuánliàng</span><span class="a-en">to forgive</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="体积 is the space a thing takes up; 容量 is what it can hold"><span class="a-cn">体积</span><span class="a-py">tǐjī</span><span class="a-en">volume; bulk</span></span>
+      <span class="adj"><span class="a-cn">表情</span><span class="a-py">biǎoqíng</span><span class="a-en">facial expression</span></span>
+    </div>
+
+    <!-- RETENTION IMAGE -->
+    <div class="scholar" data-glyph="容">
+      <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
+      <p>Hold the picture: a roof set over a valley. The widest hollow in the land, given a shelter that says "everything here is held." That single image binds every meaning the character carries. A jar holds water, so 容量 is its capacity. A heart holds grievances without lashing out, so 宽容 is to be forgiving. A face holds a person's whole bearing, so 容貌 is one's looks and 笑容 is the smile worn upon it. And when a valley has room to spare, a thing slips through with no resistance, so 容易 means easy.</p>
+      <p>Two patterns repay learning. First, the negation 不容 (brooks no, leaves no room): 不容置疑 (beyond doubt), 义不容辞 (a duty one cannot decline). To refuse room is the strongest form of refusal. Second, the poise of 从容: the composed person is one with space inside, never crowded, never rushed. When you next reach for 容, ask what is being held, and the right sense will surface: a vessel, a person's patience, or a face.</p>
+    </div>
+
+    
+  </main>
+</div>
+<script src="../../scripts/toc-scroll.js"></script>

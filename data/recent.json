@@ -1,374 +1,402 @@
 [
   {
-    "path": "pages/arts/topic_chuci.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "楚辞 · Songs of Chu",
-    "desc": "The shamanistic southern voice that gave Chinese literature its second pole: visionary, romantic, and inconsolably exiled.",
-    "tags": [
-      "poetry",
-      "literature",
-      "classical",
-      "history",
-      "culture"
-    ],
-    "status": "complete",
-    "pinyin": "chǔcí",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/arts/topic_guqin.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "古琴 · the scholar's zither",
-    "desc": "The seven-string zither Confucius played throughout his life, and the origin of 知音, the word for a person who truly understands you.",
-    "tags": [
-      "arts",
-      "music",
-      "classical",
-      "confucianism",
-      "literature"
-    ],
-    "status": "complete",
-    "pinyin": "gǔqín",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/arts/topic_jingju_roles.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "生旦净末丑 · Role Types in Peking Opera",
-    "desc": "Five role categories, each a complete performance tradition -- voice, movement, makeup, and costume as a total semiotic system.",
-    "tags": [
-      "opera",
-      "theatre",
-      "performance",
-      "culture",
-      "arts",
-      "music"
-    ],
-    "status": "complete",
-    "pinyin": "shēng dàn jìng mò chǒu",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/arts/topic_luxun.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "鲁迅 · Lu Xun",
-    "desc": "The writer who looked at traditional Chinese society and saw cannibalism, and the complicated, unresolvable legacy he left behind.",
-    "tags": [
-      "literature",
-      "history",
-      "culture",
-      "writing",
-      "classical"
-    ],
-    "status": "complete",
-    "pinyin": "lǔxùn",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/arts/topic_shanshui.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "山水画 · landscape painting",
-    "desc": "Chinese landscape painting encodes a theory in its name: 山 (mountain, yang, permanent) and 水 (water, yin, changing) in dynamic tension. A space to inhabit in the imagination, not a view to frame.",
-    "tags": [
-      "arts",
-      "nature",
-      "taoism",
-      "aesthetics",
-      "classical"
-    ],
-    "status": "complete",
-    "pinyin": "shānshuǐhuà",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/arts/topic_shijing.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "诗经 · Book of Songs",
-    "desc": "China oldest poetry anthology: three hundred poems that Confucius said no educated person could afford to ignore.",
-    "tags": [
-      "poetry",
-      "literature",
-      "classical",
-      "history",
-      "culture"
-    ],
-    "status": "complete",
-    "pinyin": "shījīng",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/arts/topic_shufa_styles.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "书法风格 · The Five Scripts of Chinese Calligraphy",
-    "desc": "Five script styles chart two thousand years of Chinese writing, from the solemn bronze inscriptions of the Zhou to the explosive cursive of the Tang masters.",
-    "tags": [
-      "calligraphy",
-      "arts",
-      "writing",
-      "classical",
-      "history",
-      "aesthetics",
-      "culture"
-    ],
-    "status": "complete",
-    "pinyin": "shūfǎ fēnggé",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/arts/topic_shuimohua.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "水墨画 · Ink-Wash Painting",
-    "desc": "Where the brush meets philosophy: five tones of ink, the art of leaving space, and landscapes that are not about landscape at all.",
-    "tags": [
-      "art",
-      "brush",
-      "calligraphy",
-      "culture",
-      "history",
-      "classical"
-    ],
-    "status": "complete",
-    "pinyin": "shuǐmòhuà",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/arts/topic_songci.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "宋词 · Song Dynasty Lyric",
-    "desc": "The poem that sings: fixed tune patterns, named meters, and three masters who defined what the Chinese lyric could feel.",
-    "tags": [
-      "poetry",
-      "literature",
-      "classical",
-      "song",
-      "history",
-      "culture"
-    ],
-    "status": "complete",
-    "pinyin": "sòngcí",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/arts/topic_tangshi.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "唐诗 · Tang Poetry",
-    "desc": "Li Bai, Du Fu, and the golden age of regulated verse.",
-    "tags": [
-      "poetry",
-      "tang",
-      "literature"
-    ],
-    "status": "complete",
-    "pinyin": "tángshī",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/arts/topic_zhuanke.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "篆刻 · Seal Carving",
-    "desc": "The art of the name: bronze to stone, dynasty to dynasty, two schools of carvers, and the small red square that authenticates everything.",
-    "tags": [
-      "calligraphy",
-      "art",
-      "brush",
-      "culture",
-      "history",
-      "classical"
-    ],
-    "status": "complete",
-    "pinyin": "zhuànkè",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/characters/dao4_道.html",
+    "path": "pages/characters/chao2_朝.html",
     "type": "character",
     "category": "characters",
-    "title": "道 · way, path",
-    "desc": "The word that gave Daoism its name, and underlies every Chinese 'ism'.",
+    "title": "朝 · dynasty, imperial court, to face toward; (zhāo) morning",
+    "desc": "The sun rising among grasses with the moon still in the sky. From that dawn scene grow two readings: zhāo, the morning and its youthful vigor, and cháo, the court that met at daybreak, the dynasty it served, and the preposition toward.",
     "tags": [
-      "daoism",
-      "philosophy",
-      "path"
+      "dynasty",
+      "history",
+      "direction",
+      "characters"
     ],
     "status": "complete",
-    "char": "道",
-    "pinyin": "dào",
+    "char": "朝",
+    "pinyin": "cháo",
+    "tone": 2,
+    "hsk": 3,
+    "radical": "月",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/cheng2_城.html",
+    "type": "character",
+    "category": "characters",
+    "title": "城 · city, city wall, town",
+    "desc": "A rampart of earth raised around a settlement: the character where the wall and the city it protects are one and the same word.",
+    "tags": [
+      "fortification",
+      "settlement",
+      "geography",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "城",
+    "pinyin": "chéng",
+    "tone": 2,
+    "hsk": 3,
+    "radical": "土",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/chuan2_传.html",
+    "type": "character",
+    "category": "characters",
+    "title": "传 · to pass on, transmit, spread; (zhuan) a biography, a commentary",
+    "desc": "The person radical carrying something onward: one figure handing a thing to the next. From that image grow the senses of 传, read chuan when it means to pass down, transmit, and spread, and read zhuan when it names a biography or a classical commentary.",
+    "tags": [
+      "transmission",
+      "communication",
+      "culture",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "传",
+    "pinyin": "chuán",
+    "tone": 2,
+    "hsk": 3,
+    "radical": "亻",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/dai4_代.html",
+    "type": "character",
+    "category": "characters",
+    "title": "代 · generation, era, to substitute, on behalf of",
+    "desc": "The person radical carrying the sense of succession: one figure standing in the place of another. From that single image grow the four faces of 代: to replace or act for someone, to do a thing on their behalf, the generation that succeeds the one before, and the era or dynasty in which a life is set.",
+    "tags": [
+      "generation",
+      "history",
+      "society",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "代",
+    "pinyin": "dài",
     "tone": 4,
     "hsk": 3,
-    "radical": "辶",
-    "updated": "2026-06-19"
+    "radical": "亻",
+    "updated": "2026-06-21"
   },
   {
-    "path": "pages/characters/di1_低.html",
+    "path": "pages/characters/diao4_调.html",
     "type": "character",
     "category": "characters",
-    "title": "低 · low; to lower; to bow down",
-    "desc": "A person stooping: the phonetic 氐 gives the sound while the human radical supplies the posture, and together they built one of the most culturally loaded words in modern Chinese.",
+    "title": "调 · (diào) to transfer, tune, accent; (tiáo) to adjust, to blend, to mediate",
+    "desc": "A high-frequency polyphone with two readings. As diào it means to transfer, a melody or key, a tone, an accent; as tiáo it means to adjust, to blend, to mediate. The reading tells you whether 调 is moving things or harmonizing them.",
     "tags": [
-      "adjectives",
-      "daily-life",
-      "scale",
-      "degree"
+      "music",
+      "communication",
+      "change",
+      "characters"
     ],
     "status": "complete",
-    "char": "低",
-    "pinyin": "dī",
-    "tone": 1,
+    "char": "调",
+    "pinyin": "diào",
+    "tone": 4,
     "hsk": 3,
-    "radical": "亻",
-    "updated": "2026-06-19"
+    "radical": "讠",
+    "updated": "2026-06-21"
   },
   {
-    "path": "pages/characters/fo2_佛.html",
+    "path": "pages/characters/fu1_夫.html",
     "type": "character",
     "category": "characters",
-    "title": "佛 · Buddha, the awakened",
-    "desc": "The character that carried an entire worldview across the Silk Road: etymology, Buddhism, the 佛-family of compounds.",
-    "tags": [
-      "religion",
-      "buddhism",
-      "culture"
-    ],
-    "status": "complete",
-    "char": "佛",
-    "pinyin": "fó",
-    "tone": 2,
-    "hsk": 5,
-    "radical": "亻",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/characters/gan3_感.html",
-    "type": "character",
-    "category": "characters",
-    "title": "感 · to feel, to resonate",
-    "desc": "Feeling, perception, gratitude, and the cosmology of sympathetic resonance.",
-    "tags": [
-      "emotion",
-      "perception",
-      "gratitude"
-    ],
-    "status": "complete",
-    "char": "感",
-    "pinyin": "gǎn",
-    "tone": 3,
-    "hsk": {
-      "from": 2,
-      "to": 4
-    },
-    "radical": "心",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/characters/he2_和.html",
-    "type": "character",
-    "category": "characters",
-    "title": "和 · harmony, and, with; peace",
-    "desc": "和 carries the same concept across grammar and philosophy: grain and mouth together, the harmony of shared food and speech, a character that serves as both everyday conjunction and the Confucian ideal of a well-ordered world.",
-    "tags": [
-      "confucianism",
-      "social",
-      "grammar",
-      "philosophy"
-    ],
-    "status": "complete",
-    "char": "和",
-    "pinyin": "hé",
-    "tone": 2,
-    "hsk": 1,
-    "radical": "禾",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/characters/jia1_家.html",
-    "type": "character",
-    "category": "characters",
-    "title": "家 · home, family",
-    "desc": "House, family, school of thought, nation (国家): the fractal of belonging.",
+    "title": "夫 · husband, a grown man, laborer; the literary particle fú",
+    "desc": "A grown man pictured with a hairpin marking adulthood: the husband and the married couple (丈夫 夫妻 夫人 夫妇), the adult man and laborer (农夫 渔夫 大夫), skill and effort (功夫 工夫), and the classical literary particle 夫 fú that opens a sentence.",
     "tags": [
       "family",
       "society",
-      "home"
+      "humanity",
+      "characters"
     ],
     "status": "complete",
-    "char": "家",
-    "pinyin": "jiā",
-    "tone": 1,
-    "hsk": 1,
-    "radical": "宀",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/characters/ke3_可.html",
-    "type": "character",
-    "category": "characters",
-    "title": "可 · can; may; worth; quite",
-    "desc": "A two-stroke mouth character whose ancient sense of affirming breath became the pivot of permission, capability, and worth in classical and modern Chinese.",
-    "tags": [
-      "grammar",
-      "modal",
-      "ability",
-      "permission",
-      "classical",
-      "syntax"
-    ],
-    "status": "complete",
-    "char": "可",
-    "pinyin": "kě",
-    "tone": 3,
-    "hsk": 2,
-    "radical": "口",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/characters/kong1_空.html",
-    "type": "character",
-    "category": "characters",
-    "title": "空 · empty, sky, void; in vain",
-    "desc": "A cave with the work of hollowing inside it. The character that names the open sky, the empty room, the wasted afternoon, and the Buddhist śūnyatā at the heart of Chan.",
-    "tags": [
-      "buddhism",
-      "philosophy",
-      "cosmology",
-      "chan",
-      "meditation"
-    ],
-    "status": "complete",
-    "char": "空",
-    "pinyin": "kōng",
+    "char": "夫",
+    "pinyin": "fū",
     "tone": 1,
     "hsk": 3,
-    "radical": "穴",
-    "updated": "2026-06-19"
+    "radical": "大",
+    "updated": "2026-06-21"
   },
   {
-    "path": "pages/characters/kuai4_快.html",
+    "path": "pages/characters/gong1_功.html",
     "type": "character",
     "category": "characters",
-    "title": "快 · fast, happy",
-    "desc": "One character carries two meanings that turn out to be the same thing: speed and joy both feel like the heart cutting loose.",
+    "title": "功 · merit, achievement, skill, effort",
+    "desc": "Merit earned through effort: from meritorious service and success to the patient skill the Chinese call gongfu, and even work in physics.",
     "tags": [
-      "emotion",
-      "daily-life",
-      "adjectives"
+      "mastery",
+      "ability",
+      "evaluation",
+      "characters"
     ],
     "status": "complete",
-    "char": "快",
-    "pinyin": "kuài",
+    "char": "功",
+    "pinyin": "gōng",
+    "tone": 1,
+    "hsk": 3,
+    "radical": "力",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/gu3_古.html",
+    "type": "character",
+    "category": "characters",
+    "title": "古 · ancient, old, classical",
+    "desc": "The mouth radical holding what ten generations have spoken down the years: 古 is what is old because it has been handed on. From that single image grow the senses of antiquity (古代 古老 远古), the classical and the antique (古典 古文 古董 古迹 考古), and the quaint or unconventional (古怪 古板).",
+    "tags": [
+      "ancient",
+      "history",
+      "classics",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "古",
+    "pinyin": "gǔ",
+    "tone": 3,
+    "hsk": 3,
+    "radical": "口",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/hua4_化.html",
+    "type": "character",
+    "category": "characters",
+    "title": "化 · to change, to transform, to melt",
+    "desc": "The character of transformation itself: melting, digesting, civilizing, and the productive -ize suffix that builds half of modern technical Chinese.",
+    "tags": [
+      "change",
+      "culture",
+      "science",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "化",
+    "pinyin": "huà",
     "tone": 4,
-    "hsk": 2,
-    "radical": "忄",
-    "updated": "2026-06-19"
+    "hsk": 3,
+    "radical": "匕",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/jie3_解.html",
+    "type": "character",
+    "category": "characters",
+    "title": "解 · to untie, to solve, to explain, to dissolve",
+    "desc": "The character for cutting apart and undoing: untying and liberating, solving and explaining, dissolving and relieving. A polyphone read jiě, jiè, and xiè, pictured as a hand prying an ox horn from the ox.",
+    "tags": [
+      "knowing",
+      "meaning",
+      "communication",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "解",
+    "pinyin": "jiě",
+    "tone": 3,
+    "hsk": 3,
+    "radical": "角",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/li4_历.html",
+    "type": "character",
+    "category": "characters",
+    "title": "历 · to experience, history, calendar",
+    "desc": "One simplified glyph that absorbed two traditional characters: 歷 (to pass through, history) and 曆 (calendar). The word that holds both lived experience and reckoned time.",
+    "tags": [
+      "history",
+      "calendar",
+      "time",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "历",
+    "pinyin": "lì",
+    "tone": 4,
+    "hsk": 3,
+    "radical": "厂",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/lian2_连.html",
+    "type": "character",
+    "category": "characters",
+    "title": "连 · to link, to join, even",
+    "desc": "Carts moving in a line: a character that joins things in space, in sequence, and in emphasis, from 连接 to the famous 连...都 construction.",
+    "tags": [
+      "cohesion",
+      "even",
+      "connections",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "连",
+    "pinyin": "lián",
+    "tone": 2,
+    "hsk": 3,
+    "radical": "辶",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/min2_民.html",
+    "type": "character",
+    "category": "characters",
+    "title": "民 · the people, a citizen, folk",
+    "desc": "The common people as a collective subject: the populace, the citizen, the folk and the nation, and the civilian set against the military. From 人民 the people to 民族 ethnic nation to 民主 democracy.",
+    "tags": [
+      "society",
+      "politics",
+      "social",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "民",
+    "pinyin": "mín",
+    "tone": 2,
+    "hsk": 3,
+    "radical": "民",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/rong2_容.html",
+    "type": "character",
+    "category": "characters",
+    "title": "容 · to contain, to allow, appearance",
+    "desc": "A roof over a valley: the space that holds. To contain, to tolerate, the face one shows, and the easy in rongyi.",
+    "tags": [
+      "characters",
+      "meaning",
+      "perception",
+      "space"
+    ],
+    "status": "complete",
+    "char": "容",
+    "pinyin": "róng",
+    "tone": 2,
+    "hsk": 3,
+    "radical": "宀",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/she4_社.html",
+    "type": "character",
+    "category": "characters",
+    "title": "社 · society, an association, the god of the soil",
+    "desc": "The altar radical beside the earth: a shrine to the god of the soil and the community that gathered around it. From that image grow society itself, the many kinds of association and agency, and the ancient soil-and-grain spirits that once stood for the state.",
+    "tags": [
+      "society",
+      "social",
+      "ritual",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "社",
+    "pinyin": "shè",
+    "tone": 4,
+    "hsk": 3,
+    "radical": "礻",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/shi4_世.html",
+    "type": "character",
+    "category": "characters",
+    "title": "世 · world, age, generation, lifetime",
+    "desc": "A pictograph traditionally read as three tens joined together, the span of thirty years that makes one generation. From that root grow the four faces of 世: the generation that succeeds the one before, the lifetime or the life to come, the era stacked from many lives, and the wider world of human society in which all of it unfolds.",
+    "tags": [
+      "generation",
+      "cosmology",
+      "society",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "世",
+    "pinyin": "shì",
+    "tone": 4,
+    "hsk": 3,
+    "radical": "一",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/shou3_首.html",
+    "type": "character",
+    "category": "characters",
+    "title": "首 · head, first, chief, a measure word for songs and poems",
+    "desc": "A drawn head, with hair above an eye, and from it the senses of first, foremost, chief, leader, and the classifier you count songs and poems with. 首 is its own radical.",
+    "tags": [
+      "body",
+      "measure-words",
+      "royalty",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "首",
+    "pinyin": "shǒu",
+    "tone": 3,
+    "hsk": 3,
+    "radical": "首",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/wang4_望.html",
+    "type": "character",
+    "category": "characters",
+    "title": "望 · to gaze afar, to hope, reputation",
+    "desc": "A person on a mound looking into the distance, with the moon above: from that raised gaze grow three senses. To gaze and look afar (眺望, 望远镜, 张望), to hope and expect (希望, 期望, 盼望, 失望), and reputation or prestige (名望, 威望, 声望). As a coverb it can even mean toward, like 朝 or 向.",
+    "tags": [
+      "perception",
+      "feeling",
+      "evaluation",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "望",
+    "pinyin": "wàng",
+    "tone": 4,
+    "hsk": 3,
+    "radical": "月",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/wu3_武.html",
+    "type": "character",
+    "category": "characters",
+    "title": "武 · martial, military, valiant",
+    "desc": "The foot radical 止 carrying a dagger-axe 戈: the soldier on the march, and the older reading that to wield arms well is finally to halt them. From 武力 armed force to 武术 martial arts to 威武 powerful and dignified, the character holds the whole world of strength wielded with discipline.",
+    "tags": [
+      "martial-arts",
+      "wuxia",
+      "honor",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "武",
+    "pinyin": "wǔ",
+    "tone": 3,
+    "hsk": 3,
+    "radical": "止",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/xing2_形.html",
+    "type": "character",
+    "category": "characters",
+    "title": "形 · shape, form, to appear, to compare",
+    "desc": "The character for visible form: shape and figure, the body as form, the act of taking shape and being described, and the lay of a situation. A pictophonetic compound built on the pattern-strokes radical 彡.",
+    "tags": [
+      "perception",
+      "geometry",
+      "meaning",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "形",
+    "pinyin": "xíng",
+    "tone": 2,
+    "hsk": 3,
+    "radical": "彡",
+    "updated": "2026-06-21"
   }
 ]
