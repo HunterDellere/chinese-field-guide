@@ -180,6 +180,46 @@
     "updated": "2026-06-21"
   },
   {
+    "path": "pages/characters/guan1_观.html",
+    "type": "character",
+    "category": "characters",
+    "title": "观 · to observe, view, outlook, Daoist temple",
+    "desc": "The eye that looks and the mind that judges. From watching a thing closely grow two families of meaning: to observe and to view, and the settled outlook through which a person sees the world. A second reading, guàn, names the Daoist temple.",
+    "tags": [
+      "perception",
+      "philosophy",
+      "meaning",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "观",
+    "pinyin": "guān",
+    "tone": 1,
+    "hsk": 2,
+    "radical": "见",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/hai3_海.html",
+    "type": "character",
+    "category": "characters",
+    "title": "海 · sea, ocean, a vast quantity",
+    "desc": "Water plus the phonetic 每: the sea, the ocean, and by extension any vastness. From 大海 and 海洋 to the coastal city 上海, the navy 海军, and the crowd that becomes a 人海.",
+    "tags": [
+      "nature",
+      "geography",
+      "meaning",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "海",
+    "pinyin": "hǎi",
+    "tone": 3,
+    "hsk": 2,
+    "radical": "氵",
+    "updated": "2026-06-21"
+  },
+  {
     "path": "pages/characters/he2_合.html",
     "type": "character",
     "category": "characters",
@@ -220,6 +260,26 @@
     "updated": "2026-06-21"
   },
   {
+    "path": "pages/characters/ji3_己.html",
+    "type": "character",
+    "category": "characters",
+    "title": "己 · oneself, self, the sixth Heavenly Stem",
+    "desc": "A picture of a coiled, bending thread borrowed long ago to mean the self. From it grows everything turned inward: oneself, the private view, self-restraint, and the sixth of the ten Heavenly Stems.",
+    "tags": [
+      "identity",
+      "ethics",
+      "meaning",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "己",
+    "pinyin": "jǐ",
+    "tone": 3,
+    "hsk": 2,
+    "radical": "己",
+    "updated": "2026-06-21"
+  },
+  {
     "path": "pages/characters/jian4_件.html",
     "type": "character",
     "category": "characters",
@@ -237,6 +297,26 @@
     "tone": 4,
     "hsk": 2,
     "radical": "亻",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/jie2_结.html",
+    "type": "character",
+    "category": "characters",
+    "title": "结 · to tie, to unite, to conclude, to bear fruit",
+    "desc": "A knot tied in silk thread. From that image grows everything that binds and resolves: the knot you tie, the union of two people, the conclusion that settles a matter, and the fruit a plant ties onto its branch.",
+    "tags": [
+      "connections",
+      "meaning",
+      "society",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "结",
+    "pinyin": "jié",
+    "tone": 2,
+    "hsk": 2,
+    "radical": "纟",
     "updated": "2026-06-21"
   },
   {
@@ -417,6 +497,26 @@
     "tone": 2,
     "hsk": 2,
     "radical": "忄",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/quan2_全.html",
+    "type": "character",
+    "category": "characters",
+    "title": "全 · whole, complete, entire, all",
+    "desc": "Enter, and find the jade flawless. From that image of unblemished jade grows everything whole and complete: the entire set, the intact and unbroken, and the adverb that sweeps up all of it at once.",
+    "tags": [
+      "meaning",
+      "evaluation",
+      "characters",
+      "quality"
+    ],
+    "status": "complete",
+    "char": "全",
+    "pinyin": "quán",
+    "tone": 2,
+    "hsk": 2,
+    "radical": "入",
     "updated": "2026-06-21"
   },
   {
@@ -617,6 +717,26 @@
     "tone": 4,
     "hsk": 2,
     "radical": "一",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/yin1_因.html",
+    "type": "character",
+    "category": "characters",
+    "title": "因 · cause, reason, because of, to follow",
+    "desc": "A person resting inside an enclosure, the mat one lies on. From that image of lying-upon comes the basis one builds on, then the cause behind an effect and the because that links the two.",
+    "tags": [
+      "logic",
+      "cohesion",
+      "meaning",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "因",
+    "pinyin": "yīn",
+    "tone": 1,
+    "hsk": 2,
+    "radical": "囗",
     "updated": "2026-06-21"
   },
   {

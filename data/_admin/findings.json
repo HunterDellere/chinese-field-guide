@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-21T18:15:38.860Z",
+  "generated": "2026-06-22T03:55:16.683Z",
   "summary": {
     "errors": 0,
     "warnings": 2,
-    "info": 1129
+    "info": 1135
   },
   "findings": [
     {
@@ -75,7 +75,7 @@
       "level": "WARN",
       "category": "factual",
       "file": "data/_reference/hanzi-facts.json",
-      "msg": "78 hanzi appear in content/ but have no reference entry: 黛薛甄筵瘁珪逵猿説変阝喫剣邸髟啼攵郷绛雚楽诛隹巠霄暦掂竜侖麪牀鞦韆歬朖皃潔殸亅亖…. Claims about these characters cannot be mechanically verified. Run 'npm run refresh:reference' after updating upstream data."
+      "msg": "79 hanzi appear in content/ but have no reference entry: 黛薛甄筵瘁珪逵猿説変阝喫剣邸髟啼攵郷雚绛楽诛糹隹巠霄暦掂竜侖麪牀鞦韆歬朖皃潔殸亅…. Claims about these characters cannot be mechanically verified. Run 'npm run refresh:reference' after updating upstream data."
     },
     {
       "level": "INFO",
@@ -570,6 +570,13 @@
     {
       "level": "INFO",
       "category": "formatting",
+      "file": "content/characters/guan1_观.md",
+      "msg": "8 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
       "file": "content/characters/guang3_广.md",
       "msg": "16 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
@@ -586,6 +593,13 @@
       "category": "formatting",
       "file": "content/characters/guo2_国.md",
       "msg": "6 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
+      "file": "content/characters/hai3_海.md",
+      "msg": "9 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
@@ -682,6 +696,13 @@
     {
       "level": "INFO",
       "category": "formatting",
+      "file": "content/characters/ji3_己.md",
+      "msg": "6 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
       "file": "content/characters/ji4_记.md",
       "msg": "9 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
@@ -726,6 +747,13 @@
       "category": "formatting",
       "file": "content/characters/jiao4_教.md",
       "msg": "10 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
+      "file": "content/characters/jie2_结.md",
+      "msg": "8 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
@@ -1082,6 +1110,13 @@
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/qu4_去.md",
+      "msg": "9 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
+      "file": "content/characters/quan2_全.md",
       "msg": "9 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
@@ -1566,6 +1601,13 @@
       "category": "formatting",
       "file": "content/characters/yi4_意.md",
       "msg": "9 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
+      "file": "content/characters/yin1_因.md",
+      "msg": "8 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
