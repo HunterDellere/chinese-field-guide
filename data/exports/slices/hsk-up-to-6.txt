@@ -30,6 +30,7 @@
 耳	ěr	ear; to hear; handle — The pictograph of an ear that anchors Chinese words for listening, fame, and the furred handles on bronze vessels.
 二	èr	two; second — The number two encodes the foundational split that drives all of Chinese cosmology: yin and yang, the two forces from which everything else unfolds.
 风	fēng	wind; style; custom — The character that moves crops, carries seeds, and became the Chinese word for cultural character itself.
+夫	fū	husband, a grown man, laborer; the literary particle fú — A grown man pictured with a hairpin marking adulthood: the husband and the married couple (丈夫 夫妻 夫人 夫妇), the adult man and laborer (农夫 渔夫 大夫), skill and effort (功夫 工夫), and the classical literary particle 夫 fú that opens a sentence.
 佛	fó	Buddha, the awakened — The character that carried an entire worldview across the Silk Road: etymology, Buddhism, the 佛-family of compounds.
 福	fú	fortune, blessing, good luck — The most recognized Chinese character in the world: fortune, blessing, and the art of the upside-down 福.
 感	gǎn	to feel, to resonate — Feeling, perception, gratitude, and the cosmology of sympathetic resonance.
@@ -38,6 +39,7 @@
 更	gèng	even more; to change; night watch — A character that split across two readings: the comparative pulse of spoken Mandarin and the sonic clock of premodern China.
 工	gōng	work, craft, labor, worker — Three strokes encoding heaven, earth, and the human craft connecting them: the root character for all labor, skill, and making in Chinese.
 功	gōng	merit, achievement, skill, effort — Merit earned through effort: from meritorious service and success to the patient skill the Chinese call gongfu, and even work in physics.
+古	gǔ	ancient, old, classical — The mouth radical holding what ten generations have spoken down the years: 古 is what is old because it has been handed on. From that single image grow the senses of antiquity (古代 古老 远古), the classical and the antique (古典 古文 古董 古迹 考古), and the quaint or unconventional (古怪 古板).
 关	guān	to close, to concern, the frontier pass — The bolt that closes a gate, the mountain pass that controls a frontier, and the relation that ties two people together. One character holds all three.
 广	guǎng	wide, broad, to spread — A radical and a word: the cliff-shelter that became the prefix for everything expansive, from Guangzhou to Guangdong to radio broadcasts.
 鬼	guǐ	ghost, the wandering dead — A pictograph of a spirit with an oversized head: the disembodied soul of the unvenerated dead, a folk-religion category distinct from deity, demon, and ancestor.
@@ -112,6 +114,7 @@
 善	shàn	goodness; virtue; skilled — The character at the heart of Mencius argument that human nature is originally good: the moral sprouts waiting to be cultivated.
 上	shàng	above, up, to go up, to mount — The most productive spatial primitive in Chinese. 上 starts as a notch above a line and ends up meaning everything from logging on to getting addicted.
 少	shǎo	few; little; young — Small with a stroke removed: the character for scarcity that doubles as the word for youth when read in falling tone.
+社	shè	society, an association, the god of the soil — The altar radical beside the earth: a shrine to the god of the soil and the community that gathered around it. From that image grow society itself, the many kinds of association and agency, and the ancient soil-and-grain spirits that once stood for the state.
 神	shén	spirit; deity; divine — The character that names both the gods of Chinese folk religion and the focused attention of the human mind, because in Chinese thought they belong to the same category of phenomenon.
 生	shēng	life, birth, raw, student — A sprouting plant: life emerging from the earth. The most generative radical in Chinese.
 十	shí	ten; complete; cross — 十 is written as a cross (a vertical stroke cutting through a horizontal one), the point where all four cardinal directions meet, making ten the numeral of total completion.
@@ -136,12 +139,14 @@
 完	wán	to finish; to be whole — 完 means both whole and finished, and the bridge between them is intact completeness; its most important job is as a result complement, the 完 that ends 吃完, 做完, and 看完.
 万	wàn	ten thousand; myriad; all — 万 is the Chinese hyperbole unit. Where English reaches for millions, Chinese reaches for 万 to express the immeasurable, because the written number 10,000 originally meant scorpion.
 王	wáng	king — Three horizontals joined by one vertical: the ruler who connects heaven, earth, and humanity. Also the most common Chinese surname, and a radical that is secretly 玉 (jade) in disguise.
+望	wàng	to gaze afar, to hope, reputation — A person on a mound looking into the distance, with the moon above: from that raised gaze grow three senses. To gaze and look afar (眺望, 望远镜, 张望), to hope and expect (希望, 期望, 盼望, 失望), and reputation or prestige (名望, 威望, 声望). As a coverb it can even mean toward, like 朝 or 向.
 为	wéi	to do; to act; for; because of — In oracle bone script, a hand leading an elephant (to guide an immense force through skillful agency), and the character at the center of the Daoist concept of non-action.
 文	wén	writing, culture, civil — A tattooed figure: writing as marks on the body, culture as the accumulated markings of civilization.
 我	wǒ	I, me, myself — The character for 'I' began as a toothed bronze halberd: the assertive grip of a weapon became the grammatical mark of a self.
 屋	wū	room, house, dwelling — Room, dwelling, and the human need for shelter: the character at home.
 无	wú	nothing, without, non-being — A dancer with arms outstretched, holding nothing. The character behind every Chinese negation of having, every Daoist non-doing, and the philosophical pole that pairs with 有 to frame the whole cosmos.
 五	wǔ	five; the organizing number of correlative cosmology — Five is the center plus the four directions, the number that completes the Chinese cosmos: five phases, five colors, five tones, five flavors, five viscera, all keyed to one master grid.
+武	wǔ	martial, military, valiant — The foot radical 止 carrying a dagger-axe 戈: the soldier on the march, and the older reading that to wield arms well is finally to halt them. From 武力 armed force to 武术 martial arts to 威武 powerful and dignified, the character holds the whole world of strength wielded with discipline.
 西	xī	west; western — A bird settling into its nest at sunset: the direction that gave Chinese the word for "things" when it paired with east.
 下	xià	below, down, to descend, to issue — The mirror image of 上: a notch below the line that governs everything from going downstairs to issuing imperial decrees.
 想	xiǎng	to think, to want, to miss — 想 = 相 (mutual, facing) + 心 (heart): the heart turned toward something, carrying the full range from thought to desire to longing in a single gesture.
@@ -152,6 +157,7 @@
 信	xìn	trust, faith, credibility — A person standing by their word: one of the most visually transparent characters in the language, and the virtue that holds every contract, conversation, and relationship together.
 行	xíng	to walk, to act, a row, a trade — One of the great polyphonic characters: xíng "to walk; to act; conduct" and háng "row; profession; firm." A pictograph of a four-way crossroads, the place where walking and the world are organized.
 形	xíng	shape, form, to appear, to compare — The character for visible form: shape and figure, the body as form, the act of taking shape and being described, and the lay of a situation. A pictophonetic compound built on the pattern-strokes radical 彡.
+性	xìng	nature, character, sex/gender, the -ness/-ity suffix — The heart radical carrying the sense of innate nature: what a thing is born to be. From that core grow the four faces of 性: a persons disposition or character, sex and gender, the property or quality of a thing, and the productive abstract suffix that turns adjectives into -ness and -ity nouns.
 学	xu é	to study, to learn, learning — Hands guiding a child beneath a roof: the character for learning as both action and institution.
 雪	xu ě	snow, whiteness, and vengeance — Rain over a sweeping hand: snow is the precipitation you can hold. The same character means dazzling white and, by a buried metaphor, to wipe clean an old grievance.
 言	yán	speech, word, language — The root of every word about words: the mouth open, the tongue moving, the speech rising.
@@ -221,6 +227,7 @@
 认真	rèn zhēn	earnest, conscientious, taking it seriously — To recognize the 真 of a thing and engage with it on its own terms: the everyday word for taking work, study, and other people seriously rather than going through motions.
 山水	shān shuǐ	mountains and water; the landscape — The paired word that names the Chinese landscape: not "scenery" in the Western sense, but a cosmological pairing of the still and the flowing that became the central subject of a thousand years of painting and poetry.
 山水画	shān shuǐ huà	Chinese Landscape Painting — Mountains and waters as a cosmological pair -- the genre that made ink the equal of philosophy.
+社会	shè huì	society — The word for society that China borrowed from Japan, which had borrowed the characters from China: a compound forged at the altar of the earth.
 神明	shén míng	gods, spirits, deities; divine intelligence — The generic term for any deity in the Chinese religious world: and, in classical philosophy, the luminous intelligence that distinguishes the divine from the merely powerful.
 生产	shēng chǎn	to produce, production, manufacturing — The foundational act of economic life: and, in China's Marxist political vocabulary, the act from which all social relations flow. Life gives rise to production; production sustains life.
 时代	shí dài	era, age — The word for a historical era or age, built from 时 (time) and 代 (generation), and how it differs from 时期 a period, 年代 a decade, 时候 a moment, and 现代 modern times.
@@ -235,6 +242,8 @@
 文化	wén huà	culture; civilization — The word that names the organizing project of this entire site: and a concept that Chinese thought built from the ground up differently than the West did.
 文明	wén míng	civilization; cultivated and refined — 文明 names both a state of cultivated life (literacy, ritual, the refined arts) and the global concept of civilization. The two meanings share a single Chinese word, and the doubling is the whole story.
 无为	wú wéi	non-action; acting in accord with nature — 无为 is the Daoist elimination of forced, ego-driven action: the master principle behind effortless effectiveness, sage governance, and Zhuangzi's cook whose knife stays forever sharp.
+武术	wǔ shù	martial arts — The art of stopping weapons: how China systematized combat into a living philosophy of the body.
+希望	xī wàng	to hope — The everyday word for hope, both the verb and the noun, and how it differs from 想 (to want), 愿意 (to be willing), 盼望 (to long for), and 期待 (to look forward to).
 现代	xiàn dài	modern times — The word for the modern era, built from 现 (present, manifest) and 代 (generation, age), how Chinese history slices time into 古代 / 近代 / 现代 / 当代, and how 现代 differs from 现在 now.
 现在	xiàn zài	now — The everyday word for now, where it sits in a Chinese sentence, and how it differs from 目前 (at present), 此刻 (this very moment), and 如今 (nowadays).
 一定	yí dìng	definitely; certainly — The everyday word for "certainly, definitely," covering both confident prediction and firm resolve, the 一定要 (must) pattern, and how it differs from 肯定, 必须, and 一定会.

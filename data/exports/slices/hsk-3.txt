@@ -11,9 +11,11 @@
 低	dī	low; to lower; to bow down — A person stooping: the phonetic 氐 gives the sound while the human radical supplies the posture, and together they built one of the most culturally loaded words in modern Chinese.
 调	diào	(diào) to transfer, tune, accent; (tiáo) to adjust, to blend, to mediate — A high-frequency polyphone with two readings. As diào it means to transfer, a melody or key, a tone, an accent; as tiáo it means to adjust, to blend, to mediate. The reading tells you whether 调 is moving things or harmonizing them.
 风	fēng	wind; style; custom — The character that moves crops, carries seeds, and became the Chinese word for cultural character itself.
+夫	fū	husband, a grown man, laborer; the literary particle fú — A grown man pictured with a hairpin marking adulthood: the husband and the married couple (丈夫 夫妻 夫人 夫妇), the adult man and laborer (农夫 渔夫 大夫), skill and effort (功夫 工夫), and the classical literary particle 夫 fú that opens a sentence.
 福	fú	fortune, blessing, good luck — The most recognized Chinese character in the world: fortune, blessing, and the art of the upside-down 福.
 告	gào	to tell, to announce, to report — A mouth aimed upward: the character for delivering words to authority, and the root of advertising, accusations, and warnings.
 功	gōng	merit, achievement, skill, effort — Merit earned through effort: from meritorious service and success to the patient skill the Chinese call gongfu, and even work in physics.
+古	gǔ	ancient, old, classical — The mouth radical holding what ten generations have spoken down the years: 古 is what is old because it has been handed on. From that single image grow the senses of antiquity (古代 古老 远古), the classical and the antique (古典 古文 古董 古迹 考古), and the quaint or unconventional (古怪 古板).
 化	huà	to change, to transform, to melt — The character of transformation itself: melting, digesting, civilizing, and the productive -ize suffix that builds half of modern technical Chinese.
 脚	jiǎo	foot, base — The everyday word for foot, and by extension the base of any standing thing: a mountain, a wall, a script. The flesh-and-bone counterpart to literary 足.
 解	jiě	to untie, to solve, to explain, to dissolve — The character for cutting apart and undoing: untying and liberating, solving and explaining, dissolving and relieving. A polyphone read jiě, jiè, and xiè, pictured as a hand prying an ox horn from the ox.
@@ -31,6 +33,7 @@
 气	qì	breath, vital energy — From weather to anger to the cosmic force underlying TCM and martial arts.
 认	rèn	to recognize, to acknowledge — The act of recognition: knowing something for what it is, owning up to it, and the small set of compounds that turn this on the world, on others, and on oneself.
 容	róng	to contain, to allow, appearance — A roof over a valley: the space that holds. To contain, to tolerate, the face one shows, and the easy in rongyi.
+社	shè	society, an association, the god of the soil — The altar radical beside the earth: a shrine to the god of the soil and the community that gathered around it. From that image grow society itself, the many kinds of association and agency, and the ancient soil-and-grain spirits that once stood for the state.
 神	shén	spirit; deity; divine — The character that names both the gods of Chinese folk religion and the focused attention of the human mind, because in Chinese thought they belong to the same category of phenomenon.
 世	shì	world, age, generation, lifetime — A pictograph traditionally read as three tens joined together, the span of thirty years that makes one generation. From that root grow the four faces of 世: the generation that succeeds the one before, the lifetime or the life to come, the era stacked from many lives, and the wider world of human society in which all of it unfolds.
 首	shǒu	head, first, chief, a measure word for songs and poems — A drawn head, with hair above an eye, and from it the senses of first, foremost, chief, leader, and the classifier you count songs and poems with. 首 is its own radical.
@@ -39,8 +42,11 @@
 图	tú	map, diagram, to plan, to seek — A character for diagrams, maps, intentions, and plots: anything that represents the world at one remove, or seeks to reshape it.
 土	tǔ	earth, soil, local, native — A mound of soil with a base: the earth phase of the Five Elements, and the root of hundreds of characters for land, construction, and cultural belonging.
 王	wáng	king — Three horizontals joined by one vertical: the ruler who connects heaven, earth, and humanity. Also the most common Chinese surname, and a radical that is secretly 玉 (jade) in disguise.
+望	wàng	to gaze afar, to hope, reputation — A person on a mound looking into the distance, with the moon above: from that raised gaze grow three senses. To gaze and look afar (眺望, 望远镜, 张望), to hope and expect (希望, 期望, 盼望, 失望), and reputation or prestige (名望, 威望, 声望). As a coverb it can even mean toward, like 朝 or 向.
 屋	wū	room, house, dwelling — Room, dwelling, and the human need for shelter: the character at home.
+武	wǔ	martial, military, valiant — The foot radical 止 carrying a dagger-axe 戈: the soldier on the march, and the older reading that to wield arms well is finally to halt them. From 武力 armed force to 武术 martial arts to 威武 powerful and dignified, the character holds the whole world of strength wielded with discipline.
 形	xíng	shape, form, to appear, to compare — The character for visible form: shape and figure, the body as form, the act of taking shape and being described, and the lay of a situation. A pictophonetic compound built on the pattern-strokes radical 彡.
+性	xìng	nature, character, sex/gender, the -ness/-ity suffix — The heart radical carrying the sense of innate nature: what a thing is born to be. From that core grow the four faces of 性: a persons disposition or character, sex and gender, the property or quality of a thing, and the productive abstract suffix that turns adjectives into -ness and -ity nouns.
 义	yì	righteousness, duty, justice — The Confucian virtue of doing what is morally right, and the simplification that erased a sheep, a self, and the entire picture of what righteous form looks like.
 必须	bì xū	must, have to (the obligation modal) — 必须 is the strongest of the everyday modal verbs of obligation: a non-negotiable requirement that the speaker presents as not-up-for-discussion.
 茶道	chá dào	the way of tea — From wild forest leaf to civilizational ritual: how tea became China's quintessential art of presence.
@@ -56,11 +62,14 @@
 历史	lì shǐ	history — The character for historian shows a hand holding a brush over a vessel: in ancient China, the scribe who held the brush held power.
 气功	qì gōng	qigong — Cultivating the vital breath: China's ancient practice of aligning body, breath, and mind.
 认真	rèn zhēn	earnest, conscientious, taking it seriously — To recognize the 真 of a thing and engage with it on its own terms: the everyday word for taking work, study, and other people seriously rather than going through motions.
+社会	shè huì	society — The word for society that China borrowed from Japan, which had borrowed the characters from China: a compound forged at the altar of the earth.
 神明	shén míng	gods, spirits, deities; divine intelligence — The generic term for any deity in the Chinese religious world: and, in classical philosophy, the luminous intelligence that distinguishes the divine from the merely powerful.
 生产	shēng chǎn	to produce, production, manufacturing — The foundational act of economic life: and, in China's Marxist political vocabulary, the act from which all social relations flow. Life gives rise to production; production sustains life.
 时代	shí dài	era, age — The word for a historical era or age, built from 时 (time) and 代 (generation), and how it differs from 时期 a period, 年代 a decade, 时候 a moment, and 现代 modern times.
 书法	shū fǎ	calligraphy — The art where writing becomes a performance of character: and why the Chinese brush is a philosophical instrument.
 文化	wén huà	culture; civilization — The word that names the organizing project of this entire site: and a concept that Chinese thought built from the ground up differently than the West did.
+武术	wǔ shù	martial arts — The art of stopping weapons: how China systematized combat into a living philosophy of the body.
+希望	xī wàng	to hope — The everyday word for hope, both the verb and the noun, and how it differs from 想 (to want), 愿意 (to be willing), 盼望 (to long for), and 期待 (to look forward to).
 现代	xiàn dài	modern times — The word for the modern era, built from 现 (present, manifest) and 代 (generation, age), how Chinese history slices time into 古代 / 近代 / 现代 / 当代, and how 现代 differs from 现在 now.
 义	yì	Righteousness: The Second Constant — Doing what is right because it is right: 义 as the enacted path of Confucian ethics, the constant that gives 仁 its direction.
 意思	yì si	meaning, intention — Meaning, interest, charm, and the gift-giving idiom 意思意思.

@@ -100,6 +100,26 @@
     "updated": "2026-06-21"
   },
   {
+    "path": "pages/characters/fu1_夫.html",
+    "type": "character",
+    "category": "characters",
+    "title": "夫 · husband, a grown man, laborer; the literary particle fú",
+    "desc": "A grown man pictured with a hairpin marking adulthood: the husband and the married couple (丈夫 夫妻 夫人 夫妇), the adult man and laborer (农夫 渔夫 大夫), skill and effort (功夫 工夫), and the classical literary particle 夫 fú that opens a sentence.",
+    "tags": [
+      "family",
+      "society",
+      "humanity",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "夫",
+    "pinyin": "fū",
+    "tone": 1,
+    "hsk": 3,
+    "radical": "大",
+    "updated": "2026-06-21"
+  },
+  {
     "path": "pages/characters/gong1_功.html",
     "type": "character",
     "category": "characters",
@@ -117,6 +137,26 @@
     "tone": 1,
     "hsk": 3,
     "radical": "力",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/gu3_古.html",
+    "type": "character",
+    "category": "characters",
+    "title": "古 · ancient, old, classical",
+    "desc": "The mouth radical holding what ten generations have spoken down the years: 古 is what is old because it has been handed on. From that single image grow the senses of antiquity (古代 古老 远古), the classical and the antique (古典 古文 古董 古迹 考古), and the quaint or unconventional (古怪 古板).",
+    "tags": [
+      "ancient",
+      "history",
+      "classics",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "古",
+    "pinyin": "gǔ",
+    "tone": 3,
+    "hsk": 3,
+    "radical": "口",
     "updated": "2026-06-21"
   },
   {
@@ -240,6 +280,26 @@
     "updated": "2026-06-21"
   },
   {
+    "path": "pages/characters/she4_社.html",
+    "type": "character",
+    "category": "characters",
+    "title": "社 · society, an association, the god of the soil",
+    "desc": "The altar radical beside the earth: a shrine to the god of the soil and the community that gathered around it. From that image grow society itself, the many kinds of association and agency, and the ancient soil-and-grain spirits that once stood for the state.",
+    "tags": [
+      "society",
+      "social",
+      "ritual",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "社",
+    "pinyin": "shè",
+    "tone": 4,
+    "hsk": 3,
+    "radical": "礻",
+    "updated": "2026-06-21"
+  },
+  {
     "path": "pages/characters/shi4_世.html",
     "type": "character",
     "category": "characters",
@@ -280,6 +340,46 @@
     "updated": "2026-06-21"
   },
   {
+    "path": "pages/characters/wang4_望.html",
+    "type": "character",
+    "category": "characters",
+    "title": "望 · to gaze afar, to hope, reputation",
+    "desc": "A person on a mound looking into the distance, with the moon above: from that raised gaze grow three senses. To gaze and look afar (眺望, 望远镜, 张望), to hope and expect (希望, 期望, 盼望, 失望), and reputation or prestige (名望, 威望, 声望). As a coverb it can even mean toward, like 朝 or 向.",
+    "tags": [
+      "perception",
+      "feeling",
+      "evaluation",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "望",
+    "pinyin": "wàng",
+    "tone": 4,
+    "hsk": 3,
+    "radical": "月",
+    "updated": "2026-06-21"
+  },
+  {
+    "path": "pages/characters/wu3_武.html",
+    "type": "character",
+    "category": "characters",
+    "title": "武 · martial, military, valiant",
+    "desc": "The foot radical 止 carrying a dagger-axe 戈: the soldier on the march, and the older reading that to wield arms well is finally to halt them. From 武力 armed force to 武术 martial arts to 威武 powerful and dignified, the character holds the whole world of strength wielded with discipline.",
+    "tags": [
+      "martial-arts",
+      "wuxia",
+      "honor",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "武",
+    "pinyin": "wǔ",
+    "tone": 3,
+    "hsk": 3,
+    "radical": "止",
+    "updated": "2026-06-21"
+  },
+  {
     "path": "pages/characters/xing2_形.html",
     "type": "character",
     "category": "characters",
@@ -298,91 +398,5 @@
     "hsk": 3,
     "radical": "彡",
     "updated": "2026-06-21"
-  },
-  {
-    "path": "pages/arts/topic_chuci.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "楚辞 · Songs of Chu",
-    "desc": "The shamanistic southern voice that gave Chinese literature its second pole: visionary, romantic, and inconsolably exiled.",
-    "tags": [
-      "poetry",
-      "literature",
-      "classical",
-      "history",
-      "culture"
-    ],
-    "status": "complete",
-    "pinyin": "chǔcí",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/arts/topic_guqin.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "古琴 · the scholar's zither",
-    "desc": "The seven-string zither Confucius played throughout his life, and the origin of 知音, the word for a person who truly understands you.",
-    "tags": [
-      "arts",
-      "music",
-      "classical",
-      "confucianism",
-      "literature"
-    ],
-    "status": "complete",
-    "pinyin": "gǔqín",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/arts/topic_jingju_roles.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "生旦净末丑 · Role Types in Peking Opera",
-    "desc": "Five role categories, each a complete performance tradition -- voice, movement, makeup, and costume as a total semiotic system.",
-    "tags": [
-      "opera",
-      "theatre",
-      "performance",
-      "culture",
-      "arts",
-      "music"
-    ],
-    "status": "complete",
-    "pinyin": "shēng dàn jìng mò chǒu",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/arts/topic_luxun.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "鲁迅 · Lu Xun",
-    "desc": "The writer who looked at traditional Chinese society and saw cannibalism, and the complicated, unresolvable legacy he left behind.",
-    "tags": [
-      "literature",
-      "history",
-      "culture",
-      "writing",
-      "classical"
-    ],
-    "status": "complete",
-    "pinyin": "lǔxùn",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/arts/topic_shanshui.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "山水画 · landscape painting",
-    "desc": "Chinese landscape painting encodes a theory in its name: 山 (mountain, yang, permanent) and 水 (water, yin, changing) in dynamic tension. A space to inhabit in the imagination, not a view to frame.",
-    "tags": [
-      "arts",
-      "nature",
-      "taoism",
-      "aesthetics",
-      "classical"
-    ],
-    "status": "complete",
-    "pinyin": "shānshuǐhuà",
-    "updated": "2026-06-19"
   }
 ]

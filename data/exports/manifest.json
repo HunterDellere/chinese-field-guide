@@ -1,11 +1,11 @@
 {
-  "generated": "2026-06-21T18:26:52.189Z",
+  "generated": "2026-06-22T03:07:56.109Z",
   "files": [
     {
       "file": "pleco-characters.txt",
       "format": "pleco",
       "type": "characters",
-      "count": 187
+      "count": 193
     },
     {
       "file": "pleco-vocab.txt",
@@ -23,13 +23,13 @@
       "file": "pleco-all.txt",
       "format": "pleco",
       "type": "all",
-      "count": 305
+      "count": 311
     },
     {
       "file": "anki-characters.tsv",
       "format": "anki-tsv",
       "type": "characters",
-      "count": 187
+      "count": 193
     },
     {
       "file": "anki-vocab.tsv",
@@ -47,7 +47,7 @@
       "file": "characters.apkg",
       "format": "anki-apkg",
       "type": "characters",
-      "count": 187
+      "count": 193
     },
     {
       "file": "vocab.apkg",
@@ -65,7 +65,7 @@
       "file": "all.apkg",
       "format": "anki-apkg",
       "type": "all",
-      "count": 305
+      "count": 311
     }
   ],
   "slices": [
@@ -75,14 +75,14 @@
       "cn": "character",
       "dimension": "type",
       "criterion": "character",
-      "description": "All 187 character cards in the corpus.",
-      "count": 187,
+      "description": "All 193 character cards in the corpus.",
+      "count": 193,
       "apkg": "slices/type-character.apkg",
       "pleco": "slices/type-character.txt",
       "hskBreakdown": {
         "hsk-1": 70,
         "hsk-2": 47,
-        "hsk-3": 43,
+        "hsk-3": 49,
         "hsk-4": 20,
         "hsk-5": 5,
         "hsk-6": 1,
@@ -101,8 +101,8 @@
       "pleco": "slices/type-vocab.txt",
       "hskBreakdown": {
         "hsk-5": 3,
-        "unknown": 31,
-        "hsk-3": 24,
+        "unknown": 28,
+        "hsk-3": 27,
         "hsk-4": 10,
         "hsk-1": 23,
         "hsk-2": 6
@@ -180,11 +180,11 @@
       "dimension": "hsk",
       "criterion": 3,
       "description": "Just HSK level 3 on its own (authored or inferred from constituent characters).",
-      "count": 69,
+      "count": 78,
       "apkg": "slices/hsk-3.apkg",
       "pleco": "slices/hsk-3.txt",
       "hskBreakdown": {
-        "hsk-3": 69
+        "hsk-3": 78
       }
     },
     {
@@ -265,13 +265,13 @@
       "dimension": "hsk-ladder",
       "criterion": 3,
       "description": "Cumulative deck: every card from HSK 1 up to and including HSK 3.",
-      "count": 243,
+      "count": 252,
       "apkg": "slices/hsk-up-to-3.apkg",
       "pleco": "slices/hsk-up-to-3.txt",
       "hskBreakdown": {
         "hsk-1": 114,
         "hsk-2": 60,
-        "hsk-3": 69
+        "hsk-3": 78
       }
     },
     {
@@ -281,13 +281,13 @@
       "dimension": "hsk-ladder",
       "criterion": 4,
       "description": "Cumulative deck: every card from HSK 1 up to and including HSK 4.",
-      "count": 275,
+      "count": 284,
       "apkg": "slices/hsk-up-to-4.apkg",
       "pleco": "slices/hsk-up-to-4.txt",
       "hskBreakdown": {
         "hsk-1": 114,
         "hsk-2": 60,
-        "hsk-3": 69,
+        "hsk-3": 78,
         "hsk-4": 32
       }
     },
@@ -298,13 +298,13 @@
       "dimension": "hsk-ladder",
       "criterion": 5,
       "description": "Cumulative deck: every card from HSK 1 up to and including HSK 5.",
-      "count": 284,
+      "count": 293,
       "apkg": "slices/hsk-up-to-5.apkg",
       "pleco": "slices/hsk-up-to-5.txt",
       "hskBreakdown": {
         "hsk-1": 114,
         "hsk-2": 60,
-        "hsk-3": 69,
+        "hsk-3": 78,
         "hsk-4": 32,
         "hsk-5": 9
       }
@@ -316,13 +316,13 @@
       "dimension": "hsk-ladder",
       "criterion": 6,
       "description": "Cumulative deck: every card from HSK 1 up to and including HSK 6.",
-      "count": 285,
+      "count": 294,
       "apkg": "slices/hsk-up-to-6.apkg",
       "pleco": "slices/hsk-up-to-6.txt",
       "hskBreakdown": {
         "hsk-1": 114,
         "hsk-2": 60,
-        "hsk-3": 69,
+        "hsk-3": 78,
         "hsk-4": 32,
         "hsk-5": 9,
         "hsk-6": 1
@@ -361,8 +361,8 @@
         "hsk-4": 7,
         "hsk-2": 8,
         "hsk-5": 2,
-        "hsk-3": 3,
-        "unknown": 7
+        "hsk-3": 4,
+        "unknown": 6
       }
     },
     {
@@ -466,10 +466,26 @@
       "pleco": "slices/tag-body.txt",
       "hskBreakdown": {
         "hsk-4": 3,
-        "hsk-3": 4,
+        "hsk-3": 5,
         "hsk-2": 4,
-        "unknown": 1,
         "hsk-1": 1
+      }
+    },
+    {
+      "slug": "tag-family",
+      "name": "Family",
+      "cn": "家",
+      "dimension": "tag",
+      "criterion": "family",
+      "description": "Cards tagged family — 8 entries.",
+      "count": 8,
+      "apkg": "slices/tag-family.apkg",
+      "pleco": "slices/tag-family.txt",
+      "hskBreakdown": {
+        "hsk-3": 1,
+        "hsk-1": 2,
+        "hsk-2": 2,
+        "unknown": 3
       }
     },
     {
@@ -521,22 +537,6 @@
         "hsk-1": 7,
         "hsk-3": 4,
         "hsk-2": 3
-      }
-    },
-    {
-      "slug": "tag-family",
-      "name": "Family",
-      "cn": "家",
-      "dimension": "tag",
-      "criterion": "family",
-      "description": "Cards tagged family — 7 entries.",
-      "count": 7,
-      "apkg": "slices/tag-family.apkg",
-      "pleco": "slices/tag-family.txt",
-      "hskBreakdown": {
-        "hsk-1": 2,
-        "hsk-2": 2,
-        "unknown": 3
       }
     },
     {
@@ -639,8 +639,8 @@
         "hsk-4": 7,
         "hsk-2": 8,
         "hsk-5": 2,
-        "hsk-3": 3,
-        "unknown": 7
+        "hsk-3": 4,
+        "unknown": 6
       }
     },
     {
@@ -685,11 +685,11 @@
       "dimension": "intent",
       "criterion": "family-relationships",
       "description": "Kinship vocabulary (爸 妈 儿 女 哥 姐 弟 妹), the 的 grammar of possession, and family-tag entries.",
-      "count": 21,
+      "count": 22,
       "apkg": "slices/intent-family-relationships.apkg",
       "pleco": "slices/intent-family-relationships.txt",
       "hskBreakdown": {
-        "hsk-3": 3,
+        "hsk-3": 4,
         "hsk-1": 10,
         "hsk-2": 2,
         "unknown": 6
@@ -753,11 +753,11 @@
       "dimension": "intent",
       "criterion": "classical-foundations",
       "description": "Classical-tagged characters, vocabulary, and chengyu — the literary register that underlies modern formal Chinese.",
-      "count": 51,
+      "count": 52,
       "apkg": "slices/intent-classical-foundations.apkg",
       "pleco": "slices/intent-classical-foundations.txt",
       "hskBreakdown": {
-        "hsk-3": 5,
+        "hsk-3": 6,
         "hsk-2": 9,
         "hsk-6": 1,
         "hsk-4": 5,
