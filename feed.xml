@@ -6,7 +6,7 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A reading nook for Chinese language and civilisation. Characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Jun 2026 03:54:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 03:58:32 GMT</lastBuildDate>
     <item>
       <title>笔 · pen, brush, a stroke, writing</title>
       <link>https://jiaoshoo.com/pages/characters/bi3_笔.html</link>
@@ -32,11 +32,51 @@
       <category>characters</category>
     </item>
     <item>
+      <title>朝 · dynasty, imperial court, to face toward; (zhāo) morning</title>
+      <link>https://jiaoshoo.com/pages/characters/chao2_朝.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/chao2_朝.html</guid>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
+      <description>The sun rising among grasses with the moon still in the sky. From that dawn scene grow two readings: zhāo, the morning and its youthful vigor, and cháo, the court that met at daybreak, the dynasty it served, and the preposition toward.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>城 · city, city wall, town</title>
+      <link>https://jiaoshoo.com/pages/characters/cheng2_城.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/cheng2_城.html</guid>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
+      <description>A rampart of earth raised around a settlement: the character where the wall and the city it protects are one and the same word.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>传 · to pass on, transmit, spread; (zhuan) a biography, a commentary</title>
+      <link>https://jiaoshoo.com/pages/characters/chuan2_传.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/chuan2_传.html</guid>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
+      <description>The person radical carrying something onward: one figure handing a thing to the next. From that image grow the senses of 传, read chuan when it means to pass down, transmit, and spread, and read zhuan when it names a biography or a classical commentary.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>代 · generation, era, to substitute, on behalf of</title>
+      <link>https://jiaoshoo.com/pages/characters/dai4_代.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/dai4_代.html</guid>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
+      <description>The person radical carrying the sense of succession: one figure standing in the place of another. From that single image grow the four faces of 代: to replace or act for someone, to do a thing on their behalf, the generation that succeeds the one before, and the era or dynasty in which a life is set.</description>
+      <category>characters</category>
+    </item>
+    <item>
       <title>当 · to be, just at, ought; (dàng) appropriate, to treat as</title>
       <link>https://jiaoshoo.com/pages/characters/dang1_当.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/dang1_当.html</guid>
       <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
       <description>A high-frequency polyphone with two readings. As dāng it means to serve as, to be at a given time or place, and ought to; as dàng it means appropriate, to treat something as, and to pawn. The tone tells you which sense is in play.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>调 · (diào) to transfer, tune, accent; (tiáo) to adjust, to blend, to mediate</title>
+      <link>https://jiaoshoo.com/pages/characters/diao4_调.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/diao4_调.html</guid>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
+      <description>A high-frequency polyphone with two readings. As diào it means to transfer, a melody or key, a tone, an accent; as tiáo it means to adjust, to blend, to mediate. The reading tells you whether 调 is moving things or harmonizing them.</description>
       <category>characters</category>
     </item>
     <item>
@@ -64,11 +104,35 @@
       <category>characters</category>
     </item>
     <item>
+      <title>夫 · husband, a grown man, laborer; the literary particle fú</title>
+      <link>https://jiaoshoo.com/pages/characters/fu1_夫.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/fu1_夫.html</guid>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
+      <description>A grown man pictured with a hairpin marking adulthood: the husband and the married couple (丈夫 夫妻 夫人 夫妇), the adult man and laborer (农夫 渔夫 大夫), skill and effort (功夫 工夫), and the classical literary particle 夫 fú that opens a sentence.</description>
+      <category>characters</category>
+    </item>
+    <item>
       <title>公 · public, fair, common, a duke, male</title>
       <link>https://jiaoshoo.com/pages/characters/gong1_公.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/gong1_公.html</guid>
       <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
       <description>A line dividing away the private self. From that image grow everything held in common, every fair dealing, the metric measures, and the elder male: public, impartial, official, and a duke.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>功 · merit, achievement, skill, effort</title>
+      <link>https://jiaoshoo.com/pages/characters/gong1_功.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/gong1_功.html</guid>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Merit earned through effort: from meritorious service and success to the patient skill the Chinese call gongfu, and even work in physics.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>古 · ancient, old, classical</title>
+      <link>https://jiaoshoo.com/pages/characters/gu3_古.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/gu3_古.html</guid>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
+      <description>The mouth radical holding what ten generations have spoken down the years: 古 is what is old because it has been handed on. From that single image grow the senses of antiquity (古代 古老 远古), the classical and the antique (古典 古文 古董 古迹 考古), and the quaint or unconventional (古怪 古板).</description>
       <category>characters</category>
     </item>
     <item>
@@ -101,6 +165,14 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/he2_合.html</guid>
       <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
       <description>A lid closing down over the mouth of a vessel. From that image of two parts meeting and fitting grows the whole field of joining, suiting, closing, and adding up into a whole.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>化 · to change, to transform, to melt</title>
+      <link>https://jiaoshoo.com/pages/characters/hua4_化.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/hua4_化.html</guid>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
+      <description>The character of transformation itself: melting, digesting, civilizing, and the productive -ize suffix that builds half of modern technical Chinese.</description>
       <category>characters</category>
     </item>
     <item>
@@ -144,6 +216,14 @@
       <category>characters</category>
     </item>
     <item>
+      <title>解 · to untie, to solve, to explain, to dissolve</title>
+      <link>https://jiaoshoo.com/pages/characters/jie3_解.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/jie3_解.html</guid>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
+      <description>The character for cutting apart and undoing: untying and liberating, solving and explaining, dissolving and relieving. A polyphone read jiě, jiè, and xiè, pictured as a hand prying an ox horn from the ox.</description>
+      <category>characters</category>
+    </item>
+    <item>
       <title>句 · sentence, phrase, a unit of speech</title>
       <link>https://jiaoshoo.com/pages/characters/ju4_句.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/ju4_句.html</guid>
@@ -165,86 +245,6 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/li4_力.html</guid>
       <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
       <description>A picture of a plough or a flexed sinew, the image of bodily exertion. From that one shape grows everything pushed by force: raw strength, the capacity to do, and the effort poured into a task.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>量 · quantity, capacity; to measure</title>
-      <link>https://jiaoshoo.com/pages/characters/liang4_量.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/liang4_量.html</guid>
-      <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
-      <description>商量 shangliang, to discuss, is literally to measure something out together: the act of weighing it between two minds before anyone decides.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>论 · to discuss, a theory or treatise</title>
-      <link>https://jiaoshoo.com/pages/characters/lun4_论.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/lun4_论.html</guid>
-      <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
-      <description>Reasoned speech put in order: the verb for discussing, debating, and commenting, and the noun for a theory, a view, or a treatise. Also Lun in the title of the Analects.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>平 · flat, level, even, peaceful, ordinary</title>
-      <link>https://jiaoshoo.com/pages/characters/ping2_平.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/ping2_平.html</guid>
-      <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
-      <description>A pictograph of something level and balanced. From that flat surface grows a wide field of meaning: the even and the smooth, the equal and the fair, the calm and the peaceful, and the plain and ordinary.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>清 · clear, clean, pure, quiet</title>
-      <link>https://jiaoshoo.com/pages/characters/qing1_清.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/qing1_清.html</guid>
-      <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
-      <description>Water beside the color of new growth. The character that names limpid water, distinct speech, a clean reputation, a settled account, and a cool quiet evening.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>情 · feeling, affection, situation</title>
-      <link>https://jiaoshoo.com/pages/characters/qing2_情.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/qing2_情.html</guid>
-      <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
-      <description>The heart radical beside the phonetic 青: the movements of the heart. From that one image grows feeling and mood, affection and love, and the wider sense of a situation or state of affairs.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>全 · whole, complete, entire, all</title>
-      <link>https://jiaoshoo.com/pages/characters/quan2_全.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/quan2_全.html</guid>
-      <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
-      <description>Enter, and find the jade flawless. From that image of unblemished jade grows everything whole and complete: the entire set, the intact and unbroken, and the adverb that sweeps up all of it at once.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>如 · like, as, if, according to</title>
-      <link>https://jiaoshoo.com/pages/characters/ru2_如.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/ru2_如.html</guid>
-      <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
-      <description>A woman speaking and a mouth complying: from following a command grew the great comparison-and-condition word. 如 is how Chinese says like, as, for example, and if.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>声 · sound, voice, tone, reputation</title>
-      <link>https://jiaoshoo.com/pages/characters/sheng1_声.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/sheng1_声.html</guid>
-      <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
-      <description>A chime-stone struck before a listening ear. From that image grow the everyday word for sound and voice, the tone of speech, and the wider sense of making something known: a declaration, a reputation, a name.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>实 · real, solid, true, actual</title>
-      <link>https://jiaoshoo.com/pages/characters/shi2_实.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/shi2_实.html</guid>
-      <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
-      <description>A roof over a house full of goods. From that image of a full dwelling grows everything substantial: the real and the true, the solid and sturdy, the actual practice that gets things done, and the ripened fruit.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>题 · topic, question, problem, to inscribe</title>
-      <link>https://jiaoshoo.com/pages/characters/ti2_题.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/ti2_题.html</guid>
-      <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
-      <description>The head-radical character behind every exam question and discussion topic. From the leaf or head of a thing grows the question to solve, the theme to discuss, and the act of inscribing a poem.</description>
       <category>characters</category>
     </item>
   </channel>
