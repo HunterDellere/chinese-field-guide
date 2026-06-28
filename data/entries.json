@@ -20,6 +20,45 @@
     "updated": "2026-06-28"
   },
   {
+    "path": "pages/characters/chang4_唱.html",
+    "type": "character",
+    "category": "characters",
+    "title": "唱 · to sing, to chant, to call out",
+    "desc": "A mouth beside the sun-doubled 昌: the radical names the act of singing while 昌 carries only the sound.",
+    "tags": [
+      "communication",
+      "culture",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "唱",
+    "pinyin": "chàng",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "口",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/chuan1_穿.html",
+    "type": "character",
+    "category": "characters",
+    "title": "穿 · to pierce, to bore through, to wear, to put on",
+    "desc": "A tooth gnawing through the roof of a cave: one image for boring a hole and for the body slipping into clothing.",
+    "tags": [
+      "motion",
+      "body",
+      "daily-life",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "穿",
+    "pinyin": "chuān",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "穴",
+    "updated": "2026-06-28"
+  },
+  {
     "path": "pages/characters/chun1_春.html",
     "type": "character",
     "category": "characters",
@@ -37,6 +76,85 @@
     "tone": 1,
     "hsk": 2,
     "radical": "日",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/cuo4_错.html",
+    "type": "character",
+    "category": "characters",
+    "title": "错 · error, mistake; wrong, incorrect",
+    "desc": "A metal character whose oldest sense was inlay and grinding; from crossed, interlocking lines it slid to things crossing wrongly, the modern sense of error.",
+    "tags": [
+      "meaning",
+      "daily-life",
+      "communication",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "错",
+    "pinyin": "cuò",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "钅",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/dan4_蛋.html",
+    "type": "character",
+    "category": "characters",
+    "title": "蛋 · egg, egg-shaped thing, scoundrel",
+    "desc": "A pictophonetic egg: the 虫 radical for small creatures sits under a sound element, and in slang it turns people into scoundrels.",
+    "tags": [
+      "food",
+      "nature",
+      "daily-life",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "蛋",
+    "pinyin": "dàn",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "虫",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/fang2_房.html",
+    "type": "character",
+    "category": "characters",
+    "title": "房 · building, house, room",
+    "desc": "A door radical leaning over the phonetic 方: the side-chamber under a roof that grew into every word for house, room, and the family branches that fill them.",
+    "tags": [
+      "home",
+      "daily-life",
+      "settlement",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "房",
+    "pinyin": "fáng",
+    "tone": 2,
+    "hsk": 1,
+    "radical": "户",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/fei1_飞.html",
+    "type": "character",
+    "category": "characters",
+    "title": "飞 · to fly, to dart; high, swift",
+    "desc": "A single bird caught mid-flap, one outstretched wing and the rising line of its body, frozen at the instant it leaves the ground.",
+    "tags": [
+      "nature",
+      "motion",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "飞",
+    "pinyin": "fēi",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "飞",
     "updated": "2026-06-28"
   },
   {
@@ -97,6 +215,25 @@
     "updated": "2026-06-28"
   },
   {
+    "path": "pages/characters/ge1_歌.html",
+    "type": "character",
+    "category": "characters",
+    "title": "歌 · song, lyrics; to sing, to chant",
+    "desc": "The radical 欠 (an open, exhaling mouth) drives the meaning of song, while 哥 supplies the gē sound.",
+    "tags": [
+      "communication",
+      "culture",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "歌",
+    "pinyin": "gē",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "欠",
+    "updated": "2026-06-28"
+  },
+  {
     "path": "pages/characters/guan3_馆.html",
     "type": "character",
     "category": "characters",
@@ -114,6 +251,26 @@
     "tone": 3,
     "hsk": 1,
     "radical": "饣",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/hai2_孩.html",
+    "type": "character",
+    "category": "characters",
+    "title": "孩 · baby, child, children",
+    "desc": "A child-radical fused with the earthly branch 亥: 子 carries the meaning, 亥 lends the rising sound hái.",
+    "tags": [
+      "family",
+      "humanity",
+      "daily-life",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "孩",
+    "pinyin": "hái",
+    "tone": 2,
+    "hsk": 1,
+    "radical": "子",
     "updated": "2026-06-28"
   },
   {
@@ -191,6 +348,25 @@
     "tone": 2,
     "hsk": 2,
     "radical": "氵",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/huai4_坏.html",
+    "type": "character",
+    "category": "characters",
+    "title": "坏 · bad, rotten, spoiled; to break down",
+    "desc": "A picto-phonetic built from 土 earth and 不 not: spoiled soil that yields nothing, extended to anything gone bad or broken.",
+    "tags": [
+      "daily-life",
+      "society",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "坏",
+    "pinyin": "huài",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "土",
     "updated": "2026-06-28"
   },
   {
@@ -349,6 +525,25 @@
     "tone": 1,
     "hsk": 2,
     "radical": "行",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/jie3_姐.html",
+    "type": "character",
+    "category": "characters",
+    "title": "姐 · elder sister, miss, young lady",
+    "desc": "A woman radical fused to the sound-lender 且, 姐 names the elder sister and stretches to cover every miss and young lady in modern address.",
+    "tags": [
+      "family",
+      "social",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "姐",
+    "pinyin": "jiě",
+    "tone": 3,
+    "hsk": 1,
+    "radical": "女",
     "updated": "2026-06-28"
   },
   {
@@ -583,6 +778,26 @@
     "updated": "2026-06-28"
   },
   {
+    "path": "pages/characters/piao4_票.html",
+    "type": "character",
+    "category": "characters",
+    "title": "票 · bank note, ticket, vote, a slip of paper",
+    "desc": "Flames rising over an altar where spirit money burned: 票 carries the smoke of an offering into the modern banknote, the ticket stub, and the ballot.",
+    "tags": [
+      "meaning",
+      "society",
+      "daily-life",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "票",
+    "pinyin": "piào",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "示",
+    "updated": "2026-06-28"
+  },
+  {
     "path": "pages/characters/re4_热.html",
     "type": "character",
     "category": "characters",
@@ -619,6 +834,26 @@
     "tone": 4,
     "hsk": 1,
     "radical": "肉",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/song4_送.html",
+    "type": "character",
+    "category": "characters",
+    "title": "送 · to see off, to send, to give",
+    "desc": "A figure waving 关 at someone whose feet 辶 are already carrying them away: 送 is farewell built into the road itself.",
+    "tags": [
+      "motion",
+      "social",
+      "daily-life",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "送",
+    "pinyin": "sòng",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "辶",
     "updated": "2026-06-28"
   },
   {

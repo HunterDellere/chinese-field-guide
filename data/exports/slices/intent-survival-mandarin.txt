@@ -8,9 +8,13 @@
 不	bù	no, not, negation — The most used character in Mandarin, and the foundation of every denial, refusal, and negation.
 菜	cài	vegetable, dish, cuisine — Plants gathered to be eaten. From the picked greens grows a whole table: the vegetable, the cooked dish, the regional cuisine, and the slangy put-down for anyone weak at a task.
 常	cháng	constant, ordinary, often — A long banner of cloth that came to mean what endures: the constant and the lasting, the ordinary and the common, and the things that happen again and again.
+唱	chàng	to sing, to chant, to call out — A mouth beside the sun-doubled 昌: the radical names the act of singing while 昌 carries only the sound.
 吃	chī	to eat — To eat, and the extraordinary range of Chinese life encoded in a single food verb.
+穿	chuān	to pierce, to bore through, to wear, to put on — A tooth gnawing through the roof of a cave: one image for boring a hole and for the body slipping into clothing.
+错	cuò	error, mistake; wrong, incorrect — A metal character whose oldest sense was inlay and grinding; from crossed, interlocking lines it slid to things crossing wrongly, the modern sense of error.
 打	dǎ	to hit, to strike; the most versatile verb in Mandarin — To hit, and a hundred extensions: make a call, play a sport, pack a bag, get an injection. The most productive light verb in Chinese.
 大	dà	big, great, large — Big, great, large: a person with arms wide open, the original measure of magnitude.
+蛋	dàn	egg, egg-shaped thing, scoundrel — A pictophonetic egg: the 虫 radical for small creatures sits under a sound element, and in slang it turns people into scoundrels.
 地	dì	earth, ground, land — Heaven above, earth below: the second power of the cosmos, and the root of every word about place, ground, and belonging.
 第	dì	the ordinal prefix, rank, mansion — Bamboo over younger-brother, an image of things laid out in sequence. From it grows the prefix that turns a count into an order, plus the older senses of examination rank and grand residence.
 点	diǎn	dot, point, a little, o'clock — From a single dot of ink the character spreads into points and decimals, into the hours of the clock, into ordering food and lighting a flame, and into the small quantity that softens a sentence.
@@ -20,13 +24,17 @@
 多	duō	many; much; more; how — Two evenings stacked: the character that encodes abundance, comparison, and the most common question about quantity in Mandarin.
 二	èr	two; second — The number two encodes the foundational split that drives all of Chinese cosmology: yin and yang, the two forces from which everything else unfolds.
 方	fāng	square, direction, method — One glyph that runs from the literal square to the cardinal directions, to the place a thing sits, to the method by which it is done. The geometry of orientation and approach.
+房	fáng	building, house, room — A door radical leaning over the phonetic 方: the side-chamber under a roof that grew into every word for house, room, and the family branches that fill them.
+飞	fēi	to fly, to dart; high, swift — A single bird caught mid-flap, one outstretched wing and the rising line of its body, frozen at the instant it leaves the ground.
 非	fēi	not, wrong, un- — Two wings spreading in opposite directions: from that image of opposition grows the great negator. Not and non-, the line between right and wrong, and the un- prefix that turns a word against itself.
 分	fēn	to divide, minute, point, cent — A knife splitting a thing in two. From the cut grows everything that comes in parts: the minute on the clock, the point on a test, the cent in your pocket, and the act of separating itself.
 哥	gē	elder brother, a familiar term for an older young man — Two 可 stacked into one glyph; the doubled phonetic came to carry the warmest word in the family, elder brother.
+歌	gē	song, lyrics; to sing, to chant — The radical 欠 (an open, exhaling mouth) drives the meaning of song, while 哥 supplies the gē sound.
 个	gè	the universal measure word, individual — The general-purpose measure word that counts almost anything, and the root of individual. From the bamboo-stalk tally grew the everyday classifier 一个 and the words for individual, personality, and build.
 关	guān	to close, to concern, the frontier pass — The bolt that closes a gate, the mountain pass that controls a frontier, and the relation that ties two people together. One character holds all three.
 馆	guǎn	a public building, hall, shop, establishment — A food-radical building: the eating-house that grew into the library, the museum, and the embassy.
 国	guó	country, nation, state — A walled enclosure protecting its people: the Chinese concept of nationhood written in a single character.
+孩	hái	baby, child, children — A child-radical fused with the earthly branch 亥: 子 carries the meaning, 亥 lends the rising sound hái.
 汉	hàn	the Han river, dynasty, people, and a man — A river that named a dynasty, and a dynasty that named a people. From the water of 汉水 grew 汉族 the Han ethnicity, 汉语 and 汉字 the Chinese language and script, and 好汉, the brave fellow.
 好	hǎo	good; to like — Good, well, to like, and the tone split that doubles its expressive range.
 喝	hē	to drink; (hè) to shout, to cry out — A mouth radical paired with the phonetic 曷, splitting cleanly into the everyday hē you drink with and the older hè you shout with.
@@ -36,6 +44,7 @@
 候	hòu	to wait, time, season, climate — A person standing watch beside the road. From the figure of one who waits and watches grows the everyday word for when (时候), the act of awaiting (等候), and the long rhythm of the weather (气候).
 花	huā	flower, to spend, patterned — A plant caught in its transformed, blooming state: the flower, the act of spending money or time, and the patterned, fancy, or blurred. One glyph that runs from the garden to the wallet to the dazzled eye.
 话	huà	words, speech, talk, language — Speech beside a tongue: the everyday character for spoken words. From it grow talking and conversation, the telephone, a dialect or standard language, and the topics and sayings people pass around.
+坏	huài	bad, rotten, spoiled; to break down — A picto-phonetic built from 土 earth and 不 not: spoiled soil that yields nothing, extended to anything gone bad or broken.
 欢	huān	joy, merry, to be pleased — A breath of open delight: the hand and the open mouth that make laughter. From this glyph come joy and merriment, to like and to welcome, and the lively, high-spirited mood.
 回	huí	to return, to turn back, a time — Two squares nested like a coiling eddy. The character for coming back: returning home, turning around, replying, and counting the times a thing happens.
 火	huǒ	fire, flame, anger, popularity — Three flames rising: the character for fire and one of the most productive radicals in Chinese.
@@ -45,6 +54,7 @@
 间	jiān	space between, interval, room — Sunlight in the crack between two doors: the character for the space between things. From that gap grow time, the middle ground, the human world, and the room you count one by one.
 见	jiàn	to see, to meet, to appear — An eye on legs. The character that built Chinese verbs of seeing, meeting, opinion, and the moment a thing first comes into view.
 教	jiào	to teach, teaching, religion — A hand with a rod beside a child at the lesson. From that scene of instruction grows a wide field: to teach and educate, to teach a skill in the spoken jiao reading, and the teaching that became the word for religion.
+姐	jiě	elder sister, miss, young lady — A woman radical fused to the sound-lender 且, 姐 names the elder sister and stretches to cover every miss and young lady in modern address.
 进	jìn	to enter, to advance, to take in — A foot on the road and a bird that only ever walks forward. From that image grows everything that moves ahead and moves in: to enter, to advance, to progress, to carry out, and to take goods in.
 九	jiǔ	nine; the imperial number and the highest of the yang — Nine is the largest single digit and the highest yang number, reserved for the emperor and the heavens: nine dragons, nine gates, the Nine-Five supreme position, the ninth heaven.
 开	kāi	to open, to start, to operate — Two hands lifting the bar across a closed gate. From that single image flow most of modern life: opening a door, starting a meeting, driving a car, writing a check, blooming.
@@ -61,6 +71,7 @@
 年	nián	year — A person carrying a harvest of grain: year as the cycle of agricultural labor, and the heart of the Chinese New Year tradition.
 牛	niú	ox, cow, cattle; (slang) awesome — A four-stroke pictograph of an ox head seen straight on, the horns still visible; in modern slang it means impressively good.
 朋	péng	friend, companion; of the same group — Two strings of cowrie shells hung side by side, an old unit of value, borrowed early for companions of equal standing who keep close company.
+票	piào	bank note, ticket, vote, a slip of paper — Flames rising over an altar where spirit money burned: 票 carries the smoke of an offering into the modern banknote, the ticket stub, and the ballot.
 七	qī	seven; the rhythm of mourning, festival, and the soul — Seven measures the cycles of death and renewal in Chinese culture: the seven-day periods of mourning, the seventh-night lovers' festival, and the seven emotions of the heart.
 钱	qián	money, coin, currency — Money: the character that drives markets, proverbs, and the Chinese conversation about wealth.
 去	qù	to go, to leave, to depart, to remove — The character that marks every departure, from leaving the house to the euphemism for death. 去 is the verb of things moving away.
@@ -79,6 +90,7 @@
 水	shuǐ	water — The first of the five elements, the radical that runs through hundreds of compounds, and the Daoist image of how to act in the world.
 说	shuō	to speak, to say, to explain — To speak, say, explain, and persuade: the character at the center of all communication.
 四	sì	four; the four directions; the homophone of death — Four organizes the Chinese world into quarters, the four directions, four seas, four seasons, yet its near-homophony with 死 sǐ (death) makes it the most avoided number in modern China.
+送	sòng	to see off, to send, to give — A figure waving 关 at someone whose feet 辶 are already carrying them away: 送 is farewell built into the road itself.
 他	tā	he, him; another — 他 was gender-neutral for a millennium until 她 was coined in 1917 to solve a translation problem that Classical Chinese had never needed to solve.
 她	tā	she, her — 她 is the youngest character in everyday Chinese, invented in 1917 to translate "she," and the cause of one of the loudest grammatical fights in modern Chinese letters.
 太	tài	too, extremely, highest, grand — The character 大 (big) with one extra dot, pushing big past its limit into too-much. From that excess grow the everyday too, the highest and grandest, the sun, and the supreme pole of Taiji.

@@ -20,6 +20,45 @@
     "updated": "2026-06-28"
   },
   {
+    "path": "pages/characters/chang4_唱.html",
+    "type": "character",
+    "category": "characters",
+    "title": "唱 · to sing, to chant, to call out",
+    "desc": "A mouth beside the sun-doubled 昌: the radical names the act of singing while 昌 carries only the sound.",
+    "tags": [
+      "communication",
+      "culture",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "唱",
+    "pinyin": "chàng",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "口",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/chuan1_穿.html",
+    "type": "character",
+    "category": "characters",
+    "title": "穿 · to pierce, to bore through, to wear, to put on",
+    "desc": "A tooth gnawing through the roof of a cave: one image for boring a hole and for the body slipping into clothing.",
+    "tags": [
+      "motion",
+      "body",
+      "daily-life",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "穿",
+    "pinyin": "chuān",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "穴",
+    "updated": "2026-06-28"
+  },
+  {
     "path": "pages/characters/chun1_春.html",
     "type": "character",
     "category": "characters",
@@ -37,6 +76,85 @@
     "tone": 1,
     "hsk": 2,
     "radical": "日",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/cuo4_错.html",
+    "type": "character",
+    "category": "characters",
+    "title": "错 · error, mistake; wrong, incorrect",
+    "desc": "A metal character whose oldest sense was inlay and grinding; from crossed, interlocking lines it slid to things crossing wrongly, the modern sense of error.",
+    "tags": [
+      "meaning",
+      "daily-life",
+      "communication",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "错",
+    "pinyin": "cuò",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "钅",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/dan4_蛋.html",
+    "type": "character",
+    "category": "characters",
+    "title": "蛋 · egg, egg-shaped thing, scoundrel",
+    "desc": "A pictophonetic egg: the 虫 radical for small creatures sits under a sound element, and in slang it turns people into scoundrels.",
+    "tags": [
+      "food",
+      "nature",
+      "daily-life",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "蛋",
+    "pinyin": "dàn",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "虫",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/fang2_房.html",
+    "type": "character",
+    "category": "characters",
+    "title": "房 · building, house, room",
+    "desc": "A door radical leaning over the phonetic 方: the side-chamber under a roof that grew into every word for house, room, and the family branches that fill them.",
+    "tags": [
+      "home",
+      "daily-life",
+      "settlement",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "房",
+    "pinyin": "fáng",
+    "tone": 2,
+    "hsk": 1,
+    "radical": "户",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/fei1_飞.html",
+    "type": "character",
+    "category": "characters",
+    "title": "飞 · to fly, to dart; high, swift",
+    "desc": "A single bird caught mid-flap, one outstretched wing and the rising line of its body, frozen at the instant it leaves the ground.",
+    "tags": [
+      "nature",
+      "motion",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "飞",
+    "pinyin": "fēi",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "飞",
     "updated": "2026-06-28"
   },
   {
@@ -97,6 +215,25 @@
     "updated": "2026-06-28"
   },
   {
+    "path": "pages/characters/ge1_歌.html",
+    "type": "character",
+    "category": "characters",
+    "title": "歌 · song, lyrics; to sing, to chant",
+    "desc": "The radical 欠 (an open, exhaling mouth) drives the meaning of song, while 哥 supplies the gē sound.",
+    "tags": [
+      "communication",
+      "culture",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "歌",
+    "pinyin": "gē",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "欠",
+    "updated": "2026-06-28"
+  },
+  {
     "path": "pages/characters/guan3_馆.html",
     "type": "character",
     "category": "characters",
@@ -114,6 +251,26 @@
     "tone": 3,
     "hsk": 1,
     "radical": "饣",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/hai2_孩.html",
+    "type": "character",
+    "category": "characters",
+    "title": "孩 · baby, child, children",
+    "desc": "A child-radical fused with the earthly branch 亥: 子 carries the meaning, 亥 lends the rising sound hái.",
+    "tags": [
+      "family",
+      "humanity",
+      "daily-life",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "孩",
+    "pinyin": "hái",
+    "tone": 2,
+    "hsk": 1,
+    "radical": "子",
     "updated": "2026-06-28"
   },
   {
@@ -194,6 +351,25 @@
     "updated": "2026-06-28"
   },
   {
+    "path": "pages/characters/huai4_坏.html",
+    "type": "character",
+    "category": "characters",
+    "title": "坏 · bad, rotten, spoiled; to break down",
+    "desc": "A picto-phonetic built from 土 earth and 不 not: spoiled soil that yields nothing, extended to anything gone bad or broken.",
+    "tags": [
+      "daily-life",
+      "society",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "坏",
+    "pinyin": "huài",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "土",
+    "updated": "2026-06-28"
+  },
+  {
     "path": "pages/characters/huang2_黄.html",
     "type": "character",
     "category": "characters",
@@ -211,182 +387,6 @@
     "tone": 2,
     "hsk": 2,
     "radical": "黄",
-    "updated": "2026-06-28"
-  },
-  {
-    "path": "pages/characters/huo2_活.html",
-    "type": "character",
-    "category": "characters",
-    "title": "活 · to live, to be alive, lively, work",
-    "desc": "Water gives the verb its life: a stream over a tongue, the flow that means being alive, and from there everything that moves, breathes, and gets done.",
-    "tags": [
-      "daily-life",
-      "nature",
-      "motion",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "活",
-    "pinyin": "huó",
-    "tone": 2,
-    "hsk": 2,
-    "radical": "氵",
-    "updated": "2026-06-28"
-  },
-  {
-    "path": "pages/characters/ji1_鸡.html",
-    "type": "character",
-    "category": "characters",
-    "title": "鸡 · chicken, fowl, rooster",
-    "desc": "The simplified 鸡 swaps a chicken-coop hand 又 in where the traditional 雞 kept the sound-bearer 奚 beside the bird.",
-    "tags": [
-      "nature",
-      "food",
-      "daily-life",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "鸡",
-    "pinyin": "jī",
-    "tone": 1,
-    "hsk": 1,
-    "radical": "鸟",
-    "updated": "2026-06-28"
-  },
-  {
-    "path": "pages/characters/ji2_急.html",
-    "type": "character",
-    "category": "characters",
-    "title": "急 · urgent, anxious, hasty, rapid",
-    "desc": "A heart pressed from above: 急 stacks a phonetic element over 心, so the glyph itself feels the squeeze of urgency.",
-    "tags": [
-      "emotion",
-      "feeling",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "急",
-    "pinyin": "jí",
-    "tone": 2,
-    "hsk": 2,
-    "radical": "心",
-    "updated": "2026-06-28"
-  },
-  {
-    "path": "pages/characters/jia4_价.html",
-    "type": "character",
-    "category": "characters",
-    "title": "价 · price, value, worth",
-    "desc": "A person standing beside 介 jiè: the worth a thing takes on only once two people sit down to trade for it.",
-    "tags": [
-      "society",
-      "social",
-      "daily-life",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "价",
-    "pinyin": "jià",
-    "tone": 4,
-    "hsk": 3,
-    "radical": "亻",
-    "updated": "2026-06-28"
-  },
-  {
-    "path": "pages/characters/jian3_简.html",
-    "type": "character",
-    "category": "characters",
-    "title": "简 · simple, brief, terse; a bamboo writing slip",
-    "desc": "Before paper, a letter was a strip of bamboo; from that narrow slip 简 grew into the words for simple, brief, and a short note.",
-    "tags": [
-      "writing",
-      "communication",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "简",
-    "pinyin": "jiǎn",
-    "tone": 3,
-    "hsk": 3,
-    "radical": "⺮",
-    "updated": "2026-06-28"
-  },
-  {
-    "path": "pages/characters/jie1_接.html",
-    "type": "character",
-    "category": "characters",
-    "title": "接 · to connect, to join, to receive, to meet",
-    "desc": "The hand that joins: 接 puts a wrist behind every link, every catch, and every arrival you go out to greet.",
-    "tags": [
-      "motion",
-      "connections",
-      "daily-life",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "接",
-    "pinyin": "jiē",
-    "tone": 1,
-    "hsk": 2,
-    "radical": "扌",
-    "updated": "2026-06-28"
-  },
-  {
-    "path": "pages/characters/jie1_街.html",
-    "type": "character",
-    "category": "characters",
-    "title": "街 · street, avenue, thoroughfare",
-    "desc": "The walk radical 行 splits open into a crossroads, and the jade-tablet phonetic 圭 sits inside, marking the place where roads cross and people pass.",
-    "tags": [
-      "settlement",
-      "daily-life",
-      "society",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "街",
-    "pinyin": "jiē",
-    "tone": 1,
-    "hsk": 2,
-    "radical": "行",
-    "updated": "2026-06-28"
-  },
-  {
-    "path": "pages/characters/jie4_借.html",
-    "type": "character",
-    "category": "characters",
-    "title": "借 · to borrow, to lend, to make use of",
-    "desc": "One glyph carries both halves of a loan: 借 means borrow and lend at once, the direction settled only by context.",
-    "tags": [
-      "social",
-      "daily-life",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "借",
-    "pinyin": "jiè",
-    "tone": 4,
-    "hsk": 2,
-    "radical": "亻",
-    "updated": "2026-06-28"
-  },
-  {
-    "path": "pages/characters/jin3_紧.html",
-    "type": "character",
-    "category": "characters",
-    "title": "紧 · tight, taut, tense, urgent",
-    "desc": "Thread drawn taut over the silk radical; the same word carries a tight knot, a tense nerve, an urgent deadline, and a tight wallet.",
-    "tags": [
-      "perception",
-      "emotion",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "紧",
-    "pinyin": "jǐn",
-    "tone": 3,
-    "hsk": 3,
-    "radical": "糸",
     "updated": "2026-06-28"
   }
 ]
