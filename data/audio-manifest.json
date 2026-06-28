@@ -7976,6 +7976,42 @@
     },
     "pages/characters/zuo4_作.html": {
       "voices": {}
+    },
+    "pages/characters/bing4_病.html": {
+      "voices": {}
+    },
+    "pages/characters/ge1_哥.html": {
+      "voices": {}
+    },
+    "pages/characters/guan3_馆.html": {
+      "voices": {}
+    },
+    "pages/characters/he1_喝.html": {
+      "voices": {}
+    },
+    "pages/characters/ji1_鸡.html": {
+      "voices": {}
+    },
+    "pages/characters/ma3_马.html": {
+      "voices": {}
+    },
+    "pages/characters/niu2_牛.html": {
+      "voices": {}
+    },
+    "pages/characters/peng2_朋.html": {
+      "voices": {}
+    },
+    "pages/characters/re4_热.html": {
+      "voices": {}
+    },
+    "pages/characters/rou4_肉.html": {
+      "voices": {}
+    },
+    "pages/characters/xiao4_笑.html": {
+      "voices": {}
+    },
+    "pages/characters/zhan4_站.html": {
+      "voices": {}
     }
   },
   "inline": {
@@ -16928,7 +16964,7 @@
     "976c112533c9bd87": {
       "text": "人情",
       "pinyin": "rénqíng",
-      "kind": "compound",
+      "kind": "section",
       "voices": {
         "xiaoxiao": {
           "hash": "e92e7ceb1cb6",
@@ -96532,7 +96568,7 @@
     "1fef4ce9b6a62d9e": {
       "text": "身体",
       "pinyin": "shēntǐ",
-      "kind": "compound",
+      "kind": "section",
       "voices": {}
     },
     "7b3596b096e2c2d3": {
@@ -97607,7 +97643,15 @@
       "text": "位于",
       "pinyin": "wèiyú",
       "kind": "compound",
-      "voices": {}
+      "voices": {
+        "yunxi": {
+          "hash": "f334ea6b19e6",
+          "path": "audio/inline/93ff18f07d929471-yunxi.mp3",
+          "bytes": 11376,
+          "text": "位于",
+          "pinyin": "wèiyú"
+        }
+      }
     },
     "75f4d7370dcf9e83": {
       "text": "在于",
@@ -97924,6 +97968,852 @@
     "af856f040d55a7b0": {
       "text": "作者",
       "pinyin": "zuòzhě",
+      "kind": "compound",
+      "voices": {}
+    },
+    "92db068a3add5d5d": {
+      "text": "病入膏肓",
+      "pinyin": "bìng rù gāo huāng",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "1393505e520eaaa0": {
+      "text": "无病呻吟",
+      "pinyin": "wú bìng shēn yín",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "8f926a6cca5c3d22": {
+      "text": "同病相怜",
+      "pinyin": "tóng bìng xiāng lián",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "c6ab1aebdf1d656e": {
+      "text": "药到病除",
+      "pinyin": "yào dào bìng chú",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "a95b9c9ccbf9c35f": {
+      "text": "生病",
+      "pinyin": "shēng bìng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "3ee7de8fcc98e614": {
+      "text": "病人",
+      "pinyin": "bìng rén",
+      "kind": "compound",
+      "voices": {}
+    },
+    "bdbe0ddff0a0ee10": {
+      "text": "疾病",
+      "pinyin": "jí bìng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "c968698d56033cd4": {
+      "text": "毛病",
+      "pinyin": "máo bìng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "3e985e72e96762f3": {
+      "text": "病情",
+      "pinyin": "bìng qíng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "bf584270eaddab3f": {
+      "text": "病房",
+      "pinyin": "bìng fáng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "60bb927f5e9d6ddb": {
+      "text": "病毒",
+      "pinyin": "bìng dú",
+      "kind": "compound",
+      "voices": {}
+    },
+    "6aad1442ae6604d6": {
+      "text": "病菌",
+      "pinyin": "bìng jūn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "901d394d4fe0e9ae": {
+      "text": "传染病",
+      "pinyin": "chuán rǎn bìng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "665c2ea7ac9bd45c": {
+      "text": "疾病",
+      "pinyin": "jíbìng",
+      "kind": "section",
+      "voices": {}
+    },
+    "118783980acbde99": {
+      "text": "毛病",
+      "pinyin": "máobìng",
+      "kind": "section",
+      "voices": {}
+    },
+    "5a59d3eed6d07466": {
+      "text": "病原",
+      "pinyin": "bìngyuán",
+      "kind": "section",
+      "voices": {}
+    },
+    "dc19cba6b18db5cf": {
+      "text": "哥俩好",
+      "pinyin": "gē liǎ hǎo",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "a6263cd9f54d55de": {
+      "text": "铁哥们儿",
+      "pinyin": "tiě gēmenr",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "88e85dee2e9a1b69": {
+      "text": "大哥别说二哥",
+      "pinyin": "dàgē bié shuō èrgē",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "c550a41be0ecb7a9": {
+      "text": "哥哥",
+      "pinyin": "gēge",
+      "kind": "compound",
+      "voices": {}
+    },
+    "1de0c95ecaba939d": {
+      "text": "大哥",
+      "pinyin": "dàgē",
+      "kind": "compound",
+      "voices": {}
+    },
+    "edc41ab8418872f3": {
+      "text": "二哥",
+      "pinyin": "èrgē",
+      "kind": "compound",
+      "voices": {}
+    },
+    "ea8328050ca91f38": {
+      "text": "哥们儿",
+      "pinyin": "gēmenr",
+      "kind": "compound",
+      "voices": {}
+    },
+    "75e9223c460e3528": {
+      "text": "帅哥",
+      "pinyin": "shuàigē",
+      "kind": "compound",
+      "voices": {}
+    },
+    "85e86b65629f8538": {
+      "text": "大哥大",
+      "pinyin": "dàgēdà",
+      "kind": "compound",
+      "voices": {}
+    },
+    "3c3fd41ea76bb5f4": {
+      "text": "表哥",
+      "pinyin": "biǎogē",
+      "kind": "compound",
+      "voices": {}
+    },
+    "8b2c69c99ddc06e1": {
+      "text": "兄弟",
+      "pinyin": "xiōngdì",
+      "kind": "section",
+      "voices": {}
+    },
+    "5a4eb686714cf46b": {
+      "text": "称呼",
+      "pinyin": "chēnghu",
+      "kind": "section",
+      "voices": {}
+    },
+    "cec5747cf94da159": {
+      "text": "离宫别馆",
+      "pinyin": "lí gōng bié guǎn",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "8bcdc74ef6d39eaf": {
+      "text": "别馆离宫",
+      "pinyin": "bié guǎn lí gōng",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "90d97feee9178372": {
+      "text": "茶馆酒肆",
+      "pinyin": "chá guǎn jiǔ sì",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "2c7fe5a58680deef": {
+      "text": "饭馆",
+      "pinyin": "fànguǎn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "3095110e0cf807a3": {
+      "text": "茶馆",
+      "pinyin": "cháguǎn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "bcc36bcdd39b1db5": {
+      "text": "咖啡馆",
+      "pinyin": "kāfēiguǎn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "092df5367ab0e4fd": {
+      "text": "博物馆",
+      "pinyin": "bówùguǎn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "766957b3f8152cc5": {
+      "text": "体育馆",
+      "pinyin": "tǐyùguǎn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "4022bbd77500379d": {
+      "text": "宾馆",
+      "pinyin": "bīnguǎn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "28264991b359727a": {
+      "text": "大使馆",
+      "pinyin": "dàshǐguǎn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "2844fe7f7c1e032e": {
+      "text": "展览馆",
+      "pinyin": "zhǎnlǎnguǎn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "05b3da40983478f0": {
+      "text": "公馆",
+      "pinyin": "gōngguǎn",
+      "kind": "section",
+      "voices": {}
+    },
+    "a4dede4d5a77bc59": {
+      "text": "大喝一声",
+      "pinyin": "dà hè yī shēng",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "3b9c1de11c3fd4f9": {
+      "text": "吃喝玩乐",
+      "pinyin": "chī hē wán lè",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "4b62220e4c9c6cd4": {
+      "text": "大吃大喝",
+      "pinyin": "dà chī dà hē",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "9d8481d4df0bf192": {
+      "text": "喝西北风",
+      "pinyin": "hē xīběi fēng",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "a79b52b391c77286": {
+      "text": "喝水",
+      "pinyin": "hē shuǐ",
+      "kind": "compound",
+      "voices": {}
+    },
+    "1277581c46191f01": {
+      "text": "喝茶",
+      "pinyin": "hē chá",
+      "kind": "compound",
+      "voices": {}
+    },
+    "74b722c2588f1518": {
+      "text": "喝酒",
+      "pinyin": "hē jiǔ",
+      "kind": "compound",
+      "voices": {}
+    },
+    "ea9c84567b57bac6": {
+      "text": "喝咖啡",
+      "pinyin": "hē kāfēi",
+      "kind": "compound",
+      "voices": {}
+    },
+    "7d9044e041ae8d03": {
+      "text": "喝醉",
+      "pinyin": "hē zuì",
+      "kind": "compound",
+      "voices": {}
+    },
+    "a99366fbaac148c9": {
+      "text": "喝完",
+      "pinyin": "hē wán",
+      "kind": "compound",
+      "voices": {}
+    },
+    "7d37654167ed9c2a": {
+      "text": "好喝",
+      "pinyin": "hǎo hē",
+      "kind": "compound",
+      "voices": {}
+    },
+    "fcd2dcff2fa495e2": {
+      "text": "饮品",
+      "pinyin": "yǐnpǐn",
+      "kind": "section",
+      "voices": {}
+    },
+    "7dda7d72b729203c": {
+      "text": "状态",
+      "pinyin": "zhuàngtài",
+      "kind": "section",
+      "voices": {}
+    },
+    "0b26f56092ebcdaf": {
+      "text": "鸡毛蒜皮",
+      "pinyin": "jī máo suàn pí",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "14add42cb5d6d5c9": {
+      "text": "闻鸡起舞",
+      "pinyin": "wén jī qǐ wǔ",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "aabb245881dacbf8": {
+      "text": "鹤立鸡群",
+      "pinyin": "hè lì jī qún",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "b1303a618888471e": {
+      "text": "杀鸡儆猴",
+      "pinyin": "shā jī jǐng hóu",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "28fe66094d39a874": {
+      "text": "鸡蛋",
+      "pinyin": "jīdàn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "23b01fced5b9651b": {
+      "text": "鸡肉",
+      "pinyin": "jīròu",
+      "kind": "compound",
+      "voices": {}
+    },
+    "83c093813329f160": {
+      "text": "炸鸡",
+      "pinyin": "zhájī",
+      "kind": "compound",
+      "voices": {}
+    },
+    "8628f2a2bfe22766": {
+      "text": "公鸡",
+      "pinyin": "gōngjī",
+      "kind": "compound",
+      "voices": {}
+    },
+    "5a95eb76a8f80bdf": {
+      "text": "母鸡",
+      "pinyin": "mǔjī",
+      "kind": "compound",
+      "voices": {}
+    },
+    "62fada203ad255f4": {
+      "text": "小鸡",
+      "pinyin": "xiǎojī",
+      "kind": "compound",
+      "voices": {}
+    },
+    "e29daf48733eaa4f": {
+      "text": "厨房",
+      "pinyin": "chúfáng",
+      "kind": "section",
+      "voices": {}
+    },
+    "38a719716cc81340": {
+      "text": "院子",
+      "pinyin": "yuànzi",
+      "kind": "section",
+      "voices": {}
+    },
+    "4b7e150cc17cedec": {
+      "text": "马马虎虎",
+      "pinyin": "mǎ mǎ hū hū",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "b0e0a9e6e2ddfb90": {
+      "text": "一马当先",
+      "pinyin": "yī mǎ dāng xiān",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "f4856bd4c51e8ad0": {
+      "text": "马力",
+      "pinyin": "mǎlì",
+      "kind": "compound",
+      "voices": {}
+    },
+    "620f705ac1335a8c": {
+      "text": "木马",
+      "pinyin": "mùmǎ",
+      "kind": "compound",
+      "voices": {}
+    },
+    "81caffb7ff8bc91e": {
+      "text": "马虎",
+      "pinyin": "mǎhu",
+      "kind": "compound",
+      "voices": {}
+    },
+    "2710ccce5bf88deb": {
+      "text": "马车",
+      "pinyin": "mǎchē",
+      "kind": "compound",
+      "voices": {}
+    },
+    "6c7eb13b5c7fc72c": {
+      "text": "时地",
+      "pinyin": "shídì",
+      "kind": "section",
+      "voices": {}
+    },
+    "eccc3a59d8b569f7": {
+      "text": "物象",
+      "pinyin": "wùxiàng",
+      "kind": "section",
+      "voices": {}
+    },
+    "23491f0ce973f31e": {
+      "text": "九牛一毛",
+      "pinyin": "jiǔ niú yì máo",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "abc9dfb9c25c027d": {
+      "text": "汗牛充栋",
+      "pinyin": "hàn niú chōng dòng",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "7daac5d1ef081b88": {
+      "text": "牛刀小试",
+      "pinyin": "niú dāo xiǎo shì",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "00d9f9c457d7b0ab": {
+      "text": "牛奶",
+      "pinyin": "niúnǎi",
+      "kind": "compound",
+      "voices": {}
+    },
+    "623e28aac644c518": {
+      "text": "牛肉",
+      "pinyin": "niúròu",
+      "kind": "compound",
+      "voices": {}
+    },
+    "402f6423c3586bc6": {
+      "text": "牛排",
+      "pinyin": "niúpái",
+      "kind": "compound",
+      "voices": {}
+    },
+    "33a85f8adbefe855": {
+      "text": "蜗牛",
+      "pinyin": "wōniú",
+      "kind": "compound",
+      "voices": {}
+    },
+    "f05768dd51f3bfec": {
+      "text": "吹牛",
+      "pinyin": "chuīniú",
+      "kind": "compound",
+      "voices": {}
+    },
+    "315c875f7979fe40": {
+      "text": "黄牛",
+      "pinyin": "huángniú",
+      "kind": "compound",
+      "voices": {}
+    },
+    "5fee3353f01311e1": {
+      "text": "牛仔裤",
+      "pinyin": "niúzǎikù",
+      "kind": "compound",
+      "voices": {}
+    },
+    "32bbf00d007a10a2": {
+      "text": "饮食",
+      "pinyin": "yǐnshí",
+      "kind": "section",
+      "voices": {}
+    },
+    "71bd50e690a86935": {
+      "text": "引申",
+      "pinyin": "yǐnshēn",
+      "kind": "section",
+      "voices": {}
+    },
+    "a1e2c20039645d67": {
+      "text": "高朋满座",
+      "pinyin": "gāo péng mǎn zuò",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "b3a29d76199ab20d": {
+      "text": "朋比为奸",
+      "pinyin": "péng bǐ wéi jiān",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "24e553ef3eb4688e": {
+      "text": "狐朋狗友",
+      "pinyin": "hú péng gǒu yǒu",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "3a7ee5becb03800c": {
+      "text": "宾朋满座",
+      "pinyin": "bīn péng mǎn zuò",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "72ba5e60964c4df4": {
+      "text": "男朋友",
+      "pinyin": "nán péngyou",
+      "kind": "compound",
+      "voices": {}
+    },
+    "be08c7c5be1e51f8": {
+      "text": "亲朋",
+      "pinyin": "qīnpéng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "8eb01f5ccfd1b69b": {
+      "text": "良朋",
+      "pinyin": "liángpéng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "3af6870ef96d83cf": {
+      "text": "热火朝天",
+      "pinyin": "rè huǒ cháo tiān",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "ad8d2a4d827a72a1": {
+      "text": "满腔热血",
+      "pinyin": "mǎn qiāng rè xuè",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "bbd9ec4b70b1c265": {
+      "text": "热泪盈眶",
+      "pinyin": "rè lèi yíng kuàng",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "5497e7afc7fcc297": {
+      "text": "趁热打铁",
+      "pinyin": "chèn rè dǎ tiě",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "8a391a02646e9587": {
+      "text": "热水",
+      "pinyin": "rèshuǐ",
+      "kind": "compound",
+      "voices": {}
+    },
+    "14275574aa853311": {
+      "text": "热",
+      "pinyin": "rè",
+      "kind": "compound",
+      "voices": {}
+    },
+    "04882451d4fc140d": {
+      "text": "加热",
+      "pinyin": "jiārè",
+      "kind": "compound",
+      "voices": {}
+    },
+    "83ace866abeba272": {
+      "text": "热闹",
+      "pinyin": "rènao",
+      "kind": "compound",
+      "voices": {}
+    },
+    "e5807e425ee2c5f1": {
+      "text": "热门",
+      "pinyin": "rèmén",
+      "kind": "compound",
+      "voices": {}
+    },
+    "d222f62d71612484": {
+      "text": "发热",
+      "pinyin": "fārè",
+      "kind": "compound",
+      "voices": {}
+    },
+    "deab1e6d2a881b75": {
+      "text": "退热",
+      "pinyin": "tuìrè",
+      "kind": "compound",
+      "voices": {}
+    },
+    "a0db349dfb94e8e7": {
+      "text": "热敷",
+      "pinyin": "rèfū",
+      "kind": "compound",
+      "voices": {}
+    },
+    "8f445ee882175d8e": {
+      "text": "温度",
+      "pinyin": "wēndù",
+      "kind": "section",
+      "voices": {}
+    },
+    "3e6f335a7f3378bc": {
+      "text": "骨肉相连",
+      "pinyin": "gǔ ròu xiāng lián",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "a901fa9882ae3ea5": {
+      "text": "血肉相连",
+      "pinyin": "xuè ròu xiāng lián",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "b87894dd4b218599": {
+      "text": "鱼肉百姓",
+      "pinyin": "yú ròu bǎi xìng",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "24b5e8926eefc13f": {
+      "text": "猪肉",
+      "pinyin": "zhūròu",
+      "kind": "compound",
+      "voices": {}
+    },
+    "46d64545fc8d666d": {
+      "text": "羊肉",
+      "pinyin": "yángròu",
+      "kind": "compound",
+      "voices": {}
+    },
+    "3badf6f10b5cbb66": {
+      "text": "肉体",
+      "pinyin": "ròutǐ",
+      "kind": "compound",
+      "voices": {}
+    },
+    "d0f2e36110c3e6fe": {
+      "text": "肌肉",
+      "pinyin": "jīròu",
+      "kind": "compound",
+      "voices": {}
+    },
+    "d7556b3e64f2da31": {
+      "text": "肉眼",
+      "pinyin": "ròuyǎn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "db5147039001c26f": {
+      "text": "果肉",
+      "pinyin": "guǒròu",
+      "kind": "compound",
+      "voices": {}
+    },
+    "6fc76eb6664a1c4c": {
+      "text": "肉麻",
+      "pinyin": "ròumá",
+      "kind": "compound",
+      "voices": {}
+    },
+    "e101bf9367557484": {
+      "text": "肉松",
+      "pinyin": "ròusōng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "d29816e1579dbb17": {
+      "text": "肉类",
+      "pinyin": "ròulèi",
+      "kind": "section",
+      "voices": {}
+    },
+    "89b909dbba38a97b": {
+      "text": "血肉",
+      "pinyin": "xuèròu",
+      "kind": "section",
+      "voices": {}
+    },
+    "3e7a2258973601ac": {
+      "text": "哈哈大笑",
+      "pinyin": "hā hā dà xiào",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "39f136b5f5bd592c": {
+      "text": "谈笑风生",
+      "pinyin": "tán xiào fēng shēng",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "b6197290cbf2e3a6": {
+      "text": "见笑",
+      "pinyin": "jiàn xiào",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "ffe886f1a15a0097": {
+      "text": "笑里藏刀",
+      "pinyin": "xiào lǐ cáng dāo",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "c87fa311233346e0": {
+      "text": "微笑",
+      "pinyin": "wēixiào",
+      "kind": "compound",
+      "voices": {}
+    },
+    "51590d70141ee41a": {
+      "text": "可笑",
+      "pinyin": "kěxiào",
+      "kind": "compound",
+      "voices": {}
+    },
+    "936f3a5cb1fd2087": {
+      "text": "嘲笑",
+      "pinyin": "cháoxiào",
+      "kind": "compound",
+      "voices": {}
+    },
+    "756c4c104e929e6b": {
+      "text": "玩笑",
+      "pinyin": "wánxiào",
+      "kind": "compound",
+      "voices": {}
+    },
+    "4b724a6c3d62b2d5": {
+      "text": "笑声",
+      "pinyin": "xiàoshēng",
+      "kind": "section",
+      "voices": {}
+    },
+    "1d86790112783fc2": {
+      "text": "站稳脚跟",
+      "pinyin": "zhàn wěn jiǎo gēn",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "12fffab827247444": {
+      "text": "站不住脚",
+      "pinyin": "zhàn bù zhù jiǎo",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "716d6270a525968b": {
+      "text": "站在风口浪尖",
+      "pinyin": "zhàn zài fēng kǒu làng jiān",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "061b1bd045aa2b2e": {
+      "text": "站",
+      "pinyin": "zhàn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "99f54e0b4a25bb9b": {
+      "text": "站立",
+      "pinyin": "zhànlì",
+      "kind": "compound",
+      "voices": {}
+    },
+    "470f33b722b76e81": {
+      "text": "站起来",
+      "pinyin": "zhàn qǐlái",
+      "kind": "compound",
+      "voices": {}
+    },
+    "a8f34b6785998c2e": {
+      "text": "站岗",
+      "pinyin": "zhàngǎng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "26dd34e88c7e96b1": {
+      "text": "车站",
+      "pinyin": "chēzhàn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "4a4ebc812af27582": {
+      "text": "加油站",
+      "pinyin": "jiāyóuzhàn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "90b1485b404be541": {
+      "text": "站台",
+      "pinyin": "zhàntái",
+      "kind": "compound",
+      "voices": {}
+    },
+    "67fd8a58fac1ea7b": {
+      "text": "终点站",
+      "pinyin": "zhōngdiǎnzhàn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "40bd91294b748beb": {
+      "text": "网站",
+      "pinyin": "wǎngzhàn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "567be9d2731f6bb1": {
+      "text": "站长",
+      "pinyin": "zhànzhǎng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "85ee9cdb0ff00433": {
+      "text": "站点",
+      "pinyin": "zhàndiǎn",
       "kind": "compound",
       "voices": {}
     }
