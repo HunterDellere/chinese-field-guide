@@ -20,6 +20,26 @@
     "updated": "2026-06-28"
   },
   {
+    "path": "pages/characters/chun1_春.html",
+    "type": "character",
+    "category": "characters",
+    "title": "春 · spring, springtime, vitality, the stir of desire",
+    "desc": "Sun pressing up through young shoots: the season of growth, and the oldest Chinese metaphor for life-force and erotic longing.",
+    "tags": [
+      "nature",
+      "time",
+      "emotion",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "春",
+    "pinyin": "chūn",
+    "tone": 1,
+    "hsk": 2,
+    "radical": "日",
+    "updated": "2026-06-28"
+  },
+  {
     "path": "pages/characters/ge1_哥.html",
     "type": "character",
     "category": "characters",
@@ -79,6 +99,84 @@
     "updated": "2026-06-28"
   },
   {
+    "path": "pages/characters/he2_河.html",
+    "type": "character",
+    "category": "characters",
+    "title": "河 · river, the Yellow River",
+    "desc": "河 began as the personal name of one river, the Yellow River, before it widened to mean any river at all.",
+    "tags": [
+      "nature",
+      "settlement",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "河",
+    "pinyin": "hé",
+    "tone": 2,
+    "hsk": 2,
+    "radical": "氵",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/hu2_湖.html",
+    "type": "character",
+    "category": "characters",
+    "title": "湖 · lake, the provinces around Dongting",
+    "desc": "A water radical against the phonetic 胡, naming every still inland water from West Lake to the jianghu of wandering swordsmen.",
+    "tags": [
+      "nature",
+      "settlement",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "湖",
+    "pinyin": "hú",
+    "tone": 2,
+    "hsk": 2,
+    "radical": "氵",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/huang2_黄.html",
+    "type": "character",
+    "category": "characters",
+    "title": "黄 · yellow, gold, the imperial color; to fall through",
+    "desc": "The color of loess soil and the emperor, of the mother river and the egg yolk, and the one color slang that means a plan has collapsed.",
+    "tags": [
+      "nature",
+      "culture",
+      "symbolism",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "黄",
+    "pinyin": "huáng",
+    "tone": 2,
+    "hsk": 2,
+    "radical": "黄",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/huo2_活.html",
+    "type": "character",
+    "category": "characters",
+    "title": "活 · to live, to be alive, lively, work",
+    "desc": "Water gives the verb its life: a stream over a tongue, the flow that means being alive, and from there everything that moves, breathes, and gets done.",
+    "tags": [
+      "daily-life",
+      "nature",
+      "motion",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "活",
+    "pinyin": "huó",
+    "tone": 2,
+    "hsk": 2,
+    "radical": "氵",
+    "updated": "2026-06-28"
+  },
+  {
     "path": "pages/characters/ji1_鸡.html",
     "type": "character",
     "category": "characters",
@@ -96,6 +194,142 @@
     "tone": 1,
     "hsk": 1,
     "radical": "鸟",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/ji2_急.html",
+    "type": "character",
+    "category": "characters",
+    "title": "急 · urgent, anxious, hasty, rapid",
+    "desc": "A heart pressed from above: 急 stacks a phonetic element over 心, so the glyph itself feels the squeeze of urgency.",
+    "tags": [
+      "emotion",
+      "feeling",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "急",
+    "pinyin": "jí",
+    "tone": 2,
+    "hsk": 2,
+    "radical": "心",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/jie1_接.html",
+    "type": "character",
+    "category": "characters",
+    "title": "接 · to connect, to join, to receive, to meet",
+    "desc": "The hand that joins: 接 puts a wrist behind every link, every catch, and every arrival you go out to greet.",
+    "tags": [
+      "motion",
+      "connections",
+      "daily-life",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "接",
+    "pinyin": "jiē",
+    "tone": 1,
+    "hsk": 2,
+    "radical": "扌",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/jie1_街.html",
+    "type": "character",
+    "category": "characters",
+    "title": "街 · street, avenue, thoroughfare",
+    "desc": "The walk radical 行 splits open into a crossroads, and the jade-tablet phonetic 圭 sits inside, marking the place where roads cross and people pass.",
+    "tags": [
+      "settlement",
+      "daily-life",
+      "society",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "街",
+    "pinyin": "jiē",
+    "tone": 1,
+    "hsk": 2,
+    "radical": "行",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/jie4_借.html",
+    "type": "character",
+    "category": "characters",
+    "title": "借 · to borrow, to lend, to make use of",
+    "desc": "One glyph carries both halves of a loan: 借 means borrow and lend at once, the direction settled only by context.",
+    "tags": [
+      "social",
+      "daily-life",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "借",
+    "pinyin": "jiè",
+    "tone": 4,
+    "hsk": 2,
+    "radical": "亻",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/li2_离.html",
+    "type": "character",
+    "category": "characters",
+    "title": "离 · to leave, to be apart, away from",
+    "desc": "Once the name of a netted mythical bird, 离 was borrowed so long ago for to part that almost no speaker recalls its feathers.",
+    "tags": [
+      "motion",
+      "nature",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "离",
+    "pinyin": "lí",
+    "tone": 2,
+    "hsk": 2,
+    "radical": "禸",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/lian3_脸.html",
+    "type": "character",
+    "category": "characters",
+    "title": "脸 · face, cheeks, social face, reputation",
+    "desc": "The flesh-radical face that doubles as a ledger of dignity: in Chinese you can lose it, save it, or tear it apart.",
+    "tags": [
+      "body",
+      "social",
+      "daily-life",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "脸",
+    "pinyin": "liǎn",
+    "tone": 3,
+    "hsk": 2,
+    "radical": "⺼",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/lian4_练.html",
+    "type": "character",
+    "category": "characters",
+    "title": "练 · to practice, to train, to refine, skilled",
+    "desc": "Before it meant drilling and rehearsal, 练 was a verb for boiling raw silk soft, the repetition of treatment that hardens into skill.",
+    "tags": [
+      "daily-life",
+      "communication",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "练",
+    "pinyin": "liàn",
+    "tone": 4,
+    "hsk": 2,
+    "radical": "纟",
     "updated": "2026-06-28"
   },
   {

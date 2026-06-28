@@ -16,6 +16,7 @@
 成	chéng	to become, succeed, accomplished — A halberd standing guard over a finished task. From that image grows the whole field of completion: to become, to succeed, to accomplish, the ready-made and the mature, and even the colloquial yes that settles a matter.
 吃	chī	to eat — To eat, and the extraordinary range of Chinese life encoded in a single food verb.
 出	chū	to exit, to emerge, to produce — 出 is two plants growing upward out of the earth: emergence itself written as a glyph, from physical exits to publication to standing out from the crowd.
+春	chūn	spring, springtime, vitality, the stir of desire — Sun pressing up through young shoots: the season of growth, and the oldest Chinese metaphor for life-force and erotic longing.
 词	cí	word, term, diction, the sung lyric — Speech beside a phonetic 司: the unit we call a word, the wording a speaker chooses, and the classical lyric form that grew up beside regulated verse to be sung to set tune-patterns.
 打	dǎ	to hit, to strike; the most versatile verb in Mandarin — To hit, and a hundred extensions: make a call, play a sport, pack a bag, get an injection. The most productive light verb in Chinese.
 大	dà	big, great, large — Big, great, large: a person with arms wide open, the original measure of magnitude.
@@ -54,18 +55,23 @@
 喝	hē	to drink; (hè) to shout, to cry out — A mouth radical paired with the phonetic 曷, splitting cleanly into the everyday hē you drink with and the older hè you shout with.
 合	hé	to join, combine, suit, close — A lid closing down over the mouth of a vessel. From that image of two parts meeting and fitting grows the whole field of joining, suiting, closing, and adding up into a whole.
 和	hé	harmony, and, with; peace — 和 carries the same concept across grammar and philosophy: grain and mouth together, the harmony of shared food and speech, a character that serves as both everyday conjunction and the Confucian ideal of a well-ordered world.
+河	hé	river, the Yellow River — 河 began as the personal name of one river, the Yellow River, before it widened to mean any river at all.
 黑	hēi	black, darkness, and the illicit — Black on the surface, but the live sense is moral: the black market, the underworld, the hacker. The color that names everything that operates out of sight.
 很	hěn	very; the empty intensifier — 很 is the word for very, but its strangest job is doing nothing: Chinese needs a degree adverb before a plain adjective, and 很 fills that slot so quietly that 我很好 means simply I am fine, not I am very well.
 红	hóng	red, the color of luck and celebration — The cultural keystone color: weddings, New Year, the red envelope, and a century of revolutionary politics all run through this one character.
 后	hòu	back, behind, after; empress — One simplified character collapsed two completely separate traditional forms: 後 (a trailing foot in motion) and 后 (a commanding mouth), binding the spatial sense of behind with the imperial sense of empress in a single glyph.
 候	hòu	to wait, time, season, climate — A person standing watch beside the road. From the figure of one who waits and watches grows the everyday word for when (时候), the act of awaiting (等候), and the long rhythm of the weather (气候).
+湖	hú	lake, the provinces around Dongting — A water radical against the phonetic 胡, naming every still inland water from West Lake to the jianghu of wandering swordsmen.
 花	huā	flower, to spend, patterned — A plant caught in its transformed, blooming state: the flower, the act of spending money or time, and the patterned, fancy, or blurred. One glyph that runs from the garden to the wallet to the dazzled eye.
 画	huà	to draw, a painting, a stroke — A hand with a brush drawing the boundaries of a field. From that image grows the whole world of pictures: to paint, a painting, and the single stroke of a character.
 话	huà	words, speech, talk, language — Speech beside a tongue: the everyday character for spoken words. From it grow talking and conversation, the telephone, a dialect or standard language, and the topics and sayings people pass around.
 欢	huān	joy, merry, to be pleased — A breath of open delight: the hand and the open mouth that make laughter. From this glyph come joy and merriment, to like and to welcome, and the lively, high-spirited mood.
+黄	huáng	yellow, gold, the imperial color; to fall through — The color of loess soil and the emperor, of the mother river and the egg yolk, and the one color slang that means a plan has collapsed.
 回	huí	to return, to turn back, a time — Two squares nested like a coiling eddy. The character for coming back: returning home, turning around, replying, and counting the times a thing happens.
+活	huó	to live, to be alive, lively, work — Water gives the verb its life: a stream over a tongue, the flow that means being alive, and from there everything that moves, breathes, and gets done.
 火	huǒ	fire, flame, anger, popularity — Three flames rising: the character for fire and one of the most productive radicals in Chinese.
 鸡	jī	chicken, fowl, rooster — The simplified 鸡 swaps a chicken-coop hand 又 in where the traditional 雞 kept the sound-bearer 奚 beside the bird.
+急	jí	urgent, anxious, hasty, rapid — A heart pressed from above: 急 stacks a phonetic element over 心, so the glyph itself feels the squeeze of urgency.
 己	jǐ	oneself, self, the sixth Heavenly Stem — A picture of a coiled, bending thread borrowed long ago to mean the self. From it grows everything turned inward: oneself, the private view, self-restraint, and the sixth of the ten Heavenly Stems.
 记	jì	to remember, to record, a mark — Speech set beside the self: the act of fixing something so it will not be lost. From that image grow three senses: to remember, to write down, and the mark left behind.
 家	jiā	home, family — House, family, school of thought, nation (国家): the fractal of belonging.
@@ -73,8 +79,11 @@
 见	jiàn	to see, to meet, to appear — An eye on legs. The character that built Chinese verbs of seeing, meeting, opinion, and the moment a thing first comes into view.
 件	jiàn	item, piece, measure word — The measure word for matters, garments, and gifts, and the character behind documents, parts, and cases.
 教	jiào	to teach, teaching, religion — A hand with a rod beside a child at the lesson. From that scene of instruction grows a wide field: to teach and educate, to teach a skill in the spoken jiao reading, and the teaching that became the word for religion.
+接	jiē	to connect, to join, to receive, to meet — The hand that joins: 接 puts a wrist behind every link, every catch, and every arrival you go out to greet.
+街	jiē	street, avenue, thoroughfare — The walk radical 行 splits open into a crossroads, and the jade-tablet phonetic 圭 sits inside, marking the place where roads cross and people pass.
 节	jié	joint, node, festival, to economize — A bamboo joint, the segment between the knots. From that node grows everything that comes in sections: the joint of a limb, the chapter of a book, the festival that knots the calendar, and the restraint that keeps a thing within bounds.
 结	jié	to tie, to unite, to conclude, to bear fruit — A knot tied in silk thread. From that image grows everything that binds and resolves: the knot you tie, the union of two people, the conclusion that settles a matter, and the fruit a plant ties onto its branch.
+借	jiè	to borrow, to lend, to make use of — One glyph carries both halves of a loan: 借 means borrow and lend at once, the direction settled only by context.
 进	jìn	to enter, to advance, to take in — A foot on the road and a bird that only ever walks forward. From that image grows everything that moves ahead and moves in: to enter, to advance, to progress, to carry out, and to take goods in.
 经	jīng	classic, scripture, to pass through, warp threads — The lengthwise warp threads strung on a loom, the structural through-lines that hold a fabric together. From that image grow the canonical classic, the act of passing through, and the running of an enterprise.
 九	jiǔ	nine; the imperial number and the highest of the yang — Nine is the largest single digit and the highest yang number, reserved for the emperor and the heavens: nine dragons, nine gates, the Nine-Five supreme position, the ninth heaven.
@@ -86,9 +95,12 @@
 来	lái	to come, to arrive, toward the speaker — Oracle bone wheat plant turned direction-word: 来 pulls everything toward the speaker, including time itself.
 老	lǎo	old, venerable, experienced — A stooped elder with long hair: age as wisdom, seniority as moral authority, and the Daoist sage who wrote the Daodejing.
 乐	lè	happy, joyful (lè); music (yuè) — A picture of a wooden frame strung with silk and a drum, an early musical instrument. The simplified 乐 carries two readings: yuè for music, the original sense, and lè for joy, the happiness that music gives.
+离	lí	to leave, to be apart, away from — Once the name of a netted mythical bird, 离 was borrowed so long ago for to part that almost no speaker recalls its feathers.
 里	lǐ	inside, within; Chinese mile — From field stacked on earth, 里 named the bounded cultivated interior of a settlement and became the unit of distance that measured the realm's interior reach.
 理	lǐ	principle, reason, to manage, texture — The veins running through a piece of jade, the lines a carver follows when cutting. From that grain grows everything ordered: the inner pattern of things, principle and reason, and the work of putting a matter in order.
 力	lì	strength, power, force, effort — A picture of a plough or a flexed sinew, the image of bodily exertion. From that one shape grows everything pushed by force: raw strength, the capacity to do, and the effort poured into a task.
+脸	liǎn	face, cheeks, social face, reputation — The flesh-radical face that doubles as a ledger of dignity: in Chinese you can lose it, save it, or tear it apart.
+练	liàn	to practice, to train, to refine, skilled — Before it meant drilling and rehearsal, 练 was a verb for boiling raw silk soft, the repetition of treatment that hardens into skill.
 两	liǎng	two (of); a pair; the tael, the other word for two — 两 is the two used before measure words, the two of quantity and pairing, as opposed to 二 the two of counting and order, a distinction that is one of the first real puzzles a learner meets.
 量	liàng	quantity, capacity; to measure — 商量 shangliang, to discuss, is literally to measure something out together: the act of weighing it between two minds before anyone decides.
 零	líng	zero; raindrops, the fractional remainder, and the late invention of nothing — Zero began as falling raindrops and the leftover odd remainder, taking on the meaning of mathematical nothing only late, the placeholder that Chinese numerals long managed without.
@@ -224,6 +236,7 @@
 关系	guān xi	relationship, connections — The untranslatable social fabric: relational leverage, it matters.
 国家	guó jiā	nation; state; country — A compound of the two most culturally loaded characters in Chinese: country and family, that encodes the Confucian political imagination in two syllables.
 汉字	hàn zì	Chinese characters — The world's oldest continuously used writing system: how Chinese characters work, why they look the way they do, and the categories every learner needs to know.
+江湖	jiāng hú	rivers and lakes — The outsider world of wanderers, martial artists, and street wisdom.
 江山	jiāng shān	rivers and mountains, the realm — The classical Chinese word for the nation: not a territory but a landscape; not a state but a living geography that dynasties rose and fell to possess.
 君子	jūn zǐ	the exemplary person — The Confucian moral ideal that replaced aristocratic birth with cultivated virtue as the basis of social authority: anyone who does the work of 仁义礼智信 qualifies.
 良心	liáng xīn	conscience; innate moral sense — The good heart-mind: the Chinese word for conscience carries a philosophical claim that moral knowledge is a natural endowment, not an acquired rule.
@@ -279,6 +292,7 @@
 就 vs. 才	jiù / cái	sooner vs. later — The timing and emphasis pair: speaker attitude encoded in one syllable.
 可能	kěn éng	maybe, possible — The all-purpose word for possibility, working as adverb, adjective, and noun, and how it differs from 也许, 或许, 大概, and the modal 会.
 来	lái / qù	去 · directional complements — 上来, 下去, 出去, 进来: the motion complement system mapped.
+离	lí	away from; distance — The coverb for distance and separation: the A 离 B + distance pattern for "how far", the verb sense "to leave / part from", and how 离 differs from 从 and 到 in marking space and time.
 量词	liàng cí	measure words — 个, 只, 条, 本, 张: the classifier taxonomy and the logic behind it.
 没有	méi yǒu	negation of possession and past action — The two most important negation characters, 不 and 没, and why they cannot be swapped.
 起来	qǐ lái	directional complement: upward, inward, beginning — The most versatile directional complement in Mandarin: three distinct grammatical lives.

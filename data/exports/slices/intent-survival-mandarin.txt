@@ -156,6 +156,7 @@
 就 vs. 才	jiù / cái	sooner vs. later — The timing and emphasis pair: speaker attitude encoded in one syllable.
 可能	kěn éng	maybe, possible — The all-purpose word for possibility, working as adverb, adjective, and noun, and how it differs from 也许, 或许, 大概, and the modal 会.
 来	lái / qù	去 · directional complements — 上来, 下去, 出去, 进来: the motion complement system mapped.
+离	lí	away from; distance — The coverb for distance and separation: the A 离 B + distance pattern for "how far", the verb sense "to leave / part from", and how 离 differs from 从 and 到 in marking space and time.
 量词	liàng cí	measure words — 个, 只, 条, 本, 张: the classifier taxonomy and the logic behind it.
 没有	méi yǒu	negation of possession and past action — The two most important negation characters, 不 and 没, and why they cannot be swapped.
 起来	qǐ lái	directional complement: upward, inward, beginning — The most versatile directional complement in Mandarin: three distinct grammatical lives.

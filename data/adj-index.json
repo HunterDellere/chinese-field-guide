@@ -114,6 +114,29 @@
     ],
     "hasPage": true
   },
+  "水": {
+    "cn": "水",
+    "py": "shuǐ",
+    "en": "water",
+    "count": 14,
+    "appearsOn": [
+      "pages/arts/topic_shanshui.html",
+      "pages/characters/di4_地.html",
+      "pages/characters/feng1_风.html",
+      "pages/characters/hai3_海.html",
+      "pages/characters/hei1_黑.html",
+      "pages/characters/hu2_湖.html",
+      "pages/characters/huo2_活.html",
+      "pages/characters/huo3_火.html",
+      "pages/characters/qing1_清.html",
+      "pages/characters/tu3_土.html",
+      "pages/characters/yu3_雨.html",
+      "pages/characters/yun2_云.html",
+      "pages/vocab/shanshui_山水.html",
+      "pages/vocab/ziran_自然.html"
+    ],
+    "hasPage": true
+  },
   "君子": {
     "cn": "君子",
     "py": "jūnzǐ",
@@ -154,27 +177,6 @@
       "pages/vocab/daode_道德.html",
       "pages/vocab/lunyu_论语.html",
       "pages/vocab/ren2_仁.html"
-    ],
-    "hasPage": true
-  },
-  "水": {
-    "cn": "水",
-    "py": "shuǐ",
-    "en": "water",
-    "count": 12,
-    "appearsOn": [
-      "pages/arts/topic_shanshui.html",
-      "pages/characters/di4_地.html",
-      "pages/characters/feng1_风.html",
-      "pages/characters/hai3_海.html",
-      "pages/characters/hei1_黑.html",
-      "pages/characters/huo3_火.html",
-      "pages/characters/qing1_清.html",
-      "pages/characters/tu3_土.html",
-      "pages/characters/yu3_雨.html",
-      "pages/characters/yun2_云.html",
-      "pages/vocab/shanshui_山水.html",
-      "pages/vocab/ziran_自然.html"
     ],
     "hasPage": true
   },
@@ -448,6 +450,24 @@
     ],
     "hasPage": true
   },
+  "还": {
+    "cn": "还",
+    "py": "hái",
+    "en": "still; also; even (in comparisons)",
+    "count": 9,
+    "appearsOn": [
+      "pages/characters/geng4_更.html",
+      "pages/characters/jie4_借.html",
+      "pages/characters/ye3_也.html",
+      "pages/characters/zai4_再.html",
+      "pages/grammar/dou_都.html",
+      "pages/grammar/erqie_而且.html",
+      "pages/grammar/haishi_huozhe_还是或者.html",
+      "pages/grammar/le_了.html",
+      "pages/grammar/zhe_着.html"
+    ],
+    "hasPage": true
+  },
   "轮回": {
     "cn": "轮回",
     "py": "lúnhuí",
@@ -538,6 +558,24 @@
     ],
     "hasPage": true
   },
+  "走": {
+    "cn": "走",
+    "py": "zǒu",
+    "en": "to walk",
+    "count": 9,
+    "appearsOn": [
+      "pages/characters/jiao3_脚.html",
+      "pages/characters/li2_离.html",
+      "pages/characters/lu4_路.html",
+      "pages/characters/pao3_跑.html",
+      "pages/characters/qu4_去.html",
+      "pages/characters/xing2_行.html",
+      "pages/characters/yue4_越.html",
+      "pages/characters/zhan4_站.html",
+      "pages/grammar/directional_来去.html"
+    ],
+    "hasPage": true
+  },
   "豆腐": {
     "cn": "豆腐",
     "py": "dòufu",
@@ -586,23 +624,6 @@
       "pages/vocab/amituofo_阿弥陀佛.html",
       "pages/vocab/niepan_涅槃.html",
       "pages/vocab/pusa_菩萨.html"
-    ],
-    "hasPage": true
-  },
-  "还": {
-    "cn": "还",
-    "py": "hái",
-    "en": "still; also; even (in comparisons)",
-    "count": 8,
-    "appearsOn": [
-      "pages/characters/geng4_更.html",
-      "pages/characters/ye3_也.html",
-      "pages/characters/zai4_再.html",
-      "pages/grammar/dou_都.html",
-      "pages/grammar/erqie_而且.html",
-      "pages/grammar/haishi_huozhe_还是或者.html",
-      "pages/grammar/le_了.html",
-      "pages/grammar/zhe_着.html"
     ],
     "hasPage": true
   },
@@ -671,6 +692,23 @@
       "pages/culinary/topic_tisanes.html",
       "pages/culinary/topic_wulong.html",
       "pages/grammar/zhe_particle_呢.html"
+    ],
+    "hasPage": true
+  },
+  "面子": {
+    "cn": "面子",
+    "py": "miànzi",
+    "en": "social face; dignity",
+    "count": 8,
+    "appearsOn": [
+      "pages/characters/lian3_脸.html",
+      "pages/characters/mian4_面.html",
+      "pages/daily/topic_kouyu_lianjieci.html",
+      "pages/vocab/guanxi_关系.html",
+      "pages/vocab/keqi_客气.html",
+      "pages/vocab/limao_礼貌.html",
+      "pages/vocab/qianxu_谦虚.html",
+      "pages/vocab/shehui_社会.html"
     ],
     "hasPage": true
   },
@@ -793,23 +831,6 @@
     ],
     "hasPage": true
   },
-  "走": {
-    "cn": "走",
-    "py": "zǒu",
-    "en": "to walk",
-    "count": 8,
-    "appearsOn": [
-      "pages/characters/jiao3_脚.html",
-      "pages/characters/lu4_路.html",
-      "pages/characters/pao3_跑.html",
-      "pages/characters/qu4_去.html",
-      "pages/characters/xing2_行.html",
-      "pages/characters/yue4_越.html",
-      "pages/characters/zhan4_站.html",
-      "pages/grammar/directional_来去.html"
-    ],
-    "hasPage": true
-  },
   "爱": {
     "cn": "爱",
     "py": "ài",
@@ -903,6 +924,22 @@
       "pages/culture/topic_duanwu.html",
       "pages/culture/topic_zhongjiu.html",
       "pages/vocab/chunjie_春节.html"
+    ],
+    "hasPage": true
+  },
+  "从": {
+    "cn": "从",
+    "py": "cóng",
+    "en": "from (starting point)",
+    "count": 7,
+    "appearsOn": [
+      "pages/characters/li2_离.html",
+      "pages/characters/zi4_自.html",
+      "pages/grammar/dui_对.html",
+      "pages/grammar/le_了.html",
+      "pages/grammar/li_离.html",
+      "pages/grammar/zai_在.html",
+      "pages/grammar/zhi_之.html"
     ],
     "hasPage": true
   },
@@ -1079,22 +1116,6 @@
       "pages/culinary/topic_jiaozi.html",
       "pages/culinary/topic_lucai.html",
       "pages/vocab/mianzi_面子.html"
-    ],
-    "hasPage": true
-  },
-  "面子": {
-    "cn": "面子",
-    "py": "miànzi",
-    "en": "social face; prestige",
-    "count": 7,
-    "appearsOn": [
-      "pages/characters/mian4_面.html",
-      "pages/daily/topic_kouyu_lianjieci.html",
-      "pages/vocab/guanxi_关系.html",
-      "pages/vocab/keqi_客气.html",
-      "pages/vocab/limao_礼貌.html",
-      "pages/vocab/qianxu_谦虚.html",
-      "pages/vocab/shehui_社会.html"
     ],
     "hasPage": true
   },
@@ -1320,21 +1341,6 @@
     ],
     "hasPage": true
   },
-  "从": {
-    "cn": "从",
-    "py": "cóng",
-    "en": "from; since",
-    "count": 6,
-    "appearsOn": [
-      "pages/characters/zi4_自.html",
-      "pages/grammar/dui_对.html",
-      "pages/grammar/le_了.html",
-      "pages/grammar/li_离.html",
-      "pages/grammar/zai_在.html",
-      "pages/grammar/zhi_之.html"
-    ],
-    "hasPage": true
-  },
   "第二级": {
     "cn": "第二级",
     "py": "dì-èr jí",
@@ -1527,6 +1533,21 @@
       "pages/characters/zui4_最.html",
       "pages/grammar/taiLe_太了.html",
       "pages/grammar/yidian_youdian_一点儿有点儿.html"
+    ],
+    "hasPage": true
+  },
+  "皇帝": {
+    "cn": "皇帝",
+    "py": "huángdì",
+    "en": "emperor",
+    "count": 6,
+    "appearsOn": [
+      "pages/characters/huang2_黄.html",
+      "pages/characters/long2_龙.html",
+      "pages/characters/ming4_命.html",
+      "pages/history/topic_caocao.html",
+      "pages/history/topic_qinchao.html",
+      "pages/vocab/jiangshan_江山.html"
     ],
     "hasPage": true
   },
@@ -2111,6 +2132,20 @@
     ],
     "hasPage": false
   },
+  "合": {
+    "cn": "合",
+    "py": "hé",
+    "en": "to join; combine",
+    "count": 5,
+    "appearsOn": [
+      "pages/characters/fen1_分.html",
+      "pages/characters/he2_和.html",
+      "pages/characters/li2_离.html",
+      "pages/characters/liu4_六.html",
+      "pages/characters/yi1_一.html"
+    ],
+    "hasPage": true
+  },
   "和": {
     "cn": "和",
     "py": "hé",
@@ -2136,20 +2171,6 @@
       "pages/families/collections.html",
       "pages/families/explore.html",
       "pages/families/language.html"
-    ],
-    "hasPage": true
-  },
-  "皇帝": {
-    "cn": "皇帝",
-    "py": "huángdì",
-    "en": "emperor",
-    "count": 5,
-    "appearsOn": [
-      "pages/characters/long2_龙.html",
-      "pages/characters/ming4_命.html",
-      "pages/history/topic_caocao.html",
-      "pages/history/topic_qinchao.html",
-      "pages/vocab/jiangshan_江山.html"
     ],
     "hasPage": true
   },
@@ -2418,6 +2439,20 @@
     ],
     "hasPage": true
   },
+  "死": {
+    "cn": "死",
+    "py": "sǐ",
+    "en": "death (white = mourning color)",
+    "count": 5,
+    "appearsOn": [
+      "pages/characters/bai2_白.html",
+      "pages/characters/huo2_活.html",
+      "pages/characters/ming4_命.html",
+      "pages/characters/sheng1_生.html",
+      "pages/characters/si4_四.html"
+    ],
+    "hasPage": true
+  },
   "她": {
     "cn": "她",
     "py": "tā",
@@ -2529,6 +2564,20 @@
       "pages/characters/shuo1_说.html"
     ],
     "hasPage": false
+  },
+  "颜色": {
+    "cn": "颜色",
+    "py": "yánsè",
+    "en": "colors and luck",
+    "count": 5,
+    "appearsOn": [
+      "pages/characters/bai2_白.html",
+      "pages/characters/hei1_黑.html",
+      "pages/characters/hong2_红.html",
+      "pages/characters/huang2_黄.html",
+      "pages/religion/topic_minjian.html"
+    ],
+    "hasPage": true
   },
   "意思": {
     "cn": "意思",
@@ -2745,6 +2794,19 @@
     ],
     "hasPage": true
   },
+  "到": {
+    "cn": "到",
+    "py": "dào",
+    "en": "to arrive; to reach",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/kai1_开.html",
+      "pages/characters/li2_离.html",
+      "pages/characters/pao3_跑.html",
+      "pages/grammar/li_离.html"
+    ],
+    "hasPage": true
+  },
   "得": {
     "cn": "得",
     "py": "děi",
@@ -2940,6 +3002,19 @@
     ],
     "hasPage": true
   },
+  "海": {
+    "cn": "海",
+    "py": "hǎi",
+    "en": "sea",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/he2_河.html",
+      "pages/characters/hu2_湖.html",
+      "pages/characters/shan1_山.html",
+      "pages/characters/shui3_水.html"
+    ],
+    "hasPage": true
+  },
   "好": {
     "cn": "好",
     "py": "hǎo",
@@ -2953,16 +3028,55 @@
     ],
     "hasPage": true
   },
-  "合": {
-    "cn": "合",
+  "河": {
+    "cn": "河",
     "py": "hé",
-    "en": "to join; combine",
+    "en": "river",
     "count": 4,
     "appearsOn": [
-      "pages/characters/fen1_分.html",
-      "pages/characters/he2_和.html",
-      "pages/characters/liu4_六.html",
-      "pages/characters/yi1_一.html"
+      "pages/characters/hai3_海.html",
+      "pages/characters/hu2_湖.html",
+      "pages/characters/shan1_山.html",
+      "pages/characters/shui3_水.html"
+    ],
+    "hasPage": true
+  },
+  "红": {
+    "cn": "红",
+    "py": "hóng",
+    "en": "red",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/bai2_白.html",
+      "pages/characters/hei1_黑.html",
+      "pages/characters/huang2_黄.html",
+      "pages/characters/se4_色.html"
+    ],
+    "hasPage": true
+  },
+  "湖": {
+    "cn": "湖",
+    "py": "hú",
+    "en": "lake",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/hai3_海.html",
+      "pages/characters/he2_河.html",
+      "pages/characters/shan1_山.html",
+      "pages/characters/shui3_水.html"
+    ],
+    "hasPage": true
+  },
+  "黄河": {
+    "cn": "黄河",
+    "py": "huánghé",
+    "en": "the Yellow River",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/he2_河.html",
+      "pages/characters/huang2_黄.html",
+      "pages/geography/topic_sichuanpen.html",
+      "pages/vocab/jiangshan_江山.html"
     ],
     "hasPage": true
   },
@@ -3148,6 +3262,19 @@
     ],
     "hasPage": false
   },
+  "连接": {
+    "cn": "连接",
+    "py": "liánjiē",
+    "en": "to connect",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/jie1_接.html",
+      "pages/characters/lian2_连.html",
+      "pages/characters/tong1_通.html",
+      "pages/characters/xi4_系.html"
+    ],
+    "hasPage": false
+  },
   "联系": {
     "cn": "联系",
     "py": "liánxì",
@@ -3317,6 +3444,19 @@
     ],
     "hasPage": true
   },
+  "然后": {
+    "cn": "然后",
+    "py": "ránhòu",
+    "en": "then; after that",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/hou4_后.html",
+      "pages/characters/jie1_接.html",
+      "pages/characters/ran2_然.html",
+      "pages/grammar/nai_乃.html"
+    ],
+    "hasPage": true
+  },
   "让": {
     "cn": "让",
     "py": "ràng",
@@ -3395,6 +3535,19 @@
     ],
     "hasPage": false
   },
+  "生": {
+    "cn": "生",
+    "py": "shēng",
+    "en": "life, birth, raw, student",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/chu1_出.html",
+      "pages/characters/huo2_活.html",
+      "pages/characters/ming4_命.html",
+      "pages/characters/si3_死.html"
+    ],
+    "hasPage": true
+  },
   "声调": {
     "cn": "声调",
     "py": "shēngdiào",
@@ -3470,19 +3623,6 @@
       "pages/characters/kou3_口.html",
       "pages/characters/yan2_言.html",
       "pages/characters/yu3_语.html"
-    ],
-    "hasPage": true
-  },
-  "死": {
-    "cn": "死",
-    "py": "sǐ",
-    "en": "death (white = mourning color)",
-    "count": 4,
-    "appearsOn": [
-      "pages/characters/bai2_白.html",
-      "pages/characters/ming4_命.html",
-      "pages/characters/sheng1_生.html",
-      "pages/characters/si4_四.html"
     ],
     "hasPage": true
   },
@@ -3629,19 +3769,6 @@
     ],
     "hasPage": true
   },
-  "颜色": {
-    "cn": "颜色",
-    "py": "yánsè",
-    "en": "colors and luck",
-    "count": 4,
-    "appearsOn": [
-      "pages/characters/bai2_白.html",
-      "pages/characters/hei1_黑.html",
-      "pages/characters/hong2_红.html",
-      "pages/religion/topic_minjian.html"
-    ],
-    "hasPage": true
-  },
   "眼": {
     "cn": "眼",
     "py": "yǎn",
@@ -3758,6 +3885,19 @@
       "pages/grammar/weishenme_为什么.html"
     ],
     "hasPage": false
+  },
+  "远": {
+    "cn": "远",
+    "py": "yuǎn",
+    "en": "far; distant; remote",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/jin4_近.html",
+      "pages/characters/li2_离.html",
+      "pages/characters/yun2_云.html",
+      "pages/grammar/li_离.html"
+    ],
+    "hasPage": true
   },
   "愿意": {
     "cn": "愿意",
@@ -4203,18 +4343,6 @@
     ],
     "hasPage": false
   },
-  "到": {
-    "cn": "到",
-    "py": "dào",
-    "en": "to arrive; to reach",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/kai1_开.html",
-      "pages/characters/pao3_跑.html",
-      "pages/grammar/li_离.html"
-    ],
-    "hasPage": true
-  },
   "道德经": {
     "cn": "道德经",
     "py": "dàodéjīng",
@@ -4491,18 +4619,6 @@
     ],
     "hasPage": false
   },
-  "河": {
-    "cn": "河",
-    "py": "hé",
-    "en": "river",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/hai3_海.html",
-      "pages/characters/shan1_山.html",
-      "pages/characters/shui3_水.html"
-    ],
-    "hasPage": false
-  },
   "黑": {
     "cn": "黑",
     "py": "hēi",
@@ -4511,18 +4627,6 @@
     "appearsOn": [
       "pages/characters/bai2_白.html",
       "pages/characters/hong2_红.html",
-      "pages/characters/se4_色.html"
-    ],
-    "hasPage": true
-  },
-  "红": {
-    "cn": "红",
-    "py": "hóng",
-    "en": "red",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/bai2_白.html",
-      "pages/characters/hei1_黑.html",
       "pages/characters/se4_色.html"
     ],
     "hasPage": true
@@ -4548,18 +4652,6 @@
       "pages/characters/hou4_后.html",
       "pages/characters/ran2_然.html",
       "pages/vocab/ranhou_然后.html"
-    ],
-    "hasPage": false
-  },
-  "湖": {
-    "cn": "湖",
-    "py": "hú",
-    "en": "lake",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/hai3_海.html",
-      "pages/characters/shan1_山.html",
-      "pages/characters/shui3_水.html"
     ],
     "hasPage": false
   },
@@ -4707,6 +4799,30 @@
     ],
     "hasPage": false
   },
+  "江": {
+    "cn": "江",
+    "py": "jiāng",
+    "en": "large river (esp. southern)",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/he2_河.html",
+      "pages/characters/hu2_湖.html",
+      "pages/characters/shui3_水.html"
+    ],
+    "hasPage": false
+  },
+  "江湖": {
+    "cn": "江湖",
+    "py": "jiānghú",
+    "en": "the wider world",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/hu2_湖.html",
+      "pages/vocab/shehui_社会.html",
+      "pages/vocab/wenhua_文化.html"
+    ],
+    "hasPage": true
+  },
   "叫": {
     "cn": "叫",
     "py": "jiào",
@@ -4730,6 +4846,18 @@
       "pages/characters/wan2_完.html"
     ],
     "hasPage": false
+  },
+  "金": {
+    "cn": "金",
+    "py": "jīn",
+    "en": "gold, metal",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/huang2_黄.html",
+      "pages/characters/mu4_木.html",
+      "pages/characters/qian2_钱.html"
+    ],
+    "hasPage": true
   },
   "近": {
     "cn": "近",
@@ -4790,6 +4918,18 @@
       "pages/characters/xin1_新.html"
     ],
     "hasPage": true
+  },
+  "距离": {
+    "cn": "距离",
+    "py": "jùlí",
+    "en": "distance",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/li2_离.html",
+      "pages/characters/yuan3_远.html",
+      "pages/grammar/li_离.html"
+    ],
+    "hasPage": false
   },
   "觉得": {
     "cn": "觉得",
@@ -4875,6 +5015,18 @@
     ],
     "hasPage": true
   },
+  "快": {
+    "cn": "快",
+    "py": "kuài",
+    "en": "fast; soon",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/duo1_多.html",
+      "pages/characters/ji2_急.html",
+      "pages/characters/man4_慢.html"
+    ],
+    "hasPage": true
+  },
   "快乐": {
     "cn": "快乐",
     "py": "kuàilè",
@@ -4923,6 +5075,17 @@
     ],
     "hasPage": true
   },
+  "离婚": {
+    "cn": "离婚",
+    "py": "líhūn",
+    "en": "to divorce",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/jie2_结.html",
+      "pages/characters/li2_离.html"
+    ],
+    "hasPage": false
+  },
   "理": {
     "cn": "理",
     "py": "lǐ",
@@ -4947,17 +5110,17 @@
     ],
     "hasPage": true
   },
-  "连接": {
-    "cn": "连接",
-    "py": "liánjiē",
-    "en": "to connect; to link",
+  "连": {
+    "cn": "连",
+    "py": "lián",
+    "en": "to link",
     "count": 3,
     "appearsOn": [
-      "pages/characters/lian2_连.html",
-      "pages/characters/tong1_通.html",
-      "pages/characters/xi4_系.html"
+      "pages/characters/jie1_接.html",
+      "pages/characters/ye3_也.html",
+      "pages/grammar/dou_都.html"
     ],
-    "hasPage": false
+    "hasPage": true
   },
   "邻居": {
     "cn": "邻居",
@@ -4992,6 +5155,30 @@
       "pages/history/topic_shiji.html",
       "pages/history/topic_wenge.html",
       "pages/history/topic_xinhai.html"
+    ],
+    "hasPage": true
+  },
+  "绿": {
+    "cn": "绿",
+    "py": "lǜ",
+    "en": "green",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/hong2_红.html",
+      "pages/characters/huang2_黄.html",
+      "pages/characters/se4_色.html"
+    ],
+    "hasPage": false
+  },
+  "慢": {
+    "cn": "慢",
+    "py": "màn",
+    "en": "slow; unhurried",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/di1_低.html",
+      "pages/characters/ji2_急.html",
+      "pages/characters/kuai4_快.html"
     ],
     "hasPage": true
   },
@@ -5307,18 +5494,6 @@
     ],
     "hasPage": false
   },
-  "然后": {
-    "cn": "然后",
-    "py": "ránhòu",
-    "en": "then; after that",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/hou4_后.html",
-      "pages/characters/ran2_然.html",
-      "pages/grammar/nai_乃.html"
-    ],
-    "hasPage": true
-  },
   "人": {
     "cn": "人",
     "py": "rén",
@@ -5427,17 +5602,17 @@
     ],
     "hasPage": true
   },
-  "生": {
-    "cn": "生",
-    "py": "shēng",
-    "en": "life, birth, raw, student",
+  "生活": {
+    "cn": "生活",
+    "py": "shēnghuó",
+    "en": "life; to live",
     "count": 3,
     "appearsOn": [
-      "pages/characters/chu1_出.html",
+      "pages/characters/huo2_活.html",
       "pages/characters/ming4_命.html",
-      "pages/characters/si3_死.html"
+      "pages/vocab/rensheng_人生.html"
     ],
-    "hasPage": true
+    "hasPage": false
   },
   "声": {
     "cn": "声",
@@ -6180,18 +6355,6 @@
       "pages/history/topic_mingchao.html",
       "pages/history/topic_qingchao.html",
       "pages/history/topic_yuanchao.html"
-    ],
-    "hasPage": true
-  },
-  "远": {
-    "cn": "远",
-    "py": "yuǎn",
-    "en": "far; distant; remote",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/jin4_近.html",
-      "pages/characters/yun2_云.html",
-      "pages/grammar/li_离.html"
     ],
     "hasPage": true
   },
@@ -7031,7 +7194,7 @@
       "pages/characters/lei2_雷.html",
       "pages/characters/mu4_木.html"
     ],
-    "hasPage": false
+    "hasPage": true
   },
   "春秋": {
     "cn": "春秋",
@@ -7154,6 +7317,17 @@
     ],
     "hasPage": true
   },
+  "担心": {
+    "cn": "担心",
+    "py": "dānxīn",
+    "en": "to worry",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/guan1_关.html",
+      "pages/characters/ji2_急.html"
+    ],
+    "hasPage": false
+  },
   "当代": {
     "cn": "当代",
     "py": "dāngdài",
@@ -7184,6 +7358,17 @@
     "appearsOn": [
       "pages/characters/li3_理.html",
       "pages/characters/lun4_论.html"
+    ],
+    "hasPage": false
+  },
+  "道路": {
+    "cn": "道路",
+    "py": "dàolù",
+    "en": "road, way",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/jie1_街.html",
+      "pages/characters/lu4_路.html"
     ],
     "hasPage": false
   },
@@ -7296,6 +7481,17 @@
       "pages/vocab/shanshuihua_山水画.html"
     ],
     "hasPage": true
+  },
+  "冬天": {
+    "cn": "冬天",
+    "py": "dōngtiān",
+    "en": "winter",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/chun1_春.html",
+      "pages/characters/xue3_雪.html"
+    ],
+    "hasPage": false
   },
   "动力": {
     "cn": "动力",
@@ -7715,6 +7911,17 @@
     ],
     "hasPage": false
   },
+  "给": {
+    "cn": "给",
+    "py": "gěi",
+    "en": "to give",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/jie4_借.html",
+      "pages/grammar/bei_被.html"
+    ],
+    "hasPage": true
+  },
   "根": {
     "cn": "根",
     "py": "gēn",
@@ -8012,17 +8219,6 @@
     ],
     "hasPage": false
   },
-  "海": {
-    "cn": "海",
-    "py": "hǎi",
-    "en": "sea; ocean",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/shan1_山.html",
-      "pages/characters/shui3_水.html"
-    ],
-    "hasPage": true
-  },
   "海关": {
     "cn": "海关",
     "py": "hǎiguān",
@@ -8219,17 +8415,6 @@
       "pages/characters/hong2_红.html",
       "pages/characters/se4_色.html"
     ],
-    "hasPage": false
-  },
-  "黄河": {
-    "cn": "黄河",
-    "py": "Huáng Hé",
-    "en": "Yellow River",
-    "count": 2,
-    "appearsOn": [
-      "pages/geography/topic_sichuanpen.html",
-      "pages/vocab/jiangshan_江山.html"
-    ],
     "hasPage": true
   },
   "魂": {
@@ -8240,6 +8425,28 @@
     "appearsOn": [
       "pages/characters/gui3_鬼.html",
       "pages/characters/qi1_七.html"
+    ],
+    "hasPage": false
+  },
+  "活动": {
+    "cn": "活动",
+    "py": "huódòng",
+    "en": "activity",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/dong4_动.html",
+      "pages/characters/huo2_活.html"
+    ],
+    "hasPage": false
+  },
+  "活力": {
+    "cn": "活力",
+    "py": "huólì",
+    "en": "vitality; vigor",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/huo2_活.html",
+      "pages/characters/qi4_气.html"
     ],
     "hasPage": false
   },
@@ -8353,17 +8560,6 @@
     ],
     "hasPage": false
   },
-  "江湖": {
-    "cn": "江湖",
-    "py": "jiānghú",
-    "en": "rivers and lakes — society's informal underside",
-    "count": 2,
-    "appearsOn": [
-      "pages/vocab/shehui_社会.html",
-      "pages/vocab/wenhua_文化.html"
-    ],
-    "hasPage": true
-  },
   "将来": {
     "cn": "将来",
     "py": "jiānglái",
@@ -8397,6 +8593,17 @@
     ],
     "hasPage": false
   },
+  "接着": {
+    "cn": "接着",
+    "py": "jiēzhe",
+    "en": "then, next",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/jie1_接.html",
+      "pages/vocab/ranhou_然后.html"
+    ],
+    "hasPage": false
+  },
   "街": {
     "cn": "街",
     "py": "jiē",
@@ -8406,7 +8613,7 @@
       "pages/characters/lu4_路.html",
       "pages/characters/xing2_行.html"
     ],
-    "hasPage": false
+    "hasPage": true
   },
   "结果": {
     "cn": "结果",
@@ -8451,17 +8658,6 @@
       "pages/characters/nu3_女.html"
     ],
     "hasPage": false
-  },
-  "金": {
-    "cn": "金",
-    "py": "jīn",
-    "en": "gold; metal — the wuxing phase that cuts wood",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/mu4_木.html",
-      "pages/characters/qian2_钱.html"
-    ],
-    "hasPage": true
   },
   "金刚经": {
     "cn": "金刚经",
@@ -8592,17 +8788,6 @@
     "appearsOn": [
       "pages/characters/ci2_词.html",
       "pages/characters/ju4_句.html"
-    ],
-    "hasPage": false
-  },
-  "距离": {
-    "cn": "距离",
-    "py": "jùlí",
-    "en": "distance, gap",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/yuan3_远.html",
-      "pages/grammar/li_离.html"
     ],
     "hasPage": false
   },
@@ -8738,17 +8923,6 @@
     ],
     "hasPage": false
   },
-  "快": {
-    "cn": "快",
-    "py": "kuài",
-    "en": "fast; soon",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/duo1_多.html",
-      "pages/characters/man4_慢.html"
-    ],
-    "hasPage": true
-  },
   "筷子": {
     "cn": "筷子",
     "py": "kuàizi",
@@ -8812,6 +8986,17 @@
     "appearsOn": [
       "pages/characters/re4_热.html",
       "pages/characters/xue3_雪.html"
+    ],
+    "hasPage": false
+  },
+  "离开": {
+    "cn": "离开",
+    "py": "líkāi",
+    "en": "to leave, depart from",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/li2_离.html",
+      "pages/grammar/li_离.html"
     ],
     "hasPage": false
   },
@@ -8881,17 +9066,6 @@
     ],
     "hasPage": true
   },
-  "连": {
-    "cn": "连",
-    "py": "lián",
-    "en": "even; to connect",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/ye3_也.html",
-      "pages/grammar/dou_都.html"
-    ],
-    "hasPage": true
-  },
   "莲花": {
     "cn": "莲花",
     "py": "liánhuā",
@@ -8911,6 +9085,17 @@
     "appearsOn": [
       "pages/characters/mian4_面.html",
       "pages/vocab/mianzi_面子.html"
+    ],
+    "hasPage": true
+  },
+  "练习": {
+    "cn": "练习",
+    "py": "liànxí",
+    "en": "to practice; exercise",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/lian4_练.html",
+      "pages/vocab/gongfu_功夫.html"
     ],
     "hasPage": false
   },
@@ -9035,17 +9220,6 @@
     ],
     "hasPage": false
   },
-  "绿": {
-    "cn": "绿",
-    "py": "lǜ",
-    "en": "green",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/hong2_红.html",
-      "pages/characters/se4_色.html"
-    ],
-    "hasPage": false
-  },
   "落": {
     "cn": "落",
     "py": "luò",
@@ -9079,6 +9253,17 @@
     ],
     "hasPage": false
   },
+  "马路": {
+    "cn": "马路",
+    "py": "mǎlù",
+    "en": "road, avenue",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/jie1_街.html",
+      "pages/characters/ma3_马.html"
+    ],
+    "hasPage": false
+  },
   "吗": {
     "cn": "吗",
     "py": "ma",
@@ -9087,17 +9272,6 @@
     "appearsOn": [
       "pages/grammar/haishi_huozhe_还是或者.html",
       "pages/grammar/zhe_particle_呢.html"
-    ],
-    "hasPage": true
-  },
-  "慢": {
-    "cn": "慢",
-    "py": "màn",
-    "en": "slow; unhurried",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/di1_低.html",
-      "pages/characters/kuai4_快.html"
     ],
     "hasPage": true
   },
@@ -9178,6 +9352,17 @@
     ],
     "hasPage": true
   },
+  "面": {
+    "cn": "面",
+    "py": "miàn",
+    "en": "face; surface; side",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/biao3_表.html",
+      "pages/characters/lian3_脸.html"
+    ],
+    "hasPage": true
+  },
   "民间": {
     "cn": "民间",
     "py": "mínjiān",
@@ -9208,6 +9393,17 @@
     "appearsOn": [
       "pages/characters/yan2_言.html",
       "pages/philosophy/topic_zhengming.html"
+    ],
+    "hasPage": true
+  },
+  "命": {
+    "cn": "命",
+    "py": "mìng",
+    "en": "life; fate",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/huo2_活.html",
+      "pages/characters/sheng1_生.html"
     ],
     "hasPage": true
   },
@@ -9276,6 +9472,17 @@
       "pages/grammar/zhi_之.html"
     ],
     "hasPage": true
+  },
+  "耐心": {
+    "cn": "耐心",
+    "py": "nàixīn",
+    "en": "patience",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/ji2_急.html",
+      "pages/characters/man4_慢.html"
+    ],
+    "hasPage": false
   },
   "男朋友": {
     "cn": "男朋友",
@@ -9948,17 +10155,6 @@
     ],
     "hasPage": true
   },
-  "生活": {
-    "cn": "生活",
-    "py": "shēnghuó",
-    "en": "daily life; way of living",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/ming4_命.html",
-      "pages/vocab/rensheng_人生.html"
-    ],
-    "hasPage": false
-  },
   "生日": {
     "cn": "生日",
     "py": "shēngrì",
@@ -10377,6 +10573,17 @@
     ],
     "hasPage": true
   },
+  "送": {
+    "cn": "送",
+    "py": "sòng",
+    "en": "to see off",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/jie1_接.html",
+      "pages/grammar/gei_给.html"
+    ],
+    "hasPage": false
+  },
   "送礼": {
     "cn": "送礼",
     "py": "sònglǐ",
@@ -10563,6 +10770,17 @@
       "pages/history/topic_suichao.html"
     ],
     "hasPage": false
+  },
+  "头": {
+    "cn": "头",
+    "py": "tóu",
+    "en": "head",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/lian3_脸.html",
+      "pages/characters/shou3_首.html"
+    ],
+    "hasPage": true
   },
   "头发": {
     "cn": "头发",
@@ -10792,6 +11010,17 @@
     "appearsOn": [
       "pages/characters/cai4_菜.html",
       "pages/characters/kou3_口.html"
+    ],
+    "hasPage": false
+  },
+  "温暖": {
+    "cn": "温暖",
+    "py": "wēnnuǎn",
+    "en": "warm",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/chun1_春.html",
+      "pages/characters/yang2_阳.html"
     ],
     "hasPage": false
   },
@@ -11059,6 +11288,17 @@
     ],
     "hasPage": true
   },
+  "笑脸": {
+    "cn": "笑脸",
+    "py": "xiàoliǎn",
+    "en": "smiling face",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/lian3_脸.html",
+      "pages/characters/xiao4_笑.html"
+    ],
+    "hasPage": false
+  },
   "心学": {
     "cn": "心学",
     "py": "xīnxué",
@@ -11233,6 +11473,17 @@
       "pages/religion/topic_rujia.html"
     ],
     "hasPage": true
+  },
+  "眼睛": {
+    "cn": "眼睛",
+    "py": "yǎnjing",
+    "en": "eyes",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/lian3_脸.html",
+      "pages/characters/yan3_眼.html"
+    ],
+    "hasPage": false
   },
   "阳": {
     "cn": "阳",
@@ -13279,6 +13530,16 @@
     ],
     "hasPage": false
   },
+  "步行街": {
+    "cn": "步行街",
+    "py": "bùxíngjiē",
+    "en": "pedestrian street",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jie1_街.html"
+    ],
+    "hasPage": false
+  },
   "部队": {
     "cn": "部队",
     "py": "bùduì",
@@ -13809,6 +14070,16 @@
     ],
     "hasPage": false
   },
+  "池": {
+    "cn": "池",
+    "py": "chí",
+    "en": "pond",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/hu2_湖.html"
+    ],
+    "hasPage": false
+  },
   "迟缓": {
     "cn": "迟缓",
     "py": "chíhuǎn",
@@ -14179,6 +14450,26 @@
     ],
     "hasPage": false
   },
+  "春季": {
+    "cn": "春季",
+    "py": "chūnjì",
+    "en": "spring quarter",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/chun1_春.html"
+    ],
+    "hasPage": false
+  },
+  "春联": {
+    "cn": "春联",
+    "py": "chūnlián",
+    "en": "new-year couplets",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/chun1_春.html"
+    ],
+    "hasPage": false
+  },
   "春秋五霸": {
     "cn": "春秋五霸",
     "py": "chūnqiū wǔ bà",
@@ -14186,6 +14477,26 @@
     "count": 1,
     "appearsOn": [
       "pages/history/topic_chunqiu.html"
+    ],
+    "hasPage": false
+  },
+  "春游": {
+    "cn": "春游",
+    "py": "chūnyóu",
+    "en": "spring outing",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/chun1_春.html"
+    ],
+    "hasPage": false
+  },
+  "春雨": {
+    "cn": "春雨",
+    "py": "chūnyǔ",
+    "en": "spring rain",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/chun1_春.html"
     ],
     "hasPage": false
   },
@@ -14449,6 +14760,16 @@
     ],
     "hasPage": false
   },
+  "大街": {
+    "cn": "大街",
+    "py": "dàjiē",
+    "en": "main street",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jie1_街.html"
+    ],
+    "hasPage": false
+  },
   "大量": {
     "cn": "大量",
     "py": "dàliàng",
@@ -14629,6 +14950,16 @@
     ],
     "hasPage": false
   },
+  "贷款": {
+    "cn": "贷款",
+    "py": "dàikuǎn",
+    "en": "loan, to grant a loan",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jie4_借.html"
+    ],
+    "hasPage": false
+  },
   "丹田": {
     "cn": "丹田",
     "py": "dāntián",
@@ -14659,16 +14990,6 @@
     ],
     "hasPage": false
   },
-  "担心": {
-    "cn": "担心",
-    "py": "dānxīn",
-    "en": "to worry",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/guan1_关.html"
-    ],
-    "hasPage": false
-  },
   "诞生": {
     "cn": "诞生",
     "py": "dànshēng",
@@ -14696,6 +15017,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/ji1_鸡.html"
+    ],
+    "hasPage": false
+  },
+  "蛋黄": {
+    "cn": "蛋黄",
+    "py": "dànhuáng",
+    "en": "egg yolk",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/huang2_黄.html"
     ],
     "hasPage": false
   },
@@ -14836,16 +15167,6 @@
     "count": 1,
     "appearsOn": [
       "pages/philosophy/topic_mojia.html"
-    ],
-    "hasPage": false
-  },
-  "道路": {
-    "cn": "道路",
-    "py": "dàolù",
-    "en": "road; path (compound)",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/lu4_路.html"
     ],
     "hasPage": false
   },
@@ -15309,6 +15630,16 @@
     ],
     "hasPage": false
   },
+  "丢脸": {
+    "cn": "丢脸",
+    "py": "diūliǎn",
+    "en": "to lose face",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/lian3_脸.html"
+    ],
+    "hasPage": false
+  },
   "东北": {
     "cn": "东北",
     "py": "dōngběi",
@@ -15386,16 +15717,6 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/bei3_北.html"
-    ],
-    "hasPage": false
-  },
-  "冬天": {
-    "cn": "冬天",
-    "py": "dōngtiān",
-    "en": "winter",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/xue3_雪.html"
     ],
     "hasPage": false
   },
@@ -15576,6 +15897,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/lian2_连.html"
+    ],
+    "hasPage": false
+  },
+  "锻炼": {
+    "cn": "锻炼",
+    "py": "duànliàn",
+    "en": "to exercise, to forge",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/lian4_练.html"
     ],
     "hasPage": false
   },
@@ -15829,6 +16160,16 @@
     ],
     "hasPage": false
   },
+  "翻脸": {
+    "cn": "翻脸",
+    "py": "fānliǎn",
+    "en": "to turn hostile",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/lian3_脸.html"
+    ],
+    "hasPage": false
+  },
   "翻越": {
     "cn": "翻越",
     "py": "fānyuè",
@@ -16056,6 +16397,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/fen1_分.html"
+    ],
+    "hasPage": false
+  },
+  "分离": {
+    "cn": "分离",
+    "py": "fēnlí",
+    "en": "to separate, part",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/li2_离.html"
     ],
     "hasPage": false
   },
@@ -16289,6 +16640,16 @@
     ],
     "hasPage": false
   },
+  "复习": {
+    "cn": "复习",
+    "py": "fùxí",
+    "en": "to review",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/lian4_练.html"
+    ],
+    "hasPage": false
+  },
   "副词": {
     "cn": "副词",
     "py": "fùcí",
@@ -16328,6 +16689,16 @@
       "pages/history/topic_wenge.html"
     ],
     "hasPage": true
+  },
+  "赶": {
+    "cn": "赶",
+    "py": "gǎn",
+    "en": "to rush, to catch",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ji2_急.html"
+    ],
+    "hasPage": false
   },
   "敢": {
     "cn": "敢",
@@ -16416,6 +16787,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/bu4_部.html"
+    ],
+    "hasPage": false
+  },
+  "干活": {
+    "cn": "干活",
+    "py": "gànhuó",
+    "en": "to do work",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/huo2_活.html"
     ],
     "hasPage": false
   },
@@ -16638,16 +17019,6 @@
       "pages/characters/ji3_己.html"
     ],
     "hasPage": false
-  },
-  "给": {
-    "cn": "给",
-    "py": "gěi",
-    "en": "colloquial passive / to give",
-    "count": 1,
-    "appearsOn": [
-      "pages/grammar/bei_被.html"
-    ],
-    "hasPage": true
   },
   "更加": {
     "cn": "更加",
@@ -17269,6 +17640,16 @@
     ],
     "hasPage": false
   },
+  "逛街": {
+    "cn": "逛街",
+    "py": "guàngjiē",
+    "en": "to shop, to stroll",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jie1_街.html"
+    ],
+    "hasPage": false
+  },
   "归宿": {
     "cn": "归宿",
     "py": "guīsù",
@@ -17829,6 +18210,26 @@
     ],
     "hasPage": false
   },
+  "河岸": {
+    "cn": "河岸",
+    "py": "hé'àn",
+    "en": "riverbank",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/he2_河.html"
+    ],
+    "hasPage": false
+  },
+  "河边": {
+    "cn": "河边",
+    "py": "hébiān",
+    "en": "riverside",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/he2_河.html"
+    ],
+    "hasPage": false
+  },
   "河灯": {
     "cn": "河灯",
     "py": "hé dēng",
@@ -17836,6 +18237,16 @@
     "count": 1,
     "appearsOn": [
       "pages/culture/topic_zhongyuan.html"
+    ],
+    "hasPage": false
+  },
+  "河流": {
+    "cn": "河流",
+    "py": "héliú",
+    "en": "river; watercourse",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/he2_河.html"
     ],
     "hasPage": false
   },
@@ -18009,6 +18420,56 @@
     ],
     "hasPage": false
   },
+  "胡同": {
+    "cn": "胡同",
+    "py": "hútòng",
+    "en": "hutong, alley",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jie1_街.html"
+    ],
+    "hasPage": false
+  },
+  "湖面": {
+    "cn": "湖面",
+    "py": "húmiàn",
+    "en": "lake surface",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/hu2_湖.html"
+    ],
+    "hasPage": false
+  },
+  "湖南": {
+    "cn": "湖南",
+    "py": "Húnán",
+    "en": "Hunan",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/hu2_湖.html"
+    ],
+    "hasPage": false
+  },
+  "湖畔": {
+    "cn": "湖畔",
+    "py": "húpàn",
+    "en": "lakeside",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/hu2_湖.html"
+    ],
+    "hasPage": false
+  },
+  "湖泊": {
+    "cn": "湖泊",
+    "py": "húpō",
+    "en": "lakes (collective)",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/hu2_湖.html"
+    ],
+    "hasPage": false
+  },
   "虎": {
     "cn": "虎",
     "py": "hǔ",
@@ -18086,6 +18547,16 @@
     "count": 1,
     "appearsOn": [
       "pages/geography/topic_sichuanpen.html"
+    ],
+    "hasPage": false
+  },
+  "花开": {
+    "cn": "花开",
+    "py": "huā kāi",
+    "en": "flowers bloom",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/chun1_春.html"
     ],
     "hasPage": false
   },
@@ -18239,6 +18710,16 @@
     ],
     "hasPage": false
   },
+  "怀春": {
+    "cn": "怀春",
+    "py": "huáichūn",
+    "en": "to long for love",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/chun1_春.html"
+    ],
+    "hasPage": false
+  },
   "怀旧": {
     "cn": "怀旧",
     "py": "huáijiù",
@@ -18339,6 +18820,26 @@
     ],
     "hasPage": false
   },
+  "黄昏": {
+    "cn": "黄昏",
+    "py": "huánghūn",
+    "en": "dusk",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/huang2_黄.html"
+    ],
+    "hasPage": false
+  },
+  "黄金": {
+    "cn": "黄金",
+    "py": "huángjīn",
+    "en": "gold; prime",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/huang2_黄.html"
+    ],
+    "hasPage": false
+  },
   "黄金时代": {
     "cn": "黄金时代",
     "py": "huángjīn shídài",
@@ -18356,6 +18857,36 @@
     "count": 1,
     "appearsOn": [
       "pages/science/topic_tiangan_dizhi.html"
+    ],
+    "hasPage": false
+  },
+  "黄色": {
+    "cn": "黄色",
+    "py": "huángsè",
+    "en": "yellow (color); obscene",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/huang2_黄.html"
+    ],
+    "hasPage": false
+  },
+  "黄土": {
+    "cn": "黄土",
+    "py": "huángtǔ",
+    "en": "loess, yellow earth",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/huang2_黄.html"
+    ],
+    "hasPage": false
+  },
+  "黄油": {
+    "cn": "黄油",
+    "py": "huángyóu",
+    "en": "butter",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/huang2_黄.html"
     ],
     "hasPage": false
   },
@@ -18457,25 +18988,15 @@
     "appearsOn": [
       "pages/characters/sheng1_生.html"
     ],
-    "hasPage": false
+    "hasPage": true
   },
-  "活动": {
-    "cn": "活动",
-    "py": "huódòng",
-    "en": "activity",
+  "活泼": {
+    "cn": "活泼",
+    "py": "huópo",
+    "en": "lively",
     "count": 1,
     "appearsOn": [
-      "pages/characters/dong4_动.html"
-    ],
-    "hasPage": false
-  },
-  "活力": {
-    "cn": "活力",
-    "py": "huólì",
-    "en": "vitality; vigor",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/qi4_气.html"
+      "pages/characters/huo2_活.html"
     ],
     "hasPage": false
   },
@@ -18626,6 +19147,26 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/man4_慢.html"
+    ],
+    "hasPage": true
+  },
+  "急忙": {
+    "cn": "急忙",
+    "py": "jímáng",
+    "en": "hurriedly",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ji2_急.html"
+    ],
+    "hasPage": false
+  },
+  "急诊": {
+    "cn": "急诊",
+    "py": "jízhěn",
+    "en": "emergency care, ER",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ji2_急.html"
     ],
     "hasPage": false
   },
@@ -18919,6 +19460,16 @@
     ],
     "hasPage": false
   },
+  "假借": {
+    "cn": "假借",
+    "py": "jiǎjiè",
+    "en": "to make use of, borrow (literary)",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jie4_借.html"
+    ],
+    "hasPage": false
+  },
   "价格": {
     "cn": "价格",
     "py": "jiàgé",
@@ -18958,6 +19509,16 @@
       "pages/vocab/renjian_人间.html"
     ],
     "hasPage": true
+  },
+  "间接": {
+    "cn": "间接",
+    "py": "jiànjiē",
+    "en": "indirect",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jie1_接.html"
+    ],
+    "hasPage": false
   },
   "兼爱": {
     "cn": "兼爱",
@@ -19056,16 +19617,6 @@
     "count": 1,
     "appearsOn": [
       "pages/religion/topic_chan.html"
-    ],
-    "hasPage": false
-  },
-  "江": {
-    "cn": "江",
-    "py": "jiāng",
-    "en": "large river",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/shui3_水.html"
     ],
     "hasPage": false
   },
@@ -19259,6 +19810,16 @@
     ],
     "hasPage": false
   },
+  "教练": {
+    "cn": "教练",
+    "py": "jiàoliàn",
+    "en": "coach, instructor",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/lian4_练.html"
+    ],
+    "hasPage": false
+  },
   "教室": {
     "cn": "教室",
     "py": "jiàoshì",
@@ -19297,6 +19858,26 @@
     "appearsOn": [
       "pages/characters/lian2_连.html"
     ],
+    "hasPage": true
+  },
+  "接班": {
+    "cn": "接班",
+    "py": "jiēbān",
+    "en": "to take over a shift",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jie1_接.html"
+    ],
+    "hasPage": false
+  },
+  "接触": {
+    "cn": "接触",
+    "py": "jiēchù",
+    "en": "to contact",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jie1_接.html"
+    ],
     "hasPage": false
   },
   "接近": {
@@ -19319,13 +19900,43 @@
     ],
     "hasPage": false
   },
-  "接着": {
-    "cn": "接着",
-    "py": "jiēzhe",
-    "en": "right after; continuing",
+  "接受": {
+    "cn": "接受",
+    "py": "jiēshòu",
+    "en": "to accept",
     "count": 1,
     "appearsOn": [
-      "pages/vocab/ranhou_然后.html"
+      "pages/characters/jie1_接.html"
+    ],
+    "hasPage": false
+  },
+  "街道": {
+    "cn": "街道",
+    "py": "jiēdào",
+    "en": "street, subdistrict",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jie1_街.html"
+    ],
+    "hasPage": false
+  },
+  "街灯": {
+    "cn": "街灯",
+    "py": "jiēdēng",
+    "en": "street lamp",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jie1_街.html"
+    ],
+    "hasPage": false
+  },
+  "街头": {
+    "cn": "街头",
+    "py": "jiētóu",
+    "en": "street corner",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jie1_街.html"
     ],
     "hasPage": false
   },
@@ -19449,6 +20060,66 @@
     ],
     "hasPage": false
   },
+  "借鉴": {
+    "cn": "借鉴",
+    "py": "jièjiàn",
+    "en": "draw on as a model",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jie4_借.html"
+    ],
+    "hasPage": false
+  },
+  "借口": {
+    "cn": "借口",
+    "py": "jièkǒu",
+    "en": "excuse, pretext",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jie4_借.html"
+    ],
+    "hasPage": false
+  },
+  "借钱": {
+    "cn": "借钱",
+    "py": "jièqián",
+    "en": "borrow / lend money",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jie4_借.html"
+    ],
+    "hasPage": false
+  },
+  "借条": {
+    "cn": "借条",
+    "py": "jiètiáo",
+    "en": "IOU, written loan note",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jie4_借.html"
+    ],
+    "hasPage": false
+  },
+  "借用": {
+    "cn": "借用",
+    "py": "jièyòng",
+    "en": "to borrow for use",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jie4_借.html"
+    ],
+    "hasPage": false
+  },
+  "借助": {
+    "cn": "借助",
+    "py": "jièzhù",
+    "en": "with the help of",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jie4_借.html"
+    ],
+    "hasPage": false
+  },
   "今": {
     "cn": "今",
     "py": "jīn",
@@ -19516,6 +20187,26 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/tou2_头.html"
+    ],
+    "hasPage": false
+  },
+  "紧急": {
+    "cn": "紧急",
+    "py": "jǐnjí",
+    "en": "urgent, emergency",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ji2_急.html"
+    ],
+    "hasPage": false
+  },
+  "紧张": {
+    "cn": "紧张",
+    "py": "jǐnzhāng",
+    "en": "tense, nervous",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ji2_急.html"
     ],
     "hasPage": false
   },
@@ -20499,6 +21190,16 @@
     ],
     "hasPage": false
   },
+  "快活": {
+    "cn": "快活",
+    "py": "kuàihuo",
+    "en": "carefree; merry",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/huo2_活.html"
+    ],
+    "hasPage": false
+  },
   "快要…了": {
     "cn": "快要…了",
     "py": "kuàiyào…le",
@@ -20659,6 +21360,16 @@
     ],
     "hasPage": false
   },
+  "老练": {
+    "cn": "老练",
+    "py": "lǎoliàn",
+    "en": "seasoned, veteran",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/lian4_练.html"
+    ],
+    "hasPage": false
+  },
   "老生": {
     "cn": "老生",
     "py": "lǎoshēng",
@@ -20739,23 +21450,13 @@
     ],
     "hasPage": true
   },
-  "离婚": {
-    "cn": "离婚",
-    "py": "líhūn",
-    "en": "to divorce",
+  "离别": {
+    "cn": "离别",
+    "py": "líbié",
+    "en": "to part, take leave",
     "count": 1,
     "appearsOn": [
-      "pages/characters/jie2_结.html"
-    ],
-    "hasPage": false
-  },
-  "离开": {
-    "cn": "离开",
-    "py": "líkāi",
-    "en": "to leave; depart",
-    "count": 1,
-    "appearsOn": [
-      "pages/grammar/li_离.html"
+      "pages/characters/li2_离.html"
     ],
     "hasPage": false
   },
@@ -21049,6 +21750,36 @@
     ],
     "hasPage": false
   },
+  "脸蛋": {
+    "cn": "脸蛋",
+    "py": "liǎndàn",
+    "en": "cheeks; little face",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/lian3_脸.html"
+    ],
+    "hasPage": false
+  },
+  "脸红": {
+    "cn": "脸红",
+    "py": "liǎnhóng",
+    "en": "to blush",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/lian3_脸.html"
+    ],
+    "hasPage": false
+  },
+  "脸皮": {
+    "cn": "脸皮",
+    "py": "liǎnpí",
+    "en": "cheek; sense of shame",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/lian3_脸.html"
+    ],
+    "hasPage": false
+  },
   "脸谱": {
     "cn": "脸谱",
     "py": "liǎnpǔ",
@@ -21059,13 +21790,43 @@
     ],
     "hasPage": false
   },
-  "练习": {
-    "cn": "练习",
-    "py": "liànxí",
-    "en": "to practice",
+  "脸色": {
+    "cn": "脸色",
+    "py": "liǎnsè",
+    "en": "complexion; mood",
     "count": 1,
     "appearsOn": [
-      "pages/vocab/gongfu_功夫.html"
+      "pages/characters/lian3_脸.html"
+    ],
+    "hasPage": false
+  },
+  "练兵": {
+    "cn": "练兵",
+    "py": "liànbīng",
+    "en": "to drill troops",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/lian4_练.html"
+    ],
+    "hasPage": false
+  },
+  "练功": {
+    "cn": "练功",
+    "py": "liàngōng",
+    "en": "to train one's craft, drill skills",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/lian4_练.html"
+    ],
+    "hasPage": false
+  },
+  "炼": {
+    "cn": "炼",
+    "py": "liàn",
+    "en": "to refine, to smelt",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/lian4_练.html"
     ],
     "hasPage": false
   },
@@ -21206,6 +21967,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/shen2_神.html"
+    ],
+    "hasPage": false
+  },
+  "灵活": {
+    "cn": "灵活",
+    "py": "línghuó",
+    "en": "flexible; nimble",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/huo2_活.html"
     ],
     "hasPage": false
   },
@@ -21689,16 +22460,6 @@
     ],
     "hasPage": false
   },
-  "马路": {
-    "cn": "马路",
-    "py": "mǎlù",
-    "en": "road, street",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/ma3_马.html"
-    ],
-    "hasPage": false
-  },
   "马年": {
     "cn": "马年",
     "py": "mǎ nián",
@@ -21776,6 +22537,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/hua4_画.html"
+    ],
+    "hasPage": false
+  },
+  "忙": {
+    "cn": "忙",
+    "py": "máng",
+    "en": "busy",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ji2_急.html"
     ],
     "hasPage": false
   },
@@ -21978,16 +22749,6 @@
       "pages/religion/topic_saman.html"
     ],
     "hasPage": false
-  },
-  "面": {
-    "cn": "面",
-    "py": "miàn",
-    "en": "face; surface; side",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/biao3_表.html"
-    ],
-    "hasPage": true
   },
   "面容": {
     "cn": "面容",
@@ -22198,16 +22959,6 @@
       "pages/vocab/zuxian_祖先.html"
     ],
     "hasPage": false
-  },
-  "命": {
-    "cn": "命",
-    "py": "mìng",
-    "en": "fate; life-span",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/sheng1_生.html"
-    ],
-    "hasPage": true
   },
   "命苦": {
     "cn": "命苦",
@@ -22476,16 +23227,6 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/niu2_牛.html"
-    ],
-    "hasPage": false
-  },
-  "耐心": {
-    "cn": "耐心",
-    "py": "nàixīn",
-    "en": "patience, patient",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/man4_慢.html"
     ],
     "hasPage": false
   },
@@ -22889,6 +23630,16 @@
     ],
     "hasPage": false
   },
+  "排练": {
+    "cn": "排练",
+    "py": "páiliàn",
+    "en": "to rehearse",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/lian4_练.html"
+    ],
+    "hasPage": false
+  },
   "旁边": {
     "cn": "旁边",
     "py": "pángbiān",
@@ -23106,6 +23857,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/lun4_论.html"
+    ],
+    "hasPage": false
+  },
+  "凭借": {
+    "cn": "凭借",
+    "py": "píngjiè",
+    "en": "rely on, by virtue of",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jie4_借.html"
     ],
     "hasPage": false
   },
@@ -23899,6 +24660,16 @@
     ],
     "hasPage": false
   },
+  "秋天": {
+    "cn": "秋天",
+    "py": "qiūtiān",
+    "en": "autumn",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/chun1_春.html"
+    ],
+    "hasPage": false
+  },
   "驱魔": {
     "cn": "驱魔",
     "py": "qūmó",
@@ -24649,6 +25420,16 @@
     ],
     "hasPage": false
   },
+  "山河": {
+    "cn": "山河",
+    "py": "shānhé",
+    "en": "mountains and rivers; the land",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/he2_河.html"
+    ],
+    "hasPage": false
+  },
   "山脚": {
     "cn": "山脚",
     "py": "shānjiǎo",
@@ -24726,6 +25507,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/chanpin_产品.html"
+    ],
+    "hasPage": false
+  },
+  "商业街": {
+    "cn": "商业街",
+    "py": "shāngyèjiē",
+    "en": "shopping street",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jie1_街.html"
     ],
     "hasPage": false
   },
@@ -25049,6 +25840,16 @@
     ],
     "hasPage": false
   },
+  "生机": {
+    "cn": "生机",
+    "py": "shēngjī",
+    "en": "vitality, life-force",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/chun1_春.html"
+    ],
+    "hasPage": false
+  },
   "生命": {
     "cn": "生命",
     "py": "shēngmìng",
@@ -25056,6 +25857,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/rensheng_人生.html"
+    ],
+    "hasPage": false
+  },
+  "生疏": {
+    "cn": "生疏",
+    "py": "shēngshū",
+    "en": "rusty, out of practice",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/lian4_练.html"
     ],
     "hasPage": false
   },
@@ -25226,6 +26037,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/shi2_十.html"
+    ],
+    "hasPage": false
+  },
+  "十字路口": {
+    "cn": "十字路口",
+    "py": "shízì lùkǒu",
+    "en": "crossroads, intersection",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jie1_街.html"
     ],
     "hasPage": false
   },
@@ -25619,6 +26440,16 @@
     ],
     "hasPage": false
   },
+  "收到": {
+    "cn": "收到",
+    "py": "shōudào",
+    "en": "to receive",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jie1_接.html"
+    ],
+    "hasPage": false
+  },
   "手工": {
     "cn": "手工",
     "py": "shǒugōng",
@@ -25826,6 +26657,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/cai4_菜.html"
+    ],
+    "hasPage": false
+  },
+  "熟练": {
+    "cn": "熟练",
+    "py": "shúliàn",
+    "en": "skilled, proficient",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/lian4_练.html"
     ],
     "hasPage": false
   },
@@ -26146,16 +26987,6 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/fo2_佛.html"
-    ],
-    "hasPage": false
-  },
-  "送": {
-    "cn": "送",
-    "py": "sòng",
-    "en": "to give (as a gift); to see off",
-    "count": 1,
-    "appearsOn": [
-      "pages/grammar/gei_给.html"
     ],
     "hasPage": false
   },
@@ -26496,6 +27327,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/ge1_哥.html"
+    ],
+    "hasPage": false
+  },
+  "塘": {
+    "cn": "塘",
+    "py": "táng",
+    "en": "pond, dyke-pool",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/hu2_湖.html"
     ],
     "hasPage": false
   },
@@ -27049,16 +27890,6 @@
     ],
     "hasPage": false
   },
-  "头": {
-    "cn": "头",
-    "py": "tóu",
-    "en": "head",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/shou3_首.html"
-    ],
-    "hasPage": true
-  },
   "突然": {
     "cn": "突然",
     "py": "tūrán",
@@ -27146,6 +27977,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/lao3_老.html"
+    ],
+    "hasPage": false
+  },
+  "脱离": {
+    "cn": "脱离",
+    "py": "tuōlí",
+    "en": "to break away from",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/li2_离.html"
     ],
     "hasPage": false
   },
@@ -27556,16 +28397,6 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/re4_热.html"
-    ],
-    "hasPage": false
-  },
-  "温暖": {
-    "cn": "温暖",
-    "py": "wēnnuǎn",
-    "en": "warm",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/yang2_阳.html"
     ],
     "hasPage": false
   },
@@ -28129,6 +28960,16 @@
     ],
     "hasPage": false
   },
+  "西湖": {
+    "cn": "西湖",
+    "py": "Xī Hú",
+    "en": "West Lake",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/hu2_湖.html"
+    ],
+    "hasPage": false
+  },
   "西施": {
     "cn": "西施",
     "py": "Xī Shī",
@@ -28189,6 +29030,16 @@
     ],
     "hasPage": false
   },
+  "溪": {
+    "cn": "溪",
+    "py": "xī",
+    "en": "brook; stream",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/he2_河.html"
+    ],
+    "hasPage": false
+  },
   "习题": {
     "cn": "习题",
     "py": "xítí",
@@ -28196,6 +29047,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/ti2_题.html"
+    ],
+    "hasPage": false
+  },
+  "洗脸": {
+    "cn": "洗脸",
+    "py": "xǐliǎn",
+    "en": "to wash one's face",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/lian3_脸.html"
     ],
     "hasPage": false
   },
@@ -28376,6 +29237,16 @@
     "count": 1,
     "appearsOn": [
       "pages/history/topic_zhoudai.html"
+    ],
+    "hasPage": false
+  },
+  "夏天": {
+    "cn": "夏天",
+    "py": "xiàtiān",
+    "en": "summer",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/chun1_春.html"
     ],
     "hasPage": false
   },
@@ -28659,6 +29530,16 @@
     ],
     "hasPage": false
   },
+  "巷子": {
+    "cn": "巷子",
+    "py": "xiàngzi",
+    "en": "alley, lane",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jie1_街.html"
+    ],
+    "hasPage": false
+  },
   "象": {
     "cn": "象",
     "py": "xiàng",
@@ -28759,6 +29640,16 @@
     ],
     "hasPage": false
   },
+  "小河": {
+    "cn": "小河",
+    "py": "xiǎohé",
+    "en": "small river; creek",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/he2_河.html"
+    ],
+    "hasPage": false
+  },
   "小红书": {
     "cn": "小红书",
     "py": "xiǎo hóng shū",
@@ -28853,16 +29744,6 @@
     "cn": "笑话",
     "py": "xiàohua",
     "en": "a joke",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/xiao4_笑.html"
-    ],
-    "hasPage": false
-  },
-  "笑脸": {
-    "cn": "笑脸",
-    "py": "xiàoliǎn",
-    "en": "a smiling face",
     "count": 1,
     "appearsOn": [
       "pages/characters/xiao4_笑.html"
@@ -29449,6 +30330,16 @@
     ],
     "hasPage": false
   },
+  "训练": {
+    "cn": "训练",
+    "py": "xùnliàn",
+    "en": "to train; training",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/lian4_练.html"
+    ],
+    "hasPage": false
+  },
   "驯鹿": {
     "cn": "驯鹿",
     "py": "xùnlù",
@@ -29623,16 +30514,6 @@
     "cn": "眼界",
     "py": "yǎnjiè",
     "en": "horizon of experience",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/yan3_眼.html"
-    ],
-    "hasPage": false
-  },
-  "眼睛": {
-    "cn": "眼睛",
-    "py": "yǎnjing",
-    "en": "eye(s)",
     "count": 1,
     "appearsOn": [
       "pages/characters/yan3_眼.html"
@@ -30379,6 +31260,16 @@
     ],
     "hasPage": false
   },
+  "银河": {
+    "cn": "银河",
+    "py": "yínhé",
+    "en": "the Milky Way",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/he2_河.html"
+    ],
+    "hasPage": false
+  },
   "饮": {
     "cn": "饮",
     "py": "yǐn",
@@ -30466,6 +31357,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/wu3_武.html"
+    ],
+    "hasPage": false
+  },
+  "迎接": {
+    "cn": "迎接",
+    "py": "yíngjiē",
+    "en": "to welcome",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jie1_接.html"
     ],
     "hasPage": false
   },
@@ -31229,6 +32130,16 @@
     ],
     "hasPage": false
   },
+  "运河": {
+    "cn": "运河",
+    "py": "yùnhé",
+    "en": "canal",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/he2_河.html"
+    ],
+    "hasPage": false
+  },
   "韵律": {
     "cn": "韵律",
     "py": "yùnlǜ",
@@ -31699,6 +32610,26 @@
     ],
     "hasPage": false
   },
+  "着急": {
+    "cn": "着急",
+    "py": "zháojí",
+    "en": "to feel anxious",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ji2_急.html"
+    ],
+    "hasPage": false
+  },
+  "着急上火": {
+    "cn": "着急上火",
+    "py": "zháojí shànghuǒ",
+    "en": "frantic with worry",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ji2_急.html"
+    ],
+    "hasPage": false
+  },
   "着落": {
     "cn": "着落",
     "py": "zhuóluò",
@@ -31956,6 +32887,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/jiao3_角.html"
+    ],
+    "hasPage": false
+  },
+  "直接": {
+    "cn": "直接",
+    "py": "zhíjiē",
+    "en": "direct",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jie1_接.html"
     ],
     "hasPage": false
   },
@@ -32826,6 +33767,16 @@
     "count": 1,
     "appearsOn": [
       "pages/history/topic_wenge.html"
+    ],
+    "hasPage": false
+  },
+  "租借": {
+    "cn": "租借",
+    "py": "zūjiè",
+    "en": "to lease, rent on loan",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jie4_借.html"
     ],
     "hasPage": false
   },
