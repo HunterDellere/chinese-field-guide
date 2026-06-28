@@ -54,6 +54,8 @@
 风	fēng	wind; style; custom — The character that moves crops, carries seeds, and became the Chinese word for cultural character itself.
 夫	fū	husband, a grown man, laborer; the literary particle fú — A grown man pictured with a hairpin marking adulthood: the husband and the married couple (丈夫 夫妻 夫人 夫妇), the adult man and laborer (农夫 渔夫 大夫), skill and effort (功夫 工夫), and the classical literary particle 夫 fú that opens a sentence.
 福	fú	fortune, blessing, good luck — The most recognized Chinese character in the world: fortune, blessing, and the art of the upside-down 福.
+父	fù	father, male elder, household head — A hand gripping a stone axe: the tool of the one who heads the household, drawn as the figure of the father himself.
+富	fù	rich, wealthy, abundant, to enrich — A full wine jar tucked under a roof: the picture of a household storehouse packed to its rafters with plenty.
 感	gǎn	to feel, to resonate — Feeling, perception, gratitude, and the cosmology of sympathetic resonance.
 高	gāo	tall; high; elevated; surname — A tall palace gate rising above the ground, and the character that anchors Chinese words for excellence, happiness, and examination pressure simultaneously.
 告	gào	to tell, to announce, to report — A mouth aimed upward: the character for delivering words to authority, and the root of advertising, accusations, and warnings.
@@ -71,6 +73,7 @@
 广	guǎng	wide, broad, to spread — A radical and a word: the cliff-shelter that became the prefix for everything expansive, from Guangzhou to Guangdong to radio broadcasts.
 国	guó	country, nation, state — A walled enclosure protecting its people: the Chinese concept of nationhood written in a single character.
 海	hǎi	sea, ocean, a vast quantity — Water plus the phonetic 每: the sea, the ocean, and by extension any vastness. From 大海 and 海洋 to the coastal city 上海, the navy 海军, and the crowd that becomes a 人海.
+害	hài	to harm, injury, calamity, to fear — Under the roof a mouth and a blade build the sense of injury done; the same glyph also means to fear, as in 害怕.
 汉	hàn	the Han river, dynasty, people, and a man — A river that named a dynasty, and a dynasty that named a people. From the water of 汉水 grew 汉族 the Han ethnicity, 汉语 and 汉字 the Chinese language and script, and 好汉, the brave fellow.
 好	hǎo	good; to like — Good, well, to like, and the tone split that doubles its expressive range.
 喝	hē	to drink; (hè) to shout, to cry out — A mouth radical paired with the phonetic 曷, splitting cleanly into the everyday hē you drink with and the older hè you shout with.
@@ -97,7 +100,9 @@
 己	jǐ	oneself, self, the sixth Heavenly Stem — A picture of a coiled, bending thread borrowed long ago to mean the self. From it grows everything turned inward: oneself, the private view, self-restraint, and the sixth of the ten Heavenly Stems.
 记	jì	to remember, to record, a mark — Speech set beside the self: the act of fixing something so it will not be lost. From that image grow three senses: to remember, to write down, and the mark left behind.
 家	jiā	home, family — House, family, school of thought, nation (国家): the fractal of belonging.
+价	jià	price, value, worth — A person standing beside 介 jiè: the worth a thing takes on only once two people sit down to trade for it.
 间	jiān	space between, interval, room — Sunlight in the crack between two doors: the character for the space between things. From that gap grow time, the middle ground, the human world, and the room you count one by one.
+简	jiǎn	simple, brief, terse; a bamboo writing slip — Before paper, a letter was a strip of bamboo; from that narrow slip 简 grew into the words for simple, brief, and a short note.
 见	jiàn	to see, to meet, to appear — An eye on legs. The character that built Chinese verbs of seeing, meeting, opinion, and the moment a thing first comes into view.
 件	jiàn	item, piece, measure word — The measure word for matters, garments, and gifts, and the character behind documents, parts, and cases.
 角	jiǎo	corner, horn, angle — Corner, horn, angle: the character that opens this site's name (角落書屋).
@@ -110,19 +115,23 @@
 解	jiě	to untie, to solve, to explain, to dissolve — The character for cutting apart and undoing: untying and liberating, solving and explaining, dissolving and relieving. A polyphone read jiě, jiè, and xiè, pictured as a hand prying an ox horn from the ox.
 借	jiè	to borrow, to lend, to make use of — One glyph carries both halves of a loan: 借 means borrow and lend at once, the direction settled only by context.
 金	jīn	gold, metal, money — Nuggets of gold beneath the earth, and one of the Five Phases that governs autumn, the west, and sharpness.
+紧	jǐn	tight, taut, tense, urgent — Thread drawn taut over the silk radical; the same word carries a tight knot, a tense nerve, an urgent deadline, and a tight wallet.
 近	jìn	near; close; recent — Walking toward something as close as a hatchet strike, and the character that covers both spatial proximity and the specific historical era Chinese scholars call the modern period.
 进	jìn	to enter, to advance, to take in — A foot on the road and a bird that only ever walks forward. From that image grows everything that moves ahead and moves in: to enter, to advance, to progress, to carry out, and to take goods in.
 经	jīng	classic, scripture, to pass through, warp threads — The lengthwise warp threads strung on a loom, the structural through-lines that hold a fabric together. From that image grow the canonical classic, the act of passing through, and the running of an enterprise.
 九	jiǔ	nine; the imperial number and the highest of the yang — Nine is the largest single digit and the highest yang number, reserved for the emperor and the heavens: nine dragons, nine gates, the Nine-Five supreme position, the ninth heaven.
 旧	jiù	old; used; former; worn — The antonym of 新, and much more than it. 旧 carries both the weight of cherished tradition and the stigma of backwardness, depending entirely on who is speaking.
+救	jiù	to rescue, to save, to relieve — A hand wields a stick to pull someone out of danger; the phonetic 求 once meant a desperate plea for help.
 句	jù	sentence, phrase, a unit of speech — A wrapping line drawn over a mouth: speech bundled into a single unit. From that image grows the sentence, the line of verse, and the measure word that counts the remarks we say.
 开	kāi	to open, to start, to operate — Two hands lifting the bar across a closed gate. From that single image flow most of modern life: opening a door, starting a meeting, driving a car, writing a check, blooming.
 看	kàn	to look, to watch, to read, to visit — 看 = hand above eye, shielding from the sun to see in the distance: visual attention with effort, encoded in a gesture everyone has made.
 可	kě	can; may; worth; quite — A two-stroke mouth character whose ancient sense of affirming breath became the pivot of permission, capability, and worth in classical and modern Chinese.
 空	kōng	empty, sky, void; in vain — A cave with the work of hollowing inside it. The character that names the open sky, the empty room, the wasted afternoon, and the Buddhist śūnyatā at the heart of Chan.
 口	kǒu	mouth, opening, entrance — A simple rectangle for an open mouth: one of the most productive radicals in the script, present in hundreds of characters for speaking, eating, and openings.
+苦	kǔ	bitter, hardship, suffering, painstaking — The grass radical over 古 names a bitter herb on the tongue, then stretches to every flavor of hardship and effort.
 跨	kuà	to stride; to span; to bestride — The character of the long stride: a foot-radical verb that reaches from "step over a threshold" to "span an era" to the modern policy vocabulary of cross-border, cross-industry, cross-cultural everything.
 快	kuài	fast, happy — One character carries two meanings that turn out to be the same thing: speed and joy both feel like the heart cutting loose.
+困	kùn	to trap, hard-pressed, tired — A tree boxed inside four walls and unable to grow: the picture of being hemmed in, the source of both hardship and sleepiness.
 来	lái	to come, to arrive, toward the speaker — Oracle bone wheat plant turned direction-word: 来 pulls everything toward the speaker, including time itself.
 老	lǎo	old, venerable, experienced — A stooped elder with long hair: age as wisdom, seniority as moral authority, and the Daoist sage who wrote the Daodejing.
 乐	lè	happy, joyful (lè); music (yuè) — A picture of a wooden frame strung with silk and a drum, an early musical instrument. The simplified 乐 carries two readings: yuè for music, the original sense, and lè for joy, the happiness that music gives.
@@ -158,6 +167,7 @@
 年	nián	year — A person carrying a harvest of grain: year as the cycle of agricultural labor, and the heart of the Chinese New Year tradition.
 念	niàn	to recite, to keep in mind, to miss — 念 holds the present moment 今 over the heart 心: to keep something in mind, to recite aloud, to long for what is absent. The 念 of 念佛 recitation, 想念 longing, and the single thought-moment of Buddhist psychology.
 牛	niú	ox, cow, cattle; (slang) awesome — A four-stroke pictograph of an ox head seen straight on, the horns still visible; in modern slang it means impressively good.
+农	nóng	agriculture, farming, farmer, rural — A character compressed from a graph that showed working the fields at the time of the stars, the whole cycle of growing crops.
 女	nǚ	woman, female — A kneeling figure with crossed arms: one of the most productive radicals in the script, present in characters for family relationships, feelings, and cultural concepts.
 跑	pǎo	to run; to flee; to operate — The everyday verb of running: a foot-radical character whose semantic range stretches from "the legs in motion" to "running an errand" to "the engine is running" to a small but productive family of escape-and-flee compounds.
 朋	péng	friend, companion; of the same group — Two strings of cowrie shells hung side by side, an old unit of value, borrowed early for companions of equal standing who keep close company.
@@ -223,6 +233,7 @@
 万	wàn	ten thousand; myriad; all — 万 is the Chinese hyperbole unit. Where English reaches for millions, Chinese reaches for 万 to express the immeasurable, because the written number 10,000 originally meant scorpion.
 王	wáng	king — Three horizontals joined by one vertical: the ruler who connects heaven, earth, and humanity. Also the most common Chinese surname, and a radical that is secretly 玉 (jade) in disguise.
 望	wàng	to gaze afar, to hope, reputation — A person on a mound looking into the distance, with the moon above: from that raised gaze grow three senses. To gaze and look afar (眺望, 望远镜, 张望), to hope and expect (希望, 期望, 盼望, 失望), and reputation or prestige (名望, 威望, 声望). As a coverb it can even mean toward, like 朝 or 向.
+危	wēi	danger, peril, precarious, lofty height — A kneeling figure pinned beneath a cliff overhang spells danger, where the same overhang also carries the sound.
 为	wéi	to do; to act; for; because of — In oracle bone script, a hand leading an elephant (to guide an immense force through skillful agency), and the character at the center of the Daoist concept of non-action.
 文	wén	writing, culture, civil — A tattooed figure: writing as marks on the body, culture as the accumulated markings of civilization.
 问	wèn	to ask, to inquire, to ask after — A mouth at the gate, asking. From that image grow the everyday verb to ask, the noun for a question or problem, the warm act of asking after someone, and the stern act of holding to account.
@@ -238,6 +249,7 @@
 下	xià	below, down, to descend, to issue — The mirror image of 上: a notch below the line that governs everything from going downstairs to issuing imperial decrees.
 现	xiàn	to appear, present, now — The luster of jade coming into view. From that glint of something becoming visible grows the whole vocabulary of appearing, of the present moment, and of what is ready and on hand.
 相	xiāng	mutual, appearance, to examine, minister — An eye examining a tree. From that act of looking grow two readings: level-tone xiang, the mutual that binds two sides face to face, and falling-tone xiang, the appearance you look at, the looking itself, and the minister who looks over the realm.
+香	xiāng	fragrant, delicious, incense, popular — Grain stacked over a mouth of sweetness: 香 is the smell of ripe rice, and the word still means both perfume and a hot meal worth eating.
 想	xiǎng	to think, to want, to miss — 想 = 相 (mutual, facing) + 心 (heart): the heart turned toward something, carrying the full range from thought to desire to longing in a single gesture.
 向	xiàng	direction, toward, to face, all along — A window opening in a wall, facing one way. From that image grows the whole field of orientation: the direction a thing points, the preposition toward a target, the inclination of a heart, and the sense of all along, up to now.
 小	xiǎo	small, little; humble — Three minimal strokes that became the Confucian axis of moral character: the 小人 (petty person) and the 君子 (exemplary person) are the two poles every learner of classical Chinese must know.

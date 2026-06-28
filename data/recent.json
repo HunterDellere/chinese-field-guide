@@ -40,6 +40,44 @@
     "updated": "2026-06-28"
   },
   {
+    "path": "pages/characters/fu4_富.html",
+    "type": "character",
+    "category": "characters",
+    "title": "富 · rich, wealthy, abundant, to enrich",
+    "desc": "A full wine jar tucked under a roof: the picture of a household storehouse packed to its rafters with plenty.",
+    "tags": [
+      "society",
+      "daily-life",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "富",
+    "pinyin": "fù",
+    "tone": 4,
+    "hsk": 3,
+    "radical": "宀",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/fu4_父.html",
+    "type": "character",
+    "category": "characters",
+    "title": "父 · father, male elder, household head",
+    "desc": "A hand gripping a stone axe: the tool of the one who heads the household, drawn as the figure of the father himself.",
+    "tags": [
+      "family",
+      "humanity",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "父",
+    "pinyin": "fù",
+    "tone": 4,
+    "hsk": 3,
+    "radical": "父",
+    "updated": "2026-06-28"
+  },
+  {
     "path": "pages/characters/ge1_哥.html",
     "type": "character",
     "category": "characters",
@@ -76,6 +114,25 @@
     "tone": 3,
     "hsk": 1,
     "radical": "饣",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/hai4_害.html",
+    "type": "character",
+    "category": "characters",
+    "title": "害 · to harm, injury, calamity, to fear",
+    "desc": "Under the roof a mouth and a blade build the sense of injury done; the same glyph also means to fear, as in 害怕.",
+    "tags": [
+      "emotion",
+      "society",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "害",
+    "pinyin": "hài",
+    "tone": 4,
+    "hsk": 3,
+    "radical": "宀",
     "updated": "2026-06-28"
   },
   {
@@ -216,6 +273,45 @@
     "updated": "2026-06-28"
   },
   {
+    "path": "pages/characters/jia4_价.html",
+    "type": "character",
+    "category": "characters",
+    "title": "价 · price, value, worth",
+    "desc": "A person standing beside 介 jiè: the worth a thing takes on only once two people sit down to trade for it.",
+    "tags": [
+      "society",
+      "social",
+      "daily-life",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "价",
+    "pinyin": "jià",
+    "tone": 4,
+    "hsk": 3,
+    "radical": "亻",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/jian3_简.html",
+    "type": "character",
+    "category": "characters",
+    "title": "简 · simple, brief, terse; a bamboo writing slip",
+    "desc": "Before paper, a letter was a strip of bamboo; from that narrow slip 简 grew into the words for simple, brief, and a short note.",
+    "tags": [
+      "writing",
+      "communication",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "简",
+    "pinyin": "jiǎn",
+    "tone": 3,
+    "hsk": 3,
+    "radical": "⺮",
+    "updated": "2026-06-28"
+  },
+  {
     "path": "pages/characters/jie1_接.html",
     "type": "character",
     "category": "characters",
@@ -275,119 +371,22 @@
     "updated": "2026-06-28"
   },
   {
-    "path": "pages/characters/li2_离.html",
+    "path": "pages/characters/jin3_紧.html",
     "type": "character",
     "category": "characters",
-    "title": "离 · to leave, to be apart, away from",
-    "desc": "Once the name of a netted mythical bird, 离 was borrowed so long ago for to part that almost no speaker recalls its feathers.",
+    "title": "紧 · tight, taut, tense, urgent",
+    "desc": "Thread drawn taut over the silk radical; the same word carries a tight knot, a tense nerve, an urgent deadline, and a tight wallet.",
     "tags": [
-      "motion",
-      "nature",
+      "perception",
+      "emotion",
       "characters"
     ],
     "status": "complete",
-    "char": "离",
-    "pinyin": "lí",
-    "tone": 2,
-    "hsk": 2,
-    "radical": "禸",
-    "updated": "2026-06-28"
-  },
-  {
-    "path": "pages/characters/lian3_脸.html",
-    "type": "character",
-    "category": "characters",
-    "title": "脸 · face, cheeks, social face, reputation",
-    "desc": "The flesh-radical face that doubles as a ledger of dignity: in Chinese you can lose it, save it, or tear it apart.",
-    "tags": [
-      "body",
-      "social",
-      "daily-life",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "脸",
-    "pinyin": "liǎn",
+    "char": "紧",
+    "pinyin": "jǐn",
     "tone": 3,
-    "hsk": 2,
-    "radical": "⺼",
-    "updated": "2026-06-28"
-  },
-  {
-    "path": "pages/characters/lian4_练.html",
-    "type": "character",
-    "category": "characters",
-    "title": "练 · to practice, to train, to refine, skilled",
-    "desc": "Before it meant drilling and rehearsal, 练 was a verb for boiling raw silk soft, the repetition of treatment that hardens into skill.",
-    "tags": [
-      "daily-life",
-      "communication",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "练",
-    "pinyin": "liàn",
-    "tone": 4,
-    "hsk": 2,
-    "radical": "纟",
-    "updated": "2026-06-28"
-  },
-  {
-    "path": "pages/characters/ma3_马.html",
-    "type": "character",
-    "category": "characters",
-    "title": "马 · horse, a common surname",
-    "desc": "A three-stroke pictograph of a horse in profile that hides the mane, legs, and tail of its towering ancestor 馬.",
-    "tags": [
-      "nature",
-      "daily-life",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "马",
-    "pinyin": "mǎ",
-    "tone": 3,
-    "hsk": 1,
-    "radical": "马",
-    "updated": "2026-06-28"
-  },
-  {
-    "path": "pages/characters/niu2_牛.html",
-    "type": "character",
-    "category": "characters",
-    "title": "牛 · ox, cow, cattle; (slang) awesome",
-    "desc": "A four-stroke pictograph of an ox head seen straight on, the horns still visible; in modern slang it means impressively good.",
-    "tags": [
-      "nature",
-      "food",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "牛",
-    "pinyin": "niú",
-    "tone": 2,
-    "hsk": 1,
-    "radical": "牛",
-    "updated": "2026-06-28"
-  },
-  {
-    "path": "pages/characters/peng2_朋.html",
-    "type": "character",
-    "category": "characters",
-    "title": "朋 · friend, companion; of the same group",
-    "desc": "Two strings of cowrie shells hung side by side, an old unit of value, borrowed early for companions of equal standing who keep close company.",
-    "tags": [
-      "social",
-      "humanity",
-      "connections",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "朋",
-    "pinyin": "péng",
-    "tone": 2,
-    "hsk": 1,
-    "radical": "月",
+    "hsk": 3,
+    "radical": "糸",
     "updated": "2026-06-28"
   }
 ]

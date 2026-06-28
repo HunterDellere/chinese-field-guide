@@ -1,11 +1,11 @@
 {
-  "generated": "2026-06-28T17:29:29.520Z",
+  "generated": "2026-06-28T17:41:47.713Z",
   "files": [
     {
       "file": "pleco-characters.txt",
       "format": "pleco",
       "type": "characters",
-      "count": 304
+      "count": 316
     },
     {
       "file": "pleco-vocab.txt",
@@ -23,13 +23,13 @@
       "file": "pleco-all.txt",
       "format": "pleco",
       "type": "all",
-      "count": 422
+      "count": 434
     },
     {
       "file": "anki-characters.tsv",
       "format": "anki-tsv",
       "type": "characters",
-      "count": 304
+      "count": 316
     },
     {
       "file": "anki-vocab.tsv",
@@ -47,7 +47,7 @@
       "file": "characters.apkg",
       "format": "anki-apkg",
       "type": "characters",
-      "count": 304
+      "count": 316
     },
     {
       "file": "vocab.apkg",
@@ -65,7 +65,7 @@
       "file": "all.apkg",
       "format": "anki-apkg",
       "type": "all",
-      "count": 422
+      "count": 434
     }
   ],
   "slices": [
@@ -75,14 +75,14 @@
       "cn": "character",
       "dimension": "type",
       "criterion": "character",
-      "description": "All 304 character cards in the corpus.",
-      "count": 304,
+      "description": "All 316 character cards in the corpus.",
+      "count": 316,
       "apkg": "slices/type-character.apkg",
       "pleco": "slices/type-character.txt",
       "hskBreakdown": {
         "hsk-1": 118,
         "hsk-2": 110,
-        "hsk-3": 49,
+        "hsk-3": 61,
         "hsk-4": 20,
         "hsk-5": 5,
         "hsk-6": 1,
@@ -180,11 +180,11 @@
       "dimension": "hsk",
       "criterion": 3,
       "description": "Just HSK level 3 on its own (authored or inferred from constituent characters).",
-      "count": 78,
+      "count": 90,
       "apkg": "slices/hsk-3.apkg",
       "pleco": "slices/hsk-3.txt",
       "hskBreakdown": {
-        "hsk-3": 78
+        "hsk-3": 90
       }
     },
     {
@@ -265,13 +265,13 @@
       "dimension": "hsk-ladder",
       "criterion": 3,
       "description": "Cumulative deck: every card from HSK 1 up to and including HSK 3.",
-      "count": 390,
+      "count": 402,
       "apkg": "slices/hsk-up-to-3.apkg",
       "pleco": "slices/hsk-up-to-3.txt",
       "hskBreakdown": {
         "hsk-1": 163,
         "hsk-2": 149,
-        "hsk-3": 78
+        "hsk-3": 90
       }
     },
     {
@@ -281,13 +281,13 @@
       "dimension": "hsk-ladder",
       "criterion": 4,
       "description": "Cumulative deck: every card from HSK 1 up to and including HSK 4.",
-      "count": 422,
+      "count": 434,
       "apkg": "slices/hsk-up-to-4.apkg",
       "pleco": "slices/hsk-up-to-4.txt",
       "hskBreakdown": {
         "hsk-1": 163,
         "hsk-2": 149,
-        "hsk-3": 78,
+        "hsk-3": 90,
         "hsk-4": 32
       }
     },
@@ -298,13 +298,13 @@
       "dimension": "hsk-ladder",
       "criterion": 5,
       "description": "Cumulative deck: every card from HSK 1 up to and including HSK 5.",
-      "count": 431,
+      "count": 443,
       "apkg": "slices/hsk-up-to-5.apkg",
       "pleco": "slices/hsk-up-to-5.txt",
       "hskBreakdown": {
         "hsk-1": 163,
         "hsk-2": 149,
-        "hsk-3": 78,
+        "hsk-3": 90,
         "hsk-4": 32,
         "hsk-5": 9
       }
@@ -316,13 +316,13 @@
       "dimension": "hsk-ladder",
       "criterion": 6,
       "description": "Cumulative deck: every card from HSK 1 up to and including HSK 6.",
-      "count": 432,
+      "count": 444,
       "apkg": "slices/hsk-up-to-6.apkg",
       "pleco": "slices/hsk-up-to-6.txt",
       "hskBreakdown": {
         "hsk-1": 163,
         "hsk-2": 149,
-        "hsk-3": 78,
+        "hsk-3": 90,
         "hsk-4": 32,
         "hsk-5": 9,
         "hsk-6": 1
@@ -334,15 +334,15 @@
       "cn": "情感",
       "dimension": "tag",
       "criterion": "emotion",
-      "description": "Cards tagged emotion — 16 entries.",
-      "count": 16,
+      "description": "Cards tagged emotion — 19 entries.",
+      "count": 19,
       "apkg": "slices/tag-emotion.apkg",
       "pleco": "slices/tag-emotion.txt",
       "hskBreakdown": {
         "hsk-1": 5,
         "hsk-2": 8,
         "hsk-4": 1,
-        "hsk-3": 2
+        "hsk-3": 5
       }
     },
     {
@@ -456,12 +456,13 @@
       "cn": "食物",
       "dimension": "tag",
       "criterion": "food",
-      "description": "Cards tagged food — 9 entries.",
-      "count": 9,
+      "description": "Cards tagged food — 11 entries.",
+      "count": 11,
       "apkg": "slices/tag-food.apkg",
       "pleco": "slices/tag-food.txt",
       "hskBreakdown": {
-        "hsk-1": 9
+        "hsk-1": 9,
+        "hsk-3": 2
       }
     },
     {
@@ -537,12 +538,12 @@
       "cn": "家",
       "dimension": "tag",
       "criterion": "family",
-      "description": "Cards tagged family — 12 entries.",
-      "count": 12,
+      "description": "Cards tagged family — 13 entries.",
+      "count": 13,
       "apkg": "slices/tag-family.apkg",
       "pleco": "slices/tag-family.txt",
       "hskBreakdown": {
-        "hsk-3": 1,
+        "hsk-3": 2,
         "hsk-1": 6,
         "hsk-2": 3,
         "unknown": 2
@@ -694,12 +695,12 @@
       "dimension": "intent",
       "criterion": "ordering-food",
       "description": "Get fed: food and drink characters (吃 喝 饭 茶 菜 …), dining verbs (要 想 来), and culinary vocabulary.",
-      "count": 20,
+      "count": 22,
       "apkg": "slices/intent-ordering-food.apkg",
       "pleco": "slices/intent-ordering-food.txt",
       "hskBreakdown": {
         "hsk-1": 12,
-        "hsk-3": 5,
+        "hsk-3": 7,
         "hsk-2": 2,
         "unknown": 1
       }
@@ -730,11 +731,11 @@
       "dimension": "intent",
       "criterion": "family-relationships",
       "description": "Kinship vocabulary (爸 妈 儿 女 哥 姐 弟 妹), the 的 grammar of possession, and family-tag entries.",
-      "count": 27,
+      "count": 28,
       "apkg": "slices/intent-family-relationships.apkg",
       "pleco": "slices/intent-family-relationships.txt",
       "hskBreakdown": {
-        "hsk-3": 4,
+        "hsk-3": 5,
         "hsk-1": 16,
         "hsk-2": 5,
         "unknown": 2
