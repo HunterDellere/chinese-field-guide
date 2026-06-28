@@ -8012,6 +8012,42 @@
     },
     "pages/characters/zhan4_站.html": {
       "voices": {}
+    },
+    "pages/characters/chun1_春.html": {
+      "voices": {}
+    },
+    "pages/characters/he2_河.html": {
+      "voices": {}
+    },
+    "pages/characters/hu2_湖.html": {
+      "voices": {}
+    },
+    "pages/characters/huang2_黄.html": {
+      "voices": {}
+    },
+    "pages/characters/huo2_活.html": {
+      "voices": {}
+    },
+    "pages/characters/ji2_急.html": {
+      "voices": {}
+    },
+    "pages/characters/jie1_接.html": {
+      "voices": {}
+    },
+    "pages/characters/jie1_街.html": {
+      "voices": {}
+    },
+    "pages/characters/jie4_借.html": {
+      "voices": {}
+    },
+    "pages/characters/li2_离.html": {
+      "voices": {}
+    },
+    "pages/characters/lian3_脸.html": {
+      "voices": {}
+    },
+    "pages/characters/lian4_练.html": {
+      "voices": {}
     }
   },
   "inline": {
@@ -16607,7 +16643,7 @@
     "e242d165e6bfff4a": {
       "text": "离去",
       "pinyin": "líqù",
-      "kind": "compound",
+      "kind": "section",
       "voices": {
         "xiaoxiao": {
           "hash": "e64cd1ef21fe",
@@ -17300,7 +17336,7 @@
     "16e8264edfffc0ed": {
       "text": "神色",
       "pinyin": "shénsè",
-      "kind": "compound",
+      "kind": "section",
       "voices": {
         "xiaoxiao": {
           "hash": "59482c0e6b14",
@@ -40169,7 +40205,7 @@
     "de8103d9d9fed1f8": {
       "text": "江湖骗子",
       "pinyin": "jiānghú piànzi",
-      "kind": "compound",
+      "kind": "chengyu",
       "voices": {
         "xiaoxiao": {
           "hash": "4b9ecfe2852b",
@@ -40694,7 +40730,7 @@
     "536a2d597d86bdd8": {
       "text": "面子",
       "pinyin": "miànzi",
-      "kind": "compound",
+      "kind": "section",
       "voices": {
         "xiaoxiao": {
           "hash": "f768fcd6085a",
@@ -69065,7 +69101,7 @@
     "4c21e8d66441f614": {
       "text": "街道",
       "pinyin": "jiēdào",
-      "kind": "section",
+      "kind": "compound",
       "voices": {
         "xiaoxiao": {
           "hash": "60d3825c0824",
@@ -89302,7 +89338,7 @@
     "302cde35e2028013": {
       "text": "离",
       "pinyin": "lí",
-      "kind": "section",
+      "kind": "compound",
       "voices": {}
     },
     "5cd9a6e6ff54f583": {
@@ -98815,6 +98851,744 @@
       "text": "站点",
       "pinyin": "zhàndiǎn",
       "kind": "compound",
+      "voices": {}
+    },
+    "aaf009c3a7584371": {
+      "text": "春暖花开",
+      "pinyin": "chūn nuǎn huā kāi",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "992dfd01e26db653": {
+      "text": "春风得意",
+      "pinyin": "chūn fēng dé yì",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "a149be7ded1a821f": {
+      "text": "雨后春笋",
+      "pinyin": "yǔ hòu chūn sǔn",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "aba62bd08cf54885": {
+      "text": "春天",
+      "pinyin": "chūntiān",
+      "kind": "compound",
+      "voices": {}
+    },
+    "4d44fde9c532635d": {
+      "text": "春节",
+      "pinyin": "chūnjié",
+      "kind": "compound",
+      "voices": {}
+    },
+    "c565b315a8e6851d": {
+      "text": "立春",
+      "pinyin": "lìchūn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "7addca26c90fc48e": {
+      "text": "青春",
+      "pinyin": "qīngchūn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "4853dc117031c8eb": {
+      "text": "春意",
+      "pinyin": "chūnyì",
+      "kind": "compound",
+      "voices": {}
+    },
+    "2d86c0806aed3672": {
+      "text": "季节",
+      "pinyin": "jìjié",
+      "kind": "section",
+      "voices": {}
+    },
+    "04ab9caa97ba16fb": {
+      "text": "生机",
+      "pinyin": "shēngjī",
+      "kind": "section",
+      "voices": {}
+    },
+    "ff17b719e8c3340b": {
+      "text": "河东狮吼",
+      "pinyin": "hé dōng shī hǒu",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "caecb3795c9895a8": {
+      "text": "过河拆桥",
+      "pinyin": "guò hé chāi qiáo",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "23ec4d0df96844ac": {
+      "text": "河清海晏",
+      "pinyin": "hé qīng hǎi yàn",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "d8301ee3826e9f65": {
+      "text": "河流",
+      "pinyin": "héliú",
+      "kind": "compound",
+      "voices": {}
+    },
+    "893c97af79066baa": {
+      "text": "黄河",
+      "pinyin": "huánghé",
+      "kind": "compound",
+      "voices": {}
+    },
+    "333019df0dd58eeb": {
+      "text": "运河",
+      "pinyin": "yùnhé",
+      "kind": "compound",
+      "voices": {}
+    },
+    "44f84f57a86503c8": {
+      "text": "银河",
+      "pinyin": "yínhé",
+      "kind": "compound",
+      "voices": {}
+    },
+    "45233c4a617879ad": {
+      "text": "河边",
+      "pinyin": "hébiān",
+      "kind": "compound",
+      "voices": {}
+    },
+    "fe02472a79da8162": {
+      "text": "过河",
+      "pinyin": "guò hé",
+      "kind": "compound",
+      "voices": {}
+    },
+    "aa274b5a37fbb70a": {
+      "text": "河水",
+      "pinyin": "héshuǐ",
+      "kind": "compound",
+      "voices": {}
+    },
+    "7ceea4d86826db9a": {
+      "text": "水系",
+      "pinyin": "shuǐxì",
+      "kind": "section",
+      "voices": {}
+    },
+    "b345b7537bec994b": {
+      "text": "浪迹江湖",
+      "pinyin": "làng jì jiānghú",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "a903ded35f7377f6": {
+      "text": "湖光山色",
+      "pinyin": "hú guāng shān sè",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "d45e6696980ac93b": {
+      "text": "湖泊",
+      "pinyin": "húpō",
+      "kind": "compound",
+      "voices": {}
+    },
+    "c2cd897ae8618072": {
+      "text": "湖水",
+      "pinyin": "húshuǐ",
+      "kind": "compound",
+      "voices": {}
+    },
+    "d9401fe52d0f4ee7": {
+      "text": "湖面",
+      "pinyin": "húmiàn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "0ee6774e38f4c7b7": {
+      "text": "湖畔",
+      "pinyin": "húpàn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "6d73e69e01f68ca9": {
+      "text": "西湖",
+      "pinyin": "Xī Hú",
+      "kind": "compound",
+      "voices": {}
+    },
+    "827e1c4cc3836792": {
+      "text": "湖南",
+      "pinyin": "Húnán",
+      "kind": "compound",
+      "voices": {}
+    },
+    "376dcf46f4ae3070": {
+      "text": "水域",
+      "pinyin": "shuǐyù",
+      "kind": "section",
+      "voices": {}
+    },
+    "38d2a21310963544": {
+      "text": "地名",
+      "pinyin": "dìmíng",
+      "kind": "section",
+      "voices": {}
+    },
+    "17fbf4c08288c8bf": {
+      "text": "黄色",
+      "pinyin": "huángsè",
+      "kind": "compound",
+      "voices": {}
+    },
+    "606c82816004e4cf": {
+      "text": "金黄",
+      "pinyin": "jīnhuáng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "68874a167d6499c6": {
+      "text": "蜡黄",
+      "pinyin": "làhuáng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "39c5a67231770e6c": {
+      "text": "黄昏",
+      "pinyin": "huánghūn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "25fd944a0cecaa46": {
+      "text": "蛋黄",
+      "pinyin": "dànhuáng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "20bbb4ef26c978ff": {
+      "text": "黄油",
+      "pinyin": "huángyóu",
+      "kind": "compound",
+      "voices": {}
+    },
+    "91799bc91f9037aa": {
+      "text": "黄河",
+      "pinyin": "Huánghé",
+      "kind": "compound",
+      "voices": {}
+    },
+    "b5d1731d3a334708": {
+      "text": "黄土",
+      "pinyin": "huángtǔ",
+      "kind": "compound",
+      "voices": {}
+    },
+    "cd16b68511731c53": {
+      "text": "黄帝",
+      "pinyin": "Huángdì",
+      "kind": "compound",
+      "voices": {}
+    },
+    "a45128b95bc50b68": {
+      "text": "黄了",
+      "pinyin": "huáng le",
+      "kind": "compound",
+      "voices": {}
+    },
+    "362e07f345e0591c": {
+      "text": "活灵活现",
+      "pinyin": "huó líng huó xiàn",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "138ef8898728b924": {
+      "text": "活蹦乱跳",
+      "pinyin": "huó bèng luàn tiào",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "df04b4cdab778286": {
+      "text": "养家活口",
+      "pinyin": "yǎng jiā huó kǒu",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "de4dc22176ecdfc1": {
+      "text": "死去活来",
+      "pinyin": "sǐ qù huó lái",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "48ba810eb359ea26": {
+      "text": "活着",
+      "pinyin": "huózhe",
+      "kind": "compound",
+      "voices": {}
+    },
+    "9e1a766612ce1e4d": {
+      "text": "复活",
+      "pinyin": "fùhuó",
+      "kind": "compound",
+      "voices": {}
+    },
+    "9b2473cf3a2f1d60": {
+      "text": "救活",
+      "pinyin": "jiùhuó",
+      "kind": "compound",
+      "voices": {}
+    },
+    "8f1f57d5e9f518ca": {
+      "text": "活泼",
+      "pinyin": "huópo",
+      "kind": "compound",
+      "voices": {}
+    },
+    "e2a2424b4862172e": {
+      "text": "灵活",
+      "pinyin": "línghuó",
+      "kind": "compound",
+      "voices": {}
+    },
+    "05224cb64dded934": {
+      "text": "快活",
+      "pinyin": "kuàihuo",
+      "kind": "compound",
+      "voices": {}
+    },
+    "95858028c21c907c": {
+      "text": "干活",
+      "pinyin": "gànhuó",
+      "kind": "compound",
+      "voices": {}
+    },
+    "a885f455f5c433e7": {
+      "text": "活儿",
+      "pinyin": "huór",
+      "kind": "compound",
+      "voices": {}
+    },
+    "e559ab15e685c546": {
+      "text": "心急如焚",
+      "pinyin": "xīn jí rú fén",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "0dcdafc5cc5d8b7d": {
+      "text": "操之过急",
+      "pinyin": "cāo zhī guò jí",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "6c49e0b95785cee7": {
+      "text": "急忙",
+      "pinyin": "jímáng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "9767ba524129deef": {
+      "text": "着急",
+      "pinyin": "zháojí",
+      "kind": "compound",
+      "voices": {}
+    },
+    "b219a319ab66fd1e": {
+      "text": "急性子",
+      "pinyin": "jíxìngzi",
+      "kind": "compound",
+      "voices": {}
+    },
+    "a1a35c4cab0fccbb": {
+      "text": "紧急",
+      "pinyin": "jǐnjí",
+      "kind": "compound",
+      "voices": {}
+    },
+    "cb280718181b45fd": {
+      "text": "急诊",
+      "pinyin": "jízhěn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "05a7e279ca39e548": {
+      "text": "急救",
+      "pinyin": "jíjiù",
+      "kind": "compound",
+      "voices": {}
+    },
+    "e887885a57c8e24d": {
+      "text": "急切",
+      "pinyin": "jíqiè",
+      "kind": "section",
+      "voices": {}
+    },
+    "7ea404027094b169": {
+      "text": "接连不断",
+      "pinyin": "jiē lián bù duàn",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "200df83786fac2eb": {
+      "text": "交头接耳",
+      "pinyin": "jiāo tóu jiē ěr",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "009fe5eaf55718d5": {
+      "text": "接受",
+      "pinyin": "jiēshòu",
+      "kind": "compound",
+      "voices": {}
+    },
+    "5d830cf228a072e8": {
+      "text": "直接",
+      "pinyin": "zhíjiē",
+      "kind": "compound",
+      "voices": {}
+    },
+    "9c7afed5c3b65caf": {
+      "text": "接电话",
+      "pinyin": "jiē diànhuà",
+      "kind": "compound",
+      "voices": {}
+    },
+    "2fc9e14dbbd5e224": {
+      "text": "接着",
+      "pinyin": "jiēzhe",
+      "kind": "compound",
+      "voices": {}
+    },
+    "ec80fc36a2ec1265": {
+      "text": "迎接",
+      "pinyin": "yíngjiē",
+      "kind": "compound",
+      "voices": {}
+    },
+    "a15b7304e381350b": {
+      "text": "接人",
+      "pinyin": "jiē rén",
+      "kind": "compound",
+      "voices": {}
+    },
+    "5366e38aa304bcde": {
+      "text": "接触",
+      "pinyin": "jiēchù",
+      "kind": "compound",
+      "voices": {}
+    },
+    "072741d5a7c92167": {
+      "text": "大街小巷",
+      "pinyin": "dà jiē xiǎo xiàng",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "7777334e385fc418": {
+      "text": "街头巷尾",
+      "pinyin": "jiē tóu xiàng wěi",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "e2aa42da46fbc544": {
+      "text": "街谈巷议",
+      "pinyin": "jiē tán xiàng yì",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "d76ae43a30a53c60": {
+      "text": "花街柳巷",
+      "pinyin": "huā jiē liǔ xiàng",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "fc1e86e729ea054d": {
+      "text": "大街",
+      "pinyin": "dàjiē",
+      "kind": "compound",
+      "voices": {}
+    },
+    "34a9bd1349cff770": {
+      "text": "逛街",
+      "pinyin": "guàngjiē",
+      "kind": "compound",
+      "voices": {}
+    },
+    "8592fb3745010a06": {
+      "text": "街坊",
+      "pinyin": "jiēfang",
+      "kind": "compound",
+      "voices": {}
+    },
+    "e4de2f3b7297f564": {
+      "text": "街区",
+      "pinyin": "jiēqū",
+      "kind": "compound",
+      "voices": {}
+    },
+    "e4f1726f4af875e2": {
+      "text": "通衢",
+      "pinyin": "tōngqú",
+      "kind": "section",
+      "voices": {}
+    },
+    "09eec0ae19a78ec0": {
+      "text": "街市",
+      "pinyin": "jiēshì",
+      "kind": "section",
+      "voices": {}
+    },
+    "453ff85542a3dfb9": {
+      "text": "借刀杀人",
+      "pinyin": "jiè dāo shā rén",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "08e946ec9e97ae15": {
+      "text": "借题发挥",
+      "pinyin": "jiè tí fā huī",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "f5de0a20577ac44f": {
+      "text": "借古讽今",
+      "pinyin": "jiè gǔ fěng jīn",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "a47cb6e1db10ee9a": {
+      "text": "借钱",
+      "pinyin": "jiè qián",
+      "kind": "compound",
+      "voices": {}
+    },
+    "2afea253ce3805fd": {
+      "text": "租借",
+      "pinyin": "zū jiè",
+      "kind": "compound",
+      "voices": {}
+    },
+    "af4fdf82dedbe8ac": {
+      "text": "借给",
+      "pinyin": "jiè gěi",
+      "kind": "compound",
+      "voices": {}
+    },
+    "b90172e4853c5844": {
+      "text": "借口",
+      "pinyin": "jiè kǒu",
+      "kind": "compound",
+      "voices": {}
+    },
+    "e626bcd7a2130849": {
+      "text": "借助",
+      "pinyin": "jiè zhù",
+      "kind": "compound",
+      "voices": {}
+    },
+    "e405039ad0d85364": {
+      "text": "借鉴",
+      "pinyin": "jiè jiàn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "c0090b93990ebf6a": {
+      "text": "借贷",
+      "pinyin": "jièdài",
+      "kind": "section",
+      "voices": {}
+    },
+    "43db1cde0ecfa123": {
+      "text": "凭借",
+      "pinyin": "píngjiè",
+      "kind": "section",
+      "voices": {}
+    },
+    "e23a23adc63b2c7b": {
+      "text": "离经叛道",
+      "pinyin": "lí jīng pàn dào",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "d11ea638f0fbbcf7": {
+      "text": "支离破碎",
+      "pinyin": "zhī lí pò suì",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "fce4a936dcb0f12b": {
+      "text": "离开",
+      "pinyin": "líkāi",
+      "kind": "compound",
+      "voices": {}
+    },
+    "ccf3a1903ac04882": {
+      "text": "离婚",
+      "pinyin": "líhūn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "b8303f7e2e70df1a": {
+      "text": "离职",
+      "pinyin": "lízhí",
+      "kind": "compound",
+      "voices": {}
+    },
+    "d4b522e753b8bc1c": {
+      "text": "距离",
+      "pinyin": "jùlí",
+      "kind": "compound",
+      "voices": {}
+    },
+    "0a45b350268b1234": {
+      "text": "分离",
+      "pinyin": "fēnlí",
+      "kind": "compound",
+      "voices": {}
+    },
+    "b3a45501b7fcc676": {
+      "text": "离别",
+      "pinyin": "líbié",
+      "kind": "compound",
+      "voices": {}
+    },
+    "856ed264e0885047": {
+      "text": "脱离",
+      "pinyin": "tuōlí",
+      "kind": "compound",
+      "voices": {}
+    },
+    "61917254209bf305": {
+      "text": "嬉皮笑脸",
+      "pinyin": "xī pí xiào liǎn",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "048031588077e64d": {
+      "text": "愁眉苦脸",
+      "pinyin": "chóu méi kǔ liǎn",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "ad5aad87348f8894": {
+      "text": "不要脸",
+      "pinyin": "bú yào liǎn",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "91ad7c687c3911c0": {
+      "text": "劈头盖脸",
+      "pinyin": "pī tóu gài liǎn",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "d8080250178b697c": {
+      "text": "笑脸",
+      "pinyin": "xiàoliǎn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "1ec9d43b9f55cca9": {
+      "text": "红脸",
+      "pinyin": "hóngliǎn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "229bee6b2f09c63b": {
+      "text": "丢脸",
+      "pinyin": "diūliǎn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "120ccefd46b6dabf": {
+      "text": "翻脸",
+      "pinyin": "fānliǎn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "42fbbbd70e1e8c62": {
+      "text": "脸皮",
+      "pinyin": "liǎnpí",
+      "kind": "compound",
+      "voices": {}
+    },
+    "5e43d9db66d7811c": {
+      "text": "洗脸",
+      "pinyin": "xǐliǎn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "5c2a062bae08eb59": {
+      "text": "脸蛋",
+      "pinyin": "liǎndàn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "9b452edd47afdf30": {
+      "text": "脸盆",
+      "pinyin": "liǎnpén",
+      "kind": "compound",
+      "voices": {}
+    },
+    "466bb278c66eb1bf": {
+      "text": "训练有素",
+      "pinyin": "xùn liàn yǒu sù",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "ce304eb5f418833d": {
+      "text": "练达老成",
+      "pinyin": "liàn dá lǎo chéng",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "b4abfa4fb2b5b4e1": {
+      "text": "练兵秣马",
+      "pinyin": "liàn bīng mò mǎ",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "8c249b66bf961654": {
+      "text": "简练揣摩",
+      "pinyin": "jiǎn liàn chuǎi mó",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "c468c2f4779ae027": {
+      "text": "练习",
+      "pinyin": "liànxí",
+      "kind": "compound",
+      "voices": {}
+    },
+    "e2f7de4e4749cf1c": {
+      "text": "训练",
+      "pinyin": "xùnliàn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "b72c477f7fb07135": {
+      "text": "熟练",
+      "pinyin": "shúliàn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "10d75d734241397c": {
+      "text": "教练",
+      "pinyin": "jiàoliàn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "efbee1ee96bbf141": {
+      "text": "老练",
+      "pinyin": "lǎoliàn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "eb3944d6b6a46cfa": {
+      "text": "反复",
+      "pinyin": "fǎnfù",
+      "kind": "section",
       "voices": {}
     }
   }
