@@ -1,5 +1,240 @@
 [
   {
+    "path": "pages/characters/bing4_病.html",
+    "type": "character",
+    "category": "characters",
+    "title": "病 · illness, disease, to fall ill, fault",
+    "desc": "A person sweating on a sickbed with the phonetic 丙 inside: the radical 疒 frames every Chinese word for being unwell.",
+    "tags": [
+      "health",
+      "body",
+      "tcm",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "病",
+    "pinyin": "bìng",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "疒",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/ge1_哥.html",
+    "type": "character",
+    "category": "characters",
+    "title": "哥 · elder brother, a familiar term for an older young man",
+    "desc": "Two 可 stacked into one glyph; the doubled phonetic came to carry the warmest word in the family, elder brother.",
+    "tags": [
+      "family",
+      "social",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "哥",
+    "pinyin": "gē",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "口",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/guan3_馆.html",
+    "type": "character",
+    "category": "characters",
+    "title": "馆 · a public building, hall, shop, establishment",
+    "desc": "A food-radical building: the eating-house that grew into the library, the museum, and the embassy.",
+    "tags": [
+      "food",
+      "society",
+      "daily-life",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "馆",
+    "pinyin": "guǎn",
+    "tone": 3,
+    "hsk": 1,
+    "radical": "饣",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/he1_喝.html",
+    "type": "character",
+    "category": "characters",
+    "title": "喝 · to drink; (hè) to shout, to cry out",
+    "desc": "A mouth radical paired with the phonetic 曷, splitting cleanly into the everyday hē you drink with and the older hè you shout with.",
+    "tags": [
+      "drink",
+      "daily-life",
+      "food",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "喝",
+    "pinyin": "hē",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "口",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/ji1_鸡.html",
+    "type": "character",
+    "category": "characters",
+    "title": "鸡 · chicken, fowl, rooster",
+    "desc": "The simplified 鸡 swaps a chicken-coop hand 又 in where the traditional 雞 kept the sound-bearer 奚 beside the bird.",
+    "tags": [
+      "nature",
+      "food",
+      "daily-life",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "鸡",
+    "pinyin": "jī",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "鸟",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/ma3_马.html",
+    "type": "character",
+    "category": "characters",
+    "title": "马 · horse, a common surname",
+    "desc": "A three-stroke pictograph of a horse in profile that hides the mane, legs, and tail of its towering ancestor 馬.",
+    "tags": [
+      "nature",
+      "daily-life",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "马",
+    "pinyin": "mǎ",
+    "tone": 3,
+    "hsk": 1,
+    "radical": "马",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/niu2_牛.html",
+    "type": "character",
+    "category": "characters",
+    "title": "牛 · ox, cow, cattle; (slang) awesome",
+    "desc": "A four-stroke pictograph of an ox head seen straight on, the horns still visible; in modern slang it means impressively good.",
+    "tags": [
+      "nature",
+      "food",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "牛",
+    "pinyin": "niú",
+    "tone": 2,
+    "hsk": 1,
+    "radical": "牛",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/peng2_朋.html",
+    "type": "character",
+    "category": "characters",
+    "title": "朋 · friend, companion; of the same group",
+    "desc": "Two strings of cowrie shells hung side by side, an old unit of value, borrowed early for companions of equal standing who keep close company.",
+    "tags": [
+      "social",
+      "humanity",
+      "connections",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "朋",
+    "pinyin": "péng",
+    "tone": 2,
+    "hsk": 1,
+    "radical": "月",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/re4_热.html",
+    "type": "character",
+    "category": "characters",
+    "title": "热 · hot, heat, fever, ardent, popular",
+    "desc": "The four dots of flame beneath 执 carry physical heat into the heat of crowds, fervor, and whatever is trending.",
+    "tags": [
+      "nature",
+      "daily-life",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "热",
+    "pinyin": "rè",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "灬",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/rou4_肉.html",
+    "type": "character",
+    "category": "characters",
+    "title": "肉 · meat, flesh, the pulp of fruit",
+    "desc": "A pictograph of a meat slab with its marbling drawn inside; squeezed onto the left of a character it becomes 月, the flesh-moon of the body radicals.",
+    "tags": [
+      "food",
+      "body",
+      "daily-life",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "肉",
+    "pinyin": "ròu",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "肉",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/xiao4_笑.html",
+    "type": "character",
+    "category": "characters",
+    "title": "笑 · to laugh, to smile, to mock",
+    "desc": "Bamboo over a bending person: a form that has split scholars since the Song over whether laughter or rustling reeds came first.",
+    "tags": [
+      "emotion",
+      "communication",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "笑",
+    "pinyin": "xiào",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "⺮",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/zhan4_站.html",
+    "type": "character",
+    "category": "characters",
+    "title": "站 · to stand, to halt, a station, a stop",
+    "desc": "A person planted upright on the ground, holding their place: from the body that will not move grows the station, the stop, and the website you log on to.",
+    "tags": [
+      "motion",
+      "body",
+      "daily-life",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "站",
+    "pinyin": "zhàn",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "立",
+    "updated": "2026-06-28"
+  },
+  {
     "path": "pages/characters/bi3_笔.html",
     "type": "character",
     "category": "characters",

@@ -9,6 +9,7 @@
 必	bì	certainly; must; necessarily — A character rooted in the image of a blade that divides without exception: certainty as the sharpness that leaves no room for maybe.
 变	biàn	to change, to transform — The character at the heart of the I Ching, the dynastic cycle, and the modern vocabulary of reform: change as the one constant.
 表	biǎo	surface, to express, a table, a watch — The garment radical worn on the outside: 表 runs from the outer surface of things to showing feeling, the chart on a page, and the watch on a wrist.
+病	bìng	illness, disease, to fall ill, fault — A person sweating on a sickbed with the phonetic 丙 inside: the radical 疒 frames every Chinese word for being unwell.
 不	bù	no, not, negation — The most used character in Mandarin, and the foundation of every denial, refusal, and negation.
 部	bù	part, section, ministry, measure word — The right-side city-mound radical marks an administrative division. From that grows the whole family of parts and wholes: a section of something, a government ministry, a military unit, and the measure word counted out for films, machines, and phones.
 才	cái	talent, ability, only-then, not until — A sprout breaking ground, the first sign of growth. From that image grow two threads: talent as raw promise, and the adverb 才 that marks something later, harder, or smaller than expected.
@@ -56,6 +57,7 @@
 感	gǎn	to feel, to resonate — Feeling, perception, gratitude, and the cosmology of sympathetic resonance.
 高	gāo	tall; high; elevated; surname — A tall palace gate rising above the ground, and the character that anchors Chinese words for excellence, happiness, and examination pressure simultaneously.
 告	gào	to tell, to announce, to report — A mouth aimed upward: the character for delivering words to authority, and the root of advertising, accusations, and warnings.
+哥	gē	elder brother, a familiar term for an older young man — Two 可 stacked into one glyph; the doubled phonetic came to carry the warmest word in the family, elder brother.
 个	gè	the universal measure word, individual — The general-purpose measure word that counts almost anything, and the root of individual. From the bamboo-stalk tally grew the everyday classifier 一个 and the words for individual, personality, and build.
 更	gèng	even more; to change; night watch — A character that split across two readings: the comparative pulse of spoken Mandarin and the sonic clock of premodern China.
 工	gōng	work, craft, labor, worker — Three strokes encoding heaven, earth, and the human craft connecting them: the root character for all labor, skill, and making in Chinese.
@@ -65,12 +67,14 @@
 故	gù	reason; old; deliberately; therefore — 故 binds five senses into one glyph: cause, the old and former, deliberateness, the literary "hence," and the deceased. The thread is a settled cause behind what is done or what has passed.
 关	guān	to close, to concern, the frontier pass — The bolt that closes a gate, the mountain pass that controls a frontier, and the relation that ties two people together. One character holds all three.
 观	guān	to observe, view, outlook, Daoist temple — The eye that looks and the mind that judges. From watching a thing closely grow two families of meaning: to observe and to view, and the settled outlook through which a person sees the world. A second reading, guàn, names the Daoist temple.
+馆	guǎn	a public building, hall, shop, establishment — A food-radical building: the eating-house that grew into the library, the museum, and the embassy.
 广	guǎng	wide, broad, to spread — A radical and a word: the cliff-shelter that became the prefix for everything expansive, from Guangzhou to Guangdong to radio broadcasts.
 鬼	guǐ	ghost, the wandering dead — A pictograph of a spirit with an oversized head: the disembodied soul of the unvenerated dead, a folk-religion category distinct from deity, demon, and ancestor.
 国	guó	country, nation, state — A walled enclosure protecting its people: the Chinese concept of nationhood written in a single character.
 海	hǎi	sea, ocean, a vast quantity — Water plus the phonetic 每: the sea, the ocean, and by extension any vastness. From 大海 and 海洋 to the coastal city 上海, the navy 海军, and the crowd that becomes a 人海.
 汉	hàn	the Han river, dynasty, people, and a man — A river that named a dynasty, and a dynasty that named a people. From the water of 汉水 grew 汉族 the Han ethnicity, 汉语 and 汉字 the Chinese language and script, and 好汉, the brave fellow.
 好	hǎo	good; to like — Good, well, to like, and the tone split that doubles its expressive range.
+喝	hē	to drink; (hè) to shout, to cry out — A mouth radical paired with the phonetic 曷, splitting cleanly into the everyday hē you drink with and the older hè you shout with.
 合	hé	to join, combine, suit, close — A lid closing down over the mouth of a vessel. From that image of two parts meeting and fitting grows the whole field of joining, suiting, closing, and adding up into a whole.
 和	hé	harmony, and, with; peace — 和 carries the same concept across grammar and philosophy: grain and mouth together, the harmony of shared food and speech, a character that serves as both everyday conjunction and the Confucian ideal of a well-ordered world.
 黑	hēi	black, darkness, and the illicit — Black on the surface, but the live sense is moral: the black market, the underworld, the hacker. The color that names everything that operates out of sight.
@@ -85,6 +89,7 @@
 欢	huān	joy, merry, to be pleased — A breath of open delight: the hand and the open mouth that make laughter. From this glyph come joy and merriment, to like and to welcome, and the lively, high-spirited mood.
 回	huí	to return, to turn back, a time — Two squares nested like a coiling eddy. The character for coming back: returning home, turning around, replying, and counting the times a thing happens.
 火	huǒ	fire, flame, anger, popularity — Three flames rising: the character for fire and one of the most productive radicals in Chinese.
+鸡	jī	chicken, fowl, rooster — The simplified 鸡 swaps a chicken-coop hand 又 in where the traditional 雞 kept the sound-bearer 奚 beside the bird.
 己	jǐ	oneself, self, the sixth Heavenly Stem — A picture of a coiled, bending thread borrowed long ago to mean the self. From it grows everything turned inward: oneself, the private view, self-restraint, and the sixth of the ten Heavenly Stems.
 记	jì	to remember, to record, a mark — Speech set beside the self: the act of fixing something so it will not be lost. From that image grow three senses: to remember, to write down, and the mark left behind.
 家	jiā	home, family — House, family, school of thought, nation (国家): the fractal of belonging.
@@ -129,6 +134,7 @@
 路	lù	road, path, route — The walked road, where 道 is the navigated way: 路 is the surface beneath the foot, the route the messenger takes, the journey of a life measured in distance.
 论	lùn	to discuss, a theory or treatise — Reasoned speech put in order: the verb for discussing, debating, and commenting, and the noun for a theory, a view, or a treatise. Also Lun in the title of the Analects.
 落	luò	to fall, to settle, to land — Falling, settling, and the beauty of things arriving at their place.
+马	mǎ	horse, a common surname — A three-stroke pictograph of a horse in profile that hides the mane, legs, and tail of its towering ancestor 馬.
 慢	màn	slow, unhurried — Pace becomes a moral register: 慢 màn carries the same heart radical as 快, and extends from physical slowness into social neglect and arrogance.
 美	měi	beautiful, USA, delicious — A large sheep carrying horns: beauty as abundance, sacrifice, and the pleasure of the highest good.
 门	mén	door, gate, family, field — A picture of a two-leaf gate. From the swinging doors grow the gateway, the household behind them, the school or trade you enter, and the measure word for whole courses of study.
@@ -143,8 +149,10 @@
 你	nǐ	you — The everyday second-person pronoun whose formal twin 您 embeds 心 (heart) directly into the character: address with warmth.
 年	nián	year — A person carrying a harvest of grain: year as the cycle of agricultural labor, and the heart of the Chinese New Year tradition.
 念	niàn	to recite, to keep in mind, to miss — 念 holds the present moment 今 over the heart 心: to keep something in mind, to recite aloud, to long for what is absent. The 念 of 念佛 recitation, 想念 longing, and the single thought-moment of Buddhist psychology.
+牛	niú	ox, cow, cattle; (slang) awesome — A four-stroke pictograph of an ox head seen straight on, the horns still visible; in modern slang it means impressively good.
 女	nǚ	woman, female — A kneeling figure with crossed arms: one of the most productive radicals in the script, present in characters for family relationships, feelings, and cultural concepts.
 跑	pǎo	to run; to flee; to operate — The everyday verb of running: a foot-radical character whose semantic range stretches from "the legs in motion" to "running an errand" to "the engine is running" to a small but productive family of escape-and-flee compounds.
+朋	péng	friend, companion; of the same group — Two strings of cowrie shells hung side by side, an old unit of value, borrowed early for companions of equal standing who keep close company.
 品	pǐn	article, grade, character, to taste — Three mouths stacked: a character about multiplicity, evaluation, and the discerning assessment of quality, from product grades to moral character.
 平	píng	flat, level, even, peaceful, ordinary — A pictograph of something level and balanced. From that flat surface grows a wide field of meaning: the even and the smooth, the equal and the fair, the calm and the peaceful, and the plain and ordinary.
 七	qī	seven; the rhythm of mourning, festival, and the soul — Seven measures the cycles of death and renewal in Chinese culture: the seven-day periods of mourning, the seventh-night lovers' festival, and the seven emotions of the heart.
@@ -158,11 +166,13 @@
 去	qù	to go, to leave, to depart, to remove — The character that marks every departure, from leaving the house to the euphemism for death. 去 is the verb of things moving away.
 全	quán	whole, complete, entire, all — Enter, and find the jade flawless. From that image of unblemished jade grows everything whole and complete: the entire set, the intact and unbroken, and the adverb that sweeps up all of it at once.
 然	rán	so, thus, the -ly manner suffix — A character that once meant to burn and was borrowed for the abstract sense so, correct, this-is-how-it-is. Today it builds the connectives 然后 and 然而, the conjunctions 当然 and 虽然, and rides as a -ly suffix on words like 忽然 and 突然.
+热	rè	hot, heat, fever, ardent, popular — The four dots of flame beneath 执 carry physical heat into the heat of crowds, fervor, and whatever is trending.
 人	rén	person, humanity — The character for human being, and its echo in 仁 rén, Confucian benevolence.
 仁	rén	humaneness, the kernel of human relation — The character that anchors Confucian ethics: 亻 + 二, the self in relation to another. Etymology, the virtue-cluster compounds, and the seed-kernel sense that links moral and botanical 仁.
 认	rèn	to recognize, to acknowledge — The act of recognition: knowing something for what it is, owning up to it, and the small set of compounds that turn this on the world, on others, and on oneself.
 日	rì	sun, day, Japan — The oldest pictograph in the script: a circle with a dot for the sun, now a radical in hundreds of characters related to time, light, and warmth.
 容	róng	to contain, to allow, appearance — A roof over a valley: the space that holds. To contain, to tolerate, the face one shows, and the easy in rongyi.
+肉	ròu	meat, flesh, the pulp of fruit — A pictograph of a meat slab with its marbling drawn inside; squeezed onto the left of a character it becomes 月, the flesh-moon of the body radicals.
 如	rú	like, as, if, according to — A woman speaking and a mouth complying: from following a command grew the great comparison-and-condition word. 如 is how Chinese says like, as, for example, and if.
 三	sān	three; thrice; repeatedly — Three is the number of completion in Chinese cosmology (Heaven, Earth, Human), and the numeral that generates the ten thousand things in Daoist thought.
 色	sè	color, appearance, desire — A kneeling figure beneath a person: color as visible manifestation, and the character that links aesthetics to desire.
@@ -224,6 +234,7 @@
 想	xiǎng	to think, to want, to miss — 想 = 相 (mutual, facing) + 心 (heart): the heart turned toward something, carrying the full range from thought to desire to longing in a single gesture.
 向	xiàng	direction, toward, to face, all along — A window opening in a wall, facing one way. From that image grows the whole field of orientation: the direction a thing points, the preposition toward a target, the inclination of a heart, and the sense of all along, up to now.
 小	xiǎo	small, little; humble — Three minimal strokes that became the Confucian axis of moral character: the 小人 (petty person) and the 君子 (exemplary person) are the two poles every learner of classical Chinese must know.
+笑	xiào	to laugh, to smile, to mock — Bamboo over a bending person: a form that has split scholars since the Song over whether laughter or rustling reeds came first.
 写	xiě	to write; to describe — 写 simplified from 寫, which shows a magpie under a roof: the bird that mimics and transmits, giving its voice to the written mark.
 心	xīn	heart, mind — The radical at the root of all feeling, and the Chinese conception of thought itself.
 新	xīn	new; fresh; recently; novel — Chopping fresh wood with an axe: the character whose compounds span New Year greetings, fresh produce, marriage, and the great question of what counts as modern.
@@ -260,6 +271,7 @@
 云	yún	cloud — The simplified 云 is older than the traditional 雲, a rare case where the modern form recovers the ancient one.
 再	zài	again, then, further — The adverb that sequences and repeats: again, one more time, and the subtle art of "and then."
 在	zài	to be at, located, in progress — The character that locates: a seedling rooted in earth, expanded into location, preposition, and progressive aspect.
+站	zhàn	to stand, to halt, a station, a stop — A person planted upright on the ground, holding their place: from the body that will not move grows the station, the stop, and the website you log on to.
 长	cháng	long; to grow; chief — A person with flowing long hair. One character, two readings: cháng (long) and zhǎng (to grow, elder), the richest dual-reading in Mandarin.
 真	zhēn	real, true, genuine — Truth not as accuracy but as authenticity: the unadorned thing itself, prized in Daoist self-cultivation and in everyday emphasis.
 正	zhèng	upright, correct, exactly, in the midst of — A foot halting squarely on the target line. From that image grows everything straight and correct: the upright, the standard, the exact moment, and the ongoing right-now.
@@ -311,6 +323,7 @@
 论语	Lún yǔ	The Analects of Confucius — The Analects: a thin book of recorded conversations and sayings that became the most quoted text in East Asian civilization, the entry point to Confucian thought, and the textbook of imperial education for two thousand years.
 面子	miàn zi	face, honor — Giving, losing, and saving face: the social grammar of dignity.
 命运	mìng yùn	fate, destiny — Fate, destiny, and the tension between cosmic order and human will.
+朋友	péng you	friend — The everyday word for friend, and the rich web of relationship terms (好朋友, 男朋友, 交朋友) built around it.
 普通话	pǔ tōng huà	Mandarin Chinese — The common speech: how China standardized its national language, what Mandarin actually is, and how it relates to Cantonese, Shanghainese, and the Chinese dialects.
 其实	qí shí	actually — The everyday adverb for "actually, in fact," used to correct an impression or reveal the real situation, and how it differs from 实际上, 事实上, and 本来.
 气功	qì gōng	qigong — Cultivating the vital breath: China's ancient practice of aligning body, breath, and mind.
@@ -366,6 +379,7 @@
 君子不器	jūn zǐ bù qì	the exemplary person is not a vessel — Confucius says the junzi is not a utensil: not defined by function, not limited to one use. The Analects' argument against reducing a person to their usefulness.
 迷途知返	mí tú zhī fǎn	To Realise You Are Lost and Turn Back — Four characters that describe one of the most human experiences: taking a wrong road, recognising it, and finding the way home. The Chinese idiom for course-correction done with dignity.
 青出于蓝	qīng chū yú lán	The Student Surpasses the Teacher — Indigo is made from the indigo plant, yet it is bluer than the plant itself. Xunzi's image for the student who surpasses the teacher through sustained effort.
+塞翁失马	sài wēng shī mǎ	The Old Man at the Frontier Loses His Horse — His horse ran off. His neighbours grieved. He shrugged. The Daoist parable that became China's word for the unknowability of fortune.
 三人成虎	sān rén chéng hǔ	three people make a tiger — A minister warns his king: if three people all claim there is a tiger in the marketplace, even the skeptical will believe it. The Zhanguo Ce parable of rumor that outlasts the warning against it.
 山清水秀	shān qīng shuǐ xiù	Mountains Clear, Waters Lovely — Clear mountains, lovely waters. The standard Chinese phrase for a picturesque landscape: four characters that compress the whole aesthetic vocabulary of natural beauty.
 事与愿违	shì yǔ yuàn wéi	things go contrary to ones wishes — Traced to Ruan Ji of the Seven Sages of the Bamboo Grove: a literary formulation of the gap between intention and outcome, resigned rather than accusatory, with no blame assigned.

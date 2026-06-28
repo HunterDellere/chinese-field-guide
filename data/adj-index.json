@@ -356,6 +356,25 @@
     ],
     "hasPage": true
   },
+  "月": {
+    "cn": "月",
+    "py": "yuè",
+    "en": "month; moon",
+    "count": 10,
+    "appearsOn": [
+      "pages/characters/ba1_八.html",
+      "pages/characters/jiu3_九.html",
+      "pages/characters/liu4_六.html",
+      "pages/characters/nian2_年.html",
+      "pages/characters/qi1_七.html",
+      "pages/characters/ri4_日.html",
+      "pages/characters/rou4_肉.html",
+      "pages/characters/shi2_时.html",
+      "pages/characters/yin1_阴.html",
+      "pages/vocab/shijian_时间.html"
+    ],
+    "hasPage": true
+  },
   "长城": {
     "cn": "长城",
     "py": "Chángchéng",
@@ -498,24 +517,6 @@
       "pages/vocab/junzi_君子.html",
       "pages/vocab/ren2_仁.html",
       "pages/vocab/yi4_义.html"
-    ],
-    "hasPage": true
-  },
-  "月": {
-    "cn": "月",
-    "py": "yuè",
-    "en": "month; moon",
-    "count": 9,
-    "appearsOn": [
-      "pages/characters/ba1_八.html",
-      "pages/characters/jiu3_九.html",
-      "pages/characters/liu4_六.html",
-      "pages/characters/nian2_年.html",
-      "pages/characters/qi1_七.html",
-      "pages/characters/ri4_日.html",
-      "pages/characters/shi2_时.html",
-      "pages/characters/yin1_阴.html",
-      "pages/vocab/shijian_时间.html"
     ],
     "hasPage": true
   },
@@ -789,6 +790,23 @@
       "pages/grammar/keneng_可能.html",
       "pages/vocab/bixu_必须.html",
       "pages/vocab/yiding_一定.html"
+    ],
+    "hasPage": true
+  },
+  "走": {
+    "cn": "走",
+    "py": "zǒu",
+    "en": "to walk",
+    "count": 8,
+    "appearsOn": [
+      "pages/characters/jiao3_脚.html",
+      "pages/characters/lu4_路.html",
+      "pages/characters/pao3_跑.html",
+      "pages/characters/qu4_去.html",
+      "pages/characters/xing2_行.html",
+      "pages/characters/yue4_越.html",
+      "pages/characters/zhan4_站.html",
+      "pages/grammar/directional_来去.html"
     ],
     "hasPage": true
   },
@@ -1269,22 +1287,6 @@
       "pages/grammar/zai_在.html",
       "pages/grammar/zhe_particle_呢.html",
       "pages/vocab/zhengzai_正在.html"
-    ],
-    "hasPage": true
-  },
-  "走": {
-    "cn": "走",
-    "py": "zǒu",
-    "en": "to walk",
-    "count": 7,
-    "appearsOn": [
-      "pages/characters/jiao3_脚.html",
-      "pages/characters/lu4_路.html",
-      "pages/characters/pao3_跑.html",
-      "pages/characters/qu4_去.html",
-      "pages/characters/xing2_行.html",
-      "pages/characters/yue4_越.html",
-      "pages/grammar/directional_来去.html"
     ],
     "hasPage": true
   },
@@ -2458,6 +2460,20 @@
     ],
     "hasPage": true
   },
+  "天气": {
+    "cn": "天气",
+    "py": "tiānqì",
+    "en": "weather",
+    "count": 5,
+    "appearsOn": [
+      "pages/characters/feng1_风.html",
+      "pages/characters/hou4_候.html",
+      "pages/characters/re4_热.html",
+      "pages/characters/xue3_雪.html",
+      "pages/characters/yu3_雨.html"
+    ],
+    "hasPage": false
+  },
   "为": {
     "cn": "为",
     "py": "wéi",
@@ -2674,6 +2690,19 @@
       "pages/characters/shou3_首.html",
       "pages/characters/zi4_字.html",
       "pages/vocab/hanzi_汉字.html"
+    ],
+    "hasPage": true
+  },
+  "吃": {
+    "cn": "吃",
+    "py": "chī",
+    "en": "to eat — daily-life verb sibling",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/da3_打.html",
+      "pages/characters/he1_喝.html",
+      "pages/characters/kou3_口.html",
+      "pages/characters/rou4_肉.html"
     ],
     "hasPage": true
   },
@@ -2950,6 +2979,19 @@
     ],
     "hasPage": true
   },
+  "火": {
+    "cn": "火",
+    "py": "huǒ",
+    "en": "fire; flame (wuxing)",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/jin1_金.html",
+      "pages/characters/mu4_木.html",
+      "pages/characters/re4_热.html",
+      "pages/characters/yu3_雨.html"
+    ],
+    "hasPage": true
+  },
   "家": {
     "cn": "家",
     "py": "jiā",
@@ -3144,6 +3186,19 @@
       "pages/history/topic_chunqiu.html"
     ],
     "hasPage": true
+  },
+  "马上": {
+    "cn": "马上",
+    "py": "mǎshàng",
+    "en": "at once",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/ma3_马.html",
+      "pages/characters/shang4_上.html",
+      "pages/grammar/jiu_cai_就才.html",
+      "pages/vocab/yihuir_一会儿.html"
+    ],
+    "hasPage": false
   },
   "嘛": {
     "cn": "嘛",
@@ -3469,19 +3524,6 @@
       "pages/vocab/yinyang_阴阳.html"
     ],
     "hasPage": true
-  },
-  "天气": {
-    "cn": "天气",
-    "py": "tiānqì",
-    "en": "weather",
-    "count": 4,
-    "appearsOn": [
-      "pages/characters/feng1_风.html",
-      "pages/characters/hou4_候.html",
-      "pages/characters/xue3_雪.html",
-      "pages/characters/yu3_雨.html"
-    ],
-    "hasPage": false
   },
   "完全": {
     "cn": "完全",
@@ -4257,6 +4299,18 @@
     ],
     "hasPage": true
   },
+  "发烧": {
+    "cn": "发烧",
+    "py": "fāshāo",
+    "en": "to have a fever",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/bing4_病.html",
+      "pages/characters/fa1_发.html",
+      "pages/characters/re4_热.html"
+    ],
+    "hasPage": false
+  },
   "发现": {
     "cn": "发现",
     "py": "fāxiàn",
@@ -4556,18 +4610,6 @@
       "pages/characters/nu3_女.html"
     ],
     "hasPage": false
-  },
-  "火": {
-    "cn": "火",
-    "py": "huǒ",
-    "en": "fire; flame (wuxing)",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/jin1_金.html",
-      "pages/characters/mu4_木.html",
-      "pages/characters/yu3_雨.html"
-    ],
-    "hasPage": true
   },
   "或者": {
     "cn": "或者",
@@ -4953,18 +4995,6 @@
     ],
     "hasPage": true
   },
-  "马上": {
-    "cn": "马上",
-    "py": "mǎshàng",
-    "en": "immediately; right away",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/shang4_上.html",
-      "pages/grammar/jiu_cai_就才.html",
-      "pages/vocab/yihuir_一会儿.html"
-    ],
-    "hasPage": false
-  },
   "毛笔": {
     "cn": "毛笔",
     "py": "máobǐ",
@@ -5120,6 +5150,18 @@
       "pages/vocab/jieqi_节气.html"
     ],
     "hasPage": false
+  },
+  "朋友": {
+    "cn": "朋友",
+    "py": "péngyou",
+    "en": "friend",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/peng2_朋.html",
+      "pages/characters/ren2_人.html",
+      "pages/vocab/guanxi_关系.html"
+    ],
+    "hasPage": true
   },
   "拼音": {
     "cn": "拼音",
@@ -6694,6 +6736,17 @@
     ],
     "hasPage": false
   },
+  "兵马俑": {
+    "cn": "兵马俑",
+    "py": "bīngmǎyǒng",
+    "en": "Terracotta Army",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/ma3_马.html",
+      "pages/history/topic_qinchao.html"
+    ],
+    "hasPage": true
+  },
   "并且": {
     "cn": "并且",
     "py": "bìngqiě",
@@ -6900,17 +6953,6 @@
     "appearsOn": [
       "pages/religion/topic_daojiao.html",
       "pages/religion/topic_minjian.html"
-    ],
-    "hasPage": true
-  },
-  "吃": {
-    "cn": "吃",
-    "py": "chī",
-    "en": "to eat — daily-life verb sibling",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/da3_打.html",
-      "pages/characters/kou3_口.html"
     ],
     "hasPage": true
   },
@@ -7197,6 +7239,17 @@
     "appearsOn": [
       "pages/characters/di1_低.html",
       "pages/characters/tou2_头.html"
+    ],
+    "hasPage": false
+  },
+  "弟弟": {
+    "cn": "弟弟",
+    "py": "dìdi",
+    "en": "younger brother",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/di4_第.html",
+      "pages/characters/ge1_哥.html"
     ],
     "hasPage": false
   },
@@ -7728,6 +7781,17 @@
     ],
     "hasPage": false
   },
+  "公鸡": {
+    "cn": "公鸡",
+    "py": "gōngjī",
+    "en": "rooster",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/gong1_公.html",
+      "pages/characters/ji1_鸡.html"
+    ],
+    "hasPage": false
+  },
   "公里": {
     "cn": "公里",
     "py": "gōnglǐ",
@@ -8179,6 +8243,17 @@
     ],
     "hasPage": false
   },
+  "鸡肉": {
+    "cn": "鸡肉",
+    "py": "jīròu",
+    "en": "chicken meat",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/ji1_鸡.html",
+      "pages/characters/rou4_肉.html"
+    ],
+    "hasPage": false
+  },
   "基础": {
     "cn": "基础",
     "py": "jīchǔ",
@@ -8267,6 +8342,17 @@
     ],
     "hasPage": false
   },
+  "健康": {
+    "cn": "健康",
+    "py": "jiànkāng",
+    "en": "health, healthy",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/bing4_病.html",
+      "pages/characters/ti3_体.html"
+    ],
+    "hasPage": false
+  },
   "江湖": {
     "cn": "江湖",
     "py": "jiānghú",
@@ -8352,6 +8438,17 @@
     "appearsOn": [
       "pages/characters/jie2_结.html",
       "pages/characters/lun4_论.html"
+    ],
+    "hasPage": false
+  },
+  "姐姐": {
+    "cn": "姐姐",
+    "py": "jiějie",
+    "en": "elder sister",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/ge1_哥.html",
+      "pages/characters/nu3_女.html"
     ],
     "hasPage": false
   },
@@ -8707,6 +8804,17 @@
     ],
     "hasPage": false
   },
+  "冷": {
+    "cn": "冷",
+    "py": "lěng",
+    "en": "cold",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/re4_热.html",
+      "pages/characters/xue3_雪.html"
+    ],
+    "hasPage": false
+  },
   "里面": {
     "cn": "里面",
     "py": "lǐmiàn",
@@ -8960,6 +9068,17 @@
     ],
     "hasPage": true
   },
+  "马虎": {
+    "cn": "马虎",
+    "py": "mǎhu",
+    "en": "careless",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/ma3_马.html",
+      "pages/vocab/renzhen_认真.html"
+    ],
+    "hasPage": false
+  },
   "吗": {
     "cn": "吗",
     "py": "ma",
@@ -9012,6 +9131,17 @@
     "appearsOn": [
       "pages/characters/fei1_非.html",
       "pages/grammar/guo_过.html"
+    ],
+    "hasPage": false
+  },
+  "妹妹": {
+    "cn": "妹妹",
+    "py": "mèimei",
+    "en": "younger sister",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/ge1_哥.html",
+      "pages/characters/nu3_女.html"
     ],
     "hasPage": false
   },
@@ -9103,6 +9233,17 @@
     ],
     "hasPage": true
   },
+  "母": {
+    "cn": "母",
+    "py": "mǔ",
+    "en": "female; mother",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/gong1_公.html",
+      "pages/characters/ji1_鸡.html"
+    ],
+    "hasPage": false
+  },
   "木": {
     "cn": "木",
     "py": "mù",
@@ -9135,6 +9276,17 @@
       "pages/grammar/zhi_之.html"
     ],
     "hasPage": true
+  },
+  "男朋友": {
+    "cn": "男朋友",
+    "py": "nán péngyou",
+    "en": "boyfriend",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/peng2_朋.html",
+      "pages/vocab/pengyou_朋友.html"
+    ],
+    "hasPage": false
   },
   "脑": {
     "cn": "脑",
@@ -9180,6 +9332,17 @@
     ],
     "hasPage": false
   },
+  "牛角": {
+    "cn": "牛角",
+    "py": "niújiǎo",
+    "en": "cow horn",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/jiao3_角.html",
+      "pages/characters/niu2_牛.html"
+    ],
+    "hasPage": false
+  },
   "女": {
     "cn": "女",
     "py": "nǚ",
@@ -9212,17 +9375,6 @@
       "pages/vocab/xiwang_希望.html"
     ],
     "hasPage": false
-  },
-  "朋友": {
-    "cn": "朋友",
-    "py": "péngyou",
-    "en": "friend",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/ren2_人.html",
-      "pages/vocab/guanxi_关系.html"
-    ],
-    "hasPage": true
   },
   "偏旁": {
     "cn": "偏旁",
@@ -10434,6 +10586,17 @@
     ],
     "hasPage": true
   },
+  "图书馆": {
+    "cn": "图书馆",
+    "py": "túshūguǎn",
+    "en": "library",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/guan3_馆.html",
+      "pages/characters/shu1_书.html"
+    ],
+    "hasPage": false
+  },
   "土地": {
     "cn": "土地",
     "py": "tǔdì",
@@ -10973,6 +11136,17 @@
     ],
     "hasPage": false
   },
+  "兄弟": {
+    "cn": "兄弟",
+    "py": "xiōngdì",
+    "en": "brothers; sworn brother",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/ge1_哥.html",
+      "pages/characters/jia1_家.html"
+    ],
+    "hasPage": false
+  },
   "匈奴": {
     "cn": "匈奴",
     "py": "Xiōngnú",
@@ -11027,6 +11201,17 @@
       "pages/characters/yu3_雨.html"
     ],
     "hasPage": true
+  },
+  "血": {
+    "cn": "血",
+    "py": "xuè",
+    "en": "blood",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/qi4_气.html",
+      "pages/characters/rou4_肉.html"
+    ],
+    "hasPage": false
   },
   "询问": {
     "cn": "询问",
@@ -12274,6 +12459,16 @@
     ],
     "hasPage": false
   },
+  "斑马": {
+    "cn": "斑马",
+    "py": "bānmǎ",
+    "en": "zebra",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ma3_马.html"
+    ],
+    "hasPage": false
+  },
   "搬": {
     "cn": "搬",
     "py": "bān",
@@ -12784,6 +12979,16 @@
     ],
     "hasPage": false
   },
+  "宾馆": {
+    "cn": "宾馆",
+    "py": "bīnguǎn",
+    "en": "hotel, guesthouse",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/guan3_馆.html"
+    ],
+    "hasPage": false
+  },
   "彬彬有礼": {
     "cn": "彬彬有礼",
     "py": "bīn bīn yǒu lǐ",
@@ -12804,15 +13009,15 @@
     ],
     "hasPage": false
   },
-  "兵马俑": {
-    "cn": "兵马俑",
-    "py": "bīngmǎyǒng",
-    "en": "the terracotta army",
+  "病假": {
+    "cn": "病假",
+    "py": "bìngjià",
+    "en": "sick leave",
     "count": 1,
     "appearsOn": [
-      "pages/history/topic_qinchao.html"
+      "pages/characters/bing4_病.html"
     ],
-    "hasPage": true
+    "hasPage": false
   },
   "伯牙": {
     "cn": "伯牙",
@@ -12831,6 +13036,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/ai4_爱.html"
+    ],
+    "hasPage": false
+  },
+  "博物馆": {
+    "cn": "博物馆",
+    "py": "bówùguǎn",
+    "en": "museum",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/guan3_馆.html"
     ],
     "hasPage": false
   },
@@ -13254,6 +13469,16 @@
     ],
     "hasPage": false
   },
+  "茶馆": {
+    "cn": "茶馆",
+    "py": "cháguǎn",
+    "en": "teahouse",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/guan3_馆.html"
+    ],
+    "hasPage": false
+  },
   "常": {
     "cn": "常",
     "py": "cháng",
@@ -13271,6 +13496,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/chang2_常.html"
+    ],
+    "hasPage": false
+  },
+  "场": {
+    "cn": "场",
+    "py": "chǎng",
+    "en": "open ground, venue",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/guan3_馆.html"
     ],
     "hasPage": false
   },
@@ -13351,6 +13586,26 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/chao2_朝.html"
+    ],
+    "hasPage": false
+  },
+  "嘲笑": {
+    "cn": "嘲笑",
+    "py": "cháoxiào",
+    "en": "to mock; to ridicule",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/xiao4_笑.html"
+    ],
+    "hasPage": false
+  },
+  "车站": {
+    "cn": "车站",
+    "py": "chēzhàn",
+    "en": "station",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/zhan4_站.html"
     ],
     "hasPage": false
   },
@@ -14234,6 +14489,16 @@
     ],
     "hasPage": false
   },
+  "大使馆": {
+    "cn": "大使馆",
+    "py": "dàshǐguǎn",
+    "en": "embassy",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/guan3_馆.html"
+    ],
+    "hasPage": false
+  },
   "大势至": {
     "cn": "大势至",
     "py": "Dàshìzhì",
@@ -14251,6 +14516,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/xiao3_小.html"
+    ],
+    "hasPage": false
+  },
+  "大笑": {
+    "cn": "大笑",
+    "py": "dàxiào",
+    "en": "to laugh loudly",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/xiao4_笑.html"
     ],
     "hasPage": false
   },
@@ -14411,6 +14686,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/xing4_性.html"
+    ],
+    "hasPage": false
+  },
+  "蛋": {
+    "cn": "蛋",
+    "py": "dàn",
+    "en": "egg",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ji1_鸡.html"
     ],
     "hasPage": false
   },
@@ -14764,13 +15049,13 @@
     ],
     "hasPage": false
   },
-  "弟弟": {
-    "cn": "弟弟",
-    "py": "dìdi",
-    "en": "younger brother",
+  "敌人": {
+    "cn": "敌人",
+    "py": "dírén",
+    "en": "enemy",
     "count": 1,
     "appearsOn": [
-      "pages/characters/di4_第.html"
+      "pages/characters/peng2_朋.html"
     ],
     "hasPage": false
   },
@@ -14891,6 +15176,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/dian3_点.html"
+    ],
+    "hasPage": false
+  },
+  "店": {
+    "cn": "店",
+    "py": "diàn",
+    "en": "shop, store",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/guan3_馆.html"
     ],
     "hasPage": false
   },
@@ -15184,6 +15479,16 @@
     ],
     "hasPage": false
   },
+  "逗": {
+    "cn": "逗",
+    "py": "dòu",
+    "en": "to tease; to amuse",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/xiao4_笑.html"
+    ],
+    "hasPage": false
+  },
   "独立思考": {
     "cn": "独立思考",
     "py": "dúlì sīkǎo",
@@ -15344,6 +15649,16 @@
     ],
     "hasPage": false
   },
+  "鹅": {
+    "cn": "鹅",
+    "py": "é",
+    "en": "goose",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ji1_鸡.html"
+    ],
+    "hasPage": false
+  },
   "恶": {
     "cn": "恶",
     "py": "è",
@@ -15458,16 +15773,6 @@
     "cn": "发明",
     "py": "fāmíng",
     "en": "to invent",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/fa1_发.html"
-    ],
-    "hasPage": false
-  },
-  "发烧": {
-    "cn": "发烧",
-    "py": "fāshāo",
-    "en": "to run a fever",
     "count": 1,
     "appearsOn": [
       "pages/characters/fa1_发.html"
@@ -15621,6 +15926,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/hei1_黑.html"
+    ],
+    "hasPage": false
+  },
+  "饭馆": {
+    "cn": "饭馆",
+    "py": "fànguǎn",
+    "en": "restaurant, eatery",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/guan3_馆.html"
     ],
     "hasPage": false
   },
@@ -16184,6 +16499,16 @@
     ],
     "hasPage": false
   },
+  "搞笑": {
+    "cn": "搞笑",
+    "py": "gǎoxiào",
+    "en": "funny; hilarious",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/xiao4_笑.html"
+    ],
+    "hasPage": false
+  },
   "告诉": {
     "cn": "告诉",
     "py": "gàosu",
@@ -16191,6 +16516,26 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/shuo1_说.html"
+    ],
+    "hasPage": false
+  },
+  "哥儿俩": {
+    "cn": "哥儿俩",
+    "py": "gērliǎ",
+    "en": "the two brothers; the pair of bros",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ge1_哥.html"
+    ],
+    "hasPage": false
+  },
+  "歌": {
+    "cn": "歌",
+    "py": "gē",
+    "en": "song, to sing",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ge1_哥.html"
     ],
     "hasPage": false
   },
@@ -16354,20 +16699,20 @@
     ],
     "hasPage": false
   },
+  "公": {
+    "cn": "公",
+    "py": "gōng",
+    "en": "male (of animals)",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ji1_鸡.html"
+    ],
+    "hasPage": true
+  },
   "公共": {
     "cn": "公共",
     "py": "gōnggòng",
     "en": "public",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/gong1_公.html"
-    ],
-    "hasPage": false
-  },
-  "公鸡": {
-    "cn": "公鸡",
-    "py": "gōngjī",
-    "en": "rooster",
     "count": 1,
     "appearsOn": [
       "pages/characters/gong1_公.html"
@@ -16391,6 +16736,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/lu4_路.html"
+    ],
+    "hasPage": false
+  },
+  "公牛": {
+    "cn": "公牛",
+    "py": "gōngniú",
+    "en": "bull",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/niu2_牛.html"
     ],
     "hasPage": false
   },
@@ -16654,6 +17009,16 @@
     ],
     "hasPage": false
   },
+  "骨": {
+    "cn": "骨",
+    "py": "gǔ",
+    "en": "bone",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/rou4_肉.html"
+    ],
+    "hasPage": false
+  },
   "骨力": {
     "cn": "骨力",
     "py": "gǔlì",
@@ -16854,6 +17219,16 @@
     ],
     "hasPage": false
   },
+  "官": {
+    "cn": "官",
+    "py": "guān",
+    "en": "official, office",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/guan3_馆.html"
+    ],
+    "hasPage": false
+  },
   "官逼民反": {
     "cn": "官逼民反",
     "py": "guān bī mín fǎn",
@@ -17004,6 +17379,16 @@
     ],
     "hasPage": false
   },
+  "果肉": {
+    "cn": "果肉",
+    "py": "guǒròu",
+    "en": "fruit pulp",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/rou4_肉.html"
+    ],
+    "hasPage": false
+  },
   "过分": {
     "cn": "过分",
     "py": "guòfèn",
@@ -17031,6 +17416,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/si3_死.html"
+    ],
+    "hasPage": false
+  },
+  "咳嗽": {
+    "cn": "咳嗽",
+    "py": "késou",
+    "en": "to cough",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/bing4_病.html"
     ],
     "hasPage": false
   },
@@ -17184,6 +17579,16 @@
     ],
     "hasPage": false
   },
+  "喊": {
+    "cn": "喊",
+    "py": "hǎn",
+    "en": "to shout",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/he1_喝.html"
+    ],
+    "hasPage": false
+  },
   "汉语学习路": {
     "cn": "汉语学习路",
     "py": "hànyǔ xuéxí lù",
@@ -17244,6 +17649,16 @@
     ],
     "hasPage": false
   },
+  "好喝": {
+    "cn": "好喝",
+    "py": "hǎo hē",
+    "en": "tasty to drink",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/he1_喝.html"
+    ],
+    "hasPage": false
+  },
   "好朋友": {
     "cn": "好朋友",
     "py": "hǎo péngyou",
@@ -17301,6 +17716,56 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/kou3_口.html"
+    ],
+    "hasPage": true
+  },
+  "喝茶": {
+    "cn": "喝茶",
+    "py": "hē chá",
+    "en": "to drink tea",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/he1_喝.html"
+    ],
+    "hasPage": false
+  },
+  "喝酒": {
+    "cn": "喝酒",
+    "py": "hē jiǔ",
+    "en": "to drink alcohol",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/he1_喝.html"
+    ],
+    "hasPage": false
+  },
+  "喝水": {
+    "cn": "喝水",
+    "py": "hē shuǐ",
+    "en": "to drink water",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/he1_喝.html"
+    ],
+    "hasPage": false
+  },
+  "喝汤": {
+    "cn": "喝汤",
+    "py": "hē tāng",
+    "en": "to drink soup",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/he1_喝.html"
+    ],
+    "hasPage": false
+  },
+  "喝醉": {
+    "cn": "喝醉",
+    "py": "hē zuì",
+    "en": "to get drunk",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/he1_喝.html"
     ],
     "hasPage": false
   },
@@ -18014,6 +18479,16 @@
     ],
     "hasPage": false
   },
+  "伙伴": {
+    "cn": "伙伴",
+    "py": "huǒbàn",
+    "en": "partner; companion",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/peng2_朋.html"
+    ],
+    "hasPage": false
+  },
   "或许": {
     "cn": "或许",
     "py": "huòxǔ",
@@ -18051,6 +18526,26 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/yuanfen_缘分.html"
+    ],
+    "hasPage": false
+  },
+  "肌肉": {
+    "cn": "肌肉",
+    "py": "jīròu",
+    "en": "muscle",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/rou4_肉.html"
+    ],
+    "hasPage": false
+  },
+  "鸡蛋": {
+    "cn": "鸡蛋",
+    "py": "jīdàn",
+    "en": "(chicken) egg",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ji1_鸡.html"
     ],
     "hasPage": false
   },
@@ -18131,6 +18626,26 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/man4_慢.html"
+    ],
+    "hasPage": false
+  },
+  "疾": {
+    "cn": "疾",
+    "py": "jí",
+    "en": "ailment, swift",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/bing4_病.html"
+    ],
+    "hasPage": false
+  },
+  "疾病": {
+    "cn": "疾病",
+    "py": "jíbìng",
+    "en": "disease",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/bing4_病.html"
     ],
     "hasPage": false
   },
@@ -18311,6 +18826,16 @@
     "count": 1,
     "appearsOn": [
       "pages/grammar/erqie_而且.html"
+    ],
+    "hasPage": false
+  },
+  "加油站": {
+    "cn": "加油站",
+    "py": "jiāyóuzhàn",
+    "en": "petrol station",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/zhan4_站.html"
     ],
     "hasPage": false
   },
@@ -18511,16 +19036,6 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/keqi_客气.html"
-    ],
-    "hasPage": false
-  },
-  "健康": {
-    "cn": "健康",
-    "py": "jiànkāng",
-    "en": "health; healthy",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/ti3_体.html"
     ],
     "hasPage": false
   },
@@ -18891,16 +19406,6 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/jie2_结.html"
-    ],
-    "hasPage": false
-  },
-  "姐姐": {
-    "cn": "姐姐",
-    "py": "jiějie",
-    "en": "older sister",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/nu3_女.html"
     ],
     "hasPage": false
   },
@@ -19764,6 +20269,26 @@
     ],
     "hasPage": false
   },
+  "可笑": {
+    "cn": "可笑",
+    "py": "kěxiào",
+    "en": "laughable; ridiculous",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/xiao4_笑.html"
+    ],
+    "hasPage": false
+  },
+  "渴": {
+    "cn": "渴",
+    "py": "kě",
+    "en": "thirsty",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/he1_喝.html"
+    ],
+    "hasPage": false
+  },
   "克己": {
     "cn": "克己",
     "py": "kèjǐ",
@@ -19864,6 +20389,16 @@
     ],
     "hasPage": false
   },
+  "口渴": {
+    "cn": "口渴",
+    "py": "kǒu kě",
+    "en": "thirsty (mouth dry)",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/he1_喝.html"
+    ],
+    "hasPage": false
+  },
   "口音": {
     "cn": "口音",
     "py": "kǒuyīn",
@@ -19871,6 +20406,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/yin1_音.html"
+    ],
+    "hasPage": false
+  },
+  "哭": {
+    "cn": "哭",
+    "py": "kū",
+    "en": "to cry; to weep",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/xiao4_笑.html"
     ],
     "hasPage": false
   },
@@ -20094,6 +20639,16 @@
     ],
     "hasPage": false
   },
+  "老大哥": {
+    "cn": "老大哥",
+    "py": "lǎodàgē",
+    "en": "big brother (figure or nation)",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ge1_哥.html"
+    ],
+    "hasPage": false
+  },
   "老公": {
     "cn": "老公",
     "py": "lǎogōng",
@@ -20164,13 +20719,13 @@
     ],
     "hasPage": false
   },
-  "冷": {
-    "cn": "冷",
-    "py": "lěng",
-    "en": "cold",
+  "冷门": {
+    "cn": "冷门",
+    "py": "lěngmén",
+    "en": "unpopular, obscure",
     "count": 1,
     "appearsOn": [
-      "pages/characters/xue3_雪.html"
+      "pages/characters/re4_热.html"
     ],
     "hasPage": false
   },
@@ -20364,6 +20919,16 @@
     ],
     "hasPage": false
   },
+  "立": {
+    "cn": "立",
+    "py": "lì",
+    "en": "to stand; to establish",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/zhan4_站.html"
+    ],
+    "hasPage": false
+  },
   "立刻": {
     "cn": "立刻",
     "py": "lìkè",
@@ -20501,6 +21066,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/gongfu_功夫.html"
+    ],
+    "hasPage": false
+  },
+  "良朋": {
+    "cn": "良朋",
+    "py": "liángpéng",
+    "en": "a worthy friend",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/peng2_朋.html"
     ],
     "hasPage": false
   },
@@ -20691,6 +21266,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/ling2_零.html"
+    ],
+    "hasPage": false
+  },
+  "领事馆": {
+    "cn": "领事馆",
+    "py": "lǐngshìguǎn",
+    "en": "consulate",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/guan3_馆.html"
     ],
     "hasPage": false
   },
@@ -20914,6 +21499,16 @@
     ],
     "hasPage": false
   },
+  "驴": {
+    "cn": "驴",
+    "py": "lǘ",
+    "en": "donkey",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ma3_马.html"
+    ],
+    "hasPage": false
+  },
   "旅行社": {
     "cn": "旅行社",
     "py": "lǚxíngshè",
@@ -21054,13 +21649,23 @@
     ],
     "hasPage": false
   },
-  "马虎": {
-    "cn": "马虎",
-    "py": "mǎhu",
-    "en": "careless, sloppy",
+  "马": {
+    "cn": "马",
+    "py": "mǎ",
+    "en": "horse",
     "count": 1,
     "appearsOn": [
-      "pages/vocab/renzhen_认真.html"
+      "pages/characters/niu2_牛.html"
+    ],
+    "hasPage": true
+  },
+  "马车": {
+    "cn": "马车",
+    "py": "mǎchē",
+    "en": "horse cart",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ma3_马.html"
     ],
     "hasPage": false
   },
@@ -21081,6 +21686,36 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/pao3_跑.html"
+    ],
+    "hasPage": false
+  },
+  "马路": {
+    "cn": "马路",
+    "py": "mǎlù",
+    "en": "road, street",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ma3_马.html"
+    ],
+    "hasPage": false
+  },
+  "马年": {
+    "cn": "马年",
+    "py": "mǎ nián",
+    "en": "Year of the Horse",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ma3_马.html"
+    ],
+    "hasPage": false
+  },
+  "马戏": {
+    "cn": "马戏",
+    "py": "mǎxì",
+    "en": "circus",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ma3_马.html"
     ],
     "hasPage": false
   },
@@ -21161,6 +21796,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/fa1_发.html"
+    ],
+    "hasPage": false
+  },
+  "毛病": {
+    "cn": "毛病",
+    "py": "máobìng",
+    "en": "defect, bad habit",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/bing4_病.html"
     ],
     "hasPage": false
   },
@@ -21261,16 +21906,6 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/hao3_好.html"
-    ],
-    "hasPage": false
-  },
-  "妹妹": {
-    "cn": "妹妹",
-    "py": "mèimei",
-    "en": "younger sister",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/nu3_女.html"
     ],
     "hasPage": false
   },
@@ -21634,13 +22269,13 @@
     ],
     "hasPage": false
   },
-  "母": {
-    "cn": "母",
-    "py": "mǔ",
-    "en": "female; mother",
+  "母鸡": {
+    "cn": "母鸡",
+    "py": "mǔjī",
+    "en": "hen",
     "count": 1,
     "appearsOn": [
-      "pages/characters/gong1_公.html"
+      "pages/characters/ji1_鸡.html"
     ],
     "hasPage": false
   },
@@ -21651,6 +22286,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/er3_耳.html"
+    ],
+    "hasPage": false
+  },
+  "木马": {
+    "cn": "木马",
+    "py": "mùmǎ",
+    "en": "wooden horse",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ma3_马.html"
     ],
     "hasPage": false
   },
@@ -21824,6 +22469,16 @@
     ],
     "hasPage": false
   },
+  "奶牛": {
+    "cn": "奶牛",
+    "py": "nǎiniú",
+    "en": "dairy cow",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/niu2_牛.html"
+    ],
+    "hasPage": false
+  },
   "耐心": {
     "cn": "耐心",
     "py": "nàixīn",
@@ -21841,16 +22496,6 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/nu3_女.html"
-    ],
-    "hasPage": false
-  },
-  "男朋友": {
-    "cn": "男朋友",
-    "py": "nán péngyou",
-    "en": "boyfriend",
-    "count": 1,
-    "appearsOn": [
-      "pages/vocab/pengyou_朋友.html"
     ],
     "hasPage": false
   },
@@ -22034,6 +22679,16 @@
     ],
     "hasPage": false
   },
+  "鸟": {
+    "cn": "鸟",
+    "py": "niǎo",
+    "en": "bird",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ji1_鸡.html"
+    ],
+    "hasPage": false
+  },
   "涅槃重生": {
     "cn": "涅槃重生",
     "py": "nièpán chóngshēng",
@@ -22074,13 +22729,63 @@
     ],
     "hasPage": false
   },
-  "牛角": {
-    "cn": "牛角",
-    "py": "niújiǎo",
-    "en": "cow horn",
+  "牛": {
+    "cn": "牛",
+    "py": "niú",
+    "en": "ox, cow",
     "count": 1,
     "appearsOn": [
-      "pages/characters/jiao3_角.html"
+      "pages/characters/ma3_马.html"
+    ],
+    "hasPage": true
+  },
+  "牛逼": {
+    "cn": "牛逼",
+    "py": "niúbī",
+    "en": "badass, awesome (vulgar)",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/niu2_牛.html"
+    ],
+    "hasPage": false
+  },
+  "牛奶": {
+    "cn": "牛奶",
+    "py": "niúnǎi",
+    "en": "cow's milk",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/niu2_牛.html"
+    ],
+    "hasPage": false
+  },
+  "牛年": {
+    "cn": "牛年",
+    "py": "niúnián",
+    "en": "Year of the Ox",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/niu2_牛.html"
+    ],
+    "hasPage": false
+  },
+  "牛肉": {
+    "cn": "牛肉",
+    "py": "niúròu",
+    "en": "beef",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/rou4_肉.html"
+    ],
+    "hasPage": false
+  },
+  "牛仔": {
+    "cn": "牛仔",
+    "py": "niúzǎi",
+    "en": "cowboy",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/niu2_牛.html"
     ],
     "hasPage": false
   },
@@ -22124,6 +22829,16 @@
     ],
     "hasPage": false
   },
+  "女朋友": {
+    "cn": "女朋友",
+    "py": "nǚ péngyou",
+    "en": "girlfriend",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/peng2_朋.html"
+    ],
+    "hasPage": false
+  },
   "女性": {
     "cn": "女性",
     "py": "nǚxìng",
@@ -22131,6 +22846,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/xing4_性.html"
+    ],
+    "hasPage": false
+  },
+  "暖": {
+    "cn": "暖",
+    "py": "nuǎn",
+    "en": "warm",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/re4_热.html"
     ],
     "hasPage": false
   },
@@ -22221,6 +22946,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/jiao3_角.html"
+    ],
+    "hasPage": false
+  },
+  "朋友圈": {
+    "cn": "朋友圈",
+    "py": "péngyouquān",
+    "en": "circle of friends; WeChat Moments",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/peng2_朋.html"
     ],
     "hasPage": false
   },
@@ -22604,6 +23339,16 @@
     ],
     "hasPage": false
   },
+  "骑马": {
+    "cn": "骑马",
+    "py": "qí mǎ",
+    "en": "to ride a horse",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ma3_马.html"
+    ],
+    "hasPage": false
+  },
   "麒麟": {
     "cn": "麒麟",
     "py": "qílín",
@@ -22934,6 +23679,16 @@
     ],
     "hasPage": false
   },
+  "亲": {
+    "cn": "亲",
+    "py": "qīn",
+    "en": "kin; close; dear",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/peng2_朋.html"
+    ],
+    "hasPage": false
+  },
   "亲近": {
     "cn": "亲近",
     "py": "qīnjìn",
@@ -22941,6 +23696,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/jin4_近.html"
+    ],
+    "hasPage": false
+  },
+  "亲朋": {
+    "cn": "亲朋",
+    "py": "qīnpéng",
+    "en": "kin and friends",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/peng2_朋.html"
     ],
     "hasPage": false
   },
@@ -23322,6 +24087,46 @@
     "appearsOn": [
       "pages/characters/huo3_火.html"
     ],
+    "hasPage": true
+  },
+  "热爱": {
+    "cn": "热爱",
+    "py": "rè'ài",
+    "en": "to love ardently",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/re4_热.html"
+    ],
+    "hasPage": false
+  },
+  "热点": {
+    "cn": "热点",
+    "py": "rèdiǎn",
+    "en": "hot spot; trending topic",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/re4_热.html"
+    ],
+    "hasPage": false
+  },
+  "热烈": {
+    "cn": "热烈",
+    "py": "rèliè",
+    "en": "fervent, intense",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/re4_热.html"
+    ],
+    "hasPage": false
+  },
+  "热心": {
+    "cn": "热心",
+    "py": "rèxīn",
+    "en": "warm-hearted",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/re4_热.html"
+    ],
     "hasPage": false
   },
   "人才": {
@@ -23581,6 +24386,36 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/wuwei_无为.html"
+    ],
+    "hasPage": false
+  },
+  "肉": {
+    "cn": "肉",
+    "py": "ròu",
+    "en": "meat",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ji1_鸡.html"
+    ],
+    "hasPage": true
+  },
+  "肉松": {
+    "cn": "肉松",
+    "py": "ròusōng",
+    "en": "meat floss",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/rou4_肉.html"
+    ],
+    "hasPage": false
+  },
+  "肉体": {
+    "cn": "肉体",
+    "py": "ròutǐ",
+    "en": "the physical body",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/rou4_肉.html"
     ],
     "hasPage": false
   },
@@ -25074,6 +25909,16 @@
     ],
     "hasPage": true
   },
+  "水牛": {
+    "cn": "水牛",
+    "py": "shuǐniú",
+    "en": "water buffalo",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/niu2_牛.html"
+    ],
+    "hasPage": false
+  },
   "水平": {
     "cn": "水平",
     "py": "shuǐpíng",
@@ -25644,6 +26489,26 @@
     ],
     "hasPage": false
   },
+  "堂哥": {
+    "cn": "堂哥",
+    "py": "tánggē",
+    "en": "older male cousin (paternal)",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ge1_哥.html"
+    ],
+    "hasPage": false
+  },
+  "烫": {
+    "cn": "烫",
+    "py": "tàng",
+    "en": "scalding",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/re4_热.html"
+    ],
+    "hasPage": false
+  },
   "逃跑": {
     "cn": "逃跑",
     "py": "táopǎo",
@@ -25811,6 +26676,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/ti3_体.html"
+    ],
+    "hasPage": false
+  },
+  "体育馆": {
+    "cn": "体育馆",
+    "py": "tǐyùguǎn",
+    "en": "gymnasium",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/guan3_馆.html"
     ],
     "hasPage": false
   },
@@ -26034,6 +26909,16 @@
     ],
     "hasPage": false
   },
+  "停": {
+    "cn": "停",
+    "py": "tíng",
+    "en": "to stop, to park",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/zhan4_站.html"
+    ],
+    "hasPage": false
+  },
   "停电": {
     "cn": "停电",
     "py": "tíngdiàn",
@@ -26094,6 +26979,16 @@
     ],
     "hasPage": false
   },
+  "同伴": {
+    "cn": "同伴",
+    "py": "tóngbàn",
+    "en": "companion; fellow",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/peng2_朋.html"
+    ],
+    "hasPage": false
+  },
   "同胞": {
     "cn": "同胞",
     "py": "tóngbāo",
@@ -26134,6 +27029,16 @@
     ],
     "hasPage": false
   },
+  "痛": {
+    "cn": "痛",
+    "py": "tòng",
+    "en": "pain, to ache",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/bing4_病.html"
+    ],
+    "hasPage": false
+  },
   "痛苦": {
     "cn": "痛苦",
     "py": "tòngkǔ",
@@ -26171,16 +27076,6 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/hua4_画.html"
-    ],
-    "hasPage": false
-  },
-  "图书馆": {
-    "cn": "图书馆",
-    "py": "túshūguǎn",
-    "en": "library",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/shu1_书.html"
     ],
     "hasPage": false
   },
@@ -26324,6 +27219,26 @@
     ],
     "hasPage": false
   },
+  "玩笑": {
+    "cn": "玩笑",
+    "py": "wánxiào",
+    "en": "a joke; banter",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/xiao4_笑.html"
+    ],
+    "hasPage": false
+  },
+  "玩笑话": {
+    "cn": "玩笑话",
+    "py": "wánxiàohuà",
+    "en": "words said in jest",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/xiao4_笑.html"
+    ],
+    "hasPage": false
+  },
   "晚": {
     "cn": "晚",
     "py": "wǎn",
@@ -26401,6 +27316,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/min2_民.html"
+    ],
+    "hasPage": false
+  },
+  "网站": {
+    "cn": "网站",
+    "py": "wǎngzhàn",
+    "en": "website",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/zhan4_站.html"
     ],
     "hasPage": false
   },
@@ -26491,6 +27416,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/xiao3_小.html"
+    ],
+    "hasPage": false
+  },
+  "微笑": {
+    "cn": "微笑",
+    "py": "wēixiào",
+    "en": "to smile; a smile",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/xiao4_笑.html"
     ],
     "hasPage": false
   },
@@ -26611,6 +27546,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/fang1_方.html"
+    ],
+    "hasPage": false
+  },
+  "温度": {
+    "cn": "温度",
+    "py": "wēndù",
+    "en": "temperature",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/re4_热.html"
     ],
     "hasPage": false
   },
@@ -26984,6 +27929,16 @@
     ],
     "hasPage": false
   },
+  "午": {
+    "cn": "午",
+    "py": "wǔ",
+    "en": "noon",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/niu2_牛.html"
+    ],
+    "hasPage": false
+  },
   "武": {
     "cn": "武",
     "py": "wǔ",
@@ -27351,6 +28306,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/shan1_山.html"
+    ],
+    "hasPage": false
+  },
+  "下蛋": {
+    "cn": "下蛋",
+    "py": "xià dàn",
+    "en": "to lay eggs",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ji1_鸡.html"
     ],
     "hasPage": false
   },
@@ -27774,6 +28739,16 @@
     ],
     "hasPage": false
   },
+  "小哥": {
+    "cn": "小哥",
+    "py": "xiǎogē",
+    "en": "young fellow (polite address)",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ge1_哥.html"
+    ],
+    "hasPage": false
+  },
   "小孩": {
     "cn": "小孩",
     "py": "xiǎohái",
@@ -27871,6 +28846,36 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/shengchan_生产.html"
+    ],
+    "hasPage": false
+  },
+  "笑话": {
+    "cn": "笑话",
+    "py": "xiàohua",
+    "en": "a joke",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/xiao4_笑.html"
+    ],
+    "hasPage": false
+  },
+  "笑脸": {
+    "cn": "笑脸",
+    "py": "xiàoliǎn",
+    "en": "a smiling face",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/xiao4_笑.html"
+    ],
+    "hasPage": false
+  },
+  "笑容": {
+    "cn": "笑容",
+    "py": "xiàoróng",
+    "en": "a smiling expression",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/xiao4_笑.html"
     ],
     "hasPage": false
   },
@@ -28174,13 +29179,13 @@
     ],
     "hasPage": false
   },
-  "兄弟": {
-    "cn": "兄弟",
-    "py": "xiōngdì",
-    "en": "brothers; male siblings",
+  "兄": {
+    "cn": "兄",
+    "py": "xiōng",
+    "en": "elder brother (literary)",
     "count": 1,
     "appearsOn": [
-      "pages/characters/jia1_家.html"
+      "pages/characters/ge1_哥.html"
     ],
     "hasPage": false
   },
@@ -28434,16 +29439,6 @@
     ],
     "hasPage": false
   },
-  "血": {
-    "cn": "血",
-    "py": "xuè",
-    "en": "blood",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/qi4_气.html"
-    ],
-    "hasPage": false
-  },
   "血脉": {
     "cn": "血脉",
     "py": "xuèmài",
@@ -28491,6 +29486,16 @@
     "count": 1,
     "appearsOn": [
       "pages/history/topic_taiping.html"
+    ],
+    "hasPage": false
+  },
+  "鸭": {
+    "cn": "鸭",
+    "py": "yā",
+    "en": "duck",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ji1_鸡.html"
     ],
     "hasPage": false
   },
@@ -28664,6 +29669,26 @@
     ],
     "hasPage": false
   },
+  "羊": {
+    "cn": "羊",
+    "py": "yáng",
+    "en": "sheep, goat",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/niu2_牛.html"
+    ],
+    "hasPage": false
+  },
+  "羊肉": {
+    "cn": "羊肉",
+    "py": "yángròu",
+    "en": "mutton, lamb",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/rou4_肉.html"
+    ],
+    "hasPage": false
+  },
   "阳光": {
     "cn": "阳光",
     "py": "yángguāng",
@@ -28771,6 +29796,16 @@
     "count": 1,
     "appearsOn": [
       "pages/chengyu/sanyicheng_三人成虎.html"
+    ],
+    "hasPage": false
+  },
+  "药": {
+    "cn": "药",
+    "py": "yào",
+    "en": "medicine",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/bing4_病.html"
     ],
     "hasPage": false
   },
@@ -29011,6 +30046,26 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/jian4_件.html"
+    ],
+    "hasPage": false
+  },
+  "医生": {
+    "cn": "医生",
+    "py": "yīshēng",
+    "en": "doctor",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/bing4_病.html"
+    ],
+    "hasPage": false
+  },
+  "医院": {
+    "cn": "医院",
+    "py": "yīyuàn",
+    "en": "hospital",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/bing4_病.html"
     ],
     "hasPage": false
   },
@@ -29324,6 +30379,26 @@
     ],
     "hasPage": false
   },
+  "饮": {
+    "cn": "饮",
+    "py": "yǐn",
+    "en": "to drink (literary)",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/he1_喝.html"
+    ],
+    "hasPage": false
+  },
+  "饮料": {
+    "cn": "饮料",
+    "py": "yǐnliào",
+    "en": "beverage",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/he1_喝.html"
+    ],
+    "hasPage": false
+  },
   "饮食": {
     "cn": "饮食",
     "py": "yǐnshí",
@@ -29511,6 +30586,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/jian4_件.html"
+    ],
+    "hasPage": false
+  },
+  "友": {
+    "cn": "友",
+    "py": "yǒu",
+    "en": "friend; friendly",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/peng2_朋.html"
     ],
     "hasPage": false
   },
@@ -30034,6 +31119,16 @@
     ],
     "hasPage": false
   },
+  "院": {
+    "cn": "院",
+    "py": "yuàn",
+    "en": "courtyard, institution",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/guan3_馆.html"
+    ],
+    "hasPage": false
+  },
   "曰": {
     "cn": "曰",
     "py": "yuē",
@@ -30411,6 +31506,46 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/jiao3_脚.html"
+    ],
+    "hasPage": true
+  },
+  "站岗": {
+    "cn": "站岗",
+    "py": "zhàngǎng",
+    "en": "to stand guard",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/zhan4_站.html"
+    ],
+    "hasPage": false
+  },
+  "站立": {
+    "cn": "站立",
+    "py": "zhànlì",
+    "en": "to stand erect",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/zhan4_站.html"
+    ],
+    "hasPage": false
+  },
+  "站台": {
+    "cn": "站台",
+    "py": "zhàntái",
+    "en": "platform",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/zhan4_站.html"
+    ],
+    "hasPage": false
+  },
+  "站长": {
+    "cn": "站长",
+    "py": "zhànzhǎng",
+    "en": "webmaster; stationmaster",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/zhan4_站.html"
     ],
     "hasPage": false
   },
@@ -30954,6 +32089,16 @@
     ],
     "hasPage": false
   },
+  "治疗": {
+    "cn": "治疗",
+    "py": "zhìliáo",
+    "en": "to treat, therapy",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/bing4_病.html"
+    ],
+    "hasPage": false
+  },
   "质量": {
     "cn": "质量",
     "py": "zhìliàng",
@@ -31041,6 +32186,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/zhong1_中.html"
+    ],
+    "hasPage": false
+  },
+  "终点站": {
+    "cn": "终点站",
+    "py": "zhōngdiǎnzhàn",
+    "en": "terminus",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/zhan4_站.html"
     ],
     "hasPage": false
   },
@@ -31221,6 +32376,16 @@
     "count": 1,
     "appearsOn": [
       "pages/philosophy/topic_mojia.html"
+    ],
+    "hasPage": false
+  },
+  "猪肉": {
+    "cn": "猪肉",
+    "py": "zhūròu",
+    "en": "pork",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/rou4_肉.html"
     ],
     "hasPage": false
   },
@@ -31821,6 +32986,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/zuo4_作.html"
+    ],
+    "hasPage": false
+  },
+  "坐": {
+    "cn": "坐",
+    "py": "zuò",
+    "en": "to sit",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/zhan4_站.html"
     ],
     "hasPage": false
   },

@@ -1,5 +1,240 @@
 [
   {
+    "path": "pages/characters/bing4_病.html",
+    "type": "character",
+    "category": "characters",
+    "title": "病 · illness, disease, to fall ill, fault",
+    "desc": "A person sweating on a sickbed with the phonetic 丙 inside: the radical 疒 frames every Chinese word for being unwell.",
+    "tags": [
+      "health",
+      "body",
+      "tcm",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "病",
+    "pinyin": "bìng",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "疒",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/ge1_哥.html",
+    "type": "character",
+    "category": "characters",
+    "title": "哥 · elder brother, a familiar term for an older young man",
+    "desc": "Two 可 stacked into one glyph; the doubled phonetic came to carry the warmest word in the family, elder brother.",
+    "tags": [
+      "family",
+      "social",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "哥",
+    "pinyin": "gē",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "口",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/guan3_馆.html",
+    "type": "character",
+    "category": "characters",
+    "title": "馆 · a public building, hall, shop, establishment",
+    "desc": "A food-radical building: the eating-house that grew into the library, the museum, and the embassy.",
+    "tags": [
+      "food",
+      "society",
+      "daily-life",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "馆",
+    "pinyin": "guǎn",
+    "tone": 3,
+    "hsk": 1,
+    "radical": "饣",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/he1_喝.html",
+    "type": "character",
+    "category": "characters",
+    "title": "喝 · to drink; (hè) to shout, to cry out",
+    "desc": "A mouth radical paired with the phonetic 曷, splitting cleanly into the everyday hē you drink with and the older hè you shout with.",
+    "tags": [
+      "drink",
+      "daily-life",
+      "food",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "喝",
+    "pinyin": "hē",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "口",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/ji1_鸡.html",
+    "type": "character",
+    "category": "characters",
+    "title": "鸡 · chicken, fowl, rooster",
+    "desc": "The simplified 鸡 swaps a chicken-coop hand 又 in where the traditional 雞 kept the sound-bearer 奚 beside the bird.",
+    "tags": [
+      "nature",
+      "food",
+      "daily-life",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "鸡",
+    "pinyin": "jī",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "鸟",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/ma3_马.html",
+    "type": "character",
+    "category": "characters",
+    "title": "马 · horse, a common surname",
+    "desc": "A three-stroke pictograph of a horse in profile that hides the mane, legs, and tail of its towering ancestor 馬.",
+    "tags": [
+      "nature",
+      "daily-life",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "马",
+    "pinyin": "mǎ",
+    "tone": 3,
+    "hsk": 1,
+    "radical": "马",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/niu2_牛.html",
+    "type": "character",
+    "category": "characters",
+    "title": "牛 · ox, cow, cattle; (slang) awesome",
+    "desc": "A four-stroke pictograph of an ox head seen straight on, the horns still visible; in modern slang it means impressively good.",
+    "tags": [
+      "nature",
+      "food",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "牛",
+    "pinyin": "niú",
+    "tone": 2,
+    "hsk": 1,
+    "radical": "牛",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/peng2_朋.html",
+    "type": "character",
+    "category": "characters",
+    "title": "朋 · friend, companion; of the same group",
+    "desc": "Two strings of cowrie shells hung side by side, an old unit of value, borrowed early for companions of equal standing who keep close company.",
+    "tags": [
+      "social",
+      "humanity",
+      "connections",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "朋",
+    "pinyin": "péng",
+    "tone": 2,
+    "hsk": 1,
+    "radical": "月",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/re4_热.html",
+    "type": "character",
+    "category": "characters",
+    "title": "热 · hot, heat, fever, ardent, popular",
+    "desc": "The four dots of flame beneath 执 carry physical heat into the heat of crowds, fervor, and whatever is trending.",
+    "tags": [
+      "nature",
+      "daily-life",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "热",
+    "pinyin": "rè",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "灬",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/rou4_肉.html",
+    "type": "character",
+    "category": "characters",
+    "title": "肉 · meat, flesh, the pulp of fruit",
+    "desc": "A pictograph of a meat slab with its marbling drawn inside; squeezed onto the left of a character it becomes 月, the flesh-moon of the body radicals.",
+    "tags": [
+      "food",
+      "body",
+      "daily-life",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "肉",
+    "pinyin": "ròu",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "肉",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/xiao4_笑.html",
+    "type": "character",
+    "category": "characters",
+    "title": "笑 · to laugh, to smile, to mock",
+    "desc": "Bamboo over a bending person: a form that has split scholars since the Song over whether laughter or rustling reeds came first.",
+    "tags": [
+      "emotion",
+      "communication",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "笑",
+    "pinyin": "xiào",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "⺮",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/zhan4_站.html",
+    "type": "character",
+    "category": "characters",
+    "title": "站 · to stand, to halt, a station, a stop",
+    "desc": "A person planted upright on the ground, holding their place: from the body that will not move grows the station, the stop, and the website you log on to.",
+    "tags": [
+      "motion",
+      "body",
+      "daily-life",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "站",
+    "pinyin": "zhàn",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "立",
+    "updated": "2026-06-28"
+  },
+  {
     "path": "pages/characters/bi3_笔.html",
     "type": "character",
     "category": "characters",
@@ -157,246 +392,6 @@
     "tone": 1,
     "hsk": 2,
     "radical": "⺌",
-    "updated": "2026-06-21"
-  },
-  {
-    "path": "pages/characters/diao4_调.html",
-    "type": "character",
-    "category": "characters",
-    "title": "调 · (diào) to transfer, tune, accent; (tiáo) to adjust, to blend, to mediate",
-    "desc": "A high-frequency polyphone with two readings. As diào it means to transfer, a melody or key, a tone, an accent; as tiáo it means to adjust, to blend, to mediate. The reading tells you whether 调 is moving things or harmonizing them.",
-    "tags": [
-      "music",
-      "communication",
-      "change",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "调",
-    "pinyin": "diào",
-    "tone": 4,
-    "hsk": 3,
-    "radical": "讠",
-    "updated": "2026-06-21"
-  },
-  {
-    "path": "pages/characters/ding4_定.html",
-    "type": "character",
-    "category": "characters",
-    "title": "定 · to fix, settle, decide, surely",
-    "desc": "A settling element coming to rest under a roof. From that image of a thing made still and fixed in place grows the whole field of 定: to decide, to set, the fixed and stable, the certain and sure.",
-    "tags": [
-      "meaning",
-      "timing",
-      "evaluation",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "定",
-    "pinyin": "dìng",
-    "tone": 4,
-    "hsk": 2,
-    "radical": "宀",
-    "updated": "2026-06-21"
-  },
-  {
-    "path": "pages/characters/er2_而.html",
-    "type": "character",
-    "category": "characters",
-    "title": "而 · and, but, yet (a classical connective)",
-    "desc": "A pictograph of a beard, borrowed early as one of the busiest function words in literary Chinese. 而 links clause to clause as and, but, or yet, ties manner to verb, and frames set phrases like 而且 and 而已.",
-    "tags": [
-      "conjunction",
-      "cohesion",
-      "classical",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "而",
-    "pinyin": "ér",
-    "tone": 2,
-    "hsk": 2,
-    "radical": "而",
-    "updated": "2026-06-21"
-  },
-  {
-    "path": "pages/characters/fa1_发.html",
-    "type": "character",
-    "category": "characters",
-    "title": "发 · to send out, to develop, hair",
-    "desc": "One simplified glyph that swallowed two traditional characters. 发 carries the fa reading of sending, emitting, and developing (traditional 發) and the fa reading of hair on the head (traditional 髮).",
-    "tags": [
-      "meaning",
-      "change",
-      "body",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "发",
-    "pinyin": "fā",
-    "tone": 1,
-    "hsk": 2,
-    "radical": "又",
-    "updated": "2026-06-21"
-  },
-  {
-    "path": "pages/characters/fu1_夫.html",
-    "type": "character",
-    "category": "characters",
-    "title": "夫 · husband, a grown man, laborer; the literary particle fú",
-    "desc": "A grown man pictured with a hairpin marking adulthood: the husband and the married couple (丈夫 夫妻 夫人 夫妇), the adult man and laborer (农夫 渔夫 大夫), skill and effort (功夫 工夫), and the classical literary particle 夫 fú that opens a sentence.",
-    "tags": [
-      "family",
-      "society",
-      "humanity",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "夫",
-    "pinyin": "fū",
-    "tone": 1,
-    "hsk": 3,
-    "radical": "大",
-    "updated": "2026-06-21"
-  },
-  {
-    "path": "pages/characters/gong1_公.html",
-    "type": "character",
-    "category": "characters",
-    "title": "公 · public, fair, common, a duke, male",
-    "desc": "A line dividing away the private self. From that image grow everything held in common, every fair dealing, the metric measures, and the elder male: public, impartial, official, and a duke.",
-    "tags": [
-      "society",
-      "ethics",
-      "meaning",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "公",
-    "pinyin": "gōng",
-    "tone": 1,
-    "hsk": 2,
-    "radical": "八",
-    "updated": "2026-06-21"
-  },
-  {
-    "path": "pages/characters/gong1_功.html",
-    "type": "character",
-    "category": "characters",
-    "title": "功 · merit, achievement, skill, effort",
-    "desc": "Merit earned through effort: from meritorious service and success to the patient skill the Chinese call gongfu, and even work in physics.",
-    "tags": [
-      "mastery",
-      "ability",
-      "evaluation",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "功",
-    "pinyin": "gōng",
-    "tone": 1,
-    "hsk": 3,
-    "radical": "力",
-    "updated": "2026-06-21"
-  },
-  {
-    "path": "pages/characters/gu3_古.html",
-    "type": "character",
-    "category": "characters",
-    "title": "古 · ancient, old, classical",
-    "desc": "The mouth radical holding what ten generations have spoken down the years: 古 is what is old because it has been handed on. From that single image grow the senses of antiquity (古代 古老 远古), the classical and the antique (古典 古文 古董 古迹 考古), and the quaint or unconventional (古怪 古板).",
-    "tags": [
-      "ancient",
-      "history",
-      "classics",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "古",
-    "pinyin": "gǔ",
-    "tone": 3,
-    "hsk": 3,
-    "radical": "口",
-    "updated": "2026-06-21"
-  },
-  {
-    "path": "pages/characters/gu4_故.html",
-    "type": "character",
-    "category": "characters",
-    "title": "故 · reason; old; deliberately; therefore",
-    "desc": "故 binds five senses into one glyph: cause, the old and former, deliberateness, the literary \"hence,\" and the deceased. The thread is a settled cause behind what is done or what has passed.",
-    "tags": [
-      "meaning",
-      "history",
-      "memory",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "故",
-    "pinyin": "gù",
-    "tone": 4,
-    "hsk": 2,
-    "radical": "攵",
-    "updated": "2026-06-21"
-  },
-  {
-    "path": "pages/characters/guan1_观.html",
-    "type": "character",
-    "category": "characters",
-    "title": "观 · to observe, view, outlook, Daoist temple",
-    "desc": "The eye that looks and the mind that judges. From watching a thing closely grow two families of meaning: to observe and to view, and the settled outlook through which a person sees the world. A second reading, guàn, names the Daoist temple.",
-    "tags": [
-      "perception",
-      "philosophy",
-      "meaning",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "观",
-    "pinyin": "guān",
-    "tone": 1,
-    "hsk": 2,
-    "radical": "见",
-    "updated": "2026-06-21"
-  },
-  {
-    "path": "pages/characters/hai3_海.html",
-    "type": "character",
-    "category": "characters",
-    "title": "海 · sea, ocean, a vast quantity",
-    "desc": "Water plus the phonetic 每: the sea, the ocean, and by extension any vastness. From 大海 and 海洋 to the coastal city 上海, the navy 海军, and the crowd that becomes a 人海.",
-    "tags": [
-      "nature",
-      "geography",
-      "meaning",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "海",
-    "pinyin": "hǎi",
-    "tone": 3,
-    "hsk": 2,
-    "radical": "氵",
-    "updated": "2026-06-21"
-  },
-  {
-    "path": "pages/characters/he2_合.html",
-    "type": "character",
-    "category": "characters",
-    "title": "合 · to join, combine, suit, close",
-    "desc": "A lid closing down over the mouth of a vessel. From that image of two parts meeting and fitting grows the whole field of joining, suiting, closing, and adding up into a whole.",
-    "tags": [
-      "connections",
-      "society",
-      "meaning",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "合",
-    "pinyin": "hé",
-    "tone": 2,
-    "hsk": 2,
-    "radical": "口",
     "updated": "2026-06-21"
   }
 ]
