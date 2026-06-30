@@ -1,5 +1,44 @@
 [
   {
+    "path": "pages/characters/bao3_饱.html",
+    "type": "character",
+    "category": "characters",
+    "title": "饱 · full, satisfied, to eat one's fill",
+    "desc": "The food radical 饣 wraps the sound of 包 (bāo), so the glyph itself is a stomach packed full like a dumpling.",
+    "tags": [
+      "food",
+      "body",
+      "daily-life",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "饱",
+    "pinyin": "bǎo",
+    "tone": 3,
+    "hsk": 2,
+    "radical": "饣",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/bao4_报.html",
+    "type": "character",
+    "category": "characters",
+    "title": "报 · to report, to announce; newspaper; to repay",
+    "desc": "A hand cuffing a kneeling criminal once meant sentencing; today the same glyph carries newspapers, reports, and the moral arithmetic of repayment.",
+    "tags": [
+      "communication",
+      "society",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "报",
+    "pinyin": "bào",
+    "tone": 4,
+    "hsk": 2,
+    "radical": "扌",
+    "updated": "2026-06-28"
+  },
+  {
     "path": "pages/characters/bing4_病.html",
     "type": "character",
     "category": "characters",
@@ -17,6 +56,25 @@
     "tone": 4,
     "hsk": 1,
     "radical": "疒",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/cao3_草.html",
+    "type": "character",
+    "category": "characters",
+    "title": "草 · grass, herb, straw; draft, rough",
+    "desc": "A field of grass under the morning sun: the grass radical over 早 zǎo (early) gives the plant its sound, and from the meadow grow the senses of herb, straw, and a hasty rough draft.",
+    "tags": [
+      "nature",
+      "daily-life",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "草",
+    "pinyin": "cǎo",
+    "tone": 3,
+    "hsk": 2,
+    "radical": "艹",
     "updated": "2026-06-28"
   },
   {
@@ -56,6 +114,25 @@
     "tone": 1,
     "hsk": 1,
     "radical": "穴",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/chuan2_船.html",
+    "type": "character",
+    "category": "characters",
+    "title": "船 · ship, boat, vessel",
+    "desc": "A pictophonetic built on 舟 (boat): the hull carries the meaning while the right side supplies the sound, covering every craft from sampan to ocean liner.",
+    "tags": [
+      "motion",
+      "daily-life",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "船",
+    "pinyin": "chuán",
+    "tone": 2,
+    "hsk": 2,
+    "radical": "舟",
     "updated": "2026-06-28"
   },
   {
@@ -119,6 +196,84 @@
     "updated": "2026-06-28"
   },
   {
+    "path": "pages/characters/deng1_灯.html",
+    "type": "character",
+    "category": "characters",
+    "title": "灯 · lamp, lantern, light",
+    "desc": "A fire radical 火 fused with the sound 丁, naming everything from oil lamps to the red light that stops traffic.",
+    "tags": [
+      "daily-life",
+      "nature",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "灯",
+    "pinyin": "dēng",
+    "tone": 1,
+    "hsk": 2,
+    "radical": "火",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/dong3_懂.html",
+    "type": "character",
+    "category": "characters",
+    "title": "懂 · to understand, to know, to grasp",
+    "desc": "A heart-radical verb where comprehension is felt, not just decoded: to truly get something is to take it in inwardly.",
+    "tags": [
+      "perception",
+      "meaning",
+      "communication",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "懂",
+    "pinyin": "dǒng",
+    "tone": 3,
+    "hsk": 2,
+    "radical": "忄",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/duan3_短.html",
+    "type": "character",
+    "category": "characters",
+    "title": "短 · short, brief; deficient, lacking",
+    "desc": "An arrow set beside a ritual bean-pot measures the short distance, so 短 builds its meaning of brevity from a comparison of two small lengths.",
+    "tags": [
+      "perception",
+      "meaning",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "短",
+    "pinyin": "duǎn",
+    "tone": 3,
+    "hsk": 2,
+    "radical": "矢",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/dui4_队.html",
+    "type": "character",
+    "category": "characters",
+    "title": "队 · team, group, band, military unit; measure word for groups",
+    "desc": "A crowd of people 人 packed against an earthen mound 阝, the image that gives 队 its sense of a formed-up team or column.",
+    "tags": [
+      "society",
+      "social",
+      "humanity",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "队",
+    "pinyin": "duì",
+    "tone": 4,
+    "hsk": 2,
+    "radical": "阝",
+    "updated": "2026-06-28"
+  },
+  {
     "path": "pages/characters/fang2_房.html",
     "type": "character",
     "category": "characters",
@@ -155,6 +310,26 @@
     "tone": 1,
     "hsk": 1,
     "radical": "飞",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/feng1_封.html",
+    "type": "character",
+    "category": "characters",
+    "title": "封 · to seal, envelope, to confer (a fief)",
+    "desc": "A handful of earth heaped over a boundary mound, sealed by hand: 封 ties envelopes, granaries, and feudal grants to the same gesture of closing something off.",
+    "tags": [
+      "communication",
+      "society",
+      "writing",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "封",
+    "pinyin": "fēng",
+    "tone": 1,
+    "hsk": 2,
+    "radical": "寸",
     "updated": "2026-06-28"
   },
   {
@@ -196,6 +371,25 @@
     "updated": "2026-06-28"
   },
   {
+    "path": "pages/characters/gai3_改.html",
+    "type": "character",
+    "category": "characters",
+    "title": "改 · to alter, to change, to correct, to reform",
+    "desc": "A hand raises a stick over a kneeling child: 改 is change enforced by correction, not drift, which is why it leans toward fixing what is wrong.",
+    "tags": [
+      "society",
+      "communication",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "改",
+    "pinyin": "gǎi",
+    "tone": 3,
+    "hsk": 2,
+    "radical": "攵",
+    "updated": "2026-06-28"
+  },
+  {
     "path": "pages/characters/ge1_哥.html",
     "type": "character",
     "category": "characters",
@@ -231,6 +425,25 @@
     "tone": 1,
     "hsk": 1,
     "radical": "欠",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/gou3_狗.html",
+    "type": "character",
+    "category": "characters",
+    "title": "狗 · dog",
+    "desc": "A pictophonetic glyph where the beast radical 犭supplies the meaning and 句 lends only the sound, naming the most domesticated of animals.",
+    "tags": [
+      "nature",
+      "daily-life",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "狗",
+    "pinyin": "gǒu",
+    "tone": 3,
+    "hsk": 2,
+    "radical": "犭",
     "updated": "2026-06-28"
   },
   {
@@ -367,6 +580,25 @@
     "tone": 4,
     "hsk": 1,
     "radical": "土",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/huan4_换.html",
+    "type": "character",
+    "category": "characters",
+    "title": "换 · to change, to exchange, to swap, to trade",
+    "desc": "A hand verb: every kind of swap, from changing money to changing trains, runs through one moving palm.",
+    "tags": [
+      "motion",
+      "daily-life",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "换",
+    "pinyin": "huàn",
+    "tone": 4,
+    "hsk": 2,
+    "radical": "扌",
     "updated": "2026-06-28"
   },
   {

@@ -3,6 +3,8 @@
 八	bā	eight; the luckiest number and the eight trigrams — Eight is the most coveted number in modern China through its near-homophony with 发 fā (to prosper), and the classical foundation of the eight trigrams that structure the Yijing.
 白	bái	white, clear, plain, in vain — Sunlight on a single point. The character that names the color of mourning, the color of clarity, the empty plate, and the speech that hides nothing.
 百	bǎi	hundred; all kinds of — 百姓, the hundred surnames, is classical Chinese for the common people, because the full range of ordinary family names stands in for everyone who is not nobility.
+饱	bǎo	full, satisfied, to eat one's fill — The food radical 饣 wraps the sound of 包 (bāo), so the glyph itself is a stomach packed full like a dumpling.
+报	bào	to report, to announce; newspaper; to repay — A hand cuffing a kneeling criminal once meant sentencing; today the same glyph carries newspapers, reports, and the moral arithmetic of repayment.
 北	běi	north; northern; to flee — Two people standing back-to-back: the direction of cold and turning away that became the name of China's capital.
 本	běn	root, origin, this, a book — A tree with its root marked: the character for where a thing comes from. From root grows origin, the fundamental, one's own, the principal sum, and the bound volume you hold in your hand.
 笔	bǐ	pen, brush, a stroke, writing — Bamboo over hair: the bamboo-handled writing brush drawn as a character. From the implement grow the act of writing, the strokes that build a glyph, and a measure word for sums and deals.
@@ -14,6 +16,7 @@
 部	bù	part, section, ministry, measure word — The right-side city-mound radical marks an administrative division. From that grows the whole family of parts and wholes: a section of something, a government ministry, a military unit, and the measure word counted out for films, machines, and phones.
 才	cái	talent, ability, only-then, not until — A sprout breaking ground, the first sign of growth. From that image grow two threads: talent as raw promise, and the adverb 才 that marks something later, harder, or smaller than expected.
 菜	cài	vegetable, dish, cuisine — Plants gathered to be eaten. From the picked greens grows a whole table: the vegetable, the cooked dish, the regional cuisine, and the slangy put-down for anyone weak at a task.
+草	cǎo	grass, herb, straw; draft, rough — A field of grass under the morning sun: the grass radical over 早 zǎo (early) gives the plant its sound, and from the meadow grow the senses of herb, straw, and a hasty rough draft.
 茶	chá	tea — The character that gave the world its word for tea: a grass over wood over man, a plant that shaped civilization, and the locus of China's richest material culture.
 产	chǎn	to produce, give birth, property, output — From birth to bounty: a character that spans biological generation and industrial output, linking the miracle of birth to the logic of production and wealth.
 常	cháng	constant, ordinary, often — A long banner of cloth that came to mean what endures: the constant and the lasting, the ordinary and the common, and the things that happen again and again.
@@ -25,6 +28,7 @@
 出	chū	to exit, to emerge, to produce — 出 is two plants growing upward out of the earth: emergence itself written as a glyph, from physical exits to publication to standing out from the crowd.
 穿	chuān	to pierce, to bore through, to wear, to put on — A tooth gnawing through the roof of a cave: one image for boring a hole and for the body slipping into clothing.
 传	chuán	to pass on, transmit, spread; (zhuan) a biography, a commentary — The person radical carrying something onward: one figure handing a thing to the next. From that image grow the senses of 传, read chuan when it means to pass down, transmit, and spread, and read zhuan when it names a biography or a classical commentary.
+船	chuán	ship, boat, vessel — A pictophonetic built on 舟 (boat): the hull carries the meaning while the right side supplies the sound, covering every craft from sampan to ocean liner.
 春	chūn	spring, springtime, vitality, the stir of desire — Sun pressing up through young shoots: the season of growth, and the oldest Chinese metaphor for life-force and erotic longing.
 词	cí	word, term, diction, the sung lyric — Speech beside a phonetic 司: the unit we call a word, the wording a speaker chooses, and the classical lyric form that grew up beside regulated verse to be sung to set tune-patterns.
 错	cuò	error, mistake; wrong, incorrect — A metal character whose oldest sense was inlay and grinding; from crossed, interlocking lines it slid to things crossing wrongly, the modern sense of error.
@@ -36,6 +40,7 @@
 到	dào	to arrive, to reach; to — As a resultative complement suffix, 到 converts any action verb into a claim of completion: 听到 means not just hearing but hearing that arrived, perception proven by contact.
 道	dào	way, path — The word that gave Daoism its name, and underlies every Chinese 'ism'.
 地	dì	earth, ground, land — Heaven above, earth below: the second power of the cosmos, and the root of every word about place, ground, and belonging.
+灯	dēng	lamp, lantern, light — A fire radical 火 fused with the sound 丁, naming everything from oil lamps to the red light that stops traffic.
 低	dī	low; to lower; to bow down — A person stooping: the phonetic 氐 gives the sound while the human radical supplies the posture, and together they built one of the most culturally loaded words in modern Chinese.
 第	dì	the ordinal prefix, rank, mansion — Bamboo over younger-brother, an image of things laid out in sequence. From it grows the prefix that turns a count into an order, plus the older senses of examination rank and grand residence.
 点	diǎn	dot, point, a little, o'clock — From a single dot of ink the character spreads into points and decimals, into the hours of the clock, into ordering food and lighting a flame, and into the small quantity that softens a sentence.
@@ -43,8 +48,11 @@
 调	diào	(diào) to transfer, tune, accent; (tiáo) to adjust, to blend, to mediate — A high-frequency polyphone with two readings. As diào it means to transfer, a melody or key, a tone, an accent; as tiáo it means to adjust, to blend, to mediate. The reading tells you whether 调 is moving things or harmonizing them.
 定	dìng	to fix, settle, decide, surely — A settling element coming to rest under a roof. From that image of a thing made still and fixed in place grows the whole field of 定: to decide, to set, the fixed and stable, the certain and sure.
 东	dōng	east; eastern — The sun rising behind a tree, and the direction that anchored China's cosmological, political, and poetic imagination.
+懂	dǒng	to understand, to know, to grasp — A heart-radical verb where comprehension is felt, not just decoded: to truly get something is to take it in inwardly.
 动	dòng	to move, to act, to stir — Force applied to a thing sets it in motion. From that one idea grow the words for sport and activity, for the stirred heart, for the drive that pushes a machine or a life forward, and for the verb itself.
 读	dú	to read aloud, to study — Reading as the act of voicing what is written: the everyday verb for studying, declaiming a text, and (figuratively) interpreting a person, a situation, or a sign.
+短	duǎn	short, brief; deficient, lacking — An arrow set beside a ritual bean-pot measures the short distance, so 短 builds its meaning of brevity from a comparison of two small lengths.
+队	duì	team, group, band, military unit; measure word for groups — A crowd of people 人 packed against an earthen mound 阝, the image that gives 队 its sense of a formed-up team or column.
 多	duō	many; much; more; how — Two evenings stacked: the character that encodes abundance, comparison, and the most common question about quantity in Mandarin.
 而	ér	and, but, yet (a classical connective) — A pictograph of a beard, borrowed early as one of the busiest function words in literary Chinese. 而 links clause to clause as and, but, or yet, ties manner to verb, and frames set phrases like 而且 and 而已.
 二	èr	two; second — The number two encodes the foundational split that drives all of Chinese cosmology: yin and yang, the two forces from which everything else unfolds.
@@ -56,10 +64,12 @@
 非	fēi	not, wrong, un- — Two wings spreading in opposite directions: from that image of opposition grows the great negator. Not and non-, the line between right and wrong, and the un- prefix that turns a word against itself.
 分	fēn	to divide, minute, point, cent — A knife splitting a thing in two. From the cut grows everything that comes in parts: the minute on the clock, the point on a test, the cent in your pocket, and the act of separating itself.
 风	fēng	wind; style; custom — The character that moves crops, carries seeds, and became the Chinese word for cultural character itself.
+封	fēng	to seal, envelope, to confer (a fief) — A handful of earth heaped over a boundary mound, sealed by hand: 封 ties envelopes, granaries, and feudal grants to the same gesture of closing something off.
 夫	fū	husband, a grown man, laborer; the literary particle fú — A grown man pictured with a hairpin marking adulthood: the husband and the married couple (丈夫 夫妻 夫人 夫妇), the adult man and laborer (农夫 渔夫 大夫), skill and effort (功夫 工夫), and the classical literary particle 夫 fú that opens a sentence.
 福	fú	fortune, blessing, good luck — The most recognized Chinese character in the world: fortune, blessing, and the art of the upside-down 福.
 父	fù	father, male elder, household head — A hand gripping a stone axe: the tool of the one who heads the household, drawn as the figure of the father himself.
 富	fù	rich, wealthy, abundant, to enrich — A full wine jar tucked under a roof: the picture of a household storehouse packed to its rafters with plenty.
+改	gǎi	to alter, to change, to correct, to reform — A hand raises a stick over a kneeling child: 改 is change enforced by correction, not drift, which is why it leans toward fixing what is wrong.
 高	gāo	tall; high; elevated; surname — A tall palace gate rising above the ground, and the character that anchors Chinese words for excellence, happiness, and examination pressure simultaneously.
 告	gào	to tell, to announce, to report — A mouth aimed upward: the character for delivering words to authority, and the root of advertising, accusations, and warnings.
 哥	gē	elder brother, a familiar term for an older young man — Two 可 stacked into one glyph; the doubled phonetic came to carry the warmest word in the family, elder brother.
@@ -69,6 +79,7 @@
 工	gōng	work, craft, labor, worker — Three strokes encoding heaven, earth, and the human craft connecting them: the root character for all labor, skill, and making in Chinese.
 公	gōng	public, fair, common, a duke, male — A line dividing away the private self. From that image grow everything held in common, every fair dealing, the metric measures, and the elder male: public, impartial, official, and a duke.
 功	gōng	merit, achievement, skill, effort — Merit earned through effort: from meritorious service and success to the patient skill the Chinese call gongfu, and even work in physics.
+狗	gǒu	dog — A pictophonetic glyph where the beast radical 犭supplies the meaning and 句 lends only the sound, naming the most domesticated of animals.
 古	gǔ	ancient, old, classical — The mouth radical holding what ten generations have spoken down the years: 古 is what is old because it has been handed on. From that single image grow the senses of antiquity (古代 古老 远古), the classical and the antique (古典 古文 古董 古迹 考古), and the quaint or unconventional (古怪 古板).
 故	gù	reason; old; deliberately; therefore — 故 binds five senses into one glyph: cause, the old and former, deliberateness, the literary "hence," and the deceased. The thread is a settled cause behind what is done or what has passed.
 关	guān	to close, to concern, the frontier pass — The bolt that closes a gate, the mountain pass that controls a frontier, and the relation that ties two people together. One character holds all three.
@@ -96,6 +107,7 @@
 话	huà	words, speech, talk, language — Speech beside a tongue: the everyday character for spoken words. From it grow talking and conversation, the telephone, a dialect or standard language, and the topics and sayings people pass around.
 坏	huài	bad, rotten, spoiled; to break down — A picto-phonetic built from 土 earth and 不 not: spoiled soil that yields nothing, extended to anything gone bad or broken.
 欢	huān	joy, merry, to be pleased — A breath of open delight: the hand and the open mouth that make laughter. From this glyph come joy and merriment, to like and to welcome, and the lively, high-spirited mood.
+换	huàn	to change, to exchange, to swap, to trade — A hand verb: every kind of swap, from changing money to changing trains, runs through one moving palm.
 黄	huáng	yellow, gold, the imperial color; to fall through — The color of loess soil and the emperor, of the mother river and the egg yolk, and the one color slang that means a plan has collapsed.
 回	huí	to return, to turn back, a time — Two squares nested like a coiling eddy. The character for coming back: returning home, turning around, replying, and counting the times a thing happens.
 活	huó	to live, to be alive, lively, work — Water gives the verb its life: a stream over a tongue, the flow that means being alive, and from there everything that moves, breathes, and gets done.

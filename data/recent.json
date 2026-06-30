@@ -1,5 +1,44 @@
 [
   {
+    "path": "pages/characters/bao3_饱.html",
+    "type": "character",
+    "category": "characters",
+    "title": "饱 · full, satisfied, to eat one's fill",
+    "desc": "The food radical 饣 wraps the sound of 包 (bāo), so the glyph itself is a stomach packed full like a dumpling.",
+    "tags": [
+      "food",
+      "body",
+      "daily-life",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "饱",
+    "pinyin": "bǎo",
+    "tone": 3,
+    "hsk": 2,
+    "radical": "饣",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/bao4_报.html",
+    "type": "character",
+    "category": "characters",
+    "title": "报 · to report, to announce; newspaper; to repay",
+    "desc": "A hand cuffing a kneeling criminal once meant sentencing; today the same glyph carries newspapers, reports, and the moral arithmetic of repayment.",
+    "tags": [
+      "communication",
+      "society",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "报",
+    "pinyin": "bào",
+    "tone": 4,
+    "hsk": 2,
+    "radical": "扌",
+    "updated": "2026-06-28"
+  },
+  {
     "path": "pages/characters/bing4_病.html",
     "type": "character",
     "category": "characters",
@@ -17,6 +56,25 @@
     "tone": 4,
     "hsk": 1,
     "radical": "疒",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/cao3_草.html",
+    "type": "character",
+    "category": "characters",
+    "title": "草 · grass, herb, straw; draft, rough",
+    "desc": "A field of grass under the morning sun: the grass radical over 早 zǎo (early) gives the plant its sound, and from the meadow grow the senses of herb, straw, and a hasty rough draft.",
+    "tags": [
+      "nature",
+      "daily-life",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "草",
+    "pinyin": "cǎo",
+    "tone": 3,
+    "hsk": 2,
+    "radical": "艹",
     "updated": "2026-06-28"
   },
   {
@@ -56,6 +114,25 @@
     "tone": 1,
     "hsk": 1,
     "radical": "穴",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/chuan2_船.html",
+    "type": "character",
+    "category": "characters",
+    "title": "船 · ship, boat, vessel",
+    "desc": "A pictophonetic built on 舟 (boat): the hull carries the meaning while the right side supplies the sound, covering every craft from sampan to ocean liner.",
+    "tags": [
+      "motion",
+      "daily-life",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "船",
+    "pinyin": "chuán",
+    "tone": 2,
+    "hsk": 2,
+    "radical": "舟",
     "updated": "2026-06-28"
   },
   {
@@ -119,6 +196,84 @@
     "updated": "2026-06-28"
   },
   {
+    "path": "pages/characters/deng1_灯.html",
+    "type": "character",
+    "category": "characters",
+    "title": "灯 · lamp, lantern, light",
+    "desc": "A fire radical 火 fused with the sound 丁, naming everything from oil lamps to the red light that stops traffic.",
+    "tags": [
+      "daily-life",
+      "nature",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "灯",
+    "pinyin": "dēng",
+    "tone": 1,
+    "hsk": 2,
+    "radical": "火",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/dong3_懂.html",
+    "type": "character",
+    "category": "characters",
+    "title": "懂 · to understand, to know, to grasp",
+    "desc": "A heart-radical verb where comprehension is felt, not just decoded: to truly get something is to take it in inwardly.",
+    "tags": [
+      "perception",
+      "meaning",
+      "communication",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "懂",
+    "pinyin": "dǒng",
+    "tone": 3,
+    "hsk": 2,
+    "radical": "忄",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/duan3_短.html",
+    "type": "character",
+    "category": "characters",
+    "title": "短 · short, brief; deficient, lacking",
+    "desc": "An arrow set beside a ritual bean-pot measures the short distance, so 短 builds its meaning of brevity from a comparison of two small lengths.",
+    "tags": [
+      "perception",
+      "meaning",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "短",
+    "pinyin": "duǎn",
+    "tone": 3,
+    "hsk": 2,
+    "radical": "矢",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/dui4_队.html",
+    "type": "character",
+    "category": "characters",
+    "title": "队 · team, group, band, military unit; measure word for groups",
+    "desc": "A crowd of people 人 packed against an earthen mound 阝, the image that gives 队 its sense of a formed-up team or column.",
+    "tags": [
+      "society",
+      "social",
+      "humanity",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "队",
+    "pinyin": "duì",
+    "tone": 4,
+    "hsk": 2,
+    "radical": "阝",
+    "updated": "2026-06-28"
+  },
+  {
     "path": "pages/characters/fang2_房.html",
     "type": "character",
     "category": "characters",
@@ -155,6 +310,26 @@
     "tone": 1,
     "hsk": 1,
     "radical": "飞",
+    "updated": "2026-06-28"
+  },
+  {
+    "path": "pages/characters/feng1_封.html",
+    "type": "character",
+    "category": "characters",
+    "title": "封 · to seal, envelope, to confer (a fief)",
+    "desc": "A handful of earth heaped over a boundary mound, sealed by hand: 封 ties envelopes, granaries, and feudal grants to the same gesture of closing something off.",
+    "tags": [
+      "communication",
+      "society",
+      "writing",
+      "characters"
+    ],
+    "status": "complete",
+    "char": "封",
+    "pinyin": "fēng",
+    "tone": 1,
+    "hsk": 2,
+    "radical": "寸",
     "updated": "2026-06-28"
   },
   {
@@ -196,197 +371,22 @@
     "updated": "2026-06-28"
   },
   {
-    "path": "pages/characters/ge1_哥.html",
+    "path": "pages/characters/gai3_改.html",
     "type": "character",
     "category": "characters",
-    "title": "哥 · elder brother, a familiar term for an older young man",
-    "desc": "Two 可 stacked into one glyph; the doubled phonetic came to carry the warmest word in the family, elder brother.",
+    "title": "改 · to alter, to change, to correct, to reform",
+    "desc": "A hand raises a stick over a kneeling child: 改 is change enforced by correction, not drift, which is why it leans toward fixing what is wrong.",
     "tags": [
-      "family",
-      "social",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "哥",
-    "pinyin": "gē",
-    "tone": 1,
-    "hsk": 1,
-    "radical": "口",
-    "updated": "2026-06-28"
-  },
-  {
-    "path": "pages/characters/ge1_歌.html",
-    "type": "character",
-    "category": "characters",
-    "title": "歌 · song, lyrics; to sing, to chant",
-    "desc": "The radical 欠 (an open, exhaling mouth) drives the meaning of song, while 哥 supplies the gē sound.",
-    "tags": [
+      "society",
       "communication",
-      "culture",
       "characters"
     ],
     "status": "complete",
-    "char": "歌",
-    "pinyin": "gē",
-    "tone": 1,
-    "hsk": 1,
-    "radical": "欠",
-    "updated": "2026-06-28"
-  },
-  {
-    "path": "pages/characters/guan3_馆.html",
-    "type": "character",
-    "category": "characters",
-    "title": "馆 · a public building, hall, shop, establishment",
-    "desc": "A food-radical building: the eating-house that grew into the library, the museum, and the embassy.",
-    "tags": [
-      "food",
-      "society",
-      "daily-life",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "馆",
-    "pinyin": "guǎn",
+    "char": "改",
+    "pinyin": "gǎi",
     "tone": 3,
-    "hsk": 1,
-    "radical": "饣",
-    "updated": "2026-06-28"
-  },
-  {
-    "path": "pages/characters/hai2_孩.html",
-    "type": "character",
-    "category": "characters",
-    "title": "孩 · baby, child, children",
-    "desc": "A child-radical fused with the earthly branch 亥: 子 carries the meaning, 亥 lends the rising sound hái.",
-    "tags": [
-      "family",
-      "humanity",
-      "daily-life",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "孩",
-    "pinyin": "hái",
-    "tone": 2,
-    "hsk": 1,
-    "radical": "子",
-    "updated": "2026-06-28"
-  },
-  {
-    "path": "pages/characters/hai4_害.html",
-    "type": "character",
-    "category": "characters",
-    "title": "害 · to harm, injury, calamity, to fear",
-    "desc": "Under the roof a mouth and a blade build the sense of injury done; the same glyph also means to fear, as in 害怕.",
-    "tags": [
-      "emotion",
-      "society",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "害",
-    "pinyin": "hài",
-    "tone": 4,
-    "hsk": 3,
-    "radical": "宀",
-    "updated": "2026-06-28"
-  },
-  {
-    "path": "pages/characters/he1_喝.html",
-    "type": "character",
-    "category": "characters",
-    "title": "喝 · to drink; (hè) to shout, to cry out",
-    "desc": "A mouth radical paired with the phonetic 曷, splitting cleanly into the everyday hē you drink with and the older hè you shout with.",
-    "tags": [
-      "drink",
-      "daily-life",
-      "food",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "喝",
-    "pinyin": "hē",
-    "tone": 1,
-    "hsk": 1,
-    "radical": "口",
-    "updated": "2026-06-28"
-  },
-  {
-    "path": "pages/characters/he2_河.html",
-    "type": "character",
-    "category": "characters",
-    "title": "河 · river, the Yellow River",
-    "desc": "河 began as the personal name of one river, the Yellow River, before it widened to mean any river at all.",
-    "tags": [
-      "nature",
-      "settlement",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "河",
-    "pinyin": "hé",
-    "tone": 2,
     "hsk": 2,
-    "radical": "氵",
-    "updated": "2026-06-28"
-  },
-  {
-    "path": "pages/characters/hu2_湖.html",
-    "type": "character",
-    "category": "characters",
-    "title": "湖 · lake, the provinces around Dongting",
-    "desc": "A water radical against the phonetic 胡, naming every still inland water from West Lake to the jianghu of wandering swordsmen.",
-    "tags": [
-      "nature",
-      "settlement",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "湖",
-    "pinyin": "hú",
-    "tone": 2,
-    "hsk": 2,
-    "radical": "氵",
-    "updated": "2026-06-28"
-  },
-  {
-    "path": "pages/characters/huai4_坏.html",
-    "type": "character",
-    "category": "characters",
-    "title": "坏 · bad, rotten, spoiled; to break down",
-    "desc": "A picto-phonetic built from 土 earth and 不 not: spoiled soil that yields nothing, extended to anything gone bad or broken.",
-    "tags": [
-      "daily-life",
-      "society",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "坏",
-    "pinyin": "huài",
-    "tone": 4,
-    "hsk": 1,
-    "radical": "土",
-    "updated": "2026-06-28"
-  },
-  {
-    "path": "pages/characters/huang2_黄.html",
-    "type": "character",
-    "category": "characters",
-    "title": "黄 · yellow, gold, the imperial color; to fall through",
-    "desc": "The color of loess soil and the emperor, of the mother river and the egg yolk, and the one color slang that means a plan has collapsed.",
-    "tags": [
-      "nature",
-      "culture",
-      "symbolism",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "黄",
-    "pinyin": "huáng",
-    "tone": 2,
-    "hsk": 2,
-    "radical": "黄",
+    "radical": "攵",
     "updated": "2026-06-28"
   }
 ]
