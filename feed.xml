@@ -6,7 +6,31 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A reading nook for Chinese language and civilisation. Characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Jul 2026 02:17:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 02:36:24 GMT</lastBuildDate>
+    <item>
+      <title>电脑与网络 · Computers &amp; the Internet</title>
+      <link>https://jiaoshoo.com/pages/daily/topic_diannao_wangluo.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/daily/topic_diannao_wangluo.html</guid>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+      <description>The computer is an electric brain, downloading is &quot;carrying down,&quot; and the number 666 is a compliment.</description>
+      <category>daily</category>
+    </item>
+    <item>
+      <title>度量衡 · Weights &amp; Measures</title>
+      <link>https://jiaoshoo.com/pages/daily/topic_duliangheng.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/daily/topic_duliangheng.html</guid>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+      <description>Fruit is priced by the half-kilo 斤, distance walks in 里, and an idiom about six of one and half a dozen still counts in base sixteen.</description>
+      <category>daily</category>
+    </item>
+    <item>
+      <title>看病 · Seeing a Doctor</title>
+      <link>https://jiaoshoo.com/pages/daily/topic_kanbing.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/daily/topic_kanbing.html</guid>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+      <description>Getting sick in Chinese starts with a queue number, runs on the verb &quot;look,&quot; and ends with the eternal prescription: drink more hot water.</description>
+      <category>daily</category>
+    </item>
     <item>
       <title>生意 · Doing Business</title>
       <link>https://jiaoshoo.com/pages/daily/topic_shengyi.html</link>
@@ -24,6 +48,14 @@
       <category>daily</category>
     </item>
     <item>
+      <title>天气 · Talking About the Weather</title>
+      <link>https://jiaoshoo.com/pages/daily/topic_tianqi.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/daily/topic_tianqi.html</guid>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+      <description>Rain falls, wind blows, and fog counts as a noun-verb drama: the small grammar of weather is a beginner&apos;s best conversation opener.</description>
+      <category>daily</category>
+    </item>
+    <item>
       <title>工程 · Engineering</title>
       <link>https://jiaoshoo.com/pages/science/topic_gongcheng.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/science/topic_gongcheng.html</guid>
@@ -37,6 +69,14 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/science/topic_huaxue.html</guid>
       <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
       <description>The Chinese periodic table is a naming machine: one character per element, with the radical telling you its state at room temperature.</description>
+      <category>science</category>
+    </item>
+    <item>
+      <title>生物 · Biology &amp; the Naming of Living Things</title>
+      <link>https://jiaoshoo.com/pages/science/topic_shengwu.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/science/topic_shengwu.html</guid>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+      <description>The panda is a bear-cat, the giraffe a long-necked deer, and the word for gene may be the best translation in the language.</description>
       <category>science</category>
     </item>
     <item>
@@ -205,46 +245,6 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/fu4_富.html</guid>
       <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
       <description>A full wine jar tucked under a roof: the picture of a household storehouse packed to its rafters with plenty.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>父 · father, male elder, household head</title>
-      <link>https://jiaoshoo.com/pages/characters/fu4_父.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/fu4_父.html</guid>
-      <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
-      <description>A hand gripping a stone axe: the tool of the one who heads the household, drawn as the figure of the father himself.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>改 · to alter, to change, to correct, to reform</title>
-      <link>https://jiaoshoo.com/pages/characters/gai3_改.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/gai3_改.html</guid>
-      <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
-      <description>A hand raises a stick over a kneeling child: 改 is change enforced by correction, not drift, which is why it leans toward fixing what is wrong.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>哥 · elder brother, a familiar term for an older young man</title>
-      <link>https://jiaoshoo.com/pages/characters/ge1_哥.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/ge1_哥.html</guid>
-      <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
-      <description>Two 可 stacked into one glyph; the doubled phonetic came to carry the warmest word in the family, elder brother.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>歌 · song, lyrics; to sing, to chant</title>
-      <link>https://jiaoshoo.com/pages/characters/ge1_歌.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/ge1_歌.html</guid>
-      <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
-      <description>The radical 欠 (an open, exhaling mouth) drives the meaning of song, while 哥 supplies the gē sound.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>狗 · dog</title>
-      <link>https://jiaoshoo.com/pages/characters/gou3_狗.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/gou3_狗.html</guid>
-      <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
-      <description>A pictophonetic glyph where the beast radical 犭supplies the meaning and 句 lends only the sound, naming the most domesticated of animals.</description>
       <category>characters</category>
     </item>
   </channel>

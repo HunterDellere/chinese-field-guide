@@ -1,5 +1,56 @@
 [
   {
+    "path": "pages/daily/topic_diannao_wangluo.html",
+    "type": "topic",
+    "category": "daily",
+    "title": "电脑与网络 · Computers & the Internet",
+    "desc": "The computer is an electric brain, downloading is \"carrying down,\" and the number 666 is a compliment.",
+    "tags": [
+      "technology",
+      "communication",
+      "daily-life",
+      "modern",
+      "media"
+    ],
+    "status": "complete",
+    "pinyin": "diànnǎo yǔ wǎngluò",
+    "updated": "2026-07-11"
+  },
+  {
+    "path": "pages/daily/topic_duliangheng.html",
+    "type": "topic",
+    "category": "daily",
+    "title": "度量衡 · Weights & Measures",
+    "desc": "Fruit is priced by the half-kilo 斤, distance walks in 里, and an idiom about six of one and half a dozen still counts in base sixteen.",
+    "tags": [
+      "scale",
+      "daily-life",
+      "trade",
+      "history",
+      "numbers"
+    ],
+    "status": "complete",
+    "pinyin": "dùliànghéng",
+    "updated": "2026-07-11"
+  },
+  {
+    "path": "pages/daily/topic_kanbing.html",
+    "type": "topic",
+    "category": "daily",
+    "title": "看病 · Seeing a Doctor",
+    "desc": "Getting sick in Chinese starts with a queue number, runs on the verb \"look,\" and ends with the eternal prescription: drink more hot water.",
+    "tags": [
+      "health",
+      "medicine",
+      "daily-life",
+      "body",
+      "vocabulary"
+    ],
+    "status": "complete",
+    "pinyin": "kànbìng",
+    "updated": "2026-07-11"
+  },
+  {
     "path": "pages/daily/topic_shengyi.html",
     "type": "topic",
     "category": "daily",
@@ -34,6 +85,23 @@
     "updated": "2026-07-11"
   },
   {
+    "path": "pages/daily/topic_tianqi.html",
+    "type": "topic",
+    "category": "daily",
+    "title": "天气 · Talking About the Weather",
+    "desc": "Rain falls, wind blows, and fog counts as a noun-verb drama: the small grammar of weather is a beginner's best conversation opener.",
+    "tags": [
+      "weather",
+      "daily-life",
+      "spoken",
+      "nature",
+      "vocabulary"
+    ],
+    "status": "complete",
+    "pinyin": "tiānqì",
+    "updated": "2026-07-11"
+  },
+  {
     "path": "pages/science/topic_gongcheng.html",
     "type": "topic",
     "category": "science",
@@ -65,6 +133,23 @@
     ],
     "status": "complete",
     "pinyin": "huàxué",
+    "updated": "2026-07-11"
+  },
+  {
+    "path": "pages/science/topic_shengwu.html",
+    "type": "topic",
+    "category": "science",
+    "title": "生物 · Biology & the Naming of Living Things",
+    "desc": "The panda is a bear-cat, the giraffe a long-necked deer, and the word for gene may be the best translation in the language.",
+    "tags": [
+      "biology",
+      "science",
+      "nature",
+      "life",
+      "vocabulary"
+    ],
+    "status": "complete",
+    "pinyin": "shēngwù",
     "updated": "2026-07-11"
   },
   {
@@ -272,104 +357,6 @@
     "tone": 1,
     "hsk": 2,
     "radical": "日",
-    "updated": "2026-06-28"
-  },
-  {
-    "path": "pages/characters/cuo4_错.html",
-    "type": "character",
-    "category": "characters",
-    "title": "错 · error, mistake; wrong, incorrect",
-    "desc": "A metal character whose oldest sense was inlay and grinding; from crossed, interlocking lines it slid to things crossing wrongly, the modern sense of error.",
-    "tags": [
-      "meaning",
-      "daily-life",
-      "communication",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "错",
-    "pinyin": "cuò",
-    "tone": 4,
-    "hsk": 1,
-    "radical": "钅",
-    "updated": "2026-06-28"
-  },
-  {
-    "path": "pages/characters/dan4_蛋.html",
-    "type": "character",
-    "category": "characters",
-    "title": "蛋 · egg, egg-shaped thing, scoundrel",
-    "desc": "A pictophonetic egg: the 虫 radical for small creatures sits under a sound element, and in slang it turns people into scoundrels.",
-    "tags": [
-      "food",
-      "nature",
-      "daily-life",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "蛋",
-    "pinyin": "dàn",
-    "tone": 4,
-    "hsk": 1,
-    "radical": "虫",
-    "updated": "2026-06-28"
-  },
-  {
-    "path": "pages/characters/deng1_灯.html",
-    "type": "character",
-    "category": "characters",
-    "title": "灯 · lamp, lantern, light",
-    "desc": "A fire radical 火 fused with the sound 丁, naming everything from oil lamps to the red light that stops traffic.",
-    "tags": [
-      "daily-life",
-      "nature",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "灯",
-    "pinyin": "dēng",
-    "tone": 1,
-    "hsk": 2,
-    "radical": "火",
-    "updated": "2026-06-28"
-  },
-  {
-    "path": "pages/characters/dong3_懂.html",
-    "type": "character",
-    "category": "characters",
-    "title": "懂 · to understand, to know, to grasp",
-    "desc": "A heart-radical verb where comprehension is felt, not just decoded: to truly get something is to take it in inwardly.",
-    "tags": [
-      "perception",
-      "meaning",
-      "communication",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "懂",
-    "pinyin": "dǒng",
-    "tone": 3,
-    "hsk": 2,
-    "radical": "忄",
-    "updated": "2026-06-28"
-  },
-  {
-    "path": "pages/characters/duan3_短.html",
-    "type": "character",
-    "category": "characters",
-    "title": "短 · short, brief; deficient, lacking",
-    "desc": "An arrow set beside a ritual bean-pot measures the short distance, so 短 builds its meaning of brevity from a comparison of two small lengths.",
-    "tags": [
-      "perception",
-      "meaning",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "短",
-    "pinyin": "duǎn",
-    "tone": 3,
-    "hsk": 2,
-    "radical": "矢",
     "updated": "2026-06-28"
   }
 ]

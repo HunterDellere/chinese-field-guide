@@ -19,6 +19,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://jiaoshoo.com/pages/daily/topic_diannao_wangluo.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jiaoshoo.com/pages/daily/topic_duliangheng.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jiaoshoo.com/pages/daily/topic_kanbing.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://jiaoshoo.com/pages/daily/topic_shengyi.html</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
@@ -31,6 +49,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://jiaoshoo.com/pages/daily/topic_tianqi.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://jiaoshoo.com/pages/science/topic_gongcheng.html</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
@@ -38,6 +62,12 @@
   </url>
   <url>
     <loc>https://jiaoshoo.com/pages/science/topic_huaxue.html</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jiaoshoo.com/pages/science/topic_shengwu.html</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
