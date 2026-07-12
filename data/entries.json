@@ -1,5 +1,433 @@
 [
   {
+    "path": "pages/arts/topic_guqin.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "古琴 · the scholar's zither",
+    "desc": "The seven-string zither Confucius played throughout his life, and the origin of 知音, the word for a person who truly understands you.",
+    "tags": [
+      "arts",
+      "music",
+      "classical",
+      "confucianism",
+      "literature"
+    ],
+    "status": "complete",
+    "pinyin": "gǔqín",
+    "updated": "2026-07-12"
+  },
+  {
+    "path": "pages/arts/topic_jingju_roles.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "生旦净末丑 · Role Types in Peking Opera",
+    "desc": "The five 行当 of Peking Opera: sheng, dan, jing, mo, and chou, each a lifelong specialization in voice, movement, and makeup.",
+    "tags": [
+      "opera",
+      "theatre",
+      "performance",
+      "culture",
+      "arts",
+      "music"
+    ],
+    "status": "complete",
+    "pinyin": "shēng dàn jìng mò chǒu",
+    "updated": "2026-07-12"
+  },
+  {
+    "path": "pages/arts/topic_shijing.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "诗经 · Book of Songs",
+    "desc": "The 305 poems of China's oldest anthology (c. 1046-600 BCE), which Confucius said no educated person could afford to ignore.",
+    "tags": [
+      "poetry",
+      "literature",
+      "classical",
+      "history",
+      "culture"
+    ],
+    "status": "complete",
+    "pinyin": "shījīng",
+    "updated": "2026-07-12"
+  },
+  {
+    "path": "pages/arts/topic_shufa_styles.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "书法风格 · The Five Scripts of Chinese Calligraphy",
+    "desc": "The five scripts of Chinese calligraphy, 篆隶楷行草, run from Zhou bronze inscriptions to Tang wild cursive; choosing a script is choosing a register.",
+    "tags": [
+      "calligraphy",
+      "arts",
+      "writing",
+      "classical",
+      "history",
+      "aesthetics",
+      "culture"
+    ],
+    "status": "complete",
+    "pinyin": "shūfǎ fēnggé",
+    "updated": "2026-07-12"
+  },
+  {
+    "path": "pages/arts/topic_songci.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "宋词 · Song Dynasty Lyric",
+    "desc": "Song lyrics (词 cí) fit fixed tune patterns called 词牌; Li Qingzhao, Su Shi, and Xin Qiji are the form's three masters.",
+    "tags": [
+      "poetry",
+      "literature",
+      "classical",
+      "song",
+      "history",
+      "culture"
+    ],
+    "status": "complete",
+    "pinyin": "sòngcí",
+    "updated": "2026-07-12"
+  },
+  {
+    "path": "pages/characters/dao4_道.html",
+    "type": "character",
+    "category": "characters",
+    "title": "道 · way, path",
+    "desc": "The character that opens the Dàodéjīng and names Daoism: way, path, principle, and the measure word for rivers and light.",
+    "tags": [
+      "daoism",
+      "philosophy",
+      "path"
+    ],
+    "status": "complete",
+    "char": "道",
+    "pinyin": "dào",
+    "tone": 4,
+    "hsk": 3,
+    "radical": "辶",
+    "updated": "2026-07-12"
+  },
+  {
+    "path": "pages/characters/he2_和.html",
+    "type": "character",
+    "category": "characters",
+    "title": "和 · harmony, and, with; peace",
+    "desc": "禾 (grain) beside 口 (mouth): 和 is both Mandarin's everyday \"and\" and the Confucian ideal of harmony without uniformity.",
+    "tags": [
+      "confucianism",
+      "social",
+      "grammar",
+      "philosophy"
+    ],
+    "status": "complete",
+    "char": "和",
+    "pinyin": "hé",
+    "tone": 2,
+    "hsk": 1,
+    "radical": "禾",
+    "updated": "2026-07-12"
+  },
+  {
+    "path": "pages/characters/kuai4_快.html",
+    "type": "character",
+    "category": "characters",
+    "title": "快 · fast, happy",
+    "desc": "快 joins 忄 (heart) to 夬 (a decisive cut): speed and joy are the same image, a heart running without drag.",
+    "tags": [
+      "emotion",
+      "daily-life",
+      "adjectives"
+    ],
+    "status": "complete",
+    "char": "快",
+    "pinyin": "kuài",
+    "tone": 4,
+    "hsk": 2,
+    "radical": "忄",
+    "updated": "2026-07-12"
+  },
+  {
+    "path": "pages/characters/ren2_人.html",
+    "type": "character",
+    "category": "characters",
+    "title": "人 · person, humanity",
+    "desc": "Two strokes, barely changed since the oracle bones, write 人 rén; add 二 and you get 仁, Confucian benevolence.",
+    "tags": [
+      "humanity",
+      "confucianism",
+      "radical"
+    ],
+    "status": "complete",
+    "char": "人",
+    "pinyin": "rén",
+    "tone": 2,
+    "hsk": 1,
+    "radical": "人",
+    "updated": "2026-07-12"
+  },
+  {
+    "path": "pages/characters/wei2_为.html",
+    "type": "character",
+    "category": "characters",
+    "title": "为 · to do; to act; for; because of",
+    "desc": "In oracle bone script 为 is a hand leading an elephant, and it sits at the center of Daoist 无为 non-action.",
+    "tags": [
+      "grammar",
+      "classical",
+      "taoism",
+      "philosophy",
+      "daoism",
+      "wuwei",
+      "syntax"
+    ],
+    "status": "complete",
+    "char": "为",
+    "pinyin": "wéi",
+    "tone": 2,
+    "hsk": 2,
+    "radical": "丶",
+    "updated": "2026-07-12"
+  },
+  {
+    "path": "pages/characters/yu4_玉.html",
+    "type": "character",
+    "category": "characters",
+    "title": "玉 · jade, precious",
+    "desc": "Three jade discs on a cord, one dot away from 王 (wáng, king): the stone Confucius said was virtue made visible.",
+    "tags": [
+      "nature",
+      "culture",
+      "virtue",
+      "confucianism",
+      "aesthetics",
+      "royalty",
+      "classical"
+    ],
+    "status": "complete",
+    "char": "玉",
+    "pinyin": "yù",
+    "tone": 4,
+    "radical": "玉",
+    "updated": "2026-07-12"
+  },
+  {
+    "path": "pages/grammar/le_了.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "了 · the perfective particle",
+    "desc": "Post-verb 了 marks a completed action; sentence-final 了 announces a new situation, and the two can stack in one sentence.",
+    "tags": [
+      "aspect",
+      "particle",
+      "tense"
+    ],
+    "status": "complete",
+    "pinyin": "le",
+    "updated": "2026-07-12"
+  },
+  {
+    "path": "pages/grammar/liangci_量词.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "量词 · measure words",
+    "desc": "个, 只, 条, 本, 张: the classifier taxonomy and the logic behind it.",
+    "tags": [
+      "measure-words",
+      "classifiers",
+      "nouns"
+    ],
+    "status": "complete",
+    "pinyin": "liàngcí",
+    "updated": "2026-07-12"
+  },
+  {
+    "path": "pages/grammar/nai_乃.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "乃 · classical connective: then, thereupon, thus; to be; only then",
+    "desc": "Classical 乃 marks a consequence as earned, where modern 就 stays neutral; as emphatic copula it gives 失败乃成功之母 its weight.",
+    "tags": [
+      "grammar",
+      "classical",
+      "syntax",
+      "literary",
+      "classics",
+      "conjunction",
+      "rhetoric",
+      "copula"
+    ],
+    "status": "complete",
+    "pinyin": "nǎi",
+    "updated": "2026-07-12"
+  },
+  {
+    "path": "pages/grammar/zhi_之.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "之 · classical genitive, nominalizer, and pronoun",
+    "desc": "之 zhī did the work of 'of', 'him/her/it', and 'the one who' in classical Chinese; it survives in 之间, 之后, and 总之.",
+    "tags": [
+      "grammar",
+      "classical",
+      "syntax",
+      "literary",
+      "particle",
+      "classics"
+    ],
+    "status": "complete",
+    "pinyin": "zhī",
+    "updated": "2026-07-12"
+  },
+  {
+    "path": "pages/grammar/zhi_者.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "者 · classical nominalizer \"the one who; that which\"",
+    "desc": "者 zhě turns any verb into \"the one who\": 学者 scholar, 读者 reader, 作者 author, unchanged since the Analects.",
+    "tags": [
+      "grammar",
+      "classical",
+      "syntax",
+      "literary",
+      "compounds"
+    ],
+    "status": "complete",
+    "pinyin": "zhě",
+    "updated": "2026-07-12"
+  },
+  {
+    "path": "pages/history/topic_keju.html",
+    "type": "topic",
+    "category": "history",
+    "title": "科举 · The Imperial Examination System",
+    "desc": "The exam that selected China's officials for 1,300 years, from the Sui in 605 CE to abolition in 1905.",
+    "tags": [
+      "history",
+      "confucianism",
+      "tang",
+      "song",
+      "ming",
+      "qing"
+    ],
+    "status": "complete",
+    "pinyin": "kē jǔ",
+    "updated": "2026-07-12"
+  },
+  {
+    "path": "pages/history/topic_qingchao.html",
+    "type": "topic",
+    "category": "history",
+    "title": "清朝 · The Qing Dynasty",
+    "desc": "Invited through Shanhai Pass in 1644, the Manchus ruled China for 268 years, until the 1911 revolution ended imperial rule.",
+    "tags": [
+      "qing",
+      "manchu",
+      "decline"
+    ],
+    "status": "complete",
+    "pinyin": "qīngcháo",
+    "updated": "2026-07-12"
+  },
+  {
+    "path": "pages/history/topic_songchao.html",
+    "type": "topic",
+    "category": "history",
+    "title": "宋朝 · The Song Dynasty",
+    "desc": "Economic revolution, printing, compass: the dynasty modernity missed.",
+    "tags": [
+      "song",
+      "economy",
+      "innovation"
+    ],
+    "status": "complete",
+    "pinyin": "sòngcháo",
+    "updated": "2026-07-12"
+  },
+  {
+    "path": "pages/history/topic_zhanguo.html",
+    "type": "topic",
+    "category": "history",
+    "title": "战国时期 · Warring States Period",
+    "desc": "Seven states fought from 475 to 221 BCE, and that same fragmentation produced Confucianism, Daoism, Legalism, and Mohism.",
+    "tags": [
+      "ancient",
+      "dynasty",
+      "history",
+      "philosophy",
+      "legalism",
+      "statecraft",
+      "politics",
+      "classics"
+    ],
+    "status": "complete",
+    "pinyin": "zhànguó shíqī",
+    "updated": "2026-07-12"
+  },
+  {
+    "path": "pages/religion/topic_rujia.html",
+    "type": "topic",
+    "category": "religion",
+    "title": "儒家 · Confucianism",
+    "desc": "The school of the ru: ritual, hierarchy, and moral cultivation as state religion.",
+    "tags": [
+      "confucianism",
+      "ritual",
+      "ethics"
+    ],
+    "status": "complete",
+    "pinyin": "rújiā",
+    "updated": "2026-07-12"
+  },
+  {
+    "path": "pages/religion/topic_zuxian.html",
+    "type": "topic",
+    "category": "religion",
+    "title": "祖先崇拜 · Ancestor Veneration",
+    "desc": "Shang oracle bones record divinations to royal ancestors; 祖先崇拜, the ritual care of the dead, continues today in tablets, offerings, and Qingming graves.",
+    "tags": [
+      "ancestors",
+      "ritual",
+      "family"
+    ],
+    "status": "complete",
+    "pinyin": "zǔxiān chóngbài",
+    "updated": "2026-07-12"
+  },
+  {
+    "path": "pages/vocab/lunhui_轮回.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "轮回 · samsara; the cycle of rebirth",
+    "desc": "轮回 renders Sanskrit saṃsāra as 'wheel' plus 'return': the karmic cycle carrying beings through six realms until liberation.",
+    "tags": [
+      "buddhism",
+      "religion",
+      "philosophy",
+      "cosmology",
+      "classical",
+      "fate",
+      "life"
+    ],
+    "status": "complete",
+    "pinyin": "lúnhuí",
+    "updated": "2026-07-12"
+  },
+  {
+    "path": "pages/vocab/yuanfen_缘分.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "缘分 · karmic connection",
+    "desc": "Buddhist karmic fate: 500 years of cultivation to share a boat with a stranger, a thousand to share a pillow.",
+    "tags": [
+      "buddhism",
+      "fate",
+      "romance"
+    ],
+    "status": "complete",
+    "pinyin": "yuánfèn",
+    "updated": "2026-07-12"
+  },
+  {
     "path": "pages/characters/chan2_禅.html",
     "type": "character",
     "category": "characters",
@@ -3804,41 +4232,6 @@
     "updated": "2026-06-19"
   },
   {
-    "path": "pages/arts/topic_guqin.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "古琴 · the scholar's zither",
-    "desc": "The seven-string zither Confucius played throughout his life, and the origin of 知音, the word for a person who truly understands you.",
-    "tags": [
-      "arts",
-      "music",
-      "classical",
-      "confucianism",
-      "literature"
-    ],
-    "status": "complete",
-    "pinyin": "gǔqín",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/arts/topic_jingju_roles.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "生旦净末丑 · Role Types in Peking Opera",
-    "desc": "Five role categories, each a complete performance tradition -- voice, movement, makeup, and costume as a total semiotic system.",
-    "tags": [
-      "opera",
-      "theatre",
-      "performance",
-      "culture",
-      "arts",
-      "music"
-    ],
-    "status": "complete",
-    "pinyin": "shēng dàn jìng mò chǒu",
-    "updated": "2026-06-19"
-  },
-  {
     "path": "pages/arts/topic_luxun.html",
     "type": "topic",
     "category": "arts",
@@ -3873,42 +4266,6 @@
     "updated": "2026-06-19"
   },
   {
-    "path": "pages/arts/topic_shijing.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "诗经 · Book of Songs",
-    "desc": "China oldest poetry anthology: three hundred poems that Confucius said no educated person could afford to ignore.",
-    "tags": [
-      "poetry",
-      "literature",
-      "classical",
-      "history",
-      "culture"
-    ],
-    "status": "complete",
-    "pinyin": "shījīng",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/arts/topic_shufa_styles.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "书法风格 · The Five Scripts of Chinese Calligraphy",
-    "desc": "Five script styles chart two thousand years of Chinese writing, from the solemn bronze inscriptions of the Zhou to the explosive cursive of the Tang masters.",
-    "tags": [
-      "calligraphy",
-      "arts",
-      "writing",
-      "classical",
-      "history",
-      "aesthetics",
-      "culture"
-    ],
-    "status": "complete",
-    "pinyin": "shūfǎ fēnggé",
-    "updated": "2026-06-19"
-  },
-  {
     "path": "pages/arts/topic_shuimohua.html",
     "type": "topic",
     "category": "arts",
@@ -3924,24 +4281,6 @@
     ],
     "status": "complete",
     "pinyin": "shuǐmòhuà",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/arts/topic_songci.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "宋词 · Song Dynasty Lyric",
-    "desc": "The poem that sings: fixed tune patterns, named meters, and three masters who defined what the Chinese lyric could feel.",
-    "tags": [
-      "poetry",
-      "literature",
-      "classical",
-      "song",
-      "history",
-      "culture"
-    ],
-    "status": "complete",
-    "pinyin": "sòngcí",
     "updated": "2026-06-19"
   },
   {
@@ -3975,25 +4314,6 @@
     ],
     "status": "complete",
     "pinyin": "zhuànkè",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/characters/dao4_道.html",
-    "type": "character",
-    "category": "characters",
-    "title": "道 · way, path",
-    "desc": "The word that gave Daoism its name, and underlies every Chinese 'ism'.",
-    "tags": [
-      "daoism",
-      "philosophy",
-      "path"
-    ],
-    "status": "complete",
-    "char": "道",
-    "pinyin": "dào",
-    "tone": 4,
-    "hsk": 3,
-    "radical": "辶",
     "updated": "2026-06-19"
   },
   {
@@ -4055,26 +4375,6 @@
       "to": 4
     },
     "radical": "心",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/characters/he2_和.html",
-    "type": "character",
-    "category": "characters",
-    "title": "和 · harmony, and, with; peace",
-    "desc": "和 carries the same concept across grammar and philosophy: grain and mouth together, the harmony of shared food and speech, a character that serves as both everyday conjunction and the Confucian ideal of a well-ordered world.",
-    "tags": [
-      "confucianism",
-      "social",
-      "grammar",
-      "philosophy"
-    ],
-    "status": "complete",
-    "char": "和",
-    "pinyin": "hé",
-    "tone": 2,
-    "hsk": 1,
-    "radical": "禾",
     "updated": "2026-06-19"
   },
   {
@@ -4140,25 +4440,6 @@
     "updated": "2026-06-19"
   },
   {
-    "path": "pages/characters/kuai4_快.html",
-    "type": "character",
-    "category": "characters",
-    "title": "快 · fast, happy",
-    "desc": "One character carries two meanings that turn out to be the same thing: speed and joy both feel like the heart cutting loose.",
-    "tags": [
-      "emotion",
-      "daily-life",
-      "adjectives"
-    ],
-    "status": "complete",
-    "char": "快",
-    "pinyin": "kuài",
-    "tone": 4,
-    "hsk": 2,
-    "radical": "忄",
-    "updated": "2026-06-19"
-  },
-  {
     "path": "pages/characters/long2_龙.html",
     "type": "character",
     "category": "characters",
@@ -4214,25 +4495,6 @@
     "tone": 2,
     "hsk": 4,
     "radical": "八",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/characters/ren2_人.html",
-    "type": "character",
-    "category": "characters",
-    "title": "人 · person, humanity",
-    "desc": "The character for human being, and its echo in 仁 rén, Confucian benevolence.",
-    "tags": [
-      "humanity",
-      "confucianism",
-      "radical"
-    ],
-    "status": "complete",
-    "char": "人",
-    "pinyin": "rén",
-    "tone": 2,
-    "hsk": 1,
-    "radical": "人",
     "updated": "2026-06-19"
   },
   {
@@ -4328,29 +4590,6 @@
     "tone": 4,
     "hsk": 1,
     "radical": "一",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/characters/wei2_为.html",
-    "type": "character",
-    "category": "characters",
-    "title": "为 · to do; to act; for; because of",
-    "desc": "In oracle bone script, a hand leading an elephant (to guide an immense force through skillful agency), and the character at the center of the Daoist concept of non-action.",
-    "tags": [
-      "grammar",
-      "classical",
-      "taoism",
-      "philosophy",
-      "daoism",
-      "wuwei",
-      "syntax"
-    ],
-    "status": "complete",
-    "char": "为",
-    "pinyin": "wéi",
-    "tone": 2,
-    "hsk": 2,
-    "radical": "丶",
     "updated": "2026-06-19"
   },
   {
@@ -4489,28 +4728,6 @@
     "tone": 3,
     "hsk": 2,
     "radical": "雨",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/characters/yu4_玉.html",
-    "type": "character",
-    "category": "characters",
-    "title": "玉 · jade, precious",
-    "desc": "The material of kingship and moral cultivation: three jade discs on a cord, a glyph almost identical to king, the stone that Confucius said was virtue made visible.",
-    "tags": [
-      "nature",
-      "culture",
-      "virtue",
-      "confucianism",
-      "aesthetics",
-      "royalty",
-      "classical"
-    ],
-    "status": "complete",
-    "char": "玉",
-    "pinyin": "yù",
-    "tone": 4,
-    "radical": "玉",
     "updated": "2026-06-19"
   },
   {
@@ -4701,36 +4918,6 @@
     "updated": "2026-06-19"
   },
   {
-    "path": "pages/grammar/le_了.html",
-    "type": "grammar",
-    "category": "grammar",
-    "title": "了 · the perfective particle",
-    "desc": "Perfective aspect vs. change-of-state: the single most-confused particle.",
-    "tags": [
-      "aspect",
-      "particle",
-      "tense"
-    ],
-    "status": "complete",
-    "pinyin": "le",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/grammar/liangci_量词.html",
-    "type": "grammar",
-    "category": "grammar",
-    "title": "量词 · measure words",
-    "desc": "个, 只, 条, 本, 张: the classifier taxonomy and the logic behind it.",
-    "tags": [
-      "measure-words",
-      "classifiers",
-      "nouns"
-    ],
-    "status": "complete",
-    "pinyin": "liàngcí",
-    "updated": "2026-06-19"
-  },
-  {
     "path": "pages/grammar/suo_所.html",
     "type": "grammar",
     "category": "grammar",
@@ -4778,23 +4965,6 @@
     ],
     "status": "complete",
     "pinyin": "zhe",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/grammar/zhi_者.html",
-    "type": "grammar",
-    "category": "grammar",
-    "title": "者 · classical nominalizer \"the one who; that which\"",
-    "desc": "The particle that turns a verb or adjective into a person, and that never stopped working.",
-    "tags": [
-      "grammar",
-      "classical",
-      "syntax",
-      "literary",
-      "compounds"
-    ],
-    "status": "complete",
-    "pinyin": "zhě",
     "updated": "2026-06-19"
   },
   {
@@ -4850,24 +5020,6 @@
     "updated": "2026-06-19"
   },
   {
-    "path": "pages/history/topic_keju.html",
-    "type": "topic",
-    "category": "history",
-    "title": "科举 · The Imperial Examination System",
-    "desc": "The exam that governed Chinese civilization for 1,300 years: selecting officials by merit, enshrining the Confucian canon, and shaping every dynasty from the Sui through the Qing.",
-    "tags": [
-      "history",
-      "confucianism",
-      "tang",
-      "song",
-      "ming",
-      "qing"
-    ],
-    "status": "complete",
-    "pinyin": "kē jǔ",
-    "updated": "2026-06-19"
-  },
-  {
     "path": "pages/history/topic_mingchao.html",
     "type": "topic",
     "category": "history",
@@ -4914,21 +5066,6 @@
     ],
     "status": "complete",
     "pinyin": "Qín cháo",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/history/topic_qingchao.html",
-    "type": "topic",
-    "category": "history",
-    "title": "清朝 · The Qing Dynasty",
-    "desc": "Manchu rule, the long peace, and the slow unraveling before 1911.",
-    "tags": [
-      "qing",
-      "manchu",
-      "decline"
-    ],
-    "status": "complete",
-    "pinyin": "qīngcháo",
     "updated": "2026-06-19"
   },
   {
@@ -5144,36 +5281,6 @@
     "updated": "2026-06-19"
   },
   {
-    "path": "pages/religion/topic_rujia.html",
-    "type": "topic",
-    "category": "religion",
-    "title": "儒家 · Confucianism",
-    "desc": "The school of the ru: ritual, hierarchy, and moral cultivation as state religion.",
-    "tags": [
-      "confucianism",
-      "ritual",
-      "ethics"
-    ],
-    "status": "complete",
-    "pinyin": "rújiā",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/religion/topic_zuxian.html",
-    "type": "topic",
-    "category": "religion",
-    "title": "祖先崇拜 · Ancestor Veneration",
-    "desc": "Tablets, offerings, and the living debt to the dead: the deep continuity of Chinese ancestor veneration.",
-    "tags": [
-      "ancestors",
-      "ritual",
-      "family"
-    ],
-    "status": "complete",
-    "pinyin": "zǔxiān chóngbài",
-    "updated": "2026-06-19"
-  },
-  {
     "path": "pages/science/topic_lifa.html",
     "type": "topic",
     "category": "science",
@@ -5378,25 +5485,6 @@
     "updated": "2026-06-19"
   },
   {
-    "path": "pages/vocab/lunhui_轮回.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "轮回 · samsara; the cycle of rebirth",
-    "desc": "The Buddhist karmic wheel that turns through six realms of existence: the foundational concept that motivates all Buddhist practice as a path toward liberation.",
-    "tags": [
-      "buddhism",
-      "religion",
-      "philosophy",
-      "cosmology",
-      "classical",
-      "fate",
-      "life"
-    ],
-    "status": "complete",
-    "pinyin": "lúnhuí",
-    "updated": "2026-06-19"
-  },
-  {
     "path": "pages/vocab/pinyin_拼音.html",
     "type": "topic",
     "category": "vocab",
@@ -5560,21 +5648,6 @@
     ],
     "status": "complete",
     "pinyin": "yīnyáng",
-    "updated": "2026-06-19"
-  },
-  {
-    "path": "pages/vocab/yuanfen_缘分.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "缘分 · karmic connection",
-    "desc": "Buddhist-rooted fate that ties strangers, lovers, and old friends.",
-    "tags": [
-      "buddhism",
-      "fate",
-      "romance"
-    ],
-    "status": "complete",
-    "pinyin": "yuánfèn",
     "updated": "2026-06-19"
   },
   {
@@ -8548,26 +8621,6 @@
     "updated": "2026-04-25"
   },
   {
-    "path": "pages/grammar/nai_乃.html",
-    "type": "grammar",
-    "category": "grammar",
-    "title": "乃 · classical connective: then, thereupon, thus; to be; only then",
-    "desc": "A classical connective that marks earned consequence: the result that follows because the condition was genuinely met, not merely next in line.",
-    "tags": [
-      "grammar",
-      "classical",
-      "syntax",
-      "literary",
-      "classics",
-      "conjunction",
-      "rhetoric",
-      "copula"
-    ],
-    "status": "complete",
-    "pinyin": "nǎi",
-    "updated": "2026-04-25"
-  },
-  {
     "path": "pages/grammar/zhe_particle_呢.html",
     "type": "grammar",
     "category": "grammar",
@@ -8598,24 +8651,6 @@
     ],
     "status": "complete",
     "pinyin": "ma",
-    "updated": "2026-04-25"
-  },
-  {
-    "path": "pages/grammar/zhi_之.html",
-    "type": "grammar",
-    "category": "grammar",
-    "title": "之 · classical genitive, nominalizer, and pronoun",
-    "desc": "The single character that does the work of three English words (of, it, and the one who) and still shows up in modern Chinese every day.",
-    "tags": [
-      "grammar",
-      "classical",
-      "syntax",
-      "literary",
-      "particle",
-      "classics"
-    ],
-    "status": "complete",
-    "pinyin": "zhī",
     "updated": "2026-04-25"
   },
   {
@@ -9176,26 +9211,6 @@
     ],
     "status": "complete",
     "pinyin": "miànzi shíjiàn",
-    "updated": "2026-04-22"
-  },
-  {
-    "path": "pages/history/topic_zhanguo.html",
-    "type": "topic",
-    "category": "history",
-    "title": "战国时期 · Warring States Period",
-    "desc": "The most chaotic political era in Chinese history was also the condition that produced every major Chinese philosophical tradition. Political fragmentation and intellectual diversity are not separate stories.",
-    "tags": [
-      "ancient",
-      "dynasty",
-      "history",
-      "philosophy",
-      "legalism",
-      "statecraft",
-      "politics",
-      "classics"
-    ],
-    "status": "complete",
-    "pinyin": "zhànguó shíqī",
     "updated": "2026-04-22"
   },
   {
@@ -12423,21 +12438,6 @@
     ],
     "status": "complete",
     "pinyin": "shì…de",
-    "updated": "2026-04-18"
-  },
-  {
-    "path": "pages/history/topic_songchao.html",
-    "type": "topic",
-    "category": "history",
-    "title": "宋朝 · The Song Dynasty",
-    "desc": "Economic revolution, printing, compass: the dynasty modernity missed.",
-    "tags": [
-      "song",
-      "economy",
-      "innovation"
-    ],
-    "status": "complete",
-    "pinyin": "sòngcháo",
     "updated": "2026-04-18"
   },
   {

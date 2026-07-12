@@ -1,334 +1,366 @@
 [
   {
-    "path": "pages/characters/chan2_禅.html",
-    "type": "character",
-    "category": "characters",
-    "title": "禅 · meditation; Chan; to abdicate",
-    "desc": "One altar character, two civilizations: read shàn it yields thrones and sacrifices to earth; read chán it transliterates Sanskrit dhyāna and founds Zen.",
-    "tags": [
-      "buddhism",
-      "chan",
-      "religion"
-    ],
-    "status": "complete",
-    "char": "禅",
-    "pinyin": "chán",
-    "tone": 2,
-    "radical": "礻",
-    "updated": "2026-07-11"
-  },
-  {
-    "path": "pages/characters/xing1_星.html",
-    "type": "character",
-    "category": "characters",
-    "title": "星 · star; celestial body; spark",
-    "desc": "Born of the sun radical and a sprout, 星 names the stars, the planets, the week, movie fame, and the spark that starts prairie fires.",
-    "tags": [
-      "astronomy",
-      "cosmology",
-      "nature"
-    ],
-    "status": "complete",
-    "char": "星",
-    "pinyin": "xīng",
-    "tone": 1,
-    "hsk": 1,
-    "radical": "日",
-    "updated": "2026-07-11"
-  },
-  {
-    "path": "pages/daily/topic_diannao_wangluo.html",
+    "path": "pages/arts/topic_guqin.html",
     "type": "topic",
-    "category": "daily",
-    "title": "电脑与网络 · Computers & the Internet",
-    "desc": "The computer is an electric brain, downloading is \"carrying down,\" and the number 666 is a compliment.",
+    "category": "arts",
+    "title": "古琴 · the scholar's zither",
+    "desc": "The seven-string zither Confucius played throughout his life, and the origin of 知音, the word for a person who truly understands you.",
     "tags": [
-      "technology",
-      "communication",
-      "daily-life",
-      "modern",
-      "media"
+      "arts",
+      "music",
+      "classical",
+      "confucianism",
+      "literature"
     ],
     "status": "complete",
-    "pinyin": "diànnǎo yǔ wǎngluò",
-    "updated": "2026-07-11"
+    "pinyin": "gǔqín",
+    "updated": "2026-07-12"
   },
   {
-    "path": "pages/daily/topic_duliangheng.html",
+    "path": "pages/arts/topic_jingju_roles.html",
     "type": "topic",
-    "category": "daily",
-    "title": "度量衡 · Weights & Measures",
-    "desc": "Fruit is priced by the half-kilo 斤, distance walks in 里, and an idiom about six of one and half a dozen still counts in base sixteen.",
+    "category": "arts",
+    "title": "生旦净末丑 · Role Types in Peking Opera",
+    "desc": "The five 行当 of Peking Opera: sheng, dan, jing, mo, and chou, each a lifelong specialization in voice, movement, and makeup.",
     "tags": [
-      "scale",
-      "daily-life",
-      "trade",
+      "opera",
+      "theatre",
+      "performance",
+      "culture",
+      "arts",
+      "music"
+    ],
+    "status": "complete",
+    "pinyin": "shēng dàn jìng mò chǒu",
+    "updated": "2026-07-12"
+  },
+  {
+    "path": "pages/arts/topic_shijing.html",
+    "type": "topic",
+    "category": "arts",
+    "title": "诗经 · Book of Songs",
+    "desc": "The 305 poems of China's oldest anthology (c. 1046-600 BCE), which Confucius said no educated person could afford to ignore.",
+    "tags": [
+      "poetry",
+      "literature",
+      "classical",
       "history",
-      "numbers"
+      "culture"
     ],
     "status": "complete",
-    "pinyin": "dùliànghéng",
-    "updated": "2026-07-11"
+    "pinyin": "shījīng",
+    "updated": "2026-07-12"
   },
   {
-    "path": "pages/daily/topic_kanbing.html",
+    "path": "pages/arts/topic_shufa_styles.html",
     "type": "topic",
-    "category": "daily",
-    "title": "看病 · Seeing a Doctor",
-    "desc": "Getting sick in Chinese starts with a queue number, runs on the verb \"look,\" and ends with the eternal prescription: drink more hot water.",
+    "category": "arts",
+    "title": "书法风格 · The Five Scripts of Chinese Calligraphy",
+    "desc": "The five scripts of Chinese calligraphy, 篆隶楷行草, run from Zhou bronze inscriptions to Tang wild cursive; choosing a script is choosing a register.",
     "tags": [
-      "health",
-      "medicine",
-      "daily-life",
-      "body",
-      "vocabulary"
+      "calligraphy",
+      "arts",
+      "writing",
+      "classical",
+      "history",
+      "aesthetics",
+      "culture"
     ],
     "status": "complete",
-    "pinyin": "kànbìng",
-    "updated": "2026-07-11"
+    "pinyin": "shūfǎ fēnggé",
+    "updated": "2026-07-12"
   },
   {
-    "path": "pages/daily/topic_shengyi.html",
+    "path": "pages/arts/topic_songci.html",
     "type": "topic",
-    "category": "daily",
-    "title": "生意 · Doing Business",
-    "desc": "Business in Chinese is literally \"the meaning of life,\" merchants are named after a fallen dynasty, and the deal closes at the dinner table.",
+    "category": "arts",
+    "title": "宋词 · Song Dynasty Lyric",
+    "desc": "Song lyrics (词 cí) fit fixed tune patterns called 词牌; Li Qingzhao, Su Shi, and Xin Qiji are the form's three masters.",
     "tags": [
-      "business",
-      "commerce",
-      "daily-life",
-      "vocabulary",
-      "social"
+      "poetry",
+      "literature",
+      "classical",
+      "song",
+      "history",
+      "culture"
     ],
     "status": "complete",
-    "pinyin": "shēngyì",
-    "updated": "2026-07-11"
+    "pinyin": "sòngcí",
+    "updated": "2026-07-12"
   },
   {
-    "path": "pages/daily/topic_shuzi_xitong.html",
-    "type": "topic",
-    "category": "daily",
-    "title": "数字系统 · The Chinese Number System",
-    "desc": "Chinese numbers are built from eleven syllables and zero irregularity; the catch is that the system pivots on ten thousand, not one thousand.",
+    "path": "pages/characters/dao4_道.html",
+    "type": "character",
+    "category": "characters",
+    "title": "道 · way, path",
+    "desc": "The character that opens the Dàodéjīng and names Daoism: way, path, principle, and the measure word for rivers and light.",
     "tags": [
-      "numbers",
-      "daily-life",
-      "vocabulary",
-      "scale",
-      "learning"
+      "daoism",
+      "philosophy",
+      "path"
     ],
     "status": "complete",
-    "pinyin": "shùzì xìtǒng",
-    "updated": "2026-07-11"
+    "char": "道",
+    "pinyin": "dào",
+    "tone": 4,
+    "hsk": 3,
+    "radical": "辶",
+    "updated": "2026-07-12"
   },
   {
-    "path": "pages/daily/topic_tianqi.html",
-    "type": "topic",
-    "category": "daily",
-    "title": "天气 · Talking About the Weather",
-    "desc": "Rain falls, wind blows, and fog counts as a noun-verb drama: the small grammar of weather is a beginner's best conversation opener.",
+    "path": "pages/characters/he2_和.html",
+    "type": "character",
+    "category": "characters",
+    "title": "和 · harmony, and, with; peace",
+    "desc": "禾 (grain) beside 口 (mouth): 和 is both Mandarin's everyday \"and\" and the Confucian ideal of harmony without uniformity.",
     "tags": [
-      "weather",
+      "confucianism",
+      "social",
+      "grammar",
+      "philosophy"
+    ],
+    "status": "complete",
+    "char": "和",
+    "pinyin": "hé",
+    "tone": 2,
+    "hsk": 1,
+    "radical": "禾",
+    "updated": "2026-07-12"
+  },
+  {
+    "path": "pages/characters/kuai4_快.html",
+    "type": "character",
+    "category": "characters",
+    "title": "快 · fast, happy",
+    "desc": "快 joins 忄 (heart) to 夬 (a decisive cut): speed and joy are the same image, a heart running without drag.",
+    "tags": [
+      "emotion",
       "daily-life",
-      "spoken",
+      "adjectives"
+    ],
+    "status": "complete",
+    "char": "快",
+    "pinyin": "kuài",
+    "tone": 4,
+    "hsk": 2,
+    "radical": "忄",
+    "updated": "2026-07-12"
+  },
+  {
+    "path": "pages/characters/ren2_人.html",
+    "type": "character",
+    "category": "characters",
+    "title": "人 · person, humanity",
+    "desc": "Two strokes, barely changed since the oracle bones, write 人 rén; add 二 and you get 仁, Confucian benevolence.",
+    "tags": [
+      "humanity",
+      "confucianism",
+      "radical"
+    ],
+    "status": "complete",
+    "char": "人",
+    "pinyin": "rén",
+    "tone": 2,
+    "hsk": 1,
+    "radical": "人",
+    "updated": "2026-07-12"
+  },
+  {
+    "path": "pages/characters/wei2_为.html",
+    "type": "character",
+    "category": "characters",
+    "title": "为 · to do; to act; for; because of",
+    "desc": "In oracle bone script 为 is a hand leading an elephant, and it sits at the center of Daoist 无为 non-action.",
+    "tags": [
+      "grammar",
+      "classical",
+      "taoism",
+      "philosophy",
+      "daoism",
+      "wuwei",
+      "syntax"
+    ],
+    "status": "complete",
+    "char": "为",
+    "pinyin": "wéi",
+    "tone": 2,
+    "hsk": 2,
+    "radical": "丶",
+    "updated": "2026-07-12"
+  },
+  {
+    "path": "pages/characters/yu4_玉.html",
+    "type": "character",
+    "category": "characters",
+    "title": "玉 · jade, precious",
+    "desc": "Three jade discs on a cord, one dot away from 王 (wáng, king): the stone Confucius said was virtue made visible.",
+    "tags": [
       "nature",
-      "vocabulary"
+      "culture",
+      "virtue",
+      "confucianism",
+      "aesthetics",
+      "royalty",
+      "classical"
     ],
     "status": "complete",
-    "pinyin": "tiānqì",
-    "updated": "2026-07-11"
+    "char": "玉",
+    "pinyin": "yù",
+    "tone": 4,
+    "radical": "玉",
+    "updated": "2026-07-12"
   },
   {
-    "path": "pages/grammar/jieguobuyu_结果补语.html",
+    "path": "pages/grammar/le_了.html",
     "type": "grammar",
     "category": "grammar",
-    "title": "结果补语 · resultative complements",
-    "desc": "Chinese verbs describe the attempt; a second syllable reports the outcome. Listening is 听, but understanding what you heard is 听懂.",
+    "title": "了 · the perfective particle",
+    "desc": "Post-verb 了 marks a completed action; sentence-final 了 announces a new situation, and the two can stack in one sentence.",
     "tags": [
-      "grammar",
-      "syntax",
-      "aspect"
-    ],
-    "status": "complete",
-    "pinyin": "jiéguǒ bǔyǔ",
-    "updated": "2026-07-11"
-  },
-  {
-    "path": "pages/grammar/kenengbuyu_可能补语.html",
-    "type": "grammar",
-    "category": "grammar",
-    "title": "可能补语 · potential complements",
-    "desc": "Slide 得 or 不 inside a verb-result pair and it states ability: 听懂 is understood, 听得懂 is can understand, 听不懂 is the learner's anthem.",
-    "tags": [
-      "grammar",
-      "syntax",
-      "spoken"
-    ],
-    "status": "complete",
-    "pinyin": "kěnéng bǔyǔ",
-    "updated": "2026-07-11"
-  },
-  {
-    "path": "pages/grammar/liheci_离合词.html",
-    "type": "grammar",
-    "category": "grammar",
-    "title": "离合词 · separable verbs",
-    "desc": "Words that unzip: 见面 is to meet, but meeting him is 跟他见面 and meeting once is 见一次面, because the \"word\" is secretly verb plus object.",
-    "tags": [
-      "grammar",
-      "syntax",
-      "spoken"
-    ],
-    "status": "complete",
-    "pinyin": "líhécí",
-    "updated": "2026-07-11"
-  },
-  {
-    "path": "pages/grammar/you_zai_又再.html",
-    "type": "grammar",
-    "category": "grammar",
-    "title": "又 · 再 · again, twice over",
-    "desc": "Chinese has two agains: 又 looks backward at a repetition that happened, 再 looks forward to one still to come. 再见 is the proof.",
-    "tags": [
-      "grammar",
-      "syntax",
+      "aspect",
+      "particle",
       "tense"
     ],
     "status": "complete",
-    "pinyin": "yòu / zài",
-    "updated": "2026-07-11"
+    "pinyin": "le",
+    "updated": "2026-07-12"
   },
   {
-    "path": "pages/grammar/zhengfan_正反问.html",
+    "path": "pages/grammar/liangci_量词.html",
     "type": "grammar",
     "category": "grammar",
-    "title": "正反问 · A-not-A questions",
-    "desc": "Chinese asks yes-no questions by offering both answers: 去不去 is \"going, not going?\", and the pattern replaces 吗 with built-in neutrality.",
+    "title": "量词 · measure words",
+    "desc": "个, 只, 条, 本, 张: the classifier taxonomy and the logic behind it.",
+    "tags": [
+      "measure-words",
+      "classifiers",
+      "nouns"
+    ],
+    "status": "complete",
+    "pinyin": "liàngcí",
+    "updated": "2026-07-12"
+  },
+  {
+    "path": "pages/grammar/nai_乃.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "乃 · classical connective: then, thereupon, thus; to be; only then",
+    "desc": "Classical 乃 marks a consequence as earned, where modern 就 stays neutral; as emphatic copula it gives 失败乃成功之母 its weight.",
     "tags": [
       "grammar",
+      "classical",
       "syntax",
-      "spoken"
+      "literary",
+      "classics",
+      "conjunction",
+      "rhetoric",
+      "copula"
     ],
     "status": "complete",
-    "pinyin": "zhèngfǎn wèn",
-    "updated": "2026-07-11"
+    "pinyin": "nǎi",
+    "updated": "2026-07-12"
   },
   {
-    "path": "pages/science/topic_gongcheng.html",
-    "type": "topic",
-    "category": "science",
-    "title": "工程 · Engineering",
-    "desc": "From the carpenter's square inside 工 to the high-speed rail map, the vocabulary of a civilization that has always thought in projects.",
+    "path": "pages/grammar/zhi_之.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "之 · classical genitive, nominalizer, and pronoun",
+    "desc": "之 zhī did the work of 'of', 'him/her/it', and 'the one who' in classical Chinese; it survives in 之间, 之后, and 总之.",
     "tags": [
-      "engineering",
-      "science",
-      "technology",
-      "industry",
-      "architecture"
-    ],
-    "status": "complete",
-    "pinyin": "gōngchéng",
-    "updated": "2026-07-11"
-  },
-  {
-    "path": "pages/science/topic_huaxue.html",
-    "type": "topic",
-    "category": "science",
-    "title": "化学 · Chemistry",
-    "desc": "The Chinese periodic table is a naming machine: one character per element, with the radical telling you its state at room temperature.",
-    "tags": [
-      "chemistry",
-      "science",
-      "technology",
-      "vocabulary",
-      "translation"
-    ],
-    "status": "complete",
-    "pinyin": "huàxué",
-    "updated": "2026-07-11"
-  },
-  {
-    "path": "pages/science/topic_shengwu.html",
-    "type": "topic",
-    "category": "science",
-    "title": "生物 · Biology & the Naming of Living Things",
-    "desc": "The panda is a bear-cat, the giraffe a long-necked deer, and the word for gene may be the best translation in the language.",
-    "tags": [
-      "biology",
-      "science",
-      "nature",
-      "life",
-      "vocabulary"
-    ],
-    "status": "complete",
-    "pinyin": "shēngwù",
-    "updated": "2026-07-11"
-  },
-  {
-    "path": "pages/science/topic_shuxue.html",
-    "type": "topic",
-    "category": "science",
-    "title": "数学 · Mathematics",
-    "desc": "The vocabulary of Chinese mathematics, where calculus is \"tiny accumulation\" and geometry was named by a Ming official translating Euclid.",
-    "tags": [
-      "mathematics",
-      "science",
-      "vocabulary",
-      "geometry",
-      "learning"
-    ],
-    "status": "complete",
-    "pinyin": "shùxué",
-    "updated": "2026-07-11"
-  },
-  {
-    "path": "pages/science/topic_tianwen.html",
-    "type": "topic",
-    "category": "science",
-    "title": "天文 · Astronomy",
-    "desc": "The five visible planets are named for the five phases, comets are brooms, and the space program borrows its names from mythology.",
-    "tags": [
-      "astronomy",
-      "science",
-      "cosmology",
-      "vocabulary",
-      "wuxing"
-    ],
-    "status": "complete",
-    "pinyin": "tiānwén",
-    "updated": "2026-07-11"
-  },
-  {
-    "path": "pages/science/topic_wuli.html",
-    "type": "topic",
-    "category": "science",
-    "title": "物理 · Physics",
-    "desc": "Physics in Chinese is \"the pattern of things,\" a phrase lifted from a Song-dynasty program for investigating the world.",
-    "tags": [
-      "physics",
-      "science",
-      "vocabulary",
-      "energy",
-      "translation"
-    ],
-    "status": "complete",
-    "pinyin": "wùlǐ",
-    "updated": "2026-07-11"
-  },
-  {
-    "path": "pages/vocab/duoshao_多少.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "多少 · how much, how many",
-    "desc": "Chinese builds its \"how much\" by welding many to few, part of a system where opposites fuse into the scale between them.",
-    "tags": [
-      "numbers",
       "grammar",
-      "spoken",
-      "vocabulary"
+      "classical",
+      "syntax",
+      "literary",
+      "particle",
+      "classics"
     ],
     "status": "complete",
-    "pinyin": "duōshao",
-    "updated": "2026-07-11"
+    "pinyin": "zhī",
+    "updated": "2026-07-12"
+  },
+  {
+    "path": "pages/grammar/zhi_者.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "者 · classical nominalizer \"the one who; that which\"",
+    "desc": "者 zhě turns any verb into \"the one who\": 学者 scholar, 读者 reader, 作者 author, unchanged since the Analects.",
+    "tags": [
+      "grammar",
+      "classical",
+      "syntax",
+      "literary",
+      "compounds"
+    ],
+    "status": "complete",
+    "pinyin": "zhě",
+    "updated": "2026-07-12"
+  },
+  {
+    "path": "pages/history/topic_keju.html",
+    "type": "topic",
+    "category": "history",
+    "title": "科举 · The Imperial Examination System",
+    "desc": "The exam that selected China's officials for 1,300 years, from the Sui in 605 CE to abolition in 1905.",
+    "tags": [
+      "history",
+      "confucianism",
+      "tang",
+      "song",
+      "ming",
+      "qing"
+    ],
+    "status": "complete",
+    "pinyin": "kē jǔ",
+    "updated": "2026-07-12"
+  },
+  {
+    "path": "pages/history/topic_qingchao.html",
+    "type": "topic",
+    "category": "history",
+    "title": "清朝 · The Qing Dynasty",
+    "desc": "Invited through Shanhai Pass in 1644, the Manchus ruled China for 268 years, until the 1911 revolution ended imperial rule.",
+    "tags": [
+      "qing",
+      "manchu",
+      "decline"
+    ],
+    "status": "complete",
+    "pinyin": "qīngcháo",
+    "updated": "2026-07-12"
+  },
+  {
+    "path": "pages/history/topic_songchao.html",
+    "type": "topic",
+    "category": "history",
+    "title": "宋朝 · The Song Dynasty",
+    "desc": "Economic revolution, printing, compass: the dynasty modernity missed.",
+    "tags": [
+      "song",
+      "economy",
+      "innovation"
+    ],
+    "status": "complete",
+    "pinyin": "sòngcháo",
+    "updated": "2026-07-12"
+  },
+  {
+    "path": "pages/history/topic_zhanguo.html",
+    "type": "topic",
+    "category": "history",
+    "title": "战国时期 · Warring States Period",
+    "desc": "Seven states fought from 475 to 221 BCE, and that same fragmentation produced Confucianism, Daoism, Legalism, and Mohism.",
+    "tags": [
+      "ancient",
+      "dynasty",
+      "history",
+      "philosophy",
+      "legalism",
+      "statecraft",
+      "politics",
+      "classics"
+    ],
+    "status": "complete",
+    "pinyin": "zhànguó shíqī",
+    "updated": "2026-07-12"
   }
 ]

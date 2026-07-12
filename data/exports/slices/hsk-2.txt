@@ -53,7 +53,7 @@
 经	jīng	classic, scripture, to pass through, warp threads — The lengthwise warp threads strung on a loom, the structural through-lines that hold a fabric together. From that image grow the canonical classic, the act of passing through, and the running of an enterprise.
 句	jù	sentence, phrase, a unit of speech — A wrapping line drawn over a mouth: speech bundled into a single unit. From that image grows the sentence, the line of verse, and the measure word that counts the remarks we say.
 可	kě	can; may; worth; quite — A two-stroke mouth character whose ancient sense of affirming breath became the pivot of permission, capability, and worth in classical and modern Chinese.
-快	kuài	fast, happy — One character carries two meanings that turn out to be the same thing: speed and joy both feel like the heart cutting loose.
+快	kuài	fast, happy — 快 joins 忄 (heart) to 夬 (a decisive cut): speed and joy are the same image, a heart running without drag.
 老	lǎo	old, venerable, experienced — A stooped elder with long hair: age as wisdom, seniority as moral authority, and the Daoist sage who wrote the Daodejing.
 乐	lè	happy, joyful (lè); music (yuè) — A picture of a wooden frame strung with silk and a drum, an early musical instrument. The simplified 乐 carries two readings: yuè for music, the original sense, and lè for joy, the happiness that music gives.
 离	lí	to leave, to be apart, away from — Once the name of a netted mythical bird, 离 was borrowed so long ago for to part that almost no speaker recalls its feathers.
@@ -89,7 +89,7 @@
 通	tōng	to go through; to connect; general; fluent — The walk-movement radical drives a path through every obstacle, giving 通 a single character that covers passage, communication, expertise, and the ordinary general state of things.
 头	tóu	head, top, end, chief, noun-suffix — The head, and from it the top of a hill, the end of a street, the start of a thing, the chief of a group, and the toneless tag on a hundred everyday nouns. The simplified 头 stands for traditional 頭.
 完	wán	to finish; to be whole — 完 means both whole and finished, and the bridge between them is intact completeness; its most important job is as a result complement, the 完 that ends 吃完, 做完, and 看完.
-为	wéi	to do; to act; for; because of — In oracle bone script, a hand leading an elephant (to guide an immense force through skillful agency), and the character at the center of the Daoist concept of non-action.
+为	wéi	to do; to act; for; because of — In oracle bone script 为 is a hand leading an elephant, and it sits at the center of Daoist 无为 non-action.
 文	wén	writing, culture, civil — A tattooed figure: writing as marks on the body, culture as the accumulated markings of civilization.
 物	wù	thing, object, matter, being — An ox under a phonetic, once the word for varicolored cattle, that broadened into the whole world of things: every object, all matter, the myriad creatures, and even a person as a figure.
 相	xiāng	mutual, appearance, to examine, minister — An eye examining a tree. From that act of looking grow two readings: level-tone xiang, the mutual that binds two sides face to face, and falling-tone xiang, the appearance you look at, the looking itself, and the minister who looks over the realm.
@@ -952,7 +952,7 @@
 放河灯	fàng hé dēng	floating river lanterns — guiding wandering spirits home — 放 fàng (release; set free) + 河 hé (river) + 灯 dēng (lantern). Paper lanterns, typically lotus-shaped with a candle inside, set onto rivers, ponds, and coastlines on the evening of the 15th.
 放心	fàng xīn	to relax; to stop worrying; to feel at ease — 放 fàng (to put down; to release; to set free) + 心 xīn (heart). Lit. "put the heart down." The direct antonym of 担心. If worry is carrying the heart, 放心 is setting it back on the ground: the relief of knowing that what you feared is safe or resolved. Extremely frequent in reassurances and farewells.
 飞船	fēi chuán	spacecraft, airship
-飞快	fēi kuài	lightning fast; at a flying pace — 飞 fēi (to fly) + 快 kuài (fast). Vivid intensifier: the speed of something that seems to fly. Functions as an adverb modifying a verb or as a predicate adjective. Also used for a blade that is razor-sharp , fast at cutting.
+飞快	fēi kuài	lightning fast; at a flying pace — 飞 fēi (to fly) + 快 kuài (fast). Vivid intensifier: the speed of something that seems to fly. It modifies a verb as an adverb or stands alone as a predicate adjective. Also used for a blade that is razor-sharp , fast at cutting.
 非法	fēi fǎ	illegal; unlawful — 非 fēi (not) + 法 fǎ (law). Outside the law, not lawful: 非法行为 "illegal conduct," 非法移民 "illegal immigration." Its opposite is 合法 héfǎ (lawful).
 费用	fèi yòng	expense; cost; fee; expenditure — 费 fèi (to spend; cost; waste; excessive expenditure) + 用 yòng (use). What is spent in order to use something: the cost of deployment. Covers expenses of all kinds , medical fees, travel costs, operational expenditure , across formal and everyday registers.
 分封	fēn fēng	to enfeoff; to grant fiefs — 分 (fēn, to divide) plus 封 (to confer land): to carve a realm into fiefs and grant them to vassals. The defining act of the early Zhōu political order.
@@ -1297,7 +1297,7 @@
 快递	kuài dì	express delivery; courier
 快点	kuài diǎn	be quick; a bit faster; hurry — 快 kuài (fast) + 点 diǎn (a little; somewhat , the softening particle). The most colloquial way to tell someone to speed up. Tonal in its delivery: said gently it is a nudge, said sharply it is impatient.
 快活	kuài huó	carefree; cheerful; lively and at ease — 快 kuài (unobstructed) + 活 huó (alive; living; moving freely). The image is life flowing without constraint. Carries a slightly old-fashioned or literary flavor in modern Mandarin, but remains warm and vivid in fiction and colloquial northern speech. Describes people who seem naturally unburdened.
-快乐	kuài lè	happy; joyful; happiness (as a state) — 快 kuài (released; unobstructed) + 乐 lè (music; joy; ease). The standard word for happiness in modern Mandarin: functions as an adjective predicate, a pre-noun modifier, and a noun. Appears in greetings and fixed phrases far more than the simple 快 alone.
+快乐	kuài lè	happy; joyful; happiness (as a state) — 快 kuài (released; unobstructed) + 乐 lè (music; joy; ease). The standard word for happiness in modern Mandarin: it is an adjective predicate, a pre-noun modifier, and a noun. Appears in greetings and fixed phrases far more than the simple 快 alone.
 快速	kuài sù	fast; rapid; at high speed — 快 kuài (fast) + 速 sù (speed; velocity). The compound reinforces both components, producing the most neutral, all-purpose word for fast in formal or written Chinese. Works as an adjective before nouns or as an adverb before verbs.
 蜡黄	là huáng	sallow, waxy yellow
 来自	lái zì	to come from; to originate from; hailing from — 来 lái (to come; to arrive) + 自 zì (from; self; origin). The standard formal expression for geographic or conceptual origin. Used for people (来自北京), ideas (这个想法来自实验), data (数据来自2023年), and institutions (来自联合国的报告).
@@ -1732,7 +1732,7 @@
 网红	wǎng hóng	internet celebrity
 违法	wéi fǎ	to break the law; to act illegally — 违 wéi (to violate; to go against) + 法 fǎ (law). To step over the line the law draws: 违法行为 "an unlawful act." The mirror image of 合法, the foot landing outside the level mark.
 为此	wèi cǐ	for this reason; because of this; to this end — 为 wèi (for; on account of) + 此 cǐ (this; the aforementioned). A formal connective linking back to a preceding reason or context and introducing what was done in response. Stronger in register than 因此 yīncǐ (therefore), carrying a sense of specific, deliberate response to the stated situation.
-为了	wèi le	in order to; for the sake of; for the purpose of — 为 wèi (for; toward) + 了 le (grammatical completion particle; here functions as a suffix to 为). The standard purpose marker in modern Chinese. 为了 introduces the goal or beneficiary of an action and can appear at the start of a sentence or clause.
+为了	wèi le	in order to; for the sake of; for the purpose of — 为 wèi (for; toward) + 了 le (grammatical completion particle; here a suffix to 为). The standard purpose marker in modern Chinese. 为了 introduces the goal or beneficiary of an action and can appear at the start of a sentence or clause.
 为人所知	wèi rén suǒ zhī	to be known by people; to become widely known
 为所欲为	wèi suǒ yù wéi	to do whatever one pleases; to act without restraint
 位于	wèi yú	to be located at; to be situated in — 位 wèi (position) + 于 yú (at). The standard verb for stating where a place sits, common in geography and description: 北京位于中国北部 "Beijing is located in the north of China."

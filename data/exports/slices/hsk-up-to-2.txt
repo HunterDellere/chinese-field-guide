@@ -73,7 +73,7 @@
 好	hǎo	good; to like — Good, well, to like, and the tone split that doubles its expressive range.
 喝	hē	to drink; (hè) to shout, to cry out — A mouth radical paired with the phonetic 曷, splitting cleanly into the everyday hē you drink with and the older hè you shout with.
 合	hé	to join, combine, suit, close — A lid closing down over the mouth of a vessel. From that image of two parts meeting and fitting grows the whole field of joining, suiting, closing, and adding up into a whole.
-和	hé	harmony, and, with; peace — 和 carries the same concept across grammar and philosophy: grain and mouth together, the harmony of shared food and speech, a character that serves as both everyday conjunction and the Confucian ideal of a well-ordered world.
+和	hé	harmony, and, with; peace — 禾 (grain) beside 口 (mouth): 和 is both Mandarin's everyday "and" and the Confucian ideal of harmony without uniformity.
 河	hé	river, the Yellow River — 河 began as the personal name of one river, the Yellow River, before it widened to mean any river at all.
 黑	hēi	black, darkness, and the illicit — Black on the surface, but the live sense is moral: the black market, the underworld, the hacker. The color that names everything that operates out of sight.
 很	hěn	very; the empty intensifier — 很 is the word for very, but its strangest job is doing nothing: Chinese needs a degree adverb before a plain adjective, and 很 fills that slot so quietly that 我很好 means simply I am fine, not I am very well.
@@ -113,7 +113,7 @@
 开	kāi	to open, to start, to operate — Two hands lifting the bar across a closed gate. From that single image flow most of modern life: opening a door, starting a meeting, driving a car, writing a check, blooming.
 看	kàn	to look, to watch, to read, to visit — 看 = hand above eye, shielding from the sun to see in the distance: visual attention with effort, encoded in a gesture everyone has made.
 可	kě	can; may; worth; quite — A two-stroke mouth character whose ancient sense of affirming breath became the pivot of permission, capability, and worth in classical and modern Chinese.
-快	kuài	fast, happy — One character carries two meanings that turn out to be the same thing: speed and joy both feel like the heart cutting loose.
+快	kuài	fast, happy — 快 joins 忄 (heart) to 夬 (a decisive cut): speed and joy are the same image, a heart running without drag.
 来	lái	to come, to arrive, toward the speaker — Oracle bone wheat plant turned direction-word: 来 pulls everything toward the speaker, including time itself.
 老	lǎo	old, venerable, experienced — A stooped elder with long hair: age as wisdom, seniority as moral authority, and the Daoist sage who wrote the Daodejing.
 乐	lè	happy, joyful (lè); music (yuè) — A picture of a wooden frame strung with silk and a drum, an early musical instrument. The simplified 乐 carries two readings: yuè for music, the original sense, and lè for joy, the happiness that music gives.
@@ -155,7 +155,7 @@
 全	quán	whole, complete, entire, all — Enter, and find the jade flawless. From that image of unblemished jade grows everything whole and complete: the entire set, the intact and unbroken, and the adverb that sweeps up all of it at once.
 然	rán	so, thus, the -ly manner suffix — A character that once meant to burn and was borrowed for the abstract sense so, correct, this-is-how-it-is. Today it builds the connectives 然后 and 然而, the conjunctions 当然 and 虽然, and rides as a -ly suffix on words like 忽然 and 突然.
 热	rè	hot, heat, fever, ardent, popular — The four dots of flame beneath 执 carry physical heat into the heat of crowds, fervor, and whatever is trending.
-人	rén	person, humanity — The character for human being, and its echo in 仁 rén, Confucian benevolence.
+人	rén	person, humanity — Two strokes, barely changed since the oracle bones, write 人 rén; add 二 and you get 仁, Confucian benevolence.
 日	rì	sun, day, Japan — The oldest pictograph in the script: a circle with a dot for the sun, now a radical in hundreds of characters related to time, light, and warmth.
 肉	ròu	meat, flesh, the pulp of fruit — A pictograph of a meat slab with its marbling drawn inside; squeezed onto the left of a character it becomes 月, the flesh-moon of the body radicals.
 如	rú	like, as, if, according to — A woman speaking and a mouth complying: from following a command grew the great comparison-and-condition word. 如 is how Chinese says like, as, for example, and if.
@@ -190,7 +190,7 @@
 外	wài	outside, outer, foreign, besides — A diviner reading the shells at the wrong hour, off the normal schedule. From that image grows everything beyond the boundary: the outside, the outer surface, the foreign land, and the relatives on the mother's side.
 完	wán	to finish; to be whole — 完 means both whole and finished, and the bridge between them is intact completeness; its most important job is as a result complement, the 完 that ends 吃完, 做完, and 看完.
 万	wàn	ten thousand; myriad; all — 万 is the Chinese hyperbole unit. Where English reaches for millions, Chinese reaches for 万 to express the immeasurable, because the written number 10,000 originally meant scorpion.
-为	wéi	to do; to act; for; because of — In oracle bone script, a hand leading an elephant (to guide an immense force through skillful agency), and the character at the center of the Daoist concept of non-action.
+为	wéi	to do; to act; for; because of — In oracle bone script 为 is a hand leading an elephant, and it sits at the center of Daoist 无为 non-action.
 文	wén	writing, culture, civil — A tattooed figure: writing as marks on the body, culture as the accumulated markings of civilization.
 问	wèn	to ask, to inquire, to ask after — A mouth at the gate, asking. From that image grow the everyday verb to ask, the noun for a question or problem, the warm act of asking after someone, and the stern act of holding to account.
 我	wǒ	I, me, myself — The character for 'I' began as a toothed bronze halberd: the assertive grip of a weapon became the grammatical mark of a self.
@@ -267,7 +267,7 @@
 江山	jiāng shān	rivers and mountains, the realm — The classical Chinese word for the nation: not a territory but a landscape; not a state but a living geography that dynasties rose and fell to possess.
 君子	jūn zǐ	the exemplary person — The Confucian moral ideal that replaced aristocratic birth with cultivated virtue as the basis of social authority: anyone who does the work of 仁义礼智信 qualifies.
 良心	liáng xīn	conscience; innate moral sense — The good heart-mind: the Chinese word for conscience carries a philosophical claim that moral knowledge is a natural endowment, not an acquired rule.
-轮回	lún huí	samsara; the cycle of rebirth — The Buddhist karmic wheel that turns through six realms of existence: the foundational concept that motivates all Buddhist practice as a path toward liberation.
+轮回	lún huí	samsara; the cycle of rebirth — 轮回 renders Sanskrit saṃsāra as 'wheel' plus 'return': the karmic cycle carrying beings through six realms until liberation.
 论语	Lún yǔ	The Analects of Confucius — The Analects: a thin book of recorded conversations and sayings that became the most quoted text in East Asian civilization, the entry point to Confucian thought, and the textbook of imperial education for two thousand years.
 面子	miàn zi	face, honor — Giving, losing, and saving face: the social grammar of dignity.
 明白	míng bai	to understand; clear — Understanding as illumination: sun-and-moon brightness plus plain white. The clarity verb, and its siblings 懂, 知道, and 了解.
@@ -295,7 +295,7 @@
 一会儿	yí huì r	a short while — The everyday word for a little while, how it marks both a short duration and the near future, and how it differs from the verb-softener 一下 and from 等会儿.
 一起	yì qǐ	together — The everyday word for "together," the 跟…一起 frame for joint action, the "in one place" sense, the "altogether" use of 一起, and how it differs from 一块儿, 一同, and 一共.
 音乐	yīn yu è	music — Music and joy share a single character, a soulmate is "the one who knows your tone," and the zither smashed for a dead friend still echoes.
-缘分	yuán fèn	karmic connection — Buddhist-rooted fate that ties strangers, lovers, and old friends.
+缘分	yuán fèn	karmic connection — Buddhist karmic fate: 500 years of cultivation to share a boat with a stranger, a thousand to share a pillow.
 正在	zhèng zài	currently doing, progressive aspect — The primary progressive marker in Mandarin -- placed before a verb to signal an action caught in mid-motion, exactly now, still in progress.
 中国	Zhōng guó	the Middle Kingdom; China — Two characters older than the country they now name. 中 (center) and 国 (state) joined three thousand years ago to mean "the central states"; the modern country took the phrase for itself only in the 19th century.
 中国画	zhōng guó huà	Chinese painting — Brush and ink as philosophy: Chinese painting aims to capture the spirit of a subject and express the painter's inner cultivation rather than represent what the eye sees.
@@ -1599,7 +1599,7 @@
 飞虫	fēi chóng	flying insect
 飞船	fēi chuán	spacecraft, airship
 飞机	fēi jī	airplane, aircraft — 飞 (to fly) plus 机 (machine): the flying machine. This is the everyday word for any fixed-wing aircraft, from a jetliner to a small propeller plane.
-飞快	fēi kuài	lightning fast; at a flying pace — 飞 fēi (to fly) + 快 kuài (fast). Vivid intensifier: the speed of something that seems to fly. Functions as an adverb modifying a verb or as a predicate adjective. Also used for a blade that is razor-sharp , fast at cutting.
+飞快	fēi kuài	lightning fast; at a flying pace — 飞 fēi (to fly) + 快 kuài (fast). Vivid intensifier: the speed of something that seems to fly. It modifies a verb as an adverb or stands alone as a predicate adjective. Also used for a blade that is razor-sharp , fast at cutting.
 飞鸟	fēi niǎo	a bird in flight, flying bird — 飞 (flying) plus 鸟 (bird): a bird on the wing. The word keeps the character close to its pictographic root, naming the very creature the glyph was drawn from.
 飞翔	fēi xiáng	to soar, to circle in flight
 飞跃	fēi yu è	a leap, a great advance
@@ -2217,7 +2217,7 @@
 快递	kuài dì	express delivery; courier
 快点	kuài diǎn	be quick; a bit faster; hurry — 快 kuài (fast) + 点 diǎn (a little; somewhat , the softening particle). The most colloquial way to tell someone to speed up. Tonal in its delivery: said gently it is a nudge, said sharply it is impatient.
 快活	kuài huó	carefree; cheerful; lively and at ease — 快 kuài (unobstructed) + 活 huó (alive; living; moving freely). The image is life flowing without constraint. Carries a slightly old-fashioned or literary flavor in modern Mandarin, but remains warm and vivid in fiction and colloquial northern speech. Describes people who seem naturally unburdened.
-快乐	kuài lè	happy; joyful; happiness (as a state) — 快 kuài (released; unobstructed) + 乐 lè (music; joy; ease). The standard word for happiness in modern Mandarin: functions as an adjective predicate, a pre-noun modifier, and a noun. Appears in greetings and fixed phrases far more than the simple 快 alone.
+快乐	kuài lè	happy; joyful; happiness (as a state) — 快 kuài (released; unobstructed) + 乐 lè (music; joy; ease). The standard word for happiness in modern Mandarin: it is an adjective predicate, a pre-noun modifier, and a noun. Appears in greetings and fixed phrases far more than the simple 快 alone.
 快速	kuài sù	fast; rapid; at high speed — 快 kuài (fast) + 速 sù (speed; velocity). The compound reinforces both components, producing the most neutral, all-purpose word for fast in formal or written Chinese. Works as an adjective before nouns or as an adverb before verbs.
 筷子	kuài zi	chopsticks
 筷子架	kuài zi jià	Chopstick rest — Chopstick rest: a small ceramic or metal rest placed beside the bowl to lay chopsticks on between bites. Used in formal settings; absent in casual ones.
@@ -3051,7 +3051,7 @@
 卫生间	wèi shēng jiān	bathroom; toilet; restroom — 卫生 wèishēng (hygiene) + 间 jiān (room). The polite, standard word for a bathroom in homes and public buildings. A common synonym is 洗手间 xǐshǒujiān.
 卫星	wèi xīng	satellite (natural or artificial) — 卫 (guard) + 星: the guard star that attends a planet. Covers the moon, the GPS constellation, and the dish antenna (卫星天线). The Great Leap Forward idiom 放卫星 ("launching a satellite") still means announcing an inflated achievement.
 为此	wèi cǐ	for this reason; because of this; to this end — 为 wèi (for; on account of) + 此 cǐ (this; the aforementioned). A formal connective linking back to a preceding reason or context and introducing what was done in response. Stronger in register than 因此 yīncǐ (therefore), carrying a sense of specific, deliberate response to the stated situation.
-为了	wèi le	in order to; for the sake of; for the purpose of — 为 wèi (for; toward) + 了 le (grammatical completion particle; here functions as a suffix to 为). The standard purpose marker in modern Chinese. 为了 introduces the goal or beneficiary of an action and can appear at the start of a sentence or clause.
+为了	wèi le	in order to; for the sake of; for the purpose of — 为 wèi (for; toward) + 了 le (grammatical completion particle; here a suffix to 为). The standard purpose marker in modern Chinese. 为了 introduces the goal or beneficiary of an action and can appear at the start of a sentence or clause.
 为人所知	wèi rén suǒ zhī	to be known by people; to become widely known
 为所欲为	wèi suǒ yù wéi	to do whatever one pleases; to act without restraint
 未来	wèi lái	the future (not yet arrived)

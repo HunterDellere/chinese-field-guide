@@ -4,8 +4,8 @@ category: 'arts'
 status: 'complete'
 content_review: 'pending'
 title: '诗经 · Book of Songs'
-desc: 'China oldest poetry anthology: three hundred poems that Confucius said no educated person could afford to ignore.'
-metaDesc: "诗经 Shījīng: the Book of Songs, China oldest poetry anthology (c. 1046-771 BCE), its three sections feng ya song, the Four Beginnings, and its role in Confucian education."
+desc: "The 305 poems of China's oldest anthology (c. 1046-600 BCE), which Confucius said no educated person could afford to ignore."
+metaDesc: "诗经 Shījīng: the Book of Songs, China's oldest poetry anthology (c. 1046-600 BCE), its three sections feng ya song, the Four Beginnings, and its role in Confucian education."
 pageTitle: '诗经 Shījīng'
 tags:
   - 'poetry'
@@ -13,7 +13,7 @@ tags:
   - 'classical'
   - 'history'
   - 'culture'
-updated: '2026-06-19'
+updated: '2026-07-12'
 pinyin: 'shījīng'
 faq:
   - q: "What is the Shijing (Book of Songs)?"
@@ -70,7 +70,7 @@ faq:
       <span class="topic-hero-eyebrow">Arts &amp; Literature · 艺文 yìwén</span>
       <h1 class="topic-hero-title">诗经</h1>
       <span class="topic-hero-title-py">shī jīng</span>
-      <p class="topic-hero-desc">China oldest poetry anthology , three hundred poems that Confucius said no educated person could afford to ignore.</p>
+      <p class="topic-hero-desc">The 305 poems of China's oldest anthology (c. 1046-600 BCE), which Confucius said no educated person could afford to ignore.</p>
     </header>
 
     <span class="section-anchor" id="origins"></span>
@@ -100,7 +100,7 @@ faq:
     <div class="scholar" data-glyph="風">
       <div class="scholar-label">结构洞见 jiégòu dòngjiàn · Structural Insight</div>
       <p>The anthology is divided into three distinct sections: the 风 Fēng (Airs or Folk Songs), the 雅 Yǎ (Court Odes), and the 颂 Sòng (Ritual Hymns). These three categories reflect three different social origins and three different modes of poetic purpose, though all three share the basic formal features of early Chinese verse: short lines, heavy use of rhyme, abundant natural imagery, and a characteristic doubling of lines that creates a rocking, incremental movement quite unlike later regulated verse.</p>
-      <p>The <strong>风 Fēng</strong> section is the largest and most beloved. It contains 160 poems drawn from fifteen different regional states 国风 guófēng (literally "airs of the states") and represents the broadest social range in the anthology. Folk songs about courtship, longing, harvest, war-weariness, and domestic life sit alongside laments of abandoned wives and celebrations of spring gathering. These are the poems that feel most immediately alive to modern readers: a woman watching from a city gate for her soldier husband, young men and women exchanging songs at the river in spring, a weary soldier longing for home. Many scholars believe these regional airs preserve genuine folk composition, though the transmission process inevitably shaped and refined them.</p>
+      <p>The <strong>风 Fēng</strong> section is the largest and most beloved. It contains 160 poems drawn from fifteen different regional states 国风 guófēng (literally "airs of the states") and represents the broadest social range in the anthology. Folk songs about courtship, longing, harvest, war-weariness, and domestic life sit alongside laments of abandoned wives and celebrations of spring gathering. These are the poems that feel most immediately alive to modern readers: a woman watching from a city gate for her soldier husband, young men and women exchanging songs at the river in spring, a weary soldier longing for home. These regional airs preserve genuine folk composition, though transmission shaped and refined them.</p>
       <p>The <strong>雅 Yǎ</strong> section contains 105 poems divided into the Lesser Odes 小雅 (74 poems) and the Greater Odes 大雅 (31 poems). These are court compositions: songs performed at royal banquets, diplomatic receptions, and official ceremonies. The Lesser Odes include some of the most powerful laments in the anthology, including famous complaints about military campaigns, corrupt officials, and the suffering of the common people. The Greater Odes move into more elevated territory: praise of dynastic founders, celebrations of royal virtue, and meditations on the Mandate of Heaven 天命 tiānmìng that justify Zhou rule.</p>
       <p>The <strong>颂 Sòng</strong> section is the smallest and most ceremonially specific: 40 ritual hymns used in sacrifices to royal ancestors at the Zhou court and at two of its vassal states (Lu and Shang). These poems are the most archaic in diction and the least accessible to later readers, but they are historically significant as documents of Zhou ritual religion, the sacrificial system through which the royal house maintained its connection with Heaven and with its founding ancestors.</p>
     </div>

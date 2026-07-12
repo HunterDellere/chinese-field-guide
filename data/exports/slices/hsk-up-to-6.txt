@@ -38,7 +38,7 @@
 蛋	dàn	egg, egg-shaped thing, scoundrel — A pictophonetic egg: the 虫 radical for small creatures sits under a sound element, and in slang it turns people into scoundrels.
 当	dāng	to be, just at, ought; (dàng) appropriate, to treat as — A high-frequency polyphone with two readings. As dāng it means to serve as, to be at a given time or place, and ought to; as dàng it means appropriate, to treat something as, and to pawn. The tone tells you which sense is in play.
 到	dào	to arrive, to reach; to — As a resultative complement suffix, 到 converts any action verb into a claim of completion: 听到 means not just hearing but hearing that arrived, perception proven by contact.
-道	dào	way, path — The word that gave Daoism its name, and underlies every Chinese 'ism'.
+道	dào	way, path — The character that opens the Dàodéjīng and names Daoism: way, path, principle, and the measure word for rivers and light.
 德	dé	virtue, moral power — Virtue not as rule-following but as accumulated moral power: what radiates from a person whose conduct has been straight long enough to become second nature.
 地	dì	earth, ground, land — Heaven above, earth below: the second power of the cosmos, and the root of every word about place, ground, and belonging.
 灯	dēng	lamp, lantern, light — A fire radical 火 fused with the sound 丁, naming everything from oil lamps to the red light that stops traffic.
@@ -99,7 +99,7 @@
 好	hǎo	good; to like — Good, well, to like, and the tone split that doubles its expressive range.
 喝	hē	to drink; (hè) to shout, to cry out — A mouth radical paired with the phonetic 曷, splitting cleanly into the everyday hē you drink with and the older hè you shout with.
 合	hé	to join, combine, suit, close — A lid closing down over the mouth of a vessel. From that image of two parts meeting and fitting grows the whole field of joining, suiting, closing, and adding up into a whole.
-和	hé	harmony, and, with; peace — 和 carries the same concept across grammar and philosophy: grain and mouth together, the harmony of shared food and speech, a character that serves as both everyday conjunction and the Confucian ideal of a well-ordered world.
+和	hé	harmony, and, with; peace — 禾 (grain) beside 口 (mouth): 和 is both Mandarin's everyday "and" and the Confucian ideal of harmony without uniformity.
 河	hé	river, the Yellow River — 河 began as the personal name of one river, the Yellow River, before it widened to mean any river at all.
 黑	hēi	black, darkness, and the illicit — Black on the surface, but the live sense is moral: the black market, the underworld, the hacker. The color that names everything that operates out of sight.
 很	hěn	very; the empty intensifier — 很 is the word for very, but its strangest job is doing nothing: Chinese needs a degree adverb before a plain adjective, and 很 fills that slot so quietly that 我很好 means simply I am fine, not I am very well.
@@ -154,7 +154,7 @@
 口	kǒu	mouth, opening, entrance — A simple rectangle for an open mouth: one of the most productive radicals in the script, present in hundreds of characters for speaking, eating, and openings.
 苦	kǔ	bitter, hardship, suffering, painstaking — The grass radical over 古 names a bitter herb on the tongue, then stretches to every flavor of hardship and effort.
 跨	kuà	to stride; to span; to bestride — The character of the long stride: a foot-radical verb that reaches from "step over a threshold" to "span an era" to the modern policy vocabulary of cross-border, cross-industry, cross-cultural everything.
-快	kuài	fast, happy — One character carries two meanings that turn out to be the same thing: speed and joy both feel like the heart cutting loose.
+快	kuài	fast, happy — 快 joins 忄 (heart) to 夬 (a decisive cut): speed and joy are the same image, a heart running without drag.
 困	kùn	to trap, hard-pressed, tired — A tree boxed inside four walls and unable to grow: the picture of being hemmed in, the source of both hardship and sleepiness.
 来	lái	to come, to arrive, toward the speaker — Oracle bone wheat plant turned direction-word: 来 pulls everything toward the speaker, including time itself.
 老	lǎo	old, venerable, experienced — A stooped elder with long hair: age as wisdom, seniority as moral authority, and the Daoist sage who wrote the Daodejing.
@@ -212,7 +212,7 @@
 全	quán	whole, complete, entire, all — Enter, and find the jade flawless. From that image of unblemished jade grows everything whole and complete: the entire set, the intact and unbroken, and the adverb that sweeps up all of it at once.
 然	rán	so, thus, the -ly manner suffix — A character that once meant to burn and was borrowed for the abstract sense so, correct, this-is-how-it-is. Today it builds the connectives 然后 and 然而, the conjunctions 当然 and 虽然, and rides as a -ly suffix on words like 忽然 and 突然.
 热	rè	hot, heat, fever, ardent, popular — The four dots of flame beneath 执 carry physical heat into the heat of crowds, fervor, and whatever is trending.
-人	rén	person, humanity — The character for human being, and its echo in 仁 rén, Confucian benevolence.
+人	rén	person, humanity — Two strokes, barely changed since the oracle bones, write 人 rén; add 二 and you get 仁, Confucian benevolence.
 仁	rén	humaneness, the kernel of human relation — The character that anchors Confucian ethics: 亻 + 二, the self in relation to another. Etymology, the virtue-cluster compounds, and the seed-kernel sense that links moral and botanical 仁.
 认	rèn	to recognize, to acknowledge — The act of recognition: knowing something for what it is, owning up to it, and the small set of compounds that turn this on the world, on others, and on oneself.
 日	rì	sun, day, Japan — The oldest pictograph in the script: a circle with a dot for the sun, now a radical in hundreds of characters related to time, light, and warmth.
@@ -263,7 +263,7 @@
 王	wáng	king — Three horizontals joined by one vertical: the ruler who connects heaven, earth, and humanity. Also the most common Chinese surname, and a radical that is secretly 玉 (jade) in disguise.
 望	wàng	to gaze afar, to hope, reputation — A person on a mound looking into the distance, with the moon above: from that raised gaze grow three senses. To gaze and look afar (眺望, 望远镜, 张望), to hope and expect (希望, 期望, 盼望, 失望), and reputation or prestige (名望, 威望, 声望). As a coverb it can even mean toward, like 朝 or 向.
 危	wēi	danger, peril, precarious, lofty height — A kneeling figure pinned beneath a cliff overhang spells danger, where the same overhang also carries the sound.
-为	wéi	to do; to act; for; because of — In oracle bone script, a hand leading an elephant (to guide an immense force through skillful agency), and the character at the center of the Daoist concept of non-action.
+为	wéi	to do; to act; for; because of — In oracle bone script 为 is a hand leading an elephant, and it sits at the center of Daoist 无为 non-action.
 文	wén	writing, culture, civil — A tattooed figure: writing as marks on the body, culture as the accumulated markings of civilization.
 问	wèn	to ask, to inquire, to ask after — A mouth at the gate, asking. From that image grow the everyday verb to ask, the noun for a question or problem, the warm act of asking after someone, and the stern act of holding to account.
 我	wǒ	I, me, myself — The character for 'I' began as a toothed bronze halberd: the assertive grip of a weapon became the grammatical mark of a self.
@@ -371,7 +371,7 @@
 礼貌	lǐ mào	politeness, courteous manner — The everyday word for politeness: what 礼 (ritual propriety) becomes when it is shrunk down to the scale of ordinary social life. Polite forms, polite faces, and the precise way modern Chinese distinguishes 礼貌 from 客气, 礼节, and the older 礼 itself.
 历史	lì shǐ	history — The character for historian shows a hand holding a brush over a vessel: in ancient China, the scribe who held the brush held power.
 良心	liáng xīn	conscience; innate moral sense — The good heart-mind: the Chinese word for conscience carries a philosophical claim that moral knowledge is a natural endowment, not an acquired rule.
-轮回	lún huí	samsara; the cycle of rebirth — The Buddhist karmic wheel that turns through six realms of existence: the foundational concept that motivates all Buddhist practice as a path toward liberation.
+轮回	lún huí	samsara; the cycle of rebirth — 轮回 renders Sanskrit saṃsāra as 'wheel' plus 'return': the karmic cycle carrying beings through six realms until liberation.
 论语	Lún yǔ	The Analects of Confucius — The Analects: a thin book of recorded conversations and sayings that became the most quoted text in East Asian civilization, the entry point to Confucian thought, and the textbook of imperial education for two thousand years.
 面子	miàn zi	face, honor — Giving, losing, and saving face: the social grammar of dignity.
 明白	míng bai	to understand; clear — Understanding as illumination: sun-and-moon brightness plus plain white. The clarity verb, and its siblings 懂, 知道, and 了解.
@@ -419,7 +419,7 @@
 意思	yì si	meaning, intention — Meaning, interest, charm, and the gift-giving idiom 意思意思.
 阴阳	yīn yáng	yin and yang — The binary engine of all classical Chinese thought.
 音乐	yīn yu è	music — Music and joy share a single character, a soulmate is "the one who knows your tone," and the zither smashed for a dead friend still echoes.
-缘分	yuán fèn	karmic connection — Buddhist-rooted fate that ties strangers, lovers, and old friends.
+缘分	yuán fèn	karmic connection — Buddhist karmic fate: 500 years of cultivation to share a boat with a stranger, a thousand to share a pillow.
 长城	Cháng chéng	the Great Wall — A series of fortification systems built across multiple dynasties, whose most visible sections are Ming-era brick: not the continuous ancient rampart of popular imagination.
 正在	zhèng zài	currently doing, progressive aspect — The primary progressive marker in Mandarin -- placed before a verb to signal an action caught in mid-motion, exactly now, still in progress.
 知道	zhī dào	to know — The everyday verb for knowing a fact, and how it differs from 认识 (to be acquainted with) and 了解 (to understand deeply).
@@ -1765,7 +1765,7 @@
 越来越	yu è lái yu è	more and more; increasingly — The degree escalation pattern: expressing a quality that grows continuously over time.
 在	zài	location, existence, and the progressive — One of the busiest words in Mandarin: the verb "to be at," the location coverb "at/in," and the progressive marker for ongoing action.
 正反问	zhèng fǎn wèn	A-not-A questions — Chinese asks yes-no questions by offering both answers: 去不去 is "going, not going?", and the pattern replaces 吗 with built-in neutrality.
-之	zhī	classical genitive, nominalizer, and pronoun — The single character that does the work of three English words (of, it, and the one who) and still shows up in modern Chinese every day.
+之	zhī	classical genitive, nominalizer, and pronoun — 之 zhī did the work of 'of', 'him/her/it', and 'the one who' in classical Chinese; it survives in 之间, 之后, and 总之.
 只有…才	zhǐ yǒu cái	only if…then; the restrictive conditional — The exclusive condition: only when X is met can Y happen. The grammatical frame for necessity.
 "可以从太空看见"	kě yǐ cóng tài kōng kàn jiàn	"visible from space" — The wall cannot be seen from space with the naked eye. It is long but only four to eight metres wide, narrower than most highways. The claim was a 1932 invention from Ripley's Believe It or Not! — published before any human had reached orbit.
 "秦始皇修了长城"	qín shǐ huáng xiū le cháng chéng	"Qin Shihuang built the Great Wall" — He connected and extended pre-existing Warring States walls. He did not build from nothing, and what he did build is mostly gone. The visual wall most people picture is Ming, fifteen centuries later.
@@ -2298,7 +2298,7 @@
 道家	Dào jiā	Daoism — the way of naturalness and non-action — The Daodejing 道德经 (attributed to Laozi, c. 4th–3rd century BCE) and Zhuangzi 庄子. Central concept: 无为 wú wéi, effortless action aligned with the natural order. The sage ruler governs so lightly that the people believe they govern themselves.
 道教	dào jiào	Daoism
 道理	dào lǐ	reason; logic; principle; the way things work — 道 dào (way; path) + 理 lǐ (principle; pattern; grain of wood, the inherent structure of things). "The logic of the path." The way things make sense: the reason behind an argument, the principle underlying a situation, the basic logic that should govern behavior.
-道路	dào lù	road; path; way — 道 dào (way; path) + 路 lù (road; route). The most standard, neutral word for a road or path. Used freely in both spatial and metaphorical senses. 人生道路 (the road of life) is one of the most common metaphorical applications, appearing in everything from political speeches to personal memoir.
+道路	dào lù	road; path; way — 道 dào (way; path) + 路 lù (road; route). The most standard, neutral word for a road or path. Used freely in both spatial and metaphorical senses. 人生道路 (the road of life) is one of the most common metaphorical applications, at home in political speeches and personal memoirs alike.
 道歉	dào qiàn	to apologize
 道上的人	dào shàng de rén	underworld figures
 道统	dào tǒng	orthodox transmission of the Way
@@ -2534,7 +2534,7 @@
 飞虫	fēi chóng	flying insect
 飞船	fēi chuán	spacecraft, airship
 飞机	fēi jī	airplane, aircraft — 飞 (to fly) plus 机 (machine): the flying machine. This is the everyday word for any fixed-wing aircraft, from a jetliner to a small propeller plane.
-飞快	fēi kuài	lightning fast; at a flying pace — 飞 fēi (to fly) + 快 kuài (fast). Vivid intensifier: the speed of something that seems to fly. Functions as an adverb modifying a verb or as a predicate adjective. Also used for a blade that is razor-sharp , fast at cutting.
+飞快	fēi kuài	lightning fast; at a flying pace — 飞 fēi (to fly) + 快 kuài (fast). Vivid intensifier: the speed of something that seems to fly. It modifies a verb as an adverb or stands alone as a predicate adjective. Also used for a blade that is razor-sharp , fast at cutting.
 飞鸟	fēi niǎo	a bird in flight, flying bird — 飞 (flying) plus 鸟 (bird): a bird on the wing. The word keeps the character close to its pictographic root, naming the very creature the glyph was drawn from.
 飞翔	fēi xiáng	to soar, to circle in flight
 飞行	fēi xíng	to fly; flight, aviation — 飞 (to fly) plus 行 (to move, to travel): movement through the air. More formal and technical than plain 飞, this is the word for piloting, air travel, and aviation as a field. 飞行员 (fēixíngyuán) is a pilot.
@@ -3491,7 +3491,7 @@
 快递	kuài dì	express delivery; courier
 快点	kuài diǎn	be quick; a bit faster; hurry — 快 kuài (fast) + 点 diǎn (a little; somewhat , the softening particle). The most colloquial way to tell someone to speed up. Tonal in its delivery: said gently it is a nudge, said sharply it is impatient.
 快活	kuài huó	carefree; cheerful; lively and at ease — 快 kuài (unobstructed) + 活 huó (alive; living; moving freely). The image is life flowing without constraint. Carries a slightly old-fashioned or literary flavor in modern Mandarin, but remains warm and vivid in fiction and colloquial northern speech. Describes people who seem naturally unburdened.
-快乐	kuài lè	happy; joyful; happiness (as a state) — 快 kuài (released; unobstructed) + 乐 lè (music; joy; ease). The standard word for happiness in modern Mandarin: functions as an adjective predicate, a pre-noun modifier, and a noun. Appears in greetings and fixed phrases far more than the simple 快 alone.
+快乐	kuài lè	happy; joyful; happiness (as a state) — 快 kuài (released; unobstructed) + 乐 lè (music; joy; ease). The standard word for happiness in modern Mandarin: it is an adjective predicate, a pre-noun modifier, and a noun. Appears in greetings and fixed phrases far more than the simple 快 alone.
 快速	kuài sù	fast; rapid; at high speed — 快 kuài (fast) + 速 sù (speed; velocity). The compound reinforces both components, producing the most neutral, all-purpose word for fast in formal or written Chinese. Works as an adjective before nouns or as an adverb before verbs.
 筷子	kuài zi	chopsticks
 筷子架	kuài zi jià	Chopstick rest — Chopstick rest: a small ceramic or metal rest placed beside the bowl to lay chopsticks on between bites. Used in formal settings; absent in casual ones.
@@ -4342,7 +4342,7 @@
 失业	shī yè	to be unemployed
 师父	shī fu	master; teacher of a craft — 师 shī (teacher) + 父 fù (father). A master who trains an apprentice in a trade or martial art, addressed with the warmth and deference owed a father. The near-homophone 师傅 shīfu is the everyday term for a skilled worker or driver; 师父 keeps the closer master-disciple bond.
 诗经	shī jīng	Book of Songs
-诗经 · 书经	Shī jīng Shū jīng	Classic of Poetry · Classic of Documents — Two of the Five Classics. 诗经 Shījīng (Classic of Poetry, c. 11th–6th century BCE) , 305 poems ranging from folk songs to court hymns; Confucius allegedly edited the collection and praised it as the foundation of literary education.
+诗经 · 书经	Shī jīng Shū jīng	Classic of Poetry · Classic of Documents — Two of the Five Classics. 诗经 Shījīng (Classic of Poetry, c. 11th–6th century BCE) , 305 poems, folk songs and court hymns among them; Confucius allegedly edited the collection and praised it as the foundation of literary education.
 诗句	shī jù	a line of verse; lines of poetry — 诗 shī (poem) + 句 jù (line). A line or verse of poetry, the unit a poem is built and quoted in: 优美的诗句 "beautiful lines of verse." Often used in the plural sense, the lines of a poem taken together.
 诗人	shī rén	poet
 施工	shī gōng	To carry out construction — To carry out construction: "execute the work." The word on every fence and detour sign. 施工中 means "under construction," on streets and, borrowed, on websites.
@@ -4777,7 +4777,7 @@
 卫生间	wèi shēng jiān	bathroom; toilet; restroom — 卫生 wèishēng (hygiene) + 间 jiān (room). The polite, standard word for a bathroom in homes and public buildings. A common synonym is 洗手间 xǐshǒujiān.
 卫星	wèi xīng	satellite (natural or artificial) — 卫 (guard) + 星: the guard star that attends a planet. Covers the moon, the GPS constellation, and the dish antenna (卫星天线). The Great Leap Forward idiom 放卫星 ("launching a satellite") still means announcing an inflated achievement.
 为此	wèi cǐ	for this reason; because of this; to this end — 为 wèi (for; on account of) + 此 cǐ (this; the aforementioned). A formal connective linking back to a preceding reason or context and introducing what was done in response. Stronger in register than 因此 yīncǐ (therefore), carrying a sense of specific, deliberate response to the stated situation.
-为了	wèi le	in order to; for the sake of; for the purpose of — 为 wèi (for; toward) + 了 le (grammatical completion particle; here functions as a suffix to 为). The standard purpose marker in modern Chinese. 为了 introduces the goal or beneficiary of an action and can appear at the start of a sentence or clause.
+为了	wèi le	in order to; for the sake of; for the purpose of — 为 wèi (for; toward) + 了 le (grammatical completion particle; here a suffix to 为). The standard purpose marker in modern Chinese. 为了 introduces the goal or beneficiary of an action and can appear at the start of a sentence or clause.
 为了 + 目的	wèi le + go a l	in order to; for the sake of — When the real answer is a purpose rather than a cause, use 为了, not 因为. 为了 names the goal the action serves: 为了健康，他每天跑步 ("for the sake of health, he runs every day"). Asking specifically about purpose, you can use 为了什么 ("to what end").
 为情所困	wèi qíng suǒ kùn	to be trapped by emotion; entangled in feeling
 为人所知	wèi rén suǒ zhī	to be known by people; to become widely known

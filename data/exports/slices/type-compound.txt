@@ -632,7 +632,7 @@
 道家	Dào jiā	Daoism — the way of naturalness and non-action — The Daodejing 道德经 (attributed to Laozi, c. 4th–3rd century BCE) and Zhuangzi 庄子. Central concept: 无为 wú wéi, effortless action aligned with the natural order. The sage ruler governs so lightly that the people believe they govern themselves.
 道教	dào jiào	Daoism
 道理	dào lǐ	reason; logic; principle; the way things work — 道 dào (way; path) + 理 lǐ (principle; pattern; grain of wood, the inherent structure of things). "The logic of the path." The way things make sense: the reason behind an argument, the principle underlying a situation, the basic logic that should govern behavior.
-道路	dào lù	road; path; way — 道 dào (way; path) + 路 lù (road; route). The most standard, neutral word for a road or path. Used freely in both spatial and metaphorical senses. 人生道路 (the road of life) is one of the most common metaphorical applications, appearing in everything from political speeches to personal memoir.
+道路	dào lù	road; path; way — 道 dào (way; path) + 路 lù (road; route). The most standard, neutral word for a road or path. Used freely in both spatial and metaphorical senses. 人生道路 (the road of life) is one of the most common metaphorical applications, at home in political speeches and personal memoirs alike.
 道歉	dào qiàn	to apologize
 道上的人	dào shàng de rén	underworld figures
 道统	dào tǒng	orthodox transmission of the Way
@@ -914,7 +914,7 @@
 飞虫	fēi chóng	flying insect
 飞船	fēi chuán	spacecraft, airship
 飞机	fēi jī	airplane, aircraft — 飞 (to fly) plus 机 (machine): the flying machine. This is the everyday word for any fixed-wing aircraft, from a jetliner to a small propeller plane.
-飞快	fēi kuài	lightning fast; at a flying pace — 飞 fēi (to fly) + 快 kuài (fast). Vivid intensifier: the speed of something that seems to fly. Functions as an adverb modifying a verb or as a predicate adjective. Also used for a blade that is razor-sharp , fast at cutting.
+飞快	fēi kuài	lightning fast; at a flying pace — 飞 fēi (to fly) + 快 kuài (fast). Vivid intensifier: the speed of something that seems to fly. It modifies a verb as an adverb or stands alone as a predicate adjective. Also used for a blade that is razor-sharp , fast at cutting.
 飞鸟	fēi niǎo	a bird in flight, flying bird — 飞 (flying) plus 鸟 (bird): a bird on the wing. The word keeps the character close to its pictographic root, naming the very creature the glyph was drawn from.
 飞翔	fēi xiáng	to soar, to circle in flight
 飞行	fēi xíng	to fly; flight, aviation — 飞 (to fly) plus 行 (to move, to travel): movement through the air. More formal and technical than plain 飞, this is the word for piloting, air travel, and aviation as a field. 飞行员 (fēixíngyuán) is a pilot.
@@ -2036,7 +2036,7 @@
 快递	kuài dì	express delivery; courier
 快点	kuài diǎn	be quick; a bit faster; hurry — 快 kuài (fast) + 点 diǎn (a little; somewhat , the softening particle). The most colloquial way to tell someone to speed up. Tonal in its delivery: said gently it is a nudge, said sharply it is impatient.
 快活	kuài huó	carefree; cheerful; lively and at ease — 快 kuài (unobstructed) + 活 huó (alive; living; moving freely). The image is life flowing without constraint. Carries a slightly old-fashioned or literary flavor in modern Mandarin, but remains warm and vivid in fiction and colloquial northern speech. Describes people who seem naturally unburdened.
-快乐	kuài lè	happy; joyful; happiness (as a state) — 快 kuài (released; unobstructed) + 乐 lè (music; joy; ease). The standard word for happiness in modern Mandarin: functions as an adjective predicate, a pre-noun modifier, and a noun. Appears in greetings and fixed phrases far more than the simple 快 alone.
+快乐	kuài lè	happy; joyful; happiness (as a state) — 快 kuài (released; unobstructed) + 乐 lè (music; joy; ease). The standard word for happiness in modern Mandarin: it is an adjective predicate, a pre-noun modifier, and a noun. Appears in greetings and fixed phrases far more than the simple 快 alone.
 快速	kuài sù	fast; rapid; at high speed — 快 kuài (fast) + 速 sù (speed; velocity). The compound reinforces both components, producing the most neutral, all-purpose word for fast in formal or written Chinese. Works as an adjective before nouns or as an adverb before verbs.
 筷子	kuài zi	chopsticks
 筷子架	kuài zi jià	Chopstick rest — Chopstick rest: a small ceramic or metal rest placed beside the bowl to lay chopsticks on between bites. Used in formal settings; absent in casual ones.
@@ -2581,7 +2581,7 @@
 排队	pái duì	to line up, to queue — 排 (to arrange in a row) + 队 (a formed line). The verb every visitor learns first: to stand one behind another and wait your turn.
 排练	pái liàn	to rehearse
 排他	pái tā	exclusive; to exclude others
-牌位	pái wèi	spirit tablet — the ancestor's dwelling in the home — The spirit tablet (牌位, also 神主牌 shénzhǔpái or 祖先牌位 zǔxiān páiwèi) is a wooden or paper plaque inscribed with the ancestor's name, birth and death dates, and honorific. It serves as the material dwelling of the ancestor's spirit within the home or ancestral hall.
+牌位	pái wèi	spirit tablet — the ancestor's dwelling in the home — The spirit tablet (牌位, also 神主牌 shénzhǔpái or 祖先牌位 zǔxiān páiwèi) is a wooden or paper plaque inscribed with the ancestor's name, birth and death dates, and honorific. It is the material dwelling of the ancestor's spirit within the home or ancestral hall.
 派出所	pài chū suǒ	local police substation; community police office
 盼望	pàn wàng	to look forward to; to long for eagerly — 盼 pàn (to long for, to expect) + 望 wàng (to look toward). To wait eagerly and warmly for something one cares about: 盼望已久 "long looked forward to." More emotional and yearning than 希望, it suggests an active, heartfelt waiting.
 旁边	páng biān	beside; next to
@@ -3107,7 +3107,7 @@
 师傅	shī fu	Master , the reliable general-purpose address for service workers and skilled tradespeople. Also the formal term for a craft or trade teacher. The safest default when addressing an unfamiliar adult male in a service or public context.
 诗	shī	poem; regulated verse
 诗经	shī jīng	Book of Songs
-诗经 · 书经	Shī jīng Shū jīng	Classic of Poetry · Classic of Documents — Two of the Five Classics. 诗经 Shījīng (Classic of Poetry, c. 11th–6th century BCE) , 305 poems ranging from folk songs to court hymns; Confucius allegedly edited the collection and praised it as the foundation of literary education.
+诗经 · 书经	Shī jīng Shū jīng	Classic of Poetry · Classic of Documents — Two of the Five Classics. 诗经 Shījīng (Classic of Poetry, c. 11th–6th century BCE) , 305 poems, folk songs and court hymns among them; Confucius allegedly edited the collection and praised it as the foundation of literary education.
 诗句	shī jù	a line of verse; lines of poetry — 诗 shī (poem) + 句 jù (line). A line or verse of poetry, the unit a poem is built and quoted in: 优美的诗句 "beautiful lines of verse." Often used in the plural sense, the lines of a poem taken together.
 诗人	shī rén	poet
 诗圣	shī shèng	Sage Poet — Sage Poet: honorific for Du Fu, whose verse embodied moral gravity and historical witness.
@@ -3643,7 +3643,7 @@
 卫生间	wèi shēng jiān	bathroom; toilet; restroom — 卫生 wèishēng (hygiene) + 间 jiān (room). The polite, standard word for a bathroom in homes and public buildings. A common synonym is 洗手间 xǐshǒujiān.
 卫星	wèi xīng	satellite (natural or artificial) — 卫 (guard) + 星: the guard star that attends a planet. Covers the moon, the GPS constellation, and the dish antenna (卫星天线). The Great Leap Forward idiom 放卫星 ("launching a satellite") still means announcing an inflated achievement.
 为此	wèi cǐ	for this reason; because of this; to this end — 为 wèi (for; on account of) + 此 cǐ (this; the aforementioned). A formal connective linking back to a preceding reason or context and introducing what was done in response. Stronger in register than 因此 yīncǐ (therefore), carrying a sense of specific, deliberate response to the stated situation.
-为了	wèi le	in order to; for the sake of; for the purpose of — 为 wèi (for; toward) + 了 le (grammatical completion particle; here functions as a suffix to 为). The standard purpose marker in modern Chinese. 为了 introduces the goal or beneficiary of an action and can appear at the start of a sentence or clause.
+为了	wèi le	in order to; for the sake of; for the purpose of — 为 wèi (for; toward) + 了 le (grammatical completion particle; here a suffix to 为). The standard purpose marker in modern Chinese. 为了 introduces the goal or beneficiary of an action and can appear at the start of a sentence or clause.
 为了 + 目的	wèi le + go a l	in order to; for the sake of — When the real answer is a purpose rather than a cause, use 为了, not 因为. 为了 names the goal the action serves: 为了健康，他每天跑步 ("for the sake of health, he runs every day"). Asking specifically about purpose, you can use 为了什么 ("to what end").
 为情所困	wèi qíng suǒ kùn	to be trapped by emotion; entangled in feeling
 为人所知	wèi rén suǒ zhī	to be known by people; to become widely known

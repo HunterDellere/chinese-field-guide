@@ -3,7 +3,7 @@ type: 'grammar'
 category: 'grammar'
 status: 'complete'
 title: '乃 · classical connective: then, thereupon, thus; to be; only then'
-desc: 'A classical connective that marks earned consequence: the result that follows because the condition was genuinely met, not merely next in line.'
+desc: 'Classical 乃 marks a consequence as earned, where modern 就 stays neutral; as emphatic copula it gives 失败乃成功之母 its weight.'
 metaDesc: "What 乃 nǎi means in classical Chinese: 'then, thereupon, thus' as a sequential connector, 'is' as a literary copula (失败乃成功之母), and the restrictive 'only then.' With examples and modern survivals like 乃至."
 pageTitle: 'What 乃 nǎi means · classical Chinese connective and copula'
 tags:
@@ -15,7 +15,7 @@ tags:
   - 'conjunction'
   - 'rhetoric'
   - 'copula'
-updated: '2026-04-25'
+updated: '2026-07-12'
 pinyin: 'nǎi'
 content_review: 'pending'
 faq:
@@ -222,7 +222,7 @@ faq:
     <div class="scholar" data-glyph="乃">
       <div class="scholar-label">语言化石 yǔyán huàshí · Fossils in Living Speech</div>
       <p>乃 does not appear in ordinary spoken Mandarin. A native speaker who dropped 乃 into casual conversation would sound as though they were performing a role in a historical drama. The character has retreated almost entirely into set phrases, formal writing, and classical quotation , but within those domains it remains active and recognizable.</p>
-      <p>乃至 (nǎizhì) is the most productive survival. It means "and even; going as far as; to the extent that" and functions as a scalar connector in formal written Chinese: from the ordinary end of a range up to its extreme. 这影响了整个国家，乃至整个世界 , "this affected the whole country, and even the whole world." The extended form 乃至于 (nǎizhìyú) adds slight emphasis but functions identically. Both are common in journalism, academic writing, and formal speech , neither sounds archaic in those registers.</p>
+      <p>乃至 (nǎizhì) is the most productive survival. It means "and even; going as far as; to the extent that" and is a scalar connector in formal written Chinese: from the ordinary end of a range up to its extreme. 这影响了整个国家，乃至整个世界 , "this affected the whole country, and even the whole world." The extended form 乃至于 (nǎizhìyú) adds slight emphasis but functions identically. Both are common in journalism, academic writing, and formal speech , neither sounds archaic in those registers.</p>
       <p>乃翁 (nǎiwēng) is a literary fossil. The Tang poet 杜甫 (Dù Fǔ) and the Song poet 陆游 (Lù Yóu) both use it: in 陆游's 示儿, the dying poet addresses his son with 王师北定中原日，家祭无忘告乃翁 , "when the imperial army recaptures the Central Plains, at the ancestral rites do not forget to tell your old father." 乃翁 means "your father" (first-person, addressed to one's child). The phrase survives as a literary allusion, not living vocabulary.</p>
     </div>
 
@@ -249,7 +249,7 @@ faq:
         <div class="card-pinyin">shībài nǎi chénggōng zhī mǔ</div>
         <div class="card-en">failure is the mother of success</div>
         <span class="tag-n">proverb · 必背</span>
-        <div class="card-note">The single most frequently cited sentence containing 乃 in modern Chinese. Every educated speaker knows it; every learner should. The classical structure (乃 copula + 之 genitive) is fully preserved, but the sentence functions as a living proverb rather than a text quotation.</div>
+        <div class="card-note">The single most frequently cited sentence containing 乃 in modern Chinese. Every educated speaker knows it; every learner should. The classical structure (乃 copula + 之 genitive) is fully preserved, but the sentence circulates as a living proverb rather than a text quotation.</div>
       </div>
 
       <div class="card c-red">

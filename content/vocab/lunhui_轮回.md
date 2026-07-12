@@ -4,7 +4,7 @@ category: 'vocab'
 status: 'complete'
 content_review: 'pending'
 title: '轮回 · samsara; the cycle of rebirth'
-desc: "The Buddhist karmic wheel that turns through six realms of existence: the foundational concept that motivates all Buddhist practice as a path toward liberation."
+desc: "轮回 renders Sanskrit saṃsāra as 'wheel' plus 'return': the karmic cycle carrying beings through six realms until liberation."
 metaDesc: "轮回 lunhui samsara: the Buddhist cycle of rebirth and karmic consequence. The six realms of existence, the wheel image, karma and cause-and-effect, Chinese Buddhist teaching on breaking the cycle, and the word in modern literary usage."
 pageTitle: '轮回 lúnhuí'
 pinyin: 'lúnhuí'
@@ -18,7 +18,7 @@ tags:
   - 'classical'
   - 'fate'
   - 'life'
-updated: '2026-06-19'
+updated: '2026-07-12'
 faq:
   - q: "What does 轮回 (lúnhuí) mean in English?"
     a: "轮回 lúnhuí means samsara: the Buddhist cycle of death and rebirth. The two characters literally read 'wheel' (轮) and 'return' (回), so the word pictures existence as a turning wheel that carries beings through repeated lifetimes until they break free."
@@ -347,7 +347,7 @@ faq:
         </div>
         <div class="tags"><span class="tag tag-v">V/N 动词/名词</span></div>
         <div class="card-def">
-          解 jiě (to untie; to release; to dissolve) + 脱 tuō (to escape; to shed; to free oneself from). In Buddhist context: liberation from 轮回, the shedding of karmic bondage and conditioned existence. In everyday usage, 解脱 retains its sense of being released from something constraining or painful: 如释重负 rú shì zhòng fù (as if a heavy burden has been lifted) and 解脱了 (finally free, finally released) are used for everything from ending a difficult relationship to completing a long ordeal.
+          解 jiě (to untie; to release; to dissolve) + 脱 tuō (to escape; to shed; to free oneself from). In Buddhist context: liberation from 轮回, the shedding of karmic bondage and conditioned existence. In everyday usage, 解脱 retains its sense of being released from something constraining or painful: 如释重负 rú shì zhòng fù (as if a heavy burden has been lifted) and 解脱了 (finally free, finally released) turn up in ordinary speech: a difficult relationship ended, a long ordeal finished.
         </div>
         <div class="examples">
           <div class="example">

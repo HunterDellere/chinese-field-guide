@@ -4,7 +4,7 @@ category: 'history'
 status: 'complete'
 content_review: 'pending'
 title: '科举 · The Imperial Examination System'
-desc: 'The exam that governed Chinese civilization for 1,300 years: selecting officials by merit, enshrining the Confucian canon, and shaping every dynasty from the Sui through the Qing.'
+desc: "The exam that selected China's officials for 1,300 years, from the Sui in 605 CE to abolition in 1905."
 metaDesc: "China's Imperial Examination System (科举 kējǔ): 1,300 years of merit selection from the Sui (605 CE) to abolition in 1905. Exam levels (童试, 乡试, 会试, 殿试), the Confucian canon, the eight-legged essay, and the line to today's 高考 gaokao."
 pageTitle: 'Imperial Examination System (科举) · 1,300 years of merit'
 tags:
@@ -14,7 +14,7 @@ tags:
   - 'song'
   - 'ming'
   - 'qing'
-updated: '2026-06-19'
+updated: '2026-07-12'
 pinyin: 'kē jǔ'
 faq:
   - q: "When did the Sui dynasty establish the imperial examination system (科举)?"
@@ -105,7 +105,7 @@ faq:
       <div class="scholar-label">制度洞见 zhìdù dòngjiàn · Institutional Insight</div>
       <p>The mature system, as it existed from the Song through the Qing, comprised three levels, each harder than the last and each producing a named degree that conferred specific social status and, at the higher levels, eligibility for official appointment.</p>
       <p>The first level was the <strong>童试 tóngshì</strong>, the preliminary local examination, administered in the candidate's home prefecture. Passing produced the degree of <strong>秀才 xiùcai</strong> (literally "cultivated talent"), the lowest recognized scholarly rank. A 秀才 was exempt from corporal punishment and entitled to certain social courtesies; he could study at the state-run prefectural school and sit the provincial exam. In a village, a 秀才 was a distinguished person. In the wider world of the examination ladder, he stood at the bottom rung. The number of 秀才 in the empire at any given time was in the hundreds of thousands.</p>
-      <p>The second level was the <strong>乡试 xiāngshì</strong>, the provincial examination, held at the provincial capital every three years. Candidates sat for three sessions over nine days, writing in individual examination cells (<strong>号舍 hào shě</strong>) barely large enough to lie down in. The cells were locked from the outside; candidates brought their own food and water. Passing the 乡试 produced the degree of <strong>举人 jǔrén</strong> (literally "recommended person"). A 举人 was eligible for official appointment and, more importantly, qualified to sit the metropolitan examination in the capital. The number of 举人 produced in each provincial examination was strictly controlled, a fixed quota per province, making this stage a genuine bottleneck.</p>
+      <p>The second level was the <strong>乡试 xiāngshì</strong>, the provincial examination, held at the provincial capital every three years. Candidates sat for three sessions over nine days, writing in individual examination cells (<strong>号舍 hào shě</strong>) barely large enough to lie down in. The cells were locked from the outside; candidates brought their own food and water. Passing the 乡试 produced the degree of <strong>举人 jǔrén</strong> (literally "recommended person"). A 举人 was eligible for official appointment and qualified to sit the metropolitan examination in the capital. The number of 举人 produced in each provincial examination was strictly controlled, a fixed quota per province, making this stage a genuine bottleneck.</p>
       <p>The third and final level comprised two linked examinations. The <strong>会试 huìshì</strong> (metropolitan examination) was held in Beijing in the spring of the year following each provincial examination; all 举人 from across the empire competed for a fixed national quota of successful candidates. Those who passed then sat the <strong>殿试 diànshì</strong> (palace examination), administered in the emperor's personal presence in the imperial palace and theoretically judged by the emperor himself. The palace examination ranked, rather than eliminated: all who sat it received the degree of <strong>进士 jìnshì</strong> (literally "advanced scholar" or "presented scholar"). The top three <strong>进士</strong> received special titles: <strong>状元 zhuàngyuán</strong> (1st place, the most prestigious academic title in Chinese history), <strong>榜眼 bǎngyǎn</strong> (2nd, "eyes of the notice board"), and <strong>探花 tànhuā</strong> (3rd, "flower-seeker," originally the role of picking flowers at the celebratory banquet, given by custom to the most handsome among the top three). A 状元 was appointed directly to the prestigious Hanlin Academy (<strong>翰林院 Hànlín Yuàn</strong>) and was on a fast track to high ministerial office. A handful per year, across an empire of hundreds of millions.</p>
     </div>
 
@@ -320,7 +320,7 @@ faq:
       <div class="pattern-body">
         <p><strong>易经 Yìjīng</strong> (Book of Changes): the ancient divination text whose hexagrams accumulated layers of Confucian philosophical commentary over the centuries. An examination candidate was expected to know these commentaries, not to practice divination.</p>
         <p><strong>书经 Shūjīng</strong> (Book of Documents): a collection of pronouncements attributed to ancient sage-kings and their ministers, providing the canonical vocabulary of Confucian statecraft. Much of it is now understood to be later forgery, but this was not known to examination candidates.</p>
-        <p><strong>诗经 Shījīng</strong> (Book of Songs): 305 poems of the Zhou dynasty, ranging from court hymns to folk songs of courtship and longing. Confucius is said to have edited the collection. The poems were cited in examination writing as evidence of moral or political arguments, an interpretive tradition that sometimes had little to do with what the poems plainly say.</p>
+        <p><strong>诗经 Shījīng</strong> (Book of Songs): 305 poems of the Zhou dynasty: court hymns and folk songs of courtship and longing. Confucius is said to have edited the collection. The poems were cited in examination writing as evidence of moral or political arguments, an interpretive tradition that sometimes had little to do with what the poems plainly say.</p>
         <p><strong>礼记 Lǐjì</strong> (Book of Rites): the exhaustive manual of Zhou-dynasty ritual practice: funerals, sacrifices, court protocol, coming-of-age ceremonies. The text from which the 大学 and 中庸 were excerpted. Mastery of its prescriptions was essential for any official who would manage state ritual.</p>
         <p><strong>春秋 Chūnqiū</strong> (Spring and Autumn Annals): the terse chronicle of the state of Lu (Confucius's home state) from 722 to 481 BCE, attributed to Confucius himself. The text is so compressed as to be nearly unintelligible without its three major commentaries, the 左传 Zuǒzhuàn above all. What candidates studied was really the Annals-plus-commentary as a unified text, and the tradition of finding moral judgments encoded in the Annals' sparse language (the "praise and blame" tradition, 褒贬 bāobiǎn) was a major subject of examination writing.</p>
       </div>

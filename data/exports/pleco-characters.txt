@@ -39,7 +39,7 @@
 蛋	dàn	egg, egg-shaped thing, scoundrel — A pictophonetic egg: the 虫 radical for small creatures sits under a sound element, and in slang it turns people into scoundrels.
 当	dāng	to be, just at, ought; (dàng) appropriate, to treat as — A high-frequency polyphone with two readings. As dāng it means to serve as, to be at a given time or place, and ought to; as dàng it means appropriate, to treat something as, and to pawn. The tone tells you which sense is in play.
 到	dào	to arrive, to reach; to — As a resultative complement suffix, 到 converts any action verb into a claim of completion: 听到 means not just hearing but hearing that arrived, perception proven by contact.
-道	dào	way, path — The word that gave Daoism its name, and underlies every Chinese 'ism'.
+道	dào	way, path — The character that opens the Dàodéjīng and names Daoism: way, path, principle, and the measure word for rivers and light.
 德	dé	virtue, moral power — Virtue not as rule-following but as accumulated moral power: what radiates from a person whose conduct has been straight long enough to become second nature.
 地	dì	earth, ground, land — Heaven above, earth below: the second power of the cosmos, and the root of every word about place, ground, and belonging.
 灯	dēng	lamp, lantern, light — A fire radical 火 fused with the sound 丁, naming everything from oil lamps to the red light that stops traffic.
@@ -100,7 +100,7 @@
 好	hǎo	good; to like — Good, well, to like, and the tone split that doubles its expressive range.
 喝	hē	to drink; (hè) to shout, to cry out — A mouth radical paired with the phonetic 曷, splitting cleanly into the everyday hē you drink with and the older hè you shout with.
 合	hé	to join, combine, suit, close — A lid closing down over the mouth of a vessel. From that image of two parts meeting and fitting grows the whole field of joining, suiting, closing, and adding up into a whole.
-和	hé	harmony, and, with; peace — 和 carries the same concept across grammar and philosophy: grain and mouth together, the harmony of shared food and speech, a character that serves as both everyday conjunction and the Confucian ideal of a well-ordered world.
+和	hé	harmony, and, with; peace — 禾 (grain) beside 口 (mouth): 和 is both Mandarin's everyday "and" and the Confucian ideal of harmony without uniformity.
 河	hé	river, the Yellow River — 河 began as the personal name of one river, the Yellow River, before it widened to mean any river at all.
 黑	hēi	black, darkness, and the illicit — Black on the surface, but the live sense is moral: the black market, the underworld, the hacker. The color that names everything that operates out of sight.
 很	hěn	very; the empty intensifier — 很 is the word for very, but its strangest job is doing nothing: Chinese needs a degree adverb before a plain adjective, and 很 fills that slot so quietly that 我很好 means simply I am fine, not I am very well.
@@ -155,7 +155,7 @@
 口	kǒu	mouth, opening, entrance — A simple rectangle for an open mouth: one of the most productive radicals in the script, present in hundreds of characters for speaking, eating, and openings.
 苦	kǔ	bitter, hardship, suffering, painstaking — The grass radical over 古 names a bitter herb on the tongue, then stretches to every flavor of hardship and effort.
 跨	kuà	to stride; to span; to bestride — The character of the long stride: a foot-radical verb that reaches from "step over a threshold" to "span an era" to the modern policy vocabulary of cross-border, cross-industry, cross-cultural everything.
-快	kuài	fast, happy — One character carries two meanings that turn out to be the same thing: speed and joy both feel like the heart cutting loose.
+快	kuài	fast, happy — 快 joins 忄 (heart) to 夬 (a decisive cut): speed and joy are the same image, a heart running without drag.
 困	kùn	to trap, hard-pressed, tired — A tree boxed inside four walls and unable to grow: the picture of being hemmed in, the source of both hardship and sleepiness.
 来	lái	to come, to arrive, toward the speaker — Oracle bone wheat plant turned direction-word: 来 pulls everything toward the speaker, including time itself.
 老	lǎo	old, venerable, experienced — A stooped elder with long hair: age as wisdom, seniority as moral authority, and the Daoist sage who wrote the Daodejing.
@@ -213,7 +213,7 @@
 全	quán	whole, complete, entire, all — Enter, and find the jade flawless. From that image of unblemished jade grows everything whole and complete: the entire set, the intact and unbroken, and the adverb that sweeps up all of it at once.
 然	rán	so, thus, the -ly manner suffix — A character that once meant to burn and was borrowed for the abstract sense so, correct, this-is-how-it-is. Today it builds the connectives 然后 and 然而, the conjunctions 当然 and 虽然, and rides as a -ly suffix on words like 忽然 and 突然.
 热	rè	hot, heat, fever, ardent, popular — The four dots of flame beneath 执 carry physical heat into the heat of crowds, fervor, and whatever is trending.
-人	rén	person, humanity — The character for human being, and its echo in 仁 rén, Confucian benevolence.
+人	rén	person, humanity — Two strokes, barely changed since the oracle bones, write 人 rén; add 二 and you get 仁, Confucian benevolence.
 仁	rén	humaneness, the kernel of human relation — The character that anchors Confucian ethics: 亻 + 二, the self in relation to another. Etymology, the virtue-cluster compounds, and the seed-kernel sense that links moral and botanical 仁.
 认	rèn	to recognize, to acknowledge — The act of recognition: knowing something for what it is, owning up to it, and the small set of compounds that turn this on the world, on others, and on oneself.
 日	rì	sun, day, Japan — The oldest pictograph in the script: a circle with a dot for the sun, now a radical in hundreds of characters related to time, light, and warmth.
@@ -264,7 +264,7 @@
 王	wáng	king — Three horizontals joined by one vertical: the ruler who connects heaven, earth, and humanity. Also the most common Chinese surname, and a radical that is secretly 玉 (jade) in disguise.
 望	wàng	to gaze afar, to hope, reputation — A person on a mound looking into the distance, with the moon above: from that raised gaze grow three senses. To gaze and look afar (眺望, 望远镜, 张望), to hope and expect (希望, 期望, 盼望, 失望), and reputation or prestige (名望, 威望, 声望). As a coverb it can even mean toward, like 朝 or 向.
 危	wēi	danger, peril, precarious, lofty height — A kneeling figure pinned beneath a cliff overhang spells danger, where the same overhang also carries the sound.
-为	wéi	to do; to act; for; because of — In oracle bone script, a hand leading an elephant (to guide an immense force through skillful agency), and the character at the center of the Daoist concept of non-action.
+为	wéi	to do; to act; for; because of — In oracle bone script 为 is a hand leading an elephant, and it sits at the center of Daoist 无为 non-action.
 文	wén	writing, culture, civil — A tattooed figure: writing as marks on the body, culture as the accumulated markings of civilization.
 问	wèn	to ask, to inquire, to ask after — A mouth at the gate, asking. From that image grow the everyday verb to ask, the noun for a question or problem, the warm act of asking after someone, and the stern act of holding to account.
 我	wǒ	I, me, myself — The character for 'I' began as a toothed bronze halberd: the assertive grip of a weapon became the grammatical mark of a self.
@@ -315,7 +315,7 @@
 于	yú	at, in, to, than (the classical preposition) — The workhorse preposition of formal Chinese. 于 marks where, when, toward whom, and against what a thing is measured, and it is bound into a long list of everyday disyllables like 由于, 终于, and 等于.
 雨	yǔ	rain — The oracle bone shows rain falling from the sky: one of the most transparent pictographs in the script, and the radical that organizes all Chinese weather.
 语	yǔ	language, speech, words — Speech radical plus the phonetic 吾 (I, me): the character for language carries the self within it, encoding the idea that language is the medium through which the self speaks to the world.
-玉	yù	jade, precious — The material of kingship and moral cultivation: three jade discs on a cord, a glyph almost identical to king, the stone that Confucius said was virtue made visible.
+玉	yù	jade, precious — Three jade discs on a cord, one dot away from 王 (wáng, king): the stone Confucius said was virtue made visible.
 远	yuǎn	far, distant, remote — Long robes trailing as you walk away: distance encoded in motion, and the ambivalence of far-off places in Chinese thought.
 月	yu è	moon, month — A crescent moon in profile, and one of the most poetically charged characters in Chinese literature.
 越	yu è	to cross over, to surpass — The character of crossing-and-exceeding: a foot-radical verb that travels from "stride over a barrier" to "the more, the more" to a Chinese state name and a national poetic gesture.

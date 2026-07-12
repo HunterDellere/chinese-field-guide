@@ -24,7 +24,7 @@
 可能	kěn éng	maybe, possible — The all-purpose word for possibility, working as adverb, adjective, and noun, and how it differs from 也许, 或许, 大概, and the modal 会.
 可能补语	kěn éng bǔ yǔ	potential complements — Slide 得 or 不 inside a verb-result pair and it states ability: 听懂 is understood, 听得懂 is can understand, 听不懂 is the learner's anthem.
 来	lái / qù	去 · directional complements — 上来, 下去, 出去, 进来: the motion complement system mapped.
-了	le	the perfective particle — Perfective aspect vs. change-of-state: the single most-confused particle.
+了	le	the perfective particle — Post-verb 了 marks a completed action; sentence-final 了 announces a new situation, and the two can stack in one sentence.
 离	lí	away from; distance — The coverb for distance and separation: the A 离 B + distance pattern for "how far", the verb sense "to leave / part from", and how 离 differs from 从 and 到 in marking space and time.
 离合词	lí hé cí	separable verbs — Words that unzip: 见面 is to meet, but meeting him is 跟他见面 and meeting once is 见一次面, because the "word" is secretly verb plus object.
 连…都/也	lián … dōu / yě	even X — The intensifier construction: raising the stakes of a claim.
@@ -32,7 +32,7 @@
 吗	ma	the yes-no question particle — The simplest way to ask a question in Mandarin: add 吗 to the end of a statement. Plus how it differs from A-not-A questions and from 呢 and 吧.
 嘛	ma	the obvious-conclusion particle — The particle that frames a statement as self-evident: explaining, justifying, or mildly exasperated that you even had to say it.
 没有	méi yǒu	negation of possession and past action — The two most important negation characters, 不 and 没, and why they cannot be swapped.
-乃	nǎi	classical connective: then, thereupon, thus; to be; only then — A classical connective that marks earned consequence: the result that follows because the condition was genuinely met, not merely next in line.
+乃	nǎi	classical connective: then, thereupon, thus; to be; only then — Classical 乃 marks a consequence as earned, where modern 就 stays neutral; as emphatic copula it gives 失败乃成功之母 its weight.
 呢	ne	the continuation and reciprocal-question particle — The particle that turns a finished sentence into an open conversation: softens questions, returns them to the asker, and lets a state hang in the air.
 起来	qǐ lái	directional complement: upward, inward, beginning — The most versatile directional complement in Mandarin: three distinct grammatical lives.
 让	ràng	causative and permission structure — One verb, two functions: 让 makes someone do something, and lets someone do something. The core Chinese causative and permissive structure.
@@ -55,8 +55,8 @@
 越来越	yu è lái yu è	more and more; increasingly — The degree escalation pattern: expressing a quality that grows continuously over time.
 在	zài	location, existence, and the progressive — One of the busiest words in Mandarin: the verb "to be at," the location coverb "at/in," and the progressive marker for ongoing action.
 怎么	zěn me	how, in what way; why — The all-purpose question word for manner and reason: how to do something, what is wrong, and the surprised "how come," plus how 怎么 differs from 为什么 and 怎么样.
-者	zhě	classical nominalizer "the one who; that which" — The particle that turns a verb or adjective into a person, and that never stopped working.
+者	zhě	classical nominalizer "the one who; that which" — 者 zhě turns any verb into "the one who": 学者 scholar, 读者 reader, 作者 author, unchanged since the Analects.
 着	zhe	the continuous aspect marker — Three distinct jobs: holding a state, linking two actions, and commanding attention. All from a single particle that beginners collapse into one.
 正反问	zhèng fǎn wèn	A-not-A questions — Chinese asks yes-no questions by offering both answers: 去不去 is "going, not going?", and the pattern replaces 吗 with built-in neutrality.
-之	zhī	classical genitive, nominalizer, and pronoun — The single character that does the work of three English words (of, it, and the one who) and still shows up in modern Chinese every day.
+之	zhī	classical genitive, nominalizer, and pronoun — 之 zhī did the work of 'of', 'him/her/it', and 'the one who' in classical Chinese; it survives in 之间, 之后, and 总之.
 只有…才	zhǐ yǒu cái	only if…then; the restrictive conditional — The exclusive condition: only when X is met can Y happen. The grammatical frame for necessity.

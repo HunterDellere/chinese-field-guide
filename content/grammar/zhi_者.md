@@ -4,7 +4,7 @@ category: 'grammar'
 status: 'complete'
 content_review: 'pending'
 title: '者 · classical nominalizer "the one who; that which"'
-desc: 'The particle that turns a verb or adjective into a person, and that never stopped working.'
+desc: '者 zhě turns any verb into "the one who": 学者 scholar, 读者 reader, 作者 author, unchanged since the Analects.'
 metaDesc: "What 者 zhě means in classical Chinese: the nominaliser that turns a verb or adjective into 'the one who' or 'that which.' With examples from the classics and modern survivals: 学者, 读者, 作者, 前者, 后者."
 pageTitle: 'What 者 zhě means · classical Chinese nominalizer'
 tags:
@@ -13,7 +13,7 @@ tags:
   - 'syntax'
   - 'literary'
   - 'compounds'
-updated: '2026-06-19'
+updated: '2026-07-12'
 pinyin: 'zhě'
 faq:
   - q: "What does 者 zhě mean in Chinese?"
@@ -146,9 +146,9 @@ faq:
             <div class="ex-en">She is a scholar of Tang dynasty literature.</div>
           </div>
           <div class="example">
-            <div class="ex-cn">许多学者对这个问题持不同看法。</div>
-            <div class="ex-py">Xǔduō xuézhě duì zhège wèntí chí bùtóng kànfǎ.</div>
-            <div class="ex-en">Many scholars hold different views on this question.</div>
+            <div class="ex-cn">这位学者发表了三十多篇论文。</div>
+            <div class="ex-py">Zhè wèi xuézhě fābiǎo le sānshí duō piān lùnwén.</div>
+            <div class="ex-en">This scholar has published more than thirty papers.</div>
           </div>
         </div>
       </div>
@@ -194,7 +194,7 @@ faq:
       <p><strong>知之者不如好之者，好之者不如乐之者。</strong> (Analects 6.20)<br>
       Zhī zhī zhě bù rú hào zhī zhě, hào zhī zhě bù rú lè zhī zhě.<br>
       <em>Those who know it are not as good as those who love it; those who love it are not as good as those who delight in it.</em><br>
-      Three parallel 者 phrases serve as subjects in a chain of comparisons. The structure is identical in each clause: [Verb + 之 + 者] = "the one(s) who [verb] it." 之 here is the object pronoun (it / this), so 知之者 = those-who-know-it, not simply "the knowing ones." The sentence is about three grades of engagement with learning.</p>
+      Three parallel 者 phrases are the subjects in a chain of comparisons. The structure is identical in each clause: [Verb + 之 + 者] = "the one(s) who [verb] it." 之 here is the object pronoun (it / this), so 知之者 = those-who-know-it, not simply "the knowing ones." The sentence is about three grades of engagement with learning.</p>
       <p><strong>逝者如斯夫，不舍昼夜。</strong> (Analects 9.17)<br>
       Shì zhě rú sī fū, bù shě zhòuyè.<br>
       <em>What passes is like this, never stopping day or night.</em><br>
@@ -215,7 +215,7 @@ faq:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 · thing-nominalization</span></div>
         <div class="card-def">
-          逝 (to pass; to depart; to flow away) + 者. A thing-nominalization rather than a person-nominalization , 者 here points to an event or process rather than a human agent. This usage shows the full range of 者: it nominalizes any predicate, not just those describing human beings. 逝者 in modern Chinese also serves as a formal, literary word for "the deceased."
+          逝 (to pass; to depart; to flow away) + 者. A thing-nominalization rather than a person-nominalization , 者 here points to an event or process rather than a human agent. This usage shows the full range of 者: it nominalizes any predicate, not just those describing human beings. 逝者 in modern Chinese is also a formal, literary word for "the deceased."
         </div>
         <div class="examples">
           <div class="example">
@@ -310,7 +310,7 @@ faq:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 · discourse connectors , formal writing</span></div>
         <div class="card-def">
-          前者 (the former) and 后者 (the latter) are among the most useful 者-compounds in formal written Chinese. They allow a writer to refer back to two previously mentioned options without repeating them, creating the same economy in discourse that 者 creates in noun phrases. Together they function as a pair: introduce two items, then compare them with 前者...后者. Indispensable in essays, reports, and analytical writing.
+          前者 (the former) and 后者 (the latter) are among the most useful 者-compounds in formal written Chinese. They allow a writer to refer back to two previously mentioned options without repeating them, creating the same economy in discourse that 者 creates in noun phrases. The two come as a pair: introduce two items, then compare them with 前者...后者. Indispensable in essays, reports, and analytical writing.
         </div>
         <div class="examples">
           <div class="example">

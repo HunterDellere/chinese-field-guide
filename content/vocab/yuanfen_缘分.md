@@ -3,14 +3,14 @@ type: 'vocab'
 category: 'vocab'
 status: 'complete'
 title: '缘分 · karmic connection'
-desc: 'Buddhist-rooted fate that ties strangers, lovers, and old friends.'
+desc: 'Buddhist karmic fate: 500 years of cultivation to share a boat with a stranger, a thousand to share a pillow.'
 metaDesc: "缘分 yuánfèn: the karmic connection that brings people together across lifetimes. Buddhist origins, romantic use, and the Chinese philosophy of destined encounters."
 pageTitle: '缘分 yuánfèn'
 tags:
   - 'buddhism'
   - 'fate'
   - 'romance'
-updated: '2026-06-19'
+updated: '2026-07-12'
 pinyin: 'yuánfèn'
 content_review: 'verified'
 content_sources:
@@ -465,7 +465,7 @@ faq:
     <div class="scholar" data-glyph="随">
       <div class="scholar-label">哲学洞见 zhéxué dòngjiàn · Philosophical Note</div>
       <p>随缘 suí yuán (follow the karmic current; go with the flow of fate) sits at the intersection of Buddhist and Daoist thought. From Buddhism: accept conditions as they arise, without forcing outcomes through ego-driven will. From Daoism: follow the natural flow of things (道法自然 dào fǎ zìrán, the Dao follows the natural), yielding to what is rather than insisting on what one wants.</p>
-      <p>In contemporary Chinese life, 随缘 functions as both a genuine philosophical attitude and a practical conversational move, a way to signal equanimity in the face of uncertainty, disappointment, or uncontrollable outcomes. When someone says 随缘吧 after a failed job application or a relationship that didn't work out, they are invoking the full weight of this tradition: it wasn't mine to force; if the conditions align, it will come; if not, there is wisdom in acceptance.</p>
+      <p>In contemporary Chinese life, 随缘 is both a genuine philosophical attitude and a practical conversational move, a way to signal equanimity in the face of uncertainty, disappointment, or uncontrollable outcomes. When someone says 随缘吧 after a failed job application or a relationship that didn't work out, they are invoking the full weight of this tradition: it wasn't mine to force; if the conditions align, it will come; if not, there is wisdom in acceptance.</p>
       <p>The related phrase 强求不来 qiǎngqiú bù lái ("forcing it won't make it come") expresses the same insight from the negative direction. 缘分 that has to be forced is not 缘分; it is manufacture. The genuine article arrives when the conditions are right.</p>
     </div>
 

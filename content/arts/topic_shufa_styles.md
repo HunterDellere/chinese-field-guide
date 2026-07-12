@@ -4,7 +4,7 @@ category: 'arts'
 status: 'complete'
 content_review: 'pending'
 title: '书法风格 · The Five Scripts of Chinese Calligraphy'
-desc: "Five script styles chart two thousand years of Chinese writing, from the solemn bronze inscriptions of the Zhou to the explosive cursive of the Tang masters."
+desc: "The five scripts of Chinese calligraphy, 篆隶楷行草, run from Zhou bronze inscriptions to Tang wild cursive; choosing a script is choosing a register."
 metaDesc: "The five scripts of Chinese calligraphy: seal script, clerical, standard, running, and cursive. Each style, its historical origins, aesthetic ideal, and key masters."
 pageTitle: '书法风格 shūfǎ fēnggé'
 pinyin: 'shūfǎ fēnggé'
@@ -16,7 +16,7 @@ tags:
   - 'history'
   - 'aesthetics'
   - 'culture'
-updated: '2026-06-19'
+updated: '2026-07-12'
 faq:
   - q: "What are the five scripts of Chinese calligraphy?"
     a: "The five scripts are seal script (篆书 zhuànshū), clerical script (隶书 lìshū), standard or regular script (楷书 kǎishū), running script (行书 xíngshū), and cursive script (草书 cǎoshū). They developed roughly in that order over two thousand years, moving from the formal and pictographic toward the fluid and abstract."
@@ -94,7 +94,7 @@ faq:
       <span class="topic-hero-eyebrow">Arts · 艺术 yìshù</span>
       <h1 class="topic-hero-title">书法风格</h1>
       <span class="topic-hero-title-py">shūfǎ fēnggé</span>
-      <p class="topic-hero-desc">Five script styles chart two thousand years of Chinese writing , from the solemn bronze inscriptions of the Zhou to the explosive cursive of the Tang masters. The choice of script is itself an expressive act.</p>
+      <p class="topic-hero-desc">The five scripts of Chinese calligraphy, 篆隶楷行草, run from Zhou bronze inscriptions to Tang wild cursive. Choosing a script is choosing a register.</p>
     </header>
 
     <span class="section-anchor" id="five-scripts"></span>
@@ -103,7 +103,7 @@ faq:
     </div>
     <div class="scholar" data-glyph="书">
       <div class="scholar-label">书体 shūtǐ · script styles</div>
-      <p>Chinese calligraphy recognizes five canonical script styles, called 书体 (shūtǐ) or 字体 (zìtǐ). They are not merely historical curiosities , all five are actively practiced today, and a serious calligrapher is expected to have at minimum a working knowledge of all of them. The five are: 篆书 (zhuànshū, seal script), 隶书 (lìshū, clerical script), 楷书 (kǎishū, standard/regular script), 行书 (xíngshū, running script), and 草书 (cǎoshū, cursive script).</p>
+      <p>Chinese calligraphy recognizes five canonical script styles, called 书体 (shūtǐ) or 字体 (zìtǐ): 篆书 (zhuànshū, seal script), 隶书 (lìshū, clerical script), 楷书 (kǎishū, standard/regular script), 行书 (xíngshū, running script), and 草书 (cǎoshū, cursive script). All five are actively practiced today, and a serious calligrapher is expected to have at minimum a working knowledge of each.</p>
       <p>These styles emerged in roughly that historical order, from the Zhou dynasty through the Tang, but the relationship between them is not strictly one of replacement. Later scripts simplified and accelerated writing; earlier scripts retained prestige for ceremonial, artistic, and philosophical reasons. A birthday greeting brushed in 篆书 carries completely different weight than the same characters in 行书 , the archaic script signals deliberateness, gravity, connection to deep time. Choosing a script is choosing a register.</p>
     </div>
 
@@ -180,7 +180,7 @@ faq:
     </div>
     <div class="scholar" data-glyph="楷">
       <div class="scholar-label">魏晋唐 · Wei-Jin through Tang dynasty, 3rd–8th century CE</div>
-      <p>楷书 (kǎishū) is the standard script , the one printed in textbooks, displayed on street signs, and taught to every schoolchild. It developed from 隶书 during the Wei-Jin period (3rd–4th century CE) and reached full maturity in the Tang. The word 楷 itself means model or exemplar. This is the script that serves as the structural foundation for everything else.</p>
+      <p>楷书 (kǎishū) is the standard script , the one printed in textbooks, displayed on street signs, and taught to every schoolchild. It developed from 隶书 during the Wei-Jin period (3rd–4th century CE) and reached full maturity in the Tang. The word 楷 itself means model or exemplar. This script is the structural foundation for everything else.</p>
       <p>In 楷书, every stroke is distinct. The brush completes each stroke before beginning the next; the lifting and placing of the brush is explicit and intentional. The eight basic strokes of 永字八法 (yǒng zì bā fǎ, the eight methods of the character 永) are the classic formulation: the character 永 (yǒng, eternal) contains all eight fundamental stroke types, and learning to write it correctly has been the starting point for calligraphic instruction since at least the Tang dynasty.</p>
       <p>The Tang dynasty produced the four masters who define the aesthetic range of 楷书. 欧阳询 (Ōuyáng Xún, 557–641) is known for structural precision: his characters are architectural, each stroke placed with deliberate attention to the load-bearing logic of the form, often with a slight backward lean that gives the whole composition a sense of contained tension. 颜真卿 (Yán Zhēnqīng, 709–785) represents the opposite pole , his 楷书 is expansive and powerful, strokes broad and open, the characters exuding a confidence shaped in part by Buddhist gravitas and a life of political upheaval. His 多宝塔碑 (Duōbǎo Tǎ Bēi) and 祭侄文稿 (Jì Zhí Wén Gǎo) stand among the great works of the tradition. 柳公权 (Liǔ Gōngquán, 778–865) brought 楷书 to an upright precision between Ouyang and Yan , spare, structured, without ornament. The pre-Tang master 褚遂良 (Chǔ Suìliáng, 596–658) is prized for a quality none of the others quite achieve: a sense of floating lightness, strokes that seem to rest on the page without pressing into it.</p>
       <p>Most calligraphers begin their study with 楷书. The logic is that standard script teaches the fundamental vocabulary of strokes and their structural relationships within a character. Only after internalizing that vocabulary can a calligrapher begin to abbreviate and connect strokes in 行书 without losing coherence. Cursive written by someone who never mastered standard script tends to be legible only to themselves.</p>

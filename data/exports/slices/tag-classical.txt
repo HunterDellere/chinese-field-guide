@@ -7,16 +7,16 @@
 可	kě	can; may; worth; quite — A two-stroke mouth character whose ancient sense of affirming breath became the pivot of permission, capability, and worth in classical and modern Chinese.
 命	mìng	life, fate, command — A mouth speaking an order: 令 above, 口 inside. The character that holds together three of the heaviest words in Chinese: life, destiny, and the command from above.
 其	qí	its, that, their — A winnowing basket that became the pronoun holding classical Chinese together: the silent 'its' behind thousands of literary phrases.
-为	wéi	to do; to act; for; because of — In oracle bone script, a hand leading an elephant (to guide an immense force through skillful agency), and the character at the center of the Daoist concept of non-action.
+为	wéi	to do; to act; for; because of — In oracle bone script 为 is a hand leading an elephant, and it sits at the center of Daoist 无为 non-action.
 也	yě	also; too; classical particle — A pictograph that lost its original image entirely and became one of the most load-bearing particles in classical Chinese: the gavel at the end of every verdict.
 以	yǐ	by means of; using; because; in order to — A classical Chinese preposition and conjunction so versatile that it anchors half the grammar of formal Chinese: the word that turns one thing into the means, standard, or cause of another.
 于	yú	at, in, to, than (the classical preposition) — The workhorse preposition of formal Chinese. 于 marks where, when, toward whom, and against what a thing is measured, and it is bound into a long list of everyday disyllables like 由于, 终于, and 等于.
-玉	yù	jade, precious — The material of kingship and moral cultivation: three jade discs on a cord, a glyph almost identical to king, the stone that Confucius said was virtue made visible.
+玉	yù	jade, precious — Three jade discs on a cord, one dot away from 王 (wáng, king): the stone Confucius said was virtue made visible.
 远	yuǎn	far, distant, remote — Long robes trailing as you walk away: distance encoded in motion, and the ambivalence of far-off places in Chinese thought.
 云	yún	cloud — The simplified 云 is older than the traditional 雲, a rare case where the modern form recovers the ancient one.
 之	zhī	of, going, this: the classical connective — The most-written character in classical Chinese: a possessive particle, pronoun, and verb fossilized into pure grammar.
 历史	lì shǐ	history — The character for historian shows a hand holding a brush over a vessel: in ancient China, the scribe who held the brush held power.
-轮回	lún huí	samsara; the cycle of rebirth — The Buddhist karmic wheel that turns through six realms of existence: the foundational concept that motivates all Buddhist practice as a path toward liberation.
+轮回	lún huí	samsara; the cycle of rebirth — 轮回 renders Sanskrit saṃsāra as 'wheel' plus 'return': the karmic cycle carrying beings through six realms until liberation.
 乾坤	qián kūn	heaven and earth; the two primary trigrams — The first two hexagrams of the Yijing encode the entire cosmos: Qian is pure creative yang, Kun is pure receptive yin, and between them all change unfolds.
 人间	rén jiān	the human world; the mortal realm — The world of people: where karma plays out, where flowers fade in April, and where the only beings who can hear the Dharma are born.
 山水画	shān shuǐ huà	Chinese Landscape Painting — Mountains and waters as a cosmological pair -- the genre that made ink the equal of philosophy.
@@ -161,10 +161,10 @@
 周公吐哺	Zhōu Gōng tǔ bǔ	the Duke of Zhou spits out his food — a ruler's eagerness to receive talent — From a passage in the Shiji: the Duke of Zhou was so eager to receive visiting scholars and advisors that when eating he would stop mid-meal, spit out his food, and go to meet them, lest a talented man leave without an audience.
 自相矛盾	zì xiāng máo dùn	to contradict oneself: spear against one's own shield — Lit: self-mutually-spear-shield. From the fable of a peddler who swore his spear (矛) could pierce anything and his shield (盾) could stop anything, until a bystander asked what would happen if he used the one on the other.
 自行其是	zì xíng qí shì	to act on one's own judgment; to go one's own way regardless of others — 自 zì (self) + 行 xíng (to act; carry out) + 其是 qí shì (what one considers right). Doing what one believes to be correct without consulting or deferring to others.
-乃	nǎi	classical connective: then, thereupon, thus; to be; only then — A classical connective that marks earned consequence: the result that follows because the condition was genuinely met, not merely next in line.
+乃	nǎi	classical connective: then, thereupon, thus; to be; only then — Classical 乃 marks a consequence as earned, where modern 就 stays neutral; as emphatic copula it gives 失败乃成功之母 its weight.
 所	suǒ	classical nominalizer and passive marker — The function word that turns verbs into noun phrases, and has been doing so since Confucius quoted it in the Analects.
-者	zhě	classical nominalizer "the one who; that which" — The particle that turns a verb or adjective into a person, and that never stopped working.
-之	zhī	classical genitive, nominalizer, and pronoun — The single character that does the work of three English words (of, it, and the one who) and still shows up in modern Chinese every day.
+者	zhě	classical nominalizer "the one who; that which" — 者 zhě turns any verb into "the one who": 学者 scholar, 读者 reader, 作者 author, unchanged since the Analects.
+之	zhī	classical genitive, nominalizer, and pronoun — 之 zhī did the work of 'of', 'him/her/it', and 'the one who' in classical Chinese; it survives in 之间, 之后, and 总之.
 爱情	ài qíng	romantic love; love as a feeling — 爱 ài + 情 qíng (feeling; sentiment; romance). The noun for romantic love as an abstract force or state. 爱情故事 = love story; 爱情电影 = romance film; 谈恋爱 is the verb for being in a relationship, but 爱情 names the thing itself.
 八卦	bā guà	the eight trigrams; gossip — 八 bā + 卦 guà (trigram; divinatory figure). The eight three-line figures of yin and yang at the foundation of the Yijing, used in divination, feng shui, and cosmology. In colloquial modern usage the same word means gossip: 八卦新闻 (tabloid news), 别八卦了 (stop gossiping).
 霸主	bà zhǔ	hegemon lord — power exercised without moral mandate — 霸 bà (dominate by force) + 主 zhǔ (lord, master). Mencius drew the sharpest formulation of the distinction between 王 wáng (true kingship through moral virtue) and 霸 bà (hegemonic dominance through military and economic power): 以力假仁者霸 "one who uses force while pretending to benevolence is a hegemon" (…
@@ -516,7 +516,7 @@
 王羲之	Wáng Xī zhī	Wang Xizhi — Sage of Calligraphy
 望闻问切	wàng wén wèn qiē	The four examinations , looking (observation of complexion, tongue, posture), listening/smelling (voice, breath), asking (history, symptoms), and touching (pulse diagnosis). The complete TCM diagnostic protocol compressed into four characters.
 为此	wèi cǐ	for this reason; because of this; to this end — 为 wèi (for; on account of) + 此 cǐ (this; the aforementioned). A formal connective linking back to a preceding reason or context and introducing what was done in response. Stronger in register than 因此 yīncǐ (therefore), carrying a sense of specific, deliberate response to the stated situation.
-为了	wèi le	in order to; for the sake of; for the purpose of — 为 wèi (for; toward) + 了 le (grammatical completion particle; here functions as a suffix to 为). The standard purpose marker in modern Chinese. 为了 introduces the goal or beneficiary of an action and can appear at the start of a sentence or clause.
+为了	wèi le	in order to; for the sake of; for the purpose of — 为 wèi (for; toward) + 了 le (grammatical completion particle; here a suffix to 为). The standard purpose marker in modern Chinese. 为了 introduces the goal or beneficiary of an action and can appear at the start of a sentence or clause.
 为情所困	wèi qíng suǒ kùn	to be trapped by emotion; entangled in feeling
 为人所知	wèi rén suǒ zhī	to be known by people; to become widely known
 为所欲为	wèi suǒ yù wéi	to do whatever one pleases; to act without restraint

@@ -27,12 +27,12 @@
 吧	ba	the suggestion and confirmation particle — The softest word in Mandarin: how one syllable softens commands, hedges statements, and reads the room.
 的	de / dé / dì	得 · 地 · the three de's — Attribution, result complement, and adverbial marker: distinguished once and for all.
 过	guò / guo	the experiential aspect marker — The particle that says 'I have ever done this'. Not when, not how often, just that it once happened. The most-confused pair with 了.
-了	le	the perfective particle — Perfective aspect vs. change-of-state: the single most-confused particle.
+了	le	the perfective particle — Post-verb 了 marks a completed action; sentence-final 了 announces a new situation, and the two can stack in one sentence.
 吗	ma	the yes-no question particle — The simplest way to ask a question in Mandarin: add 吗 to the end of a statement. Plus how it differs from A-not-A questions and from 呢 and 吧.
 嘛	ma	the obvious-conclusion particle — The particle that frames a statement as self-evident: explaining, justifying, or mildly exasperated that you even had to say it.
 呢	ne	the continuation and reciprocal-question particle — The particle that turns a finished sentence into an open conversation: softens questions, returns them to the asker, and lets a state hang in the air.
 着	zhe	the continuous aspect marker — Three distinct jobs: holding a state, linking two actions, and commanding attention. All from a single particle that beginners collapse into one.
-之	zhī	classical genitive, nominalizer, and pronoun — The single character that does the work of three English words (of, it, and the one who) and still shows up in modern Chinese every day.
+之	zhī	classical genitive, nominalizer, and pronoun — 之 zhī did the work of 'of', 'him/her/it', and 'the one who' in classical Chinese; it survives in 之间, 之后, and 总之.
 啊	a	emotional / exclamatory particle
 别的	bié de	other (colloquial)
 补语	bǔ yǔ	complement
@@ -91,7 +91,7 @@
 听着！	tīng zhe !	Listen! / Listen up! (and stay listening) — The sustained-attention imperative with 着. 听 alone is a simple command to listen; 听着 adds the sense of "maintain that listening state." Common before announcements, reprimands, or instructions that require focused, continuous attention.
 通过	tōng guò	to pass through; to get past; by means of; via — 通 (to go through) + 过 guò (to cross; to pass). The everyday verb for getting through something: passing through a gate, passing an exam, a motion passing a vote.
 哇	wa	exclamatory particle (wow)
-为了	wèi le	in order to; for the sake of; for the purpose of — 为 wèi (for; toward) + 了 le (grammatical completion particle; here functions as a suffix to 为). The standard purpose marker in modern Chinese. 为了 introduces the goal or beneficiary of an action and can appear at the start of a sentence or clause.
+为了	wèi le	in order to; for the sake of; for the purpose of — 为 wèi (for; toward) + 了 le (grammatical completion particle; here a suffix to 为). The standard purpose marker in modern Chinese. 为了 introduces the goal or beneficiary of an action and can appear at the start of a sentence or clause.
 我的书	wǒ de shū	my book — possessive pronoun + 的 + noun — 的 marks possession and belonging: pronoun or noun + 的 + noun. This is structurally identical to the adjective pattern , the modifier always comes before 的 which always precedes the noun.
 我明白了	wǒ míng bai le	I understand now; I get it (I have entered a state of understanding) — State-change verbs like 明白 (understand), 知道 (know), 懂 (grasp), 累 (tired), 饿 (hungry), 高兴 (happy) pair powerfully with sentence-final 了. The 了 marks the entry into that state , the moment the change occurs. Before: didn't understand. After: understands.
 我要红的	wǒ yào hóng de	I want the red one — 的 stands alone as nominal — When the noun after 的 is already understood from context, it can be dropped , leaving 的 to function as a standalone noun phrase meaning "the one(s) that are X." This is the nominalizing function of 的, productive across all the adjective and clause patterns above.

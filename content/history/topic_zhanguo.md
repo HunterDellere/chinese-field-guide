@@ -4,7 +4,7 @@ category: 'history'
 status: 'complete'
 content_review: 'pending'
 title: '战国时期 · Warring States Period'
-desc: 'The most chaotic political era in Chinese history was also the condition that produced every major Chinese philosophical tradition. Political fragmentation and intellectual diversity are not separate stories.'
+desc: 'Seven states fought from 475 to 221 BCE, and that same fragmentation produced Confucianism, Daoism, Legalism, and Mohism.'
 metaDesc: "Warring States Period (475–221 BCE): the seven states (秦 楚 齐 燕 韩 赵 魏), Shang Yang's Legalist reforms, the Hundred Schools 百家争鸣, the 合纵连横 alliance strategies, and why Qin won."
 pageTitle: 'Warring States Period (475–221 BCE) · 战国时期'
 tags:
@@ -16,7 +16,7 @@ tags:
   - 'statecraft'
   - 'politics'
   - 'classics'
-updated: '2026-04-22'
+updated: '2026-07-12'
 pinyin: 'zhànguó shíqī'
 faq:
   - q: "What was the Warring States Period in China?"
@@ -77,7 +77,7 @@ faq:
       <span class="topic-hero-eyebrow">History · 历史 lìshǐ</span>
       <h1 class="topic-hero-title">战国时期</h1>
       <span class="topic-hero-title-py">zhànguó shíqī</span>
-      <p class="topic-hero-desc">The most chaotic political era in Chinese history was also the condition that produced every major Chinese philosophical tradition. Political fragmentation and intellectual diversity are not separate stories.</p>
+      <p class="topic-hero-desc">Seven states fought from 475 to 221 BCE, and that same fragmentation produced Confucianism, Daoism, Legalism, and Mohism.</p>
     </header>
 
     <!-- ── SEVEN STATES AND TOTAL WAR ── -->
@@ -122,7 +122,7 @@ faq:
       <p>Every major tradition in Chinese intellectual history emerged during the Warring States period: Confucianism, Daoism, Legalism, Mohism, the School of Names, Yin-Yang cosmology. This is not a selection bias artifact. It reflects a structural reality: political fragmentation is an enabling condition for intellectual diversity.</p>
       <p>A unified state with a single orthodoxy and a single court enforces conformity. The Han dynasty eventually established Confucianism as the state orthodoxy and appointed no Legalists to high office; the Qin dynasty burned books. The Warring States had none of that capacity. Scholars could (and did) move from state to state when their patron was defeated, their advice was rejected, or their ideas went out of fashion. Xunzi served at the court of Qi, then Chu, then Qin, advising different rulers with different ideas. Shang Yang moved from Wei to Qin when Wei failed to appreciate his reforms. The mobile intellectual market created genuine competition in ideas because losers could simply relocate.</p>
       <p>States recruited talent aggressively because survival depended on it. The famous <strong>稷下学宫 Jìxià Xuégōng</strong> (Jixia Academy) in the state of Qi housed hundreds of scholars from every school simultaneously, supported by the Qi state, debating and teaching for roughly a century (c. 330–221 BCE). Academics were given housing, salaries, and the title of 大夫 dàfū (senior officer) without administrative duties, pure institutional patronage for intellectual activity. No single unified empire could have created this, because no emperor would fund his critics.</p>
-      <p>The result was China's axial age, roughly contemporaneous with classical Greece, the Hebrew prophets, and the Upanishads in India. The parallel has been noted since Karl Jaspers coined "axial age" in 1949; the deeper question is why. One answer: the organizational precondition for an axial age is precisely this kind of fragmented political landscape, where intellectual talent can be mobile, states compete for it, and no orthodoxy can be enforced across the whole.</p>
+      <p>The result was China's axial age, roughly contemporaneous with classical Greece, the Hebrew prophets, and the Upanishads in India. The parallel has been noted since Karl Jaspers coined "axial age" in 1949; the deeper question is why. One answer: the organizational precondition for an axial age is precisely this kind of political fragmentation, where intellectual talent can be mobile, states compete for it, and no orthodoxy can be enforced across the whole.</p>
     </div>
 
     <!-- ── HUNDRED SCHOOLS ── -->

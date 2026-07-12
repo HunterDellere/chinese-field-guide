@@ -1,11 +1,11 @@
 //角落書屋/Slices/Confucian Core
 爱	ài	love, to love, to cherish — Love in all its forms: romantic, familial, and the Confucian ethic of universal benevolence.
 德	dé	virtue, moral power — Virtue not as rule-following but as accumulated moral power: what radiates from a person whose conduct has been straight long enough to become second nature.
-和	hé	harmony, and, with; peace — 和 carries the same concept across grammar and philosophy: grain and mouth together, the harmony of shared food and speech, a character that serves as both everyday conjunction and the Confucian ideal of a well-ordered world.
+和	hé	harmony, and, with; peace — 禾 (grain) beside 口 (mouth): 和 is both Mandarin's everyday "and" and the Confucian ideal of harmony without uniformity.
 老	lǎo	old, venerable, experienced — A stooped elder with long hair: age as wisdom, seniority as moral authority, and the Daoist sage who wrote the Daodejing.
 礼	lǐ	rites, ceremony, propriety — The character that encodes Confucian social order: the ceremonial forms that bind family, society, and cosmos into one coherent whole.
 名	míng	name, fame, reputation — 名 is 夕 dusk plus 口 mouth: darkness falls, you cannot see who approaches, so you call out a name. Identity asserted through speech.
-人	rén	person, humanity — The character for human being, and its echo in 仁 rén, Confucian benevolence.
+人	rén	person, humanity — Two strokes, barely changed since the oracle bones, write 人 rén; add 二 and you get 仁, Confucian benevolence.
 仁	rén	humaneness, the kernel of human relation — The character that anchors Confucian ethics: 亻 + 二, the self in relation to another. Etymology, the virtue-cluster compounds, and the seed-kernel sense that links moral and botanical 仁.
 善	shàn	goodness; virtue; skilled — The character at the heart of Mencius argument that human nature is originally good: the moral sprouts waiting to be cultivated.
 听	tīng	to listen, to hear, to obey — The simplified 听 = mouth + axe, but the traditional 聽 encodes whole-body Confucian listening: ear, eye, heart, and upright virtue arrayed together in a single glyph.
@@ -15,7 +15,7 @@
 学	xu é	to study, to learn, learning — Hands guiding a child beneath a roof: the character for learning as both action and institution.
 一	yī	one; unified; as soon as — The simplest mark a brush can make carries the heaviest philosophical weight in Chinese civilization: 道生一，一生二，the Dao generates One, and One generates everything.
 义	yì	righteousness, duty, justice — The Confucian virtue of doing what is morally right, and the simplification that erased a sheep, a self, and the entire picture of what righteous form looks like.
-玉	yù	jade, precious — The material of kingship and moral cultivation: three jade discs on a cord, a glyph almost identical to king, the stone that Confucius said was virtue made visible.
+玉	yù	jade, precious — Three jade discs on a cord, one dot away from 王 (wáng, king): the stone Confucius said was virtue made visible.
 远	yuǎn	far, distant, remote — Long robes trailing as you walk away: distance encoded in motion, and the ambivalence of far-off places in Chinese thought.
 知	zhī	to know; knowledge — 知 = arrow + mouth: knowledge as the swift, target-hitting utterance, and in Wang Yangming, the act of knowing is inseparable from the act of doing.
 智	zhì	wisdom, moral intelligence — The Confucian virtue of knowing what is right to do; separately, the Buddhist prajñā that sees through the nature of things altogether.
@@ -345,7 +345,7 @@
 科学	kē xu é	science; scientific — 科 kē (branch; category; department) + 学 xué (learning; -ology). Lit. "categorized learning" , the systematic division of knowledge into disciplines. Coined as a translation for Western "science" in the late 19th century.
 可爱	kě ài	cute; adorable; lovable — 可 kě (can; worthy of) + 爱 ài (love). Worthy of being loved: cute, adorable. One of the most-used adjectives in everyday Mandarin. Used for children, animals, cartoon characters, and endearing people.
 孔子	Kǒng zǐ	Confucius
-快乐	kuài lè	happy; joyful; happiness (as a state) — 快 kuài (released; unobstructed) + 乐 lè (music; joy; ease). The standard word for happiness in modern Mandarin: functions as an adjective predicate, a pre-noun modifier, and a noun. Appears in greetings and fixed phrases far more than the simple 快 alone.
+快乐	kuài lè	happy; joyful; happiness (as a state) — 快 kuài (released; unobstructed) + 乐 lè (music; joy; ease). The standard word for happiness in modern Mandarin: it is an adjective predicate, a pre-noun modifier, and a noun. Appears in greetings and fixed phrases far more than the simple 快 alone.
 矿	kuàng	mineral, ore
 老百姓	lǎo bǎi xìng	the common people; ordinary citizens — 老 (old/established) + 百 (hundred) + 姓 (surname; clan). Lit. "the hundred old clans": the established common families as opposed to the aristocracy. The standard term for ordinary people, used across the political spectrum.
 老板	lǎo bǎn	boss; business owner — 老 lǎo + 板 bǎn (plank; board, extended to the person in charge). The everyday term for boss, owner, or the person in charge of a business. In restaurants, calling out 老板！is the standard way to get the owner's attention.
@@ -396,7 +396,7 @@
 哪里哪里	nǎ lǐ nǎ lǐ	"where, where?" — the classic deflection of a compliment; "you flatter me" — The quintessential 谦虚 response to a compliment , a rhetorical question that denies the existence of the praised quality. Literally "where is this quality you're seeing?" The doubling intensifies the deflection.
 年轻	nián qīng	young — 年 nián (year; age) + 轻 qīng (light; young; not heavy). The standard adjective for "young" , the opposite of 老 lǎo. 年轻人 niánqīngrén = young people. 年轻化 niánqīnghuà = to become younger/more youthful. 越活越年轻 "getting younger as I live" , a compliment to someone who looks youthful.
 女儿	nǚ ér	daughter — 女 nǚ (female) + 儿 ér (child; son , used neutrally here). Daughter. The contrast with 儿子 érzi (son , lit.
-牌位	pái wèi	spirit tablet — the ancestor's dwelling in the home — The spirit tablet (牌位, also 神主牌 shénzhǔpái or 祖先牌位 zǔxiān páiwèi) is a wooden or paper plaque inscribed with the ancestor's name, birth and death dates, and honorific. It serves as the material dwelling of the ancestor's spirit within the home or ancestral hall.
+牌位	pái wèi	spirit tablet — the ancestor's dwelling in the home — The spirit tablet (牌位, also 神主牌 shénzhǔpái or 祖先牌位 zǔxiān páiwèi) is a wooden or paper plaque inscribed with the ancestor's name, birth and death dates, and honorific. It is the material dwelling of the ancestor's spirit within the home or ancestral hall.
 派出所	pài chū suǒ	local police substation; community police office
 旁人	páng rén	bystanders; those on the sidelines (literary) — 旁 páng (side; beside) + 人 rén. Literally "people at the side": observers, onlookers, those not directly involved in a situation. The word carries a slightly theatrical quality: you, the protagonist, and 旁人 who watch. More literary than 别人. Common in classical and modern literary prose.
 品德	pǐn dé	moral character; the virtue a person has — 品 pǐn (rank; quality; character) + 德 dé. The grade of one's virtue. Where 道德 is morality in general, 品德 is the moral quality of a particular person. 品德高尚 "of lofty character" is the standard praise; 品德败坏 "of degraded character" is the standard condemnation.
@@ -463,7 +463,7 @@
 圣人	shèng rén	sage; fully realized moral exemplar
 诗	shī	poem; regulated verse
 诗经	shī jīng	Book of Songs
-诗经 · 书经	Shī jīng Shū jīng	Classic of Poetry · Classic of Documents — Two of the Five Classics. 诗经 Shījīng (Classic of Poetry, c. 11th–6th century BCE) , 305 poems ranging from folk songs to court hymns; Confucius allegedly edited the collection and praised it as the foundation of literary education.
+诗经 · 书经	Shī jīng Shū jīng	Classic of Poetry · Classic of Documents — Two of the Five Classics. 诗经 Shījīng (Classic of Poetry, c. 11th–6th century BCE) , 305 poems, folk songs and court hymns among them; Confucius allegedly edited the collection and praised it as the foundation of literary education.
 识	shí	to recognize; knowledge
 识见	shí jiàn	insight; discernment; perceptive judgment
 史记	Shǐ jì	Records of the Grand Historian (Sima Qian, c. 94 BCE) — 史 (historical record) + 记 (to record; to note). The foundational work of Chinese historiography, written by Sima Qian (司马迁, c. 145–86 BCE) over decades and completed after his castration by order of Emperor Wu of Han.

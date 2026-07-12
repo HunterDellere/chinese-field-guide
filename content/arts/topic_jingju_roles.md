@@ -4,7 +4,7 @@ category: 'arts'
 status: 'complete'
 content_review: 'pending'
 title: '生旦净末丑 · Role Types in Peking Opera'
-desc: "Five role categories, each a complete performance tradition -- voice, movement, makeup, and costume as a total semiotic system."
+desc: "The five 行当 of Peking Opera: sheng, dan, jing, mo, and chou, each a lifelong specialization in voice, movement, and makeup."
 metaDesc: "生旦净末丑: the five role types of Peking Opera (京剧 Jīngjù) -- sheng, dan, jing, mo, chou. Face painting codes, vocal styles, sub-types, and the semiotic system of costume and identity."
 pageTitle: '生旦净末丑 shēng dàn jìng mò chǒu'
 tags:
@@ -14,7 +14,7 @@ tags:
   - 'culture'
   - 'arts'
   - 'music'
-updated: '2026-06-19'
+updated: '2026-07-12'
 pinyin: 'shēng dàn jìng mò chǒu'
 faq:
   - q: "What are the Chinese opera roles sheng, dan, jing, chou, and mo?"
@@ -71,7 +71,7 @@ faq:
       <span class="topic-hero-eyebrow">Arts · 艺术 yìshù</span>
       <h1 class="topic-hero-title">生旦净末丑</h1>
       <span class="topic-hero-title-py">shēng dàn jìng mò chǒu</span>
-      <p class="topic-hero-desc">The five role categories of Peking Opera -- not merely character types but complete performance traditions, each with its own vocal technique, movement vocabulary, makeup system, and decades of training.</p>
+      <p class="topic-hero-desc">The five role categories of Peking Opera 京剧, each a complete performance tradition with its own vocal technique, movement vocabulary, makeup system, and decades of training.</p>
     </header>
 
     <span class="section-anchor" id="system"></span>
@@ -84,7 +84,7 @@ faq:
 
     <div class="scholar" data-glyph="戲">
       <div class="scholar-label">体系 tǐxì · The System</div>
-      <p><strong>生旦净末丑</strong> are the five role categories of Peking Opera 京剧 Jīngjù. They are not simply character types -- they are complete performance traditions. Each <strong>行当 hángdang</strong> (role line) carries its own vocal technique, its own physical movement vocabulary, its own costume system, and its own makeup conventions. An actor trains in one line from childhood and stays within it throughout a career. A great 旦 specialist does not play 生 roles, and vice versa. The training required to reach professional mastery is so total that crossing lines is not simply a matter of inclination.</p>
+      <p><strong>生旦净末丑</strong> are the five role categories of Peking Opera 京剧 Jīngjù, and each is a complete performance tradition in its own right. Each <strong>行当 hángdang</strong> (role line) carries its own vocal technique, its own physical movement vocabulary, its own costume system, and its own makeup conventions. An actor trains in one line from childhood and stays within it throughout a career: a great 旦 specialist does not play 生 roles, and vice versa.</p>
       <p>The system was inherited from earlier opera traditions, particularly 昆曲 Kūnqǔ, and elaborated through the nineteenth century as Peking Opera consolidated its form. The role categories have analogs in nearly every regional Chinese opera style -- 越剧 Yuèjù, 粤剧 Yuèjù (Cantonese opera), 川剧 Chuānjù -- though the specific conventions of each differ. The Peking Opera conventions are the best known internationally and the most codified.</p>
       <p>In modern practice, 末 (the secondary male role) has merged almost entirely with 生, so most contemporary practitioners speak of four main categories: 生旦净丑. The five-category formulation survives in historical analysis and in the classical phrase itself, which has the advantage of covering the full traditional taxonomy.</p>
     </div>
@@ -132,7 +132,7 @@ faq:
 
     <div class="scholar" data-glyph="净">
       <div class="scholar-label">净行 jìng háng · The Jing Line</div>
-      <p>净 is the category of the elaborately face-painted roles 花脸 huāliǎn, also called 大花脸 dà huāliǎn. These are typically powerful figures: generals, supernatural beings, deified heroes, and major villains. The elaborate geometric 脸谱 liǎnpǔ (face painting) serves as character identity legible from the back of a large theater. The designs -- blocks of color, swirling patterns, geometric lines -- identify the character's essential nature at a glance, before a word is sung.</p>
+      <p>净 is the category of the elaborately face-painted roles 花脸 huāliǎn, also called 大花脸 dà huāliǎn. These are typically powerful figures: generals, supernatural beings, deified heroes, and major villains. The elaborate geometric 脸谱 liǎnpǔ (face painting) makes a character's identity legible from the back of a large theater. The designs -- blocks of color, swirling patterns, geometric lines -- identify the character's essential nature at a glance, before a word is sung.</p>
       <p>The color code is one of the most recognized elements of Chinese opera internationally:</p>
       <p><strong>红脸 hóngliǎn (red face)</strong> -- loyalty, righteousness, honor. The supreme example is Guan Yu 关羽 Guān Yǔ, the general of the Three Kingdoms period who was posthumously deified as the God of War and the patron deity of righteousness. Guan Yu is always depicted with a red face, in opera, temple painting, and popular sculpture alike. The color convention and the deity's identity are inseparable.</p>
       <p><strong>黑脸 hēiliǎn (black face)</strong> -- fierce, powerful, but upright and neutral in moral terms. Neither the full virtue of the red face nor the treachery of the white. Generals of raw courage. The famous judge Bao Zheng 包拯 is often depicted with a black face.</p>

@@ -10,7 +10,7 @@
 老	lǎo	old, venerable, experienced — A stooped elder with long hair: age as wisdom, seniority as moral authority, and the Daoist sage who wrote the Daodejing.
 女	nǚ	woman, female — A kneeling figure with crossed arms: one of the most productive radicals in the script, present in characters for family relationships, feelings, and cultural concepts.
 朋	péng	friend, companion; of the same group — Two strings of cowrie shells hung side by side, an old unit of value, borrowed early for companions of equal standing who keep close company.
-人	rén	person, humanity — The character for human being, and its echo in 仁 rén, Confucian benevolence.
+人	rén	person, humanity — Two strokes, barely changed since the oracle bones, write 人 rén; add 二 and you get 仁, Confucian benevolence.
 外	wài	outside, outer, foreign, besides — A diviner reading the shells at the wrong hour, off the normal schedule. From that image grows everything beyond the boundary: the outside, the outer surface, the foreign land, and the relatives on the mother's side.
 喜	xǐ	joy, to like, happy events — A festive drum sounding above an open mouth: the sound of joy and the smiling mouth that answers it. From this image grow the words for liking, delight, and every happy occasion, above all the wedding.
 长	cháng	long; to grow; chief — A person with flowing long hair. One character, two readings: cháng (long) and zhǎng (to grow, elder), the richest dual-reading in Mandarin.
@@ -358,7 +358,7 @@
 空姐	kōng jiě	flight attendant (female) — 空 (sky, air) plus 姐 is the colloquial word for a female flight attendant, literally a "sky sister." It is a clipped, affectionate everyday term beside the formal 空中小姐 (kōngzhōng xiǎojiě).
 孔子	Kǒng zǐ	Confucius
 裤子	kù zi	trousers
-快乐	kuài lè	happy; joyful; happiness (as a state) — 快 kuài (released; unobstructed) + 乐 lè (music; joy; ease). The standard word for happiness in modern Mandarin: functions as an adjective predicate, a pre-noun modifier, and a noun. Appears in greetings and fixed phrases far more than the simple 快 alone.
+快乐	kuài lè	happy; joyful; happiness (as a state) — 快 kuài (released; unobstructed) + 乐 lè (music; joy; ease). The standard word for happiness in modern Mandarin: it is an adjective predicate, a pre-noun modifier, and a noun. Appears in greetings and fixed phrases far more than the simple 快 alone.
 筷子	kuài zi	chopsticks
 筷子架	kuài zi jià	Chopstick rest — Chopstick rest: a small ceramic or metal rest placed beside the bowl to lay chopsticks on between bites. Used in formal settings; absent in casual ones.
 老白茶	lǎo bái chá	aged white tea — white tea stored for 3+ years
@@ -433,7 +433,7 @@
 女朋友	nǚ péng you	girlfriend
 女王	nǚ wáng	queen (regnant)
 女性	nǚ xìng	female; women (as a category) — 女 nǚ (woman) + 性 xìng (sex). The female sex, women considered as a category or class: 职业女性 "professional women," 女性用品 "products for women." More formal and collective than 女人, the way one refers to women in writing, statistics, and public discourse.
-牌位	pái wèi	spirit tablet — the ancestor's dwelling in the home — The spirit tablet (牌位, also 神主牌 shénzhǔpái or 祖先牌位 zǔxiān páiwèi) is a wooden or paper plaque inscribed with the ancestor's name, birth and death dates, and honorific. It serves as the material dwelling of the ancestor's spirit within the home or ancestral hall.
+牌位	pái wèi	spirit tablet — the ancestor's dwelling in the home — The spirit tablet (牌位, also 神主牌 shénzhǔpái or 祖先牌位 zǔxiān páiwèi) is a wooden or paper plaque inscribed with the ancestor's name, birth and death dates, and honorific. It is the material dwelling of the ancestor's spirit within the home or ancestral hall.
 旁人	páng rén	bystanders; those on the sidelines (literary) — 旁 páng (side; beside) + 人 rén. Literally "people at the side": observers, onlookers, those not directly involved in a situation. The word carries a slightly theatrical quality: you, the protagonist, and 旁人 who watch. More literary than 别人. Common in classical and modern literary prose.
 朋友圈	péng you quān	circle of friends; WeChat Moments
 匹夫	pǐ fū	a common man

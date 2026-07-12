@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-12T06:17:04.817Z",
+  "generated": "2026-07-12T16:54:23.141Z",
   "summary": {
     "errors": 0,
-    "warnings": 197,
+    "warnings": 169,
     "info": 1295
   },
   "findings": [
@@ -92,25 +92,11 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
-      "level": "WARN",
-      "category": "formatting",
-      "file": "content/arts/topic_guqin.md",
-      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
-      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
-    },
-    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/arts/topic_jingju_roles.md",
       "msg": "2 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
-    },
-    {
-      "level": "WARN",
-      "category": "formatting",
-      "file": "content/arts/topic_jingju_roles.md",
-      "msg": "AI tell (copula avoidance): 1× — \"serves as\"",
-      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -162,25 +148,11 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
-      "level": "WARN",
-      "category": "formatting",
-      "file": "content/arts/topic_shijing.md",
-      "msg": "AI tell (vague attribution): 2× — \"scholars believe\", \"many scholars\"",
-      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
-    },
-    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/arts/topic_shufa.md",
       "msg": "9 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
-    },
-    {
-      "level": "WARN",
-      "category": "formatting",
-      "file": "content/arts/topic_shufa_styles.md",
-      "msg": "AI tell (copula avoidance): 1× — \"serves as\"",
-      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -223,13 +195,6 @@
       "file": "content/arts/topic_songci.md",
       "msg": "6 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
-    },
-    {
-      "level": "WARN",
-      "category": "formatting",
-      "file": "content/arts/topic_songci.md",
-      "msg": "AI tell (false range): 1× — \"The poem ends: \"Human life is like a dream; let me pour a libation to the river and the mo\"",
-      "fix": "Decorative \"from X to Y\" spans — replace with the concrete list or claim (VOICE.md \"AI tells\")."
     },
     {
       "level": "INFO",
@@ -643,13 +608,6 @@
       "file": "content/characters/dao4_道.md",
       "msg": "17 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
-    },
-    {
-      "level": "WARN",
-      "category": "formatting",
-      "file": "content/characters/dao4_道.md",
-      "msg": "AI tell (false range): 1× — \"everything from political speeches to personal memoir\"",
-      "fix": "Decorative \"from X to Y\" spans — replace with the concrete list or claim (VOICE.md \"AI tells\")."
     },
     {
       "level": "INFO",
@@ -1135,13 +1093,6 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
-      "level": "WARN",
-      "category": "formatting",
-      "file": "content/characters/he2_和.md",
-      "msg": "AI tell (copula avoidance): 1× — \"serves as\"",
-      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
-    },
-    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/he2_河.md",
@@ -1539,13 +1490,6 @@
       "file": "content/characters/kuai4_快.md",
       "msg": "11 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
-    },
-    {
-      "level": "WARN",
-      "category": "formatting",
-      "file": "content/characters/kuai4_快.md",
-      "msg": "AI tell (copula avoidance): 2× — \"functions as\"",
-      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -2017,13 +1961,6 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
-      "level": "WARN",
-      "category": "formatting",
-      "file": "content/characters/ren2_人.md",
-      "msg": "AI tell (copula avoidance): 2× — \"functions as\"",
-      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
-    },
-    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/ren2_仁.md",
@@ -2423,13 +2360,6 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
-      "level": "WARN",
-      "category": "formatting",
-      "file": "content/characters/wei2_为.md",
-      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
-      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
-    },
-    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/wen2_文.md",
@@ -2827,13 +2757,6 @@
       "file": "content/characters/yu4_玉.md",
       "msg": "7 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
-    },
-    {
-      "level": "WARN",
-      "category": "formatting",
-      "file": "content/characters/yu4_玉.md",
-      "msg": "AI tell (copula avoidance): 1× — \"serves as\"",
-      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -3851,13 +3774,6 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
-      "level": "WARN",
-      "category": "formatting",
-      "file": "content/grammar/le_了.md",
-      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
-      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
-    },
-    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/grammar/li_离.md",
@@ -3886,13 +3802,6 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
-      "level": "WARN",
-      "category": "formatting",
-      "file": "content/grammar/liangci_量词.md",
-      "msg": "AI tell (copula avoidance): 1× — \"serves as\"",
-      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
-    },
-    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/grammar/liheci_离合词.md",
@@ -3919,13 +3828,6 @@
       "file": "content/grammar/nai_乃.md",
       "msg": "34 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
-    },
-    {
-      "level": "WARN",
-      "category": "formatting",
-      "file": "content/grammar/nai_乃.md",
-      "msg": "AI tell (copula avoidance): 2× — \"functions as\"",
-      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -4124,32 +4026,11 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
-      "level": "WARN",
-      "category": "formatting",
-      "file": "content/grammar/zhi_之.md",
-      "msg": "AI tell (copula avoidance): 2× — \"functions as\"",
-      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
-    },
-    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/grammar/zhi_者.md",
       "msg": "12 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
-    },
-    {
-      "level": "WARN",
-      "category": "formatting",
-      "file": "content/grammar/zhi_者.md",
-      "msg": "AI tell (copula avoidance): 1× — \"serves as\"",
-      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
-    },
-    {
-      "level": "WARN",
-      "category": "formatting",
-      "file": "content/grammar/zhi_者.md",
-      "msg": "AI tell (vague attribution): 1× — \"many scholars\"",
-      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -4215,20 +4096,6 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
-      "level": "WARN",
-      "category": "formatting",
-      "file": "content/history/topic_keju.md",
-      "msg": "AI tell (signposting): 1× — \"importantly,\"",
-      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
-    },
-    {
-      "level": "WARN",
-      "category": "formatting",
-      "file": "content/history/topic_keju.md",
-      "msg": "AI tell (false range): 1× — \"ranging from court hymns to folk songs of courtship and longing\"",
-      "fix": "Decorative \"from X to Y\" spans — replace with the concrete list or claim (VOICE.md \"AI tells\")."
-    },
-    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/history/topic_qin_shihuang.md",
@@ -4248,13 +4115,6 @@
       "file": "content/history/topic_qinchao.md",
       "msg": "3 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
-    },
-    {
-      "level": "WARN",
-      "category": "formatting",
-      "file": "content/history/topic_qingchao.md",
-      "msg": "AI tell (significance inflation): 1× — \"political landscape\"",
-      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -4283,27 +4143,6 @@
       "file": "content/history/topic_shiji.md",
       "msg": "AI tell (copula avoidance): 1× — \"stands as\"",
       "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
-    },
-    {
-      "level": "WARN",
-      "category": "formatting",
-      "file": "content/history/topic_songchao.md",
-      "msg": "AI tell (significance inflation): 1× — \"vibrant\"",
-      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
-    },
-    {
-      "level": "WARN",
-      "category": "formatting",
-      "file": "content/history/topic_songchao.md",
-      "msg": "AI tell (vague attribution): 1× — \"many scholars\"",
-      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
-    },
-    {
-      "level": "WARN",
-      "category": "formatting",
-      "file": "content/history/topic_songchao.md",
-      "msg": "AI tell (false range): 1× — \"everything from cooking to engineering\"",
-      "fix": "Decorative \"from X to Y\" spans — replace with the concrete list or claim (VOICE.md \"AI tells\")."
     },
     {
       "level": "INFO",
@@ -4353,13 +4192,6 @@
       "file": "content/history/topic_zhanguo.md",
       "msg": "4 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
-    },
-    {
-      "level": "WARN",
-      "category": "formatting",
-      "file": "content/history/topic_zhanguo.md",
-      "msg": "AI tell (significance inflation): 1× — \"political landscape\"",
-      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -4670,13 +4502,6 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
-      "level": "WARN",
-      "category": "formatting",
-      "file": "content/religion/topic_rujia.md",
-      "msg": "AI tell (false range): 2× — \"everything from state sacrifices and court protocol to the proper way to greet an elder or set a table\", \"ranging from folk songs to court hymns\"",
-      "fix": "Decorative \"from X to Y\" spans — replace with the concrete list or claim (VOICE.md \"AI tells\")."
-    },
-    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/religion/topic_saman.md",
@@ -4710,13 +4535,6 @@
       "file": "content/religion/topic_zuxian.md",
       "msg": "12 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
-    },
-    {
-      "level": "WARN",
-      "category": "formatting",
-      "file": "content/religion/topic_zuxian.md",
-      "msg": "AI tell (copula avoidance): 1× — \"serves as\"",
-      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -5258,13 +5076,6 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
-      "level": "WARN",
-      "category": "formatting",
-      "file": "content/vocab/lunhui_轮回.md",
-      "msg": "AI tell (false range): 1× — \"everything from ending a difficult relationship to completing a long ordeal\"",
-      "fix": "Decorative \"from X to Y\" spans — replace with the concrete list or claim (VOICE.md \"AI tells\")."
-    },
-    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/vocab/lunyu_论语.md",
@@ -5727,13 +5538,6 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
-      "level": "WARN",
-      "category": "formatting",
-      "file": "content/vocab/yuanfen_缘分.md",
-      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
-      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
-    },
-    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/vocab/zhengzai_正在.md",
@@ -5801,6 +5605,125 @@
       "category": "seo",
       "file": "_global",
       "msg": "331 complete pages missing seo_title — default title leads with CJK and may lose English-SERP clicks. See SEO tab on the admin dashboard for the list.",
+      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/arts/topic_guqin.md",
+      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
+      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/arts/topic_jingju_roles.md",
+      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
+      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/arts/topic_shijing.md",
+      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
+      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/arts/topic_shufa_styles.md",
+      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
+      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/arts/topic_songci.md",
+      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
+      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/grammar/le_了.md",
+      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
+      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/grammar/liangci_量词.md",
+      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
+      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/grammar/nai_乃.md",
+      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
+      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/grammar/zhi_之.md",
+      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
+      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/grammar/zhi_者.md",
+      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
+      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/history/topic_keju.md",
+      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
+      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/history/topic_qingchao.md",
+      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
+      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/history/topic_songchao.md",
+      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
+      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/history/topic_zhanguo.md",
+      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
+      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/religion/topic_rujia.md",
+      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
+      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/religion/topic_zuxian.md",
+      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
+      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/vocab/yuanfen_缘分.md",
+      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
       "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
     },
     {
@@ -5995,20 +5918,6 @@
     {
       "level": "INFO",
       "category": "seo",
-      "file": "content/arts/topic_guqin.md",
-      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
-      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
-    },
-    {
-      "level": "INFO",
-      "category": "seo",
-      "file": "content/arts/topic_jingju_roles.md",
-      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
-      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
-    },
-    {
-      "level": "INFO",
-      "category": "seo",
       "file": "content/arts/topic_luxun.md",
       "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
       "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
@@ -6023,28 +5932,7 @@
     {
       "level": "INFO",
       "category": "seo",
-      "file": "content/arts/topic_shijing.md",
-      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
-      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
-    },
-    {
-      "level": "INFO",
-      "category": "seo",
-      "file": "content/arts/topic_shufa_styles.md",
-      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
-      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
-    },
-    {
-      "level": "INFO",
-      "category": "seo",
       "file": "content/arts/topic_shuimohua.md",
-      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
-      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
-    },
-    {
-      "level": "INFO",
-      "category": "seo",
-      "file": "content/arts/topic_songci.md",
       "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
       "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
     },
@@ -6100,20 +5988,6 @@
     {
       "level": "INFO",
       "category": "seo",
-      "file": "content/grammar/le_了.md",
-      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
-      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
-    },
-    {
-      "level": "INFO",
-      "category": "seo",
-      "file": "content/grammar/liangci_量词.md",
-      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
-      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
-    },
-    {
-      "level": "INFO",
-      "category": "seo",
       "file": "content/grammar/suo_所.md",
       "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
       "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
@@ -6129,13 +6003,6 @@
       "level": "INFO",
       "category": "seo",
       "file": "content/grammar/zhe_着.md",
-      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
-      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
-    },
-    {
-      "level": "INFO",
-      "category": "seo",
-      "file": "content/grammar/zhi_者.md",
       "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
       "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
     },
@@ -6163,13 +6030,6 @@
     {
       "level": "INFO",
       "category": "seo",
-      "file": "content/history/topic_keju.md",
-      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
-      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
-    },
-    {
-      "level": "INFO",
-      "category": "seo",
       "file": "content/history/topic_mingchao.md",
       "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
       "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
@@ -6185,13 +6045,6 @@
       "level": "INFO",
       "category": "seo",
       "file": "content/history/topic_qinchao.md",
-      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
-      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
-    },
-    {
-      "level": "INFO",
-      "category": "seo",
-      "file": "content/history/topic_qingchao.md",
       "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
       "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
     },
@@ -6276,20 +6129,6 @@
       "level": "INFO",
       "category": "seo",
       "file": "content/religion/topic_minjian.md",
-      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
-      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
-    },
-    {
-      "level": "INFO",
-      "category": "seo",
-      "file": "content/religion/topic_rujia.md",
-      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
-      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
-    },
-    {
-      "level": "INFO",
-      "category": "seo",
-      "file": "content/religion/topic_zuxian.md",
       "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
       "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
     },
@@ -6430,13 +6269,6 @@
       "level": "INFO",
       "category": "seo",
       "file": "content/vocab/yinyang_阴阳.md",
-      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
-      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
-    },
-    {
-      "level": "INFO",
-      "category": "seo",
-      "file": "content/vocab/yuanfen_缘分.md",
       "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
       "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
     },
@@ -6996,13 +6828,6 @@
     {
       "level": "INFO",
       "category": "seo",
-      "file": "content/grammar/nai_乃.md",
-      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
-      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
-    },
-    {
-      "level": "INFO",
-      "category": "seo",
       "file": "content/grammar/zhe_particle_呢.md",
       "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
       "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
@@ -7011,13 +6836,6 @@
       "level": "INFO",
       "category": "seo",
       "file": "content/grammar/zhe_particle_嘛.md",
-      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
-      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
-    },
-    {
-      "level": "INFO",
-      "category": "seo",
-      "file": "content/grammar/zhi_之.md",
       "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
       "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
     },
@@ -7165,13 +6983,6 @@
       "level": "INFO",
       "category": "seo",
       "file": "content/daily/topic_mianzi_practice.md",
-      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
-      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
-    },
-    {
-      "level": "INFO",
-      "category": "seo",
-      "file": "content/history/topic_zhanguo.md",
       "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
       "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
     },
@@ -7963,13 +7774,6 @@
       "level": "INFO",
       "category": "seo",
       "file": "content/grammar/shide_是的.md",
-      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
-      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
-    },
-    {
-      "level": "INFO",
-      "category": "seo",
-      "file": "content/history/topic_songchao.md",
       "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
       "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
     },
@@ -8130,6 +7934,125 @@
     {
       "level": "INFO",
       "category": "seo",
+      "file": "content/arts/topic_guqin.md",
+      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
+      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/arts/topic_jingju_roles.md",
+      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
+      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/arts/topic_shijing.md",
+      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
+      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/arts/topic_shufa_styles.md",
+      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
+      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/arts/topic_songci.md",
+      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
+      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/grammar/le_了.md",
+      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
+      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/grammar/liangci_量词.md",
+      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
+      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/grammar/nai_乃.md",
+      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
+      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/grammar/zhi_之.md",
+      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
+      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/grammar/zhi_者.md",
+      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
+      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/history/topic_keju.md",
+      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
+      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/history/topic_qingchao.md",
+      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
+      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/history/topic_songchao.md",
+      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
+      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/history/topic_zhanguo.md",
+      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
+      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/religion/topic_rujia.md",
+      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
+      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/religion/topic_zuxian.md",
+      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
+      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/vocab/yuanfen_缘分.md",
+      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
+      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
       "file": "content/daily/topic_diannao_wangluo.md",
       "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
       "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
@@ -8319,20 +8242,6 @@
     {
       "level": "INFO",
       "category": "seo",
-      "file": "content/arts/topic_guqin.md",
-      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
-      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
-    },
-    {
-      "level": "INFO",
-      "category": "seo",
-      "file": "content/arts/topic_jingju_roles.md",
-      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
-      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
-    },
-    {
-      "level": "INFO",
-      "category": "seo",
       "file": "content/arts/topic_luxun.md",
       "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
       "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
@@ -8347,28 +8256,7 @@
     {
       "level": "INFO",
       "category": "seo",
-      "file": "content/arts/topic_shijing.md",
-      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
-      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
-    },
-    {
-      "level": "INFO",
-      "category": "seo",
-      "file": "content/arts/topic_shufa_styles.md",
-      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
-      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
-    },
-    {
-      "level": "INFO",
-      "category": "seo",
       "file": "content/arts/topic_shuimohua.md",
-      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
-      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
-    },
-    {
-      "level": "INFO",
-      "category": "seo",
-      "file": "content/arts/topic_songci.md",
       "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
       "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
     },
@@ -8424,20 +8312,6 @@
     {
       "level": "INFO",
       "category": "seo",
-      "file": "content/grammar/le_了.md",
-      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
-      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
-    },
-    {
-      "level": "INFO",
-      "category": "seo",
-      "file": "content/grammar/liangci_量词.md",
-      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
-      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
-    },
-    {
-      "level": "INFO",
-      "category": "seo",
       "file": "content/grammar/suo_所.md",
       "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
       "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
@@ -8453,13 +8327,6 @@
       "level": "INFO",
       "category": "seo",
       "file": "content/grammar/zhe_着.md",
-      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
-      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
-    },
-    {
-      "level": "INFO",
-      "category": "seo",
-      "file": "content/grammar/zhi_者.md",
       "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
       "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
     },
@@ -8487,13 +8354,6 @@
     {
       "level": "INFO",
       "category": "seo",
-      "file": "content/history/topic_keju.md",
-      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
-      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
-    },
-    {
-      "level": "INFO",
-      "category": "seo",
       "file": "content/history/topic_mingchao.md",
       "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
       "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
@@ -8509,13 +8369,6 @@
       "level": "INFO",
       "category": "seo",
       "file": "content/history/topic_qinchao.md",
-      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
-      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
-    },
-    {
-      "level": "INFO",
-      "category": "seo",
-      "file": "content/history/topic_qingchao.md",
       "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
       "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
     },
@@ -8600,20 +8453,6 @@
       "level": "INFO",
       "category": "seo",
       "file": "content/religion/topic_minjian.md",
-      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
-      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
-    },
-    {
-      "level": "INFO",
-      "category": "seo",
-      "file": "content/religion/topic_rujia.md",
-      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
-      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
-    },
-    {
-      "level": "INFO",
-      "category": "seo",
-      "file": "content/religion/topic_zuxian.md",
       "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
       "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
     },
@@ -8754,13 +8593,6 @@
       "level": "INFO",
       "category": "seo",
       "file": "content/vocab/yinyang_阴阳.md",
-      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
-      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
-    },
-    {
-      "level": "INFO",
-      "category": "seo",
-      "file": "content/vocab/yuanfen_缘分.md",
       "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
       "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
     },
@@ -9320,13 +9152,6 @@
     {
       "level": "INFO",
       "category": "seo",
-      "file": "content/grammar/nai_乃.md",
-      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
-      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
-    },
-    {
-      "level": "INFO",
-      "category": "seo",
       "file": "content/grammar/zhe_particle_呢.md",
       "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
       "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
@@ -9335,13 +9160,6 @@
       "level": "INFO",
       "category": "seo",
       "file": "content/grammar/zhe_particle_嘛.md",
-      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
-      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
-    },
-    {
-      "level": "INFO",
-      "category": "seo",
-      "file": "content/grammar/zhi_之.md",
       "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
       "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
     },
@@ -9489,13 +9307,6 @@
       "level": "INFO",
       "category": "seo",
       "file": "content/daily/topic_mianzi_practice.md",
-      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
-      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
-    },
-    {
-      "level": "INFO",
-      "category": "seo",
-      "file": "content/history/topic_zhanguo.md",
       "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
       "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
     },
@@ -10287,13 +10098,6 @@
       "level": "INFO",
       "category": "seo",
       "file": "content/grammar/shide_是的.md",
-      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
-      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
-    },
-    {
-      "level": "INFO",
-      "category": "seo",
-      "file": "content/history/topic_songchao.md",
       "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
       "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
     },

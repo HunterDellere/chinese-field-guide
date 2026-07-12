@@ -4,14 +4,14 @@ category: 'grammar'
 status: 'complete'
 content_review: 'pending'
 title: '了 · the perfective particle'
-desc: 'Perfective aspect vs. change-of-state: the single most-confused particle.'
+desc: 'Post-verb 了 marks a completed action; sentence-final 了 announces a new situation, and the two can stack in one sentence.'
 metaDesc: "了 le: the most complex particle in Mandarin. Two pronunciations, two functions: completion marker and new-situation particle. Etymology, patterns, the double-了 construction, negation, and the liǎo family."
 pageTitle: '了 le / liǎo'
 tags:
   - 'aspect'
   - 'particle'
   - 'tense'
-updated: '2026-06-19'
+updated: '2026-07-12'
 pinyin: 'le'
 faq:
   - q: "What does 了 (le) mean in Chinese?"
@@ -102,7 +102,7 @@ faq:
 
     <div class="scholar" data-glyph="了">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>了</strong> is one of the most visually simple characters in the language , two strokes , yet one of the most semantically complex particles in Mandarin. Its ancient form depicts a swaddled infant with limbs tucked in, or alternatively a person with bent, crossed arms: the image of something having reached its final, resting position. From this concrete visual of a thing concluded, folded into completeness, comes the abstract sense of <em>being finished, clear, done.</em></p>
+      <p><strong>了</strong> takes two strokes to write, yet it is one of the most semantically complex particles in Mandarin. Its ancient form depicts a swaddled infant with limbs tucked in, or alternatively a person with bent, crossed arms: something that has reached its final, resting position. From that image of a thing concluded, folded into completeness, comes the abstract sense of <em>being finished, clear, done.</em></p>
       <p>The character derives historically from <strong>瞭 liǎo</strong>, meaning "clear-sighted; to see to the end." This original sense of clarity and full comprehension lives on in the <em>liǎo</em> pronunciation family: 了解 liǎojiě (to understand thoroughly), 了结 liǎojié (to conclude a matter), 了不起 liǎobuqǐ (remarkable , beyond what can be "surpassed or concluded"). The grammatical particle sense developed separately for the <em>le</em> pronunciation.</p>
       <p>The result is a character carrying two distinct pronunciations and two distinct grammatical worlds: <strong>le</strong> as particle marking perfective aspect and new situations, and <strong>liǎo</strong> as bound morpheme marking clarity, ability, and conclusion. Understanding this split is the first step toward taming 了.</p>
     </div>
@@ -577,7 +577,7 @@ faq:
 
     <div class="scholar" data-glyph="了">
       <div class="scholar-label">学者洞见 xuézhě dòngjiàn · The liǎo Bound Morpheme Family</div>
-      <p>When 了 is pronounced <strong>liǎo</strong>, it functions as a bound morpheme , never a standalone particle , carrying the meaning of <em>clarity, completion, ability to reach an end, or conclusion.</em> This is the older, more literary face of the character, closer to its origin in 瞭 liǎo (clear-sighted; to see all the way through). The liǎo family includes some of the most common and colorful expressions in the language.</p>
+      <p>When 了 is pronounced <strong>liǎo</strong>, it is a bound morpheme, never a standalone particle, carrying the meaning of <em>clarity, completion, ability to reach an end, or conclusion.</em> This is the older, more literary face of the character, closer to its origin in 瞭 liǎo (clear-sighted; to see all the way through). The liǎo family includes some of the most common and colorful expressions in the language.</p>
       <p>The potential complement construction is particularly important: <strong>V + 得/不 + 了 liǎo</strong>, meaning "can / cannot complete the action." 吃得了 = able to eat it all; 受不了 = cannot endure. This 了 tests whether an action can reach completion , a direct echo of its etymological meaning of "seeing through to the end."</p>
     </div>
 

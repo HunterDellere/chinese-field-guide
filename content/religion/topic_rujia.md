@@ -11,7 +11,7 @@ tags:
   - 'confucianism'
   - 'ritual'
   - 'ethics'
-updated: '2026-06-19'
+updated: '2026-07-12'
 pinyin: 'rújiā'
 faq:
   - q: "What is humaneness (仁 rén) in Confucianism?"
@@ -164,7 +164,7 @@ faq:
           <span class="card-en">ritual propriety; rites; social order through ceremony</span>
         </div>
         <div class="card-def">
-          礼 lǐ is the most distinctively Confucian virtue , the one that sets the school apart. It covers everything from state sacrifices and court protocol to the proper way to greet an elder or set a table. For Confucius, ritual is not mere formality: it is <em>the technology of moral cultivation.</em> When you bow correctly, you are not just performing a gesture , you are practicing the inner orientation of respect until it becomes habitual. Ritual trains the body so the character follows.
+          礼 lǐ is the most distinctively Confucian virtue , the one that sets the school apart. It covers state sacrifices, court protocol, and the proper way to greet an elder or set a table. For Confucius, ritual is not mere formality: it is <em>the technology of moral cultivation.</em> When you bow correctly, you are not just performing a gesture , you are practicing the inner orientation of respect until it becomes habitual. Ritual trains the body so the character follows.
         </div>
         <div class="examples">
           <div class="example">
@@ -396,7 +396,7 @@ faq:
           <span class="card-en">Classic of Poetry · Classic of Documents</span>
         </div>
         <div class="card-def">
-          Two of the Five Classics. 诗经 Shījīng (Classic of Poetry, c. 11th–6th century BCE) , 305 poems ranging from folk songs to court hymns; Confucius allegedly edited the collection and praised it as the foundation of literary education. 书经 Shūjīng (Classic of Documents) , speeches, proclamations, and records from the legendary sage-kings (Yao, Shun) through the early Zhou, serving as a model of royal virtue and governance.
+          Two of the Five Classics. 诗经 Shījīng (Classic of Poetry, c. 11th–6th century BCE) , 305 poems, folk songs and court hymns among them; Confucius allegedly edited the collection and praised it as the foundation of literary education. 书经 Shūjīng (Classic of Documents) , speeches, proclamations, and records from the legendary sage-kings (Yao, Shun) through the early Zhou, serving as a model of royal virtue and governance.
         </div>
       </div>
 

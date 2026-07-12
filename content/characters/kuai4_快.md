@@ -3,14 +3,14 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '快 · fast, happy'
-desc: 'One character carries two meanings that turn out to be the same thing: speed and joy both feel like the heart cutting loose.'
+desc: '快 joins 忄 (heart) to 夬 (a decisive cut): speed and joy are the same image, a heart running without drag.'
 metaDesc: "快 kuài: fast, quick, and happy. A character whose heart radical grounds both speed and joy. Etymology, compounds, chengyu, and usage notes for HSK 2 learners."
 pageTitle: '快 kuài'
 tags:
   - 'emotion'
   - 'daily-life'
   - 'adjectives'
-updated: '2026-06-19'
+updated: '2026-07-12'
 char: '快'
 pinyin: 'kuài'
 tone: 4
@@ -245,7 +245,7 @@ faq:
         </div>
         <div class="tags"><span class="tag tag-adj">Adj 形容词 xíngróngcí</span></div>
         <div class="card-def">
-          飞 fēi (to fly) + 快 kuài (fast). Vivid intensifier: the speed of something that seems to fly. Functions as an adverb modifying a verb or as a predicate adjective. Also used for a blade that is razor-sharp , fast at cutting.
+          飞 fēi (to fly) + 快 kuài (fast). Vivid intensifier: the speed of something that seems to fly. It modifies a verb as an adverb or stands alone as a predicate adjective. Also used for a blade that is razor-sharp , fast at cutting.
         </div>
         <div class="examples">
           <div class="example">
@@ -289,7 +289,7 @@ faq:
         </div>
         <div class="tags"><span class="tag tag-adj">Adj / N 形容词 · 名词</span></div>
         <div class="card-def">
-          快 kuài (released; unobstructed) + 乐 lè (music; joy; ease). The standard word for happiness in modern Mandarin: functions as an adjective predicate, a pre-noun modifier, and a noun. Appears in greetings and fixed phrases far more than the simple 快 alone.
+          快 kuài (released; unobstructed) + 乐 lè (music; joy; ease). The standard word for happiness in modern Mandarin: it is an adjective predicate, a pre-noun modifier, and a noun. Appears in greetings and fixed phrases far more than the simple 快 alone.
         </div>
         <div class="examples">
           <div class="example">

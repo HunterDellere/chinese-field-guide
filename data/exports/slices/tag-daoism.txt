@@ -1,9 +1,9 @@
 //角落書屋/Slices/Daoism
-道	dào	way, path — The word that gave Daoism its name, and underlies every Chinese 'ism'.
+道	dào	way, path — The character that opens the Dàodéjīng and names Daoism: way, path, principle, and the measure word for rivers and light.
 德	dé	virtue, moral power — Virtue not as rule-following but as accumulated moral power: what radiates from a person whose conduct has been straight long enough to become second nature.
 二	èr	two; second — The number two encodes the foundational split that drives all of Chinese cosmology: yin and yang, the two forces from which everything else unfolds.
 水	shuǐ	water — The first of the five elements, the radical that runs through hundreds of compounds, and the Daoist image of how to act in the world.
-为	wéi	to do; to act; for; because of — In oracle bone script, a hand leading an elephant (to guide an immense force through skillful agency), and the character at the center of the Daoist concept of non-action.
+为	wéi	to do; to act; for; because of — In oracle bone script 为 is a hand leading an elephant, and it sits at the center of Daoist 无为 non-action.
 无	wú	nothing, without, non-being — A dancer with arms outstretched, holding nothing. The character behind every Chinese negation of having, every Daoist non-doing, and the philosophical pole that pairs with 有 to frame the whole cosmos.
 用	yòng	to use; function; expense — 用 began as a pictograph of a bucket or bell (a vessel put to work) and became the character that Zhuangzi inverted in his doctrine of 无用之用: the use of uselessness.
 真	zhēn	real, true, genuine — Truth not as accuracy but as authenticity: the unadorned thing itself, prized in Daoist self-cultivation and in everyday emphasis.
@@ -66,7 +66,7 @@
 道德经	dào dé jīng	the Daodejing
 道教	dào jiào	Daoism
 道理	dào lǐ	reason; logic; principle; the way things work — 道 dào (way; path) + 理 lǐ (principle; pattern; grain of wood, the inherent structure of things). "The logic of the path." The way things make sense: the reason behind an argument, the principle underlying a situation, the basic logic that should govern behavior.
-道路	dào lù	road; path; way — 道 dào (way; path) + 路 lù (road; route). The most standard, neutral word for a road or path. Used freely in both spatial and metaphorical senses. 人生道路 (the road of life) is one of the most common metaphorical applications, appearing in everything from political speeches to personal memoir.
+道路	dào lù	road; path; way — 道 dào (way; path) + 路 lù (road; route). The most standard, neutral word for a road or path. Used freely in both spatial and metaphorical senses. 人生道路 (the road of life) is one of the most common metaphorical applications, at home in political speeches and personal memoirs alike.
 德国	Dé guó	Germany — 德 (phonetic transcription of "Deutsch") + 国 guó (country). 德 is the standard phonetic carrier for "Deutsch" in country and language names: 德国 Germany, 德语 German language, 德文 German script.
 德行	dé xíng	virtuous conduct; moral behavior; virtue as it shows in action — 德 dé (virtue; inner moral power) + 行 xíng (conduct; to walk; action). How virtue manifests in behavior , not the inner quality alone but the visible expression of it in how a person moves through the world. 德行 presupposes that genuine virtue is always legible: it shows.
 第二	dì èr	second; number two — 第 dì (ordinal) + 二 èr (two). The ordinal "second." The same pattern extends without limit: 第三 third, 第四 fourth, 第十 tenth. The number after 第 is just the ordinary cardinal, unchanged.
@@ -139,7 +139,7 @@
 外丹	wài dān	outer alchemy — elixirs of immortality — 外 wài (outer) + 丹 dān (cinnabar). The earlier tradition: physically preparing elixirs in a laboratory by heating and transforming minerals (especially cinnabar, lead, gold, and sulfur) to produce an immortality drug.
 王道	wáng dào	the kingly way; governance by virtue rather than force — 王 wáng (king; ruler) + 道 dào (way; path). The Confucian ideal of legitimate rule: the virtuous ruler transforms those around him through moral example, not coercion. His virtue radiates outward, bringing peace and order spontaneously. Contrasted sharply with 霸道, the way of force.
 为此	wèi cǐ	for this reason; because of this; to this end — 为 wèi (for; on account of) + 此 cǐ (this; the aforementioned). A formal connective linking back to a preceding reason or context and introducing what was done in response. Stronger in register than 因此 yīncǐ (therefore), carrying a sense of specific, deliberate response to the stated situation.
-为了	wèi le	in order to; for the sake of; for the purpose of — 为 wèi (for; toward) + 了 le (grammatical completion particle; here functions as a suffix to 为). The standard purpose marker in modern Chinese. 为了 introduces the goal or beneficiary of an action and can appear at the start of a sentence or clause.
+为了	wèi le	in order to; for the sake of; for the purpose of — 为 wèi (for; toward) + 了 le (grammatical completion particle; here a suffix to 为). The standard purpose marker in modern Chinese. 为了 introduces the goal or beneficiary of an action and can appear at the start of a sentence or clause.
 无道	wú dào	without principle; tyrannical; having lost the Way — 无 wú (without; lacking) + 道 dào (Way; moral principle). Classical term for a ruler who has abandoned virtue and lost the mandate of heaven, whose governance has become purely arbitrary and cruel. Still used in historical and literary contexts, and occasionally in strong rhetorical condemnation.
 无聊	wú liáo	bored; boring; pointless
 无名	wú míng	nameless; unknown; unnamed

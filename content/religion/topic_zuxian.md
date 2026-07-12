@@ -4,14 +4,14 @@ category: 'religion'
 status: 'complete'
 content_review: 'pending'
 title: '祖先崇拜 · Ancestor Veneration'
-desc: 'Tablets, offerings, and the living debt to the dead: the deep continuity of Chinese ancestor veneration.'
+desc: 'Shang oracle bones record divinations to royal ancestors; 祖先崇拜, the ritual care of the dead, continues today in tablets, offerings, and Qingming graves.'
 metaDesc: "Chinese ancestor veneration (祖先崇拜): how the ritual care of the dead works in practice. Spirit tablets, ancestral halls, offerings, filial piety 孝, Qingming and Zhongyuan, and the link to Confucian ethics."
 pageTitle: 'Chinese Ancestor Veneration (祖先崇拜) · ritual, tablets, halls'
 tags:
   - 'ancestors'
   - 'ritual'
   - 'family'
-updated: '2026-06-19'
+updated: '2026-07-12'
 pinyin: 'zǔxiān chóngbài'
 faq:
   - q: "What is Chinese ancestor veneration (祖先崇拜)?"
@@ -150,7 +150,7 @@ faq:
           <span class="card-en">spirit tablet — the ancestor's dwelling in the home</span>
         </div>
         <div class="card-def">
-          The spirit tablet (牌位, also 神主牌 shénzhǔpái or 祖先牌位 zǔxiān páiwèi) is a wooden or paper plaque inscribed with the ancestor's name, birth and death dates, and honorific. It serves as the material dwelling of the ancestor's spirit within the home or ancestral hall. Placed on the family altar (神桌 shénzhuō), it is the focal point of daily offerings: a cup of tea in the morning, incense sticks, a respectful bow. The ancestor is resident in the tablet; to neglect it is to abandon the ancestor.
+          The spirit tablet (牌位, also 神主牌 shénzhǔpái or 祖先牌位 zǔxiān páiwèi) is a wooden or paper plaque inscribed with the ancestor's name, birth and death dates, and honorific. It is the material dwelling of the ancestor's spirit within the home or ancestral hall. Placed on the family altar (神桌 shénzhuō), it is the focal point of daily offerings: a cup of tea in the morning, incense sticks, a respectful bow. The ancestor is resident in the tablet; to neglect it is to abandon the ancestor.
         </div>
         <div class="examples">
           <div class="example">

@@ -13,7 +13,7 @@ tags:
   - 'classical'
   - 'confucianism'
   - 'literature'
-updated: '2026-06-19'
+updated: '2026-07-12'
 pinyin: 'gǔqín'
 faq:
   - q: "What is the guqin zither?"
@@ -72,7 +72,7 @@ faq:
       <span class="topic-hero-eyebrow">Arts · 艺术 yìshù</span>
       <h1 class="topic-hero-title">古琴</h1>
       <span class="topic-hero-title-py">gǔqín</span>
-      <p class="topic-hero-desc">The seven-string zither Confucius played throughout his life , and the origin of 知音, the word for a person who truly understands you.</p>
+      <p class="topic-hero-desc">The seven-string zither Confucius played throughout his life, and the origin of 知音, the word for a person who truly understands you.</p>
     </header>
 
     <!-- ── THE INSTRUMENT ── -->
@@ -86,7 +86,7 @@ faq:
 
     <div class="scholar" data-glyph="琴">
       <div class="scholar-label">历史洞见 lìshǐ dòngjiàn · Historical Insight</div>
-      <p>The guqin (古琴) is a seven-string plucked zither about 130 cm long, laid flat on a table and played by a single seated musician. Its confirmed history begins in the Zhou dynasty (1046–256 BCE); probable Bronze Age origins push further back. For most of that history it was called simply 琴 qín , "ancient" was added only during or after the Tang dynasty (618–907 CE), when the erhu, pipa, and other instruments had proliferated to the point where 琴 alone was no longer specific enough. Today 琴 qín functions as a generic classifier for stringed instruments: 钢琴 gāngqín is piano, 小提琴 xiǎotíqín is violin, 吉他 jítā borrowed the sound of "guitar." Only 古琴 names this particular instrument.</p>
+      <p>The guqin (古琴) is a seven-string plucked zither about 130 cm long, laid flat on a table and played by a single seated musician. Its confirmed history begins in the Zhou dynasty (1046–256 BCE); probable Bronze Age origins push further back. For most of that history it was called simply 琴 qín; "ancient" was added only during or after the Tang dynasty (618–907 CE), when the erhu, pipa, and other instruments had proliferated to the point where 琴 alone was no longer specific enough. Today 琴 qín is the generic classifier for stringed instruments: 钢琴 gāngqín is piano, 小提琴 xiǎotíqín is violin, 吉他 jítā borrowed the sound of "guitar." Only 古琴 names this particular instrument.</p>
       <p>The body is a wooden resonating box, traditionally made from paulownia 桐木 tóngmù on top and catalpa 梓木 zǐmù on the underside , a pairing with cosmological resonance: tong corresponds to the phoenix, zi to the dragon. The seven strings were historically silk; modern players often use steel-nylon composites for durability. Thirteen circular inlays of shell or ivory, called 徽 huī, mark the harmonic positions along the upper surface. There are no frets.</p>
     </div>
 

@@ -6,7 +6,7 @@
 穿	chuān	to pierce, to bore through, to wear, to put on — A tooth gnawing through the roof of a cave: one image for boring a hole and for the body slipping into clothing.
 船	chuán	ship, boat, vessel — A pictophonetic built on 舟 (boat): the hull carries the meaning while the right side supplies the sound, covering every craft from sampan to ocean liner.
 到	dào	to arrive, to reach; to — As a resultative complement suffix, 到 converts any action verb into a claim of completion: 听到 means not just hearing but hearing that arrived, perception proven by contact.
-道	dào	way, path — The word that gave Daoism its name, and underlies every Chinese 'ism'.
+道	dào	way, path — The character that opens the Dàodéjīng and names Daoism: way, path, principle, and the measure word for rivers and light.
 地	dì	earth, ground, land — Heaven above, earth below: the second power of the cosmos, and the root of every word about place, ground, and belonging.
 东	dōng	east; eastern — The sun rising behind a tree, and the direction that anchored China's cosmological, political, and poetic imagination.
 动	dòng	to move, to act, to stir — Force applied to a thing sets it in motion. From that one idea grow the words for sport and activity, for the stirred heart, for the drive that pushes a machine or a life forward, and for the verb itself.
@@ -525,7 +525,7 @@
 道家	Dào jiā	Daoism — the way of naturalness and non-action — The Daodejing 道德经 (attributed to Laozi, c. 4th–3rd century BCE) and Zhuangzi 庄子. Central concept: 无为 wú wéi, effortless action aligned with the natural order. The sage ruler governs so lightly that the people believe they govern themselves.
 道教	dào jiào	Daoism
 道理	dào lǐ	reason; logic; principle; the way things work — 道 dào (way; path) + 理 lǐ (principle; pattern; grain of wood, the inherent structure of things). "The logic of the path." The way things make sense: the reason behind an argument, the principle underlying a situation, the basic logic that should govern behavior.
-道路	dào lù	road; path; way — 道 dào (way; path) + 路 lù (road; route). The most standard, neutral word for a road or path. Used freely in both spatial and metaphorical senses. 人生道路 (the road of life) is one of the most common metaphorical applications, appearing in everything from political speeches to personal memoir.
+道路	dào lù	road; path; way — 道 dào (way; path) + 路 lù (road; route). The most standard, neutral word for a road or path. Used freely in both spatial and metaphorical senses. 人生道路 (the road of life) is one of the most common metaphorical applications, at home in political speeches and personal memoirs alike.
 道歉	dào qiàn	to apologize
 道上的人	dào shàng de rén	underworld figures
 道统	dào tǒng	orthodox transmission of the Way
@@ -585,7 +585,7 @@
 飞虫	fēi chóng	flying insect
 飞船	fēi chuán	spacecraft, airship
 飞机	fēi jī	airplane, aircraft — 飞 (to fly) plus 机 (machine): the flying machine. This is the everyday word for any fixed-wing aircraft, from a jetliner to a small propeller plane.
-飞快	fēi kuài	lightning fast; at a flying pace — 飞 fēi (to fly) + 快 kuài (fast). Vivid intensifier: the speed of something that seems to fly. Functions as an adverb modifying a verb or as a predicate adjective. Also used for a blade that is razor-sharp , fast at cutting.
+飞快	fēi kuài	lightning fast; at a flying pace — 飞 fēi (to fly) + 快 kuài (fast). Vivid intensifier: the speed of something that seems to fly. It modifies a verb as an adverb or stands alone as a predicate adjective. Also used for a blade that is razor-sharp , fast at cutting.
 飞鸟	fēi niǎo	a bird in flight, flying bird — 飞 (flying) plus 鸟 (bird): a bird on the wing. The word keeps the character close to its pictographic root, naming the very creature the glyph was drawn from.
 飞翔	fēi xiáng	to soar, to circle in flight
 飞行	fēi xíng	to fly; flight, aviation — 飞 (to fly) plus 行 (to move, to travel): movement through the air. More formal and technical than plain 飞, this is the word for piloting, air travel, and aviation as a field. 飞行员 (fēixíngyuán) is a pilot.

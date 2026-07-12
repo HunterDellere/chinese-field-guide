@@ -147,7 +147,7 @@
 还	hái	still, also, even: the continuative adverb — One adverb, four distinct jobs, and a single thread connecting all of them: something continues past the expected boundary.
 结果补语	jié guǒ bǔ yǔ	resultative complements — Chinese verbs describe the attempt; a second syllable reports the outcome. Listening is 听, but understanding what you heard is 听懂.
 就 vs. 才	jiù / cái	sooner vs. later — The timing and emphasis pair: speaker attitude encoded in one syllable.
-了	le	the perfective particle — Perfective aspect vs. change-of-state: the single most-confused particle.
+了	le	the perfective particle — Post-verb 了 marks a completed action; sentence-final 了 announces a new situation, and the two can stack in one sentence.
 没有	méi yǒu	negation of possession and past action — The two most important negation characters, 不 and 没, and why they cannot be swapped.
 起来	qǐ lái	directional complement: upward, inward, beginning — The most versatile directional complement in Mandarin: three distinct grammatical lives.
 是…的	shì … de	the cleft construction — Focus and past-detail marking: the construction that trips every learner.

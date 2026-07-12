@@ -7,7 +7,7 @@
 急	jí	urgent, anxious, hasty, rapid — A heart pressed from above: 急 stacks a phonetic element over 心, so the glyph itself feels the squeeze of urgency.
 紧	jǐn	tight, taut, tense, urgent — Thread drawn taut over the silk radical; the same word carries a tight knot, a tense nerve, an urgent deadline, and a tight wallet.
 苦	kǔ	bitter, hardship, suffering, painstaking — The grass radical over 古 names a bitter herb on the tongue, then stretches to every flavor of hardship and effort.
-快	kuài	fast, happy — One character carries two meanings that turn out to be the same thing: speed and joy both feel like the heart cutting loose.
+快	kuài	fast, happy — 快 joins 忄 (heart) to 夬 (a decisive cut): speed and joy are the same image, a heart running without drag.
 乐	lè	happy, joyful (lè); music (yuè) — A picture of a wooden frame strung with silk and a drum, an early musical instrument. The simplified 乐 carries two readings: yuè for music, the original sense, and lè for joy, the happiness that music gives.
 慢	màn	slow, unhurried — Pace becomes a moral register: 慢 màn carries the same heart radical as 快, and extends from physical slowness into social neglect and arrogance.
 情	qíng	feeling, affection, situation — The heart radical beside the phonetic 青: the movements of the heart. From that one image grows feeling and mood, affection and love, and the wider sense of a situation or state of affairs.
@@ -122,7 +122,7 @@
 放慢	fàng màn	to slow down; to ease up the pace — 放 fàng (to release, to let go) + 慢 màn (slow). To deliberately release speed. Used for vehicles, speech, breathing, economic growth. The verb of conscious deceleration.
 放松	fàng sōng	to relax; to loosen
 放心	fàng xīn	to relax; to stop worrying; to feel at ease — 放 fàng (to put down; to release; to set free) + 心 xīn (heart). Lit. "put the heart down." The direct antonym of 担心. If worry is carrying the heart, 放心 is setting it back on the ground: the relief of knowing that what you feared is safe or resolved. Extremely frequent in reassurances and farewells.
-飞快	fēi kuài	lightning fast; at a flying pace — 飞 fēi (to fly) + 快 kuài (fast). Vivid intensifier: the speed of something that seems to fly. Functions as an adverb modifying a verb or as a predicate adjective. Also used for a blade that is razor-sharp , fast at cutting.
+飞快	fēi kuài	lightning fast; at a flying pace — 飞 fēi (to fly) + 快 kuài (fast). Vivid intensifier: the speed of something that seems to fly. It modifies a verb as an adverb or stands alone as a predicate adjective. Also used for a blade that is razor-sharp , fast at cutting.
 甘	gān	sweet, willing
 赶	gǎn	to rush, to catch
 赶紧	gǎn jǐn	hurry up; quickly; right away — 赶 (gǎn, to rush, to drive forward) + 紧 (tight). To move with no slack, to act before the moment slips. A spoken, everyday urging to do something now.
@@ -200,7 +200,7 @@
 快递	kuài dì	express delivery; courier
 快点	kuài diǎn	be quick; a bit faster; hurry — 快 kuài (fast) + 点 diǎn (a little; somewhat , the softening particle). The most colloquial way to tell someone to speed up. Tonal in its delivery: said gently it is a nudge, said sharply it is impatient.
 快活	kuài huó	carefree; cheerful; lively and at ease — 快 kuài (unobstructed) + 活 huó (alive; living; moving freely). The image is life flowing without constraint. Carries a slightly old-fashioned or literary flavor in modern Mandarin, but remains warm and vivid in fiction and colloquial northern speech. Describes people who seem naturally unburdened.
-快乐	kuài lè	happy; joyful; happiness (as a state) — 快 kuài (released; unobstructed) + 乐 lè (music; joy; ease). The standard word for happiness in modern Mandarin: functions as an adjective predicate, a pre-noun modifier, and a noun. Appears in greetings and fixed phrases far more than the simple 快 alone.
+快乐	kuài lè	happy; joyful; happiness (as a state) — 快 kuài (released; unobstructed) + 乐 lè (music; joy; ease). The standard word for happiness in modern Mandarin: it is an adjective predicate, a pre-noun modifier, and a noun. Appears in greetings and fixed phrases far more than the simple 快 alone.
 快速	kuài sù	fast; rapid; at high speed — 快 kuài (fast) + 速 sù (speed; velocity). The compound reinforces both components, producing the most neutral, all-purpose word for fast in formal or written Chinese. Works as an adjective before nouns or as an adverb before verbs.
 狂欢	kuáng huān	to revel; carnival; wild celebration — 狂 kuáng (wild; unrestrained) + 欢 huān (joy). Joy turned up to its loudest: unrestrained revelry. 狂欢节 kuánghuānjié is the standard word for Carnival, and 狂欢 names any wild, all-out celebration.
 懒	lǎn	lazy

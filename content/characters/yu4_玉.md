@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '玉 · jade, precious'
-desc: "The material of kingship and moral cultivation: three jade discs on a cord, a glyph almost identical to king, the stone that Confucius said was virtue made visible."
+desc: "Three jade discs on a cord, one dot away from 王 (wáng, king): the stone Confucius said was virtue made visible."
 metaDesc: "玉 yu: the Chinese character for jade. Etymology, ritual uses, the Confucian virtues of jade, key compounds, and the chengyu that made jade a moral language."
 pageTitle: '玉 · Jade Character'
 char: '玉'
@@ -19,7 +19,7 @@ tags:
   - 'aesthetics'
   - 'royalty'
   - 'classical'
-updated: '2026-06-19'
+updated: '2026-07-12'
 content_review: 'pending'
 faq:
   - q: "What is the Chinese character for jade?"
@@ -100,7 +100,7 @@ faq:
 
     <div class="scholar" data-glyph="玉">
       <div class="scholar-label">甲骨文 jiǎgǔwén · Oracle Bone Origins</div>
-      <p>玉 is a pictograph. In its oracle bone form , the writing system used in the Shang dynasty around 1200 BCE , it shows three horizontal strokes representing stacked jade discs or tablets, connected by a single vertical line: the cord that strung them together into a ritual object. Jade discs were among the most precious items in the ancient Chinese world, used as markers of rank, tokens of diplomatic exchange, and offerings to heaven.</p>
+      <p>玉 is a pictograph. Its oracle bone form, the Shang script of around 1200 BCE, shows three horizontal strokes for stacked jade discs or tablets, joined by a single vertical line: the cord that strung them into a ritual object. Jade discs were among the most precious items in the ancient Chinese world, used as markers of rank, tokens of diplomatic exchange, and offerings to heaven.</p>
       <p>The dot that distinguishes 玉 from 王 (wáng, king) was added later, in the small seal script standardized under the Qin dynasty. It served a necessary disambiguation: 玉 and 王 had exactly the same three-stroke structure, and the written forms had become identical. The dot differentiates jade from king , but the near-identity is not accidental. Jade was the material of kingship. The characters share their skeleton because the things they named shared their world.</p>
     </div>
 
@@ -117,7 +117,7 @@ faq:
       <span class="label">玉 vs 王 · One Dot, Two Worlds</span>
       <strong>王 wáng (king)</strong> , three horizontal strokes, no dot. The three strokes represent heaven, humanity, and earth, connected by the king who stands between them: the axis of the cosmos.<br>
       <strong>玉 yù (jade)</strong> , same three strokes, plus a dot at lower right. That dot marks the difference between the material and the one who wields it: jade is what the king holds, offers, and is judged by.<br>
-      <strong>As a radical:</strong> 玉 serves as the radical for over 100 characters related to jade, gems, and precious materials. When 玉 appears at the left side of a character as a component, it is written 王 (without the dot) to save space , but the two are different radicals with different meanings. Examples built on the jade radical: 珍 zhēn (precious), 珠 zhū (pearl, bead), 璧 bì (flat jade disc), 琢 zhuó (to carve, to polish jade).
+      <strong>As a radical:</strong> 玉 is the radical for over 100 characters related to jade, gems, and precious materials. When 玉 appears at the left side of a character as a component, it is written 王 (without the dot) to save space , but the two are different radicals with different meanings. Examples built on the jade radical: 珍 zhēn (precious), 珠 zhū (pearl, bead), 璧 bì (flat jade disc), 琢 zhuó (to carve, to polish jade).
     </div>
 
     <!-- ── VIRTUES OF JADE ── -->

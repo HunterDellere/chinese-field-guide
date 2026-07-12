@@ -1,5 +1,5 @@
 //角落書屋/Slices/Taoist Classics
-道	dào	way, path — The word that gave Daoism its name, and underlies every Chinese 'ism'.
+道	dào	way, path — The character that opens the Dàodéjīng and names Daoism: way, path, principle, and the measure word for rivers and light.
 德	dé	virtue, moral power — Virtue not as rule-following but as accumulated moral power: what radiates from a person whose conduct has been straight long enough to become second nature.
 二	èr	two; second — The number two encodes the foundational split that drives all of Chinese cosmology: yin and yang, the two forces from which everything else unfolds.
 金	jīn	gold, metal, money — Nuggets of gold beneath the earth, and one of the Five Phases that governs autumn, the west, and sharpness.
@@ -8,7 +8,7 @@
 善	shàn	goodness; virtue; skilled — The character at the heart of Mencius argument that human nature is originally good: the moral sprouts waiting to be cultivated.
 神	shén	spirit; deity; divine — The character that names both the gods of Chinese folk religion and the focused attention of the human mind, because in Chinese thought they belong to the same category of phenomenon.
 水	shuǐ	water — The first of the five elements, the radical that runs through hundreds of compounds, and the Daoist image of how to act in the world.
-为	wéi	to do; to act; for; because of — In oracle bone script, a hand leading an elephant (to guide an immense force through skillful agency), and the character at the center of the Daoist concept of non-action.
+为	wéi	to do; to act; for; because of — In oracle bone script 为 is a hand leading an elephant, and it sits at the center of Daoist 无为 non-action.
 无	wú	nothing, without, non-being — A dancer with arms outstretched, holding nothing. The character behind every Chinese negation of having, every Daoist non-doing, and the philosophical pole that pairs with 有 to frame the whole cosmos.
 阳	yáng	sun, bright, the yang principle — A sunlit mound: the simplified 阳 sets a hill beside the sun. From that bright south slope grow the sun itself, the active masculine half of the cosmos, and the place names that face the light.
 一	yī	one; unified; as soon as — The simplest mark a brush can make carries the heaviest philosophical weight in Chinese civilization: 道生一，一生二，the Dao generates One, and One generates everything.
@@ -121,7 +121,7 @@
 道法自然	dào fǎ zì rán	the Way models nature; the Way follows its own spontaneous pattern — 道 (the Way) + 法 (to model; to follow as a pattern) + 自然 (self-thus; spontaneous; natural). The culminating principle of Daodejing chapter 25. The Way does not follow anything outside itself , its law is its own spontaneous nature.
 道教	dào jiào	Daoism
 道理	dào lǐ	reason; logic; principle; the way things work — 道 dào (way; path) + 理 lǐ (principle; pattern; grain of wood, the inherent structure of things). "The logic of the path." The way things make sense: the reason behind an argument, the principle underlying a situation, the basic logic that should govern behavior.
-道路	dào lù	road; path; way — 道 dào (way; path) + 路 lù (road; route). The most standard, neutral word for a road or path. Used freely in both spatial and metaphorical senses. 人生道路 (the road of life) is one of the most common metaphorical applications, appearing in everything from political speeches to personal memoir.
+道路	dào lù	road; path; way — 道 dào (way; path) + 路 lù (road; route). The most standard, neutral word for a road or path. Used freely in both spatial and metaphorical senses. 人生道路 (the road of life) is one of the most common metaphorical applications, at home in political speeches and personal memoirs alike.
 德国	Dé guó	Germany — 德 (phonetic transcription of "Deutsch") + 国 guó (country). 德 is the standard phonetic carrier for "Deutsch" in country and language names: 德国 Germany, 德语 German language, 德文 German script.
 德行	dé xíng	virtuous conduct; moral behavior; virtue as it shows in action — 德 dé (virtue; inner moral power) + 行 xíng (conduct; to walk; action). How virtue manifests in behavior , not the inner quality alone but the visible expression of it in how a person moves through the world. 德行 presupposes that genuine virtue is always legible: it shows.
 地雷	dì léi	landmine — lit. "earth thunder" — 地 dì (earth; ground) + 雷 léi (thunder). Landmine , an explosive buried in the ground that detonates on contact. The compound is viscerally accurate: a mine hidden in the earth that erupts like thunder when triggered.
@@ -269,7 +269,7 @@
 王维	Wáng Wéi	Wang Wei — Tang poet-painter
 唯一	wéi yī	the only one; sole; unique — 唯 wéi (only; alone) + 一. Used before nouns: 唯一的选择 (the only choice), 唯一的儿子 (only son). Stronger than 只有 zhǐyǒu in its emphasis on singularity , the uniqueness is total, not merely circumstantial. In formal or literary contexts: 唯一真神 (the one true God, in religious translation).
 为此	wèi cǐ	for this reason; because of this; to this end — 为 wèi (for; on account of) + 此 cǐ (this; the aforementioned). A formal connective linking back to a preceding reason or context and introducing what was done in response. Stronger in register than 因此 yīncǐ (therefore), carrying a sense of specific, deliberate response to the stated situation.
-为了	wèi le	in order to; for the sake of; for the purpose of — 为 wèi (for; toward) + 了 le (grammatical completion particle; here functions as a suffix to 为). The standard purpose marker in modern Chinese. 为了 introduces the goal or beneficiary of an action and can appear at the start of a sentence or clause.
+为了	wèi le	in order to; for the sake of; for the purpose of — 为 wèi (for; toward) + 了 le (grammatical completion particle; here a suffix to 为). The standard purpose marker in modern Chinese. 为了 introduces the goal or beneficiary of an action and can appear at the start of a sentence or clause.
 温暖	wēn nuǎn	warm
 文人画	wén rén huà	literati painting; scholar painting — 文人 wénrén (literatus; cultivated scholar-official) + 画 huà (painting). The tradition of painting as personal cultivation and self-expression rather than as commissioned craft. Theorized by Su Shi 苏轼 and Mi Fu 米芾 in the Northern Song, dominant from the Yuan onward.
 无道	wú dào	without principle; tyrannical; having lost the Way — 无 wú (without; lacking) + 道 dào (Way; moral principle). Classical term for a ruler who has abandoned virtue and lost the mandate of heaven, whose governance has become purely arbitrary and cruel. Still used in historical and literary contexts, and occasionally in strong rhetorical condemnation.

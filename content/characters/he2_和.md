@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '和 · harmony, and, with; peace'
-desc: '和 carries the same concept across grammar and philosophy: grain and mouth together, the harmony of shared food and speech, a character that serves as both everyday conjunction and the Confucian ideal of a well-ordered world.'
+desc: '禾 (grain) beside 口 (mouth): 和 is both Mandarin''s everyday "and" and the Confucian ideal of harmony without uniformity.'
 metaDesc: '和 hé: harmony, and, with. Etymology (grain + mouth), polyphonic readings, 和 as a conjunction, Confucian 和而不同, peace compounds, and chengyu.'
 pageTitle: '和 hé'
 tags:
@@ -11,7 +11,7 @@ tags:
   - 'social'
   - 'grammar'
   - 'philosophy'
-updated: '2026-06-19'
+updated: '2026-07-12'
 char: '和'
 pinyin: 'hé'
 tone: 2
@@ -21,7 +21,7 @@ facts_verified: true
 content_review: 'pending'
 faq:
   - q: "What does the Chinese character 和 (hé) mean?"
-    a: "和 hé means harmony, and, with, or peace. It combines 禾 (a grain stalk) with 口 (mouth): grain and speech shared over a meal. It is an HSK 1 character serving as both the everyday conjunction \"and\" and the Confucian ideal of a well-ordered, harmonious world."
+    a: "和 hé means harmony, and, with, or peace. It combines 禾 (a grain stalk) with 口 (mouth): grain and speech shared over a meal. It is an HSK 1 character, at once the everyday conjunction \"and\" and the Confucian ideal of a well-ordered, harmonious world."
   - q: "What does 和 mean in Confucian thought (和而不同)?"
     a: "In Analects 13.23, Confucius says 君子和而不同: the exemplary person harmonizes but does not merely agree. 和 is the productive agreement of different things, like ingredients blending in a dish, not 同 (mere sameness). The Book of Rites adds 和为贵: in ritual, harmony is most precious."
   - q: "How do you use 和 as the word for \"and\" in Mandarin?"

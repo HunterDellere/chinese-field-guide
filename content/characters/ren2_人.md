@@ -3,14 +3,14 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '人 · person, humanity'
-desc: 'The character for human being, and its echo in 仁 rén, Confucian benevolence.'
+desc: 'Two strokes, barely changed since the oracle bones, write 人 rén; add 二 and you get 仁, Confucian benevolence.'
 metaDesc: "人 rén: person, human being, and humanity. Etymology from oracle-bone script, the 仁 Confucian connection, collective compounds, social vocabulary, and the ethics of being human."
 pageTitle: '人 rén'
 tags:
   - 'humanity'
   - 'confucianism'
   - 'radical'
-updated: '2026-06-19'
+updated: '2026-07-12'
 char: '人'
 pinyin: 'rén'
 tone: 2
@@ -127,7 +127,7 @@ faq:
 
     <div class="scholar" data-glyph="人">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p>人 rén is the most elemental pictograph in the Chinese writing system. The oracle-bone script (甲骨文 jiǎgǔwén, c. 1200 BCE) shows a person in strict profile: one stroke leaning forward for the torso, one stroke descending for the leg. Two strokes. A human being. No face, no hands , just the silhouette of upright posture that separates humans from all other creatures. The character has barely changed in three thousand years.</p>
+      <p>Two strokes have written 人 rén since the oracle-bone script (甲骨文 jiǎgǔwén, c. 1200 BCE): one leaning forward for the torso, one descending for the leg, a person in strict profile. No face, no hands, just the silhouette of upright posture that separates humans from all other creatures. The character has barely changed in three thousand years.</p>
       <p>人 is also a key building block for more complex characters. When two 人 stand side by side, you get <strong>从 cóng</strong> (to follow, one person walking behind another). When three people cluster together, you get <strong>众 zhòng</strong> (crowd, multitude). The social world is already embedded in the script.</p>
       <p>The most philosophically charged combination is <strong>仁 rén</strong> (benevolence; humaneness) = 人 + 二 (two). This is the character Confucius placed at the absolute center of his ethical system. 仁 is what happens between two people, not an inner quality a person possesses alone. The Analects return to it obsessively: 仁者爱人 "the benevolent person loves others." The two-stroke pictograph of a single human being already implies, for Confucius, that full humanity is only realized in relation.</p>
     </div>
@@ -184,7 +184,7 @@ faq:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          In its basic nominal use, 人 refers to a single person or to humans as a generic category (an unspecified individual). It is the most common noun in Mandarin by frequency. Functions as both a count noun (一个人 , one person) and a generic noun (人是社会动物 , humans are social animals).
+          In its basic nominal use, 人 refers to a single person or to humans as a generic category (an unspecified individual). It is the most common noun in Mandarin by frequency, and it is both a count noun (一个人 , one person) and a generic noun (人是社会动物 , humans are social animals).
         </div>
         <div class="examples">
           <div class="example">
@@ -205,7 +205,7 @@ faq:
         </div>
         <div class="note">
           <span class="note-label">语法 yǔfǎ · Grammar</span>
-          Measure word: 一个人 (one person). As a generic noun, no measure word is needed: 人不能没有朋友 "a person cannot be without friends." The character also functions as a suffix across hundreds of compounds; see the X + 人 table below.
+          Measure word: 一个人 (one person). As a generic noun, no measure word is needed: 人不能没有朋友 "a person cannot be without friends." The character is also the suffix in hundreds of compounds; see the X + 人 table below.
         </div>
       </div>
 

@@ -11,7 +11,7 @@ tags:
   - 'measure-words'
   - 'classifiers'
   - 'nouns'
-updated: '2026-06-19'
+updated: '2026-07-12'
 pinyin: 'liàngcí'
 faq:
   - q: "What are Chinese measure words (量词 liàngcí) and why are they needed?"
@@ -317,7 +317,7 @@ faq:
         </div>
         <div class="tags"><span class="tag tag-n">通用 universal</span></div>
         <div class="card-def">
-          个 gè is the most versatile classifier in Mandarin. It is required for people (一个人), serves as the correct classifier for a vast range of concrete nouns (苹果, 问题, 办法, 国家), and in informal speech substitutes for almost any other classifier. Its shape was originally 箇 , a classifier for bamboo segments. The modern simplified form 个 dominates all registers.
+          个 gè is the most versatile classifier in Mandarin. It is required for people (一个人), is the correct classifier for a vast range of concrete nouns (苹果, 问题, 办法, 国家), and in informal speech substitutes for almost any other classifier. Its shape was originally 箇 , a classifier for bamboo segments. The modern simplified form 个 dominates all registers.
         </div>
         <div class="examples">
           <div class="example">
@@ -691,7 +691,7 @@ faq:
         <span class="cy-cn">万紫千红</span>
         <span class="cy-py">wàn zǐ qiān hóng</span>
         <span class="cy-en">ten thousand purples and a thousand reds — riot of spring color</span>
-        <span class="cy-note">The numbers 万 (ten thousand) and 千 (thousand) function here as measure-like intensifiers; they modify color nouns without explicit classifiers because the color words themselves serve as measure-noun compounds. From Su Shi's 朱熹 poem on spring: 等闲识得东风面，万紫千红总是春 "Casually recognizing the east wind's face: ten thousand purples and a thousand reds, all of it is spring."</span>
+        <span class="cy-note">The numbers 万 (ten thousand) and 千 (thousand) are measure-like intensifiers here; they modify color nouns without explicit classifiers because the color words themselves are measure-noun compounds. From Zhu Xi's 朱熹 poem on spring: 等闲识得东风面，万紫千红总是春 "Casually recognizing the east wind's face: ten thousand purples and a thousand reds, all of it is spring."</span>
       </div>
 
       <div class="cy">

@@ -3,14 +3,14 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '道 · way, path'
-desc: "The word that gave Daoism its name, and underlies every Chinese 'ism'."
+desc: "The character that opens the Dàodéjīng and names Daoism: way, path, principle, and the measure word for rivers and light."
 metaDesc: "道 dào: way, path, principle, and the Word that gave Daoism its name. From road to moral order to the measure word for light and rivers."
 pageTitle: '道 dào'
 tags:
   - 'daoism'
   - 'philosophy'
   - 'path'
-updated: '2026-06-19'
+updated: '2026-07-12'
 char: '道'
 pinyin: 'dào'
 tone: 4
@@ -157,7 +157,7 @@ faq:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          道 dào (way; path) + 路 lù (road; route). The most standard, neutral word for a road or path. Used freely in both spatial and metaphorical senses. 人生道路 (the road of life) is one of the most common metaphorical applications, appearing in everything from political speeches to personal memoir.
+          道 dào (way; path) + 路 lù (road; route). The most standard, neutral word for a road or path. Used freely in both spatial and metaphorical senses. 人生道路 (the road of life) is one of the most common metaphorical applications, at home in political speeches and personal memoirs alike.
         </div>
         <div class="examples">
           <div class="example">

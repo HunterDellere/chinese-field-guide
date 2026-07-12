@@ -4,7 +4,7 @@ category: 'characters'
 status: 'complete'
 content_review: 'pending'
 title: '为 · to do; to act; for; because of'
-desc: 'In oracle bone script, a hand leading an elephant (to guide an immense force through skillful agency), and the character at the center of the Daoist concept of non-action.'
+desc: 'In oracle bone script 为 is a hand leading an elephant, and it sits at the center of Daoist 无为 non-action.'
 metaDesc: "What 为 means in Chinese: wéi 'to do, to act, to serve as' and wèi 'for, because of.' Oracle-bone etymology (a hand leading an elephant), 无为 wúwéi in Daoism, and the compounds 认为, 因为, 为了."
 pageTitle: 'What 为 means · wéi (to do, act) and wèi (for, because of)'
 char: '为'
@@ -21,7 +21,7 @@ tags:
   - 'daoism'
   - 'wuwei'
   - 'syntax'
-updated: '2026-06-19'
+updated: '2026-07-12'
 faq:
   - q: "Is the 为 in 因为 yīnwèi a polyphonic character?"
     a: "Yes. 为 is polyphonic with two readings: wéi (2nd tone), a verb meaning to do, to act, or to serve as; and wèi (4th tone), a preposition meaning for, for the sake of, or because of. In 因为 (because) it takes the 4th-tone wèi reading."
@@ -119,7 +119,7 @@ faq:
 
     <div class="scholar" data-glyph="為">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p>In oracle bone script, 为 (traditional: 為) depicts a hand leading an elephant , to guide an immense animal through skillful, directed agency. This is one of the most evocative etymologies in the Chinese script: 为 as the act of directing, causing something to happen not by brute force but by knowing how to move what is large. The traditional form 為 preserves this more legibly, with 爪 (claw or hand) over a stylized elephant body. The simplified form 为 retains a trace of the original at the top.</p>
+      <p>In oracle bone script, 为 (traditional: 為) depicts a hand leading an elephant: directing something immense by knowing how to move it rather than by pushing against it. The traditional form 為 preserves the image legibly, with 爪 (claw or hand) over a stylized elephant body. The simplified form 为 retains a trace of the original at the top.</p>
       <p>The Shuōwén Jiězì defines 为 as 母猴也 (a macaque) , a reading that modern scholars of oracle bone inscriptions generally dispute. The weight of graphic evidence supports the elephant-guiding etymology: the earliest forms show a hand positioned above and before a large animal, with the sense of directing it forward.</p>
       <p>The core semantic territory is human agency acting on the world , not simply acting but acting with skill, causing outcomes through deliberate direction. From this root came both the verb of doing and, eventually, the preposition of purpose: to do something is, by extension, to do it for or toward something.</p>
     </div>
@@ -316,7 +316,7 @@ faq:
         </div>
         <div class="tags"><span class="tag tag-v">Prep phrase 介词短语</span></div>
         <div class="card-def">
-          为 wèi (for; toward) + 了 le (grammatical completion particle; here functions as a suffix to 为). The standard purpose marker in modern Chinese. 为了 introduces the goal or beneficiary of an action and can appear at the start of a sentence or clause. It answers the implicit question "why?" with a purposive answer rather than a causal one.
+          为 wèi (for; toward) + 了 le (grammatical completion particle; here a suffix to 为). The standard purpose marker in modern Chinese. 为了 introduces the goal or beneficiary of an action and can appear at the start of a sentence or clause. It answers the implicit question "why?" with a purposive answer rather than a causal one.
         </div>
         <div class="examples">
           <div class="example">
