@@ -242,8 +242,15 @@
     color: var(--ink); margin: 0 0 0.25rem; line-height: 1.25;
     letter-spacing: -0.01em;
   }
-  .featured-title a { color: inherit; text-decoration: none; border-bottom: 1px dotted transparent; transition: border-color 0.15s; }
-  .featured-title a:hover { border-bottom-color: var(--red); }
+  .featured-title a { color: inherit; text-decoration: none; border-bottom: 1px dotted rgba(139,26,26,0.5); transition: border-color 0.15s; }
+  .featured-title a:hover { border-bottom-color: var(--red); border-bottom-style: solid; }
+  /* Whole-card click affordance: the JS renderers navigate to the lead page
+     when the card itself (not an inner link) is clicked. */
+  .featured-card.is-clickable { cursor: pointer; transition: box-shadow 0.15s, transform 0.15s; }
+  .featured-card.is-clickable:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 2px 0 rgba(28,18,8,0.05), 0 16px 34px rgba(28,18,8,0.12);
+  }
   .featured-py { font-family: var(--font-mono); font-size: 0.78rem; color: var(--ochre); letter-spacing: 0.05em; margin-bottom: 0.6rem; display: block; }
   .featured-hook { font-size: 1rem; color: var(--ink-3); line-height: 1.55; margin: 0 0 0.9rem; text-wrap: pretty; font-style: italic; }
   .featured-links {

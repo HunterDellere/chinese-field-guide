@@ -341,6 +341,15 @@
         </div>
       `;
       card.classList.add("visible");
+      // Whole card opens the lead page; inner anchors keep their own targets.
+      // Delegates to the title anchor's click so any anchor-level tracking fires.
+      // onclick (not addEventListener) so re-renders stay idempotent.
+      card.classList.add("is-clickable");
+      card.onclick = ev => {
+        if (ev.target.closest("a")) return;
+        const a = card.querySelector(".featured-title a");
+        if (a) a.click();
+      };
       section.classList.add("visible"); // legacy: also keep section flag for any prior CSS
     })();
 

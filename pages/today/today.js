@@ -315,6 +315,15 @@
           '</div>'
         : '') +
       '</div>';
+    // Whole card opens the lead page; inner anchors keep their own targets.
+    // Delegates to the title anchor's click so visited-tracking still fires.
+    // onclick (not addEventListener) so re-renders stay idempotent.
+    card.classList.add('is-clickable');
+    card.onclick = function (ev) {
+      if (ev.target.closest('a')) return;
+      var a = card.querySelector('.featured-title a');
+      if (a) a.click();
+    };
   }
 
   // ── Rotation countdown ──────────────────────────────────────────────────
