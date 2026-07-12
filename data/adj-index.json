@@ -90,6 +90,30 @@
     ],
     "hasPage": true
   },
+  "天": {
+    "cn": "天",
+    "py": "tiān",
+    "en": "heaven; sky; day",
+    "count": 15,
+    "appearsOn": [
+      "pages/characters/di4_地.html",
+      "pages/characters/kong1_空.html",
+      "pages/characters/lei2_雷.html",
+      "pages/characters/long2_龙.html",
+      "pages/characters/ming4_命.html",
+      "pages/characters/ri4_日.html",
+      "pages/characters/shi2_时.html",
+      "pages/characters/xing1_星.html",
+      "pages/characters/yun2_云.html",
+      "pages/daily/topic_tianqi.html",
+      "pages/science/topic_tianwen.html",
+      "pages/vocab/shenming_神明.html",
+      "pages/vocab/tiandi_天地.html",
+      "pages/vocab/tianren_天人.html",
+      "pages/vocab/ziran_自然.html"
+    ],
+    "hasPage": true
+  },
   "阴阳": {
     "cn": "阴阳",
     "py": "yīnyáng",
@@ -111,6 +135,29 @@
       "pages/vocab/fengshui_风水.html",
       "pages/vocab/qiankun_乾坤.html",
       "pages/vocab/tiandi_天地.html"
+    ],
+    "hasPage": true
+  },
+  "君子": {
+    "cn": "君子",
+    "py": "jūnzǐ",
+    "en": "noble person; exemplary person",
+    "count": 14,
+    "appearsOn": [
+      "pages/characters/de2_德.html",
+      "pages/characters/ren2_仁.html",
+      "pages/characters/xiao3_小.html",
+      "pages/characters/yi4_义.html",
+      "pages/characters/yu4_玉.html",
+      "pages/characters/zhi4_智.html",
+      "pages/characters/zi3_子.html",
+      "pages/chengyu/junzibugui_君子不器.html",
+      "pages/philosophy/topic_zhengming.html",
+      "pages/religion/topic_rujia.html",
+      "pages/vocab/kaoshi_考试.html",
+      "pages/vocab/lunyu_论语.html",
+      "pages/vocab/qianxu_谦虚.html",
+      "pages/vocab/ren2_仁.html"
     ],
     "hasPage": true
   },
@@ -137,51 +184,6 @@
     ],
     "hasPage": true
   },
-  "天": {
-    "cn": "天",
-    "py": "tiān",
-    "en": "heaven; sky; day",
-    "count": 14,
-    "appearsOn": [
-      "pages/characters/di4_地.html",
-      "pages/characters/kong1_空.html",
-      "pages/characters/lei2_雷.html",
-      "pages/characters/long2_龙.html",
-      "pages/characters/ming4_命.html",
-      "pages/characters/ri4_日.html",
-      "pages/characters/shi2_时.html",
-      "pages/characters/yun2_云.html",
-      "pages/daily/topic_tianqi.html",
-      "pages/science/topic_tianwen.html",
-      "pages/vocab/shenming_神明.html",
-      "pages/vocab/tiandi_天地.html",
-      "pages/vocab/tianren_天人.html",
-      "pages/vocab/ziran_自然.html"
-    ],
-    "hasPage": true
-  },
-  "君子": {
-    "cn": "君子",
-    "py": "jūnzǐ",
-    "en": "noble person; exemplary person",
-    "count": 13,
-    "appearsOn": [
-      "pages/characters/de2_德.html",
-      "pages/characters/ren2_仁.html",
-      "pages/characters/xiao3_小.html",
-      "pages/characters/yi4_义.html",
-      "pages/characters/yu4_玉.html",
-      "pages/characters/zhi4_智.html",
-      "pages/characters/zi3_子.html",
-      "pages/chengyu/junzibugui_君子不器.html",
-      "pages/philosophy/topic_zhengming.html",
-      "pages/religion/topic_rujia.html",
-      "pages/vocab/lunyu_论语.html",
-      "pages/vocab/qianxu_谦虚.html",
-      "pages/vocab/ren2_仁.html"
-    ],
-    "hasPage": true
-  },
   "孔子": {
     "cn": "孔子",
     "py": "Kǒngzǐ",
@@ -200,6 +202,27 @@
       "pages/vocab/daode_道德.html",
       "pages/vocab/lunyu_论语.html",
       "pages/vocab/ren2_仁.html"
+    ],
+    "hasPage": true
+  },
+  "气": {
+    "cn": "气",
+    "py": "qì",
+    "en": "air; breath; qi",
+    "count": 12,
+    "appearsOn": [
+      "pages/characters/feng1_风.html",
+      "pages/characters/kong1_空.html",
+      "pages/characters/li3_理.html",
+      "pages/characters/shen2_神.html",
+      "pages/daily/topic_kanbing.html",
+      "pages/daily/topic_tianqi.html",
+      "pages/religion/topic_daojiao.html",
+      "pages/science/topic_wuli.html",
+      "pages/science/topic_wuxing.html",
+      "pages/vocab/fengshui_风水.html",
+      "pages/vocab/shenti_身体.html",
+      "pages/vocab/yinyang_阴阳.html"
     ],
     "hasPage": true
   },
@@ -286,23 +309,23 @@
     ],
     "hasPage": true
   },
-  "气": {
-    "cn": "气",
-    "py": "qì",
-    "en": "air; breath; qi",
+  "月": {
+    "cn": "月",
+    "py": "yuè",
+    "en": "month; moon",
     "count": 11,
     "appearsOn": [
-      "pages/characters/feng1_风.html",
-      "pages/characters/kong1_空.html",
-      "pages/characters/li3_理.html",
-      "pages/characters/shen2_神.html",
-      "pages/daily/topic_kanbing.html",
-      "pages/daily/topic_tianqi.html",
-      "pages/religion/topic_daojiao.html",
-      "pages/science/topic_wuli.html",
-      "pages/science/topic_wuxing.html",
-      "pages/vocab/fengshui_风水.html",
-      "pages/vocab/yinyang_阴阳.html"
+      "pages/characters/ba1_八.html",
+      "pages/characters/jiu3_九.html",
+      "pages/characters/liu4_六.html",
+      "pages/characters/nian2_年.html",
+      "pages/characters/qi1_七.html",
+      "pages/characters/ri4_日.html",
+      "pages/characters/rou4_肉.html",
+      "pages/characters/shi2_时.html",
+      "pages/characters/xing1_星.html",
+      "pages/characters/yin1_阴.html",
+      "pages/vocab/shijian_时间.html"
     ],
     "hasPage": true
   },
@@ -436,25 +459,6 @@
       "pages/vocab/junzi_君子.html",
       "pages/vocab/li3_礼.html",
       "pages/vocab/ren2_仁.html"
-    ],
-    "hasPage": true
-  },
-  "月": {
-    "cn": "月",
-    "py": "yuè",
-    "en": "month; moon",
-    "count": 10,
-    "appearsOn": [
-      "pages/characters/ba1_八.html",
-      "pages/characters/jiu3_九.html",
-      "pages/characters/liu4_六.html",
-      "pages/characters/nian2_年.html",
-      "pages/characters/qi1_七.html",
-      "pages/characters/ri4_日.html",
-      "pages/characters/rou4_肉.html",
-      "pages/characters/shi2_时.html",
-      "pages/characters/yin1_阴.html",
-      "pages/vocab/shijian_时间.html"
     ],
     "hasPage": true
   },
@@ -878,6 +882,23 @@
     ],
     "hasPage": true
   },
+  "心": {
+    "cn": "心",
+    "py": "xīn",
+    "en": "heart; mind",
+    "count": 8,
+    "appearsOn": [
+      "pages/characters/nian4_念.html",
+      "pages/characters/qing2_情.html",
+      "pages/characters/si1_思.html",
+      "pages/characters/xiang3_想.html",
+      "pages/characters/yi4_意.html",
+      "pages/characters/zhong1_中.html",
+      "pages/vocab/liangxin_良心.html",
+      "pages/vocab/shenti_身体.html"
+    ],
+    "hasPage": true
+  },
   "应该": {
     "cn": "应该",
     "py": "yīnggāi",
@@ -1052,6 +1073,22 @@
       "pages/history/topic_handai.html",
       "pages/history/topic_xuanzang.html",
       "pages/vocab/renjian_人间.html"
+    ],
+    "hasPage": true
+  },
+  "工作": {
+    "cn": "工作",
+    "py": "gōngzuò",
+    "en": "work; job",
+    "count": 7,
+    "appearsOn": [
+      "pages/characters/shi4_事.html",
+      "pages/characters/ye4_业.html",
+      "pages/characters/zuo4_作.html",
+      "pages/characters/zuo4_做.html",
+      "pages/daily/topic_shengyi.html",
+      "pages/science/topic_gongcheng.html",
+      "pages/vocab/kaoshi_考试.html"
     ],
     "hasPage": true
   },
@@ -1311,22 +1348,6 @@
     ],
     "hasPage": true
   },
-  "心": {
-    "cn": "心",
-    "py": "xīn",
-    "en": "heart; mind",
-    "count": 7,
-    "appearsOn": [
-      "pages/characters/nian4_念.html",
-      "pages/characters/qing2_情.html",
-      "pages/characters/si1_思.html",
-      "pages/characters/xiang3_想.html",
-      "pages/characters/yi4_意.html",
-      "pages/characters/zhong1_中.html",
-      "pages/vocab/liangxin_良心.html"
-    ],
-    "hasPage": true
-  },
   "音乐": {
     "cn": "音乐",
     "py": "yīnyuè",
@@ -1572,21 +1593,6 @@
     ],
     "hasPage": false
   },
-  "工作": {
-    "cn": "工作",
-    "py": "gōngzuò",
-    "en": "work; job",
-    "count": 6,
-    "appearsOn": [
-      "pages/characters/shi4_事.html",
-      "pages/characters/ye4_业.html",
-      "pages/characters/zuo4_作.html",
-      "pages/characters/zuo4_做.html",
-      "pages/daily/topic_shengyi.html",
-      "pages/science/topic_gongcheng.html"
-    ],
-    "hasPage": true
-  },
   "汉朝": {
     "cn": "汉朝",
     "py": "Hàn cháo",
@@ -1721,6 +1727,21 @@
       "pages/vocab/zhidao_知道.html"
     ],
     "hasPage": false
+  },
+  "钱": {
+    "cn": "钱",
+    "py": "qián",
+    "en": "money — what a meal costs; 吃饭 and 花钱 are the daily-life pair",
+    "count": 6,
+    "appearsOn": [
+      "pages/characters/chi1_吃.html",
+      "pages/characters/jin1_金.html",
+      "pages/characters/piao4_票.html",
+      "pages/daily/topic_duliangheng.html",
+      "pages/grammar/duoshao_ji_多少几.html",
+      "pages/vocab/duoshao_多少.html"
+    ],
+    "hasPage": true
   },
   "秦朝": {
     "cn": "秦朝",
@@ -1932,6 +1953,21 @@
     ],
     "hasPage": true
   },
+  "中医": {
+    "cn": "中医",
+    "py": "zhōngyī",
+    "en": "Chinese medicine — the framework most Chinese herbal infusions sit inside",
+    "count": 6,
+    "appearsOn": [
+      "pages/culinary/topic_tisanes.html",
+      "pages/daily/topic_kanbing.html",
+      "pages/science/topic_wuxing.html",
+      "pages/vocab/shenti_身体.html",
+      "pages/vocab/tianren_天人.html",
+      "pages/vocab/yiyuan_医院.html"
+    ],
+    "hasPage": true
+  },
   "字": {
     "cn": "字",
     "py": "zì",
@@ -2127,6 +2163,20 @@
       "pages/characters/xi1_西.html",
       "pages/characters/zhong1_中.html",
       "pages/characters/zuo3_左.html"
+    ],
+    "hasPage": true
+  },
+  "东西": {
+    "cn": "东西",
+    "py": "dōngxi",
+    "en": "thing; stuff",
+    "count": 5,
+    "appearsOn": [
+      "pages/characters/dong1_东.html",
+      "pages/characters/shi4_事.html",
+      "pages/characters/wu4_物.html",
+      "pages/characters/xi1_西.html",
+      "pages/vocab/duoshao_多少.html"
     ],
     "hasPage": true
   },
@@ -2396,6 +2446,20 @@
     ],
     "hasPage": true
   },
+  "科举": {
+    "cn": "科举",
+    "py": "kējǔ",
+    "en": "the imperial examinations",
+    "count": 5,
+    "appearsOn": [
+      "pages/history/topic_suichao.html",
+      "pages/history/topic_yuanchao.html",
+      "pages/religion/topic_rujia.html",
+      "pages/vocab/kaoshi_考试.html",
+      "pages/vocab/lunyu_论语.html"
+    ],
+    "hasPage": true
+  },
   "可以": {
     "cn": "可以",
     "py": "kěyǐ",
@@ -2563,20 +2627,6 @@
     ],
     "hasPage": true
   },
-  "钱": {
-    "cn": "钱",
-    "py": "qián",
-    "en": "money — what a meal costs; 吃饭 and 花钱 are the daily-life pair",
-    "count": 5,
-    "appearsOn": [
-      "pages/characters/chi1_吃.html",
-      "pages/characters/jin1_金.html",
-      "pages/characters/piao4_票.html",
-      "pages/daily/topic_duliangheng.html",
-      "pages/grammar/duoshao_ji_多少几.html"
-    ],
-    "hasPage": true
-  },
   "秦始皇": {
     "cn": "秦始皇",
     "py": "qín shǐ huáng",
@@ -2686,6 +2736,20 @@
       "pages/characters/wen2_文.html",
       "pages/characters/xie3_写.html",
       "pages/characters/yan2_言.html"
+    ],
+    "hasPage": true
+  },
+  "数学": {
+    "cn": "数学",
+    "py": "shùxué",
+    "en": "mathematics",
+    "count": 5,
+    "appearsOn": [
+      "pages/daily/topic_shuzi_xitong.html",
+      "pages/science/topic_gongcheng.html",
+      "pages/science/topic_huaxue.html",
+      "pages/science/topic_wuli.html",
+      "pages/vocab/kaoshi_考试.html"
     ],
     "hasPage": true
   },
@@ -3082,19 +3146,6 @@
     ],
     "hasPage": true
   },
-  "东西": {
-    "cn": "东西",
-    "py": "dōngxi",
-    "en": "thing; stuff",
-    "count": 4,
-    "appearsOn": [
-      "pages/characters/dong1_东.html",
-      "pages/characters/shi4_事.html",
-      "pages/characters/wu4_物.html",
-      "pages/characters/xi1_西.html"
-    ],
-    "hasPage": true
-  },
   "读": {
     "cn": "读",
     "py": "dú",
@@ -3105,6 +3156,19 @@
       "pages/characters/xie3_写.html",
       "pages/characters/xue2_学.html",
       "pages/characters/yan2_言.html"
+    ],
+    "hasPage": true
+  },
+  "多": {
+    "cn": "多",
+    "py": "duō",
+    "en": "many; much; more",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/gao1_高.html",
+      "pages/characters/shao3_少.html",
+      "pages/grammar/duoshao_ji_多少几.html",
+      "pages/vocab/duoshao_多少.html"
     ],
     "hasPage": true
   },
@@ -3446,19 +3510,6 @@
     ],
     "hasPage": true
   },
-  "科举": {
-    "cn": "科举",
-    "py": "kējǔ",
-    "en": "the imperial examinations",
-    "count": 4,
-    "appearsOn": [
-      "pages/history/topic_suichao.html",
-      "pages/history/topic_yuanchao.html",
-      "pages/religion/topic_rujia.html",
-      "pages/vocab/lunyu_论语.html"
-    ],
-    "hasPage": true
-  },
   "客气": {
     "cn": "客气",
     "py": "kèqi",
@@ -3745,6 +3796,32 @@
     ],
     "hasPage": true
   },
+  "少": {
+    "cn": "少",
+    "py": "shǎo",
+    "en": "few; little; young",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/duo1_多.html",
+      "pages/characters/xiao3_小.html",
+      "pages/grammar/duoshao_ji_多少几.html",
+      "pages/vocab/duoshao_多少.html"
+    ],
+    "hasPage": true
+  },
+  "身份": {
+    "cn": "身份",
+    "py": "shēnfèn",
+    "en": "identity; status",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/fen1_分.html",
+      "pages/characters/ming2_名.html",
+      "pages/characters/ren4_认.html",
+      "pages/vocab/shenti_身体.html"
+    ],
+    "hasPage": false
+  },
   "什么": {
     "cn": "什么",
     "py": "shénme",
@@ -3833,19 +3910,6 @@
       "pages/characters/fei1_非.html",
       "pages/characters/ye3_也.html",
       "pages/characters/zhen1_真.html"
-    ],
-    "hasPage": true
-  },
-  "数学": {
-    "cn": "数学",
-    "py": "shùxué",
-    "en": "mathematics",
-    "count": 4,
-    "appearsOn": [
-      "pages/daily/topic_shuzi_xitong.html",
-      "pages/science/topic_gongcheng.html",
-      "pages/science/topic_huaxue.html",
-      "pages/science/topic_wuli.html"
     ],
     "hasPage": true
   },
@@ -4057,6 +4121,19 @@
     ],
     "hasPage": true
   },
+  "星宿": {
+    "cn": "星宿",
+    "py": "xīngxiù",
+    "en": "the lunar mansions",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/xing1_星.html",
+      "pages/science/topic_tiangan_dizhi.html",
+      "pages/science/topic_tianwen.html",
+      "pages/science/topic_wuxing.html"
+    ],
+    "hasPage": true
+  },
   "言": {
     "cn": "言",
     "py": "yán",
@@ -4265,6 +4342,19 @@
     ],
     "hasPage": false
   },
+  "针灸": {
+    "cn": "针灸",
+    "py": "zhēnjiǔ",
+    "en": "acupuncture",
+    "count": 4,
+    "appearsOn": [
+      "pages/daily/topic_kanbing.html",
+      "pages/vocab/yinyang_阴阳.html",
+      "pages/vocab/yiyuan_医院.html",
+      "pages/vocab/zhongyi_中医.html"
+    ],
+    "hasPage": true
+  },
   "之": {
     "cn": "之",
     "py": "zhī",
@@ -4301,19 +4391,6 @@
       "pages/characters/wen2_文.html",
       "pages/characters/zhong1_中.html",
       "pages/vocab/putonghua_普通话.html"
-    ],
-    "hasPage": true
-  },
-  "中医": {
-    "cn": "中医",
-    "py": "zhōngyī",
-    "en": "Chinese medicine — the framework most Chinese herbal infusions sit inside",
-    "count": 4,
-    "appearsOn": [
-      "pages/culinary/topic_tisanes.html",
-      "pages/daily/topic_kanbing.html",
-      "pages/science/topic_wuxing.html",
-      "pages/vocab/tianren_天人.html"
     ],
     "hasPage": true
   },
@@ -4729,18 +4806,6 @@
     ],
     "hasPage": true
   },
-  "多": {
-    "cn": "多",
-    "py": "duō",
-    "en": "many; much; more",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/gao1_高.html",
-      "pages/characters/shao3_少.html",
-      "pages/grammar/duoshao_ji_多少几.html"
-    ],
-    "hasPage": true
-  },
   "多少": {
     "cn": "多少",
     "py": "duōshao",
@@ -4751,7 +4816,7 @@
       "pages/daily/topic_shuzi_xitong.html",
       "pages/grammar/liangci_量词.html"
     ],
-    "hasPage": false
+    "hasPage": true
   },
   "二": {
     "cn": "二",
@@ -5137,6 +5202,18 @@
     ],
     "hasPage": false
   },
+  "几": {
+    "cn": "几",
+    "py": "jǐ",
+    "en": "how many / a few",
+    "count": 3,
+    "appearsOn": [
+      "pages/daily/topic_shuzi_xitong.html",
+      "pages/grammar/liangci_量词.html",
+      "pages/vocab/duoshao_多少.html"
+    ],
+    "hasPage": false
+  },
   "记忆": {
     "cn": "记忆",
     "py": "jìyì",
@@ -5365,6 +5442,18 @@
     ],
     "hasPage": false
   },
+  "看病": {
+    "cn": "看病",
+    "py": "kànbìng",
+    "en": "to see a doctor",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/kan4_看.html",
+      "pages/vocab/shenti_身体.html",
+      "pages/vocab/yiyuan_医院.html"
+    ],
+    "hasPage": true
+  },
   "考古": {
     "cn": "考古",
     "py": "kǎogǔ",
@@ -5387,7 +5476,7 @@
       "pages/characters/xue2_学.html",
       "pages/science/topic_shuxue.html"
     ],
-    "hasPage": false
+    "hasPage": true
   },
   "渴望": {
     "cn": "渴望",
@@ -5904,6 +5993,18 @@
     ],
     "hasPage": true
   },
+  "日": {
+    "cn": "日",
+    "py": "rì",
+    "en": "day; sun",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/nian2_年.html",
+      "pages/characters/shi2_时.html",
+      "pages/characters/xing1_星.html"
+    ],
+    "hasPage": true
+  },
   "如果": {
     "cn": "如果",
     "py": "rúguǒ",
@@ -5952,29 +6053,17 @@
     ],
     "hasPage": true
   },
-  "少": {
-    "cn": "少",
-    "py": "shǎo",
-    "en": "few; little; young",
+  "身体": {
+    "cn": "身体",
+    "py": "shēntǐ",
+    "en": "body; health",
     "count": 3,
     "appearsOn": [
-      "pages/characters/duo1_多.html",
-      "pages/characters/xiao3_小.html",
-      "pages/grammar/duoshao_ji_多少几.html"
+      "pages/characters/ti3_体.html",
+      "pages/daily/topic_kanbing.html",
+      "pages/vocab/yiyuan_医院.html"
     ],
     "hasPage": true
-  },
-  "身份": {
-    "cn": "身份",
-    "py": "shēnfèn",
-    "en": "identity; status",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/fen1_分.html",
-      "pages/characters/ming2_名.html",
-      "pages/characters/ren4_认.html"
-    ],
-    "hasPage": false
   },
   "神明": {
     "cn": "神明",
@@ -6083,6 +6172,18 @@
       "pages/characters/mu4_木.html"
     ],
     "hasPage": false
+  },
+  "数字系统": {
+    "cn": "数字系统",
+    "py": "shùzì xìtǒng",
+    "en": "the number system",
+    "count": 3,
+    "appearsOn": [
+      "pages/daily/topic_duliangheng.html",
+      "pages/science/topic_shuxue.html",
+      "pages/vocab/duoshao_多少.html"
+    ],
+    "hasPage": true
   },
   "霜": {
     "cn": "霜",
@@ -6213,6 +6314,18 @@
       "pages/vocab/qiankun_乾坤.html",
       "pages/vocab/tiandi_天地.html",
       "pages/vocab/tianxia_天下.html"
+    ],
+    "hasPage": true
+  },
+  "天文": {
+    "cn": "天文",
+    "py": "tiānwén",
+    "en": "astronomy",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/xing1_星.html",
+      "pages/daily/topic_tianqi.html",
+      "pages/science/topic_wuli.html"
     ],
     "hasPage": true
   },
@@ -6550,18 +6663,6 @@
       "pages/characters/tian1_天.html",
       "pages/characters/wu3_五.html"
     ],
-    "hasPage": false
-  },
-  "星宿": {
-    "cn": "星宿",
-    "py": "xīngxiù",
-    "en": "Chinese Constellations",
-    "count": 3,
-    "appearsOn": [
-      "pages/science/topic_tiangan_dizhi.html",
-      "pages/science/topic_tianwen.html",
-      "pages/science/topic_wuxing.html"
-    ],
     "hasPage": true
   },
   "行": {
@@ -6624,6 +6725,18 @@
     ],
     "hasPage": true
   },
+  "学习": {
+    "cn": "学习",
+    "py": "xuéxí",
+    "en": "to study; to learn",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/du2_读.html",
+      "pages/characters/jiao4_教.html",
+      "pages/vocab/kaoshi_考试.html"
+    ],
+    "hasPage": false
+  },
   "要是": {
     "cn": "要是",
     "py": "yàoshi",
@@ -6669,6 +6782,18 @@
       "pages/characters/bi4_必.html",
       "pages/characters/ding4_定.html",
       "pages/grammar/zhiyou_cai_只有才.html"
+    ],
+    "hasPage": true
+  },
+  "医院": {
+    "cn": "医院",
+    "py": "yīyuàn",
+    "en": "hospital",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/bing4_病.html",
+      "pages/daily/topic_kanbing.html",
+      "pages/vocab/shenti_身体.html"
     ],
     "hasPage": true
   },
@@ -6861,18 +6986,6 @@
       "pages/grammar/nai_乃.html",
       "pages/grammar/suo_所.html",
       "pages/grammar/zhi_之.html"
-    ],
-    "hasPage": true
-  },
-  "针灸": {
-    "cn": "针灸",
-    "py": "zhēnjiǔ",
-    "en": "acupuncture",
-    "count": 3,
-    "appearsOn": [
-      "pages/daily/topic_kanbing.html",
-      "pages/vocab/yinyang_阴阳.html",
-      "pages/vocab/zhongyi_中医.html"
     ],
     "hasPage": true
   },
@@ -9105,17 +9218,6 @@
     ],
     "hasPage": false
   },
-  "几": {
-    "cn": "几",
-    "py": "jǐ",
-    "en": "how many / a few",
-    "count": 2,
-    "appearsOn": [
-      "pages/daily/topic_shuzi_xitong.html",
-      "pages/grammar/liangci_量词.html"
-    ],
-    "hasPage": false
-  },
   "记录": {
     "cn": "记录",
     "py": "jìlù",
@@ -9676,6 +9778,17 @@
       "pages/characters/xue2_学.html"
     ],
     "hasPage": true
+  },
+  "老师": {
+    "cn": "老师",
+    "py": "lǎoshī",
+    "en": "teacher (in address)",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/jiao4_教.html",
+      "pages/vocab/kaoshi_考试.html"
+    ],
+    "hasPage": false
   },
   "乐队": {
     "cn": "乐队",
@@ -10689,17 +10802,6 @@
     ],
     "hasPage": false
   },
-  "日": {
-    "cn": "日",
-    "py": "rì",
-    "en": "day; sun",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/nian2_年.html",
-      "pages/characters/shi2_时.html"
-    ],
-    "hasPage": true
-  },
   "日记": {
     "cn": "日记",
     "py": "rìjì",
@@ -10862,17 +10964,6 @@
     "appearsOn": [
       "pages/characters/she4_社.html",
       "pages/vocab/guanxi_关系.html"
-    ],
-    "hasPage": false
-  },
-  "身体": {
-    "cn": "身体",
-    "py": "shēntǐ",
-    "en": "body; health",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/ti3_体.html",
-      "pages/daily/topic_kanbing.html"
     ],
     "hasPage": false
   },
@@ -11173,17 +11264,6 @@
     ],
     "hasPage": false
   },
-  "数字系统": {
-    "cn": "数字系统",
-    "py": "shùzì xìtǒng",
-    "en": "the number system",
-    "count": 2,
-    "appearsOn": [
-      "pages/daily/topic_duliangheng.html",
-      "pages/science/topic_shuxue.html"
-    ],
-    "hasPage": true
-  },
   "双": {
     "cn": "双",
     "py": "shuāng",
@@ -11445,17 +11525,6 @@
     "appearsOn": [
       "pages/vocab/qiankun_乾坤.html",
       "pages/vocab/yinyang_阴阳.html"
-    ],
-    "hasPage": true
-  },
-  "天文": {
-    "cn": "天文",
-    "py": "tiānwén",
-    "en": "astronomy",
-    "count": 2,
-    "appearsOn": [
-      "pages/daily/topic_tianqi.html",
-      "pages/science/topic_wuli.html"
     ],
     "hasPage": true
   },
@@ -12229,17 +12298,6 @@
     ],
     "hasPage": false
   },
-  "学习": {
-    "cn": "学习",
-    "py": "xuéxí",
-    "en": "to study; to learn",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/du2_读.html",
-      "pages/characters/jiao4_教.html"
-    ],
-    "hasPage": false
-  },
   "雪": {
     "cn": "雪",
     "py": "xuě",
@@ -12370,6 +12428,17 @@
     ],
     "hasPage": false
   },
+  "药": {
+    "cn": "药",
+    "py": "yào",
+    "en": "medicine",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/bing4_病.html",
+      "pages/vocab/yiyuan_医院.html"
+    ],
+    "hasPage": false
+  },
   "叶公好龙": {
     "cn": "叶公好龙",
     "py": "Yè Gōng hào lóng",
@@ -12444,17 +12513,6 @@
     "appearsOn": [
       "pages/characters/chuan1_穿.html",
       "pages/characters/jian4_件.html"
-    ],
-    "hasPage": false
-  },
-  "医院": {
-    "cn": "医院",
-    "py": "yīyuàn",
-    "en": "hospital",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/bing4_病.html",
-      "pages/daily/topic_kanbing.html"
     ],
     "hasPage": false
   },
@@ -22942,16 +23000,6 @@
     ],
     "hasPage": false
   },
-  "看病": {
-    "cn": "看病",
-    "py": "kànbìng",
-    "en": "to see a doctor",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/kan4_看.html"
-    ],
-    "hasPage": true
-  },
   "看到": {
     "cn": "看到",
     "py": "kàndào",
@@ -23649,16 +23697,6 @@
     "count": 1,
     "appearsOn": [
       "pages/arts/topic_jingju_roles.html"
-    ],
-    "hasPage": false
-  },
-  "老师": {
-    "cn": "老师",
-    "py": "lǎoshī",
-    "en": "teacher (in address)",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/jiao4_教.html"
     ],
     "hasPage": false
   },
@@ -25349,6 +25387,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/deng1_灯.html"
+    ],
+    "hasPage": false
+  },
+  "明星": {
+    "cn": "明星",
+    "py": "míngxīng",
+    "en": "celebrity",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/xing1_星.html"
     ],
     "hasPage": false
   },
@@ -33402,6 +33450,16 @@
     ],
     "hasPage": false
   },
+  "学院": {
+    "cn": "学院",
+    "py": "xuéyuàn",
+    "en": "college, institute",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/yiyuan_医院.html"
+    ],
+    "hasPage": false
+  },
   "学者": {
     "cn": "学者",
     "py": "xuézhě",
@@ -33809,16 +33867,6 @@
     "count": 1,
     "appearsOn": [
       "pages/chengyu/sanyicheng_三人成虎.html"
-    ],
-    "hasPage": false
-  },
-  "药": {
-    "cn": "药",
-    "py": "yào",
-    "en": "medicine",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/bing4_病.html"
     ],
     "hasPage": false
   },

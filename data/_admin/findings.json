@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-12T02:36:57.482Z",
+  "generated": "2026-07-12T03:27:37.109Z",
   "summary": {
     "errors": 0,
     "warnings": 2,
-    "info": 1251
+    "info": 1264
   },
   "findings": [
     {
@@ -64,6 +64,18 @@
       "category": "search",
       "file": "data/search-index.json",
       "msg": "24197 singleton tokens (appear in exactly 1 entry). Sample: facing-the-opportunity-immediately-decide, great-achievement-announce-accomplished, thunder-lightning-together-intensify, illuminate-lineage-glorify-ancestors, for-tiger-act-as-ghost-of-the-slain, read-to-the-point-of-understanding, discerning-heart-that-sweeps-clean, chili-and-sichuan-pepper-saturated, exceed-people-intention-anticipate, knowing-something-when-you-see-it, hundred-feelings-intersect-gather, family-understood-household-known, have-no-ability-to-act-with-force, human-spirit-mutually-communicate, recognize-ancestor-return-lineage, breath-breath-mutually-connected, recognize-ancestors-return-clan, frank-to-the-point-of-bluntness, day-accumulate-month-accumulate, heart-receive-spirit-comprehend, with-virtue-make-people-submit, words-conduct-one-and-the-same, arrogant-rude-without-courtesy, accord-heaven-respond-humanity, urgent-like-shooting-star-fire, bright-observe-autumn-hair-tip, learning-has-no-stopping-point, matters-located-in-human-doing, right-wrong-overturned-upended, have-preparation-lack-disaster"
+    },
+    {
+      "level": "WARN",
+      "category": "factual",
+      "file": "content/characters/zi3_子.md",
+      "msg": "pinyin 'zǐ' differs from reference [\"zi\"] for '子' — confirm if secondary reading is intended (or set facts_verified: true)"
+    },
+    {
+      "level": "WARN",
+      "category": "factual",
+      "file": "data/_reference/hanzi-facts.json",
+      "msg": "54 hanzi appear in content/ but have no reference entry: 珪説㚔変気喫㕣剣謌郷図匃壊抔鶏楽価単続暦歴経顔竜麪牀歬朖亖呬祂牜囍臓曜蝎読駅満冃…. Claims about these characters cannot be mechanically verified. Run 'npm run refresh:reference' after updating upstream data."
     },
     {
       "level": "INFO",
@@ -2042,6 +2054,13 @@
     {
       "level": "INFO",
       "category": "formatting",
+      "file": "content/characters/xing1_星.md",
+      "msg": "5 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
       "file": "content/characters/xing2_形.md",
       "msg": "11 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
@@ -3785,6 +3804,13 @@
     {
       "level": "INFO",
       "category": "formatting",
+      "file": "content/vocab/duoshao_多少.md",
+      "msg": "4 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
       "file": "content/vocab/fangxiang_方向.md",
       "msg": "8 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
@@ -3885,6 +3911,13 @@
       "category": "formatting",
       "file": "content/vocab/junzi_君子.md",
       "msg": "7 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
+      "file": "content/vocab/kaoshi_考试.md",
+      "msg": "4 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
@@ -4086,6 +4119,13 @@
     {
       "level": "INFO",
       "category": "formatting",
+      "file": "content/vocab/shenti_身体.md",
+      "msg": "4 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
       "file": "content/vocab/shici_诗词.md",
       "msg": "1 vocab card contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
@@ -4254,6 +4294,13 @@
     {
       "level": "INFO",
       "category": "formatting",
+      "file": "content/vocab/yiyuan_医院.md",
+      "msg": "4 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
       "file": "content/vocab/yuanfen_缘分.md",
       "msg": "12 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
@@ -4311,7 +4358,7 @@
       "level": "INFO",
       "category": "seo",
       "file": "_global",
-      "msg": "317 complete pages missing seo_title — default title leads with CJK and may lose English-SERP clicks. See SEO tab on the admin dashboard for the list.",
+      "msg": "321 complete pages missing seo_title — default title leads with CJK and may lose English-SERP clicks. See SEO tab on the admin dashboard for the list.",
       "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
     },
     {
@@ -4395,6 +4442,34 @@
       "level": "INFO",
       "category": "seo",
       "file": "content/science/topic_wuli.md",
+      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
+      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/vocab/duoshao_多少.md",
+      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
+      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/vocab/kaoshi_考试.md",
+      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
+      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/vocab/shenti_身体.md",
+      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
+      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/vocab/yiyuan_医院.md",
       "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
       "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
     },
@@ -6537,7 +6612,7 @@
       "level": "INFO",
       "category": "seo",
       "file": "_global",
-      "msg": "317 complete pages missing seo_desc — default desc is hero copy, not SERP copy. See SEO tab on the admin dashboard for the list.",
+      "msg": "321 complete pages missing seo_desc — default desc is hero copy, not SERP copy. See SEO tab on the admin dashboard for the list.",
       "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
     },
     {
@@ -6621,6 +6696,34 @@
       "level": "INFO",
       "category": "seo",
       "file": "content/science/topic_wuli.md",
+      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
+      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/vocab/duoshao_多少.md",
+      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
+      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/vocab/kaoshi_考试.md",
+      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
+      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/vocab/shenti_身体.md",
+      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
+      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/vocab/yiyuan_医院.md",
       "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
       "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
     },
@@ -8758,18 +8861,6 @@
       "file": "content/vocab/yisi_意思.md",
       "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
       "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
-    },
-    {
-      "level": "WARN",
-      "category": "factual",
-      "file": "content/characters/zi3_子.md",
-      "msg": "pinyin 'zǐ' differs from reference [\"zi\"] for '子' — confirm if secondary reading is intended (or set facts_verified: true)"
-    },
-    {
-      "level": "WARN",
-      "category": "factual",
-      "file": "data/_reference/hanzi-facts.json",
-      "msg": "50 hanzi appear in content/ but have no reference entry: 珪説㚔変気喫㕣剣謌郷図匃壊抔鶏楽価単続暦歴経顔竜麪牀歬朖亖呬祂牜囍臓読駅満冃哋箇…. Claims about these characters cannot be mechanically verified. Run 'npm run refresh:reference' after updating upstream data."
     }
   ]
 }

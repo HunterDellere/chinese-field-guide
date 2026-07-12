@@ -6,7 +6,15 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A reading nook for Chinese language and civilisation. Characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Jul 2026 02:36:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 03:27:22 GMT</lastBuildDate>
+    <item>
+      <title>星 · star; celestial body; spark</title>
+      <link>https://jiaoshoo.com/pages/characters/xing1_星.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/xing1_星.html</guid>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+      <description>Born of the sun radical and a sprout, 星 names the stars, the planets, the week, movie fame, and the spark that starts prairie fires.</description>
+      <category>characters</category>
+    </item>
     <item>
       <title>电脑与网络 · Computers &amp; the Internet</title>
       <link>https://jiaoshoo.com/pages/daily/topic_diannao_wangluo.html</link>
@@ -102,6 +110,38 @@
       <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
       <description>Physics in Chinese is &quot;the pattern of things,&quot; a phrase lifted from a Song-dynasty program for investigating the world.</description>
       <category>science</category>
+    </item>
+    <item>
+      <title>多少 · how much, how many</title>
+      <link>https://jiaoshoo.com/pages/vocab/duoshao_多少.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/duoshao_多少.html</guid>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+      <description>Chinese builds its &quot;how much&quot; by welding many to few, part of a system where opposites fuse into the scale between them.</description>
+      <category>vocab</category>
+    </item>
+    <item>
+      <title>考试 · examination</title>
+      <link>https://jiaoshoo.com/pages/vocab/kaoshi_考试.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/kaoshi_考试.html</guid>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+      <description>China ran the world&apos;s longest experiment in testing, thirteen centuries of imperial exams, and the vocabulary still sits every June for the gaokao.</description>
+      <category>vocab</category>
+    </item>
+    <item>
+      <title>身体 · body; health</title>
+      <link>https://jiaoshoo.com/pages/vocab/shenti_身体.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/shenti_身体.html</guid>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+      <description>The word for body doubles as the word for health, asking about it is a greeting, and its second character got luckier in simplification than any other.</description>
+      <category>vocab</category>
+    </item>
+    <item>
+      <title>医院 · hospital</title>
+      <link>https://jiaoshoo.com/pages/vocab/yiyuan_医院.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/yiyuan_医院.html</guid>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+      <description>The healing courtyard: how an arrow wound, a wine jar, and the institutional suffix 院 assembled the word for hospital.</description>
+      <category>vocab</category>
     </item>
     <item>
       <title>饱 · full, satisfied, to eat one&apos;s fill</title>
@@ -205,46 +245,6 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/duan3_短.html</guid>
       <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
       <description>An arrow set beside a ritual bean-pot measures the short distance, so 短 builds its meaning of brevity from a comparison of two small lengths.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>队 · team, group, band, military unit; measure word for groups</title>
-      <link>https://jiaoshoo.com/pages/characters/dui4_队.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/dui4_队.html</guid>
-      <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
-      <description>A crowd of people 人 packed against an earthen mound 阝, the image that gives 队 its sense of a formed-up team or column.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>房 · building, house, room</title>
-      <link>https://jiaoshoo.com/pages/characters/fang2_房.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/fang2_房.html</guid>
-      <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
-      <description>A door radical leaning over the phonetic 方: the side-chamber under a roof that grew into every word for house, room, and the family branches that fill them.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>飞 · to fly, to dart; high, swift</title>
-      <link>https://jiaoshoo.com/pages/characters/fei1_飞.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/fei1_飞.html</guid>
-      <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
-      <description>A single bird caught mid-flap, one outstretched wing and the rising line of its body, frozen at the instant it leaves the ground.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>封 · to seal, envelope, to confer (a fief)</title>
-      <link>https://jiaoshoo.com/pages/characters/feng1_封.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/feng1_封.html</guid>
-      <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
-      <description>A handful of earth heaped over a boundary mound, sealed by hand: 封 ties envelopes, granaries, and feudal grants to the same gesture of closing something off.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>富 · rich, wealthy, abundant, to enrich</title>
-      <link>https://jiaoshoo.com/pages/characters/fu4_富.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/fu4_富.html</guid>
-      <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
-      <description>A full wine jar tucked under a roof: the picture of a household storehouse packed to its rafters with plenty.</description>
       <category>characters</category>
     </item>
   </channel>

@@ -268,6 +268,7 @@
 心	xīn	heart, mind — The radical at the root of all feeling, and the Chinese conception of thought itself.
 新	xīn	new; fresh; recently; novel — Chopping fresh wood with an axe: the character whose compounds span New Year greetings, fresh produce, marriage, and the great question of what counts as modern.
 信	xìn	trust, faith, credibility — A person standing by their word: one of the most visually transparent characters in the language, and the virtue that holds every contract, conversation, and relationship together.
+星	xīng	star; celestial body; spark — Born of the sun radical and a sprout, 星 names the stars, the planets, the week, movie fame, and the spark that starts prairie fires.
 形	xíng	shape, form, to appear, to compare — The character for visible form: shape and figure, the body as form, the act of taking shape and being described, and the lay of a situation. A pictophonetic compound built on the pattern-strokes radical 彡.
 性	xìng	nature, character, sex/gender, the -ness/-ity suffix — The heart radical carrying the sense of innate nature: what a thing is born to be. From that core grow the four faces of 性: a persons disposition or character, sex and gender, the property or quality of a thing, and the productive abstract suffix that turns adjectives into -ness and -ity nouns.
 学	xu é	to study, to learn, learning — Hands guiding a child beneath a roof: the character for learning as both action and institution.
@@ -320,6 +321,7 @@
 传统	chuán tǒng	tradition; traditional — The thread passed down through generations: and the concept that sits at the center of every Chinese debate about modernity, identity, and what to keep.
 春节	Chūn jié	Spring Festival — The most important holiday in the Chinese calendar: customs, foods, taboos, the reunion dinner, and the cultural weight of the Spring Festival.
 东西	dōng xi	things — East-west as the word for 'stuff': a window into directional cosmology.
+多少	duō shao	how much, how many — Chinese builds its "how much" by welding many to few, part of a system where opposites fuse into the scale between them.
 方向	fāng xiàng	direction; orientation — 方向 is the compass-word that holds together physical heading, life direction, political orientation, and the deeply Chinese sense that getting your bearings: 辨方向, is the first move in any undertaking.
 风水	fēng shuǐ	wind and water — Geomancy, qi flow, and the cosmological logic of favorable siting.
 风俗	fēng sú	customs, traditions, folk practices — The wind of culture and the ways of the people: how 风俗 differs from 习惯 and why the distinction matters.
@@ -350,6 +352,7 @@
 山水	shān shuǐ	mountains and water; the landscape — The paired word that names the Chinese landscape: not "scenery" in the Western sense, but a cosmological pairing of the still and the flowing that became the central subject of a thousand years of painting and poetry.
 山水画	shān shuǐ huà	Chinese Landscape Painting — Mountains and waters as a cosmological pair -- the genre that made ink the equal of philosophy.
 社会	shè huì	society — The word for society that China borrowed from Japan, which had borrowed the characters from China: a compound forged at the altar of the earth.
+身体	shēn tǐ	body; health — The word for body doubles as the word for health, asking about it is a greeting, and its second character got luckier in simplification than any other.
 神明	shén míng	gods, spirits, deities; divine intelligence — The generic term for any deity in the Chinese religious world: and, in classical philosophy, the luminous intelligence that distinguishes the divine from the merely powerful.
 生产	shēng chǎn	to produce, production, manufacturing — The foundational act of economic life: and, in China's Marxist political vocabulary, the act from which all social relations flow. Life gives rise to production; production sustains life.
 诗词	shī cí	Chinese poetry — Poetry stood at the center of Chinese civilization for two thousand years: the primary medium for expressing emotion, demonstrating education, and participating in the social life of the literati class.

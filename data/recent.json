@@ -1,5 +1,24 @@
 [
   {
+    "path": "pages/characters/xing1_星.html",
+    "type": "character",
+    "category": "characters",
+    "title": "星 · star; celestial body; spark",
+    "desc": "Born of the sun radical and a sprout, 星 names the stars, the planets, the week, movie fame, and the spark that starts prairie fires.",
+    "tags": [
+      "astronomy",
+      "cosmology",
+      "nature"
+    ],
+    "status": "complete",
+    "char": "星",
+    "pinyin": "xīng",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "日",
+    "updated": "2026-07-11"
+  },
+  {
     "path": "pages/daily/topic_diannao_wangluo.html",
     "type": "topic",
     "category": "daily",
@@ -204,6 +223,71 @@
     "updated": "2026-07-11"
   },
   {
+    "path": "pages/vocab/duoshao_多少.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "多少 · how much, how many",
+    "desc": "Chinese builds its \"how much\" by welding many to few, part of a system where opposites fuse into the scale between them.",
+    "tags": [
+      "numbers",
+      "grammar",
+      "spoken",
+      "vocabulary"
+    ],
+    "status": "complete",
+    "pinyin": "duōshao",
+    "updated": "2026-07-11"
+  },
+  {
+    "path": "pages/vocab/kaoshi_考试.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "考试 · examination",
+    "desc": "China ran the world's longest experiment in testing, thirteen centuries of imperial exams, and the vocabulary still sits every June for the gaokao.",
+    "tags": [
+      "learning",
+      "daily-life",
+      "history",
+      "culture",
+      "vocabulary"
+    ],
+    "status": "complete",
+    "pinyin": "kǎoshì",
+    "updated": "2026-07-11"
+  },
+  {
+    "path": "pages/vocab/shenti_身体.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "身体 · body; health",
+    "desc": "The word for body doubles as the word for health, asking about it is a greeting, and its second character got luckier in simplification than any other.",
+    "tags": [
+      "body",
+      "health",
+      "daily-life",
+      "vocabulary"
+    ],
+    "status": "complete",
+    "pinyin": "shēntǐ",
+    "updated": "2026-07-11"
+  },
+  {
+    "path": "pages/vocab/yiyuan_医院.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "医院 · hospital",
+    "desc": "The healing courtyard: how an arrow wound, a wine jar, and the institutional suffix 院 assembled the word for hospital.",
+    "tags": [
+      "health",
+      "medicine",
+      "daily-life",
+      "vocabulary"
+    ],
+    "status": "complete",
+    "pinyin": "yīyuàn",
+    "updated": "2026-07-11"
+  },
+  {
     "path": "pages/characters/bao3_饱.html",
     "type": "character",
     "category": "characters",
@@ -260,103 +344,6 @@
     "tone": 4,
     "hsk": 1,
     "radical": "疒",
-    "updated": "2026-06-28"
-  },
-  {
-    "path": "pages/characters/cao3_草.html",
-    "type": "character",
-    "category": "characters",
-    "title": "草 · grass, herb, straw; draft, rough",
-    "desc": "A field of grass under the morning sun: the grass radical over 早 zǎo (early) gives the plant its sound, and from the meadow grow the senses of herb, straw, and a hasty rough draft.",
-    "tags": [
-      "nature",
-      "daily-life",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "草",
-    "pinyin": "cǎo",
-    "tone": 3,
-    "hsk": 2,
-    "radical": "艹",
-    "updated": "2026-06-28"
-  },
-  {
-    "path": "pages/characters/chang4_唱.html",
-    "type": "character",
-    "category": "characters",
-    "title": "唱 · to sing, to chant, to call out",
-    "desc": "A mouth beside the sun-doubled 昌: the radical names the act of singing while 昌 carries only the sound.",
-    "tags": [
-      "communication",
-      "culture",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "唱",
-    "pinyin": "chàng",
-    "tone": 4,
-    "hsk": 1,
-    "radical": "口",
-    "updated": "2026-06-28"
-  },
-  {
-    "path": "pages/characters/chuan1_穿.html",
-    "type": "character",
-    "category": "characters",
-    "title": "穿 · to pierce, to bore through, to wear, to put on",
-    "desc": "A tooth gnawing through the roof of a cave: one image for boring a hole and for the body slipping into clothing.",
-    "tags": [
-      "motion",
-      "body",
-      "daily-life",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "穿",
-    "pinyin": "chuān",
-    "tone": 1,
-    "hsk": 1,
-    "radical": "穴",
-    "updated": "2026-06-28"
-  },
-  {
-    "path": "pages/characters/chuan2_船.html",
-    "type": "character",
-    "category": "characters",
-    "title": "船 · ship, boat, vessel",
-    "desc": "A pictophonetic built on 舟 (boat): the hull carries the meaning while the right side supplies the sound, covering every craft from sampan to ocean liner.",
-    "tags": [
-      "motion",
-      "daily-life",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "船",
-    "pinyin": "chuán",
-    "tone": 2,
-    "hsk": 2,
-    "radical": "舟",
-    "updated": "2026-06-28"
-  },
-  {
-    "path": "pages/characters/chun1_春.html",
-    "type": "character",
-    "category": "characters",
-    "title": "春 · spring, springtime, vitality, the stir of desire",
-    "desc": "Sun pressing up through young shoots: the season of growth, and the oldest Chinese metaphor for life-force and erotic longing.",
-    "tags": [
-      "nature",
-      "time",
-      "emotion",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "春",
-    "pinyin": "chūn",
-    "tone": 1,
-    "hsk": 2,
-    "radical": "日",
     "updated": "2026-06-28"
   }
 ]

@@ -1,5 +1,24 @@
 [
   {
+    "path": "pages/characters/xing1_星.html",
+    "type": "character",
+    "category": "characters",
+    "title": "星 · star; celestial body; spark",
+    "desc": "Born of the sun radical and a sprout, 星 names the stars, the planets, the week, movie fame, and the spark that starts prairie fires.",
+    "tags": [
+      "astronomy",
+      "cosmology",
+      "nature"
+    ],
+    "status": "complete",
+    "char": "星",
+    "pinyin": "xīng",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "日",
+    "updated": "2026-07-11"
+  },
+  {
     "path": "pages/daily/topic_diannao_wangluo.html",
     "type": "topic",
     "category": "daily",
@@ -201,6 +220,71 @@
     ],
     "status": "complete",
     "pinyin": "wùlǐ",
+    "updated": "2026-07-11"
+  },
+  {
+    "path": "pages/vocab/duoshao_多少.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "多少 · how much, how many",
+    "desc": "Chinese builds its \"how much\" by welding many to few, part of a system where opposites fuse into the scale between them.",
+    "tags": [
+      "numbers",
+      "grammar",
+      "spoken",
+      "vocabulary"
+    ],
+    "status": "complete",
+    "pinyin": "duōshao",
+    "updated": "2026-07-11"
+  },
+  {
+    "path": "pages/vocab/kaoshi_考试.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "考试 · examination",
+    "desc": "China ran the world's longest experiment in testing, thirteen centuries of imperial exams, and the vocabulary still sits every June for the gaokao.",
+    "tags": [
+      "learning",
+      "daily-life",
+      "history",
+      "culture",
+      "vocabulary"
+    ],
+    "status": "complete",
+    "pinyin": "kǎoshì",
+    "updated": "2026-07-11"
+  },
+  {
+    "path": "pages/vocab/shenti_身体.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "身体 · body; health",
+    "desc": "The word for body doubles as the word for health, asking about it is a greeting, and its second character got luckier in simplification than any other.",
+    "tags": [
+      "body",
+      "health",
+      "daily-life",
+      "vocabulary"
+    ],
+    "status": "complete",
+    "pinyin": "shēntǐ",
+    "updated": "2026-07-11"
+  },
+  {
+    "path": "pages/vocab/yiyuan_医院.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "医院 · hospital",
+    "desc": "The healing courtyard: how an arrow wound, a wine jar, and the institutional suffix 院 assembled the word for hospital.",
+    "tags": [
+      "health",
+      "medicine",
+      "daily-life",
+      "vocabulary"
+    ],
+    "status": "complete",
+    "pinyin": "yīyuàn",
     "updated": "2026-07-11"
   },
   {
