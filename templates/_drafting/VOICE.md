@@ -46,6 +46,48 @@ Specific patterns to kill in topic entries:
 - **Chronological survey as structure.** A history section isn't just dates and dynasties in order. Lead with the thing that makes the history interesting, then give the facts that explain it.
 - **The closing "significance" paragraph.** Entries that end with a paragraph about why this topic matters haven't earned their landing. End on a concrete image, a quotation, a compound, or an observation — not a verdict.
 
+## AI tells (humanizer ruleset, adapted)
+
+Adapted from the humanizer skill (vendored verbatim at `templates/_drafting/humanizer-SKILL.md`, which itself distills Wikipedia's "Signs of AI writing"). The rules above stay in force; this section adds the patterns not already covered, adapted to house style. Each is marked **[machine]** (checked by `build/validate-formatting.mjs` as WARN-level findings on the admin dashboard) or **[judgment]** (caught only by a human or reviewing agent).
+
+### Content tells
+
+- **Significance inflation** [machine]: testament, tapestry, landscape (abstract), pivotal, crucial role, vital role, key moment, underscores, delve, showcase, boasts, vibrant, rich cultural heritage, profound, renowned, breathtaking, stunning, nestled, indelible mark, deeply rooted, setting the stage for, marking a shift, evolving landscape. Say what the thing is and did; drop the claim about what it represents.
+- **Copula avoidance** [machine]: "serves as", "stands as", "functions as", "acts as a" where "is" works. Write "汉 is the source of the ethnonym", not "汉 serves as the source".
+- **Vague attribution** [machine]: "experts say", "scholars believe", "many argue", "observers have noted", "it is believed". Already banned above for topic pages; now checked. Name the text, the person, or the survey, or commit to the claim yourself.
+- **Superficial -ing tails** [judgment]: a present-participle phrase tacked onto a sentence to add fake depth ("…, reflecting the community's deep connection to the land"). Cut the tail or turn it into a claim with a subject.
+- **False ranges** [machine]: "from X to Y" where X and Y aren't on a real scale ("from oracle bones to WeChat"). Fine when the range is literal (from 1368 to 1644); a tell when it's decorative.
+- **Formulaic challenges/outlook sections** [judgment]: "Despite these challenges…", "Future outlook". Give the specific problem and the specific response instead.
+- **Speculative gap-filling** [judgment]: inventing plausible filler where sources are silent ("likely", "it is believed that"). Say what isn't known or cut the sentence.
+
+### Language tells
+
+- **Signposting** [machine]: "it's worth noting", "it is important to note", "let's explore", "let's dive in", "here's what you need to know". Extends the throat-clearing rule above.
+- **Persuasive authority tropes** [judgment]: "the real question is", "at its core" (already banned above), "the heart of the matter", "what really matters". The next sentence usually restates an ordinary point with ceremony.
+- **Aphorism formulas** [judgment]: "X is the Y of Z", "the language of", "the currency of". Replace with the concrete claim it gestures at.
+- **Elegant variation** [judgment]: cycling synonyms for the page subject (the character… the glyph… the sign… the form). Repeat the plain word.
+- **Staccato drama** [judgment]: runs of clipped fragments for engineered punch. One short sentence lands; four in a row read as performance.
+- **Excessive hedging** [judgment]: "could potentially possibly". Already covered by the tone rules; stack of two hedges = rewrite.
+- **Filler phrases** [judgment]: "in order to" → "to", "due to the fact that" → "because", "has the ability to" → "can", "at this point in time" → "now".
+
+### Chatbot artifacts
+
+- **Chatbot closers and correspondence** [machine]: "I hope this helps", "let me know", "would you like", "in conclusion", "exciting times lie ahead", generic upbeat endings ("the future looks bright"). The closing-significance-paragraph rule above is the house version; these literal strings should never appear at all.
+- **Knowledge-cutoff residue** [judgment]: "as of my last update", "based on available information", "specific details are limited".
+- **Emojis in prose** [judgment]: none, anywhere in body prose.
+
+### Openings
+
+- **Slow openings** [machine]: hero descs and first scholar paragraphs must hit a concrete fact fast: a name, a date, a number, or a CN term. The validator flags any opening that runs more than ~3 sentences before the first concrete fact. This is the coffee test made mechanical: a person who knows the material leads with the interesting specific, not with atmosphere.
+
+### Humanizer rules NOT adopted (house-style conflicts)
+
+- **Boldface ban**: we deliberately bold CN terms and key vocabulary in prose. The tell to avoid is mechanical bold-header bullet lists ("**Performance:** …"), not bold itself.
+- **Em/en-dash rule**: superseded by our stricter rule above (budget 0, gloss-separator exception).
+- **Curly quotes**: typographic quotes are fine in a set scholarly page; not a tell here.
+- **Title case in headings**: our section heads are bilingual (CN + pinyin) with the `·` separator; the English-heading title-case rule doesn't map.
+- **Personality injection**: the humanizer's "add opinions, mess, first person" guidance is for personal essays. Our register is a scholar's notebook: confident, concrete, third person. De-AI by cutting tells and rambles, not by adding chattiness.
+
 ## When in doubt
 
 Read the paragraph aloud. If it sounds like something a person who knows the material would actually say to you over coffee, keep it. If it sounds like a smooth stranger trying to sound knowledgeable, cut.
