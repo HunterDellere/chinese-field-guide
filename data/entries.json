@@ -1,5 +1,73 @@
 [
   {
+    "path": "pages/daily/topic_shengyi.html",
+    "type": "topic",
+    "category": "daily",
+    "title": "生意 · Doing Business",
+    "desc": "Business in Chinese is literally \"the meaning of life,\" merchants are named after a fallen dynasty, and the deal closes at the dinner table.",
+    "tags": [
+      "business",
+      "commerce",
+      "daily-life",
+      "vocabulary",
+      "social"
+    ],
+    "status": "complete",
+    "pinyin": "shēngyì",
+    "updated": "2026-07-11"
+  },
+  {
+    "path": "pages/daily/topic_shuzi_xitong.html",
+    "type": "topic",
+    "category": "daily",
+    "title": "数字系统 · The Chinese Number System",
+    "desc": "Chinese numbers are built from eleven syllables and zero irregularity; the catch is that the system pivots on ten thousand, not one thousand.",
+    "tags": [
+      "numbers",
+      "daily-life",
+      "vocabulary",
+      "scale",
+      "learning"
+    ],
+    "status": "complete",
+    "pinyin": "shùzì xìtǒng",
+    "updated": "2026-07-11"
+  },
+  {
+    "path": "pages/science/topic_gongcheng.html",
+    "type": "topic",
+    "category": "science",
+    "title": "工程 · Engineering",
+    "desc": "From the carpenter's square inside 工 to the high-speed rail map, the vocabulary of a civilization that has always thought in projects.",
+    "tags": [
+      "engineering",
+      "science",
+      "technology",
+      "industry",
+      "architecture"
+    ],
+    "status": "complete",
+    "pinyin": "gōngchéng",
+    "updated": "2026-07-11"
+  },
+  {
+    "path": "pages/science/topic_shuxue.html",
+    "type": "topic",
+    "category": "science",
+    "title": "数学 · Mathematics",
+    "desc": "The vocabulary of Chinese mathematics, where calculus is \"tiny accumulation\" and geometry was named by a Ming official translating Euclid.",
+    "tags": [
+      "mathematics",
+      "science",
+      "vocabulary",
+      "geometry",
+      "learning"
+    ],
+    "status": "complete",
+    "pinyin": "shùxué",
+    "updated": "2026-07-11"
+  },
+  {
     "path": "pages/characters/bao3_饱.html",
     "type": "character",
     "category": "characters",
