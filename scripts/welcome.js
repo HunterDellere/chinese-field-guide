@@ -42,7 +42,7 @@
       glyph: "迎",
       eyebrow: "歡迎 huānyíng",
       title: "Welcome to the nook.",
-      body: "Not a flashcard app. A small reading library where each page tries to be worth slowing down for.",
+      body: "A free reference for Chinese: characters, words, grammar, and the culture behind them, with etymology and examples on every page.",
       cta: "Show me around",
     },
     {
@@ -63,9 +63,9 @@
     {
       glyph: "探",
       eyebrow: "探索 tànsuǒ",
-      title: "Wander when you want to.",
-      body: "Browse by language, topic, or curated collection. Every page links to its neighbors so you can follow your curiosity.",
-      cta: "Open the nook",
+      title: "Browse three ways.",
+      body: "Language, topics, or collections. Every page links to related entries and vocabulary, so one lookup leads to the next.",
+      cta: "Start reading",
     },
   ];
 

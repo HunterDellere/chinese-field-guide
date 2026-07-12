@@ -448,7 +448,7 @@
         // or any entry becomes unavailable.
         const sub = document.getElementById("start-here-sub");
         if (sub) {
-          sub.textContent = `${numWord(items.length)} entries that give a sense of the whole — language, philosophy, culture, food. Read in order, or wander.`;
+          sub.textContent = `${numWord(items.length)} entries that give a sense of the whole — language, philosophy, culture, food. Each one links onward.`;
         }
         items.forEach(e => {
           const li = document.createElement("li");
