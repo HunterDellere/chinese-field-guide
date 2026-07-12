@@ -19,11 +19,14 @@
 还	hái	still, also, even: the continuative adverb — One adverb, four distinct jobs, and a single thread connecting all of them: something continues past the expected boundary.
 还是 / 或者	hái shi / huò zhě	"or" in questions vs. statements — Chinese splits English "or" in two: 还是 offers a choice in a question, 或者 offers an alternative in a statement. Using the wrong one is a classic error.
 会	huì / néng / kě yǐ	能 · 可以 · the three 'can's — Learned ability vs. situational capacity vs. permission: not interchangeable.
+结果补语	jié guǒ bǔ yǔ	resultative complements — Chinese verbs describe the attempt; a second syllable reports the outcome. Listening is 听, but understanding what you heard is 听懂.
 就 vs. 才	jiù / cái	sooner vs. later — The timing and emphasis pair: speaker attitude encoded in one syllable.
 可能	kěn éng	maybe, possible — The all-purpose word for possibility, working as adverb, adjective, and noun, and how it differs from 也许, 或许, 大概, and the modal 会.
+可能补语	kěn éng bǔ yǔ	potential complements — Slide 得 or 不 inside a verb-result pair and it states ability: 听懂 is understood, 听得懂 is can understand, 听不懂 is the learner's anthem.
 来	lái / qù	去 · directional complements — 上来, 下去, 出去, 进来: the motion complement system mapped.
 了	le	the perfective particle — Perfective aspect vs. change-of-state: the single most-confused particle.
 离	lí	away from; distance — The coverb for distance and separation: the A 离 B + distance pattern for "how far", the verb sense "to leave / part from", and how 离 differs from 从 and 到 in marking space and time.
+离合词	lí hé cí	separable verbs — Words that unzip: 见面 is to meet, but meeting him is 跟他见面 and meeting once is 见一次面, because the "word" is secretly verb plus object.
 连…都/也	lián … dōu / yě	even X — The intensifier construction: raising the stakes of a claim.
 量词	liàng cí	measure words — 个, 只, 条, 本, 张: the classifier taxonomy and the logic behind it.
 吗	ma	the yes-no question particle — The simplest way to ask a question in Mandarin: add 吗 to the end of a statement. Plus how it differs from A-not-A questions and from 呢 and 吧.
@@ -47,11 +50,13 @@
 已经	yǐ jīng	already — Mandarin's 'already' adverb: how 已经 differs from English, its placement before the verb, and its relationship with 了 and 还没有.
 因为…所以	yīn wèi suǒ yǐ	because…therefore — The causal conjunction pair: 因为 states the cause and 所以 announces the result, forming a two-clause logical structure that Chinese uses more explicitly than English.
 应该	yīng gāi	the modal "should" — The modal verb for "should, ought to," covering both moral obligation and confident inference, and how it differs from 得, 要, and 必须.
+又	yòu / zài	再 · again, twice over — Chinese has two agains: 又 looks backward at a repetition that happened, 再 looks forward to one still to come. 再见 is the proof.
 与其…不如	yǔ qí bù rú	rather than … it would be better to — Comparative preference construction: the most elegant way to argue for one choice over another.
 越来越	yu è lái yu è	more and more; increasingly — The degree escalation pattern: expressing a quality that grows continuously over time.
 在	zài	location, existence, and the progressive — One of the busiest words in Mandarin: the verb "to be at," the location coverb "at/in," and the progressive marker for ongoing action.
 怎么	zěn me	how, in what way; why — The all-purpose question word for manner and reason: how to do something, what is wrong, and the surprised "how come," plus how 怎么 differs from 为什么 and 怎么样.
 者	zhě	classical nominalizer "the one who; that which" — The particle that turns a verb or adjective into a person, and that never stopped working.
 着	zhe	the continuous aspect marker — Three distinct jobs: holding a state, linking two actions, and commanding attention. All from a single particle that beginners collapse into one.
+正反问	zhèng fǎn wèn	A-not-A questions — Chinese asks yes-no questions by offering both answers: 去不去 is "going, not going?", and the pattern replaces 吗 with built-in neutrality.
 之	zhī	classical genitive, nominalizer, and pronoun — The single character that does the work of three English words (of, it, and the one who) and still shows up in modern Chinese every day.
 只有…才	zhǐ yǒu cái	only if…then; the restrictive conditional — The exclusive condition: only when X is met can Y happen. The grammatical frame for necessity.

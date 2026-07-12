@@ -32,6 +32,7 @@
 终于	zhōng yú	finally, at last — The adverb for "finally, at last," used when something long-awaited or hard-won comes to pass, where it sits in a sentence, and how it differs from 最后, 总算, and 到底.
 过	guò / guo	the experiential aspect marker — The particle that says 'I have ever done this'. Not when, not how often, just that it once happened. The most-confused pair with 了.
 还	hái	still, also, even: the continuative adverb — One adverb, four distinct jobs, and a single thread connecting all of them: something continues past the expected boundary.
+结果补语	jié guǒ bǔ yǔ	resultative complements — Chinese verbs describe the attempt; a second syllable reports the outcome. Listening is 听, but understanding what you heard is 听懂.
 就 vs. 才	jiù / cái	sooner vs. later — The timing and emphasis pair: speaker attitude encoded in one syllable.
 了	le	the perfective particle — Perfective aspect vs. change-of-state: the single most-confused particle.
 没有	méi yǒu	negation of possession and past action — The two most important negation characters, 不 and 没, and why they cannot be swapped.
@@ -39,5 +40,6 @@
 是…的	shì … de	the cleft construction — Focus and past-detail marking: the construction that trips every learner.
 一边…一边	yī biān yī biān	while doing; at the same time — Simultaneous actions: the frame for describing two things happening at once.
 一下	yí xià	the verb-softener — The verbal-quantity word that makes an action brief and casual, how verb + 一下 softens a request, and how it differs from verb reduplication and from the time-word 一会儿.
+又	yòu / zài	再 · again, twice over — Chinese has two agains: 又 looks backward at a repetition that happened, 再 looks forward to one still to come. 再见 is the proof.
 在	zài	location, existence, and the progressive — One of the busiest words in Mandarin: the verb "to be at," the location coverb "at/in," and the progressive marker for ongoing action.
 着	zhe	the continuous aspect marker — Three distinct jobs: holding a state, linking two actions, and commanding attention. All from a single particle that beginners collapse into one.
