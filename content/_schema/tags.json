@@ -298,5 +298,9 @@
   {"slug": "weather",           "label": "Weather"},
   {"slug": "winter",            "label": "Winter"},
   {"slug": "darkness",          "label": "Darkness"},
-  {"slug": "luck",              "label": "Luck"}
+  {"slug": "luck",              "label": "Luck"},
+  {"slug": "numbers",           "label": "Numbers"},
+  {"slug": "mathematics",       "label": "Mathematics"},
+  {"slug": "engineering",       "label": "Engineering"},
+  {"slug": "business",          "label": "Business"}
 ]

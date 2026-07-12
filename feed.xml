@@ -6,7 +6,39 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A reading nook for Chinese language and civilisation. Characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Jun 2026 04:42:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 01:51:11 GMT</lastBuildDate>
+    <item>
+      <title>生意 · Doing Business</title>
+      <link>https://jiaoshoo.com/pages/daily/topic_shengyi.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/daily/topic_shengyi.html</guid>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+      <description>Business in Chinese is literally &quot;the meaning of life,&quot; merchants are named after a fallen dynasty, and the deal closes at the dinner table.</description>
+      <category>daily</category>
+    </item>
+    <item>
+      <title>数字系统 · The Chinese Number System</title>
+      <link>https://jiaoshoo.com/pages/daily/topic_shuzi_xitong.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/daily/topic_shuzi_xitong.html</guid>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+      <description>Chinese numbers are built from eleven syllables and zero irregularity; the catch is that the system pivots on ten thousand, not one thousand.</description>
+      <category>daily</category>
+    </item>
+    <item>
+      <title>工程 · Engineering</title>
+      <link>https://jiaoshoo.com/pages/science/topic_gongcheng.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/science/topic_gongcheng.html</guid>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+      <description>From the carpenter&apos;s square inside 工 to the high-speed rail map, the vocabulary of a civilization that has always thought in projects.</description>
+      <category>science</category>
+    </item>
+    <item>
+      <title>数学 · Mathematics</title>
+      <link>https://jiaoshoo.com/pages/science/topic_shuxue.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/science/topic_shuxue.html</guid>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+      <description>The vocabulary of Chinese mathematics, where calculus is &quot;tiny accumulation&quot; and geometry was named by a Ming official translating Euclid.</description>
+      <category>science</category>
+    </item>
     <item>
       <title>饱 · full, satisfied, to eat one&apos;s fill</title>
       <link>https://jiaoshoo.com/pages/characters/bao3_饱.html</link>
@@ -213,38 +245,6 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/hai4_害.html</guid>
       <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
       <description>Under the roof a mouth and a blade build the sense of injury done; the same glyph also means to fear, as in 害怕.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>喝 · to drink; (hè) to shout, to cry out</title>
-      <link>https://jiaoshoo.com/pages/characters/he1_喝.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/he1_喝.html</guid>
-      <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
-      <description>A mouth radical paired with the phonetic 曷, splitting cleanly into the everyday hē you drink with and the older hè you shout with.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>河 · river, the Yellow River</title>
-      <link>https://jiaoshoo.com/pages/characters/he2_河.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/he2_河.html</guid>
-      <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
-      <description>河 began as the personal name of one river, the Yellow River, before it widened to mean any river at all.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>湖 · lake, the provinces around Dongting</title>
-      <link>https://jiaoshoo.com/pages/characters/hu2_湖.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/hu2_湖.html</guid>
-      <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
-      <description>A water radical against the phonetic 胡, naming every still inland water from West Lake to the jianghu of wandering swordsmen.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>坏 · bad, rotten, spoiled; to break down</title>
-      <link>https://jiaoshoo.com/pages/characters/huai4_坏.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/huai4_坏.html</guid>
-      <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
-      <description>A picto-phonetic built from 土 earth and 不 not: spoiled soil that yields nothing, extended to anything gone bad or broken.</description>
       <category>characters</category>
     </item>
   </channel>

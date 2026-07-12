@@ -1,5 +1,73 @@
 [
   {
+    "path": "pages/daily/topic_shengyi.html",
+    "type": "topic",
+    "category": "daily",
+    "title": "生意 · Doing Business",
+    "desc": "Business in Chinese is literally \"the meaning of life,\" merchants are named after a fallen dynasty, and the deal closes at the dinner table.",
+    "tags": [
+      "business",
+      "commerce",
+      "daily-life",
+      "vocabulary",
+      "social"
+    ],
+    "status": "complete",
+    "pinyin": "shēngyì",
+    "updated": "2026-07-11"
+  },
+  {
+    "path": "pages/daily/topic_shuzi_xitong.html",
+    "type": "topic",
+    "category": "daily",
+    "title": "数字系统 · The Chinese Number System",
+    "desc": "Chinese numbers are built from eleven syllables and zero irregularity; the catch is that the system pivots on ten thousand, not one thousand.",
+    "tags": [
+      "numbers",
+      "daily-life",
+      "vocabulary",
+      "scale",
+      "learning"
+    ],
+    "status": "complete",
+    "pinyin": "shùzì xìtǒng",
+    "updated": "2026-07-11"
+  },
+  {
+    "path": "pages/science/topic_gongcheng.html",
+    "type": "topic",
+    "category": "science",
+    "title": "工程 · Engineering",
+    "desc": "From the carpenter's square inside 工 to the high-speed rail map, the vocabulary of a civilization that has always thought in projects.",
+    "tags": [
+      "engineering",
+      "science",
+      "technology",
+      "industry",
+      "architecture"
+    ],
+    "status": "complete",
+    "pinyin": "gōngchéng",
+    "updated": "2026-07-11"
+  },
+  {
+    "path": "pages/science/topic_shuxue.html",
+    "type": "topic",
+    "category": "science",
+    "title": "数学 · Mathematics",
+    "desc": "The vocabulary of Chinese mathematics, where calculus is \"tiny accumulation\" and geometry was named by a Ming official translating Euclid.",
+    "tags": [
+      "mathematics",
+      "science",
+      "vocabulary",
+      "geometry",
+      "learning"
+    ],
+    "status": "complete",
+    "pinyin": "shùxué",
+    "updated": "2026-07-11"
+  },
+  {
     "path": "pages/characters/bao3_饱.html",
     "type": "character",
     "category": "characters",
@@ -310,83 +378,6 @@
     "tone": 1,
     "hsk": 1,
     "radical": "飞",
-    "updated": "2026-06-28"
-  },
-  {
-    "path": "pages/characters/feng1_封.html",
-    "type": "character",
-    "category": "characters",
-    "title": "封 · to seal, envelope, to confer (a fief)",
-    "desc": "A handful of earth heaped over a boundary mound, sealed by hand: 封 ties envelopes, granaries, and feudal grants to the same gesture of closing something off.",
-    "tags": [
-      "communication",
-      "society",
-      "writing",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "封",
-    "pinyin": "fēng",
-    "tone": 1,
-    "hsk": 2,
-    "radical": "寸",
-    "updated": "2026-06-28"
-  },
-  {
-    "path": "pages/characters/fu4_富.html",
-    "type": "character",
-    "category": "characters",
-    "title": "富 · rich, wealthy, abundant, to enrich",
-    "desc": "A full wine jar tucked under a roof: the picture of a household storehouse packed to its rafters with plenty.",
-    "tags": [
-      "society",
-      "daily-life",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "富",
-    "pinyin": "fù",
-    "tone": 4,
-    "hsk": 3,
-    "radical": "宀",
-    "updated": "2026-06-28"
-  },
-  {
-    "path": "pages/characters/fu4_父.html",
-    "type": "character",
-    "category": "characters",
-    "title": "父 · father, male elder, household head",
-    "desc": "A hand gripping a stone axe: the tool of the one who heads the household, drawn as the figure of the father himself.",
-    "tags": [
-      "family",
-      "humanity",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "父",
-    "pinyin": "fù",
-    "tone": 4,
-    "hsk": 3,
-    "radical": "父",
-    "updated": "2026-06-28"
-  },
-  {
-    "path": "pages/characters/gai3_改.html",
-    "type": "character",
-    "category": "characters",
-    "title": "改 · to alter, to change, to correct, to reform",
-    "desc": "A hand raises a stick over a kneeling child: 改 is change enforced by correction, not drift, which is why it leans toward fixing what is wrong.",
-    "tags": [
-      "society",
-      "communication",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "改",
-    "pinyin": "gǎi",
-    "tone": 3,
-    "hsk": 2,
-    "radical": "攵",
     "updated": "2026-06-28"
   }
 ]
