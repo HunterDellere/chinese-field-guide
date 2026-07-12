@@ -40,6 +40,128 @@ function toneFromPinyin(py) {
   return 5; // neutral
 }
 
+// ── AI-tell patterns (see templates/_drafting/VOICE.md → "AI tells") ────────
+// All WARN-level: surfaced on the admin dashboard, never block the build.
+// Patterns are tuned against the live corpus — keep them phrase-level to
+// avoid flagging legitimate scholarly prose (e.g. past-tense "served as
+// capital" is normal historical English and is NOT matched).
+
+const AI_TELL_CHECKS = [
+  {
+    key: 'significance-inflation',
+    label: 'significance inflation',
+    patterns: [
+      /\btestament to\b/gi,
+      /\btapestry\b/gi,
+      /\b(?:cultural|political|religious|linguistic|literary|social|intellectual|culinary|spiritual|economic|philosophical) landscape\b/gi,
+      /\bshowcas(?:es|ing|ed)?\b/gi,
+      /\bboast(?:s|ing|ed)? (?:a|an|the|over|more)\b/gi,
+      /\bvibrant\b/gi,
+      /\bpivotal\b/gi,
+      /\b(?:crucial|vital) role\b/gi,
+      /\bdelv(?:e|es|ing|ed)\b/gi,
+    ],
+  },
+  {
+    key: 'copula-avoidance',
+    label: 'copula avoidance',
+    patterns: [
+      /\bserves as\b/gi,
+      /\bstands as\b/gi,
+      /\bfunctions as\b/gi,
+    ],
+  },
+  {
+    key: 'vague-attribution',
+    label: 'vague attribution',
+    patterns: [
+      /\bexperts (?:say|argue|believe|agree)\b/gi,
+      /\bscholars (?:say|argue|believe|agree)\b/gi,
+      /\bmany (?:believe|argue|scholars)\b/gi,
+      /\bsome (?:critics|observers) (?:say|argue|believe)\b/gi,
+      /\bobservers have\b/gi,
+      /\bit is (?:widely )?believed that\b/gi,
+    ],
+  },
+  {
+    key: 'signposting',
+    label: 'signposting',
+    patterns: [
+      /\bit(?:['’]s| is) worth noting\b/gi,
+      /\bit is important to (?:note|remember)\b/gi,
+      /\bworth mentioning\b/gi,
+      /\bimportantly,/gi,
+      /\blet(?:['’]s| us) (?:dive|explore|break)\b/gi,
+      /\bhere(?:['’]s| is) what you need to know\b/gi,
+    ],
+  },
+  {
+    key: 'chatbot-closers',
+    label: 'chatbot closer',
+    patterns: [
+      /\bI hope this helps\b/gi,
+      /\blet me know if\b/gi,
+      /\bwould you like me to\b/gi,
+      /\bin conclusion\b/gi,
+      /\bexciting times\b/gi,
+      /\bthe future looks bright\b/gi,
+      /\bmemories to last a lifetime\b/gi,
+    ],
+  },
+];
+
+// False ranges: decorative "from X to Y" clichés. Plain "from X to Y" is
+// pervasive legitimate prose in this corpus (semantic-extension ranges are a
+// deliberate house pattern: "from the literal square to the cardinal
+// directions"), so only two high-precision shapes are flagged:
+//   1. "everything/anything/ranging from X to Y" — the classic sweep cliché
+//   2. Two or more "from … to …" spans stacked in one sentence — the
+//      rhetorical double-range ("from X to Y, from A to B")
+function findFalseRanges(text) {
+  const hits = [];
+  const sweepRe = /\b(?:everything|anything|ranging) from [^.。!?]{3,60}? to [^.。!?,;]{3,60}/gi;
+  let m;
+  while ((m = sweepRe.exec(text)) !== null) {
+    if (!/\d/.test(m[0]) && !/[一-鿿]/.test(m[0])) hits.push(m[0].trim());
+  }
+  for (const sentence of text.split(/(?<=[.!?。])\s+/)) {
+    if (/\d/.test(sentence) || /[一-鿿]/.test(sentence)) continue;
+    const pairs = sentence.match(/\bfrom (?:the )?[a-z][a-z'’ -]{3,50}? to (?:the )?[a-z]/gi) || [];
+    if (pairs.length >= 2) hits.push(sentence.trim().slice(0, 90));
+  }
+  return hits;
+}
+
+// ── slow-opening check helpers ───────────────────────────────────────────────
+
+const PINYIN_DIACRITIC_RE = /[āáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜĀÁǍÀĒÉĚÈĪÍǏÌŌÓǑÒŪÚǓÙ]/;
+
+function sentenceHasConcreteFact(sentence) {
+  if (/\d/.test(sentence)) return true;                       // date or number
+  if (/[一-鿿]/.test(sentence)) return true;          // CN term
+  if (PINYIN_DIACRITIC_RE.test(sentence)) return true;        // toned pinyin
+  // A capitalized word that isn't sentence-initial → proper name
+  const tokens = sentence.trim().split(/\s+/);
+  if (tokens.slice(1).some(t => /^[A-Z][a-z]/.test(t.replace(/^["'“‘(]+/, '')))) return true;
+  // Sentence-initial proper noun: possessive ("China's …") or a capitalized
+  // pair ("Han Dynasty …"). Plain initial caps are ambiguous and don't count.
+  const first = (tokens[0] || '').replace(/^["'“‘(]+/, '');
+  return /^[A-Z][a-z]+[’']s$/.test(first);
+}
+
+function splitSentences(text) {
+  return text.split(/(?<=[.!?])\s+/).map(s => s.trim()).filter(Boolean);
+}
+
+// Extract the visible text of the first <p> inside the first .scholar block.
+// (.scholar contains a nested .scholar-label div, so match forward to the
+// first <p> rather than trying to balance closing tags.)
+function firstScholarParagraph(src) {
+  const m = src.match(/<div class="scholar[^"]*"[^>]*>[\s\S]{0,600}?<p[^>]*>([\s\S]*?)<\/p>/);
+  if (!m) return null;
+  return m[1].replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim();
+}
+
 // ── file walkers ─────────────────────────────────────────────────────────────
 
 function walkPages(dir) {
@@ -198,6 +320,56 @@ for (const pageFull of walkPages(PAGES)) {
     emit('INFO', relFile,
       `${missingPinyinCount} vocab card${missingPinyinCount > 1 ? 's' : ''} contain Chinese text but no pinyin span (.card-py)`,
       { fix: 'Add <span class="card-py">…</span> to each card entry' });
+  }
+
+  // ── 8. AI-tell word patterns (WARN) ──────────────────────────────────────
+  // Scan English prose only: bodyForCount has frontmatter, code, comments,
+  // gloss spans, Chinese example text, and all HTML tags/attributes stripped.
+  // Also scan the frontmatter desc/metaDesc, which surface on cards and SERPs.
+  const proseWithDesc = [fm.desc, fm.metaDesc, bodyForCount]
+    .filter(v => typeof v === 'string').join('\n');
+  for (const check of AI_TELL_CHECKS) {
+    const matched = new Map(); // lowercased phrase → count
+    for (const re of check.patterns) {
+      re.lastIndex = 0;
+      let m;
+      while ((m = re.exec(proseWithDesc)) !== null) {
+        const key = m[0].toLowerCase().replace(/\s+/g, ' ').trim();
+        matched.set(key, (matched.get(key) || 0) + 1);
+      }
+    }
+    if (matched.size > 0) {
+      const total = [...matched.values()].reduce((a, b) => a + b, 0);
+      const list = [...matched.keys()].slice(0, 6).join('", "');
+      emit('WARN', relFile,
+        `AI tell (${check.label}): ${total}× — "${list}"`,
+        { fix: 'Rewrite per VOICE.md "AI tells": state the plain fact; cut the inflation/hedge/signpost.' });
+    }
+  }
+
+  // False ranges get their own pass (custom exclusion logic).
+  const ranges = findFalseRanges(proseWithDesc);
+  if (ranges.length > 0) {
+    emit('WARN', relFile,
+      `AI tell (false range): ${ranges.length}× — "${ranges.slice(0, 4).join('", "')}"`,
+      { fix: 'Decorative "from X to Y" spans — replace with the concrete list or claim (VOICE.md "AI tells").' });
+  }
+
+  // ── 9. Slow opening (WARN) ───────────────────────────────────────────────
+  // The first scholar paragraph should hit a concrete fact (name, date,
+  // number, or CN term) within its first 3 sentences. Ramble openings fail
+  // the coffee test and read as AI atmosphere.
+  const opening = firstScholarParagraph(src);
+  if (opening) {
+    const sentences = splitSentences(opening);
+    if (sentences.length > 3) {
+      const lead = sentences.slice(0, 3);
+      if (!lead.some(sentenceHasConcreteFact)) {
+        emit('WARN', relFile,
+          `slow opening: first scholar paragraph has no concrete fact (name, date, number, or CN term) in its first 3 sentences`,
+          { fix: 'Rewrite the opening to lead with the interesting specific (VOICE.md "Openings" / coffee test).' });
+      }
+    }
   }
 }
 

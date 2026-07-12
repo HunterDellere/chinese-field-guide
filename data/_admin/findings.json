@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-12T04:59:26.803Z",
+  "generated": "2026-07-12T06:17:04.817Z",
   "summary": {
     "errors": 0,
-    "warnings": 2,
+    "warnings": 197,
     "info": 1295
   },
   "findings": [
@@ -92,11 +92,25 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/arts/topic_guqin.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/arts/topic_jingju_roles.md",
       "msg": "2 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/arts/topic_jingju_roles.md",
+      "msg": "AI tell (copula avoidance): 1× — \"serves as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -113,11 +127,32 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/arts/topic_luxun.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/arts/topic_luxun.md",
+      "msg": "AI tell (vague attribution): 1× — \"many scholars\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/arts/topic_sanguoyanyi.md",
       "msg": "3 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/arts/topic_sanguoyanyi.md",
+      "msg": "AI tell (copula avoidance): 1× — \"stands as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -127,6 +162,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/arts/topic_shijing.md",
+      "msg": "AI tell (vague attribution): 2× — \"scholars believe\", \"many scholars\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/arts/topic_shufa.md",
@@ -134,11 +176,39 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/arts/topic_shufa_styles.md",
+      "msg": "AI tell (copula avoidance): 1× — \"serves as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/arts/topic_shuihuzhuan.md",
       "msg": "2 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/arts/topic_shuihuzhuan.md",
+      "msg": "AI tell (significance inflation): 1× — \"tapestry\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/arts/topic_shuihuzhuan.md",
+      "msg": "AI tell (copula avoidance): 1× — \"stands as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/arts/topic_shuihuzhuan.md",
+      "msg": "AI tell (false range): 1× — \"everything from sworn brotherhoods and secret societies to the modern conventions of gangster and martial-arts fiction\"",
+      "fix": "Decorative \"from X to Y\" spans — replace with the concrete list or claim (VOICE.md \"AI tells\")."
     },
     {
       "level": "INFO",
@@ -155,6 +225,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/arts/topic_songci.md",
+      "msg": "AI tell (false range): 1× — \"The poem ends: \"Human life is like a dream; let me pour a libation to the river and the mo\"",
+      "fix": "Decorative \"from X to Y\" spans — replace with the concrete list or claim (VOICE.md \"AI tells\")."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/arts/topic_tangshi.md",
@@ -167,6 +244,13 @@
       "file": "content/arts/topic_wenfangsibao.md",
       "msg": "6 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/arts/topic_wenfangsibao.md",
+      "msg": "AI tell (significance inflation): 1× — \"vibrant\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -197,11 +281,39 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/ba1_八.md",
+      "msg": "AI tell (copula avoidance): 1× — \"serves as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/bai2_白.md",
+      "msg": "AI tell (copula avoidance): 1× — \"serves as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/bai2_白.md",
+      "msg": "AI tell (false range): 1× — \"ranging from three months to three years depending on the closeness of kinship to the dec\"",
+      "fix": "Decorative \"from X to Y\" spans — replace with the concrete list or claim (VOICE.md \"AI tells\")."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/bai3_百.md",
       "msg": "5 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/bai3_百.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -246,6 +358,20 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/bi4_必.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/bi4_必.md",
+      "msg": "AI tell (false range): 1× — \"everything from obligation (\"you must\") to prediction (\"it will definitely\")\"",
+      "fix": "Decorative \"from X to Y\" spans — replace with the concrete list or claim (VOICE.md \"AI tells\")."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/bian4_变.md",
@@ -281,6 +407,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/bu4_部.md",
+      "msg": "AI tell (copula avoidance): 1× — \"serves as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/cai2_才.md",
@@ -295,6 +428,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/cai4_菜.md",
+      "msg": "AI tell (signposting): 1× — \"worth mentioning\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/cao3_草.md",
@@ -307,6 +447,13 @@
       "file": "content/characters/cha2_茶.md",
       "msg": "7 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/cha2_茶.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -379,6 +526,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/chu1_出.md",
+      "msg": "AI tell (false range): 1× — \"everything from a rainbow appearing after rain to a new problem appearing in a system\"",
+      "fix": "Decorative \"from X to Y\" spans — replace with the concrete list or claim (VOICE.md \"AI tells\")."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/chuan1_穿.md",
@@ -398,6 +552,13 @@
       "file": "content/characters/chuan2_船.md",
       "msg": "7 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/chuan2_船.md",
+      "msg": "AI tell (false range): 1× — \"everything from a small racing dinghy to the old treasure ships\"",
+      "fix": "Decorative \"from X to Y\" spans — replace with the concrete list or claim (VOICE.md \"AI tells\")."
     },
     {
       "level": "INFO",
@@ -426,6 +587,13 @@
       "file": "content/characters/da3_打.md",
       "msg": "1 vocab card contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/da3_打.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -463,11 +631,25 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/dao4_到.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/dao4_道.md",
       "msg": "17 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/dao4_道.md",
+      "msg": "AI tell (false range): 1× — \"everything from political speeches to personal memoir\"",
+      "fix": "Decorative \"from X to Y\" spans — replace with the concrete list or claim (VOICE.md \"AI tells\")."
     },
     {
       "level": "INFO",
@@ -482,6 +664,13 @@
       "file": "content/characters/deng1_灯.md",
       "msg": "10 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/deng1_灯.md",
+      "msg": "AI tell (false range): 1× — \"everything from oil lamps to the red light that stops traffic\"",
+      "fix": "Decorative \"from X to Y\" spans — replace with the concrete list or claim (VOICE.md \"AI tells\")."
     },
     {
       "level": "INFO",
@@ -503,6 +692,13 @@
       "file": "content/characters/di4_第.md",
       "msg": "8 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/di4_第.md",
+      "msg": "AI tell (copula avoidance): 1× — \"serves as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -575,6 +771,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/dui4_队.md",
+      "msg": "AI tell (copula avoidance): 1× — \"serves as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/duo1_多.md",
@@ -601,6 +804,13 @@
       "file": "content/characters/er4_二.md",
       "msg": "7 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/er4_二.md",
+      "msg": "AI tell (copula avoidance): 1× — \"serves as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -708,6 +918,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/gan3_感.md",
+      "msg": "AI tell (copula avoidance): 2× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/gao1_高.md",
@@ -720,6 +937,13 @@
       "file": "content/characters/gao4_告.md",
       "msg": "22 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/gao4_告.md",
+      "msg": "AI tell (false range): 1× — \"everything from traffic signs to diplomatic warnings\"",
+      "fix": "Decorative \"from X to Y\" spans — replace with the concrete list or claim (VOICE.md \"AI tells\")."
     },
     {
       "level": "INFO",
@@ -748,6 +972,13 @@
       "file": "content/characters/geng4_更.md",
       "msg": "8 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/geng4_更.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -792,6 +1023,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/guan1_关.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/guan1_观.md",
@@ -818,6 +1056,13 @@
       "file": "content/characters/gui3_鬼.md",
       "msg": "6 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/gui3_鬼.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -862,6 +1107,20 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/hao3_好.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/hao3_好.md",
+      "msg": "AI tell (false range): 1× — \"everything from casual \"okay\" to formal \"excellent\"",
+      "fix": "Decorative \"from X to Y\" spans — replace with the concrete list or claim (VOICE.md \"AI tells\")."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/he1_喝.md",
@@ -874,6 +1133,13 @@
       "file": "content/characters/he2_合.md",
       "msg": "10 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/he2_和.md",
+      "msg": "AI tell (copula avoidance): 1× — \"serves as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -909,6 +1175,13 @@
       "file": "content/characters/hou4_后.md",
       "msg": "12 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/hou4_后.md",
+      "msg": "AI tell (copula avoidance): 2× — \"serves as\", \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -1037,6 +1310,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/jian1_间.md",
+      "msg": "AI tell (copula avoidance): 1× — \"serves as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/jian3_简.md",
@@ -1049,6 +1329,20 @@
       "file": "content/characters/jian4_件.md",
       "msg": "9 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/jian4_见.md",
+      "msg": "AI tell (copula avoidance): 1× — \"serves as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/jian4_见.md",
+      "msg": "AI tell (false range): 1× — \"everything from the corner shop to a state visit\"",
+      "fix": "Decorative \"from X to Y\" spans — replace with the concrete list or claim (VOICE.md \"AI tells\")."
     },
     {
       "level": "INFO",
@@ -1135,11 +1429,25 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/jin3_紧.md",
+      "msg": "AI tell (significance inflation): 2× — \"pivotal\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/jin4_近.md",
       "msg": "8 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/jin4_近.md",
+      "msg": "AI tell (copula avoidance): 2× — \"serves as\", \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -1198,6 +1506,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/ke3_可.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/kou3_口.md",
@@ -1226,6 +1541,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/kuai4_快.md",
+      "msg": "AI tell (copula avoidance): 2× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/kun4_困.md",
@@ -1240,11 +1562,25 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/lai2_来.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/lao3_老.md",
       "msg": "4 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/lao3_老.md",
+      "msg": "AI tell (copula avoidance): 1× — \"serves as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -1289,6 +1625,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/li3_里.md",
+      "msg": "AI tell (copula avoidance): 2× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/li4_力.md",
@@ -1331,11 +1674,25 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/liang3_两.md",
+      "msg": "AI tell (copula avoidance): 2× — \"serves as\", \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/liang4_量.md",
       "msg": "10 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/liang4_量.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -1357,6 +1714,13 @@
       "file": "content/characters/long2_龙.md",
       "msg": "9 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/long2_龙.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -1387,6 +1751,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/ma3_马.md",
+      "msg": "AI tell (copula avoidance): 1× — \"stands as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/man4_慢.md",
@@ -1408,6 +1779,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/men2_门.md",
+      "msg": "AI tell (copula avoidance): 1× — \"serves as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/mian4_面.md",
@@ -1422,11 +1800,25 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/min2_民.md",
+      "msg": "AI tell (copula avoidance): 1× — \"serves as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/ming2_名.md",
       "msg": "7 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/ming2_名.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -1492,6 +1884,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/pao3_跑.md",
+      "msg": "AI tell (false range): 1× — \"everything from a casual neighborhood jog to marathon training\"",
+      "fix": "Decorative \"from X to Y\" spans — replace with the concrete list or claim (VOICE.md \"AI tells\")."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/peng2_朋.md",
@@ -1511,6 +1910,13 @@
       "file": "content/characters/pin3_品.md",
       "msg": "16 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/pin3_品.md",
+      "msg": "AI tell (false range): 1× — \"everything from commodity grades to human virtue\"",
+      "fix": "Decorative \"from X to Y\" spans — replace with the concrete list or claim (VOICE.md \"AI tells\")."
     },
     {
       "level": "INFO",
@@ -1553,6 +1959,13 @@
       "file": "content/characters/qian2_前.md",
       "msg": "11 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/qian2_前.md",
+      "msg": "AI tell (copula avoidance): 1× — \"serves as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -1604,6 +2017,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/ren2_人.md",
+      "msg": "AI tell (copula avoidance): 2× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/ren2_仁.md",
@@ -1639,6 +2059,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/rou4_肉.md",
+      "msg": "slow opening: first scholar paragraph has no concrete fact (name, date, number, or CN term) in its first 3 sentences",
+      "fix": "Rewrite the opening to lead with the interesting specific (VOICE.md \"Openings\" / coffee test)."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/ru2_如.md",
@@ -1651,6 +2078,13 @@
       "file": "content/characters/san1_三.md",
       "msg": "7 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/san1_三.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -1674,11 +2108,25 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/shan4_善.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/shang4_上.md",
       "msg": "10 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/shang4_上.md",
+      "msg": "AI tell (false range): 1× — \"everything from logging on to getting addicted\"",
+      "fix": "Decorative \"from X to Y\" spans — replace with the concrete list or claim (VOICE.md \"AI tells\")."
     },
     {
       "level": "INFO",
@@ -1716,6 +2164,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/shi2_十.md",
+      "msg": "AI tell (copula avoidance): 2× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/shi2_实.md",
@@ -1751,6 +2206,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/shi4_是.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/shou3_手.md",
@@ -1763,6 +2225,13 @@
       "file": "content/characters/shou3_首.md",
       "msg": "11 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/shou3_首.md",
+      "msg": "AI tell (copula avoidance): 1× — \"serves as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -1793,6 +2262,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/si3_死.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/si4_四.md",
@@ -1805,6 +2281,13 @@
       "file": "content/characters/song4_送.md",
       "msg": "9 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/ta1_他.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -1856,6 +2339,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/tong1_通.md",
+      "msg": "AI tell (copula avoidance): 1× — \"serves as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/tong2_同.md",
@@ -1868,6 +2358,13 @@
       "file": "content/characters/tou2_头.md",
       "msg": "9 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/tou2_头.md",
+      "msg": "AI tell (copula avoidance): 2× — \"serves as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -1898,6 +2395,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/wan4_万.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/wang4_望.md",
@@ -1919,6 +2423,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/wei2_为.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/wen2_文.md",
@@ -1931,6 +2442,13 @@
       "file": "content/characters/wen4_问.md",
       "msg": "9 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/wo3_我.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -1952,6 +2470,13 @@
       "file": "content/characters/wu3_武.md",
       "msg": "9 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/wu3_武.md",
+      "msg": "AI tell (copula avoidance): 1× — \"stands as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -1989,6 +2514,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/xia4_下.md",
+      "msg": "AI tell (false range): 1× — \"everything from going downstairs to issuing imperial decrees\"",
+      "fix": "Decorative \"from X to Y\" spans — replace with the concrete list or claim (VOICE.md \"AI tells\")."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/xian4_现.md",
@@ -2017,6 +2549,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/xiang3_想.md",
+      "msg": "AI tell (copula avoidance): 3× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/xiang4_向.md",
@@ -2036,6 +2575,13 @@
       "file": "content/characters/xiao4_笑.md",
       "msg": "5 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/xie3_写.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -2094,6 +2640,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/xue2_学.md",
+      "msg": "AI tell (copula avoidance): 2× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/xue3_雪.md",
@@ -2108,11 +2661,25 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/yan2_言.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/yan3_眼.md",
       "msg": "12 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/yan3_眼.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -2134,6 +2701,13 @@
       "file": "content/characters/yao4_要.md",
       "msg": "7 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/yao4_要.md",
+      "msg": "AI tell (signposting): 1× — \"importantly,\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -2213,6 +2787,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/you3_有.md",
+      "msg": "AI tell (copula avoidance): 2× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/you4_右.md",
@@ -2234,11 +2815,25 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/yu3_语.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/yu4_玉.md",
       "msg": "7 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/yu4_玉.md",
+      "msg": "AI tell (copula avoidance): 1× — \"serves as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -2262,6 +2857,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/yue4_越.md",
+      "msg": "AI tell (copula avoidance): 2× — \"serves as\", \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/zai4_再.md",
@@ -2269,11 +2871,25 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/zai4_再.md",
+      "msg": "AI tell (false range): 1× — \"anything from genuine postponement to polite avoidance\"",
+      "fix": "Decorative \"from X to Y\" spans — replace with the concrete list or claim (VOICE.md \"AI tells\")."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/zai4_在.md",
       "msg": "5 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/zai4_在.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -2302,6 +2918,13 @@
       "file": "content/characters/zhi1_之.md",
       "msg": "16 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/zhi1_之.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -2360,6 +2983,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/characters/zou3_走.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/zu2_足.md",
@@ -2386,6 +3016,13 @@
       "file": "content/chengyu/banmenmennong_班门弄斧.md",
       "msg": "2 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/chengyu/banmenmennong_班门弄斧.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -2437,6 +3074,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/chengyu/qingchulanlan_青出于蓝.md",
+      "msg": "AI tell (false range): 1× — \"The movement is from inside to outside, from contained to expressed.\"",
+      "fix": "Decorative \"from X to Y\" spans — replace with the concrete list or claim (VOICE.md \"AI tells\")."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/chengyu/renshanshuixiu_山清水秀.md",
@@ -2451,6 +3095,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/chengyu/saiwengshima_塞翁失马.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/chengyu/sanyicheng_三人成虎.md",
@@ -2463,6 +3114,13 @@
       "file": "content/chengyu/shiyuansuowei_事与愿违.md",
       "msg": "4 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/chengyu/shiyuansuowei_事与愿违.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -2486,6 +3144,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/chengyu/wanzhangaolou_万丈高楼.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/chengyu/wuruqitu_误入歧途.md",
@@ -2505,6 +3170,13 @@
       "file": "content/chengyu/yimaobuba_一毛不拔.md",
       "msg": "4 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/chengyu/yimaobuba_一毛不拔.md",
+      "msg": "AI tell (copula avoidance): 2× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -2528,11 +3200,25 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/chengyu/yushijujin_与时俱进.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/culinary/topic_baicha.md",
       "msg": "3 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/culinary/topic_baicha.md",
+      "msg": "AI tell (false range): 1× — \"The flavor shifts from fresh and floral to warm, honeyed, woody, and slightly medicinal; t\"",
+      "fix": "Decorative \"from X to Y\" spans — replace with the concrete list or claim (VOICE.md \"AI tells\")."
     },
     {
       "level": "INFO",
@@ -2542,6 +3228,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/culinary/topic_caixi.md",
+      "msg": "AI tell (false range): 1× — \"everything from tropical fruits to freshwater fish to Cantonese-tradition roast meats\"",
+      "fix": "Decorative \"from X to Y\" spans — replace with the concrete list or claim (VOICE.md \"AI tells\")."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/culinary/topic_cha.md",
@@ -2549,11 +3242,25 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/culinary/topic_doufu.md",
+      "msg": "AI tell (copula avoidance): 1× — \"serves as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/culinary/topic_heisha.md",
       "msg": "2 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/culinary/topic_heisha.md",
+      "msg": "AI tell (copula avoidance): 1× — \"serves as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -2568,6 +3275,13 @@
       "file": "content/culinary/topic_huangcha.md",
       "msg": "3 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/culinary/topic_huangcha.md",
+      "msg": "AI tell (false range): 1× — \"ranging from a few hours (for high-grade needle teas) to several days (for larger-leaf yellow teas)\"",
+      "fix": "Decorative \"from X to Y\" spans — replace with the concrete list or claim (VOICE.md \"AI tells\")."
     },
     {
       "level": "INFO",
@@ -2598,6 +3312,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/culture/topic_cha_wenhua.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/culture/topic_chunjie.md",
@@ -2626,6 +3347,20 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/culture/topic_taiji.md",
+      "msg": "AI tell (significance inflation): 1× — \"pivotal\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/culture/topic_taiji.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/culture/topic_zhongjiu.md",
@@ -2633,11 +3368,25 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/culture/topic_zhongjiu.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/culture/topic_zhongyuan.md",
       "msg": "8 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/culture/topic_zhongyuan.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -2654,11 +3403,25 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/daily/topic_chifan.md",
+      "msg": "AI tell (copula avoidance): 2× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/daily/topic_diannao_wangluo.md",
       "msg": "6 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/daily/topic_diannao_wangluo.md",
+      "msg": "AI tell (false range): 1× — \"everything from lipstick to excavators)\"",
+      "fix": "Decorative \"from X to Y\" spans — replace with the concrete list or claim (VOICE.md \"AI tells\")."
     },
     {
       "level": "INFO",
@@ -2682,6 +3445,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/daily/topic_jiating.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/daily/topic_jingjiu.md",
@@ -2689,11 +3459,25 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/daily/topic_jingjiu.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/daily/topic_kanbing.md",
       "msg": "6 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/daily/topic_kanbing.md",
+      "msg": "AI tell (false range): 1× — \"everything from a headache to heartbreak and is also the polite formula for calling in sic\"",
+      "fix": "Decorative \"from X to Y\" spans — replace with the concrete list or claim (VOICE.md \"AI tells\")."
     },
     {
       "level": "INFO",
@@ -2724,6 +3508,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/daily/topic_mixin.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/daily/topic_qingke.md",
@@ -2743,6 +3534,13 @@
       "file": "content/daily/topic_shuzi.md",
       "msg": "6 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/daily/topic_shuzi.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -2792,6 +3590,13 @@
       "file": "content/geography/topic_caixi_geography.md",
       "msg": "6 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/geography/topic_caixi_geography.md",
+      "msg": "AI tell (significance inflation): 1× — \"pivotal\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -2920,6 +3725,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/grammar/dehua_的话.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/grammar/directional_来去.md",
@@ -3018,6 +3830,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/grammar/keneng_可能.md",
+      "msg": "AI tell (copula avoidance): 1× — \"serves as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/grammar/kenengbuyu_可能补语.md",
@@ -3030,6 +3849,13 @@
       "file": "content/grammar/le_了.md",
       "msg": "16 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/grammar/le_了.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -3046,11 +3872,25 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/grammar/lian_dou_连都.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/grammar/liangci_量词.md",
       "msg": "12 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/grammar/liangci_量词.md",
+      "msg": "AI tell (copula avoidance): 1× — \"serves as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -3081,6 +3921,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/grammar/nai_乃.md",
+      "msg": "AI tell (copula avoidance): 2× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/grammar/qilai_起来.md",
@@ -3095,11 +3942,25 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/grammar/rang_让.md",
+      "msg": "AI tell (significance inflation): 1× — \"pivotal\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/grammar/ruguo_ji_如果就.md",
       "msg": "1 vocab card contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/grammar/ruguo_ji_如果就.md",
+      "msg": "AI tell (signposting): 1× — \"importantly,\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -3200,6 +4061,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/grammar/yuelaiyue_越来越.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/grammar/yuqi_buru_与其不如.md",
@@ -3256,11 +4124,32 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/grammar/zhi_之.md",
+      "msg": "AI tell (copula avoidance): 2× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/grammar/zhi_者.md",
       "msg": "12 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/grammar/zhi_者.md",
+      "msg": "AI tell (copula avoidance): 1× — \"serves as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/grammar/zhi_者.md",
+      "msg": "AI tell (vague attribution): 1× — \"many scholars\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -3270,11 +4159,32 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/grammar/zhiyou_cai_只有才.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/history/topic_caocao.md",
       "msg": "2 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/history/topic_changcheng.md",
+      "msg": "AI tell (copula avoidance): 1× — \"serves as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/history/topic_changcheng.md",
+      "msg": "AI tell (false range): 1× — \"ranging from rammed earth to fired brick to ribbons of willow and stone\"",
+      "fix": "Decorative \"from X to Y\" spans — replace with the concrete list or claim (VOICE.md \"AI tells\")."
     },
     {
       "level": "INFO",
@@ -3291,11 +4201,32 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/history/topic_gaige.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/history/topic_keju.md",
       "msg": "6 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/history/topic_keju.md",
+      "msg": "AI tell (signposting): 1× — \"importantly,\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/history/topic_keju.md",
+      "msg": "AI tell (false range): 1× — \"ranging from court hymns to folk songs of courtship and longing\"",
+      "fix": "Decorative \"from X to Y\" spans — replace with the concrete list or claim (VOICE.md \"AI tells\")."
     },
     {
       "level": "INFO",
@@ -3305,11 +4236,25 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/history/topic_qin_shihuang.md",
+      "msg": "AI tell (copula avoidance): 1× — \"stands as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/history/topic_qinchao.md",
       "msg": "3 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/history/topic_qingchao.md",
+      "msg": "AI tell (significance inflation): 1× — \"political landscape\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -3319,11 +4264,46 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/history/topic_sanguo.md",
+      "msg": "AI tell (significance inflation): 1× — \"pivotal\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/history/topic_shiji.md",
       "msg": "3 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/history/topic_shiji.md",
+      "msg": "AI tell (copula avoidance): 1× — \"stands as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/history/topic_songchao.md",
+      "msg": "AI tell (significance inflation): 1× — \"vibrant\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/history/topic_songchao.md",
+      "msg": "AI tell (vague attribution): 1× — \"many scholars\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/history/topic_songchao.md",
+      "msg": "AI tell (false range): 1× — \"everything from cooking to engineering\"",
+      "fix": "Decorative \"from X to Y\" spans — replace with the concrete list or claim (VOICE.md \"AI tells\")."
     },
     {
       "level": "INFO",
@@ -3340,6 +4320,20 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/history/topic_xinhai.md",
+      "msg": "AI tell (significance inflation): 1× — \"pivotal\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/history/topic_xinhai.md",
+      "msg": "AI tell (false range): 1× — \"The evolution of this principle tracks the broader evolution of Chinese nationalism: from \"",
+      "fix": "Decorative \"from X to Y\" spans — replace with the concrete list or claim (VOICE.md \"AI tells\")."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/history/topic_yuanchao.md",
@@ -3347,11 +4341,25 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/history/topic_yuanchao.md",
+      "msg": "AI tell (copula avoidance): 1× — \"serves as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/history/topic_zhanguo.md",
       "msg": "4 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/history/topic_zhanguo.md",
+      "msg": "AI tell (significance inflation): 1× — \"political landscape\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -3389,6 +4397,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/hubs/faming.md",
+      "msg": "AI tell (significance inflation): 1× — \"cultural landscape\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/hubs/hanyu.md",
@@ -3401,6 +4416,13 @@
       "file": "content/hubs/hanzi.md",
       "msg": "14 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/hubs/hanzi.md",
+      "msg": "AI tell (false range): 1× — \"A guided walk through Chinese characters: from oracle bone to modern glyph, from radical t\"",
+      "fix": "Decorative \"from X to Y\" spans — replace with the concrete list or claim (VOICE.md \"AI tells\")."
     },
     {
       "level": "INFO",
@@ -3422,6 +4444,13 @@
       "file": "content/hubs/wenxue.md",
       "msg": "12 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/hubs/wenxue.md",
+      "msg": "AI tell (false range): 1× — \"It sequences thirteen entries chosen to show the major transitions: from the spare norther\"",
+      "fix": "Decorative \"from X to Y\" spans — replace with the concrete list or claim (VOICE.md \"AI tells\")."
     },
     {
       "level": "INFO",
@@ -3459,11 +4488,25 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/philosophy/topic_laozi.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/philosophy/topic_lixue.md",
       "msg": "2 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/philosophy/topic_lixue.md",
+      "msg": "AI tell (significance inflation): 1× — \"intellectual landscape\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -3478,6 +4521,13 @@
       "file": "content/philosophy/topic_mojia.md",
       "msg": "10 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/philosophy/topic_sunzibingfa.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -3515,6 +4565,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/philosophy/topic_zhengming.md",
+      "msg": "AI tell (false range): 1× — \"everything from family relations to official conduct\"",
+      "fix": "Decorative \"from X to Y\" spans — replace with the concrete list or claim (VOICE.md \"AI tells\")."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/philosophy/topic_zhuangzi.md",
@@ -3541,6 +4598,13 @@
       "file": "content/religion/topic_daojiao.md",
       "msg": "13 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/religion/topic_daojiao.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -3571,11 +4635,25 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/religion/topic_jingtu.md",
+      "msg": "AI tell (false range): 1× — \"anything from a luxury resort to an idealized past\"",
+      "fix": "Decorative \"from X to Y\" spans — replace with the concrete list or claim (VOICE.md \"AI tells\")."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/religion/topic_mazu.md",
       "msg": "6 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/religion/topic_mazu.md",
+      "msg": "AI tell (significance inflation): 1× — \"pivotal\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -3590,6 +4668,13 @@
       "file": "content/religion/topic_rujia.md",
       "msg": "14 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/religion/topic_rujia.md",
+      "msg": "AI tell (false range): 2× — \"everything from state sacrifices and court protocol to the proper way to greet an elder or set a table\", \"ranging from folk songs to court hymns\"",
+      "fix": "Decorative \"from X to Y\" spans — replace with the concrete list or claim (VOICE.md \"AI tells\")."
     },
     {
       "level": "INFO",
@@ -3613,6 +4698,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/religion/topic_yisilan.md",
+      "msg": "AI tell (copula avoidance): 1× — \"serves as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/religion/topic_zuxian.md",
@@ -3620,11 +4712,25 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/religion/topic_zuxian.md",
+      "msg": "AI tell (copula avoidance): 1× — \"serves as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/science/topic_bencao.md",
       "msg": "4 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/science/topic_bencao.md",
+      "msg": "AI tell (false range): 1× — \"ranging from medical classics to agricultural manuals to alchemical treatises\"",
+      "fix": "Decorative \"from X to Y\" spans — replace with the concrete list or claim (VOICE.md \"AI tells\")."
     },
     {
       "level": "INFO",
@@ -3683,11 +4789,25 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/science/topic_sidafaming.md",
+      "msg": "AI tell (significance inflation): 1× — \"political landscape\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/science/topic_suanpan.md",
       "msg": "4 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/science/topic_suanpan.md",
+      "msg": "AI tell (false range): 1× — \"everything from land measurement to systems of linear equations\"",
+      "fix": "Decorative \"from X to Y\" spans — replace with the concrete list or claim (VOICE.md \"AI tells\")."
     },
     {
       "level": "INFO",
@@ -3711,6 +4831,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/science/topic_wuxing.md",
+      "msg": "AI tell (false range): 1× — \"everything from organ function to dynastic legitimacy\"",
+      "fix": "Decorative \"from X to Y\" spans — replace with the concrete list or claim (VOICE.md \"AI tells\")."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/science/topic_xingxiu.md",
@@ -3725,11 +4852,25 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/science/topic_zhenjiu.md",
+      "msg": "AI tell (significance inflation): 1× — \"pivotal\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/science/topic_zhongyi.md",
       "msg": "4 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/science/topic_zhongyi.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -3753,11 +4894,25 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/vocab/biji_笔记.md",
+      "msg": "AI tell (false range): 1× — \"ranging from astronomy to painting to military strategy\"",
+      "fix": "Decorative \"from X to Y\" spans — replace with the concrete list or claim (VOICE.md \"AI tells\")."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/vocab/bijiao_比较.md",
       "msg": "2 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/vocab/bijiao_比较.md",
+      "msg": "AI tell (copula avoidance): 2× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -3767,11 +4922,25 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/vocab/bixu_必须.md",
+      "msg": "AI tell (copula avoidance): 1× — \"stands as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/vocab/bore_般若.md",
       "msg": "2 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/vocab/bore_般若.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -3809,6 +4978,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/vocab/chanpin_产品.md",
+      "msg": "AI tell (false range): 1× — \"everything from bank deposits to derivatives\"",
+      "fix": "Decorative \"from X to Y\" spans — replace with the concrete list or claim (VOICE.md \"AI tells\")."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/vocab/chuantong_传统.md",
@@ -3830,6 +5006,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/vocab/cibi_慈悲.md",
+      "msg": "AI tell (copula avoidance): 1× — \"serves as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/vocab/daode_道德.md",
@@ -3837,11 +5020,25 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/vocab/daode_道德.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/vocab/dongxi_东西.md",
       "msg": "9 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/vocab/dongxi_东西.md",
+      "msg": "AI tell (false range): 1× — \"ranging from playful to contemptuous depending on context and modifier\"",
+      "fix": "Decorative \"from X to Y\" spans — replace with the concrete list or claim (VOICE.md \"AI tells\")."
     },
     {
       "level": "INFO",
@@ -3907,6 +5104,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/vocab/guanxi_关系.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/vocab/guojia_国家.md",
@@ -3933,6 +5137,13 @@
       "file": "content/vocab/jianghu_江湖.md",
       "msg": "12 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/vocab/jianghu_江湖.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -3970,6 +5181,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/vocab/kaoshi_考试.md",
+      "msg": "AI tell (copula avoidance): 1× — \"serves as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/vocab/keqi_客气.md",
@@ -3982,6 +5200,13 @@
       "file": "content/vocab/kuayue_跨越.md",
       "msg": "4 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/vocab/kuayue_跨越.md",
+      "msg": "AI tell (false range): 1× — \"It typically describes regions or sectors that compress what was historically a multi-deca\"",
+      "fix": "Decorative \"from X to Y\" spans — replace with the concrete list or claim (VOICE.md \"AI tells\")."
     },
     {
       "level": "INFO",
@@ -3998,11 +5223,25 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/vocab/liangxin_良心.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/vocab/limao_礼貌.md",
       "msg": "5 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/vocab/limao_礼貌.md",
+      "msg": "AI tell (copula avoidance): 2× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -4019,11 +5258,25 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/vocab/lunhui_轮回.md",
+      "msg": "AI tell (false range): 1× — \"everything from ending a difficult relationship to completing a long ordeal\"",
+      "fix": "Decorative \"from X to Y\" spans — replace with the concrete list or claim (VOICE.md \"AI tells\")."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/vocab/lunyu_论语.md",
       "msg": "4 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/vocab/lunyu_论语.md",
+      "msg": "AI tell (false range): 1× — \"everything from court ceremony down to how one greets a parent\"",
+      "fix": "Decorative \"from X to Y\" spans — replace with the concrete list or claim (VOICE.md \"AI tells\")."
     },
     {
       "level": "INFO",
@@ -4054,11 +5307,25 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/vocab/niepan_涅槃.md",
+      "msg": "AI tell (significance inflation): 1× — \"intellectual landscape\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/vocab/pengyou_朋友.md",
       "msg": "5 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/vocab/pengyou_朋友.md",
+      "msg": "AI tell (copula avoidance): 1× — \"serves as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -4075,6 +5342,20 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/vocab/pusa_菩萨.md",
+      "msg": "AI tell (significance inflation): 1× — \"religious landscape\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/vocab/putonghua_普通话.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/vocab/qiankun_乾坤.md",
@@ -4087,6 +5368,13 @@
       "file": "content/vocab/qianxu_谦虚.md",
       "msg": "9 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/vocab/qianxu_谦虚.md",
+      "msg": "AI tell (copula avoidance): 2× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -4152,6 +5440,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/vocab/shehui_社会.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/vocab/shengchan_生产.md",
@@ -4171,6 +5466,13 @@
       "file": "content/vocab/shengyin_声音.md",
       "msg": "4 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/vocab/shengyin_声音.md",
+      "msg": "AI tell (false range): 1× — \"everything from ignored medical symptoms to suppressed bad news\"",
+      "fix": "Decorative \"from X to Y\" spans — replace with the concrete list or claim (VOICE.md \"AI tells\")."
     },
     {
       "level": "INFO",
@@ -4250,11 +5552,32 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/vocab/tianxia_天下.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/vocab/wenhua_文化.md",
       "msg": "6 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/vocab/wenhua_文化.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/vocab/wenhua_文化.md",
+      "msg": "AI tell (false range): 1× — \"everything from touring orchestras to academic partnerships\"",
+      "fix": "Decorative \"from X to Y\" spans — replace with the concrete list or claim (VOICE.md \"AI tells\")."
     },
     {
       "level": "INFO",
@@ -4283,6 +5606,13 @@
       "file": "content/vocab/wuwei_无为.md",
       "msg": "5 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/vocab/wuwei_无为.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -4327,6 +5657,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/vocab/yi4_义.md",
+      "msg": "AI tell (false range): 1× — \"ranging from the Mencius to official historical accounts and is still used today\"",
+      "fix": "Decorative \"from X to Y\" spans — replace with the concrete list or claim (VOICE.md \"AI tells\")."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/vocab/yiding_一定.md",
@@ -4353,6 +5690,13 @@
       "file": "content/vocab/yinyue_音乐.md",
       "msg": "4 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/vocab/yinyue_音乐.md",
+      "msg": "AI tell (false range): 1× — \"everything from soulmates to the rare boss who gets your work\"",
+      "fix": "Decorative \"from X to Y\" spans — replace with the concrete list or claim (VOICE.md \"AI tells\")."
     },
     {
       "level": "INFO",
@@ -4383,6 +5727,13 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/vocab/yuanfen_缘分.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
+    },
+    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/vocab/zhengzai_正在.md",
@@ -4395,6 +5746,13 @@
       "file": "content/vocab/zhidao_知道.md",
       "msg": "3 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/vocab/zhidao_知道.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
@@ -4430,6 +5788,13 @@
       "file": "content/vocab/zhongyu_终于.md",
       "msg": "3 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "formatting",
+      "file": "content/vocab/ziran_自然.md",
+      "msg": "AI tell (copula avoidance): 1× — \"functions as\"",
+      "fix": "Rewrite per VOICE.md \"AI tells\": state the plain fact; cut the inflation/hedge/signpost."
     },
     {
       "level": "INFO",
