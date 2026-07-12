@@ -159,6 +159,28 @@
     ],
     "hasPage": true
   },
+  "天": {
+    "cn": "天",
+    "py": "tiān",
+    "en": "heaven; sky; day",
+    "count": 13,
+    "appearsOn": [
+      "pages/characters/di4_地.html",
+      "pages/characters/kong1_空.html",
+      "pages/characters/lei2_雷.html",
+      "pages/characters/long2_龙.html",
+      "pages/characters/ming4_命.html",
+      "pages/characters/ri4_日.html",
+      "pages/characters/shi2_时.html",
+      "pages/characters/yun2_云.html",
+      "pages/science/topic_tianwen.html",
+      "pages/vocab/shenming_神明.html",
+      "pages/vocab/tiandi_天地.html",
+      "pages/vocab/tianren_天人.html",
+      "pages/vocab/ziran_自然.html"
+    ],
+    "hasPage": true
+  },
   "孔子": {
     "cn": "孔子",
     "py": "Kǒngzǐ",
@@ -177,27 +199,6 @@
       "pages/vocab/daode_道德.html",
       "pages/vocab/lunyu_论语.html",
       "pages/vocab/ren2_仁.html"
-    ],
-    "hasPage": true
-  },
-  "天": {
-    "cn": "天",
-    "py": "tiān",
-    "en": "heaven; sky; day",
-    "count": 12,
-    "appearsOn": [
-      "pages/characters/di4_地.html",
-      "pages/characters/kong1_空.html",
-      "pages/characters/lei2_雷.html",
-      "pages/characters/long2_龙.html",
-      "pages/characters/ming4_命.html",
-      "pages/characters/ri4_日.html",
-      "pages/characters/shi2_时.html",
-      "pages/characters/yun2_云.html",
-      "pages/vocab/shenming_神明.html",
-      "pages/vocab/tiandi_天地.html",
-      "pages/vocab/tianren_天人.html",
-      "pages/vocab/ziran_自然.html"
     ],
     "hasPage": true
   },
@@ -359,6 +360,25 @@
     ],
     "hasPage": true
   },
+  "五行": {
+    "cn": "五行",
+    "py": "wǔxíng",
+    "en": "Five Phases cosmological system",
+    "count": 10,
+    "appearsOn": [
+      "pages/characters/lei2_雷.html",
+      "pages/characters/tu3_土.html",
+      "pages/characters/wu3_五.html",
+      "pages/philosophy/topic_yijing.html",
+      "pages/religion/topic_daojiao.html",
+      "pages/science/topic_tiangan_dizhi.html",
+      "pages/science/topic_tianwen.html",
+      "pages/vocab/dongxi_东西.html",
+      "pages/vocab/fengshui_风水.html",
+      "pages/vocab/yinyang_阴阳.html"
+    ],
+    "hasPage": true
+  },
   "义": {
     "cn": "义",
     "py": "yì",
@@ -505,6 +525,24 @@
     ],
     "hasPage": true
   },
+  "气": {
+    "cn": "气",
+    "py": "qì",
+    "en": "air; breath; qi",
+    "count": 9,
+    "appearsOn": [
+      "pages/characters/feng1_风.html",
+      "pages/characters/kong1_空.html",
+      "pages/characters/li3_理.html",
+      "pages/characters/shen2_神.html",
+      "pages/religion/topic_daojiao.html",
+      "pages/science/topic_wuli.html",
+      "pages/science/topic_wuxing.html",
+      "pages/vocab/fengshui_风水.html",
+      "pages/vocab/yinyang_阴阳.html"
+    ],
+    "hasPage": true
+  },
   "文化": {
     "cn": "文化",
     "py": "wén huà",
@@ -520,24 +558,6 @@
       "pages/vocab/lishi_历史.html",
       "pages/vocab/shehui_社会.html",
       "pages/vocab/wenming_文明.html"
-    ],
-    "hasPage": true
-  },
-  "五行": {
-    "cn": "五行",
-    "py": "wǔxíng",
-    "en": "Five Phases cosmological system",
-    "count": 9,
-    "appearsOn": [
-      "pages/characters/lei2_雷.html",
-      "pages/characters/tu3_土.html",
-      "pages/characters/wu3_五.html",
-      "pages/philosophy/topic_yijing.html",
-      "pages/religion/topic_daojiao.html",
-      "pages/science/topic_tiangan_dizhi.html",
-      "pages/vocab/dongxi_东西.html",
-      "pages/vocab/fengshui_风水.html",
-      "pages/vocab/yinyang_阴阳.html"
     ],
     "hasPage": true
   },
@@ -592,6 +612,23 @@
       "pages/characters/yue4_越.html",
       "pages/characters/zhan4_站.html",
       "pages/grammar/directional_来去.html"
+    ],
+    "hasPage": true
+  },
+  "变": {
+    "cn": "变",
+    "py": "biàn",
+    "en": "to change",
+    "count": 8,
+    "appearsOn": [
+      "pages/characters/cheng2_成.html",
+      "pages/characters/gai3_改.html",
+      "pages/characters/hua4_化.html",
+      "pages/characters/huan4_换.html",
+      "pages/characters/qian1_千.html",
+      "pages/characters/xin1_新.html",
+      "pages/philosophy/topic_yijing.html",
+      "pages/science/topic_huaxue.html"
     ],
     "hasPage": true
   },
@@ -748,23 +785,6 @@
     ],
     "hasPage": true
   },
-  "气": {
-    "cn": "气",
-    "py": "qì",
-    "en": "air; breath; qi",
-    "count": 8,
-    "appearsOn": [
-      "pages/characters/feng1_风.html",
-      "pages/characters/kong1_空.html",
-      "pages/characters/li3_理.html",
-      "pages/characters/shen2_神.html",
-      "pages/religion/topic_daojiao.html",
-      "pages/science/topic_wuxing.html",
-      "pages/vocab/fengshui_风水.html",
-      "pages/vocab/yinyang_阴阳.html"
-    ],
-    "hasPage": true
-  },
   "去": {
     "cn": "去",
     "py": "qù",
@@ -879,22 +899,6 @@
       "pages/culinary/topic_lücha.html",
       "pages/culinary/topic_tisanes.html",
       "pages/culinary/topic_wulong.html"
-    ],
-    "hasPage": true
-  },
-  "变": {
-    "cn": "变",
-    "py": "biàn",
-    "en": "to change",
-    "count": 7,
-    "appearsOn": [
-      "pages/characters/cheng2_成.html",
-      "pages/characters/gai3_改.html",
-      "pages/characters/hua4_化.html",
-      "pages/characters/huan4_换.html",
-      "pages/characters/qian1_千.html",
-      "pages/characters/xin1_新.html",
-      "pages/philosophy/topic_yijing.html"
     ],
     "hasPage": true
   },
@@ -1071,6 +1075,22 @@
       "pages/culinary/topic_lücha.html",
       "pages/culinary/topic_tisanes.html",
       "pages/culinary/topic_wulong.html"
+    ],
+    "hasPage": true
+  },
+  "节气": {
+    "cn": "节气",
+    "py": "jiéqì",
+    "en": "solar term",
+    "count": 7,
+    "appearsOn": [
+      "pages/characters/jie2_节.html",
+      "pages/characters/li4_历.html",
+      "pages/characters/shi2_时.html",
+      "pages/culture/topic_duanwu.html",
+      "pages/science/topic_tiangan_dizhi.html",
+      "pages/science/topic_tianwen.html",
+      "pages/vocab/jieqi_节气.html"
     ],
     "hasPage": true
   },
@@ -1645,21 +1665,6 @@
       "pages/culinary/topic_chuancai.html",
       "pages/culinary/topic_doufu.html",
       "pages/geography/topic_sichuanpen.html"
-    ],
-    "hasPage": true
-  },
-  "节气": {
-    "cn": "节气",
-    "py": "jiéqì",
-    "en": "solar term",
-    "count": 6,
-    "appearsOn": [
-      "pages/characters/jie2_节.html",
-      "pages/characters/li4_历.html",
-      "pages/characters/shi2_时.html",
-      "pages/culture/topic_duanwu.html",
-      "pages/science/topic_tiangan_dizhi.html",
-      "pages/vocab/jieqi_节气.html"
     ],
     "hasPage": true
   },
@@ -3741,6 +3746,19 @@
     ],
     "hasPage": true
   },
+  "数学": {
+    "cn": "数学",
+    "py": "shùxué",
+    "en": "mathematics",
+    "count": 4,
+    "appearsOn": [
+      "pages/daily/topic_shuzi_xitong.html",
+      "pages/science/topic_gongcheng.html",
+      "pages/science/topic_huaxue.html",
+      "pages/science/topic_wuli.html"
+    ],
+    "hasPage": true
+  },
   "说": {
     "cn": "说",
     "py": "shuō",
@@ -3751,6 +3769,19 @@
       "pages/characters/kou3_口.html",
       "pages/characters/yan2_言.html",
       "pages/characters/yu3_语.html"
+    ],
+    "hasPage": true
+  },
+  "四大发明": {
+    "cn": "四大发明",
+    "py": "sì dà fāmíng",
+    "en": "the Four Great Inventions",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/nan2_南.html",
+      "pages/science/topic_gongcheng.html",
+      "pages/science/topic_huaxue.html",
+      "pages/vocab/siluzhilu_丝绸之路.html"
     ],
     "hasPage": true
   },
@@ -4293,6 +4324,18 @@
     ],
     "hasPage": true
   },
+  "本草纲目": {
+    "cn": "本草纲目",
+    "py": "běncǎo gāngmù",
+    "en": "the materia medica",
+    "count": 3,
+    "appearsOn": [
+      "pages/science/topic_huaxue.html",
+      "pages/science/topic_wuxing.html",
+      "pages/vocab/zhongyi_中医.html"
+    ],
+    "hasPage": true
+  },
   "本领": {
     "cn": "本领",
     "py": "běnlǐng",
@@ -4569,6 +4612,18 @@
     ],
     "hasPage": true
   },
+  "电": {
+    "cn": "电",
+    "py": "diàn",
+    "en": "lightning; electricity",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/lei2_雷.html",
+      "pages/characters/yu3_雨.html",
+      "pages/science/topic_wuli.html"
+    ],
+    "hasPage": true
+  },
   "多": {
     "cn": "多",
     "py": "duō",
@@ -4722,6 +4777,18 @@
       "pages/characters/jie4_借.html",
       "pages/characters/song4_送.html",
       "pages/grammar/bei_被.html"
+    ],
+    "hasPage": true
+  },
+  "工程": {
+    "cn": "工程",
+    "py": "gōngchéng",
+    "en": "engineering",
+    "count": 3,
+    "appearsOn": [
+      "pages/science/topic_huaxue.html",
+      "pages/science/topic_shuxue.html",
+      "pages/science/topic_wuli.html"
     ],
     "hasPage": true
   },
@@ -5360,6 +5427,18 @@
     ],
     "hasPage": true
   },
+  "历法": {
+    "cn": "历法",
+    "py": "lìfǎ",
+    "en": "lunisolar calendar",
+    "count": 3,
+    "appearsOn": [
+      "pages/culture/topic_duanwu.html",
+      "pages/science/topic_tianwen.html",
+      "pages/vocab/lishi_历史.html"
+    ],
+    "hasPage": true
+  },
   "连": {
     "cn": "连",
     "py": "lián",
@@ -5960,18 +6039,6 @@
     ],
     "hasPage": false
   },
-  "四大发明": {
-    "cn": "四大发明",
-    "py": "sì dà fāmíng",
-    "en": "the Four Great Inventions",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/nan2_南.html",
-      "pages/science/topic_gongcheng.html",
-      "pages/vocab/siluzhilu_丝绸之路.html"
-    ],
-    "hasPage": true
-  },
   "四面八方": {
     "cn": "四面八方",
     "py": "sì miàn bā fāng",
@@ -6272,6 +6339,18 @@
     ],
     "hasPage": true
   },
+  "物理": {
+    "cn": "物理",
+    "py": "wùlǐ",
+    "en": "physics",
+    "count": 3,
+    "appearsOn": [
+      "pages/science/topic_huaxue.html",
+      "pages/science/topic_shuxue.html",
+      "pages/science/topic_tianwen.html"
+    ],
+    "hasPage": true
+  },
   "希望": {
     "cn": "希望",
     "py": "xīwàng",
@@ -6427,6 +6506,18 @@
       "pages/characters/wu3_五.html"
     ],
     "hasPage": false
+  },
+  "星宿": {
+    "cn": "星宿",
+    "py": "xīngxiù",
+    "en": "Chinese Constellations",
+    "count": 3,
+    "appearsOn": [
+      "pages/science/topic_tiangan_dizhi.html",
+      "pages/science/topic_tianwen.html",
+      "pages/science/topic_wuxing.html"
+    ],
+    "hasPage": true
   },
   "行": {
     "cn": "行",
@@ -7144,17 +7235,6 @@
     ],
     "hasPage": true
   },
-  "本草纲目": {
-    "cn": "本草纲目",
-    "py": "běncǎo gāngmù",
-    "en": "The Great Pharmacopeia",
-    "count": 2,
-    "appearsOn": [
-      "pages/science/topic_wuxing.html",
-      "pages/vocab/zhongyi_中医.html"
-    ],
-    "hasPage": true
-  },
   "本质": {
     "cn": "本质",
     "py": "běnzhì",
@@ -7836,17 +7916,6 @@
       "pages/daily/topic_shuzi_xitong.html"
     ],
     "hasPage": false
-  },
-  "电": {
-    "cn": "电",
-    "py": "diàn",
-    "en": "lightning; electricity",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/lei2_雷.html",
-      "pages/characters/yu3_雨.html"
-    ],
-    "hasPage": true
   },
   "电话": {
     "cn": "电话",
@@ -8859,6 +8928,17 @@
     ],
     "hasPage": true
   },
+  "化学": {
+    "cn": "化学",
+    "py": "huàxué",
+    "en": "chemistry",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/hua4_化.html",
+      "pages/science/topic_wuli.html"
+    ],
+    "hasPage": true
+  },
   "画蛇添足": {
     "cn": "画蛇添足",
     "py": "huà shé tiān zú",
@@ -9683,17 +9763,6 @@
       "pages/characters/liang4_量.html"
     ],
     "hasPage": false
-  },
-  "历法": {
-    "cn": "历法",
-    "py": "lìfǎ",
-    "en": "lunisolar calendar",
-    "count": 2,
-    "appearsOn": [
-      "pages/culture/topic_duanwu.html",
-      "pages/vocab/lishi_历史.html"
-    ],
-    "hasPage": true
   },
   "莲花": {
     "cn": "莲花",
@@ -11048,17 +11117,6 @@
     ],
     "hasPage": false
   },
-  "数学": {
-    "cn": "数学",
-    "py": "shùxué",
-    "en": "mathematics",
-    "count": 2,
-    "appearsOn": [
-      "pages/daily/topic_shuzi_xitong.html",
-      "pages/science/topic_gongcheng.html"
-    ],
-    "hasPage": true
-  },
   "双": {
     "cn": "双",
     "py": "shuāng",
@@ -12002,17 +12060,6 @@
     "appearsOn": [
       "pages/history/topic_qingchao.html",
       "pages/vocab/changjian_长城.html"
-    ],
-    "hasPage": true
-  },
-  "星宿": {
-    "cn": "星宿",
-    "py": "xīngxiù",
-    "en": "Chinese Constellations",
-    "count": 2,
-    "appearsOn": [
-      "pages/science/topic_tiangan_dizhi.html",
-      "pages/science/topic_wuxing.html"
     ],
     "hasPage": true
   },
@@ -18657,16 +18704,6 @@
     ],
     "hasPage": false
   },
-  "工程": {
-    "cn": "工程",
-    "py": "gōngchéng",
-    "en": "engineering",
-    "count": 1,
-    "appearsOn": [
-      "pages/science/topic_shuxue.html"
-    ],
-    "hasPage": true
-  },
   "工夫": {
     "cn": "工夫",
     "py": "gōngfu",
@@ -20404,16 +20441,6 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/fengshui_风水.html"
-    ],
-    "hasPage": false
-  },
-  "化学": {
-    "cn": "化学",
-    "py": "huàxué",
-    "en": "chemistry",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/hua4_化.html"
     ],
     "hasPage": false
   },
@@ -30357,6 +30384,16 @@
     ],
     "hasPage": false
   },
+  "天文": {
+    "cn": "天文",
+    "py": "tiānwén",
+    "en": "astronomy",
+    "count": 1,
+    "appearsOn": [
+      "pages/science/topic_wuli.html"
+    ],
+    "hasPage": true
+  },
   "田": {
     "cn": "田",
     "py": "tián",
@@ -31716,16 +31753,6 @@
       "pages/vocab/dongxi_东西.html"
     ],
     "hasPage": true
-  },
-  "物理": {
-    "cn": "物理",
-    "py": "wùlǐ",
-    "en": "physics",
-    "count": 1,
-    "appearsOn": [
-      "pages/science/topic_shuxue.html"
-    ],
-    "hasPage": false
   },
   "物质": {
     "cn": "物质",

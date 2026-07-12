@@ -51,6 +51,23 @@
     "updated": "2026-07-11"
   },
   {
+    "path": "pages/science/topic_huaxue.html",
+    "type": "topic",
+    "category": "science",
+    "title": "化学 · Chemistry",
+    "desc": "The Chinese periodic table is a naming machine: one character per element, with the radical telling you its state at room temperature.",
+    "tags": [
+      "chemistry",
+      "science",
+      "technology",
+      "vocabulary",
+      "translation"
+    ],
+    "status": "complete",
+    "pinyin": "huàxué",
+    "updated": "2026-07-11"
+  },
+  {
     "path": "pages/science/topic_shuxue.html",
     "type": "topic",
     "category": "science",
@@ -65,6 +82,40 @@
     ],
     "status": "complete",
     "pinyin": "shùxué",
+    "updated": "2026-07-11"
+  },
+  {
+    "path": "pages/science/topic_tianwen.html",
+    "type": "topic",
+    "category": "science",
+    "title": "天文 · Astronomy",
+    "desc": "The five visible planets are named for the five phases, comets are brooms, and the space program borrows its names from mythology.",
+    "tags": [
+      "astronomy",
+      "science",
+      "cosmology",
+      "vocabulary",
+      "wuxing"
+    ],
+    "status": "complete",
+    "pinyin": "tiānwén",
+    "updated": "2026-07-11"
+  },
+  {
+    "path": "pages/science/topic_wuli.html",
+    "type": "topic",
+    "category": "science",
+    "title": "物理 · Physics",
+    "desc": "Physics in Chinese is \"the pattern of things,\" a phrase lifted from a Song-dynasty program for investigating the world.",
+    "tags": [
+      "physics",
+      "science",
+      "vocabulary",
+      "energy",
+      "translation"
+    ],
+    "status": "complete",
+    "pinyin": "wùlǐ",
     "updated": "2026-07-11"
   },
   {
@@ -319,65 +370,6 @@
     "tone": 3,
     "hsk": 2,
     "radical": "矢",
-    "updated": "2026-06-28"
-  },
-  {
-    "path": "pages/characters/dui4_队.html",
-    "type": "character",
-    "category": "characters",
-    "title": "队 · team, group, band, military unit; measure word for groups",
-    "desc": "A crowd of people 人 packed against an earthen mound 阝, the image that gives 队 its sense of a formed-up team or column.",
-    "tags": [
-      "society",
-      "social",
-      "humanity",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "队",
-    "pinyin": "duì",
-    "tone": 4,
-    "hsk": 2,
-    "radical": "阝",
-    "updated": "2026-06-28"
-  },
-  {
-    "path": "pages/characters/fang2_房.html",
-    "type": "character",
-    "category": "characters",
-    "title": "房 · building, house, room",
-    "desc": "A door radical leaning over the phonetic 方: the side-chamber under a roof that grew into every word for house, room, and the family branches that fill them.",
-    "tags": [
-      "home",
-      "daily-life",
-      "settlement",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "房",
-    "pinyin": "fáng",
-    "tone": 2,
-    "hsk": 1,
-    "radical": "户",
-    "updated": "2026-06-28"
-  },
-  {
-    "path": "pages/characters/fei1_飞.html",
-    "type": "character",
-    "category": "characters",
-    "title": "飞 · to fly, to dart; high, swift",
-    "desc": "A single bird caught mid-flap, one outstretched wing and the rising line of its body, frozen at the instant it leaves the ground.",
-    "tags": [
-      "nature",
-      "motion",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "飞",
-    "pinyin": "fēi",
-    "tone": 1,
-    "hsk": 1,
-    "radical": "飞",
     "updated": "2026-06-28"
   }
 ]
