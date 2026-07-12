@@ -6,7 +6,15 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A reading nook for Chinese language and civilisation. Characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Jul 2026 03:27:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 03:52:00 GMT</lastBuildDate>
+    <item>
+      <title>禅 · meditation; Chan; to abdicate</title>
+      <link>https://jiaoshoo.com/pages/characters/chan2_禅.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/chan2_禅.html</guid>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+      <description>One altar character, two civilizations: read shàn it yields thrones and sacrifices to earth; read chán it transliterates Sanskrit dhyāna and founds Zen.</description>
+      <category>characters</category>
+    </item>
     <item>
       <title>星 · star; celestial body; spark</title>
       <link>https://jiaoshoo.com/pages/characters/xing1_星.html</link>
@@ -62,6 +70,46 @@
       <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
       <description>Rain falls, wind blows, and fog counts as a noun-verb drama: the small grammar of weather is a beginner&apos;s best conversation opener.</description>
       <category>daily</category>
+    </item>
+    <item>
+      <title>结果补语 · resultative complements</title>
+      <link>https://jiaoshoo.com/pages/grammar/jieguobuyu_结果补语.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/grammar/jieguobuyu_结果补语.html</guid>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+      <description>Chinese verbs describe the attempt; a second syllable reports the outcome. Listening is 听, but understanding what you heard is 听懂.</description>
+      <category>grammar</category>
+    </item>
+    <item>
+      <title>可能补语 · potential complements</title>
+      <link>https://jiaoshoo.com/pages/grammar/kenengbuyu_可能补语.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/grammar/kenengbuyu_可能补语.html</guid>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+      <description>Slide 得 or 不 inside a verb-result pair and it states ability: 听懂 is understood, 听得懂 is can understand, 听不懂 is the learner&apos;s anthem.</description>
+      <category>grammar</category>
+    </item>
+    <item>
+      <title>离合词 · separable verbs</title>
+      <link>https://jiaoshoo.com/pages/grammar/liheci_离合词.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/grammar/liheci_离合词.html</guid>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+      <description>Words that unzip: 见面 is to meet, but meeting him is 跟他见面 and meeting once is 见一次面, because the &quot;word&quot; is secretly verb plus object.</description>
+      <category>grammar</category>
+    </item>
+    <item>
+      <title>又 · 再 · again, twice over</title>
+      <link>https://jiaoshoo.com/pages/grammar/you_zai_又再.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/grammar/you_zai_又再.html</guid>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+      <description>Chinese has two agains: 又 looks backward at a repetition that happened, 再 looks forward to one still to come. 再见 is the proof.</description>
+      <category>grammar</category>
+    </item>
+    <item>
+      <title>正反问 · A-not-A questions</title>
+      <link>https://jiaoshoo.com/pages/grammar/zhengfan_正反问.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/grammar/zhengfan_正反问.html</guid>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+      <description>Chinese asks yes-no questions by offering both answers: 去不去 is &quot;going, not going?&quot;, and the pattern replaces 吗 with built-in neutrality.</description>
+      <category>grammar</category>
     </item>
     <item>
       <title>工程 · Engineering</title>
@@ -120,6 +168,14 @@
       <category>vocab</category>
     </item>
     <item>
+      <title>高兴 · happy, glad</title>
+      <link>https://jiaoshoo.com/pages/vocab/gaoxing_高兴.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/gaoxing_高兴.html</guid>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+      <description>Happiness as elevation: spirits that rise. The everyday glad word, and how it divides the territory with 开心, 快乐, and 幸福.</description>
+      <category>vocab</category>
+    </item>
+    <item>
       <title>考试 · examination</title>
       <link>https://jiaoshoo.com/pages/vocab/kaoshi_考试.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/kaoshi_考试.html</guid>
@@ -128,11 +184,35 @@
       <category>vocab</category>
     </item>
     <item>
+      <title>明白 · to understand; clear</title>
+      <link>https://jiaoshoo.com/pages/vocab/mingbai_明白.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/mingbai_明白.html</guid>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+      <description>Understanding as illumination: sun-and-moon brightness plus plain white. The clarity verb, and its siblings 懂, 知道, and 了解.</description>
+      <category>vocab</category>
+    </item>
+    <item>
+      <title>声音 · sound; voice</title>
+      <link>https://jiaoshoo.com/pages/vocab/shengyin_声音.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/shengyin_声音.html</guid>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+      <description>A chime-stone struck beside an ear: the word for sound welds raw noise to patterned tone, and Chinese theory kept the two distinct.</description>
+      <category>vocab</category>
+    </item>
+    <item>
       <title>身体 · body; health</title>
       <link>https://jiaoshoo.com/pages/vocab/shenti_身体.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/shenti_身体.html</guid>
       <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
       <description>The word for body doubles as the word for health, asking about it is a greeting, and its second character got luckier in simplification than any other.</description>
+      <category>vocab</category>
+    </item>
+    <item>
+      <title>音乐 · music</title>
+      <link>https://jiaoshoo.com/pages/vocab/yinyue_音乐.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/yinyue_音乐.html</guid>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+      <description>Music and joy share a single character, a soulmate is &quot;the one who knows your tone,&quot; and the zither smashed for a dead friend still echoes.</description>
       <category>vocab</category>
     </item>
     <item>
@@ -165,86 +245,6 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/bing4_病.html</guid>
       <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
       <description>A person sweating on a sickbed with the phonetic 丙 inside: the radical 疒 frames every Chinese word for being unwell.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>草 · grass, herb, straw; draft, rough</title>
-      <link>https://jiaoshoo.com/pages/characters/cao3_草.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/cao3_草.html</guid>
-      <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
-      <description>A field of grass under the morning sun: the grass radical over 早 zǎo (early) gives the plant its sound, and from the meadow grow the senses of herb, straw, and a hasty rough draft.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>唱 · to sing, to chant, to call out</title>
-      <link>https://jiaoshoo.com/pages/characters/chang4_唱.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/chang4_唱.html</guid>
-      <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
-      <description>A mouth beside the sun-doubled 昌: the radical names the act of singing while 昌 carries only the sound.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>穿 · to pierce, to bore through, to wear, to put on</title>
-      <link>https://jiaoshoo.com/pages/characters/chuan1_穿.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/chuan1_穿.html</guid>
-      <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
-      <description>A tooth gnawing through the roof of a cave: one image for boring a hole and for the body slipping into clothing.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>船 · ship, boat, vessel</title>
-      <link>https://jiaoshoo.com/pages/characters/chuan2_船.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/chuan2_船.html</guid>
-      <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
-      <description>A pictophonetic built on 舟 (boat): the hull carries the meaning while the right side supplies the sound, covering every craft from sampan to ocean liner.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>春 · spring, springtime, vitality, the stir of desire</title>
-      <link>https://jiaoshoo.com/pages/characters/chun1_春.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/chun1_春.html</guid>
-      <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
-      <description>Sun pressing up through young shoots: the season of growth, and the oldest Chinese metaphor for life-force and erotic longing.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>错 · error, mistake; wrong, incorrect</title>
-      <link>https://jiaoshoo.com/pages/characters/cuo4_错.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/cuo4_错.html</guid>
-      <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
-      <description>A metal character whose oldest sense was inlay and grinding; from crossed, interlocking lines it slid to things crossing wrongly, the modern sense of error.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>蛋 · egg, egg-shaped thing, scoundrel</title>
-      <link>https://jiaoshoo.com/pages/characters/dan4_蛋.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/dan4_蛋.html</guid>
-      <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
-      <description>A pictophonetic egg: the 虫 radical for small creatures sits under a sound element, and in slang it turns people into scoundrels.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>灯 · lamp, lantern, light</title>
-      <link>https://jiaoshoo.com/pages/characters/deng1_灯.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/deng1_灯.html</guid>
-      <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
-      <description>A fire radical 火 fused with the sound 丁, naming everything from oil lamps to the red light that stops traffic.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>懂 · to understand, to know, to grasp</title>
-      <link>https://jiaoshoo.com/pages/characters/dong3_懂.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/dong3_懂.html</guid>
-      <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
-      <description>A heart-radical verb where comprehension is felt, not just decoded: to truly get something is to take it in inwardly.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>短 · short, brief; deficient, lacking</title>
-      <link>https://jiaoshoo.com/pages/characters/duan3_短.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/duan3_短.html</guid>
-      <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
-      <description>An arrow set beside a ritual bean-pot measures the short distance, so 短 builds its meaning of brevity from a comparison of two small lengths.</description>
       <category>characters</category>
     </item>
   </channel>

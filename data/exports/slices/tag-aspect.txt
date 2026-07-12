@@ -4,6 +4,7 @@
 正在	zhèng zài	currently doing, progressive aspect — The primary progressive marker in Mandarin -- placed before a verb to signal an action caught in mid-motion, exactly now, still in progress.
 过	guò / guo	the experiential aspect marker — The particle that says 'I have ever done this'. Not when, not how often, just that it once happened. The most-confused pair with 了.
 还	hái	still, also, even: the continuative adverb — One adverb, four distinct jobs, and a single thread connecting all of them: something continues past the expected boundary.
+结果补语	jié guǒ bǔ yǔ	resultative complements — Chinese verbs describe the attempt; a second syllable reports the outcome. Listening is 听, but understanding what you heard is 听懂.
 了	le	the perfective particle — Perfective aspect vs. change-of-state: the single most-confused particle.
 起来	qǐ lái	directional complement: upward, inward, beginning — The most versatile directional complement in Mandarin: three distinct grammatical lives.
 一边…一边	yī biān yī biān	while doing; at the same time — Simultaneous actions: the frame for describing two things happening at once.

@@ -1,5 +1,23 @@
 [
   {
+    "path": "pages/characters/chan2_禅.html",
+    "type": "character",
+    "category": "characters",
+    "title": "禅 · meditation; Chan; to abdicate",
+    "desc": "One altar character, two civilizations: read shàn it yields thrones and sacrifices to earth; read chán it transliterates Sanskrit dhyāna and founds Zen.",
+    "tags": [
+      "buddhism",
+      "chan",
+      "religion"
+    ],
+    "status": "complete",
+    "char": "禅",
+    "pinyin": "chán",
+    "tone": 2,
+    "radical": "礻",
+    "updated": "2026-07-11"
+  },
+  {
     "path": "pages/characters/xing1_星.html",
     "type": "character",
     "category": "characters",
@@ -121,6 +139,81 @@
     "updated": "2026-07-11"
   },
   {
+    "path": "pages/grammar/jieguobuyu_结果补语.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "结果补语 · resultative complements",
+    "desc": "Chinese verbs describe the attempt; a second syllable reports the outcome. Listening is 听, but understanding what you heard is 听懂.",
+    "tags": [
+      "grammar",
+      "syntax",
+      "aspect"
+    ],
+    "status": "complete",
+    "pinyin": "jiéguǒ bǔyǔ",
+    "updated": "2026-07-11"
+  },
+  {
+    "path": "pages/grammar/kenengbuyu_可能补语.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "可能补语 · potential complements",
+    "desc": "Slide 得 or 不 inside a verb-result pair and it states ability: 听懂 is understood, 听得懂 is can understand, 听不懂 is the learner's anthem.",
+    "tags": [
+      "grammar",
+      "syntax",
+      "spoken"
+    ],
+    "status": "complete",
+    "pinyin": "kěnéng bǔyǔ",
+    "updated": "2026-07-11"
+  },
+  {
+    "path": "pages/grammar/liheci_离合词.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "离合词 · separable verbs",
+    "desc": "Words that unzip: 见面 is to meet, but meeting him is 跟他见面 and meeting once is 见一次面, because the \"word\" is secretly verb plus object.",
+    "tags": [
+      "grammar",
+      "syntax",
+      "spoken"
+    ],
+    "status": "complete",
+    "pinyin": "líhécí",
+    "updated": "2026-07-11"
+  },
+  {
+    "path": "pages/grammar/you_zai_又再.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "又 · 再 · again, twice over",
+    "desc": "Chinese has two agains: 又 looks backward at a repetition that happened, 再 looks forward to one still to come. 再见 is the proof.",
+    "tags": [
+      "grammar",
+      "syntax",
+      "tense"
+    ],
+    "status": "complete",
+    "pinyin": "yòu / zài",
+    "updated": "2026-07-11"
+  },
+  {
+    "path": "pages/grammar/zhengfan_正反问.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "正反问 · A-not-A questions",
+    "desc": "Chinese asks yes-no questions by offering both answers: 去不去 is \"going, not going?\", and the pattern replaces 吗 with built-in neutrality.",
+    "tags": [
+      "grammar",
+      "syntax",
+      "spoken"
+    ],
+    "status": "complete",
+    "pinyin": "zhèngfǎn wèn",
+    "updated": "2026-07-11"
+  },
+  {
     "path": "pages/science/topic_gongcheng.html",
     "type": "topic",
     "category": "science",
@@ -237,113 +330,5 @@
     "status": "complete",
     "pinyin": "duōshao",
     "updated": "2026-07-11"
-  },
-  {
-    "path": "pages/vocab/kaoshi_考试.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "考试 · examination",
-    "desc": "China ran the world's longest experiment in testing, thirteen centuries of imperial exams, and the vocabulary still sits every June for the gaokao.",
-    "tags": [
-      "learning",
-      "daily-life",
-      "history",
-      "culture",
-      "vocabulary"
-    ],
-    "status": "complete",
-    "pinyin": "kǎoshì",
-    "updated": "2026-07-11"
-  },
-  {
-    "path": "pages/vocab/shenti_身体.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "身体 · body; health",
-    "desc": "The word for body doubles as the word for health, asking about it is a greeting, and its second character got luckier in simplification than any other.",
-    "tags": [
-      "body",
-      "health",
-      "daily-life",
-      "vocabulary"
-    ],
-    "status": "complete",
-    "pinyin": "shēntǐ",
-    "updated": "2026-07-11"
-  },
-  {
-    "path": "pages/vocab/yiyuan_医院.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "医院 · hospital",
-    "desc": "The healing courtyard: how an arrow wound, a wine jar, and the institutional suffix 院 assembled the word for hospital.",
-    "tags": [
-      "health",
-      "medicine",
-      "daily-life",
-      "vocabulary"
-    ],
-    "status": "complete",
-    "pinyin": "yīyuàn",
-    "updated": "2026-07-11"
-  },
-  {
-    "path": "pages/characters/bao3_饱.html",
-    "type": "character",
-    "category": "characters",
-    "title": "饱 · full, satisfied, to eat one's fill",
-    "desc": "The food radical 饣 wraps the sound of 包 (bāo), so the glyph itself is a stomach packed full like a dumpling.",
-    "tags": [
-      "food",
-      "body",
-      "daily-life",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "饱",
-    "pinyin": "bǎo",
-    "tone": 3,
-    "hsk": 2,
-    "radical": "饣",
-    "updated": "2026-06-28"
-  },
-  {
-    "path": "pages/characters/bao4_报.html",
-    "type": "character",
-    "category": "characters",
-    "title": "报 · to report, to announce; newspaper; to repay",
-    "desc": "A hand cuffing a kneeling criminal once meant sentencing; today the same glyph carries newspapers, reports, and the moral arithmetic of repayment.",
-    "tags": [
-      "communication",
-      "society",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "报",
-    "pinyin": "bào",
-    "tone": 4,
-    "hsk": 2,
-    "radical": "扌",
-    "updated": "2026-06-28"
-  },
-  {
-    "path": "pages/characters/bing4_病.html",
-    "type": "character",
-    "category": "characters",
-    "title": "病 · illness, disease, to fall ill, fault",
-    "desc": "A person sweating on a sickbed with the phonetic 丙 inside: the radical 疒 frames every Chinese word for being unwell.",
-    "tags": [
-      "health",
-      "body",
-      "tcm",
-      "characters"
-    ],
-    "status": "complete",
-    "char": "病",
-    "pinyin": "bìng",
-    "tone": 4,
-    "hsk": 1,
-    "radical": "疒",
-    "updated": "2026-06-28"
   }
 ]

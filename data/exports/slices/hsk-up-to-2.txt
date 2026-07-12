@@ -257,6 +257,7 @@
 东西	dōng xi	things — East-west as the word for 'stuff': a window into directional cosmology.
 多少	duō shao	how much, how many — Chinese builds its "how much" by welding many to few, part of a system where opposites fuse into the scale between them.
 方向	fāng xiàng	direction; orientation — 方向 is the compass-word that holds together physical heading, life direction, political orientation, and the deeply Chinese sense that getting your bearings: 辨方向, is the first move in any undertaking.
+高兴	gāo xìng	happy, glad — Happiness as elevation: spirits that rise. The everyday glad word, and how it divides the territory with 开心, 快乐, and 幸福.
 工作	gōng zuò	work, job — The everyday word for work, both the activity and the job itself, and how it differs from 上班 (to go to work), 职业 (occupation), and 事业 (career).
 故事	gù shì	story, tale, narrative — Old affairs made into meaning: how the Chinese word for story encodes a philosophy of the past as the source of truth.
 关系	guān xi	relationship, connections — The untranslatable social fabric: relational leverage, it matters.
@@ -269,6 +270,7 @@
 轮回	lún huí	samsara; the cycle of rebirth — The Buddhist karmic wheel that turns through six realms of existence: the foundational concept that motivates all Buddhist practice as a path toward liberation.
 论语	Lún yǔ	The Analects of Confucius — The Analects: a thin book of recorded conversations and sayings that became the most quoted text in East Asian civilization, the entry point to Confucian thought, and the textbook of imperial education for two thousand years.
 面子	miàn zi	face, honor — Giving, losing, and saving face: the social grammar of dignity.
+明白	míng bai	to understand; clear — Understanding as illumination: sun-and-moon brightness plus plain white. The clarity verb, and its siblings 懂, 知道, and 了解.
 朋友	péng you	friend — The everyday word for friend, and the rich web of relationship terms (好朋友, 男朋友, 交朋友) built around it.
 普通话	pǔ tōng huà	Mandarin Chinese — The common speech: how China standardized its national language, what Mandarin actually is, and how it relates to Cantonese, Shanghainese, and the Chinese dialects.
 然后	rán hòu	then; after that — The everyday sequence word for "then, after that," the 先…然后… frame for ordering steps, its overuse as a spoken filler, and how it differs from 接着, 后来, and 于是.
@@ -277,6 +279,7 @@
 山水	shān shuǐ	mountains and water; the landscape — The paired word that names the Chinese landscape: not "scenery" in the Western sense, but a cosmological pairing of the still and the flowing that became the central subject of a thousand years of painting and poetry.
 山水画	shān shuǐ huà	Chinese Landscape Painting — Mountains and waters as a cosmological pair -- the genre that made ink the equal of philosophy.
 身体	shēn tǐ	body; health — The word for body doubles as the word for health, asking about it is a greeting, and its second character got luckier in simplification than any other.
+声音	shēng yīn	sound; voice — A chime-stone struck beside an ear: the word for sound welds raw noise to patterned tone, and Chinese theory kept the two distinct.
 诗词	shī cí	Chinese poetry — Poetry stood at the center of Chinese civilization for two thousand years: the primary medium for expressing emotion, demonstrating education, and participating in the social life of the literati class.
 时候	shí hou	time, moment — The everyday word for a point in time, and the indispensable 的时候 ("when") pattern that every learner needs.
 时间	shí jiān	time — Time: the compound that anchors all temporal expression in Mandarin.
@@ -290,6 +293,7 @@
 一定	yí dìng	definitely; certainly — The everyday word for "certainly, definitely," covering both confident prediction and firm resolve, the 一定要 (must) pattern, and how it differs from 肯定, 必须, and 一定会.
 一会儿	yí huì r	a short while — The everyday word for a little while, how it marks both a short duration and the near future, and how it differs from the verb-softener 一下 and from 等会儿.
 一起	yì qǐ	together — The everyday word for "together," the 跟…一起 frame for joint action, the "in one place" sense, the "altogether" use of 一起, and how it differs from 一块儿, 一同, and 一共.
+音乐	yīn yu è	music — Music and joy share a single character, a soulmate is "the one who knows your tone," and the zither smashed for a dead friend still echoes.
 缘分	yuán fèn	karmic connection — Buddhist-rooted fate that ties strangers, lovers, and old friends.
 正在	zhèng zài	currently doing, progressive aspect — The primary progressive marker in Mandarin -- placed before a verb to signal an action caught in mid-motion, exactly now, still in progress.
 中国	Zhōng guó	the Middle Kingdom; China — Two characters older than the country they now name. 中 (center) and 国 (state) joined three thousand years ago to mean "the central states"; the modern country took the phrase for itself only in the 19th century.
@@ -316,10 +320,13 @@
 多少 / 几	duō shao / jǐ	how many, how much — The two question words for quantity: 几 for small countable numbers and 多少 for larger or unknown amounts, why 几 needs a measure word and 多少 may skip it, and how to ask prices and ages.
 而且	ér qiě	moreover, and furthermore — Additive conjunction that layers information: not just "and" but "and on top of that."
 还是 / 或者	hái shi / huò zhě	"or" in questions vs. statements — Chinese splits English "or" in two: 还是 offers a choice in a question, 或者 offers an alternative in a statement. Using the wrong one is a classic error.
+结果补语	jié guǒ bǔ yǔ	resultative complements — Chinese verbs describe the attempt; a second syllable reports the outcome. Listening is 听, but understanding what you heard is 听懂.
 就 vs. 才	jiù / cái	sooner vs. later — The timing and emphasis pair: speaker attitude encoded in one syllable.
 可能	kěn éng	maybe, possible — The all-purpose word for possibility, working as adverb, adjective, and noun, and how it differs from 也许, 或许, 大概, and the modal 会.
+可能补语	kěn éng bǔ yǔ	potential complements — Slide 得 or 不 inside a verb-result pair and it states ability: 听懂 is understood, 听得懂 is can understand, 听不懂 is the learner's anthem.
 来	lái / qù	去 · directional complements — 上来, 下去, 出去, 进来: the motion complement system mapped.
 离	lí	away from; distance — The coverb for distance and separation: the A 离 B + distance pattern for "how far", the verb sense "to leave / part from", and how 离 differs from 从 and 到 in marking space and time.
+离合词	lí hé cí	separable verbs — Words that unzip: 见面 is to meet, but meeting him is 跟他见面 and meeting once is 见一次面, because the "word" is secretly verb plus object.
 量词	liàng cí	measure words — 个, 只, 条, 本, 张: the classifier taxonomy and the logic behind it.
 没有	méi yǒu	negation of possession and past action — The two most important negation characters, 不 and 没, and why they cannot be swapped.
 起来	qǐ lái	directional complement: upward, inward, beginning — The most versatile directional complement in Mandarin: three distinct grammatical lives.
@@ -337,4 +344,5 @@
 应该	yīng gāi	the modal "should" — The modal verb for "should, ought to," covering both moral obligation and confident inference, and how it differs from 得, 要, and 必须.
 越来越	yu è lái yu è	more and more; increasingly — The degree escalation pattern: expressing a quality that grows continuously over time.
 在	zài	location, existence, and the progressive — One of the busiest words in Mandarin: the verb "to be at," the location coverb "at/in," and the progressive marker for ongoing action.
+正反问	zhèng fǎn wèn	A-not-A questions — Chinese asks yes-no questions by offering both answers: 去不去 is "going, not going?", and the pattern replaces 吗 with built-in neutrality.
 只有…才	zhǐ yǒu cái	only if…then; the restrictive conditional — The exclusive condition: only when X is met can Y happen. The grammatical frame for necessity.

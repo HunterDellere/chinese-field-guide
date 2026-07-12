@@ -1,5 +1,23 @@
 [
   {
+    "path": "pages/characters/chan2_禅.html",
+    "type": "character",
+    "category": "characters",
+    "title": "禅 · meditation; Chan; to abdicate",
+    "desc": "One altar character, two civilizations: read shàn it yields thrones and sacrifices to earth; read chán it transliterates Sanskrit dhyāna and founds Zen.",
+    "tags": [
+      "buddhism",
+      "chan",
+      "religion"
+    ],
+    "status": "complete",
+    "char": "禅",
+    "pinyin": "chán",
+    "tone": 2,
+    "radical": "礻",
+    "updated": "2026-07-11"
+  },
+  {
     "path": "pages/characters/xing1_星.html",
     "type": "character",
     "category": "characters",
@@ -121,6 +139,81 @@
     "updated": "2026-07-11"
   },
   {
+    "path": "pages/grammar/jieguobuyu_结果补语.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "结果补语 · resultative complements",
+    "desc": "Chinese verbs describe the attempt; a second syllable reports the outcome. Listening is 听, but understanding what you heard is 听懂.",
+    "tags": [
+      "grammar",
+      "syntax",
+      "aspect"
+    ],
+    "status": "complete",
+    "pinyin": "jiéguǒ bǔyǔ",
+    "updated": "2026-07-11"
+  },
+  {
+    "path": "pages/grammar/kenengbuyu_可能补语.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "可能补语 · potential complements",
+    "desc": "Slide 得 or 不 inside a verb-result pair and it states ability: 听懂 is understood, 听得懂 is can understand, 听不懂 is the learner's anthem.",
+    "tags": [
+      "grammar",
+      "syntax",
+      "spoken"
+    ],
+    "status": "complete",
+    "pinyin": "kěnéng bǔyǔ",
+    "updated": "2026-07-11"
+  },
+  {
+    "path": "pages/grammar/liheci_离合词.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "离合词 · separable verbs",
+    "desc": "Words that unzip: 见面 is to meet, but meeting him is 跟他见面 and meeting once is 见一次面, because the \"word\" is secretly verb plus object.",
+    "tags": [
+      "grammar",
+      "syntax",
+      "spoken"
+    ],
+    "status": "complete",
+    "pinyin": "líhécí",
+    "updated": "2026-07-11"
+  },
+  {
+    "path": "pages/grammar/you_zai_又再.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "又 · 再 · again, twice over",
+    "desc": "Chinese has two agains: 又 looks backward at a repetition that happened, 再 looks forward to one still to come. 再见 is the proof.",
+    "tags": [
+      "grammar",
+      "syntax",
+      "tense"
+    ],
+    "status": "complete",
+    "pinyin": "yòu / zài",
+    "updated": "2026-07-11"
+  },
+  {
+    "path": "pages/grammar/zhengfan_正反问.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "正反问 · A-not-A questions",
+    "desc": "Chinese asks yes-no questions by offering both answers: 去不去 is \"going, not going?\", and the pattern replaces 吗 with built-in neutrality.",
+    "tags": [
+      "grammar",
+      "syntax",
+      "spoken"
+    ],
+    "status": "complete",
+    "pinyin": "zhèngfǎn wèn",
+    "updated": "2026-07-11"
+  },
+  {
     "path": "pages/science/topic_gongcheng.html",
     "type": "topic",
     "category": "science",
@@ -239,6 +332,22 @@
     "updated": "2026-07-11"
   },
   {
+    "path": "pages/vocab/gaoxing_高兴.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "高兴 · happy, glad",
+    "desc": "Happiness as elevation: spirits that rise. The everyday glad word, and how it divides the territory with 开心, 快乐, and 幸福.",
+    "tags": [
+      "emotion",
+      "feeling",
+      "spoken",
+      "daily-life"
+    ],
+    "status": "complete",
+    "pinyin": "gāoxìng",
+    "updated": "2026-07-11"
+  },
+  {
     "path": "pages/vocab/kaoshi_考试.html",
     "type": "vocab",
     "category": "vocab",
@@ -256,6 +365,38 @@
     "updated": "2026-07-11"
   },
   {
+    "path": "pages/vocab/mingbai_明白.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "明白 · to understand; clear",
+    "desc": "Understanding as illumination: sun-and-moon brightness plus plain white. The clarity verb, and its siblings 懂, 知道, and 了解.",
+    "tags": [
+      "clarity",
+      "mind",
+      "learning",
+      "spoken"
+    ],
+    "status": "complete",
+    "pinyin": "míngbai",
+    "updated": "2026-07-11"
+  },
+  {
+    "path": "pages/vocab/shengyin_声音.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "声音 · sound; voice",
+    "desc": "A chime-stone struck beside an ear: the word for sound welds raw noise to patterned tone, and Chinese theory kept the two distinct.",
+    "tags": [
+      "phonology",
+      "communication",
+      "language",
+      "vocabulary"
+    ],
+    "status": "complete",
+    "pinyin": "shēngyīn",
+    "updated": "2026-07-11"
+  },
+  {
     "path": "pages/vocab/shenti_身体.html",
     "type": "vocab",
     "category": "vocab",
@@ -269,6 +410,22 @@
     ],
     "status": "complete",
     "pinyin": "shēntǐ",
+    "updated": "2026-07-11"
+  },
+  {
+    "path": "pages/vocab/yinyue_音乐.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "音乐 · music",
+    "desc": "Music and joy share a single character, a soulmate is \"the one who knows your tone,\" and the zither smashed for a dead friend still echoes.",
+    "tags": [
+      "music",
+      "arts",
+      "vocabulary",
+      "confucianism"
+    ],
+    "status": "complete",
+    "pinyin": "yīnyuè",
     "updated": "2026-07-11"
   },
   {

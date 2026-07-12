@@ -124,19 +124,23 @@
 笔记	bǐ jì	notes, jottings — Notes, jottings, and the Chinese literary tradition of the brush-record.
 春节	Chūn jié	Spring Festival — The most important holiday in the Chinese calendar: customs, foods, taboos, the reunion dinner, and the cultural weight of the Spring Festival.
 方向	fāng xiàng	direction; orientation — 方向 is the compass-word that holds together physical heading, life direction, political orientation, and the deeply Chinese sense that getting your bearings: 辨方向, is the first move in any undertaking.
+高兴	gāo xìng	happy, glad — Happiness as elevation: spirits that rise. The everyday glad word, and how it divides the territory with 开心, 快乐, and 幸福.
 工作	gōng zuò	work, job — The everyday word for work, both the activity and the job itself, and how it differs from 上班 (to go to work), 职业 (occupation), and 事业 (career).
 故事	gù shì	story, tale, narrative — Old affairs made into meaning: how the Chinese word for story encodes a philosophy of the past as the source of truth.
 江湖	jiāng hú	rivers and lakes — The outsider world of wanderers, martial artists, and street wisdom.
 良心	liáng xīn	conscience; innate moral sense — The good heart-mind: the Chinese word for conscience carries a philosophical claim that moral knowledge is a natural endowment, not an acquired rule.
 论语	Lún yǔ	The Analects of Confucius — The Analects: a thin book of recorded conversations and sayings that became the most quoted text in East Asian civilization, the entry point to Confucian thought, and the textbook of imperial education for two thousand years.
+明白	míng bai	to understand; clear — Understanding as illumination: sun-and-moon brightness plus plain white. The clarity verb, and its siblings 懂, 知道, and 了解.
 普通话	pǔ tōng huà	Mandarin Chinese — The common speech: how China standardized its national language, what Mandarin actually is, and how it relates to Cantonese, Shanghainese, and the Chinese dialects.
 然后	rán hòu	then; after that — The everyday sequence word for "then, after that," the 先…然后… frame for ordering steps, its overuse as a spoken filler, and how it differs from 接着, 后来, and 于是.
 山水画	shān shuǐ huà	Chinese Landscape Painting — Mountains and waters as a cosmological pair -- the genre that made ink the equal of philosophy.
+声音	shēng yīn	sound; voice — A chime-stone struck beside an ear: the word for sound welds raw noise to patterned tone, and Chinese theory kept the two distinct.
 诗词	shī cí	Chinese poetry — Poetry stood at the center of Chinese civilization for two thousand years: the primary medium for expressing emotion, demonstrating education, and participating in the social life of the literati class.
 天人合一	tiān rén hé yī	Heaven and humanity as one: the unity of cosmic and human order — The organizing claim of Chinese cosmology: Heaven and humanity are not separate domains, and human flourishing depends on alignment with the natural order.
 文明	wén míng	civilization; cultivated and refined — 文明 names both a state of cultivated life (literacy, ritual, the refined arts) and the global concept of civilization. The two meanings share a single Chinese word, and the doubling is the whole story.
 问题	wèn tí	question, problem — One word for both "question" and "problem", and the everyday phrases (没问题, 有问题, 出问题) built from it.
 一定	yí dìng	definitely; certainly — The everyday word for "certainly, definitely," covering both confident prediction and firm resolve, the 一定要 (must) pattern, and how it differs from 肯定, 必须, and 一定会.
+音乐	yīn yu è	music — Music and joy share a single character, a soulmate is "the one who knows your tone," and the zither smashed for a dead friend still echoes.
 中国画	zhōng guó huà	Chinese painting — Brush and ink as philosophy: Chinese painting aims to capture the spirit of a subject and express the painter's inner cultivation rather than represent what the eye sees.
 中文	zhōng wén	Chinese Language and Writing — 中文 names both the written script and the spoken language: the most common term among learners, but it sits alongside 汉语, 普通话, and 汉字 in a system of names that carries real distinctions.
 终于	zhōng yú	finally, at last — The adverb for "finally, at last," used when something long-awaited or hard-won comes to pass, where it sits in a sentence, and how it differs from 最后, 总算, and 到底.
@@ -148,9 +152,12 @@
 万丈高楼平地起	wàn zhàng gāo lóu píng dì qǐ	A tower ten thousand zhang tall rises from flat ground — The folk proverb that answers impatience: every immeasurable height begins on ordinary earth.
 愚公移山	yú gōng yí shān	The Foolish Old Man Moves the Mountains — Two mountains blocked his door. He and his sons began to move them, one basket at a time. A mocker laughed. He said: when I die my sons will continue; when they die, their sons.
 而且	ér qiě	moreover, and furthermore — Additive conjunction that layers information: not just "and" but "and on top of that."
+结果补语	jié guǒ bǔ yǔ	resultative complements — Chinese verbs describe the attempt; a second syllable reports the outcome. Listening is 听, but understanding what you heard is 听懂.
 就 vs. 才	jiù / cái	sooner vs. later — The timing and emphasis pair: speaker attitude encoded in one syllable.
 可能	kěn éng	maybe, possible — The all-purpose word for possibility, working as adverb, adjective, and noun, and how it differs from 也许, 或许, 大概, and the modal 会.
+可能补语	kěn éng bǔ yǔ	potential complements — Slide 得 or 不 inside a verb-result pair and it states ability: 听懂 is understood, 听得懂 is can understand, 听不懂 is the learner's anthem.
 离	lí	away from; distance — The coverb for distance and separation: the A 离 B + distance pattern for "how far", the verb sense "to leave / part from", and how 离 differs from 从 and 到 in marking space and time.
+离合词	lí hé cí	separable verbs — Words that unzip: 见面 is to meet, but meeting him is 跟他见面 and meeting once is 见一次面, because the "word" is secretly verb plus object.
 量词	liàng cí	measure words — 个, 只, 条, 本, 张: the classifier taxonomy and the logic behind it.
 如果…就	rú guǒ jiù	if … then — The foundational conditional frame: the engine of hypothetical reasoning in Mandarin.
 虽然…但是	suī rán dàn shì	although … but — The concession frame: granting the premise but pivoting to the real point.
