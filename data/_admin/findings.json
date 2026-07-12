@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-12T03:52:23.793Z",
+  "generated": "2026-07-12T03:58:09.222Z",
   "summary": {
     "errors": 0,
     "warnings": 2,
-    "info": 1292
+    "info": 1295
   },
   "findings": [
     {
@@ -4301,6 +4301,13 @@
     {
       "level": "INFO",
       "category": "formatting",
+      "file": "content/vocab/xiaoren_小人.md",
+      "msg": "4 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
       "file": "content/vocab/xihuan_喜欢.md",
       "msg": "3 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
@@ -4428,7 +4435,7 @@
       "level": "INFO",
       "category": "seo",
       "file": "_global",
-      "msg": "330 complete pages missing seo_title — default title leads with CJK and may lose English-SERP clicks. See SEO tab on the admin dashboard for the list.",
+      "msg": "331 complete pages missing seo_title — default title leads with CJK and may lose English-SERP clicks. See SEO tab on the admin dashboard for the list.",
       "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
     },
     {
@@ -4589,6 +4596,13 @@
       "level": "INFO",
       "category": "seo",
       "file": "content/vocab/shenti_身体.md",
+      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
+      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/vocab/xiaoren_小人.md",
       "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
       "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
     },
@@ -6745,7 +6759,7 @@
       "level": "INFO",
       "category": "seo",
       "file": "_global",
-      "msg": "330 complete pages missing seo_desc — default desc is hero copy, not SERP copy. See SEO tab on the admin dashboard for the list.",
+      "msg": "331 complete pages missing seo_desc — default desc is hero copy, not SERP copy. See SEO tab on the admin dashboard for the list.",
       "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
     },
     {
@@ -6906,6 +6920,13 @@
       "level": "INFO",
       "category": "seo",
       "file": "content/vocab/shenti_身体.md",
+      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
+      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/vocab/xiaoren_小人.md",
       "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
       "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
     },
