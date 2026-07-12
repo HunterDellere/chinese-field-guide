@@ -8156,6 +8156,87 @@
     },
     "pages/characters/huan4_换.html": {
       "voices": {}
+    },
+    "pages/characters/chan2_禅.html": {
+      "voices": {}
+    },
+    "pages/characters/xing1_星.html": {
+      "voices": {}
+    },
+    "pages/daily/topic_diannao_wangluo.html": {
+      "voices": {}
+    },
+    "pages/daily/topic_duliangheng.html": {
+      "voices": {}
+    },
+    "pages/daily/topic_kanbing.html": {
+      "voices": {}
+    },
+    "pages/daily/topic_shengyi.html": {
+      "voices": {}
+    },
+    "pages/daily/topic_shuzi_xitong.html": {
+      "voices": {}
+    },
+    "pages/daily/topic_tianqi.html": {
+      "voices": {}
+    },
+    "pages/grammar/jieguobuyu_结果补语.html": {
+      "voices": {}
+    },
+    "pages/grammar/kenengbuyu_可能补语.html": {
+      "voices": {}
+    },
+    "pages/grammar/liheci_离合词.html": {
+      "voices": {}
+    },
+    "pages/grammar/zhengfan_正反问.html": {
+      "voices": {}
+    },
+    "pages/science/topic_gongcheng.html": {
+      "voices": {}
+    },
+    "pages/science/topic_huaxue.html": {
+      "voices": {}
+    },
+    "pages/science/topic_shengwu.html": {
+      "voices": {}
+    },
+    "pages/science/topic_shuxue.html": {
+      "voices": {}
+    },
+    "pages/science/topic_tianwen.html": {
+      "voices": {}
+    },
+    "pages/science/topic_wuli.html": {
+      "voices": {}
+    },
+    "pages/vocab/duoshao_多少.html": {
+      "voices": {}
+    },
+    "pages/vocab/gaoxing_高兴.html": {
+      "voices": {}
+    },
+    "pages/vocab/kaoshi_考试.html": {
+      "voices": {}
+    },
+    "pages/vocab/mingbai_明白.html": {
+      "voices": {}
+    },
+    "pages/vocab/shengyin_声音.html": {
+      "voices": {}
+    },
+    "pages/vocab/shenti_身体.html": {
+      "voices": {}
+    },
+    "pages/vocab/xiaoren_小人.html": {
+      "voices": {}
+    },
+    "pages/vocab/yinyue_音乐.html": {
+      "voices": {}
+    },
+    "pages/vocab/yiyuan_医院.html": {
+      "voices": {}
     }
   },
   "inline": {
@@ -87626,7 +87707,7 @@
     "997fa8b4284f4ff2": {
       "text": "度量衡",
       "pinyin": "dùliànghéng",
-      "kind": "compound",
+      "kind": "section",
       "voices": {
         "xiaoxiao": {
           "hash": "0f85d381055d",
@@ -102073,6 +102154,834 @@
       "text": "换句话说",
       "pinyin": "huàn jù huà shuō",
       "kind": "compound",
+      "voices": {}
+    },
+    "0695cff1318d68b8": {
+      "text": "拈花微笑",
+      "pinyin": "niān huā wēi xiào",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "88c716d27599173b": {
+      "text": "醍醐灌顶",
+      "pinyin": "tíhú guàn dǐng",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "602516073b9aef7d": {
+      "text": "禅宗",
+      "pinyin": "chánzōng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "a88a7649873111bd": {
+      "text": "口头禅",
+      "pinyin": "kǒutóuchán",
+      "kind": "compound",
+      "voices": {}
+    },
+    "1d92e224d2ac7504": {
+      "text": "禅让",
+      "pinyin": "shànràng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "82adab5ab9baf54a": {
+      "text": "禅让与封禅",
+      "pinyin": "shànràng yǔ fēngshàn",
+      "kind": "section",
+      "voices": {}
+    },
+    "2acd65047d909d6f": {
+      "text": "禅那",
+      "pinyin": "chánnà",
+      "kind": "section",
+      "voices": {}
+    },
+    "24c3b27e32001cb5": {
+      "text": "星罗棋布",
+      "pinyin": "xīng luó qí bù",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "dc1024f1ce2fc975": {
+      "text": "披星戴月",
+      "pinyin": "pī xīng dài yuè",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "90d57c66da43e2c6": {
+      "text": "星星之火，可以燎原",
+      "pinyin": "xīngxing zhī huǒ, kěyǐ liáoyuán",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "f4c62aa0440394cc": {
+      "text": "星期",
+      "pinyin": "xīngqī",
+      "kind": "compound",
+      "voices": {}
+    },
+    "799167da34a9c1d0": {
+      "text": "明星",
+      "pinyin": "míngxīng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "16519f1ce55133af": {
+      "text": "火星",
+      "pinyin": "huǒxīng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "bb77142f25b79630": {
+      "text": "卫星",
+      "pinyin": "wèixīng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "030321e39cd7322f": {
+      "text": "星座",
+      "pinyin": "xīngzuò",
+      "kind": "compound",
+      "voices": {}
+    },
+    "7d772ded96975341": {
+      "text": "网",
+      "pinyin": "wǎng",
+      "kind": "section",
+      "voices": {}
+    },
+    "f56eb0f3982ad24e": {
+      "text": "网络用语",
+      "pinyin": "wǎngluò yòngyǔ",
+      "kind": "section",
+      "voices": {}
+    },
+    "1c527d93e62af916": {
+      "text": "斤与两",
+      "pinyin": "jīn yǔ liǎng",
+      "kind": "section",
+      "voices": {}
+    },
+    "3ddfef5a91e79bf7": {
+      "text": "里与亩",
+      "pinyin": "lǐ yǔ mǔ",
+      "kind": "section",
+      "voices": {}
+    },
+    "45ffc93df44e459e": {
+      "text": "公制",
+      "pinyin": "gōngzhì",
+      "kind": "section",
+      "voices": {}
+    },
+    "eca1af1094f65a0f": {
+      "text": "看病",
+      "pinyin": "kànbìng",
+      "kind": "section",
+      "voices": {}
+    },
+    "6175206bbd96c413": {
+      "text": "挂号",
+      "pinyin": "guàhào",
+      "kind": "section",
+      "voices": {}
+    },
+    "cc2bc012eb1b1f04": {
+      "text": "症状",
+      "pinyin": "zhèngzhuàng",
+      "kind": "section",
+      "voices": {}
+    },
+    "3b07063854d2a27a": {
+      "text": "多喝热水",
+      "pinyin": "duō hē rèshuǐ",
+      "kind": "section",
+      "voices": {}
+    },
+    "68d5dee4d18ccc5f": {
+      "text": "生意",
+      "pinyin": "shēngyì",
+      "kind": "section",
+      "voices": {}
+    },
+    "b06da22821090ae0": {
+      "text": "公司词汇",
+      "pinyin": "gōngsī cíhuì",
+      "kind": "section",
+      "voices": {}
+    },
+    "4a1dec8661a4d58f": {
+      "text": "赚与赔",
+      "pinyin": "zhuàn yǔ péi",
+      "kind": "section",
+      "voices": {}
+    },
+    "881cacaa57bffa4e": {
+      "text": "饭局",
+      "pinyin": "fànjú",
+      "kind": "section",
+      "voices": {}
+    },
+    "a3f1468c6b46f1da": {
+      "text": "一到九十九",
+      "pinyin": "yī dào jiǔshíjiǔ",
+      "kind": "section",
+      "voices": {}
+    },
+    "77f5eefbe078972a": {
+      "text": "万",
+      "pinyin": "wàn",
+      "kind": "section",
+      "voices": {}
+    },
+    "eed22454d920862d": {
+      "text": "二与两",
+      "pinyin": "èr yǔ liǎng",
+      "kind": "section",
+      "voices": {}
+    },
+    "c4a04863a71344d9": {
+      "text": "分数与折扣",
+      "pinyin": "fēnshù yǔ zhékòu",
+      "kind": "section",
+      "voices": {}
+    },
+    "216256948b884cc8": {
+      "text": "大写数字",
+      "pinyin": "dàxiě shùzì",
+      "kind": "section",
+      "voices": {}
+    },
+    "61f7cd8425554c16": {
+      "text": "下雨、刮风",
+      "pinyin": "xiàyǔ guāfēng",
+      "kind": "section",
+      "voices": {}
+    },
+    "5b2627df5da4dc32": {
+      "text": "天气预报",
+      "pinyin": "tiānqì yùbào",
+      "kind": "section",
+      "voices": {}
+    },
+    "ba6625699d0ebc07": {
+      "text": "风雨成语",
+      "pinyin": "fēngyǔ chéngyǔ",
+      "kind": "section",
+      "voices": {}
+    },
+    "2f6f4ffbd84c6bdf": {
+      "text": "学会",
+      "pinyin": "xuéhuì",
+      "kind": "compound",
+      "voices": {}
+    },
+    "bbbaddc46ac7266d": {
+      "text": "准备好",
+      "pinyin": "zhǔnbèi hǎo",
+      "kind": "compound",
+      "voices": {}
+    },
+    "07e94f605987c4ab": {
+      "text": "尝试与结果",
+      "pinyin": "chángshì yǔ jiéguǒ",
+      "kind": "section",
+      "voices": {}
+    },
+    "12138e087db1729c": {
+      "text": "常用补语",
+      "pinyin": "chángyòng bǔyǔ",
+      "kind": "section",
+      "voices": {}
+    },
+    "4a010ccf72a63f78": {
+      "text": "否定与把字句",
+      "pinyin": "fǒudìng yǔ bǎzìjù",
+      "kind": "section",
+      "voices": {}
+    },
+    "421d3b339300caca": {
+      "text": "来不及",
+      "pinyin": "láibují",
+      "kind": "compound",
+      "voices": {}
+    },
+    "419953ae287f5d9b": {
+      "text": "买不起",
+      "pinyin": "mǎibuqǐ",
+      "kind": "compound",
+      "voices": {}
+    },
+    "cb038af9fc14f2ef": {
+      "text": "睡不着",
+      "pinyin": "shuìbuzháo",
+      "kind": "compound",
+      "voices": {}
+    },
+    "0c100190bce594dc": {
+      "text": "受不了",
+      "pinyin": "shòubuliǎo",
+      "kind": "compound",
+      "voices": {}
+    },
+    "3d9e1cd4db5fed27": {
+      "text": "得与不",
+      "pinyin": "dé yǔ bù",
+      "kind": "section",
+      "voices": {}
+    },
+    "8ec8da960e98f444": {
+      "text": "词汇化的化石",
+      "pinyin": "cíhuìhuà de huàshí",
+      "kind": "section",
+      "voices": {}
+    },
+    "f233ad019448442c": {
+      "text": "与\"能\"之别",
+      "pinyin": "yǔ néng zhī bié",
+      "kind": "section",
+      "voices": {}
+    },
+    "c4636d92b76dbcbe": {
+      "text": "见面",
+      "pinyin": "jiàn//miàn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "bff366d5f73e7fe2": {
+      "text": "帮忙",
+      "pinyin": "bāng//máng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "4b67af20de24c36c": {
+      "text": "生气",
+      "pinyin": "shēng//qì",
+      "kind": "compound",
+      "voices": {}
+    },
+    "386dfd30864eebc1": {
+      "text": "结婚",
+      "pinyin": "jié//hūn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "6b4586da1dfe8241": {
+      "text": "词还是短语",
+      "pinyin": "cí háishi duǎnyǔ",
+      "kind": "section",
+      "voices": {}
+    },
+    "b93124745eb04131": {
+      "text": "怎么拆",
+      "pinyin": "zěnme chāi",
+      "kind": "section",
+      "voices": {}
+    },
+    "afcabbc52a594b13": {
+      "text": "宾语问题",
+      "pinyin": "bīnyǔ wèntí",
+      "kind": "section",
+      "voices": {}
+    },
+    "53371746fd437e11": {
+      "text": "又来了",
+      "pinyin": "yòu lái le",
+      "kind": "compound",
+      "voices": {}
+    },
+    "128139d260729809": {
+      "text": "已然与未然",
+      "pinyin": "yǐrán yǔ wèirán",
+      "kind": "section",
+      "voices": {}
+    },
+    "43132c34b49c7d71": {
+      "text": "语气与特例",
+      "pinyin": "yǔqì yǔ tèlì",
+      "kind": "section",
+      "voices": {}
+    },
+    "e665d6f342bbc291": {
+      "text": "好不好",
+      "pinyin": "hǎo bu hǎo",
+      "kind": "compound",
+      "voices": {}
+    },
+    "08473a610d21c470": {
+      "text": "是不是",
+      "pinyin": "shìbushì",
+      "kind": "compound",
+      "voices": {}
+    },
+    "0fbc00f109724fca": {
+      "text": "有没有",
+      "pinyin": "yǒuméiyǒu",
+      "kind": "compound",
+      "voices": {}
+    },
+    "ef86f8911c3224ca": {
+      "text": "对不对",
+      "pinyin": "duì bu duì",
+      "kind": "compound",
+      "voices": {}
+    },
+    "ca7c1dc024b6ff34": {
+      "text": "去不去",
+      "pinyin": "qù bu qù",
+      "kind": "section",
+      "voices": {}
+    },
+    "7db06cd66aada66b": {
+      "text": "是不是、有没有",
+      "pinyin": "shìbushì yǒuméiyǒu",
+      "kind": "section",
+      "voices": {}
+    },
+    "9b5855c1ce16a35a": {
+      "text": "与\"吗\"之别",
+      "pinyin": "yǔ ma zhī bié",
+      "kind": "section",
+      "voices": {}
+    },
+    "f680869ae9b346ec": {
+      "text": "工程",
+      "pinyin": "gōngchéng",
+      "kind": "section",
+      "voices": {}
+    },
+    "7fcd0b55f8b321a7": {
+      "text": "工程分支",
+      "pinyin": "gōngchéng fēnzhī",
+      "kind": "section",
+      "voices": {}
+    },
+    "38428a988e016c3c": {
+      "text": "古代工程",
+      "pinyin": "gǔdài gōngchéng",
+      "kind": "section",
+      "voices": {}
+    },
+    "d954f112b6c95c1f": {
+      "text": "基础建设",
+      "pinyin": "jīchǔ jiànshè",
+      "kind": "section",
+      "voices": {}
+    },
+    "d6cbee38b067bf10": {
+      "text": "化学",
+      "pinyin": "huàxué",
+      "kind": "section",
+      "voices": {}
+    },
+    "83964b6167962a8f": {
+      "text": "元素周期表",
+      "pinyin": "yuánsù zhōuqībiǎo",
+      "kind": "section",
+      "voices": {}
+    },
+    "4392bce7d2646382": {
+      "text": "徐寿",
+      "pinyin": "Xú Shòu",
+      "kind": "section",
+      "voices": {}
+    },
+    "249551dc161c26bc": {
+      "text": "实验室与厨房",
+      "pinyin": "shíyànshì yǔ chúfáng",
+      "kind": "section",
+      "voices": {}
+    },
+    "fcf68fc0fadbbf66": {
+      "text": "动物命名",
+      "pinyin": "dòngwù mìngmíng",
+      "kind": "section",
+      "voices": {}
+    },
+    "dde9546e7f0c6d04": {
+      "text": "部首分类学",
+      "pinyin": "bùshǒu fēnlèixué",
+      "kind": "section",
+      "voices": {}
+    },
+    "a5518406193ca674": {
+      "text": "细胞与基因",
+      "pinyin": "xìbāo yǔ jīyīn",
+      "kind": "section",
+      "voices": {}
+    },
+    "eb95d9da8a594af5": {
+      "text": "数学",
+      "pinyin": "shùxué",
+      "kind": "section",
+      "voices": {}
+    },
+    "a1dae02ce479fd91": {
+      "text": "加减乘除",
+      "pinyin": "jiā jiǎn chéng chú",
+      "kind": "section",
+      "voices": {}
+    },
+    "daa86b4d2e576459": {
+      "text": "数学分支",
+      "pinyin": "shùxué fēnzhī",
+      "kind": "section",
+      "voices": {}
+    },
+    "9c911db52758f52c": {
+      "text": "古代数学",
+      "pinyin": "gǔdài shùxué",
+      "kind": "section",
+      "voices": {}
+    },
+    "430a2e1f3d57fdc2": {
+      "text": "天文",
+      "pinyin": "tiānwén",
+      "kind": "section",
+      "voices": {}
+    },
+    "fc076b20e750db09": {
+      "text": "五行行星",
+      "pinyin": "wǔxíng xíngxīng",
+      "kind": "section",
+      "voices": {}
+    },
+    "ab49d563bd2d2847": {
+      "text": "星的家族",
+      "pinyin": "xīng de jiāzú",
+      "kind": "section",
+      "voices": {}
+    },
+    "9ac0258df39b36fe": {
+      "text": "宇宙与航天",
+      "pinyin": "yǔzhòu yǔ hángtiān",
+      "kind": "section",
+      "voices": {}
+    },
+    "55d54a65e9326ee2": {
+      "text": "力、功、能",
+      "pinyin": "lì gōng néng",
+      "kind": "section",
+      "voices": {}
+    },
+    "d011e69fa7063082": {
+      "text": "光与电",
+      "pinyin": "guāng yǔ diàn",
+      "kind": "section",
+      "voices": {}
+    },
+    "622363f353c7bead": {
+      "text": "现代物理",
+      "pinyin": "xiàndài wùlǐ",
+      "kind": "section",
+      "voices": {}
+    },
+    "27041a58da2b3810": {
+      "text": "积少成多",
+      "pinyin": "jī shǎo chéng duō",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "e892d5565c277209": {
+      "text": "僧多粥少",
+      "pinyin": "sēng duō zhōu shǎo",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "0ae29d9bf2b98540": {
+      "text": "凶多吉少",
+      "pinyin": "xiōng duō jí shǎo",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "29e2160c95a1b969": {
+      "text": "多多少少",
+      "pinyin": "duōduō shǎoshǎo",
+      "kind": "compound",
+      "voices": {}
+    },
+    "f8ca6c7b72bf6d08": {
+      "text": "反义合成",
+      "pinyin": "fǎnyì héchéng",
+      "kind": "section",
+      "voices": {}
+    },
+    "f49f78c427193b0f": {
+      "text": "几与多少",
+      "pinyin": "jǐ yǔ duōshao",
+      "kind": "section",
+      "voices": {}
+    },
+    "bbbb938bd026337a": {
+      "text": "多字问句",
+      "pinyin": "duō zì wènjù",
+      "kind": "section",
+      "voices": {}
+    },
+    "bb2a0298edbba584": {
+      "text": "兴高采烈",
+      "pinyin": "xìng gāo cǎi liè",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "99bfa5f417053e40": {
+      "text": "乐极生悲",
+      "pinyin": "lè jí shēng bēi",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "35cf17750d3a946d": {
+      "text": "兴趣",
+      "pinyin": "xìngqù",
+      "kind": "compound",
+      "voices": {}
+    },
+    "21ac08424ac6e9f8": {
+      "text": "近义词地图",
+      "pinyin": "jìnyìcí dìtú",
+      "kind": "section",
+      "voices": {}
+    },
+    "31f8c9a6cc6b2cab": {
+      "text": "名落孙山",
+      "pinyin": "míng luò Sūn Shān",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "b666b95ee4f737fe": {
+      "text": "十年寒窗",
+      "pinyin": "shí nián hán chuāng",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "466625848878648c": {
+      "text": "临时抱佛脚",
+      "pinyin": "línshí bào fójiǎo",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "6c6683d086c7cf39": {
+      "text": "及格",
+      "pinyin": "jígé",
+      "kind": "compound",
+      "voices": {}
+    },
+    "f9fbc53007cdc92e": {
+      "text": "复习",
+      "pinyin": "fùxí",
+      "kind": "compound",
+      "voices": {}
+    },
+    "4242f45c0a0e33a2": {
+      "text": "作弊",
+      "pinyin": "zuòbì",
+      "kind": "compound",
+      "voices": {}
+    },
+    "2a29a608637a235c": {
+      "text": "高考",
+      "pinyin": "gāokǎo",
+      "kind": "section",
+      "voices": {}
+    },
+    "309ef73130573887": {
+      "text": "恍然大悟",
+      "pinyin": "huǎngrán dà wù",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "aa17f7c6e95e886d": {
+      "text": "真相大白",
+      "pinyin": "zhēnxiàng dà bái",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "d879351cae03d647": {
+      "text": "心知肚明",
+      "pinyin": "xīn zhī dù míng",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "4fd41ce687a2e287": {
+      "text": "难得糊涂",
+      "pinyin": "nándé hútu",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "b1fc51d398fa8522": {
+      "text": "知道的家族",
+      "pinyin": "zhīdào de jiāzú",
+      "kind": "section",
+      "voices": {}
+    },
+    "99b36c073dbba0e2": {
+      "text": "掩耳盗铃",
+      "pinyin": "yǎn ěr dào líng",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "1737aab955343acb": {
+      "text": "声与音",
+      "pinyin": "shēng yǔ yīn",
+      "kind": "section",
+      "voices": {}
+    },
+    "c060455ac6dd52e1": {
+      "text": "明哲保身",
+      "pinyin": "míng zhé bǎo shēn",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "317c6e2f209d3d60": {
+      "text": "健康",
+      "pinyin": "jiànkāng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "d5287cc6bf772cec": {
+      "text": "健身",
+      "pinyin": "jiànshēn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "0a0d546ba778d1d9": {
+      "text": "身材",
+      "pinyin": "shēncái",
+      "kind": "compound",
+      "voices": {}
+    },
+    "22540e179b761a0a": {
+      "text": "身体部位",
+      "pinyin": "shēntǐ bùwèi",
+      "kind": "section",
+      "voices": {}
+    },
+    "8f07d2dde5a9dce2": {
+      "text": "小人得志",
+      "pinyin": "xiǎorén dézhì",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "5f47129ba45dd3aa": {
+      "text": "以小人之心，度君子之腹",
+      "pinyin": "yǐ xiǎorén zhī xīn, duó jūnzǐ zhī fù",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "4158b7545509dfac": {
+      "text": "先小人后君子",
+      "pinyin": "xiān xiǎorén hòu jūnzǐ",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "fecb446feb30e933": {
+      "text": "亲贤臣，远小人",
+      "pinyin": "qīn xiánchén, yuǎn xiǎorén",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "8ddbebb9ffab0f58": {
+      "text": "小气",
+      "pinyin": "xiǎoqì",
+      "kind": "compound",
+      "voices": {}
+    },
+    "ba7af4d52d69e37f": {
+      "text": "小心眼",
+      "pinyin": "xiǎoxīnyǎn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "5a6d7eb192ae7ca9": {
+      "text": "小聪明",
+      "pinyin": "xiǎocōngming",
+      "kind": "compound",
+      "voices": {}
+    },
+    "591c68de2f640ebf": {
+      "text": "得罪",
+      "pinyin": "dézuì",
+      "kind": "compound",
+      "voices": {}
+    },
+    "db5327424c811051": {
+      "text": "从身份到品格",
+      "pinyin": "cóng shēnfèn dào pǐngé",
+      "kind": "section",
+      "voices": {}
+    },
+    "e0f1af12232e4e36": {
+      "text": "论语对举",
+      "pinyin": "Lúnyǔ duìjǔ",
+      "kind": "section",
+      "voices": {}
+    },
+    "7517a10a480fe232": {
+      "text": "滥竽充数",
+      "pinyin": "làn yú chōng shù",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "9f160d708bc9e01c": {
+      "text": "高山流水",
+      "pinyin": "gāo shān liú shuǐ",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "aeb96c3dc897dc8e": {
+      "text": "音乐会",
+      "pinyin": "yīnyuèhuì",
+      "kind": "compound",
+      "voices": {}
+    },
+    "8e48cafebe94d275": {
+      "text": "礼乐",
+      "pinyin": "lǐyuè",
+      "kind": "section",
+      "voices": {}
+    },
+    "576dd379898e003e": {
+      "text": "对症下药",
+      "pinyin": "duì zhèng xià yào",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "aaea974a7d3a4119": {
+      "text": "病急乱投医",
+      "pinyin": "bìng jí luàn tóu yī",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "29a407a25db399cd": {
+      "text": "久病成医",
+      "pinyin": "jiǔ bìng chéng yī",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "92aed9695cb2ebb0": {
+      "text": "住院",
+      "pinyin": "zhùyuàn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "2a4a1764f3477289": {
+      "text": "护士",
+      "pinyin": "hùshi",
+      "kind": "compound",
+      "voices": {}
+    },
+    "ad31cf18fdfd1517": {
+      "text": "院的家族",
+      "pinyin": "yuàn de jiāzú",
+      "kind": "section",
+      "voices": {}
+    },
+    "735354c62d15ebd6": {
+      "text": "院内",
+      "pinyin": "yuàn nèi",
+      "kind": "section",
       "voices": {}
     }
   }
