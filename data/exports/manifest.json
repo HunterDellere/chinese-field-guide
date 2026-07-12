@@ -1,17 +1,17 @@
 {
-  "generated": "2026-07-12T02:36:42.422Z",
+  "generated": "2026-07-12T03:27:34.546Z",
   "files": [
     {
       "file": "pleco-characters.txt",
       "format": "pleco",
       "type": "characters",
-      "count": 340
+      "count": 341
     },
     {
       "file": "pleco-vocab.txt",
       "format": "pleco",
       "type": "vocab",
-      "count": 97
+      "count": 101
     },
     {
       "file": "pleco-chengyu.txt",
@@ -23,19 +23,19 @@
       "file": "pleco-all.txt",
       "format": "pleco",
       "type": "all",
-      "count": 458
+      "count": 463
     },
     {
       "file": "anki-characters.tsv",
       "format": "anki-tsv",
       "type": "characters",
-      "count": 340
+      "count": 341
     },
     {
       "file": "anki-vocab.tsv",
       "format": "anki-tsv",
       "type": "vocab",
-      "count": 97
+      "count": 101
     },
     {
       "file": "anki-chengyu.tsv",
@@ -47,13 +47,13 @@
       "file": "characters.apkg",
       "format": "anki-apkg",
       "type": "characters",
-      "count": 340
+      "count": 341
     },
     {
       "file": "vocab.apkg",
       "format": "anki-apkg",
       "type": "vocab",
-      "count": 97
+      "count": 101
     },
     {
       "file": "chengyu.apkg",
@@ -65,7 +65,7 @@
       "file": "all.apkg",
       "format": "anki-apkg",
       "type": "all",
-      "count": 458
+      "count": 463
     }
   ],
   "slices": [
@@ -75,12 +75,12 @@
       "cn": "character",
       "dimension": "type",
       "criterion": "character",
-      "description": "All 340 character cards in the corpus.",
-      "count": 340,
+      "description": "All 341 character cards in the corpus.",
+      "count": 341,
       "apkg": "slices/type-character.apkg",
       "pleco": "slices/type-character.txt",
       "hskBreakdown": {
-        "hsk-1": 130,
+        "hsk-1": 131,
         "hsk-2": 122,
         "hsk-3": 61,
         "hsk-4": 20,
@@ -95,17 +95,17 @@
       "cn": "词汇",
       "dimension": "type",
       "criterion": "vocab",
-      "description": "All 97 vocab cards in the corpus.",
-      "count": 97,
+      "description": "All 101 vocab cards in the corpus.",
+      "count": 101,
       "apkg": "slices/type-vocab.apkg",
       "pleco": "slices/type-vocab.txt",
       "hskBreakdown": {
         "hsk-5": 3,
-        "unknown": 13,
+        "unknown": 15,
         "hsk-2": 20,
         "hsk-3": 27,
         "hsk-4": 10,
-        "hsk-1": 24
+        "hsk-1": 26
       }
     },
     {
@@ -152,11 +152,11 @@
       "dimension": "hsk",
       "criterion": 1,
       "description": "Just HSK level 1 on its own (authored or inferred from constituent characters).",
-      "count": 175,
+      "count": 178,
       "apkg": "slices/hsk-1.apkg",
       "pleco": "slices/hsk-1.txt",
       "hskBreakdown": {
-        "hsk-1": 175
+        "hsk-1": 178
       }
     },
     {
@@ -236,11 +236,11 @@
       "dimension": "hsk-ladder",
       "criterion": 1,
       "description": "Just HSK 1 — the foundation deck for absolute beginners.",
-      "count": 175,
+      "count": 178,
       "apkg": "slices/hsk-up-to-1.apkg",
       "pleco": "slices/hsk-up-to-1.txt",
       "hskBreakdown": {
-        "hsk-1": 175
+        "hsk-1": 178
       }
     },
     {
@@ -250,11 +250,11 @@
       "dimension": "hsk-ladder",
       "criterion": 2,
       "description": "Cumulative deck: every card from HSK 1 up to and including HSK 2.",
-      "count": 336,
+      "count": 339,
       "apkg": "slices/hsk-up-to-2.apkg",
       "pleco": "slices/hsk-up-to-2.txt",
       "hskBreakdown": {
-        "hsk-1": 175,
+        "hsk-1": 178,
         "hsk-2": 161
       }
     },
@@ -265,11 +265,11 @@
       "dimension": "hsk-ladder",
       "criterion": 3,
       "description": "Cumulative deck: every card from HSK 1 up to and including HSK 3.",
-      "count": 426,
+      "count": 429,
       "apkg": "slices/hsk-up-to-3.apkg",
       "pleco": "slices/hsk-up-to-3.txt",
       "hskBreakdown": {
-        "hsk-1": 175,
+        "hsk-1": 178,
         "hsk-2": 161,
         "hsk-3": 90
       }
@@ -281,11 +281,11 @@
       "dimension": "hsk-ladder",
       "criterion": 4,
       "description": "Cumulative deck: every card from HSK 1 up to and including HSK 4.",
-      "count": 458,
+      "count": 461,
       "apkg": "slices/hsk-up-to-4.apkg",
       "pleco": "slices/hsk-up-to-4.txt",
       "hskBreakdown": {
-        "hsk-1": 175,
+        "hsk-1": 178,
         "hsk-2": 161,
         "hsk-3": 90,
         "hsk-4": 32
@@ -298,11 +298,11 @@
       "dimension": "hsk-ladder",
       "criterion": 5,
       "description": "Cumulative deck: every card from HSK 1 up to and including HSK 5.",
-      "count": 467,
+      "count": 470,
       "apkg": "slices/hsk-up-to-5.apkg",
       "pleco": "slices/hsk-up-to-5.txt",
       "hskBreakdown": {
-        "hsk-1": 175,
+        "hsk-1": 178,
         "hsk-2": 161,
         "hsk-3": 90,
         "hsk-4": 32,
@@ -316,11 +316,11 @@
       "dimension": "hsk-ladder",
       "criterion": 6,
       "description": "Cumulative deck: every card from HSK 1 up to and including HSK 6.",
-      "count": 468,
+      "count": 471,
       "apkg": "slices/hsk-up-to-6.apkg",
       "pleco": "slices/hsk-up-to-6.txt",
       "hskBreakdown": {
-        "hsk-1": 175,
+        "hsk-1": 178,
         "hsk-2": 161,
         "hsk-3": 90,
         "hsk-4": 32,
@@ -386,13 +386,13 @@
       "cn": "身体",
       "dimension": "tag",
       "criterion": "body",
-      "description": "Cards tagged body — 22 entries.",
-      "count": 22,
+      "description": "Cards tagged body — 23 entries.",
+      "count": 23,
       "apkg": "slices/tag-body.apkg",
       "pleco": "slices/tag-body.txt",
       "hskBreakdown": {
         "hsk-2": 8,
-        "hsk-1": 6,
+        "hsk-1": 7,
         "hsk-4": 3,
         "hsk-3": 5
       }
@@ -625,11 +625,11 @@
       "dimension": "intent",
       "criterion": "survival-mandarin",
       "description": "Everything an absolute beginner needs in week one: HSK 1 vocab, basic characters, foundational grammar (是/不是, 有/没有, 在), question words, numbers.",
-      "count": 188,
+      "count": 191,
       "apkg": "slices/intent-survival-mandarin.apkg",
       "pleco": "slices/intent-survival-mandarin.txt",
       "hskBreakdown": {
-        "hsk-1": 175,
+        "hsk-1": 178,
         "hsk-2": 13
       }
     },
