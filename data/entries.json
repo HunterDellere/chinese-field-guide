@@ -413,6 +413,22 @@
     "updated": "2026-07-11"
   },
   {
+    "path": "pages/vocab/xiaoren_小人.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "小人 · the petty person",
+    "desc": "Confucius took a word that meant \"commoner\" and turned it into the permanent opposite of the gentleman: the small-hearted schemer of every office.",
+    "tags": [
+      "confucianism",
+      "social",
+      "daily-life",
+      "vocabulary"
+    ],
+    "status": "complete",
+    "pinyin": "xiǎorén",
+    "updated": "2026-07-11"
+  },
+  {
     "path": "pages/vocab/yinyue_音乐.html",
     "type": "vocab",
     "category": "vocab",

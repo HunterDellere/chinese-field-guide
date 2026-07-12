@@ -92,6 +92,30 @@
     ],
     "hasPage": true
   },
+  "君子": {
+    "cn": "君子",
+    "py": "jūnzǐ",
+    "en": "noble person; exemplary person",
+    "count": 15,
+    "appearsOn": [
+      "pages/characters/de2_德.html",
+      "pages/characters/ren2_仁.html",
+      "pages/characters/xiao3_小.html",
+      "pages/characters/yi4_义.html",
+      "pages/characters/yu4_玉.html",
+      "pages/characters/zhi4_智.html",
+      "pages/characters/zi3_子.html",
+      "pages/chengyu/junzibugui_君子不器.html",
+      "pages/philosophy/topic_zhengming.html",
+      "pages/religion/topic_rujia.html",
+      "pages/vocab/kaoshi_考试.html",
+      "pages/vocab/lunyu_论语.html",
+      "pages/vocab/qianxu_谦虚.html",
+      "pages/vocab/ren2_仁.html",
+      "pages/vocab/xiaoren_小人.html"
+    ],
+    "hasPage": true
+  },
   "天": {
     "cn": "天",
     "py": "tiān",
@@ -137,29 +161,6 @@
       "pages/vocab/fengshui_风水.html",
       "pages/vocab/qiankun_乾坤.html",
       "pages/vocab/tiandi_天地.html"
-    ],
-    "hasPage": true
-  },
-  "君子": {
-    "cn": "君子",
-    "py": "jūnzǐ",
-    "en": "noble person; exemplary person",
-    "count": 14,
-    "appearsOn": [
-      "pages/characters/de2_德.html",
-      "pages/characters/ren2_仁.html",
-      "pages/characters/xiao3_小.html",
-      "pages/characters/yi4_义.html",
-      "pages/characters/yu4_玉.html",
-      "pages/characters/zhi4_智.html",
-      "pages/characters/zi3_子.html",
-      "pages/chengyu/junzibugui_君子不器.html",
-      "pages/philosophy/topic_zhengming.html",
-      "pages/religion/topic_rujia.html",
-      "pages/vocab/kaoshi_考试.html",
-      "pages/vocab/lunyu_论语.html",
-      "pages/vocab/qianxu_谦虚.html",
-      "pages/vocab/ren2_仁.html"
     ],
     "hasPage": true
   },
@@ -333,6 +334,26 @@
     ],
     "hasPage": true
   },
+  "面子": {
+    "cn": "面子",
+    "py": "miànzi",
+    "en": "social face; dignity",
+    "count": 11,
+    "appearsOn": [
+      "pages/characters/lian3_脸.html",
+      "pages/characters/mian4_面.html",
+      "pages/daily/topic_diannao_wangluo.html",
+      "pages/daily/topic_kouyu_lianjieci.html",
+      "pages/daily/topic_shengyi.html",
+      "pages/vocab/guanxi_关系.html",
+      "pages/vocab/keqi_客气.html",
+      "pages/vocab/limao_礼貌.html",
+      "pages/vocab/qianxu_谦虚.html",
+      "pages/vocab/shehui_社会.html",
+      "pages/vocab/xiaoren_小人.html"
+    ],
+    "hasPage": true
+  },
   "月": {
     "cn": "月",
     "py": "yuè",
@@ -410,22 +431,22 @@
     ],
     "hasPage": true
   },
-  "面子": {
-    "cn": "面子",
-    "py": "miànzi",
-    "en": "social face; dignity",
+  "良心": {
+    "cn": "良心",
+    "py": "liángxīn",
+    "en": "conscience",
     "count": 10,
     "appearsOn": [
-      "pages/characters/lian3_脸.html",
-      "pages/characters/mian4_面.html",
-      "pages/daily/topic_diannao_wangluo.html",
-      "pages/daily/topic_kouyu_lianjieci.html",
-      "pages/daily/topic_shengyi.html",
-      "pages/vocab/guanxi_关系.html",
-      "pages/vocab/keqi_客气.html",
-      "pages/vocab/limao_礼貌.html",
-      "pages/vocab/qianxu_谦虚.html",
-      "pages/vocab/shehui_社会.html"
+      "pages/characters/de2_德.html",
+      "pages/characters/ren2_仁.html",
+      "pages/characters/shan4_善.html",
+      "pages/characters/xin1_心.html",
+      "pages/daily/topic_duliangheng.html",
+      "pages/philosophy/topic_yangming.html",
+      "pages/vocab/daode_道德.html",
+      "pages/vocab/ren2_仁.html",
+      "pages/vocab/tiandi_天地.html",
+      "pages/vocab/xiaoren_小人.html"
     ],
     "hasPage": true
   },
@@ -633,6 +654,24 @@
     ],
     "hasPage": true
   },
+  "关系": {
+    "cn": "关系",
+    "py": "guānxi",
+    "en": "relationship, connection",
+    "count": 9,
+    "appearsOn": [
+      "pages/characters/guan1_关.html",
+      "pages/characters/xi4_系.html",
+      "pages/daily/topic_chifan.html",
+      "pages/daily/topic_shengyi.html",
+      "pages/vocab/keqi_客气.html",
+      "pages/vocab/mianzi_面子.html",
+      "pages/vocab/pengyou_朋友.html",
+      "pages/vocab/shehui_社会.html",
+      "pages/vocab/xiaoren_小人.html"
+    ],
+    "hasPage": true
+  },
   "汉字": {
     "cn": "汉字",
     "py": "Hànzì",
@@ -648,24 +687,6 @@
       "pages/vocab/shengyin_声音.html",
       "pages/vocab/wenhua_文化.html",
       "pages/vocab/zhongguo_zhongwen_中文.html"
-    ],
-    "hasPage": true
-  },
-  "良心": {
-    "cn": "良心",
-    "py": "liángxīn",
-    "en": "conscience",
-    "count": 9,
-    "appearsOn": [
-      "pages/characters/de2_德.html",
-      "pages/characters/ren2_仁.html",
-      "pages/characters/shan4_善.html",
-      "pages/characters/xin1_心.html",
-      "pages/daily/topic_duliangheng.html",
-      "pages/philosophy/topic_yangming.html",
-      "pages/vocab/daode_道德.html",
-      "pages/vocab/ren2_仁.html",
-      "pages/vocab/tiandi_天地.html"
     ],
     "hasPage": true
   },
@@ -807,23 +828,6 @@
       "pages/grammar/liheci_离合词.html",
       "pages/science/topic_gongcheng.html",
       "pages/vocab/kaoshi_考试.html"
-    ],
-    "hasPage": true
-  },
-  "关系": {
-    "cn": "关系",
-    "py": "guānxi",
-    "en": "relationship, connection",
-    "count": 8,
-    "appearsOn": [
-      "pages/characters/guan1_关.html",
-      "pages/characters/xi4_系.html",
-      "pages/daily/topic_chifan.html",
-      "pages/daily/topic_shengyi.html",
-      "pages/vocab/keqi_客气.html",
-      "pages/vocab/mianzi_面子.html",
-      "pages/vocab/pengyou_朋友.html",
-      "pages/vocab/shehui_社会.html"
     ],
     "hasPage": true
   },
@@ -1525,6 +1529,21 @@
     ],
     "hasPage": true
   },
+  "道德": {
+    "cn": "道德",
+    "py": "dàodé",
+    "en": "morality; ethics",
+    "count": 6,
+    "appearsOn": [
+      "pages/characters/de2_德.html",
+      "pages/characters/ren2_仁.html",
+      "pages/vocab/liangxin_良心.html",
+      "pages/vocab/ren2_仁.html",
+      "pages/vocab/xiaoren_小人.html",
+      "pages/vocab/ziran_自然.html"
+    ],
+    "hasPage": true
+  },
   "第二级": {
     "cn": "第二级",
     "py": "dì-èr jí",
@@ -1780,6 +1799,21 @@
     ],
     "hasPage": false
   },
+  "礼貌": {
+    "cn": "礼貌",
+    "py": "lǐmào",
+    "en": "politeness, courtesy",
+    "count": 6,
+    "appearsOn": [
+      "pages/characters/ni3_你.html",
+      "pages/vocab/keqi_客气.html",
+      "pages/vocab/mianzi_面子.html",
+      "pages/vocab/qianxu_谦虚.html",
+      "pages/vocab/wenming_文明.html",
+      "pages/vocab/xiaoren_小人.html"
+    ],
+    "hasPage": true
+  },
   "鲁菜": {
     "cn": "鲁菜",
     "py": "lǔcài",
@@ -1958,7 +1992,7 @@
       "pages/vocab/junzi_君子.html",
       "pages/vocab/lunyu_论语.html"
     ],
-    "hasPage": false
+    "hasPage": true
   },
   "云": {
     "cn": "云",
@@ -2187,20 +2221,6 @@
       "pages/characters/pao3_跑.html",
       "pages/grammar/jieguobuyu_结果补语.html",
       "pages/grammar/li_离.html"
-    ],
-    "hasPage": true
-  },
-  "道德": {
-    "cn": "道德",
-    "py": "dàodé",
-    "en": "morality; ethics",
-    "count": 5,
-    "appearsOn": [
-      "pages/characters/de2_德.html",
-      "pages/characters/ren2_仁.html",
-      "pages/vocab/liangxin_良心.html",
-      "pages/vocab/ren2_仁.html",
-      "pages/vocab/ziran_自然.html"
     ],
     "hasPage": true
   },
@@ -2567,20 +2587,6 @@
       "pages/vocab/yinyue_音乐.html"
     ],
     "hasPage": false
-  },
-  "礼貌": {
-    "cn": "礼貌",
-    "py": "lǐmào",
-    "en": "politeness, courtesy",
-    "count": 5,
-    "appearsOn": [
-      "pages/characters/ni3_你.html",
-      "pages/vocab/keqi_客气.html",
-      "pages/vocab/mianzi_面子.html",
-      "pages/vocab/qianxu_谦虚.html",
-      "pages/vocab/wenming_文明.html"
-    ],
-    "hasPage": true
   },
   "礼物": {
     "cn": "礼物",

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-12T03:52:21.107Z",
+  "generated": "2026-07-12T03:58:00.874Z",
   "files": [
     {
       "file": "pleco-characters.txt",
@@ -11,7 +11,7 @@
       "file": "pleco-vocab.txt",
       "format": "pleco",
       "type": "vocab",
-      "count": 105
+      "count": 106
     },
     {
       "file": "pleco-chengyu.txt",
@@ -23,7 +23,7 @@
       "file": "pleco-all.txt",
       "format": "pleco",
       "type": "all",
-      "count": 468
+      "count": 469
     },
     {
       "file": "anki-characters.tsv",
@@ -35,7 +35,7 @@
       "file": "anki-vocab.tsv",
       "format": "anki-tsv",
       "type": "vocab",
-      "count": 105
+      "count": 106
     },
     {
       "file": "anki-chengyu.tsv",
@@ -53,7 +53,7 @@
       "file": "vocab.apkg",
       "format": "anki-apkg",
       "type": "vocab",
-      "count": 105
+      "count": 106
     },
     {
       "file": "chengyu.apkg",
@@ -65,7 +65,7 @@
       "file": "all.apkg",
       "format": "anki-apkg",
       "type": "all",
-      "count": 468
+      "count": 469
     }
   ],
   "slices": [
@@ -95,8 +95,8 @@
       "cn": "词汇",
       "dimension": "type",
       "criterion": "vocab",
-      "description": "All 105 vocab cards in the corpus.",
-      "count": 105,
+      "description": "All 106 vocab cards in the corpus.",
+      "count": 106,
       "apkg": "slices/type-vocab.apkg",
       "pleco": "slices/type-vocab.txt",
       "hskBreakdown": {
@@ -105,7 +105,7 @@
         "hsk-2": 24,
         "hsk-3": 27,
         "hsk-4": 10,
-        "hsk-1": 26
+        "hsk-1": 27
       }
     },
     {
@@ -152,11 +152,11 @@
       "dimension": "hsk",
       "criterion": 1,
       "description": "Just HSK level 1 on its own (authored or inferred from constituent characters).",
-      "count": 179,
+      "count": 180,
       "apkg": "slices/hsk-1.apkg",
       "pleco": "slices/hsk-1.txt",
       "hskBreakdown": {
-        "hsk-1": 179
+        "hsk-1": 180
       }
     },
     {
@@ -236,11 +236,11 @@
       "dimension": "hsk-ladder",
       "criterion": 1,
       "description": "Just HSK 1 — the foundation deck for absolute beginners.",
-      "count": 179,
+      "count": 180,
       "apkg": "slices/hsk-up-to-1.apkg",
       "pleco": "slices/hsk-up-to-1.txt",
       "hskBreakdown": {
-        "hsk-1": 179
+        "hsk-1": 180
       }
     },
     {
@@ -250,11 +250,11 @@
       "dimension": "hsk-ladder",
       "criterion": 2,
       "description": "Cumulative deck: every card from HSK 1 up to and including HSK 2.",
-      "count": 347,
+      "count": 348,
       "apkg": "slices/hsk-up-to-2.apkg",
       "pleco": "slices/hsk-up-to-2.txt",
       "hskBreakdown": {
-        "hsk-1": 179,
+        "hsk-1": 180,
         "hsk-2": 168
       }
     },
@@ -265,11 +265,11 @@
       "dimension": "hsk-ladder",
       "criterion": 3,
       "description": "Cumulative deck: every card from HSK 1 up to and including HSK 3.",
-      "count": 437,
+      "count": 438,
       "apkg": "slices/hsk-up-to-3.apkg",
       "pleco": "slices/hsk-up-to-3.txt",
       "hskBreakdown": {
-        "hsk-1": 179,
+        "hsk-1": 180,
         "hsk-2": 168,
         "hsk-3": 90
       }
@@ -281,11 +281,11 @@
       "dimension": "hsk-ladder",
       "criterion": 4,
       "description": "Cumulative deck: every card from HSK 1 up to and including HSK 4.",
-      "count": 469,
+      "count": 470,
       "apkg": "slices/hsk-up-to-4.apkg",
       "pleco": "slices/hsk-up-to-4.txt",
       "hskBreakdown": {
-        "hsk-1": 179,
+        "hsk-1": 180,
         "hsk-2": 168,
         "hsk-3": 90,
         "hsk-4": 32
@@ -298,11 +298,11 @@
       "dimension": "hsk-ladder",
       "criterion": 5,
       "description": "Cumulative deck: every card from HSK 1 up to and including HSK 5.",
-      "count": 478,
+      "count": 479,
       "apkg": "slices/hsk-up-to-5.apkg",
       "pleco": "slices/hsk-up-to-5.txt",
       "hskBreakdown": {
-        "hsk-1": 179,
+        "hsk-1": 180,
         "hsk-2": 168,
         "hsk-3": 90,
         "hsk-4": 32,
@@ -316,11 +316,11 @@
       "dimension": "hsk-ladder",
       "criterion": 6,
       "description": "Cumulative deck: every card from HSK 1 up to and including HSK 6.",
-      "count": 479,
+      "count": 480,
       "apkg": "slices/hsk-up-to-6.apkg",
       "pleco": "slices/hsk-up-to-6.txt",
       "hskBreakdown": {
-        "hsk-1": 179,
+        "hsk-1": 180,
         "hsk-2": 168,
         "hsk-3": 90,
         "hsk-4": 32,
@@ -351,12 +351,12 @@
       "cn": "儒家",
       "dimension": "tag",
       "criterion": "confucianism",
-      "description": "Cards tagged confucianism — 44 entries.",
-      "count": 44,
+      "description": "Cards tagged confucianism — 45 entries.",
+      "count": 45,
       "apkg": "slices/tag-confucianism.apkg",
       "pleco": "slices/tag-confucianism.txt",
       "hskBreakdown": {
-        "hsk-1": 16,
+        "hsk-1": 17,
         "hsk-4": 7,
         "hsk-2": 10,
         "hsk-5": 2,
@@ -626,11 +626,11 @@
       "dimension": "intent",
       "criterion": "survival-mandarin",
       "description": "Everything an absolute beginner needs in week one: HSK 1 vocab, basic characters, foundational grammar (是/不是, 有/没有, 在), question words, numbers.",
-      "count": 195,
+      "count": 196,
       "apkg": "slices/intent-survival-mandarin.apkg",
       "pleco": "slices/intent-survival-mandarin.txt",
       "hskBreakdown": {
-        "hsk-1": 179,
+        "hsk-1": 180,
         "hsk-2": 16
       }
     },
@@ -678,11 +678,11 @@
       "dimension": "intent",
       "criterion": "confucian-core",
       "description": "仁, 义, 礼, 智, 信 and the rest of the Confucian moral vocabulary, plus terms from the Analects and the Five Classics.",
-      "count": 44,
+      "count": 45,
       "apkg": "slices/intent-confucian-core.apkg",
       "pleco": "slices/intent-confucian-core.txt",
       "hskBreakdown": {
-        "hsk-1": 16,
+        "hsk-1": 17,
         "hsk-4": 7,
         "hsk-2": 10,
         "hsk-5": 2,
@@ -733,12 +733,12 @@
       "dimension": "intent",
       "criterion": "family-relationships",
       "description": "Kinship vocabulary (爸 妈 儿 女 哥 姐 弟 妹), the 的 grammar of possession, and family-tag entries.",
-      "count": 31,
+      "count": 32,
       "apkg": "slices/intent-family-relationships.apkg",
       "pleco": "slices/intent-family-relationships.txt",
       "hskBreakdown": {
         "hsk-3": 5,
-        "hsk-1": 19,
+        "hsk-1": 20,
         "hsk-2": 5,
         "unknown": 2
       }
