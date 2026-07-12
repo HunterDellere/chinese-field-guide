@@ -51,6 +51,23 @@
     "updated": "2026-07-11"
   },
   {
+    "path": "pages/science/topic_huaxue.html",
+    "type": "topic",
+    "category": "science",
+    "title": "化学 · Chemistry",
+    "desc": "The Chinese periodic table is a naming machine: one character per element, with the radical telling you its state at room temperature.",
+    "tags": [
+      "chemistry",
+      "science",
+      "technology",
+      "vocabulary",
+      "translation"
+    ],
+    "status": "complete",
+    "pinyin": "huàxué",
+    "updated": "2026-07-11"
+  },
+  {
     "path": "pages/science/topic_shuxue.html",
     "type": "topic",
     "category": "science",
@@ -65,6 +82,40 @@
     ],
     "status": "complete",
     "pinyin": "shùxué",
+    "updated": "2026-07-11"
+  },
+  {
+    "path": "pages/science/topic_tianwen.html",
+    "type": "topic",
+    "category": "science",
+    "title": "天文 · Astronomy",
+    "desc": "The five visible planets are named for the five phases, comets are brooms, and the space program borrows its names from mythology.",
+    "tags": [
+      "astronomy",
+      "science",
+      "cosmology",
+      "vocabulary",
+      "wuxing"
+    ],
+    "status": "complete",
+    "pinyin": "tiānwén",
+    "updated": "2026-07-11"
+  },
+  {
+    "path": "pages/science/topic_wuli.html",
+    "type": "topic",
+    "category": "science",
+    "title": "物理 · Physics",
+    "desc": "Physics in Chinese is \"the pattern of things,\" a phrase lifted from a Song-dynasty program for investigating the world.",
+    "tags": [
+      "physics",
+      "science",
+      "vocabulary",
+      "energy",
+      "translation"
+    ],
+    "status": "complete",
+    "pinyin": "wùlǐ",
     "updated": "2026-07-11"
   },
   {

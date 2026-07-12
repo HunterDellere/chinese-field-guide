@@ -302,5 +302,8 @@
   {"slug": "numbers",           "label": "Numbers"},
   {"slug": "mathematics",       "label": "Mathematics"},
   {"slug": "engineering",       "label": "Engineering"},
-  {"slug": "business",          "label": "Business"}
+  {"slug": "business",          "label": "Business"},
+  {"slug": "physics",           "label": "Physics"},
+  {"slug": "chemistry",         "label": "Chemistry"},
+  {"slug": "astronomy",         "label": "Astronomy"}
 ]

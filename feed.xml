@@ -6,7 +6,7 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A reading nook for Chinese language and civilisation. Characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Jul 2026 01:51:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 02:17:31 GMT</lastBuildDate>
     <item>
       <title>生意 · Doing Business</title>
       <link>https://jiaoshoo.com/pages/daily/topic_shengyi.html</link>
@@ -32,11 +32,35 @@
       <category>science</category>
     </item>
     <item>
+      <title>化学 · Chemistry</title>
+      <link>https://jiaoshoo.com/pages/science/topic_huaxue.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/science/topic_huaxue.html</guid>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+      <description>The Chinese periodic table is a naming machine: one character per element, with the radical telling you its state at room temperature.</description>
+      <category>science</category>
+    </item>
+    <item>
       <title>数学 · Mathematics</title>
       <link>https://jiaoshoo.com/pages/science/topic_shuxue.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/science/topic_shuxue.html</guid>
       <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
       <description>The vocabulary of Chinese mathematics, where calculus is &quot;tiny accumulation&quot; and geometry was named by a Ming official translating Euclid.</description>
+      <category>science</category>
+    </item>
+    <item>
+      <title>天文 · Astronomy</title>
+      <link>https://jiaoshoo.com/pages/science/topic_tianwen.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/science/topic_tianwen.html</guid>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+      <description>The five visible planets are named for the five phases, comets are brooms, and the space program borrows its names from mythology.</description>
+      <category>science</category>
+    </item>
+    <item>
+      <title>物理 · Physics</title>
+      <link>https://jiaoshoo.com/pages/science/topic_wuli.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/science/topic_wuli.html</guid>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+      <description>Physics in Chinese is &quot;the pattern of things,&quot; a phrase lifted from a Song-dynasty program for investigating the world.</description>
       <category>science</category>
     </item>
     <item>
@@ -221,30 +245,6 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/gou3_狗.html</guid>
       <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
       <description>A pictophonetic glyph where the beast radical 犭supplies the meaning and 句 lends only the sound, naming the most domesticated of animals.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>馆 · a public building, hall, shop, establishment</title>
-      <link>https://jiaoshoo.com/pages/characters/guan3_馆.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/guan3_馆.html</guid>
-      <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
-      <description>A food-radical building: the eating-house that grew into the library, the museum, and the embassy.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>孩 · baby, child, children</title>
-      <link>https://jiaoshoo.com/pages/characters/hai2_孩.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/hai2_孩.html</guid>
-      <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
-      <description>A child-radical fused with the earthly branch 亥: 子 carries the meaning, 亥 lends the rising sound hái.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>害 · to harm, injury, calamity, to fear</title>
-      <link>https://jiaoshoo.com/pages/characters/hai4_害.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/hai4_害.html</guid>
-      <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
-      <description>Under the roof a mouth and a blade build the sense of injury done; the same glyph also means to fear, as in 害怕.</description>
       <category>characters</category>
     </item>
   </channel>
