@@ -4,6 +4,8 @@ category: families
 family: language
 status: complete
 title: "语言 · The Language"
+seo_title: "Chinese Characters, Vocabulary & Grammar — Full Index"
+seo_desc: "Browse every Chinese character, vocabulary word, and grammar pattern on Jiǎoluò Shūwū: etymology, tones, example sentences, and idioms for each entry."
 pageTitle: "Language"
 pinyin: "yǔyán"
 desc: "Characters, vocabulary, grammar. The building blocks of written and spoken Chinese."

@@ -4,6 +4,8 @@ category: families
 family: collections
 status: complete
 title: "集锦 · Collections"
+seo_title: "Chengyu Idioms & Chinese Reading Paths — Collections"
+seo_desc: "Four-character chengyu idioms with their origin stories, plus curated reading paths through Chinese philosophy, tea, dynasties, and the writing system."
 pageTitle: "Collections"
 pinyin: "jíjǐn"
 desc: "Idioms, curated reading paths, and reference lists. Entries grouped to be read together."

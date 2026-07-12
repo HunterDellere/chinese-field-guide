@@ -1,0 +1,12 @@
+//角落書屋/Slices/Mathematics
+方程	fāng chéng	Equation — Equation. The term is two thousand years old, taken from the chapter of the Nine Chapters that solved systems of linear equations with counting rods. 解方程 (jiě fāngchéng) is to solve an equation.
+工程	gōng chéng	engineering
+公式	gōng shì	Formula — Formula: "public pattern," a form that holds generally. 套公式 (tào gōngshì, "slot into the formula") is the study-hall phrase for plug-and-chug problem solving.
+几何	jǐ hé	Geometry — Geometry. Classical Chinese for "how much?", repurposed by Xu Guangqi and Matteo Ricci in their 1607 translation of Euclid. Both senses live on: one in the classroom, one in Cao Cao's poetry.
+计算	jì suàn	To calculate, to compute — To calculate, to compute. The formal verb behind 计算机 (jìsuànjī, computer, "calculating machine") and 计算器 (jìsuànqì, calculator). Colloquial speech often just says 算 (suàn).
+科学	kē xu é	science; scientific — 科 kē (branch; category; department) + 学 xué (learning; -ology). Lit. "categorized learning" , the systematic division of knowledge into disciplines. Coined as a translation for Western "science" in the late 19th century.
+数学	shù xu é	Mathematics — Mathematics: number-study. 数学家 (shùxuéjiā) is a mathematician; 数学课 (shùxué kè) is math class, the collocation every student uses daily.
+数字系统	shù zì xì tǒng	the number system
+算盘	suàn pán	The abacus, literally "calculating tray — The abacus, literally "calculating tray." The standard Chinese bead-frame instrument with 2 upper beads and 5 lower beads per rod, in use in its canonical form since at least the 16th century.
+物理	wù lǐ	physics; the principles of matter — 物 wù (thing; matter) + 理 lǐ (principle). Literally "the principles of things," the modern name for physics. A clear case of 理 meaning the lawful pattern running through the physical world.
+圆周率	yuán zhōu lǜ	Pi — Pi: "circle-circumference ratio," usually written π and read pài in class. Zu Chongzhi's 355/113 approximation is taught to every Chinese student as a point of scientific heritage.

@@ -1,0 +1,29 @@
+//角落書屋/Slices/Biology
+生	shēng	life, birth, raw, student — A sprouting plant: life emerging from the earth. The most generative radical in Chinese.
+民以食为天	mín yǐ shí wéi tiān	to the people, food is heaven: nothing matters more than feeding the people — Literally "the people take food as heaven." An ancient maxim of statecraft: the first and highest concern of any ruler is that the people have enough to eat. Still quoted constantly in everyday life, often half-jokingly, to defend the seriousness of a good meal.
+起死回生	qǐ sǐ huí shēng	to bring back from the dead — to revive a desperate situation — Lit: raise-dead-return-life. Originally medical (miraculous cures); now used for companies, projects, and relationships revived against all odds.
+生生不息	shēng shēng bù xī	life generating life without ceasing — the endless renewal of existence — A Daoist cosmological phrase: life perpetually generating more life. Used in nature writing, philosophical prose, and speeches about cultural continuity.
+生死与共	shēng sǐ yǔ gòng	to share life and death together — a bond through the deepest adversity — Lit: life-death-with-together. Used for close comrades, soldiers, and couples who have endured extreme hardship. The deepest statement of loyalty.
+本草纲目	běn cǎo gāng mù	the materia medica
+病毒	bìng dú	virus — 病 + 毒 (dú, poison): a "sickness poison," the standard word for a biological virus and, by extension, a computer virus. The same term covers the flu and the malware on your hard drive.
+产生	chǎn shēng	to produce; to give rise to; to emerge — 产 chǎn (to produce; output) + 生 shēng (arise). For abstract and concrete creation , ideas, problems, emotions, consequences arising. 产生影响 "to have an effect" · 产生误会 "to give rise to a misunderstanding."
+成长	chéng zhǎng	to grow up; to mature; personal development — 成 chéng (to become; to complete) + 长 zhǎng (to grow). The compound for the full arc of development: physical, psychological, and social maturation. 成长故事 = coming-of-age story. 成长经历 = formative experiences. Also used for adult development: 这段经历让我很成长 "this experience helped me grow a lot."
+出生	chū shēng	to be born; birth — 出 chū (emerge) + 生 shēng (life; to be born; raw). Emergence into life: the original threshold crossing. 出生 is used for persons: 他在北京出生 (he was born in Beijing). The date is 出生日期 chūshēng rìqī (date of birth).
+诞生	dàn shēng	to be born (grand things)
+动物	dòng wù	animal — 动 dòng (to move) + 物 wù (thing). The "moving things," the animals, set against 植物 the "planted things," the plants. 动物园 dòngwùyuán is the zoo, the "animal garden."
+化学	huà xu é	Chemistry — Chemistry: transformation-study. 化学反应 is a chemical reaction; 化学式 (huàxuéshì) is a chemical formula, read left to right like grammar.
+基因	jī yīn	Gene — Gene: sounds like the English, means "basic cause." 转基因 (zhuǎnjīyīn, transgenic/GMO) is the charged supermarket word built on it.
+进化	jìn huà	Evolution — Evolution: advance-transformation. 进化论 is Darwin's theory; gamers use 进化 for level-ups, which Darwin might have minded. The neutral scholarly variant is 演化.
+陌生	mò shēng	unfamiliar; strange; unknown — 陌 mò (a stranger; a path between rice fields, where you encounter people you don't know) + 生 shēng (unprocessed; unfamiliar). For unfamiliar places, strangers, and new experiences. 陌生人 = stranger. 对我来说很陌生 = "It's unfamiliar to me."
+生词	shēng cí	new word; unfamiliar vocabulary item — 生 shēng (raw; unfamiliar) + 词 cí (word). A word you have not yet learned, the staple of every textbook vocabulary list. Its opposite is 熟词 shúcí, a word already mastered.
+生存	shēng cún	to survive; to subsist — 生 shēng + 存 cún (to exist; to preserve). Survival , continuing to exist under difficult conditions. 生存竞争 "survival competition" · 生存危机 "survival crisis." A more pressured, primal register than 生活.
+生活	shēng huó	life; to live; daily living — 生 shēng (to be born, to grow) + 活 huó (to live). The pairing of two life-words covers both the verb (to live, to make a life) and the noun (life as it is lived day to day). This is the everyday word for "life," distinct from 命 mìng, the life that can be lost.
+生命	shēng mìng	life (the abstract concept; the fact of being alive) — 生 shēng (to be born; to live) plus 命. The standard modern word for life in the broad sense: biological life, the human life-course, life as a value worth protecting. Distinct from 生活 shēnghuó (daily life, way of living): 生命 is the precious thing you have once, 生活 is what you do with it.
+生物	shēng wù	living thing; organism; biology — 生 shēng (to live) + 物 wù (thing). A living organism, and also the name of the school subject, biology. 微生物 wēishēngwù is a microorganism, a "tiny living thing."
+生肖	shēng xiào	zodiac animals; birth sign
+卫生	wèi shēng	hygiene; health
+物理	wù lǐ	physics; the principles of matter — 物 wù (thing; matter) + 理 lǐ (principle). Literally "the principles of things," the modern name for physics. A clear case of 理 meaning the lawful pattern running through the physical world.
+细胞	xì bāo	Cell — Cell: fine wrap. 干细胞 (gànxìbāo) is a stem cell, and 细胞分裂 is cell division, vocabulary every 生物课 student recites before exams.
+先生	xiān sheng	Mr.; teacher; husband; gentleman — 先 xiān (first; ahead; earlier) + 生 shēng (one born; person). "One born earlier" , originally a teacher or Confucian master; now the standard polite term for "Mr." and also "husband" in formal contexts (我先生 "my husband"). A word whose meaning has drifted beautifully from teacher → gentleman → Mr.
+学生	xu é sheng	student — 学 xué (to study; to learn) + 生 shēng (one who is still "green"; a junior person). The student as someone still growing, not yet ripe. One of the most common nouns in Chinese , every school context relies on it.
+医生	yī shēng	doctor; physician — 医 yī (medicine; to heal) + 生 shēng (practitioner). The standard word for doctor in mainland China. Note the 生 suffix , it originally meant "one who practices/studies" (compare 学生, 先生). 看医生 = "to see a doctor."

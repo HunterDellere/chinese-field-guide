@@ -1,0 +1,19 @@
+//角落書屋/Slices/Classifiers
+万紫千红	wàn zǐ qiān hóng	ten thousand purples, a thousand reds — a riot of color; abundant beauty — From the Song dynasty poet Zhu Xi 朱熹: 等闲识得东风面，万紫千红总是春 , "It is easy to recognize the face of the east wind: ten thousand purples and a thousand reds , it is all spring." The phrase moved from the poem into common use as the standard expression for spring's visual abundance.
+一举两得	yī jǔ liǎng dé	one move, two gains — kill two birds with one stone — Lit: one-raise/move-two-gains. 举 here is a verbal measure word (one lift/movement). A perfect analogue of "kill two birds with one stone." 这样做一举两得 "Doing it this way achieves two goals at once." Among the most common four-character idioms in business and daily speech.
+一石二鸟	yī shí èr niǎo	one stone, two birds — accomplish two goals with a single action — The Chinese and English idioms are structurally identical. The image of a single stone bringing down two birds appears to have developed independently in both traditions, though the Chinese form likely circulated in literary Chinese before modern contact. In use: 这个方案真是一石二鸟。
+一字千金	yī zì qiān jīn	one character, a thousand gold pieces — words of immense value — 字 here is a classifier for characters/words. 金 (gold pieces) is the unit of price. From the story of Lü Buwei's 吕不韦 text 《吕氏春秋》: he challenged anyone to change a single character and offered a thousand gold pieces if they could improve it. Used to praise literary excellence.
+量词	liàng cí	measure words — 个, 只, 条, 本, 张: the classifier taxonomy and the logic behind it.
+部分	bù fen	part; section; portion — 部 bù (section) + 分 fen (a share). A part of something larger, the everyday word for a portion: 大部分 dàbùfen "the greater part, most of," 一部分 yí bùfen "a portion." Note the second syllable goes neutral.
+动量词	dòng liàng cí	verbal measure word (次/遍/回)
+各	gè	each; every (distributive)
+很多	hěn duō	a lot; many
+几	jǐ	how many (small number); a few — Asks about a small, countable number, typically under ten, and must be followed by a measure word: 几个 ("how many"), 几本 ("how many volumes"), 几位 ("how many people," polite). It assumes the answer is small, so it is the word for guests, family members, hours, or days.
+筷子	kuài zi	chopsticks
+每	měi	every (+ classifier + noun)
+数词	shù cí	numeral
+所有	suǒ yǒu	all; every; everything one has — 所 suǒ (that which; a place; nominalizing particle) + 有 (have/exist). 所有 as a determiner: 所有的学生 (all the students). As a noun: 他失去了所有 (He lost everything he had). As a formal possession compound in legal/written Chinese: 所有权 suǒyǒuquán = ownership rights, title.
+一杯水	yī bēi shuǐ	a cup / glass of water — 杯 bēi — 杯 bēi (cup, glass) counts liquids held in cups or glasses. The container becomes the classifier. This is the most transparent type: the classifier is the vessel. A large class of classifiers work this way , 碗, 盘, 瓶, 桶, 壶 , each named for the physical container holding the substance.
+一些	yī xiē	some (partitive)
+整个	zhěng gè	the whole; entire — 整 zhěng (whole) + 个 gè. "The whole of" something taken as one piece: 整个城市 "the whole city," 整个晚上 "the entire evening." Here 个 keeps its sense of a single complete unit.
+指示代词	zhǐ shì dài cí	demonstrative pronoun (这/那/哪)

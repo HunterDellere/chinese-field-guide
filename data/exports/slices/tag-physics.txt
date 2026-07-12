@@ -1,0 +1,9 @@
+//角落書屋/Slices/Physics
+工程	gōng chéng	engineering
+光速	guāng sù	The speed of light — The speed of light. Colloquially any blinding speed: 光速下班 is leaving work the second the clock strikes, a usage every office knows.
+化学	huà xu é	Chemistry — Chemistry: transformation-study. 化学反应 is a chemical reaction; 化学式 (huàxuéshì) is a chemical formula, read left to right like grammar.
+量子	liàng zi	Quantum — Quantum. 量子力学 is quantum mechanics; 量子纠缠 (entanglement, "quantum entwining") supplies metaphors for codependent relationships in internet slang.
+能量	néng liàng	Energy — Energy. Physics term and self-help term alike: 正能量 (positive energy) is the government-endorsed phrase for uplifting content, a usage physicists did not authorize.
+数学	shù xu é	Mathematics — Mathematics: number-study. 数学家 (shùxuéjiā) is a mathematician; 数学课 (shùxué kè) is math class, the collocation every student uses daily.
+天文	tiān wén	Astronomy — Astronomy: heaven's patterns. 天文数字 ("an astronomical figure") is the standard idiom for an unthinkably large sum, same metaphor as English.
+物理	wù lǐ	physics; the principles of matter — 物 wù (thing; matter) + 理 lǐ (principle). Literally "the principles of things," the modern name for physics. A clear case of 理 meaning the lawful pattern running through the physical world.

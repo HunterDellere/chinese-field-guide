@@ -37,7 +37,7 @@
   var STATE = {
     cards: [],          // full corpus, loaded once from cards.json
     tagChips: [],       // [{key, en}] from slice manifest, alpha-sorted
-    selectedTypes: new Set(['character', 'vocab', 'chengyu', 'grammar']),
+    selectedTypes: new Set(['character', 'vocab', 'chengyu', 'grammar', 'compound']),
     hskMin: 1,
     hskMax: 6,
     includeUnknownHsk: true,
@@ -82,7 +82,7 @@
 
   function suggestedName() {
     var parts = [];
-    var typeOrder = ['character', 'vocab', 'chengyu', 'grammar'];
+    var typeOrder = ['character', 'vocab', 'chengyu', 'grammar', 'compound'];
     var sel = typeOrder.filter(function (t) { return STATE.selectedTypes.has(t); });
     if (sel.length === 4) parts.push('All types');
     else parts.push(sel.map(function (t) { return t === 'character' ? 'Char' : (t.charAt(0).toUpperCase() + t.slice(1)); }).join('+'));
@@ -170,6 +170,7 @@
       { key: 'vocab',     label: '词 Vocabulary' },
       { key: 'chengyu',   label: '成语 Chengyu' },
       { key: 'grammar',   label: '语法 Grammar' },
+      { key: 'compound',  label: '词组 Compounds' },
     ];
     var counts = countByType();
     host.innerHTML = TYPES.map(function (t) {

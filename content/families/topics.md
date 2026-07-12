@@ -4,6 +4,8 @@ category: families
 family: topics
 status: complete
 title: "话题 · Topics"
+seo_title: "Chinese Culture, History & Philosophy — Topic Index"
+seo_desc: "Essays on Chinese philosophy, religion, history, geography, culture, food, arts, and science — every topic entry on Jiǎoluò Shūwū in one browsable index."
 pageTitle: "Topics"
 pinyin: "huàtí"
 desc: "Thought, place, time, lived life. What the Chinese language is used to say."

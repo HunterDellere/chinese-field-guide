@@ -2,5 +2,49 @@
 不	bù	no, not, negation — The most used character in Mandarin, and the foundation of every denial, refusal, and negation.
 非	fēi	not, wrong, un- — Two wings spreading in opposite directions: from that image of opposition grows the great negator. Not and non-, the line between right and wrong, and the un- prefix that turns a word against itself.
 无	wú	nothing, without, non-being — A dancer with arms outstretched, holding nothing. The character behind every Chinese negation of having, every Daoist non-doing, and the philosophical pole that pairs with 有 to frame the whole cosmos.
+半途而废	bàn tú ér fèi	to give up halfway: to abandon a task before it is finished — Lit: half-road-and-quit. 而 links the halfway point to the giving-up that follows. Said in reproach of someone who starts strong but lacks the resolve to see a thing through.
+不可思议	bù kě sī yì	inconceivable; unimaginable — Literally "cannot be thought or discussed," beyond comprehension, originally a Buddhist term for the ineffable. Here 可 ("can / possible"), the first character of 可能, takes its sense of "able to be": what cannot possibly be grasped by thought.
+不三不四	bù sān bù sì	neither one thing nor another — shady, dubious, not upright — Lit: not-three not-four. Three and four are "middle" numbers: something that is neither here nor there, neither proper nor improper. Used for shady people or behavior that doesn't conform to standards.
+不言而喻	bù yán ér yù	without words, it is understood — self-evident; goes without saying — Lit: not-speak-yet-understand. What goes without saying: a truth so obvious that to speak it would be redundant. Contrasts with the power attributed to 语 elsewhere: here, the deepest understanding transcends the need for words.
+非同小可	fēi tóng xiǎo kě	no small matter: serious, of great importance — Lit: not-the-same-as-trivial. 小可 means a small or trivial thing, and 非同 negates it: this is not on a par with the trivial, so treat it with weight. 这件事非同小可 "this is no small matter."
+是非曲直	shì fēi qū zhí	right and wrong, crooked and straight: the true merits of a case — Lit: right-wrong-crooked-straight. The four poles by which a dispute is judged. To 分清是非曲直 is to sort out who is truly in the right, free of bias.
+啼笑皆非	tí xiào jiē fēi	unable to laugh or cry: caught between amusement and dismay — Lit: crying-laughing-both-wrong. Neither weeping nor laughing fits the situation, the awkward state of finding something at once absurd and exasperating. 令人啼笑皆非 "leaves one not knowing whether to laugh or cry."
+为非作歹	wéi fēi zuò dǎi	to do evil; to commit crimes and wrongdoing — Lit: do-wrong-make-evil. 非 (wrong) and 歹 dǎi (bad, evil) pair up to name flagrant wrongdoing. Said of those who run riot doing harm: 为非作歹的歹徒 "evildoers who run amok."
 都	dōu	all, both, even: the universal scope adverb — The adverb that quantifies everything before it, not after, and whose position in a sentence determines whether you mean "none" or "not all."
 没有	méi yǒu	negation of possession and past action — The two most important negation characters, 不 and 没, and why they cannot be swapped.
+别	bié	don't (imperative negation)
+并非	bìng fēi	is not in fact; really is not — 并 bìng (actually; emphatic) + 非 fēi (not). A firm, slightly formal "is not at all," used to push back against an assumption: 并非如此 "that is not the case," 并非不可能 "not in fact impossible."
+不错	bú cuò	pretty good, not bad; correct, right — 不 bù (not) + 错 cuò (wrong). Two readings from one shape: as praise, "quite good, not bad" (成绩不错 "good grades"); as confirmation, "right, correct" (一点不错 "exactly right"). Note the tone sandhi: 不 shifts to bú before the falling 错.
+不得不	bù dé bù	cannot but; have no choice but to — 不得不 (not-obtain-not) = double negation creates strong obligation: "cannot not do" = must do, compelled by circumstances. Stronger than 必须 bìxū in the sense of reluctant necessity. The speaker has no choice.
+不得了	bù dé liǎo	extremely; terrible; amazing (intensifier) — 不 + 得了 déliǎo (can be concluded; can be over). "Cannot be concluded" → extreme beyond measure. Used after adjectives as a strong intensifier: 好得不得了 = incredibly good. Also standalone: 不得了！= This is unbelievable / It's a disaster! (depending on context).
+不都	bù dōu	not all; not every one (partial negation) — 不 precedes 都. The negation falls on the universal claim: "it's not the case that all of them do X." Some do, some don't. This is logically weaker than 都不 and much more common in careful, qualified speech.
+不好意思	bù hǎo yì si	embarrassed; sorry to trouble you; excuse me — Lit: not-good-meaning/face. The phrase used when imposing on someone, asking a favor, or causing mild embarrassment. One of the most important social lubricants in Mandarin. Not a strong apology, more like "I feel awkward about this" or "pardon the imposition."
+除非	chú fēi	unless; only if — 除 chú (except) + 非 fēi (not). Literally "except if not," hence "unless." Often paired with 否则 fǒuzé or 才 cái: 除非下雨，否则我们就去 "we'll go unless it rains."
+错误	cuò wù	mistake, error; wrong, mistaken — 错 cuò (wrong) + 误 wù (to err, mistake). Both a noun, the mistake itself, and an adjective, mistaken or incorrect: 犯了一个错误 "made a mistake," 错误的决定 "a wrong decision." The standard, slightly formal word for an error of fact or judgment.
+大家	dà jiā	everyone; everybody (warm, inclusive) — 大 dà (big) + 家 jiā (family; home). Literally "the big family," used for "everyone present" or "all of us." Much warmer and more conversational than 人们. The go-to word for addressing or including a present group: 大家好！(Hello everyone!).
+都 , 全体	dōu , quán tǐ	都: every member of a group — simultaneous coverage — 都 applies a single predicate to all members of a group at the same time. The group is fixed; 都 says no member is excluded from the statement. Works with pronouns (我们, 他们, 大家), explicit quantifier phrases (三个人, 所有人), and fronted question words (什么, 谁, 哪儿).
+非常	fēi cháng	extremely; very; unusual; extraordinary — 非 fēi (not) + 常 cháng (ordinary). As an adverb before an adjective it means "extremely" (非常高兴 "extremely happy"); as an adjective before a noun it keeps the older sense "extraordinary, exceptional" (非常时期 "extraordinary times").
+非法	fēi fǎ	illegal; unlawful — 非 fēi (not) + 法 fǎ (law). Outside the law, not lawful: 非法行为 "illegal conduct," 非法移民 "illegal immigration." Its opposite is 合法 héfǎ (lawful).
+非议	fēi yì	to criticize; to reproach; censure — 非 fēi (to fault) + 议 yì (to discuss; opinion). To talk of something as wrong, to find fault with it: 无可非议 "beyond reproach, nothing to criticize." Here 非 acts as a verb, "to deem wrong."
+否则	fǒu zé	otherwise; if not
+毫无	háo wú	utterly without; not the slightest
+合法	hé fǎ	lawful; legal; legitimate — 合 hé (to fit; to accord with) + 法 fǎ (law). In accordance with the law, on the right side of the line: 合法权利 "lawful rights." Its opposite is 非法 fēifǎ (illegal) or 违法 wéifǎ (to break the law).
+没	méi	not; have not
+没关系	méi guān xi	it doesn't matter; never mind; that's okay — One of the most indispensable phrases in Mandarin. The standard response to 对不起 (sorry). Literally "no relationship" , meaning "it has no effect on us; it carries no weight." Learn this before your first week of speaking Chinese.
+没什么	méi shén me	nothing / it's nothing / no big deal — 没 + 什么 (what; anything). 没什么 = "nothing; it's nothing." As a response to thanks or apologies: 没什么！= "No worries! / It's nothing!" Also as a statement: 冰箱里没什么吃的 "There's nothing much to eat in the fridge."
+哪儿	nǎ r	where (fronted + 都 = everywhere)
+哪儿都	nǎ r dōu	everywhere; anywhere — 哪儿 (where, which place) fronted before 都 covers all locations. 哪里都 is the less colloquial variant; 哪儿都 is the Beijing/northern colloquial form. The construction makes a place-universal claim: no location is excluded.
+谁	shéi	who (fronted + 都 = everyone)
+谁都	shéi dōu	everyone; anyone (no person excluded) — 谁 (who) fronted before 都 universalizes over all persons. 谁都知道 = "everyone knows," with the implication that no person could be ignorant of this fact. Often carries a mild rhetorical force: the speaker is emphasizing how obvious or widespread something is.
+什么	shén me	what (fronted + 都 = everything)
+什么都	shén me dōu	everything; anything (without exception) — 什么 fronted before 都 universalizes over all things or all options. 什么都行 literally "anything goes" , no restriction exists. Extremely common in everyday speech for expressing total flexibility or total acceptance.
+是非	shì fēi	right and wrong; the rights and wrongs; trouble; gossip — 是 shì (right; this; is) + 非 fēi (wrong). The pairing of right and wrong as a single notion: 明辨是非 "to clearly distinguish right from wrong." By a common slide it also means the quarrels and gossip that arise from disputes: 惹是非 "to stir up trouble."
+所有	suǒ yǒu	all; every; everything one has — 所 suǒ (that which; a place; nominalizing particle) + 有 (have/exist). 所有 as a determiner: 所有的学生 (all the students). As a noun: 他失去了所有 (He lost everything he had). As a formal possession compound in legal/written Chinese: 所有权 suǒyǒuquán = ownership rights, title.
+无聊	wú liáo	bored; boring; pointless
+无名	wú míng	nameless; unknown; unnamed
+无视	wú shì	to ignore, to disregard
+无私	wú sī	selfless, without private interest
+无所谓	wú suǒ wèi	it doesn't matter; whatever
+也 , 追加	yě , zhuī jiā	也: one more added to an existing set — 也 always implies that the predicate has already been established for another entity. The sentence using 也 adds one more item. This requires a prior context (explicit or implicit) in which the predicate was already true of someone or something else. 也 cannot start a discourse out of nowhere.
+怎么都	zěn me dōu	no matter how; by any means; however you try — 怎么 (how, in what way) fronted before 都 universalizes over all methods or manners. Often used in negative or frustrated contexts: no matter what approach is tried, the result is the same. The construction can also express total permissiveness: "any way is fine."
+只	zhī	measure word for animals

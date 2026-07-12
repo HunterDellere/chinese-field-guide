@@ -1,0 +1,505 @@
+//角落書屋/Slices/Social
+队	duì	team, group, band, military unit; measure word for groups — A crowd of people 人 packed against an earthen mound 阝, the image that gives 队 its sense of a formed-up team or column.
+哥	gē	elder brother, a familiar term for an older young man — Two 可 stacked into one glyph; the doubled phonetic came to carry the warmest word in the family, elder brother.
+关	guān	to close, to concern, the frontier pass — The bolt that closes a gate, the mountain pass that controls a frontier, and the relation that ties two people together. One character holds all three.
+好	hǎo	good; to like — Good, well, to like, and the tone split that doubles its expressive range.
+和	hé	harmony, and, with; peace — 和 carries the same concept across grammar and philosophy: grain and mouth together, the harmony of shared food and speech, a character that serves as both everyday conjunction and the Confucian ideal of a well-ordered world.
+价	jià	price, value, worth — A person standing beside 介 jiè: the worth a thing takes on only once two people sit down to trade for it.
+姐	jiě	elder sister, miss, young lady — A woman radical fused to the sound-lender 且, 姐 names the elder sister and stretches to cover every miss and young lady in modern address.
+借	jiè	to borrow, to lend, to make use of — One glyph carries both halves of a loan: 借 means borrow and lend at once, the direction settled only by context.
+脸	liǎn	face, cheeks, social face, reputation — The flesh-radical face that doubles as a ledger of dignity: in Chinese you can lose it, save it, or tear it apart.
+民	mín	the people, a citizen, folk — The common people as a collective subject: the populace, the citizen, the folk and the nation, and the civilian set against the military. From 人民 the people to 民族 ethnic nation to 民主 democracy.
+名	míng	name, fame, reputation — 名 is 夕 dusk plus 口 mouth: darkness falls, you cannot see who approaches, so you call out a name. Identity asserted through speech.
+你	nǐ	you — The everyday second-person pronoun whose formal twin 您 embeds 心 (heart) directly into the character: address with warmth.
+朋	péng	friend, companion; of the same group — Two strings of cowrie shells hung side by side, an old unit of value, borrowed early for companions of equal standing who keep close company.
+社	shè	society, an association, the god of the soil — The altar radical beside the earth: a shrine to the god of the soil and the community that gathered around it. From that image grow society itself, the many kinds of association and agency, and the ancient soil-and-grain spirits that once stood for the state.
+送	sòng	to see off, to send, to give — A figure waving 关 at someone whose feet 辶 are already carrying them away: 送 is farewell built into the road itself.
+他	tā	he, him; another — 他 was gender-neutral for a millennium until 她 was coined in 1917 to solve a translation problem that Classical Chinese had never needed to solve.
+她	tā	she, her — 她 is the youngest character in everyday Chinese, invented in 1917 to translate "she," and the cause of one of the loudest grammatical fights in modern Chinese letters.
+我	wǒ	I, me, myself — The character for 'I' began as a toothed bronze halberd: the assertive grip of a weapon became the grammatical mark of a self.
+做	zuò	to do, to make, to act as — 做 is the everyday verb for doing and making, a late character built to carry the work that 作 had grown too literary to do, and the two still split the labor between them.
+风俗	fēng sú	customs, traditions, folk practices — The wind of culture and the ways of the people: how 风俗 differs from 习惯 and why the distinction matters.
+关系	guān xi	relationship, connections — The untranslatable social fabric: relational leverage, it matters.
+客气	kè qi	politeness, ceremony — The polite manners owed to guests: and the gentle dance of refusal, insistence, and ritual modesty that runs through every Chinese social interaction.
+礼	lǐ	ritual, propriety, gift, courtesy — The cosmic blueprint Confucius spent his life trying to restore: and why manners are a civilizational technology.
+礼貌	lǐ mào	politeness, courteous manner — The everyday word for politeness: what 礼 (ritual propriety) becomes when it is shrunk down to the scale of ordinary social life. Polite forms, polite faces, and the precise way modern Chinese distinguishes 礼貌 from 客气, 礼节, and the older 礼 itself.
+面子	miàn zi	face, honor — Giving, losing, and saving face: the social grammar of dignity.
+朋友	péng you	friend — The everyday word for friend, and the rich web of relationship terms (好朋友, 男朋友, 交朋友) built around it.
+谦虚	qiān xū	humility, modesty — 谦虚 is both a Confucian virtue and a social practice: in Chinese interaction, it functions as a required performative register, not just an internal attitude.
+社会	shè huì	society — The word for society that China borrowed from Japan, which had borrowed the characters from China: a compound forged at the altar of the earth.
+小人	xiǎo rén	the petty person — Confucius took a word that meant "commoner" and turned it into the permanent opposite of the gentleman: the small-hearted schemer of every office.
+宾朋满座	bīn péng mǎn zuò	guests and friends fill the seats: a house full of company — Lit: guests-friends fill the seats. 宾朋 pairs guest with friend; the image is a hall packed with visitors. Close kin to 高朋满座, used of a lively, well-attended occasion where every seat is taken.
+彬彬有礼	bīn bīn yǒu lǐ	refined and courteous in bearing; gracefully well-mannered — From the Lúnyǔ (论语·雍也): 文质彬彬，然后君子 ("when refinement and substance are in balance , only then is one a 君子"). 彬彬 bīn bīn names the quality of refined balance , neither rough nor showy.
+不耻下问	bù chǐ xià wèn	"not ashamed to ask those below" — intellectual humility; willingness to learn from anyone regardless of status — From the 论语 (Analects) , Confucius praising the minister Kong Wenzi: 敏而好学，不耻下问，是以谓之'文'也 (Quick-minded and fond of learning, not ashamed to ask those of lower rank , this is why he was given the posthumous title 'Wen').
+不要脸	bú yào liǎn	to want no face: shameless, brazen — Not a classical four-character chengyu but a fixed colloquial phrase: to want no face is to discard all sense of shame. A sharp insult, stronger than it looks in English.
+沉鱼落雁	chén yú luò yàn	"sinking fish and falling geese" — describing a woman so beautiful that fish dive and birds fall when she passes — From the Zhuangzi, originally a wry critique of relativism in beauty (the fish do not actually find her beautiful , they hide because they are afraid of humans).
+成群结队	chéng qún jié duì	to form crowds and bands: in droves, in flocks — The most common 队 idiom in daily speech. Pictures people or animals gathering thick enough to clump into groups and lines. Used for crowds streaming somewhere: 游客成群结队地涌入古镇.
+愁眉苦脸	chóu méi kǔ liǎn	knitted brows and a bitter face: a picture of gloom and worry — 愁 (worry) eyebrows over a 苦 (bitter) face. The whole head sags with anxiety. A vivid, everyday way to say someone looks miserable.
+大哥别说二哥	dà gē bié shuō èr gē	the eldest shouldn't mock the second: pot calling the kettle black — A proverb on shared flaws: 大哥 and 二哥 are equally at fault, so neither has standing to criticize the other. The Mandarin take on glass houses.
+大姐大	dà jiě dà	top sister: a commanding, dominant woman — A colloquial trigram, not a classical idiom, for the female leader of a group or a forceful, authoritative woman. Carries a half-admiring, half-wary tone.
+丢人现眼	diū rén xiàn yǎn	"lose people, show eyes" — to make a spectacle of oneself; disgraceful public behavior — Lit: lose-person-expose-eyes. A stronger and more colorful version of 丢脸 , specifically about embarrassing public display. 现眼 (to expose one's eyes to public ridicule) adds the dimension of being stared at and judged.
+非我族类	fēi wǒ zú lèi	those not of our kin; those outside our group
+敢做敢当	gǎn zuò gǎn dāng	to dare to act and dare to answer for it — to own one's actions — 敢 gǎn (to dare) + 做 + 敢 + 当 dāng (to bear, to take responsibility). The mark of a person of integrity: bold enough to act, and equally willing to shoulder the consequences. The phrase praises moral courage paired with accountability, the refusal to act and then duck the blame.
+高朋满座	gāo péng mǎn zuò	distinguished friends fill the seats: a gathering of honored guests — Lit: high-friends fill the seats. 高朋 are eminent guests, the 高 marking rank or worth. The phrase from Wang Bo's preface to the Tengwang Pavilion praises a host whose hall is full of distinguished company, a warm word for a well-attended feast.
+哥俩好	gē liǎ hǎo	the two of us are tight: a toast and a drinking-game call — A finger-guessing drinking call and a stock phrase for two close male friends. 俩 (liǎ) is "the two of us," so the whole thing means "we two brothers are solid."
+顾此失彼	gù cǐ shī bǐ	attend to this and lose that — unable to manage everything at once — 顾 gù (to attend to; to look after) + 此 cǐ (this) + 失 shī (to lose) + 彼 bǐ (that; the other). Fix your attention on one thing and something else slips away. Describes resource constraints, divided attention, and the predicament of managing competing priorities.
+关系密切	guān xi mì qiē	"relationship close and tight" — closely connected; intimately related — A descriptive fixed phrase rather than a classical 成语, but widely used as a set expression in formal Chinese writing and speech. 这两家公司的关系密切，共享很多资源。"These two companies are closely connected and share many resources." The closeness can be personal, institutional, or strategic.
+国泰民安	guó tài mín ān	the country is prosperous and the people are at peace — The classical blessing for a nation: 泰 tài (great peace) + 民安 (the people are secure). Used in toasts, New Year wishes, and political rhetoric. The Confucian ideal of good governance.
+好景不长	hǎo jǐng bù cháng	good times don't last — a beautiful scene cannot endure — Lit: good-scenery-not-long. An expression of Buddhist impermanence and Chinese realism about fortune. Used when pleasant circumstances are ending or were brief.
+好事多磨	hǎo shì duō mó	good things take time — good outcomes require much grinding and effort — Lit: good-things-much-grinding. Used to console someone experiencing delays or obstacles on the path to something valuable. The consolation: friction is the price of worth.
+好自为之	hǎo zì wéi zhī	take good care of yourself; do well for yourself — A formal farewell or parting injunction: "do well in your own conduct." Can be warm (a mentor to a student) or pointed (a warning to behave). Context determines whether it is affectionate or admonishing.
+和光同尘	hé guāng tóng chén	to soften one's light and share the dust: to blend in and live among ordinary people — From the Daoist classics: to dim one's brilliance and mix with the common crowd rather than stand apart. A vision of how the wise move within society, joining its dust instead of towering over it. The ideal of fitting unobtrusively into the social whole.
+和气生财	hé qì shēng cái	harmony brings wealth — a gentle manner attracts prosperity — 和气 héqi (harmony of manner; friendliness) + 生 shēng (to generate) + 财 cái (wealth). The principle that amicable dealings create the trust and goodwill that sustain business. Posted in shops across the Chinese-speaking world.
+狐朋狗友	hú péng gǒu yǒu	fox-friends and dog-companions: a bad crowd — Lit: fox-friends, dog-friends. 狐 fox and 狗 dog stand for the sly and the low. The phrase scorns worthless drinking companions and hangers-on, the kind of friends who lead you nowhere good. A parent's word of warning.
+患难之交	huàn nàn zhī jiāo	a friend made in times of hardship — a friend in adversity — A friendship forged through shared difficulty, prized in Chinese culture as the truest kind. 患难 huànnàn means hardship and danger; 交 jiāo here is the noun "friendship, bond." The related proverb is 患难见真情 ("adversity reveals true feeling"): you learn who your real friends are when times are hard.
+价值连城	jià zhí lián chéng	worth a string of cities: of immense value — From the Warring States tale of the 和氏璧 jade, which King Zhao of Qin offered fifteen cities to obtain. To be worth 连城 is to command a value beyond ordinary reckoning.
+江山社稷	jiāng shān shè jì	the rivers, mountains, and altars of soil and grain: the whole realm, the state — Literally "rivers and mountains, the altars of soil and grain." 江山 the land and 社稷 the altars together name the entire country a ruler holds in trust. A grand, classical phrase for the state as a whole, the territory and the legitimacy that come with it.
+教我如何不想她	jiào wǒ rú hé bù xiǎng tā	"How could I not think of her" — Liu Bannong's 1920 poem, set to music by Zhao Yuanren — Not classical, but the most famous early appearance of 她 in print. The poem is addressed to "her", variously read as a lover, the homeland (Liu was abroad in Britain when he wrote it), or both. The song became one of the defining works of early modern Chinese music.
+姐妹情深	jiě mèi qíng shēn	deep sisterly affection — A common modern four-character set phrase for the strong bond between sisters or close female friends. Frequent in titles, toasts, and warm descriptions of female friendship.
+借刀杀人	jiè dāo shā rén	borrow a knife to kill a man: destroy a rival by another's hand — The third of the Thirty-Six Stratagems (三十六计). You stay clean while a third party does the deed; still vivid in business and political commentary today.
+借古讽今	jiè gǔ fěng jīn	use the past to satirize the present — A classic mode of Chinese writing: cloak criticism of present rulers in a story about an ancient dynasty. Long the safest way to speak truth to power.
+借花献佛	jiè huā xiàn fó	to offer flowers borrowed from another — presenting something that isn't yours — Used with self-deprecating humor when giving a gift that wasn't originally yours , passing along a recommendation, re-gifting, or presenting another person's work as an offering. The image: lacking flowers of your own to offer at the Buddhist altar, you borrow someone else's.
+借题发挥	jiè tí fā huī	seize on a topic to make a wider point: use a pretext to vent — Literally "borrow the subject to elaborate." Common for someone who turns a small matter into a platform for a bigger grievance.
+巾帼不让须眉	jīn guó bù ràng xū méi	"the woman's headdress yields nothing to the man's beard" — a woman who is the equal of any man — 巾帼 jīnguó , a woman's hair ornament, by metonymy "woman." 须眉 xūméi: beard and brows, by metonymy "man." Used in praise of female generals (Mulan, Hua Mulan; Liang Hongyu), athletes, and accomplished women.
+礼尚往来	lǐ shàng wǎng lái	rites value reciprocity — one courtesy deserves another; give and take — From the 礼记 Lǐjì (Record of Rites): 礼尚往来，往而不来，非礼也；来而不往，亦非礼也. "礼 values mutual exchange; to offer without receiving back is not 礼; to receive without offering back is also not 礼." The principle of reciprocity as the governing logic of social life.
+礼贤下士	lǐ xián xià shì	"to honor the worthy and condescend to the lower-ranked" — a leader's courteous treatment of those beneath them — Originally describing rulers and high officials who treated talented commoners and lower-ranked scholars with genuine respect , a quality praised throughout the dynastic histories. 礼 is verbal here ("to treat with 礼"); 贤 xián = the worthy; 下士 = lower-ranked scholars.
+利害关系	lì hài guān xi	"interest-harm relationship" — a relationship involving mutual stakes and risks — Lit: benefit-harm-relationship. Describes a situation where parties are bound by shared interests and shared risks , where what benefits or harms one affects the others. 他们之间有复杂的利害关系，不能轻易分开。"There are complex stakes between them , they can't be easily separated."
+满招损，谦受益	mǎn zhāo sǔn , qiān shòu yì	"fullness invites loss; humility attracts benefit" — the cosmological argument for modesty — From the 尚书 (Shangshu, Book of Documents), one of the Five Classics , among the oldest extant Chinese prose.
+面不改色	miàn bù gǎi sè	"face doesn't change color" — unruffled; keeping composure under pressure; poker-faced — Lit: face-not-change-color. The mark of composure under pressure , your face doesn't betray fear, surprise, or discomfort. 他面不改色地接受了批评，继续进行演讲。"He received the criticism without changing expression and continued his speech." Often admired as a sign of courage or self-discipline.
+面面俱到	miàn miàn jù dào	every aspect covered; thorough in all directions — 面 miàn (face; surface; aspect) + 面 + 俱 jù (all; together) + 到 (arrived at). Arrival has reached every face, every surface, every angle of the matter. Used to praise comprehensive coverage , a plan that misses nothing, a speech that addresses every concern, an analysis that leaves no gap.
+民不聊生	mín bù liáo shēng	the people can scarcely survive: a populace plunged into misery — Literally "the people have no means to make a living." A grim phrase for times of misrule, war, or disaster when ordinary people cannot even keep themselves alive. 聊 liáo here is the classical sense "to rely on, to depend on for," so 不聊生 means having nothing to depend on for life.
+民以食为天	mín yǐ shí wéi tiān	to the people, food is heaven: nothing matters more than feeding the people — Literally "the people take food as heaven." An ancient maxim of statecraft: the first and highest concern of any ruler is that the people have enough to eat. Still quoted constantly in everyday life, often half-jokingly, to defend the seriousness of a good meal.
+名不虚传	míng bù xū chuán	the reputation is not falsely spread: to live up to one's name; to be as good as people say — Lit: the name is not emptily passed around. Said of a person or thing whose fame turns out to be well deserved, the praise that circulated was no exaggeration. Here 传 keeps the chuán reading, the spreading of a reputation.
+名副其实	míng fù qí shí	the name matches the reality — Literally "the name fits its reality," said of someone or something that truly lives up to its reputation or title. 名 (name) and 实 (reality) match. The opposite is 名不副实 ("the name does not match the reality"), all show, no substance. Note the shared 其实 morphemes 其 and 实.
+名正言顺	míng zhèng yán shùn	the name is right and the speech follows smoothly — acting with proper authority and justification — Lit: name-correct speech-flows. Directly from the Analects 13.3 argument: when the name is rectified, speech follows naturally, and what follows from speech can be accomplished. Used today when someone has the proper credentials or title to do something , "now that you have the title, you can act."
+排兵布队	pái bīng bù duì	to arrange soldiers and deploy units: to marshal forces — A military set phrase, sibling to 排兵布阵. Describes a commander laying out troops in formation; now applied to organizing a team or lineup before a contest or launch.
+朋比为奸	péng bǐ wéi jiān	to band together for evil: to collude in wrongdoing — Lit: friends-allying to-do evil. 朋比 is to band together as a clique, 为奸 to commit villainy. A sharply negative idiom for cronies who join forces for corrupt or treacherous ends, the dark side of company kept on a level footing.
+朋友遍天下	péng you biàn tiān xià	to have friends all over the world — A warm saying praising someone with a wide circle of friends everywhere. 遍 biàn means "all over," 天下 "under heaven, the whole world." Often paired with the encouraging proverb 在家靠父母，出门靠朋友 ("at home you rely on parents; away from home you rely on friends"), which captures the practical importance of…
+劈头盖脸	pī tóu gài liǎn	splitting the head and covering the face: full in the face, without holding back — Describes a torrent that lands straight on you, a downpour of rain or a barrage of scolding, leaving no chance to dodge.
+谦谦君子	qiān qiān jūn zǐ	"the humbly modest exemplary person" — the junzi whose modesty is doubled and genuine — From the 易经 (Yijing), first line of hexagram 15 谦 Qiān: 谦谦君子，用涉大川，吉 (The humbly modest exemplary person , it is advantageous to cross the great river. Good fortune). The doubling of 谦谦 marks the quality as thorough and genuine rather than surface-level.
+亲贤臣，远小人	qīn xián chén , yuǎn xiǎo rén	keep worthy ministers close and petty men far — From Zhuge Liang's Chushibiao (出师表), the memorial he submitted before the northern campaigns, diagnosing why the Former Han rose and the Later Han fell.
+琴瑟和鸣	qín sè hé míng	qin and se playing in harmony — a happy and loving marriage — 琴 qín (seven-string zither) and 瑟 sè (larger twenty-five string zither) are the classical paired instruments. When they sound together in harmony, they are the image of a couple in accord. A literary idiom for marital happiness, used in wedding toasts and poetry.
+人面兽心	rén miàn shòu xīn	a human face with the heart of a beast: a cruel person behind a civil mask — Not built on 社 itself, but a classic measure of how a person fits or fails the bonds of human society: someone who looks like one of us yet behaves with brute cruelty. A reminder that belonging to a 社会 is judged by conduct, not appearance.
+舍我其谁	shě wǒ qí shuí	if not I, then who? — the burden falls to me
+身不由己	shēn bù yóu jǐ	the body is not controlled by oneself — driven by circumstances beyond one's will — 身 shēn (body; self) + 不 bù (not) + 由 yóu (controlled by; following from) + 己 jǐ (oneself). One's own body belongs to external forces , obligation, circumstance, social pressure, or fate. The counterpart to agency: when 他 (the other, external) overrides 己 (the self).
+说到做到	shuō dào zuò dào	to do what one says — to be as good as one's word — 说 shuō (to say) + 到 dào (reach the point of) + 做 + 到. Literally "say it to the point, do it to the point." A high compliment: this is a person whose words and deeds match, who does not promise idly. The structure leans on 做到 (to achieve, to follow through).
+死要面子活受罪	sǐ yào miàn zi huó shòu zuì	"dying for face, living in torment" — to suffer rather than ask for help because of pride — A seven-character folk saying rather than a classical 成语, but extremely widely used. Describes the pattern of letting one's face-consciousness cause unnecessary suffering , not asking for help, not admitting failure, not seeking medical attention, because doing so would cost face.
+送佛送到西	sòng fó sòng dào xī	if you escort the Buddha, escort him all the way west: finish what you start, see help through to the end — A colloquial saying drawing on the westward journey of Buddhist pilgrimage. Urges you not to abandon a kindness or a task halfway, but to carry it to completion.
+送旧迎新	sòng jiù yíng xīn	to send off the old and welcome the new: ring out the old year, ring in the new — A New Year and year-end phrase, balancing 送 (sending off) the old against 迎 (welcoming) the new. Common on greeting cards and in festival speeches.
+送往迎来	sòng wǎng yíng lái	to send off those leaving and welcome those arriving: the endless round of social hospitality — Traces to the Lǐjì (Book of Rites). Describes the constant ceremony of receiving guests and seeing them off, often with a faint note of how exhausting such social duty becomes.
+所谓伊人	suǒ wèi yī rén	"the one of whom I speak" — the beloved, the one I yearn for — From the Shijing (诗经) poem 蒹葭 ("Reeds"). One of the most famous lines of classical poetry, and the locus classicus for 伊 as feminine third person. The poem itself is gender-ambiguous in the classical text but read across two millennia as referring to a beloved woman across the river.
+他山之石	tā shān zhī shí	stones from other hills — outside perspectives can polish your own jade — From the Book of Songs (诗经): "stones from other hills can be used to grind jade." External viewpoints, foreign models, and outside criticism all carry value that self-regard misses. 他山 (other hills) + 之 (possessive particle) + 石 (stones).
+讨价还价	tǎo jià huán jià	ask a price, return a price: to haggle, bargain — Acts out the back-and-forth of the marketplace, one side naming a figure and the other countering. Extended to any drawn-out negotiation over terms.
+铁哥们儿	tiě gē men r	iron buddies: rock-solid male friends — 铁 (iron) intensifies 哥们儿. The metaphor is metal: a friendship that won't bend or rust. Reserved for the few friends you would drop everything for.
+忘我工作	wàng wǒ gōng zuò	to work with selfless devotion; absorbed work
+我行我素	wǒ xíng wǒ sù	to go one's own way; to act as one always has
+无关紧要	wú guān jǐn yào	"unrelated to the important" — trivial; beside the point; not worth worrying about — Lit: no-connection-tense-important. Used to dismiss irrelevant details or minor concerns. 这些细节无关紧要，我们不要在这里浪费时间。"These details are beside the point , let's not waste time on them." Often used as a diplomatic way to redirect a conversation.
+无价之宝	wú jià zhī bǎo	a treasure beyond price: a priceless thing — 无价 (without price) marks what no sum could buy. Used for a rare heirloom, a one-of-a-kind artwork, or, warmly, for a person or a friendship.
+无名英雄	wú míng yīng xióng	unsung hero — a hero without a name — Lit: without-name hero. Someone who performs heroic deeds without receiving fame or recognition. The tension between 名 (name, recognition) and 实 (substance, actual contribution) compressed into a phrase.
+物美价廉	wù měi jià lián	the goods fine and the price cheap: excellent value for money — The four-character verdict every shopper hopes to pronounce: good quality and a low price at once. Standard praise in advertising and casual recommendation alike.
+息息相关	xī xī xiāng guān	"every breath mutually connected" — closely and inextricably interconnected — Lit: breath-breath-mutually-connected. 息 = breath. The image: two systems breathing in such synchrony that they cannot be separated. Used for things that are organically and necessarily connected. 这两个问题息息相关，解决一个就能推动另一个。"These two issues are inextricably linked , solving one will advance the other."
+嬉皮笑脸	xī pí xiào liǎn	grinning cheekily: to behave with a flippant, unserious grin — A face stuck in a smirk, used to describe someone who refuses to take a moment seriously. Often a parent's rebuke to a child who jokes through a scolding.
+先礼后兵	xiān lǐ hòu bīng	"first courtesy, then arms" — try diplomacy before resorting to force — From the Romance of the Three Kingdoms (三国演义). The classical strategic principle: open with 礼 (courteous communication), and only if that fails escalate to 兵 (military force or coercive action).
+先小人后君子	xiān xiǎo rén hòu jūn zǐ	petty men first, gentlemen after — settle terms up front — The contract-signing proverb: state the money, the split, and the deadlines with un-gentlemanly explicitness now, so that everyone can afford to be a gentleman later. Spoken at the start of partnerships between friends precisely because friendship is what it protects.
+小人得志	xiǎo rén dé zhì	the petty man gets his moment — power in unworthy hands — 得志 is achieving one's ambitions; attached to 小人 it names the special insufferability of the schemer promoted. The stock description of the new supervisor swaggering through a department, and of every court favorite in the historical novels.
+小题大做	xiǎo tí dà zuò	to make a big production of a small topic — to overreact — 小 xiǎo (small) + 题 tí (topic, subject) + 大 dà (big) + 做 (to make, to treat). Originally from the examination tradition, where a trivial topic was expanded into a grand essay; now it means blowing a minor matter out of proportion.
+兄弟姐妹	xiōng dì jiě mèi	brothers and sisters; siblings — The full set of siblings named in birth-order pairs: 兄 (elder brother), 弟 (younger brother), 姐 (elder sister), 妹 (younger sister). A staple four-character phrase, and one of the few common ones to carry 姐 directly.
+虚怀若谷	xū huái ruò gǔ	"a mind as open as a valley" — profound receptivity; the deepest form of intellectual humility — The Daoist counterpart to the Confucian 谦谦君子. Where the Confucian formulation focuses on the social expression of humility in hierarchical relationships, 虚怀若谷 focuses on the inner orientation , the mind that has genuinely emptied itself of the need to be right, to have known first, to defend its exi…
+削尖脑袋往里钻	xu ē jiān nǎo dai wǎng lǐ zuān	to sharpen one's head and bore in: to push to the front of the queue — A colloquial saying, not a classical 成语, paired here with 加塞儿 (jiāsāir, to cut the line). Mentioned to contrast the orderly 排队 ideal with the elbows-out reality of a crowded queue.
+雪中送炭	xu ě zhōng sòng tàn	to send charcoal in the snow: timely help when it is needed most — The image is bringing fuel to someone freezing in a blizzard. Praises aid that arrives at the moment of real need, the warm counterpart of 锦上添花 (adding flowers to brocade), which only embellishes what is already fine. Still in everyday use.
+以礼相待	yǐ lǐ xiāng dài	to treat one another with proper courtesy — 以 yǐ (using; by means of) + 礼 + 相 xiāng (mutually) + 待 dài (to treat). A formal phrase for the reciprocal practice of 礼貌 between parties , between hosts and guests, between rival firms after a difficult negotiation, between countries after a diplomatic strain.
+以小人之心，度君子之腹	yǐ xiǎo rén zhī xīn , duó jūn zǐ zhī fù	measuring a gentleman's belly with a petty man's heart — projecting one's own baseness — Adapted from a Zuozhuan phrase: assuming others' motives are as small as one's own. The polite deployment is self-accusation: 是我以小人之心度君子之腹了, "I misjudged you by my own petty standard," the graceful way to withdraw a suspicion that proved unfair.
+政通人和	zhèng tōng rén hé	government flowing smoothly, people in harmony — the ideal of good governance — From Fan Zhongyan's (范仲淹) "Yueyang Tower Preface" (岳阳楼记, 1046 CE): 政通人和，百废具兴 , when governance flows and the people are in harmony, all that was ruined can be restored. The four-character condensation became a standard formula for describing a well-governed state.
+志同道合	zhì tóng dào hé	sharing the same goals and ideals — kindred spirits — Describes friends or partners who share the same ambitions (志 zhì) and follow the same path (道 dào). The classical ideal of friendship: not mere companionship but a meeting of values and direction. Used for close friends, allies, and collaborators who are truly aligned in what they want and believe.
+做贼心虚	zuò zéi xīn xū	having done the theft, the heart is uneasy — a guilty conscience betrays itself — 做 + 贼 zéi (thief) + 心 xīn (heart) + 虚 xū (empty, weak, unsteady). One who has done wrong cannot keep an easy heart; the inner unease leaks out as nervousness and over-caution. The phrase observes that guilt is self-announcing, that the wrongdoer's own jumpiness gives the game away.
+阿姨	ā yí	aunt; older woman — Auntie , used to address unfamiliar middle-aged women in informal contexts: cleaning staff, market vendors, neighbors. More personal than 女士 and warmer than nothing.
+爱好	ài hào	hobby; interest; pastime — 爱 ài (to love) + 好 hào (to be fond of). A thing one loves doing , a hobby or passion. One of the first personal vocabulary items learners need: 你有什么爱好？(What are your hobbies?)
+爱面子	ài miàn zi	to be very concerned with face; to care about appearances — 爱 (to love; to value; to be attached to). 爱面子 describes someone who places unusually high value on face , so much so that their behavior is shaped by the desire to maintain appearances even when it conflicts with practical sense.
+八大菜系	bā dà cài xì	the Eight Great Cuisines — every regional banquet runs on baijiu
+白酒	bái jiǔ	baijiu — the spirit most often paired with a hotpot meal
+百日	bǎi rì	The hundred-day mourning period following a death — The hundred-day mourning period following a death. During this time the bereaved family observes restrictions on celebration and festive activity. A commemoration ceremony at the end of the hundred days formally closes the mourning period.
+百姓	bǎi xìng	the common people; ordinary citizens — 百 (hundred; all) + 姓 xìng (surname). The full range of surnames = everyone who is not nobility. The warm, slightly literary word for "the people." 老百姓 (lǎobǎixìng) adds 老 (old, familiar) for a more affectionate, colloquial tone. Political speeches say 人民; everyday speech says 老百姓.
+拜堂	bài táng	the traditional wedding ceremony bow — 拜 bài (to bow; to pay respects) + 堂 táng (hall; the family hall). The three bows of the traditional Chinese wedding: first bow to Heaven and Earth (一拜天地), second bow to the parents (二拜高堂), third bow to each other (夫妻对拜). Each bow ratifies the marriage before a different authority.
+伴手礼	bàn shǒu lǐ	A hand gift — A hand gift: a gift brought in hand when visiting someone, the material expression of having thought of the host. Turning up empty-handed (空手 kōngshǒu) to visit someone's home, especially a first visit, is considered poor form. The 伴手礼 need not be elaborate; the gesture matters more than the object.
+报社	bào shè	newspaper office; press — 报 bào (newspaper) + 社 shè (an agency, office). The organization that produces a newspaper, both the institution and its premises: 在报社工作 "to work at a newspaper." The 社 here is the institutional body, not a club; the same slot gives 出版社 "publishing house" and 杂志社 "magazine office."
+笔名	bǐ míng	Pen name — Pen name: a literary pseudonym. Many Chinese writers and poets are better known by their pen names than their given names. Lu Xun (鲁迅) was born Zhou Shuren (周树人); his pen name is how he is universally known.
+闭	bì	to close, to shut (formal)
+便宜	pián yi	cheap, inexpensive
+表哥	biǎo gē	older male cousin — 表 (maternal/external) + 哥. An older male cousin on the mother's side, or through a paternal aunt. The 表 prefix marks cousins outside the father's patriline, distinct from 堂哥 (tánggē).
+表姐	biǎo jiě	older female cousin
+别客气	bié kè qi	don't stand on ceremony
+不错	bú cuò	pretty good, not bad; correct, right — 不 bù (not) + 错 cuò (wrong). Two readings from one shape: as praise, "quite good, not bad" (成绩不错 "good grades"); as confirmation, "right, correct" (一点不错 "exactly right"). Note the tone sandhi: 不 shifts to bú before the falling 错.
+不客气	bú kè qi	"you're welcome"; impolite, blunt
+不用客气	bú yòng kè qi	no need to be polite
+部队	bù duì	military unit; troops; armed forces — 部 bù (unit) + 队 duì (team; formation). A body of troops under one command, from a single unit up to the armed forces in general: 参军入部队 "to join the army." Soldiers say 在部队 "in the service."
+彩礼	cǎi lǐ	Betrothal gifts , the payment from the groom's family to the bride's family as part of the formal engagement. In contemporary China, the cash component (also called 彩礼钱) has become a source of social tension in areas where amounts have escalated sharply.
+称	chēng	To weigh — To weigh. 称一下 ("weigh it, please") hands the fruit to the vendor. The same character read chèn means "to fit," as in 称心如意, suiting one's heart's wishes.
+称呼	chēng hū	form of address
+称谓	chēng wèi	Form of address, title, mode of address , the technical term for the entire system of address terms. 亲属称谓 (qīnshǔ chēngwèi) refers specifically to kinship terms. Understanding 称谓 is considered a basic social competency.
+成本	chéng běn	cost (of production)
+吃饭	chī fàn	To eat a meal , literally "eat cooked grain — To eat a meal , literally "eat cooked grain." Used as a general term for eating any meal regardless of whether rice is served. 吃 means "to eat"; 饭 means cooked grain or, by extension, any meal.
+吃了吗	chī le ma	have you eaten
+出版社	chū bǎn shè	publishing house
+出名	chū míng	to become famous; to make a name for oneself — 出 chū (emerge) + 名 míng (name; fame; reputation). To emerge into collective naming , to become the person or thing that others talk about and recognize by name. The 出 marks the transition: previously unknown, now known. 出名 carries no inherent judgment of whether the fame is deserved or welcome.
+出于礼貌	chū yú lǐ mào	out of politeness; for the sake of courtesy — 出于 chūyú (proceeding from; out of) + 礼貌. Names the motivation behind a polite-but-not-sincere act: doing something not because you want to but because not doing it would be rude. Useful for marking the gap between social form and personal preference.
+川菜	chuān cài	Sichuan cuisine — 川 chuān (Sichuan) + 菜 cài (cuisine). The cooking of Sichuan, famous for the numbing-spicy 麻辣 málà of Sichuan peppercorn and chili. 麻婆豆腐 and 回锅肉 are classic 川菜 dishes.
+春节习俗	Chūn jié xí sú	Lunar New Year customs — Major customs of 春节: 贴春联 paste spring couplets on the door · 放鞭炮 set off firecrackers · 发红包 give red envelopes (现在多用微信红包) · 守岁 stay awake through New Year's Eve · 拜年 pay New Year visits · 吃饺子 eat dumplings (especially in North China, shaped like gold ingots 元宝).
+粗鲁	cū lǔ	coarse; rude
+大哥	dà gē	eldest brother; big bro — 大 (big) + 哥. Literally the eldest brother in the family. By extension it addresses the leader of a group, the boss of a gang, or any older man you want to flatter into helping you.
+大哥大	dà gē dà	brick phone; top boss — 大哥 (big brother) + 大 again. First a nickname for the 1980s brick mobile phone, the status symbol of bosses; by extension the kingpin or undisputed number one in any field.
+大姐	dà jiě	eldest sister; ma'am — 大 (big) plus 姐 marks the eldest of several sisters at home. On the street it doubles as a friendly, respectful way to address a woman somewhat older than the speaker.
+代价	dài jià	price paid, cost (in effort or loss) — 代 (to stand in for, substitute) + 价 (price). The cost something exacts, not in money but in effort, sacrifice, or loss. You pay a 代价 for a mistake, a victory, or a hard choice.
+贷款	dài kuǎn	loan, to grant a loan
+担心	dān xīn	to worry; to be concerned about — 担 dān (to carry on a shoulder pole; to bear a load) + 心 xīn (heart). Lit. "to carry the weight of the heart." Worry as a physical burden: the heart becomes heavy, something you haul around all day. One of the most common emotional verbs in everyday Mandarin.
+当众	dāng zhòng	In public; in front of everyone (lit — In public; in front of everyone (lit. "at the mass"). The adverb that transforms many face-related situations. 当众批评 (dāngzhòng pīpíng, to criticize publicly) and 当众表扬 (dāngzhòng biǎoyáng, to praise publicly) are qualitatively different from the same acts done privately.
+得罪	dé zuì	to offend, to cross someone — To acquire guilt before someone: the verb of social danger. The folk warning 宁得罪君子，不得罪小人 advises that a crossed gentleman forgives and a crossed petty man files it away, which is the whole word-field in one proverb.
+低调	dī diào	low-key; understated; keeping a low profile — 低 (low) + 调 (key, register, tone , musical or social). Originally the low musical key; now the social posture of deliberate understatement. 低调做人 (carry yourself with a low profile) and 低调行事 (act without fanfare) are standard phrases in professional and political discourse.
+敌人	dí rén	enemy
+弟弟	dì di	younger brother
+第二人称	dì èr rén chēng	second person
+第三人称	dì sān rén chēng	third person
+第一人称	dì yī rén chēng	first person
+丢脸	diū liǎn	to lose moral face; to be shamed; disgraceful — More severe than 丢面子. 丢脸 involves an element of moral failure , betrayal, cheating, acting in ways that contradict one's stated principles. Can affect not just the individual but their family and group. The scope is broader and the damage more lasting than simple social embarrassment.
+丢面子	diū miàn zi	to lose face; to be publicly embarrassed — 丢 diū (to lose; to throw away , the losing of something you once had). To lose face is not merely to feel embarrassed privately; it is to have one's standing visibly diminished in the eyes of others. The public, witnessed nature of face-loss is what makes it significant.
+豆腐	dòu fu	tofu — a cross-cuisine staple appearing in nearly every regional school
+独生子女	dú shēng zǐn ǚ	Only child (lit — Only child (lit. "alone-born child-female" , zǐnǚ covers both sexes). The defining identity category for the urban Chinese generation born 1980–2015 under the one-child policy. 独生子 (dúshēng zǐ) is a son; 独生女 (dúshēng nǚ) is a daughter.
+队伍	duì wǔ	ranks, procession, contingent — 队 (formed group) + 伍 (a file of five soldiers, the old squad). The pairing names a body of people standing or moving in order, from a literal military column to a figurative workforce or movement.
+队形	duì xíng	formation, marching shape — 队 (formed group) + 形 (shape). The geometric pattern a group holds while moving: a wedge of soldiers, a flying V of geese, a defensive line on the pitch.
+队员	duì yuán	team member, squad member — 队 (team) + 员 (member, a person filling a role). Any rank-and-file member of a team: a player, a scout, a rescue worker.
+队长	duì zhǎng	captain, team leader — 队 (team) + 长 (chief, the elder/head). The one at the front of the column: a sports captain, a squad leader, the head of a work brigade.
+二哥	èr gē	second eldest brother — 二 (two) + 哥. The second of the brothers, ranked after 大哥. The numbering system is literal: each older brother is addressed by his birth order, never by name within the family.
+发财	fā cái	To get rich, to make money — To get rich, to make money: the aspiration whose first syllable 发 (fā) sounds like 八 (bā, eight) in Cantonese, giving eight its commercial prestige. 恭喜发财 (gōngxǐ fācái, "congratulations and may you prosper") is the standard Spring Festival greeting.
+发红包	fā hóng bāo	to send a red envelope; to distribute lucky money
+翻脸	fān liǎn	to turn hostile; to fall out with someone — 翻 (to flip, turn over) + 脸 (face). To flip the face from friendly to cold in an instant, breaking off goodwill. The vivid version is 翻脸不认人 (fānliǎn bú rèn rén), to turn cold and pretend you never knew the person.
+饭	fàn	cooked rice; meal
+方面	fāng miàn	aspect; side; area; regard — 方 (direction; side) + 面 (face; surface). A particular "side" or "face" of a topic , one of the aspects of a multi-sided issue. Extremely common in academic, journalistic, and analytical Chinese. 在这方面 (in this regard), 各个方面 (all aspects), and 经济方面 (in terms of economics) are standard expressions.
+份子钱	fèn zi qián	share money — the obligatory wedding gift
+盖头	gài tóu	The red veil worn by the bride during the wedding procession and ceremony, lifted by the groom in the bridal chamber. The lifting of the veil (揭盖头 jiē gàitóu) was the culminating moment of the traditional wedding ceremony.
+感恩	gǎn ēn	to honor all grace received; gratitude as virtue — 感 gǎn + 恩 ēn (grace; benevolence: the kindness of parents, teachers, heaven). A Confucian virtue, the act of recognizing and honoring all goodness received throughout one's life. The deepest gratitude word.
+干	gān	to do; to work (colloquial)
+干杯	gān bēi	Bottoms up , "dry cup — Bottoms up , "dry cup." The standard toast call, implying the glass is to be emptied. Contrasted with 随意 (suíyì, "as you like"), which allows partial drinking. 干杯 is the stronger and more committed version. Refusing to 干杯 with someone who has singled you out for a toast is a social rebuff.
+搞	gǎo	to do, to manage
+告别	gào bié	to bid farewell
+哥儿俩	gēr liǎ	the two brothers; the pair of bros
+哥哥	gē ge	elder brother — The base word: 哥 doubled, the second syllable toned down to neutral. Standard everyday term for one's own older brother, and a child can also use it for an unrelated older boy.
+哥们儿	gē men r	buddy, bro, mate — 哥 + 们 (plural) + the Beijing 儿 ending. Close male friends, sworn-brother style. Singular or plural, it marks loyalty between guys; northern and casual, common in Beijing speech.
+个人	gèr én	individual; personal; in one's own view — 个 gè (single) + 人 rén (person). The single person set against the group, and by extension "personal, private": 个人观点 "a personal opinion," 个人信息 "personal information." Its foil is 集体 jítǐ (the collective).
+给面子	gěi miàn zi	to give face; to show respect; to honor someone's standing — 给 (to give) + 面子. To actively enhance or protect someone else's face. Can mean: attending their event (your presence honors them), publicly praising them, deferring to them in front of others, or not challenging them when they are wrong , to spare their embarrassment.
+公筷	gōng kuài	Serving chopsticks , a second pair of chopsticks placed at the table for taking from shared dishes, kept separate from the pair used for eating. The practice is hygienic and has become more widespread post-2020. At formal banquets, a serving spoon (公勺 gōng sháo) may accompany each dish.
+公民	gōng mín	citizen (a legal member of a state) — 公 gōng (public, common) + 民. The legal-political term for a citizen: a person who holds the nationality of a state and bears its rights and obligations. The standard word in constitutional and legal contexts, paired with 权利 quánlì (rights) and 义务 yìwù (duties).
+公司	gōng sī	company; firm; corporation — 公 gōng (public; common) + 司 sī (to manage; an office). A jointly run enterprise, a body managed in common: 一家公司 "a company." Note the contrast with the homophone 私 sī (private).
+恭敬	gōng jìng	respectful; deferential
+共	gòng	together; shared
+共和	gòng hé	republic; shared harmony
+顾面子	gù miàn zi	to consider face; to save face for someone; to protect dignity — 顾 gù (to consider; to look after; to take into account). 顾面子 means to take face into consideration when making decisions or acting , whether one's own face or someone else's. More deliberate and conscious than simply 给面子. Suggests a thoughtful navigation of face dynamics.
+关闭	guān bì	to close (formal)
+关灯	guān dēng	to turn off the light
+关怀	guān huái	to show concern and care for (warm, often institutional)
+关机	guān jī	to power off (a device); to switch off a phone
+关键	guān jiàn	key, crucial, the decisive hinge
+关联	guān lián	correlation; connection; to be associated with — 关 (connection) + 联 (to join; to link). More formal and analytical than 关系 , used for logical correlations, data relationships, and systematic connections. Common in academic, research, and analytical writing. 相互关联 xiānghù guānlián = mutually correlated; interconnected.
+关门	guān mén	to close the door; (of a shop) to close for the day or for good
+关起来	guān qǐ lái	to lock up; to shut in; to imprison
+关系到	guān xi dào	to affect; to have a bearing on; to be relevant to — 关系到 (lit. "the relationship reaches to") means that something has a bearing on, affects, or is relevant to something else. Used for high-stakes matters where the connection is important to note explicitly. Common in official, journalistic, and persuasive writing.
+关系网	guān xi wǎng	network of connections; relationship network — 网 wǎng = net; network. 关系网 is the spider's web of personal connections , who you know, who they know, and the overlapping obligations and trust that run through the web.
+关系重大	guān xi zhòng dà	of great importance; high-stakes; consequential — A common fixed expression used to characterize something as having major consequences or importance. 重大 zhòngdà = major, significant. Used in formal registers to signal that a decision, situation, or event carries real weight and should be treated with corresponding seriousness.
+关心	guān xīn	to care about; concern; care — 关 (to concern; to be connected to) + 心 (heart). The heart connected to something , caring. One of the most important relational verbs in Chinese. Both the action of caring and the expression of concern. High frequency in family, friendship, and professional contexts.
+关于	guān yú	about; concerning; with respect to — 关 guān (to connect) + 于 yú (to). Marks the subject matter of a book, talk, or document: 关于历史的书 "a book about history." Where 对于 frames an attitude, 关于 frames a topic.
+关注	guān zhù	to pay attention to; to follow closely; attention; concern — 关 (to concern; to connect) + 注 (to pour; to focus , water pouring into a single point). Focused, sustained attention toward something important. In digital contexts, 关注 means to follow someone's account (social media).
+官方	guān fāng	official; governmental
+规矩	guī ju	unwritten rules; etiquette
+鬼月	guǐ yu è	Ghost Month — Ghost Month: the seventh month of the lunar calendar, during which the gates of the underworld are held to open and the spirits of the dead roam freely. Considered an inauspicious period for weddings, starting new businesses, moving house, or making major decisions.
+过关	guò guān	to pass the pass; to clear a hurdle, exam, or test
+过奖了	guò jiǎng le	"you've overpraised me" — a deflection of excessive praise — 过 guò (to exceed; to go too far) + 奖 jiǎng (to praise; to commend; an award) + 了 le (completion/change-of-state particle). A slightly more sophisticated deflection than 哪里哪里 , conceding that some praise may be warranted but asserting that the speaker has gone beyond what is accurate.
+还差得远	hái chà de yuǎn	"still far from good enough" — modest self-assessment; "I have a long way to go" — 还 hái (still; yet) + 差 chà (to fall short; to be lacking) + 得 de (degree complement marker) + 远 yuǎn (far). A self-deprecating phrase that positions the speaker as still well short of a standard , pointing forward to future growth rather than backward at achievement.
+海关	hǎi guān	customs (the office or checkpoint) — 海 hǎi (sea) + 关 guān (pass; barrier). The customs authority that inspects goods crossing a border, named for the sea-passage through which trade once arrived: 过海关 "to clear customs."
+好吃	hǎo chī	delicious
+好处	hǎo chù	benefit; advantage; good point — 好 hǎo (good) + 处 chù (place; aspect; point). The good points of something: its advantages. Contrast: 坏处 huàichù (bad points; disadvantages).
+好看	hǎo kàn	good-looking; interesting to read
+好了	hǎo le	done; ready; okay; alright (change of state) — 好 + 了 (change-of-state marker) = has become ready/done/okay. One of the most frequent two-syllable expressions in spoken Mandarin. Announces completion, signals readiness, and in reduplicated form (好了好了) means "alright, enough, okay."
+好朋友	hǎo péng you	good friend; close friend — A close friend, the most common way to mark closeness. 好 hǎo (good) stacks directly in front. For an even closer bond there is 知己 zhījǐ, "one who knows me," a soulmate-friend who truly understands you, a notion with deep roots in classical Chinese friendship.
+好奇	hào qí	curious; inquisitive — 好 hào (fond of) + 奇 qí (the strange, the unusual). Fond of the unusual , curious. 好奇心 hàoqíxīn = curiosity (the heart of fondness for strangeness).
+好事成双	hǎo shì chéng shuāng	Good things come in pairs — Good things come in pairs: the principle that favors even numbers and pairing in gifts, decorations, and arrangements. Matched pairs of objects (candles, vases, figurines) are standard for weddings and auspicious occasions.
+号	hào	title; alias; art name
+合同	hé tong	Contract — Contract. 签合同 (qiān hétong) is to sign one. The parties inside it, 甲方 and 乙方 (Party A and Party B), have become everyday slang for client and vendor.
+合作	hé zuò	to cooperate; to collaborate; cooperation — 合 hé (to join) + 作 zuò (to do; to work). To join efforts and work as one. The everyday word for partnership of every scale, from two classmates to two nations: 合作伙伴 "a cooperation partner."
+和解	hé jiě	reconciliation; to settle a dispute
+和平	hé píng	peace; peaceful — 和 hé (harmony) + 平 píng (calm). Peace as the opposite of war and conflict: 世界和平 "world peace," 和平谈判 "peace talks," 和平相处 "to live together in peace."
+和谐	hé xié	harmony; harmonious
+和谐社会	hé xié shè huì	harmonious society — 和谐 (héxié, harmonious; in harmony) + 社会. The governing ideal articulated by Hu Jintao in 2004.
+红脸	hóng liǎn	to blush; to flush red (with anger or embarrassment) — 红 (red) + 脸 (face). The cheeks going red, whether from shyness or from a flare of temper. 脸红 (liǎnhóng) reverses the order for the same blush; 红脸 also names the stern, blunt role someone plays in a good-cop bad-cop pairing.
+花轿	huā jiào	The decorated red sedan chair in which the bride was traditionally carried to the wedding. The chair was ornately painted and curtained, surrounded by musicians and attendants. The tradition has been revived in some contemporary weddings as a heritage element.
+欢送	huān sòng	to give a warm send-off — 欢 (joyful) plus 送 (see off). To send someone off with celebration: a farewell party for a retiring colleague or a graduating class. The opposite number of 欢迎 (huānyíng), to welcome.
+回礼	huí lǐ	To return a gift , to reciprocate with a gift of one's own — To return a gift , to reciprocate with a gift of one's own. 回礼 is expected and its absence is noticed. The return gift should be roughly equivalent in value to the original but need not be identical in kind. Returning a gift of equal or slightly higher value is considered courteous.
+婚礼	hūn lǐ	wedding ceremony — 婚 hūn (marriage) + 礼 lǐ (rite; ceremony). Wedding as ritual. The 礼 suffix creates ceremony words for life's great transitions: 婚礼 wedding · 葬礼 zànglǐ funeral · 成人礼 chéngrénlǐ coming-of-age ceremony · 开幕礼 kāimùlǐ opening ceremony.
+火锅	huǒ guō	hotpot; steamboat — 火 huǒ + 锅 guō (pot; wok). A simmering communal pot at the table , the quintessential Chinese social meal. 吃火锅 = to eat hotpot, one of the most common social dining activities. Regional varieties: 四川火锅 Sichuan hotpot (numbing-spicy 麻辣), 北京涮羊肉 Beijing lamb hotpot (clear broth).
+伙伴	huǒ bàn	partner; companion
+吉利	jí lì	auspicious; lucky; propitious — Auspicious, lucky, propitious , the standard term for something considered to bring good fortune. A number, date, phrase, or object that is 吉利 is sought after and displayed. Its opposite: 不吉利 (bù jílì), inauspicious.
+集体	jí tǐ	collective; group; the community — 集 jí (to gather) + 体 tǐ (body). A gathered body of people acting as one: 集体活动 "a group activity," 集体主义 "collectivism." Set against the individual, 个人 gèrén.
+寄	jì	to mail, post
+夹菜	jiā cài	To pick food for someone else , placing food from a shared dish into another person's bowl as a gesture of care and hospitality. The action is performed with chopsticks and directed toward honored guests, elders, or someone whose preferences you are attending to.
+家庭	jiā tíng	Family; household — Family; household. The nuclear unit of parents and children who share a home. 家庭作业 (jiātíng zuòyè, homework , lit. "family work") and 家庭医生 (jiātíng yīshēng, family doctor) show the compound in everyday use. The term carries a warmth and domesticity that the more formal 家族 lacks.
+家族	jiā zú	Clan; extended family network; lineage group sharing a surname. 家族企业 (jiāzú qǐyè) is a family business , often meaning a business controlled across generations by a single clan. The word implies shared ancestry, shared surname, and historically shared clan property and ancestral hall (祠堂 cítáng).
+假借	jiǎ jiè	to make use of, borrow (literary)
+价格	jià gé	price — 价 (price) + 格 (a fixed standard, a slot). The settled, stated price of a good, the figure printed on the tag or quoted by the seller. The everyday word for what something costs.
+价钱	jià qián	price (colloquial)
+价值	jià zhí	value, worth — 价 (price) + 值 (to be worth). The abstract worth of a thing, an act, or an idea, far beyond any market figure. Carries the moral and intellectual sense, as in 价值观 (jiàzhíguān), a set of values.
+嫁妆	jià zhuang	Dowry , the goods the bride's family sends with her to the new home. Traditionally included furniture, bedding, household items, and valuable objects. The dowry and betrothal gifts are understood as a two-way transfer that balances the exchange between families.
+见外	jiàn wài	to treat as an outsider
+讲礼貌	jiǎng lǐ mào	to mind one's manners; to be attentive to politeness — 讲 jiǎng (to attend to; to value; to make a point of) + 礼貌. The active form: not just having manners but consciously practicing them. Common in parental instruction and educational contexts. 讲礼貌 is what 有礼貌 looks like as a discipline rather than a state.
+降价	jiàng jià	to cut the price, mark down — 降 (to lower) + 价 (price). To bring a price down, to discount. Its opposite is 涨价 (zhǎngjià), to raise the price. Both are verb-object compounds, so an amount can split them: 降了价.
+交朋友	jiāo péng you	to make friends — A verb-object phrase: 交 jiāo (to associate with, to form bonds) + 朋友. To make a single friend is 交个朋友 (with 个 splitting the phrase). The same 交 appears in 交流 (to exchange, communicate) and 社交 (social interaction), all built on the sense of mutual exchange.
+骄傲	jiāo ào	arrogant; proud (positive or negative depending on context) — 骄 jiāo (arrogant; a rearing horse , the original pictograph showed an unruly horse rearing up on its hind legs) + 傲 ào (proud; disdainful; lofty). The primary antonym of 谦虚. In moral discourse, always negative , 骄傲是谦虚的对立面 (arrogance is the opposite of humility).
+窖	jiào	The fermentation pit — The fermentation pit: the earthen or stone pit in which the fermented grain mash (酒醅 jiǔpēi) undergoes anaerobic fermentation. Old pits with established microbial ecosystems are considered the most valuable assets of a distillery.
+姐夫	jiě fu	elder sister's husband; brother-in-law — 姐 (elder sister) plus 夫 (husband) names the man married to one's older sister. Chinese kinship marks the relation precisely, distinct from 妹夫 (mèifu), a younger sister's husband.
+姐姐	jiě jie	elder sister — The doubled character is the everyday word for one's older sister. The second 姐 takes a neutral tone, giving the warm, soft cadence Chinese kinship terms favor.
+姐妹	jiě mèi	sisters; female friends — 姐 (elder sister) plus 妹 (younger sister) yokes the two into a single word for "sisters" as a pair or group, and by extension a tight circle of close female friends.
+界面	jiè miàn	interface; the surface between two systems — 界 (boundary; boundary marker) + 面 (surface; face). The surface at the boundary between two things. In technology and computing: the user interface (用户界面 yònghù jièmiàn), screen interface. In science: the interface between two phases or systems.
+借给	jiè gěi	to lend (to someone) — 借 (lend) + 给 (give to). Pinning 给 after 借 fixes the direction outward: the subject is the one handing the object over.
+借鉴	jiè jiàn	to learn from, draw on as a model — 借 (to borrow) + 鉴 (mirror, to reflect on). To borrow another's experience as a mirror for your own, taking what is useful from a model or precedent.
+借口	jiè kǒu	excuse, pretext — 借 (to borrow) + 口 (mouth). A "borrowed mouth," words you reach for that are not the true reason. As a noun it is the excuse itself; as a verb, "to use as a pretext."
+借钱	jiè qián	to borrow / lend money — 借 (borrow/lend) + 钱 (money). A verb-object pair whose direction depends on the prepositions around it: 向他借钱 is borrowing from him, 借钱给他 is lending to him.
+借条	jiè tiáo	IOU, written loan note
+借用	jiè yòng	to borrow for use
+借助	jiè zhù	to draw on, with the help of — 借 (to make use of) + 助 (aid). To accomplish something by leaning on an external tool, force, or person. Formal register, common in writing.
+经济	jīng jì	economy; economic; economical — 经 jīng (manage; order) + 济 jì (aid; relieve). A shortening of 经世济民, "to order the age and aid the people." Now the standard word for the economy, and as an adjective "economical, thrifty": 经济实惠 "good value for money."
+敬酒	jìng jiǔ	To toast , to offer a drink as a gesture of respect — To toast , to offer a drink as a gesture of respect. 敬 means "to respect" or "to offer respectfully"; 酒 means "alcoholic drink." The act of toasting at a Chinese meal is a structured social protocol, not a casual gesture.
+酒量	jiǔ liàng	drinking capacity: how much alcohol one can hold — 酒 jiǔ (alcohol) + 量 liàng (capacity). A person's tolerance for drink, the amount they can take before they are affected. A culturally loaded word at the banquet table, where 酒量好 (a good capacity) is treated as a social asset: 他酒量很大 (he can really hold his drink).
+酒桌	jiǔ zhuō	The drinking table , refers not just to the physical table but to the entire social ritual of the banquet. 酒桌文化 (jiǔzhuō wénhuà) is "drinking table culture," often discussed critically for its excesses.
+居民	jū mín	resident; inhabitant (of a place) — 居 jū (to dwell, to reside) + 民. A person defined by where they live rather than by their nationality: the residents of a building, a neighbourhood, a city, a region. The everyday administrative word, as in 居民区 jūmínqū (a residential district) and 城市居民 (urban residents).
+军队	jūn duì	army, the armed forces — 军 (military) + 队 (formed unit). The standing army as an institution, the original martial home of 队 made explicit.
+开关	kāi guān	a switch
+空姐	kōng jiě	flight attendant (female) — 空 (sky, air) plus 姐 is the colloquial word for a female flight attendant, literally a "sky sister." It is a clipped, affectionate everyday term beside the formal 空中小姐 (kōngzhōng xiǎojiě).
+快递	kuài dì	express delivery; courier
+筷子	kuài zi	chopsticks
+老板	lǎo bǎn	boss; business owner — 老 lǎo + 板 bǎn (plank; board, extended to the person in charge). The everyday term for boss, owner, or the person in charge of a business. In restaurants, calling out 老板！is the standard way to get the owner's attention.
+老大哥	lǎo dà gē	big brother (figure or nation)
+老朋友	lǎo péng you	old friend; longtime friend — A friend of long standing. 老 lǎo (old) marks the length of the friendship, not the person's age. A warm word, often used on reunion: 老朋友了 ("we go way back"). The opposite, a new friend, is 新朋友 xīn péngyou.
+乐队	yu è duì	band, orchestra
+礼节	lǐ jié	formal etiquette; protocol
+礼貌用语	lǐ mào yòng yǔ	polite expressions; courtesy phrases — 礼貌 + 用语 yòngyǔ (set expressions; phrases used in a particular register). Names the inventory of fixed polite phrases: 您好 nín hǎo, 谢谢 xièxiè, 不客气 bú kèqi, 对不起 duìbuqǐ, 请 qǐng, 麻烦您 máfan nín, 辛苦了 xīnkǔ le. Mastering 礼貌用语 is the visible threshold of being 有礼貌.
+礼物	lǐ wù	gift; present — 礼 lǐ (ritual offering) + 物 wù (thing; object; matter). Lit. "a ritual-offering made material." A gift in Chinese culture is always, at some level, a ritual object that carries social meaning exceeding its material value.
+礼仪	lǐ yí	etiquette; protocol; ceremony — 礼 lǐ + 仪 yí (appearance; manner; instrument of measurement). The formal standards of conduct for official occasions. 礼仪小姐 = ceremonial hostess. 外交礼仪 diplomatic protocol. More formal and institutional than 礼貌.
+里子	lǐ zi	The lining; the private reality beneath the public presentation. The counterpart to 面子. 里子不足，面子撑着 ("the lining is insufficient, face holds it up") describes a situation where the private reality does not support the public claim.
+联系	lián xì	to contact; to get in touch; to link; connection — 联 lián (to join; to unite) + 系 xì (tie). Both the act of making contact and the link itself. As a verb: 联系我 "get in touch with me." As a noun: 保持联系 "keep in contact."
+廉价	lián jià	cheap, low-priced
+脸蛋	liǎn dàn	cheeks; (affectionate) little face — 脸 (face) + 蛋 (egg, oval). The egg-smooth oval of the cheeks, a warm word usually aimed at children or a pretty face. Often softened further to 脸蛋儿 (liǎndànr) with the northern -r ending.
+脸红	liǎn hóng	to blush
+脸面	liǎn miàn	face (combining both concepts); dignity; decency — A compound that fuses both face concepts. 脸面 covers the full spectrum , both the social prestige dimension of 面子 and the moral character dimension of 脸. Often used in contexts where both are at stake: 要顾脸面 (to consider one's dignity) means both social standing and personal integrity.
+脸盆	liǎn pén	washbasin — 脸 (face) + 盆 (basin). The basin you fill to wash your face, a fixture of older Chinese households before plumbing reached every sink. A small window onto domestic life packed into two characters.
+脸皮	liǎn pí	facial skin; (figurative) sense of shame; nerve — 脸 (face) + 皮 (skin). The skin of the face, and by extension one's capacity for shame. 脸皮厚 (liǎnpí hòu), thick-skinned, means shameless or unembarrassable; 脸皮薄 (liǎnpí báo), thin-skinned, means easily mortified.
+脸色	liǎn sè	complexion; facial expression; mood read off the face — 脸 (face) + 色 (color, look). Literally the color of the face, used both for physical complexion and for the mood it betrays. To 看脸色 (kàn liǎnsè) is to read someone's expression and act accordingly, a core social skill.
+良朋	liáng péng	a good friend: a worthy companion — 良 liáng (good, fine) + 朋 péng (friend). A good and worthy friend, the term carrying the older weight of 朋. Literary in tone; often paired as 良朋益友 "good friends who do you good." You would write it, not say it over coffee.
+刘半农	Liú Bàn nóng	Liu Bannong, the inventor of 她 (1891–1934)
+六六大顺	liù liù dà shùn	"six-six, all goes smoothly" — a wish for things to go well — 六六 (six-six) + 大顺 (great smoothness). A set blessing built on the homophony of 六 liù with 流 liú (to flow) and the auspicious 顺 shùn (smooth, unobstructed). Said at weddings, openings, and new beginnings to wish that everything proceed without obstacle.
+旅行社	lǚ xíng shè	travel agency — 旅行 lǚxíng (to travel) + 社 shè (agency). The business that arranges trips, tours, and tickets: 跟旅行社报名 "to sign up through a travel agency," 旅行社的导游 "the agency's tour guide." A textbook example of the agency sense of 社 attached to a whole two-syllable field word.
+麻辣锅底	má là guō dǐ	mala broth base; numbing-hot pot
+满月	mǎn yu è	the one-month celebration for a newborn — 满 mǎn (full; complete) + 月 yuè (month). When a baby has survived its first full month , historically the most dangerous period , the family celebrates with red eggs (红鸡蛋 hóng jīdàn), gifting of gold jewelry, and a feast. The custom signals that the child is likely to thrive.
+毛肚	máo dǔ	tripe; honeycomb tripe
+茅台	máo tái	Moutai — Moutai: the prestige baijiu produced in Maotai Town, Guizhou province. Made from sorghum using the sauce-aroma (酱香 jiàngxiāng) method, it is the most famous Chinese spirit and functions as a currency of respect in formal Chinese business culture.
+没关系	méi guān xi	it doesn't matter; never mind; that's okay — One of the most indispensable phrases in Mandarin. The standard response to 对不起 (sorry). Literally "no relationship" , meaning "it has no effect on us; it carries no weight." Learn this before your first week of speaking Chinese.
+没礼貌	méi lǐ mào	rude; ill-mannered; lacking in manners — 没 méi (lacks; does not have) + 礼貌. The standard rebuke. Heavier than English "rude" because it implies a failure of formation, not just a momentary lapse.
+没面子	méi miàn zi	to lose face; to be embarrassed; without prestige — To be without face , whether because one has lost it through embarrassing behavior or because one's status is insufficient to command it. 没面子 is the social embarrassment register, distinct from the moral shame of 丢脸.
+美好	měi hǎo	beautiful; wonderful
+美女	měi nǚ	miss (lit. beauty); address for a young woman
+妹妹	mèi mei	younger sister
+面对	miàn duì	to face; to confront; to deal with — 面 (face) + 对 (to face; to be opposite to). Lit. "face-to-face with." To confront a reality, problem, or situation squarely rather than avoiding it. Widely used in motivational, psychological, and journalistic writing.
+面条	miàn tiáo	noodles — The same 面 character. In northern China, 面 = wheat-flour dough → noodles. The flat, surface-like sheet of worked dough becomes strips (条 tiáo = strip). A vivid reminder that 面 means "surface/face" in the most general sense , the flat plane.
+面子工程	miàn zi gōng chéng	Face engineering — Face engineering: infrastructure or projects built primarily for prestige rather than practical need. Empty airports in small cities, oversized government buildings, unnecessary highways: these are classic 面子工程.
+民歌	míng ē	folk song — 民 + 歌 gē (song). A song that arises and circulates among the people rather than being composed for the concert hall: the traditional songs of a region or an ethnic group, often anonymous and passed down orally.
+民间	mín jiān	among the people; folk; non-governmental — 民 + 间 jiān (among, within). The realm of ordinary life as opposed to the official, the courtly, or the state: that which exists among the people.
+民生	mín shēng	the people's livelihood
+民众	mín zhòng	the masses; the general public — 民 + 众 zhòng (multitude, crowd). The ordinary public viewed as a large body, common in news writing and formal description: how the public reacts, what the public expects. More descriptive and less ideologically charged than 人民, and broader and more neutral than the warmer, address-style 大家.
+民主	mín zhǔ	democracy; democratic — 民 mín (the people) + 主 zhǔ (master). The people as master, the modern term for democracy. Also used adjectivally: 民主国家 "a democratic country," 民主选举 "a democratic election."
+民族	mín zú	ethnic group; nationality; a people — 民 + 族 zú (clan, lineage, group). A people considered as a cultural and ethnic stock: an ethnic group, a nationality, a nation in the cultural sense. China officially recognises 56 民族, the 汉族 Hànzú (Han) and 55 少数民族 shǎoshù mínzú (ethnic minorities).
+名家	Míng jiā	School of Names
+名片	míng piàn	business card — 名 míng (name) + 片 piàn (flat slice; card). A "name slice" , the physical object that carries your name into another person's hand. Business card exchange in China carries ritual weight: present and receive with both hands, read the card before putting it away, never write on it.
+名人	míng rén	famous person; celebrity; notable — 名 míng (name; fame) + 人 rén (person). A person whose name is widely known. Covers historical greats, contemporary celebrities, and anyone of notable standing. Context determines whether the register is elevated (historical figures) or casual (entertainers).
+名声	míng shēng	reputation; standing (can be good or bad) — 名 míng (name) + 声 shēng (sound; voice; what is heard). What others say and hear about you , your name as it sounds in the world. Crucially neutral: 好名声 (good reputation) vs 坏名声 (bad reputation). The modifier does the moral work; 名声 itself simply denotes the fact of being talked about.
+名誉	míng yù	reputation
+名字	míng zi	name (personal name, general term) — 名 míng (name) + 字 zì (character; in classical usage, the courtesy name given at adulthood). In modern Mandarin, 名字 is the everyday word for a person's name , first name, full name, or nickname depending on context. Neutral register, universally usable.
+冥币	míng bì	Ghost money — Ghost money: paper currency printed for burning at funerals and during ghost festivals. The term literally means "underworld currency." The notes often imitate real currency designs or depict the Bank of Hades. A broader category, 纸钱 (zhǐqián), covers all paper goods burned for the dead.
+哪里哪里	nǎ lǐ nǎ lǐ	"where, where?" — the classic deflection of a compliment; "you flatter me" — The quintessential 谦虚 response to a compliment , a rhetorical question that denies the existence of the praised quality. Literally "where is this quality you're seeing?" The doubling intensifies the deflection.
+男朋友	nán péng you	boyfriend: a male romantic partner — 男 nán (male) + 朋友 péngyou (friend). The standard word for a boyfriend; 女朋友 nǚ péngyou is the matching girlfriend. The 朋友 base shows how the modern romantic term grew out of the plain word for companion.
+闹洞房	nào dòng fáng	The wedding-night hazing — The wedding-night hazing: guests entering the bridal chamber to subject the couple to games and pranks. The custom is ancient, widely practiced, and occasionally criticized for going too far. The word 闹 (nào) means to make noise, to create commotion.
+你吃了吗	nǐ chī le ma	have you eaten? (intimate register)
+你好	nǐ hǎo	hello (formal register)
+你好吗	nǐ hǎo ma	how are you? (borrowed register)
+你好意思	nǐ hǎo yì si	you have the nerve / how shameless of you
+你们	nǐ men	you (plural)
+您	nín	you (formal, respectful)
+农民	nóng mín	farmer, peasant — 农 (farming) plus 民 (the common people). A person whose work and household registration are agricultural. In modern China it also marks a social and administrative category, not only an occupation.
+女朋友	nǚ péng you	girlfriend
+排队	pái duì	to line up, to queue — 排 (to arrange in a row) + 队 (a formed line). The verb every visitor learns first: to stand one behind another and wait your turn.
+排他	pái tā	exclusive; to exclude others
+朋友圈	péng you quān	circle of friends; WeChat Moments
+平民	píng mín	commoner; an ordinary person (vs the elite) — 平 píng (level, ordinary, common) + 民. An ordinary person without rank, wealth, or official position: the commoner as opposed to nobles, officials, or celebrities. 平民百姓 píngmín bǎixìng is a fixed pairing meaning the common folk, the man and woman in the street.
+评价	píng jià	to appraise; an evaluation, review — 评 (to judge, comment) + 价 (worth). To weigh something and assign it a worth: a teacher's assessment, a customer's review, a verdict on a person's conduct. Works as both verb and noun.
+凭借	píng jiè	rely on, by virtue of
+谦让	qiān ràng	yield modestly; defer to others
+抢单	qiǎng dān	To snatch the bill , to scramble to pay the check at the end of a meal. The 抢单 is a social performance communicating willingness to host and invest in the relationship.
+亲	qīn	kin; close; dear
+亲朋	qīn péng	kin and friends: one's close circle — 亲 qīn (kin, relatives) + 朋 péng (friends). Relatives and friends taken together, the whole circle of those close to you. Most often heard in the four-character 亲朋好友, the standard phrase for everyone you would invite to a wedding or a feast.
+请客	qǐng kè	To treat someone to a meal , to invite and pay — To treat someone to a meal , to invite and pay. 请 means "to invite" or "please"; 客 means "guest." 我请客 (wǒ qǐngkè, "I am treating") declares the host role and closes the question of who pays. The person who says this assumes both the financial obligation and the social prestige of hosting.
+请客吃饭	qǐng kè chī fàn	hosting a meal — baijiu is the host's primary tool
+球队	qiú duì	sports team (ball game) — 球 (ball) + 队 (team). Any club built around a ball sport: football, basketball, volleyball. Swap the first character for the sport's tool.
+曲	qū	The fermentation starter — The fermentation starter: dried bricks of grain colonized by mold, yeast, and bacteria, used to initiate fermentation. The composition of the qū is proprietary and is the primary differentiator between producers.
+取名	qǔ míng	to name; to give a name — 取 qǔ (to take; to select; to acquire) + 名 míng (name). The act of choosing a name , for a child, a product, a shop, a poem.
+全名	quán míng	Full name , surname + given name together — Full name , surname + given name together. 请问您贵姓？(qǐngwèn nín guì xìng?) is the polite form of "May I ask your surname?" — literally "May I ask your honorable surname?"
+劝酒	quàn jiǔ	To urge someone to drink — To urge someone to drink: the act of pressing a guest or colleague to drink more. Can be warm hospitality or unwanted pressure depending on context and relationship.
+群众	qún zhòng	the masses
+人称	rén chēng	grammatical person
+人称代词	rén chēng dài cí	personal pronoun
+人际关系	rén jì guān xi	interpersonal relationships; social connections — 人际 rén jì = between people (人 person + 际 boundary, junction). 人际关系 is the standard term for the full web of interpersonal relationships in Chinese social and professional life. Appears constantly in business advice, psychology, and self-help contexts.
+人脉	rén mài	network; professional connections (lit. "person-veins") — 人 rén + 脉 mài (vein; pulse; artery, the channels through which blood flows). Your social and professional network, imagined as a circulatory system. 脉 is the same character used in 经脉 jīngmài (meridians) in TCM.
+人民	rén mín	the people (political collective) — 人 rén + 民 mín (common people; subjects; citizens). A politically weighted term. In the PRC context, it carries strong ideological resonance: the people as a collective subject and political actor, not merely a demographic count. Appears in major institutional names and slogans.
+人情	rén qíng	human feeling; social obligation; the gift economy of favors — Human feeling, social obligation , the accumulated weight of favors, gifts, and consideration exchanged between people. To "owe someone rénqíng" is to be in their social debt. Gift-giving is one of the primary means of building and repaying 人情. The concept is inseparable from 关系.
+人群	rén qún	crowd
+荣誉	róng yù	honor; glory
+入乡随俗	rù xiāng suí sú	when in a village, follow its customs — adapt to local ways — Lit: enter-village-follow-customs. The essential guide to cross-cultural conduct , observe and adopt local practices rather than imposing your own. Used practically and as a statement of cultural humility. 你到了那里，要入乡随俗 "When you get there, follow local customs."
+上流社会	shàng liú shè huì	high society; the upper class; the social elite — 上流 (shàngliú, upper stream; the upper reaches of a river) + 社会. High society, the social elite. The metaphor is of the upper current of a river: those who move at the top of the social flow. Used in both admiring and ironic registers.
+上座	shàng zuò	The seat of honor , the seat facing the door, assigned to the most honored guest. The term literally means "upper seat." Understanding the seating logic around 上座 is a practical necessity at any formal Chinese meal. Equivalent: 主位 zhǔwèi.
+社会保障	shè huì bǎo zhàng	social security; social welfare system — 社会 + 保障 (bǎozhàng, guarantee; protection; safeguard). The welfare system: pensions, unemployment insurance, medical insurance, and other state-provided protections against life's major risks. The compound mirrors the English "social security" almost exactly in logic.
+社会地位	shè huì dì wèi	social status; social standing; position in society — 社会 + 地位 (dìwèi, position; standing; status). One's rank or standing within the social order. Closely related to 面子 , social status is the structural foundation from which face is generated and maintained. Hierarchically sensitive: 地位 implies a vertical ordering.
+社会风气	shè huì fēng qì	social atmosphere; moral climate; the prevailing spirit of society — 社会 + 风气 (fēngqì, prevailing atmosphere; social mores; lit. "wind and air"). The ambient moral climate of a society at a given moment: whether honesty, integrity, and mutual care are in the air, or whether cynicism, materialism, and corruption have taken hold.
+社会关系	shè huì guān xi	social relationships; social network; connections — 社会 + 关系 (guānxi, relationship; connection). One's web of social connections. In Chinese social contexts, 社会关系 encompasses what is often simply called 关系 , the practical network of relationships that enables things to get done.
+社会稳定	shè huì wěn dìng	social stability — 社会 + 稳定 (wěndìng, stable; stability). A central governing priority. 维护社会稳定 (to maintain social stability) appears throughout official documents, legal texts, and policy announcements.
+社会信用体系	shè huì xìn yòng tǐ xì	social credit system — 社会 (society) + 信用 (xìnyòng, credit; trustworthiness) + 体系 (tǐxì, system; framework). A multifaceted platform for tracking trustworthiness and compliance across financial, legal, and behavioral domains.
+社会学	shè huì xu é	sociology — 社会 + 学 (xué, the study of). The academic discipline. The word makes the Meiji translation story visible: 社会学 was coined as the direct Chinese equivalent of sociology (German Soziologie, French sociologie) through the same process that produced 社会. The discipline and its name arrived together.
+社会责任	shè huì zér èn	social responsibility — 社会 + 责任 (zérèn, responsibility; obligation; duty). The obligation one has to the broader social world. Used both in the CSR (Corporate Social Responsibility) sense , 企业社会责任 (qǐyè shèhuì zérèn) , and in the broader sense of individual duty to society.
+社会主义	shè huì zhǔ yì	socialism — 社会 + 主义 (zhǔyì, -ism; doctrine; principle). The dominant political compound built on 社会 in the PRC context. 中国特色社会主义 (Zhōngguó tèsè shèhuì zhǔyì, Socialism with Chinese Characteristics) is the formal name for the governing ideology.
+社稷	shè jì	the altars of soil and grain; the state, the realm — 社 shè (the soil-god) + 稷 jì (the grain-god). Originally the two altars a ruler maintained, to the powers of the earth and of the harvest. Because land and food are the foundation of any polity, the word came to stand for the state itself: 江山社稷 "the rivers, mountains, and altars," the whole realm.
+社交	shè jiāo	social interaction; socializing — 社 shè (social) + 交 jiāo (to associate, to exchange). The act of mixing with others, the give-and-take of social life: 社交活动 "social activities," 社交能力 "social skills," 社交媒体 "social media." It names the personal practice of meeting and getting along with people.
+社区	shè qū	community; residential neighbourhood — 社 shè (community) + 区 qū (district, zone). A bounded local community: the people of a single neighbourhood, plus the services and administration that serve them. 社区服务 "community services," 社区医院 "a community clinic," 社区活动 "neighbourhood activities." Smaller and more concrete than 社会.
+社团	shè tuán	club; society; an organized group — 社 shè (association) + 团 tuán (a group, a body). A voluntary organized group bound by a shared interest: 学生社团 "student clubs," 民间社团 "civic associations." The everyday word for the clubs and societies people choose to join, especially at school and university.
+身份	shēn fèn	identity; status — 身 (self) + 份 (share, allotment): one's allotted position. 身份证 (shēnfènzhèng) is the national ID card, the document requested at every train station, hotel, and SIM-card counter, which makes this compound survival vocabulary rather than abstraction.
+声誉	shēng yù	prestige; reputation; standing — 声 shēng (name; repute) + 誉 yù (praise; honor). A more formal, weightier word than 名声, leaning toward esteem and public standing: 国际声誉 "international prestige."
+师傅	shī fu	Master , the reliable general-purpose address for service workers and skilled tradespeople. Also the formal term for a craft or trade teacher. The safest default when addressing an unfamiliar adult male in a service or public context.
+市场	shì chǎng	Market, in both senses — Market, in both senses: the physical 菜市场 (vegetable market) and the abstract 市场经济 (market economy). 市场部 is the marketing department.
+手信	shǒu xìn	A small gift brought back from travel — A small gift brought back from travel: a souvenir or local specialty given to family, friends, or colleagues on return from a trip. The term is particularly common in Cantonese-speaking areas and in Hong Kong. The expectation of bringing 手信 from any notable journey is near-universal.
+帅哥	shuài gē	handsome guy; hey, handsome — 帅 (handsome) + 哥. A good-looking young man, and also a friendly way to flag down any young man whose name you don't know, the male counterpart of 美女 (měinǚ).
+涮	shuàn	to swish (meat through hot liquid); to shabu
+送别	sòng bié	to bid farewell, see off — 送 (see off) plus 别 (to part). A literary, emotionally weighted word for the moment of parting, the subject of countless Tang poems written at the roadside or the river crossing.
+送达	sòng dá	to deliver, serve (formally) — 送 (send) plus 达 (reach, arrive). A formal verb stressing successful arrival, used for delivered mail and, in law, for serving legal documents.
+送给	sòng gěi	to give to (someone) — 送 (give) plus 给 (to, for the benefit of). The recipient-marking pattern: 送给 + person + thing. The thing crosses over and stays with the receiver.
+送货	sòng huò	to deliver goods — 送 (send) plus 货 (goods). Door-to-door delivery: the courier who 送货 to your home, the staple verb of online shopping and takeout.
+送礼	sòng lǐ	to give a gift — 送 (give) plus 礼 (gift, ritual courtesy). A separable verb-object pair for the social act of presenting a present, with all the etiquette that surrounds it in Chinese life.
+送行	sòng xíng	to see someone off (on a journey) — 送 (see off) plus 行 (to travel, set out). To go to the station, dock, or airport to bid a traveler farewell as they begin a journey.
+随意	suí yì	As you like, freely, casually , the softer alternative to 干杯 that allows the recipient to drink as much or as little as they wish. Using 随意 rather than 干杯 is a show of consideration, often offered to guests who are known to drink little or who have already flagged a limitation.
+他们	tā men	they (mixed or male group)
+他人	tā rén	others; other people (formal/literary) — 他 tā (he; other) + 人 rén. The formal and written equivalent of 别人. Appears in legal texts, philosophical writing, ethical discussions, and formal prose. In classical Chinese, 他 itself meant "other" before it was narrowed to the third-person pronoun, making 他人 doubly "other."
+他日	tā rì	another day; some future time
+他乡	tā xiāng	a strange land; a place away from home
+她们	tā men	they (all-female group) — 她 + 们 (men, plural marker). Used only when every member of the group is known to be female. If the group is mixed-gender or the gender is unknown, the default is 他们 (tāmen) , the male-radical form is the unmarked plural.
+她字	tā zì	"the 她 character" — shorthand for the gendered-pronoun debate — A meta-term in linguistic and feminist writing. 她字之争 ("the dispute over 她") refers to the recurring debate over whether to use 她, abolish it, or replace it with a non-marked alternative.
+祂	tā	He/She (capitalized, of a deity) — 礻 (the spirit/altar radical, a variant of 示) + 也. Coined later than 她, by Chinese Christian translators of the Bible, to render English "He" (capitalized of God) without committing to the human-male radical 亻. 祂 carries no gender; it carries divinity.
+台阶	tái jiē	A step, a staircase , and in face contexts, a way out — A step, a staircase , and in face contexts, a way out. 给他一个台阶下 ("give him a step to descend") means to provide a face-saving exit from an awkward position. One of the most useful face-vocabulary phrases in practice.
+太客气了	tài kè qi le	too polite, too much fuss
+谈判	tán pàn	To negotiate; negotiation — To negotiate; negotiation. Formal register, used for deals and diplomacy alike. Everyday haggling is 讨价还价; you 谈判 a joint venture, you 讨价还价 over a jacket.
+堂哥	táng gē	older male cousin (paternal)
+体面	tǐ miàn	decent; respectable; dignified
+通讯社	tōng xùn shè	news agency
+同伴	tóng bàn	companion; fellow
+同事	tóng shì	colleague; co-worker — 同 tóng (same) + 事 shì (work; affair). One who shares the same work, a colleague. Built on the same pattern as 同学: the shared station named by what is held in common.
+同学	tóng xu é	classmate; fellow student; (as address) student — 同 tóng (same) + 学 xué (study). One who studies alongside you. A teacher also uses 同学 to address a pupil: 这位同学 "this student here." 老同学 means an old schoolmate.
+头七	tóu qī	the first seven-day memorial after death — 头 tóu (head; first) + 七 qī (seven). Traditional Chinese mourning involves rituals at seven-day intervals for 49 days , the period the soul is believed to linger. 头七 (day 7) is the most important: the family burns paper offerings and sets a place for the deceased at the table.
+土地	tǔ dì	land, soil; the local earth-god — 土 tǔ (earth) + 地 dì (ground). In everyday speech, land or soil: 土地肥沃 "fertile land." In folk religion it also names the 土地神 or 土地公, the humble local earth-god of a village or plot, the small-scale heir to the old 社 cult, honoured at modest roadside shrines.
+团队	tuán duì	team (working unit) — 团 (a tight cluster, a ball of people) + 队 (organized group). The modern office and startup word for a project team bound by a shared task.
+团体	tuán tǐ	organization; group
+推让	tuī ràng	to refuse and yield
+完好	wán hǎo	intact; in good condition
+网络	wǎng luò	internet; network
+网民	wǎng mín	netizen; internet user
+网友	wǎng yǒu	online friend; internet friend — A friend made online, from 网 wǎng (net) + 友 yǒu (friend). A thoroughly modern coinage and an extremely common one. Note that 友 contracts here from 朋友, a regular pattern: 友 alone serves as the bound "friend" element in compounds (校友 alumnus, 战友 comrade-in-arms, 笔友 pen pal).
+忘我	wàng wǒ	selfless absorption; to forget oneself
+温和	wēn hé	gentle; mild; moderate
+我的	wǒ de	my, mine
+我见	wǒ jiàn	personal view; one's own opinion
+我们	wǒ men	we, us
+无礼	wú lǐ	discourteous; without 礼
+五四	Wǔ Sì	May Fourth (Movement) — context for 她's birth
+物价	wù jià	commodity prices, cost of living — 物 (goods, things) + 价 (price). The general price level of everyday goods across a market or city. The word that shows up in talk of inflation and the cost of living.
+习俗	xí sú	custom; practice
+洗脸	xǐ liǎn	to wash one's face — 洗 (to wash) + 脸 (face). The first ritual of the morning. A verb-object pair, so you can split it: 洗个脸 (xǐ ge liǎn), to give the face a quick wash.
+喜钱	xǐ qián	happy money — cash gifts at joyous occasions
+喜丧	xǐ sāng	A "joyful funeral" — A "joyful funeral": the death of a person who lived to old age and left many descendants. Treated as cause for celebration alongside mourning, and marked with comparatively festive elements: the music may be more exuberant, the occasion more public.
+小聪明	xiǎo cōng ming	cheap cleverness; cunning without wisdom — Small cleverness: the shortcut-finding wit that games the rule and misses the point. 耍小聪明 (deploying petty cleverness) is what teachers accuse corner-cutting students of; its grown-up antonym is 大智慧, great wisdom.
+小哥	xiǎo gē	young fellow (polite address)
+小姐	xiǎo jiě	miss; young lady — 小 (small, young) plus 姐 is the classic polite title for a young, unmarried woman, like English "Miss." Register matters: in some mainland contexts a bare 小姐 can sound off, so service settings often prefer 美女 (měinǚ) or a surname plus 姐.
+小名	xiǎo míng	Childhood nickname , a pet name used within the family, often deliberately humble or silly to avoid attracting bad luck to the child. 狗蛋 (Gǒudàn, "Dog Egg") or 二毛 (Èrmáo, "Second Fuzz") are classic examples.
+小气	xiǎo qì	stingy; petty — Small qi: a constricted spirit, tight with money and with grace. The direct opposite is 大方 (dàfang, generous, poised). Milder than 小人; a friend can be teased as 小气 and remain a friend.
+小心眼	xiǎo xīn yǎn	petty-minded; quick to take offense — Small heart-aperture: a mind with a narrow gate, through which slights enter easily and never leave. The grudge-keeping cousin of 小气, aimed at temperament rather than wallet.
+小组	xiǎo zǔ	small group
+笑脸	xiào liǎn	smiling face; a smile worn for others — 笑 (laugh, smile) + 脸 (face). A face shaped into a smile, especially the welcoming one you put on for guests or customers. The opposite expression is 板着脸 (bǎnzhe liǎn), to hold the face stiff and stern.
+谐	xié	harmonious; to accord
+谐音	xié yīn	Near-homophone, sound-alike , the phonetic mechanism underlying most Chinese number symbolism. 谐音 relationships exist wherever two syllables sound similar enough that one can evoke the other.
+谢谢	xiè xie	thank you
+信任	xìn rèn	trust; to trust; to have confidence in — 信 xìn (trustworthiness; to trust) + 任 rèn (to appoint; to entrust; to allow , 任 carries the sense of delegating responsibility to someone). To trust is to appoint a person as worthy of reliance. 信任危机 xìnrèn wéijī = a crisis of trust (institutional or personal). 建立信任 jiànlì xìnrèn = to build trust.
+形象	xíng xiàng	image; figure; vivid
+姓	xìng	surname; clan name
+姓名	xìng míng	full name — surname + given name — 姓 xìng (surname) + 名 míng (given name). The formal term for a full name. Note: Chinese names are surname-first, given-name-second, the reverse of Western convention. 你叫什么名字？= "What is your name?" (informal, just the name). 请问您的姓名？= "May I ask your full name?" (formal).
+兄	xiōng	elder brother (literary)
+兄弟	xiōng dì	elder and younger sibling — fraternal respect — 悌 tì , fraternal respect , is the virtue governing sibling relations. The elder brother owes kindness and example; the younger owes deference and respect.
+虚心	xū xīn	open-minded; receptive; humble in one's willingness to learn — 虚 xū (empty; hollow; receptive , the vessel with space in it) + 心 xīn (heart; the seat of thought and feeling in Chinese understanding). An empty heart , a mind that has not pre-filled itself with conclusions and so can genuinely receive what it encounters.
+虚心学习	xū xīn xu é xí	to study with an open mind; to learn receptively — A fixed phrase in educational and developmental discourse. The combination of 虚心 (open-minded) + 学习 (to study; to learn) makes the stance toward learning explicit: approach the subject without assuming you already know, without defending existing positions, with the mind empty enough to receive new…
+压岁钱	yā suì qián	lucky money for children at New Year — New Year's money, given in red envelopes; literally "money that suppresses the year-beast." The year-beast (岁 suì) was a mythological monster; the money and noise were protective against it.
+眼睛	yǎn jing	eye(s); the eyes as organ — 眼 yǎn + 睛 jīng (eyeball; pupil). The standard everyday word for "eyes" in spoken Chinese. Single 眼 alone almost never serves this role; for "her eyes are beautiful" you say 她的眼睛很美 not 她的眼很美. The 睛 is light and unstressed in pronunciation.
+一队	yí duì	a column / band of (measure word) — 队 as a measure word counts people or animals moving in a formed line: a column of soldiers, a string of camels, a file of schoolchildren.
+伊	yī	she (literary, classical, regional) — The classical and Wu-dialect "she." In the 1917 debate, some intellectuals advocated reviving 伊 instead of coining 她, since 伊 already had a feminine reading in some classical poetry and avoided the male-default asymmetry.
+移民	yí mín	immigrant; to migrate
+以茶代酒	yǐ chá dài jiǔ	Substitute tea for spirits — Substitute tea for spirits: the accepted formula for toasting without drinking alcohol. The phrase is spoken while raising a cup of tea, acknowledging the substitution explicitly.
+以我为中心	yǐ wǒ wéi zhōng xīn	self-centered; to place oneself at the center
+义务	yì wù	duty; obligation; compulsory — 义 (what is right) + 务 (affair; task; work). The affair of doing what is right , the tasks that fall to you not because you chose them but because they are the right ones for someone in your position. 义务 spans the full range from formal legal obligation to moral duty.
+迎	yíng	to welcome, meet
+友	yǒu	friend; friendly
+友好	yǒu hǎo	friendly; amicable
+有关	yǒu guān	related, relevant; concerned (with)
+有关系	yǒu guān xi	to be related; to matter; to have a bearing on — 有关系 means there is a connection, relevance, or effect between two things. 这跟我有关系吗？= "Does this concern me / affect me?" Used to establish relevance, causation, or connection. Contrast with 有关 yǒuguān (related to; concerning , slightly more formal, often in 有关部门, "relevant departments").
+有礼貌	yǒu lǐ mào	polite; well-mannered; courteous — 有 yǒu (to have) + 礼貌. The default form of approval for someone's social bearing. Applied across the age range , to children, colleagues, strangers, foreigners , and across formality levels. 这个孩子很有礼貌 ("this child is very polite") is a high compliment to the parents as much as to the child.
+有面子	yǒu miàn zi	to have face; to be prestigious; to feel honored — To possess and display face , to be in a position of recognized prestige or to feel that your standing has been acknowledged or elevated. Certain possessions, positions, and associations give face: luxury goods, titles, famous friends, prestigious education.
+有名	yǒu míng	famous; well-known — 有 yǒu (to have; to possess) + 名 míng (name; fame). To have a name that people know , the most common adjective for "famous" in spoken Mandarin. Neutral in register, works for people, places, dishes, and brands alike.
+与	yǔ	and; with (literary)
+誉	yù	reputation; honor; to praise
+圆桌	yuán zhuō	round table — Round table , the standard configuration for Chinese group dining. 圆 means "round" or "complete"; 桌 means "table." The round form eliminates a linear head seat and places all diners in a radial relationship to the shared dishes at the center.
+运输	yùn shū	transport, carriage
+运送	yùn sòng	to transport, convey — 运 (move, transport) plus 送 (send). To carry goods or people over a distance, the language of logistics, supply lines, and freight.
+赠	zèng	to bestow, present
+赠送	zèng sòng	to present, give as a gift — 赠 (bestow, present) plus 送 (give). A formal compound for presenting something gratis, common in commerce and ceremony: free gifts with purchase, donated copies, complimentary tickets.
+蘸料	zhàn liào	dipping sauce; the condiment mix
+张总	zhāng zǒng	Director/CEO Zhang , the surname + 总 form is among the most useful professional address terms. 总 is short for 总经理 (general manager) or 总裁 (president/CEO). It can safely be used for any senior executive and errs on the side of flattery. Variants: 总监 zǒngjiān (director), 副总 fùzǒng (deputy director).
+涨价	zhǎng jià	to raise the price
+招待	zhāo dài	to host, to entertain
+正名	zhèng míng	rectification of names; calling things by their correct names — A key political-philosophical doctrine of Confucius. When a disciple asks what he would do first if given control of a state, Confucius says: rectify names 必也正名乎.
+政治	zhèng zhì	governance, politics
+知己	zhī jǐ	a bosom friend; one who truly knows you — 知 zhī (to know) + 己 jǐ (self). One who knows your self, the rare friend who understands you completely. The famous line 人生得一知己足矣 holds that to gain a single true friend in life is enough.
+值	zhí	to be worth
+中国是礼仪之邦	Zhōng guó shì lǐ yí zhī bāng	China is a nation of ritual and propriety — A classical phrase of national self-identification: China sees itself as the civilization that most completely developed and transmitted the principles of ritual propriety. Used in cultural pride contexts and historical writing. 礼仪之邦 = "a land of ritual propriety."
+中庸	zhōng yōng	the Doctrine of the Mean
+主观	zhǔ guān	subjective
+主食	zhǔ shí	Staple food — Staple food: the rice, noodles, or dumplings served at the end of a Chinese meal. The late arrival of the staple signals that the banquet was generous enough that no one needed to fill up on carbohydrates.
+主体	zhǔ tǐ	subject, agent
+主位	zhǔ wèi	The seat of honor at a table — The seat of honor at a table: typically facing the door, with one's back to the kitchen or wall. Assigning the 主位 to the senior guest or the person being celebrated is a face-giving act.
+赚钱	zhuàn qián	To make money, to be profitable — To make money, to be profitable. The opposite pair is 赔钱 (péiqián) or 亏本 (kuīběn). 这个生意不赚钱: this business doesn't make money, the verdict that ends ventures.
+姊	zǐ	elder sister (literary)
+自大	zì dà	self-aggrandizing; thinking oneself greater than one is; conceited — 自 zì (self) + 大 dà (great; large; important). Consistently negative , the failure of accurate self-assessment in the direction of inflation. Where 骄傲 can sometimes be legitimate pride, 自大 always describes a distortion: the person who claims more importance than they possess.
+自满	zì mǎn	complacent; self-satisfied; smug; resting on one's laurels — 自 zì (self) + 满 mǎn (full; satisfied). The state of being full , too full to receive more, too satisfied to keep improving. The classical warning 满招损 is precisely directed at 自满.
+自谦	zì qiān	self-deprecating; to understate oneself
+自私	zì sī	selfish
+自我	zì wǒ	the self; the ego; self- (in compounds) — 自 zì (self) + 我 wǒ (I; me). The self as an inner concept, the "ego" of psychology and philosophy. As a prefix it forms self-directed actions: 自我介绍 "self-introduction," 自我批评 "self-criticism."
+自我介绍	zì wǒ jiè shào	self-introduction
+自知	zì zhī	self-knowledge
+自尊	zì zūn	self-esteem
+走关系	zǒu guān xi	to use personal connections to get something done — 走 zǒu = to go through; to travel via. 走关系 means to go through the channel of personal connections to accomplish something that might otherwise be difficult or slow.
+走后门	zǒu hòu mén	Literally "going through the back door" — Literally "going through the back door": using gifts and personal relationships to obtain favors, preferential treatment, or access that would not be available through formal channels. The phrase acknowledges the reality of this practice without fully endorsing it.
+租借	zū jiè	to lease, to rent on loan — 租 (to rent) + 借 (to borrow). A bound compound for taking something for temporary use, often with a fee: leasing land, chartering equipment, the historical "leased territories" (租借地) of treaty-port China.
+尊称	zūn chēng	honorific address
+尊严	zūn yán	dignity
+尊重	zūn zhòng	to respect
+做到	zuò dào	to accomplish; to achieve; to manage to do — 做 zuò (to do; to make) + 到 dào (arrive at the result). Doing that reaches its endpoint: the task is completed, the goal achieved. Carries a sense of managed difficulty , you worked until arrival.
+做饭	zuò fàn	to cook (a meal)
+做梦	zuò mèng	to dream; (figuratively) to fantasize
+做人	zuò rén	to conduct oneself; to be the kind of person one should be — 做 zuò (to do; to act as; to make) + 人 rén. The verb that captures the Confucian view that being human is an achievement, not a given. 做人 is learned: how to navigate relationships, honor obligations, maintain dignity, and treat others with genuine consideration.
+做生意	zuò shēng yi	to do business; to trade
+做事	zuò shì	to handle matters; to work; to conduct oneself in action
+做完	zuò wán	to finish doing
+做作	zuò zuo	affected, pretentious

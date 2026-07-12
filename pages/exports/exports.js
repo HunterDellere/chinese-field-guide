@@ -104,6 +104,7 @@
     characters: { cn: '字',     py: 'zì',      en: 'Characters' },
     vocab:      { cn: '词',     py: 'cí',      en: 'Vocabulary' },
     chengyu:    { cn: '成语',   py: 'chéngyǔ', en: 'Chengyu' },
+    compounds:  { cn: '词组',   py: 'cízǔ',    en: 'Compounds' },
     all:        { cn: '全部',   py: 'quánbù',  en: 'All combined' }
   };
 

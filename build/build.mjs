@@ -311,8 +311,52 @@ function buildPageTitle(fm) {
     return lead;
   }
   if (fm.type === 'hub' && fm.title) return fm.title.split('—')[0].trim();
+
+  // Vocab / grammar / topic / chengyu: derive an English-leading SERP title
+  // from the "CN [· CN] · EN gloss" title convention, so every page ships a
+  // searcher-shaped title without waiting for a hand-tuned seo_title. This is
+  // the same fix the character template got in the page-2→page-1 effort:
+  // English searchers skip CJK-leading titles, and GSC query shapes are
+  // pinyin-led for words ("gongzuo meaning") and gloss-led for topics
+  // ("tang poetry"). Aggregate categories (families/hubs/hsk) keep their
+  // authored titles.
+  if (['vocab', 'chengyu', 'grammar', 'topic'].includes(fm.type)
+      && !['families', 'hubs', 'hsk'].includes(fm.category)) {
+    const parts = String(fm.title || '').split('·').map(s => s.trim()).filter(Boolean);
+    let i = 0;
+    while (i < parts.length && /[一-鿿]/.test(parts[i])) i++;
+    const cn = parts.slice(0, i).join(' · ');
+    const gloss = (parts.slice(i).join(' · ').split('—')[0].trim()) || extractEnglishGloss(fm);
+    const ascii = tonelessPinyin(fm.pinyin).replace(/\s+/g, ' ');
+    if (cn && gloss) {
+      if (fm.type === 'topic') {
+        return `${gloss} — ${cn}${ascii ? ' ' + ascii : ''}`;
+      }
+      if (fm.type === 'grammar') {
+        const base = `${cn}${ascii ? ` (${ascii})` : ''} — ${gloss}`;
+        return base.length <= 42 ? `${base} · Chinese grammar` : base;
+      }
+      // vocab + chengyu: lead with the bare-ASCII pinyin searchers type
+      const lead = ascii ? `${ascii} (${cn})` : cn;
+      const base = `${lead} — ${gloss}`;
+      return base.length <= 49 ? `${base} in Chinese` : base;
+    }
+  }
+
   if (fm.title) return fm.title.split('·')[0].trim();
   return fm.title || '';
+}
+
+// Single source of truth for the SERP/OG title chain: hand-tuned seo_title
+// wins; otherwise the derived English-leading buildPageTitle; authored
+// pageTitle only survives for types the deriver doesn't cover.
+function serpTitle(fm) {
+  if (fm.seo_title) return fm.seo_title;
+  const derivedTypes = ['character', 'vocab', 'chengyu', 'grammar', 'topic'];
+  if (derivedTypes.includes(fm.type) && !['families', 'hubs', 'hsk'].includes(fm.category)) {
+    return buildPageTitle(fm);
+  }
+  return fm.pageTitle || buildPageTitle(fm);
 }
 
 const SITE_URL = 'https://jiaoshoo.com';
@@ -413,7 +457,7 @@ function buildOgTags(fm, slug, category) {
   const url = `${SITE_URL}/pages/${category}/${slug}.html`;
   const ogPng = `${SITE_URL}/assets/og/${category}/${slug}.png`;
   const ogSvg = `${SITE_URL}/og/${category}/${slug}.svg`;
-  const title = fm.seo_title || fm.pageTitle || buildPageTitle(fm);
+  const title = serpTitle(fm);
   const desc = fm.seo_desc || fm.metaDesc || fm.desc || '';
   const primaryLocale = LANG_LOCALE[category] || 'en_US';
   const alternateLocale = primaryLocale === 'zh_CN' ? 'en_US' : 'zh_CN';
@@ -495,13 +539,10 @@ function injectTopicHeroEn(body, fm) {
 function renderPage(fm, body, slug, category, prevNext) {
   const filename = `${slug}.html`;
   const metaComment = buildMetaComment(fm);
-  // Character pageTitles are a uniform build artifact ("字 pīnyīn") with no
-  // gloss and a CJK-leading form English searchers skip. For characters, prefer
-  // the ASCII-pinyin-leading buildPageTitle() unless a hand-tuned seo_title
-  // exists. Other types keep their authored pageTitle.
-  const rawTitle = fm.type === 'character'
-    ? (fm.seo_title || buildPageTitle(fm))
-    : (fm.seo_title || fm.pageTitle || buildPageTitle(fm));
+  // SERP title chain lives in serpTitle(): seo_title override, else the
+  // English-leading derived title for all content types (characters, vocab,
+  // chengyu, grammar, topics), else the authored pageTitle for aggregates.
+  const rawTitle = serpTitle(fm);
   const needsGloss = fm.type === 'character' || fm.type === 'vocab' || fm.type === 'grammar' || fm.type === 'topic';
   const pageTitle = needsGloss ? appendGloss(rawTitle, fm) : rawTitle;
   const metaDesc = fm.seo_desc || fm.metaDesc || fm.desc || '';

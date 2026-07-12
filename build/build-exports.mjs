@@ -38,6 +38,7 @@ import { fileURLToPath } from 'node:url';
 import { buildApkg } from './lib/anki-apkg.mjs';
 import { buildSlices, buildCharHskMap, normalizeHsk } from './lib/export-slices.mjs';
 import { splitToSyllables } from './lib/pinyin.mjs';
+import { harvestInlineCards } from './lib/inline-cards.mjs';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const ENTRIES = JSON.parse(readFileSync(join(ROOT, 'data/entries.json'), 'utf8'));
@@ -219,16 +220,50 @@ function emitAnkiTsv(cards, file, columns) {
 
 const { characters, vocab, chengyu, grammar } = extractCards();
 
+// Inline-card harvest: the compound cards, chengyu cards, and adjacent-vocab
+// chips that live INSIDE pages. This is the bulk of the corpus (thousands of
+// items vs. hundreds of entry pages). Entries win on collision: an inline
+// item whose hanzi already has its own page is dropped here because the
+// page-level card is richer and canonical.
+const entryHanzi = new Set(
+  [...characters, ...vocab, ...chengyu, ...grammar].map(c => c.hanzi).filter(Boolean),
+);
+const inlineAll = harvestInlineCards(join(ROOT, 'content'))
+  .filter(c => !entryHanzi.has(c.hanzi))
+  // Chips carry no definition; keep only the ones with a usable gloss.
+  .filter(c => c.kind !== 'chip' || (c.english && c.english.length >= 2));
+
+const inlineChengyu = inlineAll
+  .filter(c => c.kind === 'chengyu')
+  .map(c => ({
+    _type: 'chengyu', hanzi: c.hanzi, pinyin: c.pinyin, english: c.english,
+    desc: c.desc, hsk: '', tags: c.tags, category: 'chengyu', path: c.sources[0] || '',
+  }));
+const compounds = inlineAll
+  .filter(c => c.kind !== 'chengyu')
+  .map(c => ({
+    _type: 'compound', hanzi: c.hanzi, pinyin: c.pinyin, english: c.english,
+    desc: c.desc, hsk: '', tags: c.tags, category: c.category, path: c.sources[0] || '',
+  }));
+
+// Chengyu deck absorbs the inline chengyu — the whole point of the harvest
+// is that pages mention far more idioms than have their own entry.
+const byHanziZh = (a, b) => (a.hanzi || '').localeCompare(b.hanzi || '', 'zh');
+chengyu.push(...inlineChengyu);
+chengyu.sort(byHanziZh);
+
 const plecoCharCount  = emitPleco(characters, 'pleco-characters.txt', 'Characters');
 const plecoVocabCount = emitPleco(vocab,      'pleco-vocab.txt',      'Vocabulary');
 const plecoCyCount    = emitPleco(chengyu,    'pleco-chengyu.txt',    'Chengyu');
+const plecoCompCount  = emitPleco(compounds,  'pleco-compounds.txt',  'Compounds');
 
 // pleco-all keeps each type in its own Pleco category, so users importing
-// the combined file get three pre-sorted folders rather than one bucket.
+// the combined file get pre-sorted folders rather than one bucket.
 emitPlecoMulti([
   { cards: characters, sub: 'Characters' },
   { cards: vocab,      sub: 'Vocabulary' },
-  { cards: chengyu,    sub: 'Chengyu' }
+  { cards: chengyu,    sub: 'Chengyu' },
+  { cards: compounds,  sub: 'Compounds' }
 ], 'pleco-all.txt');
 
 const ankiTagify = c => (c.tags || []).join(' ');
@@ -254,6 +289,13 @@ const ankiCyCount = emitAnkiTsv(chengyu, 'anki-chengyu.tsv', [
   { key: 'pinyin', header: 'Pinyin' },
   { key: 'english', header: 'Literal', derive: c => c.english || '' },
   { key: 'desc', header: 'Figurative' },
+  { key: 'tags', header: 'Tags', derive: ankiTagify }
+]);
+const ankiCompCount = emitAnkiTsv(compounds, 'anki-compounds.tsv', [
+  { key: 'hanzi', header: 'Hanzi' },
+  { key: 'pinyin', header: 'Pinyin' },
+  { key: 'english', header: 'English', derive: c => c.english || c.desc },
+  { key: 'desc', header: 'Notes' },
   { key: 'tags', header: 'Tags', derive: ankiTagify }
 ]);
 
@@ -310,6 +352,7 @@ function backChengyu(c) {
 const apkgCharCount  = await emitApkg(characters, '角落書屋 · Characters', 'characters.apkg', backCharacter);
 const apkgVocabCount = await emitApkg(vocab,      '角落書屋 · Vocabulary', 'vocab.apkg',      backVocab);
 const apkgCyCount    = await emitApkg(chengyu,    '角落書屋 · Chengyu',    'chengyu.apkg',    backChengyu);
+const apkgCompCount  = await emitApkg(compounds,  '角落書屋 · Compounds',  'compounds.apkg',  backVocab);
 
 // Combined deck — same cards, single deck. Uses the per-type back formatters
 // via a tag-routed _back, plus a content-type tag so Anki users can filter
@@ -317,7 +360,8 @@ const apkgCyCount    = await emitApkg(chengyu,    '角落書屋 · Chengyu',    
 const allCards = [
   ...characters.map(c => ({ ...c, tags: [...(c.tags || []), 'character'], _back: backCharacter })),
   ...vocab.map(c =>      ({ ...c, tags: [...(c.tags || []), 'vocab'],     _back: backVocab })),
-  ...chengyu.map(c =>    ({ ...c, tags: [...(c.tags || []), 'chengyu'],   _back: backChengyu }))
+  ...chengyu.map(c =>    ({ ...c, tags: [...(c.tags || []), 'chengyu'],   _back: backChengyu })),
+  ...compounds.map(c =>  ({ ...c, tags: [...(c.tags || []), 'compound'],  _back: backVocab }))
 ];
 const apkgAllCount = await (async () => {
   const ankiCards = allCards
@@ -343,7 +387,7 @@ mkdirSync(SLICES_DIR, { recursive: true });
 
 // Combined corpus (all four types) for the slicer. Each card already has
 // _type, hanzi, pinyin, english, desc, hsk, tags, category, path.
-const corpus = [...characters, ...vocab, ...chengyu, ...grammar];
+const corpus = [...characters, ...vocab, ...chengyu, ...grammar, ...compounds];
 const charHskMap = buildCharHskMap(ENTRIES);
 const slices = buildSlices(corpus, charHskMap);
 
@@ -358,7 +402,7 @@ const cardsJson = corpus
     p: c.pinyin,
     e: c.english || '',
     d: c.desc || '',
-    t: c._type,                          // character | vocab | chengyu | grammar
+    t: c._type,                          // character | vocab | chengyu | grammar | compound
     hsk: c._resolvedHsk == null ? null : c._resolvedHsk,
     hskI: c._hskInferred ? 1 : 0,        // inferred flag (0/1 to keep payload tight)
     tags: (c.tags || []).filter(Boolean),
@@ -448,13 +492,16 @@ const manifest = {
     { file: 'pleco-characters.txt', format: 'pleco', type: 'characters', count: plecoCharCount },
     { file: 'pleco-vocab.txt',      format: 'pleco', type: 'vocab',      count: plecoVocabCount },
     { file: 'pleco-chengyu.txt',    format: 'pleco', type: 'chengyu',    count: plecoCyCount },
-    { file: 'pleco-all.txt',        format: 'pleco', type: 'all',        count: plecoCharCount + plecoVocabCount + plecoCyCount },
+    { file: 'pleco-compounds.txt',  format: 'pleco', type: 'compounds',  count: plecoCompCount },
+    { file: 'pleco-all.txt',        format: 'pleco', type: 'all',        count: plecoCharCount + plecoVocabCount + plecoCyCount + plecoCompCount },
     { file: 'anki-characters.tsv',  format: 'anki-tsv', type: 'characters', count: ankiCharCount },
     { file: 'anki-vocab.tsv',       format: 'anki-tsv', type: 'vocab',      count: ankiVocabCount },
     { file: 'anki-chengyu.tsv',     format: 'anki-tsv', type: 'chengyu',    count: ankiCyCount },
+    { file: 'anki-compounds.tsv',   format: 'anki-tsv', type: 'compounds',  count: ankiCompCount },
     { file: 'characters.apkg',      format: 'anki-apkg', type: 'characters', count: apkgCharCount },
     { file: 'vocab.apkg',           format: 'anki-apkg', type: 'vocab',      count: apkgVocabCount },
     { file: 'chengyu.apkg',         format: 'anki-apkg', type: 'chengyu',    count: apkgCyCount },
+    { file: 'compounds.apkg',       format: 'anki-apkg', type: 'compounds',  count: apkgCompCount },
     { file: 'all.apkg',             format: 'anki-apkg', type: 'all',        count: apkgAllCount }
   ],
   slices: sliceEntries,
@@ -467,9 +514,9 @@ const sliceCountsByDim = sliceEntries.reduce((acc, s) => {
 }, {});
 
 console.log('build-exports:');
-console.log(`  Pleco — characters: ${plecoCharCount}, vocab: ${plecoVocabCount}, chengyu: ${plecoCyCount}`);
-console.log(`  Anki TSV — characters: ${ankiCharCount}, vocab: ${ankiVocabCount}, chengyu: ${ankiCyCount}`);
-console.log(`  Anki .apkg — characters: ${apkgCharCount}, vocab: ${apkgVocabCount}, chengyu: ${apkgCyCount}, all: ${apkgAllCount}`);
+console.log(`  Pleco — characters: ${plecoCharCount}, vocab: ${plecoVocabCount}, chengyu: ${plecoCyCount}, compounds: ${plecoCompCount}`);
+console.log(`  Anki TSV — characters: ${ankiCharCount}, vocab: ${ankiVocabCount}, chengyu: ${ankiCyCount}, compounds: ${ankiCompCount}`);
+console.log(`  Anki .apkg — characters: ${apkgCharCount}, vocab: ${apkgVocabCount}, chengyu: ${apkgCyCount}, compounds: ${apkgCompCount}, all: ${apkgAllCount}`);
 console.log(`  Slices (.apkg + .txt each): ${sliceEntries.length} total — ${Object.entries(sliceCountsByDim).map(([d,n])=>`${d}:${n}`).join(', ')}`);
 const thinSlices = sliceEntries.filter(s => s.count < 5);
 if (thinSlices.length) {

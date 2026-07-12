@@ -70,6 +70,22 @@ const TAG_LABELS = {
   poetry:      { cn: '诗',       en: 'Poetry' },
   classical:   { cn: '古典',     en: 'Classical' },
   daily:       { cn: '日常',     en: 'Daily life' },
+  numbers:     { cn: '数字',     en: 'Numbers' },
+  business:    { cn: '生意',     en: 'Business' },
+  commerce:    { cn: '商业',     en: 'Commerce' },
+  technology:  { cn: '科技',     en: 'Technology' },
+  science:     { cn: '科学',     en: 'Science' },
+  mathematics: { cn: '数学',     en: 'Mathematics' },
+  engineering: { cn: '工程',     en: 'Engineering' },
+  physics:     { cn: '物理',     en: 'Physics' },
+  chemistry:   { cn: '化学',     en: 'Chemistry' },
+  astronomy:   { cn: '天文',     en: 'Astronomy' },
+  biology:     { cn: '生物',     en: 'Biology' },
+  health:      { cn: '健康',     en: 'Health' },
+  medicine:    { cn: '医',       en: 'Medicine' },
+  weather:     { cn: '天气',     en: 'Weather' },
+  learning:    { cn: '学习',     en: 'Learning & school' },
+  social:      { cn: '社交',     en: 'Social' },
 };
 
 // ────────────────────── HSK inference ──────────────────────
@@ -289,6 +305,66 @@ const INTENT_DECKS = [
       return true;
     },
   },
+  {
+    slug: 'numbers-and-money',
+    name: 'Numbers & Money',
+    cn: '数字与钱',
+    description: 'Count, pay, and bargain: the number system, market units (斤 两 块), money verbs (赚 赔 花), prices, and discounts.',
+    predicate: ({ card }) => {
+      const tags = card.tags || [];
+      if (tags.some(t => ['numbers', 'scale', 'counting'].includes(t))) return true;
+      const moneyHanzi = '零一二三四五六七八九十百千万亿两半斤块钱元角分价买卖付账费赚赔折';
+      const cn = card.hanzi || '';
+      if (cn.length <= 4) {
+        let hits = 0;
+        for (const ch of cn) if (moneyHanzi.includes(ch)) hits++;
+        if (hits && hits >= Math.ceil(cn.length / 2)) return true;
+      }
+      return false;
+    },
+  },
+  {
+    slug: 'doing-business',
+    name: 'Doing Business',
+    cn: '生意场',
+    description: 'The office, the deal, and the banquet: company words (公司 老板 客户), contracts and negotiation, money verbs, and the etiquette vocabulary that closes deals.',
+    predicate: ({ card }) => {
+      const tags = card.tags || [];
+      return tags.some(t => ['business', 'commerce', 'trade', 'industry', 'production', 'legal'].includes(t));
+    },
+  },
+  {
+    slug: 'clinic-visit',
+    name: 'Clinic Visit',
+    cn: '看病就医',
+    description: 'Get through a Chinese hospital: registration (挂号), symptoms (发烧 咳嗽 疼), body parts, medicine words, and the TCM vocabulary a doctor may use.',
+    predicate: ({ card }) => {
+      const tags = card.tags || [];
+      return tags.some(t => ['health', 'medicine', 'body', 'tcm'].includes(t));
+    },
+  },
+  {
+    slug: 'digital-life',
+    name: 'Digital Life',
+    cn: '数字生活',
+    description: 'Phones, computers, and the Chinese internet: the 电 and 网 word families, apps and payments, and the durable core of online slang.',
+    predicate: ({ card }) => {
+      const tags = card.tags || [];
+      if (tags.some(t => ['technology', 'communication', 'media', 'modern'].includes(t))) return true;
+      const cn = card.hanzi || '';
+      return /[网电]/.test(cn) && cn.length >= 2 && cn.length <= 4;
+    },
+  },
+  {
+    slug: 'stem-vocabulary',
+    name: 'STEM Vocabulary',
+    cn: '理科词汇',
+    description: 'Math, physics, chemistry, astronomy, biology, and engineering terms — the transparent compounds Chinese built its scientific lexicon from.',
+    predicate: ({ card }) => {
+      const tags = card.tags || [];
+      return tags.some(t => ['mathematics', 'physics', 'chemistry', 'astronomy', 'biology', 'engineering', 'geometry', 'science'].includes(t));
+    },
+  },
 ];
 
 // ────────────────────── Slice extraction ──────────────────────
@@ -330,8 +406,8 @@ export function buildSlices(cards, charHskMap) {
       slug: `type-${t}`,
       dimension: 'type',
       criterion: t,
-      name: titleCase(t === 'characters' ? 'Characters' : t === 'vocab' ? 'Vocabulary' : t === 'chengyu' ? 'Chengyu' : t === 'grammar' ? 'Grammar' : t),
-      cn: t === 'characters' ? '字' : t === 'vocab' ? '词汇' : t === 'chengyu' ? '成语' : t === 'grammar' ? '语法' : t,
+      name: titleCase(t === 'characters' ? 'Characters' : t === 'vocab' ? 'Vocabulary' : t === 'chengyu' ? 'Chengyu' : t === 'grammar' ? 'Grammar' : t === 'compound' ? 'Compounds' : t),
+      cn: t === 'characters' ? '字' : t === 'vocab' ? '词汇' : t === 'chengyu' ? '成语' : t === 'grammar' ? '语法' : t === 'compound' ? '词组' : t,
       description: `All ${items.length} ${t} cards in the corpus.`,
       cards: items,
     });

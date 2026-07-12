@@ -4,6 +4,8 @@ category: families
 family: explore
 status: complete
 title: "探 · Explore"
+seo_title: "Explore Chinese Language & Civilization — All Entries"
+seo_desc: "The master index of Jiǎoluò Shūwū: browse Chinese characters, vocabulary, grammar, chengyu, and topic essays on culture and history from one page."
 pageTitle: "Explore"
 pinyin: "tàn"
 desc: "The master entry point. Three families of entries, every category browsable from one place."

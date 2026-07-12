@@ -21,5 +21,511 @@
 面子	miàn zi	face, honor — Giving, losing, and saving face: the social grammar of dignity.
 山水	shān shuǐ	mountains and water; the landscape — The paired word that names the Chinese landscape: not "scenery" in the Western sense, but a cosmological pairing of the still and the flowing that became the central subject of a thousand years of painting and poetry.
 山水画	shān shuǐ huà	Chinese Landscape Painting — Mountains and waters as a cosmological pair -- the genre that made ink the equal of philosophy.
+饱经风霜	bǎo jīng fēng shuāng	to have weathered wind and frost: hardened by hardship — 饱 here means having had a full share of something. The image is a face lined by years of exposure; used of people who have lived through long adversity. Common in literary and journalistic prose.
+饱食终日	bǎo shí zhōng rì	to eat one's fill all day: to idle in comfort — From the Analects (论语), where Confucius reproaches those who eat their fill the whole day and apply their minds to nothing. A pointed criticism of idleness; carries a moral edge.
+饱学之士	bǎo xu é zhī shì	a scholar full of learning: an erudite person — 饱 extends from a full stomach to a full mind. 饱学 means saturated with learning; a respectful term for a deeply read scholar. Formal register.
+饱以老拳	bǎo yǐ lǎo quán	to treat to a full helping of fists: to give a sound beating — A grim joke on the eating sense: instead of a meal, the recipient gets a generous serving of punches. From the Jìn Shū (晋书). Vivid and slightly humorous in tone.
+本来面目	běn lái miàn mù	original face: a thing's true, unaltered nature — Lit: original-face-and-features. A Chan Buddhist phrase for one's true self before all conditioning, now used broadly for the real character of anything once the disguises are stripped away.
+别馆离宫	bié guǎn lí gōng	separate lodges and detached palaces: the same scattered residences, with the lodge named first — The attested inversion of 离宫别馆, listed as its own form in idiom dictionaries. Putting 馆 first foregrounds the lodging over the palace.
+兵无常势，水无常形。	bīng wú cháng shì , shuǐ wú cháng xíng .	An army has no fixed configuration, as water has no fixed shape. — Sunzi's image for strategic adaptability, strikingly close to the water imagery of the Daodejing.
+茶馆酒肆	chá guǎn jiǔ sì	teahouses and wine-shops: the everyday public houses of a town — A four-character set phrase pairing 茶馆 with 酒肆 (the wine-shop) to stand for the street-level places where ordinary people gathered, drank, and talked.
+沉鱼落雁	chén yú luò yàn	"sinking fish and falling geese" — describing a woman so beautiful that fish dive and birds fall when she passes — From the Zhuangzi, originally a wry critique of relativism in beauty (the fish do not actually find her beautiful , they hide because they are afraid of humans).
+吃喝玩乐	chī hē wán lè	eat, drink, play, be merry: a life of indulgence — Four verbs of pleasure strung together, with 喝 as the drinking. Usually mildly disapproving, said of someone who does nothing but enjoy themselves.
+吃苦耐劳	chī kǔ nài láo	to endure hardship and persevere in labor — a core work-ethic virtue — The defining work-ethic phrase in Chinese culture. Applied to individuals, generations, and national character. Eating bitterness + tolerating labor = the formula for achievement.
+吃亏是福	chī kuī shì fú	suffering loss is a blessing — short-term disadvantage leads to long-term benefit — A proverb attributed to Zheng Banqiao (Qing dynasty). The Daoist-inflected wisdom: accepting being at a disadvantage cultivates humility and patience, which eventually bring greater good. Widely quoted in Chinese business and parenting contexts.
+愁眉苦脸	chóu méi kǔ liǎn	knitted brows and a bitter face: a picture of gloom and worry — 愁 (worry) eyebrows over a 苦 (bitter) face. The whole head sags with anxiety. A vivid, everyday way to say someone looks miserable.
+大吃大喝	dà chī dà hē	to eat and drink lavishly: feast extravagantly — The doubled 大 stresses excess. Modern usage often flags wasteful banqueting or living beyond one's means.
+大喝一声	dà hè yī shēng	to give a great shout: bellow once, loudly — Here 喝 takes its hè reading, "to shout". A stock phrase in classical fiction and storytelling, the warrior or judge who freezes a room with a single roar.
+当头棒喝	dāng tóu bàng hè	a staff-blow and a shout to the head — a jolt that wakes someone up — From Chan pedagogy at its most physical: Master Deshan was famous for the staff, Master Linji for the shout, both deployed to shatter a student's conceptual dithering. Now any sharp warning that snaps a person out of a bad course: a failed audit, a doctor's blunt sentence.
+灯红酒绿	dēng hóng jiǔ lǜ	red lamps and green wine: gaudy nightlife — The glow of pleasure quarters, often tinged with disapproval. Describes a city of bars and neon, sometimes implying decadence or excess.
+滴水穿石	dī shuǐ chuān shí	dripping water bores through stone: persistence wins — The image of a single drip, repeated for years, drilling a hole in rock. The standard idiom for patient, steady effort overcoming a hard obstacle.
+点石成金	diǎn shí chéng jīn	to touch stone and turn it to gold: to transform the ordinary into the priceless — Lit: touch-stone-become-gold. From Daoist immortal lore, the touch that turns base rock to gold. Now used of an editor, teacher, or craftsman who makes something dull suddenly shine.
+对牛弹琴	duì niú tán qín	playing the qin to a cow — speaking to someone incapable of understanding — From a Han dynasty text attributed to 牟融 Móu Róng. A musician plays the most refined music for a cow; the cow goes on eating grass. The problem is not the cow's intelligence but the category mismatch: the music is addressed to the wrong kind of listener.
+风水轮流转	fēng shuǐ lún liú zhuǎn	feng shui rotates in turn — fortunes change; cycles of luck; the wheel keeps turning — The most common figurative use of 风水. Used to express acceptance of change, comfort in adversity, or (more pointedly) schadenfreude when an opponent's luck runs out. 三十年河东，三十年河西，风水轮流转 (thirty years east of the river, thirty years west , the wheel of fortune keeps turning).
+改头换面	gǎi tóu huàn miàn	change the head, swap the face: a superficial makeover — Originally Buddhist, on the soul taking a new body. Now usually pejorative: the form is redone but the substance is unchanged, like a rebranded scam.
+高山流水	gāo shān liú shuǐ	high mountains, flowing water — finding someone who truly hears you — The piece Boya played when Ziqi first identified the mountains and rivers in his music. As a chengyu, 高山流水 has two uses: the meeting of a 知音 (someone who understands you perfectly), and more broadly, music or artistry of the very highest order.
+古色古香	gǔ sè gǔ xiāng	of antique flavor: redolent of the past in look and feel — Literally "ancient color, ancient scent." Praises a building, room, or object that has a tasteful, antique character, steeped in the atmosphere of an older age. A favorite for describing a classical garden, a tea house, or an old street that has kept its period charm.
+骨肉相连	gǔ ròu xiāng lián	bone and flesh joined together: bound by blood kinship — The image is that bone and flesh cannot be pulled apart. Used for the inseparable bond between family members, and figuratively for a homeland and its people.
+含辛茹苦	hán xīn rú kǔ	to hold pungency and swallow bitterness: to endure every hardship — 茹 (rú) means to eat. Almost always said of parents, especially mothers, who suffer silently for years to raise their children.
+寒窗苦读	hán chuāng kǔ dú	cold window, bitter study — The archetypal image of examination preparation: the scholar sitting through winter nights by a cold window, studying by lamplight, without heat or comfort.
+汗牛充栋	hàn niú chōng dòng	to sweat the oxen and fill the rafters: a vast number of books — Coined by the Tang writer Liǔ Zōngyuán. So many volumes that hauling them makes the oxen sweat and stacking them fills the house to the roofbeams. Praise for a great library or prolific output.
+好汉不吃眼前亏	hǎo hàn bù chī yǎn qián kuī	a wise fellow avoids a loss he can plainly see coming — Lit: a good-fellow does not eat the loss before his eyes. Folk wisdom that real courage includes the sense to step back from a fight you cannot win, rather than charging in for pride.
+喝西北风	hē xī běi fēng	to drink the northwest wind: have nothing to eat, go hungry — A vivid colloquial idiom: with no food, all you can swallow is the cold wind. Said wryly of poverty or a failed livelihood, "我们都去喝西北风了".
+鹤立鸡群	hè lì jī qún	a crane standing among chickens: head and shoulders above the rest — The tall white crane towering over a yard of squat fowl. Said of a person whose talent or bearing makes them stand out from an ordinary crowd.
+画龙点睛	huà lóng diǎn jīng	drawing a dragon and dotting the eye — the small finishing touch that brings the whole alive — From a Tang anecdote: the painter Zhang Sengyou painted dragons but refused to add eyes; when pressed, he dotted the eyes of two , and they immediately flew off the wall. The dot is what brings the form to life. Used today for the small but decisive move that makes a piece of work click.
+鸡蛋里挑骨头	jī dàn lǐ tiāo gǔ tou	to pick bones out of an egg: to nitpick, to find fault where there is none — A vivid colloquial saying: an egg has no bones, so hunting for one means inventing flaws. Used of a critic or boss who complains about everything.
+鸡飞蛋打	jī fēi dàn dǎ	the hen flies off and the eggs break: to lose everything, ending up empty-handed — A botched scheme where both the chicken and its eggs are lost. Said when an attempt to grab more leaves you with nothing at all.
+鸡飞狗跳	jī fēi gǒu tiào	chickens fly and dogs leap: utter chaos and uproar — A farmyard thrown into panic, hens flapping and dogs bolting. Describes a household or scene in total disorder. Lively and colloquial.
+鸡毛蒜皮	jī máo suàn pí	chicken feathers and garlic skins: trivial, petty matters — The kitchen sweepings nobody bothers with. Used to dismiss a quarrel or complaint as not worth the fuss: 别为这点鸡毛蒜皮的事吵架.
+家常便饭	jiā cháng biàn fàn	an everyday home meal: a common, unremarkable occurrence — Lit: home-ordinary-simple-meal. Literally plain home cooking, used figuratively for anything that happens so routinely it is no big deal: 加班对他来说是家常便饭 "working late is routine for him."
+九牛一毛	jiǔ niú yī máo	"one hair from nine oxen" — a trifling amount; a drop in the bucket — 九牛 (nine oxen) and 一毛 (a single hair). A lone hair plucked from nine whole oxen is utterly negligible against the mass it comes from. The phrase comes from Sima Qian, who wrote that his own death would weigh on the world no more than one hair lost from nine oxen.
+救苦救难	jiù kǔ jiù nàn	to relieve suffering and rescue from peril — A Buddhist phrase, the standing epithet of the bodhisattva 观音 (Guānyīn), 救苦救难 (one who relieves the suffering and saves from calamity). Now also figurative for any savior figure.
+苦尽甘来	kǔ jìn gān lái	bitterness ends, sweetness comes: hardship gives way to better days — 苦 (bitter) and 甘 (sweet) frame a full turn of fortune. The standard consolation offered to anyone enduring a long hard stretch; the reward is built into the saying.
+苦口婆心	kǔ kǒu pó xīn	bitter mouth, grandmotherly heart: to urge earnestly and patiently — Describes someone who repeats hard advice tirelessly out of genuine care, the way an old woman nags her grandchild for their own good.
+狼吞虎咽	láng tūn hǔ yàn	to wolf down food — to eat ravenously like a wolf and tiger — Lit: wolf-swallow tiger-gulp. Vivid image of eating without manners or restraint. Used humorously for someone who is very hungry or eating too fast.
+离宫别馆	lí gōng bié guǎn	detached palaces and separate lodges: the many residences a ruler kept beyond the main palace — A classical 成语 for the scattered country retreats and travelling-lodges of an emperor or great house. Here 馆 carries its oldest sense, the official lodge where the powerful stayed on the road.
+怜香惜玉	lián xiāng xī yù	pity the fragrance, cherish the jade: to be tender toward women — 香 (fragrance) and 玉 (jade) both stand for a beautiful woman. To treat women with gentleness and care. Literary, sometimes ironic.
+良药苦口	liáng yào kǔ kǒu	good medicine is bitter to the mouth: honest advice is hard to hear — From the Kǒngzǐ Jiāyǔ. Often completed by 忠言逆耳 (loyal words grate on the ear). Used to soften unwelcome but useful criticism.
+落花流水	luò huā liú shuǐ	fallen blossoms and flowing water — spring's end; utter defeat — Lit: falling-flowers flowing-water. A classical image from Tang and Song poetry for the beauty of spring's end. Also used for utter defeat: 打得落花流水 "beaten to pieces."
+埋头苦干	mái tóu kǔ gàn	to bury the head and toil hard: to work diligently without distraction — Lit: bury-head-bitter-work. To lower one's head and labor away, absorbed in the task and indifferent to praise or notice. The picture is of someone bent over their work, head down.
+满面春风	mǎn miàn chūn fēng	a face full of spring breeze: beaming, radiant with joy — Lit: full-face-spring-wind. The whole face glowing like a warm spring day, said of someone visibly pleased, content, or flush with good fortune.
+满纸荒唐言，一把辛酸泪。	mǎn zhǐ huāng táng yán , yī bǎ xīn suān lèi .	A whole page of absurd words, a fistful of bitter tears. — From Cao Xueqin's own opening verse, his description of the book and of the grief that went into it. The pairing of seeming absurdity (a tale of stones and dreams) with real suffering captures the novel's double nature as fantasy and as a wound from the author's own ruined life.
+面不改色	miàn bù gǎi sè	"face doesn't change color" — unruffled; keeping composure under pressure; poker-faced — Lit: face-not-change-color. The mark of composure under pressure , your face doesn't betray fear, surprise, or discomfort. 他面不改色地接受了批评，继续进行演讲。"He received the criticism without changing expression and continued his speech." Often admired as a sign of courage or self-discipline.
+面红耳赤	miàn hóng ěr chì	face red, ears crimson — flushed with anger, embarrassment, or the heat of argument — 面 miàn (face) + 红 hóng (red) + 耳 ěr (ears) + 赤 chì (the deeper crimson). The face and ears flush red from a surge of emotion, most often a heated argument or acute embarrassment. 两个人争得面红耳赤，谁也不让谁。
+面面俱到	miàn miàn jù dào	every aspect covered; thorough in all directions — 面 miàn (face; surface; aspect) + 面 + 俱 jù (all; together) + 到 (arrived at). Arrival has reached every face, every surface, every angle of the matter. Used to praise comprehensive coverage , a plan that misses nothing, a speech that addresses every concern, an analysis that leaves no gap.
+面有菜色	miàn yǒu cài sè	a face with the color of greens: gaunt and sallow from hunger — Lit: face-has-vegetable-color. 菜色 is the wan, greenish pallor of someone who has eaten nothing but wild greens, with no grain or meat. The phrase paints a face worn down by famine or hardship.
+明月几时有？把酒问青天。	míng yu è jǐ shí yǒu ? bǎ jiǔ wèn qīng tiān .	When did the bright moon first appear? Cup in hand, I ask the blue sky. — Opening of Su Shi's 水调歌头 (Prelude to Water Melody), written on the Mid-Autumn Festival while missing his younger brother Su Zhe.
+鸟语花香	niǎo yǔ huā xiāng	birds singing, flowers fragrant: a beautiful spring scene — A stock phrase for an idyllic countryside in spring, the birds talking and the blossoms in scent. Warm and common in description.
+牛刀小试	niú dāo xiǎo shì	a small test of the ox-cleaver: great talent on a minor task — From the cook Páo Dīng of the Zhuāngzǐ, whose ox-carving blade glides through every joint. A heavy cleaver lightly tried, said when a capable person handles an easy job and shows the skill in reserve.
+庖丁解牛	Pāo dīng jiě niú	Cook Ding carves the ox; acting in perfect accord with natural structure — 庖丁 Pāodīng (Cook Ding , 庖 páo = kitchen, cook; 丁 Dīng = a name/title) + 解 jiě (to separate; to cut apart; to resolve; to understand , the character shows a horn + knife + cow) + 牛 niú (ox; cattle). Zhuangzi's most celebrated parable, from the third chapter (养生主 , The Secret of Caring for Life).
+萍水相逢	píng shuǐ xiāng féng	to meet by chance: like duckweed drifting together on water — Lit: duckweed-water mutually-meet. Floating duckweed has no fixed place, so the phrase describes strangers who meet briefly by accident and then drift apart again.
+千人千面	qiān rén qiān miàn	a thousand people, a thousand faces — each one different — Often used to describe the terracotta warriors, whose faces are all individual. As a general chengyu it means that every person (or every case, or every product) is distinct, with no two alike, and it can praise rich variety or warn against treating different things as the same.
+千辛万苦	qiān xīn wàn kǔ	"a thousand pains, ten thousand toils" — untold hardships; every kind of suffering — 千辛 (a thousand bitternesses) and 万苦 (ten thousand toils): hardship piled on hardship beyond counting. Used to describe the immense effort and suffering endured to reach a goal: 历尽千辛万苦 (to have gone through every kind of hardship).
+人面兽心	rén miàn shòu xīn	a human face with the heart of a beast: a cruel person behind a civil mask — Not built on 社 itself, but a classic measure of how a person fits or fails the bonds of human society: someone who looks like one of us yet behaves with brute cruelty. A reminder that belonging to a 社会 is judged by conduct, not appearance.
+人往高处走，水往低处流	rén wǎng gāo chù zǒu , shuǐ wǎng dī chù liú	"people move toward high places; water flows to low places" — the natural human drive for self-improvement; ambition as gravity — A folk proverb rather than a classical four-character chengyu, but one of the most widely cited sayings about ambition and social mobility in Mandarin. Water follows physical gravity downward; people follow social gravity upward.
+仁者乐山，智者乐水	rén zhě yào shān , zhì zhě yào shuǐ	"the benevolent love mountains, the wise love water" — The companion form of the Analects couplet, often quoted with the order reversed. 仁 (benevolence) and 智 (wisdom) are matched to mountain (immobile, supporting) and water (mobile, responsive) respectively.
+如鱼得水	rú yú dé shuǐ	like a fish that has found water — to be in one's element; perfectly suited to one's environment — A fish out of water dies; a fish in water is entirely itself. This chengyu describes the state of someone who has found the exact environment where they thrive , a new job that suits them perfectly, a community where they feel at home. 他在新公司如鱼得水，如虎添翼。
+杀鸡儆猴	shā jī jǐng hóu	kill the chicken to warn the monkey: punish one to frighten the rest — Make an example of a minor offender so the watching crowd falls into line. Common in talk of office discipline and political crackdowns.
+山高水长	shān gāo shuǐ cháng	"mountains high, water long" — virtue or reputation that endures across time — From a Northern Song memorial by Fan Zhongyan (范仲淹) describing the legacy of a virtuous official: 云山苍苍，江水泱泱；先生之风，山高水长 ("the cloudy mountains stretch dark; the rivers run wide; the master's spirit , high as the mountains, long as the rivers").
 山清水秀	shān qīng shuǐ xiù	Mountains Clear, Waters Lovely — Clear mountains, lovely waters. The standard Chinese phrase for a picturesque landscape: four characters that compress the whole aesthetic vocabulary of natural beauty.
+山穷水尽	shān qióng shuǐ jìn	"the mountains are exhausted, the waters are at their end" — at the end of one's resources — From Lu You (陆游, Song dynasty), 游山西村: 山穷水尽疑无路，柳暗花明又一村 ("when the mountains are spent and the waters are done and there seems to be no road , there, beyond the dim willows and bright flowers, is another village").
+山重水复	shān chóng shuǐ fù	mountains piled on mountains, waters winding through waters — a seemingly hopeless impasse — From a poem by Lu You 陆游. Full line: 山重水复疑无路，柳暗花明又一村, "Mountain on mountain, water on water, seemingly no path; then through dark willows and bright flowers, a village appears." The proverb for finding hope when all seems lost.
+上善若水	shàng shàn ruò shuǐ	the highest good is like water — effortless giving that sustains without striving — Daodejing, Chapter 8. Functions as a classical four-character literary phrase rather than an everyday idiom. Cited in calligraphy, philosophy, and any context invoking the Daoist ideal of natural, uncontending benefit.
+上善若水。	shàng shàn ruò shuǐ .	The highest good is like water. — From chapter 8. Water is the master image of the Daodejing: it benefits all things without contending, it seeks the low places that everyone else disdains, and in this very humility it comes closest to the 道.
+书香门第	shū xiāng mén dì	a family with a fragrance of books — a family of scholars and learning — Lit: book-fragrance-door-lineage. A family where books are the tradition and education runs through the generations. High cultural prestige in Chinese society. 书香 shūxiāng "the fragrance of books" is itself a vivid compound.
+水到渠成	shuǐ dào qú chéng	when water flows, a channel forms — Literally "when the water arrives, the channel is made", success comes naturally once conditions ripen, with no forcing. It is the gentle counterpart to 终于's hard-won arrival: the long-awaited outcome that, in the end, simply falls into place.
+水滴石穿	shuǐ dī shí chuān	water drips and the stone is bored through: small force, long time — The same image reordered, traced to the Han text Hàn Shū. Stresses the result, the worn-through stone, as proof that small efforts accumulate.
+水火不容	shuǐ huǒ bù róng	water and fire cannot coexist — irreconcilably opposed — Water extinguishes fire; fire evaporates water. The two simply cannot occupy the same space. Used for people, factions, or ideas in absolute opposition. 他们两人水火不容 "Those two are completely incompatible."
+水泄不通	shuǐ xiè bù tōng	"not even water can leak through": packed solid; completely blocked or surrounded — 水 shuǐ (water) + 泄 xiè (to leak; to drain out) + 不 bù (not) + 通 (to pass through). So densely packed that not even a drop of water could trickle out.
+水涨船高	shuǐ zhǎng chuán gāo	when the water rises the boat rises too: gains that lift everything along with the tide — Originally a Chán Buddhist phrase. Used when one rising element pulls others up with it, whether prices, status, or a whole industry.
+水中捞月	shuǐ zhōng lāo yu è	fishing the moon out of water — chasing an illusion — Lit: water-inside-fish-moon. The moon's reflection in a pond looks real but cannot be grasped. Used for futile efforts chasing something impossible. A Buddhist parable: mistaking the reflection for reality.
+顺风顺水	shùn fēng shùn shuǐ	with the wind, with the water — smooth sailing; everything going well without obstruction — A wish and a description: wind at your back, current in your favor , nothing impeding progress. 祝你顺风顺水！(Wishing you smooth sailing!) is a common departure blessing. The 风水 imagery is natural: when wind and water cooperate, travel is easy; when they oppose, nothing moves.
+顺水推船	shùn shuǐ tuī chuán	push the boat along with the current: go with the flow and make the easy move — When circumstances already lean your way, you give a light push and take the credit. Often used for a decision that costs nothing because the moment favors it.
+死要面子活受罪	sǐ yào miàn zi huó shòu zuì	"dying for face, living in torment" — to suffer rather than ask for help because of pride — A seven-character folk saying rather than a classical 成语, but extremely widely used. Describes the pattern of letting one's face-consciousness cause unnecessary suffering , not asking for help, not admitting failure, not seeking medical attention, because doing so would cost face.
+四面八方	sì miàn bā fāng	"four faces, eight directions" — from every direction; from everywhere — The most common chengyu using 方. 四面 (the four faces of a square; the four sides) + 八方 (the eight directions). Used for crowds, news, demands, attacks , anything converging from every direction. 来自四面八方的客人 (guests from all over).
+四面楚歌	sì miàn chǔ gē	"Chu songs on all four sides" — besieged on every side; utterly isolated — From the fall of Xiang Yu, the Hegemon-King of Chu, at the battle of Gaixia (202 BCE). Surrounded by Han forces, Xiang Yu heard his enemies singing the songs of his own homeland of Chu from every direction, and concluded that Chu had already fallen and his men had deserted to the enemy.
+太公钓鱼	tài gōng diào yú	Grand Duke Jiang fishes: those who are willing will take the bait — From 太公钓鱼，愿者上钩. The sage Jiang Ziya fished with a straight, baitless hook, waiting for King Wen to seek him out. Said of letting the willing come of their own accord rather than forcing them.
+同甘共苦	tóng gān gòng kǔ	to share joys and hardships — Literally "together the sweet, shared the bitter", to go through good times and bad side by side. It captures the deepest sense of 跟 as "with", a togetherness that holds through difficulty. Here 同 ("together") plays the accompanying role 跟 carries in speech.
+完蛋	wán dàn	finished egg: to be done for, ruined, all over — Not a four-character chengyu but a fixed colloquial expression. 完 (wán, to finish) + 蛋 marks total collapse: 完蛋了 (wándàn le) means we're finished, it's all over.
 亡羊补牢	wáng yáng bǔ láo	mend the sheep pen after the sheep is lost — From the Zhanguo Ce: a man loses sheep through a hole in his pen and is told he is too late to repair it. A neighbor corrects the fatalist: remediation after a loss is not too late, it is exactly right.
+亡羊补牢，为时未晚	wáng yáng bǔ láo , wéi shí wèi wǎn	mend the pen after the sheep is lost — it is not yet too late — The extended form of the idiom, almost always cited together. The second half (为时未晚, not yet too late) is the direct answer to the fatalist in the original story. The full eight-character phrase is common enough to function as a single fixed saying.
+亡羊得牛	wáng yáng dé niú	lose a sheep, gain an ox — A related phrase (not a classical chengyu in the same sense) used to describe a small loss that leads to an unexpected larger gain: the silver lining formulation. Where 亡羊补牢 is about repair, 亡羊得牛 is about serendipitous compensation. The shared 亡羊 makes the pair memorable.
+闻鸡起舞	wén jī qǐ wǔ	hear the cock and rise to practice swordplay: diligent self-discipline — From the Jin Shu account of Zǔ Tì (祖逖), who woke at the rooster's first crow to drill with his sword. A praise word for someone who studies or trains relentlessly.
+小菜一碟	xiǎo cài yī dié	a small dish on a plate: a piece of cake, an easy matter — Lit: small-dish-one-saucer. A 小菜 is a minor side dish, trivial next to the main course, so 小菜一碟 means a task so easy it is hardly worth mentioning. 这对我来说是小菜一碟 "this is a piece of cake for me."
+行尸走肉	xíng shī zǒu ròu	a walking corpse, a moving piece of flesh — alive in body but dead in spirit — Lit: walking-corpse, walking-flesh. Said of someone who has lost the inner life that makes a person alive in any meaningful sense , going through motions without thought, feeling, or purpose. Sharp, almost cruel; reserved for those judged to have given up entirely.
+行云流水	xíng yún liú shuǐ	like drifting clouds and flowing water — natural, effortless, unforced — Lit: walking-clouds, flowing-water. The classical praise for prose, calligraphy, conversation, or any skilled action that has reached the point of unforced motion. The sister-image to 自然 (naturalness): the result is fluid because nothing is being held against the grain.
+血肉相连	xu è ròu xiāng lián	blood and flesh linked: tied as closely as flesh to blood — A near-twin of 骨肉相连, stressing the living, circulating closeness between people, or between an individual and a cause they cannot separate from.
+一点一滴	yì diǎn yì dī	a dot and a drop: bit by bit, little by little — Lit: one-dot-one-drop. The small increments by which patient effort accumulates. 一点一滴地积累 "to build up bit by bit."
+以卵击石	yǐ luǎn jī shí	to throw an egg at a rock: to attempt the hopelessly outmatched — Here the egg is 卵 (luǎn), the classical word for egg, but the image is the same fragile shell shattering on stone. Describes a doomed fight against overwhelming force.
+鱼和熊掌不可兼得	yú hé xióng zhǎng bù kě jiān dé	you can't have both the fish and the bear's paw — you can't have everything you want — From Mencius: both fish (common) and bear's paw (prized delicacy) are desirable, but you cannot have both. The Chinese equivalent of "you can't have your cake and eat it too." Frequently invoked when someone has to choose between two things they want equally. 鱼和熊掌不可兼得，你只能选一个。"You can't have both.
+鱼肉百姓	yú ròu bǎi xìng	to make fish-meat of the common people: to oppress and exploit them — Here 鱼肉 is a verb: to treat people as meat to be carved up. A classical condemnation of tyrannical officials, traceable to the Shǐjì. Still used to denounce abuse of power.
+鱼跃龙门	yú yu è lóng mén	fish leaping Dragon Gate — passing a crucial test and transforming one's destiny — 鱼 yú (fish) + 跃 yuè (to leap) + 龙门 lóngmén (Dragon Gate). The legend: a carp that braves the current and clears the great waterfall at Dragon Gate on the Yellow River is transformed into a dragon.
+缘木求鱼	yuán mù qiú yú	"climb a tree to look for fish" — to seek something by completely wrong means; a futile approach — Lit: climb-tree-seek-fish. Here 缘 means "to climb along" rather than "karmic connection" , a completely different sense of the character (the edge-clinging, tree-climbing meaning). A cautionary idiom from Mencius. Used when someone's method is fundamentally unsuited to their goal.
+远水救不了近火	yuǎn shuǐ jiù bù liǎo jìn huǒ	distant water cannot put out a nearby fire — From the Hán Fēizǐ. Help too far away is useless against an urgent crisis; a homely proverb on the gap between resources and immediate need.
+蒸蒸日上	zhēng zhēng rì shàng	"rising like steam, day by day" — prospering and flourishing continuously — 蒸 zhēng = steam; to rise in vapor. The image of steam rising without ceasing, day after day. Used of businesses, careers, nations, or any enterprise that is consistently growing and thriving. A very positive set phrase, commonly used in well-wishes and assessments of success.
+指指点点	zhǐ zhǐ diǎn diǎn	to point and gesture: to criticize or gossip about others behind their backs — The reduplicated 指点 zhǐdiǎn (to point out, to instruct) turns sour here: to keep pointing fingers and passing judgment on what is not one's business.
+子非鱼，安知鱼之乐	zǐ fēi yú , ān zhī yú zhī lè	You are not a fish — how can you know the happiness of fish? — From the 秋水 chapter. Used in modern Chinese as a rhetorical challenge when someone claims to understand an experience or perspective that is not their own: "You haven't been through what I've been through; how can you know how I feel?" The exchange in the original is a philosophical puzzle about per…
+艾草	ài cǎo	mugwort; wormwood (Artemisia argyi) — 艾 (ài, mugwort) + 草 (cǎo, herb, grass). Hung over doorways on the Double Fifth to repel evil and insects, owing to its strong fragrance. Also used in traditional Chinese medicine (艾灸 àijiǔ, moxibustion) and in cooking (青团 qīngtuán, green rice cakes flavored with mugwort, eaten at Qīngmíng).
+爱面子	ài miàn zi	to be very concerned with face; to care about appearances — 爱 (to love; to value; to be attached to). 爱面子 describes someone who places unusually high value on face , so much so that their behavior is shaped by the desire to maintain appearances even when it conflicts with practical sense.
+鹌鹑蛋	ān chún dàn	quail egg
+八大菜系	bā dà cài xì	the Eight Great Cuisines — every regional banquet runs on baijiu
+把包放下	bǎ bāo fàng xià	put the bag down — 放 fàng (to place; put) + 下 xià (down; into a lower position). A simple directional 把 sentence , the object (bag) is moved to a lower location. 下 here signals downward movement or lowering into position. The 把 foregrounds the deliberate, targeted nature of the placing.
+白菜	bái cài	Chinese cabbage; bok choy family — 白 bái (white) + 菜 cài (vegetable). The pale-stalked cabbage that anchors northern winter cooking. So cheap and plentiful that 白菜价 "cabbage price" means dirt cheap.
+白茶	bái chá	white tea — minimally processed; wither and dry
+白吃	bái chī	to eat for free; to freeload
+白毫	bái háo	white down — the fine hairs on young buds
+白酒	bái jiǔ	baijiu — the spirit most often paired with a hotpot meal
+白米	bái mǐ	white rice; polished rice
+白切鸡	bái qiē jī	White-Cut Chicken
+棒喝	bàng hè	the shout-and-blow — spontaneous awakening techniques — 棒 bàng (staff, blow) + 喝 hè (shout, roar). Two of the most distinctive Chan teaching methods: a sudden shout (associated especially with the master Linji 临济, whose shout 喝 became the name of the Rinzai school) and a strike with a staff (associated with Deshan 德山).
+包	bāo	to wrap, bundle — To wrap, to enclose , the verb for making dumplings (包饺子), as well as the root of 包子 (stuffed bun). Also means "to guarantee" or "to take responsibility for."
+饱餐	bǎo cān	to eat a hearty meal — 饱 (full) + 餐 (cān, meal): to eat heartily, to feast. Often appears as 饱餐一顿 (bǎocān yí dùn, to have a good filling meal), with a faint literary warmth.
+饱含	bǎo hán	to be brimming with — 饱 (full) + 含 (hán, to hold inside): to be charged with, brimming with. Used for tears, feeling, or meaning, as in 饱含深情 (bǎohán shēnqíng, brimming with deep feeling).
+饱和	bǎo hé	saturated, saturation — 饱 (full) + 和 (hé, to mix, to combine): saturation. A technical term for a solution, market, or air that can absorb no more, as in 市场已经饱和 (shìchǎng yǐjīng bǎohé, the market is already saturated).
+饱满	bǎo mǎn	full, plump; brimming — 饱 (full) + 满 (mǎn, full to the brim): plump and rounded, or figuratively brimming with vigor. Describes grain, fruit, and spirits alike, as in 精神饱满 (jīngshén bǎomǎn, full of energy).
+笨蛋	bèn dàn	idiot, fool — 笨 (bèn, stupid, clumsy) + 蛋: a fool or dimwit. Among close friends it softens into teasing, even affection, but aimed at a stranger it lands as a real insult.
+表面	biǎo miàn	surface; outside; outward appearance — 表 biǎo (outer; to show) + 面 miàn (face). The outer surface of a thing, and by extension the surface meaning as opposed to the truth beneath: 表面上 biǎomiàn shàng "on the surface, ostensibly."
+宾馆	bīng uǎn	hotel, guesthouse — 宾 bīn (guest) + 馆. A house for guests, that is, a hotel. The word keeps the old hospitality sense of 馆 right on its sleeve.
+博物馆	bó wù guǎn	museum — 博 bó (broad, extensive) + 物 wù (things) + 馆. The hall of broad things, where relics and specimens are kept and shown. 故宫博物院 uses 院 instead, but the everyday word is 博物馆.
+菜单	cài dān	menu; (computing) a menu — 菜 cài (dish) + 单 dān (list; slip). The list of dishes a restaurant offers, and by extension the drop-down 菜单 of a computer program. 看菜单 "to look at the menu."
+菜鸟	cài niǎo	(slang) novice; newbie; noob — 菜 cài (here: weak, lousy) + 鸟 niǎo (bird). A fledgling, hence a beginner who is still bad at something, especially in gaming and the workplace. Self-deprecating or teasing: 我是个菜鸟 "I'm a total newbie."
+菜系	cài xì	cuisine school; culinary lineage — Cuisine system , the term for a recognized regional cooking tradition. The 八大菜系 (eight great cuisine systems) are the canonical eight, though culinary scholars recognize anywhere from four to dozens of regional traditions.
+餐厅	cān tīng	restaurant; dining hall
+叉烧	chā shāo	Char Siu — Cantonese BBQ Pork
+茶餐厅	chá cān tīng	Cha chaan teng — Cha chaan teng: the quintessential Hong Kong casual restaurant, serving a fusion menu of Cantonese and Western-influenced dishes: milk tea, pineapple buns (菠萝包 bōluóbāo), egg tarts, congee, rice dishes, and Hong Kong-style French toast.
+茶禅一味	chá chán yī wèi	tea and Chan: one flavor
+茶馆	chá guǎn	Teahouse — Teahouse: a social institution especially important in Sichuan and Guangdong, where one goes not just to drink tea but to play mahjong, listen to storytelling, or simply spend a morning reading the paper.
+茶毫	chá háo	tea down — fine white hairs on young leaves
+茶荷	chá hé	tea display dish — for showing the dry leaf
+茶壶	chá hú	Teapot — Teapot. The Yixing purple clay teapot (紫砂壶) is the prestige form, prized because it absorbs tea oils over time and improves with use.
+茶黄素	chá huáng sù	theaflavins — the brightness compounds of black tea
+茶夹	chá jiā	tea tongs — for handling hot cups
+茶马古道	Chá Mǎ Gǔ Dào	Ancient Tea-Horse Road — the trade route that carried tea to Tibet
+茶盘	chá pán	tea tray — the base of the gongfu setup
+茶香	chá xiāng	aroma of tea
+茶叶	chá yè	Tea leaves , the dry product before brewing — Tea leaves , the dry product before brewing. 茶 alone can refer to the beverage, the plant, or the leaves.
+茶叶蛋	chá yè dàn	tea egg
+茶叶罐	chá yè guàn	tea canister / storage jar
+茶艺	chá yì	tea art; the art and ceremony of tea — 茶 chá + 艺 yì (art; skill, the same character as in 艺术 fine art). The performance and aesthetic dimension of tea preparation. 茶艺师 cháyìshī = tea master; a professional practitioner of the ceremony. 茶艺表演 = a tea ceremony performance.
+茶针	chá zhēn	tea needle / pu-erh pick
+差不多	chà bu duō	almost; about the same
+场	chǎng	open ground, venue
+炒	chǎo	to stir-fry; the wok toss
+炒蛋	chǎo dàn	scrambled eggs — 炒 (chǎo, to stir-fry) + 蛋: eggs broken into a hot wok and pushed around until they set in soft curds. The same 炒 powers most Chinese cooking, so 炒蛋 reads as plainly as English "scrambled eggs."
+撑	chēng	stuffed, overfull
+成都	Chéng dū	Chengdu city
+吃饱	chī bǎo	to eat one's fill — 吃 (chī, eat) + 饱 (full) as a resultative pair: to eat until satisfied. The negative is 没吃饱 (méi chī bǎo, did not eat enough), and a question often takes 吃饱了吗 (chī bǎo le ma).
+吃醋	chī cù	to be jealous (in love); to eat vinegar — 吃 chī + 醋 cù (vinegar). Eating vinegar: romantic jealousy. The origin story: a Tang dynasty concubine had to drink vinegar as punishment when she defied orders, giving rise to this vivid metaphor. Exclusively romantic jealousy (not professional envy, which is 嫉妒 jídù).
+吃饭	chī fàn	To eat a meal , literally "eat cooked grain — To eat a meal , literally "eat cooked grain." Used as a general term for eating any meal regardless of whether rice is served. 吃 means "to eat"; 饭 means cooked grain or, by extension, any meal.
+吃苦	chī kǔ	to endure hardship; to eat bitterness — 吃 chī (eat) + 苦 kǔ (bitter; hardship). To eat bitterness , to endure difficulty without complaint. One of the most culturally loaded compounds in Chinese. 能吃苦 (able to endure hardship) is a major virtue. 吃苦耐劳 = endure hardship and labor without complaint.
+吃亏	chī kuī	to suffer a loss; to be at a disadvantage; to get the short end — 吃 chī + 亏 kuī (deficit; shortfall). To eat a shortfall , to come out worse, to be cheated or disadvantaged. 吃亏是福 chī kuī shì fú (suffering loss is a blessing) is a common proverb: the Daoist wisdom that accepting disadvantage builds character.
+吃了	chī le	ate; has eaten (the action is complete) — The most basic post-verb 了 construction. The 了 immediately follows the verb and signals that the action was completed. With a bare monosyllabic object, the 了 sits between verb and object. With a quantified object, this placement is even clearer and more natural.
+吃了吗	chī le ma	have you eaten
+吃人	chī rén	Eating people, man-eating , Lu Xun term for the cannibalistic logic he claimed to find underlying Confucian social morality.
+吃完饭就睡	chī wán fàn jiù shuì	sleeps right after eating (immediately, habitual) — 就 in habitual statements describes characteristic immediate sequences , what this person always does right after something else. Often used with mild commentary (it might be a bad habit, or an endearing one). The 就 here encodes: no delay at all between finishing dinner and falling asleep.
+吃香	chī xiāng	to be popular, sought-after
+充足	chōng zú	ample; abundant; fully sufficient — 充 (chōng, to fill; to be full) + 足 (sufficient). Filled to sufficiency , not merely enough but abundantly enough. 阳光充足 (ample sunlight); 准备充足 (fully prepared); 充足的理由 (compelling reasons). Stronger than 足够 zúgòu (merely enough).
+重庆小面	Chóng qìng xiǎo miàn	Chongqing Spicy Noodles
+臭	chòu	smelly, stinking
+臭豆腐	chòu dòu fu	Stinky Tofu; Fermented Tofu
+厨房	chú fáng	kitchen — 厨 (chú, cooking, the cook) plus 房. The room where food is prepared. One of the most frequent 房 compounds in daily life, and usually among the first room words a learner needs.
+楚辞	Chǔ Cí	Songs of Chu
+川菜	chuān cài	Sichuan cuisine — 川 chuān (Sichuan) + 菜 cài (cuisine). The cooking of Sichuan, famous for the numbing-spicy 麻辣 málà of Sichuan peppercorn and chili. 麻婆豆腐 and 回锅肉 are classic 川菜 dishes.
+吹牛	chuī niú	to brag, to talk big — 吹 (chuī, to blow) + 牛 (ox). From the full phrase 吹牛皮 (chuī niúpí, blow up an ox-hide), once said of herders inflating a hide skin-raft by lung power: big puff, little substance.
+葱	cōng	scallion; green onion; Chinese leek
+葱烧海参	cōng shāo hǎi shēn	Scallion-Braised Sea Cucumber
+大使馆	dà shǐ guǎn	embassy — 大使 dàshǐ (ambassador, lit. great envoy) + 馆. The ambassador's official house abroad. A smaller mission led by a consul is a 领事馆 lǐngshìguǎn, a consulate.
+担担面	dān dān miàn	Dan Dan Noodles
+蛋白	dàn bái	egg white; protein — 蛋 (egg) + 白 (bái, white): literally the white of the egg. In science it extends to protein in general, and 蛋白质 (dànbáizhì) is the standard word for dietary protein.
+蛋糕	dàng āo	cake — 蛋 (egg) + 糕 (gāo, a steamed or baked flour cake): a cake gets its name from the eggs whipped into the batter. The word covers birthday cakes, sponge cakes, and the slice you buy at a café.
+蛋黄	dàn huáng	egg yolk — 蛋 (egg) + 黄 (huáng, yellow): the yolk. It pairs neatly with 蛋白, the two halves of every egg named by their color. Salted yolk, 咸蛋黄 (xián dànhuáng), is a prized flavor in mooncakes and pastries.
+蛋壳	dàn ké	eggshell
+蛋挞	dàn tà	egg tart
+当面	dāng miàn	face to face; to one's face; in person — 当 dāng (right at) + 面 miàn (face). To do something in someone's presence rather than behind their back: 当面说清楚 (sort it out face to face). Carries a note of directness and accountability.
+刀工	dāo gōng	knife technique; knife skills
+刀削面	dāo xiāo miàn	Knife-Shaved Noodles
+捣蛋	dǎo dàn	to make trouble, to be naughty
+德州扒鸡	Dé zhōu pá jī	Dezhou Braised Chicken
+地点	dì diǎn	place; location; site; venue — 地 dì (ground) + 点 diǎn (point). A specific point on the ground, the precise spot where something happens: a meeting place, an event venue, the scene of an incident. More exact than 地方 dìfang.
+点菜	diǎn cài	to order dishes (at a restaurant) — 点 diǎn (to choose; to dot) + 菜 cài (dish). To pick dishes off a menu and order them. The host usually does the 点菜 for the table. For the many senses of 点 see the 点 entry.
+点头	diǎn tóu	to nod (the head) — 点 diǎn (to touch lightly, to dip) + 头 tóu (head). To dip the head: to nod in agreement or greeting. 点头同意 "to nod in assent." Its opposite gesture is 摇头 yáotóu, to shake the head.
+点心	diǎn xīn	Dim sum — Dim sum: small Cantonese dishes served with tea in the teahouse tradition. The term literally means "touch the heart." Dim sum culture grew from the Cantonese tea-drinking and commercial meeting tradition of Guangdong and Hong Kong and is now the most internationally recognized format of Chinese com…
+店	diàn	shop, store
+丢面子	diū miàn zi	to lose face; to be publicly embarrassed — 丢 diū (to lose; to throw away , the losing of something you once had). To lose face is not merely to feel embarrassed privately; it is to have one's standing visibly diminished in the eyes of others. The public, witnessed nature of face-loss is what makes it significant.
+都江堰	Dū jiāng yàn	Dujiangyan irrigation — Dujiangyan , the 3rd-century BCE irrigation system on the Minjiang River, still operational. 都 refers to the capital; 江 is river; 堰 (yàn) means weir or low dam. The system controls water through geometry rather than barriers, making it the oldest functioning hydraulic infrastructure in the world.
+豆瓣酱	dòu bàn jiàng	broad bean chili paste; Pixian paste — Pixian fermented broad-bean-and-chili paste , the foundational flavoring of Sichuan cooking. Produced in Pixian County outside Chengdu by fermenting broad beans and chilies for months to years. Almost every Sichuan dish begins by frying doubanjiang in oil until the red oil (红油 hóng yóu) releases.
+豆腐	dòu fu	tofu — a cross-cuisine staple appearing in nearly every regional school
+豆腐干	dòu fu gān	Dried Tofu; Firm Pressed Tofu
+豆腐脑	dòu fu nǎo	tofu pudding; soft tofu in brine
+豆浆	dòu jiāng	soybean milk
+杜甫	Dù Fǔ	Tang dynasty poet
+肚子	dù zi	belly, stomach
+鹅	é	goose
+饿	è	hungry
+发红包	fā hóng bāo	to send a red envelope; to distribute lucky money
+发酵	fā jiào	oxidation (lit. "fermentation") — the enzymatic browning step
+发烧	fā shāo	To run a fever — To run a fever: emit burn. 量体温 is to take a temperature; 退烧 is the fever breaking, and 退烧药 the medicine that breaks it.
+饭	fàn	cooked rice; meal
+饭馆	fàng uǎn	restaurant, eatery — 饭 fàn (cooked rice, a meal) + 馆. A modest, sit-down place to eat, the neighborhood diner rather than a banquet hall. Often said 小饭馆 for the cheap, friendly kind.
+方面	fāng miàn	aspect; side; area; regard — 方 (direction; side) + 面 (face; surface). A particular "side" or "face" of a topic , one of the aspects of a multi-sided issue. Extremely common in academic, journalistic, and analytical Chinese. 在这方面 (in this regard), 各个方面 (all aspects), and 经济方面 (in terms of economics) are standard expressions.
+芬芳	fēn fāng	fragrant (literary)
+风水宝地	fēng shuǐ bǎo dì	a feng shui treasure land; an auspiciously sited place — 宝 bǎo (treasure; precious) + 地 dì (land; place). A site so well positioned in the landscape , with mountains, water, orientation, and dragon veins all aligning , that it is considered to bring fortune to whoever inhabits it or is buried there.
+风水相生	fēng shuǐ xiāng shēng	wind and water mutually generate — the core principle of feng shui energy management — The operative logic behind 风水: when wind is blocked by mountains and water is present to create a boundary, 气 accumulates rather than dispersing. Wind and water are the agents , qi is what they manage.
+风水择地	fēng shuǐ zé dì	geomantic grave siting — fortune for the living through the dead — The location and orientation of a grave (阴宅 yīnzhái, "yin dwelling") directly affects the fortune of the descendants, a doctrine that made grave geomancy (阴宅风水 yīnzhái fēngshuǐ) one of the most important applications of feng shui.
+封面	fēng miàn	cover (of a book or magazine) — 封 (the closing layer) plus 面 (miàn, face / surface): the outer face that wraps and closes a book. By extension, the front cover of any publication.
+夫妻肺片	fū qī fèi piàn	Husband and Wife Beef Slices
+腐皮	fǔ pí	tofu skin; bean curd skin; yuba
+腐乳	fǔ rǔ	Fermented Bean Curd; Tofu Cheese
+盖碗	gài wǎn	lidded bowl — the standard gōngfu brewing vessel
+甘	gān	sweet, willing
+干杯	gān bēi	Bottoms up , "dry cup — Bottoms up , "dry cup." The standard toast call, implying the glass is to be emptied. Contrasted with 随意 (suíyì, "as you like"), which allows partial drinking. 干杯 is the stronger and more committed version. Refusing to 干杯 with someone who has singled you out for a toast is a social rebuff.
+给面子	gěi miàn zi	to give face; to show respect; to honor someone's standing — 给 (to give) + 面子. To actively enhance or protect someone else's face. Can mean: attending their event (your presence honors them), publicly praising them, deferring to them in front of others, or not challenging them when they are wrong , to spare their embarrassment.
+公道杯	gōng dào bēi	fairness pitcher / sharing pitcher
+公鸡	gōng jī	rooster, cock — 公 (male) + 鸡 (chicken). The crowing bird of the farmyard, the one Shuōwén praised for knowing the hour.
+公筷	gōng kuài	Serving chopsticks , a second pair of chopsticks placed at the table for taking from shared dishes, kept separate from the pair used for eating. The practice is hygienic and has become more widespread post-2020. At formal banquets, a serving spoon (公勺 gōng sháo) may accompany each dish.
+公牛	gōng niú	bull
+功夫茶	gōng fu chá	gongfu tea ceremony
+宫保鸡丁	gōng bǎo jī dīng	Kung Pao Chicken
+枸杞	gǒu qǐ	wolfberry / goji berry — the ubiquitous health supplement
+古树茶	gǔ shù chá	old-tree tea — material from trees over 100 years old
+骨	gǔ	bone
+顾面子	gù miàn zi	to consider face; to save face for someone; to protect dignity — 顾 gù (to consider; to look after; to take into account). 顾面子 means to take face into consideration when making decisions or acting , whether one's own face or someone else's. More deliberate and conscious than simply 给面子. Suggests a thoughtful navigation of face dynamics.
+官	guān	official, office
+滚蛋	gǔn dàn	get lost, scram — 滚 (gǔn, to roll) + 蛋: a blunt order to get out. The image is of telling someone to roll away like a dropped egg. It is rude and forceful, used only in anger.
+果肉	guǒ ròu	fruit pulp, flesh of fruit — 果 (guǒ, fruit) + 肉 (flesh). The soft edible part between the skin and the pit, the meat of the fruit.
+过桥米线	guò qiáo mǐ xiàn	Crossing-the-Bridge Rice Noodles
+海鲜	hǎi xiān	seafood; fresh from the sea
+喊	hǎn	to shout
+汉服	Hàn fú	Traditional Han Dress
+蚝油	háo yóu	oyster sauce
+好吃	hǎo chī	delicious
+好喝	hǎo hē	tasty (to drink) — 好 (good) + 喝 (drink): pleasant to drink. Mandarin splits "tasty" by mouth-action, so liquids are 好喝 while solid food is 好吃 (hǎo chī), good to eat.
+好闻	hǎo wén	nice to smell
+喝茶	hē chá	to drink tea — 喝 (drink) + 茶 (tea). 喝茶 also names the social ritual of sitting down together; "请喝茶" is both an offer of tea and an invitation to talk.
+喝酒	hē jiǔ	to drink alcohol — 喝 (drink) + 酒 (liquor). The default verb for drinking alcohol of any kind, from beer to baijiu. Central to banquet culture, where 喝酒 carries social obligation.
+喝咖啡	hē kā fēi	to drink coffee — 喝 (drink) + 咖啡 (coffee). Like 喝茶, the phrase doubles as a soft social invitation: "改天一起喝咖啡" means let's meet up sometime.
+喝水	hē shuǐ	to drink water — 喝 (drink) + 水 (water). The first sentence most learners build with this character, and the everyday reminder a Chinese host or parent will repeat constantly.
+喝汤	hē tāng	to drink soup
+喝完	hē wán	to finish drinking — 喝 (drink) + 完 (finished), another resultative: drink to completion, drain the glass. 完 marks the liquid as gone.
+喝醉	hē zuì	to get drunk — 喝 (drink) + 醉 (drunk), a resultative compound: the 醉 is the result of the 喝. Often expanded to 喝醉了 (hē zuì le) for the completed state, "got drunk".
+河水	hé shuǐ	river water — 河 (river) + 水 (shuǐ, water). The water of a river as a substance, distinct from sea water 海水 (hǎishuǐ) or rain. Common in the proverb about minding your own affairs.
+荷包蛋	hé bāo dàn	fried egg, poached egg
+黑茶	hēi chá	dark tea & pu-erh — the other tea category prized for aging
+红包	hóng bāo	red envelope; a cash gift; a digital money packet — 红 hóng + 包 bāo (packet; bundle). The red paper envelope filled with money, given to children at New Year, to a couple at their wedding, and to employees as a bonus. The red is the point: the envelope blesses the money inside.
+红茶	hóng chá	black tea (literally "red tea") — 红 hóng (red) + 茶 chá (tea). Fully oxidized tea, the category English calls black tea. The Chinese name describes the amber-red color of the infusion in the cup; the English name describes the near-black color of the oxidized leaf.
+后面	hòu miàn	behind; at the back; in the rear — 后 (behind) + 面 (face; side; direction). The most common spatial word for "behind" in everyday Mandarin. Used for physical position relative to a reference point. Interchangeable with 后边 hòubian in many contexts; 后面 is slightly more formal.
+湖面	hú miàn	surface of a lake — 湖 (lake) plus 面 (surface): the open face of the water, the plane that mirrors sky and mountain.
+湖水	hú shuǐ	lake water — 湖 (lake) plus 水 (water): the water of a lake itself, often invoked for its stillness and color.
+花草茶	huā cǎo chá	tisanes & herbal infusions — not true tea
+花椒	huā jiāo	Sichuan pepper; prickly ash berry — Sichuan pepper , the dried husk of the prickly ash berry, not related to black pepper or chili pepper. Contains hydroxy-alpha sanshool, which activates the same receptor as light touch and low-frequency vibration, producing the characteristic tingling numbness on the tongue and lips.
+花香	huā xiāng	scent of flowers
+画面	huà miàn	a scene; an image (on a screen or in a picture); a frame — 画 huà (picture) + 面 miàn (surface; face). The visible surface of a picture or screen: the framed image you see in a film, a photo, or a painting. 画面很美 "the image is beautiful."
+淮扬菜	Huái yáng Cài	Huaiyang cuisine — Huaiyang cuisine: the specific tradition of the Yangzhou-Huai'an axis, considered the most technically refined of Chinese culinary traditions and the foundation of state banquet cooking.
+坏蛋	huài dàn	scoundrel, bad egg — 坏 (bad) + 蛋 (egg). A literal rotten egg, used figuratively for a scoundrel. Colloquial and elastic: a genuine insult when angry, a flirtatious tease between a couple when said with a smile.
+黄茶	huáng chá	yellow tea — the rarest of the six categories
+黄河	huáng hé	the Yellow River — 黄 (huáng, yellow) + 河 (river). The silt-yellow river of north China, cradle of early Chinese civilization. Here 河 returns to its oldest job, naming this exact river, with 黄 added once 河 stopped meaning it by default.
+黄牛	huáng niú	ox; ticket scalper — 黄 (huáng, yellow) + 牛, literally the yellow ox of the fields. In cities it became slang for a ticket scalper, from the way scalpers swarm and jostle like a milling herd.
+徽商	Huī shāng	Huizhou merchants — Huizhou merchants: the merchant class from the southern Anhui mountain region who dominated certain sectors of Chinese commerce (especially salt, timber, and pawnbroking) from the Song through the Qing dynasty.
+回甘	huí gān	returning sweetness — the lingering aftertaste
+回锅肉	huí guō ròu	Twice-Cooked Pork
+混蛋	hún dàn	bastard, scoundrel
+火锅	huǒ guō	hotpot; steamboat — 火 huǒ + 锅 guō (pot; wok). A simmering communal pot at the table , the quintessential Chinese social meal. 吃火锅 = to eat hotpot, one of the most common social dining activities. Regional varieties: 四川火锅 Sichuan hotpot (numbing-spicy 麻辣), 北京涮羊肉 Beijing lamb hotpot (clear broth).
+火候	huǒ hou	the right heat and timing; (by extension) the right moment or level of skill — 火 huǒ (fire) + 候 hou (the timing of). In cooking, the exact control of heat and duration that makes or ruins a dish. Figuratively, the ripeness of a moment or the maturity of a skill: 火候到了 "the moment is ripe."
+镬气	huò qì	wok breath; the scorched aroma of high-heat cooking
+肌肉	jī ròu	muscle — 肌 (jī, muscle tissue) + 肉 (flesh). The fibrous flesh that moves the body; both characters carry the 月 flesh-radical.
+鸡蛋	jī dàn	chicken egg — 鸡 (jī, chicken) + 蛋 (egg): the default egg in Chinese kitchens. When a recipe or menu just says egg, it means a hen's egg, so 鸡蛋 is one of the first nouns most learners cook with.
+鸡肉	jī ròu	chicken (meat) — 鸡 (chicken) + 肉 (ròu, meat). The flesh on the menu, as opposed to the live bird. Pair it with 牛肉 (niúròu, beef) and 猪肉 (zhūròu, pork) to name the everyday meats.
+夹	jiā	To pick up with chopsticks — To pick up with chopsticks: the specific verb for the gripping action of chopsticks. 夹菜 (jiā cài) is to pick up food from a shared dish.
+夹菜	jiā cài	To pick food for someone else , placing food from a shared dish into another person's bowl as a gesture of care and hospitality. The action is performed with chopsticks and directed toward honored guests, elders, or someone whose preferences you are attending to.
+艰苦	jiān kǔ	arduous, grim
+碱水面	jiǎn shuǐ miàn	alkaline noodles; lye-water noodles
+见面	jiàn miàn	to meet; to see one another (in person) — 见 jiàn (to see) + 面 miàn (face). Literally "to see faces," the everyday verb for meeting someone in person. It is a separable verb: 见了一面 "met once," 见过面 "have met before."
+浇头	jiāo tóu	noodle topping; the garnish that makes the bowl
+饺子	jiǎo zi	dumplings — the northern New Year food — The quintessential northern Chinese New Year food, eaten at midnight on New Year's Eve in many northern households. The shape resembles the 元宝 yuánbǎo (ancient sycee gold ingots), making them symbols of wealth.
+饺子皮	jiǎo zi pí	Dumpling wrapper, literally "dumpling skin — Dumpling wrapper, literally "dumpling skin." Sold pre-made in supermarkets, but making them by hand is considered superior.
+窖	jiào	The fermentation pit — The fermentation pit: the earthen or stone pit in which the fermented grain mash (酒醅 jiǔpēi) undergoes anaerobic fermentation. Old pits with established microbial ecosystems are considered the most valuable assets of a distillery.
+节日	jié rì	holiday; festival; special day — 节 jié (node; joint; festival) + 日 rì (day). The standard word for a festival or public holiday. 传统节日 chuántǒng jiérì = traditional holiday (Spring Festival, Mid-Autumn, Dragon Boat). 法定节假日 fǎdìng jiàjià rì = statutory public holiday. 情人节 Qíngrén Jié = Valentine's Day (lit. "lover's day").
+界面	jiè miàn	interface; the surface between two systems — 界 (boundary; boundary marker) + 面 (surface; face). The surface at the boundary between two things. In technology and computing: the user interface (用户界面 yònghù jièmiàn), screen interface. In science: the interface between two phases or systems.
+金花	jīn huā	golden flowers — the prized mold colonies in Fu Brick
+金芽	jīn yá	golden bud — the premium single-bud grade
+敬酒	jìng jiǔ	To toast , to offer a drink as a gesture of respect — To toast , to offer a drink as a gesture of respect. 敬 means "to respect" or "to offer respectfully"; 酒 means "alcoholic drink." The act of toasting at a Chinese meal is a structured social protocol, not a casual gesture.
+镜子	jìng zi	mirror
+九转大肠	jiǔ zhuǎn dà cháng	Nine-Turn Intestine
+酒鬼	jiǔ guǐ	drunkard — lit. "alcohol ghost" — 酒 jiǔ (alcohol; wine; liquor) + 鬼 guǐ (ghost). A drunkard , someone possessed by alcohol to the point of losing themselves. The pattern is productive: 赌鬼 (dǔguǐ) is a compulsive gambler, 烟鬼 (yānguǐ) is a heavy smoker, 色鬼 (sèguǐ) is a lecher.
+酒量	jiǔ liàng	drinking capacity: how much alcohol one can hold — 酒 jiǔ (alcohol) + 量 liàng (capacity). A person's tolerance for drink, the amount they can take before they are affected. A culturally loaded word at the banquet table, where 酒量好 (a good capacity) is treated as a social asset: 他酒量很大 (he can really hold his drink).
+酒桌	jiǔ zhuō	The drinking table , refers not just to the physical table but to the entire social ritual of the banquet. 酒桌文化 (jiǔzhuō wénhuà) is "drinking table culture," often discussed critically for its excesses.
+咖啡馆	kā fēi guǎn	café — 咖啡 kāfēi (coffee) + 馆. The modern counterpart to the 茶馆, a place to sit with a laptop or a friend. The 馆 suffix quietly marks it as a public establishment.
+渴	kě	thirsty
+刻苦	kè kǔ	hardworking, painstaking, assiduous — 刻 (kè), to carve or engrave, joins 苦 (kǔ) to describe effort that bites in: study or training pursued through self-denial. A 刻苦 student drills past comfort, the way a blade is sharpened against stone.
+口渴	kǒu kě	thirsty (mouth dry)
+叩手礼	kòu shǒu lǐ	knocking hand ritual — tapping thanks
+苦谛	kǔ dì	the truth of suffering — dukkha — 苦 kǔ = suffering, bitterness, difficulty. Sanskrit dukkha: a wheel whose axle is off-center, generating grinding rather than smooth motion. The Buddha's first noble truth: life as ordinarily lived is characterized by dukkha.
+苦瓜	kǔ guā	bitter melon
+苦劳	kǔ láo	credit for hard work
+苦力	kǔ lì	hard manual labor; a coolie — 苦 (bitter, hard) plus 力 (lì, strength) names grueling physical labor and, historically, the laborer himself. The English word "coolie" carries this same syllable. In modern speech 干苦力 means to do back-breaking work.
+苦练	kǔ liàn	to train hard, to drill relentlessly — Here 苦 works as an adverb on 练 (liàn, to train): to practice bitterly, to grind. The word frames mastery as something earned through painful repetition rather than talent.
+苦难	kǔn àn	suffering, tribulation, misery — 苦 (bitter) joins 难 (nàn, calamity, disaster) to name suffering on a large, often historical scale: famine, war, oppression. Weightier than everyday hardship, 苦难 belongs to the language of nations and generations.
+苦恼	kǔn ǎo	vexed, distressed
+苦心	kǔ xīn	painstaking effort; careful pains — 苦 (bitter) plus 心 (xīn, heart, mind) names the trouble one's heart goes through for someone else's sake. 一片苦心 (yí piàn kǔxīn) is a heartful of well-meant pains, often unrecognized.
+苦衷	kǔ zhōng	hidden hardship; unspoken difficulty — 苦 (bitter) plus 衷 (zhōng, inner feelings) names the private difficulty behind a person's puzzling choice, the bitterness they cannot say aloud. To have a 苦衷 is to act badly for a reason you keep hidden.
+筷子	kuài zi	chopsticks
+筷子架	kuài zi jià	Chopstick rest — Chopstick rest: a small ceramic or metal rest placed beside the bowl to lay chopsticks on between bites. Used in formal settings; absent in casual ones.
+困苦	kùn kǔ	privation, hardship
+兰州拉面	Lán zhōu lā miàn	Lanzhou Hand-Pulled Noodles
+老白茶	lǎo bái chá	aged white tea — white tea stored for 3+ years
+老豆腐	lǎo dòu fu	Firm Tofu; Northern Tofu
+乐山乐水	yào shān yào shuǐ	to take joy in mountains and water; to be a person of refined nature — A condensed echo of the Analects line. Note the alternative reading: in this fixed phrase 乐 is sometimes read yào in the classical pronunciation (the same character as 乐 lè / yuè, with multiple historical readings , yào here marks affective preference).
+累	lèi	tired, weary
+礼教吃人	lǐ jiào chī rén	Ritual morality eats people — Ritual morality eats people: the compressed formula, derived from "A Madman's Diary," for Lu Xun central argument that the Confucian system of ritual and ethical teaching functions as a mechanism of social domination and destruction rather than genuine moral cultivation.
+里面	lǐ miàn	inside; interior; within — 里 (inside) + 面 (face, surface, side). The most direct spatial interior term in Mandarin. Used for concrete physical interiors (inside a box, inside a building) and abstract interiors (inside a system, inside a relationship).
+历法	lì fǎ	lunisolar calendar
+脸蛋	liǎn dàn	cheeks; (affectionate) little face — 脸 (face) + 蛋 (egg, oval). The egg-smooth oval of the cheeks, a warm word usually aimed at children or a pretty face. Often softened further to 脸蛋儿 (liǎndànr) with the northern -r ending.
+脸面	liǎn miàn	face (combining both concepts); dignity; decency — A compound that fuses both face concepts. 脸面 covers the full spectrum , both the social prestige dimension of 面子 and the moral character dimension of 脸. Often used in contexts where both are at stake: 要顾脸面 (to consider one's dignity) means both social standing and personal integrity.
+凉茶	liáng chá	cooling tea — Guangdong herbal brews for clearing heat
+领事馆	lǐng shì guǎn	consulate
+龙井	Lóng jǐng	Longjing — Dragon Well green tea — From 龙坞 Dragon Hollow near Hangzhou, Zhejiang. China's most famous green tea , flat-pressed leaves, clean chestnut aroma, and a 1,200-year history. Imperial tribute tea. 西湖龙井 Xī Hú Lóngjǐng (West Lake Dragon Well) is the protected-origin premium grade.
+龙舟	lóng zhōu	dragon boat — 龙 (dragon) + 舟 (boat, the classical word for it; 船 chuán is more common in modern speech). The ornate long boat with a dragon head at the prow. 赛龙舟 (to race dragon boats) is the verb phrase. 龙舟竞渡 (lóngzhōu jìngdù) is the literary term for the race.
+鲁菜	Lǔ cài	Shandong Cuisine
+绿茶	lǜ chá	green tea — the unoxidized counterpart white tea is most often contrasted with
+绿叶红边	lǜ yè hóng biān	green leaf red edge — the visual sign of oolong oxidation
+卵	luǎn	egg (literary/biological)
+麻辣	má là	numbing-spicy — Numbing-spicy , the characteristic flavor combination of Sichuan cuisine, combining the numbing sensation (麻 má) of Sichuan pepper (花椒 huājiāo) with the heat (辣 là) of chili pepper. The geographic signature of the Sichuan basin's isolated, humid interior.
+麻辣锅底	má là guō dǐ	mala broth base; numbing-hot pot
+麻婆豆腐	má pó dòu fu	Mapo Tofu
+满	mǎn	full, brimming
+毛茶	máo chá	rough tea / mao cha — the uncompressed base material
+毛肚	máo dǔ	tripe; honeycomb tripe
+茅台	máo tái	Moutai — Moutai: the prestige baijiu produced in Maotai Town, Guizhou province. Made from sorghum using the sauce-aroma (酱香 jiàngxiāng) method, it is the most famous Chinese spirit and functions as a currency of respect in formal Chinese business culture.
+没吃	méi chī	didn't eat; have not eaten — 没(有) is the standard negator for completed actions. It replaces 了 entirely , you never say 没吃了, because 没 already carries the information that no completion occurred. The 了 is superfluous and wrong. This is a near-universal rule: 没 and post-verb 了 are mutually exclusive.
+没面子	méi miàn zi	to lose face; to be embarrassed; without prestige — To be without face , whether because one has lost it through embarrassing behavior or because one's status is insufficient to command it. 没面子 is the social embarrassment register, distinct from the moral shame of 丢脸.
+闷黄	mèn yuáng	smothering / yellowing — the defining yellow tea step
+米	mǐ	Meter, borrowed onto the rice character purely for sound — Meter, borrowed onto the rice character purely for sound. 一米八 is the shorthand for an enviable height; 百米 is the hundred-meter dash.
+面包	miàn bāo	bread — 面 miàn (flour) + 包 bāo (wrapped, bun). Literally "flour-bun." The general word for bread of the Western loaf type, as distinct from steamed 馒头 mántou.
+面对	miàn duì	to face; to confront; to deal with — 面 (face) + 对 (to face; to be opposite to). Lit. "face-to-face with." To confront a reality, problem, or situation squarely rather than avoiding it. Widely used in motivational, psychological, and journalistic writing.
+面前	miàn qián	in front of; before (someone); in one's presence — 面 miàn (face) + 前 qián (front). The space directly before one's face. Often used figuratively: 在困难面前 "in the face of difficulty," 在事实面前 "before the facts."
+面容	miàn róng	countenance; the face
+面条	miàn tiáo	noodles — The same 面 character. In northern China, 面 = wheat-flour dough → noodles. The flat, surface-like sheet of worked dough becomes strips (条 tiáo = strip). A vivid reminder that 面 means "surface/face" in the most general sense , the flat plane.
+面子工程	miàn zi gōng chéng	Face engineering — Face engineering: infrastructure or projects built primarily for prestige rather than practical need. Empty airports in small cities, oversized government buildings, unnecessary highways: these are classic 面子工程.
+明前茶	míng qián chá	pre-Qingming tea — the highest harvest grade
+命苦	mìng kǔ	hard fate; to have a bitter lot in life
+母	mǔ	mother
+母鸡	mǔ jī	hen — 母 (female) + 鸡 (chicken). The egg-laying hen; a 母鸡下蛋 (the hen lays eggs) is the first farmyard fact every child learns.
+奶牛	nǎi niú	dairy cow
+难	nán	difficult, hard
+嫩豆腐	nèn dòu fu	Silken Tofu
+你吃了吗	nǐ chī le ma	have you eaten? (intimate register)
+年夜饭	nián yè fàn	New Year's Eve reunion dinner — the most important meal of the year — 年 nián (year) + 夜 yè (night/eve) + 饭 fàn (meal). The reunion dinner on New Year's Eve, the sacred center of Spring Festival. Every family member is expected to return home for this meal, regardless of distance.
+鸟	niǎo	bird
+牛逼	niú bī	badass, awesome (vulgar)
+牛角	niú jiǎo	cow horn
+牛奶	niú nǎi	milk (cow's) — 牛 (ox/cow) + 奶 (nǎi, milk/breast). The default word for drinking milk in Mandarin; 奶 alone leans toward breast milk or the act of nursing, so the 牛 makes the source explicit.
+牛年	niú nián	Year of the Ox
+牛排	niú pái	steak — 牛 (ox) + 排 (pái, a slab/cutlet, from 排骨 spare-rib). A Western-style cut of beef cooked as one piece, ordered by doneness the way English orders rare to well-done.
+牛肉	niú ròu	beef — 牛 (ox) + 肉 (ròu, meat). Chinese names meat by its animal, so beef is literally ox-meat, parallel to 猪肉 (zhūròu, pork) and 鸡肉 (jīròu, chicken).
+牛仔	niú zǎi	cowboy
+牛仔裤	niú zǎi kù	jeans — 牛仔 (niúzǎi, cowboy, literally ox-lad) + 裤 (kù, trousers). The denim of the American cowboy, named in Chinese after the herder himself.
+泡茶	pào chá	to brew tea; to steep tea — 泡 pào (to soak; to steep; to foam) + 茶 chá (tea). The everyday verb for making tea. 你喝什么茶？我去泡 "What tea would you like? I'll go steep it." Also: 泡茶时间 steeping time · 第一泡 the first infusion.
+烹饪	pēng rèn	cooking; culinary arts
+皮蛋	pí dàn	century egg, preserved egg — 皮 (pí, skin) + 蛋: a duck egg cured in lime, ash, and salt until the white turns to dark amber jelly and the yolk to creamy green-grey. The leathery surface gives it the "skin" name.
+平面	píng miàn	flat surface; plane; two-dimensional — 平 píng (flat) + 面 miàn (surface; face). A flat surface, and in geometry a plane. Also the modifier in 平面设计 píngmiàn shèjì "graphic design," the flat, two-dimensional kind.
+普洱	Pǔ ěr	Pu'er — the aged, fermented dark tea — Named after Pu'er city, Yunnan , the trading hub of the ancient Tea Horse Road. A post-fermented tea that improves with age like wine; some vintage cakes sell for astronomical sums. The microbial fermentation process (渥堆 wòduī for ripe pu'er) is unique among teas. 生普 shēng pǔ (raw) vs.
+前面	qián miàn	in front; ahead; the front side — 前 qián (front) + 面 miàn (face; surface; side). The most common everyday expression for spatial "in front." Works for physical space (前面有个红绿灯 , there is a traffic light ahead) and for sequential position (前面的章节 , the preceding chapter).
+钱包	qián bāo	wallet; purse — 钱 qián + 包 bāo (bag; to wrap). The wallet, literally the bag for money. In the smartphone era, 钱包 also refers to mobile payment wallets: 电子钱包 diànzǐ qiánbāo = digital wallet. 钱包里没钱 = the wallet is empty (a relatable condition).
+抢单	qiǎng dān	To snatch the bill , to scramble to pay the check at the end of a meal. The 抢单 is a social performance communicating willingness to host and invest in the relationship.
+青菜	qīng cài	green vegetables; leafy greens — 青 qīng (green) + 菜 cài (vegetable). A general word for leafy green vegetables, and in the south the name of a specific small green cabbage. 一盘青菜 "a plate of greens."
+清淡	qīng dàn	Clear and light , the flavor aesthetic of coastal and delta cuisines, particularly Cantonese. Emphasizes the natural flavors of fresh, high-quality ingredients with minimal masking by heavy seasoning. The direct expression of a geography where fresh seafood and produce are excellent and abundant.
+清明节	Qīng míng jié	Tomb-Sweeping Festival
+清水	qīng shuǐ	clear water: plain water
+清汤	qīng tāng	clear soup; clarified stock
+清蒸鱼	qīng zhēng yú	Steamed Fish
+请客	qǐng kè	To treat someone to a meal , to invite and pay — To treat someone to a meal , to invite and pay. 请 means "to invite" or "please"; 客 means "guest." 我请客 (wǒ qǐngkè, "I am treating") declares the host role and closes the question of who pays. The person who says this assumes both the financial obligation and the social prestige of hosting.
+请客吃饭	qǐng kè chī fàn	hosting a meal — baijiu is the host's primary tool
+曲	qū	The fermentation starter — The fermentation starter: dried bricks of grain colonized by mold, yeast, and bacteria, used to initiate fermentation. The composition of the qū is proprietary and is the primary differentiator between producers.
+屈原	Qū Yuán	Qū Yuán (c. 340–278 BCE) — The Chǔ minister-poet whose drowning the festival commemorates. Author of 离骚 Lí Sāo (Encountering Sorrow) and associated poems in the 楚辞 Songs of Chu anthology. The first named author in Chinese literary history whose works survive in substantial quantity.
+全面	quán miàn	comprehensive; all-sided
+劝酒	quàn jiǔ	To urge someone to drink — To urge someone to drink: the act of pressing a guest or colleague to drink more. Can be warm hospitality or unwanted pressure depending on context and relationship.
+缺点	qu ē diǎn	shortcoming
+燃烧	rán shāo	to burn; to combust
+热水	rè shuǐ	hot water — 热 (hot) plus 水 (shuǐ, water). The everyday word for hot water, the staple drink offered to a guest and the cure a Chinese parent prescribes for almost anything.
+人间蒸发	rén jiān zhēng fā	"to evaporate from the human world" — to vanish; to go completely off the grid — 蒸发 (zhēngfā) = to evaporate; to vaporize. A colorful colloquial expression for someone who has completely disappeared from contact , not answering calls, not posting online, impossible to locate. The humor is cosmological: they have not merely left town, they have vacated 人间 entirely.
+忍	rěn	to endure
+肉麻	ròu má	sappy, cloying, cringe-inducing — 肉 (flesh) + 麻 (má, numb, tingling). The skin-crawling feeling of words too sweet or sentimental, the goosebumps of secondhand embarrassment.
+肉松	ròu sōng	meat floss, dried pork floss — 肉 (meat) + 松 (sōng, loose, fluffy). Meat dried and shredded into airy fibers, scattered over porridge or buns.
+肉体	ròu tǐ	the physical body, the flesh — 肉 (flesh) + 体 (tǐ, body). The bodily, corporeal self, set against 精神 (jīngshén, spirit) or 灵魂 (línghún, soul).
+肉眼	ròu yǎn	the naked eye — 肉 (flesh) + 眼 (yǎn, eye). The unaided eye of flesh, as opposed to a telescope or microscope.
+三起三落	sān qǐ sān luò	three risings three fallings — Junshan Yinzhen's display
+三星堆	Sān xīng duī	Sanxingdui bronze site — Sanxingdui , "Three Star Mounds," the Bronze Age archaeological site near Guanghan. The bronze masks, standing figure, and sacred tree uncovered there belong to a culture with no connection to the contemporaneous Shang dynasty. 堆 means "mound" or "pile."
+杀青	shā qīng	killing the green — the heat-fixing step
+山水风光	shān shuǐ fēng guāng	landscape scenery; mountain-and-water vistas — 山水 + 风光 (fēngguāng, scenery; views). The standard tourism and travel-writing phrase. 桂林山水甲天下 (Guìlín shānshuǐ jiǎ tiānxià, "the landscape of Guilin is first under heaven") is one of the most-quoted lines in Chinese tourism , a fixed praise-formula, originally a Song-dynasty poem.
+山水诗	shān shuǐ shī	landscape poetry; the mountain-and-water poem genre — 山水 + 诗 (shī, poem). The poetic genre that parallels the painting genre. Founded in the Six Dynasties period by Xie Lingyun (谢灵运, 385–433) and brought to its high point in the Tang by Wang Wei (王维) and Meng Haoran (孟浩然).
+山水之间	shān shuǐ zhī jiān	amid mountains and waters; in the landscape — A literary phrase widely used in modern essays, song lyrics, and travel writing. 之间 zhī jiān = between; amid. The phrase carries the Daoist resonance of being in the landscape rather than looking at it. Common in tea-house names, hotel names, and book titles aimed at evoking refinement.
+上面	shàng miàn	above; on top; the upper surface — 上 shàng (above; up) + 面 miàn (face; side; surface). The upper side of something; the surface on top; the direction above. In spatial description, 上面 is the default way to say "on top of" or "above." In discourse, 上面 can also mean "what was mentioned above" or "the higher authorities."
+上座	shàng zuò	The seat of honor , the seat facing the door, assigned to the most honored guest. The term literally means "upper seat." Understanding the seating logic around 上座 is a practical necessity at any formal Chinese meal. Equivalent: 主位 zhǔwèi.
+烧香	shāo xiāng	to burn incense, to offer joss sticks — 烧 (to burn) + 香 (incense). The ritual act of lighting incense at a temple, shrine, or grave. A separable verb-object: 烧了一炷香 (shāo le yí zhù xiāng), burned one stick of incense.
+烧鸭	shāo yā	Roast Duck
+烧纸钱	shāo zhǐ qián	burning paper money — offerings for the dead — 烧 shāo (burn) + 纸 zhǐ (paper) + 钱 qián (money). Paper replicas of currency, goods, and , in contemporary practice , smartphones, cars, designer bags, and houses, burned so that the smoke carries them to the deceased in the underworld.
+生抽	shēng chōu	light soy sauce
+食物	shí wù	food — 食 shí (to eat; food) + 物 wù (thing). Food as a category of substance, the general written term: 健康食物 "healthy food." For "a meal" you would say 饭 fàn, and for cooked dishes 菜 cài.
+书面语	shū miàn yǔ	written language
+蔬菜	shū cài	vegetables (collectively) — 蔬 shū (vegetables) + 菜 cài (greens). The formal, category word for vegetables as a food group, the term you see on nutrition labels and in recipes: 多吃蔬菜 "eat more vegetables."
+涮	shuàn	to swish (meat through hot liquid); to shabu
+水果	shuǐ guǒ	fruit
+水磨腔	shuǐ mò qiāng	Water-ground tone , the smooth, polished vocal style developed by Wei Liangfu that defines 昆曲 singing. The metaphor refers to the way stone is ground by water to a perfect smoothness. Characterized by slow tempos, elaborate ornamentation, and seamless melodic flow.
+水墨	shuǐ mò	ink wash; water-and-ink; the classical Chinese painting medium — 水 shuǐ (water) + 墨 mò (ink , a slab of compressed carbon pigment, dissolved in water to create the medium). The classical Chinese painting medium: ink dissolved in varying concentrations of water, applied with a brush to paper or silk to create images through gradations of tone from dark to light.
+水墨画	shuǐ mò huà	ink-wash painting
+水牛	shuǐ niú	water buffalo
+水平	shuǐ píng	level; standard; horizontal; one's degree of proficiency — 水 shuǐ (water) + 平 píng (level; flat; equal). A water surface is perfectly level , the universal measure of flatness and standards. From this physical fact, 水平 became the word for any standard of quality or proficiency.
+水善利万物	shuǐ shàn lì wàn wù	water benefits all things; the Daoist image of yielding
+水袖	shuǐ xiù	Water sleeves — Water sleeves: the long white silk extensions attached to the costume sleeves of major 昆曲 characters.
+四川盆地	Sì chuān Pén dì	the Sichuan Basin — the geography that produced this cuisine's ingredients and intensity — The Sichuan Basin , the large inland depression enclosed by mountains on all sides. 盆 means "basin" or "bowl"; 地 means "land" or "ground." The shape of a basin (四面环山 sì miàn huán shān, "mountains on all four sides") is the defining geographic fact of the region.
+苏菜	Sū cài	Jiangsu Cuisine
+苏式面	Sū shì miàn	Suzhou-Style Noodles
+素食	sù shí	vegetarian food; plain eating
+酸	suān	Acid; sour — Acid; sour. One word covers the chemical class and the taste, plus muscle soreness (腿酸, sore legs) and the sting of envy (心里酸酸的). Chemistry students never forget which taste an acid has.
+随手泡	suí shǒu pào	instant-hot kettle / electric gongfu kettle
+随意	suí yì	As you like, freely, casually , the softer alternative to 干杯 that allows the recipient to drink as much or as little as they wish. Using 随意 rather than 干杯 is a show of consideration, often offered to guests who are known to drink little or who have already flagged a limitation.
+他们是在上海见面的	tā men shì zài Shàng hǎi jiàn miàn de	they met in Shanghai (FOCUS: in Shanghai, not elsewhere) — Both speakers know they met , the question is where. The 在上海 sits between 是 and 见面的, specifying the location of the known meeting. Common in stories, biographical accounts, and conversations about how relationships began.
+汤面	tāng miàn	noodles in soup; noodle soup
+汤药	tāng yào	Decocted herbal medicine — Decocted herbal medicine: herbs simmered in water to produce a strong tea. The traditional and most common form of herbal administration, now competing with granules and capsules for convenience.
+糖醋鲤鱼	táng cù lǐ yú	Sweet-and-Sour Carp
+体面	tǐ miàn	decent; respectable; dignified
+体育馆	tǐ yù guǎn	gymnasium, indoor arena — 体育 tǐyù (physical education, sport) + 馆. The roofed sports hall, as opposed to the open-air 体育场 (chǎng, a field/stadium). The 馆 marks the covered, indoor venue.
+天府之国	tiān fǔ zhī guó	Land of Abundance — Land of Abundance , literally "storehouse of heaven's kingdom." The epithet for the Chengdu Plain and by extension Sichuan, reflecting the agricultural richness produced by the Dujiangyan irrigation system.
+甜	tián	sweet
+痛	tòng	pain, to ache
+痛苦	tòng kǔ	pain, agony, suffering — 痛 (tòng), to ache, joins 苦 (kǔ), bitter, to name suffering felt in body or mind. The most direct word for anguish, it covers physical pain and emotional torment alike.
+图书馆	tú shū guǎn	library — 图 tú (drawing; map; illustration) + 书 shū (book) + 馆 guǎn (hall; building for a function). A building for maps and books. The word 图书 túshū , "illustrated books" , is now the formal term for library holdings in general.
+外面	wài miàn	outside; the outside; outdoors — 外 wài (outside) + 面 miàn (side; surface). The everyday word for the area beyond an enclosed space, or the outer surface of a thing. Its pair is 里面 lǐmiàn (inside).
+萎凋	wěi diāo	withering — the long controlled drying
+味道	wèi dào	taste; flavor
+温饱	wēn bǎo	warmth and food; subsistence — 温 (wēn, warm) + 饱 (fed): warm enough and fed enough, the baseline of a decent life. 温饱 names the threshold of basic livelihood in economic and political language, as in 解决温饱问题 (jiějué wēnbǎo wèntí, to solve the subsistence problem).
+蜗牛	wō niú	snail — 蜗 (wō, the snail's shell, with the 虫 insect radical) + 牛. The little horns of a snail earned it the ox; the word doubles as a byword for anything slow.
+我来帮你 · 他去买菜	wǒ lái bāng nǐ tā qù mǎi cài	I came to help you · he went to buy groceries — 来 and 去 can be followed directly by a verb of purpose: "come/go in order to do [V]." This is structurally simple: 来/去 + verb phrase. The motion establishes the direction; the following verb specifies the purpose of the trip. This is one of the most frequent patterns in everyday speech.
+渥堆	wò duī	wet piling — the accelerated post-fermentation process
+乌龙茶	wū lóng chá	oolong — also begins with a controlled wither
+五味	wǔ wèi	the five flavors — sour, bitter, sweet, pungent, salty — 五 wǔ (five) + 味 wèi (flavor, taste). Sour 酸 suān (Wood/Liver), bitter 苦 kǔ (Fire/Heart), sweet 甘 gān (Earth/Spleen), pungent/spicy 辛 xīn (Metal/Lung), salty 咸 xián (Water/Kidney). Each flavor enters and supports its corresponding organ system in moderate amounts; in excess, it taxes it.
+午	wǔ	noon
+洗茶	xǐ chá	rinsing the tea — the first discard infusion
+下蛋	xià dàn	to lay eggs
+下面	xià miàn	below; underneath; the lower surface; the following — 下 xià (below; under) + 面 miàn (face; side; surface). The underside; what is below. Used for physical position (床下面 = under the bed) and for discourse organization (下面请看 = please see the following).
+下水	xià shuǐ	to enter the water; sewage
+咸蛋	xián dàn	salted egg
+馅儿	xiàn r	Filling — Filling: the stuffing inside the wrapper. The -r suffix is a Beijing-dialect feature that appears frequently in food vocabulary.
+香蕉	xiāng jiāo	banana
+香气	xiāng qì	aroma, sweet smell
+香水	xiāng shuǐ	perfume, cologne — 香 (fragrant) + 水 (water). Literally fragrant water, the modern word for bottled perfume. Measured with 瓶 (píng, bottle) or 滴 (dī, drop).
+香甜	xiāng tián	sweet-smelling and tasty; sound (of sleep) — 香 (fragrant) + 甜 (sweet). Of food, fragrant and sweet at once. By extension, of sleep, deep and contented, the way you sleep after a good meal.
+香味	xiāng wèi	aroma, fragrance, pleasant smell — 香 (fragrant) + 味 (smell, flavor). The scent something gives off, especially of food or flowers. The everyday word for a good aroma.
+香烟	xiāng yān	cigarette — 香 (fragrant) + 烟 (smoke). The everyday word for a cigarette, named for the scented smoke it gives off. Counted with 支 (zhī, stick) or 包 (bāo, pack).
+香皂	xiāng zào	scented soap
+湘菜	Xiāng cài	Hunan Cuisine
+小鸡	xiǎo jī	chick, baby chicken — 小 (xiǎo, small) + 鸡 (chicken). The fluffy yellow chick just out of the shell, a favorite in children's songs and picture books.
+辛	xīn	pungent; laborious
+辛苦	xīn kǔ	hard, toilsome; thanks for your trouble — 辛 (xīn), pungent or laborious, pairs with 苦 (kǔ), bitter, to name effort that wears you down. As a set phrase it doubles as warm thanks: telling someone 辛苦了 acknowledges the toil they just put in for you.
+熊猫	xióng māo	giant panda
+血	xu è	blood
+鸭	yā	duck
+鸭蛋	yā dàn	duck egg; a zero (slang) — 鸭 (yā, duck) + 蛋: a duck egg, larger and richer than a hen's. Among students it means a score of zero, since the round 0 on a test paper looks like an egg sitting there.
+岩韵	yán yùn	rock rhyme — the mineral terroir of Wuyi
+羊	yáng	sheep, goat
+羊肉	yáng ròu	mutton, lamb — 羊 (yáng, sheep/goat) + 肉 (meat). The meat of choice in the northwest, central to hotpot and skewers.
+摇头	yáo tóu	to shake the head
+药食同源	yào shí tóng yuán	food and medicine share an origin
+一杯水	yī bēi shuǐ	a cup / glass of water — 杯 bēi — 杯 bēi (cup, glass) counts liquids held in cups or glasses. The container becomes the classifier. This is the most transparent type: the classifier is the vessel. A large class of classifiers work this way , 碗, 盘, 瓶, 桶, 壶 , each named for the physical container holding the substance.
+一次性筷子	yī cì xìng kuài zi	Disposable chopsticks — Disposable chopsticks: the individually wrapped bamboo or wood pairs given at most restaurants. Billions are used annually; their environmental cost is a topic of ongoing public debate.
+一点儿	yì diǎn r	a little; a bit (neutral, often comparative) — After an adjective, 一点儿 makes a neutral comparison, "a little more X": 大一点儿 (a bit bigger), 快一点儿 (a bit faster), 便宜一点儿 (a little cheaper). After a verb, it means "a little / some": 喝一点儿水 (drink a little water), 说一点儿 (say a bit).
+一面	yī miàn	one side; one surface; (measure) one flat object — 一 yī (one) + 面 miàn (measure word). 面 counts flat, surface-like objects: 一面镜子 (a mirror), 一面墙 (a wall), 一面旗 (a flag). As a noun 一面 also means "one side" of an argument or "one aspect."
+一头牛	yī tóu niú	one cow; a head of cattle — 一 yī (one) + 头 tóu (measure word) + 牛 niú (cow). Here 头 keeps its full tone as the classifier for large livestock: cattle, pigs, sheep, elephants. You count beasts by the head.
+以茶代酒	yǐ chá dài jiǔ	Substitute tea for spirits — Substitute tea for spirits: the accepted formula for toasting without drinking alcohol. The phrase is spoken while raising a cup of tea, acknowledging the substitution explicitly.
+音韵	yīn yùn	Guanyin rhyme — Tieguanyin's signature quality
+饮	yǐn	to drink (literary)
+饮茶	yǐn chá	yum cha; going for dim sum; drinking tea
+饮料	yǐn liào	beverage
+饮食	yǐn shí	diet; food and drink
+窨花	xùn huā	scenting — the process of infusing tea with flower fragrance
+优点	yōu diǎn	strong point; merit; advantage — 优 yōu (excellent) + 点 diǎn (point). A good point, a strength. Its exact opposite is 缺点 quēdiǎn, a shortcoming. Together they are the standard pair for weighing a person, plan, or product.
+有点儿	yǒu diǎn r	a bit; somewhat (often "a bit too…") — Placed before an adjective (or a feeling-verb) to say something is "a bit / somewhat" that way, usually with a tinge of complaint or an unwanted state. 有点儿 + 累 / 冷 / 贵 / 难 = a bit tired / cold / expensive / hard. It describes a current condition the speaker finds slightly undesirable.
+有面子	yǒu miàn zi	to have face; to be prestigious; to feel honored — To possess and display face , to be in a position of recognized prestige or to feel that your standing has been acknowledged or elevated. Certain possessions, positions, and associations give face: luxury goods, titles, famous friends, prestigious education.
+圆桌	yuán zhuō	round table — Round table , the standard configuration for Chinese group dining. 圆 means "round" or "complete"; 桌 means "table." The round form eliminates a linear head seat and places all diners in a radial relationship to the shared dishes at the center.
+院	yuàn	courtyard, institution
+粤菜	yu è cài	Cantonese cuisine — 粤 yuè (Guangdong; Canton) + 菜 cài (cuisine). The cooking of Guangdong, prized for lightness, freshness, and steaming that keeps each ingredient tasting of itself. Dim sum (点心) belongs to this tradition.
+炸鸡	zhá jī	fried chicken — 炸 (zhá, to deep-fry) + 鸡 (chicken). The crisp street-food and fast-food staple, often eaten with 啤酒 (píjiǔ, beer) in the Korean-style 炸鸡啤酒 pairing.
+展览馆	zhǎn lǎng uǎn	exhibition hall — 展览 zhǎnlǎn (to exhibit) + 馆. The hall where exhibitions are mounted, cousin to the 博物馆 but temporary in what it shows.
+蘸	zhàn	To dip, as in dipping a dumpling into sauce (蘸酱 zhàn jiàng) — To dip, as in dipping a dumpling into sauce (蘸酱 zhàn jiàng). The correct word for the motion; 沾 (zhān) is a common error for this usage.
+蘸料	zhàn liào	dipping sauce; the condiment mix
+长江	Cháng Jiāng	the Yangtze River — lit. "the long river" — 长 cháng (long) + 江 jiāng (large river; river south of Huai River). The Yangtze, Asia's longest river at 6,300 km, is simply "the Long River." Compare: 黄河 Huáng Hé (Yellow River) is named for its color; 长江 is named for its length.
+浙菜	Zhè cài	Zhejiang Cuisine
+智者乐水，仁者乐山	zhì zhě lè shuǐ , rén zhě lè shān	the wise take joy in water; the benevolent take joy in mountains — Lúnyǔ 6.23. The locus classicus of the 山水 dyad. 乐 is read lè (to take joy in) here , the older causative/affective reading. The couplet pairs water with 智 (wisdom , adaptive, flowing, responsive) and mountains with 仁 (benevolence , enduring, supporting, still).
+中秋节	Zhōng qiū jié	Mid-Autumn Festival
+钟	zhōng	clock; o'clock
+重点	zhòng diǎn	key point; focus; emphasis; priority — 重 zhòng (heavy; important) + 点 diǎn (point). The heavy point, the part that matters most. 重点大学 "key universities," 划重点 "to mark the key points," the things to underline.
+猪八戒	zhū bā jiè	Zhu Bajie — the pig, comic appetite — A former marshal of Heaven banished into a pig's body for misconduct, ruled by his appetites for food, sleep, and women, lazy, cowardly, and always scheming to abandon the quest. Yet he is also warm, funny, and ultimately faithful.
+猪肉	zhū ròu	pork — 猪 (zhū, pig) + 肉 (meat). The most-eaten meat in China, so common that 肉 alone often means pork by default in recipes.
+主食	zhǔ shí	Staple food — Staple food: the rice, noodles, or dumplings served at the end of a Chinese meal. The late arrival of the staple signals that the banquet was generous enough that no one needed to fill up on carbohydrates.
+煮蛋	zhǔ dàn	boiled egg
+子非鱼，安知鱼之乐？	zǐ fēi yú , ān zhī yú zhī lè ?	You are not a fish — how do you know the happiness of fish? — From 秋水 (Autumn Floods), one of the Outer Chapters. Huizi challenges Zhuangzi's claim that the fish are happy. The exchange is a philosophical demonstration of perspectivism: every claim about the inner states of others is made from outside those states.
+紫砂壶	zǐ shā hú	purple clay teapot — the Yixing treasure
+粽子	zòng zi	rice dumpling wrapped in leaves — Sticky rice dumplings wrapped in bamboo or reed leaves, traditionally triangular or cylindrical. Made with various fillings: red bean paste, salted egg yolk, cured pork. The characteristic food of the Dragon Boat Festival, eaten to commemorate Qu Yuan.
+做菜	zuò cài	to cook; to prepare dishes — 做 zuò (to make) + 菜 cài (dish). To cook, in the sense of making the dishes for a meal. 他很会做菜 "he is a good cook." Its near-neighbor 做饭 zuò fàn frames the same act around the staple rice.
+做饭	zuò fàn	to cook (a meal)
+做青	zuò qīng	working the green — the oxidation control step
