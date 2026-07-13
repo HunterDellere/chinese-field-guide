@@ -297,6 +297,7 @@
 时来运转	shí lái yùn zhuǎn	when the time comes, fortune turns — one's luck changes for the better — Lit: time-comes fortune-turns. Fortune is not fixed; it turns like a wheel. Used when someone's luck dramatically improves after a period of misfortune. The Daoist wheel of fortune encoded in a four-character phrase.
 时势造英雄	shí shì zào yīng xióng	the times produce their heroes — Great figures are made by the conditions of their age, not by innate destiny alone, the circumstances create the opportunity for greatness.
 事不过三	shì bù guò sān	"nothing happens more than three times" — the third time is the last; do not push beyond three — A folk saying rather than a classical text quotation: three is the outer limit of tolerance or recurrence.
+事过境迁	shì guò jìng qiān	the affair has passed and the circumstances have changed — 事 (the matter) 过 (has passed) 境 (circumstances) 迁 (have shifted). Note 过 in its full verbal sense, the same morpheme that grammaticalized into the experiential particle. Used to wave off old grievances: 事过境迁，别再提了 "It's all in the past, don't bring it up again."
 事与愿违	shì yǔ yuàn wéi	things go contrary to ones wishes — Traced to Ruan Ji of the Seven Sages of the Bamboo Grove: a literary formulation of the gap between intention and outcome, resigned rather than accusatory, with no blame assigned.
 是非颠倒	shì fēi diān dǎo	right and wrong turned upside down — moral inversion — Lit: right-wrong-overturned-upended. Used when injustice prevails, when blame is assigned to the innocent, or when someone deliberately distorts moral reality. 他把是非颠倒，让人无法接受。Strong condemnation in formal and classical register.
 是非对错	shì fēi duì cuò	right and wrong, correct and incorrect — the full moral spectrum of a situation — Lit: right-wrong-correct-incorrect. A compound of two pairs: 是非 (right/wrong as a classical pair) and 对错 (correct/incorrect as a modern pair). Used to describe careful moral judgment of a complex situation. 分清是非对错 = "to clearly distinguish right from wrong in the situation."
@@ -392,6 +393,7 @@
 没有	méi yǒu	negation of possession and past action — The two most important negation characters, 不 and 没, and why they cannot be swapped.
 起来	qǐ lái	directional complement: upward, inward, beginning — The most versatile directional complement in Mandarin: three distinct grammatical lives.
 如果…就	rú guǒ jiù	if … then — The foundational conditional frame: the engine of hypothetical reasoning in Mandarin.
+时态	shí tài	past, present, future — Mandarin verbs never change form: time words, 了, 过, 着, 在, and 会 do the work English does with conjugation.
 是…的	shì … de	the cleft construction — Focus and past-detail marking: the construction that trips every learner.
 虽然…但是	suī rán dàn shì	although … but — The concession frame: granting the premise but pivoting to the real point.
 太…了	tài le	too, excessively — The emphatic degree structure: 太…了 expresses excess and strong feeling, from complaints to enthusiastic praise.
@@ -557,6 +559,7 @@
 大慈大悲	dà cí dà bēi	great loving-kindness, great compassion — the full bodhisattva quality — 大 (great) + 慈 (loving-kindness) + 大 (great) + 悲 (compassion). The epithet most closely associated with Guanyin: 大慈大悲观世音菩萨. The reduplication of 大 before each component gives it the character of a liturgical formula.
 大地	dà dì	the great earth; the land
 大都	Dà dū	Dadu (Yuan capital, modern Beijing)
+大多数 · 少数	dà duō shù shǎo shù	the majority · the minority — 大多数 (the great majority) and 少数 (the few) partition a set by proportion: 大多数人都同意 (most people agree), with the majority phrase taking 都 like any near-universal. 少数 appears in the fixed civic vocabulary 少数民族 (minority nationalities, China's official term for its 55 recognized non-Han groups).
 大方	dà fang	generous; natural; poised; not stingy — 大 dà + 方 fāng (square; proper; generous). Having the big-square manner: poised, natural, generous, not petty. Used for both personality (generous with money) and bearing (natural and composed, not awkward). A high compliment in Chinese social contexts.
 大概	dà gài	approximately; probably; roughly — 大 dà (large, rough) + 概 gài (general outline; to level off). A rough outline: approximately, probably. One of the most natural hedges in spoken Mandarin: 大概三点 "around three o'clock."
 大哥	dà gē	eldest brother; big bro — 大 (big) + 哥. Literally the eldest brother in the family. By extension it addresses the leader of a group, the boss of a gang, or any older man you want to flatter into helping you.
@@ -771,6 +774,7 @@
 和谐	hé xié	harmony; harmonious
 荷包蛋	hé bāo dàn	fried egg, poached egg
 很多	hěn duō	a lot; many
+很多 · 不少	hěn duō bù shǎo	many, a lot: plain and understated — 很多 is the everyday "many, a lot": 很多人 (many people), 很多问题 (many questions). 不少, literally "not few", says the same thing through understatement, and often carries a note of mild surprise: 他认识不少人 (he knows quite a few people).
 后方	hòu fāng	the rear; behind the front line — 后 (rear) + 方 (direction; side; region). The military and formal register word for the rear area behind a front line or forward position. Contrasted with 前方 qiánfāng (the front, the forward area). Also used metaphorically for the support structure behind any endeavor: family, logistics, home base.
 后宫	hòu gōng	the imperial harem; the rear palace — 后 (rear; and the empress sense) + 宫 (palace). The residential complex at the back of the imperial enclosure housing the emperor's wives and concubines. The term plays on both senses of 后: the rear palace (spatially, at the back) and the palace of the 后 (the empress and her female hierarchy).
 后来	hòu lái	afterward; later; subsequently — 后 (after) + 来 (to come; to arrive). "What came after" , subsequent events in a narrative or sequence. 后来 always refers to the past relative to a reference point already established: you set the scene, then 后来 picks up the story.
@@ -1441,6 +1445,7 @@
 样板戏	yàng bǎn xì	model operas (sole permitted art form)
 样子	yàng zi	appearance; look; manner; the way it seems — 样 yàng (appearance) + 子 zi (noun-suffix). The look or manner of a person or thing. The idiom 看样子 kàn yàngzi means "from the looks of it." For the toneless suffix 子, see the 子 entry.
 药食同源	yào shí tóng yuán	food and medicine share an origin
+要 · 打算 · 准备	yào dǎ suàn zhǔn bèi	intention and plan: what someone is going to do — 要 before a verb marks intention or imminence: 我要回家 (I'm going home / I want to go home; context decides). 打算 dǎsuàn (to plan) and 准备 zhǔnbèi (to prepare, to be about to) make the plan explicit: 我打算明年去中国 (I plan to go to China next year).
 要是	yào shi	if; supposing (colloquial conditional) — 要 (want/will) + 是 shì (be/this). A colloquial conditional meaning "if; supposing that." Slightly warmer and more personally invested than the neutral 如果 rúguǒ. Implies the speaker has some stake in the condition. Typically paired with 就 jiù in the consequence clause.
 也 , 追加	yě , zhuī jiā	也: one more added to an existing set — 也 always implies that the predicate has already been established for another entity. The sentence using 也 adds one more item. This requires a prior context (explicit or implicit) in which the predicate was already true of someone or something else. 也 cannot start a discourse out of nowhere.
 也好	yě hǎo	that works too; either way is fine
@@ -1464,6 +1469,7 @@
 一同	yì tóng	together (formal)
 一下子	yí xià zi	all at once; suddenly — A related but distinct adverb: 一下子 means "all at once, in one go, suddenly," describing rapid or abrupt change rather than softening a verb: 天一下子黑了 ("the sky went dark all at once"). Do not confuse it with the verb-softening 一下: 看一下 ("have a look") versus 一下子看完了 ("finished reading it in one go").
 一些	yī xiē	some (partitive)
+一些 · 有的 · 有些	yī xiē yǒu de yǒu xiē	some: indefinite vs. some-of-a-set — 一些 introduces an indefinite amount: 我买了一些水果 (I bought some fruit). 有的 and 有些 pick out a subset of a known or generic whole, and they live at the front of the sentence: 有的人喜欢，有的人不喜欢 (some people like it, some don't). The classic restriction: 有的 phrases resist the object position.
 一样	yí yàng	the same; alike; equally — Marks two things as the same. The frame is A 跟 B 一样 (跟 gēn or 和 hé link the two). Add an adjective to compare a specific quality as equal: A 跟 B 一样 + Adj. Negate as A 跟 B 不一样 ("different") or A 跟 B 不一样 + Adj. 一样 alone can also modify a noun: 一样的衣服 ("the same clothes").
 一直	yī zhí	continuously, all along
 一致	yī zhì	unanimous; consistent; in agreement — 一 + 致 zhì (to reach; to arrive at). All arriving at one point. 意见一致 (unanimous opinion), 行动一致 (acting in concert), 保持一致 (maintain consistency). Higher register than 一样 yīyàng , used in formal and official contexts. 众口一致 (everyone speaking with one mouth = unanimous) is a near-chengyu variant.

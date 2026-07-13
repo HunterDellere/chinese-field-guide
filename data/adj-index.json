@@ -187,6 +187,28 @@
     ],
     "hasPage": true
   },
+  "了": {
+    "cn": "了",
+    "py": "le",
+    "en": "change-of-state / sentence-final particle",
+    "count": 13,
+    "appearsOn": [
+      "pages/grammar/ba_particle_吧.html",
+      "pages/grammar/de_的得地.html",
+      "pages/grammar/guo_过.html",
+      "pages/grammar/jieguobuyu_结果补语.html",
+      "pages/grammar/kenengbuyu_可能补语.html",
+      "pages/grammar/liheci_离合词.html",
+      "pages/grammar/shitai_时态.html",
+      "pages/grammar/taiLe_太了.html",
+      "pages/grammar/you_zai_又再.html",
+      "pages/grammar/zai_在.html",
+      "pages/grammar/zhe_particle_呢.html",
+      "pages/grammar/zhe_着.html",
+      "pages/vocab/zhengzai_正在.html"
+    ],
+    "hasPage": true
+  },
   "气": {
     "cn": "气",
     "py": "qì",
@@ -227,27 +249,6 @@
       "pages/vocab/daode_道德.html",
       "pages/vocab/lunyu_论语.html",
       "pages/vocab/ren2_仁.html"
-    ],
-    "hasPage": true
-  },
-  "了": {
-    "cn": "了",
-    "py": "le",
-    "en": "change-of-state / sentence-final particle",
-    "count": 12,
-    "appearsOn": [
-      "pages/grammar/ba_particle_吧.html",
-      "pages/grammar/de_的得地.html",
-      "pages/grammar/guo_过.html",
-      "pages/grammar/jieguobuyu_结果补语.html",
-      "pages/grammar/kenengbuyu_可能补语.html",
-      "pages/grammar/liheci_离合词.html",
-      "pages/grammar/taiLe_太了.html",
-      "pages/grammar/you_zai_又再.html",
-      "pages/grammar/zai_在.html",
-      "pages/grammar/zhe_particle_呢.html",
-      "pages/grammar/zhe_着.html",
-      "pages/vocab/zhengzai_正在.html"
     ],
     "hasPage": true
   },
@@ -672,6 +673,24 @@
     ],
     "hasPage": true
   },
+  "过": {
+    "cn": "过",
+    "py": "guò",
+    "en": "to pass; to cross (everyday)",
+    "count": 9,
+    "appearsOn": [
+      "pages/characters/kua4_跨.html",
+      "pages/characters/tong1_通.html",
+      "pages/characters/yue4_越.html",
+      "pages/grammar/de_的得地.html",
+      "pages/grammar/le_了.html",
+      "pages/grammar/liheci_离合词.html",
+      "pages/grammar/shitai_时态.html",
+      "pages/grammar/zhe_着.html",
+      "pages/vocab/zhengzai_正在.html"
+    ],
+    "hasPage": true
+  },
   "汉字": {
     "cn": "汉字",
     "py": "Hànzì",
@@ -708,6 +727,24 @@
     ],
     "hasPage": true
   },
+  "没有": {
+    "cn": "没有",
+    "py": "méiyǒu",
+    "en": "don't have; didn't (past neg.)",
+    "count": 9,
+    "appearsOn": [
+      "pages/characters/bu4_不.html",
+      "pages/characters/wu2_无.html",
+      "pages/characters/you3_有.html",
+      "pages/grammar/dou_都.html",
+      "pages/grammar/le_了.html",
+      "pages/grammar/ma_吗.html",
+      "pages/grammar/shitai_时态.html",
+      "pages/grammar/yiyang_xiang_一样像.html",
+      "pages/grammar/zhengfan_正反问.html"
+    ],
+    "hasPage": true
+  },
   "呢": {
     "cn": "呢",
     "py": "ne",
@@ -722,6 +759,24 @@
       "pages/grammar/zhe_particle_嘛.html",
       "pages/grammar/zhe_着.html",
       "pages/grammar/zhengfan_正反问.html",
+      "pages/vocab/zhengzai_正在.html"
+    ],
+    "hasPage": true
+  },
+  "时间": {
+    "cn": "时间",
+    "py": "shíjiān",
+    "en": "time; duration",
+    "count": 9,
+    "appearsOn": [
+      "pages/characters/hou4_候.html",
+      "pages/characters/jian1_间.html",
+      "pages/characters/li4_历.html",
+      "pages/characters/shi2_时.html",
+      "pages/characters/yin1_阴.html",
+      "pages/grammar/shitai_时态.html",
+      "pages/vocab/shihou_时候.html",
+      "pages/vocab/yihuir_一会儿.html",
       "pages/vocab/zhengzai_正在.html"
     ],
     "hasPage": true
@@ -759,6 +814,24 @@
       "pages/vocab/junzi_君子.html",
       "pages/vocab/ren2_仁.html",
       "pages/vocab/yi4_义.html"
+    ],
+    "hasPage": true
+  },
+  "着": {
+    "cn": "着",
+    "py": "zhe",
+    "en": "ongoing state aspect marker",
+    "count": 9,
+    "appearsOn": [
+      "pages/characters/zai4_在.html",
+      "pages/grammar/de_的得地.html",
+      "pages/grammar/guo_过.html",
+      "pages/grammar/kenengbuyu_可能补语.html",
+      "pages/grammar/le_了.html",
+      "pages/grammar/shitai_时态.html",
+      "pages/grammar/zai_在.html",
+      "pages/grammar/zhe_particle_呢.html",
+      "pages/vocab/zhengzai_正在.html"
     ],
     "hasPage": true
   },
@@ -831,23 +904,6 @@
     ],
     "hasPage": true
   },
-  "过": {
-    "cn": "过",
-    "py": "guò",
-    "en": "to pass; to cross (everyday)",
-    "count": 8,
-    "appearsOn": [
-      "pages/characters/kua4_跨.html",
-      "pages/characters/tong1_通.html",
-      "pages/characters/yue4_越.html",
-      "pages/grammar/de_的得地.html",
-      "pages/grammar/le_了.html",
-      "pages/grammar/liheci_离合词.html",
-      "pages/grammar/zhe_着.html",
-      "pages/vocab/zhengzai_正在.html"
-    ],
-    "hasPage": true
-  },
   "节气": {
     "cn": "节气",
     "py": "jiéqì",
@@ -879,23 +935,6 @@
       "pages/culinary/topic_tisanes.html",
       "pages/culinary/topic_wulong.html",
       "pages/grammar/zhe_particle_呢.html"
-    ],
-    "hasPage": true
-  },
-  "没有": {
-    "cn": "没有",
-    "py": "méiyǒu",
-    "en": "don't have; didn't (past neg.)",
-    "count": 8,
-    "appearsOn": [
-      "pages/characters/bu4_不.html",
-      "pages/characters/wu2_无.html",
-      "pages/characters/you3_有.html",
-      "pages/grammar/dou_都.html",
-      "pages/grammar/le_了.html",
-      "pages/grammar/ma_吗.html",
-      "pages/grammar/yiyang_xiang_一样像.html",
-      "pages/grammar/zhengfan_正反问.html"
     ],
     "hasPage": true
   },
@@ -933,20 +972,20 @@
     ],
     "hasPage": true
   },
-  "时间": {
-    "cn": "时间",
-    "py": "shíjiān",
-    "en": "time; duration",
+  "时候": {
+    "cn": "时候",
+    "py": "shíhou",
+    "en": "time; when",
     "count": 8,
     "appearsOn": [
       "pages/characters/hou4_候.html",
       "pages/characters/jian1_间.html",
-      "pages/characters/li4_历.html",
       "pages/characters/shi2_时.html",
-      "pages/characters/yin1_阴.html",
-      "pages/vocab/shihou_时候.html",
-      "pages/vocab/yihuir_一会儿.html",
-      "pages/vocab/zhengzai_正在.html"
+      "pages/grammar/shitai_时态.html",
+      "pages/grammar/zai_在.html",
+      "pages/vocab/shidai_时代.html",
+      "pages/vocab/shijian_时间.html",
+      "pages/vocab/xianzai_现在.html"
     ],
     "hasPage": true
   },
@@ -984,6 +1023,23 @@
     ],
     "hasPage": true
   },
+  "已经": {
+    "cn": "已经",
+    "py": "yǐjīng",
+    "en": "already",
+    "count": 8,
+    "appearsOn": [
+      "pages/characters/ji3_己.html",
+      "pages/characters/jing1_经.html",
+      "pages/grammar/dou_都.html",
+      "pages/grammar/hai_还.html",
+      "pages/grammar/jiu_cai_就才.html",
+      "pages/grammar/le_了.html",
+      "pages/grammar/shitai_时态.html",
+      "pages/grammar/you_zai_又再.html"
+    ],
+    "hasPage": true
+  },
   "音乐": {
     "cn": "音乐",
     "py": "yīnyuè",
@@ -1015,23 +1071,6 @@
       "pages/grammar/keneng_可能.html",
       "pages/vocab/bixu_必须.html",
       "pages/vocab/yiding_一定.html"
-    ],
-    "hasPage": true
-  },
-  "着": {
-    "cn": "着",
-    "py": "zhe",
-    "en": "ongoing state aspect marker",
-    "count": 8,
-    "appearsOn": [
-      "pages/characters/zai4_在.html",
-      "pages/grammar/de_的得地.html",
-      "pages/grammar/guo_过.html",
-      "pages/grammar/kenengbuyu_可能补语.html",
-      "pages/grammar/le_了.html",
-      "pages/grammar/zai_在.html",
-      "pages/grammar/zhe_particle_呢.html",
-      "pages/vocab/zhengzai_正在.html"
     ],
     "hasPage": true
   },
@@ -1176,6 +1215,22 @@
       "pages/characters/yu4_玉.html",
       "pages/chengyu/junzibugui_君子不器.html",
       "pages/philosophy/topic_daodejing.html"
+    ],
+    "hasPage": true
+  },
+  "都": {
+    "cn": "都",
+    "py": "dōu",
+    "en": "all; even (in 连...都)",
+    "count": 7,
+    "appearsOn": [
+      "pages/characters/lian2_连.html",
+      "pages/characters/ye3_也.html",
+      "pages/grammar/dou_mei_suoyou_都每所有.html",
+      "pages/grammar/haishi_huozhe_还是或者.html",
+      "pages/grammar/jiu_cai_就才.html",
+      "pages/grammar/le_了.html",
+      "pages/grammar/lian_dou_连都.html"
     ],
     "hasPage": true
   },
@@ -1387,22 +1442,6 @@
     ],
     "hasPage": true
   },
-  "时候": {
-    "cn": "时候",
-    "py": "shíhou",
-    "en": "time; when",
-    "count": 7,
-    "appearsOn": [
-      "pages/characters/hou4_候.html",
-      "pages/characters/jian1_间.html",
-      "pages/characters/shi2_时.html",
-      "pages/grammar/zai_在.html",
-      "pages/vocab/shidai_时代.html",
-      "pages/vocab/shijian_时间.html",
-      "pages/vocab/xianzai_现在.html"
-    ],
-    "hasPage": true
-  },
   "天下": {
     "cn": "天下",
     "py": "tiānxià",
@@ -1435,22 +1474,6 @@
     ],
     "hasPage": true
   },
-  "已经": {
-    "cn": "已经",
-    "py": "yǐjīng",
-    "en": "already",
-    "count": 7,
-    "appearsOn": [
-      "pages/characters/ji3_己.html",
-      "pages/characters/jing1_经.html",
-      "pages/grammar/dou_都.html",
-      "pages/grammar/hai_还.html",
-      "pages/grammar/jiu_cai_就才.html",
-      "pages/grammar/le_了.html",
-      "pages/grammar/you_zai_又再.html"
-    ],
-    "hasPage": true
-  },
   "雨": {
     "cn": "雨",
     "py": "yǔ",
@@ -1480,6 +1503,22 @@
       "pages/vocab/mingyun_命运.html",
       "pages/vocab/tianming_天命.html",
       "pages/vocab/yuanfen_缘分.html"
+    ],
+    "hasPage": true
+  },
+  "在": {
+    "cn": "在",
+    "py": "zài",
+    "en": "at; in (spoken locative)",
+    "count": 7,
+    "appearsOn": [
+      "pages/characters/yu2_于.html",
+      "pages/grammar/guo_过.html",
+      "pages/grammar/shitai_时态.html",
+      "pages/grammar/yibian_yibian_一边一边.html",
+      "pages/grammar/zhe_particle_呢.html",
+      "pages/grammar/zhe_着.html",
+      "pages/vocab/zhengzai_正在.html"
     ],
     "hasPage": true
   },
@@ -1631,21 +1670,6 @@
       "pages/hsk/hsk-5.html",
       "pages/hsk/hsk-6.html",
       "pages/hsk/hsk-7-9.html"
-    ],
-    "hasPage": true
-  },
-  "都": {
-    "cn": "都",
-    "py": "dōu",
-    "en": "all; even (in 连...都)",
-    "count": 6,
-    "appearsOn": [
-      "pages/characters/lian2_连.html",
-      "pages/characters/ye3_也.html",
-      "pages/grammar/haishi_huozhe_还是或者.html",
-      "pages/grammar/jiu_cai_就才.html",
-      "pages/grammar/le_了.html",
-      "pages/grammar/lian_dou_连都.html"
     ],
     "hasPage": true
   },
@@ -1811,6 +1835,21 @@
       "pages/vocab/qianxu_谦虚.html",
       "pages/vocab/wenming_文明.html",
       "pages/vocab/xiaoren_小人.html"
+    ],
+    "hasPage": true
+  },
+  "量词": {
+    "cn": "量词",
+    "py": "liàngcí",
+    "en": "measure words; classifiers",
+    "count": 6,
+    "appearsOn": [
+      "pages/characters/er4_二.html",
+      "pages/characters/liang3_两.html",
+      "pages/characters/liang4_量.html",
+      "pages/grammar/de_的得地.html",
+      "pages/grammar/dou_mei_suoyou_都每所有.html",
+      "pages/grammar/liheci_离合词.html"
     ],
     "hasPage": true
   },
@@ -2009,18 +2048,18 @@
     ],
     "hasPage": true
   },
-  "在": {
-    "cn": "在",
-    "py": "zài",
-    "en": "at; in (spoken locative)",
+  "正在": {
+    "cn": "正在",
+    "py": "zhèngzài",
+    "en": "right in the middle of (emphatic progressive)",
     "count": 6,
     "appearsOn": [
-      "pages/characters/yu2_于.html",
-      "pages/grammar/guo_过.html",
-      "pages/grammar/yibian_yibian_一边一边.html",
+      "pages/characters/zai4_在.html",
+      "pages/characters/zheng4_正.html",
+      "pages/grammar/shitai_时态.html",
+      "pages/grammar/zai_在.html",
       "pages/grammar/zhe_particle_呢.html",
-      "pages/grammar/zhe_着.html",
-      "pages/vocab/zhengzai_正在.html"
+      "pages/grammar/zhe_着.html"
     ],
     "hasPage": true
   },
@@ -2616,20 +2655,6 @@
     ],
     "hasPage": true
   },
-  "量词": {
-    "cn": "量词",
-    "py": "liàngcí",
-    "en": "measure words; classifiers",
-    "count": 5,
-    "appearsOn": [
-      "pages/characters/er4_二.html",
-      "pages/characters/liang3_两.html",
-      "pages/characters/liang4_量.html",
-      "pages/grammar/de_的得地.html",
-      "pages/grammar/liheci_离合词.html"
-    ],
-    "hasPage": true
-  },
   "路": {
     "cn": "路",
     "py": "lù",
@@ -3021,6 +3046,20 @@
     ],
     "hasPage": true
   },
+  "也": {
+    "cn": "也",
+    "py": "yě",
+    "en": "also; not even (in negatives)",
+    "count": 5,
+    "appearsOn": [
+      "pages/grammar/dou_mei_suoyou_都每所有.html",
+      "pages/grammar/dou_都.html",
+      "pages/grammar/erqie_而且.html",
+      "pages/grammar/hai_还.html",
+      "pages/grammar/lian_dou_连都.html"
+    ],
+    "hasPage": true
+  },
   "意思": {
     "cn": "意思",
     "py": "yìsi",
@@ -3088,20 +3127,6 @@
       "pages/grammar/shide_是的.html",
       "pages/grammar/weishenme_为什么.html",
       "pages/grammar/zhengfan_正反问.html"
-    ],
-    "hasPage": true
-  },
-  "正在": {
-    "cn": "正在",
-    "py": "zhèngzài",
-    "en": "right in the middle of (emphatic progressive)",
-    "count": 5,
-    "appearsOn": [
-      "pages/characters/zai4_在.html",
-      "pages/characters/zheng4_正.html",
-      "pages/grammar/zai_在.html",
-      "pages/grammar/zhe_particle_呢.html",
-      "pages/grammar/zhe_着.html"
     ],
     "hasPage": true
   },
@@ -3315,6 +3340,19 @@
     ],
     "hasPage": true
   },
+  "多少": {
+    "cn": "多少",
+    "py": "duōshao",
+    "en": "how many/much",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/duo1_多.html",
+      "pages/daily/topic_shuzi_xitong.html",
+      "pages/grammar/dou_mei_suoyou_都每所有.html",
+      "pages/grammar/liangci_量词.html"
+    ],
+    "hasPage": true
+  },
   "耳": {
     "cn": "耳",
     "py": "ěr",
@@ -3366,6 +3404,19 @@
       "pages/vocab/zuxian_祖先.html"
     ],
     "hasPage": false
+  },
+  "刚": {
+    "cn": "刚",
+    "py": "gāng",
+    "en": "just (recently)",
+    "count": 4,
+    "appearsOn": [
+      "pages/grammar/le_了.html",
+      "pages/grammar/shitai_时态.html",
+      "pages/grammar/you_zai_又再.html",
+      "pages/vocab/zhengzai_正在.html"
+    ],
+    "hasPage": true
   },
   "高": {
     "cn": "高",
@@ -3548,6 +3599,19 @@
       "pages/vocab/zhidao_知道.html"
     ],
     "hasPage": true
+  },
+  "几": {
+    "cn": "几",
+    "py": "jǐ",
+    "en": "how many / a few",
+    "count": 4,
+    "appearsOn": [
+      "pages/daily/topic_shuzi_xitong.html",
+      "pages/grammar/dou_mei_suoyou_都每所有.html",
+      "pages/grammar/liangci_量词.html",
+      "pages/vocab/duoshao_多少.html"
+    ],
+    "hasPage": false
   },
   "江山": {
     "cn": "江山",
@@ -4212,6 +4276,19 @@
     ],
     "hasPage": true
   },
+  "现在": {
+    "cn": "现在",
+    "py": "xiànzài",
+    "en": "now",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/xian4_现.html",
+      "pages/grammar/shitai_时态.html",
+      "pages/vocab/shihou_时候.html",
+      "pages/vocab/xiandai_现代.html"
+    ],
+    "hasPage": true
+  },
   "心经": {
     "cn": "心经",
     "py": "Xīnjīng",
@@ -4313,19 +4390,6 @@
       "pages/grammar/hui_neng_keyi_会能可以.html",
       "pages/grammar/yinggai_应该.html",
       "pages/vocab/bixu_必须.html"
-    ],
-    "hasPage": true
-  },
-  "也": {
-    "cn": "也",
-    "py": "yě",
-    "en": "also; too (additive)",
-    "count": 4,
-    "appearsOn": [
-      "pages/grammar/dou_都.html",
-      "pages/grammar/erqie_而且.html",
-      "pages/grammar/hai_还.html",
-      "pages/grammar/lian_dou_连都.html"
     ],
     "hasPage": true
   },
@@ -4828,6 +4892,18 @@
     ],
     "hasPage": false
   },
+  "除了": {
+    "cn": "除了",
+    "py": "chúle",
+    "en": "except; besides",
+    "count": 3,
+    "appearsOn": [
+      "pages/grammar/dou_mei_suoyou_都每所有.html",
+      "pages/grammar/dou_都.html",
+      "pages/grammar/hai_还.html"
+    ],
+    "hasPage": true
+  },
   "穿越": {
     "cn": "穿越",
     "py": "chuānyuè",
@@ -4945,18 +5021,6 @@
       "pages/hubs/dynasties.html",
       "pages/hubs/hanyu.html",
       "pages/hubs/hanzi.html"
-    ],
-    "hasPage": true
-  },
-  "多少": {
-    "cn": "多少",
-    "py": "duōshao",
-    "en": "how many/much",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/duo1_多.html",
-      "pages/daily/topic_shuzi_xitong.html",
-      "pages/grammar/liangci_量词.html"
     ],
     "hasPage": true
   },
@@ -5080,18 +5144,6 @@
     ],
     "hasPage": true
   },
-  "刚": {
-    "cn": "刚",
-    "py": "gāng",
-    "en": "just (recently)",
-    "count": 3,
-    "appearsOn": [
-      "pages/grammar/le_了.html",
-      "pages/grammar/you_zai_又再.html",
-      "pages/vocab/zhengzai_正在.html"
-    ],
-    "hasPage": true
-  },
   "个人": {
     "cn": "个人",
     "py": "gèrén",
@@ -5101,6 +5153,18 @@
       "pages/characters/ge4_个.html",
       "pages/characters/ren2_人.html",
       "pages/vocab/shehui_社会.html"
+    ],
+    "hasPage": false
+  },
+  "各": {
+    "cn": "各",
+    "py": "gè",
+    "en": "each; every (distributive)",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/bai3_百.html",
+      "pages/grammar/dou_mei_suoyou_都每所有.html",
+      "pages/grammar/liangci_量词.html"
     ],
     "hasPage": false
   },
@@ -5368,18 +5432,6 @@
     ],
     "hasPage": false
   },
-  "几": {
-    "cn": "几",
-    "py": "jǐ",
-    "en": "how many / a few",
-    "count": 3,
-    "appearsOn": [
-      "pages/daily/topic_shuzi_xitong.html",
-      "pages/grammar/liangci_量词.html",
-      "pages/vocab/duoshao_多少.html"
-    ],
-    "hasPage": false
-  },
   "记忆": {
     "cn": "记忆",
     "py": "jìyì",
@@ -5451,6 +5503,18 @@
       "pages/vocab/wenhua_文化.html"
     ],
     "hasPage": true
+  },
+  "将来": {
+    "cn": "将来",
+    "py": "jiānglái",
+    "en": "the future; in the future",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/lai2_来.html",
+      "pages/characters/xian4_现.html",
+      "pages/grammar/shitai_时态.html"
+    ],
+    "hasPage": false
   },
   "叫": {
     "cn": "叫",
@@ -6711,18 +6775,6 @@
     ],
     "hasPage": false
   },
-  "现在": {
-    "cn": "现在",
-    "py": "xiànzài",
-    "en": "now",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/xian4_现.html",
-      "pages/vocab/shihou_时候.html",
-      "pages/vocab/xiandai_现代.html"
-    ],
-    "hasPage": true
-  },
   "香港": {
     "cn": "香港",
     "py": "Xiānggǎng",
@@ -6926,6 +6978,18 @@
       "pages/grammar/zhe_着.html"
     ],
     "hasPage": true
+  },
+  "一点儿": {
+    "cn": "一点儿",
+    "py": "yìdiǎnr",
+    "en": "a little",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/dian3_点.html",
+      "pages/grammar/dou_mei_suoyou_都每所有.html",
+      "pages/grammar/yixia_一下.html"
+    ],
+    "hasPage": false
   },
   "一定": {
     "cn": "一定",
@@ -7899,17 +7963,6 @@
     ],
     "hasPage": false
   },
-  "除了": {
-    "cn": "除了",
-    "py": "chúle",
-    "en": "except; besides (pairs with 都 in 'all except' frame)",
-    "count": 2,
-    "appearsOn": [
-      "pages/grammar/dou_都.html",
-      "pages/grammar/hai_还.html"
-    ],
-    "hasPage": true
-  },
   "楚辞": {
     "cn": "楚辞",
     "py": "Chǔ Cí",
@@ -8712,17 +8765,6 @@
     ],
     "hasPage": false
   },
-  "各": {
-    "cn": "各",
-    "py": "gè",
-    "en": "each; every (distributive)",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/bai3_百.html",
-      "pages/grammar/liangci_量词.html"
-    ],
-    "hasPage": false
-  },
   "根": {
     "cn": "根",
     "py": "gēn",
@@ -9446,17 +9488,6 @@
     "appearsOn": [
       "pages/characters/bing4_病.html",
       "pages/characters/ti3_体.html"
-    ],
-    "hasPage": false
-  },
-  "将来": {
-    "cn": "将来",
-    "py": "jiānglái",
-    "en": "the future; in the future",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/lai2_来.html",
-      "pages/characters/xian4_现.html"
     ],
     "hasPage": false
   },
@@ -11385,6 +11416,17 @@
     ],
     "hasPage": false
   },
+  "数词": {
+    "cn": "数词",
+    "py": "shùcí",
+    "en": "numeral",
+    "count": 2,
+    "appearsOn": [
+      "pages/grammar/dou_mei_suoyou_都每所有.html",
+      "pages/grammar/liangci_量词.html"
+    ],
+    "hasPage": false
+  },
   "双": {
     "cn": "双",
     "py": "shuāng",
@@ -12067,6 +12109,17 @@
     ],
     "hasPage": false
   },
+  "无数": {
+    "cn": "无数",
+    "py": "wúshù",
+    "en": "countless; innumerable",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/wan4_万.html",
+      "pages/grammar/dou_mei_suoyou_都每所有.html"
+    ],
+    "hasPage": false
+  },
   "无所谓": {
     "cn": "无所谓",
     "py": "wúsuǒwèi",
@@ -12559,17 +12612,6 @@
       "pages/philosophy/topic_zhengming.html"
     ],
     "hasPage": true
-  },
-  "一点儿": {
-    "cn": "一点儿",
-    "py": "yìdiǎnr",
-    "en": "a little",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/dian3_点.html",
-      "pages/grammar/yixia_一下.html"
-    ],
-    "hasPage": false
   },
   "一共": {
     "cn": "一共",
@@ -13360,6 +13402,17 @@
     "appearsOn": [
       "pages/vocab/li3_礼.html",
       "pages/vocab/limao_礼貌.html"
+    ],
+    "hasPage": false
+  },
+  "昨天": {
+    "cn": "昨天",
+    "py": "zuótiān",
+    "en": "yesterday",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/ming2_明.html",
+      "pages/grammar/shitai_时态.html"
     ],
     "hasPage": false
   },
@@ -24138,6 +24191,16 @@
     ],
     "hasPage": false
   },
+  "连……都": {
+    "cn": "连……都",
+    "py": "lián … dōu",
+    "en": "even (scalar 都)",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/dou_mei_suoyou_都每所有.html"
+    ],
+    "hasPage": false
+  },
   "连…都不/没": {
     "cn": "连…都不/没",
     "py": "lián…dōu bù/méi",
@@ -25515,6 +25578,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/deng1_灯.html"
+    ],
+    "hasPage": false
+  },
+  "明天": {
+    "cn": "明天",
+    "py": "míngtiān",
+    "en": "tomorrow",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/shitai_时态.html"
     ],
     "hasPage": false
   },
@@ -27918,6 +27991,16 @@
     ],
     "hasPage": false
   },
+  "任何": {
+    "cn": "任何",
+    "py": "rènhé",
+    "en": "any whatsoever",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/dou_mei_suoyou_都每所有.html"
+    ],
+    "hasPage": false
+  },
   "日本": {
     "cn": "日本",
     "py": "Rìběn",
@@ -29615,16 +29698,6 @@
     "count": 1,
     "appearsOn": [
       "pages/religion/topic_rujia.html"
-    ],
-    "hasPage": false
-  },
-  "数词": {
-    "cn": "数词",
-    "py": "shùcí",
-    "en": "numeral",
-    "count": 1,
-    "appearsOn": [
-      "pages/grammar/liangci_量词.html"
     ],
     "hasPage": false
   },
@@ -31735,16 +31808,6 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/wu2_无.html"
-    ],
-    "hasPage": false
-  },
-  "无数": {
-    "cn": "无数",
-    "py": "wúshù",
-    "en": "countless; innumerable",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/wan4_万.html"
     ],
     "hasPage": false
   },
@@ -37435,16 +37498,6 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/mianzi_面子.html"
-    ],
-    "hasPage": false
-  },
-  "昨天": {
-    "cn": "昨天",
-    "py": "zuótiān",
-    "en": "yesterday",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/ming2_明.html"
     ],
     "hasPage": false
   },

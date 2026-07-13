@@ -8,6 +8,7 @@
 得	de	the degree complement — The bridge between action and result: how 得 links what you did to how well you did it.
 的	de / dé / dì	得 · 地 · the three de's — Attribution, result complement, and adverbial marker: distinguished once and for all.
 的话	de huà	if; in the case that — The soft conditional: how 的话 marks a premise without committing to it.
+都	dōu / měi / suǒ yǒu	每 · 所有 · quantifiers — All, every, some, many, none: 都 carries the whole system, and the other quantifiers lean on it.
 都	dōu	all, both, even: the universal scope adverb — The adverb that quantifies everything before it, not after, and whose position in a sentence determines whether you mean "none" or "not all."
 对	duì	toward, regarding, correct — A preposition, adjective, and verb rolled into one: 对 introduces the object of an action, asserts correctness, and forms the backbone of Chinese directional expressions.
 多少 / 几	duō shao / jǐ	how many, how much — The two question words for quantity: 几 for small countable numbers and 多少 for larger or unknown amounts, why 几 needs a measure word and 多少 may skip it, and how to ask prices and ages.
@@ -37,6 +38,7 @@
 起来	qǐ lái	directional complement: upward, inward, beginning — The most versatile directional complement in Mandarin: three distinct grammatical lives.
 让	ràng	causative and permission structure — One verb, two functions: 让 makes someone do something, and lets someone do something. The core Chinese causative and permissive structure.
 如果…就	rú guǒ jiù	if … then — The foundational conditional frame: the engine of hypothetical reasoning in Mandarin.
+时态	shí tài	past, present, future — Mandarin verbs never change form: time words, 了, 过, 着, 在, and 会 do the work English does with conjugation.
 是…的	shì … de	the cleft construction — Focus and past-detail marking: the construction that trips every learner.
 虽然…但是	suī rán dàn shì	although … but — The concession frame: granting the premise but pivoting to the real point.
 所	suǒ	classical nominalizer and passive marker — The function word that turns verbs into noun phrases, and has been doing so since Confucius quoted it in the Analects.

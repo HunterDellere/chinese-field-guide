@@ -6,7 +6,23 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A reading nook for Chinese language and civilisation. Characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Jul 2026 16:53:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 05:27:42 GMT</lastBuildDate>
+    <item>
+      <title>都 · 每 · 所有 · quantifiers</title>
+      <link>https://jiaoshoo.com/pages/grammar/dou_mei_suoyou_都每所有.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/grammar/dou_mei_suoyou_都每所有.html</guid>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
+      <description>All, every, some, many, none: 都 carries the whole system, and the other quantifiers lean on it.</description>
+      <category>grammar</category>
+    </item>
+    <item>
+      <title>时态 · past, present, future</title>
+      <link>https://jiaoshoo.com/pages/grammar/shitai_时态.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/grammar/shitai_时态.html</guid>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
+      <description>Mandarin verbs never change form: time words, 了, 过, 着, 在, and 会 do the work English does with conjugation.</description>
+      <category>grammar</category>
+    </item>
     <item>
       <title>古琴 · the scholar&apos;s zither</title>
       <link>https://jiaoshoo.com/pages/arts/topic_guqin.html</link>
@@ -229,22 +245,6 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/daily/topic_duliangheng.html</guid>
       <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
       <description>Fruit is priced by the half-kilo 斤, distance walks in 里, and an idiom about six of one and half a dozen still counts in base sixteen.</description>
-      <category>daily</category>
-    </item>
-    <item>
-      <title>看病 · Seeing a Doctor</title>
-      <link>https://jiaoshoo.com/pages/daily/topic_kanbing.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/daily/topic_kanbing.html</guid>
-      <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
-      <description>Getting sick in Chinese starts with a queue number, runs on the verb &quot;look,&quot; and ends with the eternal prescription: drink more hot water.</description>
-      <category>daily</category>
-    </item>
-    <item>
-      <title>生意 · Doing Business</title>
-      <link>https://jiaoshoo.com/pages/daily/topic_shengyi.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/daily/topic_shengyi.html</guid>
-      <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
-      <description>Business in Chinese is literally &quot;the meaning of life,&quot; merchants are named after a fallen dynasty, and the deal closes at the dinner table.</description>
       <category>daily</category>
     </item>
   </channel>

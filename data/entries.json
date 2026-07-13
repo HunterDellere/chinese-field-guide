@@ -1,5 +1,35 @@
 [
   {
+    "path": "pages/grammar/dou_mei_suoyou_都每所有.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "都 · 每 · 所有 · quantifiers",
+    "desc": "All, every, some, many, none: 都 carries the whole system, and the other quantifiers lean on it.",
+    "tags": [
+      "quantifiers",
+      "adverb",
+      "numbers"
+    ],
+    "status": "complete",
+    "pinyin": "dōu / měi / suǒyǒu",
+    "updated": "2026-07-13"
+  },
+  {
+    "path": "pages/grammar/shitai_时态.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "时态 · past, present, future",
+    "desc": "Mandarin verbs never change form: time words, 了, 过, 着, 在, and 会 do the work English does with conjugation.",
+    "tags": [
+      "tense",
+      "aspect",
+      "time"
+    ],
+    "status": "complete",
+    "pinyin": "shítài",
+    "updated": "2026-07-13"
+  },
+  {
     "path": "pages/arts/topic_guqin.html",
     "type": "topic",
     "category": "arts",

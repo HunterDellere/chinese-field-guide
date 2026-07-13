@@ -305,5 +305,6 @@
   {"slug": "business",          "label": "Business"},
   {"slug": "physics",           "label": "Physics"},
   {"slug": "chemistry",         "label": "Chemistry"},
-  {"slug": "astronomy",         "label": "Astronomy"}
+  {"slug": "astronomy",         "label": "Astronomy"},
+  {"slug": "quantifiers",       "label": "Quantifiers"}
 ]
