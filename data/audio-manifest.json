@@ -8237,6 +8237,9 @@
     },
     "pages/vocab/yiyuan_医院.html": {
       "voices": {}
+    },
+    "pages/grammar/shitai_时态.html": {
+      "voices": {}
     }
   },
   "inline": {
@@ -102981,6 +102984,234 @@
     "735354c62d15ebd6": {
       "text": "院内",
       "pinyin": "yuàn nèi",
+      "kind": "section",
+      "voices": {}
+    },
+    "e234a41425c85baa": {
+      "text": "一无所有",
+      "pinyin": "yī wú suǒ yǒu",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "69530e5652fedc6d": {
+      "text": "不计其数",
+      "pinyin": "bù jì qí shù",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "30588a3aa130d2c9": {
+      "text": "屈指可数",
+      "pinyin": "qū zhǐ kě shǔ",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "19ed6ff79d13db91": {
+      "text": "都",
+      "pinyin": "dōu",
+      "kind": "compound",
+      "voices": {}
+    },
+    "ff27ad0fda109e76": {
+      "text": "每",
+      "pinyin": "měi",
+      "kind": "compound",
+      "voices": {}
+    },
+    "795576d650d03a92": {
+      "text": "所有 · 全部",
+      "pinyin": "suǒyǒu · quánbù",
+      "kind": "compound",
+      "voices": {}
+    },
+    "6baa8cd29ff7b7ff": {
+      "text": "全 · 整",
+      "pinyin": "quán · zhěng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "875440b71cb43335": {
+      "text": "任何",
+      "pinyin": "rènhé",
+      "kind": "compound",
+      "voices": {}
+    },
+    "6b499cad1476bd68": {
+      "text": "一些 · 有的 · 有些",
+      "pinyin": "yīxiē · yǒude · yǒuxiē",
+      "kind": "compound",
+      "voices": {}
+    },
+    "29846c53f97b6355": {
+      "text": "几 + 量词",
+      "pinyin": "jǐ + MW",
+      "kind": "compound",
+      "voices": {}
+    },
+    "c86c22c9a61ac894": {
+      "text": "一点儿 · 部分",
+      "pinyin": "yīdiǎnr · bùfen",
+      "kind": "compound",
+      "voices": {}
+    },
+    "540bdfb6f5a7a19d": {
+      "text": "很多 · 不少",
+      "pinyin": "hěn duō · bù shǎo",
+      "kind": "compound",
+      "voices": {}
+    },
+    "a18c7d11f4315e97": {
+      "text": "大多数 · 少数",
+      "pinyin": "dàduōshù · shǎoshù",
+      "kind": "compound",
+      "voices": {}
+    },
+    "892e8588afdae777": {
+      "text": "谁都 · 什么都 · 哪儿都",
+      "pinyin": "shéi dōu · shénme dōu · nǎr dōu",
+      "kind": "compound",
+      "voices": {}
+    },
+    "cc383e914bcccc4e": {
+      "text": "一 + 量词 + 也/都 + 不/没",
+      "pinyin": "yī + MW + yě/dōu + bù/méi",
+      "kind": "compound",
+      "voices": {}
+    },
+    "750a75667343ef8f": {
+      "text": "没有人 · 没有 + Noun",
+      "pinyin": "méiyǒu rén",
+      "kind": "compound",
+      "voices": {}
+    },
+    "6522b4a9a47b615a": {
+      "text": "全称量化",
+      "pinyin": "quánchēng liànghuà",
+      "kind": "section",
+      "voices": {}
+    },
+    "3b311c8460e71e74": {
+      "text": "部分量化",
+      "pinyin": "bùfen liànghuà",
+      "kind": "section",
+      "voices": {}
+    },
+    "92ec8bdb9c1869ca": {
+      "text": "多与少",
+      "pinyin": "duō yǔ shǎo",
+      "kind": "section",
+      "voices": {}
+    },
+    "1641aa3ae5bb2c07": {
+      "text": "全否定",
+      "pinyin": "quán fǒudìng",
+      "kind": "section",
+      "voices": {}
+    },
+    "b663a99a8ddefef1": {
+      "text": "都不 与 不都",
+      "pinyin": "dōu bù yǔ bù dōu",
+      "kind": "section",
+      "voices": {}
+    },
+    "04e48d3b50d9ccae": {
+      "text": "量化对照表",
+      "pinyin": "liànghuà duìzhào biǎo",
+      "kind": "section",
+      "voices": {}
+    },
+    "937aff05f716993d": {
+      "text": "事过境迁",
+      "pinyin": "shì guò jìng qiān",
+      "kind": "chengyu",
+      "voices": {}
+    },
+    "9077f84d8962cd5b": {
+      "text": "动词 + 了",
+      "pinyin": "le",
+      "kind": "compound",
+      "voices": {}
+    },
+    "c7e5f543e0ea1f3a": {
+      "text": "动词 + 过",
+      "pinyin": "guo",
+      "kind": "compound",
+      "voices": {}
+    },
+    "ad1ae5a838f14e32": {
+      "text": "是……的",
+      "pinyin": "shì … de",
+      "kind": "compound",
+      "voices": {}
+    },
+    "a731903cf67569a1": {
+      "text": "刚 · 已经 · 以前",
+      "pinyin": "gāng · yǐjīng · yǐqián",
+      "kind": "compound",
+      "voices": {}
+    },
+    "e63b80e17d32a761": {
+      "text": "光杆动词",
+      "pinyin": "guānggǎn dòngcí",
+      "kind": "compound",
+      "voices": {}
+    },
+    "7e606364fce3da1f": {
+      "text": "在 / 正在 + 动词 (……呢)",
+      "pinyin": "zài / zhèngzài … (ne)",
+      "kind": "compound",
+      "voices": {}
+    },
+    "eefa3c7e4c1de040": {
+      "text": "动词 + 着",
+      "pinyin": "zhe",
+      "kind": "compound",
+      "voices": {}
+    },
+    "e39e654c6e42295d": {
+      "text": "会",
+      "pinyin": "huì",
+      "kind": "compound",
+      "voices": {}
+    },
+    "b25f0041c164eabc": {
+      "text": "要 · 打算 · 准备",
+      "pinyin": "yào · dǎsuàn · zhǔnbèi",
+      "kind": "compound",
+      "voices": {}
+    },
+    "c10d31953cbee23f": {
+      "text": "快要……了 · 就要……了",
+      "pinyin": "kuàiyào … le · jiùyào … le",
+      "kind": "compound",
+      "voices": {}
+    },
+    "8f4b1424fa581a20": {
+      "text": "时间词 + 光杆动词",
+      "pinyin": "shíjiāncí + verb",
+      "kind": "compound",
+      "voices": {}
+    },
+    "ba05c4e417b1daed": {
+      "text": "昨天 · 今天 · 明天",
+      "pinyin": "zuótiān · jīntiān · míngtiān",
+      "kind": "compound",
+      "voices": {}
+    },
+    "4377e9aec23ae5e1": {
+      "text": "以前 · 现在 · 以后",
+      "pinyin": "yǐqián · xiànzài · yǐhòu",
+      "kind": "compound",
+      "voices": {}
+    },
+    "776b446aeea000ab": {
+      "text": "否定与时间",
+      "pinyin": "fǒudìng yǔ shíjiān",
+      "kind": "section",
+      "voices": {}
+    },
+    "a32b40c08244f06b": {
+      "text": "时态对照表",
+      "pinyin": "shítài duìzhào biǎo",
       "kind": "section",
       "voices": {}
     }
