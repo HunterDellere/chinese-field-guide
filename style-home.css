@@ -577,8 +577,14 @@
   }
 
   .recent-section { margin-bottom: 4rem; }
+  /* Flex layout (not grid) so a partial trailing row centers itself instead
+     of leaving orphan cards left-aligned under empty column tracks. Cards
+     still share a min-width and flex up to fill available space. */
   .recent-grid {
-    display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 0.9rem;
+    display: flex; flex-wrap: wrap; justify-content: center; gap: 0.9rem;
+  }
+  .recent-grid > .recent-card {
+    flex: 1 1 230px; min-width: 230px; max-width: 320px;
   }
   .recent-card {
     background: var(--papyrus-2); border: 1px solid var(--rule); border-radius: var(--radius-lg);
@@ -987,7 +993,8 @@
     .index-hero-title { font-size: 1.85rem; }
 
     .start-here-list { grid-template-columns: repeat(2, 1fr); }
-    .entry-grid, .recent-grid { grid-template-columns: repeat(auto-fill, minmax(175px, 1fr)); }
+    .entry-grid { grid-template-columns: repeat(auto-fill, minmax(175px, 1fr)); }
+    .recent-grid > .recent-card { flex-basis: 175px; min-width: 175px; }
     .families-section { padding: 1.25rem 1.1rem 1rem; }
     .filter-bar-hero .filter-search { font-size: 1rem; min-height: 44px; }
     .filter-shortcut-hint { display: none; }
